@@ -4,3 +4,4 @@
 - `img/logos/`: brand logos from [Simple Icons](https://github.com/simple-icons/simple-icons) 16.34.0 (CC0). The logos are trademarks of their owners; see Simple Icons' DISCLAIMER.md.
 
 `build.py` inlines these files into index.html as data URIs, so the web build and the APK stay single-file.
+- `art/`: category art, team mascots and home-screen art from Microsoft Fluent Emoji 3D via [@lobehub/fluent-emoji-3d](https://www.npmjs.com/package/@lobehub/fluent-emoji-3d) 1.1.0, MIT licence. `tools/mkart.py` maps categories to images; build.py inlines them.

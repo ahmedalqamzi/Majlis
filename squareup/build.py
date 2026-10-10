@@ -18,7 +18,9 @@ for c in bank.values():
     for q in c['questions']:
         if 'img' in q: q['img']='data:image/svg+xml;charset=utf-8,'+urllib.parse.quote(open(q['img']).read(),safe=" /:=,;")
 out=list(bank.values())
-t=open('majlis2.template.html').read().replace("__DATA__",json.dumps(out,ensure_ascii=False,separators=(',',':')))
+import base64
+art={os.path.basename(f)[:-5]:'data:image/webp;base64,'+base64.b64encode(open(f,'rb').read()).decode() for f in sorted(glob.glob('art/*.webp'))}
+t=open('majlis2.template.html').read().replace("__ART__",json.dumps(art)).replace("__DATA__",json.dumps(out,ensure_ascii=False,separators=(',',':')))
 open('index.html','w').write(t)
 open(os.path.join('..','majlis-android','app','src','main','assets','index.html'),'w').write(t)
 print(len(out),"cats",sum(len(b['questions']) for b in out),"q")
