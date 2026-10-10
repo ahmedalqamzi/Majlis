@@ -1,0 +1,524 @@
+{
+ "id": "anime",
+ "name": "Anime",
+ "questions": [
+  {
+   "q": "In Spirited Away, what type of building does the heroine Chihiro work in?",
+   "a": "A bathhouse",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the nine-tailed fox sealed inside Naruto?",
+   "a": "Kurama",
+   "p": 200
+  },
+  {
+   "q": "What is Goku's Saiyan birth name in Dragon Ball?",
+   "a": "Kakarot",
+   "p": 200
+  },
+  {
+   "q": "In Death Note, what is the name of the Shinigami who drops the notebook?",
+   "a": "Ryuk",
+   "p": 200
+  },
+  {
+   "q": "In Attack on Titan, what is the first name of the main protagonist Yeager?",
+   "a": "Eren",
+   "p": 200
+  },
+  {
+   "q": "In My Hero Academia, what hero nickname does Izuku Midoriya go by?",
+   "a": "Deku",
+   "p": 200
+  },
+  {
+   "q": "Who directed the film Spirited Away?",
+   "a": "Hayao Miyazaki",
+   "p": 200
+  },
+  {
+   "q": "In Fullmetal Alchemist, what are the first names of the two Elric brothers?",
+   "a": "Edward and Alphonse",
+   "p": 200
+  },
+  {
+   "q": "In Cowboy Bebop, what is the name of the data dog (a Welsh corgi)?",
+   "a": "Ein",
+   "p": 600
+  },
+  {
+   "q": "In Demon Slayer, what is the name of Tanjiro's younger sister?",
+   "a": "Nezuko",
+   "p": 200
+  },
+  {
+   "q": "In Hunter x Hunter, what is the surname shared by Gon and his father Ging?",
+   "a": "Freecss",
+   "p": 600
+  },
+  {
+   "q": "In Jujutsu Kaisen, which cursed object does Yuji Itadori swallow?",
+   "a": "Sukuna's finger",
+   "p": 200
+  },
+  {
+   "q": "Which animation studio produced Fullmetal Alchemist: Brotherhood?",
+   "a": "Bones",
+   "p": 600
+  },
+  {
+   "q": "In Neon Genesis Evangelion, which pilot is assigned to Unit-02?",
+   "a": "Asuka",
+   "p": 400
+  },
+  {
+   "q": "Which manga artist created Berserk?",
+   "a": "Kentaro Miura",
+   "p": 600
+  },
+  {
+   "q": "Which manga artist created Dragon Ball?",
+   "a": "Akira Toriyama",
+   "p": 200
+  },
+  {
+   "q": "In Steins;Gate, which character calls himself a mad scientist?",
+   "a": "Rintaro Okabe",
+   "p": 600
+  },
+  {
+   "q": "Which 1988 anime film directed by Katsuhiro Otomo is set in Neo-Tokyo?",
+   "a": "Akira",
+   "p": 400
+  },
+  {
+   "q": "In Naruto, what is the name of Naruto's home village?",
+   "a": "Hidden Leaf Village",
+   "p": 200
+  },
+  {
+   "q": "What is the name of Ash Ketchum's first Pokemon partner in the Pokemon anime?",
+   "a": "Pikachu",
+   "p": 200
+  },
+  {
+   "q": "What is the name of Goku's signature energy attack in Dragon Ball?",
+   "a": "Kamehameha",
+   "p": 200
+  },
+  {
+   "q": "In My Neighbor Totoro, what are the names of the two sisters?",
+   "a": "Satsuki and Mei",
+   "p": 400
+  },
+  {
+   "q": "In Death Note, what is the full name of the student who finds the Death Note?",
+   "a": "Light Yagami",
+   "p": 200
+  },
+  {
+   "q": "In Attack on Titan, what is Mikasa's surname?",
+   "a": "Ackerman",
+   "p": 400
+  },
+  {
+   "q": "In Demon Slayer, which breathing style does Tanjiro first learn?",
+   "a": "Water Breathing",
+   "p": 400
+  },
+  {
+   "q": "In Jujutsu Kaisen, what is Gojo's first name?",
+   "a": "Satoru",
+   "p": 200
+  },
+  {
+   "q": "In My Hero Academia, what is the name of the Quirk passed down from All Might to Deku?",
+   "a": "One For All",
+   "p": 200
+  },
+  {
+   "q": "What title does Naruto dream of earning?",
+   "a": "Hokage",
+   "p": 200
+  },
+  {
+   "q": "What is the Sailor Guardian name of Usagi Tsukino?",
+   "a": "Sailor Moon",
+   "p": 200
+  },
+  {
+   "q": "Which talking Pokemon is a member of Team Rocket alongside Jessie and James?",
+   "a": "Meowth",
+   "p": 200
+  },
+  {
+   "q": "In Detective Conan, what is the real name of the teenage detective who is shrunk into a child?",
+   "a": "Shinichi Kudo",
+   "p": 200
+  },
+  {
+   "q": "In Princess Mononoke, what is the name of the girl raised by wolves?",
+   "a": "San",
+   "p": 400
+  },
+  {
+   "q": "In Howl's Moving Castle, what is the name of the fire demon?",
+   "a": "Calcifer",
+   "p": 400
+  },
+  {
+   "q": "In Kiki's Delivery Service, what is the name of Kiki's black cat?",
+   "a": "Jiji",
+   "p": 200
+  },
+  {
+   "q": "In Dragon Ball, what is the name of Goku's first son?",
+   "a": "Gohan",
+   "p": 200
+  },
+  {
+   "q": "In Dragon Ball Z, what is Vegeta's royal title?",
+   "a": "Prince of all Saiyans",
+   "p": 200
+  },
+  {
+   "q": "In Attack on Titan, what is the name of the military branch that explores beyond the walls?",
+   "a": "Survey Corps",
+   "p": 200
+  },
+  {
+   "q": "In Naruto, which clan does Sasuke belong to?",
+   "a": "Uchiha",
+   "p": 200
+  },
+  {
+   "q": "In Fullmetal Alchemist, what is the core principle of alchemy?",
+   "a": "Equivalent Exchange",
+   "p": 200
+  },
+  {
+   "q": "In Demon Slayer, which breathing style does Zenitsu use?",
+   "a": "Thunder Breathing",
+   "p": 400
+  },
+  {
+   "q": "In the Pokemon anime, what is Ash's hometown?",
+   "a": "Pallet Town",
+   "p": 200
+  },
+  {
+   "q": "In Spirited Away, which witch runs the bathhouse?",
+   "a": "Yubaba",
+   "p": 400
+  },
+  {
+   "q": "In Captain Tsubasa, which sport do the characters play?",
+   "a": "Football (soccer)",
+   "p": 200
+  },
+  {
+   "q": "In Dragon Ball, what is the name of Goku's flying cloud?",
+   "a": "Flying Nimbus",
+   "p": 200
+  },
+  {
+   "q": "In Hunter x Hunter, who is Gon's silver-haired best friend?",
+   "a": "Killua",
+   "p": 400
+  },
+  {
+   "q": "In Naruto, who is the leader of Team 7?",
+   "a": "Kakashi",
+   "p": 200
+  },
+  {
+   "q": "In Naruto, which of the Legendary Sannin trains Naruto?",
+   "a": "Jiraiya",
+   "p": 400
+  },
+  {
+   "q": "In Naruto, who is Naruto's father?",
+   "a": "Minato Namikaze",
+   "p": 400
+  },
+  {
+   "q": "In Naruto, who is Sasuke's older brother?",
+   "a": "Itachi",
+   "p": 200
+  },
+  {
+   "q": "In Dragon Ball, what is the name of the home planet of the Saiyans?",
+   "a": "Planet Vegeta",
+   "p": 400
+  },
+  {
+   "q": "In Dragon Ball Z, which character defeats Cell?",
+   "a": "Gohan",
+   "p": 400
+  },
+  {
+   "q": "In Attack on Titan, what are the names of the three walls?",
+   "a": "Maria, Rose, and Sina",
+   "p": 400
+  },
+  {
+   "q": "In Attack on Titan, what is the name of the Armored Titan's human host?",
+   "a": "Reiner Braun",
+   "p": 400
+  },
+  {
+   "q": "In Death Note, what is the name of the elderly man who assists L?",
+   "a": "Watari",
+   "p": 600
+  },
+  {
+   "q": "In Death Note, which Shinigami is linked to Misa Amane?",
+   "a": "Rem",
+   "p": 400
+  },
+  {
+   "q": "In Demon Slayer, who is the main demon antagonist and first demon?",
+   "a": "Muzan Kibutsuji",
+   "p": 400
+  },
+  {
+   "q": "In Demon Slayer, what is the name of the elite swordsmen of the Demon Slayer Corps?",
+   "a": "Hashira",
+   "p": 400
+  },
+  {
+   "q": "In Jujutsu Kaisen, what is the name of the school Yuji Itadori attends?",
+   "a": "Tokyo Jujutsu High",
+   "p": 400
+  },
+  {
+   "q": "In Jujutsu Kaisen, what is Sukuna's nickname?",
+   "a": "King of Curses",
+   "p": 400
+  },
+  {
+   "q": "In My Hero Academia, what is the name of the hero school Deku attends?",
+   "a": "U.A. High School",
+   "p": 400
+  },
+  {
+   "q": "In My Hero Academia, what is Bakugo's first name?",
+   "a": "Katsuki",
+   "p": 400
+  },
+  {
+   "q": "In Hunter x Hunter, what is Killua's family name?",
+   "a": "Zoldyck",
+   "p": 400
+  },
+  {
+   "q": "In Fullmetal Alchemist, what is Roy Mustang's alchemist nickname?",
+   "a": "Flame Alchemist",
+   "p": 400
+  },
+  {
+   "q": "Which Studio Ghibli film features a giant fluffy Catbus?",
+   "a": "My Neighbor Totoro",
+   "p": 200
+  },
+  {
+   "q": "Who directed Grave of the Fireflies?",
+   "a": "Isao Takahata",
+   "p": 600
+  },
+  {
+   "q": "In the Pokemon anime, who is Ash's rival from Pallet Town?",
+   "a": "Gary Oak",
+   "p": 400
+  },
+  {
+   "q": "In the Pokemon anime, who is the Pokemon Professor of Pallet Town?",
+   "a": "Professor Oak",
+   "p": 200
+  },
+  {
+   "q": "In Detective Conan, what is the name of the criminal syndicate that shrinks Conan?",
+   "a": "Black Organization",
+   "p": 600
+  },
+  {
+   "q": "In Captain Tsubasa, what is the main hero's surname?",
+   "a": "Ozora",
+   "p": 400
+  },
+  {
+   "q": "In Grendizer, what is the name of the home planet of Duke Fleed?",
+   "a": "Fleed",
+   "p": 400
+  },
+  {
+   "q": "In Cowboy Bebop, what is Spike's surname?",
+   "a": "Spiegel",
+   "p": 400
+  },
+  {
+   "q": "In Neon Genesis Evangelion, what is the name of Shinji's father?",
+   "a": "Gendo Ikari",
+   "p": 400
+  },
+  {
+   "q": "In Sailor Moon, what is the civilian name of Tuxedo Mask?",
+   "a": "Mamoru Chiba",
+   "p": 600
+  },
+  {
+   "q": "In Attack on Titan, what is the name of Eren's father?",
+   "a": "Grisha Yeager",
+   "p": 600
+  },
+  {
+   "q": "In Attack on Titan, what is the name of Annie Leonhart's Titan form?",
+   "a": "Female Titan",
+   "p": 400
+  },
+  {
+   "q": "In Naruto, who is the Third Hokage?",
+   "a": "Hiruzen Sarutobi",
+   "p": 600
+  },
+  {
+   "q": "In Naruto, which hidden village is Gaara from?",
+   "a": "Hidden Sand Village (Sunagakure)",
+   "p": 600
+  },
+  {
+   "q": "In Dragon Ball, what is the name of Goku's older Saiyan brother?",
+   "a": "Raditz",
+   "p": 600
+  },
+  {
+   "q": "In Death Note, what is the name of Light's father?",
+   "a": "Soichiro Yagami",
+   "p": 600
+  },
+  {
+   "q": "In Demon Slayer: Mugen Train, which Hashira fights alongside Tanjiro?",
+   "a": "Kyojuro Rengoku",
+   "p": 400
+  },
+  {
+   "q": "In Demon Slayer, who is the Insect Hashira?",
+   "a": "Shinobu Kocho",
+   "p": 600
+  },
+  {
+   "q": "In Jujutsu Kaisen, what is the name of Gojo's signature Domain Expansion?",
+   "a": "Unlimited Void",
+   "p": 400
+  },
+  {
+   "q": "In Jujutsu Kaisen, what is the name of Megumi Fushiguro's cursed technique?",
+   "a": "Ten Shadows Technique",
+   "p": 600
+  },
+  {
+   "q": "In My Hero Academia, what is All Might's real name?",
+   "a": "Toshinori Yagi",
+   "p": 600
+  },
+  {
+   "q": "In My Hero Academia, who leads the League of Villains?",
+   "a": "Tomura Shigaraki",
+   "p": 400
+  },
+  {
+   "q": "In Hunter x Hunter, what is the name of the Chimera Ant King?",
+   "a": "Meruem",
+   "p": 600
+  },
+  {
+   "q": "In Hunter x Hunter, who is the leader of the Phantom Troupe?",
+   "a": "Chrollo Lucilfer",
+   "p": 600
+  },
+  {
+   "q": "In Fullmetal Alchemist, what is the name of the Elric brothers' father?",
+   "a": "Van Hohenheim",
+   "p": 600
+  },
+  {
+   "q": "Which Miyazaki film won the Academy Award for Best Animated Feature in 2024?",
+   "a": "The Boy and the Heron",
+   "p": 600
+  },
+  {
+   "q": "Who composed the music for Cowboy Bebop?",
+   "a": "Yoko Kanno",
+   "p": 600
+  },
+  {
+   "q": "In Neon Genesis Evangelion, what are the giant enemies attacking Tokyo-3 called?",
+   "a": "Angels",
+   "p": 400
+  },
+  {
+   "q": "Which studio animated the first three seasons of Attack on Titan?",
+   "a": "Wit Studio",
+   "p": 600
+  },
+  {
+   "q": "Which studio produced the Demon Slayer anime?",
+   "a": "Ufotable",
+   "p": 600
+  },
+  {
+   "q": "Who illustrated the Death Note manga?",
+   "a": "Takeshi Obata",
+   "p": 600
+  },
+  {
+   "q": "Which anime is this trailer for?",
+   "a": "Spy x Family",
+   "p": 200,
+   "yt": "6sosTNRw_uQ",
+   "start": 20,
+   "end": 45
+  },
+  {
+   "q": "Which anime is this trailer for?",
+   "a": "Earwig and the Witch",
+   "p": 600,
+   "yt": "Lk5YWIbwzRE",
+   "start": 20,
+   "end": 45
+  },
+  {
+   "q": "Which anime is this trailer for?",
+   "a": "Engage Kiss",
+   "p": 600,
+   "yt": "4WUZ_ncxOd0",
+   "start": 20,
+   "end": 45
+  },
+  {
+   "q": "Which anime is this trailer for?",
+   "a": "Fireworks",
+   "p": 600,
+   "yt": "bQxAnSKkqHA",
+   "start": 20,
+   "end": 45
+  },
+  {
+   "q": "Which anime is this trailer for?",
+   "a": "The Deer King",
+   "p": 600,
+   "yt": "CATC8jbD8So",
+   "start": 15,
+   "end": 40
+  },
+  {
+   "q": "Which anime is this trailer for?",
+   "a": "Only Yesterday",
+   "p": 600,
+   "yt": "5gSKk-wwLsY",
+   "start": 20,
+   "end": 45
+  }
+ ]
+}

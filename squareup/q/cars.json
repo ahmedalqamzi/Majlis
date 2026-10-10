@@ -1,0 +1,524 @@
+{
+ "id": "cars",
+ "name": "Cars",
+ "questions": [
+  {
+   "q": "Which Italian brand has a prancing horse as its logo?",
+   "a": "Ferrari",
+   "p": 200
+  },
+  {
+   "q": "Which German brand's logo is four interlinked rings?",
+   "a": "Audi",
+   "p": 200
+  },
+  {
+   "q": "Which car brand uses a three-pointed star as its logo?",
+   "a": "Mercedes-Benz",
+   "p": 200
+  },
+  {
+   "q": "Which Japanese company makes the Corolla?",
+   "a": "Toyota",
+   "p": 200
+  },
+  {
+   "q": "Which American company makes the Mustang?",
+   "a": "Ford",
+   "p": 200
+  },
+  {
+   "q": "Which electric car company, led by Elon Musk, makes the Model 3?",
+   "a": "Tesla",
+   "p": 200
+  },
+  {
+   "q": "Which Ford model, launched in 1908, helped put America on wheels?",
+   "a": "Model T",
+   "p": 200
+  },
+  {
+   "q": "Which Lamborghini supercar, built from 1974 to 1990, is known for its wedge shape and scissor doors?",
+   "a": "Countach",
+   "p": 400
+  },
+  {
+   "q": "Which car, driven by Marty McFly, served as a time machine in Back to the Future?",
+   "a": "DeLorean",
+   "p": 200
+  },
+  {
+   "q": "Which Volvo engineer invented the three-point seat belt in 1959?",
+   "a": "Nils Bohlin",
+   "p": 600
+  },
+  {
+   "q": "Which Japanese brand makes the GT-R sports car?",
+   "a": "Nissan",
+   "p": 400
+  },
+  {
+   "q": "Which German company makes the 911?",
+   "a": "Porsche",
+   "p": 200
+  },
+  {
+   "q": "Who patented the first practical gasoline-powered automobile in 1886?",
+   "a": "Karl Benz",
+   "p": 400
+  },
+  {
+   "q": "What does BMW stand for in German?",
+   "a": "Bayerische Motoren Werke",
+   "p": 400
+  },
+  {
+   "q": "In which Italian town is Ferrari headquartered?",
+   "a": "Maranello",
+   "p": 400
+  },
+  {
+   "q": "Which designer created the original Mini, launched in 1959?",
+   "a": "Alec Issigonis",
+   "p": 600
+  },
+  {
+   "q": "Which Italian brand uses a trident as its logo?",
+   "a": "Maserati",
+   "p": 400
+  },
+  {
+   "q": "Which Citroën, launched in 1948, was designed to carry two farmers and a basket of eggs across a ploughed field?",
+   "a": "Citroën 2CV",
+   "p": 600
+  },
+  {
+   "q": "Which Japanese brand makes the Civic?",
+   "a": "Honda",
+   "p": 200
+  },
+  {
+   "q": "Which German brand makes the Golf?",
+   "a": "Volkswagen",
+   "p": 200
+  },
+  {
+   "q": "Which Italian brand makes the Huracán?",
+   "a": "Lamborghini",
+   "p": 400
+  },
+  {
+   "q": "Which British brand makes the Defender off-roader?",
+   "a": "Land Rover",
+   "p": 200
+  },
+  {
+   "q": "Which Toyota sports car appeared in the 1967 Bond film You Only Live Twice?",
+   "a": "Toyota 2000GT",
+   "p": 600
+  },
+  {
+   "q": "What is the name of the third pedal, on the far left, in a manual car?",
+   "a": "Clutch",
+   "p": 200
+  },
+  {
+   "q": "What does EV stand for in the car world?",
+   "a": "Electric vehicle",
+   "p": 200
+  },
+  {
+   "q": "What does SUV stand for?",
+   "a": "Sport utility vehicle",
+   "p": 200
+  },
+  {
+   "q": "What is a car with a folding or removable roof called?",
+   "a": "Convertible",
+   "p": 200
+  },
+  {
+   "q": "Which Italian brand makes the 500 city car?",
+   "a": "Fiat",
+   "p": 200
+  },
+  {
+   "q": "Which animal appears on the Lamborghini logo?",
+   "a": "Bull",
+   "p": 200
+  },
+  {
+   "q": "Which French brand makes the 208?",
+   "a": "Peugeot",
+   "p": 400
+  },
+  {
+   "q": "Which British luxury brand makes the Phantom?",
+   "a": "Rolls-Royce",
+   "p": 200
+  },
+  {
+   "q": "Which British brand made James Bond's DB5?",
+   "a": "Aston Martin",
+   "p": 200
+  },
+  {
+   "q": "What colour is Ferrari's traditional racing colour?",
+   "a": "Red",
+   "p": 200
+  },
+  {
+   "q": "Which German brand has a blue and white roundel logo?",
+   "a": "BMW",
+   "p": 200
+  },
+  {
+   "q": "Which American brand makes the Corvette?",
+   "a": "Chevrolet",
+   "p": 200
+  },
+  {
+   "q": "In which year was the first Le Mans 24 Hours held?",
+   "a": "1923",
+   "p": 600
+  },
+  {
+   "q": "What is a two-door car with a sloping roofline usually called?",
+   "a": "Coupe",
+   "p": 200
+  },
+  {
+   "q": "Which Pixar film stars a race car named Lightning McQueen?",
+   "a": "Cars",
+   "p": 200
+  },
+  {
+   "q": "Which flag is waved to signal the end of a race?",
+   "a": "Chequered flag",
+   "p": 200
+  },
+  {
+   "q": "Which racing series includes the Monaco Grand Prix?",
+   "a": "Formula 1",
+   "p": 200
+  },
+  {
+   "q": "Which Japanese brand makes the MX-5 roadster?",
+   "a": "Mazda",
+   "p": 400
+  },
+  {
+   "q": "Which animal appears on the Peugeot logo?",
+   "a": "Lion",
+   "p": 200
+  },
+  {
+   "q": "What do you turn to steer a car?",
+   "a": "Steering wheel",
+   "p": 200
+  },
+  {
+   "q": "What do electric cars use to store energy?",
+   "a": "Battery",
+   "p": 200
+  },
+  {
+   "q": "Which safety device inflates in a crash to protect passengers?",
+   "a": "Airbag",
+   "p": 200
+  },
+  {
+   "q": "Which British driver won the 1955 Mille Miglia for Mercedes-Benz in record time?",
+   "a": "Stirling Moss",
+   "p": 600
+  },
+  {
+   "q": "Which American brand uses a blue oval as its logo?",
+   "a": "Ford",
+   "p": 200
+  },
+  {
+   "q": "Which country is the supercar maker Koenigsegg from?",
+   "a": "Sweden",
+   "p": 400
+  },
+  {
+   "q": "In which Alsace town did Bugatti set up its factory in 1909?",
+   "a": "Molsheim",
+   "p": 600
+  },
+  {
+   "q": "Which Czech brand, part of the Volkswagen Group, makes the Octavia?",
+   "a": "Skoda",
+   "p": 400
+  },
+  {
+   "q": "Which Japanese brand uses three diamonds as its logo?",
+   "a": "Mitsubishi",
+   "p": 400
+  },
+  {
+   "q": "What does ABS stand for in car brakes?",
+   "a": "Anti-lock braking system",
+   "p": 200
+  },
+  {
+   "q": "What does GT stand for in a car name such as Gran Turismo?",
+   "a": "Grand Touring",
+   "p": 400
+  },
+  {
+   "q": "Which Mazda won the 1991 Le Mans 24 Hours, the first Japanese-built winner and the only rotary-engined one?",
+   "a": "Mazda 787B",
+   "p": 600
+  },
+  {
+   "q": "Which German city is home to Audi's headquarters?",
+   "a": "Ingolstadt",
+   "p": 600
+  },
+  {
+   "q": "Which Modena-born racing driver founded the company that built the 125 S in 1947?",
+   "a": "Enzo Ferrari",
+   "p": 200
+  },
+  {
+   "q": "Which British brand makes the Elise and Evora?",
+   "a": "Lotus",
+   "p": 400
+  },
+  {
+   "q": "Which British brand built the P1 and the 720S?",
+   "a": "McLaren",
+   "p": 400
+  },
+  {
+   "q": "In which year was the Ford Mustang introduced?",
+   "a": "1964",
+   "p": 400
+  },
+  {
+   "q": "Which Italian designer drew the first-generation Volkswagen Golf?",
+   "a": "Giorgetto Giugiaro",
+   "p": 600
+  },
+  {
+   "q": "Which French town hosts a famous 24-hour endurance race?",
+   "a": "Le Mans",
+   "p": 400
+  },
+  {
+   "q": "Which German driver won five consecutive F1 titles from 2000 to 2004?",
+   "a": "Michael Schumacher",
+   "p": 200
+  },
+  {
+   "q": "Which engineer designed the V12 engine of the first Ferrari, the 125 S?",
+   "a": "Gioacchino Colombo",
+   "p": 600
+  },
+  {
+   "q": "Which Italian brand makes the Giulia?",
+   "a": "Alfa Romeo",
+   "p": 400
+  },
+  {
+   "q": "Which Italian brand's logo includes a serpent known as the Biscione?",
+   "a": "Alfa Romeo",
+   "p": 600
+  },
+  {
+   "q": "Which engineer designed the original Volkswagen Beetle?",
+   "a": "Ferdinand Porsche",
+   "p": 400
+  },
+  {
+   "q": "Which British luxury brand, owned by the Volkswagen Group, makes the Continental GT?",
+   "a": "Bentley",
+   "p": 400
+  },
+  {
+   "q": "Which Ford race car won Le Mans four years in a row from 1966?",
+   "a": "GT40",
+   "p": 400
+  },
+  {
+   "q": "Which German engineer invented the rotary engine used in the Mazda RX-7?",
+   "a": "Felix Wankel",
+   "p": 600
+  },
+  {
+   "q": "Which Italian circuit is nicknamed the Temple of Speed?",
+   "a": "Monza",
+   "p": 400
+  },
+  {
+   "q": "Which Swiss-born racing driver co-founded a US car brand in 1911 with William Durant?",
+   "a": "Louis Chevrolet",
+   "p": 600
+  },
+  {
+   "q": "Which Frenchman built a steam-powered road vehicle in 1769?",
+   "a": "Nicolas-Joseph Cugnot",
+   "p": 600
+  },
+  {
+   "q": "What does the name Fiat stand for?",
+   "a": "Fabbrica Italiana Automobili Torino",
+   "p": 600
+  },
+  {
+   "q": "What does the Latin word 'Audi' mean in English?",
+   "a": "Listen",
+   "p": 600
+  },
+  {
+   "q": "What was Ferruccio Lamborghini's original business before making cars?",
+   "a": "Tractors",
+   "p": 400
+  },
+  {
+   "q": "What does GTO stand for in Ferrari 250 GTO?",
+   "a": "Gran Turismo Omologato",
+   "p": 600
+  },
+  {
+   "q": "What do the letters AMG stand for?",
+   "a": "Aufrecht, Melcher, Großaspach",
+   "p": 600
+  },
+  {
+   "q": "In which year did Juan Manuel Fangio win his fifth and final F1 world title?",
+   "a": "1957",
+   "p": 600
+  },
+  {
+   "q": "In which year did Ford introduce its moving assembly line?",
+   "a": "1913",
+   "p": 600
+  },
+  {
+   "q": "What engine layout does the Bugatti Veyron use?",
+   "a": "W16",
+   "p": 400
+  },
+  {
+   "q": "Which Italian design house styled many Ferrari road cars from the 1950s?",
+   "a": "Pininfarina",
+   "p": 400
+  },
+  {
+   "q": "Which aerodynamicist designed the Jaguar E-Type?",
+   "a": "Malcolm Sayer",
+   "p": 600
+  },
+  {
+   "q": "Which Bertone designer drew the Lamborghini Countach?",
+   "a": "Marcello Gandini",
+   "p": 600
+  },
+  {
+   "q": "Who founded Lotus Cars?",
+   "a": "Colin Chapman",
+   "p": 400
+  },
+  {
+   "q": "Which McLaren road car, designed by Gordon Murray, has a central driving seat?",
+   "a": "McLaren F1",
+   "p": 400
+  },
+  {
+   "q": "Which 1948 American car designed by Preston Tucker had a central headlight?",
+   "a": "Tucker 48",
+   "p": 600
+  },
+  {
+   "q": "What does DOHC stand for in engine design?",
+   "a": "Double overhead camshaft",
+   "p": 400
+  },
+  {
+   "q": "What nickname did Jackie Stewart give the Nürburgring Nordschleife?",
+   "a": "The Green Hell",
+   "p": 600
+  },
+  {
+   "q": "Which Audi model, launched in 1980, popularised permanent all-wheel drive in rallying?",
+   "a": "Quattro",
+   "p": 400
+  },
+  {
+   "q": "Which Citroën model, launched in 1955, was famed for its hydropneumatic suspension and futuristic styling?",
+   "a": "DS",
+   "p": 400
+  },
+  {
+   "q": "What is the name of the Rolls-Royce bonnet mascot?",
+   "a": "Spirit of Ecstasy",
+   "p": 400
+  },
+  {
+   "q": "What did the initials W.O. stand for in the name of Bentley's founder, W. O. Bentley?",
+   "a": "Walter Owen",
+   "p": 600
+  },
+  {
+   "q": "Which Italian open-road race, run from Brescia to Rome and back until 1957, was a classic of sports-car racing?",
+   "a": "Mille Miglia",
+   "p": 400
+  },
+  {
+   "q": "What does the name Saab stand for, in Swedish?",
+   "a": "Svenska Aeroplan Aktiebolaget",
+   "p": 600
+  },
+  {
+   "q": "Which Porsche model is being revealed in this clip?",
+   "a": "911 GT3 RS",
+   "p": 600,
+   "yt": "8UgJCF_a0F8",
+   "start": 30,
+   "end": 55
+  },
+  {
+   "q": "Which Mercedes-AMG sports car is being premiered in this clip?",
+   "a": "AMG GT",
+   "p": 400,
+   "yt": "S6IHdPSIp90",
+   "start": 20,
+   "end": 45
+  },
+  {
+   "q": "Which Lamborghini plug-in hybrid V12 supercar is shown in this clip?",
+   "a": "Revuelto",
+   "p": 400,
+   "yt": "sitXeGjm4Mc",
+   "start": 20,
+   "end": 45
+  },
+  {
+   "q": "Which legendary driver is completing this famous opening lap of the 1993 European Grand Prix?",
+   "a": "Ayrton Senna",
+   "p": 400,
+   "yt": "pktF3wJKfxo",
+   "start": 10,
+   "end": 40
+  },
+  {
+   "q": "Which special Mercedes-AMG model is premiered in this clip?",
+   "a": "AMG GT Black Series",
+   "p": 600,
+   "yt": "RWH0eNAf8ew",
+   "start": 20,
+   "end": 45
+  },
+  {
+   "q": "Which four-door Mercedes-AMG model is revealed in this clip?",
+   "a": "AMG GT 4-Door Coupé",
+   "p": 600,
+   "yt": "m0Vf6XukXqU",
+   "start": 20,
+   "end": 45
+  }
+ ]
+}

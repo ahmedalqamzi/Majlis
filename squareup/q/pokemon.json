@@ -1,0 +1,518 @@
+{
+ "id": "pokemon",
+ "name": "Pokemon",
+ "questions": [
+  {
+   "q": "Which Pokemon is Ash Ketchum's most famous partner?",
+   "a": "Pikachu",
+   "p": 200
+  },
+  {
+   "q": "Which Pokemon is number 1 in the National Pokedex?",
+   "a": "Bulbasaur",
+   "p": 200
+  },
+  {
+   "q": "Which Pokemon is number 151 in the National Pokedex?",
+   "a": "Mew",
+   "p": 200
+  },
+  {
+   "q": "Which Pokemon does Pikachu evolve into?",
+   "a": "Raichu",
+   "p": 200
+  },
+  {
+   "q": "Which evolution stone turns Pikachu into Raichu?",
+   "a": "Thunder Stone",
+   "p": 200
+  },
+  {
+   "q": "What is Charmander's final evolution?",
+   "a": "Charizard",
+   "p": 200
+  },
+  {
+   "q": "What type is Squirtle?",
+   "a": "Water",
+   "p": 200
+  },
+  {
+   "q": "Which region is the setting of Pokemon Red and Blue?",
+   "a": "Kanto",
+   "p": 200
+  },
+  {
+   "q": "What is Ash's hometown called?",
+   "a": "Pallet Town",
+   "p": 200
+  },
+  {
+   "q": "Which Pokemon talks in Team Rocket's trio?",
+   "a": "Meowth",
+   "p": 200
+  },
+  {
+   "q": "Which professor gives starters to new trainers in Kanto?",
+   "a": "Professor Oak",
+   "p": 200
+  },
+  {
+   "q": "Which sleepy Pokemon often blocks the path in Kanto?",
+   "a": "Snorlax",
+   "p": 200
+  },
+  {
+   "q": "Which Pokemon does Magikarp evolve into?",
+   "a": "Gyarados",
+   "p": 200
+  },
+  {
+   "q": "What is the basic item used to catch Pokemon?",
+   "a": "Poke Ball",
+   "p": 200
+  },
+  {
+   "q": "Which Japanese studio has developed the main Pokemon games since 1996?",
+   "a": "Game Freak",
+   "p": 200
+  },
+  {
+   "q": "Who created Pokemon?",
+   "a": "Satoshi Tajiri",
+   "p": 200
+  },
+  {
+   "q": "Which Pokemon was Mewtwo cloned from?",
+   "a": "Mew",
+   "p": 200
+  },
+  {
+   "q": "Which Kanto legendary bird is Electric type?",
+   "a": "Zapdos",
+   "p": 200
+  },
+  {
+   "q": "Which Eevee evolution is Fire type?",
+   "a": "Flareon",
+   "p": 200
+  },
+  {
+   "q": "Who is Ash's rival in the Kanto anime?",
+   "a": "Gary Oak",
+   "p": 200
+  },
+  {
+   "q": "What type does Pewter City Gym Leader Brock use?",
+   "a": "Rock",
+   "p": 200
+  },
+  {
+   "q": "What type does Cerulean City Gym Leader Misty use?",
+   "a": "Water",
+   "p": 200
+  },
+  {
+   "q": "Which Water starter appears in Pokemon Gold and Silver?",
+   "a": "Totodile",
+   "p": 200
+  },
+  {
+   "q": "Which region is home to Pokemon Ruby and Sapphire?",
+   "a": "Hoenn",
+   "p": 200
+  },
+  {
+   "q": "Which real-world place inspired the Alola region?",
+   "a": "Hawaii",
+   "p": 200
+  },
+  {
+   "q": "Which company developed the mobile game Pokemon Go?",
+   "a": "Niantic",
+   "p": 200
+  },
+  {
+   "q": "What does Jigglypuff's song do to listeners?",
+   "a": "Puts them to sleep",
+   "p": 200
+  },
+  {
+   "q": "What is the group of four top trainers before the Champion called?",
+   "a": "Elite Four",
+   "p": 200
+  },
+  {
+   "q": "Which region is the setting of Scarlet and Violet?",
+   "a": "Paldea",
+   "p": 200
+  },
+  {
+   "q": "Which region is the setting of Gold and Silver?",
+   "a": "Johto",
+   "p": 200
+  },
+  {
+   "q": "Which two characters make up Team Rocket's main duo?",
+   "a": "Jessie and James",
+   "p": 200
+  },
+  {
+   "q": "Which energy type does Pikachu use in the Pokemon TCG?",
+   "a": "Lightning",
+   "p": 200
+  },
+  {
+   "q": "Which Psychic Pokemon does Abra evolve into?",
+   "a": "Kadabra",
+   "p": 200
+  },
+  {
+   "q": "This trailer shows the cover legendary of Scarlet. Which Pokemon is it?",
+   "a": "Koraidon",
+   "p": 200,
+   "yt": "1OsAunHsY48",
+   "start": 20,
+   "end": 40
+  },
+  {
+   "q": "This reveal trailer introduces which region, home to Sword and Shield?",
+   "a": "Galar",
+   "p": 200,
+   "yt": "fKiz265SMME",
+   "start": 20,
+   "end": 40
+  },
+  {
+   "q": "Which region is the setting of Diamond and Pearl?",
+   "a": "Sinnoh",
+   "p": 400
+  },
+  {
+   "q": "Which region is the setting of Black and White?",
+   "a": "Unova",
+   "p": 400
+  },
+  {
+   "q": "Which region is the setting of X and Y?",
+   "a": "Kalos",
+   "p": 400
+  },
+  {
+   "q": "What is Charmander's National Pokedex number?",
+   "a": "4",
+   "p": 400
+  },
+  {
+   "q": "What is Eevee's National Pokedex number?",
+   "a": "133",
+   "p": 400
+  },
+  {
+   "q": "What is Dragonite's National Pokedex number?",
+   "a": "149",
+   "p": 400
+  },
+  {
+   "q": "How does Haunter evolve into Gengar?",
+   "a": "Trading",
+   "p": 400
+  },
+  {
+   "q": "Which type is immune to Normal-type moves?",
+   "a": "Ghost",
+   "p": 400
+  },
+  {
+   "q": "Which type is immune to Electric-type moves?",
+   "a": "Ground",
+   "p": 400
+  },
+  {
+   "q": "Which type was introduced in Generation 6?",
+   "a": "Fairy",
+   "p": 400
+  },
+  {
+   "q": "Which type deals 4x damage to Charizard?",
+   "a": "Rock",
+   "p": 400
+  },
+  {
+   "q": "Who is the Viridian City Gym Leader and Team Rocket boss?",
+   "a": "Giovanni",
+   "p": 400
+  },
+  {
+   "q": "Who is the Vermilion City Gym Leader who uses Electric types?",
+   "a": "Lt. Surge",
+   "p": 400
+  },
+  {
+   "q": "Who is the Psychic-type Gym Leader of Saffron City?",
+   "a": "Sabrina",
+   "p": 400
+  },
+  {
+   "q": "Who is the Champion in Red and Blue?",
+   "a": "Blue",
+   "p": 400
+  },
+  {
+   "q": "Who is the Champion of the Sinnoh region?",
+   "a": "Cynthia",
+   "p": 400
+  },
+  {
+   "q": "Who is the Champion of the Galar region?",
+   "a": "Leon",
+   "p": 400
+  },
+  {
+   "q": "Which Hoenn Water starter evolves into Swampert?",
+   "a": "Mudkip",
+   "p": 400
+  },
+  {
+   "q": "Which Water-type penguin is a Sinnoh starter?",
+   "a": "Piplup",
+   "p": 400
+  },
+  {
+   "q": "What was the first Pokemon Ash caught in the anime?",
+   "a": "Caterpie",
+   "p": 400
+  },
+  {
+   "q": "In which region did Ash win his first Pokemon League title?",
+   "a": "Alola",
+   "p": 400
+  },
+  {
+   "q": "How many Pokemon are in Generation 1?",
+   "a": "151",
+   "p": 400
+  },
+  {
+   "q": "Which games introduced Mega Evolution?",
+   "a": "X and Y",
+   "p": 400
+  },
+  {
+   "q": "Which Pokemon is on the cover of Gold?",
+   "a": "Ho-Oh",
+   "p": 400
+  },
+  {
+   "q": "Which Pokemon is on the cover of Ruby?",
+   "a": "Groudon",
+   "p": 400
+  },
+  {
+   "q": "Which Pokemon is on the cover of Diamond?",
+   "a": "Dialga",
+   "p": 400
+  },
+  {
+   "q": "What are the three main card categories in the Pokemon TCG?",
+   "a": "Pokemon, Trainer, Energy",
+   "p": 400
+  },
+  {
+   "q": "In which year did the English Base Set release in the US?",
+   "a": "1999",
+   "p": 400
+  },
+  {
+   "q": "What is the card number of Base Set Charizard?",
+   "a": "4/102",
+   "p": 400
+  },
+  {
+   "q": "What is the top PSA grade of 10 called?",
+   "a": "Gem Mint",
+   "p": 400
+  },
+  {
+   "q": "What is the numeric range of the PSA grading scale?",
+   "a": "1 to 10",
+   "p": 400
+  },
+  {
+   "q": "Which region is the setting of Pokemon Legends: Arceus?",
+   "a": "Hisui",
+   "p": 400
+  },
+  {
+   "q": "Which Nintendo console had the original Pokemon Snap?",
+   "a": "Nintendo 64",
+   "p": 400
+  },
+  {
+   "q": "This trailer announces a Legends game set in which city?",
+   "a": "Lumiose City",
+   "p": 400,
+   "yt": "LLKXN-2XqQQ",
+   "start": 20,
+   "end": 40
+  },
+  {
+   "q": "In this overview trailer, which giant-size battle mechanic is shown for Sword and Shield?",
+   "a": "Dynamax",
+   "p": 400,
+   "yt": "jHUD5FAFZeI",
+   "start": 20,
+   "end": 40
+  },
+  {
+   "q": "What is Lucario's National Pokedex number?",
+   "a": "448",
+   "p": 600
+  },
+  {
+   "q": "What is Garchomp's National Pokedex number?",
+   "a": "445",
+   "p": 600
+  },
+  {
+   "q": "What is Gardevoir's National Pokedex number?",
+   "a": "282",
+   "p": 600
+  },
+  {
+   "q": "What is Tyranitar's National Pokedex number?",
+   "a": "248",
+   "p": 600
+  },
+  {
+   "q": "What is Rayquaza's National Pokedex number?",
+   "a": "384",
+   "p": 600
+  },
+  {
+   "q": "What is Umbreon's National Pokedex number?",
+   "a": "197",
+   "p": 600
+  },
+  {
+   "q": "What is Greninja's National Pokedex number?",
+   "a": "658",
+   "p": 600
+  },
+  {
+   "q": "What is Mimikyu's National Pokedex number?",
+   "a": "778",
+   "p": 600
+  },
+  {
+   "q": "Which type does Sinnoh's first Gym Leader Roark use?",
+   "a": "Rock",
+   "p": 600
+  },
+  {
+   "q": "Which Goldenrod City Gym Leader uses a Miltank?",
+   "a": "Whitney",
+   "p": 600
+  },
+  {
+   "q": "Which Dragon-type specialist is a Galar Gym Leader?",
+   "a": "Raihan",
+   "p": 600
+  },
+  {
+   "q": "Who leads the Sootopolis Gym in Pokemon Emerald?",
+   "a": "Wallace",
+   "p": 600
+  },
+  {
+   "q": "Which company published the English Pokemon TCG from 1999?",
+   "a": "Wizards of the Coast",
+   "p": 600
+  },
+  {
+   "q": "Who illustrated the Base Set Charizard card?",
+   "a": "Mitsuhiro Arita",
+   "p": 600
+  },
+  {
+   "q": "Who illustrated the Pikachu Illustrator card?",
+   "a": "Atsuko Nishida",
+   "p": 600
+  },
+  {
+   "q": "What term describes early Base Set prints without a drop shadow on the art frame?",
+   "a": "Shadowless",
+   "p": 600
+  },
+  {
+   "q": "In which year was PSA founded?",
+   "a": "1991",
+   "p": 600
+  },
+  {
+   "q": "What is the PSA name for grade 9?",
+   "a": "Mint",
+   "p": 600
+  },
+  {
+   "q": "What is the PSA name for grade 8?",
+   "a": "Near Mint-Mint",
+   "p": 600
+  },
+  {
+   "q": "Who is the Game Freak art director behind the original 151 designs?",
+   "a": "Ken Sugimori",
+   "p": 600
+  },
+  {
+   "q": "Which Game Freak composer and director worked on the music of Red and Green?",
+   "a": "Junichi Masuda",
+   "p": 600
+  },
+  {
+   "q": "Who are the main protagonists of the anime Pokemon Horizons?",
+   "a": "Liko and Roy",
+   "p": 600
+  },
+  {
+   "q": "Which 1997 anime episode caused viewer seizures in Japan?",
+   "a": "Electric Soldier Porygon",
+   "p": 600
+  },
+  {
+   "q": "Who voiced Ash in the original Japanese anime?",
+   "a": "Rica Matsumoto",
+   "p": 600
+  },
+  {
+   "q": "Who first voiced Ash in the English dub?",
+   "a": "Veronica Taylor",
+   "p": 600
+  },
+  {
+   "q": "Which three companies own The Pokemon Company?",
+   "a": "Nintendo, Game Freak, Creatures",
+   "p": 600
+  },
+  {
+   "q": "What is the famous glitch Pokemon of Red and Blue?",
+   "a": "MissingNo.",
+   "p": 600
+  },
+  {
+   "q": "Which two types is Chi-Yu from the Treasures of Ruin?",
+   "a": "Dark and Fire",
+   "p": 600
+  },
+  {
+   "q": "Which Alola guardian deity protects Melemele Island?",
+   "a": "Tapu Koko",
+   "p": 600
+  },
+  {
+   "q": "Which set followed Base Set as the first English expansion?",
+   "a": "Jungle",
+   "p": 600
+  }
+ ]
+}

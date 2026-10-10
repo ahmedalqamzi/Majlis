@@ -1,0 +1,781 @@
+{
+ "id": "naruto",
+ "name": "Naruto",
+ "questions": [
+  {
+   "q": "Which village is Naruto Uzumaki's home?",
+   "a": "Hidden Leaf Village",
+   "p": 200,
+   "alt": [
+    "Konoha",
+    "Konohagakure",
+    "Leaf Village"
+   ]
+  },
+  {
+   "q": "What is the name of the Nine-Tailed Fox sealed inside Naruto?",
+   "a": "Kurama",
+   "p": 200,
+   "alt": [
+    "Kyuubi",
+    "Nine-Tails",
+    "Kyubi"
+   ]
+  },
+  {
+   "q": "Which signature technique lets Naruto create solid copies of himself?",
+   "a": "Shadow Clone Jutsu",
+   "p": 200,
+   "alt": [
+    "Kage Bunshin",
+    "Shadow Clones"
+   ]
+  },
+  {
+   "q": "Which clan do Sasuke and Itachi belong to?",
+   "a": "Uchiha",
+   "p": 200,
+   "alt": [
+    "Uchiha clan"
+   ]
+  },
+  {
+   "q": "What is the Uchiha clan's famous dojutsu (eye power) called?",
+   "a": "Sharingan",
+   "p": 200
+  },
+  {
+   "q": "Who is the masked, silver-haired leader of Team 7?",
+   "a": "Kakashi Hatake",
+   "p": 200,
+   "alt": [
+    "Kakashi"
+   ]
+  },
+  {
+   "q": "Which pink-haired kunoichi is on Team 7?",
+   "a": "Sakura Haruno",
+   "p": 200,
+   "alt": [
+    "Sakura"
+   ]
+  },
+  {
+   "q": "What title does Naruto dream of earning?",
+   "a": "Hokage",
+   "p": 200
+  },
+  {
+   "q": "Who is Sasuke's older brother?",
+   "a": "Itachi Uchiha",
+   "p": 200,
+   "alt": [
+    "Itachi"
+   ]
+  },
+  {
+   "q": "What pattern is on the black cloaks of the Akatsuki?",
+   "a": "Red clouds",
+   "p": 200,
+   "alt": [
+    "Red cloud"
+   ]
+  },
+  {
+   "q": "Who is Naruto's father?",
+   "a": "Minato Namikaze",
+   "p": 200,
+   "alt": [
+    "Minato",
+    "Fourth Hokage"
+   ]
+  },
+  {
+   "q": "Which Sannin trains Naruto during the time skip?",
+   "a": "Jiraiya",
+   "p": 200,
+   "alt": [
+    "Jiraiya the Toad Sage"
+   ]
+  },
+  {
+   "q": "Who is the Third Hokage?",
+   "a": "Hiruzen Sarutobi",
+   "p": 200,
+   "alt": [
+    "Hiruzen",
+    "Sarutobi"
+   ]
+  },
+  {
+   "q": "Who becomes the Fifth Hokage?",
+   "a": "Tsunade",
+   "p": 200,
+   "alt": [
+    "Lady Tsunade",
+    "Tsunade Senju"
+   ]
+  },
+  {
+   "q": "What is the Hyuga clan's eye ability called?",
+   "a": "Byakugan",
+   "p": 200
+  },
+  {
+   "q": "Which green-jumpsuited ninja uses only taijutsu?",
+   "a": "Rock Lee",
+   "p": 200,
+   "alt": [
+    "Lee"
+   ]
+  },
+  {
+   "q": "Which village does Gaara come from?",
+   "a": "Hidden Sand Village",
+   "p": 200,
+   "alt": [
+    "Sunagakure",
+    "Suna",
+    "Sand Village"
+   ]
+  },
+  {
+   "q": "Which former Leaf Sannin founded the Hidden Sound Village?",
+   "a": "Orochimaru",
+   "p": 200
+  },
+  {
+   "q": "How many tailed beasts exist in total?",
+   "a": "Nine",
+   "p": 200,
+   "alt": [
+    "9"
+   ]
+  },
+  {
+   "q": "Which lightning-based technique is Kakashi famous for?",
+   "a": "Chidori",
+   "p": 200,
+   "alt": [
+    "Raikiri"
+   ]
+  },
+  {
+   "q": "Which clan does Hinata belong to?",
+   "a": "Hyuga",
+   "p": 200,
+   "alt": [
+    "Hyuga clan",
+    "Hyuuga"
+   ]
+  },
+  {
+   "q": "Which lazy but genius Leaf ninja uses a shadow technique?",
+   "a": "Shikamaru Nara",
+   "p": 200,
+   "alt": [
+    "Shikamaru"
+   ]
+  },
+  {
+   "q": "Which ramen shop does Naruto love?",
+   "a": "Ichiraku",
+   "p": 200,
+   "alt": [
+    "Ichiraku Ramen"
+   ]
+  },
+  {
+   "q": "Who created the Naruto manga?",
+   "a": "Masashi Kishimoto",
+   "p": 200,
+   "alt": [
+    "Kishimoto"
+   ]
+  },
+  {
+   "q": "Who is Naruto's Academy teacher who first acknowledges him?",
+   "a": "Iruka Umino",
+   "p": 200,
+   "alt": [
+    "Iruka"
+   ]
+  },
+  {
+   "q": "Which Akatsuki leader, wielding the Rinnegan, devastates the Leaf Village in the arc named after his alias?",
+   "a": "Pain",
+   "p": 200,
+   "alt": [
+    "Nagato",
+    "Pain Tendo"
+   ]
+  },
+  {
+   "q": "Who is the First Hokage?",
+   "a": "Hashirama Senju",
+   "p": 200,
+   "alt": [
+    "Hashirama"
+   ]
+  },
+  {
+   "q": "Which mode lets Naruto absorb natural energy to boost his power?",
+   "a": "Sage Mode",
+   "p": 200
+  },
+  {
+   "q": "What nickname does Kakashi have for copying many techniques?",
+   "a": "Copy Ninja",
+   "p": 200,
+   "alt": [
+    "Copy Ninja Kakashi"
+   ]
+  },
+  {
+   "q": "What exam promotes genin to chunin?",
+   "a": "Chunin Exams",
+   "p": 200,
+   "alt": [
+    "Chunin Exam"
+   ]
+  },
+  {
+   "q": "Whom does Naruto marry?",
+   "a": "Hinata Hyuga",
+   "p": 200,
+   "alt": [
+    "Hinata"
+   ]
+  },
+  {
+   "q": "Which animal does Naruto summon to fight?",
+   "a": "Toads",
+   "p": 200,
+   "alt": [
+    "Toad",
+    "Frogs"
+   ]
+  },
+  {
+   "q": "Which green-clad jonin leads Team Guy and Rock Lee?",
+   "a": "Might Guy",
+   "p": 200,
+   "alt": [
+    "Guy",
+    "Gai",
+    "Maito Gai"
+   ]
+  },
+  {
+   "q": "What is the name of Naruto's son in the sequel series?",
+   "a": "Boruto Uzumaki",
+   "p": 200,
+   "alt": [
+    "Boruto"
+   ]
+  },
+  {
+   "q": "What color is Naruto's iconic jumpsuit?",
+   "a": "Orange",
+   "p": 200
+  },
+  {
+   "q": "Which tailed beast is sealed inside Gaara?",
+   "a": "Shukaku",
+   "p": 400,
+   "alt": [
+    "One-Tail",
+    "One-Tails",
+    "Ichibi"
+   ]
+  },
+  {
+   "q": "What is the name of Naruto's mother?",
+   "a": "Kushina Uzumaki",
+   "p": 400,
+   "alt": [
+    "Kushina"
+   ]
+  },
+  {
+   "q": "Who is the jinchuriki of the Eight-Tails?",
+   "a": "Killer B",
+   "p": 400,
+   "alt": [
+    "Killer Bee",
+    "B"
+   ]
+  },
+  {
+   "q": "Which two legendary figures clashed at the Valley of the End in the Leaf's early history?",
+   "a": "Madara and Hashirama",
+   "p": 400,
+   "alt": [
+    "Madara Uchiha and Hashirama Senju"
+   ]
+  },
+  {
+   "q": "Which teammate gave Kakashi his Sharingan?",
+   "a": "Obito Uchiha",
+   "p": 400,
+   "alt": [
+    "Obito"
+   ]
+  },
+  {
+   "q": "Which Akatsuki member uses explosive clay?",
+   "a": "Deidara",
+   "p": 400
+  },
+  {
+   "q": "Which Sand Village puppeteer joined the Akatsuki?",
+   "a": "Sasori",
+   "p": 400
+  },
+  {
+   "q": "What is the name of Kisame's sentient sword?",
+   "a": "Samehada",
+   "p": 400
+  },
+  {
+   "q": "Which immortal Akatsuki member was partnered with Kakuzu?",
+   "a": "Hidan",
+   "p": 400
+  },
+  {
+   "q": "What is the name of Jiraiya's series of adult novels?",
+   "a": "Icha Icha",
+   "p": 400,
+   "alt": [
+    "Icha Icha Paradise",
+    "Make-Out Paradise"
+   ]
+  },
+  {
+   "q": "Which pug is the leader of Kakashi's ninja dogs?",
+   "a": "Pakkun",
+   "p": 400
+  },
+  {
+   "q": "Which missing-nin from the Mist is the main villain of the Land of Waves arc?",
+   "a": "Zabuza Momochi",
+   "p": 400,
+   "alt": [
+    "Zabuza"
+   ]
+  },
+  {
+   "q": "What kekkei genkai does Haku use?",
+   "a": "Ice Release",
+   "p": 400,
+   "alt": [
+    "Hyoton",
+    "Ice Style"
+   ]
+  },
+  {
+   "q": "What kekkei genkai allows Hashirama to create trees?",
+   "a": "Wood Release",
+   "p": 400,
+   "alt": [
+    "Mokuton",
+    "Wood Style"
+   ]
+  },
+  {
+   "q": "Which Fourth Hokage technique teleports him to marked kunai?",
+   "a": "Flying Thunder God",
+   "p": 400,
+   "alt": [
+    "Hiraishin",
+    "Flying Raijin",
+    "Flying Thunder God Technique"
+   ]
+  },
+  {
+   "q": "What is the final major war arc of Naruto called?",
+   "a": "Fourth Great Ninja War",
+   "p": 400,
+   "alt": [
+    "Fourth Shinobi World War",
+    "Great Ninja War"
+   ]
+  },
+  {
+   "q": "Which Mangekyo genjutsu does Itachi use to trap victims in a mental world?",
+   "a": "Tsukuyomi",
+   "p": 400
+  },
+  {
+   "q": "Which Itachi technique produces black flames that are hard to extinguish?",
+   "a": "Amaterasu",
+   "p": 400
+  },
+  {
+   "q": "Which Hyuga prodigy sacrifices himself to protect Naruto and Hinata in the war?",
+   "a": "Neji Hyuga",
+   "p": 400,
+   "alt": [
+    "Neji"
+   ]
+  },
+  {
+   "q": "Which tailed beast is the Two-Tailed cat?",
+   "a": "Matatabi",
+   "p": 400,
+   "alt": [
+    "Two-Tails",
+    "Nibi"
+   ]
+  },
+  {
+   "q": "What was the name of Sasuke's team formed after leaving Orochimaru?",
+   "a": "Team Taka",
+   "p": 400,
+   "alt": [
+    "Team Hawk",
+    "Taka",
+    "Hebi"
+   ]
+  },
+  {
+   "q": "Which wind-based technique does Naruto create by adding wind nature to the Rasengan?",
+   "a": "Rasenshuriken",
+   "p": 400,
+   "alt": [
+    "Wind Release: Rasenshuriken"
+   ]
+  },
+  {
+   "q": "What is the title given to Jiraiya, Tsunade and Orochimaru?",
+   "a": "Legendary Sannin",
+   "p": 400,
+   "alt": [
+    "Sannin",
+    "The Three Sannin"
+   ]
+  },
+  {
+   "q": "What famous nickname does Minato carry?",
+   "a": "Yellow Flash",
+   "p": 400,
+   "alt": [
+    "Yellow Flash of the Leaf",
+    "Konoha's Yellow Flash"
+   ]
+  },
+  {
+   "q": "What is the arc called in which the Sand and Sound villages attack the Leaf during the Chunin Exams?",
+   "a": "Invasion of Konoha",
+   "p": 400,
+   "alt": [
+    "Konoha Crush",
+    "Leaf Invasion"
+   ]
+  },
+  {
+   "q": "What chakra-gate power-up technique does Rock Lee rely on?",
+   "a": "Eight Gates",
+   "p": 400,
+   "alt": [
+    "Hachimon",
+    "Eight Inner Gates"
+   ]
+  },
+  {
+   "q": "Which Yamanaka technique lets Ino take control of another person's body?",
+   "a": "Mind Transfer Technique",
+   "p": 400,
+   "alt": [
+    "Mind Body Switch",
+    "Mind Transfer"
+   ]
+  },
+  {
+   "q": "Which paper-using kunoichi co-founded the Akatsuki?",
+   "a": "Konan",
+   "p": 400
+  },
+  {
+   "q": "What is the name of Kiba's canine companion?",
+   "a": "Akamaru",
+   "p": 400
+  },
+  {
+   "q": "Who is the grandson of the Third Hokage who looks up to Naruto?",
+   "a": "Konohamaru Sarutobi",
+   "p": 400,
+   "alt": [
+    "Konohamaru"
+   ]
+  },
+  {
+   "q": "What is the Land of Waves bridge named after?",
+   "a": "Naruto",
+   "p": 400,
+   "alt": [
+    "Great Naruto Bridge"
+   ]
+  },
+  {
+   "q": "Which Leaf elder leads the secret organization ROOT?",
+   "a": "Danzo Shimura",
+   "p": 400,
+   "alt": [
+    "Danzo"
+   ]
+  },
+  {
+   "q": "Which Studio animated the Naruto anime series?",
+   "a": "Pierrot",
+   "p": 400,
+   "alt": [
+    "Studio Pierrot"
+   ]
+  },
+  {
+   "q": "Which weekly magazine serialized the Naruto manga?",
+   "a": "Weekly Shonen Jump",
+   "p": 400,
+   "alt": [
+    "Shonen Jump",
+    "Jump"
+   ]
+  },
+  {
+   "q": "Which jonin was Shikamaru's sensei and a son of the Third Hokage?",
+   "a": "Asuma Sarutobi",
+   "p": 400,
+   "alt": [
+    "Asuma"
+   ]
+  },
+  {
+   "q": "Which tailed beast is the Three-Tails, a giant turtle?",
+   "a": "Isobu",
+   "p": 600,
+   "alt": [
+    "Three-Tails",
+    "Sanbi"
+   ]
+  },
+  {
+   "q": "What is the name of the Four-Tailed monkey beast?",
+   "a": "Son Goku",
+   "p": 600,
+   "alt": [
+    "Four-Tails",
+    "Yonbi"
+   ]
+  },
+  {
+   "q": "What is the name of the Five-Tailed horse-dolphin beast?",
+   "a": "Kokuo",
+   "p": 600,
+   "alt": [
+    "Five-Tails",
+    "Gobi"
+   ]
+  },
+  {
+   "q": "Which slug-like tailed beast is the Six-Tails?",
+   "a": "Saiken",
+   "p": 600,
+   "alt": [
+    "Six-Tails",
+    "Rokubi"
+   ]
+  },
+  {
+   "q": "Which tailed beast is the Seven-Tailed beetle?",
+   "a": "Chomei",
+   "p": 600,
+   "alt": [
+    "Seven-Tails",
+    "Shichibi"
+   ]
+  },
+  {
+   "q": "Which beast is the Eight-Tails, part ox and part octopus?",
+   "a": "Gyuki",
+   "p": 600,
+   "alt": [
+    "Eight-Tails",
+    "Hachibi"
+   ]
+  },
+  {
+   "q": "Which is the eighth and final chakra gate Rock Lee can open?",
+   "a": "Gate of Death",
+   "p": 600,
+   "alt": [
+    "Death Gate",
+    "Shimon"
+   ]
+  },
+  {
+   "q": "Which Uchiha earned the nickname 'Body Flicker'?",
+   "a": "Shisui Uchiha",
+   "p": 600,
+   "alt": [
+    "Shisui"
+   ]
+  },
+  {
+   "q": "What is the name of Shisui's Mangekyo ability that manipulates minds?",
+   "a": "Kotoamatsukami",
+   "p": 600
+  },
+  {
+   "q": "Who is the Sage of Six Paths?",
+   "a": "Hagoromo Otsutsuki",
+   "p": 600,
+   "alt": [
+    "Hagoromo",
+    "Sage of the Six Paths"
+   ]
+  },
+  {
+   "q": "Which Otsutsuki ancestor ate the fruit of the God Tree?",
+   "a": "Kaguya Otsutsuki",
+   "p": 600,
+   "alt": [
+    "Kaguya"
+   ]
+  },
+  {
+   "q": "What is the Ten-Tails' tree form called?",
+   "a": "God Tree",
+   "p": 600,
+   "alt": [
+    "Shinju",
+    "Divine Tree"
+   ]
+  },
+  {
+   "q": "What is the name of the plan Madara and Obito pursue to put everyone under one genjutsu?",
+   "a": "Eye of the Moon Plan",
+   "p": 600,
+   "alt": [
+    "Infinite Tsukuyomi",
+    "Moon's Eye Plan"
+   ]
+  },
+  {
+   "q": "Which member of the Sound Four has six arms?",
+   "a": "Kidomaru",
+   "p": 600
+  },
+  {
+   "q": "Which Kaguya clan member uses the Dead Bone Pulse?",
+   "a": "Kimimaro",
+   "p": 600
+  },
+  {
+   "q": "What dimension-shifting technique does Kakashi's Mangekyo Sharingan grant?",
+   "a": "Kamui",
+   "p": 600
+  },
+  {
+   "q": "Who created the Edo Tensei technique?",
+   "a": "Tobirama Senju",
+   "p": 600,
+   "alt": [
+    "Tobirama"
+   ]
+  },
+  {
+   "q": "Which girl was on Minato's team with Kakashi and Obito?",
+   "a": "Rin Nohara",
+   "p": 600,
+   "alt": [
+    "Rin"
+   ]
+  },
+  {
+   "q": "What is Kakashi's father Sakumo known as?",
+   "a": "White Fang of the Leaf",
+   "p": 600,
+   "alt": [
+    "White Fang",
+    "Konoha's White Fang"
+   ]
+  },
+  {
+   "q": "Who was Tsunade's deceased younger brother?",
+   "a": "Nawaki",
+   "p": 600
+  },
+  {
+   "q": "What nickname is the Third Hokage known by?",
+   "a": "The Professor",
+   "p": 600,
+   "alt": [
+    "Professor",
+    "God of Shinobi"
+   ]
+  },
+  {
+   "q": "What one-letter name does the Fourth Raikage go by?",
+   "a": "A",
+   "p": 600,
+   "alt": [
+    "Raikage A",
+    "Fourth Raikage"
+   ]
+  },
+  {
+   "q": "Who is the Fifth Mizukage?",
+   "a": "Mei Terumi",
+   "p": 600,
+   "alt": [
+    "Mei"
+   ]
+  },
+  {
+   "q": "Who is the Third Tsuchikage of the Hidden Stone Village?",
+   "a": "Onoki",
+   "p": 600,
+   "alt": [
+    "Ohnoki"
+   ]
+  },
+  {
+   "q": "Who was the Fourth Mizukage, host of the Three-Tails?",
+   "a": "Yagura",
+   "p": 600
+  },
+  {
+   "q": "Who directed the original Naruto anime series?",
+   "a": "Hayato Date",
+   "p": 600
+  },
+  {
+   "q": "In which magazine did Kishimoto's Naruto one-shot first appear in 1997?",
+   "a": "Akamaru Jump",
+   "p": 600
+  },
+  {
+   "q": "What is the name of the seal placed on Hyuga Branch Family members?",
+   "a": "Caged Bird Seal",
+   "p": 600,
+   "alt": [
+    "Cursed Seal of the Hyuga",
+    "Caged Bird"
+   ]
+  },
+  {
+   "q": "What is the name of Hinata's younger sister?",
+   "a": "Hanabi Hyuga",
+   "p": 600,
+   "alt": [
+    "Hanabi"
+   ]
+  },
+  {
+   "q": "Who is Mount Myoboku's elder toad sage who teaches Naruto Sage Mode?",
+   "a": "Fukasaku",
+   "p": 600
+  }
+ ]
+}

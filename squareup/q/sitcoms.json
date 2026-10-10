@@ -1,0 +1,521 @@
+{
+ "id": "sitcoms",
+ "name": "Sitcoms",
+ "questions": [
+  {
+   "q": "What is the name of the coffee shop in Friends?",
+   "a": "Central Perk",
+   "p": 200
+  },
+  {
+   "q": "Which Friends character is Ross's sister?",
+   "a": "Monica",
+   "p": 200
+  },
+  {
+   "q": "What is the title of Phoebe's song about a cat in Friends?",
+   "a": "Smelly Cat",
+   "p": 200
+  },
+  {
+   "q": "What is Joey Tribbiani's profession in Friends?",
+   "a": "Actor",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the paper company in the US version of The Office?",
+   "a": "Dunder Mifflin",
+   "p": 200
+  },
+  {
+   "q": "In which Pennsylvania city is the US version of The Office set?",
+   "a": "Scranton",
+   "p": 200
+  },
+  {
+   "q": "What is Michael Scott's job title at Dunder Mifflin?",
+   "a": "Regional Manager",
+   "p": 200
+  },
+  {
+   "q": "Which actor plays Michael Scott in the US Office?",
+   "a": "Steve Carell",
+   "p": 200
+  },
+  {
+   "q": "Which character did Ricky Gervais play in the UK Office?",
+   "a": "David Brent",
+   "p": 200
+  },
+  {
+   "q": "What is the surname of the receptionist Pam in the US Office?",
+   "a": "Beesly",
+   "p": 200
+  },
+  {
+   "q": "Who is Jerry's eccentric neighbor in Seinfeld?",
+   "a": "Kramer",
+   "p": 200
+  },
+  {
+   "q": "What is Jerry Seinfeld's profession in Seinfeld?",
+   "a": "Stand-up comedian",
+   "p": 200
+  },
+  {
+   "q": "What is George's surname in Seinfeld?",
+   "a": "Costanza",
+   "p": 200
+  },
+  {
+   "q": "What is Sheldon's surname in The Big Bang Theory?",
+   "a": "Cooper",
+   "p": 200
+  },
+  {
+   "q": "At which restaurant chain does Penny work in The Big Bang Theory?",
+   "a": "The Cheesecake Factory",
+   "p": 200
+  },
+  {
+   "q": "How many times does Sheldon knock on a door?",
+   "a": "Three",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the bar the gang frequents in How I Met Your Mother?",
+   "a": "MacLaren's",
+   "p": 200
+  },
+  {
+   "q": "Which comedian plays Jake Peralta in Brooklyn Nine-Nine?",
+   "a": "Andy Samberg",
+   "p": 200
+  },
+  {
+   "q": "What is the surname of Phil and Claire in Modern Family?",
+   "a": "Dunphy",
+   "p": 200
+  },
+  {
+   "q": "In which fictional Indiana town is Parks and Recreation set?",
+   "a": "Pawnee",
+   "p": 200
+  },
+  {
+   "q": "What is Leslie's surname in Parks and Recreation?",
+   "a": "Knope",
+   "p": 200
+  },
+  {
+   "q": "Which actress plays Leslie Knope?",
+   "a": "Amy Poehler",
+   "p": 200
+  },
+  {
+   "q": "Which actor played Charlie Harper in Two and a Half Men?",
+   "a": "Charlie Sheen",
+   "p": 200
+  },
+  {
+   "q": "In which city is The Fresh Prince of Bel-Air's Will from?",
+   "a": "West Philadelphia",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the Banks family's butler?",
+   "a": "Geoffrey",
+   "p": 200
+  },
+  {
+   "q": "What is the name of Mr Bean's toy bear?",
+   "a": "Teddy",
+   "p": 200
+  },
+  {
+   "q": "Which actor plays Mr Bean?",
+   "a": "Rowan Atkinson",
+   "p": 200
+  },
+  {
+   "q": "What is the first name of the hotel owner in Fawlty Towers?",
+   "a": "Basil",
+   "p": 200
+  },
+  {
+   "q": "What is Frasier Crane's profession?",
+   "a": "Psychiatrist",
+   "p": 200
+  },
+  {
+   "q": "In which US city is Frasier set?",
+   "a": "Seattle",
+   "p": 200
+  },
+  {
+   "q": "In which town do The Simpsons live?",
+   "a": "Springfield",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the Griffins' talking dog in Family Guy?",
+   "a": "Brian",
+   "p": 200
+  },
+  {
+   "q": "What is the name of Ross and Rachel's daughter in Friends?",
+   "a": "Emma",
+   "p": 400
+  },
+  {
+   "q": "What is the name of Phoebe's twin sister in Friends?",
+   "a": "Ursula",
+   "p": 400
+  },
+  {
+   "q": "On which soap opera does Joey play a doctor in Friends?",
+   "a": "Days of Our Lives",
+   "p": 400
+  },
+  {
+   "q": "What is the name of Ross's pet monkey in Friends?",
+   "a": "Marcel",
+   "p": 400
+  },
+  {
+   "q": "What crop does Dwight Schrute grow on his farm?",
+   "a": "Beets",
+   "p": 400
+  },
+  {
+   "q": "What company does Michael Scott start after leaving Dunder Mifflin?",
+   "a": "Michael Scott Paper Company",
+   "p": 400
+  },
+  {
+   "q": "Which branch merges with Scranton in season 3 of the US Office?",
+   "a": "Stamford",
+   "p": 400
+  },
+  {
+   "q": "What is the name of the HR representative in the US Office?",
+   "a": "Toby Flenderson",
+   "p": 400
+  },
+  {
+   "q": "In which town is the UK version of The Office set?",
+   "a": "Slough",
+   "p": 400
+  },
+  {
+   "q": "Which actor played Tim Canterbury in the UK Office?",
+   "a": "Martin Freeman",
+   "p": 400
+  },
+  {
+   "q": "What is the apartment number of Jerry's apartment in Seinfeld?",
+   "a": "5A",
+   "p": 400
+  },
+  {
+   "q": "What is Elaine's surname in Seinfeld?",
+   "a": "Benes",
+   "p": 400
+  },
+  {
+   "q": "What is Kramer's first name in Seinfeld?",
+   "a": "Cosmo",
+   "p": 400
+  },
+  {
+   "q": "What holiday did George's father invent in Seinfeld?",
+   "a": "Festivus",
+   "p": 400
+  },
+  {
+   "q": "What is Newman's job in Seinfeld?",
+   "a": "Mail carrier",
+   "p": 400
+  },
+  {
+   "q": "Which country is Raj from in The Big Bang Theory?",
+   "a": "India",
+   "p": 400
+  },
+  {
+   "q": "What is Barney's surname in How I Met Your Mother?",
+   "a": "Stinson",
+   "p": 400
+  },
+  {
+   "q": "What is Ted Mosby's profession in How I Met Your Mother?",
+   "a": "Architect",
+   "p": 400
+  },
+  {
+   "q": "Which actor plays Captain Raymond Holt in Brooklyn Nine-Nine?",
+   "a": "Andre Braugher",
+   "p": 400
+  },
+  {
+   "q": "What is the name of Captain Holt's corgi in Brooklyn Nine-Nine?",
+   "a": "Cheddar",
+   "p": 400
+  },
+  {
+   "q": "What is the name of Cam and Mitchell's adopted daughter in Modern Family?",
+   "a": "Lily",
+   "p": 400
+  },
+  {
+   "q": "What is Phil Dunphy's profession in Modern Family?",
+   "a": "Real estate agent",
+   "p": 400
+  },
+  {
+   "q": "What is April's surname in Parks and Recreation?",
+   "a": "Ludgate",
+   "p": 400
+  },
+  {
+   "q": "What is the name of the miniature horse in Parks and Recreation?",
+   "a": "Li'l Sebastian",
+   "p": 400
+  },
+  {
+   "q": "Which character played by Ashton Kutcher buys Charlie's house in Two and a Half Men?",
+   "a": "Walden Schmidt",
+   "p": 400
+  },
+  {
+   "q": "What is Alan Harper's profession in Two and a Half Men?",
+   "a": "Chiropractor",
+   "p": 400
+  },
+  {
+   "q": "What is Robert Barone's job in Everybody Loves Raymond?",
+   "a": "Police officer",
+   "p": 400
+  },
+  {
+   "q": "What is the name of Will's best friend in The Fresh Prince of Bel-Air?",
+   "a": "Jazz",
+   "p": 400
+  },
+  {
+   "q": "In which English seaside town is Fawlty Towers set?",
+   "a": "Torquay",
+   "p": 400
+  },
+  {
+   "q": "From which Spanish city does Manuel come in Fawlty Towers?",
+   "a": "Barcelona",
+   "p": 400
+  },
+  {
+   "q": "What is the name of Frasier's father's physical therapist?",
+   "a": "Daphne",
+   "p": 400
+  },
+  {
+   "q": "What is the name of the Saudi comedy series starring Nasser Al Qasabi and Abdullah Al Sadhan?",
+   "a": "Tash Ma Tash",
+   "p": 400
+  },
+  {
+   "q": "What is the name of the Emirati animated comedy about four grandmothers in Dubai?",
+   "a": "Freej",
+   "p": 400
+  },
+  {
+   "q": "What alias does Phoebe sometimes use in Friends?",
+   "a": "Regina Phalange",
+   "p": 600
+  },
+  {
+   "q": "What is Chandler Bing's middle name?",
+   "a": "Muriel",
+   "p": 600
+  },
+  {
+   "q": "What is the apartment number of Monica's apartment in Friends?",
+   "a": "20",
+   "p": 600
+  },
+  {
+   "q": "What is the name of Andy Bernard's a cappella group in the US Office?",
+   "a": "Here Comes Treble",
+   "p": 600
+  },
+  {
+   "q": "What is the name of Kevin's band in the US Office?",
+   "a": "Scrantonicity",
+   "p": 600
+  },
+  {
+   "q": "What name does Michael Scott give his alter ego in his prison story?",
+   "a": "Prison Mike",
+   "p": 600
+  },
+  {
+   "q": "Which actor plays Robert California in the US Office?",
+   "a": "James Spader",
+   "p": 600
+  },
+  {
+   "q": "Which actress plays Dawn Tinsley in the UK Office?",
+   "a": "Lucy Davis",
+   "p": 600
+  },
+  {
+   "q": "What fake architect name does George use in Seinfeld?",
+   "a": "Art Vandelay",
+   "p": 600
+  },
+  {
+   "q": "What is the name of the eccentric catalog owner Elaine works for in Seinfeld?",
+   "a": "J. Peterman",
+   "p": 600
+  },
+  {
+   "q": "What is George Costanza's father's first name?",
+   "a": "Frank",
+   "p": 600
+  },
+  {
+   "q": "What is Sheldon Cooper's middle name?",
+   "a": "Lee",
+   "p": 600
+  },
+  {
+   "q": "In which US state is Penny from in The Big Bang Theory?",
+   "a": "Nebraska",
+   "p": 600
+  },
+  {
+   "q": "What is the name of Leonard Hofstadter's mother?",
+   "a": "Beverly",
+   "p": 600
+  },
+  {
+   "q": "What is the name of Marshall and Lily's son in How I Met Your Mother?",
+   "a": "Marvin",
+   "p": 600
+  },
+  {
+   "q": "What is Robin's Canadian pop star alias in How I Met Your Mother?",
+   "a": "Robin Sparkles",
+   "p": 600
+  },
+  {
+   "q": "What is the name of Barney's employer in How I Met Your Mother?",
+   "a": "Goliath National Bank",
+   "p": 600
+  },
+  {
+   "q": "What is the name of Charles Boyle's son in Brooklyn Nine-Nine?",
+   "a": "Nikolaj",
+   "p": 600
+  },
+  {
+   "q": "What nickname does the criminal Doug Judy have in Brooklyn Nine-Nine?",
+   "a": "The Pontiac Bandit",
+   "p": 600
+  },
+  {
+   "q": "Which network first aired Brooklyn Nine-Nine?",
+   "a": "Fox",
+   "p": 600
+  },
+  {
+   "q": "What is the name of Cam's clown persona in Modern Family?",
+   "a": "Fizbo",
+   "p": 600
+  },
+  {
+   "q": "What does Jay Pritchett's company sell in Modern Family?",
+   "a": "Closets",
+   "p": 600
+  },
+  {
+   "q": "What is the name of Andy Dwyer's FBI agent persona in Parks and Recreation?",
+   "a": "Burt Macklin",
+   "p": 600
+  },
+  {
+   "q": "What is the name of Tom Haverford's entertainment company in Parks and Recreation?",
+   "a": "Entertainment 720",
+   "p": 600
+  },
+  {
+   "q": "What is Ron Swanson's saxophone alter ego called?",
+   "a": "Duke Silver",
+   "p": 600
+  },
+  {
+   "q": "What is Debra Barone's maiden name in Everybody Loves Raymond?",
+   "a": "Whelan",
+   "p": 600
+  },
+  {
+   "q": "What is the name of Mr Bean's girlfriend?",
+   "a": "Irma Gobb",
+   "p": 600
+  },
+  {
+   "q": "Which Fawlty Towers episode features a group of German guests?",
+   "a": "The Germans",
+   "p": 600
+  },
+  {
+   "q": "What are the call letters of Frasier's radio station?",
+   "a": "KACL",
+   "p": 600
+  },
+  {
+   "q": "What is Marge Simpson's maiden name?",
+   "a": "Bouvier",
+   "p": 600
+  },
+  {
+   "q": "Which sitcom is this clip from?",
+   "a": "Mr. Bean",
+   "p": 200,
+   "yt": "rF3u130lN_U",
+   "start": 10,
+   "end": 30
+  },
+  {
+   "q": "Which sitcom is this clip from?",
+   "a": "Mr. Bean",
+   "p": 200,
+   "yt": "5aBJEWTSjLU",
+   "start": 10,
+   "end": 30
+  },
+  {
+   "q": "Which sitcom is this clip from?",
+   "a": "The Office (US)",
+   "p": 200,
+   "yt": "Ar8O_351z9s",
+   "start": 10,
+   "end": 30
+  },
+  {
+   "q": "Which sitcom is this clip from?",
+   "a": "The Office (US)",
+   "p": 400,
+   "yt": "Xn12cHlTwgI",
+   "start": 5,
+   "end": 25
+  },
+  {
+   "q": "Which sitcom is this clip from?",
+   "a": "Fawlty Towers",
+   "p": 400,
+   "yt": "pIr2KOD3gw0",
+   "start": 10,
+   "end": 30
+  }
+ ]
+}

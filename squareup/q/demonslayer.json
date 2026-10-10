@@ -1,0 +1,746 @@
+{
+ "id": "demonslayer",
+ "name": "Demon Slayer",
+ "questions": [
+  {
+   "q": "Who is the main protagonist of Demon Slayer?",
+   "a": "Tanjiro Kamado",
+   "p": 200,
+   "alt": [
+    "Tanjiro"
+   ]
+  },
+  {
+   "q": "What is the name of Tanjiro's sister who becomes a demon?",
+   "a": "Nezuko Kamado",
+   "p": 200,
+   "alt": [
+    "Nezuko"
+   ]
+  },
+  {
+   "q": "Which breathing style does Tanjiro first learn?",
+   "a": "Water Breathing",
+   "p": 200,
+   "alt": [
+    "Water"
+   ]
+  },
+  {
+   "q": "Who is the demon king and main villain?",
+   "a": "Muzan Kibutsuji",
+   "p": 200,
+   "alt": [
+    "Muzan"
+   ]
+  },
+  {
+   "q": "What is the name of the organization that hunts demons?",
+   "a": "Demon Slayer Corps",
+   "p": 200,
+   "alt": [
+    "Demon Slayer Corp",
+    "Kisatsutai"
+   ]
+  },
+  {
+   "q": "What does Nezuko wear in her mouth?",
+   "a": "Bamboo muzzle",
+   "p": 200,
+   "alt": [
+    "Bamboo",
+    "Bamboo tube",
+    "Bamboo piece"
+   ]
+  },
+  {
+   "q": "Which cowardly but gifted boy uses Thunder Breathing?",
+   "a": "Zenitsu Agatsuma",
+   "p": 200,
+   "alt": [
+    "Zenitsu"
+   ]
+  },
+  {
+   "q": "Which wild boy wears a boar's head and uses dual blades?",
+   "a": "Inosuke Hashibira",
+   "p": 200,
+   "alt": [
+    "Inosuke"
+   ]
+  },
+  {
+   "q": "What is the title of the Corps' nine strongest swordsmen?",
+   "a": "Hashira",
+   "p": 200,
+   "alt": [
+    "Pillars"
+   ]
+  },
+  {
+   "q": "Who is the calm Water Hashira?",
+   "a": "Giyu Tomioka",
+   "p": 200,
+   "alt": [
+    "Giyu",
+    "Tomioka"
+   ]
+  },
+  {
+   "q": "Who is the Insect Hashira who uses poison?",
+   "a": "Shinobu Kocho",
+   "p": 200,
+   "alt": [
+    "Shinobu"
+   ]
+  },
+  {
+   "q": "Who is the Flame Hashira who dies in the Mugen Train arc?",
+   "a": "Kyojuro Rengoku",
+   "p": 200,
+   "alt": [
+    "Rengoku",
+    "Kyojuro"
+   ]
+  },
+  {
+   "q": "Who is the flamboyant Sound Hashira?",
+   "a": "Tengen Uzui",
+   "p": 200,
+   "alt": [
+    "Tengen"
+   ]
+  },
+  {
+   "q": "Which movie adapts the train arc?",
+   "a": "Mugen Train",
+   "p": 200,
+   "alt": [
+    "Demon Slayer: Mugen Train",
+    "Infinity Train"
+   ]
+  },
+  {
+   "q": "Who created the Demon Slayer manga?",
+   "a": "Koyoharu Gotouge",
+   "p": 200,
+   "alt": [
+    "Gotouge"
+   ]
+  },
+  {
+   "q": "Which studio animated the Demon Slayer anime?",
+   "a": "ufotable",
+   "p": 200,
+   "alt": [
+    "Ufotable"
+   ]
+  },
+  {
+   "q": "What are the special swords used to kill demons called?",
+   "a": "Nichirin blades",
+   "p": 200,
+   "alt": [
+    "Nichirin Blade",
+    "Nichirin",
+    "Color Changing Swords"
+   ]
+  },
+  {
+   "q": "What kills a demon besides decapitation?",
+   "a": "Sunlight",
+   "p": 200,
+   "alt": [
+    "The sun",
+    "Sun"
+   ]
+  },
+  {
+   "q": "Which Upper Rank Three demon fights Rengoku?",
+   "a": "Akaza",
+   "p": 200
+  },
+  {
+   "q": "Who trains Tanjiro on Mount Sagiri before the Final Selection?",
+   "a": "Sakonji Urokodaki",
+   "p": 200,
+   "alt": [
+    "Urokodaki"
+   ]
+  },
+  {
+   "q": "What traditional playing-card style is shown on Tanjiro's earrings?",
+   "a": "Hanafuda",
+   "p": 200,
+   "alt": [
+    "Hanafuda cards"
+   ]
+  },
+  {
+   "q": "Which sense does Tanjiro rely on most to track demons?",
+   "a": "Smell",
+   "p": 200,
+   "alt": [
+    "Sense of smell"
+   ]
+  },
+  {
+   "q": "Which girl, who flips a coin to decide, becomes Tanjiro's love interest?",
+   "a": "Kanao Tsuyuri",
+   "p": 200,
+   "alt": [
+    "Kanao"
+   ]
+  },
+  {
+   "q": "Who is the Love Hashira with pink and green hair?",
+   "a": "Mitsuri Kanroji",
+   "p": 200,
+   "alt": [
+    "Mitsuri"
+   ]
+  },
+  {
+   "q": "Who is the young Mist Hashira?",
+   "a": "Muichiro Tokito",
+   "p": 200,
+   "alt": [
+    "Muichiro"
+   ]
+  },
+  {
+   "q": "Who is the tall, blind Stone Hashira?",
+   "a": "Gyomei Himejima",
+   "p": 200,
+   "alt": [
+    "Gyomei"
+   ]
+  },
+  {
+   "q": "Who is the scarred Wind Hashira?",
+   "a": "Sanemi Shinazugawa",
+   "p": 200,
+   "alt": [
+    "Sanemi"
+   ]
+  },
+  {
+   "q": "Who is the Serpent Hashira with a snake companion?",
+   "a": "Obanai Iguro",
+   "p": 200,
+   "alt": [
+    "Obanai"
+   ]
+  },
+  {
+   "q": "Who is the kind leader of the Demon Slayer Corps?",
+   "a": "Kagaya Ubuyashiki",
+   "p": 200,
+   "alt": [
+    "Kagaya",
+    "Ubuyashiki"
+   ]
+  },
+  {
+   "q": "What was Tanjiro's family's trade before the tragedy?",
+   "a": "Charcoal selling",
+   "p": 200,
+   "alt": [
+    "Charcoal seller",
+    "Charcoal"
+   ]
+  },
+  {
+   "q": "Which arc follows the Mugen Train arc?",
+   "a": "Entertainment District Arc",
+   "p": 200,
+   "alt": [
+    "Entertainment District",
+    "Yoshiwara"
+   ]
+  },
+  {
+   "q": "Which demon builds a spider-web 'family' on Mount Natagumo?",
+   "a": "Rui",
+   "p": 200,
+   "alt": [
+    "Spider demon"
+   ]
+  },
+  {
+   "q": "What are the twelve strongest demons under Muzan called?",
+   "a": "Twelve Kizuki",
+   "p": 200,
+   "alt": [
+    "Twelve Demon Moons",
+    "Upper Moons and Lower Moons",
+    "Kizuki"
+   ]
+  },
+  {
+   "q": "What animal's head does Inosuke wear as a mask?",
+   "a": "Boar",
+   "p": 200,
+   "alt": [
+    "Boar head",
+    "Wild boar"
+   ]
+  },
+  {
+   "q": "What does Zenitsu do before he unleashes his lightning technique?",
+   "a": "Falls asleep",
+   "p": 200,
+   "alt": [
+    "Sleeps",
+    "Sleeping",
+    "Sleep"
+   ]
+  },
+  {
+   "q": "What colour does Tanjiro's Nichirin blade turn?",
+   "a": "Black",
+   "p": 400,
+   "alt": [
+    "Jet black"
+   ]
+  },
+  {
+   "q": "What is the Dance of the Fire God also called?",
+   "a": "Hinokami Kagura",
+   "p": 400
+  },
+  {
+   "q": "Which constant breathing technique, learned at the Butterfly Mansion, boosts stamina?",
+   "a": "Total Concentration Breathing",
+   "p": 400,
+   "alt": [
+    "Total Concentration Constant",
+    "Zenchuu"
+   ]
+  },
+  {
+   "q": "Which Lower Moon One demon puts people to sleep on the train?",
+   "a": "Enmu",
+   "p": 400
+  },
+  {
+   "q": "Who is the legendary swordsman who first used Sun Breathing?",
+   "a": "Yoriichi Tsugikuni",
+   "p": 400,
+   "alt": [
+    "Yoriichi"
+   ]
+  },
+  {
+   "q": "Which mountain features Rui's lair?",
+   "a": "Mount Natagumo",
+   "p": 400,
+   "alt": [
+    "Natagumo",
+    "Natagumo Mountain"
+   ]
+  },
+  {
+   "q": "What are the special demon powers called?",
+   "a": "Blood Demon Art",
+   "p": 400,
+   "alt": [
+    "Blood Demon Arts",
+    "BDA"
+   ]
+  },
+  {
+   "q": "Which flowers repel demons?",
+   "a": "Wisteria",
+   "p": 400,
+   "alt": [
+    "Wisteria flowers"
+   ]
+  },
+  {
+   "q": "Which birds act as messengers for the Demon Slayer Corps?",
+   "a": "Crows",
+   "p": 400,
+   "alt": [
+    "Kasugai crows",
+    "Kasugai Crow"
+   ]
+  },
+  {
+   "q": "Which siblings share the Upper Moon Six rank?",
+   "a": "Daki and Gyutaro",
+   "p": 400,
+   "alt": [
+    "Gyutaro and Daki",
+    "Daki",
+    "Gyutaro"
+   ]
+  },
+  {
+   "q": "Who is Upper Moon One?",
+   "a": "Kokushibo",
+   "p": 400
+  },
+  {
+   "q": "Who holds the Upper Moon Two position?",
+   "a": "Doma",
+   "p": 400,
+   "alt": [
+    "Douma"
+   ]
+  },
+  {
+   "q": "Which demon doctor is a rare ally of the heroes?",
+   "a": "Tamayo",
+   "p": 400
+  },
+  {
+   "q": "Who is Tamayo's loyal assistant?",
+   "a": "Yushiro",
+   "p": 400
+  },
+  {
+   "q": "Who is Sanemi Shinazugawa's younger brother in the Corps?",
+   "a": "Genya Shinazugawa",
+   "p": 400,
+   "alt": [
+    "Genya"
+   ]
+  },
+  {
+   "q": "Which fox-masked swordsman, a past Final Selection victim, trains Tanjiro in his dreams?",
+   "a": "Sabito",
+   "p": 400
+  },
+  {
+   "q": "Which fox-masked girl helps train Tanjiro with Sabito?",
+   "a": "Makomo",
+   "p": 400
+  },
+  {
+   "q": "Who forges Tanjiro's Nichirin blade?",
+   "a": "Hotaru Haganezuka",
+   "p": 400,
+   "alt": [
+    "Haganezuka"
+   ]
+  },
+  {
+   "q": "Which breathing style does Shinobu Kocho use?",
+   "a": "Insect Breathing",
+   "p": 400
+  },
+  {
+   "q": "Which breathing style does Mitsuri Kanroji use?",
+   "a": "Love Breathing",
+   "p": 400
+  },
+  {
+   "q": "Which breathing style does Kyojuro Rengoku use?",
+   "a": "Flame Breathing",
+   "p": 400
+  },
+  {
+   "q": "Which breathing style does Tengen Uzui use?",
+   "a": "Sound Breathing",
+   "p": 400
+  },
+  {
+   "q": "Which breathing style does Sanemi Shinazugawa use?",
+   "a": "Wind Breathing",
+   "p": 400
+  },
+  {
+   "q": "Which breathing style does Gyomei Himejima use?",
+   "a": "Stone Breathing",
+   "p": 400
+  },
+  {
+   "q": "Which breathing style does Muichiro Tokito use?",
+   "a": "Mist Breathing",
+   "p": 400
+  },
+  {
+   "q": "Which breathing style does Obanai Iguro use?",
+   "a": "Serpent Breathing",
+   "p": 400
+  },
+  {
+   "q": "Which magazine serialized Demon Slayer?",
+   "a": "Weekly Shonen Jump",
+   "p": 400,
+   "alt": [
+    "Shonen Jump",
+    "Jump"
+   ]
+  },
+  {
+   "q": "What is the original Japanese title of Demon Slayer?",
+   "a": "Kimetsu no Yaiba",
+   "p": 400
+  },
+  {
+   "q": "Which singer performed the first opening, Gurenge?",
+   "a": "LiSA",
+   "p": 400,
+   "alt": [
+    "Lisa"
+   ]
+  },
+  {
+   "q": "Which final arc takes place in Muzan's shifting fortress?",
+   "a": "Infinity Castle Arc",
+   "p": 400,
+   "alt": [
+    "Infinity Castle"
+   ]
+  },
+  {
+   "q": "Which arc sees the Hashira train the Corps' swordsmen before the final battle?",
+   "a": "Hashira Training Arc",
+   "p": 400,
+   "alt": [
+    "Hashira Training"
+   ]
+  },
+  {
+   "q": "What is Zenitsu's only technique, the First Form of Thunder Breathing?",
+   "a": "Thunderclap and Flash",
+   "p": 400,
+   "alt": [
+    "Thunderclap Flash"
+   ]
+  },
+  {
+   "q": "What does Kanao use to make decisions?",
+   "a": "A coin",
+   "p": 400,
+   "alt": [
+    "Coin",
+    "Coin flip"
+   ]
+  },
+  {
+   "q": "How many wives does Tengen Uzui have?",
+   "a": "Three",
+   "p": 400,
+   "alt": [
+    "3"
+   ]
+  },
+  {
+   "q": "What is the name of Obanai Iguro's pet snake?",
+   "a": "Kaburamaru",
+   "p": 400
+  },
+  {
+   "q": "Who was Shinobu's older sister, the Flower Hashira?",
+   "a": "Kanae Kocho",
+   "p": 600,
+   "alt": [
+    "Kanae"
+   ]
+  },
+  {
+   "q": "Who is Tanjiro's father, who danced the Hinokami Kagura each year?",
+   "a": "Tanjuro Kamado",
+   "p": 600,
+   "alt": [
+    "Tanjuro"
+   ]
+  },
+  {
+   "q": "Which Upper Moon Four demon splits into multiple emotion forms?",
+   "a": "Hantengu",
+   "p": 600
+  },
+  {
+   "q": "What is the Ninth Form of Flame Breathing?",
+   "a": "Rengoku",
+   "p": 600,
+   "alt": [
+    "Purgatory"
+   ]
+  },
+  {
+   "q": "On which mountain does the Kamado family live?",
+   "a": "Mount Kumotori",
+   "p": 600,
+   "alt": [
+    "Kumotori"
+   ]
+  },
+  {
+   "q": "Who was Zenitsu's master in Thunder Breathing?",
+   "a": "Jigoro Kuwajima",
+   "p": 600,
+   "alt": [
+    "Jigoro"
+   ]
+  },
+  {
+   "q": "Who was Zenitsu's senior disciple who later became a demon?",
+   "a": "Kaigaku",
+   "p": 600
+  },
+  {
+   "q": "What was Kokushibo's human name?",
+   "a": "Michikatsu Tsugikuni",
+   "p": 600,
+   "alt": [
+    "Michikatsu"
+   ]
+  },
+  {
+   "q": "Which biwa-playing demon controls the Infinity Castle?",
+   "a": "Nakime",
+   "p": 600
+  },
+  {
+   "q": "Which girl serves at the Butterfly Mansion and oversees Tanjiro's recovery training?",
+   "a": "Aoi Kanzaki",
+   "p": 600,
+   "alt": [
+    "Aoi"
+   ]
+  },
+  {
+   "q": "What is the name of Zenitsu's pet sparrow?",
+   "a": "Chuntaro",
+   "p": 600,
+   "alt": [
+    "Chuutaro"
+   ]
+  },
+  {
+   "q": "Who is Muichiro Tokito's twin brother?",
+   "a": "Yuichiro Tokito",
+   "p": 600,
+   "alt": [
+    "Yuichiro"
+   ]
+  },
+  {
+   "q": "Who is Inosuke's mother?",
+   "a": "Kotoha",
+   "p": 600
+  },
+  {
+   "q": "Who is Rengoku's father?",
+   "a": "Shinjuro Rengoku",
+   "p": 600,
+   "alt": [
+    "Shinjuro"
+   ]
+  },
+  {
+   "q": "Who is Rengoku's younger brother?",
+   "a": "Senjuro Rengoku",
+   "p": 600,
+   "alt": [
+    "Senjuro"
+   ]
+  },
+  {
+   "q": "Who directed the Demon Slayer anime?",
+   "a": "Haruo Sotozaki",
+   "p": 600,
+   "alt": [
+    "Sotozaki"
+   ]
+  },
+  {
+   "q": "Which composer scored the series with Go Shiina?",
+   "a": "Yuki Kajiura",
+   "p": 600,
+   "alt": [
+    "Kajiura"
+   ]
+  },
+  {
+   "q": "What is the lowest rank in the Demon Slayer Corps?",
+   "a": "Mizunoto",
+   "p": 600
+  },
+  {
+   "q": "Which rank sits directly below Hashira?",
+   "a": "Kinoe",
+   "p": 600
+  },
+  {
+   "q": "Where is the Final Selection held?",
+   "a": "Mount Fujikasane",
+   "p": 600,
+   "alt": [
+    "Fujikasane",
+    "Wisteria Mountain"
+   ]
+  },
+  {
+   "q": "What are the Corps' support staff who clean up after battles called?",
+   "a": "Kakushi",
+   "p": 600
+  },
+  {
+   "q": "Who is Kagaya Ubuyashiki's wife?",
+   "a": "Amane Ubuyashiki",
+   "p": 600,
+   "alt": [
+    "Amane"
+   ]
+  },
+  {
+   "q": "Which breathing style is the original from which all others derive?",
+   "a": "Sun Breathing",
+   "p": 600
+  },
+  {
+   "q": "Who is Upper Moon Five, who lives in pots?",
+   "a": "Gyokko",
+   "p": 600
+  },
+  {
+   "q": "Which drum-wielding demon rotates rooms in the Tsuzumi Mansion?",
+   "a": "Kyogai",
+   "p": 600
+  },
+  {
+   "q": "What is Nezuko's Blood Demon Art called?",
+   "a": "Exploding Blood",
+   "p": 600,
+   "alt": [
+    "Bakketsu"
+   ]
+  },
+  {
+   "q": "What is the Kocho family's home called?",
+   "a": "Butterfly Mansion",
+   "p": 600,
+   "alt": [
+    "Kocho Estate",
+    "Butterfly Estate"
+   ]
+  },
+  {
+   "q": "Which weapon does Gyutaro use?",
+   "a": "Sickles",
+   "p": 600,
+   "alt": [
+    "Blood sickles"
+   ]
+  },
+  {
+   "q": "What is the eleventh form of Water Breathing, invented by Giyu?",
+   "a": "Dead Calm",
+   "p": 600
+  },
+  {
+   "q": "On which mountain does Urokodaki live?",
+   "a": "Mount Sagiri",
+   "p": 600,
+   "alt": [
+    "Sagiri"
+   ]
+  }
+ ]
+}

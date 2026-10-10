@@ -1,0 +1,506 @@
+{
+ "id": "gcse",
+ "name": "GCSE Mix",
+ "questions": [
+  {
+   "q": "Biology: Which organelle is known as the 'powerhouse of the cell'?",
+   "a": "Mitochondria",
+   "p": 200
+  },
+  {
+   "q": "Biology: Which gas do plants take in from the air for photosynthesis?",
+   "a": "Carbon dioxide",
+   "p": 200
+  },
+  {
+   "q": "Chemistry: What is the chemical symbol for sodium?",
+   "a": "Na",
+   "p": 200
+  },
+  {
+   "q": "Chemistry: What is the chemical formula of water?",
+   "a": "H2O",
+   "p": 200
+  },
+  {
+   "q": "Physics: What is the SI unit of force?",
+   "a": "Newton",
+   "p": 200
+  },
+  {
+   "q": "Physics: Approximately how fast does light travel in a vacuum, in metres per second?",
+   "a": "About 3 x 10^8 m/s (300,000,000 m/s)",
+   "p": 200
+  },
+  {
+   "q": "Maths: What do the three angles in any triangle add up to?",
+   "a": "180 degrees",
+   "p": 200
+  },
+  {
+   "q": "Maths: What is the square root of 144?",
+   "a": "12",
+   "p": 200
+  },
+  {
+   "q": "Maths: What is the longest side of a right-angled triangle called?",
+   "a": "The hypotenuse",
+   "p": 200
+  },
+  {
+   "q": "English Literature: In Macbeth, which supernatural characters make prophecies to Macbeth and Banquo?",
+   "a": "The three witches",
+   "p": 200
+  },
+  {
+   "q": "English Literature: Who is the miserly main character of A Christmas Carol?",
+   "a": "Ebenezer Scrooge",
+   "p": 200
+  },
+  {
+   "q": "English Literature: What are the surnames of the two feuding families in Romeo and Juliet?",
+   "a": "Montague and Capulet",
+   "p": 200
+  },
+  {
+   "q": "English Literature: What are the names of the two migrant ranch workers in Of Mice and Men?",
+   "a": "George and Lennie",
+   "p": 200
+  },
+  {
+   "q": "English Literature: Who wrote the play An Inspector Calls?",
+   "a": "J. B. Priestley",
+   "p": 200
+  },
+  {
+   "q": "History: In which year did the Second World War end?",
+   "a": "1945",
+   "p": 200
+  },
+  {
+   "q": "History: At which 1066 battle did William of Normandy defeat King Harold?",
+   "a": "The Battle of Hastings",
+   "p": 200
+  },
+  {
+   "q": "History: Which leader of the Nazi Party became Chancellor of Germany in 1933?",
+   "a": "Adolf Hitler",
+   "p": 200
+  },
+  {
+   "q": "Geography: Which river is traditionally named as the longest in Africa?",
+   "a": "The Nile",
+   "p": 200
+  },
+  {
+   "q": "Geography: What type of rock forms when molten magma cools and solidifies?",
+   "a": "Igneous rock",
+   "p": 200
+  },
+  {
+   "q": "Geography: What is the name of the process by which water vapour turns into liquid droplets?",
+   "a": "Condensation",
+   "p": 200
+  },
+  {
+   "q": "Computer Science: What does CPU stand for?",
+   "a": "Central Processing Unit",
+   "p": 200
+  },
+  {
+   "q": "Computer Science: What number system uses only the digits 0 and 1?",
+   "a": "Binary",
+   "p": 200
+  },
+  {
+   "q": "French: What is the French word for 'cat'?",
+   "a": "Chat",
+   "p": 200
+  },
+  {
+   "q": "Spanish: What does 'gracias' mean in English?",
+   "a": "Thank you",
+   "p": 200
+  },
+  {
+   "q": "French: What does 'bonjour' mean in English?",
+   "a": "Hello (or good morning)",
+   "p": 200
+  },
+  {
+   "q": "Spanish: What is the Spanish word for the colour 'red'?",
+   "a": "Rojo",
+   "p": 200
+  },
+  {
+   "q": "Biology: Which organ pumps blood around the human body?",
+   "a": "The heart",
+   "p": 200
+  },
+  {
+   "q": "Chemistry: What is the pH of a neutral solution such as pure water?",
+   "a": "7",
+   "p": 200
+  },
+  {
+   "q": "Physics: What is the SI unit of electric current?",
+   "a": "Ampere (amp)",
+   "p": 200
+  },
+  {
+   "q": "Chemistry: Which gas makes up about 78% of Earth's atmosphere?",
+   "a": "Nitrogen",
+   "p": 200
+  },
+  {
+   "q": "Biology: Which molecule carries genetic information in the cell nucleus?",
+   "a": "DNA",
+   "p": 200
+  },
+  {
+   "q": "Maths: What is a polygon with eight sides called?",
+   "a": "An octagon",
+   "p": 200
+  },
+  {
+   "q": "Physics: What is the SI unit of energy?",
+   "a": "Joule",
+   "p": 200
+  },
+  {
+   "q": "Geography: What is the name of the line of latitude at 0 degrees?",
+   "a": "The Equator",
+   "p": 200
+  },
+  {
+   "q": "History: Which passenger liner sank in 1912 after hitting an iceberg on its maiden voyage?",
+   "a": "The Titanic",
+   "p": 200
+  },
+  {
+   "q": "Biology: Which enzyme in saliva begins the digestion of starch?",
+   "a": "Amylase",
+   "p": 400
+  },
+  {
+   "q": "Biology: What is the name for the movement of water across a partially permeable membrane from a dilute to a more concentrated solution?",
+   "a": "Osmosis",
+   "p": 400
+  },
+  {
+   "q": "Biology: Which plant tissue transports water and minerals up from the roots?",
+   "a": "Xylem",
+   "p": 400
+  },
+  {
+   "q": "Biology: In which plant cell structures does photosynthesis take place?",
+   "a": "Chloroplasts",
+   "p": 400
+  },
+  {
+   "q": "Biology: Which hormone, made by the pancreas, lowers blood glucose?",
+   "a": "Insulin",
+   "p": 400
+  },
+  {
+   "q": "Chemistry: What type of bond involves atoms sharing pairs of electrons?",
+   "a": "Covalent bond",
+   "p": 400
+  },
+  {
+   "q": "Chemistry: What process is used to separate crude oil into fractions?",
+   "a": "Fractional distillation",
+   "p": 400
+  },
+  {
+   "q": "Chemistry: Which group of the periodic table contains the noble gases?",
+   "a": "Group 0 (also called Group 8)",
+   "p": 400
+  },
+  {
+   "q": "Chemistry: What two products form when an acid reacts with an alkali?",
+   "a": "A salt and water",
+   "p": 400
+  },
+  {
+   "q": "Chemistry: What is the name of the process that uses electricity to break down an ionic compound?",
+   "a": "Electrolysis",
+   "p": 400
+  },
+  {
+   "q": "Physics: A resultant force of 20 N acts on a 4 kg mass. What is its acceleration in m/s^2?",
+   "a": "5 m/s^2",
+   "p": 400
+  },
+  {
+   "q": "Physics: A resistor has a potential difference of 12 V across it and a current of 3 A through it. What is its resistance in ohms?",
+   "a": "4 ohms",
+   "p": 400
+  },
+  {
+   "q": "Physics: Are sound waves transverse or longitudinal?",
+   "a": "Longitudinal",
+   "p": 400
+  },
+  {
+   "q": "Physics: Which part of the electromagnetic spectrum has the shortest wavelength?",
+   "a": "Gamma rays",
+   "p": 400
+  },
+  {
+   "q": "Physics: Which type of nuclear radiation is the least penetrating and is stopped by a sheet of paper?",
+   "a": "Alpha radiation",
+   "p": 400
+  },
+  {
+   "q": "Maths: Solve 3x + 5 = 20.",
+   "a": "x = 5",
+   "p": 400
+  },
+  {
+   "q": "Maths: What is the formula for the area of a circle with radius r?",
+   "a": "Pi x r squared (pi r^2)",
+   "p": 400
+  },
+  {
+   "q": "Maths: What is the gradient of the line y = 4x - 3?",
+   "a": "4",
+   "p": 400
+  },
+  {
+   "q": "Maths: Expand and simplify (x + 3)(x + 2).",
+   "a": "x^2 + 5x + 6",
+   "p": 400
+  },
+  {
+   "q": "Maths: What is 2 to the power of 10?",
+   "a": "1024",
+   "p": 400
+  },
+  {
+   "q": "English Literature: In Macbeth, which king of Scotland does Macbeth murder?",
+   "a": "King Duncan",
+   "p": 400
+  },
+  {
+   "q": "English Literature: In An Inspector Calls, what is the name of the young woman whose death the Inspector investigates?",
+   "a": "Eva Smith (also known as Daisy Renton)",
+   "p": 400
+  },
+  {
+   "q": "English Literature: In A Christmas Carol, what is the name of Bob Cratchit's sick youngest son?",
+   "a": "Tiny Tim",
+   "p": 400
+  },
+  {
+   "q": "English Literature: In Romeo and Juliet, which character does Romeo kill in revenge for Mercutio's death?",
+   "a": "Tybalt",
+   "p": 400
+  },
+  {
+   "q": "English Literature: In which US state is Of Mice and Men set?",
+   "a": "California",
+   "p": 400
+  },
+  {
+   "q": "History: Which 1919 treaty formally ended the First World War for Germany?",
+   "a": "The Treaty of Versailles",
+   "p": 400
+  },
+  {
+   "q": "History: Which 1929 event in the USA triggered the start of the Great Depression?",
+   "a": "The Wall Street Crash",
+   "p": 400
+  },
+  {
+   "q": "History: What name is given to the November 1938 attacks on Jewish shops, homes and synagogues in Nazi Germany?",
+   "a": "Kristallnacht (Night of Broken Glass)",
+   "p": 400
+  },
+  {
+   "q": "History: Which English king was forced to sign Magna Carta in 1215?",
+   "a": "King John",
+   "p": 400
+  },
+  {
+   "q": "Geography: What is the name of the process in which a river or the sea drops the material it is carrying?",
+   "a": "Deposition",
+   "p": 400
+  },
+  {
+   "q": "Geography: Which type of plate boundary formed the Himalayas?",
+   "a": "A collision boundary (continental-continental)",
+   "p": 400
+  },
+  {
+   "q": "Computer Science: What does RAM stand for?",
+   "a": "Random Access Memory",
+   "p": 400
+  },
+  {
+   "q": "Computer Science: What is the term for repeating a block of code, for example using a for or while loop?",
+   "a": "Iteration (looping)",
+   "p": 400
+  },
+  {
+   "q": "French: What does 'Je m'appelle' mean?",
+   "a": "My name is (I am called)",
+   "p": 400
+  },
+  {
+   "q": "Spanish: What does the Spanish word 'biblioteca' mean?",
+   "a": "Library",
+   "p": 400
+  },
+  {
+   "q": "Biology: Which structure in the kidney nephron is where ultrafiltration of the blood takes place?",
+   "a": "The glomerulus (within the Bowman's capsule)",
+   "p": 600
+  },
+  {
+   "q": "Biology: Which pituitary hormone triggers ovulation in the menstrual cycle?",
+   "a": "Luteinising hormone (LH)",
+   "p": 600
+  },
+  {
+   "q": "Biology: What is the name for a sequence of three DNA or mRNA bases that codes for one amino acid?",
+   "a": "A codon (triplet)",
+   "p": 600
+  },
+  {
+   "q": "Biology: Which plant hormone causes shoots to grow towards light by elongating cells on the shaded side?",
+   "a": "Auxin",
+   "p": 600
+  },
+  {
+   "q": "Chemistry: Taking the molar volume of a gas as 24 dm^3 at room temperature and pressure, what volume in dm^3 does 0.5 mol of gas occupy?",
+   "a": "12 dm^3",
+   "p": 600
+  },
+  {
+   "q": "Chemistry: Which homologous series has the general formula CnH2n and contains a C=C double bond?",
+   "a": "Alkenes",
+   "p": 600
+  },
+  {
+   "q": "Chemistry: Which metal is used as the catalyst in the Haber process?",
+   "a": "Iron",
+   "p": 600
+  },
+  {
+   "q": "Chemistry: What substance forms at the cathode during the electrolysis of molten lead bromide?",
+   "a": "Lead",
+   "p": 600
+  },
+  {
+   "q": "Physics: A radioactive isotope has a half-life of 6 hours. What fraction of the original sample remains after 24 hours?",
+   "a": "1/16",
+   "p": 600
+  },
+  {
+   "q": "Physics: In a step-up transformer, which coil has more turns: the primary or the secondary?",
+   "a": "The secondary coil",
+   "p": 600
+  },
+  {
+   "q": "Maths: What is the exact value of sin 60 degrees?",
+   "a": "Root 3 over 2 (sqrt(3)/2)",
+   "p": 600
+  },
+  {
+   "q": "Maths: What is the exact volume, in cm^3, of a sphere of radius 3 cm? Give your answer in terms of pi.",
+   "a": "36 pi cm^3",
+   "p": 600
+  },
+  {
+   "q": "Maths: What is the value of 8 to the power of 2/3?",
+   "a": "4",
+   "p": 600
+  },
+  {
+   "q": "Maths: Write 360 as a product of its prime factors.",
+   "a": "2^3 x 3^2 x 5",
+   "p": 600
+  },
+  {
+   "q": "Maths: A bag holds 3 red and 2 blue counters. Two are taken without replacement. What is the probability that both are red?",
+   "a": "3/10",
+   "p": 600
+  },
+  {
+   "q": "Maths: Simplify the surd root 50.",
+   "a": "5 root 2 (5 sqrt(2))",
+   "p": 600
+  },
+  {
+   "q": "Maths: After a 20% increase, a price is 60 pounds. What was the original price?",
+   "a": "50 pounds",
+   "p": 600
+  },
+  {
+   "q": "Maths: What is the size of one exterior angle of a regular decagon?",
+   "a": "36 degrees",
+   "p": 600
+  },
+  {
+   "q": "English Literature: In A Christmas Carol, what is the name of the woman Scrooge was once engaged to?",
+   "a": "Belle",
+   "p": 600
+  },
+  {
+   "q": "English Literature: In A Christmas Carol, what are the names of the two ragged children revealed by the Ghost of Christmas Present?",
+   "a": "Ignorance and Want",
+   "p": 600
+  },
+  {
+   "q": "English Literature: What is the name of the fictional industrial town where An Inspector Calls is set?",
+   "a": "Brumley",
+   "p": 600
+  },
+  {
+   "q": "English Literature: What is the first name of Arthur Birling's wife in An Inspector Calls?",
+   "a": "Sybil",
+   "p": 600
+  },
+  {
+   "q": "History: Which 1933 law gave Hitler the power to make laws without the consent of the Reichstag?",
+   "a": "The Enabling Act",
+   "p": 600
+  },
+  {
+   "q": "History: What name is given to Hitler's failed attempt to seize power in Munich in November 1923?",
+   "a": "The Munich (Beer Hall) Putsch",
+   "p": 600
+  },
+  {
+   "q": "History: Which two scientists developed penicillin into a usable drug in the early 1940s?",
+   "a": "Howard Florey and Ernst Chain",
+   "p": 600
+  },
+  {
+   "q": "Geography: Which warm ocean current brings mild weather to the west coast of the British Isles?",
+   "a": "The North Atlantic Drift",
+   "p": 600
+  },
+  {
+   "q": "Geography: What landform is created when three or more corries erode back to back into a mountain?",
+   "a": "A pyramidal peak",
+   "p": 600
+  },
+  {
+   "q": "Computer Science: What is the binary number 10110 in denary?",
+   "a": "22",
+   "p": 600
+  },
+  {
+   "q": "Computer Science: Which logic gate outputs 1 only when its two inputs are different?",
+   "a": "XOR",
+   "p": 600
+  },
+  {
+   "q": "Computer Science: Which CPU register holds the address of the next instruction to be fetched?",
+   "a": "The program counter",
+   "p": 600
+  }
+ ]
+}

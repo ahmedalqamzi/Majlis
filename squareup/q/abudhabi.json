@@ -1,0 +1,774 @@
+{
+ "id": "abudhabi",
+ "name": "Abu Dhabi",
+ "questions": [
+  {
+   "q": "Which white-marble grand mosque is Abu Dhabi's most famous landmark?",
+   "a": "Sheikh Zayed Grand Mosque",
+   "p": 200,
+   "ar": "جامع الشيخ زايد الكبير",
+   "alt": [
+    "Grand Mosque",
+    "Sheikh Zayed Mosque",
+    "Jame Sheikh Zayed"
+   ]
+  },
+  {
+   "q": "Which world-famous Paris museum has a branch on Saadiyat Island?",
+   "a": "The Louvre",
+   "p": 200
+  },
+  {
+   "q": "What is the name of Ferrari World's signature roller coaster?",
+   "a": "Formula Rossa",
+   "p": 200
+  },
+  {
+   "q": "On which island is Yas Marina Circuit located?",
+   "a": "Yas Island",
+   "p": 200,
+   "ar": "جزيرة ياس",
+   "alt": [
+    "Yas"
+   ]
+  },
+  {
+   "q": "What is the name of Abu Dhabi's seafront promenade along the Arabian Gulf?",
+   "a": "The Corniche",
+   "p": 200,
+   "ar": "الكورنيش",
+   "alt": [
+    "Corniche",
+    "Abu Dhabi Corniche"
+   ]
+  },
+  {
+   "q": "Which palatial Abu Dhabi hotel is known for serving gold-flaked cappuccinos?",
+   "a": "Emirates Palace",
+   "p": 200,
+   "ar": "قصر الإمارات",
+   "alt": [
+    "Qasr Al Emarat",
+    "Qasr Al Emirates"
+   ]
+  },
+  {
+   "q": "What is the name of Abu Dhabi's main international airport?",
+   "a": "Zayed International Airport",
+   "p": 200,
+   "ar": "مطار زايد الدولي",
+   "alt": [
+    "Abu Dhabi International Airport",
+    "Abu Dhabi Airport",
+    "AUH"
+   ]
+  },
+  {
+   "q": "Which film studio's characters, such as Batman and Bugs Bunny, feature at a Yas Island theme park?",
+   "a": "Warner Bros.",
+   "p": 200
+  },
+  {
+   "q": "Which marine-life theme park opened on Yas Island in 2023?",
+   "a": "SeaWorld Abu Dhabi",
+   "p": 200
+  },
+  {
+   "q": "Which Yas Island water park is next to Ferrari World?",
+   "a": "Yas Waterworld",
+   "p": 200
+  },
+  {
+   "q": "Which Abu Dhabi emirate city is nicknamed the Garden City?",
+   "a": "Al Ain",
+   "p": 200,
+   "ar": "العين",
+   "alt": [
+    "Al-Ain",
+    "Al Ayn"
+   ]
+  },
+  {
+   "q": "Which mountain near Al Ain is known for its winding road and city views?",
+   "a": "Jebel Hafeet",
+   "p": 200,
+   "ar": "جبل حفيت",
+   "alt": [
+    "Jabal Hafeet",
+    "Jebel Hafit",
+    "Jabal Hafit",
+    "Hafeet Mountain"
+   ]
+  },
+  {
+   "q": "Which zoo in Al Ain is known for its safari and Arabian oryx?",
+   "a": "Al Ain Zoo",
+   "p": 200,
+   "ar": "حديقة حيوان العين",
+   "alt": [
+    "Al Ain Wildlife Park"
+   ]
+  },
+  {
+   "q": "Which group of five towers stands near Emirates Palace on the Corniche?",
+   "a": "Etihad Towers",
+   "p": 200,
+   "ar": "أبراج الاتحاد",
+   "alt": [
+    "Etihad Tower",
+    "Ittihad Towers"
+   ]
+  },
+  {
+   "q": "Which Abu Dhabi palace, whose name means Palace of the Nation, is open to visitors?",
+   "a": "Qasr Al Watan",
+   "p": 200,
+   "ar": "قصر الوطن",
+   "alt": [
+    "Qasr al-Watan",
+    "Presidential Palace"
+   ]
+  },
+  {
+   "q": "Which historic white fort is the oldest stone building in Abu Dhabi city?",
+   "a": "Qasr Al Hosn",
+   "p": 200,
+   "ar": "قصر الحصن",
+   "alt": [
+    "Qasr al-Hisn",
+    "Al Hosn Fort",
+    "White Fort",
+    "Old Fort"
+   ]
+  },
+  {
+   "q": "Who was the founding president of the UAE?",
+   "a": "Sheikh Zayed bin Sultan Al Nahyan",
+   "p": 200,
+   "ar": "الشيخ زايد بن سلطان آل نهيان",
+   "alt": [
+    "Sheikh Zayed",
+    "Zayed bin Sultan"
+   ]
+  },
+  {
+   "q": "Which ruling family governs the emirate of Abu Dhabi?",
+   "a": "Al Nahyan",
+   "p": 200,
+   "ar": "آل نهيان",
+   "alt": [
+    "Nahyan",
+    "Al Nahayan",
+    "Nahyan family"
+   ]
+  },
+  {
+   "q": "Which tribal confederation is historically linked to the founding of Abu Dhabi?",
+   "a": "Bani Yas",
+   "p": 200,
+   "ar": "بنو ياس",
+   "alt": [
+    "Beni Yas",
+    "Banu Yas",
+    "Bani Yas tribe"
+   ]
+  },
+  {
+   "q": "Which Grand Prix is held at Yas Marina Circuit?",
+   "a": "Abu Dhabi Grand Prix",
+   "p": 200
+  },
+  {
+   "q": "Which American university has its Abu Dhabi campus on Saadiyat Island?",
+   "a": "New York University (NYUAD)",
+   "p": 200
+  },
+  {
+   "q": "Which national university of the UAE is based in Al Ain?",
+   "a": "UAE University",
+   "p": 200,
+   "ar": "جامعة الإمارات العربية المتحدة",
+   "alt": [
+    "UAEU",
+    "United Arab Emirates University",
+    "Emirates University"
+   ]
+  },
+  {
+   "q": "Which Abu Dhabi island is a wildlife reserve where giraffes roam?",
+   "a": "Sir Bani Yas Island",
+   "p": 200,
+   "ar": "جزيرة صير بني ياس",
+   "alt": [
+    "Sir Bani Yas",
+    "Sir Baniyas",
+    "Sir Beni Yas"
+   ]
+  },
+  {
+   "q": "Which island is a high-rise residential district known for Reem Mall?",
+   "a": "Al Reem Island",
+   "p": 200,
+   "ar": "جزيرة الريم",
+   "alt": [
+    "Reem Island",
+    "Al Reem",
+    "Reem"
+   ]
+  },
+  {
+   "q": "Which island is home to The Galleria mall and a major hospital district?",
+   "a": "Al Maryah Island",
+   "p": 200,
+   "ar": "جزيرة المارية",
+   "alt": [
+    "Maryah Island",
+    "Al Maryah",
+    "Sowwah Island"
+   ]
+  },
+  {
+   "q": "Which Abu Dhabi island is known for its beaches and Cultural District?",
+   "a": "Saadiyat Island",
+   "p": 200,
+   "ar": "جزيرة السعديات",
+   "alt": [
+    "Saadiyat",
+    "Sa'adiyat",
+    "Al Saadiyat"
+   ]
+  },
+  {
+   "q": "Which desert oasis in Abu Dhabi's Western Region is a gateway to the Empty Quarter?",
+   "a": "Liwa Oasis",
+   "p": 200,
+   "ar": "واحة ليوا",
+   "alt": [
+    "Liwa",
+    "Liwa Crescent"
+   ]
+  },
+  {
+   "q": "What is the name of Abu Dhabi emirate's large western region?",
+   "a": "Al Dhafra",
+   "p": 200,
+   "ar": "الظفرة",
+   "alt": [
+    "Dhafra",
+    "Western Region",
+    "Al Gharbia",
+    "Al Zafra"
+   ]
+  },
+  {
+   "q": "Which towering dune near Liwa is a favourite for driving and desert events?",
+   "a": "Tal Moreeb (Moreeb Dune)",
+   "p": 200,
+   "ar": "تل مرعب",
+   "alt": [
+    "Moreeb Dune",
+    "Tel Moreeb",
+    "Tal Mireeb"
+   ]
+  },
+  {
+   "q": "Which annual literary fair is held at ADNEC in Abu Dhabi?",
+   "a": "Abu Dhabi International Book Fair",
+   "p": 200,
+   "ar": "معرض أبوظبي الدولي للكتاب",
+   "alt": [
+    "ADIBF",
+    "Abu Dhabi Book Fair"
+   ]
+  },
+  {
+   "q": "How many emirates make up the UAE?",
+   "a": "Seven",
+   "p": 200
+  },
+  {
+   "q": "On what date in December is UAE National Day?",
+   "a": "2 December",
+   "p": 200
+  },
+  {
+   "q": "Which late architect designed the curving Sheikh Zayed Bridge?",
+   "a": "Zaha Hadid",
+   "p": 200
+  },
+  {
+   "q": "What colour is the huge roof of Ferrari World?",
+   "a": "Red",
+   "p": 200
+  },
+  {
+   "q": "What does the name Abu Dhabi translate to in English?",
+   "a": "Father of the gazelle",
+   "p": 200
+  },
+  {
+   "q": "Which French architect designed Louvre Abu Dhabi?",
+   "a": "Jean Nouvel",
+   "p": 400
+  },
+  {
+   "q": "In which year did Louvre Abu Dhabi open to the public?",
+   "a": "2017",
+   "p": 400
+  },
+  {
+   "q": "In which year did the Sheikh Zayed Grand Mosque open?",
+   "a": "2007",
+   "p": 400
+  },
+  {
+   "q": "How many domes crown the Sheikh Zayed Grand Mosque?",
+   "a": "82",
+   "p": 400
+  },
+  {
+   "q": "In which country was the mosque's giant hand-knotted carpet made?",
+   "a": "Iran",
+   "p": 400
+  },
+  {
+   "q": "In which year did Ferrari World Abu Dhabi open?",
+   "a": "2010",
+   "p": 400
+  },
+  {
+   "q": "In which year did Yas Waterworld open?",
+   "a": "2013",
+   "p": 400
+  },
+  {
+   "q": "In which year did Warner Bros. World Abu Dhabi open?",
+   "a": "2018",
+   "p": 400
+  },
+  {
+   "q": "In which year did Emirates Palace open?",
+   "a": "2005",
+   "p": 400
+  },
+  {
+   "q": "In which year did Qasr Al Watan open to the public?",
+   "a": "2019",
+   "p": 400
+  },
+  {
+   "q": "How many towers make up Etihad Towers?",
+   "a": "Five",
+   "p": 400
+  },
+  {
+   "q": "Which Abu Dhabi skyscraper is famous for its deliberate lean?",
+   "a": "Capital Gate",
+   "p": 400
+  },
+  {
+   "q": "Which Abu Dhabi park on the mainland is known for its mangrove boardwalks and kayaking?",
+   "a": "Jubail Mangrove Park",
+   "p": 400,
+   "ar": "منتزه جبيل للمانغروف",
+   "alt": [
+    "Jubail Mangroves",
+    "Jubail Mangrove"
+   ]
+  },
+  {
+   "q": "In which year was the first Abu Dhabi Grand Prix held?",
+   "a": "2009",
+   "p": 400
+  },
+  {
+   "q": "What is Formula Rossa's top speed in km/h?",
+   "a": "240 km/h",
+   "p": 400
+  },
+  {
+   "q": "In which year did UNESCO inscribe the Cultural Sites of Al Ain?",
+   "a": "2011",
+   "p": 400
+  },
+  {
+   "q": "Which Al Ain fort hosts an exhibition on explorer Wilfred Thesiger?",
+   "a": "Al Jahili Fort",
+   "p": 400,
+   "ar": "قلعة الجاهلي",
+   "alt": [
+    "Jahili Fort",
+    "Al Jahili",
+    "Qalat Al Jahili",
+    "Al Jahily Fort"
+   ]
+  },
+  {
+   "q": "Which founding president turned Sir Bani Yas Island into a wildlife reserve?",
+   "a": "Sheikh Zayed",
+   "p": 400,
+   "ar": "الشيخ زايد",
+   "alt": [
+    "Zayed",
+    "Sheikh Zayed bin Sultan",
+    "Sheikh Zayed bin Sultan Al Nahyan"
+   ]
+  },
+  {
+   "q": "Which Abu Dhabi university is dedicated to artificial intelligence?",
+   "a": "MBZUAI",
+   "p": 400,
+   "ar": "جامعة محمد بن زايد للذكاء الاصطناعي",
+   "alt": [
+    "Mohamed bin Zayed University of Artificial Intelligence"
+   ]
+  },
+  {
+   "q": "Which Abu Dhabi university, named after Sheikh Khalifa, focuses on science and engineering?",
+   "a": "Khalifa University",
+   "p": 400,
+   "ar": "جامعة خليفة",
+   "alt": [
+    "Khalifa University of Science and Technology",
+    "KU"
+   ]
+  },
+  {
+   "q": "Which French university has a campus on Al Reem Island?",
+   "a": "Sorbonne University Abu Dhabi",
+   "p": 400
+  },
+  {
+   "q": "Which Al Dhafra festival features a camel beauty contest?",
+   "a": "Al Dhafra Festival",
+   "p": 400,
+   "ar": "مهرجان الظفرة",
+   "alt": [
+    "Dhafra Festival",
+    "Mazayin Dhafra"
+   ]
+  },
+  {
+   "q": "What is the English name of the vast desert south of Liwa, also called Rub' al Khali?",
+   "a": "The Empty Quarter",
+   "p": 400,
+   "ar": "الربع الخالي",
+   "alt": [
+    "Rub al Khali",
+    "Rub' al Khali",
+    "Empty Quarter",
+    "Rub Al-Khali"
+   ]
+  },
+  {
+   "q": "Which annual festival near Liwa celebrates desert heritage and motorsport?",
+   "a": "Liwa International Festival",
+   "p": 400,
+   "ar": "مهرجان ليوا الدولي",
+   "alt": [
+    "Liwa Festival"
+   ]
+  },
+  {
+   "q": "Which mall is located on Al Maryah Island?",
+   "a": "The Galleria",
+   "p": 400
+  },
+  {
+   "q": "Which endangered turtle nests on Saadiyat Island beaches?",
+   "a": "Hawksbill turtle",
+   "p": 400
+  },
+  {
+   "q": "Which heritage village near Marina Mall recreates traditional Emirati life?",
+   "a": "Heritage Village",
+   "p": 400,
+   "ar": "القرية التراثية",
+   "alt": [
+    "Abu Dhabi Heritage Village"
+   ]
+  },
+  {
+   "q": "Which Abu Dhabi park is named after the Mother of the Emirates?",
+   "a": "Umm Al Emarat Park",
+   "p": 400,
+   "ar": "حديقة أم الإمارات",
+   "alt": [
+    "Umm Al Emarat",
+    "Umm Al Emirates Park"
+   ]
+  },
+  {
+   "q": "Which old port on Abu Dhabi island is home to a famous fish market?",
+   "a": "Mina Zayed",
+   "p": 400,
+   "ar": "ميناء زايد",
+   "alt": [
+    "Zayed Port",
+    "Port Zayed",
+    "Mina Zayed Port"
+   ]
+  },
+  {
+   "q": "What is the diameter of the Louvre Abu Dhabi dome, in metres?",
+   "a": "180 metres",
+   "p": 400
+  },
+  {
+   "q": "In which year did SeaWorld Abu Dhabi open?",
+   "a": "2023",
+   "p": 400
+  },
+  {
+   "q": "Which antelope, once extinct in the wild, is bred at Al Ain Zoo and symbolises the UAE?",
+   "a": "Arabian oryx",
+   "p": 400,
+   "ar": "المها العربي",
+   "alt": [
+    "Oryx",
+    "Maha",
+    "Al Maha"
+   ]
+  },
+  {
+   "q": "Which Al Ain museum was the childhood home of Sheikh Zayed?",
+   "a": "Al Ain Palace Museum",
+   "p": 400,
+   "ar": "متحف قصر العين",
+   "alt": [
+    "Qasr Al Ain",
+    "Sheikh Zayed Palace Museum",
+    "Al Ain Palace"
+   ]
+  },
+  {
+   "q": "Which desert tree is the UAE's national tree?",
+   "a": "Ghaf tree",
+   "p": 400,
+   "ar": "شجرة الغاف",
+   "alt": [
+    "Ghaf",
+    "Prosopis cineraria"
+   ]
+  },
+  {
+   "q": "Which Al Ain market is known for traditional livestock trading?",
+   "a": "Al Ain Camel Market",
+   "p": 400,
+   "ar": "سوق الإبل في العين",
+   "alt": [
+    "Camel Market",
+    "Al Ain Livestock Market"
+   ]
+  },
+  {
+   "q": "In which year was Qasr Al Hosn originally built as a watchtower?",
+   "a": "1761",
+   "p": 600
+  },
+  {
+   "q": "Which section of the Bani Yas do the Al Nahyan belong to?",
+   "a": "Al Bu Falah",
+   "p": 600,
+   "ar": "آل بو فلاح",
+   "alt": [
+    "Bu Falah",
+    "Albu Falah",
+    "Al Falah"
+   ]
+  },
+  {
+   "q": "Which oasis is regarded as the ancestral home of the Bani Yas?",
+   "a": "Liwa Oasis",
+   "p": 600,
+   "ar": "واحة ليوا",
+   "alt": [
+    "Liwa",
+    "Liwa Crescent"
+   ]
+  },
+  {
+   "q": "In which year did Sheikh Zayed bin Sultan become Ruler of Abu Dhabi?",
+   "a": "1966",
+   "p": 600
+  },
+  {
+   "q": "Which Abu Dhabi ruler, in power from 1855 to 1909, was known as Zayed the Great?",
+   "a": "Sheikh Zayed bin Khalifa Al Nahyan",
+   "p": 600,
+   "ar": "الشيخ زايد بن خليفة آل نهيان",
+   "alt": [
+    "Zayed the Great",
+    "Zayed bin Khalifa",
+    "Zayed I",
+    "Sheikh Zayed the Great"
+   ]
+  },
+  {
+   "q": "In which year did Abu Dhabi make its first crude oil export shipment?",
+   "a": "1962",
+   "p": 600
+  },
+  {
+   "q": "Which offshore field, discovered in 1958, was Abu Dhabi's first oil find at sea?",
+   "a": "Umm Shaif",
+   "p": 600,
+   "ar": "أم الشيف",
+   "alt": [
+    "Umm Shaif field",
+    "Umm Shayf",
+    "Umm Al Shaif"
+   ]
+  },
+  {
+   "q": "In which year did Qasr Al Hosn reopen after major restoration?",
+   "a": "2018",
+   "p": 600
+  },
+  {
+   "q": "Which Bronze Age archaeological park in Al Ain contains a Grand Tomb?",
+   "a": "Hili Archaeological Park",
+   "p": 600,
+   "ar": "حديقة هيلي الأثرية",
+   "alt": [
+    "Hili",
+    "Hili Park",
+    "Hili Archaeological Gardens"
+   ]
+  },
+  {
+   "q": "Which ancient beehive-shaped tombs lie at the foot of Jebel Hafeet?",
+   "a": "Hafeet tombs",
+   "p": 600,
+   "ar": "مقابر جبل حفيت",
+   "alt": [
+    "Hafit tombs",
+    "Jebel Hafeet tombs",
+    "Beehive tombs"
+   ]
+  },
+  {
+   "q": "Which small Abu Dhabi island gives its name to a Bronze Age culture?",
+   "a": "Umm an-Nar",
+   "p": 600,
+   "ar": "أم النار",
+   "alt": [
+    "Umm Al Nar",
+    "Umm al-Nar",
+    "Umm An Nar Island"
+   ]
+  },
+  {
+   "q": "Which island west of Abu Dhabi was a major historic pearling centre?",
+   "a": "Dalma Island",
+   "p": 600,
+   "ar": "جزيرة دلما",
+   "alt": [
+    "Dalma",
+    "Delma",
+    "Delma Island"
+   ]
+  },
+  {
+   "q": "In which year was Al Jahili Fort built?",
+   "a": "1891",
+   "p": 600
+  },
+  {
+   "q": "In which year was the first Abu Dhabi Book Fair held?",
+   "a": "1981",
+   "p": 600
+  },
+  {
+   "q": "Roughly how long is Yas Marina Circuit, in kilometres?",
+   "a": "About 5.3 km",
+   "p": 600
+  },
+  {
+   "q": "How many chandeliers hang in the Sheikh Zayed Grand Mosque?",
+   "a": "Seven",
+   "p": 600
+  },
+  {
+   "q": "How many minarets does the Sheikh Zayed Grand Mosque have?",
+   "a": "Four",
+   "p": 600
+  },
+  {
+   "q": "What type of 7th-century religious site was found on Sir Bani Yas Island?",
+   "a": "A Christian monastery",
+   "p": 600
+  },
+  {
+   "q": "What is the traditional ancient irrigation channel system of Al Ain called?",
+   "a": "Falaj (aflaj)",
+   "p": 600,
+   "ar": "فلج (أفلاج)",
+   "alt": [
+    "Aflaj",
+    "Falaj",
+    "Falaj system"
+   ]
+  },
+  {
+   "q": "Which town is the administrative centre of Al Dhafra region?",
+   "a": "Madinat Zayed",
+   "p": 600,
+   "ar": "مدينة زايد",
+   "alt": [
+    "Medinat Zayed",
+    "Madinat Zayid"
+   ]
+  },
+  {
+   "q": "How many layers make up the Louvre Abu Dhabi dome?",
+   "a": "Eight",
+   "p": 600
+  },
+  {
+   "q": "At roughly what angle in degrees does Capital Gate lean?",
+   "a": "18 degrees",
+   "p": 600
+  },
+  {
+   "q": "In which year was Al Ain Zoo founded?",
+   "a": "1968",
+   "p": 600
+  },
+  {
+   "q": "In which year was the Louvre Abu Dhabi intergovernmental agreement signed with France?",
+   "a": "2007",
+   "p": 600
+  },
+  {
+   "q": "What shape does the Liwa Oasis form on the map?",
+   "a": "Crescent",
+   "p": 600
+  },
+  {
+   "q": "In which year was UAE University founded?",
+   "a": "1976",
+   "p": 600
+  },
+  {
+   "q": "In which year did NYU Abu Dhabi open?",
+   "a": "2010",
+   "p": 600
+  },
+  {
+   "q": "In which year did the Sheikh Zayed Bridge open?",
+   "a": "2010",
+   "p": 600
+  },
+  {
+   "q": "In which year did construction of the Sheikh Zayed Grand Mosque begin?",
+   "a": "1996",
+   "p": 600
+  },
+  {
+   "q": "What does Saadiyat mean in English?",
+   "a": "Island of Happiness",
+   "p": 600
+  }
+ ]
+}

@@ -1,0 +1,901 @@
+{
+ "id": "egypt",
+ "name": "Egypt",
+ "questions": [
+  {
+   "q": "What is the capital of Egypt?",
+   "a": "Cairo",
+   "p": 200,
+   "ar": "القاهرة"
+  },
+  {
+   "q": "Which river is the lifeline of Egypt?",
+   "a": "The Nile",
+   "p": 200,
+   "ar": "النيل",
+   "alt": [
+    "Nile",
+    "River Nile"
+   ]
+  },
+  {
+   "q": "On which plateau near Cairo do the Great Pyramid and the Sphinx stand?",
+   "a": "Giza",
+   "p": 200,
+   "ar": "الجيزة",
+   "alt": [
+    "Giza Plateau"
+   ]
+  },
+  {
+   "q": "Which boy king's nearly intact tomb was found in 1922?",
+   "a": "Tutankhamun",
+   "p": 200,
+   "ar": "توت عنخ آمون",
+   "alt": [
+    "King Tut",
+    "Tutankhamen",
+    "Tut"
+   ]
+  },
+  {
+   "q": "Which British archaeologist discovered Tutankhamun's tomb?",
+   "a": "Howard Carter",
+   "p": 200
+  },
+  {
+   "q": "Which southern Egyptian city is home to Karnak and sits beside the Valley of the Kings?",
+   "a": "Luxor",
+   "p": 200,
+   "ar": "الأقصر"
+  },
+  {
+   "q": "Which pair of giant rock-cut temples, built by Ramesses II, was moved in the 1960s to avoid flooding?",
+   "a": "Abu Simbel",
+   "p": 200,
+   "ar": "أبو سمبل",
+   "alt": [
+    "Abu Simbel temples"
+   ]
+  },
+  {
+   "q": "Which southern city is home to a famous High Dam on the Nile?",
+   "a": "Aswan",
+   "p": 200,
+   "ar": "أسوان"
+  },
+  {
+   "q": "Which conqueror founded the city of Alexandria?",
+   "a": "Alexander the Great",
+   "p": 200,
+   "ar": "الإسكندر الأكبر",
+   "alt": [
+    "Alexander"
+   ]
+  },
+  {
+   "q": "Which sea forms Egypt's northern coast?",
+   "a": "Mediterranean Sea",
+   "p": 200,
+   "ar": "البحر المتوسط",
+   "alt": [
+    "Mediterranean"
+   ]
+  },
+  {
+   "q": "Egypt's eastern coast faces which sea, famed for coral reef diving?",
+   "a": "Red Sea",
+   "p": 200,
+   "ar": "البحر الأحمر"
+  },
+  {
+   "q": "Which man-made waterway opened in 1869, linking the Mediterranean with the Red Sea?",
+   "a": "Suez Canal",
+   "p": 200,
+   "ar": "قناة السويس",
+   "alt": [
+    "Suez"
+   ]
+  },
+  {
+   "q": "Which dish of rice, lentils, pasta and chickpeas topped with tomato sauce and crispy onions is Egypt's national dish?",
+   "a": "Koshari",
+   "p": 200,
+   "ar": "كشري",
+   "alt": [
+    "Koshary",
+    "Kushari",
+    "Kosheri"
+   ]
+  },
+  {
+   "q": "Which dish of slow-cooked fava beans is a typical Egyptian breakfast?",
+   "a": "Ful medames",
+   "p": 200,
+   "ar": "فول مدمس",
+   "alt": [
+    "Foul",
+    "Ful",
+    "Fool",
+    "Foul medames"
+   ]
+  },
+  {
+   "q": "Which English club did Mohamed Salah join in 2017?",
+   "a": "Liverpool",
+   "p": 200,
+   "ar": "ليفربول"
+  },
+  {
+   "q": "Which legendary Egyptian singer was known as 'Kawkab al-Sharq'?",
+   "a": "Umm Kulthum",
+   "p": 200,
+   "ar": "أم كلثوم",
+   "alt": [
+    "Oum Kalthoum",
+    "Um Kulthum",
+    "Umm Kalthoum"
+   ]
+  },
+  {
+   "q": "Which Ptolemaic queen is famous for her alliances with Julius Caesar and Mark Antony?",
+   "a": "Cleopatra",
+   "p": 200,
+   "ar": "كليوباترا",
+   "alt": [
+    "Cleopatra VII"
+   ]
+  },
+  {
+   "q": "Which statue with a lion's body and a human head guards the Giza plateau?",
+   "a": "The Great Sphinx",
+   "p": 200,
+   "ar": "أبو الهول",
+   "alt": [
+    "Sphinx",
+    "Sphinx of Giza"
+   ]
+  },
+  {
+   "q": "What is the ancient Egyptian practice of preserving bodies for the afterlife called?",
+   "a": "Mummification",
+   "p": 200,
+   "ar": "التحنيط",
+   "alt": [
+    "Embalming"
+   ]
+  },
+  {
+   "q": "What is the ancient Egyptian picture-based writing system called?",
+   "a": "Hieroglyphs",
+   "p": 200,
+   "ar": "الهيروغليفية",
+   "alt": [
+    "Hieroglyphics",
+    "Hieroglyphic"
+   ]
+  },
+  {
+   "q": "From which reed plant did ancient Egyptians make writing material?",
+   "a": "Papyrus",
+   "p": 200,
+   "ar": "ورق البردي",
+   "alt": [
+    "Papyrus reed"
+   ]
+  },
+  {
+   "q": "Which stone, found in 1799, helped scholars decipher hieroglyphs?",
+   "a": "Rosetta Stone",
+   "p": 200,
+   "ar": "حجر رشيد",
+   "alt": [
+    "The Rosetta Stone"
+   ]
+  },
+  {
+   "q": "Which Red Sea resort town sits at the southern tip of the Sinai Peninsula?",
+   "a": "Sharm El Sheikh",
+   "p": 200,
+   "ar": "شرم الشيخ",
+   "alt": [
+    "Sharm el-Sheikh",
+    "Sharm"
+   ]
+  },
+  {
+   "q": "Which of the Seven Wonders of the Ancient World still stands today?",
+   "a": "Great Pyramid of Giza",
+   "p": 200,
+   "ar": "الهرم الأكبر",
+   "alt": [
+    "Great Pyramid",
+    "Pyramid of Khufu",
+    "Pyramid of Cheops"
+   ]
+  },
+  {
+   "q": "Which Cairo football club, wearing red, is one of the most decorated clubs in Africa?",
+   "a": "Al Ahly",
+   "p": 200,
+   "ar": "الأهلي",
+   "alt": [
+    "Ahly",
+    "Al-Ahly"
+   ]
+  },
+  {
+   "q": "By what nickname is the Egyptian national football team known?",
+   "a": "The Pharaohs",
+   "p": 200,
+   "ar": "الفراعنة",
+   "alt": [
+    "Pharaohs"
+   ]
+  },
+  {
+   "q": "Which dessert of layered pastry, milk, nuts and raisins is a beloved Egyptian treat?",
+   "a": "Umm Ali",
+   "p": 200,
+   "ar": "أم علي",
+   "alt": [
+    "Om Ali",
+    "Oum Ali",
+    "Um Ali"
+   ]
+  },
+  {
+   "q": "What is the currency of Egypt?",
+   "a": "Egyptian pound",
+   "p": 200,
+   "ar": "الجنيه المصري",
+   "alt": [
+    "Pound",
+    "Guineh",
+    "Gineh"
+   ]
+  },
+  {
+   "q": "Which jackal-headed god was associated with mummification?",
+   "a": "Anubis",
+   "p": 200,
+   "ar": "أنوبيس",
+   "alt": [
+    "Anpu"
+   ]
+  },
+  {
+   "q": "Egypt's vast western desert is part of which huge desert?",
+   "a": "Sahara",
+   "p": 200,
+   "ar": "الصحراء الكبرى",
+   "alt": [
+    "The Sahara",
+    "Sahara Desert"
+   ]
+  },
+  {
+   "q": "Which famous bazaar in Islamic Cairo dates back to the 14th century?",
+   "a": "Khan el-Khalili",
+   "p": 200,
+   "ar": "خان الخليلي",
+   "alt": [
+    "Khan al-Khalili",
+    "Khan El Khalili"
+   ]
+  },
+  {
+   "q": "What title did the rulers of ancient Egypt bear?",
+   "a": "Pharaoh",
+   "p": 200,
+   "ar": "فرعون"
+  },
+  {
+   "q": "Which Red Sea city, popular for diving and beach holidays, lies south of Suez?",
+   "a": "Hurghada",
+   "p": 200,
+   "ar": "الغردقة"
+  },
+  {
+   "q": "Which semolina cake soaked in syrup is a popular Egyptian sweet?",
+   "a": "Basbousa",
+   "p": 200,
+   "ar": "بسبوسة",
+   "alt": [
+    "Basbusa",
+    "Basboosa"
+   ]
+  },
+  {
+   "q": "Which Mediterranean city is home to the Bibliotheca Alexandrina?",
+   "a": "Alexandria",
+   "p": 200,
+   "ar": "الإسكندرية"
+  },
+  {
+   "q": "Which Egyptian version of falafel is made from fava beans rather than chickpeas?",
+   "a": "Ta'ameya",
+   "p": 400,
+   "ar": "طعمية",
+   "alt": [
+    "Taameya",
+    "Ta'amiya",
+    "Taamiya"
+   ]
+  },
+  {
+   "q": "Which deep-red hibiscus drink is served hot or cold across Egypt?",
+   "a": "Karkadeh",
+   "p": 400,
+   "ar": "كركديه",
+   "alt": [
+    "Karkade",
+    "Hibiscus tea",
+    "Karkadé"
+   ]
+  },
+  {
+   "q": "Which pharaoh built the Great Pyramid of Giza?",
+   "a": "Khufu",
+   "p": 400,
+   "ar": "خوفو",
+   "alt": [
+    "Cheops"
+   ]
+  },
+  {
+   "q": "Which long-reigning pharaoh built Abu Simbel and is often called 'the Great'?",
+   "a": "Ramesses II",
+   "p": 400,
+   "ar": "رمسيس الثاني",
+   "alt": [
+    "Ramses II",
+    "Ramesses the Great",
+    "Ramses the Great"
+   ]
+  },
+  {
+   "q": "Which female pharaoh built a famous terraced temple at Deir el-Bahari?",
+   "a": "Hatshepsut",
+   "p": 400,
+   "ar": "حتشبسوت"
+  },
+  {
+   "q": "Which queen is known for a famous painted limestone bust now in Berlin?",
+   "a": "Nefertiti",
+   "p": 400,
+   "ar": "نفرتيتي"
+  },
+  {
+   "q": "Which vast temple complex in Luxor is famed for its Hypostyle Hall of 134 columns?",
+   "a": "Karnak",
+   "p": 400,
+   "ar": "الكرنك",
+   "alt": [
+    "Karnak Temple"
+   ]
+  },
+  {
+   "q": "Which tiered Saqqara pyramid is considered Egypt's earliest large stone pyramid?",
+   "a": "Step Pyramid of Djoser",
+   "p": 400,
+   "ar": "هرم زوسر المدرج",
+   "alt": [
+    "Step Pyramid",
+    "Djoser's Pyramid",
+    "Pyramid of Djoser",
+    "Pyramid of Zoser"
+   ]
+  },
+  {
+   "q": "Which port city sits at the northern entrance of the Suez Canal?",
+   "a": "Port Said",
+   "p": 400,
+   "ar": "بورسعيد",
+   "alt": [
+    "Bur Said"
+   ]
+  },
+  {
+   "q": "Which beetle was sacred to the ancient Egyptians as a symbol of rebirth?",
+   "a": "Scarab",
+   "p": 400,
+   "ar": "الجعران",
+   "alt": [
+    "Scarab beetle"
+   ]
+  },
+  {
+   "q": "Which Egyptian god of the afterlife is often shown with green skin?",
+   "a": "Osiris",
+   "p": 400,
+   "ar": "أوزيريس"
+  },
+  {
+   "q": "Which Cairo mosque houses one of the world's oldest continuously operating universities?",
+   "a": "Al-Azhar",
+   "p": 400,
+   "ar": "الأزهر",
+   "alt": [
+    "Al Azhar",
+    "Azhar"
+   ]
+  },
+  {
+   "q": "Which Cairo football club, nicknamed the White Knights, is Al Ahly's great rival?",
+   "a": "Zamalek",
+   "p": 400,
+   "ar": "الزمالك"
+  },
+  {
+   "q": "Which sandwich of minced meat baked inside Egyptian bread is a popular street food?",
+   "a": "Hawawshi",
+   "p": 400,
+   "ar": "حواوشي",
+   "alt": [
+    "Hawawshy",
+    "Hawawshi sandwich"
+   ]
+  },
+  {
+   "q": "What is the name of Egypt's traditional wholemeal flatbread?",
+   "a": "Aish baladi",
+   "p": 400,
+   "ar": "عيش بلدي",
+   "alt": [
+    "Eish baladi",
+    "Baladi bread"
+   ]
+  },
+  {
+   "q": "Which warm winter drink thickened with orchid root and topped with nuts is popular in Egypt?",
+   "a": "Sahlab",
+   "p": 400,
+   "ar": "سحلب",
+   "alt": [
+    "Sahlep",
+    "Salep",
+    "Sahleb"
+   ]
+  },
+  {
+   "q": "Which Egyptian novelist won the 1988 Nobel Prize in Literature?",
+   "a": "Naguib Mahfouz",
+   "p": 400,
+   "ar": "نجيب محفوظ",
+   "alt": [
+    "Mahfouz"
+   ]
+  },
+  {
+   "q": "Egypt lies in which two continents?",
+   "a": "Africa and Asia",
+   "p": 400,
+   "ar": "أفريقيا وآسيا",
+   "alt": [
+    "Asia and Africa"
+   ]
+  },
+  {
+   "q": "Which Italian club did Mohamed Salah play for before joining Liverpool?",
+   "a": "Roma",
+   "p": 400,
+   "ar": "روما",
+   "alt": [
+    "AS Roma"
+   ]
+  },
+  {
+   "q": "Which French diplomat led the company that built the Suez Canal?",
+   "a": "Ferdinand de Lesseps",
+   "p": 400,
+   "ar": "فرديناند دي ليسبس",
+   "alt": [
+    "De Lesseps",
+    "Lesseps"
+   ]
+  },
+  {
+   "q": "Which Egyptian president nationalised the Suez Canal Company in 1956?",
+   "a": "Gamal Abdel Nasser",
+   "p": 400,
+   "ar": "جمال عبد الناصر",
+   "alt": [
+    "Nasser",
+    "Abdel Nasser"
+   ]
+  },
+  {
+   "q": "What is the name of the huge reservoir created by the Aswan High Dam?",
+   "a": "Lake Nasser",
+   "p": 400,
+   "ar": "بحيرة ناصر"
+  },
+  {
+   "q": "Which remote desert oasis near the Libyan border is known for its salt lakes and ancient oracle?",
+   "a": "Siwa",
+   "p": 400,
+   "ar": "واحة سيوة",
+   "alt": [
+    "Siwa Oasis"
+   ]
+  },
+  {
+   "q": "Which monastery at the foot of Mount Sinai is one of the oldest working Christian monasteries?",
+   "a": "Saint Catherine's Monastery",
+   "p": 400,
+   "ar": "دير سانت كاترين",
+   "alt": [
+    "St Catherine's Monastery",
+    "Saint Catherine",
+    "St Catherine"
+   ]
+  },
+  {
+   "q": "Which medieval ruler began building the Cairo Citadel in the 12th century?",
+   "a": "Saladin",
+   "p": 400,
+   "ar": "صلاح الدين",
+   "alt": [
+    "Salah ad-Din",
+    "Salah al-Din"
+   ]
+  },
+  {
+   "q": "Which Egyptian actor starred in Lawrence of Arabia and Doctor Zhivago?",
+   "a": "Omar Sharif",
+   "p": 400,
+   "ar": "عمر الشريف"
+  },
+  {
+   "q": "Which Egyptian pop star is nicknamed the 'Father of Mediterranean Music'?",
+   "a": "Amr Diab",
+   "p": 400,
+   "ar": "عمرو دياب"
+  },
+  {
+   "q": "Which comic actor starred in The Yacoubian Building and many Egyptian classics?",
+   "a": "Adel Emam",
+   "p": 400,
+   "ar": "عادل إمام",
+   "alt": [
+    "Adel Imam"
+   ]
+  },
+  {
+   "q": "In which year did Howard Carter find Tutankhamun's tomb?",
+   "a": "1922",
+   "p": 400
+  },
+  {
+   "q": "Which French scholar deciphered hieroglyphs in 1822?",
+   "a": "Jean-Francois Champollion",
+   "p": 400,
+   "ar": "جان فرانسوا شامبليون",
+   "alt": [
+    "Champollion"
+   ]
+  },
+  {
+   "q": "Which fort in Alexandria stands on the site of the ancient Pharos lighthouse?",
+   "a": "Qaitbay Citadel",
+   "p": 400,
+   "ar": "قلعة قايتباي",
+   "alt": [
+    "Fort Qaitbay",
+    "Citadel of Qaitbay",
+    "Qaitbey Citadel"
+   ]
+  },
+  {
+   "q": "Which dynasty of Macedonian-Greek kings did Cleopatra belong to?",
+   "a": "Ptolemaic dynasty",
+   "p": 400,
+   "ar": "البطالمة",
+   "alt": [
+    "Ptolemaic",
+    "Ptolemies",
+    "Ptolemy"
+   ]
+  },
+  {
+   "q": "What is the oval ring drawn around a pharaoh's name in hieroglyphs called?",
+   "a": "Cartouche",
+   "p": 400,
+   "ar": "خرطوش",
+   "alt": [
+    "Cartouch"
+   ]
+  },
+  {
+   "q": "The ankh, an ancient Egyptian symbol, represents what?",
+   "a": "Life",
+   "p": 400,
+   "ar": "الحياة",
+   "alt": [
+    "Eternal life"
+   ]
+  },
+  {
+   "q": "Which ancient Egyptian funerary text guided souls through the afterlife?",
+   "a": "Book of the Dead",
+   "p": 400,
+   "ar": "كتاب الموتى",
+   "alt": [
+    "The Book of the Dead"
+   ]
+  },
+  {
+   "q": "Which Naguib Mahfouz novel opens his Cairo Trilogy?",
+   "a": "Palace Walk",
+   "p": 600,
+   "ar": "بين القصرين",
+   "alt": [
+    "Bayn al-Qasrayn",
+    "Bein El Qasreen"
+   ]
+  },
+  {
+   "q": "Which Swiss club did Mohamed Salah join in 2012 before moving to Chelsea?",
+   "a": "Basel",
+   "p": 600,
+   "ar": "بازل",
+   "alt": [
+    "FC Basel"
+   ]
+  },
+  {
+   "q": "At which Egyptian club did Mohamed Salah begin his professional career?",
+   "a": "Arab Contractors",
+   "p": 600,
+   "ar": "المقاولون العرب",
+   "alt": [
+    "El Mokawloon",
+    "Al Mokawloon",
+    "Al-Mokawloon Al-Arab"
+   ]
+  },
+  {
+   "q": "Which Egyptian-American scientist won the 1999 Nobel Prize in Chemistry?",
+   "a": "Ahmed Zewail",
+   "p": 600,
+   "ar": "أحمد زويل",
+   "alt": [
+    "Zewail"
+   ]
+  },
+  {
+   "q": "Which singer was nicknamed 'Al-Andaleeb al-Asmar', the Dark Nightingale?",
+   "a": "Abdel Halim Hafez",
+   "p": 600,
+   "ar": "عبد الحليم حافظ",
+   "alt": [
+    "Abdelhalim Hafez"
+   ]
+  },
+  {
+   "q": "Which pyramid at Dahshur, built for Sneferu, is known for its changing angle?",
+   "a": "Bent Pyramid",
+   "p": 600,
+   "ar": "الهرم المنحني",
+   "alt": [
+    "The Bent Pyramid"
+   ]
+  },
+  {
+   "q": "Which two giant seated statues of Amenhotep III stand on Luxor's west bank?",
+   "a": "Colossi of Memnon",
+   "p": 600,
+   "ar": "تمثالا ممنون",
+   "alt": [
+    "Memnon Colossi"
+   ]
+  },
+  {
+   "q": "Which pharaoh built the second-largest pyramid at Giza?",
+   "a": "Khafre",
+   "p": 600,
+   "ar": "خفرع",
+   "alt": [
+    "Chephren",
+    "Khafra"
+   ]
+  },
+  {
+   "q": "Which pharaoh built the smallest of Giza's three main pyramids?",
+   "a": "Menkaure",
+   "p": 600,
+   "ar": "منقرع",
+   "alt": [
+    "Mycerinus",
+    "Menkaura"
+   ]
+  },
+  {
+   "q": "Which official, later worshipped as a god of medicine, is credited with designing Egypt's first pyramid?",
+   "a": "Imhotep",
+   "p": 600,
+   "ar": "إمحوتب"
+  },
+  {
+   "q": "Which pharaoh moved the capital to Amarna and promoted worship of the sun disc Aten?",
+   "a": "Akhenaten",
+   "p": 600,
+   "ar": "إخناتون",
+   "alt": [
+    "Akhnaton",
+    "Amenhotep IV"
+   ]
+  },
+  {
+   "q": "Which ruler is traditionally credited with uniting Upper and Lower Egypt around 3100 BC?",
+   "a": "Narmer",
+   "p": 600,
+   "ar": "نارمر",
+   "alt": [
+    "Menes"
+   ]
+  },
+  {
+   "q": "Which ancient battle between Ramesses II and the Hittites is one of the best documented in antiquity?",
+   "a": "Battle of Kadesh",
+   "p": 600,
+   "ar": "معركة قادش",
+   "alt": [
+    "Kadesh"
+   ]
+  },
+  {
+   "q": "What is the tomb number of Tutankhamun in the Valley of the Kings?",
+   "a": "KV62",
+   "p": 600,
+   "ar": "KV62",
+   "alt": [
+    "KV 62"
+   ]
+  },
+  {
+   "q": "Which queen, wife of Ramesses II, has a richly painted tomb in the Valley of the Queens?",
+   "a": "Nefertari",
+   "p": 600,
+   "ar": "نفرتاري"
+  },
+  {
+   "q": "Which temple on the Nile near Aswan was dismantled and rebuilt on Agilkia Island?",
+   "a": "Philae",
+   "p": 600,
+   "ar": "فيلة",
+   "alt": [
+    "Philae Temple",
+    "Temple of Isis at Philae"
+   ]
+  },
+  {
+   "q": "Which crocodile god shared the double temple at Kom Ombo with Horus?",
+   "a": "Sobek",
+   "p": 600,
+   "ar": "سوبك",
+   "alt": [
+    "Sobk"
+   ]
+  },
+  {
+   "q": "Which Egyptian temple, the best preserved in the country, is dedicated to Horus?",
+   "a": "Edfu",
+   "p": 600,
+   "ar": "إدفو",
+   "alt": [
+    "Temple of Edfu",
+    "Temple of Horus at Edfu",
+    "Idfu"
+   ]
+  },
+  {
+   "q": "In which Paris square does an obelisk from Luxor Temple stand?",
+   "a": "Place de la Concorde",
+   "p": 600,
+   "ar": "ميدان الكونكورد",
+   "alt": [
+    "Concorde"
+   ]
+  },
+  {
+   "q": "Which Egyptian board game, played by pharaohs and commoners, is among the oldest known?",
+   "a": "Senet",
+   "p": 600,
+   "ar": "سنت"
+  },
+  {
+   "q": "In which decade was Abu Simbel moved to higher ground?",
+   "a": "1960s",
+   "p": 600,
+   "ar": "الستينيات",
+   "alt": [
+    "Sixties",
+    "1964 to 1968"
+   ]
+  },
+  {
+   "q": "Roughly how tall was the Great Pyramid of Giza originally, in metres?",
+   "a": "146 m",
+   "p": 600,
+   "ar": "146 م",
+   "alt": [
+    "146.6",
+    "147",
+    "About 146",
+    "146.6 m"
+   ]
+  },
+  {
+   "q": "Which Naguib Mahfouz novel is set in a Cairo lane?",
+   "a": "Midaq Alley",
+   "p": 600,
+   "ar": "زقاق المدق",
+   "alt": [
+    "Zuqaq al-Midaq"
+   ]
+  },
+  {
+   "q": "By what Arabic title meaning 'Star of the East' was Umm Kulthum known?",
+   "a": "Kawkab al-Sharq",
+   "p": 600,
+   "ar": "كوكب الشرق"
+  },
+  {
+   "q": "In which year did Egypt become the first African nation to play at a FIFA World Cup?",
+   "a": "1934",
+   "p": 600
+  },
+  {
+   "q": "Which dynasty founded Cairo in 969 CE?",
+   "a": "Fatimid dynasty",
+   "p": 600,
+   "ar": "الفاطميون",
+   "alt": [
+    "Fatimids",
+    "Fatimid"
+   ]
+  },
+  {
+   "q": "Which Cairo mosque, built in the 9th century, is known for its spiral minaret?",
+   "a": "Mosque of Ibn Tulun",
+   "p": 600,
+   "ar": "مسجد ابن طولون",
+   "alt": [
+    "Ibn Tulun Mosque",
+    "Ibn Tulun"
+   ]
+  },
+  {
+   "q": "What is the name of Egypt's highest mountain, near Saint Catherine's Monastery?",
+   "a": "Mount Catherine",
+   "p": 600,
+   "ar": "جبل كاترين",
+   "alt": [
+    "Gebel Katherina",
+    "Jebel Katherina",
+    "Mount Katherine"
+   ]
+  },
+  {
+   "q": "What is the name of the huge depression in Egypt's Western Desert that reaches about 133 m below sea level?",
+   "a": "Qattara Depression",
+   "p": 600,
+   "ar": "منخفض القطارة",
+   "alt": [
+    "Qattara"
+   ]
+  },
+  {
+   "q": "Which valley in the Western Desert, a UNESCO site, preserves fossils of early whales?",
+   "a": "Wadi Al-Hitan",
+   "p": 600,
+   "ar": "وادي الحيتان",
+   "alt": [
+    "Valley of the Whales",
+    "Wadi El Hitan"
+   ]
+  }
+ ]
+}

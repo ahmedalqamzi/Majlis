@@ -1,0 +1,506 @@
+{
+ "id": "brands",
+ "name": "Brands",
+ "questions": [
+  {
+   "q": "IKEA was founded in which country?",
+   "a": "Sweden",
+   "p": 200
+  },
+  {
+   "q": "Toyota was founded in which country?",
+   "a": "Japan",
+   "p": 200
+  },
+  {
+   "q": "Which fast food chain is known for its golden arches?",
+   "a": "McDonald's",
+   "p": 200
+  },
+  {
+   "q": "Adidas was founded in which country?",
+   "a": "Germany",
+   "p": 200
+  },
+  {
+   "q": "LEGO was founded in which country?",
+   "a": "Denmark",
+   "p": 200
+  },
+  {
+   "q": "Coca-Cola was founded in which country?",
+   "a": "USA",
+   "p": 200
+  },
+  {
+   "q": "Which sportswear brand uses the slogan 'Just Do It'?",
+   "a": "Nike",
+   "p": 200
+  },
+  {
+   "q": "Ferrari was founded in which country?",
+   "a": "Italy",
+   "p": 200
+  },
+  {
+   "q": "Which Japanese company makes the PlayStation?",
+   "a": "Sony",
+   "p": 200
+  },
+  {
+   "q": "Which burger chain sells the Whopper?",
+   "a": "Burger King",
+   "p": 200
+  },
+  {
+   "q": "Which Dubai-based airline was founded in 1985?",
+   "a": "Emirates",
+   "p": 200
+  },
+  {
+   "q": "Which Abu Dhabi-based airline was founded in 2003?",
+   "a": "Etihad",
+   "p": 200
+  },
+  {
+   "q": "Which Italian company makes Nutella?",
+   "a": "Ferrero",
+   "p": 200
+  },
+  {
+   "q": "Which company makes Barbie dolls?",
+   "a": "Mattel",
+   "p": 200
+  },
+  {
+   "q": "Which company makes Snickers bars?",
+   "a": "Mars",
+   "p": 200
+  },
+  {
+   "q": "Which German carmaker made the Beetle?",
+   "a": "Volkswagen",
+   "p": 200
+  },
+  {
+   "q": "Netflix started by renting what by mail?",
+   "a": "DVDs",
+   "p": 200
+  },
+  {
+   "q": "Amazon began as an online seller of which product?",
+   "a": "Books",
+   "p": 200
+  },
+  {
+   "q": "Which Japanese brand makes the Civic?",
+   "a": "Honda",
+   "p": 200
+  },
+  {
+   "q": "Which brand's logo features a leaping cat?",
+   "a": "Puma",
+   "p": 200
+  },
+  {
+   "q": "Which company makes the Model S electric car?",
+   "a": "Tesla",
+   "p": 200
+  },
+  {
+   "q": "Which company makes Galaxy smartphones?",
+   "a": "Samsung",
+   "p": 200
+  },
+  {
+   "q": "Which company created Mickey Mouse?",
+   "a": "Disney",
+   "p": 200
+  },
+  {
+   "q": "What does the C in KFC stand for?",
+   "a": "Chicken",
+   "p": 200
+  },
+  {
+   "q": "Which German luxury carmaker has a three-pointed star logo?",
+   "a": "Mercedes-Benz",
+   "p": 200
+  },
+  {
+   "q": "Which carmaker's logo has four interlocking rings?",
+   "a": "Audi",
+   "p": 200
+  },
+  {
+   "q": "Which Swedish company runs a famous music streaming service?",
+   "a": "Spotify",
+   "p": 200
+  },
+  {
+   "q": "Which Japanese company created Mario?",
+   "a": "Nintendo",
+   "p": 200
+  },
+  {
+   "q": "Which Italian fashion house uses a double-G logo?",
+   "a": "Gucci",
+   "p": 200
+  },
+  {
+   "q": "Which company makes the Windows operating system?",
+   "a": "Microsoft",
+   "p": 200
+  },
+  {
+   "q": "Which carmaker makes the Mustang?",
+   "a": "Ford",
+   "p": 200
+  },
+  {
+   "q": "Which company runs the video site YouTube?",
+   "a": "Google",
+   "p": 200
+  },
+  {
+   "q": "Hyundai was founded in which country?",
+   "a": "South Korea",
+   "p": 200
+  },
+  {
+   "q": "Which animal is the Lacoste logo?",
+   "a": "Crocodile",
+   "p": 200
+  },
+  {
+   "q": "Which animal features in the Lamborghini logo?",
+   "a": "Bull",
+   "p": 200
+  },
+  {
+   "q": "Nintendo began in 1889 making what traditional items?",
+   "a": "Playing cards",
+   "p": 400
+  },
+  {
+   "q": "Google's name is a play on which very large number?",
+   "a": "Googol",
+   "p": 400
+  },
+  {
+   "q": "Samsung means 'three stars' in which language?",
+   "a": "Korean",
+   "p": 400
+  },
+  {
+   "q": "Nestle was founded in which country?",
+   "a": "Switzerland",
+   "p": 400
+  },
+  {
+   "q": "Fashion brand Zara was founded in which country?",
+   "a": "Spain",
+   "p": 400
+  },
+  {
+   "q": "The name LEGO comes from Danish words meaning what in English?",
+   "a": "Play well",
+   "p": 400
+  },
+  {
+   "q": "Starbucks is named after a character in which novel?",
+   "a": "Moby-Dick",
+   "p": 400
+  },
+  {
+   "q": "Which company makes the board game Monopoly?",
+   "a": "Hasbro",
+   "p": 400
+  },
+  {
+   "q": "Almarai is a major dairy brand from which country?",
+   "a": "Saudi Arabia",
+   "p": 400
+  },
+  {
+   "q": "Which Dubai developer built the Burj Khalifa?",
+   "a": "Emaar",
+   "p": 400
+  },
+  {
+   "q": "Aramex, a courier company, is headquartered in which UAE city?",
+   "a": "Dubai",
+   "p": 400
+  },
+  {
+   "q": "Adidas is named after the nickname of its founder. What was it?",
+   "a": "Adi",
+   "p": 400
+  },
+  {
+   "q": "Volvo was founded in which country?",
+   "a": "Sweden",
+   "p": 400
+  },
+  {
+   "q": "Heineken beer comes from which country?",
+   "a": "Netherlands",
+   "p": 400
+  },
+  {
+   "q": "Rolex was founded in which country?",
+   "a": "Switzerland",
+   "p": 400
+  },
+  {
+   "q": "Louis Vuitton was founded in which country?",
+   "a": "France",
+   "p": 400
+  },
+  {
+   "q": "Red Bull energy drink was founded in which country?",
+   "a": "Austria",
+   "p": 400
+  },
+  {
+   "q": "Nike is named after the Greek goddess of what?",
+   "a": "Victory",
+   "p": 400
+  },
+  {
+   "q": "Volkswagen means what in English?",
+   "a": "People's car",
+   "p": 400
+  },
+  {
+   "q": "Who co-founded Microsoft with Bill Gates?",
+   "a": "Paul Allen",
+   "p": 400
+  },
+  {
+   "q": "Who founded Walmart?",
+   "a": "Sam Walton",
+   "p": 400
+  },
+  {
+   "q": "Which brother co-founded Disney with Walt Disney?",
+   "a": "Roy",
+   "p": 400
+  },
+  {
+   "q": "Who co-founded Google with Larry Page?",
+   "a": "Sergey Brin",
+   "p": 400
+  },
+  {
+   "q": "In which US city was Coca-Cola created in 1886?",
+   "a": "Atlanta",
+   "p": 400
+  },
+  {
+   "q": "At which university was Facebook created?",
+   "a": "Harvard",
+   "p": 400
+  },
+  {
+   "q": "Lenovo was founded in which country?",
+   "a": "China",
+   "p": 400
+  },
+  {
+   "q": "Tata Group was founded in which country?",
+   "a": "India",
+   "p": 400
+  },
+  {
+   "q": "Burberry was founded in which country?",
+   "a": "United Kingdom",
+   "p": 400
+  },
+  {
+   "q": "Etisalat means what in English?",
+   "a": "Communications",
+   "p": 400
+  },
+  {
+   "q": "Which Chinese company, founded by Jack Ma, runs the e-commerce site Taobao and Tmall?",
+   "a": "Alibaba",
+   "p": 400
+  },
+  {
+   "q": "Which luxury group owns Louis Vuitton, Dior and Hennessy?",
+   "a": "LVMH",
+   "p": 400
+  },
+  {
+   "q": "Which Dutch company, founded in 1891, is known for lighting and electric shavers?",
+   "a": "Philips",
+   "p": 400
+  },
+  {
+   "q": "Which Dubai-based company is one of the world's largest port operators?",
+   "a": "DP World",
+   "p": 400
+  },
+  {
+   "q": "Which Abu Dhabi-headquartered hypermarket chain was founded by M. A. Yusuff Ali?",
+   "a": "Lulu",
+   "p": 400
+  },
+  {
+   "q": "Which Emirati group operates Carrefour in the UAE and Mall of the Emirates?",
+   "a": "Majid Al Futtaim",
+   "p": 400
+  },
+  {
+   "q": "Nokia began in 1865 as what kind of mill?",
+   "a": "Paper mill (pulp mill)",
+   "p": 600
+  },
+  {
+   "q": "Puma was founded by the brother of Adidas's founder. What was his first name?",
+   "a": "Rudolf",
+   "p": 600
+  },
+  {
+   "q": "Toyota's origins lie in a business that made what kind of machines?",
+   "a": "Automatic looms",
+   "p": 600
+  },
+  {
+   "q": "The 'K' in IKEA stands for the surname of which founder?",
+   "a": "Kamprad",
+   "p": 600
+  },
+  {
+   "q": "What was Pepsi originally called before 1898?",
+   "a": "Brad's Drink",
+   "p": 600
+  },
+  {
+   "q": "Gucci was founded in which Italian city?",
+   "a": "Florence",
+   "p": 600
+  },
+  {
+   "q": "Haribo's name combines its founder's name with which German city?",
+   "a": "Bonn",
+   "p": 600
+  },
+  {
+   "q": "Audi's name is Latin for what English word, translating founder Horch's surname?",
+   "a": "Listen (hark)",
+   "p": 600
+  },
+  {
+   "q": "H&M is short for Hennes and what?",
+   "a": "Mauritz",
+   "p": 600
+  },
+  {
+   "q": "In which year was Samsung founded?",
+   "a": "1938",
+   "p": 600
+  },
+  {
+   "q": "Yamaha began in 1887 making which keyboard instrument?",
+   "a": "Reed organ",
+   "p": 600
+  },
+  {
+   "q": "Who co-founded Sony with Masaru Ibuka?",
+   "a": "Akio Morita",
+   "p": 600
+  },
+  {
+   "q": "In which US state was Pepsi created?",
+   "a": "North Carolina",
+   "p": 600
+  },
+  {
+   "q": "Adidas and Puma were both founded in which Bavarian town?",
+   "a": "Herzogenaurach",
+   "p": 600
+  },
+  {
+   "q": "The Mercedes name came from the daughter of which businessman?",
+   "a": "Emil Jellinek",
+   "p": 600
+  },
+  {
+   "q": "Toyota was originally spelled with which family name?",
+   "a": "Toyoda",
+   "p": 600
+  },
+  {
+   "q": "The E in IKEA stands for which farm where Kamprad grew up?",
+   "a": "Elmtaryd",
+   "p": 600
+  },
+  {
+   "q": "Who founded Nintendo in 1889?",
+   "a": "Fusajiro Yamauchi",
+   "p": 600
+  },
+  {
+   "q": "Lamborghini's founder first built what kind of vehicles?",
+   "a": "Tractors",
+   "p": 600
+  },
+  {
+   "q": "Which founder started Rolex?",
+   "a": "Hans Wilsdorf",
+   "p": 600
+  },
+  {
+   "q": "Hermes began in 1837 making what for horses?",
+   "a": "Harnesses",
+   "p": 600
+  },
+  {
+   "q": "Louis Vuitton started out making what travel item?",
+   "a": "Trunks",
+   "p": 600
+  },
+  {
+   "q": "Almarai means what in English?",
+   "a": "Pastures",
+   "p": 600
+  },
+  {
+   "q": "Aramex was founded in 1982 in which capital city?",
+   "a": "Amman",
+   "p": 600
+  },
+  {
+   "q": "Hyundai means what in Korean?",
+   "a": "Modernity",
+   "p": 600
+  },
+  {
+   "q": "LG originally stood for Lucky and what?",
+   "a": "Goldstar",
+   "p": 600
+  },
+  {
+   "q": "Who founded LEGO?",
+   "a": "Ole Kirk Christiansen",
+   "p": 600
+  },
+  {
+   "q": "Who founded the Swedish fashion retailer H&M in 1947?",
+   "a": "Erling Persson",
+   "p": 600
+  },
+  {
+   "q": "Which man founded the Heineken brewing company in Amsterdam in 1864?",
+   "a": "Gerard Adriaan Heineken",
+   "p": 600
+  },
+  {
+   "q": "Who founded the Chinese telecoms company Huawei in 1987?",
+   "a": "Ren Zhengfei",
+   "p": 600
+  }
+ ]
+}

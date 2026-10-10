@@ -1,0 +1,521 @@
+{
+ "id": "oscars",
+ "name": "Oscar Awards",
+ "questions": [
+  {
+   "q": "Which James Cameron film won Best Picture at the Oscars ceremony held in 1998?",
+   "a": "Titanic",
+   "p": 200
+  },
+  {
+   "q": "Which film won Best Picture at the Oscars ceremony held in 2001?",
+   "a": "Gladiator",
+   "p": 200
+  },
+  {
+   "q": "Which film won Best Picture at the Oscars ceremony held in 2004, sweeping all 11 of its nominations?",
+   "a": "The Lord of the Rings: The Return of the King",
+   "p": 200
+  },
+  {
+   "q": "Which film won Best Picture at the Oscars ceremony held in 2020, becoming the first non-English-language winner?",
+   "a": "Parasite",
+   "p": 200
+  },
+  {
+   "q": "Which film won Best Picture at the Oscars ceremony held in 2023?",
+   "a": "Everything Everywhere All at Once",
+   "p": 200
+  },
+  {
+   "q": "Which film won Best Picture at the Oscars ceremony held in 2024?",
+   "a": "Oppenheimer",
+   "p": 200
+  },
+  {
+   "q": "Which film won Best Picture at the Oscars ceremony held in 2025?",
+   "a": "Anora",
+   "p": 200
+  },
+  {
+   "q": "Who won Best Director at the Oscars ceremony held in 2024?",
+   "a": "Christopher Nolan",
+   "p": 200
+  },
+  {
+   "q": "Who won Best Director at the Oscars ceremony held in 2020 for Parasite?",
+   "a": "Bong Joon Ho",
+   "p": 200
+  },
+  {
+   "q": "Who won Best Actor at the Oscars ceremony held in 2024 for Oppenheimer?",
+   "a": "Cillian Murphy",
+   "p": 200
+  },
+  {
+   "q": "Who won Best Actor at the Oscars ceremony held in 2023 for The Whale?",
+   "a": "Brendan Fraser",
+   "p": 200
+  },
+  {
+   "q": "Who won Best Actor at the Oscars ceremony held in 2020 for Joker?",
+   "a": "Joaquin Phoenix",
+   "p": 200
+  },
+  {
+   "q": "Who won Best Actor at the Oscars ceremony held in 2016 for The Revenant?",
+   "a": "Leonardo DiCaprio",
+   "p": 200
+  },
+  {
+   "q": "Who won Best Actor at the Oscars ceremony held in 2022 for King Richard?",
+   "a": "Will Smith",
+   "p": 200
+  },
+  {
+   "q": "Who won Best Actor at the Oscars ceremony held in 2019 for playing Freddie Mercury?",
+   "a": "Rami Malek",
+   "p": 200
+  },
+  {
+   "q": "Who won Best Actor at the Oscars ceremony held in 2001 for Gladiator?",
+   "a": "Russell Crowe",
+   "p": 200
+  },
+  {
+   "q": "Who won Best Actress at the Oscars ceremony held in 2024 for Poor Things?",
+   "a": "Emma Stone",
+   "p": 200
+  },
+  {
+   "q": "Who won Best Actress at the Oscars ceremony held in 2023 for Everything Everywhere All at Once?",
+   "a": "Michelle Yeoh",
+   "p": 200
+  },
+  {
+   "q": "Who won Best Actress at the Oscars ceremony held in 2025 for Anora?",
+   "a": "Mikey Madison",
+   "p": 200
+  },
+  {
+   "q": "Which Disney film won Best Animated Feature at the Oscars ceremony held in 2014?",
+   "a": "Frozen",
+   "p": 200
+  },
+  {
+   "q": "Which Pixar film won Best Animated Feature at the Oscars ceremony held in 2010?",
+   "a": "Up",
+   "p": 200
+  },
+  {
+   "q": "Which Pixar film about a robot won Best Animated Feature at the Oscars ceremony held in 2009?",
+   "a": "WALL-E",
+   "p": 200
+  },
+  {
+   "q": "Which Pixar film about a Mexican festival won Best Animated Feature at the Oscars ceremony held in 2018?",
+   "a": "Coco",
+   "p": 200
+  },
+  {
+   "q": "What is the popular nickname of the Academy Award statuette?",
+   "a": "Oscar",
+   "p": 200
+  },
+  {
+   "q": "What does the Oscar statuette depict?",
+   "a": "A knight holding a sword, standing on a film reel",
+   "p": 200
+  },
+  {
+   "q": "What does the Academy in the Academy Awards stand for?",
+   "a": "Academy of Motion Picture Arts and Sciences",
+   "p": 200
+  },
+  {
+   "q": "In which US city are the Oscars held each year?",
+   "a": "Los Angeles (Hollywood)",
+   "p": 200
+  },
+  {
+   "q": "Which comedian hosted the Oscars in 2025?",
+   "a": "Conan O'Brien",
+   "p": 200
+  },
+  {
+   "q": "Which late-night host hosted the Oscars in both 2023 and 2024?",
+   "a": "Jimmy Kimmel",
+   "p": 200
+  },
+  {
+   "q": "Which comedian did Will Smith slap on stage at the 2022 Oscars?",
+   "a": "Chris Rock",
+   "p": 200
+  },
+  {
+   "q": "Which film was mistakenly announced as Best Picture before Moonlight was named the true winner in 2017?",
+   "a": "La La Land",
+   "p": 200
+  },
+  {
+   "q": "Which Celine Dion song from Titanic won Best Original Song?",
+   "a": "My Heart Will Go On",
+   "p": 200
+  },
+  {
+   "q": "Which film won Best Picture at the Oscars ceremony held in 1995, starring Tom Hanks as a man who tells his life story on a bench?",
+   "a": "Forrest Gump",
+   "p": 200
+  },
+  {
+   "q": "Which film was the first to win 11 Academy Awards?",
+   "a": "Ben-Hur (1959)",
+   "p": 400
+  },
+  {
+   "q": "Which two later films matched Ben-Hur's record of 11 Oscar wins?",
+   "a": "Titanic and The Lord of the Rings: The Return of the King",
+   "p": 400
+  },
+  {
+   "q": "How many Oscar nominations did Titanic receive, a record shared with All About Eve and La La Land?",
+   "a": "14",
+   "p": 400
+  },
+  {
+   "q": "How many Oscars did Oppenheimer win at the Oscars ceremony held in 2024?",
+   "a": "7",
+   "p": 400
+  },
+  {
+   "q": "Which film won Best Picture at the Oscars ceremony held in 2008?",
+   "a": "No Country for Old Men",
+   "p": 400
+  },
+  {
+   "q": "Which Martin Scorsese crime film won Best Picture at the Oscars ceremony held in 2007?",
+   "a": "The Departed",
+   "p": 400
+  },
+  {
+   "q": "Which film won Best Picture at the Oscars ceremony held in 2009, featuring a song called 'Jai Ho'?",
+   "a": "Slumdog Millionaire",
+   "p": 400
+  },
+  {
+   "q": "Which film won Best Picture at the Oscars ceremony held in 2010?",
+   "a": "The Hurt Locker",
+   "p": 400
+  },
+  {
+   "q": "Which film about Boston Globe journalists won Best Picture at the Oscars ceremony held in 2016?",
+   "a": "Spotlight",
+   "p": 400
+  },
+  {
+   "q": "Which film won Best Picture at the Oscars ceremony held in 2019?",
+   "a": "Green Book",
+   "p": 400
+  },
+  {
+   "q": "Which film won Best Picture at the Oscars ceremony held in 2021?",
+   "a": "Nomadland",
+   "p": 400
+  },
+  {
+   "q": "Which film won Best Picture at the Oscars ceremony held in 2022?",
+   "a": "CODA",
+   "p": 400
+  },
+  {
+   "q": "Who won Best Director at the Oscars ceremony held in 2021 for Nomadland?",
+   "a": "Chloé Zhao",
+   "p": 400
+  },
+  {
+   "q": "Who won Best Director at the Oscars ceremony held in 2010 for The Hurt Locker, becoming the first woman to win the award?",
+   "a": "Kathryn Bigelow",
+   "p": 400
+  },
+  {
+   "q": "Who won Best Actor at the Oscars ceremony held in 2025 for The Brutalist?",
+   "a": "Adrien Brody",
+   "p": 400
+  },
+  {
+   "q": "Who won Best Actress at the Oscars ceremony held in 2020 for playing Judy Garland in Judy?",
+   "a": "Renée Zellweger",
+   "p": 400
+  },
+  {
+   "q": "Which film won Best Animated Feature at the Oscars ceremony held in 2019, introducing Miles Morales?",
+   "a": "Spider-Man: Into the Spider-Verse",
+   "p": 400
+  },
+  {
+   "q": "Which Japanese film directed by Hayao Miyazaki won Best Animated Feature at the Oscars ceremony held in 2024?",
+   "a": "The Boy and the Heron",
+   "p": 400
+  },
+  {
+   "q": "Which Latvian film with no dialogue won Best Animated Feature at the Oscars ceremony held in 2025?",
+   "a": "Flow",
+   "p": 400
+  },
+  {
+   "q": "Which actress holds the record for the most Oscar acting nominations (21)?",
+   "a": "Meryl Streep",
+   "p": 400
+  },
+  {
+   "q": "Which actor is the only man to win three Best Actor Oscars (My Left Foot, There Will Be Blood, Lincoln)?",
+   "a": "Daniel Day-Lewis",
+   "p": 400
+  },
+  {
+   "q": "Which actress holds the record with four Best Actress Oscars?",
+   "a": "Katharine Hepburn",
+   "p": 400
+  },
+  {
+   "q": "Who holds the record for most Oscars won by one person, with 22 competitive awards?",
+   "a": "Walt Disney",
+   "p": 400
+  },
+  {
+   "q": "Which Lebanese film directed by Nadine Labaki was nominated for Best Foreign Language Film in 2019?",
+   "a": "Capernaum",
+   "p": 400
+  },
+  {
+   "q": "Which Egyptian-American actor won Best Actor for Bohemian Rhapsody?",
+   "a": "Rami Malek",
+   "p": 400
+  },
+  {
+   "q": "Which documentary about the West Bank, made by a Palestinian-Israeli collective, won Best Documentary Feature in 2025?",
+   "a": "No Other Land",
+   "p": 400
+  },
+  {
+   "q": "Which Iranian director won two Oscars for A Separation and The Salesman?",
+   "a": "Asghar Farhadi",
+   "p": 400
+  },
+  {
+   "q": "Which Indian song from RRR won Best Original Song in 2023?",
+   "a": "Naatu Naatu",
+   "p": 400
+  },
+  {
+   "q": "Which Indian composer won two Oscars for Slumdog Millionaire?",
+   "a": "A. R. Rahman",
+   "p": 400
+  },
+  {
+   "q": "Which Brazilian film won Best International Feature in 2025?",
+   "a": "I'm Still Here",
+   "p": 400
+  },
+  {
+   "q": "Which Korean actress became the first from her country to win an acting Oscar, for Minari?",
+   "a": "Yuh-Jung Youn",
+   "p": 400
+  },
+  {
+   "q": "Which comedian hosted the Oscars a record nine times, including in 2012?",
+   "a": "Billy Crystal",
+   "p": 400
+  },
+  {
+   "q": "Who was the first Black woman to win Best Actress, for Monster's Ball?",
+   "a": "Halle Berry",
+   "p": 400
+  },
+  {
+   "q": "Which Egyptian actor was nominated for Best Supporting Actor for Lawrence of Arabia?",
+   "a": "Omar Sharif",
+   "p": 600
+  },
+  {
+   "q": "Which Palestinian film directed by Hany Abu-Assad was nominated for Best Foreign Language Film in 2006?",
+   "a": "Paradise Now",
+   "p": 600
+  },
+  {
+   "q": "Which other Hany Abu-Assad film was nominated for Best Foreign Language Film in 2014?",
+   "a": "Omar",
+   "p": 600
+  },
+  {
+   "q": "Which Jordanian Bedouin adventure film was nominated for Best Foreign Language Film in 2016?",
+   "a": "Theeb",
+   "p": 600
+  },
+  {
+   "q": "Which Lebanese film directed by Ziad Doueiri was nominated for Best Foreign Language Film in 2018?",
+   "a": "The Insult",
+   "p": 600
+  },
+  {
+   "q": "Which Tunisian film by Kaouther Ben Hania was nominated for Best International Feature in 2021?",
+   "a": "The Man Who Sold His Skin",
+   "p": 600
+  },
+  {
+   "q": "Which Tunisian film by Kaouther Ben Hania was nominated for Best Documentary Feature in 2024?",
+   "a": "Four Daughters",
+   "p": 600
+  },
+  {
+   "q": "Which Syrian documentary by Waad al-Kateab was nominated for Best Documentary Feature in 2020?",
+   "a": "For Sama",
+   "p": 600
+  },
+  {
+   "q": "Which Syrian documentary by Feras Fayyad, set in an underground hospital, was nominated in 2020?",
+   "a": "The Cave",
+   "p": 600
+  },
+  {
+   "q": "Which Japanese film directed by Ryusuke Hamaguchi was nominated for Best Picture in 2022?",
+   "a": "Drive My Car",
+   "p": 600
+  },
+  {
+   "q": "Which Japanese film won Best Visual Effects in 2024?",
+   "a": "Godzilla Minus One",
+   "p": 600
+  },
+  {
+   "q": "Which Mexican film by Alfonso Cuarón was the first Netflix film nominated for Best Picture?",
+   "a": "Roma",
+   "p": 600
+  },
+  {
+   "q": "Which German film won Best International Feature in 2023?",
+   "a": "All Quiet on the Western Front",
+   "p": 600
+  },
+  {
+   "q": "Which Italian star was the first performer to win an acting Oscar for a non-English-language role, in Two Women?",
+   "a": "Sophia Loren",
+   "p": 600
+  },
+  {
+   "q": "Which Italian actor won Best Actor for Life Is Beautiful in 1999?",
+   "a": "Roberto Benigni",
+   "p": 600
+  },
+  {
+   "q": "How many Oscar nominations did Emilia Perez receive in 2025, a record for a non-English-language film?",
+   "a": "13",
+   "p": 600
+  },
+  {
+   "q": "Which director won four Oscars in a single night in 2025, matching Walt Disney's 1954 record?",
+   "a": "Sean Baker",
+   "p": 600
+  },
+  {
+   "q": "Who was the third woman to win Best Director, for The Power of the Dog?",
+   "a": "Jane Campion",
+   "p": 600
+  },
+  {
+   "q": "Which two presenters opened the wrong envelope at the 2017 Oscars?",
+   "a": "Warren Beatty and Faye Dunaway",
+   "p": 600
+  },
+  {
+   "q": "Who designed the Oscar statuette in 1928?",
+   "a": "Cedric Gibbons",
+   "p": 600
+  },
+  {
+   "q": "What do the five spokes on the film reel of the statuette represent?",
+   "a": "The five original branches of the Academy: actors, directors, producers, technicians and writers",
+   "p": 600
+  },
+  {
+   "q": "Which MGM studio head founded the Academy in 1927?",
+   "a": "Louis B. Mayer",
+   "p": 600
+  },
+  {
+   "q": "At which Hollywood hotel was the first Oscars ceremony held in 1929?",
+   "a": "Hollywood Roosevelt Hotel",
+   "p": 600
+  },
+  {
+   "q": "Which comedian hosted the Oscars a record 19 times?",
+   "a": "Bob Hope",
+   "p": 600
+  },
+  {
+   "q": "Who, at 21, became the youngest winner of Best Actress, for Children of a Lesser God?",
+   "a": "Marlee Matlin",
+   "p": 600
+  },
+  {
+   "q": "Which director became the youngest winner of Best Director, at age 32, for La La Land?",
+   "a": "Damien Chazelle",
+   "p": 600
+  },
+  {
+   "q": "Which film is the most recent to win all of the 'Big Five' awards (Picture, Director, Actor, Actress, Screenplay)?",
+   "a": "The Silence of the Lambs",
+   "p": 600
+  },
+  {
+   "q": "Which actor won back-to-back Best Actor Oscars for Philadelphia and Forrest Gump?",
+   "a": "Tom Hanks",
+   "p": 600
+  },
+  {
+   "q": "Which actor declined his Best Actor Oscar for The Godfather, sending Sacheen Littlefeather in his place?",
+   "a": "Marlon Brando",
+   "p": 600
+  },
+  {
+   "q": "Which Best Picture winner of 2024 is advertised in this trailer?",
+   "a": "Oppenheimer",
+   "p": 200,
+   "yt": "5ZF3FlooDh4",
+   "start": 20,
+   "end": 40
+  },
+  {
+   "q": "Name the epic fantasy film, winner of 11 Oscars, shown in this trailer.",
+   "a": "The Lord of the Rings: The Return of the King",
+   "p": 200,
+   "yt": "7JgpXiMcmJk",
+   "start": 25,
+   "end": 45
+  },
+  {
+   "q": "Which Korean film, the first non-English-language Best Picture winner, is shown in this trailer?",
+   "a": "Parasite",
+   "p": 400,
+   "yt": "dZBdRBMABiI",
+   "start": 20,
+   "end": 40
+  },
+  {
+   "q": "Which multiverse film that won seven Oscars is shown in this trailer?",
+   "a": "Everything Everywhere All at Once",
+   "p": 400,
+   "yt": "wxN1T1uxQ2g",
+   "start": 20,
+   "end": 40
+  },
+  {
+   "q": "Which film, named Best Picture after the famous 2017 envelope mix-up, is shown in this trailer?",
+   "a": "Moonlight",
+   "p": 600,
+   "yt": "nRlbYUJdnkM",
+   "start": 20,
+   "end": 40
+  }
+ ]
+}

@@ -1,0 +1,783 @@
+{
+ "id": "spacetoon",
+ "name": "Spacetoon Classics",
+ "questions": [
+  {
+   "q": "What is the Arabic name of the football anime Captain Tsubasa?",
+   "a": "Captain Majid",
+   "p": 200,
+   "ar": "كابتن ماجد",
+   "alt": [
+    "Majid",
+    "Captain Majed",
+    "Kaptin Majid"
+   ]
+  },
+  {
+   "q": "Which sport do the characters of Captain Tsubasa play?",
+   "a": "Football",
+   "p": 200,
+   "alt": [
+    "Soccer"
+   ]
+  },
+  {
+   "q": "Which Pokemon is Ash's constant companion who rides on his shoulder?",
+   "a": "Pikachu",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the boy Pokemon trainer from Pallet Town in the anime?",
+   "a": "Ash Ketchum",
+   "p": 200,
+   "alt": [
+    "Ash",
+    "Satoshi"
+   ]
+  },
+  {
+   "q": "Which spiky-haired hero is the main character of Dragon Ball?",
+   "a": "Goku",
+   "p": 200,
+   "alt": [
+    "Son Goku",
+    "Kakarot"
+   ]
+  },
+  {
+   "q": "Which manga artist created Dragon Ball?",
+   "a": "Akira Toriyama",
+   "p": 200,
+   "alt": [
+    "Toriyama"
+   ]
+  },
+  {
+   "q": "How many Dragon Balls must be collected to summon the dragon?",
+   "a": "7",
+   "p": 200,
+   "alt": [
+    "Seven"
+   ]
+  },
+  {
+   "q": "What is the name of Goku's signature energy wave attack?",
+   "a": "Kamehameha",
+   "p": 200,
+   "alt": [
+    "Kamehameha wave"
+   ]
+  },
+  {
+   "q": "Who is the proud Saiyan prince and Goku's rival?",
+   "a": "Vegeta",
+   "p": 200
+  },
+  {
+   "q": "Which orange dinosaur-like Digimon is Tai's partner?",
+   "a": "Agumon",
+   "p": 200
+  },
+  {
+   "q": "What does Tai Yagami wear on his head in Digimon Adventure?",
+   "a": "Goggles",
+   "p": 200,
+   "alt": [
+    "Googles",
+    "Flight goggles"
+   ]
+  },
+  {
+   "q": "Who is the main hero of the original Beyblade anime, known as Tyson in English?",
+   "a": "Takao Kinomiya",
+   "p": 200,
+   "alt": [
+    "Tyson Granger",
+    "Tyson",
+    "Takao"
+   ]
+  },
+  {
+   "q": "Which detective anime is known in Arabic as Al-Muhaqqiq Conan?",
+   "a": "Detective Conan",
+   "p": 200,
+   "ar": "المحقق كونان",
+   "alt": [
+    "Case Closed",
+    "Meitantei Conan"
+   ]
+  },
+  {
+   "q": "Which basketball anime follows the red-haired delinquent Hanamichi Sakuragi?",
+   "a": "Slam Dunk",
+   "p": 200,
+   "alt": [
+    "Slam Dank"
+   ]
+  },
+  {
+   "q": "Which sport is played in Slam Dunk?",
+   "a": "Basketball",
+   "p": 200
+  },
+  {
+   "q": "Who is the clumsy schoolboy that Doraemon helps?",
+   "a": "Nobita Nobi",
+   "p": 200,
+   "alt": [
+    "Nobita",
+    "Nobi Nobita"
+   ]
+  },
+  {
+   "q": "In which mountain range is the story of Heidi set?",
+   "a": "The Alps",
+   "p": 200,
+   "alt": [
+    "Alps",
+    "Swiss Alps"
+   ]
+  },
+  {
+   "q": "Which Swiss author wrote the novel Heidi?",
+   "a": "Johanna Spyri",
+   "p": 200,
+   "alt": [
+    "Spyri"
+   ]
+  },
+  {
+   "q": "What colour are the Smurfs?",
+   "a": "Blue",
+   "p": 200
+  },
+  {
+   "q": "Who is the wizard that is always trying to catch the Smurfs?",
+   "a": "Gargamel",
+   "p": 200
+  },
+  {
+   "q": "Which cartoon cat and mouse chase each other around a house?",
+   "a": "Tom and Jerry",
+   "p": 200,
+   "alt": [
+    "Tom & Jerry"
+   ]
+  },
+  {
+   "q": "Which sailor cartoon hero gains super strength from eating spinach?",
+   "a": "Popeye",
+   "p": 200,
+   "alt": [
+    "Popeye the Sailor"
+   ]
+  },
+  {
+   "q": "Which giant robot, known in France as Goldorak, is the hero of a 1970s anime?",
+   "a": "Grendizer",
+   "p": 200,
+   "ar": "غرندايزر",
+   "alt": [
+    "UFO Robo Grendizer",
+    "Goldorak",
+    "Grandizer"
+   ]
+  },
+  {
+   "q": "Which boy in Hunter x Hunter sets out to become a Hunter to find his father?",
+   "a": "Gon Freecss",
+   "p": 200,
+   "alt": [
+    "Gon"
+   ]
+  },
+  {
+   "q": "Which Smurf leader wears a red hat?",
+   "a": "Papa Smurf",
+   "p": 200
+  },
+  {
+   "q": "Which Arabian Nights sailor is the hero of a classic anime of the 1970s?",
+   "a": "Sinbad",
+   "p": 200,
+   "ar": "سندباد",
+   "alt": [
+    "Sindbad",
+    "Sinbad the Sailor"
+   ]
+  },
+  {
+   "q": "Jessie and James are members of which villainous team in Pokemon?",
+   "a": "Team Rocket",
+   "p": 200
+  },
+  {
+   "q": "Which Pokemon Gym Leader of Cerulean City loves Water Pokemon?",
+   "a": "Misty",
+   "p": 200
+  },
+  {
+   "q": "What nationality is the Smurfs' creator Peyo?",
+   "a": "Belgian",
+   "p": 200,
+   "alt": [
+    "Belgium"
+   ]
+  },
+  {
+   "q": "Who created the Captain Tsubasa manga?",
+   "a": "Yoichi Takahashi",
+   "p": 400,
+   "alt": [
+    "Takahashi Yoichi"
+   ]
+  },
+  {
+   "q": "Which Brazilian-trained coach mentors Tsubasa Ozora?",
+   "a": "Roberto Hongo",
+   "p": 400,
+   "alt": [
+    "Hongo"
+   ]
+  },
+  {
+   "q": "Which goalkeeper is nicknamed the Super Great Goalkeeper in Captain Tsubasa?",
+   "a": "Genzo Wakabayashi",
+   "p": 400,
+   "alt": [
+    "Wakabayashi",
+    "Wakabayashi Genzo"
+   ]
+  },
+  {
+   "q": "In which weekly magazine did Captain Tsubasa debut in 1981?",
+   "a": "Weekly Shonen Jump",
+   "p": 400,
+   "alt": [
+    "Shonen Jump"
+   ]
+  },
+  {
+   "q": "Who created Grendizer?",
+   "a": "Go Nagai",
+   "p": 400,
+   "alt": [
+    "Nagai Go"
+   ]
+  },
+  {
+   "q": "What is the hero's alien name in Grendizer, known as Actarus in France?",
+   "a": "Duke Fleed",
+   "p": 400,
+   "alt": [
+    "Daisuke Umon",
+    "Actarus"
+   ]
+  },
+  {
+   "q": "Which anime is known in Arabic as Adnan wa Lina?",
+   "a": "Future Boy Conan",
+   "p": 400,
+   "ar": "عدنان ولينا",
+   "alt": [
+    "Mirai Shonen Conan",
+    "Conan the Boy in Future"
+   ]
+  },
+  {
+   "q": "Which famous Japanese director led Adnan wa Lina as his first TV series?",
+   "a": "Hayao Miyazaki",
+   "p": 400,
+   "alt": [
+    "Miyazaki"
+   ]
+  },
+  {
+   "q": "What is the name of the girl called Lina in the Arabic title Adnan wa Lina, in the original Japanese?",
+   "a": "Lana",
+   "p": 400,
+   "alt": [
+    "Lana"
+   ]
+  },
+  {
+   "q": "Which French novel by Hector Malot inspired the anime Remi?",
+   "a": "Sans Famille",
+   "p": 400,
+   "alt": [
+    "Nobody's Boy"
+   ]
+  },
+  {
+   "q": "What is the name of Remi's loyal dog?",
+   "a": "Capi",
+   "p": 400
+  },
+  {
+   "q": "Which director of Heidi, Girl of the Alps later co-founded Studio Ghibli?",
+   "a": "Isao Takahata",
+   "p": 400,
+   "alt": [
+    "Takahata"
+   ]
+  },
+  {
+   "q": "What is the name of Heidi's friend the goatherd?",
+   "a": "Peter",
+   "p": 400,
+   "alt": [
+    "Peter the goatherd"
+   ]
+  },
+  {
+   "q": "Which company released the Digimon virtual pet in 1997?",
+   "a": "Bandai",
+   "p": 400
+  },
+  {
+   "q": "Which wolf-like Digimon is Matt's partner?",
+   "a": "Gabumon",
+   "p": 400
+  },
+  {
+   "q": "Which Digimon does Agumon eventually evolve into at the Mega level?",
+   "a": "WarGreymon",
+   "p": 400,
+   "alt": [
+    "War Greymon"
+   ]
+  },
+  {
+   "q": "What are the chosen children called in Digimon Adventure?",
+   "a": "DigiDestined",
+   "p": 400,
+   "alt": [
+    "Chosen Children",
+    "Digidestined"
+   ]
+  },
+  {
+   "q": "Which vampire-like Digimon villain terrorises the real world in Digimon Adventure?",
+   "a": "Myotismon",
+   "p": 400
+  },
+  {
+   "q": "What is Kai's phoenix Bit-Beast in Beyblade called?",
+   "a": "Dranzer",
+   "p": 400
+  },
+  {
+   "q": "What are the spirits sealed inside Beyblades called?",
+   "a": "Bit-Beasts",
+   "p": 400,
+   "alt": [
+    "Bit Beasts",
+    "Bit-Beast",
+    "Bit Beast"
+   ]
+  },
+  {
+   "q": "Who is the ace of Shohoku High, the cool first-year with the number 11 jersey?",
+   "a": "Kaede Rukawa",
+   "p": 400,
+   "alt": [
+    "Rukawa"
+   ]
+  },
+  {
+   "q": "Which girl does Hanamichi Sakuragi fall for at the start of Slam Dunk?",
+   "a": "Haruko Akagi",
+   "p": 400,
+   "alt": [
+    "Haruko"
+   ]
+  },
+  {
+   "q": "Who created Slam Dunk?",
+   "a": "Takehiko Inoue",
+   "p": 400,
+   "alt": [
+    "Inoue Takehiko"
+   ]
+  },
+  {
+   "q": "Who created Hunter x Hunter?",
+   "a": "Yoshihiro Togashi",
+   "p": 400,
+   "alt": [
+    "Togashi"
+   ]
+  },
+  {
+   "q": "Which silver-haired young assassin befriends Gon?",
+   "a": "Killua Zoldyck",
+   "p": 400,
+   "alt": [
+    "Killua"
+   ]
+  },
+  {
+   "q": "What is the life-energy ability in Hunter x Hunter called?",
+   "a": "Nen",
+   "p": 400
+  },
+  {
+   "q": "Which space tyrant destroyed Planet Vegeta in Dragon Ball?",
+   "a": "Frieza",
+   "p": 400,
+   "alt": [
+    "Freeza"
+   ]
+  },
+  {
+   "q": "Who created Doraemon under the pen name Fujiko F. Fujio?",
+   "a": "Hiroshi Fujimoto",
+   "p": 400,
+   "alt": [
+    "Fujimoto",
+    "Fujiko F. Fujio"
+   ]
+  },
+  {
+   "q": "Which Japanese pastry is Doraemon's favourite food?",
+   "a": "Dorayaki",
+   "p": 400
+  },
+  {
+   "q": "Which animal is Doraemon afraid of?",
+   "a": "Mice",
+   "p": 400,
+   "alt": [
+    "Mouse",
+    "Rats"
+   ]
+  },
+  {
+   "q": "What is Doraemon's famous magic door called?",
+   "a": "Anywhere Door",
+   "p": 400,
+   "alt": [
+    "Dokodemo Door",
+    "Any Place Door"
+   ]
+  },
+  {
+   "q": "What is the name of the lone female Smurf?",
+   "a": "Smurfette",
+   "p": 400
+  },
+  {
+   "q": "Which Digimon is Izzy's insect-like partner?",
+   "a": "Tentomon",
+   "p": 400
+  },
+  {
+   "q": "What is the name of Tsubasa's elementary school team in Captain Tsubasa?",
+   "a": "Nankatsu",
+   "p": 600,
+   "alt": [
+    "Nankatsu Elementary",
+    "Nankatsu SC"
+   ]
+  },
+  {
+   "q": "What is Kojiro Hyuga's signature shot called in Captain Tsubasa?",
+   "a": "Tiger Shot",
+   "p": 600,
+   "alt": [
+    "Tiger Shoot"
+   ]
+  },
+  {
+   "q": "Which Brazilian club does Tsubasa join in the manga?",
+   "a": "Sao Paulo",
+   "p": 600,
+   "alt": [
+    "Sao Paulo FC",
+    "São Paulo"
+   ]
+  },
+  {
+   "q": "What is the nickname of the Nankatsu duo of Tsubasa Ozora and Taro Misaki?",
+   "a": "Golden Combi",
+   "p": 600,
+   "alt": [
+    "Golden Combination"
+   ]
+  },
+  {
+   "q": "What is the original Japanese full title of Grendizer?",
+   "a": "UFO Robo Grendizer",
+   "p": 600,
+   "ar": "غرندايزر",
+   "alt": [
+    "UFO Robot Grendizer",
+    "UFO Robo Gurendaizā"
+   ]
+  },
+  {
+   "q": "What is the name of the flying saucer that docks with Grendizer?",
+   "a": "Spazer",
+   "p": 600,
+   "alt": [
+    "Spacer",
+    "Space Saucer"
+   ]
+  },
+  {
+   "q": "Which empire attacks Planet Fleed in Grendizer?",
+   "a": "Vega Empire",
+   "p": 600,
+   "alt": [
+    "Vega",
+    "Vegan Empire"
+   ]
+  },
+  {
+   "q": "Grendizer is the last robot in which trilogy by Go Nagai?",
+   "a": "Mazinger trilogy",
+   "p": 600,
+   "alt": [
+    "Mazinger",
+    "Mazinger Z trilogy"
+   ]
+  },
+  {
+   "q": "Which studio produced Future Boy Conan, known in Arabic as Adnan wa Lina?",
+   "a": "Nippon Animation",
+   "p": 600,
+   "alt": [
+    "Nihon Animation"
+   ]
+  },
+  {
+   "q": "Which novel by Alexander Key is Future Boy Conan based on?",
+   "a": "The Incredible Tide",
+   "p": 600,
+   "alt": [
+    "Incredible Tide"
+   ]
+  },
+  {
+   "q": "In which year did Future Boy Conan first air in Japan?",
+   "a": "1978",
+   "p": 600
+  },
+  {
+   "q": "What is the name of Remi's old street-performer master?",
+   "a": "Vitalis",
+   "p": 600
+  },
+  {
+   "q": "What is the name of Remi's monkey companion?",
+   "a": "Joli-Coeur",
+   "p": 600,
+   "alt": [
+    "Joli Coeur",
+    "Jolicoeur"
+   ]
+  },
+  {
+   "q": "Which instrument does Remi learn to play?",
+   "a": "Harp",
+   "p": 600
+  },
+  {
+   "q": "Who is the final main villain of the first Digimon Adventure series?",
+   "a": "Apocalymon",
+   "p": 600
+  },
+  {
+   "q": "Which Digimon is Sora's partner?",
+   "a": "Biyomon",
+   "p": 600,
+   "alt": [
+    "Piyomon"
+   ]
+  },
+  {
+   "q": "Which Digimon is Kari's partner?",
+   "a": "Gatomon",
+   "p": 600,
+   "alt": [
+    "Tailmon"
+   ]
+  },
+  {
+   "q": "Which studio animated Digimon Adventure in 1999?",
+   "a": "Toei Animation",
+   "p": 600,
+   "alt": [
+    "Toei"
+   ]
+  },
+  {
+   "q": "Who wrote the Beyblade manga that inspired the anime?",
+   "a": "Takao Aoki",
+   "p": 600,
+   "alt": [
+    "Aoki Takao"
+   ]
+  },
+  {
+   "q": "What is the name of the tiger Bit-Beast owned by Ray?",
+   "a": "Driger",
+   "p": 600
+  },
+  {
+   "q": "What is the name of the captain of Shohoku's basketball team?",
+   "a": "Takenori Akagi",
+   "p": 600,
+   "alt": [
+    "Akagi",
+    "Akagi Takenori"
+   ]
+  },
+  {
+   "q": "What is the name of Shohoku's coach nicknamed the White-Haired Buddha?",
+   "a": "Anzai",
+   "p": 600,
+   "alt": [
+    "Mitsuyoshi Anzai",
+    "Coach Anzai"
+   ]
+  },
+  {
+   "q": "Who is the chairman of the Hunter Association at the start of Hunter x Hunter?",
+   "a": "Isaac Netero",
+   "p": 600,
+   "alt": [
+    "Netero"
+   ]
+  },
+  {
+   "q": "What is the name of the villain group led by Chrollo Lucilfer?",
+   "a": "Phantom Troupe",
+   "p": 600,
+   "alt": [
+    "Genei Ryodan",
+    "The Spiders"
+   ]
+  },
+  {
+   "q": "Which animation studio produced the 2011 Hunter x Hunter anime?",
+   "a": "Madhouse",
+   "p": 600
+  },
+  {
+   "q": "Which animation studio produced the 1999 Hunter x Hunter anime?",
+   "a": "Nippon Animation",
+   "p": 600
+  },
+  {
+   "q": "How many apples tall are the Smurfs said to be?",
+   "a": "Three",
+   "p": 600,
+   "alt": [
+    "3",
+    "Three apples"
+   ]
+  },
+  {
+   "q": "How many Academy Awards for Best Animated Short did Tom and Jerry cartoons win?",
+   "a": "7",
+   "p": 600,
+   "alt": [
+    "Seven"
+   ]
+  },
+  {
+   "q": "What is Doraemon's bamboo-propeller gadget called?",
+   "a": "Take-copter",
+   "p": 600,
+   "alt": [
+    "Bamboo-copter",
+    "Bamboo copter",
+    "Takecopter"
+   ]
+  },
+  {
+   "q": "In which century was Doraemon born?",
+   "a": "22nd century",
+   "p": 600,
+   "alt": [
+    "Twenty-second century",
+    "2112",
+    "22nd"
+   ]
+  },
+  {
+   "q": "Which long-running anime features a blue robot cat from the future?",
+   "a": "Doraemon",
+   "p": 200,
+   "ar": "دورايمون"
+  },
+  {
+   "q": "Which anime franchise is short for 'Digital Monsters'?",
+   "a": "Digimon",
+   "p": 200,
+   "ar": "ديجيمون",
+   "alt": [
+    "Digimon Adventure"
+   ]
+  },
+  {
+   "q": "Which anime follows Tyson and his battling spinning tops?",
+   "a": "Beyblade",
+   "p": 200,
+   "ar": "بي بليد",
+   "alt": [
+    "Bakuten Shoot Beyblade",
+    "Beyblade"
+   ]
+  },
+  {
+   "q": "Which anime franchise features Pikachu and the Poke Ball?",
+   "a": "Pokemon",
+   "p": 200,
+   "ar": "بوكيمون",
+   "alt": [
+    "Pokémon"
+   ]
+  },
+  {
+   "q": "Which anime follows Goku's search for seven magic orbs?",
+   "a": "Dragon Ball",
+   "p": 200,
+   "ar": "دراغون بول",
+   "alt": [
+    "Dragon Ball Z",
+    "Dragonball"
+   ]
+  },
+  {
+   "q": "Which anime follows an orphan girl sent to live with her grandfather in the mountains?",
+   "a": "Heidi",
+   "p": 400,
+   "ar": "هايدي",
+   "alt": [
+    "Heidi, Girl of the Alps",
+    "Alps no Shojo Heidi"
+   ]
+  },
+  {
+   "q": "Which anime follows a boy sold to a travelling musician with a dog and a monkey?",
+   "a": "Remi",
+   "p": 400,
+   "ar": "ريمي",
+   "alt": [
+    "Nobody's Boy: Remi",
+    "Remi, Nobody's Boy",
+    "Ie Naki Ko"
+   ]
+  },
+  {
+   "q": "Which Pokemon Gym Leader of Pewter City specialises in Rock types?",
+   "a": "Brock",
+   "p": 200,
+   "alt": [
+    "Takeshi"
+   ]
+  }
+ ]
+}

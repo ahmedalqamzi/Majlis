@@ -1,0 +1,536 @@
+{
+ "id": "movies",
+ "name": "Movies",
+ "questions": [
+  {
+   "q": "Which Pixar film follows a clownfish searching for his lost son?",
+   "a": "Finding Nemo",
+   "p": 200
+  },
+  {
+   "q": "Who directed the 1975 shark thriller Jaws?",
+   "a": "Steven Spielberg",
+   "p": 200
+  },
+  {
+   "q": "In The Lion King, what is the name of the lion cub who becomes king?",
+   "a": "Simba",
+   "p": 200
+  },
+  {
+   "q": "Which 1997 film features the characters Jack and Rose aboard a doomed ship?",
+   "a": "Titanic",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the wizarding school in the Harry Potter films?",
+   "a": "Hogwarts",
+   "p": 200
+  },
+  {
+   "q": "In Toy Story, what is the name of the cowboy doll?",
+   "a": "Woody",
+   "p": 200
+  },
+  {
+   "q": "Who directed the 2010 film Inception?",
+   "a": "Christopher Nolan",
+   "p": 400
+  },
+  {
+   "q": "Which actor plays Captain Jack Sparrow in Pirates of the Caribbean?",
+   "a": "Johnny Depp",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the fictional African nation in Black Panther?",
+   "a": "Wakanda",
+   "p": 400
+  },
+  {
+   "q": "Which South Korean film won Best Picture at the 2020 Academy Awards?",
+   "a": "Parasite",
+   "p": 400
+  },
+  {
+   "q": "In The Matrix, what color pill does Neo take to learn the truth?",
+   "a": "Red",
+   "p": 200
+  },
+  {
+   "q": "Who directed Pulp Fiction?",
+   "a": "Quentin Tarantino",
+   "p": 400
+  },
+  {
+   "q": "Which 1941 film directed by Orson Welles revolves around the word Rosebud?",
+   "a": "Citizen Kane",
+   "p": 400
+  },
+  {
+   "q": "Who composed the score for the original 1977 Star Wars film?",
+   "a": "John Williams",
+   "p": 400
+  },
+  {
+   "q": "Which 1968 Stanley Kubrick film features the computer HAL 9000?",
+   "a": "2001: A Space Odyssey",
+   "p": 400
+  },
+  {
+   "q": "Which actor played the Joker in The Dark Knight?",
+   "a": "Heath Ledger",
+   "p": 400
+  },
+  {
+   "q": "Which Japanese director made Seven Samurai?",
+   "a": "Akira Kurosawa",
+   "p": 600
+  },
+  {
+   "q": "Which actor plays Iron Man in the Marvel Cinematic Universe?",
+   "a": "Robert Downey Jr.",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the snowman in Frozen?",
+   "a": "Olaf",
+   "p": 200
+  },
+  {
+   "q": "Which film trilogy follows Frodo's quest to destroy a ring in Mount Doom?",
+   "a": "The Lord of the Rings",
+   "p": 200
+  },
+  {
+   "q": "In Star Wars, who is Luke Skywalker's father?",
+   "a": "Darth Vader",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the space ranger toy in Toy Story?",
+   "a": "Buzz Lightyear",
+   "p": 200
+  },
+  {
+   "q": "Which 1993 Spielberg film features dinosaurs brought back to life on an island?",
+   "a": "Jurassic Park",
+   "p": 200
+  },
+  {
+   "q": "Which superhero's alter ego is Peter Parker?",
+   "a": "Spider-Man",
+   "p": 200
+  },
+  {
+   "q": "Which green ogre stars in a 2001 DreamWorks animated film?",
+   "a": "Shrek",
+   "p": 200
+  },
+  {
+   "q": "Which Disney princess has very long magical hair in Tangled?",
+   "a": "Rapunzel",
+   "p": 200
+  },
+  {
+   "q": "Which Disney film is about a mermaid named Ariel?",
+   "a": "The Little Mermaid",
+   "p": 200
+  },
+  {
+   "q": "In Despicable Me, what is the main character's name, voiced by Steve Carell?",
+   "a": "Gru",
+   "p": 200
+  },
+  {
+   "q": "In which film does a girl named Dorothy travel to the Land of Oz?",
+   "a": "The Wizard of Oz",
+   "p": 200
+  },
+  {
+   "q": "Which animated film features a rat who loves cooking in Paris?",
+   "a": "Ratatouille",
+   "p": 200
+  },
+  {
+   "q": "What is the name of Simba's evil uncle in The Lion King?",
+   "a": "Scar",
+   "p": 200
+  },
+  {
+   "q": "Which movie features a giant ape climbing the Empire State Building?",
+   "a": "King Kong",
+   "p": 200
+  },
+  {
+   "q": "What is Batman's alter ego?",
+   "a": "Bruce Wayne",
+   "p": 200
+  },
+  {
+   "q": "Which Disney heroine sails the ocean with a demigod named Maui?",
+   "a": "Moana",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the trash-compacting robot in a 2008 Pixar film?",
+   "a": "WALL-E",
+   "p": 200
+  },
+  {
+   "q": "Which actor played Jack Dawson in Titanic?",
+   "a": "Leonardo DiCaprio",
+   "p": 200
+  },
+  {
+   "q": "Which Marvel hero wields the hammer Mjolnir?",
+   "a": "Thor",
+   "p": 200
+  },
+  {
+   "q": "Which Disney film features a flying elephant with big ears?",
+   "a": "Dumbo",
+   "p": 200
+  },
+  {
+   "q": "In Finding Nemo, what is the name of the forgetful blue tang?",
+   "a": "Dory",
+   "p": 200
+  },
+  {
+   "q": "Which actor plays Indiana Jones in the original films?",
+   "a": "Harrison Ford",
+   "p": 200
+  },
+  {
+   "q": "Who directed Titanic and Avatar?",
+   "a": "James Cameron",
+   "p": 400
+  },
+  {
+   "q": "Who directed The Godfather?",
+   "a": "Francis Ford Coppola",
+   "p": 400
+  },
+  {
+   "q": "Which actor plays Wolverine in the X-Men films?",
+   "a": "Hugh Jackman",
+   "p": 400
+  },
+  {
+   "q": "Which 1994 prison drama stars Tim Robbins and Morgan Freeman?",
+   "a": "The Shawshank Redemption",
+   "p": 400
+  },
+  {
+   "q": "Which actress played Katniss Everdeen in The Hunger Games?",
+   "a": "Jennifer Lawrence",
+   "p": 400
+  },
+  {
+   "q": "Which film was mistakenly announced as Best Picture at the 2017 Oscars before the correction?",
+   "a": "La La Land",
+   "p": 400
+  },
+  {
+   "q": "Who directed The Shining?",
+   "a": "Stanley Kubrick",
+   "p": 400
+  },
+  {
+   "q": "Which actor first played James Bond in Casino Royale (2006)?",
+   "a": "Daniel Craig",
+   "p": 400
+  },
+  {
+   "q": "Which 1991 film features Hannibal Lecter and Clarice Starling?",
+   "a": "The Silence of the Lambs",
+   "p": 400
+  },
+  {
+   "q": "Who directed The Lord of the Rings trilogy?",
+   "a": "Peter Jackson",
+   "p": 400
+  },
+  {
+   "q": "Which actor played Maximus in Gladiator?",
+   "a": "Russell Crowe",
+   "p": 400
+  },
+  {
+   "q": "Which 1982 Spielberg film features a stranded alien befriending a boy?",
+   "a": "E.T. the Extra-Terrestrial",
+   "p": 400
+  },
+  {
+   "q": "Which 2014 Christopher Nolan film involves space travel through a wormhole?",
+   "a": "Interstellar",
+   "p": 400
+  },
+  {
+   "q": "Which actor won an Oscar for playing the title character in Joker (2019)?",
+   "a": "Joaquin Phoenix",
+   "p": 400
+  },
+  {
+   "q": "Which 1999 thriller features a boy who sees dead people?",
+   "a": "The Sixth Sense",
+   "p": 400
+  },
+  {
+   "q": "Which director made Get Out and Nope?",
+   "a": "Jordan Peele",
+   "p": 400
+  },
+  {
+   "q": "Which Egyptian actor starred in the 2006 film The Yacoubian Building?",
+   "a": "Adel Imam",
+   "p": 600
+  },
+  {
+   "q": "Which film beat Saving Private Ryan to Best Picture for 1998?",
+   "a": "Shakespeare in Love",
+   "p": 600
+  },
+  {
+   "q": "Who directed Lawrence of Arabia?",
+   "a": "David Lean",
+   "p": 600
+  },
+  {
+   "q": "Who directed the 1958 thriller Vertigo?",
+   "a": "Alfred Hitchcock",
+   "p": 400
+  },
+  {
+   "q": "Who directed Goodfellas?",
+   "a": "Martin Scorsese",
+   "p": 400
+  },
+  {
+   "q": "Which Spielberg film won Best Picture for 1993?",
+   "a": "Schindler's List",
+   "p": 400
+  },
+  {
+   "q": "Who directed the 1982 sci-fi film Blade Runner?",
+   "a": "Ridley Scott",
+   "p": 400
+  },
+  {
+   "q": "Which 1942 film stars Humphrey Bogart and Ingrid Bergman in Morocco?",
+   "a": "Casablanca",
+   "p": 400
+  },
+  {
+   "q": "Which Egyptian director made the 1958 film Cairo Station?",
+   "a": "Youssef Chahine",
+   "p": 600
+  },
+  {
+   "q": "Which Egyptian actress starred in the 1959 classic The Nightingale's Prayer?",
+   "a": "Faten Hamama",
+   "p": 600
+  },
+  {
+   "q": "Which 1950 Billy Wilder film features the faded star Norma Desmond?",
+   "a": "Sunset Boulevard",
+   "p": 600
+  },
+  {
+   "q": "Who directed Slumdog Millionaire?",
+   "a": "Danny Boyle",
+   "p": 600
+  },
+  {
+   "q": "Which Italian director made La Dolce Vita?",
+   "a": "Federico Fellini",
+   "p": 600
+  },
+  {
+   "q": "Which Swedish director made The Seventh Seal?",
+   "a": "Ingmar Bergman",
+   "p": 600
+  },
+  {
+   "q": "Which 1991 Disney film was the first animated feature nominated for Best Picture?",
+   "a": "Beauty and the Beast",
+   "p": 600
+  },
+  {
+   "q": "Which Chloe Zhao film won Best Picture at the 2021 Oscars?",
+   "a": "Nomadland",
+   "p": 600
+  },
+  {
+   "q": "Which film won Best Picture at the 95th Academy Awards, held in March 2023?",
+   "a": "Everything Everywhere All at Once",
+   "p": 600
+  },
+  {
+   "q": "Who directed Back to the Future?",
+   "a": "Robert Zemeckis",
+   "p": 400
+  },
+  {
+   "q": "Who composed the score for the 1994 film The Lion King?",
+   "a": "Hans Zimmer",
+   "p": 600
+  },
+  {
+   "q": "Who directed Amadeus?",
+   "a": "Milos Forman",
+   "p": 600
+  },
+  {
+   "q": "Who directed Mad Max: Fury Road?",
+   "a": "George Miller",
+   "p": 400
+  },
+  {
+   "q": "Who directed Crouching Tiger, Hidden Dragon?",
+   "a": "Ang Lee",
+   "p": 600
+  },
+  {
+   "q": "Which movie is this trailer for?",
+   "a": "Toy Story",
+   "p": 200,
+   "yt": "lHg-HPpKpYE",
+   "start": 40,
+   "end": 65
+  },
+  {
+   "q": "Which movie is this trailer for?",
+   "a": "Frozen 2",
+   "p": 200,
+   "yt": "Zi4LMpSDccc",
+   "start": 50,
+   "end": 75
+  },
+  {
+   "q": "Which movie is this trailer for?",
+   "a": "Barbie",
+   "p": 200,
+   "yt": "oRzCR5YKWUk",
+   "start": 50,
+   "end": 75
+  },
+  {
+   "q": "Which movie is this trailer for?",
+   "a": "Avengers: Endgame",
+   "p": 200,
+   "yt": "TcMBFSGVi1c",
+   "start": 60,
+   "end": 85
+  },
+  {
+   "q": "Which movie is this trailer for?",
+   "a": "Inside Out 2",
+   "p": 400,
+   "yt": "8rjvKzYeSp0",
+   "start": 50,
+   "end": 75
+  },
+  {
+   "q": "Which movie is this trailer for?",
+   "a": "Top Gun: Maverick",
+   "p": 400,
+   "yt": "kFopyeX5uh8",
+   "start": 50,
+   "end": 75
+  },
+  {
+   "q": "Which movie is this trailer for?",
+   "a": "Spider-Man: No Way Home",
+   "p": 400,
+   "yt": "JfVOs4VSpmA",
+   "start": 50,
+   "end": 75
+  },
+  {
+   "q": "Which movie is this trailer for?",
+   "a": "Jurassic World",
+   "p": 400,
+   "yt": "SILeO8m7uvU",
+   "start": 50,
+   "end": 75
+  },
+  {
+   "q": "Which movie is this trailer for?",
+   "a": "Inception",
+   "p": 600,
+   "yt": "5EiV_HXIIGs",
+   "start": 50,
+   "end": 75
+  },
+  {
+   "q": "Which movie is this trailer for?",
+   "a": "The Dark Knight",
+   "p": 600,
+   "yt": "kmJLuwP3MbY",
+   "start": 50,
+   "end": 75
+  },
+  {
+   "q": "Who directed Pan's Labyrinth?",
+   "a": "Guillermo del Toro",
+   "p": 600
+  },
+  {
+   "q": "Who directed the 2003 South Korean film Oldboy?",
+   "a": "Park Chan-wook",
+   "p": 600
+  },
+  {
+   "q": "Who directed the 1927 silent sci-fi film Metropolis?",
+   "a": "Fritz Lang",
+   "p": 600
+  },
+  {
+   "q": "Who directed the 1948 Italian neorealist film Bicycle Thieves?",
+   "a": "Vittorio De Sica",
+   "p": 600
+  },
+  {
+   "q": "Which silent film won the first-ever Academy Award for Best Picture?",
+   "a": "Wings",
+   "p": 600
+  },
+  {
+   "q": "Who directed the 1995 thriller Se7en?",
+   "a": "David Fincher",
+   "p": 600
+  },
+  {
+   "q": "Who composed the score for Hitchcock's 1960 film Psycho?",
+   "a": "Bernard Herrmann",
+   "p": 600
+  },
+  {
+   "q": "Who composed the score for The Good, the Bad and the Ugly?",
+   "a": "Ennio Morricone",
+   "p": 600
+  },
+  {
+   "q": "Who directed the 2018 black-and-white film Roma?",
+   "a": "Alfonso Cuaron",
+   "p": 600
+  },
+  {
+   "q": "Who directed the 1974 neo-noir film Chinatown?",
+   "a": "Roman Polanski",
+   "p": 600
+  },
+  {
+   "q": "Who directed the 1949 film noir The Third Man?",
+   "a": "Carol Reed",
+   "p": 600
+  },
+  {
+   "q": "Who directed the 2003 film Lost in Translation?",
+   "a": "Sofia Coppola",
+   "p": 600
+  }
+ ]
+}

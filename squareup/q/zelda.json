@@ -1,0 +1,709 @@
+{
+ "id": "zelda",
+ "name": "The Legend of Zelda",
+ "questions": [
+  {
+   "q": "Who is the main playable hero of the series?",
+   "a": "Link",
+   "p": 200
+  },
+  {
+   "q": "Which princess gives the series its name?",
+   "a": "Zelda",
+   "p": 200,
+   "alt": [
+    "Princess Zelda"
+   ]
+  },
+  {
+   "q": "Which Gerudo king is the series' main villain?",
+   "a": "Ganondorf",
+   "p": 200,
+   "alt": [
+    "Ganon"
+   ]
+  },
+  {
+   "q": "What is the name of the kingdom where most games are set?",
+   "a": "Hyrule",
+   "p": 200
+  },
+  {
+   "q": "What golden relic made of three triangles grants wishes?",
+   "a": "Triforce",
+   "p": 200,
+   "alt": [
+    "The Triforce"
+   ]
+  },
+  {
+   "q": "What legendary blade is known as the 'Blade of Evil's Bane'?",
+   "a": "Master Sword",
+   "p": 200,
+   "alt": [
+    "The Master Sword"
+   ]
+  },
+  {
+   "q": "Which company makes the Zelda games?",
+   "a": "Nintendo",
+   "p": 200
+  },
+  {
+   "q": "Which 2017 open-world Zelda launched alongside the Nintendo Switch?",
+   "a": "Breath of the Wild",
+   "p": 200,
+   "alt": [
+    "BOTW",
+    "The Legend of Zelda: Breath of the Wild"
+   ]
+  },
+  {
+   "q": "Which 2023 game is the direct sequel to Breath of the Wild?",
+   "a": "Tears of the Kingdom",
+   "p": 200,
+   "alt": [
+    "TOTK"
+   ]
+  },
+  {
+   "q": "What is the name of the fairy who guides Link in Ocarina of Time?",
+   "a": "Navi",
+   "p": 200
+  },
+  {
+   "q": "What is the name of Link's trusty horse?",
+   "a": "Epona",
+   "p": 200
+  },
+  {
+   "q": "What is the currency in the Zelda games called?",
+   "a": "Rupees",
+   "p": 200,
+   "alt": [
+    "Rupee"
+   ]
+  },
+  {
+   "q": "What do you collect to increase Link's maximum health?",
+   "a": "Heart Containers",
+   "p": 200,
+   "alt": [
+    "Hearts",
+    "Heart Pieces",
+    "Heart Container"
+   ]
+  },
+  {
+   "q": "Which Nintendo designer created the Zelda series?",
+   "a": "Shigeru Miyamoto",
+   "p": 200,
+   "alt": [
+    "Miyamoto"
+   ]
+  },
+  {
+   "q": "Which GameCube Zelda used a cel-shaded cartoon look and lots of sailing?",
+   "a": "The Wind Waker",
+   "p": 200,
+   "alt": [
+    "Wind Waker"
+   ]
+  },
+  {
+   "q": "In which game does Link transform into a wolf?",
+   "a": "Twilight Princess",
+   "p": 200,
+   "alt": [
+    "The Twilight Princess"
+   ]
+  },
+  {
+   "q": "Which N64 sequel has a moon about to crash down in three days?",
+   "a": "Majora's Mask",
+   "p": 200,
+   "alt": [
+    "The Legend of Zelda: Majora's Mask"
+   ]
+  },
+  {
+   "q": "Which chickens attack Link in swarms if he keeps hitting them?",
+   "a": "Cuccos",
+   "p": 200,
+   "alt": [
+    "Cucco",
+    "Chickens"
+   ]
+  },
+  {
+   "q": "Which rock-eating race lives on Death Mountain?",
+   "a": "Gorons",
+   "p": 200,
+   "alt": [
+    "Goron"
+   ]
+  },
+  {
+   "q": "What is the name of the long-eared people of Hyrule?",
+   "a": "Hylians",
+   "p": 200,
+   "alt": [
+    "Hylian"
+   ]
+  },
+  {
+   "q": "Which virtue is represented by Link's piece of the Triforce?",
+   "a": "Courage",
+   "p": 200
+  },
+  {
+   "q": "Which N64 Zelda game lets Link travel between childhood and adulthood?",
+   "a": "Ocarina of Time",
+   "p": 200,
+   "alt": [
+    "OoT"
+   ]
+  },
+  {
+   "q": "What ranged weapon does Link use to fire arrows?",
+   "a": "Bow",
+   "p": 200,
+   "alt": [
+    "Bow and arrow"
+   ]
+  },
+  {
+   "q": "Which small winged helpers can revive Link when he falls?",
+   "a": "Fairies",
+   "p": 200,
+   "alt": [
+    "Fairy"
+   ]
+  },
+  {
+   "q": "Which wind instrument does Link play to learn songs like Zelda's Lullaby?",
+   "a": "Ocarina",
+   "p": 200
+  },
+  {
+   "q": "On which Nintendo home console did the very first Zelda game appear?",
+   "a": "NES",
+   "p": 200,
+   "alt": [
+    "Nintendo Entertainment System",
+    "Famicom"
+   ]
+  },
+  {
+   "q": "Which explosive items does Link use to open cracked cave walls?",
+   "a": "Bombs",
+   "p": 200,
+   "alt": [
+    "Bomb"
+   ]
+  },
+  {
+   "q": "What do you smash to find hearts and rupees in many Zelda games?",
+   "a": "Pots",
+   "p": 200,
+   "alt": [
+    "Jars",
+    "Pot"
+   ]
+  },
+  {
+   "q": "What colour potion usually restores Link's health?",
+   "a": "Red",
+   "p": 200,
+   "alt": [
+    "Red potion"
+   ]
+  },
+  {
+   "q": "On which Nintendo console did Ocarina of Time release in 1998?",
+   "a": "Nintendo 64",
+   "p": 200,
+   "alt": [
+    "N64"
+   ]
+  },
+  {
+   "q": "Miyamoto also created which plumber-hero franchise?",
+   "a": "Super Mario",
+   "p": 200,
+   "alt": [
+    "Mario"
+   ]
+  },
+  {
+   "q": "What do you do at campfires in Breath of the Wild to make meals that restore hearts?",
+   "a": "Cook",
+   "p": 200,
+   "alt": [
+    "Cooking"
+   ]
+  },
+  {
+   "q": "What does Link raise to block incoming attacks?",
+   "a": "Shield",
+   "p": 200
+  },
+  {
+   "q": "What is Link's main weapon, alongside his shield?",
+   "a": "Sword",
+   "p": 200
+  },
+  {
+   "q": "Which curved weapon returns to Link's hand after he throws it?",
+   "a": "Boomerang",
+   "p": 200
+  },
+  {
+   "q": "In which year was Ocarina of Time released?",
+   "a": "1998",
+   "p": 400
+  },
+  {
+   "q": "In which year did the original Legend of Zelda debut in Japan?",
+   "a": "1986",
+   "p": 400
+  },
+  {
+   "q": "Which composer wrote the series' main theme?",
+   "a": "Koji Kondo",
+   "p": 400,
+   "alt": [
+    "Kondo"
+   ]
+  },
+  {
+   "q": "What is the name of the spirit companion who guides Link in Skyward Sword?",
+   "a": "Fi",
+   "p": 400
+  },
+  {
+   "q": "Who is the imp-like companion who rides with Link in Twilight Princess?",
+   "a": "Midna",
+   "p": 400
+  },
+  {
+   "q": "What tablet-like device does Link use in Breath of the Wild to scan and map?",
+   "a": "Sheikah Slate",
+   "p": 400,
+   "alt": [
+    "The Sheikah Slate"
+   ]
+  },
+  {
+   "q": "Which console hosted A Link to the Past?",
+   "a": "Super Nintendo",
+   "p": 400,
+   "alt": [
+    "SNES",
+    "Super NES",
+    "Super Famicom"
+   ]
+  },
+  {
+   "q": "Which handheld hosted the original Link's Awakening in 1993?",
+   "a": "Game Boy",
+   "p": 400,
+   "alt": [
+    "Gameboy"
+   ]
+  },
+  {
+   "q": "On which island does Link's Awakening take place?",
+   "a": "Koholint Island",
+   "p": 400,
+   "alt": [
+    "Koholint"
+   ]
+  },
+  {
+   "q": "Which virtue does Princess Zelda's Triforce piece represent?",
+   "a": "Wisdom",
+   "p": 400
+  },
+  {
+   "q": "Which desert-dwelling tribe is Ganondorf born into?",
+   "a": "Gerudo",
+   "p": 400,
+   "alt": [
+    "The Gerudo"
+   ]
+  },
+  {
+   "q": "Which fish-like people live in Zora's Domain?",
+   "a": "Zoras",
+   "p": 400,
+   "alt": [
+    "Zora"
+   ]
+  },
+  {
+   "q": "Which tool lets Link pull himself toward distant targets with a chain?",
+   "a": "Hookshot",
+   "p": 400
+  },
+  {
+   "q": "Which eccentric map seller in green tights dreams of being a fairy?",
+   "a": "Tingle",
+   "p": 400
+  },
+  {
+   "q": "What is the name of Zelda's disguise in Ocarina of Time?",
+   "a": "Sheik",
+   "p": 400
+  },
+  {
+   "q": "Which giant tree guardian opens Ocarina of Time and dies at the start?",
+   "a": "Great Deku Tree",
+   "p": 400,
+   "alt": [
+    "Deku Tree"
+   ]
+  },
+  {
+   "q": "Miyamoto named Zelda after the wife of which American novelist?",
+   "a": "F. Scott Fitzgerald",
+   "p": 400,
+   "alt": [
+    "Fitzgerald",
+    "Scott Fitzgerald"
+   ]
+  },
+  {
+   "q": "Which village in Ocarina of Time contains a graveyard and Impa's house?",
+   "a": "Kakariko Village",
+   "p": 400,
+   "alt": [
+    "Kakariko"
+   ]
+  },
+  {
+   "q": "What are the tiny forest spirits hidden in Breath of the Wild called?",
+   "a": "Koroks",
+   "p": 400,
+   "alt": [
+    "Korok"
+   ]
+  },
+  {
+   "q": "What is the name of the malevolent force that corrupts Hyrule Castle in Breath of the Wild?",
+   "a": "Calamity Ganon",
+   "p": 400,
+   "alt": [
+    "Ganon"
+   ]
+  },
+  {
+   "q": "Who is Princess Zelda's Sheikah attendant in many games?",
+   "a": "Impa",
+   "p": 400
+  },
+  {
+   "q": "What does Link use in Breath of the Wild to glide through the air?",
+   "a": "Paraglider",
+   "p": 400,
+   "alt": [
+    "Glider"
+   ]
+  },
+  {
+   "q": "What is the N64 lock-on system introduced in Ocarina of Time called?",
+   "a": "Z-targeting",
+   "p": 400,
+   "alt": [
+    "Z-Targeting",
+    "Z targeting",
+    "Targeting"
+   ]
+  },
+  {
+   "q": "What item opens the final door of a dungeon before its boss?",
+   "a": "Boss Key",
+   "p": 400,
+   "alt": [
+    "Boss key"
+   ]
+  },
+  {
+   "q": "Which 2024 Zelda game lets you play as Princess Zelda?",
+   "a": "Echoes of Wisdom",
+   "p": 400,
+   "alt": [
+    "Zelda: Echoes of Wisdom"
+   ]
+  },
+  {
+   "q": "Which Nintendo console hosted The Wind Waker?",
+   "a": "GameCube",
+   "p": 400,
+   "alt": [
+    "Nintendo GameCube"
+   ]
+  },
+  {
+   "q": "What title is given to the Link of Ocarina of Time?",
+   "a": "Hero of Time",
+   "p": 400,
+   "alt": [
+    "The Hero of Time"
+   ]
+  },
+  {
+   "q": "Which rock-spitting octopus enemies appear throughout the series?",
+   "a": "Octoroks",
+   "p": 400,
+   "alt": [
+    "Octorok"
+   ]
+  },
+  {
+   "q": "Which console hosted Skyward Sword?",
+   "a": "Wii",
+   "p": 400,
+   "alt": [
+    "Nintendo Wii"
+   ]
+  },
+  {
+   "q": "What is the name of the vast ocean explored in The Wind Waker?",
+   "a": "The Great Sea",
+   "p": 400,
+   "alt": [
+    "Great Sea"
+   ]
+  },
+  {
+   "q": "Which 1987 Zelda sequel was a side-scrolling action RPG?",
+   "a": "Zelda II: The Adventure of Link",
+   "p": 400,
+   "alt": [
+    "Zelda II",
+    "The Adventure of Link",
+    "Adventure of Link"
+   ]
+  },
+  {
+   "q": "Which Triforce piece does Ganondorf bear?",
+   "a": "Power",
+   "p": 400,
+   "alt": [
+    "Triforce of Power"
+   ]
+  },
+  {
+   "q": "What is the name of the town at the centre of Majora's Mask?",
+   "a": "Clock Town",
+   "p": 400
+  },
+  {
+   "q": "What ability in Tears of the Kingdom lets Link attach objects together?",
+   "a": "Ultrahand",
+   "p": 400
+  },
+  {
+   "q": "What is the alternate realm in A Link to the Past called?",
+   "a": "Dark World",
+   "p": 400,
+   "alt": [
+    "The Dark World"
+   ]
+  },
+  {
+   "q": "Alongside Miyamoto, which designer co-created the original Zelda?",
+   "a": "Takashi Tezuka",
+   "p": 600,
+   "alt": [
+    "Tezuka"
+   ]
+  },
+  {
+   "q": "Which mask-trading salesman appears in Majora's Mask?",
+   "a": "Happy Mask Salesman",
+   "p": 600,
+   "alt": [
+    "Happy Mask Shop Owner"
+   ]
+  },
+  {
+   "q": "What is the talking boat in The Wind Waker called?",
+   "a": "King of Red Lions",
+   "p": 600,
+   "alt": [
+    "The King of Red Lions"
+   ]
+  },
+  {
+   "q": "Which song opens the Door of Time in Ocarina of Time?",
+   "a": "Song of Time",
+   "p": 600,
+   "alt": [
+    "The Song of Time"
+   ]
+  },
+  {
+   "q": "Which ranch run by Talon and Malon appears in Ocarina of Time?",
+   "a": "Lon Lon Ranch",
+   "p": 600
+  },
+  {
+   "q": "Hyrule Warriors blends Zelda with which Koei Tecmo action series?",
+   "a": "Dynasty Warriors",
+   "p": 600
+  },
+  {
+   "q": "Which Japanese publisher's Flagship studio made Oracle of Seasons and Oracle of Ages?",
+   "a": "Capcom",
+   "p": 600
+  },
+  {
+   "q": "What is the talking hat in The Minish Cap called?",
+   "a": "Ezlo",
+   "p": 600
+  },
+  {
+   "q": "Who is the white-haired villain serving Demise in Skyward Sword?",
+   "a": "Ghirahim",
+   "p": 600
+  },
+  {
+   "q": "Who is the usurper king of the Twili in Twilight Princess?",
+   "a": "Zant",
+   "p": 600
+  },
+  {
+   "q": "Which wind sorcerer is the villain of The Minish Cap and Four Swords?",
+   "a": "Vaati",
+   "p": 600
+  },
+  {
+   "q": "Which wizard is the villain at the start of A Link to the Past?",
+   "a": "Agahnim",
+   "p": 600
+  },
+  {
+   "q": "What is the sleeping creature Link must awaken in Link's Awakening?",
+   "a": "Wind Fish",
+   "p": 600,
+   "alt": [
+    "The Wind Fish"
+   ]
+  },
+  {
+   "q": "What is the name of the land in Majora's Mask?",
+   "a": "Termina",
+   "p": 600
+  },
+  {
+   "q": "Which company's CD-i console hosted Zelda games in the early 1990s?",
+   "a": "Philips",
+   "p": 600,
+   "alt": [
+    "Philips CD-i",
+    "CD-i"
+   ]
+  },
+  {
+   "q": "Which producer, who co-directed Majora's Mask, has long led the Zelda series?",
+   "a": "Eiji Aonuma",
+   "p": 600,
+   "alt": [
+    "Aonuma"
+   ]
+  },
+  {
+   "q": "What are the giant flying birds ridden in Skyward Sword called?",
+   "a": "Loftwings",
+   "p": 600,
+   "alt": [
+    "Loftwing"
+   ]
+  },
+  {
+   "q": "What ancient civilisation created the devices in Tears of the Kingdom?",
+   "a": "Zonai",
+   "p": 600,
+   "alt": [
+    "The Zonai"
+   ]
+  },
+  {
+   "q": "Who is the leader of the Gerudo thieves in Ocarina of Time?",
+   "a": "Nabooru",
+   "p": 600
+  },
+  {
+   "q": "How many sages help seal Ganondorf at the end of Ocarina of Time?",
+   "a": "Seven",
+   "p": 600,
+   "alt": [
+    "7"
+   ]
+  },
+  {
+   "q": "In The Wind Waker, which pirate captain is actually Princess Zelda?",
+   "a": "Tetra",
+   "p": 600
+  },
+  {
+   "q": "What is the floating town in Skyward Sword called?",
+   "a": "Skyloft",
+   "p": 600
+  },
+  {
+   "q": "Wind Waker HD was released in 2013 on which console?",
+   "a": "Wii U",
+   "p": 600,
+   "alt": [
+    "Nintendo Wii U"
+   ]
+  },
+  {
+   "q": "In which year was Majora's Mask released?",
+   "a": "2000",
+   "p": 600
+  },
+  {
+   "q": "Which Nintendo DS Zelda sees Link travelling by train?",
+   "a": "Spirit Tracks",
+   "p": 600,
+   "alt": [
+    "The Legend of Zelda: Spirit Tracks"
+   ]
+  },
+  {
+   "q": "Which shield-eating enemy is a staple of Zelda dungeons?",
+   "a": "Like Like",
+   "p": 600,
+   "alt": [
+    "Like-Like"
+   ]
+  },
+  {
+   "q": "Which travelling merchant with a large backpack appears in several Zelda games?",
+   "a": "Beedle",
+   "p": 600
+  },
+  {
+   "q": "Which Nintendo director led Skyward Sword and Breath of the Wild?",
+   "a": "Hidemaro Fujibayashi",
+   "p": 600,
+   "alt": [
+    "Fujibayashi"
+   ]
+  },
+  {
+   "q": "Which studio developed the 2019 Link's Awakening remake?",
+   "a": "Grezzo",
+   "p": 600
+  },
+  {
+   "q": "Who is the final villain of Skyward Sword, the origin of Ganon's hatred?",
+   "a": "Demise",
+   "p": 600
+  }
+ ]
+}

@@ -1,0 +1,530 @@
+{
+ "id": "music",
+ "name": "Music",
+ "questions": [
+  {
+   "q": "How many strings does a standard guitar have?",
+   "a": "Six",
+   "p": 200
+  },
+  {
+   "q": "Which instrument has 88 keys?",
+   "a": "Piano",
+   "p": 200
+  },
+  {
+   "q": "Which British band had members named John, Paul, George and Ringo?",
+   "a": "The Beatles",
+   "p": 200
+  },
+  {
+   "q": "Which country is the group ABBA from?",
+   "a": "Sweden",
+   "p": 200
+  },
+  {
+   "q": "Which composer wrote the piano piece \"Fur Elise\"?",
+   "a": "Beethoven",
+   "p": 200
+  },
+  {
+   "q": "Which family of orchestra instruments includes the violin, viola and cello?",
+   "a": "Strings",
+   "p": 200
+  },
+  {
+   "q": "Which singer is nicknamed the \"King of Rock and Roll\"?",
+   "a": "Elvis Presley",
+   "p": 200
+  },
+  {
+   "q": "Which Egyptian singer was nicknamed \"Kawkab al-Sharq\" (Star of the East)?",
+   "a": "Umm Kulthum",
+   "p": 400
+  },
+  {
+   "q": "Which Lebanese singer is nicknamed \"Jarat al-Qamar\" (Neighbour of the Moon)?",
+   "a": "Fairuz",
+   "p": 400
+  },
+  {
+   "q": "Which Italian Baroque composer wrote \"The Four Seasons\"?",
+   "a": "Vivaldi",
+   "p": 200
+  },
+  {
+   "q": "Which country does the music genre K-pop come from?",
+   "a": "South Korea",
+   "p": 200
+  },
+  {
+   "q": "Bono is the lead singer of which Irish band?",
+   "a": "U2",
+   "p": 200
+  },
+  {
+   "q": "Which singer is known as the \"Queen of Pop\"?",
+   "a": "Madonna",
+   "p": 200
+  },
+  {
+   "q": "What is the musical term for playing loudly?",
+   "a": "Forte",
+   "p": 400
+  },
+  {
+   "q": "Which US city is widely known as the birthplace of jazz?",
+   "a": "New Orleans",
+   "p": 400
+  },
+  {
+   "q": "Which Russian composer wrote 'Pictures at an Exhibition'?",
+   "a": "Modest Mussorgsky",
+   "p": 600
+  },
+  {
+   "q": "Which instrument is the cellist Yo-Yo Ma famous for playing?",
+   "a": "Cello",
+   "p": 400
+  },
+  {
+   "q": "Which Colombian singer released the song \"Hips Don't Lie\"?",
+   "a": "Shakira",
+   "p": 200
+  },
+  {
+   "q": "Which Barbadian singer released the song \"Umbrella\"?",
+   "a": "Rihanna",
+   "p": 200
+  },
+  {
+   "q": "In music notation, how many beats does a whole note last in 4/4 time?",
+   "a": "Four",
+   "p": 400
+  },
+  {
+   "q": "Which band released the 1973 album \"The Dark Side of the Moon\"?",
+   "a": "Pink Floyd",
+   "p": 200
+  },
+  {
+   "q": "Which American singer is called the \"Queen of Soul\"?",
+   "a": "Aretha Franklin",
+   "p": 200
+  },
+  {
+   "q": "Which singer released the albums \"1989\" and \"Folklore\"?",
+   "a": "Taylor Swift",
+   "p": 200
+  },
+  {
+   "q": "Which composer wrote the opera \"The Magic Flute\"?",
+   "a": "Mozart",
+   "p": 400
+  },
+  {
+   "q": "Which large keyboard instrument with pipes is found in many churches?",
+   "a": "Organ",
+   "p": 200
+  },
+  {
+   "q": "Which Saudi singer is nicknamed \"Fannan al-Arab\" (Artist of the Arabs)?",
+   "a": "Mohammed Abdu",
+   "p": 600
+  },
+  {
+   "q": "Which country is singer Hussain Al Jassmi from?",
+   "a": "United Arab Emirates",
+   "p": 400
+  },
+  {
+   "q": "Which composer wrote the main theme of the original Star Wars film?",
+   "a": "John Williams",
+   "p": 200
+  },
+  {
+   "q": "Which Disney animated film features the song \"Let It Go\"?",
+   "a": "Frozen",
+   "p": 200
+  },
+  {
+   "q": "Which brass instrument is played with a slide?",
+   "a": "Trombone",
+   "p": 400
+  },
+  {
+   "q": "Mick Jagger and Keith Richards founded which British rock band?",
+   "a": "The Rolling Stones",
+   "p": 200
+  },
+  {
+   "q": "Who is the artist in this clip?",
+   "a": "Rick Astley",
+   "p": 200,
+   "yt": "dQw4w9WgXcQ",
+   "start": 43,
+   "end": 68
+  },
+  {
+   "q": "Who is the artist in this clip?",
+   "a": "Michael Jackson",
+   "p": 200,
+   "yt": "Zi_XLOBDo_Y",
+   "start": 30,
+   "end": 55
+  },
+  {
+   "q": "Who is the artist in this clip?",
+   "a": "Ed Sheeran",
+   "p": 200,
+   "yt": "JGwWNGJdvx8",
+   "start": 20,
+   "end": 45
+  },
+  {
+   "q": "Who is the artist in this clip?",
+   "a": "Adele",
+   "p": 200,
+   "yt": "YQHsXMglC9A",
+   "start": 30,
+   "end": 55
+  },
+  {
+   "q": "Which traditional Arabic instrument is a pear-shaped, short-necked lute?",
+   "a": "Oud",
+   "p": 400
+  },
+  {
+   "q": "How many lines does a standard musical staff have?",
+   "a": "Five",
+   "p": 400
+  },
+  {
+   "q": "Which rapper's birth name is Marshall Mathers?",
+   "a": "Eminem",
+   "p": 200
+  },
+  {
+   "q": "Which Jamaican artist released the 1977 album \"Exodus\"?",
+   "a": "Bob Marley",
+   "p": 200
+  },
+  {
+   "q": "Which Emirati singer, known by one name, was a judge on Arab Idol?",
+   "a": "Ahlam",
+   "p": 400
+  },
+  {
+   "q": "Which Egyptian singer is nicknamed \"Al-Andaleeb al-Asmar\" (the Dark Nightingale)?",
+   "a": "Abdel Halim Hafez",
+   "p": 400
+  },
+  {
+   "q": "Which Italian composer wrote the opera \"La Traviata\"?",
+   "a": "Giuseppe Verdi",
+   "p": 400
+  },
+  {
+   "q": "Which German Baroque composer wrote the \"Brandenburg Concertos\"?",
+   "a": "Johann Sebastian Bach",
+   "p": 400
+  },
+  {
+   "q": "Which Russian composer wrote the ballet \"Swan Lake\"?",
+   "a": "Tchaikovsky",
+   "p": 200
+  },
+  {
+   "q": "What is the largest bowed string instrument in a standard orchestra?",
+   "a": "Double bass",
+   "p": 400
+  },
+  {
+   "q": "Which British band recorded the song \"Stairway to Heaven\"?",
+   "a": "Led Zeppelin",
+   "p": 200
+  },
+  {
+   "q": "Which Italian composer scored the film \"The Good, the Bad and the Ugly\"?",
+   "a": "Ennio Morricone",
+   "p": 400
+  },
+  {
+   "q": "Which composer scored the films \"Inception\" and \"Interstellar\"?",
+   "a": "Hans Zimmer",
+   "p": 200
+  },
+  {
+   "q": "In which Austrian city was Mozart born?",
+   "a": "Salzburg",
+   "p": 400
+  },
+  {
+   "q": "How many sharps are in the key of G major?",
+   "a": "One",
+   "p": 600
+  },
+  {
+   "q": "What is the musical term for a gradual increase in volume?",
+   "a": "Crescendo",
+   "p": 400
+  },
+  {
+   "q": "What tempo does the Italian term \"allegro\" indicate?",
+   "a": "Fast",
+   "p": 400
+  },
+  {
+   "q": "Which music genre emerged in the Bronx, New York, in the 1970s?",
+   "a": "Hip hop",
+   "p": 400
+  },
+  {
+   "q": "Which country is the tango dance and music style from?",
+   "a": "Argentina",
+   "p": 200
+  },
+  {
+   "q": "Which country is the flamenco music style from?",
+   "a": "Spain",
+   "p": 200
+  },
+  {
+   "q": "Which Brazilian music style is named for a Portuguese phrase meaning \"new trend\"?",
+   "a": "Bossa nova",
+   "p": 600
+  },
+  {
+   "q": "Which US city is the home of the Motown record label?",
+   "a": "Detroit",
+   "p": 400
+  },
+  {
+   "q": "Which band released the 1977 album \"Rumours\"?",
+   "a": "Fleetwood Mac",
+   "p": 400
+  },
+  {
+   "q": "Which American rock singer is nicknamed \"The Boss\"?",
+   "a": "Bruce Springsteen",
+   "p": 400
+  },
+  {
+   "q": "Which orchestra instrument has 47 strings and seven pedals?",
+   "a": "Harp",
+   "p": 400
+  },
+  {
+   "q": "Which composer wrote the waltz \"The Blue Danube\"?",
+   "a": "Johann Strauss II",
+   "p": 400
+  },
+  {
+   "q": "Which pop star's birth name is Stefani Germanotta?",
+   "a": "Lady Gaga",
+   "p": 200
+  },
+  {
+   "q": "Which South Korean group includes the members RM, Jin and Suga?",
+   "a": "BTS",
+   "p": 200
+  },
+  {
+   "q": "Which singer released the 2017 hit \"Despacito\" with Daddy Yankee?",
+   "a": "Luis Fonsi",
+   "p": 400
+  },
+  {
+   "q": "Which two Lebanese brothers wrote many songs for Fairuz?",
+   "a": "Rahbani Brothers",
+   "p": 600
+  },
+  {
+   "q": "Which Syrian singer is nicknamed the \"Sultan of Tarab\"?",
+   "a": "George Wassouf",
+   "p": 600
+  },
+  {
+   "q": "Which country is the bagpipe most famously associated with?",
+   "a": "Scotland",
+   "p": 200
+  },
+  {
+   "q": "Who is the artist in this clip?",
+   "a": "Queen",
+   "p": 200,
+   "yt": "fJ9rUzIMcZQ",
+   "start": 60,
+   "end": 85
+  },
+  {
+   "q": "Who is the artist in this clip?",
+   "a": "Nirvana",
+   "p": 400,
+   "yt": "hTWKbfoikeg",
+   "start": 20,
+   "end": 45
+  },
+  {
+   "q": "Who is the artist in this clip?",
+   "a": "Pharrell Williams",
+   "p": 400,
+   "yt": "y6Sxv-sUYtM",
+   "start": 30,
+   "end": 55
+  },
+  {
+   "q": "Which Arabic plucked zither has dozens of strings and is played on the lap?",
+   "a": "Qanun",
+   "p": 600
+  },
+  {
+   "q": "Which composer wrote the ballet \"The Rite of Spring\"?",
+   "a": "Igor Stravinsky",
+   "p": 600
+  },
+  {
+   "q": "Which French composer wrote \"Bolero\"?",
+   "a": "Maurice Ravel",
+   "p": 400
+  },
+  {
+   "q": "Which Norwegian composer wrote the \"Peer Gynt\" suites?",
+   "a": "Edvard Grieg",
+   "p": 600
+  },
+  {
+   "q": "Which Czech composer wrote the \"New World\" Symphony?",
+   "a": "Antonin Dvorak",
+   "p": 600
+  },
+  {
+   "q": "Which Finnish composer wrote \"Finlandia\"?",
+   "a": "Jean Sibelius",
+   "p": 600
+  },
+  {
+   "q": "Which Egyptian composer was nicknamed the \"Musician of Generations\"?",
+   "a": "Mohamed Abdel Wahab",
+   "p": 600
+  },
+  {
+   "q": "On which day of the week were Umm Kulthum's famous monthly concerts traditionally broadcast?",
+   "a": "Thursday",
+   "p": 600
+  },
+  {
+   "q": "Which Lebanese composer and pianist is the son of Fairuz?",
+   "a": "Ziad Rahbani",
+   "p": 600
+  },
+  {
+   "q": "How many flats are in the key of F major?",
+   "a": "One",
+   "p": 600
+  },
+  {
+   "q": "What is the relative minor of C major?",
+   "a": "A minor",
+   "p": 600
+  },
+  {
+   "q": "What interval separates the notes C and G?",
+   "a": "Perfect fifth",
+   "p": 600
+  },
+  {
+   "q": "How many beats does a dotted half note last in 4/4 time?",
+   "a": "Three",
+   "p": 600
+  },
+  {
+   "q": "What is the name for a piece written for a solo instrument and orchestra?",
+   "a": "Concerto",
+   "p": 600
+  },
+  {
+   "q": "What does the Italian term \"pianissimo\" mean?",
+   "a": "Very soft",
+   "p": 600
+  },
+  {
+   "q": "Which double-reed woodwind instrument gives the tuning note for an orchestra?",
+   "a": "Oboe",
+   "p": 600
+  },
+  {
+   "q": "Which Austrian composer is nicknamed the \"Father of the Symphony\"?",
+   "a": "Joseph Haydn",
+   "p": 600
+  },
+  {
+   "q": "Which French composer wrote the opera \"Carmen\"?",
+   "a": "Georges Bizet",
+   "p": 400
+  },
+  {
+   "q": "Which Polish composer is famous for his nocturnes and polonaises for piano?",
+   "a": "Frederic Chopin",
+   "p": 400
+  },
+  {
+   "q": "Which Hungarian composer wrote the \"Hungarian Rhapsodies\"?",
+   "a": "Franz Liszt",
+   "p": 600
+  },
+  {
+   "q": "Which Italian composer wrote the score for \"The Godfather\"?",
+   "a": "Nino Rota",
+   "p": 600
+  },
+  {
+   "q": "Which composer wrote the score for the film \"Psycho\"?",
+   "a": "Bernard Herrmann",
+   "p": 600
+  },
+  {
+   "q": "Which Greek composer wrote the theme for \"Chariots of Fire\"?",
+   "a": "Vangelis",
+   "p": 600
+  },
+  {
+   "q": "Which French composer scored the film \"Amelie\"?",
+   "a": "Yann Tiersen",
+   "p": 600
+  },
+  {
+   "q": "Which Japanese composer scored many Studio Ghibli films?",
+   "a": "Joe Hisaishi",
+   "p": 600
+  },
+  {
+   "q": "Which English band released the 1997 album \"OK Computer\"?",
+   "a": "Radiohead",
+   "p": 400
+  },
+  {
+   "q": "Which jazz trumpeter released the 1959 album \"Kind of Blue\"?",
+   "a": "Miles Davis",
+   "p": 400
+  },
+  {
+   "q": "Which jazz saxophonist recorded the 1965 album \"A Love Supreme\"?",
+   "a": "John Coltrane",
+   "p": 600
+  },
+  {
+   "q": "Which Nigerian musician pioneered the Afrobeat genre?",
+   "a": "Fela Kuti",
+   "p": 600
+  },
+  {
+   "q": "Who is the artist in this clip?",
+   "a": "a-ha",
+   "p": 400,
+   "yt": "djV11Xbc914",
+   "start": 30,
+   "end": 55
+  }
+ ]
+}

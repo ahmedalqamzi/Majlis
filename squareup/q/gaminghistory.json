@@ -1,0 +1,518 @@
+{
+ "id": "gaminghistory",
+ "name": "Gaming History",
+ "questions": [
+  {
+   "q": "Which company created Pac-Man?",
+   "a": "Namco",
+   "p": 200
+  },
+  {
+   "q": "Which Nintendo character first appeared in the arcade game Donkey Kong?",
+   "a": "Mario",
+   "p": 200
+  },
+  {
+   "q": "Which company makes the PlayStation?",
+   "a": "Sony",
+   "p": 200
+  },
+  {
+   "q": "Which company makes the Xbox?",
+   "a": "Microsoft",
+   "p": 200
+  },
+  {
+   "q": "Which company created Sonic the Hedgehog?",
+   "a": "Sega",
+   "p": 200
+  },
+  {
+   "q": "In what year did the original PlayStation launch in Japan?",
+   "a": "1994",
+   "p": 200
+  },
+  {
+   "q": "Which Nintendo handheld launched in 1989 bundled with Tetris?",
+   "a": "Game Boy",
+   "p": 200
+  },
+  {
+   "q": "What is the full name of Nintendo's 1985 Western home console, abbreviated NES?",
+   "a": "Nintendo Entertainment System",
+   "p": 200
+  },
+  {
+   "q": "Which 1972 Atari arcade game simulated table tennis?",
+   "a": "Pong",
+   "p": 200
+  },
+  {
+   "q": "Which company made the Atari 2600?",
+   "a": "Atari",
+   "p": 200
+  },
+  {
+   "q": "What is the surname of Sonic's main villain, Dr. Ivo?",
+   "a": "Robotnik",
+   "p": 200
+  },
+  {
+   "q": "Which Xbox franchise stars the Master Chief?",
+   "a": "Halo",
+   "p": 200
+  },
+  {
+   "q": "In what year was the Nintendo Switch released?",
+   "a": "2017",
+   "p": 200
+  },
+  {
+   "q": "Which company made the Dreamcast console?",
+   "a": "Sega",
+   "p": 200
+  },
+  {
+   "q": "Which Nintendo console launched in 2006 with a motion-sensing remote?",
+   "a": "Wii",
+   "p": 200
+  },
+  {
+   "q": "In which country was Space Invaders made?",
+   "a": "Japan",
+   "p": 200
+  },
+  {
+   "q": "Who created Minecraft?",
+   "a": "Markus Persson (Notch)",
+   "p": 200
+  },
+  {
+   "q": "Which Nintendo franchise began in Japan in 1996 with Red and Green versions?",
+   "a": "Pokémon",
+   "p": 200
+  },
+  {
+   "q": "In what year was Pac-Man released?",
+   "a": "1980",
+   "p": 200
+  },
+  {
+   "q": "Which hero is the main playable character of The Legend of Zelda?",
+   "a": "Link",
+   "p": 200
+  },
+  {
+   "q": "What was the name of Sony's first handheld console, launched in 2004?",
+   "a": "PlayStation Portable (PSP)",
+   "p": 200
+  },
+  {
+   "q": "In what year was the PlayStation 4 released?",
+   "a": "2013",
+   "p": 200
+  },
+  {
+   "q": "Which Nintendo designer created both Mario and Zelda?",
+   "a": "Shigeru Miyamoto",
+   "p": 200
+  },
+  {
+   "q": "Which Nintendo console from 1996 introduced Super Mario 64?",
+   "a": "Nintendo 64",
+   "p": 200
+  },
+  {
+   "q": "What is the name of Valve's PC game distribution platform?",
+   "a": "Steam",
+   "p": 200
+  },
+  {
+   "q": "Which company developed Fortnite?",
+   "a": "Epic Games",
+   "p": 200
+  },
+  {
+   "q": "Which PlayStation console launched in 2006 with a Blu-ray drive?",
+   "a": "PlayStation 3",
+   "p": 200
+  },
+  {
+   "q": "Which Japanese company created Street Fighter II?",
+   "a": "Capcom",
+   "p": 200
+  },
+  {
+   "q": "Which dual-screen Nintendo handheld launched in 2004?",
+   "a": "Nintendo DS",
+   "p": 200
+  },
+  {
+   "q": "Which 1996 game introduced Lara Croft?",
+   "a": "Tomb Raider",
+   "p": 200
+  },
+  {
+   "q": "Which Nintendo console launched in 2012 with a tablet-style GamePad?",
+   "a": "Wii U",
+   "p": 200
+  },
+  {
+   "q": "Which Japanese company created Final Fantasy?",
+   "a": "Square",
+   "p": 200
+  },
+  {
+   "q": "Which Sony console is unveiled in this design reveal clip?",
+   "a": "PlayStation 5",
+   "p": 200,
+   "yt": "ohH9dqGRwT0",
+   "start": 5,
+   "end": 25
+  },
+  {
+   "q": "Which Microsoft console family is revealed in this trailer?",
+   "a": "Xbox Series X|S",
+   "p": 200,
+   "yt": "aiNNhpxKiCU",
+   "start": 5,
+   "end": 25
+  },
+  {
+   "q": "Which Mario game is shown in this Nintendo Switch Presentation trailer?",
+   "a": "Super Mario Odyssey",
+   "p": 200,
+   "yt": "5kcdRBHM7kM",
+   "start": 5,
+   "end": 25
+  },
+  {
+   "q": "Which studio developed Doom in 1993?",
+   "a": "id Software",
+   "p": 400
+  },
+  {
+   "q": "Who co-founded Atari in 1972 with Ted Dabney?",
+   "a": "Nolan Bushnell",
+   "p": 400
+  },
+  {
+   "q": "Who founded Nintendo in 1889 as a playing-card company?",
+   "a": "Fusajiro Yamauchi",
+   "p": 400
+  },
+  {
+   "q": "What was the Sega Genesis called in Japan?",
+   "a": "Mega Drive",
+   "p": 400
+  },
+  {
+   "q": "What was the Super Nintendo called in Japan?",
+   "a": "Super Famicom",
+   "p": 400
+  },
+  {
+   "q": "What was the NES called in Japan?",
+   "a": "Famicom",
+   "p": 400
+  },
+  {
+   "q": "Which Sega handheld launched in Japan in 1990?",
+   "a": "Game Gear",
+   "p": 400
+  },
+  {
+   "q": "Which company originally partnered with Sony on a CD add-on that led to the PlayStation?",
+   "a": "Nintendo",
+   "p": 400
+  },
+  {
+   "q": "Who designed Pac-Man?",
+   "a": "Toru Iwatani",
+   "p": 400
+  },
+  {
+   "q": "Who created Tetris in 1984?",
+   "a": "Alexey Pajitnov",
+   "p": 400
+  },
+  {
+   "q": "Who created the Metal Gear series?",
+   "a": "Hideo Kojima",
+   "p": 400
+  },
+  {
+   "q": "Who is the creator of the original Final Fantasy?",
+   "a": "Hironobu Sakaguchi",
+   "p": 400
+  },
+  {
+   "q": "Which programmer co-created Sonic with Naoto Ohshima?",
+   "a": "Yuji Naka",
+   "p": 400
+  },
+  {
+   "q": "In what year did the North American video game crash begin?",
+   "a": "1983",
+   "p": 400
+  },
+  {
+   "q": "What was the first commercial arcade video game, made by Nolan Bushnell in 1971?",
+   "a": "Computer Space",
+   "p": 400
+  },
+  {
+   "q": "Who is called the father of home video game consoles for the Magnavox Odyssey?",
+   "a": "Ralph Baer",
+   "p": 400
+  },
+  {
+   "q": "What was Mario originally called in Donkey Kong?",
+   "a": "Jumpman",
+   "p": 400
+  },
+  {
+   "q": "In what year was the first Legend of Zelda released in Japan?",
+   "a": "1986",
+   "p": 400
+  },
+  {
+   "q": "Which Nintendo game introduced Samus Aran?",
+   "a": "Metroid",
+   "p": 400
+  },
+  {
+   "q": "Which company developed Half-Life?",
+   "a": "Valve",
+   "p": 400
+  },
+  {
+   "q": "Which company did Valve's founders leave before founding it?",
+   "a": "Microsoft",
+   "p": 400
+  },
+  {
+   "q": "Who is known as the father of the PlayStation at Sony?",
+   "a": "Ken Kutaragi",
+   "p": 400
+  },
+  {
+   "q": "Which Nintendo president led the launch of the Wii and DS?",
+   "a": "Satoru Iwata",
+   "p": 400
+  },
+  {
+   "q": "What was the CD-ROM add-on for the Sega Genesis called?",
+   "a": "Sega CD",
+   "p": 400
+  },
+  {
+   "q": "Which Atari handheld launched in 1989?",
+   "a": "Lynx",
+   "p": 400
+  },
+  {
+   "q": "Which 1995 Nintendo console used a red stereoscopic display?",
+   "a": "Virtual Boy",
+   "p": 400
+  },
+  {
+   "q": "Which studio created the original Tomb Raider?",
+   "a": "Core Design",
+   "p": 400
+  },
+  {
+   "q": "What Sega ad slogan mocked Nintendo during the 16-bit console wars?",
+   "a": "Genesis does what Nintendon't",
+   "p": 400
+  },
+  {
+   "q": "Which Sega console did Sony undercut with a $299 price at E3 1995?",
+   "a": "Sega Saturn",
+   "p": 400
+  },
+  {
+   "q": "Which studio developed Halo: Combat Evolved?",
+   "a": "Bungie",
+   "p": 400
+  },
+  {
+   "q": "Who voiced Mario from the 1990s until 2023?",
+   "a": "Charles Martinet",
+   "p": 400
+  },
+  {
+   "q": "Which 1993 Atari console was marketed as 64-bit?",
+   "a": "Jaguar",
+   "p": 400
+  },
+  {
+   "q": "In what year was the arcade version of Donkey Kong released?",
+   "a": "1981",
+   "p": 400
+  },
+  {
+   "q": "Which 2001 Nintendo console used 8 cm optical discs?",
+   "a": "GameCube",
+   "p": 400
+  },
+  {
+   "q": "Which upgraded Sony console is revealed in this trailer?",
+   "a": "PlayStation 5 Pro",
+   "p": 400,
+   "yt": "LAU3A31F1G4",
+   "start": 5,
+   "end": 25
+  },
+  {
+   "q": "Who built the 1958 game Tennis for Two?",
+   "a": "William Higinbotham",
+   "p": 600
+  },
+  {
+   "q": "Which 1976 console was first to use ROM cartridges widely, by Fairchild?",
+   "a": "Fairchild Channel F",
+   "p": 600
+  },
+  {
+   "q": "What was the Atari 2600 originally called?",
+   "a": "Atari Video Computer System",
+   "p": 600
+  },
+  {
+   "q": "In what year was the Atari 2600 released?",
+   "a": "1977",
+   "p": 600
+  },
+  {
+   "q": "Which toy company made the Intellivision?",
+   "a": "Mattel",
+   "p": 600
+  },
+  {
+   "q": "Which company made the ColecoVision?",
+   "a": "Coleco",
+   "p": 600
+  },
+  {
+   "q": "Who created the first known video game Easter egg in Adventure (1979)?",
+   "a": "Warren Robinett",
+   "p": 600
+  },
+  {
+   "q": "Which Nintendo engineer created the Game & Watch series?",
+   "a": "Gunpei Yokoi",
+   "p": 600
+  },
+  {
+   "q": "What was the TurboGrafx-16 called in Japan?",
+   "a": "PC Engine",
+   "p": 600
+  },
+  {
+   "q": "Which company made the Neo Geo?",
+   "a": "SNK",
+   "p": 600
+  },
+  {
+   "q": "In what year was the Commodore 64 released?",
+   "a": "1982",
+   "p": 600
+  },
+  {
+   "q": "Which 1992 id Software game popularized the first-person shooter?",
+   "a": "Wolfenstein 3D",
+   "p": 600
+  },
+  {
+   "q": "Which computer was Spacewar! originally written for at MIT?",
+   "a": "PDP-1",
+   "p": 600
+  },
+  {
+   "q": "Which company published the text adventure Zork?",
+   "a": "Infocom",
+   "p": 600
+  },
+  {
+   "q": "Who created the Ultima series?",
+   "a": "Richard Garriott",
+   "p": 600
+  },
+  {
+   "q": "Who co-created the space trading game Elite with Ian Bell?",
+   "a": "David Braben",
+   "p": 600
+  },
+  {
+   "q": "Who created Colossal Cave Adventure?",
+   "a": "Will Crowther",
+   "p": 600
+  },
+  {
+   "q": "What was Nintendo's first home video game console, released in 1977?",
+   "a": "Color TV-Game",
+   "p": 600
+  },
+  {
+   "q": "In what year did Sega release the SG-1000?",
+   "a": "1983",
+   "p": 600
+  },
+  {
+   "q": "Which Electronic Arts founder later founded 3DO?",
+   "a": "Trip Hawkins",
+   "p": 600
+  },
+  {
+   "q": "Which first third-party console developer was founded by ex-Atari programmers in 1979?",
+   "a": "Activision",
+   "p": 600
+  },
+  {
+   "q": "Who designed Pitfall!?",
+   "a": "David Crane",
+   "p": 600
+  },
+  {
+   "q": "Who created Virtua Fighter?",
+   "a": "Yu Suzuki",
+   "p": 600
+  },
+  {
+   "q": "Who built Pong's prototype at Atari?",
+   "a": "Allan Alcorn",
+   "p": 600
+  },
+  {
+   "q": "In what year was the Famicom released in Japan?",
+   "a": "1983",
+   "p": 600
+  },
+  {
+   "q": "In what year was the first Final Fantasy released?",
+   "a": "1987",
+   "p": 600
+  },
+  {
+   "q": "In what year did the Sega Saturn launch in Japan?",
+   "a": "1994",
+   "p": 600
+  },
+  {
+   "q": "Which Microsoft engineer is a co-creator of the original Xbox?",
+   "a": "Seamus Blackley",
+   "p": 600
+  },
+  {
+   "q": "Which 1982 console had a built-in vector display?",
+   "a": "Vectrex",
+   "p": 600
+  },
+  {
+   "q": "Who founded Sinclair Research, maker of the ZX Spectrum?",
+   "a": "Clive Sinclair",
+   "p": 600
+  }
+ ]
+}

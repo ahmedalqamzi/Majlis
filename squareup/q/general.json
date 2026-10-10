@@ -1,0 +1,506 @@
+{
+ "id": "general",
+ "name": "General Knowledge",
+ "questions": [
+  {
+   "q": "What is the largest planet in our solar system?",
+   "a": "Jupiter",
+   "p": 200
+  },
+  {
+   "q": "What is the chemical formula of water?",
+   "a": "H2O",
+   "p": 200
+  },
+  {
+   "q": "How many continents are there?",
+   "a": "Seven",
+   "p": 200
+  },
+  {
+   "q": "What is the largest ocean on Earth?",
+   "a": "Pacific Ocean",
+   "p": 200
+  },
+  {
+   "q": "What is the capital of the United Arab Emirates?",
+   "a": "Abu Dhabi",
+   "p": 200
+  },
+  {
+   "q": "How many days are there in a leap year?",
+   "a": "366",
+   "p": 200
+  },
+  {
+   "q": "Who painted the Mona Lisa?",
+   "a": "Leonardo da Vinci",
+   "p": 200
+  },
+  {
+   "q": "How many sides does a hexagon have?",
+   "a": "Six",
+   "p": 200
+  },
+  {
+   "q": "Which colour do you get by mixing blue and yellow?",
+   "a": "Green",
+   "p": 200
+  },
+  {
+   "q": "Which animal is often called the king of the jungle?",
+   "a": "Lion",
+   "p": 200
+  },
+  {
+   "q": "Which planet is known as the Red Planet?",
+   "a": "Mars",
+   "p": 200
+  },
+  {
+   "q": "What is the largest land animal?",
+   "a": "African elephant",
+   "p": 200
+  },
+  {
+   "q": "In which country is the Eiffel Tower?",
+   "a": "France",
+   "p": 200
+  },
+  {
+   "q": "Who wrote the play Romeo and Juliet?",
+   "a": "William Shakespeare",
+   "p": 200
+  },
+  {
+   "q": "How many strings does a standard guitar have?",
+   "a": "Six",
+   "p": 200
+  },
+  {
+   "q": "What is the hardest natural substance?",
+   "a": "Diamond",
+   "p": 200
+  },
+  {
+   "q": "At what temperature in degrees Celsius does water freeze?",
+   "a": "0",
+   "p": 200
+  },
+  {
+   "q": "What is the capital of Japan?",
+   "a": "Tokyo",
+   "p": 200
+  },
+  {
+   "q": "At what temperature in degrees Celsius does water boil at sea level?",
+   "a": "100",
+   "p": 200
+  },
+  {
+   "q": "What is the first month of the year?",
+   "a": "January",
+   "p": 200
+  },
+  {
+   "q": "What is the tallest animal in the world?",
+   "a": "Giraffe",
+   "p": 200
+  },
+  {
+   "q": "Which fruit is said to keep the doctor away if eaten daily?",
+   "a": "Apple",
+   "p": 200
+  },
+  {
+   "q": "Which flightless bird is famous for living in Antarctica?",
+   "a": "Penguin",
+   "p": 200
+  },
+  {
+   "q": "How many colours are traditionally listed in a rainbow?",
+   "a": "Seven",
+   "p": 200
+  },
+  {
+   "q": "What is the largest mammal on Earth?",
+   "a": "Blue whale",
+   "p": 200
+  },
+  {
+   "q": "What is the main language spoken in Brazil?",
+   "a": "Portuguese",
+   "p": 200
+  },
+  {
+   "q": "Who wrote the Harry Potter books?",
+   "a": "J.K. Rowling",
+   "p": 200
+  },
+  {
+   "q": "What is the capital of Italy?",
+   "a": "Rome",
+   "p": 200
+  },
+  {
+   "q": "Which organ pumps blood around the human body?",
+   "a": "Heart",
+   "p": 200
+  },
+  {
+   "q": "Which insects make honey?",
+   "a": "Bees",
+   "p": 200
+  },
+  {
+   "q": "How many letters are in the English alphabet?",
+   "a": "26",
+   "p": 200
+  },
+  {
+   "q": "What is the capital of Egypt?",
+   "a": "Cairo",
+   "p": 200
+  },
+  {
+   "q": "What is a baby kangaroo called?",
+   "a": "Joey",
+   "p": 200
+  },
+  {
+   "q": "In which year was the United Arab Emirates formed?",
+   "a": "1971",
+   "p": 200
+  },
+  {
+   "q": "Which planet is best known for its prominent rings?",
+   "a": "Saturn",
+   "p": 200
+  },
+  {
+   "q": "What is the capital city of Australia?",
+   "a": "Canberra",
+   "p": 400
+  },
+  {
+   "q": "Which element has the chemical symbol Au?",
+   "a": "Gold",
+   "p": 400
+  },
+  {
+   "q": "Which gas makes up most of Earth's atmosphere?",
+   "a": "Nitrogen",
+   "p": 400
+  },
+  {
+   "q": "What is the longest bone in the human body?",
+   "a": "Femur",
+   "p": 400
+  },
+  {
+   "q": "Who discovered penicillin?",
+   "a": "Alexander Fleming",
+   "p": 400
+  },
+  {
+   "q": "How many bones are in an adult human body?",
+   "a": "206",
+   "p": 400
+  },
+  {
+   "q": "What is the smallest country in the world by area?",
+   "a": "Vatican City",
+   "p": 400
+  },
+  {
+   "q": "What is the capital city of Brazil?",
+   "a": "Brasilia",
+   "p": 400
+  },
+  {
+   "q": "Who wrote the novel Nineteen Eighty-Four?",
+   "a": "George Orwell",
+   "p": 400
+  },
+  {
+   "q": "What is the smallest prime number?",
+   "a": "2",
+   "p": 400
+  },
+  {
+   "q": "What is the capital of Canada?",
+   "a": "Ottawa",
+   "p": 400
+  },
+  {
+   "q": "How many months of the year have 31 days?",
+   "a": "Seven",
+   "p": 400
+  },
+  {
+   "q": "Who wrote the novel Pride and Prejudice?",
+   "a": "Jane Austen",
+   "p": 400
+  },
+  {
+   "q": "What is the chemical symbol for sodium?",
+   "a": "Na",
+   "p": 400
+  },
+  {
+   "q": "How many hearts does an octopus have?",
+   "a": "Three",
+   "p": 400
+  },
+  {
+   "q": "What is the Japanese art of paper folding called?",
+   "a": "Origami",
+   "p": 400
+  },
+  {
+   "q": "In which Indian city is the Taj Mahal?",
+   "a": "Agra",
+   "p": 400
+  },
+  {
+   "q": "What is a group of lions called?",
+   "a": "A pride",
+   "p": 400
+  },
+  {
+   "q": "Who wrote the novel Don Quixote?",
+   "a": "Miguel de Cervantes",
+   "p": 400
+  },
+  {
+   "q": "How many keys does a standard piano have?",
+   "a": "88",
+   "p": 400
+  },
+  {
+   "q": "What is the capital of Turkey?",
+   "a": "Ankara",
+   "p": 400
+  },
+  {
+   "q": "Who wrote the novel War and Peace?",
+   "a": "Leo Tolstoy",
+   "p": 400
+  },
+  {
+   "q": "Which artist painted Guernica?",
+   "a": "Pablo Picasso",
+   "p": 400
+  },
+  {
+   "q": "What is the capital of New Zealand?",
+   "a": "Wellington",
+   "p": 400
+  },
+  {
+   "q": "In which year did the Berlin Wall fall?",
+   "a": "1989",
+   "p": 400
+  },
+  {
+   "q": "Which composer wrote The Four Seasons?",
+   "a": "Antonio Vivaldi",
+   "p": 400
+  },
+  {
+   "q": "Which language has the most native speakers in the world?",
+   "a": "Mandarin Chinese",
+   "p": 400
+  },
+  {
+   "q": "In which city is the Hagia Sophia?",
+   "a": "Istanbul",
+   "p": 400
+  },
+  {
+   "q": "In which country is the Inca site of Machu Picchu?",
+   "a": "Peru",
+   "p": 400
+  },
+  {
+   "q": "In which city are the Petronas Towers?",
+   "a": "Kuala Lumpur",
+   "p": 400
+  },
+  {
+   "q": "Which Roman numeral represents 500?",
+   "a": "D",
+   "p": 400
+  },
+  {
+   "q": "How many sides does a dodecagon have?",
+   "a": "Twelve",
+   "p": 400
+  },
+  {
+   "q": "What is the SI unit of force?",
+   "a": "Newton",
+   "p": 400
+  },
+  {
+   "q": "Who painted The Persistence of Memory?",
+   "a": "Salvador Dali",
+   "p": 400
+  },
+  {
+   "q": "In which year did the Burj Khalifa officially open?",
+   "a": "2010",
+   "p": 400
+  },
+  {
+   "q": "Who wrote the novel One Hundred Years of Solitude?",
+   "a": "Gabriel Garcia Marquez",
+   "p": 600
+  },
+  {
+   "q": "What is the smallest bone in the human body?",
+   "a": "Stapes",
+   "p": 600
+  },
+  {
+   "q": "What is the deepest lake in the world?",
+   "a": "Lake Baikal",
+   "p": 600
+  },
+  {
+   "q": "What is the longest river in Europe?",
+   "a": "Volga",
+   "p": 600
+  },
+  {
+   "q": "What is the capital of Mongolia?",
+   "a": "Ulaanbaatar",
+   "p": 600
+  },
+  {
+   "q": "Who wrote the epic poem The Divine Comedy?",
+   "a": "Dante Alighieri",
+   "p": 600
+  },
+  {
+   "q": "Who wrote the novel Crime and Punishment?",
+   "a": "Fyodor Dostoevsky",
+   "p": 600
+  },
+  {
+   "q": "Which scientist developed the first successful polio vaccine?",
+   "a": "Jonas Salk",
+   "p": 600
+  },
+  {
+   "q": "Which gas is the third most abundant in Earth's atmosphere?",
+   "a": "Argon",
+   "p": 600
+  },
+  {
+   "q": "Who wrote the novel Moby-Dick?",
+   "a": "Herman Melville",
+   "p": 600
+  },
+  {
+   "q": "Which architect designed the Sagrada Familia in Barcelona?",
+   "a": "Antoni Gaudi",
+   "p": 600
+  },
+  {
+   "q": "What is the SI unit of electrical resistance?",
+   "a": "Ohm",
+   "p": 600
+  },
+  {
+   "q": "What is the capital of Switzerland?",
+   "a": "Bern",
+   "p": 600
+  },
+  {
+   "q": "What is the tallest uninterrupted waterfall in the world?",
+   "a": "Angel Falls",
+   "p": 600
+  },
+  {
+   "q": "What is the scientific study of birds called?",
+   "a": "Ornithology",
+   "p": 600
+  },
+  {
+   "q": "What is the capital of Bhutan?",
+   "a": "Thimphu",
+   "p": 600
+  },
+  {
+   "q": "What is the capital of Burkina Faso?",
+   "a": "Ouagadougou",
+   "p": 600
+  },
+  {
+   "q": "Which planet in our solar system rotates tilted on its side, with an axial tilt of about 98 degrees?",
+   "a": "Uranus",
+   "p": 600
+  },
+  {
+   "q": "What is the longest river in Asia?",
+   "a": "Yangtze",
+   "p": 600
+  },
+  {
+   "q": "Which composer wrote the Brandenburg Concertos?",
+   "a": "Johann Sebastian Bach",
+   "p": 600
+  },
+  {
+   "q": "Who painted Girl with a Pearl Earring?",
+   "a": "Johannes Vermeer",
+   "p": 600
+  },
+  {
+   "q": "Which element has the chemical symbol W?",
+   "a": "Tungsten",
+   "p": 600
+  },
+  {
+   "q": "What is the largest moon of Saturn?",
+   "a": "Titan",
+   "p": 600
+  },
+  {
+   "q": "Who led the first expedition to reach the South Pole, in December 1911?",
+   "a": "Roald Amundsen",
+   "p": 600
+  },
+  {
+   "q": "What is the capital of Ethiopia?",
+   "a": "Addis Ababa",
+   "p": 600
+  },
+  {
+   "q": "What is the SI unit of frequency?",
+   "a": "Hertz",
+   "p": 600
+  },
+  {
+   "q": "What is the most abundant metal in Earth's crust?",
+   "a": "Aluminium",
+   "p": 600
+  },
+  {
+   "q": "Which Swiss psychiatrist founded analytical psychology?",
+   "a": "Carl Jung",
+   "p": 600
+  },
+  {
+   "q": "Who discovered the electron in 1897?",
+   "a": "J. J. Thomson",
+   "p": 600
+  },
+  {
+   "q": "What is the capital of Kyrgyzstan?",
+   "a": "Bishkek",
+   "p": 600
+  }
+ ]
+}

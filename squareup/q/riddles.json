@@ -1,0 +1,506 @@
+{
+ "id": "riddles",
+ "name": "Riddles & Logic",
+ "questions": [
+  {
+   "q": "What has hands but cannot clap?",
+   "a": "A clock",
+   "p": 200
+  },
+  {
+   "q": "What gets wetter the more it dries?",
+   "a": "A towel",
+   "p": 200
+  },
+  {
+   "q": "What has a neck but no head?",
+   "a": "A bottle",
+   "p": 200
+  },
+  {
+   "q": "What can you catch but never throw?",
+   "a": "A cold",
+   "p": 200
+  },
+  {
+   "q": "What has keys but opens no doors?",
+   "a": "A piano (or keyboard)",
+   "p": 200
+  },
+  {
+   "q": "What has an eye but cannot see?",
+   "a": "A needle",
+   "p": 200
+  },
+  {
+   "q": "What goes up when the rain comes down?",
+   "a": "An umbrella",
+   "p": 200
+  },
+  {
+   "q": "What has teeth but never bites?",
+   "a": "A comb",
+   "p": 200
+  },
+  {
+   "q": "What starts with T, ends with T, and is full of T?",
+   "a": "A teapot",
+   "p": 200
+  },
+  {
+   "q": "What comes next: 2, 4, 6, 8, ?",
+   "a": "10",
+   "p": 200
+  },
+  {
+   "q": "What is 15 + 27?",
+   "a": "42",
+   "p": 200
+  },
+  {
+   "q": "What is half of 150?",
+   "a": "75",
+   "p": 200
+  },
+  {
+   "q": "What comes next: Monday, Tuesday, Wednesday, ?",
+   "a": "Thursday",
+   "p": 200
+  },
+  {
+   "q": "What has a bark but no bite and grows leaves?",
+   "a": "A tree",
+   "p": 200
+  },
+  {
+   "q": "What can travel the world while staying in one corner?",
+   "a": "A stamp",
+   "p": 200
+  },
+  {
+   "q": "What gets bigger the more you take away from it?",
+   "a": "A hole",
+   "p": 200
+  },
+  {
+   "q": "What has a thumb and four fingers but is not alive?",
+   "a": "A glove",
+   "p": 200
+  },
+  {
+   "q": "What has a head and a tail but no body?",
+   "a": "A coin",
+   "p": 200
+  },
+  {
+   "q": "What belongs to you, yet other people use it more than you do?",
+   "a": "Your name",
+   "p": 200
+  },
+  {
+   "q": "What is always ahead of you but can never be seen?",
+   "a": "The future",
+   "p": 200
+  },
+  {
+   "q": "A man has five daughters named Nana, Nene, Nini and Nono. What is the fifth one called?",
+   "a": "Nunu",
+   "p": 200
+  },
+  {
+   "q": "A farmer has 17 sheep and all but 9 run away. How many are left?",
+   "a": "9",
+   "p": 200
+  },
+  {
+   "q": "What comes next: 5, 10, 15, 20, ?",
+   "a": "25",
+   "p": 200
+  },
+  {
+   "q": "What has one head, one foot, and four legs?",
+   "a": "A bed",
+   "p": 200
+  },
+  {
+   "q": "What is 9 times 7?",
+   "a": "63",
+   "p": 200
+  },
+  {
+   "q": "What do you break the moment you say its name?",
+   "a": "Silence",
+   "p": 200
+  },
+  {
+   "q": "What has many pages and words but never says a thing?",
+   "a": "A book",
+   "p": 200
+  },
+  {
+   "q": "What can fill a whole room but takes up no space?",
+   "a": "Light",
+   "p": 200
+  },
+  {
+   "q": "What must be cracked before you can use it?",
+   "a": "An egg",
+   "p": 200
+  },
+  {
+   "q": "There are six apples in a bowl and you take away four. How many do you have?",
+   "a": "Four",
+   "p": 200
+  },
+  {
+   "q": "What is full of holes but still holds water?",
+   "a": "A sponge",
+   "p": 200
+  },
+  {
+   "q": "Which is heavier: a kilogram of feathers or a kilogram of steel?",
+   "a": "They weigh the same",
+   "p": 200
+  },
+  {
+   "q": "What comes next: 1, 4, 9, 16, 25, ?",
+   "a": "36",
+   "p": 200
+  },
+  {
+   "q": "What is 12 times 12, minus 12?",
+   "a": "132",
+   "p": 200
+  },
+  {
+   "q": "What is 20 percent of 250?",
+   "a": "50",
+   "p": 200
+  },
+  {
+   "q": "How many months of the year have at least 28 days?",
+   "a": "All twelve",
+   "p": 400
+  },
+  {
+   "q": "What kind of building has the most stories?",
+   "a": "A library",
+   "p": 400
+  },
+  {
+   "q": "Which word gets shorter when you add two letters to it?",
+   "a": "Short",
+   "p": 400
+  },
+  {
+   "q": "What comes next: 3, 6, 12, 24, ?",
+   "a": "48",
+   "p": 400
+  },
+  {
+   "q": "A pen and cap cost 1.10 total, and the pen costs 1.00 more than the cap. How many cents is the cap?",
+   "a": "5 cents",
+   "p": 400
+  },
+  {
+   "q": "A rooster lays an egg on the peak of a barn roof. Which way does it roll?",
+   "a": "Roosters do not lay eggs",
+   "p": 400
+  },
+  {
+   "q": "If 5 machines make 5 widgets in 5 minutes, how long do 100 machines need to make 100 widgets?",
+   "a": "5 minutes",
+   "p": 400
+  },
+  {
+   "q": "A lily patch doubles in size every day and covers a pond on day 48. On which day was it half covered?",
+   "a": "Day 47",
+   "p": 400
+  },
+  {
+   "q": "Pointing at a photo, a man says: 'I have no siblings, but that man's father is my father's son.' Who is in the photo?",
+   "a": "His son",
+   "p": 400
+  },
+  {
+   "q": "Which word in the dictionary is always spelled wrong?",
+   "a": "Wrong (or Incorrectly)",
+   "p": 400
+  },
+  {
+   "q": "A doctor gives you 3 pills and says to take one every 30 minutes. How long until they are gone?",
+   "a": "One hour",
+   "p": 400
+  },
+  {
+   "q": "Which is correct: 'The yolk of an egg is white' or 'are white'?",
+   "a": "Neither, yolks are yellow",
+   "p": 400
+  },
+  {
+   "q": "A plane crashes exactly on the border of two countries. Where do you bury the survivors?",
+   "a": "You do not bury survivors",
+   "p": 400
+  },
+  {
+   "q": "I am a number. Double me and add 6 and you get 30. What am I?",
+   "a": "12",
+   "p": 400
+  },
+  {
+   "q": "How many times can you subtract 10 from 100?",
+   "a": "Once",
+   "p": 400
+  },
+  {
+   "q": "What has 13 hearts but no other organs?",
+   "a": "A deck of cards",
+   "p": 400
+  },
+  {
+   "q": "A clock takes 5 seconds to strike 6. How many seconds does it take to strike 12?",
+   "a": "11 seconds",
+   "p": 400
+  },
+  {
+   "q": "I am an odd number. Take away one letter and I become even. What number am I?",
+   "a": "Seven",
+   "p": 400
+  },
+  {
+   "q": "I have a mouth but never talk, a bed but never sleep, and I always run. What am I?",
+   "a": "A river",
+   "p": 400
+  },
+  {
+   "q": "Two fathers and two sons go fishing and catch exactly three fish, one each. How many people went?",
+   "a": "Three",
+   "p": 400
+  },
+  {
+   "q": "A man pushes his car up to a hotel and tells the owner he is bankrupt. What was he doing?",
+   "a": "Playing Monopoly",
+   "p": 400
+  },
+  {
+   "q": "The more of me there is, the less you see. What am I?",
+   "a": "Darkness",
+   "p": 400
+  },
+  {
+   "q": "A woman shoots her husband, holds him underwater, then hangs him. Minutes later they have dinner together. How?",
+   "a": "She is a photographer",
+   "p": 400
+  },
+  {
+   "q": "What occurs once in a minute, twice in a moment, but never in a thousand years?",
+   "a": "The letter M",
+   "p": 400
+  },
+  {
+   "q": "A man lives on the 20th floor, rides down each morning, but in the evening rides only to the 10th and walks up. Why?",
+   "a": "He is too short for the top buttons",
+   "p": 400
+  },
+  {
+   "q": "What comes next: 2, 4, 8, 14, 22, ?",
+   "a": "32",
+   "p": 400
+  },
+  {
+   "q": "Which English word has three pairs of double letters in a row?",
+   "a": "Bookkeeper",
+   "p": 400
+  },
+  {
+   "q": "What letter comes next: O, T, T, F, F, S, S, E, ?",
+   "a": "N",
+   "p": 400
+  },
+  {
+   "q": "Three switches are outside a closed room with one bulb inside. You may enter only once. How do you tell which switch controls the bulb?",
+   "a": "Use the heat of the bulb",
+   "p": 400
+  },
+  {
+   "q": "Three doors hide one prize. You pick one, then the host opens another empty door. What is the chance of winning if you switch?",
+   "a": "2/3",
+   "p": 400
+  },
+  {
+   "q": "What is the smallest group size where two people sharing a birthday is more likely than not?",
+   "a": "23",
+   "p": 400
+  },
+  {
+   "q": "Two trains start 100 km apart heading toward each other at 60 and 40 km/h. A bird flies at 100 km/h between them until they meet. How far does it fly?",
+   "a": "100 km",
+   "p": 400
+  },
+  {
+   "q": "A man is found hanging in a locked room with a puddle beneath him and no furniture. How did he reach the rope?",
+   "a": "He stood on a block of ice",
+   "p": 400
+  },
+  {
+   "q": "A bag holds 3 red and 2 blue marbles. You draw two without replacement. What is the probability both are red?",
+   "a": "3/10",
+   "p": 400
+  },
+  {
+   "q": "A solid cube painted red is cut into 27 equal small cubes. How many have exactly two red faces?",
+   "a": "12",
+   "p": 400
+  },
+  {
+   "q": "Two ropes each burn for exactly 60 minutes but unevenly. How can you time exactly 45 minutes?",
+   "a": "Light rope A at both ends and rope B at one end; when A burns out (30 min) light B's other end; B finishes at 45 min",
+   "p": 600
+  },
+  {
+   "q": "What are the last two digits of 7 to the power 100?",
+   "a": "01",
+   "p": 600
+  },
+  {
+   "q": "Using a 4-minute and a 7-minute hourglass, how can you time exactly 9 minutes?",
+   "a": "Start both; flip the 4 when it ends (4 min); flip the 7 when it ends (7 min); when the 4 ends again (8 min) flip the 7, which then ends at 9 min",
+   "p": 600
+  },
+  {
+   "q": "How many different arrangements are there of the letters in MISSISSIPPI?",
+   "a": "34,650",
+   "p": 600
+  },
+  {
+   "q": "Twelve coins look identical but one is counterfeit and may be heavier or lighter. What is the fewest balance-scale weighings that always finds it?",
+   "a": "Three",
+   "p": 600
+  },
+  {
+   "q": "What is the smallest positive integer divisible by every whole number from 1 to 10?",
+   "a": "2520",
+   "p": 600
+  },
+  {
+   "q": "In how many ways can you climb 10 stairs taking 1 or 2 steps at a time?",
+   "a": "89",
+   "p": 600
+  },
+  {
+   "q": "100 closed doors are toggled in passes: pass k toggles every k-th door, for k = 1 to 100. How many doors end up open?",
+   "a": "10",
+   "p": 600
+  },
+  {
+   "q": "What comes next: 1, 11, 21, 1211, 111221, ?",
+   "a": "312211",
+   "p": 600
+  },
+  {
+   "q": "What comes next: 1, 2, 4, 7, 12, 20, 33, ?",
+   "a": "54",
+   "p": 600
+  },
+  {
+   "q": "How many times do the hour and minute hands of a clock overlap in 12 hours?",
+   "a": "11",
+   "p": 600
+  },
+  {
+   "q": "What is the sum of all whole numbers from 1 to 100 that are divisible by 3 or 5?",
+   "a": "2418",
+   "p": 600
+  },
+  {
+   "q": "Eight balls look identical but one is heavier. What is the fewest weighings on a balance scale to find it?",
+   "a": "Two",
+   "p": 600
+  },
+  {
+   "q": "In how many ways can 5 people sit around a round table if rotations count as the same seating?",
+   "a": "24",
+   "p": 600
+  },
+  {
+   "q": "How many positive integers below 1000 contain no digit 7?",
+   "a": "728",
+   "p": 600
+  },
+  {
+   "q": "Three boxes labeled Apples, Oranges, and Mixed are all labeled wrongly. Which box do you sample to fix them all?",
+   "a": "The box labeled Mixed",
+   "p": 600
+  },
+  {
+   "q": "What number comes next: 8, 5, 4, 9, 1, 7, 6, 10, 3, ?",
+   "a": "2",
+   "p": 600
+  },
+  {
+   "q": "How many squares of any size are on a standard 8 by 8 chessboard?",
+   "a": "204",
+   "p": 600
+  },
+  {
+   "q": "How many zeros are at the end of 100 factorial?",
+   "a": "24",
+   "p": 600
+  },
+  {
+   "q": "What is the remainder when 2 to the power 100 is divided by 7?",
+   "a": "2",
+   "p": 600
+  },
+  {
+   "q": "What comes next: 3, 3, 5, 4, 4, 3, 5, 5, 4, ?",
+   "a": "3",
+   "p": 600
+  },
+  {
+   "q": "You drive 60 km at 30 km/h and return at 60 km/h. What is your average speed?",
+   "a": "40 km/h",
+   "p": 600
+  },
+  {
+   "q": "Four people each put a hat in a pile and take one back at random. In how many of the 24 possible outcomes does nobody get their own hat?",
+   "a": "9",
+   "p": 600
+  },
+  {
+   "q": "Two guards stand at two doors, one to safety and one to danger; one guard always lies and one always tells the truth. With a single question to either guard, how do you find the safe door?",
+   "a": "Ask either guard which door the other guard would say is safe, then choose the opposite door",
+   "p": 600
+  },
+  {
+   "q": "What comes next: 1, 4, 27, 256, ?",
+   "a": "3125",
+   "p": 600
+  },
+  {
+   "q": "How many different arrangements are there of the letters in LEVEL?",
+   "a": "30",
+   "p": 600
+  },
+  {
+   "q": "Letters made only of straight lines run A, E, F, H, I, K, L, M, N, and then which?",
+   "a": "T",
+   "p": 600
+  },
+  {
+   "q": "What comes next: 2, 3, 5, 9, 17, ?",
+   "a": "33",
+   "p": 600
+  },
+  {
+   "q": "What comes next: 0, 1, 1, 2, 4, 7, 13, ?",
+   "a": "24",
+   "p": 600
+  },
+  {
+   "q": "Using only addition and the digit 8 exactly eight times, how can you make 1000?",
+   "a": "888+88+8+8+8",
+   "p": 600
+  }
+ ]
+}

@@ -1,0 +1,506 @@
+{
+ "id": "japan",
+ "name": "Japan",
+ "questions": [
+  {
+   "q": "What is the capital city of Japan?",
+   "a": "Tokyo",
+   "p": 200
+  },
+  {
+   "q": "What is the currency of Japan?",
+   "a": "Yen",
+   "p": 200
+  },
+  {
+   "q": "What is the highest mountain in Japan?",
+   "a": "Mount Fuji",
+   "p": 200
+  },
+  {
+   "q": "Which Japanese dish features raw fish or seafood on vinegared rice?",
+   "a": "Sushi",
+   "p": 200
+  },
+  {
+   "q": "What is the traditional Japanese robe-like garment called?",
+   "a": "Kimono",
+   "p": 200
+  },
+  {
+   "q": "What was the warrior class of feudal Japan called?",
+   "a": "Samurai",
+   "p": 200
+  },
+  {
+   "q": "Which Japanese company created Mario and Zelda?",
+   "a": "Nintendo",
+   "p": 200
+  },
+  {
+   "q": "What is Japan's high-speed bullet train network called?",
+   "a": "Shinkansen",
+   "p": 200
+  },
+  {
+   "q": "Which traditional Japanese style of wrestling features large wrestlers in a ring?",
+   "a": "Sumo",
+   "p": 200
+  },
+  {
+   "q": "What is Japan's traditional rice wine called?",
+   "a": "Sake",
+   "p": 200
+  },
+  {
+   "q": "What does the red circle on Japan's flag represent?",
+   "a": "The sun",
+   "p": 200
+  },
+  {
+   "q": "Which white cat character with a red bow is a famous Japanese brand?",
+   "a": "Hello Kitty",
+   "p": 200
+  },
+  {
+   "q": "What is the Japanese poem form of three lines with 5, 7 and 5 syllables?",
+   "a": "Haiku",
+   "p": 200
+  },
+  {
+   "q": "What is the Japanese word for cherry blossom?",
+   "a": "Sakura",
+   "p": 200
+  },
+  {
+   "q": "Which Japanese company makes the PlayStation?",
+   "a": "Sony",
+   "p": 200
+  },
+  {
+   "q": "Which Japanese noodle soup is served in a savoury broth with toppings like pork and egg?",
+   "a": "Ramen",
+   "p": 200
+  },
+  {
+   "q": "What does the Japanese word 'arigato' mean?",
+   "a": "Thank you",
+   "p": 200
+  },
+  {
+   "q": "Which former imperial capital is famous for its temples, shrines and geisha districts?",
+   "a": "Kyoto",
+   "p": 200
+  },
+  {
+   "q": "Which yellow electric mouse Pokemon is the series mascot?",
+   "a": "Pikachu",
+   "p": 200
+  },
+  {
+   "q": "What is the Japanese art of paper folding called?",
+   "a": "Origami",
+   "p": 200
+  },
+  {
+   "q": "What is the finely ground green tea powder used in Japanese tea ceremony called?",
+   "a": "Matcha",
+   "p": 200
+  },
+  {
+   "q": "Which Japanese martial art's name means 'empty hand'?",
+   "a": "Karate",
+   "p": 200
+  },
+  {
+   "q": "What should you remove before entering a traditional Japanese home?",
+   "a": "Your shoes",
+   "p": 200
+  },
+  {
+   "q": "Which soup is made from fermented soybean paste and often served with tofu and seaweed?",
+   "a": "Miso soup",
+   "p": 200
+  },
+  {
+   "q": "Which Japanese company makes the Corolla and Camry?",
+   "a": "Toyota",
+   "p": 200
+  },
+  {
+   "q": "What is the largest of Japan's islands?",
+   "a": "Honshu",
+   "p": 200
+  },
+  {
+   "q": "What is the Japanese dish of seafood and vegetables fried in light batter called?",
+   "a": "Tempura",
+   "p": 200
+  },
+  {
+   "q": "What are Japanese comic books called?",
+   "a": "Manga",
+   "p": 200
+  },
+  {
+   "q": "What is Japanese animation commonly called?",
+   "a": "Anime",
+   "p": 200
+  },
+  {
+   "q": "What is the dried seaweed sheet used to wrap sushi rolls called?",
+   "a": "Nori",
+   "p": 200
+  },
+  {
+   "q": "Which ocean lies to the east of Japan?",
+   "a": "Pacific Ocean",
+   "p": 200
+  },
+  {
+   "q": "What is the Japanese word for 'cheers' when drinking?",
+   "a": "Kanpai",
+   "p": 200
+  },
+  {
+   "q": "What is the pungent green paste served with sushi called?",
+   "a": "Wasabi",
+   "p": 200
+  },
+  {
+   "q": "What does the Japanese word 'sayonara' mean?",
+   "a": "Goodbye",
+   "p": 200
+  },
+  {
+   "q": "What is the traditional Japanese greeting gesture, used instead of a handshake?",
+   "a": "A bow",
+   "p": 200
+  },
+  {
+   "q": "Which is the northernmost of Japan's four main islands?",
+   "a": "Hokkaido",
+   "p": 400
+  },
+  {
+   "q": "Which is the smallest of Japan's four main islands?",
+   "a": "Shikoku",
+   "p": 400
+  },
+  {
+   "q": "Which main island is home to the cities of Fukuoka and Nagasaki?",
+   "a": "Kyushu",
+   "p": 400
+  },
+  {
+   "q": "Which shogunate ended with the Meiji Restoration of 1868?",
+   "a": "Tokugawa shogunate",
+   "p": 400
+  },
+  {
+   "q": "What was Tokyo called before 1868?",
+   "a": "Edo",
+   "p": 400
+  },
+  {
+   "q": "Which city, Japan's capital in the 8th century, is known for its Great Buddha and free-roaming deer?",
+   "a": "Nara",
+   "p": 400
+  },
+  {
+   "q": "What is the Japanese tea ceremony called?",
+   "a": "Sado (chado), the Way of Tea",
+   "p": 400
+  },
+  {
+   "q": "Which Japanese script is mainly used for foreign loanwords?",
+   "a": "Katakana",
+   "p": 400
+  },
+  {
+   "q": "Which Hokkaido city is the home of miso ramen?",
+   "a": "Sapporo",
+   "p": 400
+  },
+  {
+   "q": "Tonkotsu ramen broth is made mainly from what?",
+   "a": "Pork bones",
+   "p": 400
+  },
+  {
+   "q": "Which port city gives its name to a famous brand of wagyu beef?",
+   "a": "Kobe",
+   "p": 400
+  },
+  {
+   "q": "What is the Japanese dish of thinly sliced raw fish served without rice?",
+   "a": "Sashimi",
+   "p": 400
+  },
+  {
+   "q": "What is the Japanese custom of viewing cherry blossoms called?",
+   "a": "Hanami",
+   "p": 400
+  },
+  {
+   "q": "What is the wide sash worn around a kimono called?",
+   "a": "Obi",
+   "p": 400
+  },
+  {
+   "q": "What is the light cotton summer kimono called?",
+   "a": "Yukata",
+   "p": 400
+  },
+  {
+   "q": "In which city is the Gion Matsuri festival held each July?",
+   "a": "Kyoto",
+   "p": 400
+  },
+  {
+   "q": "What is the Japanese Buddhist summer festival honouring ancestors' spirits called?",
+   "a": "Obon",
+   "p": 400
+  },
+  {
+   "q": "Which Japanese writing system uses characters borrowed from China?",
+   "a": "Kanji",
+   "p": 400
+  },
+  {
+   "q": "In 1964 the first Shinkansen line connected Tokyo with which city?",
+   "a": "Osaka",
+   "p": 400
+  },
+  {
+   "q": "Which Tokyo district is famous for electronics shops and anime culture?",
+   "a": "Akihabara",
+   "p": 400
+  },
+  {
+   "q": "Why is sticking chopsticks upright in a bowl of rice considered taboo?",
+   "a": "It resembles incense offered at funerals",
+   "p": 400
+  },
+  {
+   "q": "What is the highest rank in sumo?",
+   "a": "Yokozuna",
+   "p": 400
+  },
+  {
+   "q": "What is the raised ring where sumo bouts take place called?",
+   "a": "Dohyo",
+   "p": 400
+  },
+  {
+   "q": "What is the belt worn by sumo wrestlers called?",
+   "a": "Mawashi",
+   "p": 400
+  },
+  {
+   "q": "What is the height of Mount Fuji, to the nearest 10 metres?",
+   "a": "About 3,780 m (3,776 m)",
+   "p": 400
+  },
+  {
+   "q": "What is Japan's largest lake?",
+   "a": "Lake Biwa",
+   "p": 400
+  },
+  {
+   "q": "Who founded the Tokugawa shogunate in 1603?",
+   "a": "Tokugawa Ieyasu",
+   "p": 400
+  },
+  {
+   "q": "What is the code of conduct of the samurai called?",
+   "a": "Bushido",
+   "p": 400
+  },
+  {
+   "q": "What is the curved single-edged sword associated with samurai called?",
+   "a": "Katana",
+   "p": 400
+  },
+  {
+   "q": "Which animation studio made Spirited Away and My Neighbor Totoro?",
+   "a": "Studio Ghibli",
+   "p": 400
+  },
+  {
+   "q": "What is the sticky fermented soybean dish often eaten at breakfast called?",
+   "a": "Natto",
+   "p": 400
+  },
+  {
+   "q": "What does the Japanese word 'sensei' mean?",
+   "a": "Teacher",
+   "p": 400
+  },
+  {
+   "q": "Which US naval officer's 1853 arrival with his 'black ships' pressured Japan to open to trade?",
+   "a": "Matthew Perry",
+   "p": 400
+  },
+  {
+   "q": "Which warlord began the unification of Japan and died at Honno-ji temple in 1582?",
+   "a": "Oda Nobunaga",
+   "p": 400
+  },
+  {
+   "q": "Who designed Mario, Donkey Kong and The Legend of Zelda at Nintendo?",
+   "a": "Shigeru Miyamoto",
+   "p": 400
+  },
+  {
+   "q": "Nintendo was founded in 1889 to make what kind of product?",
+   "a": "Hanafuda playing cards",
+   "p": 600
+  },
+  {
+   "q": "Which 1600 battle gave Tokugawa Ieyasu control of Japan?",
+   "a": "Battle of Sekigahara",
+   "p": 600
+  },
+  {
+   "q": "What is the period of Tokugawa rule from 1603 to 1868 called?",
+   "a": "Edo period",
+   "p": 600
+  },
+  {
+   "q": "What is the Japanese term for the Edo-period policy of national isolation?",
+   "a": "Sakoku",
+   "p": 600
+  },
+  {
+   "q": "Which unifier of Japan built Osaka Castle in the 1580s?",
+   "a": "Toyotomi Hideyoshi",
+   "p": 600
+  },
+  {
+   "q": "Which city was the seat of Japan's first shogunate, founded in the late 12th century?",
+   "a": "Kamakura",
+   "p": 600
+  },
+  {
+   "q": "Who wrote The Tale of Genji, often called the world's first novel?",
+   "a": "Murasaki Shikibu",
+   "p": 600
+  },
+  {
+   "q": "In which year did Mount Fuji last erupt?",
+   "a": "1707",
+   "p": 600
+  },
+  {
+   "q": "Mount Fuji sits on the border of which two prefectures?",
+   "a": "Shizuoka and Yamanashi",
+   "p": 600
+  },
+  {
+   "q": "What is Japan's longest river?",
+   "a": "Shinano River",
+   "p": 600
+  },
+  {
+   "q": "Which independent kingdom ruled Okinawa before Japan annexed it in 1879?",
+   "a": "Ryukyu Kingdom",
+   "p": 600
+  },
+  {
+   "q": "Which 16th-century master is considered the most influential figure in the Japanese tea ceremony?",
+   "a": "Sen no Rikyu",
+   "p": 600
+  },
+  {
+   "q": "What Japanese aesthetic finds beauty in imperfection and impermanence?",
+   "a": "Wabi-sabi",
+   "p": 600
+  },
+  {
+   "q": "What is the Japanese art of repairing broken pottery with gold-dusted lacquer called?",
+   "a": "Kintsugi",
+   "p": 600
+  },
+  {
+   "q": "Which classical Japanese theatre form, dating from the 14th century, uses masks and slow stylised movement?",
+   "a": "Noh",
+   "p": 600
+  },
+  {
+   "q": "What is the traditional Japanese puppet theatre called?",
+   "a": "Bunraku",
+   "p": 600
+  },
+  {
+   "q": "What is the oldest form of sushi, made with fermented fish and rice, called?",
+   "a": "Narezushi",
+   "p": 600
+  },
+  {
+   "q": "What is 'battleship' sushi, an oval rice ball wrapped in nori and topped with loose ingredients, called?",
+   "a": "Gunkan maki",
+   "p": 600
+  },
+  {
+   "q": "Hakata-style tonkotsu ramen comes from which city?",
+   "a": "Fukuoka",
+   "p": 600
+  },
+  {
+   "q": "What is ramen served with noodles and broth in separate bowls for dipping called?",
+   "a": "Tsukemen",
+   "p": 600
+  },
+  {
+   "q": "Which cattle breed accounts for the vast majority of wagyu beef in Japan?",
+   "a": "Japanese Black",
+   "p": 600
+  },
+  {
+   "q": "What is the shade-grown tea leaf that is ground into matcha called?",
+   "a": "Tencha",
+   "p": 600
+  },
+  {
+   "q": "Which town near Kyoto is Japan's most renowned matcha-producing region?",
+   "a": "Uji",
+   "p": 600
+  },
+  {
+   "q": "Which two men founded Sony in 1946?",
+   "a": "Masaru Ibuka and Akio Morita",
+   "p": 600
+  },
+  {
+   "q": "How many official grand sumo tournaments are held each year?",
+   "a": "Six",
+   "p": 600
+  },
+  {
+   "q": "What is the top division of professional sumo called?",
+   "a": "Makuuchi",
+   "p": 600
+  },
+  {
+   "q": "Which northern city hosts the Nebuta Matsuri with giant lantern floats?",
+   "a": "Aomori",
+   "p": 600
+  },
+  {
+   "q": "Which Tokushima dance festival is held each August with the chant 'fools dance, fools watch'?",
+   "a": "Awa Odori",
+   "p": 600
+  },
+  {
+   "q": "Which Nagasaki islet was the only Dutch trading post allowed during Japan's isolation?",
+   "a": "Dejima",
+   "p": 600
+  },
+  {
+   "q": "Toyota began as a maker of what type of machinery before cars?",
+   "a": "Automatic looms",
+   "p": 600
+  }
+ ]
+}

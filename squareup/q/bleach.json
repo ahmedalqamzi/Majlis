@@ -1,0 +1,718 @@
+{
+ "id": "bleach",
+ "name": "Bleach",
+ "questions": [
+  {
+   "q": "Who is the main protagonist of Bleach?",
+   "a": "Ichigo Kurosaki",
+   "p": 200,
+   "alt": [
+    "Ichigo"
+   ]
+  },
+  {
+   "q": "Which Soul Reaper gives Ichigo her powers?",
+   "a": "Rukia Kuchiki",
+   "p": 200,
+   "alt": [
+    "Rukia"
+   ]
+  },
+  {
+   "q": "Who is the creator of the Bleach manga?",
+   "a": "Tite Kubo",
+   "p": 200,
+   "alt": [
+    "Kubo"
+   ]
+  },
+  {
+   "q": "Which studio produced the Bleach anime?",
+   "a": "Studio Pierrot",
+   "p": 200,
+   "alt": [
+    "Pierrot"
+   ]
+  },
+  {
+   "q": "What is the name of Ichigo's zanpakuto?",
+   "a": "Zangetsu",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the afterlife realm where Soul Reapers live?",
+   "a": "Soul Society",
+   "p": 200
+  },
+  {
+   "q": "Which former captain betrays the Soul Society and becomes the main villain of the early story?",
+   "a": "Sosuke Aizen",
+   "p": 200,
+   "alt": [
+    "Aizen"
+   ]
+  },
+  {
+   "q": "What are the monstrous spirits that devour souls called?",
+   "a": "Hollows",
+   "p": 200,
+   "alt": [
+    "Hollow"
+   ]
+  },
+  {
+   "q": "Which Quincy classmate fights alongside Ichigo?",
+   "a": "Uryu Ishida",
+   "p": 200,
+   "alt": [
+    "Uryu"
+   ]
+  },
+  {
+   "q": "Which tall, quiet friend of Ichigo has a powerful right arm?",
+   "a": "Yasutora Sado",
+   "p": 200,
+   "alt": [
+    "Chad",
+    "Sado"
+   ]
+  },
+  {
+   "q": "What is the name of the organisation of Soul Reaper squads?",
+   "a": "Gotei 13",
+   "p": 200,
+   "alt": [
+    "Court Guard Squads",
+    "Gotei Thirteen"
+   ]
+  },
+  {
+   "q": "Who is the Captain-Commander of the Gotei 13?",
+   "a": "Genryusai Yamamoto",
+   "p": 200,
+   "alt": [
+    "Yamamoto"
+   ]
+  },
+  {
+   "q": "Which battle-loving captain leads the 11th Division?",
+   "a": "Kenpachi Zaraki",
+   "p": 200,
+   "alt": [
+    "Zaraki"
+   ]
+  },
+  {
+   "q": "What is the name of Aizen's elite group of ten Arrancar?",
+   "a": "Espada",
+   "p": 200
+  },
+  {
+   "q": "What is the term for the ultimate released form of a zanpakuto?",
+   "a": "Bankai",
+   "p": 200
+  },
+  {
+   "q": "Which arc features Ichigo's attempt to save a friend from execution?",
+   "a": "Soul Society",
+   "p": 200,
+   "alt": [
+    "Soul Society arc",
+    "Rescue Rukia"
+   ]
+  },
+  {
+   "q": "Which magazine serialized the manga?",
+   "a": "Weekly Shonen Jump",
+   "p": 200,
+   "alt": [
+    "Shonen Jump",
+    "Jump"
+   ]
+  },
+  {
+   "q": "What is the name of the final arc of the manga, in which Quincy forces invade?",
+   "a": "Thousand-Year Blood War",
+   "p": 200,
+   "alt": [
+    "Thousand Year Blood War",
+    "TYBW"
+   ]
+  },
+  {
+   "q": "Which stuffed-toy-like modified soul provides comic relief?",
+   "a": "Kon",
+   "p": 200
+  },
+  {
+   "q": "What is the name of Ichigo's signature energy slash?",
+   "a": "Getsuga Tensho",
+   "p": 200,
+   "alt": [
+    "Getsuga Tenshou",
+    "Getsuga"
+   ]
+  },
+  {
+   "q": "What is the name of the Hollow realm?",
+   "a": "Hueco Mundo",
+   "p": 200
+  },
+  {
+   "q": "What colour is the standard Soul Reaper uniform?",
+   "a": "Black",
+   "p": 200
+  },
+  {
+   "q": "Which noble captain of the 6th Division is Rukia's adoptive brother?",
+   "a": "Byakuya Kuchiki",
+   "p": 200,
+   "alt": [
+    "Byakuya"
+   ]
+  },
+  {
+   "q": "Which girl with hairpins joins Ichigo as a healer?",
+   "a": "Orihime Inoue",
+   "p": 200,
+   "alt": [
+    "Orihime"
+   ]
+  },
+  {
+   "q": "Which eccentric shopkeeper in a hat and clogs aids Ichigo?",
+   "a": "Kisuke Urahara",
+   "p": 200,
+   "alt": [
+    "Urahara"
+   ]
+  },
+  {
+   "q": "Which character can transform into a black cat?",
+   "a": "Yoruichi Shihoin",
+   "p": 200,
+   "alt": [
+    "Yoruichi"
+   ]
+  },
+  {
+   "q": "What is the name for Soul Reapers' spirit swords?",
+   "a": "Zanpakuto",
+   "p": 200,
+   "alt": [
+    "Zanpaku-to",
+    "Zanpakuto"
+   ]
+  },
+  {
+   "q": "What is the name of Ichigo's hometown?",
+   "a": "Karakura Town",
+   "p": 200,
+   "alt": [
+    "Karakura"
+   ]
+  },
+  {
+   "q": "What hair colour does Ichigo have?",
+   "a": "Orange",
+   "p": 200
+  },
+  {
+   "q": "What title does Ichigo hold after receiving Rukia's powers?",
+   "a": "Substitute Soul Reaper",
+   "p": 200,
+   "alt": [
+    "Substitute Shinigami"
+   ]
+  },
+  {
+   "q": "Which type of spiritual warriors use bows made of spirit particles?",
+   "a": "Quincy",
+   "p": 200,
+   "alt": [
+    "Quincies"
+   ]
+  },
+  {
+   "q": "What do Hollows wear on their faces?",
+   "a": "Mask",
+   "p": 200,
+   "alt": [
+    "Bone mask",
+    "Hollow mask",
+    "A mask"
+   ]
+  },
+  {
+   "q": "Which red-haired, tattooed lieutenant of the 6th Division is Ichigo's rival?",
+   "a": "Renji Abarai",
+   "p": 200,
+   "alt": [
+    "Renji"
+   ]
+  },
+  {
+   "q": "Which smiling, fox-faced captain defects with Aizen?",
+   "a": "Gin Ichimaru",
+   "p": 200,
+   "alt": [
+    "Gin"
+   ]
+  },
+  {
+   "q": "Which weapon does Uryu Ishida use?",
+   "a": "Bow",
+   "p": 200,
+   "alt": [
+    "Spirit bow",
+    "Quincy bow"
+   ]
+  },
+  {
+   "q": "What is the name of Ichigo's Bankai?",
+   "a": "Tensa Zangetsu",
+   "p": 400
+  },
+  {
+   "q": "What is the name of Byakuya Kuchiki's zanpakuto?",
+   "a": "Senbonzakura",
+   "p": 400
+  },
+  {
+   "q": "What is the name of Renji Abarai's zanpakuto?",
+   "a": "Zabimaru",
+   "p": 400
+  },
+  {
+   "q": "What is the name of Toshiro Hitsugaya's zanpakuto?",
+   "a": "Hyorinmaru",
+   "p": 400
+  },
+  {
+   "q": "What is the name of Yamamoto's zanpakuto?",
+   "a": "Ryujin Jakka",
+   "p": 400
+  },
+  {
+   "q": "What is the name of Kisuke Urahara's zanpakuto?",
+   "a": "Benihime",
+   "p": 400
+  },
+  {
+   "q": "What is the name of Aizen's zanpakuto?",
+   "a": "Kyoka Suigetsu",
+   "p": 400
+  },
+  {
+   "q": "What is the name of Gin Ichimaru's zanpakuto?",
+   "a": "Shinso",
+   "p": 400
+  },
+  {
+   "q": "What is the name of Rukia's zanpakuto?",
+   "a": "Sode no Shirayuki",
+   "p": 400
+  },
+  {
+   "q": "What is the name of Ichigo's father?",
+   "a": "Isshin Kurosaki",
+   "p": 400,
+   "alt": [
+    "Isshin"
+   ]
+  },
+  {
+   "q": "What are the names of Ichigo's two younger sisters?",
+   "a": "Karin and Yuzu",
+   "p": 400,
+   "alt": [
+    "Yuzu and Karin"
+   ]
+  },
+  {
+   "q": "What is the name of Orihime's healing and rejection power?",
+   "a": "Shun Shun Rikka",
+   "p": 400,
+   "alt": [
+    "Shunshun Rikka"
+   ]
+  },
+  {
+   "q": "Which child-like captain leads the 10th Division?",
+   "a": "Toshiro Hitsugaya",
+   "p": 400,
+   "alt": [
+    "Hitsugaya"
+   ]
+  },
+  {
+   "q": "Which mad scientist captain leads the 12th Division?",
+   "a": "Mayuri Kurotsuchi",
+   "p": 400,
+   "alt": [
+    "Kurotsuchi",
+    "Mayuri"
+   ]
+  },
+  {
+   "q": "Which calm captain of the 4th Division is a master healer?",
+   "a": "Retsu Unohana",
+   "p": 400,
+   "alt": [
+    "Unohana"
+   ]
+  },
+  {
+   "q": "Which sickly captain of the 13th Division is a friend of Shunsui?",
+   "a": "Jushiro Ukitake",
+   "p": 400,
+   "alt": [
+    "Ukitake"
+   ]
+  },
+  {
+   "q": "Which captain of the 8th Division wears a straw hat and pink kimono?",
+   "a": "Shunsui Kyoraku",
+   "p": 400,
+   "alt": [
+    "Kyoraku"
+   ]
+  },
+  {
+   "q": "Which blind captain of the 9th Division follows justice?",
+   "a": "Kaname Tosen",
+   "p": 400,
+   "alt": [
+    "Tosen"
+   ]
+  },
+  {
+   "q": "Which pale, emotionless Espada with green tear-line marks serves Aizen?",
+   "a": "Ulquiorra Cifer",
+   "p": 400,
+   "alt": [
+    "Ulquiorra"
+   ]
+  },
+  {
+   "q": "Which blue-haired Espada is Ichigo's rival?",
+   "a": "Grimmjow Jaegerjaquez",
+   "p": 400,
+   "alt": [
+    "Grimmjow"
+   ]
+  },
+  {
+   "q": "What is the name of the Hollow energy blast?",
+   "a": "Cero",
+   "p": 400
+  },
+  {
+   "q": "What is the name of the Soul Reaper spells used for combat and binding?",
+   "a": "Kido",
+   "p": 400,
+   "alt": [
+    "Kidou"
+   ]
+  },
+  {
+   "q": "What is the name of the Soul Reaper high-speed movement technique?",
+   "a": "Shunpo",
+   "p": 400,
+   "alt": [
+    "Flash Step"
+   ]
+  },
+  {
+   "q": "What is the term for spiritual pressure in Bleach?",
+   "a": "Reiatsu",
+   "p": 400
+  },
+  {
+   "q": "What is the name of the walled city where the Soul Reapers' headquarters are?",
+   "a": "Seireitei",
+   "p": 400
+  },
+  {
+   "q": "What is the name of the artifact Aizen seeks that merges Hollows and Soul Reapers?",
+   "a": "Hogyoku",
+   "p": 400,
+   "alt": [
+    "Hōgyoku"
+   ]
+  },
+  {
+   "q": "What is the term for Hollows that gain Soul Reaper powers?",
+   "a": "Arrancar",
+   "p": 400
+  },
+  {
+   "q": "Who is the villain king of the Quincy in the final arc?",
+   "a": "Yhwach",
+   "p": 400
+  },
+  {
+   "q": "In which year did the Bleach anime premiere?",
+   "a": "2004",
+   "p": 400
+  },
+  {
+   "q": "Which song is the first opening theme of the Bleach anime, by Orange Range?",
+   "a": "Asterisk",
+   "p": 400
+  },
+  {
+   "q": "What is Tite Kubo's later manga about a witch?",
+   "a": "Burn the Witch",
+   "p": 400
+  },
+  {
+   "q": "Which other famous ninja anime was also produced by Studio Pierrot?",
+   "a": "Naruto",
+   "p": 400
+  },
+  {
+   "q": "In which year did the anime return with the Thousand-Year Blood War?",
+   "a": "2022",
+   "p": 400
+  },
+  {
+   "q": "What is the name of Ichigo's inner Hollow?",
+   "a": "Hollow Ichigo",
+   "p": 400,
+   "alt": [
+    "Hichigo",
+    "Shirosaki",
+    "White Ichigo",
+    "Shiro"
+   ]
+  },
+  {
+   "q": "Which Division does Kenpachi Zaraki lead?",
+   "a": "11th Division",
+   "p": 400,
+   "alt": [
+    "11th",
+    "Eleventh Division",
+    "Eleventh"
+   ]
+  },
+  {
+   "q": "Which Espada holds the number one rank?",
+   "a": "Coyote Starrk",
+   "p": 600,
+   "alt": [
+    "Starrk"
+   ]
+  },
+  {
+   "q": "Which rank does Ulquiorra hold among the Espada?",
+   "a": "Fourth",
+   "p": 600,
+   "alt": [
+    "4",
+    "4th",
+    "Cuatro"
+   ]
+  },
+  {
+   "q": "What is the name of Kenpachi Zaraki's zanpakuto?",
+   "a": "Nozarashi",
+   "p": 600
+  },
+  {
+   "q": "What is the name of Shunsui Kyoraku's zanpakuto?",
+   "a": "Katen Kyokotsu",
+   "p": 600
+  },
+  {
+   "q": "What is the name of Rukia's Bankai?",
+   "a": "Hakka no Togame",
+   "p": 600
+  },
+  {
+   "q": "What is the name of Rangiku Matsumoto's zanpakuto?",
+   "a": "Haineko",
+   "p": 600
+  },
+  {
+   "q": "Which Division is Byakuya Kuchiki the captain of?",
+   "a": "6th Division",
+   "p": 600,
+   "alt": [
+    "6th",
+    "Sixth"
+   ]
+  },
+  {
+   "q": "Which Division is Toshiro Hitsugaya the captain of?",
+   "a": "10th Division",
+   "p": 600,
+   "alt": [
+    "10th",
+    "Tenth"
+   ]
+  },
+  {
+   "q": "What is the name of Chad's arm power?",
+   "a": "Brazo Derecha de Gigante",
+   "p": 600,
+   "alt": [
+    "Brazo Derecha"
+   ]
+  },
+  {
+   "q": "What is the name of the group of Fullbringers led by Kugo Ginjo?",
+   "a": "Xcution",
+   "p": 600
+  },
+  {
+   "q": "What is the name of Jushiro Ukitake's zanpakuto?",
+   "a": "Sogyo no Kotowari",
+   "p": 600,
+   "alt": [
+    "Sōgyo no Kotowari"
+   ]
+  },
+  {
+   "q": "Which numbered Espada is Tier Harribel?",
+   "a": "Third",
+   "p": 600,
+   "alt": [
+    "3",
+    "3rd",
+    "Tres"
+   ]
+  },
+  {
+   "q": "Who rules over the Soul Society as its supreme being?",
+   "a": "Soul King",
+   "p": 600,
+   "alt": [
+    "The Soul King"
+   ]
+  },
+  {
+   "q": "What is the name of the outer districts of Soul Society where souls live?",
+   "a": "Rukongai",
+   "p": 600
+  },
+  {
+   "q": "What is the term for spiritual particles that Quincy gather?",
+   "a": "Reishi",
+   "p": 600
+  },
+  {
+   "q": "What are the elite Quincy warriors called?",
+   "a": "Sternritter",
+   "p": 600
+  },
+  {
+   "q": "What is the name of the Soul King's royal guard unit?",
+   "a": "Squad Zero",
+   "p": 600,
+   "alt": [
+    "Royal Guard",
+    "Zero Division"
+   ]
+  },
+  {
+   "q": "What is the highest class of Menos Hollows?",
+   "a": "Vasto Lorde",
+   "p": 600
+  },
+  {
+   "q": "What is the name of Ichigo's final Getsuga technique that costs his powers?",
+   "a": "Mugetsu",
+   "p": 600
+  },
+  {
+   "q": "What is the title of the first Bleach film?",
+   "a": "Memories of Nobody",
+   "p": 600,
+   "alt": [
+    "Bleach: Memories of Nobody"
+   ]
+  },
+  {
+   "q": "Which Bleach film from 2010 has a Hell-related theme?",
+   "a": "Hell Verse",
+   "p": 600,
+   "alt": [
+    "Bleach: Hell Verse"
+   ]
+  },
+  {
+   "q": "What is the title of Tite Kubo's earlier series that was serialized in Weekly Shonen Jump?",
+   "a": "Zombiepowder",
+   "p": 600,
+   "alt": [
+    "Zombie Powder"
+   ]
+  },
+  {
+   "q": "How many episodes does the original Bleach anime run?",
+   "a": "366",
+   "p": 600,
+   "alt": [
+    "Three hundred sixty-six"
+   ]
+  },
+  {
+   "q": "How many volumes does the Bleach manga have?",
+   "a": "74",
+   "p": 600,
+   "alt": [
+    "Seventy-four"
+   ]
+  },
+  {
+   "q": "Who composed the music of the Bleach anime?",
+   "a": "Shiro Sagisu",
+   "p": 600,
+   "alt": [
+    "Sagisu"
+   ]
+  },
+  {
+   "q": "Who directed the original Bleach anime series?",
+   "a": "Noriyuki Abe",
+   "p": 600,
+   "alt": [
+    "Abe"
+   ]
+  },
+  {
+   "q": "Who directed the Thousand-Year Blood War anime?",
+   "a": "Tomohisa Taguchi",
+   "p": 600,
+   "alt": [
+    "Taguchi"
+   ]
+  },
+  {
+   "q": "Who directed the 2018 live-action Bleach film?",
+   "a": "Shinsuke Sato",
+   "p": 600,
+   "alt": [
+    "Sato"
+   ]
+  },
+  {
+   "q": "What is the name of Grimmjow's Resurreccion?",
+   "a": "Pantera",
+   "p": 600,
+   "alt": [
+    "Pantera"
+   ]
+  },
+  {
+   "q": "Who played Ichigo in the 2018 live-action film?",
+   "a": "Sota Fukushi",
+   "p": 600,
+   "alt": [
+    "Fukushi"
+   ]
+  }
+ ]
+}

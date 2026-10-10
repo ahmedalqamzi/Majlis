@@ -1,0 +1,936 @@
+{
+ "id": "eastcoast",
+ "name": "Fujairah & East Coast",
+ "questions": [
+  {
+   "q": "Fujairah and Khor Fakkan face which gulf, named after a neighbouring country?",
+   "a": "Gulf of Oman",
+   "p": 200,
+   "ar": "خليج عمان",
+   "alt": [
+    "Oman Gulf",
+    "Sea of Oman"
+   ]
+  },
+  {
+   "q": "Which emirate lies entirely on the UAE's east coast, away from the Arabian Gulf?",
+   "a": "Fujairah",
+   "p": 200,
+   "ar": "الفجيرة",
+   "alt": [
+    "Al Fujairah",
+    "Fujeirah"
+   ]
+  },
+  {
+   "q": "What is the name of the rugged mountain range that runs along the UAE's eastern side and into Oman?",
+   "a": "Hajar Mountains",
+   "p": 200,
+   "ar": "جبال الحجر",
+   "alt": [
+    "Al Hajar",
+    "Hajar",
+    "Hajar range"
+   ]
+  },
+  {
+   "q": "Snoopy Island, off the Fujairah coast, is named after a character from which comic strip?",
+   "a": "Peanuts",
+   "p": 200,
+   "alt": [
+    "Peanuts comic strip"
+   ]
+  },
+  {
+   "q": "Snoopy Island, with its coral and clear water, is a favourite spot for which underwater pastime?",
+   "a": "Snorkelling",
+   "p": 200,
+   "alt": [
+    "Snorkeling",
+    "Diving",
+    "Scuba diving"
+   ]
+  },
+  {
+   "q": "Fujairah is known for a traditional contest in which two bulls lock horns and push each other. What is it called?",
+   "a": "Bull butting",
+   "p": 200,
+   "ar": "مصارعة الثيران",
+   "alt": [
+    "Bullfighting",
+    "Bull fighting",
+    "Bull-butting",
+    "Bull wrestling"
+   ]
+  },
+  {
+   "q": "Al Bidya in Fujairah is believed to be the oldest example of what type of building in the UAE?",
+   "a": "Mosque",
+   "p": 200,
+   "ar": "مسجد",
+   "alt": [
+    "Masjid"
+   ]
+  },
+  {
+   "q": "Masafi, a town on the Fujairah and Ras Al Khaimah border, shares its name with a well-known UAE brand of what?",
+   "a": "Bottled water",
+   "p": 200,
+   "alt": [
+    "Water",
+    "Mineral water",
+    "Drinking water"
+   ]
+  },
+  {
+   "q": "Khor Fakkan and Kalba lie on the east coast but belong to which emirate?",
+   "a": "Sharjah",
+   "p": 200,
+   "ar": "الشارقة",
+   "alt": [
+    "Al Sharjah"
+   ]
+  },
+  {
+   "q": "The town of Dibba is partly in the UAE and partly in which neighbouring country?",
+   "a": "Oman",
+   "p": 200,
+   "ar": "عُمان",
+   "alt": [
+    "Sultanate of Oman"
+   ]
+  },
+  {
+   "q": "In the Hajar Mountains, what is the name for a valley or dry riverbed that floods after heavy rain?",
+   "a": "Wadi",
+   "p": 200,
+   "ar": "وادي",
+   "alt": [
+    "Wady"
+   ]
+  },
+  {
+   "q": "What does 'Jebel', as in Jebel Hafeet, mean in Arabic?",
+   "a": "Mountain",
+   "p": 200,
+   "ar": "جبل",
+   "alt": [
+    "Mount",
+    "Hill"
+   ]
+  },
+  {
+   "q": "The UAE's second largest mosque stands in Fujairah. In which city is the largest, a white-marble landmark?",
+   "a": "Abu Dhabi",
+   "p": 200,
+   "ar": "أبوظبي",
+   "alt": [
+    "Abu Dhabi city"
+   ]
+  },
+  {
+   "q": "The large mosque in Fujairah city is named after which founding father of the UAE?",
+   "a": "Sheikh Zayed",
+   "p": 200,
+   "ar": "الشيخ زايد",
+   "alt": [
+    "Zayed bin Sultan Al Nahyan",
+    "Zayed",
+    "Sheikh Zayed bin Sultan"
+   ]
+  },
+  {
+   "q": "On what date in 1971 did Fujairah join five other emirates to form the UAE?",
+   "a": "2 December 1971",
+   "p": 200,
+   "alt": [
+    "December 2, 1971",
+    "2 December",
+    "2nd December",
+    "2 Dec 1971"
+   ]
+  },
+  {
+   "q": "The Gulf of Oman is an arm of which ocean?",
+   "a": "Indian Ocean",
+   "p": 200,
+   "alt": [
+    "Arabian Sea"
+   ]
+  },
+  {
+   "q": "Fujairah is a global hub for storing and supplying which fossil fuel to ships?",
+   "a": "Oil",
+   "p": 200,
+   "alt": [
+    "Fuel",
+    "Crude oil",
+    "Petroleum",
+    "Bunker fuel"
+   ]
+  },
+  {
+   "q": "Kalba's nature reserve protects which type of salt-tolerant tree that grows in coastal water?",
+   "a": "Mangrove",
+   "p": 200,
+   "alt": [
+    "Mangroves",
+    "Mangrove trees"
+   ]
+  },
+  {
+   "q": "Dibba and Khor Fakkan are known for fish markets, reflecting which traditional east coast livelihood?",
+   "a": "Fishing",
+   "p": 200,
+   "ar": "صيد الأسماك",
+   "alt": [
+    "Fish",
+    "Fisheries"
+   ]
+  },
+  {
+   "q": "Fujairah is one of how many emirates that make up the UAE?",
+   "a": "Seven",
+   "p": 200,
+   "alt": [
+    "7"
+   ]
+  },
+  {
+   "q": "What is the name for a seaside promenade like the one in Fujairah, a word borrowed from French?",
+   "a": "Corniche",
+   "p": 200,
+   "ar": "كورنيش",
+   "alt": [
+    "Cornish"
+   ]
+  },
+  {
+   "q": "Snorkellers off the UAE's east coast often hope to spot which shelled marine reptile?",
+   "a": "Turtle",
+   "p": 200,
+   "alt": [
+    "Sea turtle",
+    "Turtles",
+    "Sea turtles"
+   ]
+  },
+  {
+   "q": "Which Omani city, the capital, lies along the Gulf of Oman coast south-east of Fujairah?",
+   "a": "Muscat",
+   "p": 200,
+   "ar": "مسقط",
+   "alt": [
+    "Masqat"
+   ]
+  },
+  {
+   "q": "Fujairah is on the Gulf of Oman. Which gulf lies along the UAE's western coast?",
+   "a": "Arabian Gulf",
+   "p": 200,
+   "ar": "الخليج العربي",
+   "alt": [
+    "Persian Gulf",
+    "The Gulf",
+    "Gulf"
+   ]
+  },
+  {
+   "q": "On which day of the week are Fujairah's traditional animal contests usually held?",
+   "a": "Friday",
+   "p": 200,
+   "ar": "الجمعة",
+   "alt": [
+    "Fridays",
+    "Juma'a",
+    "Jumaa"
+   ]
+  },
+  {
+   "q": "What does the Arabic word 'Jazira' mean?",
+   "a": "Island",
+   "p": 200,
+   "ar": "جزيرة",
+   "alt": [
+    "Jazirah",
+    "Isle"
+   ]
+  },
+  {
+   "q": "In Arabic, what is a 'mina'?",
+   "a": "Port",
+   "p": 200,
+   "ar": "ميناء",
+   "alt": [
+    "Harbour",
+    "Harbor",
+    "Seaport"
+   ]
+  },
+  {
+   "q": "Which drought-tolerant tree, the national tree of the UAE, grows on the plains below the Hajar Mountains?",
+   "a": "Ghaf",
+   "p": 200,
+   "ar": "الغاف",
+   "alt": [
+    "Ghaf tree",
+    "Prosopis cineraria"
+   ]
+  },
+  {
+   "q": "Which fruit-bearing tree is the symbol of traditional farming in east coast oases?",
+   "a": "Date palm",
+   "p": 200,
+   "ar": "النخلة",
+   "alt": [
+    "Palm",
+    "Date palm tree",
+    "Palm tree"
+   ]
+  },
+  {
+   "q": "Before 1971, which European country had treaty relations with Fujairah and the other Trucial States?",
+   "a": "Britain",
+   "p": 200,
+   "alt": [
+    "UK",
+    "United Kingdom",
+    "Great Britain"
+   ]
+  },
+  {
+   "q": "Which Dubai exclave in the Hajar Mountains is known for its dam, hiking trails and a heritage village?",
+   "a": "Hatta",
+   "p": 200,
+   "ar": "حتا",
+   "alt": [
+    "Hatta village"
+   ]
+  },
+  {
+   "q": "Jebel Hafeet, an outlier of the Hajar range, towers over which city?",
+   "a": "Al Ain",
+   "p": 200,
+   "ar": "العين",
+   "alt": [
+    "Al-Ain"
+   ]
+  },
+  {
+   "q": "What do you call off-road driving over dunes and rocky wadis, a popular UAE outdoor activity?",
+   "a": "Dune bashing",
+   "p": 200,
+   "alt": [
+    "Wadi bashing",
+    "Off-roading",
+    "Off roading",
+    "Dune driving"
+   ]
+  },
+  {
+   "q": "What type of traditional wooden sailing boat is a symbol of Gulf maritime heritage?",
+   "a": "Dhow",
+   "p": 200,
+   "ar": "داو",
+   "alt": [
+    "Dhau",
+    "Dhaw"
+   ]
+  },
+  {
+   "q": "Which bird of prey, central to Emirati heritage, is the UAE's national bird?",
+   "a": "Falcon",
+   "p": 200,
+   "ar": "الصقر",
+   "alt": [
+    "Saker falcon",
+    "Peregrine falcon"
+   ]
+  },
+  {
+   "q": "The Gulf of Oman connects to the Arabian Gulf through which narrow strait?",
+   "a": "Strait of Hormuz",
+   "p": 400,
+   "ar": "مضيق هرمز",
+   "alt": [
+    "Hormuz"
+   ]
+  },
+  {
+   "q": "Which European power captured Khor Fakkan in the 16th century and built a fort there?",
+   "a": "Portugal",
+   "p": 400,
+   "alt": [
+    "Portuguese"
+   ]
+  },
+  {
+   "q": "What is the term for supplying fuel to ships, a business for which Fujairah's port is famous?",
+   "a": "Bunkering",
+   "p": 400,
+   "alt": [
+    "Bunker fuel supply",
+    "Ship refuelling"
+   ]
+  },
+  {
+   "q": "The Habshan-Fujairah oil pipeline starts in which emirate?",
+   "a": "Abu Dhabi",
+   "p": 400,
+   "ar": "أبوظبي"
+  },
+  {
+   "q": "Which wild mountain goat relative roams the Hajar range?",
+   "a": "Arabian tahr",
+   "p": 400,
+   "ar": "الطهر العربي",
+   "alt": [
+    "Tahr"
+   ]
+  },
+  {
+   "q": "Which Fujairah reserve, between Masafi, Khor Fakkan and Al Bidya, became the UAE's first protected mountain area?",
+   "a": "Wadi Wurayah",
+   "p": 400,
+   "ar": "وادي الوريعة",
+   "alt": [
+    "Wurayah",
+    "Wadi Al Wurayah",
+    "Wadi Wuraya"
+   ]
+  },
+  {
+   "q": "Fujairah's mountain reserve is home to the UAE's only permanent natural what?",
+   "a": "Waterfall",
+   "p": 400,
+   "ar": "شلال",
+   "alt": [
+    "Falls"
+   ]
+  },
+  {
+   "q": "What is the family name of Fujairah's ruling dynasty?",
+   "a": "Al Sharqi",
+   "p": 400,
+   "ar": "الشرقي",
+   "alt": [
+    "Sharqi",
+    "Al Sharqi family"
+   ]
+  },
+  {
+   "q": "Which Argentine World Cup winner coached Fujairah's football club in 2017?",
+   "a": "Diego Maradona",
+   "p": 400,
+   "alt": [
+    "Maradona"
+   ]
+  },
+  {
+   "q": "Which town, split among Fujairah, Sharjah and Oman, is Fujairah emirate's second-largest?",
+   "a": "Dibba",
+   "p": 400,
+   "ar": "دبا",
+   "alt": [
+    "Dibba Al Fujairah",
+    "Dibba Al-Fujairah",
+    "Diba"
+   ]
+  },
+  {
+   "q": "Masafi sits on the border between Fujairah and which other emirate?",
+   "a": "Ras Al Khaimah",
+   "p": 400,
+   "ar": "رأس الخيمة",
+   "alt": [
+    "RAK"
+   ]
+  },
+  {
+   "q": "What does the Arabic word 'khor', as in Khor Kalba, mean?",
+   "a": "Creek",
+   "p": 400,
+   "ar": "خور",
+   "alt": [
+    "Inlet",
+    "Bay",
+    "Lagoon"
+   ]
+  },
+  {
+   "q": "In the name Dibba Al Hisn, what does 'Hisn' mean?",
+   "a": "Fort",
+   "p": 400,
+   "ar": "حصن",
+   "alt": [
+    "Fortress",
+    "Castle"
+   ]
+  },
+  {
+   "q": "Snoopy Island lies just off which Fujairah beach town?",
+   "a": "Al Aqah",
+   "p": 400,
+   "ar": "العقة",
+   "alt": [
+    "Aqah",
+    "Al Aqqah",
+    "Aqqah"
+   ]
+  },
+  {
+   "q": "Radiocarbon dating suggests Fujairah's hilltop fort was built around which century?",
+   "a": "16th century",
+   "p": 400,
+   "alt": [
+    "1500s",
+    "Sixteenth century",
+    "16th"
+   ]
+  },
+  {
+   "q": "How many domes does the Al Bidya mosque have?",
+   "a": "Four",
+   "p": 400,
+   "alt": [
+    "4"
+   ]
+  },
+  {
+   "q": "Fujairah's largest mosque is often compared to which famous Istanbul mosque?",
+   "a": "Blue Mosque",
+   "p": 400,
+   "alt": [
+    "Sultan Ahmed Mosque",
+    "The Blue Mosque"
+   ]
+  },
+  {
+   "q": "Which rugged Omani peninsula, an exclave of Oman, lies just north of Dibba?",
+   "a": "Musandam",
+   "p": 400,
+   "ar": "مسندم",
+   "alt": [
+    "Musandam Peninsula"
+   ]
+  },
+  {
+   "q": "Before 1971, the emirates were known collectively as the what States?",
+   "a": "Trucial States",
+   "p": 400,
+   "ar": "الإمارات المتصالحة",
+   "alt": [
+    "Trucial",
+    "Trucial Coast",
+    "Trucial Oman"
+   ]
+  },
+  {
+   "q": "Which two emirates have a coastline on the Gulf of Oman?",
+   "a": "Fujairah and Sharjah",
+   "p": 400,
+   "ar": "الفجيرة والشارقة",
+   "alt": [
+    "Sharjah and Fujairah"
+   ]
+  },
+  {
+   "q": "What does the name 'Hajar' mean in English?",
+   "a": "Rock",
+   "p": 400,
+   "ar": "حجر",
+   "alt": [
+    "Stone",
+    "Rocks",
+    "Stones"
+   ]
+  },
+  {
+   "q": "In Fujairah's bull butting, how is the winner decided?",
+   "a": "Pushing the other bull back",
+   "p": 400,
+   "alt": [
+    "Pushing the opponent back",
+    "Opponent retreats",
+    "Pushes opponent away",
+    "Making the other bull retreat"
+   ]
+  },
+  {
+   "q": "Which critically endangered big cat is native to the Hajar Mountains region?",
+   "a": "Arabian leopard",
+   "p": 400,
+   "ar": "النمر العربي",
+   "alt": [
+    "Leopard"
+   ]
+  },
+  {
+   "q": "Which ruling family of Sharjah governs the east coast towns of Khor Fakkan and Kalba?",
+   "a": "Al Qasimi",
+   "p": 400,
+   "ar": "القاسمي",
+   "alt": [
+    "Qasimi",
+    "Al Qasimi family"
+   ]
+  },
+  {
+   "q": "In Arabic, 'ain' means both 'eye' and what natural water source?",
+   "a": "Spring",
+   "p": 400,
+   "ar": "عين",
+   "alt": [
+    "Water spring"
+   ]
+  },
+  {
+   "q": "Which Omani port city on the Batinah coast lies south of Fujairah?",
+   "a": "Sohar",
+   "p": 400,
+   "ar": "صحار",
+   "alt": [
+    "Suhar"
+   ]
+  },
+  {
+   "q": "Which thorny tree with edible 'nabk' fruit grows in the Hajar wadis?",
+   "a": "Sidr",
+   "p": 400,
+   "ar": "السدر",
+   "alt": [
+    "Sidra",
+    "Jujube",
+    "Ziziphus"
+   ]
+  },
+  {
+   "q": "Which prized fish, a favourite on UAE seafood menus, is known by the Arabic name 'hammour'?",
+   "a": "Grouper",
+   "p": 400,
+   "ar": "هامور",
+   "alt": [
+    "Hammour",
+    "Hamour"
+   ]
+  },
+  {
+   "q": "Which wild canine of the Arabian Peninsula, smaller than its European cousin, lives in the Hajar?",
+   "a": "Arabian wolf",
+   "p": 400,
+   "ar": "الذئب العربي",
+   "alt": [
+    "Wolf"
+   ]
+  },
+  {
+   "q": "Sharjah's east coast territories are Khor Fakkan, Kalba and which Dibba town?",
+   "a": "Dibba Al Hisn",
+   "p": 400,
+   "ar": "دبا الحصن",
+   "alt": [
+    "Dibba Al-Hisn",
+    "Dibba Hisn"
+   ]
+  },
+  {
+   "q": "In Arabic, what does 'Khaleej' mean?",
+   "a": "Gulf",
+   "p": 400,
+   "ar": "خليج",
+   "alt": [
+    "Bay"
+   ]
+  },
+  {
+   "q": "What is a 'falaj' in the UAE?",
+   "a": "Irrigation channel",
+   "p": 400,
+   "ar": "فلج",
+   "alt": [
+    "Aflaj",
+    "Water channel",
+    "Irrigation system"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for beach?",
+   "a": "Shati",
+   "p": 400,
+   "ar": "شاطئ",
+   "alt": [
+    "Shaati",
+    "Shatea"
+   ]
+  },
+  {
+   "q": "Jebel Hafeet, near Al Ain, is made mainly of which sedimentary rock?",
+   "a": "Limestone",
+   "p": 400
+  },
+  {
+   "q": "Which Arabic word, meaning 'north', names the strong wind that sweeps the Gulf region?",
+   "a": "Shamal",
+   "p": 400,
+   "ar": "شمال",
+   "alt": [
+    "Shemal"
+   ]
+  },
+  {
+   "q": "What did the Portuguese call Khor Fakkan after capturing it?",
+   "a": "Corfacao",
+   "p": 600,
+   "alt": [
+    "Corfacão",
+    "Corfação",
+    "Corfaçao"
+   ]
+  },
+  {
+   "q": "Khor Fakkan's name is often translated as 'Creek of Two' what?",
+   "a": "Jaws",
+   "p": 600,
+   "alt": [
+    "Two Jaws",
+    "Creek of Two Jaws"
+   ]
+  },
+  {
+   "q": "In which year did Britain recognise Kalba as a separate Trucial State?",
+   "a": "1936",
+   "p": 600
+  },
+  {
+   "q": "In which year did Britain recognise Fujairah as a Trucial State, the last of them to be recognised?",
+   "a": "1952",
+   "p": 600
+  },
+  {
+   "q": "Who ruled Fujairah when it joined the UAE in 1971?",
+   "a": "Sheikh Mohammed bin Hamad Al Sharqi",
+   "p": 600,
+   "ar": "محمد بن حمد الشرقي",
+   "alt": [
+    "Mohammed bin Hamad Al Sharqi",
+    "Mohammed bin Hamad"
+   ]
+  },
+  {
+   "q": "To which tribe does Fujairah's ruling Al Sharqi family belong?",
+   "a": "Sharqiyin",
+   "p": 600,
+   "ar": "الشرقيين",
+   "alt": [
+    "Sharqiyeen",
+    "Al Sharqiyin"
+   ]
+  },
+  {
+   "q": "Besides dried grass, spiced ghee and dried fish, which sweet mountain product is fed to some prized Fujairah bulls?",
+   "a": "Honey",
+   "p": 600,
+   "ar": "العسل",
+   "alt": [
+    "Mountain honey"
+   ]
+  },
+  {
+   "q": "Which humped cattle breed is used in Fujairah's bull butting?",
+   "a": "Brahman",
+   "p": 600,
+   "alt": [
+    "Brahman bulls",
+    "Brahma",
+    "Zebu"
+   ]
+  },
+  {
+   "q": "The four domes of Al Bidya Mosque are supported by a single what?",
+   "a": "Central pillar",
+   "p": 600,
+   "alt": [
+    "Pillar",
+    "Column",
+    "Central column"
+   ]
+  },
+  {
+   "q": "What is the name of the highest peak in the Hajar Mountains, in Oman, whose Arabic name means 'Mountain of the Sun'?",
+   "a": "Jebel Shams",
+   "p": 600,
+   "ar": "جبل شمس",
+   "alt": [
+    "Jabal Shams"
+   ]
+  },
+  {
+   "q": "Geologists prize the Hajar Mountains for exposing a rare slice of ancient oceanic crust. What is this rock formation called?",
+   "a": "Ophiolite",
+   "p": 600,
+   "alt": [
+    "Semail Ophiolite",
+    "Samail Ophiolite"
+   ]
+  },
+  {
+   "q": "What is the common name of Avicennia marina, the only mangrove species native to the UAE?",
+   "a": "Grey mangrove",
+   "p": 600,
+   "ar": "القرم",
+   "alt": [
+    "Gray mangrove",
+    "White mangrove",
+    "Avicennia marina"
+   ]
+  },
+  {
+   "q": "Which rare, fish-eating bird with a white collar is found in the UAE only in Kalba's mangroves?",
+   "a": "Collared kingfisher",
+   "p": 600,
+   "alt": [
+    "White-collared kingfisher",
+    "Arabian collared kingfisher",
+    "Kingfisher"
+   ]
+  },
+  {
+   "q": "UNESCO recognised Wadi Wurayah as which type of protected area, linked to people and nature?",
+   "a": "Biosphere reserve",
+   "p": 600,
+   "alt": [
+    "Biosphere"
+   ]
+  },
+  {
+   "q": "Masafi lies at the inland entrance of which wadi that leads towards the east coast?",
+   "a": "Wadi Ham",
+   "p": 600,
+   "ar": "وادي حام",
+   "alt": [
+    "Ham"
+   ]
+  },
+  {
+   "q": "In which year did Wadi Wurayah become the UAE's first protected mountain area?",
+   "a": "2009",
+   "p": 600
+  },
+  {
+   "q": "What is the Gulf Arabic name for kingfish, a popular catch on the east coast?",
+   "a": "Kanaad",
+   "p": 600,
+   "ar": "كنعد",
+   "alt": [
+    "Kinaad",
+    "Kanad",
+    "Kana'ad",
+    "Kinnad"
+   ]
+  },
+  {
+   "q": "What is the main town of Oman's Musandam peninsula, north of Dibba?",
+   "a": "Khasab",
+   "p": 600,
+   "ar": "خصب",
+   "alt": [
+    "Khasab town"
+   ]
+  },
+  {
+   "q": "Beehive-shaped tombs found on Jebel Hafeet and in the Hajar gave their name to which Early Bronze Age period?",
+   "a": "Hafit",
+   "p": 600,
+   "ar": "حفيت",
+   "alt": [
+    "Hafit period",
+    "Hafeet"
+   ]
+  },
+  {
+   "q": "In which year did the Khor Fakkan Container Terminal open?",
+   "a": "1979",
+   "p": 600
+  },
+  {
+   "q": "The restored Kalba Fort is thought to stand on foundations laid by which European power?",
+   "a": "Portugal",
+   "p": 600,
+   "alt": [
+    "Portuguese"
+   ]
+  },
+  {
+   "q": "How many minarets does Fujairah's Sheikh Zayed Mosque have?",
+   "a": "Six",
+   "p": 600,
+   "alt": [
+    "6"
+   ]
+  },
+  {
+   "q": "In which year did the Habshan-Fujairah oil pipeline begin operating?",
+   "a": "2012",
+   "p": 600
+  },
+  {
+   "q": "Under which international wetlands convention is Wadi Wurayah listed as a site of international importance?",
+   "a": "Ramsar",
+   "p": 600,
+   "alt": [
+    "Ramsar Convention",
+    "Ramsar site"
+   ]
+  },
+  {
+   "q": "In which year was Fujairah Museum officially opened?",
+   "a": "1991",
+   "p": 600
+  },
+  {
+   "q": "Which global conservation charity, with the Emirates Wildlife Society, campaigned to protect Wadi Wurayah?",
+   "a": "WWF",
+   "p": 600,
+   "alt": [
+    "World Wide Fund for Nature",
+    "World Wildlife Fund"
+   ]
+  },
+  {
+   "q": "Which Portuguese commander captured Khor Fakkan in the early 1500s?",
+   "a": "Afonso de Albuquerque",
+   "p": 600,
+   "alt": [
+    "Albuquerque",
+    "Alfonso de Albuquerque"
+   ]
+  },
+  {
+   "q": "How many rowers, not counting the coxswain, crew a racing version of Fujairah's palm-frond fishing boat?",
+   "a": "Four",
+   "p": 600,
+   "alt": [
+    "4"
+   ]
+  },
+  {
+   "q": "The Semail Ophiolite, the most complete exposed oceanic crust on Earth, lies mostly in which country?",
+   "a": "Oman",
+   "p": 600,
+   "ar": "عُمان",
+   "alt": [
+    "Sultanate of Oman"
+   ]
+  },
+  {
+   "q": "What is the name of the traditional palm-frond fishing boat of Fujairah, now raced in regattas?",
+   "a": "Shasha",
+   "p": 600,
+   "ar": "الشاشة",
+   "alt": [
+    "Shashah",
+    "Shasa"
+   ]
+  }
+ ]
+}

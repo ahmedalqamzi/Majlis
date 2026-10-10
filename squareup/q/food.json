@@ -1,0 +1,652 @@
+{
+ "id": "food",
+ "name": "Food & Drinks",
+ "questions": [
+  {
+   "q": "Which country is the home of pizza?",
+   "a": "Italy",
+   "p": 200
+  },
+  {
+   "q": "What chickpea and tahini dip is a Middle Eastern staple?",
+   "a": "Hummus",
+   "p": 200,
+   "ar": "حمص",
+   "alt": [
+    "Hummous",
+    "Houmous",
+    "Hommos",
+    "Hommus"
+   ]
+  },
+  {
+   "q": "Which fruit is the main ingredient of guacamole?",
+   "a": "Avocado",
+   "p": 200
+  },
+  {
+   "q": "Pad thai is a famous noodle dish from which country?",
+   "a": "Thailand",
+   "p": 200
+  },
+  {
+   "q": "Paella is a rice dish from which country?",
+   "a": "Spain",
+   "p": 200
+  },
+  {
+   "q": "Kimchi is a staple of which country's cuisine?",
+   "a": "Korea",
+   "p": 200
+  },
+  {
+   "q": "Which layered filo, nut and syrup dessert is popular across the Middle East?",
+   "a": "Baklava",
+   "p": 200,
+   "ar": "بقلاوة",
+   "alt": [
+    "Baklawa",
+    "Baclava",
+    "Baqlawa"
+   ]
+  },
+  {
+   "q": "Which fruit is dried to make raisins?",
+   "a": "Grapes",
+   "p": 200
+  },
+  {
+   "q": "Which yellow fruit comes in bunches called hands?",
+   "a": "Banana",
+   "p": 200
+  },
+  {
+   "q": "Which vegetable is famous for making people cry when it is cut?",
+   "a": "Onion",
+   "p": 200
+  },
+  {
+   "q": "Which grain is the base of sushi?",
+   "a": "Rice",
+   "p": 200
+  },
+  {
+   "q": "Tacos come from which country?",
+   "a": "Mexico",
+   "p": 200
+  },
+  {
+   "q": "Which sweet food do bees make?",
+   "a": "Honey",
+   "p": 200
+  },
+  {
+   "q": "Which dairy product is made by churning cream?",
+   "a": "Butter",
+   "p": 200
+  },
+  {
+   "q": "Which yellow spice gives curry its colour?",
+   "a": "Turmeric",
+   "p": 200
+  },
+  {
+   "q": "French fries are made from which vegetable?",
+   "a": "Potato",
+   "p": 200
+  },
+  {
+   "q": "Which Italian baked dish has layers of flat pasta sheets, meat sauce and white sauce?",
+   "a": "Lasagne",
+   "p": 200
+  },
+  {
+   "q": "Tofu is made from which bean?",
+   "a": "Soybeans",
+   "p": 200
+  },
+  {
+   "q": "Which sour yellow citrus fruit is used in lemonade?",
+   "a": "Lemon",
+   "p": 200
+  },
+  {
+   "q": "Which Middle Eastern wrap features meat shaved from a vertical spit?",
+   "a": "Shawarma",
+   "p": 200,
+   "ar": "شاورما",
+   "alt": [
+    "Shwarma",
+    "Shawerma",
+    "Shawurma"
+   ]
+  },
+  {
+   "q": "What is the round Arabic flatbread with a pocket called?",
+   "a": "Pita",
+   "p": 200,
+   "ar": "خبز عربي",
+   "alt": [
+    "Pitta",
+    "Khubz",
+    "Khobz",
+    "Arabic bread"
+   ]
+  },
+  {
+   "q": "Which Indian flatbread is baked in a tandoor oven?",
+   "a": "Naan",
+   "p": 200
+  },
+  {
+   "q": "Which white brined cheese is used in Greek salad?",
+   "a": "Feta",
+   "p": 200
+  },
+  {
+   "q": "What is Italian ice cream called?",
+   "a": "Gelato",
+   "p": 200
+  },
+  {
+   "q": "Which vegetable is the main ingredient of coleslaw?",
+   "a": "Cabbage",
+   "p": 200
+  },
+  {
+   "q": "Which tropical fruit has a spiky skin and a crown of leaves?",
+   "a": "Pineapple",
+   "p": 200
+  },
+  {
+   "q": "Which grain is popped to make popcorn?",
+   "a": "Corn",
+   "p": 200
+  },
+  {
+   "q": "Which sweet fruit is traditionally served with Arabic coffee in the Gulf?",
+   "a": "Dates",
+   "p": 200,
+   "ar": "التمر",
+   "alt": [
+    "Tamr",
+    "Tamar"
+   ]
+  },
+  {
+   "q": "Which long, thin Italian pasta is often served with bolognese?",
+   "a": "Spaghetti",
+   "p": 200
+  },
+  {
+   "q": "Which orange root vegetable is said to be good for your eyesight?",
+   "a": "Carrot",
+   "p": 200
+  },
+  {
+   "q": "Which Indian dish is chicken in a creamy tomato sauce?",
+   "a": "Butter chicken",
+   "p": 200
+  },
+  {
+   "q": "Which soft Italian cheese is used on a margherita pizza?",
+   "a": "Mozzarella",
+   "p": 200
+  },
+  {
+   "q": "Chocolate is made from the beans of which plant?",
+   "a": "Cacao (cocoa)",
+   "p": 200
+  },
+  {
+   "q": "Which Japanese noodle soup is served in a rich broth with toppings like egg?",
+   "a": "Ramen",
+   "p": 200
+  },
+  {
+   "q": "What is the Japanese dish of thinly sliced raw fish served without rice?",
+   "a": "Sashimi",
+   "p": 200
+  },
+  {
+   "q": "Which slow-cooked wheat and meat porridge is a classic Emirati dish?",
+   "a": "Harees",
+   "p": 400,
+   "ar": "هريس",
+   "alt": [
+    "Haris",
+    "Hareis",
+    "Hariss"
+   ]
+  },
+  {
+   "q": "What is the name of the Emirati spiced rice and meat dish similar to biryani?",
+   "a": "Machboos",
+   "p": 400,
+   "ar": "مجبوس",
+   "alt": [
+    "Machbous",
+    "Majboos",
+    "Machbus"
+   ]
+  },
+  {
+   "q": "Which spice, from crocus flowers, is among the most expensive by weight?",
+   "a": "Saffron",
+   "p": 400
+  },
+  {
+   "q": "What Levantine salad is made mainly of parsley, bulgur, tomato and mint?",
+   "a": "Tabbouleh",
+   "p": 400,
+   "ar": "تبولة",
+   "alt": [
+    "Tabouleh",
+    "Tabouli",
+    "Tabbouli",
+    "Taboule"
+   ]
+  },
+  {
+   "q": "What are Emirati fried dough dumplings drizzled with date syrup called?",
+   "a": "Luqaimat",
+   "p": 400,
+   "ar": "لقيمات",
+   "alt": [
+    "Lugaimat",
+    "Legaimat",
+    "Lukaimat"
+   ]
+  },
+  {
+   "q": "Which powdered green tea is used in the Japanese tea ceremony?",
+   "a": "Matcha",
+   "p": 400
+  },
+  {
+   "q": "Which French sauce of egg yolk and butter is served on eggs Benedict?",
+   "a": "Hollandaise",
+   "p": 400
+  },
+  {
+   "q": "Which Italian cream cheese is used in tiramisu?",
+   "a": "Mascarpone",
+   "p": 400
+  },
+  {
+   "q": "Which small nuts are used with basil to make pesto?",
+   "a": "Pine nuts",
+   "p": 400
+  },
+  {
+   "q": "Which Gulf stew of bread soaked in meat and vegetable broth is popular during Ramadan?",
+   "a": "Thareed",
+   "p": 400,
+   "ar": "ثريد",
+   "alt": [
+    "Tharid"
+   ]
+  },
+  {
+   "q": "Which Levantine dish is made of bulgur and minced lamb shaped into ovals?",
+   "a": "Kibbeh",
+   "p": 400,
+   "ar": "كبة",
+   "alt": [
+    "Kibbe",
+    "Kubba",
+    "Kebbeh",
+    "Kubbeh"
+   ]
+  },
+  {
+   "q": "Which dessert of shredded pastry and sweet cheese soaked in syrup is popular in the Levant?",
+   "a": "Kunafa",
+   "p": 400,
+   "ar": "كنافة",
+   "alt": [
+    "Knafeh",
+    "Kanafeh",
+    "Kunafeh",
+    "Knafa"
+   ]
+  },
+  {
+   "q": "Which Egyptian national dish mixes rice, lentils, pasta and tomato sauce?",
+   "a": "Koshari",
+   "p": 400,
+   "ar": "كشري",
+   "alt": [
+    "Koshary",
+    "Kushari",
+    "Kosheri"
+   ]
+  },
+  {
+   "q": "Which Egyptian breakfast dish is made of slow-cooked fava beans?",
+   "a": "Ful medames",
+   "p": 400,
+   "ar": "فول مدمس",
+   "alt": [
+    "Foul medames",
+    "Ful",
+    "Foul",
+    "Fool"
+   ]
+  },
+  {
+   "q": "Which Japanese fermented soybean paste is used in a famous soup?",
+   "a": "Miso",
+   "p": 400
+  },
+  {
+   "q": "What Chinese meal style serves small steamed dishes in bamboo baskets?",
+   "a": "Dim sum",
+   "p": 400
+  },
+  {
+   "q": "Which Italian rice dish is made by slowly stirring arborio rice with stock?",
+   "a": "Risotto",
+   "p": 400
+  },
+  {
+   "q": "Which French dessert is a custard with a hard caramelised sugar top?",
+   "a": "Creme brulee",
+   "p": 400
+  },
+  {
+   "q": "Which French vegetable stew comes from Provence?",
+   "a": "Ratatouille",
+   "p": 400
+  },
+  {
+   "q": "Which spice comes from tree bark rolled into quills?",
+   "a": "Cinnamon",
+   "p": 400
+  },
+  {
+   "q": "Which spice is known as the queen of spices?",
+   "a": "Cardamom",
+   "p": 400,
+   "ar": "هيل",
+   "alt": [
+    "Hail",
+    "Heil",
+    "Elaichi"
+   ]
+  },
+  {
+   "q": "Which Turkish sweet is also known as lokum?",
+   "a": "Turkish delight",
+   "p": 400
+  },
+  {
+   "q": "Which Indian spiced milk tea is brewed with ginger and cardamom?",
+   "a": "Masala chai",
+   "p": 400
+  },
+  {
+   "q": "Which French phrase means 'everything in its place' in cooking preparation?",
+   "a": "Mise en place",
+   "p": 400
+  },
+  {
+   "q": "Which cold Spanish soup is made from raw tomatoes and vegetables?",
+   "a": "Gazpacho",
+   "p": 400
+  },
+  {
+   "q": "Which Korean dish is rice topped with vegetables and egg in a hot stone bowl?",
+   "a": "Bibimbap",
+   "p": 400
+  },
+  {
+   "q": "What is Arabic coffee called in Emirati dialect?",
+   "a": "Gahwa",
+   "p": 400,
+   "ar": "قهوة",
+   "alt": [
+    "Qahwa",
+    "Gahwah",
+    "Kahwa",
+    "Arabic coffee"
+   ]
+  },
+  {
+   "q": "Which Southeast Asian fruit is called the king of fruits and is known for its strong smell?",
+   "a": "Durian",
+   "p": 400
+  },
+  {
+   "q": "Which Lebanese garlic sauce is made with oil and garlic and served with grilled chicken?",
+   "a": "Toum",
+   "p": 400,
+   "ar": "توم",
+   "alt": [
+    "Thoum",
+    "Tum",
+    "Garlic sauce"
+   ]
+  },
+  {
+   "q": "Which large white Japanese radish is often grated as a garnish?",
+   "a": "Daikon",
+   "p": 400
+  },
+  {
+   "q": "Which tangy dark red spice from dried berries is sprinkled on fattoush?",
+   "a": "Sumac",
+   "p": 400,
+   "ar": "سماق",
+   "alt": [
+    "Sumak",
+    "Sumaq",
+    "Summaq",
+    "Sumach"
+   ]
+  },
+  {
+   "q": "What is the cone-lidded clay pot used in Moroccan cooking called?",
+   "a": "Tagine",
+   "p": 400,
+   "ar": "طاجين",
+   "alt": [
+    "Tajine",
+    "Tajin"
+   ]
+  },
+  {
+   "q": "Which Peruvian dish is raw fish cured in citrus juice?",
+   "a": "Ceviche",
+   "p": 400
+  },
+  {
+   "q": "Which cooking technique cooks food in a vacuum-sealed bag in a water bath?",
+   "a": "Sous vide",
+   "p": 400
+  },
+  {
+   "q": "Which fifth basic taste, identified in Japan in 1908, is described as savoury?",
+   "a": "Umami",
+   "p": 400
+  },
+  {
+   "q": "What is the Emirati breakfast dish of sweet vermicelli topped with egg called?",
+   "a": "Balaleet",
+   "p": 600,
+   "ar": "بلاليط",
+   "alt": [
+    "Balalit",
+    "Bilaleet",
+    "Balaliet"
+   ]
+  },
+  {
+   "q": "In Egypt, falafel (ta'ameya) is traditionally made from which bean?",
+   "a": "Fava beans",
+   "p": 600
+  },
+  {
+   "q": "Which Emirati pancake-like bread is flavoured with saffron and cardamom?",
+   "a": "Chabab",
+   "p": 600,
+   "ar": "شباب",
+   "alt": [
+    "Chebab",
+    "Shabab"
+   ]
+  },
+  {
+   "q": "Which soft, slightly sweet Emirati bread is often eaten with cheese and date syrup?",
+   "a": "Khameer",
+   "p": 600,
+   "ar": "خمير",
+   "alt": [
+    "Khamir",
+    "Khamer",
+    "Khameer bread"
+   ]
+  },
+  {
+   "q": "What is the dried lime used in Gulf stews called?",
+   "a": "Loomi (dried lime)",
+   "p": 600,
+   "ar": "لومي",
+   "alt": [
+    "Black lime",
+    "Limoo Omani",
+    "Noomi Basra",
+    "Dried lime"
+   ]
+  },
+  {
+   "q": "Which Mexican sauce combines chilies and chocolate?",
+   "a": "Mole",
+   "p": 600
+  },
+  {
+   "q": "Which cooking term means briefly boiling food, then cooling it in ice water?",
+   "a": "Blanching",
+   "p": 600
+  },
+  {
+   "q": "Which spice is the dried outer covering of the nutmeg seed?",
+   "a": "Mace",
+   "p": 600
+  },
+  {
+   "q": "Which fermented red chilli paste is a staple of Korean cooking?",
+   "a": "Gochujang",
+   "p": 600
+  },
+  {
+   "q": "Which boat-shaped Georgian bread is filled with cheese and egg?",
+   "a": "Khachapuri",
+   "p": 600
+  },
+  {
+   "q": "Which Ethiopian sourdough flatbread is made from teff?",
+   "a": "Injera",
+   "p": 600
+  },
+  {
+   "q": "Which reaction between amino acids and sugars gives seared food its brown colour?",
+   "a": "Maillard reaction",
+   "p": 600
+  },
+  {
+   "q": "Which smoked, dried tuna flakes are used to make Japanese dashi stock?",
+   "a": "Katsuobushi (bonito flakes)",
+   "p": 600
+  },
+  {
+   "q": "Which Italian pasta shape's name means 'little ears'?",
+   "a": "Orecchiette",
+   "p": 600
+  },
+  {
+   "q": "Which Italian city is the birthplace of pesto?",
+   "a": "Genoa",
+   "p": 600
+  },
+  {
+   "q": "Which fragrant Japanese citrus fruit is often used in ponzu sauce?",
+   "a": "Yuzu",
+   "p": 600
+  },
+  {
+   "q": "Which Moroccan spice blend has a name meaning 'head of the shop'?",
+   "a": "Ras el hanout",
+   "p": 600
+  },
+  {
+   "q": "Which cured Italian pork cheek is traditionally used in spaghetti carbonara?",
+   "a": "Guanciale",
+   "p": 600
+  },
+  {
+   "q": "Which pungent resin, known as hing, is used in Indian cooking?",
+   "a": "Asafoetida",
+   "p": 600
+  },
+  {
+   "q": "Which Indonesian fermented soybean cake is a protein staple?",
+   "a": "Tempeh",
+   "p": 600
+  },
+  {
+   "q": "Which Southeast Asian fruit, with a purple rind and white segments, is nicknamed the queen of fruits?",
+   "a": "Mangosteen",
+   "p": 600
+  },
+  {
+   "q": "Which tangy syrup made from reduced pomegranate juice is used in Levantine and Persian cooking?",
+   "a": "Pomegranate molasses",
+   "p": 600,
+   "ar": "دبس الرمان",
+   "alt": [
+    "Dibs Rumman"
+   ]
+  },
+  {
+   "q": "Which Georgian dumplings are twisted at the top and traditionally eaten by hand?",
+   "a": "Khinkali",
+   "p": 600
+  },
+  {
+   "q": "Which part of the crocus flower is harvested as saffron?",
+   "a": "Stigmas",
+   "p": 600
+  },
+  {
+   "q": "In which country was the Caesar salad invented?",
+   "a": "Mexico",
+   "p": 600
+  },
+  {
+   "q": "Which Spanish dry-cured ham comes from black Iberian pigs?",
+   "a": "Jamon iberico",
+   "p": 600
+  },
+  {
+   "q": "What is the sweet Japanese red bean paste made from adzuki beans called?",
+   "a": "Anko",
+   "p": 600
+  },
+  {
+   "q": "Which Korean fermented soybean paste is a staple of stews?",
+   "a": "Doenjang",
+   "p": 600
+  },
+  {
+   "q": "Which Persian rice dish is prized for its crispy golden bottom layer?",
+   "a": "Tahdig",
+   "p": 600
+  },
+  {
+   "q": "Which Roman pasta dish is made with pecorino romano and black pepper?",
+   "a": "Cacio e pepe",
+   "p": 600
+  }
+ ]
+}

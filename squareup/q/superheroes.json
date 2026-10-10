@@ -1,0 +1,518 @@
+{
+ "id": "superheroes",
+ "name": "Superheroes",
+ "questions": [
+  {
+   "q": "Which hero is Bruce Wayne?",
+   "a": "Batman",
+   "p": 200
+  },
+  {
+   "q": "Which hero is Peter Parker?",
+   "a": "Spider-Man",
+   "p": 200
+  },
+  {
+   "q": "Which hero is Clark Kent?",
+   "a": "Superman",
+   "p": 200
+  },
+  {
+   "q": "Which hero is Tony Stark?",
+   "a": "Iron Man",
+   "p": 200
+  },
+  {
+   "q": "Which city does Batman protect?",
+   "a": "Gotham City",
+   "p": 200
+  },
+  {
+   "q": "Which hero is Steve Rogers?",
+   "a": "Captain America",
+   "p": 200
+  },
+  {
+   "q": "Which DC hero is Diana Prince?",
+   "a": "Wonder Woman",
+   "p": 200
+  },
+  {
+   "q": "What is the name of Thor's hammer?",
+   "a": "Mjolnir",
+   "p": 200
+  },
+  {
+   "q": "Which hero is Bruce Banner?",
+   "a": "Hulk",
+   "p": 200
+  },
+  {
+   "q": "Which planet was Superman born on?",
+   "a": "Krypton",
+   "p": 200
+  },
+  {
+   "q": "Which young sidekick fights alongside Batman?",
+   "a": "Robin",
+   "p": 200
+  },
+  {
+   "q": "Which clown-themed villain is Batman's best-known enemy?",
+   "a": "Joker",
+   "p": 200
+  },
+  {
+   "q": "Which Marvel villain collects the Infinity Stones with a golden gauntlet?",
+   "a": "Thanos",
+   "p": 200
+  },
+  {
+   "q": "Which hero rules the nation of Wakanda?",
+   "a": "Black Panther",
+   "p": 200
+  },
+  {
+   "q": "Which Marvel hero does Chris Hemsworth play?",
+   "a": "Thor",
+   "p": 200
+  },
+  {
+   "q": "Which Marvel team includes Iron Man, Thor and Hulk?",
+   "a": "Avengers",
+   "p": 200
+  },
+  {
+   "q": "Which DC team includes Batman, Superman and Wonder Woman?",
+   "a": "Justice League",
+   "p": 200
+  },
+  {
+   "q": "Which X-Men hero has metal claws?",
+   "a": "Wolverine",
+   "p": 200
+  },
+  {
+   "q": "What colour is the Hulk's skin?",
+   "a": "Green",
+   "p": 200
+  },
+  {
+   "q": "Which creature bit Peter Parker to give him powers?",
+   "a": "Radioactive spider",
+   "p": 200
+  },
+  {
+   "q": "Which hero is nicknamed the Man of Steel?",
+   "a": "Superman",
+   "p": 200
+  },
+  {
+   "q": "Which Marvel hero is Natasha Romanoff?",
+   "a": "Black Widow",
+   "p": 200
+  },
+  {
+   "q": "Which hero throws a round vibranium shield?",
+   "a": "Captain America",
+   "p": 200
+  },
+  {
+   "q": "Which green mineral weakens Superman?",
+   "a": "Kryptonite",
+   "p": 200
+  },
+  {
+   "q": "Which DC hero is Barry Allen?",
+   "a": "The Flash",
+   "p": 200
+  },
+  {
+   "q": "Which DC hero rules the seas and Atlantis?",
+   "a": "Aquaman",
+   "p": 200
+  },
+  {
+   "q": "Which Marvel team of mutants is led by Professor X?",
+   "a": "X-Men",
+   "p": 200
+  },
+  {
+   "q": "Which actor plays Iron Man in the MCU?",
+   "a": "Robert Downey Jr.",
+   "p": 200
+  },
+  {
+   "q": "Which Batman character is Selina Kyle?",
+   "a": "Catwoman",
+   "p": 200
+  },
+  {
+   "q": "Which Avenger is Clint Barton?",
+   "a": "Hawkeye",
+   "p": 200
+  },
+  {
+   "q": "Which actress plays Wonder Woman in the DC films?",
+   "a": "Gal Gadot",
+   "p": 200
+  },
+  {
+   "q": "Who is Batman's butler?",
+   "a": "Alfred",
+   "p": 200
+  },
+  {
+   "q": "Which hero is Wade Wilson?",
+   "a": "Deadpool",
+   "p": 200
+  },
+  {
+   "q": "Which actor played Batman in The Dark Knight?",
+   "a": "Christian Bale",
+   "p": 400
+  },
+  {
+   "q": "Which actor played the Joker in The Dark Knight?",
+   "a": "Heath Ledger",
+   "p": 400
+  },
+  {
+   "q": "Which actor starred in the 2019 film Joker?",
+   "a": "Joaquin Phoenix",
+   "p": 400
+  },
+  {
+   "q": "Which actor played Black Panther in the MCU?",
+   "a": "Chadwick Boseman",
+   "p": 400
+  },
+  {
+   "q": "Which actor plays Spider-Man in the MCU?",
+   "a": "Tom Holland",
+   "p": 400
+  },
+  {
+   "q": "Which actor plays Captain America in the MCU?",
+   "a": "Chris Evans",
+   "p": 400
+  },
+  {
+   "q": "Which actor plays Hulk in The Avengers (2012)?",
+   "a": "Mark Ruffalo",
+   "p": 400
+  },
+  {
+   "q": "What was the first film in the MCU?",
+   "a": "Iron Man",
+   "p": 400
+  },
+  {
+   "q": "Which MCU film was released right after Iron Man?",
+   "a": "The Incredible Hulk",
+   "p": 400
+  },
+  {
+   "q": "Which 2012 film first teamed up the Avengers?",
+   "a": "The Avengers",
+   "p": 400
+  },
+  {
+   "q": "Which 2018 MCU film is set mainly in Wakanda?",
+   "a": "Black Panther",
+   "p": 400
+  },
+  {
+   "q": "Which actor plays Doctor Strange?",
+   "a": "Benedict Cumberbatch",
+   "p": 400
+  },
+  {
+   "q": "Who directed The Dark Knight?",
+   "a": "Christopher Nolan",
+   "p": 400
+  },
+  {
+   "q": "Which actor plays Thanos in the MCU?",
+   "a": "Josh Brolin",
+   "p": 400
+  },
+  {
+   "q": "In what town was Superman raised?",
+   "a": "Smallville",
+   "p": 400
+  },
+  {
+   "q": "Which city is home to Spider-Man?",
+   "a": "New York City",
+   "p": 400
+  },
+  {
+   "q": "Which actor plays Wolverine in the X-Men films?",
+   "a": "Hugh Jackman",
+   "p": 400
+  },
+  {
+   "q": "Which 2014 MCU film introduced Star-Lord and Rocket?",
+   "a": "Guardians of the Galaxy",
+   "p": 400
+  },
+  {
+   "q": "Which actress plays Black Widow in the MCU?",
+   "a": "Scarlett Johansson",
+   "p": 400
+  },
+  {
+   "q": "Which actor plays Aquaman in the DC films?",
+   "a": "Jason Momoa",
+   "p": 400
+  },
+  {
+   "q": "Which actor played Superman in Man of Steel?",
+   "a": "Henry Cavill",
+   "p": 400
+  },
+  {
+   "q": "Who is Thor's adoptive brother?",
+   "a": "Loki",
+   "p": 400
+  },
+  {
+   "q": "Which actor plays Loki in the MCU?",
+   "a": "Tom Hiddleston",
+   "p": 400
+  },
+  {
+   "q": "Which actor plays Deadpool?",
+   "a": "Ryan Reynolds",
+   "p": 400
+  },
+  {
+   "q": "Which hero stars in the 2021 MCU film with Simu Liu?",
+   "a": "Shang-Chi",
+   "p": 400
+  },
+  {
+   "q": "Which actress plays Captain Marvel in the MCU?",
+   "a": "Brie Larson",
+   "p": 400
+  },
+  {
+   "q": "Which Batman villain is Oswald Cobblepot?",
+   "a": "The Penguin",
+   "p": 400
+  },
+  {
+   "q": "Which Batman villain is Harvey Dent?",
+   "a": "Two-Face",
+   "p": 400
+  },
+  {
+   "q": "Which hero's real name is Scott Lang?",
+   "a": "Ant-Man",
+   "p": 400
+  },
+  {
+   "q": "Which actor plays Batman in The Batman (2022)?",
+   "a": "Robert Pattinson",
+   "p": 400
+  },
+  {
+   "q": "Which Batman villain is Edward Nygma?",
+   "a": "The Riddler",
+   "p": 400
+  },
+  {
+   "q": "Which Marvel team is led by Reed Richards?",
+   "a": "Fantastic Four",
+   "p": 400
+  },
+  {
+   "q": "How many Infinity Stones are there?",
+   "a": "Six",
+   "p": 400
+  },
+  {
+   "q": "Which two creators made Spider-Man?",
+   "a": "Stan Lee and Steve Ditko",
+   "p": 600
+  },
+  {
+   "q": "Which two creators made Batman?",
+   "a": "Bob Kane and Bill Finger",
+   "p": 600
+  },
+  {
+   "q": "Which two creators made Superman?",
+   "a": "Jerry Siegel and Joe Shuster",
+   "p": 600
+  },
+  {
+   "q": "In which comic did Superman first appear?",
+   "a": "Action Comics #1",
+   "p": 600
+  },
+  {
+   "q": "In which comic did Batman first appear?",
+   "a": "Detective Comics #27",
+   "p": 600
+  },
+  {
+   "q": "In which comic did Spider-Man first appear?",
+   "a": "Amazing Fantasy #15",
+   "p": 600
+  },
+  {
+   "q": "Which two creators made Captain America?",
+   "a": "Joe Simon and Jack Kirby",
+   "p": 600
+  },
+  {
+   "q": "In what year did Action Comics #1 appear?",
+   "a": "1938",
+   "p": 600
+  },
+  {
+   "q": "In what year did Fantastic Four #1 appear?",
+   "a": "1961",
+   "p": 600
+  },
+  {
+   "q": "Who created Wonder Woman?",
+   "a": "William Moulton Marston",
+   "p": 600
+  },
+  {
+   "q": "In which comic title did the Hulk first appear in 1962?",
+   "a": "The Incredible Hulk #1",
+   "p": 600
+  },
+  {
+   "q": "What is Daredevil's real name?",
+   "a": "Matt Murdock",
+   "p": 600
+  },
+  {
+   "q": "What was Hal Jordan's job before he became Green Lantern?",
+   "a": "Test pilot",
+   "p": 600
+  },
+  {
+   "q": "What is Superman's birth name on Krypton?",
+   "a": "Kal-El",
+   "p": 600
+  },
+  {
+   "q": "What is Martian Manhunter's Martian name?",
+   "a": "J'onn J'onzz",
+   "p": 600
+  },
+  {
+   "q": "Which New York borough is Peter Parker from?",
+   "a": "Queens",
+   "p": 600
+  },
+  {
+   "q": "Which fictional country does Doctor Doom rule?",
+   "a": "Latveria",
+   "p": 600
+  },
+  {
+   "q": "Who is Ra's al Ghul's daughter in Batman comics?",
+   "a": "Talia al Ghul",
+   "p": 600
+  },
+  {
+   "q": "Who was the first Robin?",
+   "a": "Dick Grayson",
+   "p": 600
+  },
+  {
+   "q": "What is Cyclops's real name?",
+   "a": "Scott Summers",
+   "p": 600
+  },
+  {
+   "q": "What is Storm's real name?",
+   "a": "Ororo Munroe",
+   "p": 600
+  },
+  {
+   "q": "What is Wolverine's birth name?",
+   "a": "James Howlett",
+   "p": 600
+  },
+  {
+   "q": "What is Green Arrow's real name?",
+   "a": "Oliver Queen",
+   "p": 600
+  },
+  {
+   "q": "Which boy says a magic word to become Shazam?",
+   "a": "Billy Batson",
+   "p": 600
+  },
+  {
+   "q": "Which fictional city is Superman's adopted home?",
+   "a": "Metropolis",
+   "p": 600
+  },
+  {
+   "q": "What is Aquaman's real name?",
+   "a": "Arthur Curry",
+   "p": 600
+  },
+  {
+   "q": "What is Wonder Woman's island homeland?",
+   "a": "Themyscira",
+   "p": 600
+  },
+  {
+   "q": "What is Black Panther's real name?",
+   "a": "T'Challa",
+   "p": 600
+  },
+  {
+   "q": "In what year did X-Men #1 debut?",
+   "a": "1963",
+   "p": 600
+  },
+  {
+   "q": "Which Spider-Man villain killed Gwen Stacy in the comics?",
+   "a": "Green Goblin",
+   "p": 600
+  },
+  {
+   "q": "Which hero, played by Brie Larson, headlines the film in this trailer?",
+   "a": "Captain Marvel",
+   "p": 200,
+   "yt": "7A3KXjD9D6Q",
+   "start": 30,
+   "end": 50
+  },
+  {
+   "q": "Which Marvel team stars in the film shown in this trailer?",
+   "a": "Fantastic Four",
+   "p": 200,
+   "yt": "pAsmrKyMqaA",
+   "start": 40,
+   "end": 60
+  },
+  {
+   "q": "Which shield-wielding hero does Sam Wilson become in the film shown in this trailer?",
+   "a": "Captain America",
+   "p": 400,
+   "yt": "1pHDWnXmK7Y",
+   "start": 35,
+   "end": 55
+  },
+  {
+   "q": "Which actress plays Catwoman in the Batman trailer shown here?",
+   "a": "Zoe Kravitz",
+   "p": 400,
+   "yt": "WPVOf1ozYm4",
+   "start": 30,
+   "end": 50
+  }
+ ]
+}

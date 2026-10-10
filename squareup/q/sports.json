@@ -1,0 +1,506 @@
+{
+ "id": "sports",
+ "name": "Sports",
+ "questions": [
+  {
+   "q": "How many players from each team are on the court at once in basketball?",
+   "a": "Five",
+   "p": 200
+  },
+  {
+   "q": "Which country hosted the 2016 Summer Olympics?",
+   "a": "Brazil",
+   "p": 200
+  },
+  {
+   "q": "In tennis, what word is used for a score of zero?",
+   "a": "Love",
+   "p": 200
+  },
+  {
+   "q": "How many Grand Slam tournaments are played each year in tennis?",
+   "a": "Four",
+   "p": 200
+  },
+  {
+   "q": "Which sport is played at Wimbledon?",
+   "a": "Tennis",
+   "p": 200
+  },
+  {
+   "q": "How many pins are used in ten-pin bowling?",
+   "a": "Ten",
+   "p": 200
+  },
+  {
+   "q": "How many rings are on the Olympic flag?",
+   "a": "Five",
+   "p": 200
+  },
+  {
+   "q": "In golf, what is one stroke under par on a hole called?",
+   "a": "Birdie",
+   "p": 200
+  },
+  {
+   "q": "Which motorsport series hosts the Abu Dhabi Grand Prix at Yas Marina Circuit?",
+   "a": "Formula 1",
+   "p": 200
+  },
+  {
+   "q": "Which country hosted the Summer Olympics held in 2021 and named Tokyo 2020?",
+   "a": "Japan",
+   "p": 200
+  },
+  {
+   "q": "How many points is a free throw worth in basketball?",
+   "a": "One",
+   "p": 200
+  },
+  {
+   "q": "What is the length of an Olympic marathon in kilometres?",
+   "a": "42.195 km",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the flat disc used in ice hockey?",
+   "a": "Puck",
+   "p": 200
+  },
+  {
+   "q": "Which sport is played with a shuttlecock?",
+   "a": "Badminton",
+   "p": 200
+  },
+  {
+   "q": "In boxing, what does KO stand for?",
+   "a": "Knockout",
+   "p": 200
+  },
+  {
+   "q": "Which sport features the Tour de France?",
+   "a": "Cycling",
+   "p": 200
+  },
+  {
+   "q": "How many players are on the field per side in cricket?",
+   "a": "Eleven",
+   "p": 200
+  },
+  {
+   "q": "What colour jersey is worn by the overall leader of the Tour de France?",
+   "a": "Yellow",
+   "p": 200
+  },
+  {
+   "q": "In baseball, how many strikes make a strikeout?",
+   "a": "Three",
+   "p": 200
+  },
+  {
+   "q": "How many holes are played in a standard round of golf?",
+   "a": "18",
+   "p": 200
+  },
+  {
+   "q": "Which sport is Michael Jordan famous for?",
+   "a": "Basketball",
+   "p": 200
+  },
+  {
+   "q": "Which sport awards the Stanley Cup?",
+   "a": "Ice hockey",
+   "p": 200
+  },
+  {
+   "q": "How many points is a touchdown worth in American football?",
+   "a": "Six",
+   "p": 200
+  },
+  {
+   "q": "Which city hosted the 2012 Summer Olympics?",
+   "a": "London",
+   "p": 200
+  },
+  {
+   "q": "Which tennis player is nicknamed the King of Clay?",
+   "a": "Rafael Nadal",
+   "p": 200
+  },
+  {
+   "q": "Which sport is played on a diamond?",
+   "a": "Baseball",
+   "p": 200
+  },
+  {
+   "q": "Which country hosted the 2008 Summer Olympics in Beijing?",
+   "a": "China",
+   "p": 200
+  },
+  {
+   "q": "On what surface is Wimbledon played?",
+   "a": "Grass",
+   "p": 200
+  },
+  {
+   "q": "Which country does sprinter Usain Bolt represent?",
+   "a": "Jamaica",
+   "p": 200
+  },
+  {
+   "q": "What colour medal is awarded for second place at the Olympics?",
+   "a": "Silver",
+   "p": 200
+  },
+  {
+   "q": "Which country hosted the 2000 Summer Olympics in Sydney?",
+   "a": "Australia",
+   "p": 200
+  },
+  {
+   "q": "Which Grand Slam tennis tournament is played on clay in Paris?",
+   "a": "French Open (Roland Garros)",
+   "p": 200
+  },
+  {
+   "q": "In tennis, what is the score of 40-40 called?",
+   "a": "Deuce",
+   "p": 200
+  },
+  {
+   "q": "Which MMA organisation is known for its octagon cage?",
+   "a": "UFC",
+   "p": 200
+  },
+  {
+   "q": "Which boxer was born Cassius Clay?",
+   "a": "Muhammad Ali",
+   "p": 200
+  },
+  {
+   "q": "How many players per team are on the court in volleyball?",
+   "a": "Six",
+   "p": 400
+  },
+  {
+   "q": "How long is an Olympic swimming pool in metres?",
+   "a": "50 metres",
+   "p": 400
+  },
+  {
+   "q": "Which animal is raced in the Dubai World Cup?",
+   "a": "Horse",
+   "p": 400
+  },
+  {
+   "q": "Which animal do jockeys ride in traditional UAE desert racing?",
+   "a": "Camel",
+   "p": 400
+  },
+  {
+   "q": "Which country hosted the first modern Olympic Games in 1896?",
+   "a": "Greece",
+   "p": 400
+  },
+  {
+   "q": "In what year was the first Abu Dhabi Grand Prix held?",
+   "a": "2009",
+   "p": 400
+  },
+  {
+   "q": "Which basketball player scored 100 points in one NBA game in 1962?",
+   "a": "Wilt Chamberlain",
+   "p": 400
+  },
+  {
+   "q": "What is the maximum break in snooker?",
+   "a": "147",
+   "p": 400
+  },
+  {
+   "q": "In golf, what is three strokes under par on a hole called?",
+   "a": "Albatross",
+   "p": 400
+  },
+  {
+   "q": "In cricket, what is it called when a batter is out for zero?",
+   "a": "A duck",
+   "p": 400
+  },
+  {
+   "q": "Which sport uses a scrum and a lineout?",
+   "a": "Rugby union",
+   "p": 400
+  },
+  {
+   "q": "In which Spanish city were the 1992 Summer Olympics held?",
+   "a": "Barcelona",
+   "p": 400
+  },
+  {
+   "q": "Which city hosted the 1988 Summer Olympics?",
+   "a": "Seoul",
+   "p": 400
+  },
+  {
+   "q": "What is the maximum number of clubs allowed in a golf bag?",
+   "a": "14",
+   "p": 400
+  },
+  {
+   "q": "On which island is the Yas Marina Circuit located?",
+   "a": "Yas Island",
+   "p": 400
+  },
+  {
+   "q": "Which family is credited with developing Brazilian jiu-jitsu?",
+   "a": "Gracie family",
+   "p": 400
+  },
+  {
+   "q": "In Brazilian jiu-jitsu, which adult belt comes after blue?",
+   "a": "Purple",
+   "p": 400
+  },
+  {
+   "q": "In the NBA, how many seconds is the shot clock?",
+   "a": "24 seconds",
+   "p": 400
+  },
+  {
+   "q": "Which two sides compete in golf's Ryder Cup?",
+   "a": "USA and Europe",
+   "p": 400
+  },
+  {
+   "q": "Which golf tournament awards a green jacket to the winner?",
+   "a": "The Masters",
+   "p": 400
+  },
+  {
+   "q": "In sailing, what is the right-hand side of a boat when facing the bow called?",
+   "a": "Starboard",
+   "p": 400
+  },
+  {
+   "q": "Which sailing trophy is the oldest international sporting trophy still contested?",
+   "a": "America's Cup",
+   "p": 400
+  },
+  {
+   "q": "At which Dubai racecourse is the Dubai World Cup held?",
+   "a": "Meydan",
+   "p": 400
+  },
+  {
+   "q": "In bowling, what is three strikes in a row called?",
+   "a": "Turkey",
+   "p": 400
+  },
+  {
+   "q": "How many innings are in a standard baseball game?",
+   "a": "Nine",
+   "p": 400
+  },
+  {
+   "q": "How many legal balls are bowled in a cricket over?",
+   "a": "Six",
+   "p": 400
+  },
+  {
+   "q": "What is the term for taking three wickets with three consecutive balls in cricket?",
+   "a": "Hat-trick",
+   "p": 400
+  },
+  {
+   "q": "In which sport is the Webb Ellis Cup awarded?",
+   "a": "Rugby union",
+   "p": 400
+  },
+  {
+   "q": "In which sport is the Claret Jug awarded?",
+   "a": "Golf",
+   "p": 400
+  },
+  {
+   "q": "In judo, what is a full-point winning score called?",
+   "a": "Ippon",
+   "p": 400
+  },
+  {
+   "q": "How many players per team are on the field in rugby union?",
+   "a": "15",
+   "p": 400
+  },
+  {
+   "q": "Which athletics event consists of ten events over two days?",
+   "a": "Decathlon",
+   "p": 400
+  },
+  {
+   "q": "In Formula 1, what does DRS stand for?",
+   "a": "Drag Reduction System",
+   "p": 400
+  },
+  {
+   "q": "Who invented basketball in 1891?",
+   "a": "James Naismith",
+   "p": 400
+  },
+  {
+   "q": "Which two countries contest cricket's Ashes series?",
+   "a": "England and Australia",
+   "p": 400
+  },
+  {
+   "q": "On which Oxford track did Roger Bannister run the first sub-four-minute mile in 1954?",
+   "a": "Iffley Road track",
+   "p": 600
+  },
+  {
+   "q": "Which city hosted the 1960 Summer Olympics?",
+   "a": "Rome",
+   "p": 600
+  },
+  {
+   "q": "Which country won the first Rugby World Cup in 1987?",
+   "a": "New Zealand",
+   "p": 600
+  },
+  {
+   "q": "Which city hosted the 1968 Summer Olympics?",
+   "a": "Mexico City",
+   "p": 600
+  },
+  {
+   "q": "Who won the 1998 Tour de France, a year marked by the Festina doping scandal?",
+   "a": "Marco Pantani",
+   "p": 600
+  },
+  {
+   "q": "In what year did Roger Federer win his first Wimbledon singles title?",
+   "a": "2003",
+   "p": 600
+  },
+  {
+   "q": "Which city hosted the 1956 Summer Olympics?",
+   "a": "Melbourne",
+   "p": 600
+  },
+  {
+   "q": "Which French town hosted the first Winter Olympics in 1924?",
+   "a": "Chamonix",
+   "p": 600
+  },
+  {
+   "q": "Which town hosted the 1980 Winter Olympics and the Miracle on Ice?",
+   "a": "Lake Placid",
+   "p": 600
+  },
+  {
+   "q": "Which city hosted the 1952 Summer Olympics?",
+   "a": "Helsinki",
+   "p": 600
+  },
+  {
+   "q": "Over what distance in metres is the Dubai World Cup run?",
+   "a": "2000 metres",
+   "p": 600
+  },
+  {
+   "q": "In what year was the first Dubai World Cup run?",
+   "a": "1996",
+   "p": 600
+  },
+  {
+   "q": "Which city hosted the 1912 Summer Olympics?",
+   "a": "Stockholm",
+   "p": 600
+  },
+  {
+   "q": "Which Czech runner won the 5000 m, 10,000 m and marathon at the 1952 Olympics?",
+   "a": "Emil Zatopek",
+   "p": 600
+  },
+  {
+   "q": "In which city was the 1974 Ali versus Foreman Rumble in the Jungle fought?",
+   "a": "Kinshasa",
+   "p": 600
+  },
+  {
+   "q": "Which barefoot Ethiopian runner won the marathon at the 1960 Rome Olympics?",
+   "a": "Abebe Bikila",
+   "p": 600
+  },
+  {
+   "q": "What is the highest possible checkout in darts?",
+   "a": "170",
+   "p": 600
+  },
+  {
+   "q": "What is the mass of the men's shot put in kilograms?",
+   "a": "7.26 kg",
+   "p": 600
+  },
+  {
+   "q": "What is the height of a tennis net at its centre in metres?",
+   "a": "0.914 metres",
+   "p": 600
+  },
+  {
+   "q": "What is the diameter of the hole on a golf green in millimetres (to the nearest mm)?",
+   "a": "108 mm",
+   "p": 600
+  },
+  {
+   "q": "How far in metres is the FIBA three-point line from the basket?",
+   "a": "6.75 metres",
+   "p": 600
+  },
+  {
+   "q": "In a full Ironman triathlon, how long is the swim in kilometres?",
+   "a": "3.8 km",
+   "p": 600
+  },
+  {
+   "q": "Who founded judo in 1882?",
+   "a": "Jigoro Kano",
+   "p": 600
+  },
+  {
+   "q": "What is the sumo wrestling ring called?",
+   "a": "Dohyo",
+   "p": 600
+  },
+  {
+   "q": "In what year was the first Wimbledon Championship held?",
+   "a": "1877",
+   "p": 600
+  },
+  {
+   "q": "Who won the first UFC event in 1993?",
+   "a": "Royce Gracie",
+   "p": 600
+  },
+  {
+   "q": "Who scored 400 not out, the highest individual Test cricket innings, in 2004?",
+   "a": "Brian Lara",
+   "p": 600
+  },
+  {
+   "q": "Which team won the first Super Bowl in January 1967?",
+   "a": "Green Bay Packers",
+   "p": 600
+  },
+  {
+   "q": "How long is a cricket pitch in metres?",
+   "a": "20.12 metres",
+   "p": 600
+  },
+  {
+   "q": "What is the distance in metres of the Olympic men's high hurdles event?",
+   "a": "110 metres",
+   "p": 600
+  }
+ ]
+}

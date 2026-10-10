@@ -1,0 +1,917 @@
+{
+ "id": "arabworld",
+ "name": "Arab World",
+ "questions": [
+  {
+   "q": "What is the capital of Egypt?",
+   "a": "Cairo",
+   "p": 200,
+   "ar": "القاهرة",
+   "alt": [
+    "Al Qahira",
+    "Qahira"
+   ]
+  },
+  {
+   "q": "What is the capital of Saudi Arabia?",
+   "a": "Riyadh",
+   "p": 200,
+   "ar": "الرياض",
+   "alt": [
+    "Riyad"
+   ]
+  },
+  {
+   "q": "What is the capital of the United Arab Emirates?",
+   "a": "Abu Dhabi",
+   "p": 200,
+   "ar": "أبوظبي"
+  },
+  {
+   "q": "What is the capital of Jordan?",
+   "a": "Amman",
+   "p": 200,
+   "ar": "عمّان"
+  },
+  {
+   "q": "What is the capital of Lebanon?",
+   "a": "Beirut",
+   "p": 200,
+   "ar": "بيروت",
+   "alt": [
+    "Beyrouth"
+   ]
+  },
+  {
+   "q": "What is the capital of Morocco?",
+   "a": "Rabat",
+   "p": 400,
+   "ar": "الرباط"
+  },
+  {
+   "q": "What is the capital of Iraq?",
+   "a": "Baghdad",
+   "p": 200,
+   "ar": "بغداد",
+   "alt": [
+    "Bagdad"
+   ]
+  },
+  {
+   "q": "What is the capital of Qatar?",
+   "a": "Doha",
+   "p": 200,
+   "ar": "الدوحة",
+   "alt": [
+    "Ad Dawhah"
+   ]
+  },
+  {
+   "q": "What is the capital of Oman?",
+   "a": "Muscat",
+   "p": 200,
+   "ar": "مسقط",
+   "alt": [
+    "Masqat"
+   ]
+  },
+  {
+   "q": "What is the capital of Syria?",
+   "a": "Damascus",
+   "p": 200,
+   "ar": "دمشق",
+   "alt": [
+    "Dimashq"
+   ]
+  },
+  {
+   "q": "What is the currency of the United Arab Emirates?",
+   "a": "Dirham",
+   "p": 200,
+   "ar": "الدرهم",
+   "alt": [
+    "AED",
+    "UAE dirham"
+   ]
+  },
+  {
+   "q": "What is the currency of Saudi Arabia?",
+   "a": "Riyal",
+   "p": 200,
+   "ar": "الريال",
+   "alt": [
+    "Rial",
+    "Saudi riyal"
+   ]
+  },
+  {
+   "q": "Which rose-colored city carved into rock in Jordan is a famous Nabataean landmark?",
+   "a": "Petra",
+   "p": 200,
+   "ar": "البتراء"
+  },
+  {
+   "q": "In which country are the Pyramids of Giza?",
+   "a": "Egypt",
+   "p": 200,
+   "ar": "مصر",
+   "alt": [
+    "Misr"
+   ]
+  },
+  {
+   "q": "Which river flows through Cairo?",
+   "a": "The Nile",
+   "p": 200,
+   "ar": "النيل",
+   "alt": [
+    "River Nile"
+   ]
+  },
+  {
+   "q": "Which pear-shaped stringed instrument is the ancestor of the European lute?",
+   "a": "Oud",
+   "p": 200,
+   "ar": "العود",
+   "alt": [
+    "Ud",
+    "Al Oud"
+   ]
+  },
+  {
+   "q": "What is the long white robe worn by men in Saudi Arabia called?",
+   "a": "Thobe",
+   "p": 200,
+   "ar": "الثوب",
+   "alt": [
+    "Thawb",
+    "Thob",
+    "Dishdasha",
+    "Kandura"
+   ]
+  },
+  {
+   "q": "What is the long black cloak worn by many women in the Gulf called?",
+   "a": "Abaya",
+   "p": 200,
+   "ar": "العباءة",
+   "alt": [
+    "Abayah",
+    "Aba'a"
+   ]
+  },
+  {
+   "q": "Which holy month is observed with fasting from dawn to sunset?",
+   "a": "Ramadan",
+   "p": 200,
+   "ar": "رمضان",
+   "alt": [
+    "Ramadhan",
+    "Ramazan"
+   ]
+  },
+  {
+   "q": "Which festival marks the end of Ramadan?",
+   "a": "Eid al-Fitr",
+   "p": 200,
+   "ar": "عيد الفطر",
+   "alt": [
+    "Eid Al Fitr",
+    "Eid ul-Fitr"
+   ]
+  },
+  {
+   "q": "How many letters are in the Arabic alphabet?",
+   "a": "28",
+   "p": 200
+  },
+  {
+   "q": "What is the world's largest hot desert, stretching across North Africa?",
+   "a": "Sahara",
+   "p": 200
+  },
+  {
+   "q": "Which Egyptian singer was known as the Star of the East?",
+   "a": "Umm Kulthum",
+   "p": 400,
+   "ar": "أم كلثوم",
+   "alt": [
+    "Oum Kalthoum",
+    "Umm Kalthum",
+    "Om Kalthoum",
+    "Umm Kolthum"
+   ]
+  },
+  {
+   "q": "Which sea lies between Egypt and Saudi Arabia?",
+   "a": "Red Sea",
+   "p": 200,
+   "ar": "البحر الأحمر"
+  },
+  {
+   "q": "In which city is the Kaaba located?",
+   "a": "Mecca",
+   "p": 200,
+   "ar": "مكة المكرمة",
+   "alt": [
+    "Makkah",
+    "Makka"
+   ]
+  },
+  {
+   "q": "Which sweet fruit of the palm tree is traditionally served with Arabic coffee?",
+   "a": "Dates",
+   "p": 200,
+   "ar": "التمر",
+   "alt": [
+    "Tamr"
+   ]
+  },
+  {
+   "q": "In which city is the Burj Khalifa?",
+   "a": "Dubai",
+   "p": 200,
+   "ar": "دبي"
+  },
+  {
+   "q": "Which chickpea and tahini dip is a staple of Levantine cuisine?",
+   "a": "Hummus",
+   "p": 200,
+   "ar": "حمص",
+   "alt": [
+    "Hommos",
+    "Humus",
+    "Hummus bi tahini"
+   ]
+  },
+  {
+   "q": "What name is given to nomadic desert-dwelling Arab communities?",
+   "a": "Bedouin",
+   "p": 200,
+   "ar": "البدو",
+   "alt": [
+    "Bedu",
+    "Bedouins"
+   ]
+  },
+  {
+   "q": "What is the capital of Tunisia?",
+   "a": "Tunis",
+   "p": 200,
+   "ar": "تونس"
+  },
+  {
+   "q": "What is the capital of Algeria?",
+   "a": "Algiers",
+   "p": 400,
+   "ar": "الجزائر",
+   "alt": [
+    "Alger",
+    "Al Jazair"
+   ]
+  },
+  {
+   "q": "What is the capital of Kuwait?",
+   "a": "Kuwait City",
+   "p": 200,
+   "ar": "مدينة الكويت",
+   "alt": [
+    "Kuwait"
+   ]
+  },
+  {
+   "q": "Which plant dye is used to decorate hands for weddings and Eid?",
+   "a": "Henna",
+   "p": 200,
+   "ar": "الحناء",
+   "alt": [
+    "Hinna",
+    "Mehndi"
+   ]
+  },
+  {
+   "q": "What does the Arabic word 'habibi' mean?",
+   "a": "My dear",
+   "p": 200
+  },
+  {
+   "q": "Which animal is nicknamed the 'ship of the desert'?",
+   "a": "Camel",
+   "p": 200
+  },
+  {
+   "q": "What is the capital of Sudan?",
+   "a": "Khartoum",
+   "p": 400,
+   "ar": "الخرطوم"
+  },
+  {
+   "q": "What is the capital of Yemen?",
+   "a": "Sanaa",
+   "p": 400,
+   "ar": "صنعاء",
+   "alt": [
+    "Sana'a",
+    "Sana"
+   ]
+  },
+  {
+   "q": "What is the capital of Bahrain?",
+   "a": "Manama",
+   "p": 400,
+   "ar": "المنامة"
+  },
+  {
+   "q": "What is the capital of Libya?",
+   "a": "Tripoli",
+   "p": 400,
+   "ar": "طرابلس",
+   "alt": [
+    "Tarabulus"
+   ]
+  },
+  {
+   "q": "What is the capital of Mauritania?",
+   "a": "Nouakchott",
+   "p": 600,
+   "ar": "نواكشوط",
+   "alt": [
+    "Nouakshott"
+   ]
+  },
+  {
+   "q": "What is the currency of Egypt?",
+   "a": "Egyptian pound",
+   "p": 400,
+   "ar": "الجنيه المصري",
+   "alt": [
+    "Gineh",
+    "EGP"
+   ]
+  },
+  {
+   "q": "What is the currency of Jordan?",
+   "a": "Jordanian dinar",
+   "p": 400,
+   "ar": "الدينار الأردني",
+   "alt": [
+    "Dinar",
+    "JD"
+   ]
+  },
+  {
+   "q": "Which ancient Phoenician city near modern Tunis was a rival of Rome?",
+   "a": "Carthage",
+   "p": 400,
+   "ar": "قرطاج",
+   "alt": [
+    "Qartaj"
+   ]
+  },
+  {
+   "q": "To which instrument family does the qanun belong?",
+   "a": "Zither",
+   "p": 600
+  },
+  {
+   "q": "Which angular, geometric Arabic calligraphy style is named after an Iraqi city?",
+   "a": "Kufic",
+   "p": 600,
+   "ar": "الخط الكوفي",
+   "alt": [
+    "Kufi",
+    "Kufic script"
+   ]
+  },
+  {
+   "q": "Which calligraphy style, meaning 'copying', is widely used in printed books?",
+   "a": "Naskh",
+   "p": 600,
+   "ar": "خط النسخ",
+   "alt": [
+    "Naskhi",
+    "Nask"
+   ]
+  },
+  {
+   "q": "Which goblet-shaped drum is common in Arab music?",
+   "a": "Darbuka",
+   "p": 400,
+   "ar": "الدربكة",
+   "alt": [
+    "Darbouka",
+    "Tabla",
+    "Doumbek",
+    "Derbake"
+   ]
+  },
+  {
+   "q": "Which Lebanese singer, born Nouhad Haddad, is a legend of Arab music?",
+   "a": "Fairuz",
+   "p": 400,
+   "ar": "فيروز",
+   "alt": [
+    "Fayrouz",
+    "Fairouz",
+    "Fayruz"
+   ]
+  },
+  {
+   "q": "Which Egyptian author won the Nobel Prize in Literature in 1988?",
+   "a": "Naguib Mahfouz",
+   "p": 400,
+   "ar": "نجيب محفوظ",
+   "alt": [
+    "Najib Mahfuz",
+    "Naguib Mahfuz",
+    "Mahfouz"
+   ]
+  },
+  {
+   "q": "Which 14th-century scholar wrote the Muqaddimah?",
+   "a": "Ibn Khaldun",
+   "p": 400,
+   "ar": "ابن خلدون",
+   "alt": [
+    "Ibn Khaldoun"
+   ]
+  },
+  {
+   "q": "Which scholar's name is the origin of the word 'algorithm'?",
+   "a": "Al-Khwarizmi",
+   "p": 400,
+   "ar": "الخوارزمي",
+   "alt": [
+    "Al Khwarizmi",
+    "Khwarizmi",
+    "Alkhwarizmi"
+   ]
+  },
+  {
+   "q": "Which scholar wrote the Book of Optics and is called the father of modern optics?",
+   "a": "Ibn al-Haytham",
+   "p": 600,
+   "ar": "ابن الهيثم",
+   "alt": [
+    "Alhazen",
+    "Ibn al Haytham",
+    "Alhacen"
+   ]
+  },
+  {
+   "q": "Which industry was the main pillar of the Gulf economy before oil?",
+   "a": "Pearling",
+   "p": 400,
+   "ar": "الغوص على اللؤلؤ",
+   "alt": [
+    "Pearl diving"
+   ]
+  },
+  {
+   "q": "What is the traditional Arabic coffee pot called?",
+   "a": "Dallah",
+   "p": 400,
+   "ar": "دلة",
+   "alt": [
+    "Dalla"
+   ]
+  },
+  {
+   "q": "Which Saudi dish features spiced rice with lamb or chicken?",
+   "a": "Kabsa",
+   "p": 400,
+   "ar": "كبسة",
+   "alt": [
+    "Kabsah",
+    "Kebsa"
+   ]
+  },
+  {
+   "q": "Which Egyptian actor starred in Lawrence of Arabia?",
+   "a": "Omar Sharif",
+   "p": 400,
+   "ar": "عمر الشريف",
+   "alt": [
+    "Omar El-Sharif"
+   ]
+  },
+  {
+   "q": "In which Moroccan city is the Hassan II Mosque?",
+   "a": "Casablanca",
+   "p": 400,
+   "ar": "الدار البيضاء",
+   "alt": [
+    "Casa",
+    "Dar el-Beida"
+   ]
+  },
+  {
+   "q": "In which city is the traditional market Souq Waqif?",
+   "a": "Doha",
+   "p": 400,
+   "ar": "الدوحة",
+   "alt": [
+    "Ad Dawhah"
+   ]
+  },
+  {
+   "q": "Which Jordanian desert valley is nicknamed the Valley of the Moon?",
+   "a": "Wadi Rum",
+   "p": 400,
+   "ar": "وادي رم",
+   "alt": [
+    "Wadi Ramm"
+   ]
+  },
+  {
+   "q": "Which annual pilgrimage to Mecca is followed by Eid al-Adha?",
+   "a": "Hajj",
+   "p": 200,
+   "ar": "الحج",
+   "alt": [
+    "Haj"
+   ]
+  },
+  {
+   "q": "Which tree appears on the flag of Lebanon?",
+   "a": "Cedar",
+   "p": 400,
+   "ar": "الأرز",
+   "alt": [
+    "Arz",
+    "Cedar of Lebanon"
+   ]
+  },
+  {
+   "q": "Which Moroccan-born traveler wrote the Rihla, an account of his journeys?",
+   "a": "Ibn Battuta",
+   "p": 400,
+   "ar": "ابن بطوطة",
+   "alt": [
+    "Ibn Battutah",
+    "Ibn Batuta"
+   ]
+  },
+  {
+   "q": "What is the Arabic term for a traditional guest sitting room in the Gulf?",
+   "a": "Majlis",
+   "p": 200,
+   "ar": "المجلس",
+   "alt": [
+    "Majles",
+    "Majalis"
+   ]
+  },
+  {
+   "q": "Which Moroccan stew is named after the conical clay pot it is cooked in?",
+   "a": "Tagine",
+   "p": 400,
+   "ar": "الطاجين",
+   "alt": [
+    "Tajine",
+    "Tajin",
+    "Tagin"
+   ]
+  },
+  {
+   "q": "Which is the largest Arab country by land area?",
+   "a": "Algeria",
+   "p": 400,
+   "ar": "الجزائر",
+   "alt": [
+    "Alger",
+    "Al Jazair"
+   ]
+  },
+  {
+   "q": "Which river flows through Baghdad?",
+   "a": "Tigris",
+   "p": 400,
+   "ar": "دجلة",
+   "alt": [
+    "Dijla"
+   ]
+  },
+  {
+   "q": "Which canal, opened in 1869, links the Mediterranean and the Red Sea?",
+   "a": "Suez Canal",
+   "p": 200,
+   "ar": "قناة السويس",
+   "alt": [
+    "Suez"
+   ]
+  },
+  {
+   "q": "What is the system of melodic modes in Arabic music called?",
+   "a": "Maqam",
+   "p": 600,
+   "ar": "المقام",
+   "alt": [
+    "Maqamat",
+    "Makam"
+   ]
+  },
+  {
+   "q": "Which Levantine folk dance is performed in a line with stamping steps?",
+   "a": "Dabke",
+   "p": 400,
+   "ar": "الدبكة",
+   "alt": [
+    "Debke",
+    "Dabkeh",
+    "Dabka"
+   ]
+  },
+  {
+   "q": "Who is the storyteller in One Thousand and One Nights?",
+   "a": "Scheherazade",
+   "p": 400,
+   "ar": "شهرزاد",
+   "alt": [
+    "Shahrazad",
+    "Sheherazade",
+    "Scheherezade",
+    "Shahrazade"
+   ]
+  },
+  {
+   "q": "What is the currency of Mauritania?",
+   "a": "Ouguiya",
+   "p": 600,
+   "ar": "الأوقية"
+  },
+  {
+   "q": "What is the subunit of the Omani rial, worth one thousandth of it?",
+   "a": "Baisa",
+   "p": 600,
+   "ar": "بيسة",
+   "alt": [
+    "Baiza",
+    "Baisah"
+   ]
+  },
+  {
+   "q": "What is the capital of the Comoros?",
+   "a": "Moroni",
+   "p": 600,
+   "ar": "موروني"
+  },
+  {
+   "q": "Which 10th-century Andalusian surgeon, Abulcasis, wrote Al-Tasrif?",
+   "a": "Al-Zahrawi",
+   "p": 600,
+   "ar": "الزهراوي",
+   "alt": [
+    "Al Zahrawi",
+    "Zahrawi",
+    "Abu al-Qasim al-Zahrawi"
+   ]
+  },
+  {
+   "q": "Which engineer wrote the Book of Knowledge of Ingenious Mechanical Devices?",
+   "a": "Al-Jazari",
+   "p": 600,
+   "ar": "الجزري",
+   "alt": [
+    "Al Jazari",
+    "Ismail al-Jazari",
+    "Jazari"
+   ]
+  },
+  {
+   "q": "Which Moroccan city hosts the University of al-Qarawiyyin, founded by Fatima al-Fihri?",
+   "a": "Fez",
+   "p": 600,
+   "ar": "فاس",
+   "alt": [
+    "Fes"
+   ]
+  },
+  {
+   "q": "In which city was the Abbasid House of Wisdom located?",
+   "a": "Baghdad",
+   "p": 400,
+   "ar": "بغداد",
+   "alt": [
+    "Bagdad"
+   ]
+  },
+  {
+   "q": "Which calligraphy style, meaning 'one third', is used in mosque inscriptions?",
+   "a": "Thuluth",
+   "p": 600,
+   "ar": "الثلث",
+   "alt": [
+    "Thulth",
+    "Sulus"
+   ]
+  },
+  {
+   "q": "Which simple Arabic script style is most used in everyday handwriting?",
+   "a": "Ruq'ah",
+   "p": 600,
+   "ar": "الرقعة",
+   "alt": [
+    "Ruqah",
+    "Riqa",
+    "Ruqaa"
+   ]
+  },
+  {
+   "q": "What is the small Arab tambourine with jingles called?",
+   "a": "Riq",
+   "p": 600,
+   "ar": "الرق",
+   "alt": [
+    "Riqq"
+   ]
+  },
+  {
+   "q": "Which long-necked Levantine lute with metal strings is related to the saz?",
+   "a": "Buzuq",
+   "p": 600,
+   "ar": "البزق",
+   "alt": [
+    "Buzuk",
+    "Bouzouq"
+   ]
+  },
+  {
+   "q": "Which Gulf music genre is linked to pearl divers?",
+   "a": "Fijiri",
+   "p": 600,
+   "ar": "الفجري",
+   "alt": [
+    "Fijri",
+    "Fidjeri",
+    "Fijeri"
+   ]
+  },
+  {
+   "q": "Which Syrian-born oud virtuoso and singer was the brother of Asmahan?",
+   "a": "Farid al-Atrash",
+   "p": 600,
+   "ar": "فريد الأطرش",
+   "alt": [
+    "Farid El Atrache",
+    "Farid Al Atrash",
+    "Farid el-Atrash"
+   ]
+  },
+  {
+   "q": "Which Egyptian singer was nicknamed al-Andaleeb al-Asmar?",
+   "a": "Abdel Halim Hafez",
+   "p": 600,
+   "ar": "عبد الحليم حافظ",
+   "alt": [
+    "Abd al-Halim Hafez",
+    "Abdelhalim Hafez",
+    "Abdel Halim Hafiz"
+   ]
+  },
+  {
+   "q": "Which Syrian poet and diplomat is famed for love poetry and died in 1998?",
+   "a": "Nizar Qabbani",
+   "p": 600,
+   "ar": "نزار قباني",
+   "alt": [
+    "Nizar Kabbani"
+   ]
+  },
+  {
+   "q": "Which 10th-century poet from Kufa is among the greatest of classical Arabic poets?",
+   "a": "Al-Mutanabbi",
+   "p": 600,
+   "ar": "المتنبي",
+   "alt": [
+    "Al Mutanabbi",
+    "Mutanabbi",
+    "Al-Mutanabi"
+   ]
+  },
+  {
+   "q": "What is the collection of celebrated pre-Islamic Arabic odes called?",
+   "a": "Mu'allaqat",
+   "p": 600,
+   "ar": "المعلقات",
+   "alt": [
+    "Muallaqat",
+    "Hanging Odes"
+   ]
+  },
+  {
+   "q": "Which Sudanese novelist wrote Season of Migration to the North?",
+   "a": "Tayeb Salih",
+   "p": 600,
+   "ar": "الطيب صالح",
+   "alt": [
+    "Tayeb Saleh",
+    "At-Tayyib Salih",
+    "El-Tayeb Salih"
+   ]
+  },
+  {
+   "q": "Which Egyptian writer, called the Dean of Arabic Literature, wrote the autobiography Al-Ayyam?",
+   "a": "Taha Hussein",
+   "p": 600,
+   "ar": "طه حسين",
+   "alt": [
+    "Taha Husayn",
+    "Taha Hussain"
+   ]
+  },
+  {
+   "q": "Which 13th-century physician described the pulmonary circulation of blood?",
+   "a": "Ibn al-Nafis",
+   "p": 600,
+   "ar": "ابن النفيس",
+   "alt": [
+    "Ibn Nafis",
+    "Ibn Al Nafis",
+    "Ibn an-Nafis"
+   ]
+  },
+  {
+   "q": "Which geographer created the Tabula Rogeriana map for Roger II of Sicily?",
+   "a": "Al-Idrisi",
+   "p": 600,
+   "ar": "الإدريسي",
+   "alt": [
+    "Idrisi",
+    "Al Idrisi",
+    "Edrisi"
+   ]
+  },
+  {
+   "q": "Which Yemeni port gave its name to a famous coffee variety?",
+   "a": "Mocha",
+   "p": 400,
+   "ar": "المخا",
+   "alt": [
+    "Mokha",
+    "Al Makha"
+   ]
+  },
+  {
+   "q": "Which Bahraini city is home to the UNESCO-listed Pearling Path?",
+   "a": "Muharraq",
+   "p": 600,
+   "ar": "المحرق"
+  },
+  {
+   "q": "Which ancient Syrian oasis city was ruled by Queen Zenobia?",
+   "a": "Palmyra",
+   "p": 400,
+   "ar": "تدمر",
+   "alt": [
+    "Tadmur"
+   ]
+  },
+  {
+   "q": "Which Lebanese city is known for the Roman Temple of Jupiter ruins?",
+   "a": "Baalbek",
+   "p": 400,
+   "ar": "بعلبك",
+   "alt": [
+    "Baalbeck",
+    "Baalbak"
+   ]
+  },
+  {
+   "q": "Which Jordanian national dish is lamb cooked in a dried fermented yogurt sauce?",
+   "a": "Mansaf",
+   "p": 400,
+   "ar": "منسف"
+  },
+  {
+   "q": "Which Iraqi dish is grilled, open-fire-cooked carp?",
+   "a": "Masgouf",
+   "p": 600,
+   "ar": "مسكوف",
+   "alt": [
+    "Masgoof",
+    "Muskuf"
+   ]
+  },
+  {
+   "q": "Which French architect designed the Louvre Abu Dhabi?",
+   "a": "Jean Nouvel",
+   "p": 400
+  },
+  {
+   "q": "On which date is UN Arabic Language Day observed each year?",
+   "a": "18 December",
+   "p": 600
+  },
+  {
+   "q": "Which 8th-century chemist is known in Europe as Geber?",
+   "a": "Jabir ibn Hayyan",
+   "p": 600,
+   "ar": "جابر بن حيان",
+   "alt": [
+    "Jabir bin Hayyan",
+    "Jaber ibn Hayyan"
+   ]
+  }
+ ]
+}

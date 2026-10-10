@@ -1,0 +1,512 @@
+{
+ "id": "soccer",
+ "name": "Soccer",
+ "questions": [
+  {
+   "q": "How many players does each team have on the pitch, including the goalkeeper?",
+   "a": "11",
+   "p": 200
+  },
+  {
+   "q": "What colour card means a player is sent off?",
+   "a": "Red",
+   "p": 200
+  },
+  {
+   "q": "How many minutes are in regular time of a standard match?",
+   "a": "90",
+   "p": 200
+  },
+  {
+   "q": "Which player is nicknamed CR7?",
+   "a": "Cristiano Ronaldo",
+   "p": 200
+  },
+  {
+   "q": "Which country won the 2022 World Cup in Qatar?",
+   "a": "Argentina",
+   "p": 200
+  },
+  {
+   "q": "Which English club plays its home games at Old Trafford?",
+   "a": "Manchester United",
+   "p": 200
+  },
+  {
+   "q": "Which country hosted the 2014 World Cup?",
+   "a": "Brazil",
+   "p": 200
+  },
+  {
+   "q": "Which London club is nicknamed 'The Gunners'?",
+   "a": "Arsenal",
+   "p": 400
+  },
+  {
+   "q": "Which country won the 2010 World Cup in South Africa?",
+   "a": "Spain",
+   "p": 400
+  },
+  {
+   "q": "Which Argentine scored the 'Hand of God' goal in 1986?",
+   "a": "Diego Maradona",
+   "p": 200
+  },
+  {
+   "q": "Which Liverpool stadium has a famous stand called The Kop?",
+   "a": "Anfield",
+   "p": 400
+  },
+  {
+   "q": "Which country's top league is called Serie A?",
+   "a": "Italy",
+   "p": 200
+  },
+  {
+   "q": "Which Brazilian is the only player to win three World Cups?",
+   "a": "Pelé",
+   "p": 200
+  },
+  {
+   "q": "Which Uruguayan scored the winning goal against Brazil in the 1950 World Cup decider?",
+   "a": "Alcides Ghiggia",
+   "p": 600
+  },
+  {
+   "q": "Who scored a hat-trick for England in the 1966 World Cup final?",
+   "a": "Geoff Hurst",
+   "p": 400
+  },
+  {
+   "q": "Which French player was sent off for headbutting Materazzi in the 2006 final?",
+   "a": "Zinedine Zidane",
+   "p": 200
+  },
+  {
+   "q": "Which two countries co-hosted the 2002 World Cup?",
+   "a": "Japan and South Korea",
+   "p": 400
+  },
+  {
+   "q": "Which country won Euro 2004 as a major surprise?",
+   "a": "Greece",
+   "p": 400
+  },
+  {
+   "q": "Which country has won the most men's World Cups?",
+   "a": "Brazil",
+   "p": 200
+  },
+  {
+   "q": "Which Spanish club plays its home games at the Camp Nou?",
+   "a": "Barcelona",
+   "p": 200
+  },
+  {
+   "q": "Which Spanish club plays at the Santiago Bernabeu stadium?",
+   "a": "Real Madrid",
+   "p": 200
+  },
+  {
+   "q": "Which country won the 2018 World Cup in Russia?",
+   "a": "France",
+   "p": 200
+  },
+  {
+   "q": "Which Argentine captain lifted the trophy at the 2022 World Cup?",
+   "a": "Lionel Messi",
+   "p": 200
+  },
+  {
+   "q": "What colour card is shown as a caution or warning?",
+   "a": "Yellow",
+   "p": 200
+  },
+  {
+   "q": "Which organisation runs the World Cup?",
+   "a": "FIFA",
+   "p": 200
+  },
+  {
+   "q": "Which Gulf country hosted the 2022 World Cup?",
+   "a": "Qatar",
+   "p": 200
+  },
+  {
+   "q": "Which Spanish club is nicknamed Los Blancos?",
+   "a": "Real Madrid",
+   "p": 400
+  },
+  {
+   "q": "Which Italian club is nicknamed the Old Lady?",
+   "a": "Juventus",
+   "p": 400
+  },
+  {
+   "q": "Which national team is nicknamed the Three Lions?",
+   "a": "England",
+   "p": 200
+  },
+  {
+   "q": "Which London club plays at Stamford Bridge?",
+   "a": "Chelsea",
+   "p": 200
+  },
+  {
+   "q": "Which country does Neymar play for?",
+   "a": "Brazil",
+   "p": 200
+  },
+  {
+   "q": "Which English club is nicknamed the Red Devils?",
+   "a": "Manchester United",
+   "p": 200
+  },
+  {
+   "q": "Which Bavarian club has won the most German league titles?",
+   "a": "Bayern Munich",
+   "p": 200
+  },
+  {
+   "q": "Which country won the 2014 World Cup?",
+   "a": "Germany",
+   "p": 200
+  },
+  {
+   "q": "What is it called when a player scores three goals in one match?",
+   "a": "A hat-trick",
+   "p": 200
+  },
+  {
+   "q": "Which teenage French forward scored in the 2018 World Cup final?",
+   "a": "Kylian Mbappe",
+   "p": 200
+  },
+  {
+   "q": "Which French forward scored the golden goal that beat Italy in the Euro 2000 final?",
+   "a": "David Trezeguet",
+   "p": 600
+  },
+  {
+   "q": "Which country does Cristiano Ronaldo represent?",
+   "a": "Portugal",
+   "p": 200
+  },
+  {
+   "q": "Which Manchester club is nicknamed the Citizens?",
+   "a": "Manchester City",
+   "p": 200
+  },
+  {
+   "q": "What do you call a goal scored into your own net?",
+   "a": "An own goal",
+   "p": 200
+  },
+  {
+   "q": "Which country's top league is called La Liga?",
+   "a": "Spain",
+   "p": 200
+  },
+  {
+   "q": "Which Dutch club plays at the Johan Cruyff Arena?",
+   "a": "Ajax",
+   "p": 400
+  },
+  {
+   "q": "How many points does a team get for a league win?",
+   "a": "3",
+   "p": 200
+  },
+  {
+   "q": "Which country won the World Cup in 1998 on home soil?",
+   "a": "France",
+   "p": 200
+  },
+  {
+   "q": "What is awarded to the attacking team for a defender's foul inside the penalty area?",
+   "a": "A penalty kick",
+   "p": 200
+  },
+  {
+   "q": "Which national team is nicknamed Les Bleus?",
+   "a": "France",
+   "p": 200
+  },
+  {
+   "q": "Which team won the first European Championship in 1960?",
+   "a": "Soviet Union",
+   "p": 600
+  },
+  {
+   "q": "Which German forward holds the record for most men's World Cup goals, with 16?",
+   "a": "Miroslav Klose",
+   "p": 400
+  },
+  {
+   "q": "Which club won three consecutive European Cups from 1971 to 1973?",
+   "a": "Ajax",
+   "p": 600
+  },
+  {
+   "q": "Which country won Euro 1964 on home soil?",
+   "a": "Spain",
+   "p": 600
+  },
+  {
+   "q": "Which French club won the first UEFA Champions League in 1992-93?",
+   "a": "Marseille",
+   "p": 600
+  },
+  {
+   "q": "Which Russian striker scored five goals in one match at the 1994 World Cup?",
+   "a": "Oleg Salenko",
+   "p": 600
+  },
+  {
+   "q": "Which country won Euro 2016?",
+   "a": "Portugal",
+   "p": 400
+  },
+  {
+   "q": "Which Brazilian captain lifted the Jules Rimet Trophy in 1970?",
+   "a": "Carlos Alberto",
+   "p": 600
+  },
+  {
+   "q": "Which Dutch legend is famous for the 'Cruyff turn'?",
+   "a": "Johan Cruyff",
+   "p": 400
+  },
+  {
+   "q": "Which team did the Netherlands beat in the Euro 1988 final?",
+   "a": "Soviet Union",
+   "p": 600
+  },
+  {
+   "q": "Which Buenos Aires club plays at La Bombonera?",
+   "a": "Boca Juniors",
+   "p": 400
+  },
+  {
+   "q": "Which stadium hosted the 2022 World Cup final?",
+   "a": "Lusail Stadium",
+   "p": 400
+  },
+  {
+   "q": "Which German scored 10 goals at the 1970 World Cup to win the Golden Boot?",
+   "a": "Gerd Muller",
+   "p": 600
+  },
+  {
+   "q": "Who scored the first goal in World Cup history, in 1930?",
+   "a": "Lucien Laurent",
+   "p": 600
+  },
+  {
+   "q": "Which German won the Ballon d'Or in both 1980 and 1981?",
+   "a": "Karl-Heinz Rummenigge",
+   "p": 600
+  },
+  {
+   "q": "Which Argentine striker was top scorer at the 1978 World Cup?",
+   "a": "Mario Kempes",
+   "p": 600
+  },
+  {
+   "q": "Which German defender was nicknamed Der Kaiser?",
+   "a": "Franz Beckenbauer",
+   "p": 400
+  },
+  {
+   "q": "Which Brazilian striker was nicknamed O Fenomeno?",
+   "a": "Ronaldo",
+   "p": 400
+  },
+  {
+   "q": "Which club won the first European Cup in 1956?",
+   "a": "Real Madrid",
+   "p": 400
+  },
+  {
+   "q": "Which English club won the 1999 Champions League final against Bayern Munich?",
+   "a": "Manchester United",
+   "p": 400
+  },
+  {
+   "q": "Which London club went unbeaten in the 2003-04 Premier League?",
+   "a": "Arsenal",
+   "p": 400
+  },
+  {
+   "q": "Which Italian defender captained Italy to the 2006 World Cup and won the Ballon d'Or that year?",
+   "a": "Fabio Cannavaro",
+   "p": 400
+  },
+  {
+   "q": "Which club won the 2015-16 Premier League at 5000-1 odds?",
+   "a": "Leicester City",
+   "p": 400
+  },
+  {
+   "q": "Which country hosted the 1958 World Cup?",
+   "a": "Sweden",
+   "p": 600
+  },
+  {
+   "q": "Which trophy is awarded to the Euro winners?",
+   "a": "Henri Delaunay Trophy",
+   "p": 600
+  },
+  {
+   "q": "Which country won the 2019 AFC Asian Cup, held in the UAE?",
+   "a": "Qatar",
+   "p": 400
+  },
+  {
+   "q": "Which Spanish club beat Al Ain in the 2018 Club World Cup final?",
+   "a": "Real Madrid",
+   "p": 400
+  },
+  {
+   "q": "Which Brazilian club won the first FIFA Club World Championship in 2000?",
+   "a": "Corinthians",
+   "p": 600
+  },
+  {
+   "q": "Which Hungarian forward was top scorer at the 1954 World Cup with 11 goals?",
+   "a": "Sandor Kocsis",
+   "p": 600
+  },
+  {
+   "q": "Which Italian won the Golden Boot at the 1982 World Cup?",
+   "a": "Paolo Rossi",
+   "p": 600
+  },
+  {
+   "q": "Which country won the 1954 'Miracle of Bern' final against Hungary?",
+   "a": "West Germany",
+   "p": 400
+  },
+  {
+   "q": "Which German scored the golden goal to win Euro 1996?",
+   "a": "Oliver Bierhoff",
+   "p": 600
+  },
+  {
+   "q": "Which North American club did Pele play for from 1975 to 1977?",
+   "a": "New York Cosmos",
+   "p": 400
+  },
+  {
+   "q": "Which Frenchman scored nine goals at Euro 1984?",
+   "a": "Michel Platini",
+   "p": 600
+  },
+  {
+   "q": "Which club won the first Premier League season in 1992-93?",
+   "a": "Manchester United",
+   "p": 400
+  },
+  {
+   "q": "Which Czechoslovak player scored the famous chipped penalty in the Euro 1976 final?",
+   "a": "Antonin Panenka",
+   "p": 400
+  },
+  {
+   "q": "Which country won Euro 1992 after replacing Yugoslavia?",
+   "a": "Denmark",
+   "p": 400
+  },
+  {
+   "q": "Which 38-year-old Cameroonian was famed for corner-flag dances at the 1990 World Cup?",
+   "a": "Roger Milla",
+   "p": 400
+  },
+  {
+   "q": "Which Asian team beat Italy at the 1966 World Cup?",
+   "a": "North Korea",
+   "p": 400
+  },
+  {
+   "q": "Which Soviet goalkeeper won the 1963 Ballon d'Or?",
+   "a": "Lev Yashin",
+   "p": 600
+  },
+  {
+   "q": "Who won the first Ballon d'Or in 1956?",
+   "a": "Stanley Matthews",
+   "p": 600
+  },
+  {
+   "q": "Which Hungarian scored four goals in the 1960 European Cup final for Real Madrid?",
+   "a": "Ferenc Puskas",
+   "p": 600
+  },
+  {
+   "q": "Which Portuguese star was top scorer at the 1966 World Cup with nine goals?",
+   "a": "Eusebio",
+   "p": 600
+  },
+  {
+   "q": "Which goalkeeper captained Italy to the 1982 World Cup?",
+   "a": "Dino Zoff",
+   "p": 600
+  },
+  {
+   "q": "Which country lost World Cup finals in 1974, 1978 and 2010?",
+   "a": "Netherlands",
+   "p": 400
+  },
+  {
+   "q": "Which Scottish club won the 1967 European Cup?",
+   "a": "Celtic",
+   "p": 600
+  },
+  {
+   "q": "Which England goalkeeper was beaten by the Hand of God goal?",
+   "a": "Peter Shilton",
+   "p": 600
+  },
+  {
+   "q": "Who managed England to the 1966 World Cup win?",
+   "a": "Alf Ramsey",
+   "p": 400
+  },
+  {
+   "q": "Which French striker scored 13 goals at the 1958 World Cup?",
+   "a": "Just Fontaine",
+   "p": 600
+  },
+  {
+   "q": "Which Croatian won the Golden Ball at the 2018 World Cup?",
+   "a": "Luka Modric",
+   "p": 400
+  },
+  {
+   "q": "Which Saudi player scored a famous solo goal against Belgium at the 1994 World Cup?",
+   "a": "Saeed Al-Owairan",
+   "p": 600
+  },
+  {
+   "q": "Which Thai club did Al Ain beat in the 2003 AFC Champions League final?",
+   "a": "BEC Tero Sasana",
+   "p": 600
+  },
+  {
+   "q": "Who scored this goal?",
+   "a": "Zinedine Zidane",
+   "p": 400,
+   "yt": "S1Q4KhJUJ3g",
+   "start": 0,
+   "end": 25
+  },
+  {
+   "q": "Who scored this goal in the 2005 Champions League final?",
+   "a": "Steven Gerrard",
+   "p": 400,
+   "yt": "-zgjQ2nep5A",
+   "start": 0,
+   "end": 25
+  }
+ ]
+}

@@ -1,0 +1,681 @@
+{
+ "id": "mario",
+ "name": "Super Mario",
+ "questions": [
+  {
+   "q": "Who is Mario's green-clad brother?",
+   "a": "Luigi",
+   "p": 200
+  },
+  {
+   "q": "Which princess does Mario usually rescue?",
+   "a": "Princess Peach",
+   "p": 200,
+   "alt": [
+    "Peach"
+   ]
+  },
+  {
+   "q": "Which fire-breathing, spiked-shell king is Mario's arch-enemy?",
+   "a": "Bowser",
+   "p": 200,
+   "alt": [
+    "King Koopa"
+   ]
+  },
+  {
+   "q": "Which power-up makes Mario grow bigger?",
+   "a": "Super Mushroom",
+   "p": 200,
+   "alt": [
+    "Mushroom"
+   ]
+  },
+  {
+   "q": "Which power-up lets Mario throw fireballs?",
+   "a": "Fire Flower",
+   "p": 200
+  },
+  {
+   "q": "Which power-up makes Mario temporarily invincible?",
+   "a": "Super Star",
+   "p": 200,
+   "alt": [
+    "Starman",
+    "Star"
+   ]
+  },
+  {
+   "q": "Which green dinosaur does Mario ride?",
+   "a": "Yoshi",
+   "p": 200
+  },
+  {
+   "q": "Which mushroom-headed character is Peach's loyal attendant?",
+   "a": "Toad",
+   "p": 200
+  },
+  {
+   "q": "Which yellow-capped, greedy rival of Mario wears a cap with a W?",
+   "a": "Wario",
+   "p": 200
+  },
+  {
+   "q": "In which 1981 arcade game did Mario first appear?",
+   "a": "Donkey Kong",
+   "p": 200
+  },
+  {
+   "q": "Which racing series features items like shells and bananas?",
+   "a": "Mario Kart",
+   "p": 200
+  },
+  {
+   "q": "Which series of board-style minigame collections features Mario and friends?",
+   "a": "Mario Party",
+   "p": 200
+  },
+  {
+   "q": "Which Nintendo designer created Mario?",
+   "a": "Shigeru Miyamoto",
+   "p": 200,
+   "alt": [
+    "Miyamoto"
+   ]
+  },
+  {
+   "q": "Which actor voiced Mario in the 2023 animated movie?",
+   "a": "Chris Pratt",
+   "p": 200
+  },
+  {
+   "q": "What is the title of the 2023 animated Mario film?",
+   "a": "The Super Mario Bros. Movie",
+   "p": 200,
+   "alt": [
+    "Super Mario Bros. Movie"
+   ]
+  },
+  {
+   "q": "Which actor voiced Bowser in the 2023 film?",
+   "a": "Jack Black",
+   "p": 200
+  },
+  {
+   "q": "What is Mario's job?",
+   "a": "Plumber",
+   "p": 200
+  },
+  {
+   "q": "What is the name of Mario's home kingdom?",
+   "a": "Mushroom Kingdom",
+   "p": 200,
+   "alt": [
+    "The Mushroom Kingdom"
+   ]
+  },
+  {
+   "q": "What yellow items does Mario collect 100 of for an extra life?",
+   "a": "Coins",
+   "p": 200,
+   "alt": [
+    "Coin"
+   ]
+  },
+  {
+   "q": "What do Mario and Luigi travel through in green tubes?",
+   "a": "Warp Pipes",
+   "p": 200,
+   "alt": [
+    "Pipes",
+    "Warp pipes",
+    "Pipe"
+   ]
+  },
+  {
+   "q": "Which brown mushroom-like enemies does Mario usually stomp?",
+   "a": "Goombas",
+   "p": 200,
+   "alt": [
+    "Goomba"
+   ]
+  },
+  {
+   "q": "Which walking turtle enemies can be kicked as shells?",
+   "a": "Koopa Troopas",
+   "p": 200,
+   "alt": [
+    "Koopas",
+    "Koopa Troopa",
+    "Koopa"
+   ]
+  },
+  {
+   "q": "Which yellow curved item makes karts spin out in Mario Kart?",
+   "a": "Banana",
+   "p": 200,
+   "alt": [
+    "Banana peel"
+   ]
+  },
+  {
+   "q": "What is the colourful final track in many Mario Kart games?",
+   "a": "Rainbow Road",
+   "p": 200
+  },
+  {
+   "q": "What colour is Luigi's cap?",
+   "a": "Green",
+   "p": 200
+  },
+  {
+   "q": "What letter is on Mario's cap?",
+   "a": "M",
+   "p": 200
+  },
+  {
+   "q": "Which plant pops out of pipes to bite Mario?",
+   "a": "Piranha Plant",
+   "p": 200,
+   "alt": [
+    "Piranha Plants"
+   ]
+  },
+  {
+   "q": "In which spin-off does Luigi vacuum up ghosts?",
+   "a": "Luigi's Mansion",
+   "p": 200
+  },
+  {
+   "q": "Which green mushroom gives Mario an extra life?",
+   "a": "1-Up Mushroom",
+   "p": 200,
+   "alt": [
+    "1-Up",
+    "Green Mushroom",
+    "One-Up Mushroom"
+   ]
+  },
+  {
+   "q": "Which shy ghosts hide when you look at them?",
+   "a": "Boo",
+   "p": 200,
+   "alt": [
+    "Boos"
+   ]
+  },
+  {
+   "q": "Which Nintendo console hosted the 1985 Super Mario Bros.?",
+   "a": "NES",
+   "p": 200,
+   "alt": [
+    "Nintendo Entertainment System",
+    "Famicom"
+   ]
+  },
+  {
+   "q": "What yellow blocks with a symbol does Mario hit from below?",
+   "a": "Question Blocks",
+   "p": 200,
+   "alt": [
+    "Question Block",
+    "? Block",
+    "Question mark block"
+   ]
+  },
+  {
+   "q": "Which actress voiced Princess Peach in the 2023 film?",
+   "a": "Anya Taylor-Joy",
+   "p": 200
+  },
+  {
+   "q": "What does Mario jump on at the end of a level to finish it?",
+   "a": "Flagpole",
+   "p": 200,
+   "alt": [
+    "Flag pole",
+    "Goal pole"
+   ]
+  },
+  {
+   "q": "Which Mario Kart item homes in on the kart ahead?",
+   "a": "Red Shell",
+   "p": 200,
+   "alt": [
+    "Red shell"
+   ]
+  },
+  {
+   "q": "In which year was Super Mario Bros. released in Japan?",
+   "a": "1985",
+   "p": 400
+  },
+  {
+   "q": "Which orange-haired princess is a regular in Mario Kart and Mario Party?",
+   "a": "Princess Daisy",
+   "p": 400,
+   "alt": [
+    "Daisy"
+   ]
+  },
+  {
+   "q": "Who is Bowser's son?",
+   "a": "Bowser Jr.",
+   "p": 400,
+   "alt": [
+    "Bowser Junior"
+   ]
+  },
+  {
+   "q": "Which Super Mario Bros. 3 suit has a tail and lets Mario turn to stone?",
+   "a": "Tanooki Suit",
+   "p": 400,
+   "alt": [
+    "Tanooki",
+    "Raccoon Mario",
+    "Tanooki suit"
+   ]
+  },
+  {
+   "q": "What is the name of Mario's living hat in Super Mario Odyssey?",
+   "a": "Cappy",
+   "p": 400
+  },
+  {
+   "q": "Which console launched alongside Super Mario 64 in 1996?",
+   "a": "Nintendo 64",
+   "p": 400,
+   "alt": [
+    "N64"
+   ]
+  },
+  {
+   "q": "Which console hosts Mario Kart 8 Deluxe?",
+   "a": "Nintendo Switch",
+   "p": 400,
+   "alt": [
+    "Switch"
+   ]
+  },
+  {
+   "q": "Which Wii Mario game has you hopping between planets?",
+   "a": "Super Mario Galaxy",
+   "p": 400,
+   "alt": [
+    "Galaxy"
+   ]
+  },
+  {
+   "q": "Which game lets players design and share their own Mario levels?",
+   "a": "Super Mario Maker",
+   "p": 400,
+   "alt": [
+    "Mario Maker"
+   ]
+  },
+  {
+   "q": "Which cloud-riding enemy throws Spiny eggs?",
+   "a": "Lakitu",
+   "p": 400
+  },
+  {
+   "q": "Which angry stone blocks crash down in castles?",
+   "a": "Thwomps",
+   "p": 400,
+   "alt": [
+    "Thwomp"
+   ]
+  },
+  {
+   "q": "Which pink-hatted character is Toad's female companion in Mario Kart?",
+   "a": "Toadette",
+   "p": 400
+  },
+  {
+   "q": "Which cosmic caretaker of the Comet Observatory is a playable racer?",
+   "a": "Rosalina",
+   "p": 400
+  },
+  {
+   "q": "Which lanky purple-capped rival of Luigi appears in Mario Kart?",
+   "a": "Waluigi",
+   "p": 400
+  },
+  {
+   "q": "Which Mario Kart item targets the player in first place?",
+   "a": "Blue Shell",
+   "p": 400,
+   "alt": [
+    "Spiny Shell",
+    "Blue shell"
+   ]
+  },
+  {
+   "q": "Which black cannon-fired enemies have angry faces?",
+   "a": "Bullet Bill",
+   "p": 400,
+   "alt": [
+    "Bullet Bills"
+   ]
+  },
+  {
+   "q": "Which walking bomb enemies have wind-up keys?",
+   "a": "Bob-ombs",
+   "p": 400,
+   "alt": [
+    "Bob-omb",
+    "Bomb-omb"
+   ]
+  },
+  {
+   "q": "Which actor voiced Luigi in the 2023 animated film?",
+   "a": "Charlie Day",
+   "p": 400
+  },
+  {
+   "q": "By what name was Peach known in older Western releases?",
+   "a": "Princess Toadstool",
+   "p": 400,
+   "alt": [
+    "Toadstool"
+   ]
+  },
+  {
+   "q": "Which composer wrote the Super Mario Bros. theme?",
+   "a": "Koji Kondo",
+   "p": 400,
+   "alt": [
+    "Kondo"
+   ]
+  },
+  {
+   "q": "In which game did Yoshi make his debut?",
+   "a": "Super Mario World",
+   "p": 400
+  },
+  {
+   "q": "Which console hosted the very first Mario Kart in 1992?",
+   "a": "Super Nintendo",
+   "p": 400,
+   "alt": [
+    "SNES",
+    "Super NES",
+    "Super Famicom"
+   ]
+  },
+  {
+   "q": "Which animation studio, known for Minions, made the 2023 Mario film?",
+   "a": "Illumination",
+   "p": 400
+  },
+  {
+   "q": "Which actor played Mario in the 1993 live-action film?",
+   "a": "Bob Hoskins",
+   "p": 400
+  },
+  {
+   "q": "What is the water-spraying backpack in Super Mario Sunshine?",
+   "a": "F.L.U.D.D.",
+   "p": 400,
+   "alt": [
+    "FLUDD",
+    "Fludd"
+   ]
+  },
+  {
+   "q": "Which Sega mascot teams up with Mario in Olympic Games spin-offs?",
+   "a": "Sonic",
+   "p": 400,
+   "alt": [
+    "Sonic the Hedgehog"
+   ]
+  },
+  {
+   "q": "Which absent-minded scientist invented the Poltergust in the Luigi's Mansion games?",
+   "a": "Professor E. Gadd",
+   "p": 400,
+   "alt": [
+    "E. Gadd",
+    "Professor Elvin Gadd"
+   ]
+  },
+  {
+   "q": "Who does Yoshi carry on his back in Yoshi's Island?",
+   "a": "Baby Mario",
+   "p": 400
+  },
+  {
+   "q": "Which object in the 2023 side-scroller Super Mario Bros. Wonder transforms levels?",
+   "a": "Wonder Flower",
+   "p": 400
+  },
+  {
+   "q": "How many Power Stars can be collected in Super Mario 64?",
+   "a": "120",
+   "p": 400
+  },
+  {
+   "q": "Which city is the main urban hub in Super Mario Odyssey?",
+   "a": "New Donk City",
+   "p": 400
+  },
+  {
+   "q": "What was Mario's original name in Donkey Kong?",
+   "a": "Jumpman",
+   "p": 400
+  },
+  {
+   "q": "Which actor voiced Mario in the games for decades?",
+   "a": "Charles Martinet",
+   "p": 400,
+   "alt": [
+    "Martinet"
+   ]
+  },
+  {
+   "q": "What are Bowser's seven minions introduced in Super Mario Bros. 3 called?",
+   "a": "Koopalings",
+   "p": 400,
+   "alt": [
+    "The Koopalings"
+   ]
+  },
+  {
+   "q": "Which chained, barking ball enemy lunges at Mario?",
+   "a": "Chain Chomp",
+   "p": 400,
+   "alt": [
+    "Chain Chomps"
+   ]
+  },
+  {
+   "q": "What was Mario's job in the original Donkey Kong?",
+   "a": "Carpenter",
+   "p": 600
+  },
+  {
+   "q": "What is the name of the damsel in distress in the original Donkey Kong?",
+   "a": "Pauline",
+   "p": 600
+  },
+  {
+   "q": "Who composed the score for The Super Mario Bros. Movie?",
+   "a": "Brian Tyler",
+   "p": 600
+  },
+  {
+   "q": "Which two directors made The Super Mario Bros. Movie?",
+   "a": "Aaron Horvath and Michael Jelenic",
+   "p": 600,
+   "alt": [
+    "Horvath and Jelenic"
+   ]
+  },
+  {
+   "q": "Which company co-developed Super Mario RPG with Nintendo in 1996?",
+   "a": "Square",
+   "p": 600,
+   "alt": [
+    "Squaresoft",
+    "SquareSoft"
+   ]
+  },
+  {
+   "q": "Which blue-robed Magikoopa wizard serves Bowser?",
+   "a": "Kamek",
+   "p": 600
+  },
+  {
+   "q": "Which ghost king rules the Boos?",
+   "a": "King Boo",
+   "p": 600
+  },
+  {
+   "q": "In which game did Wario first appear?",
+   "a": "Super Mario Land 2: 6 Golden Coins",
+   "p": 600,
+   "alt": [
+    "Super Mario Land 2"
+   ]
+  },
+  {
+   "q": "In which year was Super Mario Bros. 3 released in Japan?",
+   "a": "1988",
+   "p": 600
+  },
+  {
+   "q": "Which tropical island is the setting of Super Mario Sunshine?",
+   "a": "Isle Delfino",
+   "p": 600,
+   "alt": [
+    "Delfino"
+   ]
+  },
+  {
+   "q": "In which 1983 game did Luigi make his first appearance?",
+   "a": "Mario Bros.",
+   "p": 600,
+   "alt": [
+    "Mario Bros"
+   ]
+  },
+  {
+   "q": "Which company developed the first eight Mario Party games?",
+   "a": "Hudson Soft",
+   "p": 600
+  },
+  {
+   "q": "Which studio developed Luigi's Mansion 3?",
+   "a": "Next Level Games",
+   "p": 600
+  },
+  {
+   "q": "In which year was Shigeru Miyamoto born?",
+   "a": "1952",
+   "p": 600
+  },
+  {
+   "q": "What is Rosalina's home base in Super Mario Galaxy called?",
+   "a": "Comet Observatory",
+   "p": 600,
+   "alt": [
+    "The Comet Observatory"
+   ]
+  },
+  {
+   "q": "Which power-up in Super Mario Bros. Wonder gives Mario a trunk?",
+   "a": "Elephant",
+   "p": 600,
+   "alt": [
+    "Elephant Fruit",
+    "Elephant Mario"
+   ]
+  },
+  {
+   "q": "Who is the prince of the Flower Kingdom in Super Mario Bros. Wonder?",
+   "a": "Prince Florian",
+   "p": 600,
+   "alt": [
+    "Florian"
+   ]
+  },
+  {
+   "q": "Which Mario Kart 8 mechanic lets karts drive on walls and ceilings?",
+   "a": "Anti-gravity",
+   "p": 600,
+   "alt": [
+    "Anti-Gravity",
+    "Antigravity"
+   ]
+  },
+  {
+   "q": "Which Japanese game was reskinned into the Western Super Mario Bros. 2?",
+   "a": "Doki Doki Panic",
+   "p": 600,
+   "alt": [
+    "Yume Kojo: Doki Doki Panic"
+   ]
+  },
+  {
+   "q": "In which year was Super Mario World released in Japan?",
+   "a": "1990",
+   "p": 600
+  },
+  {
+   "q": "In which year was Super Mario Sunshine released?",
+   "a": "2002",
+   "p": 600
+  },
+  {
+   "q": "Which actor played Luigi in the 1993 live-action film?",
+   "a": "John Leguizamo",
+   "p": 600,
+   "alt": [
+    "Leguizamo"
+   ]
+  },
+  {
+   "q": "Which villain with bulging eyes appears in Mario & Luigi: Superstar Saga?",
+   "a": "Fawful",
+   "p": 600
+  },
+  {
+   "q": "Which land is the setting of the Game Boy's Super Mario Land?",
+   "a": "Sarasaland",
+   "p": 600
+  },
+  {
+   "q": "Which studio develops the Paper Mario series?",
+   "a": "Intelligent Systems",
+   "p": 600
+  },
+  {
+   "q": "Which extra mode was bundled with Super Mario 3D World on Switch?",
+   "a": "Bowser's Fury",
+   "p": 600
+  },
+  {
+   "q": "What are the flower-folk townspeople in Super Mario Bros. Wonder called?",
+   "a": "Poplins",
+   "p": 600,
+   "alt": [
+    "Poplin"
+   ]
+  },
+  {
+   "q": "In which year was Super Mario Galaxy 2 released?",
+   "a": "2010",
+   "p": 600
+  },
+  {
+   "q": "What is the name of Cappy's sister in Super Mario Odyssey?",
+   "a": "Tiara",
+   "p": 600
+  },
+  {
+   "q": "Which impostor does Mario clear his name against in Super Mario Sunshine?",
+   "a": "Shadow Mario",
+   "p": 600
+  }
+ ]
+}

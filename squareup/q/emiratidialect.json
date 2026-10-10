@@ -1,0 +1,1007 @@
+{
+ "id": "emiratidialect",
+ "name": "Emirati Dialect",
+ "questions": [
+  {
+   "q": "What is the Arabic word for 'thank you'?",
+   "a": "Shukran",
+   "p": 200,
+   "ar": "شكراً",
+   "alt": [
+    "Shokran",
+    "Mashkoor"
+   ]
+  },
+  {
+   "q": "What two-word Arabic phrase means 'welcome', literally 'family and ease'?",
+   "a": "Ahlan wa sahlan",
+   "p": 200,
+   "ar": "أهلاً وسهلاً",
+   "alt": [
+    "Ahlan",
+    "Ahlan wasahlan",
+    "Hala"
+   ]
+  },
+  {
+   "q": "What Arabic phrase, literally 'with safety', is a common way to say goodbye?",
+   "a": "Ma'a salama",
+   "p": 200,
+   "ar": "مع السلامة",
+   "alt": [
+    "Maa salama",
+    "Ma salama",
+    "Maasalama"
+   ]
+  },
+  {
+   "q": "What is 'good morning' in Arabic?",
+   "a": "Sabah al khair",
+   "p": 200,
+   "ar": "صباح الخير",
+   "alt": [
+    "Sabah el kheir",
+    "Sabah alkhair",
+    "Sabah al kheir"
+   ]
+  },
+  {
+   "q": "Which phrase meaning 'God willing' do Emiratis say when talking about future plans?",
+   "a": "Inshallah",
+   "p": 200,
+   "ar": "إن شاء الله",
+   "alt": [
+    "Insha'Allah",
+    "Inshaallah",
+    "In sha Allah"
+   ]
+  },
+  {
+   "q": "Which phrase, meaning 'what God has willed', expresses admiration and is said to protect against the evil eye?",
+   "a": "Mashallah",
+   "p": 200,
+   "ar": "ما شاء الله",
+   "alt": [
+    "Masha'Allah",
+    "Mashaallah",
+    "Masha Allah"
+   ]
+  },
+  {
+   "q": "Which phrase meaning 'praise be to God' is a common answer to 'how are you?'",
+   "a": "Alhamdulillah",
+   "p": 200,
+   "ar": "الحمد لله",
+   "alt": [
+    "Hamdulillah",
+    "Al hamdu lillah",
+    "Hamdullah"
+   ]
+  },
+  {
+   "q": "Which Arabic word means 'I swear by God' and is used for emphasis in everyday speech?",
+   "a": "Wallah",
+   "p": 200,
+   "ar": "والله",
+   "alt": [
+    "Wallahi",
+    "Walla"
+   ]
+  },
+  {
+   "q": "What is the feminine form of 'habibi' (my dear)?",
+   "a": "Habibti",
+   "p": 200,
+   "ar": "حبيبتي",
+   "alt": [
+    "Habibty"
+   ]
+  },
+  {
+   "q": "Which Gulf Arabic word, often said twice, means 'slowly' or 'a little'?",
+   "a": "Shway",
+   "p": 200,
+   "ar": "شوي",
+   "alt": [
+    "Shwayya",
+    "Shuwai",
+    "Shwai"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for a traditional market?",
+   "a": "Souq",
+   "p": 200,
+   "ar": "سوق",
+   "alt": [
+    "Souk",
+    "Suq",
+    "Sooq"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for a valley or dry riverbed that floods after rain?",
+   "a": "Wadi",
+   "p": 200,
+   "ar": "وادي",
+   "alt": [
+    "Wady"
+   ]
+  },
+  {
+   "q": "What is the standard Arabic word for 'car'?",
+   "a": "Sayyara",
+   "p": 200,
+   "ar": "سيارة",
+   "alt": [
+    "Sayara",
+    "Motar",
+    "Sayyarah"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for 'girl' or 'daughter'?",
+   "a": "Bint",
+   "p": 200,
+   "ar": "بنت"
+  },
+  {
+   "q": "What is the Arabic word for tea, shared with Hindi and Persian?",
+   "a": "Chai",
+   "p": 200,
+   "ar": "شاي",
+   "alt": [
+    "Shai",
+    "Shay",
+    "Chay"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for dates, the fruit of the palm?",
+   "a": "Tamr",
+   "p": 200,
+   "ar": "تمر",
+   "alt": [
+    "Tamar",
+    "Tamer"
+   ]
+  },
+  {
+   "q": "What informal Arabic word means 'yes'?",
+   "a": "Aywa",
+   "p": 200,
+   "ar": "أيوه",
+   "alt": [
+    "Aiwa",
+    "Heh",
+    "Eh"
+   ]
+  },
+  {
+   "q": "What word do Emirati children commonly use to address their dad?",
+   "a": "Baba",
+   "p": 200,
+   "ar": "بابا",
+   "alt": [
+    "Yaba"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for 'grandfather'?",
+   "a": "Jid",
+   "p": 200,
+   "ar": "جد",
+   "alt": [
+    "Jidd",
+    "Jaddi"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for 'grandmother'?",
+   "a": "Jadda",
+   "p": 200,
+   "ar": "جدة",
+   "alt": [
+    "Jiddah",
+    "Jidda",
+    "Jaddah"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for a father's brother?",
+   "a": "Amm",
+   "p": 200,
+   "ar": "عم",
+   "alt": [
+    "Am",
+    "Ammi"
+   ]
+  },
+  {
+   "q": "What does 'bin' mean in an Arabic name such as 'Zayed bin Sultan'?",
+   "a": "Son of",
+   "p": 200,
+   "ar": "ابن",
+   "alt": [
+    "Ibn",
+    "Son"
+   ]
+  },
+  {
+   "q": "What does 'Dhabi' mean in the name 'Abu Dhabi'?",
+   "a": "Gazelle",
+   "p": 200,
+   "ar": "ظبي",
+   "alt": [
+    "Dhaby",
+    "Zabi"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for 'mountain'?",
+   "a": "Jabal",
+   "p": 200,
+   "ar": "جبل",
+   "alt": [
+    "Jebel"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for 'sea'?",
+   "a": "Bahr",
+   "p": 200,
+   "ar": "بحر",
+   "alt": [
+    "Bahar"
+   ]
+  },
+  {
+   "q": "What Arabic word for 'desert' gives Africa's largest hot desert its name?",
+   "a": "Sahra",
+   "p": 200,
+   "ar": "صحراء",
+   "alt": [
+    "Sahara",
+    "Sahraa"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for 'camel'?",
+   "a": "Jamal",
+   "p": 200,
+   "ar": "جمل",
+   "alt": [
+    "Jimal"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for 'moon'?",
+   "a": "Qamar",
+   "p": 200,
+   "ar": "قمر",
+   "alt": [
+    "Gamar",
+    "Kamar"
+   ]
+  },
+  {
+   "q": "Which Arabic word, meaning 'perfect', is a very common reply to 'how are you?'",
+   "a": "Tamam",
+   "p": 200,
+   "ar": "تمام",
+   "alt": [
+    "Tamaam",
+    "Tmam"
+   ]
+  },
+  {
+   "q": "How do you say 'no problem' in Arabic?",
+   "a": "Ma fi mushkila",
+   "p": 200,
+   "ar": "ما في مشكلة",
+   "alt": [
+    "Mafi mushkila",
+    "Mafi mushkil",
+    "Ma fi mushkil"
+   ]
+  },
+  {
+   "q": "Which filler word, literally 'it means', appears constantly in spoken Arabic?",
+   "a": "Yaani",
+   "p": 200,
+   "ar": "يعني",
+   "alt": [
+    "Ya'ni",
+    "Yani",
+    "Yaeni"
+   ]
+  },
+  {
+   "q": "Which Gulf Arabic word means 'of course'?",
+   "a": "Akeed",
+   "p": 200,
+   "ar": "أكيد",
+   "alt": [
+    "Akid",
+    "Aakid"
+   ]
+  },
+  {
+   "q": "Which strong, sweet, cardamom-spiced milk tea is a UAE roadside favourite?",
+   "a": "Karak",
+   "p": 200,
+   "ar": "كرك",
+   "alt": [
+    "Karak chai",
+    "Chai karak"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for 'palm tree'?",
+   "a": "Nakhla",
+   "p": 200,
+   "ar": "نخلة",
+   "alt": [
+    "Nakhlah",
+    "Nakhl"
+   ]
+  },
+  {
+   "q": "What is the Gulf Arabic name for the grouper, a popular UAE seafood fish?",
+   "a": "Hamour",
+   "p": 200,
+   "ar": "هامور",
+   "alt": [
+    "Hammour",
+    "Hamoor"
+   ]
+  },
+  {
+   "q": "Besides 'shukran', which word, literally 'thanked', do Emiratis use to thank a man?",
+   "a": "Mashkoor",
+   "p": 400,
+   "ar": "مشكور",
+   "alt": [
+    "Mashkour"
+   ]
+  },
+  {
+   "q": "What is the traditional reply to 'good morning' in Arabic?",
+   "a": "Sabah al noor",
+   "p": 400,
+   "ar": "صباح النور",
+   "alt": [
+    "Sabah el nour",
+    "Sabah an noor"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for a mother's sister?",
+   "a": "Khala",
+   "p": 400,
+   "ar": "خالة",
+   "alt": [
+    "Khalah",
+    "Khaala"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for a mother's brother?",
+   "a": "Khal",
+   "p": 400,
+   "ar": "خال",
+   "alt": [
+    "Khaal"
+   ]
+  },
+  {
+   "q": "Which Gulf Arabic word means 'children' or 'kids'?",
+   "a": "Ayal",
+   "p": 400,
+   "ar": "عيال",
+   "alt": [
+    "Eyal",
+    "Iyal",
+    "Ayaal"
+   ]
+  },
+  {
+   "q": "Which Emirati word means 'neighbourhood', replacing the standard Arabic 'hayy'?",
+   "a": "Fareej",
+   "p": 400,
+   "ar": "فريج",
+   "alt": [
+    "Freej",
+    "Fereej"
+   ]
+  },
+  {
+   "q": "Which Emirati word means a narrow alley between old houses?",
+   "a": "Sikka",
+   "p": 400,
+   "ar": "سكة",
+   "alt": [
+    "Sikkah",
+    "Sika"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for the cloth or spread on which a meal is laid out?",
+   "a": "Sufra",
+   "p": 400,
+   "ar": "سفرة",
+   "alt": [
+    "Sofra",
+    "Sufrah"
+   ]
+  },
+  {
+   "q": "Which word do many Emiratis use for water, instead of the standard Arabic 'ma'?",
+   "a": "Moya",
+   "p": 400,
+   "ar": "مويه",
+   "alt": [
+    "Moyah",
+    "Maay",
+    "Mai"
+   ]
+  },
+  {
+   "q": "Which Emirati word means 'now', replacing the standard Arabic 'al-aan'?",
+   "a": "Alheen",
+   "p": 400,
+   "ar": "الحين",
+   "alt": [
+    "Al heen",
+    "Alhin",
+    "Elheen"
+   ]
+  },
+  {
+   "q": "Which Emirati question word means 'why'?",
+   "a": "Laish",
+   "p": 400,
+   "ar": "ليش",
+   "alt": [
+    "Laysh",
+    "Lesh"
+   ]
+  },
+  {
+   "q": "Which Emirati question word means 'where'?",
+   "a": "Wain",
+   "p": 400,
+   "ar": "وين",
+   "alt": [
+    "Wayn",
+    "Wein"
+   ]
+  },
+  {
+   "q": "Which Emirati expression is a casual 'hey, man' among friends?",
+   "a": "Ya reyal",
+   "p": 400,
+   "ar": "يا ريال",
+   "alt": [
+    "Ya rayal",
+    "Ya reyaal"
+   ]
+  },
+  {
+   "q": "Which Emirati word describes someone or something elegantly stylish, often said at Eid and weddings?",
+   "a": "Kashkha",
+   "p": 400,
+   "ar": "كشخة",
+   "alt": [
+    "Kashkhah"
+   ]
+  },
+  {
+   "q": "Which Emirati verb means 'send', as in 'send me the file'?",
+   "a": "Tarrish",
+   "p": 400,
+   "ar": "طرش",
+   "alt": [
+    "Tarish",
+    "Tarsh"
+   ]
+  },
+  {
+   "q": "What is the Emirati pronunciation of 'chicken', where the standard Arabic 'j' sounds become 'y'?",
+   "a": "Diyay",
+   "p": 400,
+   "ar": "دياي",
+   "alt": [
+    "Dyay",
+    "Diyaay"
+   ]
+  },
+  {
+   "q": "Which Arabic letter, written ق, is often pronounced as a hard 'g' in Emirati speech?",
+   "a": "Qaf",
+   "p": 400,
+   "ar": "قاف",
+   "alt": [
+    "Qaaf",
+    "Gaf"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for 'fish', which Emiratis often pronounce with a 'ch' ending?",
+   "a": "Samak",
+   "p": 400,
+   "ar": "سمك",
+   "alt": [
+    "Samach"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for 'dog', pronounced 'chalb' in Emirati speech?",
+   "a": "Kalb",
+   "p": 400,
+   "ar": "كلب",
+   "alt": [
+    "Chalb"
+   ]
+  },
+  {
+   "q": "Which English-derived word do many Emiratis use for 'driver'?",
+   "a": "Dreewal",
+   "p": 400,
+   "ar": "دريول",
+   "alt": [
+    "Dreywal",
+    "Dreiwal"
+   ]
+  },
+  {
+   "q": "Which Turkish-origin word do Emiratis use for a bag or suitcase?",
+   "a": "Shanta",
+   "p": 400,
+   "ar": "شنطة",
+   "alt": [
+    "Shantah"
+   ]
+  },
+  {
+   "q": "Which Emirati word describes rushing to help someone in need, a value of tribal solidarity?",
+   "a": "Fazaa",
+   "p": 400,
+   "ar": "فزعة",
+   "alt": [
+    "Faz'a",
+    "Fazah"
+   ]
+  },
+  {
+   "q": "Which Arabic word means 'outside'?",
+   "a": "Barra",
+   "p": 400,
+   "ar": "برّا",
+   "alt": [
+    "Bara",
+    "Khari"
+   ]
+  },
+  {
+   "q": "What is the wooden storage chest with a hinged lid, found in traditional Emirati homes, called?",
+   "a": "Mandoos",
+   "p": 400,
+   "ar": "مندوس",
+   "alt": [
+    "Mandous",
+    "Mandus"
+   ]
+  },
+  {
+   "q": "What is the woven palm-leaf mat used for sitting on floors in old Emirati homes called?",
+   "a": "Haseer",
+   "p": 400,
+   "ar": "حصير",
+   "alt": [
+    "Hasir",
+    "Hassir"
+   ]
+  },
+  {
+   "q": "What is the white crocheted skullcap worn under the ghutra called?",
+   "a": "Taqiyah",
+   "p": 400,
+   "ar": "طاقية",
+   "alt": [
+    "Tagiyah",
+    "Taqiya",
+    "Gahfiya"
+   ]
+  },
+  {
+   "q": "What is the term for soft, ripe fresh dates, as opposed to dried dates?",
+   "a": "Rutab",
+   "p": 400,
+   "ar": "رطب",
+   "alt": [
+    "Ratab",
+    "Rotab"
+   ]
+  },
+  {
+   "q": "Which tree, known for its resilience in the desert, is the national tree of the UAE?",
+   "a": "Ghaf",
+   "p": 400,
+   "ar": "غاف",
+   "alt": [
+    "Ghaf tree"
+   ]
+  },
+  {
+   "q": "What is the standard Arabic word for the long robe known in the UAE as the kandura?",
+   "a": "Thawb",
+   "p": 400,
+   "ar": "ثوب",
+   "alt": [
+    "Thobe",
+    "Thob",
+    "Dishdasha"
+   ]
+  },
+  {
+   "q": "What is the Gulf Arabic word for shrimp?",
+   "a": "Rubyan",
+   "p": 400,
+   "ar": "ربيان",
+   "alt": [
+    "Robyan",
+    "Rabyan"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for 'tomorrow'?",
+   "a": "Bukra",
+   "p": 400,
+   "ar": "بكرة",
+   "alt": [
+    "Bokra",
+    "Bachir",
+    "Bukrah"
+   ]
+  },
+  {
+   "q": "Which phrase, meaning 'may God keep you safe', is a polite reply to thanks?",
+   "a": "Allah yisalmak",
+   "p": 400,
+   "ar": "الله يسلمك",
+   "alt": [
+    "Allah ysalmak",
+    "Allah yeslamak"
+   ]
+  },
+  {
+   "q": "Which phrase, literally 'may God give you wellness', is said to someone who has worked or helped?",
+   "a": "Yaatik al afiya",
+   "p": 400,
+   "ar": "يعطيك العافية",
+   "alt": [
+    "Ya'tik al afiya",
+    "Yatik el afia",
+    "Allah yaatik al afiya"
+   ]
+  },
+  {
+   "q": "What word, literally 'two healths', do hosts say to guests at a meal?",
+   "a": "Sahtain",
+   "p": 400,
+   "ar": "صحتين",
+   "alt": [
+    "Sahtein",
+    "Sahten"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for 'tribe', central to Emirati heritage and family names?",
+   "a": "Qabila",
+   "p": 400,
+   "ar": "قبيلة",
+   "alt": [
+    "Qabeela",
+    "Qabilah"
+   ]
+  },
+  {
+   "q": "Which short word means 'not' in the dialect of the Northern Emirates?",
+   "a": "Mub",
+   "p": 600,
+   "ar": "مب",
+   "alt": [
+    "Moub"
+   ]
+  },
+  {
+   "q": "How do Emiratis ask 'What's new?', swapping the 'j' of 'jadeed' for a 'y'?",
+   "a": "Shu el-ydeed",
+   "p": 600,
+   "ar": "شو اليديد",
+   "alt": [
+    "Shu al yadeed",
+    "Shu el yedeed"
+   ]
+  },
+  {
+   "q": "Which Emirati phrase means 'nothing' or 'there is nothing'?",
+   "a": "Ma shay",
+   "p": 600,
+   "ar": "ما شي",
+   "alt": [
+    "Mashay",
+    "Ma shi",
+    "Maa shay"
+   ]
+  },
+  {
+   "q": "Which Emirati exclamation of surprise, like 'oh my!', is often used to tease a friend?",
+   "a": "Khaiba",
+   "p": 600,
+   "ar": "خيبة",
+   "alt": [
+    "Khaibah",
+    "Khayba"
+   ]
+  },
+  {
+   "q": "Which Arabic letter, written ك, often sounds like 'ch' in Emirati speech?",
+   "a": "Kaf",
+   "p": 600,
+   "ar": "كاف",
+   "alt": [
+    "Kaaf"
+   ]
+  },
+  {
+   "q": "Which Arabic letter, written ج, is often pronounced like 'y' in Emirati speech?",
+   "a": "Jeem",
+   "p": 600,
+   "ar": "جيم",
+   "alt": [
+    "Jim",
+    "Geem"
+   ]
+  },
+  {
+   "q": "What is the long-handled metal tool used to roast coffee beans called?",
+   "a": "Mehmas",
+   "p": 600,
+   "ar": "محماس",
+   "alt": [
+    "Mihmas",
+    "Mahmas"
+   ]
+  },
+  {
+   "q": "What is the palm-frond hand fan of traditional Emirati homes called?",
+   "a": "Mahafa",
+   "p": 600,
+   "ar": "مهفة",
+   "alt": [
+    "Mahaffa",
+    "Mihaffa"
+   ]
+  },
+  {
+   "q": "What do Emiratis call a teapot?",
+   "a": "Ghouri",
+   "p": 600,
+   "ar": "قوري",
+   "alt": [
+    "Ghori",
+    "Qouri",
+    "Gouri"
+   ]
+  },
+  {
+   "q": "Which cooked garlic-and-tomato sauce is served with Emirati rice and meat dishes?",
+   "a": "Daqoos",
+   "p": 600,
+   "ar": "دقوس",
+   "alt": [
+    "Daqous",
+    "Dakoos"
+   ]
+  },
+  {
+   "q": "Which Emirati sweet is made from crushed dates, flour or semolina, ghee and cardamom?",
+   "a": "Bethitha",
+   "p": 600,
+   "ar": "بثيثة",
+   "alt": [
+    "Bathitha",
+    "Bithitha",
+    "Bathith"
+   ]
+  },
+  {
+   "q": "Which Emirati sweet is made from toasted flour or crumbs with sugar, cardamom and saffron?",
+   "a": "Khabeesa",
+   "p": 600,
+   "ar": "خبيصة",
+   "alt": [
+    "Khabees",
+    "Khabisa"
+   ]
+  },
+  {
+   "q": "What was a Gulf pearl merchant who bought pearls from boat captains called?",
+   "a": "Tawwash",
+   "p": 600,
+   "ar": "طواش",
+   "alt": [
+    "Tawash"
+   ]
+  },
+  {
+   "q": "Which singer led the crew in songs on a Gulf pearling boat?",
+   "a": "Nahham",
+   "p": 600,
+   "ar": "نهام",
+   "alt": [
+    "Naham",
+    "Nahhaam"
+   ]
+  },
+  {
+   "q": "What is the wraparound waist cloth worn by Emirati men at home called?",
+   "a": "Wizar",
+   "p": 600,
+   "ar": "وزار",
+   "alt": [
+    "Izar",
+    "Wizaar"
+   ]
+  },
+  {
+   "q": "What is a small traditional wooden boat of the Gulf, used for fishing and pearling, called?",
+   "a": "Jalboot",
+   "p": 600,
+   "ar": "جلبوت",
+   "alt": [
+    "Jalibut",
+    "Jalbout"
+   ]
+  },
+  {
+   "q": "What respectful word does an Emirati say when called, meaning 'at your service'?",
+   "a": "Labbeih",
+   "p": 600,
+   "ar": "لبيه",
+   "alt": [
+    "Labbay",
+    "Labeeh",
+    "Labbayk"
+   ]
+  },
+  {
+   "q": "Which old Indian coin, worth one sixteenth of a rupee, appears in Emirati oral history?",
+   "a": "Anna",
+   "p": 600,
+   "ar": "آنة",
+   "alt": [
+    "Annas"
+   ]
+  },
+  {
+   "q": "What Emirati word describes the household stock of rice, flour and coffee kept for a season or journey?",
+   "a": "Meer",
+   "p": 600,
+   "ar": "مير",
+   "alt": [
+    "Mir",
+    "Al Meer"
+   ]
+  },
+  {
+   "q": "What is the raised platform of wood or palm fronds used for sleeping in summer called?",
+   "a": "Manama",
+   "p": 600,
+   "ar": "منامة",
+   "alt": [
+    "Manameh",
+    "Al Manama"
+   ]
+  },
+  {
+   "q": "What is the decorated metal storage box kept in the main room of old Emirati homes called?",
+   "a": "Sahhara",
+   "p": 600,
+   "ar": "سحارة",
+   "alt": [
+    "Sahharah"
+   ]
+  },
+  {
+   "q": "What is the stone hand mill used to grind grain in traditional Emirati homes called?",
+   "a": "Raha",
+   "p": 600,
+   "ar": "رحى",
+   "alt": [
+    "Rahaa"
+   ]
+  },
+  {
+   "q": "Which clay water jar is used as a percussion instrument in Gulf pearl-diver songs?",
+   "a": "Jahla",
+   "p": 600,
+   "ar": "جاهلة",
+   "alt": [
+    "Jahlah",
+    "Al jahla"
+   ]
+  },
+  {
+   "q": "Which small drum accompanies Gulf pearl-diver songs?",
+   "a": "Mirwas",
+   "p": 600,
+   "ar": "مرواس",
+   "alt": [
+    "Mirwass",
+    "Marwas"
+   ]
+  },
+  {
+   "q": "What is the Gulf tradition of pearl divers' sea songs, with a lead singer, chorus and clapping, called?",
+   "a": "Fijiri",
+   "p": 600,
+   "ar": "فجيري",
+   "alt": [
+    "Fidjeri",
+    "Fijeri",
+    "Al Fijiri"
+   ]
+  },
+  {
+   "q": "Which everyday Arabic word for 'nail' also means 'clove' in Emirati?",
+   "a": "Mismar",
+   "p": 600,
+   "ar": "مسمار",
+   "alt": [
+    "Mesmar",
+    "Mismaar"
+   ]
+  },
+  {
+   "q": "Which Emirati word means 'this' (feminine), replacing the standard Arabic 'hadhihi'?",
+   "a": "Hathi",
+   "p": 600,
+   "ar": "هذي",
+   "alt": [
+    "Hathy"
+   ]
+  },
+  {
+   "q": "Which Gulf Arabic word means 'just now' or 'a moment ago'?",
+   "a": "Tawni",
+   "p": 600,
+   "ar": "توني",
+   "alt": [
+    "Tawwni"
+   ]
+  },
+  {
+   "q": "Which Emirati greeting, said to arriving guests, literally welcomes them at 'the hour'?",
+   "a": "Marhaba el-saa'",
+   "p": 600,
+   "ar": "مرحبا الساع",
+   "alt": [
+    "Marhaba al saa",
+    "Marhaba el saa"
+   ]
+  },
+  {
+   "q": "Which Emirati word for open, treeless, uninhabited land gives its name to an area of Dubai?",
+   "a": "Baraha",
+   "p": 600,
+   "ar": "براحة",
+   "alt": [
+    "Al Baraha",
+    "Barahah"
+   ]
+  }
+ ]
+}

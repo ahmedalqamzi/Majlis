@@ -1,0 +1,679 @@
+{
+ "id": "ghibli",
+ "name": "Studio Ghibli",
+ "questions": [
+  {
+   "q": "Which Studio Ghibli film won the Academy Award for Best Animated Feature at the 2003 ceremony?",
+   "a": "Spirited Away",
+   "p": 200
+  },
+  {
+   "q": "Which director, born in 1941, co-founded Studio Ghibli and created My Neighbor Totoro?",
+   "a": "Hayao Miyazaki",
+   "p": 200,
+   "alt": [
+    "Miyazaki"
+   ]
+  },
+  {
+   "q": "What is the name of Kiki's black cat?",
+   "a": "Jiji",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the witch who runs the bathhouse in Spirited Away?",
+   "a": "Yubaba",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the young heroine of Spirited Away?",
+   "a": "Chihiro",
+   "p": 200
+  },
+  {
+   "q": "What new name does Yubaba give Chihiro at the bathhouse?",
+   "a": "Sen",
+   "p": 200
+  },
+  {
+   "q": "Which river spirit befriends Chihiro and appears to her as a boy?",
+   "a": "Haku",
+   "p": 200,
+   "alt": [
+    "Kohaku"
+   ]
+  },
+  {
+   "q": "In his true form, what kind of creature is Haku?",
+   "a": "Dragon",
+   "p": 200,
+   "alt": [
+    "River dragon",
+    "River spirit"
+   ]
+  },
+  {
+   "q": "Which silent, masked spirit in Spirited Away becomes hungry for gold and food?",
+   "a": "No-Face",
+   "p": 200,
+   "alt": [
+    "Kaonashi",
+    "No Face"
+   ]
+  },
+  {
+   "q": "What is the name of the younger sister in My Neighbor Totoro?",
+   "a": "Mei",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the older sister in My Neighbor Totoro?",
+   "a": "Satsuki",
+   "p": 200
+  },
+  {
+   "q": "What is the many-legged, grinning fantasy vehicle in My Neighbor Totoro called?",
+   "a": "Catbus",
+   "p": 200,
+   "alt": [
+    "Cat Bus",
+    "Nekobus"
+   ]
+  },
+  {
+   "q": "Which composer wrote the music for most of Hayao Miyazaki's films?",
+   "a": "Joe Hisaishi",
+   "p": 200,
+   "alt": [
+    "Hisaishi"
+   ]
+  },
+  {
+   "q": "In Howl's Moving Castle, what is the name of the fire demon who powers the castle?",
+   "a": "Calcifer",
+   "p": 200
+  },
+  {
+   "q": "In Howl's Moving Castle, what is the name of the young hat-maker who is cursed to look old?",
+   "a": "Sophie",
+   "p": 200
+  },
+  {
+   "q": "What type of animal is Ponyo before she becomes a girl?",
+   "a": "Goldfish",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the girl raised by wolves in Princess Mononoke?",
+   "a": "San",
+   "p": 200,
+   "alt": [
+    "Mononoke"
+   ]
+  },
+  {
+   "q": "Which Ghibli character appears in the studio's logo?",
+   "a": "Totoro",
+   "p": 200
+  },
+  {
+   "q": "In which country is Studio Ghibli based?",
+   "a": "Japan",
+   "p": 200
+  },
+  {
+   "q": "What are the tiny black dust creatures seen in both My Neighbor Totoro and Spirited Away called?",
+   "a": "Soot sprites",
+   "p": 200,
+   "alt": [
+    "Susuwatari",
+    "Soot balls",
+    "Soot gremlins"
+   ]
+  },
+  {
+   "q": "In Spirited Away, what type of establishment does Chihiro work in?",
+   "a": "Bathhouse",
+   "p": 200,
+   "alt": [
+    "Bath house"
+   ]
+  },
+  {
+   "q": "What does Kiki fly on in Kiki's Delivery Service?",
+   "a": "Broom",
+   "p": 200,
+   "alt": [
+    "Broomstick"
+   ]
+  },
+  {
+   "q": "Who is the five-year-old boy who befriends Ponyo?",
+   "a": "Sosuke",
+   "p": 200
+  },
+  {
+   "q": "Which 2004 Ghibli film features a wizard whose home travels on mechanical legs?",
+   "a": "Howl's Moving Castle",
+   "p": 200,
+   "alt": [
+    "Howls Moving Castle"
+   ]
+  },
+  {
+   "q": "Which tragic Ghibli film follows siblings Seita and Setsuko in wartime Japan?",
+   "a": "Grave of the Fireflies",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the cursed prince in Princess Mononoke?",
+   "a": "Ashitaka",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the girl with a glowing pendant who floats down from the sky in Ghibli's 1986 adventure?",
+   "a": "Sheeta",
+   "p": 200
+  },
+  {
+   "q": "What is the floating island called in Ghibli's 1986 adventure?",
+   "a": "Laputa",
+   "p": 200
+  },
+  {
+   "q": "Pazu is a young miner and hero of which Ghibli film?",
+   "a": "Castle in the Sky",
+   "p": 200,
+   "alt": [
+    "Laputa: Castle in the Sky",
+    "Laputa Castle in the Sky"
+   ]
+  },
+  {
+   "q": "In which Japanese capital city is the Ghibli Museum located?",
+   "a": "Tokyo",
+   "p": 200
+  },
+  {
+   "q": "Ghibli films belong to which Japanese style of animation?",
+   "a": "Anime",
+   "p": 200
+  },
+  {
+   "q": "Who curses Sophie in Howl's Moving Castle?",
+   "a": "Witch of the Waste",
+   "p": 200,
+   "alt": [
+    "The Witch of the Waste"
+   ]
+  },
+  {
+   "q": "Calcifer is a demon of which element?",
+   "a": "Fire",
+   "p": 200
+  },
+  {
+   "q": "Which 2023 Ghibli film won the Oscar for Best Animated Feature in 2024?",
+   "a": "The Boy and the Heron",
+   "p": 200,
+   "alt": [
+    "Boy and the Heron",
+    "How Do You Live"
+   ]
+  },
+  {
+   "q": "What is the title character of Kiki's Delivery Service training to become?",
+   "a": "Witch",
+   "p": 200
+  },
+  {
+   "q": "Which Ghibli co-founder directed Grave of the Fireflies?",
+   "a": "Isao Takahata",
+   "p": 400,
+   "alt": [
+    "Takahata"
+   ]
+  },
+  {
+   "q": "In which year was Studio Ghibli founded?",
+   "a": "1985",
+   "p": 400
+  },
+  {
+   "q": "Which 1984 Miyazaki film, based on his own manga, came before Ghibli was founded?",
+   "a": "Nausicaä",
+   "p": 400,
+   "alt": [
+    "Nausicaa",
+    "Nausicaa of the Valley of the Wind",
+    "Nausicaä of the Valley of the Wind"
+   ]
+  },
+  {
+   "q": "Which 1992 Miyazaki film is set around the Adriatic Sea and stars a seaplane pilot?",
+   "a": "Porco Rosso",
+   "p": 400
+  },
+  {
+   "q": "Which 2013 Miyazaki film is a fictionalised story about an aircraft designer named Jiro?",
+   "a": "The Wind Rises",
+   "p": 400,
+   "alt": [
+    "Wind Rises"
+   ]
+  },
+  {
+   "q": "What is the name of the boy hero of The Boy and the Heron?",
+   "a": "Mahito",
+   "p": 400
+  },
+  {
+   "q": "Which British author wrote the novel that Howl's Moving Castle is based on?",
+   "a": "Diana Wynne Jones",
+   "p": 400
+  },
+  {
+   "q": "Ponyo is loosely inspired by which Hans Christian Andersen tale?",
+   "a": "The Little Mermaid",
+   "p": 400,
+   "alt": [
+    "Little Mermaid"
+   ]
+  },
+  {
+   "q": "What is the name of Ponyo's father, a former human wizard?",
+   "a": "Fujimoto",
+   "p": 400
+  },
+  {
+   "q": "What is the name of Yubaba's twin sister in Spirited Away?",
+   "a": "Zeniba",
+   "p": 400
+  },
+  {
+   "q": "What is the name of Yubaba's giant baby in Spirited Away?",
+   "a": "Boh",
+   "p": 400,
+   "alt": [
+    "Bo",
+    "Bou"
+   ]
+  },
+  {
+   "q": "What is the name of the boy who loves flying machines in Kiki's Delivery Service?",
+   "a": "Tombo",
+   "p": 400
+  },
+  {
+   "q": "What are the giant armoured insects of the Toxic Jungle in Nausicaä called?",
+   "a": "Ohmu",
+   "p": 400,
+   "alt": [
+    "Omu"
+   ]
+  },
+  {
+   "q": "What are the small white tree spirits in Princess Mononoke called?",
+   "a": "Kodama",
+   "p": 400
+  },
+  {
+   "q": "What animal does Ashitaka ride in Princess Mononoke?",
+   "a": "Red elk",
+   "p": 400,
+   "alt": [
+    "Elk",
+    "Yakul"
+   ]
+  },
+  {
+   "q": "Who leads Irontown in Princess Mononoke?",
+   "a": "Lady Eboshi",
+   "p": 400,
+   "alt": [
+    "Eboshi"
+   ]
+  },
+  {
+   "q": "Which 2010 Ghibli film is about tiny people who borrow items from a human house?",
+   "a": "The Secret World of Arrietty",
+   "p": 400,
+   "alt": [
+    "Arrietty",
+    "Secret World of Arrietty"
+   ]
+  },
+  {
+   "q": "Which dapper cat figurine character appears in both Whisper of the Heart and The Cat Returns?",
+   "a": "Baron",
+   "p": 400,
+   "alt": [
+    "Baron Humbert von Gikkingen"
+   ]
+  },
+  {
+   "q": "Which son of Hayao Miyazaki directed Tales from Earthsea?",
+   "a": "Gorō Miyazaki",
+   "p": 400,
+   "alt": [
+    "Goro Miyazaki",
+    "Goro"
+   ]
+  },
+  {
+   "q": "In which year was Spirited Away released in Japan?",
+   "a": "2001",
+   "p": 400
+  },
+  {
+   "q": "How many Academy Awards for Best Animated Feature has Hayao Miyazaki won?",
+   "a": "Two",
+   "p": 400,
+   "alt": [
+    "2"
+   ]
+  },
+  {
+   "q": "Which Pixar film from 2010 includes a plush Totoro cameo?",
+   "a": "Toy Story 3",
+   "p": 400
+  },
+  {
+   "q": "What star-shaped candy do the soot sprites eat in Spirited Away?",
+   "a": "Konpeito",
+   "p": 400,
+   "alt": [
+    "Star candy"
+   ]
+  },
+  {
+   "q": "What type of giant tree does Totoro live in?",
+   "a": "Camphor tree",
+   "p": 400,
+   "alt": [
+    "Camphor"
+   ]
+  },
+  {
+   "q": "Where is the mother of Satsuki and Mei staying in My Neighbor Totoro?",
+   "a": "Hospital",
+   "p": 400
+  },
+  {
+   "q": "What is the name of the six-armed boiler man in Spirited Away?",
+   "a": "Kamaji",
+   "p": 400
+  },
+  {
+   "q": "Which Joe Hisaishi theme from Howl's Moving Castle is named after a fairground ride?",
+   "a": "Merry-Go-Round of Life",
+   "p": 400,
+   "alt": [
+    "Merry Go Round of Life"
+   ]
+  },
+  {
+   "q": "Which Takahata film features raccoon dogs fighting to save their forest home?",
+   "a": "Pom Poko",
+   "p": 400
+  },
+  {
+   "q": "Which 2013 Takahata film is based on the folktale of a bamboo cutter?",
+   "a": "The Tale of the Princess Kaguya",
+   "p": 400,
+   "alt": [
+    "Princess Kaguya",
+    "Tale of Princess Kaguya"
+   ]
+  },
+  {
+   "q": "In which Tokyo suburb is the Ghibli Museum located?",
+   "a": "Mitaka",
+   "p": 400
+  },
+  {
+   "q": "In Spirited Away, what unusual vehicle crosses the water at the film's quiet turning point?",
+   "a": "Train",
+   "p": 400,
+   "alt": [
+    "A train",
+    "Sea train"
+   ]
+  },
+  {
+   "q": "What is the name of Sosuke's mother in Ponyo?",
+   "a": "Lisa",
+   "p": 400
+  },
+  {
+   "q": "How old is Sophie before she is cursed in Howl's Moving Castle?",
+   "a": "18",
+   "p": 400,
+   "alt": [
+    "Eighteen"
+   ]
+  },
+  {
+   "q": "In which year was Princess Mononoke released in Japan?",
+   "a": "1997",
+   "p": 400
+  },
+  {
+   "q": "In which year was Ponyo released in Japan?",
+   "a": "2008",
+   "p": 400
+  },
+  {
+   "q": "What is the name of the wolf god who raised San in Princess Mononoke?",
+   "a": "Moro",
+   "p": 600
+  },
+  {
+   "q": "Which author wrote the novel that Kiki's Delivery Service is based on?",
+   "a": "Eiko Kadono",
+   "p": 600
+  },
+  {
+   "q": "In which month of 2001 did the Ghibli Museum open?",
+   "a": "October",
+   "p": 600
+  },
+  {
+   "q": "Which producer, a Ghibli co-founder, produced Spirited Away?",
+   "a": "Toshio Suzuki",
+   "p": 600,
+   "alt": [
+    "Suzuki"
+   ]
+  },
+  {
+   "q": "Spirited Away shared which top prize at the 2002 Berlin International Film Festival?",
+   "a": "Golden Bear",
+   "p": 600
+  },
+  {
+   "q": "Who is the American pilot who rivals Porco in Porco Rosso?",
+   "a": "Curtis",
+   "p": 600,
+   "alt": [
+    "Donald Curtis"
+   ]
+  },
+  {
+   "q": "Who directed the 1995 Ghibli film Whisper of the Heart?",
+   "a": "Yoshifumi Kondō",
+   "p": 600,
+   "alt": [
+    "Yoshifumi Kondo",
+    "Kondo"
+   ]
+  },
+  {
+   "q": "Which 2011 film by Gorō Miyazaki is set in 1963 Yokohama?",
+   "a": "From Up on Poppy Hill",
+   "p": 600,
+   "alt": [
+    "Poppy Hill"
+   ]
+  },
+  {
+   "q": "Which American author wrote the Earthsea novels that inspired Tales from Earthsea?",
+   "a": "Ursula K. Le Guin",
+   "p": 600,
+   "alt": [
+    "Ursula Le Guin",
+    "Le Guin"
+   ]
+  },
+  {
+   "q": "In 1988, Grave of the Fireflies was released as a double bill with which Miyazaki film?",
+   "a": "My Neighbor Totoro",
+   "p": 600,
+   "alt": [
+    "Totoro"
+   ]
+  },
+  {
+   "q": "Which robot from Castle in the Sky stands on the roof of the Ghibli Museum?",
+   "a": "Robot soldier",
+   "p": 600,
+   "alt": [
+    "Laputa robot",
+    "Robot Soldier",
+    "Robot"
+   ]
+  },
+  {
+   "q": "In which magazine was Miyazaki's Nausicaä manga serialised?",
+   "a": "Animage",
+   "p": 600
+  },
+  {
+   "q": "What is the name of Ponyo's sea-goddess mother?",
+   "a": "Granmamare",
+   "p": 600
+  },
+  {
+   "q": "What is the name of the deer-like Forest Spirit in Princess Mononoke?",
+   "a": "Shishigami",
+   "p": 600,
+   "alt": [
+    "Forest Spirit",
+    "Deer God"
+   ]
+  },
+  {
+   "q": "Which Ghibli film directed by Hiromasa Yonebayashi earned a 2016 Oscar nomination?",
+   "a": "When Marnie Was There",
+   "p": 600
+  },
+  {
+   "q": "What is the name of the baker who gives Kiki a place to stay?",
+   "a": "Osono",
+   "p": 600
+  },
+  {
+   "q": "What is the name of Howl's young apprentice in Howl's Moving Castle?",
+   "a": "Markl",
+   "p": 600
+  },
+  {
+   "q": "What is the name of the scarecrow who helps Sophie?",
+   "a": "Turnip Head",
+   "p": 600,
+   "alt": [
+    "Turnip",
+    "Prince Justin"
+   ]
+  },
+  {
+   "q": "Which singer performed the Spirited Away ending song 'Always With Me'?",
+   "a": "Yumi Kimura",
+   "p": 600
+  },
+  {
+   "q": "What is the name of the girl who writes a novel in Whisper of the Heart?",
+   "a": "Shizuku",
+   "p": 600,
+   "alt": [
+    "Shizuku Tsukishima"
+   ]
+  },
+  {
+   "q": "Which 1999 Takahata film is based on a four-panel comic strip about a Japanese family?",
+   "a": "My Neighbors the Yamadas",
+   "p": 600,
+   "alt": [
+    "The Yamadas",
+    "Yamadas"
+   ]
+  },
+  {
+   "q": "Which 1991 Takahata film contrasts a woman's countryside trip with memories of her childhood?",
+   "a": "Only Yesterday",
+   "p": 600
+  },
+  {
+   "q": "Which 2020 Gorō Miyazaki film was Ghibli's first fully computer-animated feature?",
+   "a": "Earwig and the Witch",
+   "p": 600,
+   "alt": [
+    "Aya and the Witch",
+    "Earwig"
+   ]
+  },
+  {
+   "q": "Which 1993 Ghibli TV film, directed by Tomomi Mochizuki, is set in a Kōchi high school?",
+   "a": "Ocean Waves",
+   "p": 600,
+   "alt": [
+    "I Can Hear the Sea"
+   ]
+  },
+  {
+   "q": "Which 1979 film was Hayao Miyazaki's feature directorial debut?",
+   "a": "The Castle of Cagliostro",
+   "p": 600,
+   "alt": [
+    "Lupin III: The Castle of Cagliostro",
+    "Castle of Cagliostro"
+   ]
+  },
+  {
+   "q": "Which 1974 TV series based on Johanna Spyri's novel did Isao Takahata direct?",
+   "a": "Heidi, Girl of the Alps",
+   "p": 600,
+   "alt": [
+    "Heidi",
+    "Alps no Shoujo Heidi"
+   ]
+  },
+  {
+   "q": "Which real Italian aircraft designer inspires the dream mentor of Jiro in The Wind Rises?",
+   "a": "Giovanni Battista Caproni",
+   "p": 600,
+   "alt": [
+    "Caproni",
+    "Gianni Caproni"
+   ]
+  },
+  {
+   "q": "What is the name of Nausicaä's glider?",
+   "a": "Mehve",
+   "p": 600,
+   "alt": [
+    "Mehve glider"
+   ]
+  },
+  {
+   "q": "What is the name of the wandering monk in Princess Mononoke?",
+   "a": "Jigo",
+   "p": 600
+  },
+  {
+   "q": "Who is the singer and hotel owner who is Porco's old friend in Porco Rosso?",
+   "a": "Gina",
+   "p": 600
+  }
+ ]
+}

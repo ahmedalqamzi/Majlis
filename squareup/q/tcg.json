@@ -1,0 +1,706 @@
+{
+ "id": "tcg",
+ "name": "Trading Card Games",
+ "questions": [
+  {
+   "q": "What does TCG stand for?",
+   "a": "Trading Card Game",
+   "p": 200
+  },
+  {
+   "q": "Which Pokemon is the mascot of the Pokemon franchise?",
+   "a": "Pikachu",
+   "p": 200
+  },
+  {
+   "q": "Which fire-breathing Pokemon is the star of the famous Base Set holo card?",
+   "a": "Charizard",
+   "p": 200
+  },
+  {
+   "q": "Which trading card game has five colours of mana?",
+   "a": "Magic: The Gathering",
+   "p": 200,
+   "alt": [
+    "Magic the Gathering",
+    "Magic",
+    "MTG"
+   ]
+  },
+  {
+   "q": "How many colours of mana are there in Magic: The Gathering?",
+   "a": "5",
+   "p": 200,
+   "alt": [
+    "Five"
+   ]
+  },
+  {
+   "q": "Which basic land in Magic produces green mana?",
+   "a": "Forest",
+   "p": 200
+  },
+  {
+   "q": "Which basic land in Magic produces red mana?",
+   "a": "Mountain",
+   "p": 200
+  },
+  {
+   "q": "Which Yu-Gi-Oh! rival of Yugi owns the Blue-Eyes White Dragon?",
+   "a": "Seto Kaiba",
+   "p": 200,
+   "alt": [
+    "Kaiba"
+   ]
+  },
+  {
+   "q": "Which spellcaster is Yugi's signature monster?",
+   "a": "Dark Magician",
+   "p": 200
+  },
+  {
+   "q": "Which Yu-Gi-Oh! monster wins the duel instantly when all five of its pieces are in your hand?",
+   "a": "Exodia the Forbidden One",
+   "p": 200,
+   "alt": [
+    "Exodia"
+   ]
+  },
+  {
+   "q": "Along with Monster and Spell, what is the third main card type in Yu-Gi-Oh!?",
+   "a": "Trap",
+   "p": 200
+  },
+  {
+   "q": "Along with Pokemon and Energy, what is the third main card type in the Pokemon TCG?",
+   "a": "Trainer",
+   "p": 200
+  },
+  {
+   "q": "What do you call a sealed pack of random cards?",
+   "a": "Booster pack",
+   "p": 200,
+   "alt": [
+    "Booster",
+    "Pack"
+   ]
+  },
+  {
+   "q": "What do collectors call shiny, foil-effect cards in Pokemon?",
+   "a": "Holo",
+   "p": 200,
+   "alt": [
+    "Holographic",
+    "Holofoil",
+    "Holo rare"
+   ]
+  },
+  {
+   "q": "Which genetically engineered Legendary Pokemon is a famous Base Set rare?",
+   "a": "Mewtwo",
+   "p": 200
+  },
+  {
+   "q": "What is the top grade on the PSA scale of 1 to 10?",
+   "a": "Gem Mint",
+   "p": 200,
+   "alt": [
+    "PSA 10",
+    "10"
+   ]
+  },
+  {
+   "q": "Which entertainment giant's characters appear in Lorcana?",
+   "a": "Disney",
+   "p": 200,
+   "alt": [
+    "Walt Disney",
+    "The Walt Disney Company"
+   ]
+  },
+  {
+   "q": "Which Eiichiro Oda pirate manga is the basis of a card game launched in the 2020s?",
+   "a": "One Piece",
+   "p": 200
+  },
+  {
+   "q": "Which Blizzard online RPG featuring Azeroth inspired its own trading card game?",
+   "a": "World of Warcraft",
+   "p": 200,
+   "alt": [
+    "WoW"
+   ]
+  },
+  {
+   "q": "Which Pokemon TCG cards are needed to power attacks?",
+   "a": "Energy cards",
+   "p": 200,
+   "alt": [
+    "Energy"
+   ]
+  },
+  {
+   "q": "Which faction opposes the Alliance in World of Warcraft?",
+   "a": "Horde",
+   "p": 200,
+   "alt": [
+    "The Horde"
+   ]
+  },
+  {
+   "q": "Which Disney mouse appears in Lorcana as a Character?",
+   "a": "Mickey Mouse",
+   "p": 200,
+   "alt": [
+    "Mickey"
+   ]
+  },
+  {
+   "q": "What do players put cards into to protect them from scratches?",
+   "a": "Sleeves",
+   "p": 200,
+   "alt": [
+    "Card sleeves"
+   ]
+  },
+  {
+   "q": "Which country does the Pokemon franchise come from?",
+   "a": "Japan",
+   "p": 200
+  },
+  {
+   "q": "What is the plastic case used by grading companies to seal a graded card called?",
+   "a": "Slab",
+   "p": 200,
+   "alt": [
+    "Graded case",
+    "Case"
+   ]
+  },
+  {
+   "q": "Which Yu-Gi-Oh! anime hero wears the Millennium Puzzle?",
+   "a": "Yugi Muto",
+   "p": 200,
+   "alt": [
+    "Yugi Mutou",
+    "Yugi"
+   ]
+  },
+  {
+   "q": "Which Pokemon trainer is the hero of the Pokemon anime and wants to be a Pokemon Master?",
+   "a": "Ash Ketchum",
+   "p": 200,
+   "alt": [
+    "Ash"
+   ]
+  },
+  {
+   "q": "What is a sealed box containing many booster packs called?",
+   "a": "Booster box",
+   "p": 200,
+   "alt": [
+    "Display",
+    "Display box"
+   ]
+  },
+  {
+   "q": "Who designed Magic: The Gathering?",
+   "a": "Richard Garfield",
+   "p": 400,
+   "alt": [
+    "Garfield"
+   ]
+  },
+  {
+   "q": "In which year did Magic: The Gathering first appear?",
+   "a": "1993",
+   "p": 400
+  },
+  {
+   "q": "Which company first published the Pokemon TCG in English in 1999?",
+   "a": "Wizards of the Coast",
+   "p": 400,
+   "alt": [
+    "Wizards"
+   ]
+  },
+  {
+   "q": "Which artist illustrated the Base Set Charizard?",
+   "a": "Mitsuhiro Arita",
+   "p": 400,
+   "alt": [
+    "Arita",
+    "Mitsuhiko Arita"
+   ]
+  },
+  {
+   "q": "How many cards are in a standard Pokemon TCG deck?",
+   "a": "60",
+   "p": 400,
+   "alt": [
+    "Sixty"
+   ]
+  },
+  {
+   "q": "How many Prize cards does each player take in the Pokemon TCG?",
+   "a": "6",
+   "p": 400,
+   "alt": [
+    "Six"
+   ]
+  },
+  {
+   "q": "Which type of Pokemon TCG Trainer card can only be played once per turn?",
+   "a": "Supporter",
+   "p": 400,
+   "alt": [
+    "Supporters"
+   ]
+  },
+  {
+   "q": "On a Pokemon card, which symbol marks a Common?",
+   "a": "Circle",
+   "p": 400,
+   "alt": [
+    "A circle",
+    "Black circle"
+   ]
+  },
+  {
+   "q": "What is the stamp on the earliest print runs of Pokemon sets called?",
+   "a": "1st Edition",
+   "p": 400,
+   "alt": [
+    "First Edition",
+    "1st edition stamp"
+   ]
+  },
+  {
+   "q": "How many booster packs come in a standard Pokemon TCG booster box?",
+   "a": "36",
+   "p": 400,
+   "alt": [
+    "Thirty-six"
+   ]
+  },
+  {
+   "q": "Which famous Alpha-era Magic card taps for three mana of one colour?",
+   "a": "Black Lotus",
+   "p": 400
+  },
+  {
+   "q": "Which red instant spell deals three damage for one mana?",
+   "a": "Lightning Bolt",
+   "p": 400
+  },
+  {
+   "q": "Which blue spell is the classic 'counter target spell' card?",
+   "a": "Counterspell",
+   "p": 400
+  },
+  {
+   "q": "How many cards does a Commander deck have in total?",
+   "a": "100",
+   "p": 400,
+   "alt": [
+    "One hundred"
+   ]
+  },
+  {
+   "q": "What do you call turning a Magic card sideways to use it?",
+   "a": "Tapping",
+   "p": 400,
+   "alt": [
+    "Tap"
+   ]
+  },
+  {
+   "q": "What is Blue-Eyes White Dragon's ATK?",
+   "a": "3000",
+   "p": 400
+  },
+  {
+   "q": "Which Yu-Gi-Oh! card lets you draw two cards?",
+   "a": "Pot of Greed",
+   "p": 400
+  },
+  {
+   "q": "How many Life Points does each duelist start with in the Yu-Gi-Oh! TCG?",
+   "a": "8000",
+   "p": 400
+  },
+  {
+   "q": "Which Japanese company publishes Yu-Gi-Oh!?",
+   "a": "Konami",
+   "p": 400
+  },
+  {
+   "q": "Who created Yu-Gi-Oh!?",
+   "a": "Kazuki Takahashi",
+   "p": 400
+  },
+  {
+   "q": "Which Yu-Gi-Oh! monster type uses a Tuner for its summoning method?",
+   "a": "Synchro",
+   "p": 400,
+   "alt": [
+    "Synchro Monster",
+    "Synchro monsters"
+   ]
+  },
+  {
+   "q": "How many Tributes are needed to Tribute Summon a Level 7 monster?",
+   "a": "2",
+   "p": 400,
+   "alt": [
+    "Two"
+   ]
+  },
+  {
+   "q": "Which Joey Wheeler dragon is a famous black Yu-Gi-Oh! monster?",
+   "a": "Red-Eyes Black Dragon",
+   "p": 400,
+   "alt": [
+    "Red Eyes Black Dragon"
+   ]
+  },
+  {
+   "q": "Which company produces Disney Lorcana?",
+   "a": "Ravensburger",
+   "p": 400
+  },
+  {
+   "q": "How many ink colours are there in Disney Lorcana?",
+   "a": "6",
+   "p": 400,
+   "alt": [
+    "Six"
+   ]
+  },
+  {
+   "q": "What is the name of the first Lorcana set?",
+   "a": "The First Chapter",
+   "p": 400,
+   "alt": [
+    "First Chapter"
+   ]
+  },
+  {
+   "q": "Which company publishes the One Piece Card Game?",
+   "a": "Bandai",
+   "p": 400,
+   "alt": [
+    "Bandai Namco"
+   ]
+  },
+  {
+   "q": "What are the special cost-paying cards of the One Piece Card Game called?",
+   "a": "DON!! cards",
+   "p": 400,
+   "alt": [
+    "DON",
+    "Don cards",
+    "DON!!"
+   ]
+  },
+  {
+   "q": "Which company first published the World of Warcraft TCG?",
+   "a": "Upper Deck",
+   "p": 400,
+   "alt": [
+    "Upper Deck Entertainment"
+   ]
+  },
+  {
+   "q": "What name is given to World of Warcraft TCG cards that unlock in-game items?",
+   "a": "Loot cards",
+   "p": 400,
+   "alt": [
+    "Loot card"
+   ]
+  },
+  {
+   "q": "What do the letters PSA stand for?",
+   "a": "Professional Sports Authenticator",
+   "p": 400
+  },
+  {
+   "q": "What is PSA's grade 9 called?",
+   "a": "Mint",
+   "p": 400
+  },
+  {
+   "q": "Which company graded cards with a subgrade system of centering, corners, edges and surface?",
+   "a": "Beckett",
+   "p": 400,
+   "alt": [
+    "BGS",
+    "Beckett Grading Services"
+   ]
+  },
+  {
+   "q": "What is the name of the list that restricts powerful cards in Yu-Gi-Oh!?",
+   "a": "Forbidden and Limited List",
+   "p": 400,
+   "alt": [
+    "Forbidden & Limited List",
+    "Banlist",
+    "Ban list"
+   ]
+  },
+  {
+   "q": "Which mid-1990s Japanese publisher first released the Pokemon TCG?",
+   "a": "Media Factory",
+   "p": 600
+  },
+  {
+   "q": "Which magazine awarded the Pikachu Illustrator card to contest winners in the late 1990s?",
+   "a": "CoroCoro Comic",
+   "p": 600,
+   "alt": [
+    "CoroCoro",
+    "Corocoro Comic"
+   ]
+  },
+  {
+   "q": "Which was the first expansion after the English Pokemon Base Set?",
+   "a": "Jungle",
+   "p": 600
+  },
+  {
+   "q": "Which Base Set print run is famous for lacking the shadow on the artwork frame?",
+   "a": "Shadowless",
+   "p": 600
+  },
+  {
+   "q": "How many Pokemon can a player have on their Bench in the standard Pokemon TCG rules?",
+   "a": "5",
+   "p": 600,
+   "alt": [
+    "Five"
+   ]
+  },
+  {
+   "q": "Which nine-card group includes Black Lotus and Ancestral Recall?",
+   "a": "Power Nine",
+   "p": 600,
+   "alt": [
+    "The Power Nine"
+   ]
+  },
+  {
+   "q": "Which was the first Magic expansion, released in December 1993 with an Arabic theme?",
+   "a": "Arabian Nights",
+   "p": 600
+  },
+  {
+   "q": "In which set were Planeswalker cards first introduced?",
+   "a": "Lorwyn",
+   "p": 600
+  },
+  {
+   "q": "What is the name of the list of Magic cards Wizards promised never to reprint?",
+   "a": "Reserved List",
+   "p": 600,
+   "alt": [
+    "The Reserved List"
+   ]
+  },
+  {
+   "q": "What does the Commander format set as each player's starting life total?",
+   "a": "40",
+   "p": 600,
+   "alt": [
+    "Forty"
+   ]
+  },
+  {
+   "q": "What is the title of the first English Yu-Gi-Oh! TCG set released in 2002?",
+   "a": "Legend of Blue Eyes White Dragon",
+   "p": 600,
+   "alt": [
+    "LOB"
+   ]
+  },
+  {
+   "q": "What is the maximum size of a Yu-Gi-Oh! Extra Deck?",
+   "a": "15",
+   "p": 600,
+   "alt": [
+    "Fifteen"
+   ]
+  },
+  {
+   "q": "What is the ATK of Dark Magician?",
+   "a": "2500",
+   "p": 400
+  },
+  {
+   "q": "How many packs are in a standard Yu-Gi-Oh! TCG booster box?",
+   "a": "24",
+   "p": 600,
+   "alt": [
+    "Twenty-four"
+   ]
+  },
+  {
+   "q": "Which Yu-Gi-Oh! rarity uses a pale, white-tinted holographic foil on the artwork?",
+   "a": "Ghost Rare",
+   "p": 600,
+   "alt": [
+    "Ghost Rare"
+   ]
+  },
+  {
+   "q": "In which magazine did the original Yu-Gi-Oh! manga run?",
+   "a": "Weekly Shonen Jump",
+   "p": 600,
+   "alt": [
+    "Shonen Jump"
+   ]
+  },
+  {
+   "q": "How much Lore wins a game of Disney Lorcana?",
+   "a": "20",
+   "p": 600
+  },
+  {
+   "q": "What is the minimum deck size in Disney Lorcana?",
+   "a": "60",
+   "p": 600,
+   "alt": [
+    "Sixty"
+   ]
+  },
+  {
+   "q": "What are Lorcana players called?",
+   "a": "Illumineers",
+   "p": 600,
+   "alt": [
+    "Illumineer"
+   ]
+  },
+  {
+   "q": "What is the name of the second Lorcana set?",
+   "a": "Rise of the Floodborn",
+   "p": 600
+  },
+  {
+   "q": "What is the highest rarity in the original Lorcana set, with a painted borderless look?",
+   "a": "Enchanted",
+   "p": 600
+  },
+  {
+   "q": "How many cards are in a Lorcana booster pack?",
+   "a": "12",
+   "p": 600,
+   "alt": [
+    "Twelve"
+   ]
+  },
+  {
+   "q": "How many DON!! cards are in a One Piece Card Game DON!! deck?",
+   "a": "10",
+   "p": 600,
+   "alt": [
+    "Ten"
+   ]
+  },
+  {
+   "q": "How many cards are in the main deck of the One Piece Card Game, excluding Leader and DON!!?",
+   "a": "50",
+   "p": 600,
+   "alt": [
+    "Fifty"
+   ]
+  },
+  {
+   "q": "What is the name of the first One Piece Card Game set, OP-01?",
+   "a": "Romance Dawn",
+   "p": 600
+  },
+  {
+   "q": "What is the name of the first World of Warcraft TCG set?",
+   "a": "Heroes of Azeroth",
+   "p": 600
+  },
+  {
+   "q": "Which card type represents your class in World of Warcraft TCG decks?",
+   "a": "Hero",
+   "p": 600,
+   "alt": [
+    "Hero card"
+   ]
+  },
+  {
+   "q": "What is PSA's grade 1 called?",
+   "a": "Poor",
+   "p": 600
+  },
+  {
+   "q": "What is the name of Beckett's rarest label, awarded when all four subgrades are 10?",
+   "a": "Black Label",
+   "p": 600,
+   "alt": [
+    "Pristine Black Label",
+    "BGS Black Label"
+   ]
+  },
+  {
+   "q": "What do the initials CGC stand for in the grading company CGC Cards?",
+   "a": "Certified Guaranty Company",
+   "p": 600,
+   "alt": [
+    "Certified Guaranty Company"
+   ]
+  },
+  {
+   "q": "In which year was PSA founded?",
+   "a": "1991",
+   "p": 600
+  },
+  {
+   "q": "Which Water-type starter Pokemon evolves into Blastoise?",
+   "a": "Squirtle",
+   "p": 200
+  },
+  {
+   "q": "What type is Pikachu?",
+   "a": "Electric",
+   "p": 200
+  },
+  {
+   "q": "Which friend of Yugi duels with the Red-Eyes Black Dragon?",
+   "a": "Joey Wheeler",
+   "p": 200,
+   "alt": [
+    "Jonouchi",
+    "Katsuya Jonouchi",
+    "Joey"
+   ]
+  },
+  {
+   "q": "Which Straw Hat captain is the Leader of the first One Piece Card Game starter deck?",
+   "a": "Monkey D. Luffy",
+   "p": 200,
+   "alt": [
+    "Luffy"
+   ]
+  },
+  {
+   "q": "Which Pokemon TCG energy type uses a flame symbol?",
+   "a": "Fire",
+   "p": 200
+  },
+  {
+   "q": "Which Pokemon TCG energy type uses a leaf symbol?",
+   "a": "Grass",
+   "p": 200
+  },
+  {
+   "q": "Which Grass-type starter Pokemon evolves into Venusaur?",
+   "a": "Bulbasaur",
+   "p": 200
+  }
+ ]
+}

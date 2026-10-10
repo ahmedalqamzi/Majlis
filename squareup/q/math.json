@@ -1,0 +1,506 @@
+{
+ "id": "math",
+ "name": "Mathematics",
+ "questions": [
+  {
+   "q": "What is 15% of 80?",
+   "a": "12",
+   "p": 200
+  },
+  {
+   "q": "What is 7 x 8?",
+   "a": "56",
+   "p": 200
+  },
+  {
+   "q": "What number is the Roman numeral XIV?",
+   "a": "14",
+   "p": 200
+  },
+  {
+   "q": "What is the smallest prime number?",
+   "a": "2",
+   "p": 200
+  },
+  {
+   "q": "How many sides does a hexagon have?",
+   "a": "6",
+   "p": 200
+  },
+  {
+   "q": "What is the perimeter of a square with sides of 9 cm?",
+   "a": "36 cm",
+   "p": 200
+  },
+  {
+   "q": "What is 144 divided by 12?",
+   "a": "12",
+   "p": 200
+  },
+  {
+   "q": "What is 25% of 200?",
+   "a": "50",
+   "p": 200
+  },
+  {
+   "q": "What comes next: 3, 6, 9, 12, ...?",
+   "a": "15",
+   "p": 200
+  },
+  {
+   "q": "How many degrees do the interior angles of a triangle add up to?",
+   "a": "180 degrees",
+   "p": 200
+  },
+  {
+   "q": "What is 11 squared?",
+   "a": "121",
+   "p": 200
+  },
+  {
+   "q": "Which letter is the Roman numeral for 50?",
+   "a": "L",
+   "p": 200
+  },
+  {
+   "q": "What is pi to two decimal places?",
+   "a": "3.14",
+   "p": 200
+  },
+  {
+   "q": "What is the square root of 49?",
+   "a": "7",
+   "p": 200
+  },
+  {
+   "q": "What is the name of an 8-sided polygon?",
+   "a": "Octagon",
+   "p": 200
+  },
+  {
+   "q": "What is 13 x 3?",
+   "a": "39",
+   "p": 200
+  },
+  {
+   "q": "What is half of three quarters?",
+   "a": "3/8",
+   "p": 200
+  },
+  {
+   "q": "How many minutes are in 3.5 hours?",
+   "a": "210",
+   "p": 200
+  },
+  {
+   "q": "Which of these is prime: 21, 27, 29, 33?",
+   "a": "29",
+   "p": 200
+  },
+  {
+   "q": "What number is the Roman numeral XL?",
+   "a": "40",
+   "p": 200
+  },
+  {
+   "q": "A 100 AED shirt is 20% off. What is the sale price?",
+   "a": "80 AED",
+   "p": 200
+  },
+  {
+   "q": "What do we call the result of a multiplication?",
+   "a": "The product",
+   "p": 200
+  },
+  {
+   "q": "What do we call the result of a subtraction?",
+   "a": "The difference",
+   "p": 200
+  },
+  {
+   "q": "What is 1000 divided by 8?",
+   "a": "125",
+   "p": 200
+  },
+  {
+   "q": "How many degrees are in a right angle?",
+   "a": "90 degrees",
+   "p": 200
+  },
+  {
+   "q": "What is the name of a triangle with all three sides equal?",
+   "a": "Equilateral",
+   "p": 200
+  },
+  {
+   "q": "What is 6 x 7 + 8?",
+   "a": "50",
+   "p": 200
+  },
+  {
+   "q": "What is double 47?",
+   "a": "94",
+   "p": 200
+  },
+  {
+   "q": "What is 10% of 350?",
+   "a": "35",
+   "p": 200
+  },
+  {
+   "q": "What number is the Roman numeral IX?",
+   "a": "9",
+   "p": 200
+  },
+  {
+   "q": "How many centimetres are in 2.5 metres?",
+   "a": "250",
+   "p": 200
+  },
+  {
+   "q": "If 3 pens cost 12 AED, how much do 5 pens cost?",
+   "a": "20 AED",
+   "p": 200
+  },
+  {
+   "q": "What is the perimeter of a rectangle measuring 8 cm by 5 cm?",
+   "a": "26 cm",
+   "p": 200
+  },
+  {
+   "q": "Which ancient Greek mathematician is called the 'Father of Geometry'?",
+   "a": "Euclid",
+   "p": 200
+  },
+  {
+   "q": "What is the average of 10, 20 and 30?",
+   "a": "20",
+   "p": 200
+  },
+  {
+   "q": "You leave a 15% tip on a 240 AED bill. How much is the tip?",
+   "a": "36 AED",
+   "p": 400
+  },
+  {
+   "q": "What is 17 x 6?",
+   "a": "102",
+   "p": 400
+  },
+  {
+   "q": "What is the area of a triangle with base 10 cm and height 7 cm?",
+   "a": "35 cm²",
+   "p": 400
+  },
+  {
+   "q": "What is the sum of all whole numbers from 1 to 20?",
+   "a": "210",
+   "p": 400
+  },
+  {
+   "q": "What comes next in the Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13, ...?",
+   "a": "21",
+   "p": 400
+  },
+  {
+   "q": "What number is the Roman numeral MCMXC?",
+   "a": "1990",
+   "p": 400
+  },
+  {
+   "q": "What is the area of a circle with radius 3 cm, in terms of pi?",
+   "a": "9 pi cm²",
+   "p": 400
+  },
+  {
+   "q": "The word 'algebra' comes from 'al-jabr' in a book by which Persian mathematician?",
+   "a": "Al-Khwarizmi",
+   "p": 400
+  },
+  {
+   "q": "The word 'algorithm' comes from the Latinised name of which mathematician?",
+   "a": "Al-Khwarizmi",
+   "p": 400
+  },
+  {
+   "q": "How many prime numbers are there below 20?",
+   "a": "8",
+   "p": 400
+  },
+  {
+   "q": "What is 25 x 24?",
+   "a": "600",
+   "p": 400
+  },
+  {
+   "q": "After a 25% discount, a jacket costs 150 AED. What was the original price?",
+   "a": "200 AED",
+   "p": 400
+  },
+  {
+   "q": "A right triangle has shorter sides of 9 cm and 12 cm. How long is the longest side?",
+   "a": "15 cm",
+   "p": 400
+  },
+  {
+   "q": "Which British mathematician proved Fermat's Last Theorem in 1994-95?",
+   "a": "Andrew Wiles",
+   "p": 400
+  },
+  {
+   "q": "Which ancient Greek thinker is said to have shouted 'Eureka!' in his bath?",
+   "a": "Archimedes",
+   "p": 400
+  },
+  {
+   "q": "What is the median of 3, 9, 4, 12, 7?",
+   "a": "7",
+   "p": 400
+  },
+  {
+   "q": "What do the interior angles of a pentagon add up to?",
+   "a": "540 degrees",
+   "p": 400
+  },
+  {
+   "q": "What is 2 to the power of 10?",
+   "a": "1024",
+   "p": 400
+  },
+  {
+   "q": "A car travels 90 km in 1.5 hours. What is its average speed?",
+   "a": "60 km/h",
+   "p": 400
+  },
+  {
+   "q": "A train travels at 60 km/h for 2.5 hours. How far does it go?",
+   "a": "150 km",
+   "p": 400
+  },
+  {
+   "q": "How many diagonals does a hexagon have?",
+   "a": "9",
+   "p": 400
+  },
+  {
+   "q": "A price rises from 40 AED to 50 AED. What is the percentage increase?",
+   "a": "25% (~1 in 4)",
+   "p": 400
+  },
+  {
+   "q": "What number is the Roman numeral CDXLIV?",
+   "a": "444",
+   "p": 400
+  },
+  {
+   "q": "What is 3/4 + 2/3 as a fraction?",
+   "a": "17/12",
+   "p": 400
+  },
+  {
+   "q": "What is the prime factorisation of 60?",
+   "a": "2 x 2 x 3 x 5",
+   "p": 400
+  },
+  {
+   "q": "Is the square root of 2 rational or irrational?",
+   "a": "Irrational",
+   "p": 400
+  },
+  {
+   "q": "Ada Lovelace is credited with writing what, for Babbage's Analytical Engine?",
+   "a": "The first computer program (algorithm)",
+   "p": 400
+  },
+  {
+   "q": "What is the volume of a cube with 5 cm sides?",
+   "a": "125 cm³",
+   "p": 400
+  },
+  {
+   "q": "What is 7! divided by 5!?",
+   "a": "42",
+   "p": 400
+  },
+  {
+   "q": "What comes next: 2, 6, 18, 54, ...?",
+   "a": "162",
+   "p": 400
+  },
+  {
+   "q": "What is the lowest common multiple of 6 and 8?",
+   "a": "24",
+   "p": 400
+  },
+  {
+   "q": "What is each interior angle of a regular hexagon?",
+   "a": "120 degrees",
+   "p": 400
+  },
+  {
+   "q": "What is the sum of the first 10 odd numbers?",
+   "a": "100",
+   "p": 400
+  },
+  {
+   "q": "Which German mathematician developed calculus independently of Newton?",
+   "a": "Leibniz",
+   "p": 400
+  },
+  {
+   "q": "What is a triangle with no equal sides called?",
+   "a": "Scalene",
+   "p": 400
+  },
+  {
+   "q": "Young Gauss reportedly added the numbers 1 to 100 in seconds. What is the total?",
+   "a": "5050",
+   "p": 600
+  },
+  {
+   "q": "What is 17 x 23?",
+   "a": "391",
+   "p": 600
+  },
+  {
+   "q": "How many zeros are at the end of 10 factorial (10!)?",
+   "a": "2",
+   "p": 600
+  },
+  {
+   "q": "What do the interior angles of a 12-sided polygon (dodecagon) add up to?",
+   "a": "1800 degrees",
+   "p": 600
+  },
+  {
+   "q": "How many diagonals does an octagon have?",
+   "a": "20",
+   "p": 600
+  },
+  {
+   "q": "1,000 AED earns 10% interest compounded annually. How much after 2 years?",
+   "a": "1210 AED",
+   "p": 600
+  },
+  {
+   "q": "What is 37 x 27?",
+   "a": "999",
+   "p": 600
+  },
+  {
+   "q": "How many different 3-letter arrangements can be made from the letters A, B, C, D, E (no repeats)?",
+   "a": "60",
+   "p": 600
+  },
+  {
+   "q": "In Euler's identity, e^(i*pi) + 1 equals what?",
+   "a": "0",
+   "p": 600
+  },
+  {
+   "q": "How many prime numbers are there below 50?",
+   "a": "15",
+   "p": 600
+  },
+  {
+   "q": "Which Austrian-born logician proved the incompleteness theorems in 1931?",
+   "a": "Kurt Godel",
+   "p": 600
+  },
+  {
+   "q": "Which Persian poet-mathematician is famous for solving cubic equations geometrically?",
+   "a": "Omar Khayyam",
+   "p": 600
+  },
+  {
+   "q": "What is the 'taxicab number': the smallest number that is the sum of two positive cubes in two different ways?",
+   "a": "1729",
+   "p": 600
+  },
+  {
+   "q": "The golden ratio is approximately what number, to three decimal places?",
+   "a": "1.618",
+   "p": 600
+  },
+  {
+   "q": "Rolling two fair dice, what is the probability of a total of 7?",
+   "a": "1/6 (~1 in 6)",
+   "p": 600
+  },
+  {
+   "q": "Flipping a fair coin 3 times, what is the probability of at least one head?",
+   "a": "7/8",
+   "p": 600
+  },
+  {
+   "q": "An icosahedron has 12 vertices and 30 edges. How many faces does it have (Euler's formula)?",
+   "a": "20",
+   "p": 600
+  },
+  {
+   "q": "What is the units (last) digit of 7 to the power of 2026?",
+   "a": "9",
+   "p": 600
+  },
+  {
+   "q": "A rectangle is 3 times as long as it is wide, and its perimeter is 64 cm. What is its area?",
+   "a": "192 cm²",
+   "p": 600
+  },
+  {
+   "q": "You drive 60 km at 30 km/h, then return the 60 km at 60 km/h. What is your average speed for the whole trip?",
+   "a": "40 km/h",
+   "p": 600
+  },
+  {
+   "q": "What is the smaller angle between the clock hands at 3:30?",
+   "a": "75 degrees",
+   "p": 600
+  },
+  {
+   "q": "How many zeros are in a googol?",
+   "a": "100",
+   "p": 600
+  },
+  {
+   "q": "What number is the Roman numeral MMCDXLIV?",
+   "a": "2444",
+   "p": 600
+  },
+  {
+   "q": "Which Russian mathematician solved the Poincare conjecture and declined the Fields Medal?",
+   "a": "Grigori Perelman",
+   "p": 600
+  },
+  {
+   "q": "What does 1/2 + 1/4 + 1/8 + 1/16 + ... (continuing forever) add up to?",
+   "a": "1",
+   "p": 600
+  },
+  {
+   "q": "Al-Khwarizmi's book on calculation helped spread which number system to Europe?",
+   "a": "Hindu-Arabic numerals",
+   "p": 600
+  },
+  {
+   "q": "At a party of 12 people, everyone shakes hands once with everyone else. How many handshakes?",
+   "a": "66",
+   "p": 600
+  },
+  {
+   "q": "How many squares of any size can you find in a 4 by 4 grid of small squares?",
+   "a": "30",
+   "p": 600
+  },
+  {
+   "q": "What is the cube root of 2744?",
+   "a": "14",
+   "p": 600
+  },
+  {
+   "q": "Who was the first woman to win the Fields Medal, in 2014?",
+   "a": "Maryam Mirzakhani",
+   "p": 600
+  }
+ ]
+}

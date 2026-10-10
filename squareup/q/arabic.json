@@ -1,0 +1,870 @@
+{
+ "id": "arabic",
+ "name": "Arabic Language",
+ "questions": [
+  {
+   "q": "How many letters are in the standard Arabic alphabet?",
+   "a": "28",
+   "p": 200
+  },
+  {
+   "q": "What is the Arabic word for 'green'?",
+   "a": "Akhdar",
+   "p": 200,
+   "ar": "أخضر",
+   "alt": [
+    "Akhdhar"
+   ]
+  },
+  {
+   "q": "In which direction is Arabic written?",
+   "a": "Right to left",
+   "p": 200,
+   "alt": [
+    "From right to left",
+    "Right-to-left",
+    "RTL"
+   ]
+  },
+  {
+   "q": "Which letter begins the Arabic alphabet?",
+   "a": "Alif",
+   "p": 200,
+   "ar": "ألف",
+   "alt": [
+    "Alef",
+    "Elif"
+   ]
+  },
+  {
+   "q": "Which popular hot drink gets its English name from the Arabic word 'qahwa'?",
+   "a": "Coffee",
+   "p": 200
+  },
+  {
+   "q": "The name of which school maths branch comes from the Arabic 'al-jabr'?",
+   "a": "Algebra",
+   "p": 200
+  },
+  {
+   "q": "The English word for table crystals used to sweeten tea comes from the Arabic 'sukkar'. What is it?",
+   "a": "Sugar",
+   "p": 200
+  },
+  {
+   "q": "What does the Arabic word 'shukran' mean?",
+   "a": "Thank you",
+   "p": 200,
+   "alt": [
+    "Thanks"
+   ]
+  },
+  {
+   "q": "What does the Arabic greeting 'marhaba' mean?",
+   "a": "Hello",
+   "p": 200,
+   "alt": [
+    "Welcome",
+    "Hi"
+   ]
+  },
+  {
+   "q": "What does the Arabic word 'yalla' mean, as often heard in the UAE?",
+   "a": "Let's go",
+   "p": 200,
+   "alt": [
+    "Come on",
+    "Hurry up"
+   ]
+  },
+  {
+   "q": "What does the Arabic word 'habibi' mean?",
+   "a": "My dear",
+   "p": 200,
+   "alt": [
+    "My love",
+    "Beloved",
+    "Darling"
+   ]
+  },
+  {
+   "q": "What does 'Ahlan wa sahlan' express?",
+   "a": "Welcome",
+   "p": 200,
+   "alt": [
+    "A welcome"
+   ]
+  },
+  {
+   "q": "What does the Arabic word 'khalas' commonly mean?",
+   "a": "Finished",
+   "p": 200,
+   "alt": [
+    "Enough",
+    "Done",
+    "That's it"
+   ]
+  },
+  {
+   "q": "Which message does the Arabic word 'Mabrook' convey?",
+   "a": "Congratulations",
+   "p": 200,
+   "alt": [
+    "Congrats",
+    "Mabruk"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for 'book'?",
+   "a": "Kitab",
+   "p": 200,
+   "ar": "كتاب",
+   "alt": [
+    "Kitaab"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for 'water'?",
+   "a": "Maa",
+   "p": 200,
+   "ar": "ماء",
+   "alt": [
+    "Mai",
+    "Moya",
+    "Mayy"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for 'sun'?",
+   "a": "Shams",
+   "p": 200,
+   "ar": "شمس"
+  },
+  {
+   "q": "What is the Arabic word for 'moon'?",
+   "a": "Qamar",
+   "p": 200,
+   "ar": "قمر",
+   "alt": [
+    "Gamar"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for 'house'?",
+   "a": "Bayt",
+   "p": 200,
+   "ar": "بيت",
+   "alt": [
+    "Bait",
+    "Beit"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for 'tea'?",
+   "a": "Shai",
+   "p": 200,
+   "ar": "شاي",
+   "alt": [
+    "Chai",
+    "Shay"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for 'bread'?",
+   "a": "Khubz",
+   "p": 200,
+   "ar": "خبز",
+   "alt": [
+    "Khobz",
+    "Khubuz"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for 'friend'?",
+   "a": "Sadiq",
+   "p": 200,
+   "ar": "صديق",
+   "alt": [
+    "Sadeeq",
+    "Sadiiq"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for 'camel'?",
+   "a": "Jamal",
+   "p": 200,
+   "ar": "جمل",
+   "alt": [
+    "Gamal",
+    "Jamel"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for 'market', as in the traditional bazaars of the Gulf?",
+   "a": "Souq",
+   "p": 200,
+   "ar": "سوق",
+   "alt": [
+    "Suq",
+    "Souk",
+    "Suk"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for 'tower'?",
+   "a": "Burj",
+   "p": 200,
+   "ar": "برج",
+   "alt": [
+    "Burg"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for 'mountain', as heard in the UAE?",
+   "a": "Jebel",
+   "p": 200,
+   "ar": "جبل",
+   "alt": [
+    "Jabal",
+    "Jabel"
+   ]
+  },
+  {
+   "q": "What does the Arabic word 'wadi' mean?",
+   "a": "Valley",
+   "p": 200,
+   "ar": "وادي",
+   "alt": [
+    "Dry riverbed",
+    "Dry river valley"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for 'one'?",
+   "a": "Wahid",
+   "p": 200,
+   "ar": "واحد",
+   "alt": [
+    "Wahed",
+    "Waahid"
+   ]
+  },
+  {
+   "q": "The name of the UAE city Al Ain means 'the' what, in English?",
+   "a": "Spring",
+   "p": 200,
+   "alt": [
+    "The spring",
+    "Eye",
+    "The eye"
+   ]
+  },
+  {
+   "q": "Bahrain's name means 'the two ...' in Arabic. The two what?",
+   "a": "Seas",
+   "p": 200,
+   "alt": [
+    "Two seas",
+    "The two seas"
+   ]
+  },
+  {
+   "q": "What does the Arabic prefix 'Al' mean, as in Al Ain or Al Nahyan?",
+   "a": "The",
+   "p": 200
+  },
+  {
+   "q": "What is the Arabic word for 'king'?",
+   "a": "Malik",
+   "p": 200,
+   "ar": "ملك",
+   "alt": [
+    "Malek"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for 'school'?",
+   "a": "Madrasa",
+   "p": 200,
+   "ar": "مدرسة",
+   "alt": [
+    "Madrasah",
+    "Madrassa"
+   ]
+  },
+  {
+   "q": "In the greeting 'Sabah al-khair', which English word does 'khair' translate to?",
+   "a": "Good",
+   "p": 200,
+   "alt": [
+    "Goodness"
+   ]
+  },
+  {
+   "q": "Which Arabic word, meaning 'peace', is also used as a greeting?",
+   "a": "Salam",
+   "p": 200,
+   "ar": "سلام",
+   "alt": [
+    "Salaam",
+    "Salem"
+   ]
+  },
+  {
+   "q": "What is the name of the Arabic letter ج?",
+   "a": "Jeem",
+   "p": 400,
+   "ar": "جيم",
+   "alt": [
+    "Jim",
+    "Geem",
+    "Gim"
+   ]
+  },
+  {
+   "q": "What is the name of the Arabic letter ش?",
+   "a": "Sheen",
+   "p": 400,
+   "ar": "شين",
+   "alt": [
+    "Shin"
+   ]
+  },
+  {
+   "q": "What is the name of the Arabic letter ن?",
+   "a": "Noon",
+   "p": 400,
+   "ar": "نون",
+   "alt": [
+    "Nun"
+   ]
+  },
+  {
+   "q": "What is the name of the Arabic letter م?",
+   "a": "Meem",
+   "p": 400,
+   "ar": "ميم",
+   "alt": [
+    "Mim"
+   ]
+  },
+  {
+   "q": "What is the name of the Arabic letter ق?",
+   "a": "Qaf",
+   "p": 400,
+   "ar": "قاف",
+   "alt": [
+    "Gaf",
+    "Qaaf"
+   ]
+  },
+  {
+   "q": "What is the name of the Arabic letter غ?",
+   "a": "Ghayn",
+   "p": 400,
+   "ar": "غين",
+   "alt": [
+    "Ghain",
+    "Ghein"
+   ]
+  },
+  {
+   "q": "Arabic is nicknamed 'the language of the ...' after a letter found in no other major language. Which letter?",
+   "a": "Dad",
+   "p": 400,
+   "ar": "ض",
+   "alt": [
+    "Daad",
+    "Dhad",
+    "Dhaad"
+   ]
+  },
+  {
+   "q": "Which Arabic calligraphy style, meaning 'one third', is often used for grand inscriptions on mosques?",
+   "a": "Thuluth",
+   "p": 400,
+   "ar": "الثلث",
+   "alt": [
+    "Thulth",
+    "Thuluth script",
+    "Sulus"
+   ]
+  },
+  {
+   "q": "Which flowing, ornate script was developed in the Ottoman chancery?",
+   "a": "Diwani",
+   "p": 400,
+   "ar": "الديواني",
+   "alt": [
+    "Divani",
+    "Diwani script"
+   ]
+  },
+  {
+   "q": "Which Arabic calligraphy style is the clear, rounded script most used in printed books?",
+   "a": "Naskh",
+   "p": 400,
+   "ar": "النسخ",
+   "alt": [
+    "Naskhi",
+    "Naskh script"
+   ]
+  },
+  {
+   "q": "Which everyday, compact Arabic handwriting style is commonly used in daily writing?",
+   "a": "Ruqah",
+   "p": 400,
+   "ar": "الرقعة",
+   "alt": [
+    "Ruq'ah",
+    "Riqa",
+    "Ruqaa"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for a reed pen or pen?",
+   "a": "Qalam",
+   "p": 400,
+   "ar": "قلم",
+   "alt": [
+    "Galam"
+   ]
+  },
+  {
+   "q": "In Arabic grammar, what is the word for 'verb'?",
+   "a": "Fi'l",
+   "p": 400,
+   "ar": "فعل",
+   "alt": [
+    "Fil",
+    "Fiel",
+    "Fe'l"
+   ]
+  },
+  {
+   "q": "In Arabic grammar, what is the word for 'noun'?",
+   "a": "Ism",
+   "p": 400,
+   "ar": "اسم",
+   "alt": [
+    "Esm",
+    "Ismm"
+   ]
+  },
+  {
+   "q": "What is the term for Arabic's short vowel marks written above or below letters?",
+   "a": "Harakat",
+   "p": 400,
+   "ar": "حركات",
+   "alt": [
+    "Tashkeel",
+    "Harakaat",
+    "Diacritics"
+   ]
+  },
+  {
+   "q": "Which Arabic diacritic doubles a consonant?",
+   "a": "Shadda",
+   "p": 400,
+   "ar": "شدة",
+   "alt": [
+    "Shaddah",
+    "Tashdeed"
+   ]
+  },
+  {
+   "q": "Which small circle diacritic marks a consonant with no vowel?",
+   "a": "Sukun",
+   "p": 400,
+   "ar": "سكون",
+   "alt": [
+    "Sukoon"
+   ]
+  },
+  {
+   "q": "Arabic has singular, plural and which third grammatical number for exactly two?",
+   "a": "Dual",
+   "p": 400,
+   "alt": [
+    "Mothanna",
+    "Muthanna",
+    "Mathna"
+   ]
+  },
+  {
+   "q": "Arabic letters are split into 'sun letters' and which other group?",
+   "a": "Moon letters",
+   "p": 400,
+   "alt": [
+    "Moon"
+   ]
+  },
+  {
+   "q": "Most Arabic words are built from a root of how many consonants?",
+   "a": "Three",
+   "p": 400,
+   "alt": [
+    "3",
+    "Triliteral"
+   ]
+  },
+  {
+   "q": "What is the plural of 'kitab' (book) in Arabic?",
+   "a": "Kutub",
+   "p": 400,
+   "ar": "كتب",
+   "alt": [
+    "Kotob",
+    "Kutob"
+   ]
+  },
+  {
+   "q": "What is the plural of 'bayt' (house) in Arabic?",
+   "a": "Buyut",
+   "p": 400,
+   "ar": "بيوت",
+   "alt": [
+    "Biyut",
+    "Buyoot",
+    "Byoot"
+   ]
+  },
+  {
+   "q": "What is the plural of 'madina' (city) in Arabic?",
+   "a": "Mudun",
+   "p": 400,
+   "ar": "مدن",
+   "alt": [
+    "Moden",
+    "Mudon"
+   ]
+  },
+  {
+   "q": "What is the formal Standard Arabic used in writing and news, as opposed to dialects, often called?",
+   "a": "Fusha",
+   "p": 400,
+   "ar": "الفصحى",
+   "alt": [
+    "Fus'ha",
+    "Modern Standard Arabic",
+    "MSA",
+    "Fusah"
+   ]
+  },
+  {
+   "q": "Which English word for a periodical, or a store for ammunition, comes from Arabic 'makhazin', meaning storehouses?",
+   "a": "Magazine",
+   "p": 400
+  },
+  {
+   "q": "Which English word for an expedition, via Swahili, comes from Arabic 'safar', meaning journey?",
+   "a": "Safari",
+   "p": 400
+  },
+  {
+   "q": "Which English word for a long cushioned seat comes from Arabic 'suffa'?",
+   "a": "Sofa",
+   "p": 400
+  },
+  {
+   "q": "Which soft plant fibre's English name comes from Arabic 'qutn'?",
+   "a": "Cotton",
+   "p": 400
+  },
+  {
+   "q": "Which tall African animal's English name comes from Arabic 'zarafa'?",
+   "a": "Giraffe",
+   "p": 400
+  },
+  {
+   "q": "Which English word for the number of apples left after eating them all comes via Arabic 'sifr'?",
+   "a": "Zero",
+   "p": 400,
+   "alt": [
+    "Cipher"
+   ]
+  },
+  {
+   "q": "Which English word for a step-by-step computing procedure comes from the name Al-Khwarizmi?",
+   "a": "Algorithm",
+   "p": 400
+  },
+  {
+   "q": "What does the Arabic word 'majlis' literally mean, from the verb 'to sit'?",
+   "a": "A place of sitting",
+   "p": 400,
+   "alt": [
+    "Sitting place",
+    "Place to sit",
+    "Sitting room"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for 'dictionary'?",
+   "a": "Qamus",
+   "p": 400,
+   "ar": "قاموس",
+   "alt": [
+    "Mu'jam",
+    "Mujam",
+    "Gamous",
+    "Qamoos"
+   ]
+  },
+  {
+   "q": "What does the title of the dictionary 'Lisan al-Arab' mean in English?",
+   "a": "Tongue of the Arabs",
+   "p": 400,
+   "alt": [
+    "The Arabs' Tongue",
+    "Language of the Arabs",
+    "Tongue of Arabs"
+   ]
+  },
+  {
+   "q": "In Ras Al Khaimah, what does 'Ras' mean?",
+   "a": "Head",
+   "p": 400,
+   "alt": [
+    "Cape",
+    "Headland"
+   ]
+  },
+  {
+   "q": "Which 13th-century scholar compiled the dictionary 'Lisan al-Arab'?",
+   "a": "Ibn Manzur",
+   "p": 600,
+   "ar": "ابن منظور",
+   "alt": [
+    "Ibn Manzour",
+    "Ibn Manzoor"
+   ]
+  },
+  {
+   "q": "The first major Arabic dictionary, attributed to Al-Khalil ibn Ahmad, is named after which letter?",
+   "a": "Ayn",
+   "p": 600,
+   "ar": "عين",
+   "alt": [
+    "Ain",
+    "'Ayn"
+   ]
+  },
+  {
+   "q": "Which 10th-century vizier and calligrapher is credited with codifying proportioned Arabic script?",
+   "a": "Ibn Muqla",
+   "p": 600,
+   "ar": "ابن مقلة",
+   "alt": [
+    "Ibn Muqlah"
+   ]
+  },
+  {
+   "q": "Which 11th-century Baghdad calligrapher refined Ibn Muqla's system?",
+   "a": "Ibn al-Bawwab",
+   "p": 600,
+   "ar": "ابن البواب",
+   "alt": [
+    "Ibn Bawwab",
+    "Ibn al Bawab"
+   ]
+  },
+  {
+   "q": "Diwani script was developed in the chancery of which empire?",
+   "a": "Ottoman Empire",
+   "p": 600,
+   "alt": [
+    "Ottoman",
+    "Ottomans"
+   ]
+  },
+  {
+   "q": "What is the Arabic term for the Ottoman sultan's calligraphic monogram?",
+   "a": "Tughra",
+   "p": 600,
+   "ar": "طغراء",
+   "alt": [
+    "Tugra",
+    "Tughrah"
+   ]
+  },
+  {
+   "q": "Which hanging, flowing script, associated with Persian, is used to write Urdu?",
+   "a": "Nastaliq",
+   "p": 600,
+   "ar": "نستعليق",
+   "alt": [
+    "Nasta'liq",
+    "Nastaleeq"
+   ]
+  },
+  {
+   "q": "What is the Arabic term for irregular plurals such as 'kutub'?",
+   "a": "Broken plural",
+   "p": 600,
+   "alt": [
+    "Broken plurals"
+   ]
+  },
+  {
+   "q": "What is the Arabic term for case endings and inflection in grammar?",
+   "a": "I'rab",
+   "p": 600,
+   "ar": "الإعراب",
+   "alt": [
+    "Irab",
+    "Iraab"
+   ]
+  },
+  {
+   "q": "What is the Arabic term for the nunation endings (-un, -an, -in) on indefinite nouns?",
+   "a": "Tanwin",
+   "p": 600,
+   "ar": "تنوين",
+   "alt": [
+    "Tanween",
+    "Nunation"
+   ]
+  },
+  {
+   "q": "What is the name of the mark ة that often ends feminine Arabic nouns?",
+   "a": "Ta marbuta",
+   "p": 600,
+   "ar": "تاء مربوطة",
+   "alt": [
+    "Taa marbouta",
+    "Ta marbutah",
+    "Tied ta"
+   ]
+  },
+  {
+   "q": "What is the Arabic term for 'colloquial' speech, as opposed to Fusha?",
+   "a": "Ammiyya",
+   "p": 600,
+   "ar": "عامية",
+   "alt": [
+    "Aamiyya",
+    "Amiyya",
+    "Ammiya"
+   ]
+  },
+  {
+   "q": "What is the Arabic dialect of Morocco commonly called?",
+   "a": "Darija",
+   "p": 600,
+   "ar": "الدارجة",
+   "alt": [
+    "Darijah",
+    "Moroccan Arabic",
+    "Maghrebi Arabic"
+   ]
+  },
+  {
+   "q": "Which grammarian wrote 'Al-Kitab', the foundational work on Arabic grammar?",
+   "a": "Sibawayh",
+   "p": 600,
+   "ar": "سيبويه",
+   "alt": [
+    "Sibawaih",
+    "Sibawayhi"
+   ]
+  },
+  {
+   "q": "Which Germany-born scholar's Arabic-English dictionary is a standard reference for Modern Standard Arabic?",
+   "a": "Hans Wehr",
+   "p": 600,
+   "alt": [
+    "Wehr"
+   ]
+  },
+  {
+   "q": "Arabic is one of the six official languages of which international organization, with English and French?",
+   "a": "United Nations",
+   "p": 600,
+   "alt": [
+    "UN",
+    "The UN"
+   ]
+  },
+  {
+   "q": "On which date is Arabic Language Day, designated by the UN, observed each year?",
+   "a": "18 December",
+   "p": 600,
+   "alt": [
+    "December 18",
+    "18 Dec"
+   ]
+  },
+  {
+   "q": "Which English word for a soft cushioned bed base comes from Arabic 'matrah', meaning something thrown down?",
+   "a": "Mattress",
+   "p": 600
+  },
+  {
+   "q": "Which English word for a customs duty list comes from Arabic 'ta'rif', meaning notification?",
+   "a": "Tariff",
+   "p": 600
+  },
+  {
+   "q": "Which English astronomy term for the point directly overhead comes from Arabic 'samt'?",
+   "a": "Zenith",
+   "p": 600
+  },
+  {
+   "q": "Which English astronomy term for the lowest point, opposite the zenith, comes from Arabic 'nazir'?",
+   "a": "Nadir",
+   "p": 600
+  },
+  {
+   "q": "Which English word for a naval commander comes from Arabic 'amir al-bahr', commander of the sea?",
+   "a": "Admiral",
+   "p": 600
+  },
+  {
+   "q": "Which English word for a seasonal wind comes from Arabic 'mawsim', meaning season?",
+   "a": "Monsoon",
+   "p": 600
+  },
+  {
+   "q": "Which English word for a magic potion comes from Arabic 'al-iksir'?",
+   "a": "Elixir",
+   "p": 600
+  },
+  {
+   "q": "Which English word for a small decorative disc on clothes comes from Arabic 'sikka', a coin die?",
+   "a": "Sequin",
+   "p": 600
+  },
+  {
+   "q": "Which orange fruit's English name traces through Arabic 'al-birquq'?",
+   "a": "Apricot",
+   "p": 600
+  },
+  {
+   "q": "Which English word for a leafy green vegetable comes from Arabic 'isfanakh' via Persian?",
+   "a": "Spinach",
+   "p": 600
+  },
+  {
+   "q": "Which English word for a sugary sweet traces to Arabic 'qandi', meaning crystallised sugar?",
+   "a": "Candy",
+   "p": 600
+  },
+  {
+   "q": "Which Eastern Arabic numeral digit is written ٤?",
+   "a": "4",
+   "p": 600,
+   "alt": [
+    "Four"
+   ]
+  },
+  {
+   "q": "Which Eastern Arabic numeral digit is written ٧?",
+   "a": "7",
+   "p": 600,
+   "alt": [
+    "Seven"
+   ]
+  }
+ ]
+}

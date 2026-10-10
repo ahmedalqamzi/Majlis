@@ -1,0 +1,683 @@
+{
+ "id": "uaefastfood",
+ "name": "UAE Fast Food",
+ "questions": [
+  {
+   "q": "Which Levantine wrap of spit-roasted meat is a UAE street food favourite?",
+   "a": "Shawarma",
+   "p": 200,
+   "ar": "شاورما",
+   "alt": [
+    "Shwarma",
+    "Shawerma",
+    "Shawurma"
+   ]
+  },
+  {
+   "q": "Which garlic sauce is served with shawarma and grilled chicken?",
+   "a": "Toum",
+   "p": 200,
+   "ar": "توم",
+   "alt": [
+    "Thoum",
+    "Tum",
+    "Garlic sauce"
+   ]
+  },
+  {
+   "q": "Which fried chickpea patties give Operation Falafel its name?",
+   "a": "Falafel",
+   "p": 200,
+   "ar": "فلافل",
+   "alt": [
+    "Felafel",
+    "Falaafel",
+    "Ta'amiya"
+   ]
+  },
+  {
+   "q": "Which spiced milk tea is a roadside favourite across the UAE?",
+   "a": "Karak chai",
+   "p": 200,
+   "ar": "شاي كرك",
+   "alt": [
+    "Karak",
+    "Karak tea",
+    "Chai karak"
+   ]
+  },
+  {
+   "q": "Which canned dairy product makes karak chai creamy?",
+   "a": "Evaporated milk",
+   "p": 200
+  },
+  {
+   "q": "Which green-pod spice flavours karak chai?",
+   "a": "Cardamom",
+   "p": 200,
+   "ar": "هيل",
+   "alt": [
+    "Hail",
+    "Heil",
+    "Elaichi"
+   ]
+  },
+  {
+   "q": "Which Emirati dessert is made of sweet fried dough balls?",
+   "a": "Luqaimat",
+   "p": 200,
+   "ar": "لقيمات",
+   "alt": [
+    "Lugaimat",
+    "Legaimat",
+    "Lukaimat"
+   ]
+  },
+  {
+   "q": "Which fruit syrup is drizzled over luqaimat?",
+   "a": "Date syrup",
+   "p": 200,
+   "ar": "دبس التمر",
+   "alt": [
+    "Dibs",
+    "Dibs al tamr",
+    "Date molasses"
+   ]
+  },
+  {
+   "q": "Which Canadian coffee and doughnut chain sells Timbits?",
+   "a": "Tim Hortons",
+   "p": 200
+  },
+  {
+   "q": "Which New York burger chain is famous for the ShackBurger?",
+   "a": "Shake Shack",
+   "p": 200
+  },
+  {
+   "q": "Which Filipino chain is famous for Chickenjoy?",
+   "a": "Jollibee",
+   "p": 200
+  },
+  {
+   "q": "Which South African chain is famous for peri-peri chicken?",
+   "a": "Nando's",
+   "p": 200
+  },
+  {
+   "q": "Which Gulf-born chicken chain is famed for broasted chicken?",
+   "a": "Al Baik",
+   "p": 200,
+   "ar": "البيك",
+   "alt": [
+    "Albaik",
+    "Al-Baik",
+    "Elbaik"
+   ]
+  },
+  {
+   "q": "Which ride-hailing app that began in Dubai also delivers food?",
+   "a": "Careem",
+   "p": 200,
+   "ar": "كريم"
+  },
+  {
+   "q": "Which food delivery app's name means \"orders\" in Arabic?",
+   "a": "Talabat",
+   "p": 200,
+   "ar": "طلبات",
+   "alt": [
+    "Talabat app"
+   ]
+  },
+  {
+   "q": "Which Virginia-born burger chain is known for free peanuts?",
+   "a": "Five Guys",
+   "p": 200
+  },
+  {
+   "q": "Which Dubai burger truck is named after a seasoning?",
+   "a": "Salt",
+   "p": 200
+  },
+  {
+   "q": "Which Levantine flatbread is baked with a za'atar topping?",
+   "a": "Manakish",
+   "p": 200,
+   "ar": "مناقيش",
+   "alt": [
+    "Manakeesh",
+    "Manaqish",
+    "Mana'eesh"
+   ]
+  },
+  {
+   "q": "Which herb and sesame blend tops manakish?",
+   "a": "Za'atar",
+   "p": 200,
+   "ar": "زعتر",
+   "alt": [
+    "Zaatar",
+    "Zatar",
+    "Zaater"
+   ]
+  },
+  {
+   "q": "What does Careem call its drivers?",
+   "a": "Captains",
+   "p": 200
+  },
+  {
+   "q": "Which country's cuisine inspires Operation Falafel?",
+   "a": "Lebanon",
+   "p": 200,
+   "ar": "لبنان"
+  },
+  {
+   "q": "A Chips Oman sandwich is built around which snack?",
+   "a": "Potato chips",
+   "p": 200
+  },
+  {
+   "q": "Which sesame paste sauce is served with falafel?",
+   "a": "Tahini",
+   "p": 200,
+   "ar": "طحينة",
+   "alt": [
+    "Tahina",
+    "Tahineh",
+    "Tehina",
+    "Tahin"
+   ]
+  },
+  {
+   "q": "Which dried fruit is traditionally served with Arabic coffee?",
+   "a": "Dates",
+   "p": 200,
+   "ar": "التمر",
+   "alt": [
+    "Tamr",
+    "Tamar"
+   ]
+  },
+  {
+   "q": "Which flaky South Asian bread is often served with karak?",
+   "a": "Paratha",
+   "p": 200
+  },
+  {
+   "q": "Which UAE burger brand is named after a brined cucumber?",
+   "a": "Pickl",
+   "p": 200
+  },
+  {
+   "q": "Which cold salty yogurt drink is served with grilled meals?",
+   "a": "Laban",
+   "p": 200,
+   "ar": "لبن",
+   "alt": [
+    "Ayran",
+    "Laban Ayran"
+   ]
+  },
+  {
+   "q": "Which chain sells the Whopper?",
+   "a": "Burger King",
+   "p": 200
+  },
+  {
+   "q": "Which country is Tim Hortons from?",
+   "a": "Canada",
+   "p": 200
+  },
+  {
+   "q": "Which creamy chickpea dip comes with shawarma platters?",
+   "a": "Hummus",
+   "p": 200,
+   "ar": "حمص",
+   "alt": [
+    "Hummous",
+    "Houmous",
+    "Hommos",
+    "Hommus"
+   ]
+  },
+  {
+   "q": "What do residents call small, cheap eateries famous for karak?",
+   "a": "Cafeterias",
+   "p": 200
+  },
+  {
+   "q": "Which fried chicken chain is known for the Zinger burger?",
+   "a": "KFC",
+   "p": 200
+  },
+  {
+   "q": "Which chain is known for the Big Mac?",
+   "a": "McDonald's",
+   "p": 200
+  },
+  {
+   "q": "Which cooling yogurt cheese is often served with manakish?",
+   "a": "Labneh",
+   "p": 200,
+   "ar": "لبنة",
+   "alt": [
+    "Labne",
+    "Labna",
+    "Labaneh",
+    "Lebneh"
+   ]
+  },
+  {
+   "q": "Which pizza chain uses a red roof logo?",
+   "a": "Pizza Hut",
+   "p": 200
+  },
+  {
+   "q": "Which Saudi city is the home of Al Baik?",
+   "a": "Jeddah",
+   "p": 400,
+   "ar": "جدة",
+   "alt": [
+    "Jiddah",
+    "Jedda",
+    "Jidda"
+   ]
+  },
+  {
+   "q": "Which country did Jollibee originate in?",
+   "a": "Philippines",
+   "p": 400
+  },
+  {
+   "q": "What is Jollibee's sweet-style pasta dish called?",
+   "a": "Jolly Spaghetti",
+   "p": 400
+  },
+  {
+   "q": "Which fruity dessert pie is a Jollibee favourite?",
+   "a": "Peach Mango Pie",
+   "p": 400
+  },
+  {
+   "q": "Which burger line is Hardee's best known for?",
+   "a": "Thickburger",
+   "p": 400
+  },
+  {
+   "q": "What is Nando's signature chilli sauce called?",
+   "a": "Peri-peri",
+   "p": 400
+  },
+  {
+   "q": "Which two food cultures inspired Nando's?",
+   "a": "Portuguese and Mozambican",
+   "p": 400
+  },
+  {
+   "q": "Which free snack is offered in shells at Five Guys?",
+   "a": "Peanuts",
+   "p": 400
+  },
+  {
+   "q": "Which spiced fries flavour does Five Guys offer?",
+   "a": "Cajun",
+   "p": 400
+  },
+  {
+   "q": "In which US city did Shake Shack begin?",
+   "a": "New York City",
+   "p": 400
+  },
+  {
+   "q": "What does Shake Shack call its custard blended with mix-ins?",
+   "a": "Concrete",
+   "p": 400
+  },
+  {
+   "q": "Which Canadian province did Tim Hortons start in?",
+   "a": "Ontario",
+   "p": 400
+  },
+  {
+   "q": "What is Texas Chicken called in the USA?",
+   "a": "Church's",
+   "p": 400
+  },
+  {
+   "q": "In which country was Talabat founded?",
+   "a": "Kuwait",
+   "p": 400,
+   "ar": "الكويت"
+  },
+  {
+   "q": "Which German company owns Talabat?",
+   "a": "Delivery Hero",
+   "p": 400
+  },
+  {
+   "q": "Which company acquired Careem?",
+   "a": "Uber",
+   "p": 400
+  },
+  {
+   "q": "What does the name Careem mean in Arabic?",
+   "a": "Generous",
+   "p": 400,
+   "ar": "كريم"
+  },
+  {
+   "q": "Which UAE city is Operation Falafel based in?",
+   "a": "Dubai",
+   "p": 400,
+   "ar": "دبي"
+  },
+  {
+   "q": "What does \"farooj\" mean in Arabic?",
+   "a": "Chicken",
+   "p": 400
+  },
+  {
+   "q": "Al Farooj Fresh is best known for which dish?",
+   "a": "Grilled chicken",
+   "p": 400
+  },
+  {
+   "q": "Which Dubai beach hosts the original Salt truck?",
+   "a": "Kite Beach",
+   "p": 400
+  },
+  {
+   "q": "Which dairy topping is classic in a Chips Oman sandwich?",
+   "a": "Cheese",
+   "p": 400
+  },
+  {
+   "q": "What does the word karak mean?",
+   "a": "Strong",
+   "p": 400
+  },
+  {
+   "q": "Which kind of tea is the base of karak chai?",
+   "a": "Black tea",
+   "p": 400
+  },
+  {
+   "q": "Which brined white cheese tops many cheese manakish?",
+   "a": "Akkawi",
+   "p": 400,
+   "ar": "عكاوي",
+   "alt": [
+    "Akawi",
+    "Ackawi",
+    "Akkawi cheese"
+   ]
+  },
+  {
+   "q": "Egyptian falafel is traditionally made from which bean?",
+   "a": "Fava beans",
+   "p": 400
+  },
+  {
+   "q": "Luqaimat are often sprinkled with which seed?",
+   "a": "Sesame",
+   "p": 400
+  },
+  {
+   "q": "Which pink pickled root is rolled into shawarma?",
+   "a": "Turnip",
+   "p": 400
+  },
+  {
+   "q": "Which grocery service is run by Talabat?",
+   "a": "Talabat Mart",
+   "p": 400,
+   "ar": "طلبات مارت"
+  },
+  {
+   "q": "Which British-founded app competes in UAE food delivery?",
+   "a": "Deliveroo",
+   "p": 400
+  },
+  {
+   "q": "What colour is Talabat's brand?",
+   "a": "Orange",
+   "p": 400
+  },
+  {
+   "q": "Which sauce is Al Baik most famous for?",
+   "a": "Garlic sauce",
+   "p": 400
+  },
+  {
+   "q": "Which Levantine fried pastry is stuffed with cheese or meat?",
+   "a": "Sambousek",
+   "p": 400,
+   "ar": "سمبوسك",
+   "alt": [
+    "Sambusak",
+    "Sambousa",
+    "Sambosa",
+    "Samboosa"
+   ]
+  },
+  {
+   "q": "Which fava bean dish is a classic Gulf breakfast?",
+   "a": "Foul",
+   "p": 400,
+   "ar": "فول",
+   "alt": [
+    "Ful",
+    "Fool",
+    "Ful medames",
+    "Foul medames"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for bread?",
+   "a": "Khubz",
+   "p": 400,
+   "ar": "خبز",
+   "alt": [
+    "Khobz",
+    "Khubuz",
+    "Khubs"
+   ]
+  },
+  {
+   "q": "Which soft bread roll is used for a Chips Oman sandwich?",
+   "a": "Samoon",
+   "p": 600,
+   "ar": "صمون",
+   "alt": [
+    "Samun",
+    "Samoun",
+    "Sammoun"
+   ]
+  },
+  {
+   "q": "Shawarma comes from a Turkish word meaning what?",
+   "a": "Turning",
+   "p": 600
+  },
+  {
+   "q": "Which city is Talabat headquartered in?",
+   "a": "Dubai",
+   "p": 600,
+   "ar": "دبي"
+  },
+  {
+   "q": "On which exchange is Talabat listed?",
+   "a": "Dubai Financial Market",
+   "p": 600
+  },
+  {
+   "q": "Who co-founded Careem and served as its CEO?",
+   "a": "Mudassir Sheikha",
+   "p": 600,
+   "ar": "مدثر شيخة",
+   "alt": [
+    "Mudassir Shaikha",
+    "Muddassir Sheikha"
+   ]
+  },
+  {
+   "q": "Which Swedish entrepreneur co-founded Careem?",
+   "a": "Magnus Olsson",
+   "p": 600
+  },
+  {
+   "q": "Who founded Pickl?",
+   "a": "Stephen Flawith",
+   "p": 600
+  },
+  {
+   "q": "Operation Falafel launched which record-length wrap?",
+   "a": "Metre-long shawarma",
+   "p": 600
+  },
+  {
+   "q": "Which US state is Hardee's from?",
+   "a": "North Carolina",
+   "p": 600
+  },
+  {
+   "q": "Which Texas city is home to Church's Texas Chicken?",
+   "a": "San Antonio",
+   "p": 600
+  },
+  {
+   "q": "Which South African city is Nando's from?",
+   "a": "Johannesburg",
+   "p": 600
+  },
+  {
+   "q": "Tim Hortons is named after a player of which sport?",
+   "a": "Ice hockey",
+   "p": 600
+  },
+  {
+   "q": "Who founded Shake Shack?",
+   "a": "Danny Meyer",
+   "p": 600
+  },
+  {
+   "q": "Which New York park hosted Shake Shack's first kiosk?",
+   "a": "Madison Square Park",
+   "p": 600
+  },
+  {
+   "q": "What is the Five Guys founding family's surname?",
+   "a": "Murrell",
+   "p": 600
+  },
+  {
+   "q": "Who founded Al Baik?",
+   "a": "Shakour Abu Ghazalah",
+   "p": 600,
+   "ar": "شكور أبو غزالة",
+   "alt": [
+    "Shakour Abu Ghazaleh",
+    "Shakoor Abu Ghazaleh"
+   ]
+  },
+  {
+   "q": "Who founded Jollibee?",
+   "a": "Tony Tan Caktiong",
+   "p": 600
+  },
+  {
+   "q": "Karak chai arrived with migrants from which region?",
+   "a": "South Asia",
+   "p": 600
+  },
+  {
+   "q": "What is the singular of manakish?",
+   "a": "Man'oushe",
+   "p": 600,
+   "ar": "منقوشة",
+   "alt": [
+    "Manousheh",
+    "Manoushe",
+    "Manousha"
+   ]
+  },
+  {
+   "q": "What does luqaimat mean in Arabic?",
+   "a": "Little morsels",
+   "p": 600
+  },
+  {
+   "q": "What is falafel called in Egypt?",
+   "a": "Ta'amiya",
+   "p": 600,
+   "ar": "طعمية",
+   "alt": [
+    "Ta'ameya",
+    "Taamiya",
+    "Tamiya"
+   ]
+  },
+  {
+   "q": "Which thin bread baked on a domed griddle wraps shawarma?",
+   "a": "Saj",
+   "p": 600,
+   "ar": "صاج",
+   "alt": [
+    "Saj bread",
+    "Markook"
+   ]
+  },
+  {
+   "q": "Which city is Delivery Hero headquartered in?",
+   "a": "Berlin",
+   "p": 600
+  },
+  {
+   "q": "Salt launched a burger with which unusual colour bun?",
+   "a": "Black",
+   "p": 600
+  },
+  {
+   "q": "What does \"double-double\" mean at Tim Hortons?",
+   "a": "Two creams, two sugars",
+   "p": 600
+  },
+  {
+   "q": "Which chilli variety underpins peri-peri sauce?",
+   "a": "African bird's eye",
+   "p": 600
+  },
+  {
+   "q": "Which Gulf group operates Hardee's across the region?",
+   "a": "Americana",
+   "p": 600,
+   "ar": "أمريكانا",
+   "alt": [
+    "Americana Group",
+    "Americana Restaurants"
+   ]
+  },
+  {
+   "q": "Which Kuwaiti group operates Shake Shack in the UAE?",
+   "a": "Alshaya",
+   "p": 600,
+   "ar": "مجموعة الشايع",
+   "alt": [
+    "Alshaya Group",
+    "M.H. Alshaya"
+   ]
+  },
+  {
+   "q": "Which US state was KFC's founder Harland Sanders based in?",
+   "a": "Kentucky",
+   "p": 600
+  },
+  {
+   "q": "What cooking method defines broasted chicken?",
+   "a": "Pressure frying",
+   "p": 600
+  }
+ ]
+}

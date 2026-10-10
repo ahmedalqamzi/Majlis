@@ -1,0 +1,971 @@
+{
+ "id": "uaesymbols",
+ "name": "UAE National Symbols",
+ "questions": [
+  {
+   "q": "How many colours are on the UAE flag?",
+   "a": "Four",
+   "p": 200,
+   "alt": [
+    "4"
+   ]
+  },
+  {
+   "q": "Which colour is the vertical band on the flagpole side of the UAE flag?",
+   "a": "Red",
+   "p": 200,
+   "ar": "أحمر",
+   "alt": [
+    "Ahmar"
+   ]
+  },
+  {
+   "q": "Which colour forms the middle horizontal stripe of the UAE flag?",
+   "a": "White",
+   "p": 200,
+   "ar": "أبيض",
+   "alt": [
+    "Abyad"
+   ]
+  },
+  {
+   "q": "Which colour forms the bottom horizontal stripe of the UAE flag?",
+   "a": "Black",
+   "p": 200,
+   "ar": "أسود",
+   "alt": [
+    "Aswad"
+   ]
+  },
+  {
+   "q": "Which colour of the UAE flag stands for growth and prosperity?",
+   "a": "Green",
+   "p": 200,
+   "ar": "أخضر",
+   "alt": [
+    "Akhdar"
+   ]
+  },
+  {
+   "q": "On which date is UAE Flag Day marked each year?",
+   "a": "3 November",
+   "p": 200,
+   "alt": [
+    "November 3",
+    "3rd November",
+    "3 Nov",
+    "Nov 3"
+   ]
+  },
+  {
+   "q": "On which date is UAE National Day celebrated each year?",
+   "a": "2 December",
+   "p": 200,
+   "alt": [
+    "December 2",
+    "2nd December",
+    "2 Dec",
+    "Dec 2"
+   ]
+  },
+  {
+   "q": "In which year was the United Arab Emirates founded?",
+   "a": "1971",
+   "p": 200
+  },
+  {
+   "q": "Which bird is the national bird of the UAE?",
+   "a": "Falcon",
+   "p": 200,
+   "ar": "الصقر",
+   "alt": [
+    "Saqr",
+    "Saker falcon",
+    "Sagr",
+    "Saker"
+   ]
+  },
+  {
+   "q": "Which long-horned desert antelope is the UAE's national animal?",
+   "a": "Arabian oryx",
+   "p": 200,
+   "ar": "المها",
+   "alt": [
+    "Oryx",
+    "Al Maha",
+    "Maha"
+   ]
+  },
+  {
+   "q": "Which hardy desert tree is the UAE's national tree?",
+   "a": "Ghaf",
+   "p": 200,
+   "ar": "الغاف",
+   "alt": [
+    "Ghaf tree",
+    "Prosopis cineraria",
+    "Al Ghaf"
+   ]
+  },
+  {
+   "q": "What is the title of the UAE national anthem?",
+   "a": "Ishy Bilady",
+   "p": 200,
+   "ar": "عيشي بلادي",
+   "alt": [
+    "Ishi Bilady",
+    "Eishi Biladi",
+    "Ishy Biladi",
+    "Aishy Bilady"
+   ]
+  },
+  {
+   "q": "What does the title of the UAE national anthem mean in English?",
+   "a": "Long live my country",
+   "p": 200,
+   "alt": [
+    "Long live my nation",
+    "Long may my country live"
+   ]
+  },
+  {
+   "q": "What is the name of the UAE's currency?",
+   "a": "Dirham",
+   "p": 200,
+   "ar": "درهم",
+   "alt": [
+    "UAE Dirham",
+    "AED",
+    "Dirhams"
+   ]
+  },
+  {
+   "q": "How many fils make one dirham?",
+   "a": "100",
+   "p": 200,
+   "ar": "مئة",
+   "alt": [
+    "One hundred",
+    "Hundred"
+   ]
+  },
+  {
+   "q": "What is the international three-letter code for the UAE dirham?",
+   "a": "AED",
+   "p": 200
+  },
+  {
+   "q": "Which foreign currency is the dirham pegged to?",
+   "a": "US dollar",
+   "p": 200,
+   "ar": "الدولار الأمريكي",
+   "alt": [
+    "USD",
+    "Dollar",
+    "American dollar",
+    "United States dollar"
+   ]
+  },
+  {
+   "q": "Who was the first President of the UAE?",
+   "a": "Sheikh Zayed bin Sultan Al Nahyan",
+   "p": 200,
+   "ar": "الشيخ زايد بن سلطان آل نهيان",
+   "alt": [
+    "Sheikh Zayed",
+    "Zayed bin Sultan",
+    "Zayed"
+   ]
+  },
+  {
+   "q": "How many emirates make up the UAE?",
+   "a": "Seven",
+   "p": 200,
+   "ar": "سبعة",
+   "alt": [
+    "7"
+   ]
+  },
+  {
+   "q": "In which emirate is Union House, the site of the 1971 flag raising, located?",
+   "a": "Dubai",
+   "p": 200,
+   "ar": "دبي"
+  },
+  {
+   "q": "How many stars appear on the UAE emblem?",
+   "a": "Seven",
+   "p": 200,
+   "ar": "سبعة",
+   "alt": [
+    "7"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for 'flag' used for the UAE flag?",
+   "a": "Alam",
+   "p": 200,
+   "ar": "علم",
+   "alt": [
+    "Aalam",
+    "Raya",
+    "Rayah"
+   ]
+  },
+  {
+   "q": "In which language is the UAE national anthem sung?",
+   "a": "Arabic",
+   "p": 200,
+   "ar": "العربية",
+   "alt": [
+    "Al Arabiya"
+   ]
+  },
+  {
+   "q": "In which year did the UAE celebrate its Golden Jubilee, the 50th National Day?",
+   "a": "2021",
+   "p": 200
+  },
+  {
+   "q": "What is the lowest-value UAE banknote?",
+   "a": "5 dirhams",
+   "p": 200,
+   "ar": "خمسة دراهم",
+   "alt": [
+    "Dh5",
+    "5 dirham",
+    "Five dirhams",
+    "Dh 5"
+   ]
+  },
+  {
+   "q": "What is the highest-value UAE banknote?",
+   "a": "1,000 dirhams",
+   "p": 200,
+   "ar": "ألف درهم",
+   "alt": [
+    "Dh1000",
+    "1000 dirham",
+    "Dh 1,000",
+    "One thousand dirhams"
+   ]
+  },
+  {
+   "q": "Which grand mosque in Abu Dhabi is named after the UAE's first President?",
+   "a": "Sheikh Zayed Grand Mosque",
+   "p": 200,
+   "ar": "جامع الشيخ زايد الكبير",
+   "alt": [
+    "Sheikh Zayed Mosque",
+    "Grand Mosque",
+    "Zayed Grand Mosque"
+   ]
+  },
+  {
+   "q": "What is the UAE National Day called in Arabic, meaning 'Feast of the Union'?",
+   "a": "Eid Al Etihad",
+   "p": 200,
+   "ar": "عيد الاتحاد",
+   "alt": [
+    "Eid Al Ittihad",
+    "Eid Al Etihad",
+    "Eid Etihad"
+   ]
+  },
+  {
+   "q": "What do the letters UAE stand for?",
+   "a": "United Arab Emirates",
+   "p": 200,
+   "alt": [
+    "The United Arab Emirates"
+   ]
+  },
+  {
+   "q": "On which date is UAE Commemoration Day held each year?",
+   "a": "30 November",
+   "p": 200,
+   "alt": [
+    "November 30",
+    "30th November",
+    "30 Nov",
+    "Nov 30"
+   ]
+  },
+  {
+   "q": "Which Dubai skyscraper is lit up in the national flag colours on National Day?",
+   "a": "Burj Khalifa",
+   "p": 200,
+   "ar": "برج خليفة",
+   "alt": [
+    "Burj Khalifah"
+   ]
+  },
+  {
+   "q": "Which UAE Air Force aerobatic team often flies with flag-coloured smoke on National Day?",
+   "a": "Al Fursan",
+   "p": 200,
+   "ar": "الفرسان",
+   "alt": [
+    "Al Fursan team",
+    "Alfursan",
+    "Fursan"
+   ]
+  },
+  {
+   "q": "Which emirate is the capital of the UAE?",
+   "a": "Abu Dhabi",
+   "p": 200,
+   "ar": "أبوظبي",
+   "alt": [
+    "Abu Dhabi city"
+   ]
+  },
+  {
+   "q": "What is the name of the small unit of UAE currency worth one hundredth of a dirham?",
+   "a": "Fils",
+   "p": 200,
+   "ar": "فلس",
+   "alt": [
+    "Fils coin",
+    "Fulus"
+   ]
+  },
+  {
+   "q": "Which Arabic word for 'falcon' is also a popular Emirati boy's name?",
+   "a": "Saqr",
+   "p": 200,
+   "ar": "صقر",
+   "alt": [
+    "Sagr",
+    "Saker",
+    "Saqer",
+    "Sakr"
+   ]
+  },
+  {
+   "q": "Which Emirati teenager designed the UAE flag after winning a 1971 competition?",
+   "a": "Abdullah Mohammed Al Maainah",
+   "p": 400,
+   "ar": "عبدالله محمد المعينة",
+   "alt": [
+    "Abdullah Al Maainah",
+    "Abdulla Al Maainah",
+    "Abdullah Al Maena",
+    "Abdullah Mohammad Al Maainah"
+   ]
+  },
+  {
+   "q": "The UAE flag's red, green, white and black are known collectively as which family of colours?",
+   "a": "Pan-Arab colours",
+   "p": 400,
+   "ar": "ألوان الوحدة العربية",
+   "alt": [
+    "Pan Arab colours",
+    "Pan-Arab colors",
+    "Arab Liberation colours",
+    "Arab unity colours"
+   ]
+  },
+  {
+   "q": "Which colour of the UAE flag is commonly said to stand for peace and purity?",
+   "a": "White",
+   "p": 400,
+   "ar": "أبيض",
+   "alt": [
+    "Abyad"
+   ]
+  },
+  {
+   "q": "Which Emirati leader announced the creation of Flag Day?",
+   "a": "Sheikh Mohammed bin Rashid Al Maktoum",
+   "p": 400,
+   "ar": "الشيخ محمد بن راشد آل مكتوم",
+   "alt": [
+    "Sheikh Mohammed bin Rashid",
+    "Mohammed bin Rashid",
+    "Sheikh Mohammed"
+   ]
+  },
+  {
+   "q": "Flag Day marks the anniversary of whose accession as UAE President?",
+   "a": "Sheikh Khalifa bin Zayed Al Nahyan",
+   "p": 400,
+   "ar": "الشيخ خليفة بن زايد آل نهيان",
+   "alt": [
+    "Sheikh Khalifa",
+    "Khalifa bin Zayed",
+    "Khalifa"
+   ]
+  },
+  {
+   "q": "What is the Arabic name of the Arabian oryx?",
+   "a": "Al Maha",
+   "p": 400,
+   "ar": "المها",
+   "alt": [
+    "Maha",
+    "Mahaa",
+    "Al Mahaa"
+   ]
+  },
+  {
+   "q": "What is the Arabic term for the national anthem?",
+   "a": "Al Nashid Al Watani",
+   "p": 400,
+   "ar": "النشيد الوطني",
+   "alt": [
+    "Nashid Watani",
+    "Al Nasheed Al Watani",
+    "Nasheed Watani"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for 'emblem' as in the UAE national emblem?",
+   "a": "Shi'ar",
+   "p": 400,
+   "ar": "شعار",
+   "alt": [
+    "Shiar",
+    "Sh'ar",
+    "Shaar",
+    "Shea'r"
+   ]
+  },
+  {
+   "q": "Before the 2008 redesign, which traditional boat appeared on the red disc of the UAE emblem?",
+   "a": "Dhow",
+   "p": 400,
+   "ar": "داو",
+   "alt": [
+    "Sailing boat",
+    "Arab sailboat",
+    "Sailing ship",
+    "Dau"
+   ]
+  },
+  {
+   "q": "Which Egyptian composer wrote the melody of the UAE national anthem?",
+   "a": "Saad Abdel Wahab",
+   "p": 400,
+   "ar": "سعد عبد الوهاب",
+   "alt": [
+    "Saad Abdul Wahab",
+    "Saad Abd El Wahab",
+    "Saad Abdelwahab"
+   ]
+  },
+  {
+   "q": "The melody of Ishy Bilady was composed by a musician from which Arab country?",
+   "a": "Egypt",
+   "p": 400,
+   "ar": "مصر",
+   "alt": [
+    "Misr"
+   ]
+  },
+  {
+   "q": "At which building in Dubai did the UAE's founding leaders gather on 2 December 1971?",
+   "a": "Union House",
+   "p": 400,
+   "ar": "دار الاتحاد",
+   "alt": [
+    "Dar Al Etihad",
+    "Dar Al Ittihad",
+    "Etihad House",
+    "Bait Al Etihad"
+   ]
+  },
+  {
+   "q": "Which Dubai museum was built around Union House?",
+   "a": "Etihad Museum",
+   "p": 400,
+   "ar": "متحف الاتحاد",
+   "alt": [
+    "Al Etihad Museum",
+    "Ittihad Museum"
+   ]
+  },
+  {
+   "q": "Which emirate was the last of the seven to join the federation, in February 1972?",
+   "a": "Ras Al Khaimah",
+   "p": 400,
+   "ar": "رأس الخيمة",
+   "alt": [
+    "RAK",
+    "Ras Al-Khaimah",
+    "Ras Alkhaimah"
+   ]
+  },
+  {
+   "q": "How many emirates formed the UAE on 2 December 1971?",
+   "a": "Six",
+   "p": 400,
+   "ar": "ستة",
+   "alt": [
+    "6"
+   ]
+  },
+  {
+   "q": "Which Dubai Ruler became the UAE's first Vice President?",
+   "a": "Sheikh Rashid bin Saeed Al Maktoum",
+   "p": 400,
+   "ar": "الشيخ راشد بن سعيد آل مكتوم",
+   "alt": [
+    "Sheikh Rashid",
+    "Rashid bin Saeed"
+   ]
+  },
+  {
+   "q": "What was Commemoration Day originally called when it was introduced in 2015?",
+   "a": "Martyrs' Day",
+   "p": 400,
+   "ar": "يوم الشهيد",
+   "alt": [
+    "Martyr's Day",
+    "Martyrs Day",
+    "Yawm Al Shaheed",
+    "Martyr Day"
+   ]
+  },
+  {
+   "q": "Which denomination was the UAE's first polymer banknote, introduced in 2021?",
+   "a": "50 dirhams",
+   "p": 400,
+   "ar": "خمسون درهما",
+   "alt": [
+    "Dh50",
+    "50 dirham",
+    "Fifty dirhams",
+    "Dh 50"
+   ]
+  },
+  {
+   "q": "The new dirham symbol unveiled in 2025 is based on which Latin letter?",
+   "a": "D",
+   "p": 400,
+   "alt": [
+    "Letter D",
+    "The letter D"
+   ]
+  },
+  {
+   "q": "In which year was the UAE dirham introduced?",
+   "a": "1973",
+   "p": 400
+  },
+  {
+   "q": "How many different banknote values make up the UAE dirham series?",
+   "a": "Eight",
+   "p": 400,
+   "alt": [
+    "8"
+   ]
+  },
+  {
+   "q": "The 50 dirham banknote is mainly which colour?",
+   "a": "Purple",
+   "p": 400,
+   "ar": "بنفسجي",
+   "alt": [
+    "Violet",
+    "Banafsaji"
+   ]
+  },
+  {
+   "q": "The 10 dirham banknote is mainly which colour?",
+   "a": "Green",
+   "p": 400,
+   "ar": "أخضر",
+   "alt": [
+    "Akhdar"
+   ]
+  },
+  {
+   "q": "Which traditional performance, with rows of men swaying and waving canes, features at National Day events?",
+   "a": "Al Ayyala",
+   "p": 400,
+   "ar": "العيالة",
+   "alt": [
+    "Ayyala",
+    "Al Ayala",
+    "Al Yowla"
+   ]
+  },
+  {
+   "q": "The UAE marked 2018 as the Year of which founding father, on the centenary of his birth?",
+   "a": "Sheikh Zayed",
+   "p": 400,
+   "ar": "الشيخ زايد",
+   "alt": [
+    "Zayed",
+    "Sheikh Zayed bin Sultan Al Nahyan",
+    "Zayed bin Sultan"
+   ]
+  },
+  {
+   "q": "What is the Arabic plural of 'dirham'?",
+   "a": "Darahim",
+   "p": 400,
+   "ar": "دراهم",
+   "alt": [
+    "Daraham",
+    "Darahem",
+    "Darahem"
+   ]
+  },
+  {
+   "q": "In which year was UAE Flag Day first marked?",
+   "a": "2013",
+   "p": 400
+  },
+  {
+   "q": "What is Flag Day called in Arabic?",
+   "a": "Yawm Al Alam",
+   "p": 400,
+   "ar": "يوم العلم",
+   "alt": [
+    "Youm Al Alam",
+    "Yom Al Alam",
+    "Yawm Al Alam"
+   ]
+  },
+  {
+   "q": "What is National Day called in Arabic?",
+   "a": "Al Yawm Al Watani",
+   "p": 400,
+   "ar": "اليوم الوطني",
+   "alt": [
+    "Youm Al Watani",
+    "Yawm Watani",
+    "Al Youm Al Watani"
+   ]
+  },
+  {
+   "q": "In which year did Sheikh Khalifa bin Zayed become UAE President, the event Flag Day commemorates?",
+   "a": "2004",
+   "p": 400
+  },
+  {
+   "q": "Which two rulers agreed in 1968 to form a union of their emirates, paving the way for the UAE?",
+   "a": "Sheikh Zayed and Sheikh Rashid",
+   "p": 400,
+   "ar": "الشيخ زايد والشيخ راشد",
+   "alt": [
+    "Zayed and Rashid",
+    "Zayed of Abu Dhabi and Rashid of Dubai"
+   ]
+  },
+  {
+   "q": "The 5 dirham banknote is mainly which colour?",
+   "a": "Brown",
+   "p": 400,
+   "ar": "بني",
+   "alt": [
+    "Bunni"
+   ]
+  },
+  {
+   "q": "The 100 dirham banknote is mainly which colour?",
+   "a": "Pink",
+   "p": 400,
+   "ar": "وردي",
+   "alt": [
+    "Red",
+    "Pinkish red",
+    "Wardi"
+   ]
+  },
+  {
+   "q": "Which white fort in Abu Dhabi is regarded as the oldest stone building in the city?",
+   "a": "Qasr Al Hosn",
+   "p": 400,
+   "ar": "قصر الحصن",
+   "alt": [
+    "Qasr Al Hisn",
+    "Al Hosn Fort",
+    "Al Hosn",
+    "White Fort"
+   ]
+  },
+  {
+   "q": "The anthem is played at schools during which daily morning ritual?",
+   "a": "Flag raising",
+   "p": 400,
+   "ar": "رفع العلم",
+   "alt": [
+    "Raising the flag",
+    "Flag hoisting",
+    "Morning assembly flag raising"
+   ]
+  },
+  {
+   "q": "Who wrote the lyrics of the UAE national anthem?",
+   "a": "Arif Al Sheikh Abdullah Al Hassan",
+   "p": 600,
+   "ar": "عارف الشيخ عبدالله الحسن",
+   "alt": [
+    "Arif Al Sheikh",
+    "Dr Arif Al Sheikh",
+    "Arif Sheikh Abdullah Hassan"
+   ]
+  },
+  {
+   "q": "In which year were the lyrics of the UAE national anthem written?",
+   "a": "1986",
+   "p": 600
+  },
+  {
+   "q": "For roughly how many years after 1971 was the anthem performed without words?",
+   "a": "15",
+   "p": 600,
+   "alt": [
+    "Fifteen",
+    "15 years"
+   ]
+  },
+  {
+   "q": "What is the width-to-length ratio of the UAE flag?",
+   "a": "1:2",
+   "p": 600,
+   "alt": [
+    "1 to 2",
+    "One to two",
+    "1:2 ratio"
+   ]
+  },
+  {
+   "q": "How old was the designer of the UAE flag when he created it in 1971?",
+   "a": "19",
+   "p": 600,
+   "alt": [
+    "Nineteen",
+    "19 years old"
+   ]
+  },
+  {
+   "q": "Which newspaper ran the 1971 competition to design the UAE flag?",
+   "a": "Al Ittihad",
+   "p": 600,
+   "ar": "الاتحاد",
+   "alt": [
+    "Al Etihad",
+    "Al Ittihad newspaper",
+    "Al-Ittihad"
+   ]
+  },
+  {
+   "q": "In December 1971 the UAE flag was raised for the first time at the headquarters of which international organisation?",
+   "a": "United Nations",
+   "p": 600,
+   "ar": "الأمم المتحدة",
+   "alt": [
+    "UN",
+    "The United Nations"
+   ]
+  },
+  {
+   "q": "On which date in December 1971 was the UAE admitted to the United Nations?",
+   "a": "9 December",
+   "p": 600,
+   "alt": [
+    "December 9",
+    "9th December",
+    "9 Dec"
+   ]
+  },
+  {
+   "q": "At what time is the flag hoisted across the UAE on Flag Day?",
+   "a": "11:00 am",
+   "p": 600,
+   "alt": [
+    "11 am",
+    "11am",
+    "11:00",
+    "11 o'clock"
+   ]
+  },
+  {
+   "q": "The Etihad Museum building is designed in the shape of which type of document?",
+   "a": "Manuscript",
+   "p": 600,
+   "ar": "مخطوطة",
+   "alt": [
+    "Scroll",
+    "Document",
+    "Parchment"
+   ]
+  },
+  {
+   "q": "The Etihad Museum has seven columns resembling what writing tools used to sign the union declaration?",
+   "a": "Pens",
+   "p": 600,
+   "ar": "أقلام",
+   "alt": [
+    "Pen",
+    "Quills",
+    "Aqlam"
+   ]
+  },
+  {
+   "q": "Which architecture firm designed the Etihad Museum?",
+   "a": "Moriyama & Teshima",
+   "p": 600,
+   "alt": [
+    "Moriyama and Teshima",
+    "Moriyama & Teshima Architects",
+    "Moriyama Teshima"
+   ]
+  },
+  {
+   "q": "Union House in Dubai was originally what type of residence for visiting guests?",
+   "a": "Guest house",
+   "p": 600,
+   "ar": "بيت الضيافة",
+   "alt": [
+    "Guesthouse",
+    "Palace guesthouse",
+    "Diyafa"
+   ]
+  },
+  {
+   "q": "Which Abu Dhabi memorial opposite the Sheikh Zayed Grand Mosque honours Emirati fallen heroes?",
+   "a": "Wahat Al Karama",
+   "p": 600,
+   "ar": "واحة الكرامة",
+   "alt": [
+    "Wahat Al Karamah",
+    "Oasis of Dignity",
+    "Wahat Alkarama"
+   ]
+  },
+  {
+   "q": "Which British artist created the leaning pillars of the Wahat Al Karama memorial?",
+   "a": "Idris Khan",
+   "p": 600
+  },
+  {
+   "q": "Wahat Al Karama covers roughly how many square metres?",
+   "a": "46,000",
+   "p": 600,
+   "alt": [
+    "46000",
+    "46,000 square metres",
+    "46000 sqm"
+   ]
+  },
+  {
+   "q": "Who is remembered as the first Emirati martyr, honoured on Commemoration Day?",
+   "a": "Salem Suhail Khamis",
+   "p": 600,
+   "ar": "سالم سهيل خميس",
+   "alt": [
+    "Salem Suhail bin Khamis",
+    "Salim Suhail Khamis",
+    "Salem Suhail"
+   ]
+  },
+  {
+   "q": "In which year did President Sheikh Khalifa declare Commemoration Day?",
+   "a": "2015",
+   "p": 600
+  },
+  {
+   "q": "The word 'dirham' ultimately comes from which ancient Greek coin?",
+   "a": "Drachma",
+   "p": 600,
+   "alt": [
+    "Drachm",
+    "Drachme"
+   ]
+  },
+  {
+   "q": "In 1973 the dirham replaced the Qatar and Dubai what?",
+   "a": "Riyal",
+   "p": 600,
+   "ar": "ريال",
+   "alt": [
+    "Rial",
+    "Riyals",
+    "Qatar and Dubai riyal"
+   ]
+  },
+  {
+   "q": "In which year was the Central Bank of the UAE established?",
+   "a": "1980",
+   "p": 600
+  },
+  {
+   "q": "Which fort in Al Ain appears with an Arabian oryx on the older 50 dirham banknote?",
+   "a": "Al Jahili Fort",
+   "p": 600,
+   "ar": "قلعة الجاهلي",
+   "alt": [
+    "Al Jahili",
+    "Jahili Fort",
+    "Qalaat Al Jahili"
+   ]
+  },
+  {
+   "q": "Which Dubai fort appears on the older 100 dirham banknote?",
+   "a": "Al Fahidi Fort",
+   "p": 600,
+   "ar": "قلعة الفهيدي",
+   "alt": [
+    "Al Fahidi",
+    "Fahidi Fort",
+    "Al Fahidi Historical Fort"
+   ]
+  },
+  {
+   "q": "In which year was the UAE emblem redesigned, replacing the boat with the flag and seven stars?",
+   "a": "2008",
+   "p": 600
+  },
+  {
+   "q": "In 2019, the Year of Tolerance chose which UAE national tree as its symbol?",
+   "a": "Ghaf",
+   "p": 600,
+   "ar": "الغاف",
+   "alt": [
+    "Ghaf tree",
+    "Al Ghaf"
+   ]
+  },
+  {
+   "q": "What is the scientific name of the ghaf tree?",
+   "a": "Prosopis cineraria",
+   "p": 600,
+   "alt": [
+    "Prosopis Cineraria"
+   ]
+  },
+  {
+   "q": "In which year did the UAE's provisional constitution become permanent?",
+   "a": "1996",
+   "p": 600
+  },
+  {
+   "q": "Ras Al Khaimah joined the UAE in 1972; in which month?",
+   "a": "February",
+   "p": 600,
+   "ar": "فبراير",
+   "alt": [
+    "Feb"
+   ]
+  },
+  {
+   "q": "In which month of 2025 did the Central Bank of the UAE unveil the new dirham symbol?",
+   "a": "March",
+   "p": 600,
+   "ar": "مارس",
+   "alt": [
+    "Mar"
+   ]
+  },
+  {
+   "q": "In which year was falconry first inscribed on UNESCO's intangible heritage list, with the UAE among the first countries?",
+   "a": "2010",
+   "p": 600
+  }
+ ]
+}

@@ -1,0 +1,799 @@
+{
+ "id": "conan",
+ "name": "Detective Conan",
+ "questions": [
+  {
+   "q": "Which Japanese manga artist created Detective Conan?",
+   "a": "Gosho Aoyama",
+   "p": 200,
+   "alt": [
+    "Aoyama Gosho",
+    "Aoyama"
+   ]
+  },
+  {
+   "q": "What is the real name of the teenage detective who is shrunk into a child?",
+   "a": "Shinichi Kudo",
+   "p": 200,
+   "alt": [
+    "Shinichi Kudou",
+    "Jimmy Kudo"
+   ]
+  },
+  {
+   "q": "What false name does the shrunken detective give to hide his identity?",
+   "a": "Conan Edogawa",
+   "p": 200,
+   "alt": [
+    "Edogawa Conan"
+   ]
+  },
+  {
+   "q": "Who is Shinichi's childhood friend who lives at the detective agency?",
+   "a": "Ran Mouri",
+   "p": 200,
+   "alt": [
+    "Ran Mori",
+    "Rachel Moore"
+   ]
+  },
+  {
+   "q": "Which bumbling private detective is Ran's father?",
+   "a": "Kogoro Mouri",
+   "p": 200,
+   "alt": [
+    "Kogoro Mori",
+    "Richard Moore",
+    "Sleeping Kogoro"
+   ]
+  },
+  {
+   "q": "What is the name of the drug that shrinks Shinichi?",
+   "a": "APTX 4869",
+   "p": 200,
+   "alt": [
+    "APTX4869",
+    "Apoptoxin 4869",
+    "Apotoxin 4869"
+   ]
+  },
+  {
+   "q": "How old is Shinichi Kudo in his real body?",
+   "a": "17",
+   "p": 200,
+   "alt": [
+    "Seventeen"
+   ]
+  },
+  {
+   "q": "Which sport is Shinichi especially good at?",
+   "a": "Football",
+   "p": 200,
+   "alt": [
+    "Soccer"
+   ]
+  },
+  {
+   "q": "Which kindly inventor makes most of Conan's gadgets?",
+   "a": "Professor Agasa",
+   "p": 200,
+   "alt": [
+    "Dr. Agasa",
+    "Hiroshi Agasa",
+    "Hakase Agasa"
+   ]
+  },
+  {
+   "q": "What is the criminal group behind the shrinking drug called?",
+   "a": "The Black Organization",
+   "p": 200,
+   "alt": [
+    "Black Organization",
+    "Men in Black",
+    "The Organization"
+   ]
+  },
+  {
+   "q": "Which phantom thief in a white suit and monocle steals jewels in the series?",
+   "a": "Kaito Kid",
+   "p": 200,
+   "alt": [
+    "Kid the Phantom Thief",
+    "Kaitou Kid",
+    "KID",
+    "Phantom Thief Kid"
+   ]
+  },
+  {
+   "q": "Which former Black Organization scientist becomes Conan's classmate?",
+   "a": "Ai Haibara",
+   "p": 200,
+   "alt": [
+    "Haibara Ai",
+    "Shiho Miyano",
+    "Anita Hailey"
+   ]
+  },
+  {
+   "q": "What is the name of the group of Conan's elementary school friends?",
+   "a": "Detective Boys",
+   "p": 200,
+   "alt": [
+    "Shonen Tanteidan",
+    "Junior Detective League"
+   ]
+  },
+  {
+   "q": "What accessory lets Conan imitate other people's voices?",
+   "a": "Bow tie",
+   "p": 200,
+   "alt": [
+    "Voice changing bow tie",
+    "Voice-changing bow tie"
+   ]
+  },
+  {
+   "q": "What does the device on Conan's wrist fire to knock people out?",
+   "a": "Tranquilizer dart",
+   "p": 200,
+   "alt": [
+    "Anesthetic needle",
+    "Sleeping dart",
+    "Stun dart",
+    "Tranquilizer needle"
+   ]
+  },
+  {
+   "q": "Which martial art does Ran practise at championship level?",
+   "a": "Karate",
+   "p": 200
+  },
+  {
+   "q": "In which country is the series set?",
+   "a": "Japan",
+   "p": 200
+  },
+  {
+   "q": "Under what English title is Detective Conan known in the United States?",
+   "a": "Case Closed",
+   "p": 200
+  },
+  {
+   "q": "Which famous fictional detective does Shinichi admire the most?",
+   "a": "Sherlock Holmes",
+   "p": 200
+  },
+  {
+   "q": "What does Conan ride, built by Professor Agasa, to travel quickly?",
+   "a": "Skateboard",
+   "p": 200,
+   "alt": [
+    "Turbo engine skateboard",
+    "Electric skateboard"
+   ]
+  },
+  {
+   "q": "What does Kid use to glide away after a heist?",
+   "a": "Hang glider",
+   "p": 200,
+   "alt": [
+    "Glider"
+   ]
+  },
+  {
+   "q": "Which girl is a member of the Detective Boys, besides Ai Haibara?",
+   "a": "Ayumi Yoshida",
+   "p": 200,
+   "alt": [
+    "Ayumi"
+   ]
+  },
+  {
+   "q": "What does Conan's belt gadget produce from compressed air?",
+   "a": "Soccer ball",
+   "p": 200,
+   "alt": [
+    "Football"
+   ]
+  },
+  {
+   "q": "Which detective from Osaka is known as the Detective of the West?",
+   "a": "Heiji Hattori",
+   "p": 200,
+   "alt": [
+    "Hattori Heiji",
+    "Harley Hartwell"
+   ]
+  },
+  {
+   "q": "Which Black Organization member has long silver-blond hair and a black coat?",
+   "a": "Gin",
+   "p": 200
+  },
+  {
+   "q": "Which large man in sunglasses is Gin's usual partner?",
+   "a": "Vodka",
+   "p": 200
+  },
+  {
+   "q": "What colour is Conan's signature bow tie?",
+   "a": "Red",
+   "p": 200
+  },
+  {
+   "q": "What is Kogoro Mouri's profession?",
+   "a": "Private detective",
+   "p": 200,
+   "alt": [
+    "Detective"
+   ]
+  },
+  {
+   "q": "Where does Conan live after he shrinks?",
+   "a": "Mouri Detective Agency",
+   "p": 200,
+   "alt": [
+    "Ran's house",
+    "Mouri's house",
+    "Mouri Detective Agency"
+   ]
+  },
+  {
+   "q": "Including Conan and Ai Haibara, how many members does the Detective Boys have?",
+   "a": "5",
+   "p": 200,
+   "alt": [
+    "Five"
+   ]
+  },
+  {
+   "q": "Who is Ran's wealthy best friend?",
+   "a": "Sonoko Suzuki",
+   "p": 200,
+   "alt": [
+    "Sonoko"
+   ]
+  },
+  {
+   "q": "Which big-built Detective Boy loves eating?",
+   "a": "Genta Kojima",
+   "p": 200,
+   "alt": [
+    "Genta"
+   ]
+  },
+  {
+   "q": "Whose surname gave Conan the 'Conan' half of his false name?",
+   "a": "Arthur Conan Doyle",
+   "p": 200,
+   "alt": [
+    "Conan Doyle",
+    "Doyle"
+   ]
+  },
+  {
+   "q": "What is the Arabic title of Detective Conan?",
+   "a": "Al-Muhaqqiq Conan",
+   "p": 200,
+   "ar": "المحقق كونان",
+   "alt": [
+    "Detective Conan",
+    "Almuhaqiq Conan",
+    "Al Mohaqeq Conan"
+   ]
+  },
+  {
+   "q": "What does Conan wear on his face that can track culprits and zoom?",
+   "a": "Glasses",
+   "p": 200,
+   "alt": [
+    "Eyeglasses",
+    "Tracking glasses"
+   ]
+  },
+  {
+   "q": "Which Detective Boy is the brainy boy who loves facts and mysteries?",
+   "a": "Mitsuhiko Tsuburaya",
+   "p": 400,
+   "alt": [
+    "Mitsuhiko"
+   ]
+  },
+  {
+   "q": "Who is the first person to learn Conan's true identity?",
+   "a": "Professor Agasa",
+   "p": 400,
+   "alt": [
+    "Agasa",
+    "Dr. Agasa"
+   ]
+  },
+  {
+   "q": "Which Osaka girl is Heiji Hattori's childhood friend?",
+   "a": "Kazuha Toyama",
+   "p": 400,
+   "alt": [
+    "Kazuha"
+   ]
+  },
+  {
+   "q": "What is the name of Ran's mother, a famous lawyer?",
+   "a": "Eri Kisaki",
+   "p": 400,
+   "alt": [
+    "Kisaki Eri"
+   ]
+  },
+  {
+   "q": "Which mystery novelist is Shinichi's father?",
+   "a": "Yusaku Kudo",
+   "p": 400,
+   "alt": [
+    "Yusaku Kudou"
+   ]
+  },
+  {
+   "q": "Which former actress is Shinichi's mother?",
+   "a": "Yukiko Kudo",
+   "p": 400,
+   "alt": [
+    "Yukiko Fujimine",
+    "Yukiko"
+   ]
+  },
+  {
+   "q": "At which amusement park was Shinichi shrunk?",
+   "a": "Tropical Land",
+   "p": 400
+  },
+  {
+   "q": "What is the name of the cafe beneath the Mouri Detective Agency?",
+   "a": "Cafe Poirot",
+   "p": 400,
+   "alt": [
+    "Poirot"
+   ]
+  },
+  {
+   "q": "In which fictional city is the Mouri Detective Agency located?",
+   "a": "Beika",
+   "p": 400,
+   "alt": [
+    "Beika City",
+    "Beika Town"
+   ]
+  },
+  {
+   "q": "Which police inspector of the Tokyo Metropolitan Police is a regular at crime scenes?",
+   "a": "Inspector Megure",
+   "p": 400,
+   "alt": [
+    "Juzo Megure",
+    "Megure"
+   ]
+  },
+  {
+   "q": "Which police inspector is forever chasing Kid?",
+   "a": "Ginzo Nakamori",
+   "p": 400,
+   "alt": [
+    "Inspector Nakamori",
+    "Nakamori"
+   ]
+  },
+  {
+   "q": "What is Kaito Kid's civilian name?",
+   "a": "Kaito Kuroba",
+   "p": 400,
+   "alt": [
+    "Kuroba Kaito"
+   ]
+  },
+  {
+   "q": "Which FBI agent is famous as an expert sniper and former infiltrator?",
+   "a": "Shuichi Akai",
+   "p": 400,
+   "alt": [
+    "Akai",
+    "Akai Shuichi"
+   ]
+  },
+  {
+   "q": "Which FBI agent taught English at Ran's high school?",
+   "a": "Jodie Starling",
+   "p": 400,
+   "alt": [
+    "Jodie Saintemillion",
+    "Jodie"
+   ]
+  },
+  {
+   "q": "What was Ai Haibara's codename inside the Black Organization?",
+   "a": "Sherry",
+   "p": 400
+  },
+  {
+   "q": "What press nickname is Shinichi given as a famous teen detective, comparing him to a legend?",
+   "a": "Heisei Holmes",
+   "p": 400,
+   "alt": [
+    "Heisei Sherlock Holmes",
+    "The Holmes of the Heisei Era"
+   ]
+  },
+  {
+   "q": "In which weekly magazine was Detective Conan serialised?",
+   "a": "Weekly Shonen Sunday",
+   "p": 400,
+   "alt": [
+    "Shonen Sunday"
+   ]
+  },
+  {
+   "q": "In which year did the Detective Conan manga begin?",
+   "a": "1994",
+   "p": 400
+  },
+  {
+   "q": "In which year did the Detective Conan anime begin?",
+   "a": "1996",
+   "p": 400
+  },
+  {
+   "q": "In which month of the year are the Detective Conan movies usually released in Japan?",
+   "a": "April",
+   "p": 400
+  },
+  {
+   "q": "What is the original Japanese title of Detective Conan?",
+   "a": "Meitantei Conan",
+   "p": 400,
+   "alt": [
+    "Meitantei Konan",
+    "Detective Conan"
+   ]
+  },
+  {
+   "q": "What gadget do the Detective Boys carry to track each other and talk by radio?",
+   "a": "Detective Boys Badge",
+   "p": 400,
+   "alt": [
+    "Detective Badge",
+    "Badge"
+   ]
+  },
+  {
+   "q": "Which food does Genta love most?",
+   "a": "Eel",
+   "p": 400,
+   "alt": [
+    "Unagi",
+    "Eel rice"
+   ]
+  },
+  {
+   "q": "What is Ai Haibara's real name?",
+   "a": "Shiho Miyano",
+   "p": 400,
+   "alt": [
+    "Miyano Shiho"
+   ]
+  },
+  {
+   "q": "What nickname does Kogoro earn in the press when he seems to solve cases while sleeping?",
+   "a": "Sleeping Kogoro",
+   "p": 400,
+   "alt": [
+    "Sleeping Mouri"
+   ]
+  },
+  {
+   "q": "What do Conan's special shoes enhance?",
+   "a": "Kicking power",
+   "p": 400,
+   "alt": [
+    "Kick",
+    "Kicks",
+    "Kick power"
+   ]
+  },
+  {
+   "q": "What is the title of the first Detective Conan film, released in 1997?",
+   "a": "The Time-Bombed Skyscraper",
+   "p": 600,
+   "alt": [
+    "Time Bombed Skyscraper",
+    "The Time Bombed Skyscraper"
+   ]
+  },
+  {
+   "q": "Which samurai manga did Gosho Aoyama create before Detective Conan?",
+   "a": "Yaiba",
+   "p": 600,
+   "alt": [
+    "Kenji Yaiba"
+   ]
+  },
+  {
+   "q": "Which Japanese prefecture is Gosho Aoyama's hometown?",
+   "a": "Tottori",
+   "p": 600,
+   "alt": [
+    "Tottori Prefecture"
+   ]
+  },
+  {
+   "q": "The numbers in APTX 4869 are Japanese wordplay for which famous detective's name?",
+   "a": "Sherlock",
+   "p": 600,
+   "alt": [
+    "Sherlock Holmes"
+   ]
+  },
+  {
+   "q": "Which British-educated high school detective is Kid's rival?",
+   "a": "Saguru Hakuba",
+   "p": 600,
+   "alt": [
+    "Hakuba Saguru",
+    "Hakuba"
+   ]
+  },
+  {
+   "q": "What is the name of Shinichi's and Ran's high school?",
+   "a": "Teitan High School",
+   "p": 600,
+   "alt": [
+    "Teitan High",
+    "Teitan"
+   ]
+  },
+  {
+   "q": "Who is Heiji Hattori's father, an Osaka police superintendent?",
+   "a": "Heizo Hattori",
+   "p": 600,
+   "alt": [
+    "Hattori Heizo"
+   ]
+  },
+  {
+   "q": "Who voices Conan Edogawa in the original Japanese anime?",
+   "a": "Minami Takayama",
+   "p": 600,
+   "alt": [
+    "Takayama Minami"
+   ]
+  },
+  {
+   "q": "Which Japanese voice actor voices both Shinichi Kudo and Kaito Kid?",
+   "a": "Kappei Yamaguchi",
+   "p": 600,
+   "alt": [
+    "Yamaguchi Kappei"
+   ]
+  },
+  {
+   "q": "Which publisher released the Detective Conan manga volumes?",
+   "a": "Shogakukan",
+   "p": 600
+  },
+  {
+   "q": "In which year was the first Detective Conan film released?",
+   "a": "1997",
+   "p": 600
+  },
+  {
+   "q": "In which country is the film The Fist of Blue Sapphire set?",
+   "a": "Singapore",
+   "p": 600
+  },
+  {
+   "q": "How do Black Organization members refer to their leader?",
+   "a": "That Person",
+   "p": 600,
+   "alt": [
+    "That Gentleman",
+    "Ano Kata",
+    "That Man"
+   ]
+  },
+  {
+   "q": "What nickname is Shuichi Akai known by in the FBI?",
+   "a": "Silver Bullet",
+   "p": 600,
+   "alt": [
+    "The Silver Bullet"
+   ]
+  },
+  {
+   "q": "Who is the original voice of Kogoro Mouri in the early anime?",
+   "a": "Akira Kamiya",
+   "p": 600,
+   "alt": [
+    "Kamiya Akira"
+   ]
+  },
+  {
+   "q": "Which Public Security officer goes by the alias Tooru Amuro?",
+   "a": "Rei Furuya",
+   "p": 600,
+   "alt": [
+    "Furuya Rei",
+    "Bourbon"
+   ]
+  },
+  {
+   "q": "Who is Sonoko Suzuki's boyfriend, an undefeated karate master?",
+   "a": "Makoto Kyogoku",
+   "p": 600,
+   "alt": [
+    "Kyogoku Makoto",
+    "Kyogoku"
+   ]
+  },
+  {
+   "q": "Which high school detective, a tomboyish transfer student, is Shuichi Akai's younger sister?",
+   "a": "Masumi Sera",
+   "p": 600,
+   "alt": [
+    "Sera Masumi"
+   ]
+  },
+  {
+   "q": "Which 2003 film, the seventh, is set in Kyoto?",
+   "a": "Crossroad in the Ancient Capital",
+   "p": 600,
+   "alt": [
+    "The Crossroad in the Ancient Capital"
+   ]
+  },
+  {
+   "q": "Which 1999 film, the third in the series, features Kaito Kid?",
+   "a": "The Last Wizard of the Century",
+   "p": 600,
+   "alt": [
+    "Last Wizard of the Century"
+   ]
+  },
+  {
+   "q": "What is the title of Yusaku Kudo's best-known mystery novel?",
+   "a": "The Night Baron",
+   "p": 600,
+   "alt": [
+    "Night Baron"
+   ]
+  },
+  {
+   "q": "What is the name of the Detective Boys' homeroom teacher at their elementary school?",
+   "a": "Sumiko Kobayashi",
+   "p": 600,
+   "alt": [
+    "Kobayashi Sumiko",
+    "Ms. Kobayashi"
+   ]
+  },
+  {
+   "q": "What is the codename of the Black Organization member who is a famous actress?",
+   "a": "Vermouth",
+   "p": 400,
+   "alt": [
+    "Chris Vineyard",
+    "Sharon Vineyard"
+   ]
+  },
+  {
+   "q": "What does Kaito Kid fire from his special gun?",
+   "a": "Playing cards",
+   "p": 400,
+   "alt": [
+    "Cards",
+    "Card gun"
+   ]
+  },
+  {
+   "q": "How old does Conan appear to be after the shrinking?",
+   "a": "7",
+   "p": 400,
+   "alt": [
+    "Seven"
+   ]
+  },
+  {
+   "q": "Which fictional masked hero do the Detective Boys idolise?",
+   "a": "Kamen Yaiba",
+   "p": 400,
+   "alt": [
+    "Masked Yaiba"
+   ]
+  },
+  {
+   "q": "Which Japanese sword art does Heiji Hattori practise?",
+   "a": "Kendo",
+   "p": 400
+  },
+  {
+   "q": "Which pop idol is Kogoro Mouri's favourite?",
+   "a": "Yoko Okino",
+   "p": 400,
+   "alt": [
+    "Okino Yoko"
+   ]
+  },
+  {
+   "q": "In the Funimation English dub, what is Ran Mouri renamed?",
+   "a": "Rachel Moore",
+   "p": 400
+  },
+  {
+   "q": "In the Funimation English dub, what is Kogoro Mouri renamed?",
+   "a": "Richard Moore",
+   "p": 400
+  },
+  {
+   "q": "Which 2018 film, the 22nd in the series, centres on Rei Furuya?",
+   "a": "Zero the Enforcer",
+   "p": 600,
+   "alt": [
+    "Zero's Executioner"
+   ]
+  },
+  {
+   "q": "Which alias does Shuichi Akai use while living in the Kudo mansion as a university student?",
+   "a": "Subaru Okiya",
+   "p": 600,
+   "alt": [
+    "Okiya Subaru"
+   ]
+  },
+  {
+   "q": "Which Tokyo-based TV station is the home of the Detective Conan anime in Japan?",
+   "a": "Yomiuri TV",
+   "p": 600,
+   "alt": [
+    "ytv",
+    "YTV",
+    "Yomiuri Telecasting Corporation"
+   ]
+  },
+  {
+   "q": "Who is Masumi Sera's mother, a British-born intelligence agent?",
+   "a": "Mary Sera",
+   "p": 600,
+   "alt": [
+    "Sera Mary"
+   ]
+  },
+  {
+   "q": "In which year was Gosho Aoyama born?",
+   "a": "1963",
+   "p": 600
+  },
+  {
+   "q": "What is Heiji Hattori called in the Funimation English dub?",
+   "a": "Harley Hartwell",
+   "p": 600
+  },
+  {
+   "q": "What is the title of the second Detective Conan film, released in 1998?",
+   "a": "The Fourteenth Target",
+   "p": 600,
+   "alt": [
+    "Fourteenth Target"
+   ]
+  },
+  {
+   "q": "What is the title of the fourth Detective Conan film, released in 2000?",
+   "a": "Captured in Her Eyes",
+   "p": 600
+  },
+  {
+   "q": "What is the name of the elementary school that Conan attends?",
+   "a": "Teitan Elementary School",
+   "p": 400,
+   "alt": [
+    "Teitan Elementary",
+    "Teitan"
+   ]
+  }
+ ]
+}

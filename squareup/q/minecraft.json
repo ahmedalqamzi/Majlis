@@ -1,0 +1,623 @@
+{
+ "id": "minecraft",
+ "name": "Minecraft",
+ "questions": [
+  {
+   "q": "Which Swedish programmer created Minecraft?",
+   "a": "Markus Persson",
+   "p": 200,
+   "alt": [
+    "Notch",
+    "Markus Notch Persson"
+   ]
+  },
+  {
+   "q": "Which green mob hisses and explodes when it gets close to the player?",
+   "a": "Creeper",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the fiery dimension reached through an obsidian portal?",
+   "a": "The Nether",
+   "p": 200,
+   "alt": [
+    "Nether"
+   ]
+  },
+  {
+   "q": "Which boss dragon lives in The End?",
+   "a": "Ender Dragon",
+   "p": 200,
+   "alt": [
+    "The Ender Dragon"
+   ]
+  },
+  {
+   "q": "Which tech company bought Mojang in 2014?",
+   "a": "Microsoft",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the default male player skin?",
+   "a": "Steve",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the default player skin with slim arms introduced in 2014?",
+   "a": "Alex",
+   "p": 200
+  },
+  {
+   "q": "Which game mode gives unlimited blocks and the ability to fly?",
+   "a": "Creative mode",
+   "p": 200,
+   "alt": [
+    "Creative"
+   ]
+  },
+  {
+   "q": "Which game mode deletes your world if you die?",
+   "a": "Hardcore mode",
+   "p": 200,
+   "alt": [
+    "Hardcore"
+   ]
+  },
+  {
+   "q": "Which block is needed to build a Nether portal frame?",
+   "a": "Obsidian",
+   "p": 200
+  },
+  {
+   "q": "Which tall black mob teleports and gets angry if you look at its eyes?",
+   "a": "Enderman",
+   "p": 200
+  },
+  {
+   "q": "Which undead mob shoots arrows at the player?",
+   "a": "Skeleton",
+   "p": 200
+  },
+  {
+   "q": "Which gem-quality material was the best tool tier before netherite arrived?",
+   "a": "Diamond",
+   "p": 200
+  },
+  {
+   "q": "Which animal gives you wool when sheared?",
+   "a": "Sheep",
+   "p": 200
+  },
+  {
+   "q": "Which animal can be tamed with bones?",
+   "a": "Wolf",
+   "p": 200
+  },
+  {
+   "q": "Which item do you place to light up a dark area, crafted from a stick and coal?",
+   "a": "Torch",
+   "p": 200
+  },
+  {
+   "q": "Which block explodes after being lit?",
+   "a": "TNT",
+   "p": 200
+  },
+  {
+   "q": "Which villagers' currency item is a green gem?",
+   "a": "Emerald",
+   "p": 200
+  },
+  {
+   "q": "Which item lets you sleep through the night and set your spawn point?",
+   "a": "Bed",
+   "p": 200
+  },
+  {
+   "q": "Which tool is best for chopping wood?",
+   "a": "Axe",
+   "p": 200
+  },
+  {
+   "q": "Which blue item is used to power enchantments in an enchanting table?",
+   "a": "Lapis lazuli",
+   "p": 200,
+   "alt": [
+    "Lapis",
+    "Lapis Lazuli"
+   ]
+  },
+  {
+   "q": "Which floating white mob in the Nether shoots fireballs?",
+   "a": "Ghast",
+   "p": 200
+  },
+  {
+   "q": "Which item do you use to catch fish?",
+   "a": "Fishing rod",
+   "p": 200
+  },
+  {
+   "q": "Which mob is a pink farm animal that can be ridden with a saddle?",
+   "a": "Pig",
+   "p": 200
+  },
+  {
+   "q": "Which three-headed boss is built from soul sand and skulls?",
+   "a": "Wither",
+   "p": 200
+  },
+  {
+   "q": "Which item is crafted from iron ingots and used to carry water or lava?",
+   "a": "Bucket",
+   "p": 200
+  },
+  {
+   "q": "In which year was the full version of Minecraft released?",
+   "a": "2011",
+   "p": 200
+  },
+  {
+   "q": "What do you craft from planks to store items?",
+   "a": "Chest",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the purple, floating-island dimension that holds the Ender Dragon?",
+   "a": "The End",
+   "p": 200,
+   "alt": [
+    "End"
+   ]
+  },
+  {
+   "q": "Which crop is planted in farmland and used to make bread?",
+   "a": "Wheat",
+   "p": 200
+  },
+  {
+   "q": "Which flying item is worn on the chest slot and allows gliding?",
+   "a": "Elytra",
+   "p": 200
+  },
+  {
+   "q": "Which tool do you need to mine stone and get cobblestone?",
+   "a": "Pickaxe",
+   "p": 200
+  },
+  {
+   "q": "Which glowing orange block is found in the Nether and used to make lamps?",
+   "a": "Glowstone",
+   "p": 200
+  },
+  {
+   "q": "In which Swedish city is Mojang's headquarters located?",
+   "a": "Stockholm",
+   "p": 400
+  },
+  {
+   "q": "Which Mojang developer, known as Jeb, took over as lead of Minecraft development from Notch?",
+   "a": "Jens Bergensten",
+   "p": 400,
+   "alt": [
+    "Jeb",
+    "Jens Jeb Bergensten"
+   ]
+  },
+  {
+   "q": "Which composer created the original Minecraft music tracks such as Sweden and Wet Hands?",
+   "a": "C418",
+   "p": 400,
+   "alt": [
+    "Daniel Rosenfeld"
+   ]
+  },
+  {
+   "q": "What is the minimum number of obsidian blocks needed to build a Nether portal, excluding corners?",
+   "a": "10",
+   "p": 400,
+   "alt": [
+    "Ten"
+   ]
+  },
+  {
+   "q": "How many real-world minutes does one full Minecraft day-night cycle last?",
+   "a": "20",
+   "p": 400,
+   "alt": [
+    "20 minutes",
+    "Twenty"
+   ]
+  },
+  {
+   "q": "Which item is used to locate a stronghold?",
+   "a": "Eye of Ender",
+   "p": 400,
+   "alt": [
+    "Ender Eye"
+   ]
+  },
+  {
+   "q": "Which mob drops a Totem of Undying?",
+   "a": "Evoker",
+   "p": 400
+  },
+  {
+   "q": "Which block is the villager job site for a librarian?",
+   "a": "Lectern",
+   "p": 400
+  },
+  {
+   "q": "Which structure is the home of Elder Guardians?",
+   "a": "Ocean Monument",
+   "p": 400
+  },
+  {
+   "q": "In which structure do Evokers and Vindicators live in a giant dark oak mansion?",
+   "a": "Woodland Mansion",
+   "p": 400
+  },
+  {
+   "q": "Which mob trades gold ingots for items in the Nether?",
+   "a": "Piglin",
+   "p": 400
+  },
+  {
+   "q": "Which Nether mob can walk on lava?",
+   "a": "Strider",
+   "p": 400
+  },
+  {
+   "q": "Which flying mob appears if the player has not slept for several in-game days?",
+   "a": "Phantom",
+   "p": 400
+  },
+  {
+   "q": "Which mythical glowing-eyed character is rumoured to appear in worlds?",
+   "a": "Herobrine",
+   "p": 400
+  },
+  {
+   "q": "Which update added bees and honey in 2019?",
+   "a": "Buzzy Bees",
+   "p": 400
+  },
+  {
+   "q": "Which update introduced the Warden and the Deep Dark in 2022?",
+   "a": "The Wild Update",
+   "p": 400,
+   "alt": [
+    "The Wild"
+   ]
+  },
+  {
+   "q": "Which small pink amphibian mob was added in Caves and Cliffs and can be kept in buckets?",
+   "a": "Axolotl",
+   "p": 400
+  },
+  {
+   "q": "Which block is crafted from a nether star and gives players buffs?",
+   "a": "Beacon",
+   "p": 400,
+   "alt": [
+    "Beacon pyramid"
+   ]
+  },
+  {
+   "q": "Which enchantment lets you walk on water by freezing it?",
+   "a": "Frost Walker",
+   "p": 400
+  },
+  {
+   "q": "Which enchantment lets you pick up ore or glass as an intact block?",
+   "a": "Silk Touch",
+   "p": 400
+  },
+  {
+   "q": "Which Telltale-developed 2015 spin-off was an episodic adventure?",
+   "a": "Minecraft: Story Mode",
+   "p": 400,
+   "alt": [
+    "Story Mode"
+   ]
+  },
+  {
+   "q": "Which 2020 spin-off was a dungeon-crawling action game?",
+   "a": "Minecraft Dungeons",
+   "p": 400,
+   "alt": [
+    "Dungeons"
+   ]
+  },
+  {
+   "q": "Which 2023 spin-off was a real-time strategy game?",
+   "a": "Minecraft Legends",
+   "p": 400,
+   "alt": [
+    "Legends"
+   ]
+  },
+  {
+   "q": "Which actor played Steve in the 2025 Minecraft movie?",
+   "a": "Jack Black",
+   "p": 400
+  },
+  {
+   "q": "Which mob can be cured of its curse with a golden apple and a Potion of Weakness?",
+   "a": "Zombie villager",
+   "p": 400,
+   "alt": [
+    "Zombified villager"
+   ]
+  },
+  {
+   "q": "Which music disc was composed by Lena Raine and found in a bastion remnant?",
+   "a": "Pigstep",
+   "p": 400
+  },
+  {
+   "q": "What was the working title of Minecraft in its earliest builds?",
+   "a": "Cave Game",
+   "p": 600
+  },
+  {
+   "q": "What was the name of the small studio Notch founded in 2009 before Mojang AB?",
+   "a": "Mojang Specifications",
+   "p": 600
+  },
+  {
+   "q": "In which US city was the first MINECON held in 2011?",
+   "a": "Las Vegas",
+   "p": 600
+  },
+  {
+   "q": "On what date in November 2011 was Minecraft 1.0 officially released?",
+   "a": "18 November",
+   "p": 600,
+   "alt": [
+    "November 18",
+    "18th November"
+   ]
+  },
+  {
+   "q": "Which Mojang card game, later renamed Caller's Bane, was Notch's other project?",
+   "a": "Scrolls",
+   "p": 600
+  },
+  {
+   "q": "What is the name for the extreme-distance terrain glitch in old versions?",
+   "a": "Far Lands",
+   "p": 600,
+   "alt": [
+    "Farlands"
+   ]
+  },
+  {
+   "q": "Which name tag name makes a sheep cycle through rainbow colours?",
+   "a": "jeb_",
+   "p": 600,
+   "alt": [
+    "Jeb"
+   ]
+  },
+  {
+   "q": "Which name tag name flips a mob upside down, named after a Mojang developer?",
+   "a": "Dinnerbone",
+   "p": 600,
+   "alt": [
+    "Grumm"
+   ]
+  },
+  {
+   "q": "What is the name of the killer rabbit variant with a special texture and name tag?",
+   "a": "Toast",
+   "p": 600,
+   "alt": [
+    "The Killer Bunny"
+   ]
+  },
+  {
+   "q": "Which enchantment is found only on books in ancient city chests?",
+   "a": "Swift Sneak",
+   "p": 600
+  },
+  {
+   "q": "How much experience does the Ender Dragon drop on its first defeat?",
+   "a": "12000",
+   "p": 600,
+   "alt": [
+    "12,000"
+   ]
+  },
+  {
+   "q": "What is the rarest natural axolotl colour?",
+   "a": "Blue",
+   "p": 600
+  },
+  {
+   "q": "What is the rarest natural sheep wool colour?",
+   "a": "Pink",
+   "p": 600
+  },
+  {
+   "q": "Which mob won the 2021 Minecraft Live mob vote?",
+   "a": "Allay",
+   "p": 600
+  },
+  {
+   "q": "Which mob won the 2022 mob vote and was added in 1.20?",
+   "a": "Sniffer",
+   "p": 600
+  },
+  {
+   "q": "Which mob won the 2023 mob vote?",
+   "a": "Armadillo",
+   "p": 600
+  },
+  {
+   "q": "Which mob is found in the Pale Garden biome?",
+   "a": "Creaking",
+   "p": 600
+  },
+  {
+   "q": "What is the maximum stack size of ender pearls?",
+   "a": "16",
+   "p": 600,
+   "alt": [
+    "Sixteen"
+   ]
+  },
+  {
+   "q": "Which AR game by Mojang launched in 2019?",
+   "a": "Minecraft Earth",
+   "p": 600,
+   "alt": [
+    "Earth"
+   ]
+  },
+  {
+   "q": "Which tool is used to excavate suspicious sand and gravel?",
+   "a": "Brush",
+   "p": 600
+  },
+  {
+   "q": "Which update, 1.14, added pillagers and ravagers?",
+   "a": "Village and Pillage",
+   "p": 600,
+   "alt": [
+    "Village & Pillage"
+   ]
+  },
+  {
+   "q": "Which smithing item upgrades diamond gear to netherite?",
+   "a": "Netherite upgrade smithing template",
+   "p": 600,
+   "alt": [
+    "Netherite Upgrade",
+    "Smithing template"
+   ]
+  },
+  {
+   "q": "Which year was Minecraft Classic first released publicly?",
+   "a": "2009",
+   "p": 600
+  },
+  {
+   "q": "Which mob is hostile at night, neutral in bright light, and can climb walls?",
+   "a": "Spider",
+   "p": 200
+  },
+  {
+   "q": "Which zombie variant is found in oceans and rivers and sometimes carries a trident?",
+   "a": "Drowned",
+   "p": 200
+  },
+  {
+   "q": "Which 2020 update added Piglins, Striders and netherite?",
+   "a": "Nether Update",
+   "p": 400,
+   "alt": [
+    "The Nether Update",
+    "1.16"
+   ]
+  },
+  {
+   "q": "When travelling through the Nether, how many Overworld blocks does one Nether block represent?",
+   "a": "8",
+   "p": 400,
+   "alt": [
+    "Eight"
+   ]
+  },
+  {
+   "q": "Which red-and-white cow variant is found only in Mushroom Fields?",
+   "a": "Mooshroom",
+   "p": 400
+  },
+  {
+   "q": "Which structure contains the End portal frame?",
+   "a": "Stronghold",
+   "p": 400
+  },
+  {
+   "q": "Which passive mob arrives with two llamas and sells rare items?",
+   "a": "Wandering Trader",
+   "p": 400
+  },
+  {
+   "q": "Which block is needed to brew potions?",
+   "a": "Brewing stand",
+   "p": 400
+  },
+  {
+   "q": "Which Nether fortress drop is ground into powder to fuel a brewing stand?",
+   "a": "Blaze rod",
+   "p": 400
+  },
+  {
+   "q": "What is the highest level cost in an enchanting table?",
+   "a": "30",
+   "p": 400,
+   "alt": [
+    "Thirty"
+   ]
+  },
+  {
+   "q": "Which 2018 update added dolphins, turtles and the Drowned?",
+   "a": "Update Aquatic",
+   "p": 400,
+   "alt": [
+    "Aquatic Update",
+    "1.13"
+   ]
+  },
+  {
+   "q": "Which composer created the music for disc 5, added in the Wild Update?",
+   "a": "Samuel Aberg",
+   "p": 600,
+   "alt": [
+    "Samuel Åberg"
+   ]
+  },
+  {
+   "q": "Which wind-based mob is found in Trial Chambers?",
+   "a": "Breeze",
+   "p": 600
+  },
+  {
+   "q": "Which block appears only after the Ender Dragon is defeated, and can be teleported by clicking it?",
+   "a": "Dragon egg",
+   "p": 600,
+   "alt": [
+    "Dragon Egg"
+   ]
+  },
+  {
+   "q": "How many layers does the largest beacon pyramid have?",
+   "a": "4",
+   "p": 600,
+   "alt": [
+    "Four"
+   ]
+  },
+  {
+   "q": "Which block is the job site of the armorer villager?",
+   "a": "Blast furnace",
+   "p": 600
+  },
+  {
+   "q": "How many billion US dollars did Microsoft pay for Mojang?",
+   "a": "2.5",
+   "p": 600,
+   "alt": [
+    "2.5 billion",
+    "2.5 billion dollars"
+   ]
+  },
+  {
+   "q": "Which block, crafted with a netherite ingot, can link a compass to a location?",
+   "a": "Lodestone",
+   "p": 600
+  }
+ ]
+}

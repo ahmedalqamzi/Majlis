@@ -1,0 +1,920 @@
+{
+ "id": "bahrain",
+ "name": "Bahrain",
+ "questions": [
+  {
+   "q": "What is the capital of Bahrain?",
+   "a": "Manama",
+   "p": 200,
+   "ar": "المنامة"
+  },
+  {
+   "q": "Which causeway links Bahrain with Saudi Arabia?",
+   "a": "King Fahd Causeway",
+   "p": 200,
+   "ar": "جسر الملك فهد",
+   "alt": [
+    "King Fahd Bridge"
+   ]
+  },
+  {
+   "q": "Which spiced rice and meat dish is considered a national dish of Bahrain?",
+   "a": "Machboos",
+   "p": 200,
+   "ar": "مجبوس",
+   "alt": [
+    "Machbous",
+    "Majboos",
+    "Machbus"
+   ]
+  },
+  {
+   "q": "What is the currency of Bahrain?",
+   "a": "Bahraini dinar",
+   "p": 200,
+   "ar": "الدينار البحريني",
+   "alt": [
+    "Dinar"
+   ]
+  },
+  {
+   "q": "Which Formula 1 circuit in the Sakhir desert hosts the Bahrain Grand Prix?",
+   "a": "Bahrain International Circuit",
+   "p": 200,
+   "ar": "حلبة البحرين الدولية",
+   "alt": [
+    "BIC",
+    "Sakhir"
+   ]
+  },
+  {
+   "q": "Which lone tree, said to survive in the desert with no visible water, is a famous Bahraini landmark?",
+   "a": "Tree of Life",
+   "p": 200,
+   "ar": "شجرة الحياة"
+  },
+  {
+   "q": "Before oil, which gems harvested from oysters were the backbone of Bahrain's economy?",
+   "a": "Pearls",
+   "p": 200,
+   "ar": "اللؤلؤ",
+   "alt": [
+    "Pearl",
+    "Natural pearls"
+   ]
+  },
+  {
+   "q": "Which Bronze Age civilisation was centred on Bahrain and traded with Mesopotamia and the Indus Valley?",
+   "a": "Dilmun",
+   "p": 200,
+   "ar": "دلمون"
+  },
+  {
+   "q": "Which airline is the national carrier of Bahrain?",
+   "a": "Gulf Air",
+   "p": 200,
+   "ar": "طيران الخليج"
+  },
+  {
+   "q": "Which two colours appear on the flag of Bahrain?",
+   "a": "Red and white",
+   "p": 200,
+   "ar": "الأحمر والأبيض",
+   "alt": [
+    "White and red"
+   ]
+  },
+  {
+   "q": "What is the official language of Bahrain?",
+   "a": "Arabic",
+   "p": 200,
+   "ar": "العربية"
+  },
+  {
+   "q": "Which fragrant spice is added to traditional Gulf Arabic coffee?",
+   "a": "Cardamom",
+   "p": 200,
+   "ar": "الهيل",
+   "alt": [
+    "Hail",
+    "Heel",
+    "Cardamon"
+   ]
+  },
+  {
+   "q": "Which sweet fruit of the palm tree is a staple of Gulf hospitality?",
+   "a": "Dates",
+   "p": 200,
+   "ar": "التمر",
+   "alt": [
+    "Tamr",
+    "Tamar"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for the sitting room where guests are received in Gulf homes?",
+   "a": "Majlis",
+   "p": 200,
+   "ar": "مجلس",
+   "alt": [
+    "Majlish"
+   ]
+  },
+  {
+   "q": "Which fragrant wood chips are burned in homes across the Gulf to perfume the room?",
+   "a": "Bakhoor",
+   "p": 200,
+   "ar": "بخور",
+   "alt": [
+    "Bukhoor",
+    "Bukhur",
+    "Oud incense"
+   ]
+  },
+  {
+   "q": "Which slow-cooked wheat and meat porridge is a Ramadan and Eid favourite across the Gulf?",
+   "a": "Harees",
+   "p": 200,
+   "ar": "هريس",
+   "alt": [
+    "Hareis",
+    "Haleem"
+   ]
+  },
+  {
+   "q": "Which triangular fried pastry stuffed with meat or cheese is a classic Ramadan snack in the Gulf?",
+   "a": "Samboosa",
+   "p": 200,
+   "ar": "سمبوسة",
+   "alt": [
+    "Samosa",
+    "Sambousek",
+    "Sambusak"
+   ]
+  },
+  {
+   "q": "Which translucent, jelly-like sweet flavoured with saffron, cardamom and nuts is Bahrain's most famous treat?",
+   "a": "Halwa",
+   "p": 200,
+   "ar": "حلوى بحرينية",
+   "alt": [
+    "Halva",
+    "Bahraini halwa",
+    "Halwa Showaiter"
+   ]
+  },
+  {
+   "q": "What is the name of the traditional wooden sailing vessel of the Gulf used by pearl divers and traders?",
+   "a": "Dhow",
+   "p": 200,
+   "ar": "الداو",
+   "alt": [
+    "Boom",
+    "Jalibut"
+   ]
+  },
+  {
+   "q": "Bahrain is an island nation in which gulf?",
+   "a": "Arabian Gulf",
+   "p": 200,
+   "ar": "الخليج العربي",
+   "alt": [
+    "Persian Gulf",
+    "The Gulf"
+   ]
+  },
+  {
+   "q": "Which Gulf country lies just south-east of Bahrain across the Gulf of Bahrain?",
+   "a": "Qatar",
+   "p": 200,
+   "ar": "قطر"
+  },
+  {
+   "q": "Bahrain is a founding member of which six-nation Gulf bloc, abbreviated GCC?",
+   "a": "Gulf Cooperation Council",
+   "p": 200,
+   "ar": "مجلس التعاون الخليجي",
+   "alt": [
+    "Cooperation Council for the Arab States of the Gulf"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for bread?",
+   "a": "Khubz",
+   "p": 200,
+   "ar": "خبز",
+   "alt": [
+    "Khubuz",
+    "Khobz",
+    "Khubs"
+   ]
+  },
+  {
+   "q": "Which sport is the most popular in Bahrain and across the Gulf?",
+   "a": "Football",
+   "p": 200,
+   "ar": "كرة القدم",
+   "alt": [
+    "Soccer"
+   ]
+  },
+  {
+   "q": "Which animal is nicknamed the 'ship of the desert'?",
+   "a": "Camel",
+   "p": 200,
+   "ar": "الجمل"
+  },
+  {
+   "q": "Which bird of prey is traditionally trained for hunting in the Gulf?",
+   "a": "Falcon",
+   "p": 200,
+   "ar": "الصقر",
+   "alt": [
+    "Saker falcon"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for a traditional market?",
+   "a": "Souq",
+   "p": 200,
+   "ar": "سوق",
+   "alt": [
+    "Souk",
+    "Suq"
+   ]
+  },
+  {
+   "q": "What is the long white robe worn by Gulf men called?",
+   "a": "Thobe",
+   "p": 200,
+   "ar": "ثوب",
+   "alt": [
+    "Thawb",
+    "Dishdasha",
+    "Kandura"
+   ]
+  },
+  {
+   "q": "What is the long black cloak worn by many women in the Gulf called?",
+   "a": "Abaya",
+   "p": 200,
+   "ar": "عباية",
+   "alt": [
+    "Abayah"
+   ]
+  },
+  {
+   "q": "What is the name of the meal that breaks the fast during Ramadan?",
+   "a": "Iftar",
+   "p": 200,
+   "ar": "إفطار",
+   "alt": [
+    "Ifṭār",
+    "Fitoor"
+   ]
+  },
+  {
+   "q": "Which holy month of fasting precedes Eid al-Fitr?",
+   "a": "Ramadan",
+   "p": 200,
+   "ar": "رمضان"
+  },
+  {
+   "q": "Which sweet fried dumplings drizzled with date syrup are a Gulf favourite?",
+   "a": "Luqaimat",
+   "p": 200,
+   "ar": "لقيمات",
+   "alt": [
+    "Lugaimat",
+    "Luqaymat",
+    "Gegaimat"
+   ]
+  },
+  {
+   "q": "Which expensive spice, from crocus flowers, gives Bahraini halwa its golden colour?",
+   "a": "Saffron",
+   "p": 200,
+   "ar": "الزعفران",
+   "alt": [
+    "Zafran",
+    "Zaafaran"
+   ]
+  },
+  {
+   "q": "Which spiced milky tea, popular across the Gulf, is brewed with cardamom?",
+   "a": "Karak",
+   "p": 200,
+   "ar": "كرك",
+   "alt": [
+    "Karak chai",
+    "Chai karak"
+   ]
+  },
+  {
+   "q": "Which Gulf breakfast dish of sweet saffron vermicelli topped with an omelette is eaten in Bahrain?",
+   "a": "Balaleet",
+   "p": 200,
+   "ar": "بلاليط",
+   "alt": [
+    "Balalit",
+    "Baleelat"
+   ]
+  },
+  {
+   "q": "Which island, Bahrain's former capital, is home to the international airport and the Pearling Path?",
+   "a": "Muharraq",
+   "p": 400,
+   "ar": "المحرق",
+   "alt": [
+    "Al Muharraq"
+   ]
+  },
+  {
+   "q": "In which year did Bahrain host its first Formula 1 race, the first in the Middle East?",
+   "a": "2004",
+   "p": 400
+  },
+  {
+   "q": "Which German driver won the inaugural Bahrain Grand Prix for Ferrari?",
+   "a": "Michael Schumacher",
+   "p": 400,
+   "ar": "ميخائيل شوماخر",
+   "alt": [
+    "Schumacher"
+   ]
+  },
+  {
+   "q": "Which European nation's name is attached to the old fort at Qal'at al-Bahrain, expanded in the 16th century?",
+   "a": "Portugal",
+   "p": 400,
+   "ar": "البرتغال",
+   "alt": [
+    "Portuguese"
+   ]
+  },
+  {
+   "q": "Which Manama landmark has three giant wind turbines suspended between its twin towers?",
+   "a": "Bahrain World Trade Center",
+   "p": 400,
+   "ar": "مركز البحرين التجاري العالمي",
+   "alt": [
+    "BWTC",
+    "World Trade Center"
+   ]
+  },
+  {
+   "q": "Which monumental gateway stands at the entrance to the Manama Souq?",
+   "a": "Bab Al Bahrain",
+   "p": 400,
+   "ar": "باب البحرين",
+   "alt": [
+    "Bab al-Bahrain",
+    "Gateway of Bahrain"
+   ]
+  },
+  {
+   "q": "Which large Manama mosque is named after the ruler who took Bahrain in 1783?",
+   "a": "Al Fateh Grand Mosque",
+   "p": 400,
+   "ar": "مسجد الفاتح الكبير",
+   "alt": [
+    "Al Fateh Mosque",
+    "Grand Mosque"
+   ]
+  },
+  {
+   "q": "In which year was oil discovered in Bahrain, the first on the Arab side of the Gulf?",
+   "a": "1932",
+   "p": 400
+  },
+  {
+   "q": "On which date is Bahrain's National Day celebrated?",
+   "a": "16 December",
+   "p": 400,
+   "ar": "16 ديسمبر",
+   "alt": [
+    "December 16",
+    "16th December"
+   ]
+  },
+  {
+   "q": "In which year did Bahrain become fully independent from Britain?",
+   "a": "1971",
+   "p": 400
+  },
+  {
+   "q": "How many white triangular points divide the red and white on Bahrain's flag?",
+   "a": "Five",
+   "p": 400,
+   "ar": "خمسة",
+   "alt": [
+    "5"
+   ]
+  },
+  {
+   "q": "In which year did Bahrain win its first Arabian Gulf Cup, held in Qatar?",
+   "a": "2019",
+   "p": 400
+  },
+  {
+   "q": "Which Bahraini dish combines sweetened rice with dates or sugar and is traditionally served with fried fish?",
+   "a": "Muhammar",
+   "p": 400,
+   "ar": "محمر",
+   "alt": [
+    "Muhammar rice",
+    "Mohammar",
+    "Muhammer"
+   ]
+  },
+  {
+   "q": "What is the Gulf Arabic word for shrimp or prawns?",
+   "a": "Robyan",
+   "p": 400,
+   "ar": "ربيان",
+   "alt": [
+    "Rubyan",
+    "Rabyan",
+    "Rubian"
+   ]
+  },
+  {
+   "q": "What is the name of the small handle-less cup used for serving Arabic coffee?",
+   "a": "Finjan",
+   "p": 400,
+   "ar": "فنجان",
+   "alt": [
+    "Finjaan",
+    "Fenjan",
+    "Fingan"
+   ]
+  },
+  {
+   "q": "Which thick, sweet syrup made from dates is used in Gulf cooking and desserts?",
+   "a": "Dibs",
+   "p": 400,
+   "ar": "دبس",
+   "alt": [
+    "Dibis",
+    "Debes",
+    "Date syrup"
+   ]
+  },
+  {
+   "q": "Which popular Gulf grouper fish is often grilled or served in stews?",
+   "a": "Hammour",
+   "p": 400,
+   "ar": "هامور",
+   "alt": [
+    "Hamour",
+    "Hamoor"
+   ]
+  },
+  {
+   "q": "What name is given to the traditional songs and dance of Gulf pearl divers?",
+   "a": "Fijiri",
+   "p": 400,
+   "ar": "فجيري",
+   "alt": [
+    "Fidjeri",
+    "Fidjiri",
+    "Fjiri"
+   ]
+  },
+  {
+   "q": "What is the name of the UNESCO-listed trail in Muharraq that follows the story of the pearl trade?",
+   "a": "Pearling Path",
+   "p": 400,
+   "ar": "مسار اللؤلؤ",
+   "alt": [
+    "Bahrain Pearling Path",
+    "Pearling, Testimony of an Island Economy"
+   ]
+  },
+  {
+   "q": "The name Bahrain comes from Arabic words meaning what?",
+   "a": "Two seas",
+   "p": 400,
+   "ar": "البحرين",
+   "alt": [
+    "The two seas",
+    "Two sea"
+   ]
+  },
+  {
+   "q": "In which year was Qal'at al-Bahrain inscribed on the UNESCO World Heritage List?",
+   "a": "2005",
+   "p": 400
+  },
+  {
+   "q": "What is the name of Bahrain's highest natural point, whose name means Mountain of Smoke?",
+   "a": "Jabal ad Dukhan",
+   "p": 400,
+   "ar": "جبل الدخان",
+   "alt": [
+    "Jebel Dukhan",
+    "Jabal Dukhan",
+    "Jabal al Dukhan"
+   ]
+  },
+  {
+   "q": "Roughly how many years old is Bahrain's Tree of Life said to be?",
+   "a": "About 400",
+   "p": 400,
+   "ar": "حوالي 400",
+   "alt": [
+    "400",
+    "Over 400",
+    "Four hundred"
+   ]
+  },
+  {
+   "q": "What was the 2020 Formula 1 race held on Bahrain's outer circuit called?",
+   "a": "Sakhir Grand Prix",
+   "p": 400,
+   "ar": "جائزة الصخير الكبرى",
+   "alt": [
+    "Sakhir GP"
+   ]
+  },
+  {
+   "q": "Which Bahraini village is famous for its traditional pottery workshops?",
+   "a": "A'ali",
+   "p": 400,
+   "ar": "عالي",
+   "alt": [
+    "Aali",
+    "Ali"
+   ]
+  },
+  {
+   "q": "What is the white or red-checked headcloth worn by Gulf men called?",
+   "a": "Ghutra",
+   "p": 400,
+   "ar": "غترة",
+   "alt": [
+    "Gutra",
+    "Shemagh",
+    "Keffiyeh"
+   ]
+  },
+  {
+   "q": "What is the black cord that holds the ghutra in place called?",
+   "a": "Agal",
+   "p": 400,
+   "ar": "عقال",
+   "alt": [
+    "Egal",
+    "Iqal",
+    "Aqal"
+   ]
+  },
+  {
+   "q": "Which Kenyan-born athlete won Olympic 3000 m steeplechase gold for Bahrain in 2016?",
+   "a": "Ruth Jebet",
+   "p": 400,
+   "ar": "روث جيبت",
+   "alt": [
+    "Jebet"
+   ]
+  },
+  {
+   "q": "Which Arabic word, meaning 'spices', names the blend used in machboos?",
+   "a": "Baharat",
+   "p": 400,
+   "ar": "بهارات",
+   "alt": [
+    "Bharat",
+    "Baharaat"
+   ]
+  },
+  {
+   "q": "Which salted yoghurt drink is often served with Gulf meals?",
+   "a": "Laban",
+   "p": 400,
+   "ar": "لبن",
+   "alt": [
+    "Ayran",
+    "Laban ayran"
+   ]
+  },
+  {
+   "q": "What is the name of the mid-Ramadan tradition in which children in traditional dress collect sweets door to door in Bahrain?",
+   "a": "Garangao",
+   "p": 400,
+   "ar": "القرقيعان",
+   "alt": [
+    "Gargee'an",
+    "Qarqaoon",
+    "Gargaoon",
+    "Garangaou"
+   ]
+  },
+  {
+   "q": "Which Arabian sighthound is traditionally used for hunting in the Gulf?",
+   "a": "Saluki",
+   "p": 400,
+   "ar": "سلوقي",
+   "alt": [
+    "Salooki",
+    "Arabian Saluki"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for the traditional wind tower used to cool Gulf houses?",
+   "a": "Barjeel",
+   "p": 400,
+   "ar": "برجيل",
+   "alt": [
+    "Badgir",
+    "Windcatcher",
+    "Wind tower"
+   ]
+  },
+  {
+   "q": "What is the name of the money gifts given to children at Eid?",
+   "a": "Eidiya",
+   "p": 400,
+   "ar": "عيدية",
+   "alt": [
+    "Eidiyah",
+    "Eidi",
+    "Eidiyya"
+   ]
+  },
+  {
+   "q": "What is the traditional long-spouted Arabic coffee pot called?",
+   "a": "Dallah",
+   "p": 400,
+   "ar": "دلة",
+   "alt": [
+    "Dalla",
+    "Dellah"
+   ]
+  },
+  {
+   "q": "Who won the 2020 Sakhir Grand Prix for his first Formula 1 victory?",
+   "a": "Sergio Perez",
+   "p": 600,
+   "ar": "سيرجيو بيريز",
+   "alt": [
+    "Checo Perez",
+    "Perez"
+   ]
+  },
+  {
+   "q": "Which Spanish driver won the Bahrain Grand Prix in 2005, 2006 and 2010?",
+   "a": "Fernando Alonso",
+   "p": 600,
+   "ar": "فرناندو ألونسو",
+   "alt": [
+    "Alonso"
+   ]
+  },
+  {
+   "q": "Which German architect designed the Bahrain International Circuit?",
+   "a": "Hermann Tilke",
+   "p": 600,
+   "ar": "هيرمان تيلكه",
+   "alt": [
+    "Tilke"
+   ]
+  },
+  {
+   "q": "By what name did the ancient Greeks call Bahrain?",
+   "a": "Tylos",
+   "p": 600,
+   "ar": "تايلوس",
+   "alt": [
+    "Tylus"
+   ]
+  },
+  {
+   "q": "Which Dilmun temple site in northern Bahrain dates to the third millennium BC?",
+   "a": "Barbar Temple",
+   "p": 600,
+   "ar": "معبد باربار",
+   "alt": [
+    "Barbar"
+   ]
+  },
+  {
+   "q": "Which Bahraini island group, home to Arabian oryx and Socotra cormorants, lies close to the Qatari coast?",
+   "a": "Hawar Islands",
+   "p": 600,
+   "ar": "جزر حوار",
+   "alt": [
+    "Hawar"
+   ]
+  },
+  {
+   "q": "Which 1969 book by Geoffrey Bibby tells the story of the Danish search for an ancient Gulf civilisation?",
+   "a": "Looking for Dilmun",
+   "p": 600,
+   "ar": "البحث عن دلمون"
+  },
+  {
+   "q": "Which Manama museum is dedicated to Quranic manuscripts and Islamic art?",
+   "a": "Beit Al Quran",
+   "p": 600,
+   "ar": "بيت القرآن",
+   "alt": [
+    "Bayt al-Quran",
+    "House of the Quran"
+   ]
+  },
+  {
+   "q": "Which mosque in Bahrain is said to be among the oldest in the Gulf, with origins in the 7th century?",
+   "a": "Khamis Mosque",
+   "p": 600,
+   "ar": "مسجد الخميس",
+   "alt": [
+    "Al Khamis Mosque"
+   ]
+  },
+  {
+   "q": "Which ruler of the Al Khalifa family took control of Bahrain in 1783?",
+   "a": "Ahmed bin Muhammad Al Khalifa",
+   "p": 600,
+   "ar": "أحمد الفاتح",
+   "alt": [
+    "Ahmed Al Fateh",
+    "Ahmed al-Fateh",
+    "Ahmed bin Mohammed Al Khalifa"
+   ]
+  },
+  {
+   "q": "Which Bahrain-representing athlete won the 3000 m steeplechase at the 2024 Paris Olympics?",
+   "a": "Winfred Yavi",
+   "p": 600,
+   "ar": "وينفريد يافي",
+   "alt": [
+    "Yavi"
+   ]
+  },
+  {
+   "q": "What is the Gulf term for the captain of a pearling ship?",
+   "a": "Nokhada",
+   "p": 600,
+   "ar": "النوخذة",
+   "alt": [
+    "Nakhuda",
+    "Nokhatha",
+    "Nakhoda"
+   ]
+  },
+  {
+   "q": "What is the Gulf term for a pearl diver?",
+   "a": "Ghais",
+   "p": 600,
+   "ar": "الغيص",
+   "alt": [
+    "Ghaus",
+    "Ghawwas",
+    "Ghayyas"
+   ]
+  },
+  {
+   "q": "What is the name of the small clip pearl divers wore on their noses?",
+   "a": "Fitam",
+   "p": 600,
+   "ar": "الفطام",
+   "alt": [
+    "Fattam",
+    "Fatam"
+   ]
+  },
+  {
+   "q": "What is the name given to the rope-puller who hauled divers up on a pearling boat?",
+   "a": "Saib",
+   "p": 600,
+   "ar": "السيب",
+   "alt": [
+    "Sib",
+    "Seeb"
+   ]
+  },
+  {
+   "q": "What is the name for the singer who led the chants on a pearling ship?",
+   "a": "Nahham",
+   "p": 600,
+   "ar": "النهام",
+   "alt": [
+    "Nahaam",
+    "Naham"
+   ]
+  },
+  {
+   "q": "Which Gulf musical style, accompanied by oud and mirwas, is associated with Bahrain and Kuwait?",
+   "a": "Sawt",
+   "p": 600,
+   "ar": "الصوت",
+   "alt": [
+    "Al Sawt",
+    "Sawt music"
+   ]
+  },
+  {
+   "q": "Roughly how long is the Bahrain International Circuit lap, in kilometres?",
+   "a": "5.4 km",
+   "p": 600,
+   "ar": "5.4 كم",
+   "alt": [
+    "5.4",
+    "5.412",
+    "5.41 km"
+   ]
+  },
+  {
+   "q": "In which year did the King Fahd Causeway open?",
+   "a": "1986",
+   "p": 600
+  },
+  {
+   "q": "Approximately how long is the King Fahd Causeway, in kilometres?",
+   "a": "25 km",
+   "p": 600,
+   "ar": "25 كم",
+   "alt": [
+    "25",
+    "About 25"
+   ]
+  },
+  {
+   "q": "In which year were the Dilmun Burial Mounds inscribed on the UNESCO World Heritage List?",
+   "a": "2019",
+   "p": 600
+  },
+  {
+   "q": "Which country's cultured pearls hit Bahrain's natural pearl trade hard in the 1930s?",
+   "a": "Japan",
+   "p": 600,
+   "ar": "اليابان",
+   "alt": [
+    "Japanese"
+   ]
+  },
+  {
+   "q": "In which year did the Portuguese capture Bahrain, holding it until the early 1600s?",
+   "a": "1521",
+   "p": 600
+  },
+  {
+   "q": "Which wildlife reserve in southern Bahrain protects Arabian oryx and other native species?",
+   "a": "Al Areen Wildlife Park",
+   "p": 600,
+   "ar": "محمية العرين",
+   "alt": [
+    "Al Areen",
+    "Al Areen Wildlife Reserve"
+   ]
+  },
+  {
+   "q": "Which country's archaeological expedition began excavating Bahrain in 1953, helping rediscover Dilmun?",
+   "a": "Denmark",
+   "p": 600,
+   "ar": "الدنمارك",
+   "alt": [
+    "Danish",
+    "Danish expedition"
+   ]
+  },
+  {
+   "q": "In which year was Gulf Air founded, originally as Gulf Aviation?",
+   "a": "1950",
+   "p": 600
+  },
+  {
+   "q": "Which mangrove-lined bay near Manama is an important habitat for migratory birds?",
+   "a": "Tubli Bay",
+   "p": 600,
+   "ar": "خليج توبلي",
+   "alt": [
+    "Tubli"
+   ]
+  },
+  {
+   "q": "In which year did Bahrain finish fourth at the AFC Asian Cup in China?",
+   "a": "2004",
+   "p": 600
+  },
+  {
+   "q": "Dilmun traded copper from which land, corresponding to modern Oman?",
+   "a": "Magan",
+   "p": 600,
+   "ar": "مجان",
+   "alt": [
+    "Makan"
+   ]
+  },
+  {
+   "q": "Which Brazilian Ferrari driver finished second behind Schumacher in the 2004 Bahrain Grand Prix?",
+   "a": "Rubens Barrichello",
+   "p": 600,
+   "ar": "روبنز باريكيلو",
+   "alt": [
+    "Barrichello"
+   ]
+  }
+ ]
+}

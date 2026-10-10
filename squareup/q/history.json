@@ -1,0 +1,506 @@
+{
+ "id": "history",
+ "name": "World History",
+ "questions": [
+  {
+   "q": "Which ancient civilization built the pyramids of Giza?",
+   "a": "Ancient Egypt",
+   "p": 200
+  },
+  {
+   "q": "Who was the first emperor of Rome?",
+   "a": "Augustus",
+   "p": 400
+  },
+  {
+   "q": "In what year did World War II end?",
+   "a": "1945",
+   "p": 200
+  },
+  {
+   "q": "Which ship carried the Pilgrims to America in 1620?",
+   "a": "Mayflower",
+   "p": 200
+  },
+  {
+   "q": "Which explorer sailed for Spain in 1492 and reached the Caribbean?",
+   "a": "Christopher Columbus",
+   "p": 200
+  },
+  {
+   "q": "In which city did a wall that had divided it since 1961 fall in 1989?",
+   "a": "Berlin",
+   "p": 200
+  },
+  {
+   "q": "Which French emperor was exiled to the island of Saint Helena?",
+   "a": "Napoleon Bonaparte",
+   "p": 200
+  },
+  {
+   "q": "Which empire was founded by Genghis Khan?",
+   "a": "Mongol Empire",
+   "p": 200
+  },
+  {
+   "q": "Which city was the capital of the Ottoman Empire from 1453 until the empire ended?",
+   "a": "Istanbul (Constantinople)",
+   "p": 400
+  },
+  {
+   "q": "Who was the first President of the United States?",
+   "a": "George Washington",
+   "p": 200
+  },
+  {
+   "q": "Which Roman city is most famous for being buried by the 79 CE eruption of Mount Vesuvius?",
+   "a": "Pompeii",
+   "p": 200
+  },
+  {
+   "q": "In what year did the Titanic sink?",
+   "a": "1912",
+   "p": 200
+  },
+  {
+   "q": "Which ancient Greek city-state was famous for its military training?",
+   "a": "Sparta",
+   "p": 200
+  },
+  {
+   "q": "Which monk began the Protestant Reformation in 1517?",
+   "a": "Martin Luther",
+   "p": 200
+  },
+  {
+   "q": "Which revolution began in 1789 with the storming of the Bastille?",
+   "a": "French Revolution",
+   "p": 200
+  },
+  {
+   "q": "Who was the first person to walk on the Moon?",
+   "a": "Neil Armstrong",
+   "p": 200
+  },
+  {
+   "q": "Which Chinese structure was built to protect against northern invasions?",
+   "a": "Great Wall of China",
+   "p": 200
+  },
+  {
+   "q": "Which language did the ancient Romans speak?",
+   "a": "Latin",
+   "p": 200
+  },
+  {
+   "q": "Which Egyptian pharaoh's tomb was discovered by Howard Carter in 1922?",
+   "a": "Tutankhamun",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the Prophet Muhammad's 622 CE journey from Mecca to Medina?",
+   "a": "Hijra",
+   "p": 400
+  },
+  {
+   "q": "Which war was fought in the United States from 1861 to 1865?",
+   "a": "American Civil War",
+   "p": 200
+  },
+  {
+   "q": "Who led India's nonviolent independence movement?",
+   "a": "Mahatma Gandhi",
+   "p": 200
+  },
+  {
+   "q": "Which Italian city was home to the Medici family and the heart of the Renaissance?",
+   "a": "Florence",
+   "p": 400
+  },
+  {
+   "q": "Which Portuguese explorer reached India by sea in 1498?",
+   "a": "Vasco da Gama",
+   "p": 400
+  },
+  {
+   "q": "Which city in Egypt was founded by Alexander the Great?",
+   "a": "Alexandria",
+   "p": 200
+  },
+  {
+   "q": "Who was the leader of Nazi Germany during World War II?",
+   "a": "Adolf Hitler",
+   "p": 200
+  },
+  {
+   "q": "Which country gave the Statue of Liberty to the United States?",
+   "a": "France",
+   "p": 200
+  },
+  {
+   "q": "In the legend of Troy, what did the Greeks use to get inside the city?",
+   "a": "A wooden horse",
+   "p": 200
+  },
+  {
+   "q": "In what year did World War I begin?",
+   "a": "1914",
+   "p": 200
+  },
+  {
+   "q": "Which people of ancient Mesopotamia invented cuneiform writing?",
+   "a": "Sumerians",
+   "p": 400
+  },
+  {
+   "q": "Which British queen reigned from 1837 to 1901?",
+   "a": "Queen Victoria",
+   "p": 200
+  },
+  {
+   "q": "Which Mughal emperor built the Taj Mahal?",
+   "a": "Shah Jahan",
+   "p": 400
+  },
+  {
+   "q": "Which Roman general crossed the Rubicon in 49 BCE?",
+   "a": "Julius Caesar",
+   "p": 200
+  },
+  {
+   "q": "Which US president issued the Emancipation Proclamation?",
+   "a": "Abraham Lincoln",
+   "p": 200
+  },
+  {
+   "q": "Who introduced movable-type printing to Europe around 1440?",
+   "a": "Johannes Gutenberg",
+   "p": 200
+  },
+  {
+   "q": "Which caliphate had Damascus as its capital?",
+   "a": "Umayyad Caliphate",
+   "p": 400
+  },
+  {
+   "q": "Which caliphate founded Baghdad in 762 CE?",
+   "a": "Abbasid Caliphate",
+   "p": 400
+  },
+  {
+   "q": "Which Abbasid caliph features in the tales of One Thousand and One Nights?",
+   "a": "Harun al-Rashid",
+   "p": 400
+  },
+  {
+   "q": "Which Ottoman sultan conquered Constantinople in 1453?",
+   "a": "Mehmed II",
+   "p": 400
+  },
+  {
+   "q": "Which 1919 treaty formally ended World War I with Germany?",
+   "a": "Treaty of Versailles",
+   "p": 400
+  },
+  {
+   "q": "Which 1066 battle led to the Norman conquest of England?",
+   "a": "Battle of Hastings",
+   "p": 400
+  },
+  {
+   "q": "Which Persian polymath wrote The Canon of Medicine?",
+   "a": "Ibn Sina (Avicenna)",
+   "p": 400
+  },
+  {
+   "q": "Which scholar's name gave us the word 'algorithm'?",
+   "a": "Al-Khwarizmi",
+   "p": 400
+  },
+  {
+   "q": "Which Mongol commander sacked Baghdad in 1258?",
+   "a": "Hulagu Khan",
+   "p": 600
+  },
+  {
+   "q": "Which Roman emperor issued the Edict of Milan in 313 CE?",
+   "a": "Constantine",
+   "p": 600
+  },
+  {
+   "q": "Which Carthaginian general crossed the Alps with war elephants?",
+   "a": "Hannibal",
+   "p": 400
+  },
+  {
+   "q": "Who led the Soviet Union during World War II?",
+   "a": "Joseph Stalin",
+   "p": 200
+  },
+  {
+   "q": "Which Chinese dynasty built the Forbidden City in Beijing?",
+   "a": "Ming dynasty",
+   "p": 400
+  },
+  {
+   "q": "In which city was Archduke Franz Ferdinand assassinated in 1914?",
+   "a": "Sarajevo",
+   "p": 400
+  },
+  {
+   "q": "Which Muslim leader recaptured Jerusalem in 1187?",
+   "a": "Saladin",
+   "p": 400
+  },
+  {
+   "q": "Which Spanish conquistador led the conquest of the Aztec Empire?",
+   "a": "Hernan Cortes",
+   "p": 400
+  },
+  {
+   "q": "Which Moroccan traveler wrote the Rihla about his 14th century journeys?",
+   "a": "Ibn Battuta",
+   "p": 400
+  },
+  {
+   "q": "In what year was the Magna Carta sealed?",
+   "a": "1215",
+   "p": 400
+  },
+  {
+   "q": "In what year did the D-Day landings take place?",
+   "a": "1944",
+   "p": 200
+  },
+  {
+   "q": "Which West African emperor famously made the pilgrimage to Mecca in 1324?",
+   "a": "Mansa Musa",
+   "p": 400
+  },
+  {
+   "q": "Which leader headed the Bolsheviks in the 1917 October Revolution?",
+   "a": "Vladimir Lenin",
+   "p": 400
+  },
+  {
+   "q": "Who was the first caliph after the Prophet Muhammad?",
+   "a": "Abu Bakr",
+   "p": 400
+  },
+  {
+   "q": "Which ancient Greek writer is known as the 'Father of History'?",
+   "a": "Herodotus",
+   "p": 400
+  },
+  {
+   "q": "Which 1815 battle ended Napoleon's rule?",
+   "a": "Battle of Waterloo",
+   "p": 200
+  },
+  {
+   "q": "Which Ottoman sultan was known as 'the Magnificent'?",
+   "a": "Suleiman",
+   "p": 400
+  },
+  {
+   "q": "Which Venetian merchant wrote about his travels to Yuan China?",
+   "a": "Marco Polo",
+   "p": 200
+  },
+  {
+   "q": "Which canal in Egypt, opened in 1869, links the Mediterranean and Red Seas?",
+   "a": "Suez Canal",
+   "p": 400
+  },
+  {
+   "q": "In what year did India gain independence from Britain?",
+   "a": "1947",
+   "p": 400
+  },
+  {
+   "q": "Which Chinese admiral led the 'treasure voyages' of the early 1400s?",
+   "a": "Zheng He",
+   "p": 600
+  },
+  {
+   "q": "Who founded the Achaemenid Persian Empire?",
+   "a": "Cyrus the Great",
+   "p": 400
+  },
+  {
+   "q": "Which Egyptian queen allied with Mark Antony?",
+   "a": "Cleopatra VII",
+   "p": 200
+  },
+  {
+   "q": "In which country did the Industrial Revolution begin?",
+   "a": "Britain",
+   "p": 200
+  },
+  {
+   "q": "In which Greek city did democracy first develop?",
+   "a": "Athens",
+   "p": 200
+  },
+  {
+   "q": "Which 1494 treaty divided newly found lands between Spain and Portugal?",
+   "a": "Treaty of Tordesillas",
+   "p": 600
+  },
+  {
+   "q": "Which Umayyad caliph commissioned the Dome of the Rock in Jerusalem?",
+   "a": "Abd al-Malik",
+   "p": 600
+  },
+  {
+   "q": "Which 751 CE battle saw an Abbasid army face a Tang Chinese army near the Talas River?",
+   "a": "Battle of Talas",
+   "p": 600
+  },
+  {
+   "q": "Which 732 CE battle in France halted an Umayyad advance north of the Pyrenees?",
+   "a": "Battle of Tours (Poitiers)",
+   "p": 400
+  },
+  {
+   "q": "Who founded the Mughal Empire in 1526?",
+   "a": "Babur",
+   "p": 400
+  },
+  {
+   "q": "Which 636 CE battle secured the early Muslim conquest of Syria?",
+   "a": "Battle of Yarmouk",
+   "p": 600
+  },
+  {
+   "q": "Which battle around 636 CE opened the Muslim conquest of Sasanian Persia?",
+   "a": "Battle of al-Qadisiyyah",
+   "p": 600
+  },
+  {
+   "q": "Which 1260 Mamluk victory halted the Mongol advance into Egypt?",
+   "a": "Battle of Ain Jalut",
+   "p": 600
+  },
+  {
+   "q": "Which 1648 settlement ended the Thirty Years' War?",
+   "a": "Peace of Westphalia",
+   "p": 600
+  },
+  {
+   "q": "Which Byzantine emperor built the Hagia Sophia in the 6th century?",
+   "a": "Justinian I",
+   "p": 600
+  },
+  {
+   "q": "Which scholar wrote the Book of Optics in the 11th century?",
+   "a": "Ibn al-Haytham",
+   "p": 600
+  },
+  {
+   "q": "Which Spanish city, home to a famous mosque-cathedral, was the capital of the Umayyad Caliphate in Iberia?",
+   "a": "Cordoba",
+   "p": 600
+  },
+  {
+   "q": "What 1916 secret agreement planned the division of Ottoman Arab provinces between Britain and France?",
+   "a": "Sykes-Picot Agreement",
+   "p": 600
+  },
+  {
+   "q": "What name is given to the 1820 maritime peace treaty signed by Britain and Gulf sheikhs?",
+   "a": "General Maritime Treaty",
+   "p": 600
+  },
+  {
+   "q": "In what year did the Trucial sheikhs sign the Exclusive Agreement with Britain?",
+   "a": "1892",
+   "p": 600
+  },
+  {
+   "q": "In what year did Abu Dhabi first export crude oil?",
+   "a": "1962",
+   "p": 600
+  },
+  {
+   "q": "In what year did Sheikh Zayed bin Sultan Al Nahyan become Ruler of Abu Dhabi?",
+   "a": "1966",
+   "p": 400
+  },
+  {
+   "q": "Which Thracian city was the Ottoman capital before 1453?",
+   "a": "Edirne (Adrianople)",
+   "p": 600
+  },
+  {
+   "q": "Who was the first Abbasid caliph?",
+   "a": "Abu al-Abbas al-Saffah",
+   "p": 600
+  },
+  {
+   "q": "Which Roman emperor was deposed in 476 CE, traditionally marking the end of Western Rome?",
+   "a": "Romulus Augustulus",
+   "p": 600
+  },
+  {
+   "q": "Which dynasty did Kublai Khan establish in China?",
+   "a": "Yuan dynasty",
+   "p": 600
+  },
+  {
+   "q": "Which 1571 naval battle saw a Holy League fleet defeat the Ottoman navy?",
+   "a": "Battle of Lepanto",
+   "p": 600
+  },
+  {
+   "q": "Which city did the Fatimids found in 969 CE as their capital?",
+   "a": "Cairo",
+   "p": 600
+  },
+  {
+   "q": "Which 1071 battle saw the Seljuks defeat a Byzantine army?",
+   "a": "Battle of Manzikert",
+   "p": 600
+  },
+  {
+   "q": "Who was the most prominent leader of the Haitian Revolution?",
+   "a": "Toussaint Louverture",
+   "p": 600
+  },
+  {
+   "q": "Which 1884 to 1885 conference set rules for European claims in Africa?",
+   "a": "Berlin Conference",
+   "p": 600
+  },
+  {
+   "q": "Which Chinese dynasty immediately preceded the Tang?",
+   "a": "Sui dynasty",
+   "p": 600
+  },
+  {
+   "q": "What was Genghis Khan's birth name?",
+   "a": "Temujin",
+   "p": 400
+  },
+  {
+   "q": "Which Ottoman sultan conquered Mamluk Egypt in 1517?",
+   "a": "Selim I",
+   "p": 600
+  },
+  {
+   "q": "Which 1805 battle was Napoleon's victory over Russia and Austria?",
+   "a": "Battle of Austerlitz",
+   "p": 600
+  },
+  {
+   "q": "At which battle in 490 BCE did Athens defeat a Persian force?",
+   "a": "Battle of Marathon",
+   "p": 400
+  },
+  {
+   "q": "Which Assyrian city housed the library of Ashurbanipal?",
+   "a": "Nineveh",
+   "p": 600
+  }
+ ]
+}

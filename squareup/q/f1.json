@@ -1,0 +1,521 @@
+{
+ "id": "f1",
+ "name": "Formula 1",
+ "questions": [
+  {
+   "q": "Which Italian team uses a prancing horse as its logo?",
+   "a": "Ferrari",
+   "p": 200
+  },
+  {
+   "q": "Which principality hosts this famous harbourside street race?",
+   "a": "Monaco",
+   "p": 200,
+   "yt": "huMevQm7udw",
+   "start": 30,
+   "end": 50
+  },
+  {
+   "q": "What does DRS stand for?",
+   "a": "Drag Reduction System",
+   "p": 200
+  },
+  {
+   "q": "Who won this 2021 Abu Dhabi GP to clinch his first world title?",
+   "a": "Max Verstappen",
+   "p": 200,
+   "yt": "qN49VWvMxCU",
+   "start": 20,
+   "end": 45
+  },
+  {
+   "q": "Which German legend won seven world titles?",
+   "a": "Michael Schumacher",
+   "p": 200
+  },
+  {
+   "q": "What does pole position mean?",
+   "a": "First on the starting grid",
+   "p": 200
+  },
+  {
+   "q": "What colour flag signals that the race has been stopped?",
+   "a": "Red",
+   "p": 200
+  },
+  {
+   "q": "What colour flag warns of danger ahead on track?",
+   "a": "Yellow",
+   "p": 200
+  },
+  {
+   "q": "What does the chequered flag signal?",
+   "a": "End of the race",
+   "p": 200
+  },
+  {
+   "q": "Which Brazilian champion died at Imola in 1994?",
+   "a": "Ayrton Senna",
+   "p": 200
+  },
+  {
+   "q": "Which circuit hosts the Abu Dhabi Grand Prix?",
+   "a": "Yas Marina Circuit",
+   "p": 200
+  },
+  {
+   "q": "In which year did Abu Dhabi first host a Formula 1 race?",
+   "a": "2009",
+   "p": 200
+  },
+  {
+   "q": "Which English circuit hosts the British Grand Prix?",
+   "a": "Silverstone",
+   "p": 200
+  },
+  {
+   "q": "Which Italian circuit, nicknamed the Temple of Speed, hosts this race?",
+   "a": "Monza",
+   "p": 200,
+   "yt": "iOiRNdcuHBc",
+   "start": 30,
+   "end": 55
+  },
+  {
+   "q": "Which Japanese circuit has a figure-eight layout?",
+   "a": "Suzuka",
+   "p": 200
+  },
+  {
+   "q": "Who won the 2020 world championship?",
+   "a": "Lewis Hamilton",
+   "p": 200
+  },
+  {
+   "q": "Which Austrian won world titles in 1975, 1977 and 1984?",
+   "a": "Niki Lauda",
+   "p": 200
+  },
+  {
+   "q": "Which team won eight straight constructors' titles from 2014 to 2021?",
+   "a": "Mercedes",
+   "p": 200
+  },
+  {
+   "q": "Which Finn is nicknamed The Iceman?",
+   "a": "Kimi Räikkönen",
+   "p": 200
+  },
+  {
+   "q": "Which Belgian circuit hosts this race in the Ardennes forests?",
+   "a": "Spa-Francorchamps",
+   "p": 200,
+   "yt": "wWyd2IGCs5k",
+   "start": 30,
+   "end": 50
+  },
+  {
+   "q": "Who won the 2025 world championship?",
+   "a": "Lando Norris",
+   "p": 200
+  },
+  {
+   "q": "How many points does a race win earn?",
+   "a": "25",
+   "p": 200
+  },
+  {
+   "q": "What colour flag tells a driver to let a faster car pass?",
+   "a": "Blue",
+   "p": 200
+  },
+  {
+   "q": "What colour represents the fastest time on timing screens?",
+   "a": "Purple",
+   "p": 200
+  },
+  {
+   "q": "What does the radio call 'box box' mean?",
+   "a": "Come into the pits",
+   "p": 200
+  },
+  {
+   "q": "Which tyre compound is marked with red?",
+   "a": "Soft",
+   "p": 200
+  },
+  {
+   "q": "Which Frenchman was Senna's fierce McLaren teammate?",
+   "a": "Alain Prost",
+   "p": 200
+  },
+  {
+   "q": "Who won the 2009 title with Brawn GP?",
+   "a": "Jenson Button",
+   "p": 200
+  },
+  {
+   "q": "Which German won four straight titles for Red Bull from 2010?",
+   "a": "Sebastian Vettel",
+   "p": 200
+  },
+  {
+   "q": "Which Spaniard won titles in 2005 and 2006 with Renault?",
+   "a": "Fernando Alonso",
+   "p": 200
+  },
+  {
+   "q": "How many red lights go out to start a race?",
+   "a": "Five",
+   "p": 200
+  },
+  {
+   "q": "What does DNF stand for?",
+   "a": "Did not finish",
+   "p": 200
+  },
+  {
+   "q": "What is a stop in the pits to change tyres called?",
+   "a": "Pit stop",
+   "p": 200
+  },
+  {
+   "q": "Which team did Senna win all three of his titles with?",
+   "a": "McLaren",
+   "p": 200
+  },
+  {
+   "q": "What is driving close behind another car to gain speed called?",
+   "a": "Slipstream",
+   "p": 200
+  },
+  {
+   "q": "Who won the first Abu Dhabi Grand Prix in 2009?",
+   "a": "Sebastian Vettel",
+   "p": 400
+  },
+  {
+   "q": "Which team, led by Ross Brawn, won the 2009 constructors' title?",
+   "a": "Brawn GP",
+   "p": 400
+  },
+  {
+   "q": "Who beat Niki Lauda to the 1976 title by one point?",
+   "a": "James Hunt",
+   "p": 400
+  },
+  {
+   "q": "How many world titles did Ayrton Senna win?",
+   "a": "Three",
+   "p": 400
+  },
+  {
+   "q": "How many world titles did Alain Prost win?",
+   "a": "Four",
+   "p": 400
+  },
+  {
+   "q": "Which team did Prost drive for in his 1993 title year?",
+   "a": "Williams",
+   "p": 400
+  },
+  {
+   "q": "What is the tight hairpin at Monaco commonly called?",
+   "a": "Fairmont Hairpin",
+   "p": 400
+  },
+  {
+   "q": "Which famous Spa corner follows the La Source hairpin?",
+   "a": "Eau Rouge",
+   "p": 400
+  },
+  {
+   "q": "Which fast Suzuka left-hander is named after a number?",
+   "a": "130R",
+   "p": 400
+  },
+  {
+   "q": "Which Silverstone corner follows Maggots?",
+   "a": "Becketts",
+   "p": 400
+  },
+  {
+   "q": "Which final corner at Monza is a long, banked-style right-hander?",
+   "a": "Parabolica",
+   "p": 400
+  },
+  {
+   "q": "Which team did Kimi Räikkönen win the 2007 title with?",
+   "a": "Ferrari",
+   "p": 400
+  },
+  {
+   "q": "Who won the 2016 world championship?",
+   "a": "Nico Rosberg",
+   "p": 400
+  },
+  {
+   "q": "Who won the 2014 title in the Abu Dhabi finale?",
+   "a": "Lewis Hamilton",
+   "p": 400
+  },
+  {
+   "q": "Who won the 1998 and 1999 titles with McLaren?",
+   "a": "Mika Häkkinen",
+   "p": 400
+  },
+  {
+   "q": "Who won the 1996 title with Williams?",
+   "a": "Damon Hill",
+   "p": 400
+  },
+  {
+   "q": "Who won the 1997 title, son of a famous Canadian racer?",
+   "a": "Jacques Villeneuve",
+   "p": 400
+  },
+  {
+   "q": "Who clinched the 2010 title in the Abu Dhabi finale?",
+   "a": "Sebastian Vettel",
+   "p": 400
+  },
+  {
+   "q": "What does the 107% rule set in qualifying?",
+   "a": "A slowest allowed lap time",
+   "p": 400
+  },
+  {
+   "q": "What does a black flag mean?",
+   "a": "Disqualification",
+   "p": 400
+  },
+  {
+   "q": "What does a white flag mean?",
+   "a": "Slow vehicle on track",
+   "p": 400
+  },
+  {
+   "q": "What does a yellow flag with red stripes warn of?",
+   "a": "Slippery surface",
+   "p": 400
+  },
+  {
+   "q": "Which cockpit safety device was introduced in 2018?",
+   "a": "Halo",
+   "p": 400
+  },
+  {
+   "q": "What does VSC stand for?",
+   "a": "Virtual Safety Car",
+   "p": 400
+  },
+  {
+   "q": "What is the dirty air effect?",
+   "a": "Turbulent air behind a car",
+   "p": 400
+  },
+  {
+   "q": "Which colour marks the hard tyre compound?",
+   "a": "White",
+   "p": 400
+  },
+  {
+   "q": "Which colour marks the intermediate wet tyre?",
+   "a": "Green",
+   "p": 400
+  },
+  {
+   "q": "Which Brazilian won the 1972 and 1974 titles?",
+   "a": "Emerson Fittipaldi",
+   "p": 400
+  },
+  {
+   "q": "Who won the 1992 title with Williams?",
+   "a": "Nigel Mansell",
+   "p": 400
+  },
+  {
+   "q": "In which English town is McLaren based?",
+   "a": "Woking",
+   "p": 400
+  },
+  {
+   "q": "What unusual feature does the Yas Marina pit exit have?",
+   "a": "A tunnel under the track",
+   "p": 400
+  },
+  {
+   "q": "Which German architect designed Yas Marina Circuit?",
+   "a": "Hermann Tilke",
+   "p": 400
+  },
+  {
+   "q": "At which German circuit did Lauda crash in 1976?",
+   "a": "Nürburgring",
+   "p": 400
+  },
+  {
+   "q": "Who won the 2019 Abu Dhabi Grand Prix shown here?",
+   "a": "Lewis Hamilton",
+   "p": 400,
+   "yt": "VdDH0SzlVd4",
+   "start": 30,
+   "end": 55
+  },
+  {
+   "q": "Which team did Senna drive for when he died in 1994?",
+   "a": "Williams",
+   "p": 400
+  },
+  {
+   "q": "Who won the first world championship in 1950?",
+   "a": "Giuseppe Farina",
+   "p": 600
+  },
+  {
+   "q": "Which Argentine won five titles in the 1950s?",
+   "a": "Juan Manuel Fangio",
+   "p": 600
+  },
+  {
+   "q": "Which Italian won back-to-back titles in 1952 and 1953?",
+   "a": "Alberto Ascari",
+   "p": 600
+  },
+  {
+   "q": "Who won the 1958 title with Ferrari by one point?",
+   "a": "Mike Hawthorn",
+   "p": 600
+  },
+  {
+   "q": "Which Australian won titles in 1959, 1960 and 1966?",
+   "a": "Jack Brabham",
+   "p": 600
+  },
+  {
+   "q": "Which American won the 1961 title with Ferrari?",
+   "a": "Phil Hill",
+   "p": 600
+  },
+  {
+   "q": "Which Briton won titles in 1962 and 1968?",
+   "a": "Graham Hill",
+   "p": 600
+  },
+  {
+   "q": "Which Scot won titles in 1963 and 1965 with Lotus?",
+   "a": "Jim Clark",
+   "p": 600
+  },
+  {
+   "q": "Who won the 1964 title after also winning on motorbikes?",
+   "a": "John Surtees",
+   "p": 600
+  },
+  {
+   "q": "Which Scot won titles in 1969, 1971 and 1973?",
+   "a": "Jackie Stewart",
+   "p": 600
+  },
+  {
+   "q": "Who became champion posthumously in 1970?",
+   "a": "Jochen Rindt",
+   "p": 600
+  },
+  {
+   "q": "Who won the 1982 title with Williams?",
+   "a": "Keke Rosberg",
+   "p": 600
+  },
+  {
+   "q": "Who won the 1986 title after Mansell's late tyre failure?",
+   "a": "Alain Prost",
+   "p": 600
+  },
+  {
+   "q": "At which circuit did Senna and Prost collide in 1989?",
+   "a": "Suzuka",
+   "p": 600
+  },
+  {
+   "q": "By how many points did Lauda beat Prost in 1984?",
+   "a": "Half a point",
+   "p": 600
+  },
+  {
+   "q": "At which circuit did Schumacher and Hill clash in the 1994 finale?",
+   "a": "Adelaide",
+   "p": 600
+  },
+  {
+   "q": "How many times did Senna win the Monaco Grand Prix?",
+   "a": "Six",
+   "p": 600
+  },
+  {
+   "q": "Which Imola corner did Senna crash at in 1994?",
+   "a": "Tamburello",
+   "p": 600
+  },
+  {
+   "q": "Whom did Hamilton pass at the final corner to win the 2008 title?",
+   "a": "Timo Glock",
+   "p": 600
+  },
+  {
+   "q": "Who was the race director of the 2021 Abu Dhabi Grand Prix?",
+   "a": "Michael Masi",
+   "p": 600
+  },
+  {
+   "q": "Which Russian driver held up Alonso in the 2010 finale?",
+   "a": "Vitaly Petrov",
+   "p": 600
+  },
+  {
+   "q": "Which team won the first constructors' title in 1958?",
+   "a": "Vanwall",
+   "p": 600
+  },
+  {
+   "q": "Which circuit hosted the first world championship race in 1950?",
+   "a": "Silverstone",
+   "p": 600
+  },
+  {
+   "q": "What is the minimum race distance in kilometres?",
+   "a": "305 km",
+   "p": 600
+  },
+  {
+   "q": "What is the maximum total duration of a race, red flags included?",
+   "a": "Three hours",
+   "p": 600
+  },
+  {
+   "q": "From which session does parc fermé apply on a standard weekend?",
+   "a": "Qualifying",
+   "p": 600
+  },
+  {
+   "q": "In which year did the turbo hybrid V6 era begin?",
+   "a": "2014",
+   "p": 600
+  },
+  {
+   "q": "Who won the 2012 Abu Dhabi Grand Prix for Lotus?",
+   "a": "Kimi Räikkönen",
+   "p": 600
+  },
+  {
+   "q": "Who won the 2016 Abu Dhabi Grand Prix but lost the title?",
+   "a": "Lewis Hamilton",
+   "p": 600
+  },
+  {
+   "q": "Which tyre compound did Verstappen fit under the late 2021 safety car?",
+   "a": "Soft",
+   "p": 600
+  }
+ ]
+}

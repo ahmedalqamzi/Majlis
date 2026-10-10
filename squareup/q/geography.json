@@ -1,0 +1,506 @@
+{
+ "id": "geography",
+ "name": "Geography",
+ "questions": [
+  {
+   "q": "What is the capital city of Australia?",
+   "a": "Canberra",
+   "p": 200
+  },
+  {
+   "q": "Which is the largest ocean on Earth?",
+   "a": "Pacific Ocean",
+   "p": 200
+  },
+  {
+   "q": "Which river is the longest in Africa?",
+   "a": "The Nile",
+   "p": 200
+  },
+  {
+   "q": "What is the capital city of Japan?",
+   "a": "Tokyo",
+   "p": 200
+  },
+  {
+   "q": "What is the highest mountain above sea level?",
+   "a": "Mount Everest",
+   "p": 200
+  },
+  {
+   "q": "What is the largest hot desert in the world?",
+   "a": "The Sahara",
+   "p": 200
+  },
+  {
+   "q": "What is the capital city of Canada?",
+   "a": "Ottawa",
+   "p": 200
+  },
+  {
+   "q": "Which strait separates Spain from Morocco at the entrance to the Mediterranean?",
+   "a": "Strait of Gibraltar",
+   "p": 400
+  },
+  {
+   "q": "What is the capital city of Turkey?",
+   "a": "Ankara",
+   "p": 400
+  },
+  {
+   "q": "Which river flows through Baghdad?",
+   "a": "The Tigris",
+   "p": 400
+  },
+  {
+   "q": "In which country is Lake Baikal, the world's deepest lake?",
+   "a": "Russia",
+   "p": 400
+  },
+  {
+   "q": "What is the smallest country in the world by area?",
+   "a": "Vatican City",
+   "p": 200
+  },
+  {
+   "q": "In which country is the Atacama Desert mostly located?",
+   "a": "Chile",
+   "p": 600
+  },
+  {
+   "q": "What is the name of the deepest known ocean trench?",
+   "a": "Mariana Trench",
+   "p": 400
+  },
+  {
+   "q": "What is the capital city of Myanmar?",
+   "a": "Naypyidaw",
+   "p": 600
+  },
+  {
+   "q": "Ouagadougou is the capital of which African country?",
+   "a": "Burkina Faso",
+   "p": 600
+  },
+  {
+   "q": "Which river is the longest in Europe?",
+   "a": "The Volga",
+   "p": 600
+  },
+  {
+   "q": "Which salt lake, bordering Jordan and Israel, has the lowest exposed land elevation on Earth?",
+   "a": "Dead Sea",
+   "p": 400
+  },
+  {
+   "q": "What is the capital city of France?",
+   "a": "Paris",
+   "p": 200
+  },
+  {
+   "q": "What is the capital city of Italy?",
+   "a": "Rome",
+   "p": 200
+  },
+  {
+   "q": "What is the capital city of Egypt?",
+   "a": "Cairo",
+   "p": 200
+  },
+  {
+   "q": "What is the capital city of the United Arab Emirates?",
+   "a": "Abu Dhabi",
+   "p": 200
+  },
+  {
+   "q": "What is the capital city of Saudi Arabia?",
+   "a": "Riyadh",
+   "p": 200
+  },
+  {
+   "q": "Which is the largest continent by area?",
+   "a": "Asia",
+   "p": 200
+  },
+  {
+   "q": "Which river flows through Paris?",
+   "a": "The Seine",
+   "p": 200
+  },
+  {
+   "q": "Which river flows through London?",
+   "a": "The Thames",
+   "p": 200
+  },
+  {
+   "q": "Which sea separates Saudi Arabia from northeastern Africa?",
+   "a": "Red Sea",
+   "p": 200
+  },
+  {
+   "q": "What is the capital city of Germany?",
+   "a": "Berlin",
+   "p": 200
+  },
+  {
+   "q": "What is the capital city of Spain?",
+   "a": "Madrid",
+   "p": 200
+  },
+  {
+   "q": "What is the capital city of Brazil?",
+   "a": "Brasilia",
+   "p": 400
+  },
+  {
+   "q": "Which continent is the coldest and almost entirely covered in ice?",
+   "a": "Antarctica",
+   "p": 200
+  },
+  {
+   "q": "Which is the largest country in the world by area?",
+   "a": "Russia",
+   "p": 200
+  },
+  {
+   "q": "Which European country is shaped like a boot?",
+   "a": "Italy",
+   "p": 200
+  },
+  {
+   "q": "What is the capital city of China?",
+   "a": "Beijing",
+   "p": 200
+  },
+  {
+   "q": "What is the capital city of India?",
+   "a": "New Delhi",
+   "p": 200
+  },
+  {
+   "q": "What is the capital city of Qatar?",
+   "a": "Doha",
+   "p": 200
+  },
+  {
+   "q": "What is the capital city of Kuwait?",
+   "a": "Kuwait City",
+   "p": 200
+  },
+  {
+   "q": "What is the capital city of Oman?",
+   "a": "Muscat",
+   "p": 200
+  },
+  {
+   "q": "What is the capital city of Argentina?",
+   "a": "Buenos Aires",
+   "p": 200
+  },
+  {
+   "q": "Which ocean lies between Africa and Australia?",
+   "a": "Indian Ocean",
+   "p": 200
+  },
+  {
+   "q": "Which mountain is the highest in Africa?",
+   "a": "Mount Kilimanjaro",
+   "p": 400
+  },
+  {
+   "q": "Which river discharges the greatest volume of water in the world?",
+   "a": "The Amazon",
+   "p": 400
+  },
+  {
+   "q": "Which man-made canal links the Mediterranean Sea to the Red Sea?",
+   "a": "Suez Canal",
+   "p": 200
+  },
+  {
+   "q": "What is the capital city of Greece?",
+   "a": "Athens",
+   "p": 200
+  },
+  {
+   "q": "What is the capital city of Portugal?",
+   "a": "Lisbon",
+   "p": 200
+  },
+  {
+   "q": "What is the capital city of Mexico?",
+   "a": "Mexico City",
+   "p": 200
+  },
+  {
+   "q": "What is the capital city of Jordan?",
+   "a": "Amman",
+   "p": 200
+  },
+  {
+   "q": "What is the capital city of Bahrain?",
+   "a": "Manama",
+   "p": 400
+  },
+  {
+   "q": "What is the capital city of Eritrea?",
+   "a": "Asmara",
+   "p": 600
+  },
+  {
+   "q": "What is the official capital of Tanzania, where parliament sits?",
+   "a": "Dodoma",
+   "p": 600
+  },
+  {
+   "q": "What is the capital city of Morocco?",
+   "a": "Rabat",
+   "p": 400
+  },
+  {
+   "q": "What is the capital city of Malawi?",
+   "a": "Lilongwe",
+   "p": 600
+  },
+  {
+   "q": "What is the capital city of Nigeria?",
+   "a": "Abuja",
+   "p": 600
+  },
+  {
+   "q": "What is the capital city of New Zealand?",
+   "a": "Wellington",
+   "p": 400
+  },
+  {
+   "q": "What is the capital city of Switzerland?",
+   "a": "Bern",
+   "p": 400
+  },
+  {
+   "q": "What is the capital city of Georgia?",
+   "a": "Tbilisi",
+   "p": 600
+  },
+  {
+   "q": "Which narrow strait lies between Oman and Iran at the mouth of the Gulf?",
+   "a": "Strait of Hormuz",
+   "p": 400
+  },
+  {
+   "q": "Which is the longest river in Australia?",
+   "a": "Murray River",
+   "p": 600
+  },
+  {
+   "q": "What is the highest mountain in South America?",
+   "a": "Aconcagua",
+   "p": 600
+  },
+  {
+   "q": "Which strait links the Red Sea to the Gulf of Aden?",
+   "a": "Bab-el-Mandeb",
+   "p": 600
+  },
+  {
+   "q": "What is the large sand desert covering much of southern Saudi Arabia called?",
+   "a": "Rub' al Khali (Empty Quarter)",
+   "p": 400
+  },
+  {
+   "q": "Which river flows through Vienna, Budapest and Belgrade?",
+   "a": "The Danube",
+   "p": 400
+  },
+  {
+   "q": "Which mountain range forms the traditional boundary between Europe and Asia in Russia?",
+   "a": "Ural Mountains",
+   "p": 400
+  },
+  {
+   "q": "Mont Blanc is part of which mountain range?",
+   "a": "The Alps",
+   "p": 400
+  },
+  {
+   "q": "Which is the largest island in the world that is not a continent?",
+   "a": "Greenland",
+   "p": 400
+  },
+  {
+   "q": "Which landlocked South American country shares Lake Titicaca with Peru?",
+   "a": "Bolivia",
+   "p": 400
+  },
+  {
+   "q": "Which is the largest lake in Africa by area?",
+   "a": "Lake Victoria",
+   "p": 400
+  },
+  {
+   "q": "Which two continents does Egypt span?",
+   "a": "Africa and Asia",
+   "p": 400
+  },
+  {
+   "q": "Timbuktu is a historic city in which West African country?",
+   "a": "Mali",
+   "p": 400
+  },
+  {
+   "q": "Which waterfall on the Zambezi lies between Zambia and Zimbabwe?",
+   "a": "Victoria Falls",
+   "p": 400
+  },
+  {
+   "q": "Which is the longest river in Asia?",
+   "a": "The Yangtze",
+   "p": 400
+  },
+  {
+   "q": "Which island nation lies off the southeastern tip of India?",
+   "a": "Sri Lanka",
+   "p": 400
+  },
+  {
+   "q": "Which strait separates Sicily from mainland Italy?",
+   "a": "Strait of Messina",
+   "p": 600
+  },
+  {
+   "q": "Which lake is the deepest in Africa?",
+   "a": "Lake Tanganyika",
+   "p": 600
+  },
+  {
+   "q": "The Panama Canal links which two oceans?",
+   "a": "Atlantic and Pacific",
+   "p": 200
+  },
+  {
+   "q": "What is the capital city of Pakistan?",
+   "a": "Islamabad",
+   "p": 400
+  },
+  {
+   "q": "What is the capital city of Bhutan?",
+   "a": "Thimphu",
+   "p": 600
+  },
+  {
+   "q": "What is the capital city of Mongolia?",
+   "a": "Ulaanbaatar",
+   "p": 600
+  },
+  {
+   "q": "What is the capital city of Ethiopia?",
+   "a": "Addis Ababa",
+   "p": 400
+  },
+  {
+   "q": "What is the capital city of Brunei?",
+   "a": "Bandar Seri Begawan",
+   "p": 600
+  },
+  {
+   "q": "What is the capital city of Nepal?",
+   "a": "Kathmandu",
+   "p": 400
+  },
+  {
+   "q": "Which sea in the North Atlantic has no coastline?",
+   "a": "Sargasso Sea",
+   "p": 600
+  },
+  {
+   "q": "Which strait separates Russia's Chukotka from Alaska?",
+   "a": "Bering Strait",
+   "p": 400
+  },
+  {
+   "q": "Which strait separates the Malay Peninsula from Sumatra?",
+   "a": "Strait of Malacca",
+   "p": 600
+  },
+  {
+   "q": "Which Gulf country is an island archipelago linked to Saudi Arabia by the King Fahd Causeway?",
+   "a": "Bahrain",
+   "p": 400
+  },
+  {
+   "q": "Which mountain range runs through northern Oman and eastern UAE?",
+   "a": "Al Hajar Mountains",
+   "p": 400
+  },
+  {
+   "q": "Which river forms much of the border between Texas and Mexico?",
+   "a": "Rio Grande",
+   "p": 600
+  },
+  {
+   "q": "Which tiny landlocked country lies between Switzerland and Austria?",
+   "a": "Liechtenstein",
+   "p": 600
+  },
+  {
+   "q": "Windhoek is the capital of which African country?",
+   "a": "Namibia",
+   "p": 600
+  },
+  {
+   "q": "Which is the largest freshwater lake in the world by surface area?",
+   "a": "Lake Superior",
+   "p": 600
+  },
+  {
+   "q": "Which coastal desert runs along the Atlantic shore of Namibia?",
+   "a": "Namib Desert",
+   "p": 600
+  },
+  {
+   "q": "Which strait separates Tasmania from mainland Australia?",
+   "a": "Bass Strait",
+   "p": 600
+  },
+  {
+   "q": "Which river has its delta in southern Vietnam?",
+   "a": "The Mekong",
+   "p": 400
+  },
+  {
+   "q": "Ljubljana is the capital of which country?",
+   "a": "Slovenia",
+   "p": 600
+  },
+  {
+   "q": "Which Central Asian country is one of only two doubly landlocked countries in the world?",
+   "a": "Uzbekistan",
+   "p": 600
+  },
+  {
+   "q": "What is the capital city of Kyrgyzstan?",
+   "a": "Bishkek",
+   "p": 600
+  },
+  {
+   "q": "Which river is the second longest in Africa?",
+   "a": "The Congo",
+   "p": 600
+  },
+  {
+   "q": "Into which sea does the Volga River flow?",
+   "a": "Caspian Sea",
+   "p": 400
+  },
+  {
+   "q": "What is the capital city of Slovakia?",
+   "a": "Bratislava",
+   "p": 600
+  },
+  {
+   "q": "Which sea separates Italy from the Balkan Peninsula?",
+   "a": "Adriatic Sea",
+   "p": 400
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+# Android / Gradle
+.gradle/
+build/
+local.properties
+*.iml
+.idea/
+captures/
+*.apk
+*.aab
+# OS / editors
+.DS_Store
+Thumbs.db
+__pycache__/

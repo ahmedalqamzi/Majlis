@@ -1,0 +1,838 @@
+{
+ "id": "maghreb",
+ "name": "Morocco & Maghreb",
+ "questions": [
+  {
+   "q": "What is the capital of Morocco?",
+   "a": "Rabat",
+   "p": 200,
+   "ar": "الرباط"
+  },
+  {
+   "q": "Which Moroccan port city has a Spanish name meaning 'white house'?",
+   "a": "Casablanca",
+   "p": 200,
+   "ar": "الدار البيضاء"
+  },
+  {
+   "q": "What is the capital of Algeria?",
+   "a": "Algiers",
+   "p": 200,
+   "ar": "الجزائر العاصمة",
+   "alt": [
+    "Alger",
+    "El Djazair"
+   ]
+  },
+  {
+   "q": "What is the capital of Tunisia?",
+   "a": "Tunis",
+   "p": 200,
+   "ar": "تونس"
+  },
+  {
+   "q": "What is the capital of Libya?",
+   "a": "Tripoli",
+   "p": 200,
+   "ar": "طرابلس"
+  },
+  {
+   "q": "Which 'Red City' in Morocco is home to the Jemaa el-Fnaa square?",
+   "a": "Marrakech",
+   "p": 200,
+   "ar": "مراكش",
+   "alt": [
+    "Marrakesh"
+   ]
+  },
+  {
+   "q": "Which Moroccan mountain town is famous for its blue-painted streets?",
+   "a": "Chefchaouen",
+   "p": 200,
+   "ar": "شفشاون",
+   "alt": [
+    "Chaouen",
+    "Chefchaouene"
+   ]
+  },
+  {
+   "q": "Which mountain range stretches across Morocco, Algeria and Tunisia?",
+   "a": "Atlas Mountains",
+   "p": 200,
+   "ar": "جبال الأطلس",
+   "alt": [
+    "Atlas"
+   ]
+  },
+  {
+   "q": "Which dish of steamed semolina grains served with vegetables and meat is the signature of the Maghreb?",
+   "a": "Couscous",
+   "p": 200,
+   "ar": "كسكس",
+   "alt": [
+    "Kuskus",
+    "Seksu"
+   ]
+  },
+  {
+   "q": "Which dish takes its name from the conical clay pot in which it is slow-cooked?",
+   "a": "Tagine",
+   "p": 200,
+   "ar": "طاجين",
+   "alt": [
+    "Tajine",
+    "Tajin"
+   ]
+  },
+  {
+   "q": "Which ancient city near Tunis was Rome's great rival in the Mediterranean?",
+   "a": "Carthage",
+   "p": 200,
+   "ar": "قرطاج"
+  },
+  {
+   "q": "In 2022, Morocco became the first African nation to reach which stage of the World Cup?",
+   "a": "Semi-final",
+   "p": 200,
+   "ar": "نصف النهائي",
+   "alt": [
+    "Semi-finals",
+    "Last four",
+    "Semifinal"
+   ]
+  },
+  {
+   "q": "Which Moroccan explorer from Tangier travelled across much of the known world in the 14th century?",
+   "a": "Ibn Battuta",
+   "p": 200,
+   "ar": "ابن بطوطة"
+  },
+  {
+   "q": "By what nickname is the Moroccan national football team known?",
+   "a": "Atlas Lions",
+   "p": 200,
+   "ar": "أسود الأطلس",
+   "alt": [
+    "The Atlas Lions",
+    "Lions of the Atlas"
+   ]
+  },
+  {
+   "q": "Which green tea with fresh mint is a symbol of Moroccan hospitality?",
+   "a": "Moroccan mint tea",
+   "p": 200,
+   "ar": "الشاي المغربي",
+   "alt": [
+    "Mint tea",
+    "Maghrebi tea",
+    "Atay"
+   ]
+  },
+  {
+   "q": "Which Moroccan imperial city is famed for its labyrinthine medina and leather tanneries?",
+   "a": "Fes",
+   "p": 200,
+   "ar": "فاس",
+   "alt": [
+    "Fez"
+   ]
+  },
+  {
+   "q": "Which vast desert covers much of Algeria, Libya and southern Morocco?",
+   "a": "Sahara",
+   "p": 200,
+   "ar": "الصحراء الكبرى",
+   "alt": [
+    "The Sahara",
+    "Sahara Desert"
+   ]
+  },
+  {
+   "q": "Which narrow strait separates Morocco from Spain?",
+   "a": "Strait of Gibraltar",
+   "p": 200,
+   "ar": "مضيق جبل طارق",
+   "alt": [
+    "Gibraltar Strait"
+   ]
+  },
+  {
+   "q": "What is the currency of Morocco?",
+   "a": "Moroccan dirham",
+   "p": 200,
+   "ar": "الدرهم المغربي",
+   "alt": [
+    "Dirham"
+   ]
+  },
+  {
+   "q": "Which oil, pressed from the kernels of a tree native to south-west Morocco, is used in cooking and cosmetics?",
+   "a": "Argan oil",
+   "p": 200,
+   "ar": "زيت الأركان",
+   "alt": [
+    "Argan"
+   ]
+  },
+  {
+   "q": "Which Moroccan port city overlooks the Strait of Gibraltar?",
+   "a": "Tangier",
+   "p": 200,
+   "ar": "طنجة",
+   "alt": [
+    "Tanger"
+   ]
+  },
+  {
+   "q": "What is the walled old quarter of a North African city called?",
+   "a": "Medina",
+   "p": 200,
+   "ar": "المدينة",
+   "alt": [
+    "Madina"
+   ]
+  },
+  {
+   "q": "Which hearty soup of tomatoes, lentils and chickpeas is traditionally used to break the Ramadan fast in Morocco?",
+   "a": "Harira",
+   "p": 200,
+   "ar": "حريرة"
+  },
+  {
+   "q": "Which French footballer of Algerian descent scored twice with his head in the 1998 World Cup final?",
+   "a": "Zinedine Zidane",
+   "p": 200,
+   "ar": "زين الدين زيدان",
+   "alt": [
+    "Zidane"
+   ]
+  },
+  {
+   "q": "Which Carthaginian general famously crossed the Alps with war elephants?",
+   "a": "Hannibal",
+   "p": 200,
+   "ar": "حنبعل"
+  },
+  {
+   "q": "Which ocean forms Morocco's western coastline?",
+   "a": "Atlantic Ocean",
+   "p": 200,
+   "ar": "المحيط الأطلسي",
+   "alt": [
+    "Atlantic"
+   ]
+  },
+  {
+   "q": "Besides Arabic and Berber, which European language is widely spoken across the Maghreb?",
+   "a": "French",
+   "p": 200,
+   "ar": "الفرنسية"
+  },
+  {
+   "q": "Which country lies on Libya's eastern border?",
+   "a": "Egypt",
+   "p": 200,
+   "ar": "مصر"
+  },
+  {
+   "q": "Which citrus fruit is a major agricultural export of Morocco?",
+   "a": "Oranges",
+   "p": 200,
+   "ar": "البرتقال",
+   "alt": [
+    "Orange"
+   ]
+  },
+  {
+   "q": "What is the public steam bath tradition of North Africa and the Middle East called?",
+   "a": "Hammam",
+   "p": 200,
+   "ar": "حمام",
+   "alt": [
+    "Hammam bath",
+    "Hamam"
+   ]
+  },
+  {
+   "q": "Which long, hooded robe is traditional Moroccan clothing?",
+   "a": "Djellaba",
+   "p": 200,
+   "ar": "جلابة",
+   "alt": [
+    "Jellaba",
+    "Jilbab"
+   ]
+  },
+  {
+   "q": "Which dish of eggs poached in a spiced tomato and pepper sauce is popular across the Maghreb?",
+   "a": "Shakshuka",
+   "p": 200,
+   "ar": "شكشوكة",
+   "alt": [
+    "Chakchouka",
+    "Shakshouka"
+   ]
+  },
+  {
+   "q": "Which tree's fruit is pressed for Tunisia's famous oil?",
+   "a": "Olive",
+   "p": 200,
+   "ar": "الزيتون",
+   "alt": [
+    "Olives",
+    "Olive tree"
+   ]
+  },
+  {
+   "q": "Which animal carries tourists on treks across the Saharan dunes of Merzouga?",
+   "a": "Camel",
+   "p": 200,
+   "ar": "الجمل",
+   "alt": [
+    "Dromedary"
+   ]
+  },
+  {
+   "q": "Which sea lies off the northern coasts of Libya, Tunisia and Algeria?",
+   "a": "Mediterranean Sea",
+   "p": 200,
+   "ar": "البحر المتوسط",
+   "alt": [
+    "Mediterranean"
+   ]
+  },
+  {
+   "q": "What does the Arabic word 'Maghreb' mean?",
+   "a": "The West",
+   "p": 400,
+   "ar": "المغرب",
+   "alt": [
+    "West",
+    "Place of sunset"
+   ]
+  },
+  {
+   "q": "By what name do the indigenous people of North Africa call themselves, often translated as 'free people'?",
+   "a": "Amazigh",
+   "p": 400,
+   "ar": "الأمازيغ",
+   "alt": [
+    "Imazighen",
+    "Berber",
+    "Berbers"
+   ]
+  },
+  {
+   "q": "What is a traditional Moroccan house built around an interior garden or courtyard called?",
+   "a": "Riad",
+   "p": 400,
+   "ar": "رياض",
+   "alt": [
+    "Riyad"
+   ]
+  },
+  {
+   "q": "Which sweet-and-savoury Moroccan pie, dusted with sugar and cinnamon, is traditionally made with pigeon?",
+   "a": "Pastilla",
+   "p": 400,
+   "ar": "بسطيلة",
+   "alt": [
+    "Bastilla",
+    "Bstilla"
+   ]
+  },
+  {
+   "q": "Which spicy sausage, usually of lamb or beef, is a Maghrebi grill favourite?",
+   "a": "Merguez",
+   "p": 400,
+   "ar": "مرقاز",
+   "alt": [
+    "Merguez sausage",
+    "Mergaz"
+   ]
+  },
+  {
+   "q": "Which Tunisian fried pastry is filled with egg, tuna or parsley?",
+   "a": "Brik",
+   "p": 400,
+   "ar": "بريك",
+   "alt": [
+    "Bureg"
+   ]
+  },
+  {
+   "q": "Which fiery chilli paste is a staple of Tunisian cooking?",
+   "a": "Harissa",
+   "p": 400,
+   "ar": "هريسة"
+  },
+  {
+   "q": "Which Algerian winger helped Leicester City win the Premier League title in 2016?",
+   "a": "Riyad Mahrez",
+   "p": 400,
+   "ar": "رياض محرز",
+   "alt": [
+    "Mahrez"
+   ]
+  },
+  {
+   "q": "Which Tunisian town gave its name to Luke Skywalker's home planet in Star Wars?",
+   "a": "Tataouine",
+   "p": 400,
+   "ar": "تطاوين",
+   "alt": [
+    "Tatooine",
+    "Tataouin"
+   ]
+  },
+  {
+   "q": "What is the highest peak in the Atlas Mountains and in North Africa?",
+   "a": "Jbel Toubkal",
+   "p": 400,
+   "ar": "جبل توبقال",
+   "alt": [
+    "Toubkal",
+    "Mount Toubkal",
+    "Jebel Toubkal"
+   ]
+  },
+  {
+   "q": "Which fortified Moroccan village, used in Gladiator and Game of Thrones, is a UNESCO site?",
+   "a": "Ait Benhaddou",
+   "p": 400,
+   "ar": "آيت بن حدو",
+   "alt": [
+    "Aït Benhaddou",
+    "Ait Ben Haddou"
+   ]
+  },
+  {
+   "q": "Which Atlantic port town in Morocco, once called Mogador, hosts a famed Gnawa music festival?",
+   "a": "Essaouira",
+   "p": 400,
+   "ar": "الصويرة"
+  },
+  {
+   "q": "Which blue-and-white clifftop village near Tunis is a popular tourist spot?",
+   "a": "Sidi Bou Said",
+   "p": 400,
+   "ar": "سيدي بو سعيد",
+   "alt": [
+    "Sidi Bousaid"
+   ]
+  },
+  {
+   "q": "Which Tunisian island is known for its beaches and historic synagogue and mosques?",
+   "a": "Djerba",
+   "p": 400,
+   "ar": "جربة"
+  },
+  {
+   "q": "Which Libyan site, on the Mediterranean coast, preserves vast Roman ruins and was the birthplace of Emperor Septimius Severus?",
+   "a": "Leptis Magna",
+   "p": 400,
+   "ar": "لبدة الكبرى",
+   "alt": [
+    "Lepcis Magna"
+   ]
+  },
+  {
+   "q": "Which hillside old quarter of the Algerian capital is a UNESCO World Heritage site?",
+   "a": "Casbah of Algiers",
+   "p": 400,
+   "ar": "قصبة الجزائر",
+   "alt": [
+    "Kasbah of Algiers",
+    "Casbah",
+    "La Casbah"
+   ]
+  },
+  {
+   "q": "Which North African country is the largest in Africa by area?",
+   "a": "Algeria",
+   "p": 400,
+   "ar": "الجزائر"
+  },
+  {
+   "q": "Which Algerian singer, nicknamed the 'King of Rai', is known for the hit 'Didi'?",
+   "a": "Cheb Khaled",
+   "p": 400,
+   "ar": "الشاب خالد",
+   "alt": [
+    "Khaled"
+   ]
+  },
+  {
+   "q": "Which Algerian-born writer won the 1957 Nobel Prize in Literature and wrote The Stranger?",
+   "a": "Albert Camus",
+   "p": 400,
+   "ar": "ألبير كامو",
+   "alt": [
+    "Camus"
+   ]
+  },
+  {
+   "q": "Which Tunisian-born scholar of the 14th century wrote the Muqaddimah?",
+   "a": "Ibn Khaldun",
+   "p": 400,
+   "ar": "ابن خلدون"
+  },
+  {
+   "q": "What name is given to the wars Rome fought against Carthage?",
+   "a": "Punic Wars",
+   "p": 400,
+   "ar": "الحروب البونية",
+   "alt": [
+    "Punic War"
+   ]
+  },
+  {
+   "q": "Which Moroccan runner won both the 1500 m and 5000 m at the 2004 Athens Olympics?",
+   "a": "Hicham El Guerrouj",
+   "p": 400,
+   "ar": "هشام الكروج",
+   "alt": [
+    "El Guerrouj"
+   ]
+  },
+  {
+   "q": "Which Tunisian tennis player reached the Wimbledon final in 2022?",
+   "a": "Ons Jabeur",
+   "p": 400,
+   "ar": "أنس جابر",
+   "alt": [
+    "Jabeur"
+   ]
+  },
+  {
+   "q": "Which goalkeeper, nicknamed 'Bono', starred for Morocco at the 2022 World Cup?",
+   "a": "Yassine Bounou",
+   "p": 400,
+   "ar": "ياسين بونو",
+   "alt": [
+    "Bono",
+    "Bounou"
+   ]
+  },
+  {
+   "q": "Which European team did Morocco knock out on penalties in the 2022 World Cup round of 16?",
+   "a": "Spain",
+   "p": 400,
+   "ar": "إسبانيا"
+  },
+  {
+   "q": "Which European team did Morocco beat 1-0 in the 2022 World Cup quarter-final?",
+   "a": "Portugal",
+   "p": 400,
+   "ar": "البرتغال"
+  },
+  {
+   "q": "Which team beat Morocco in the 2022 World Cup semi-final?",
+   "a": "France",
+   "p": 400,
+   "ar": "فرنسا"
+  },
+  {
+   "q": "What is the title of Ibn Battuta's travel book, meaning 'The Journey'?",
+   "a": "Rihla",
+   "p": 400,
+   "ar": "الرحلة",
+   "alt": [
+    "The Rihla",
+    "Rihlat Ibn Battuta"
+   ]
+  },
+  {
+   "q": "Which 12th-century Marrakech mosque has a minaret that inspired the Giralda in Seville?",
+   "a": "Koutoubia Mosque",
+   "p": 400,
+   "ar": "مسجد الكتبية",
+   "alt": [
+    "Koutoubia",
+    "Kutubiyya Mosque"
+   ]
+  },
+  {
+   "q": "Which Marrakech square fills each evening with storytellers, musicians and food stalls?",
+   "a": "Jemaa el-Fnaa",
+   "p": 400,
+   "ar": "جامع الفنا",
+   "alt": [
+    "Djemaa el-Fna",
+    "Jemaa el-Fna",
+    "Jemaa el Fnaa"
+   ]
+  },
+  {
+   "q": "Which Roman ruins near Meknes are a UNESCO site known for their mosaics?",
+   "a": "Volubilis",
+   "p": 400,
+   "ar": "وليلي"
+  },
+  {
+   "q": "Which Moroccan city, nicknamed the 'Hollywood of Morocco', hosts major film studios?",
+   "a": "Ouarzazate",
+   "p": 400,
+   "ar": "ورزازات"
+  },
+  {
+   "q": "Which Maghreb semi-nomadic people, known for indigo-blue veils, roam the central Sahara?",
+   "a": "Tuareg",
+   "p": 400,
+   "ar": "الطوارق",
+   "alt": [
+    "Touareg"
+   ]
+  },
+  {
+   "q": "Which Tunisian city is home to one of the oldest mosques in North Africa, founded in 670 CE?",
+   "a": "Kairouan",
+   "p": 400,
+   "ar": "القيروان"
+  },
+  {
+   "q": "In which year did Algeria gain independence from France?",
+   "a": "1962",
+   "p": 400
+  },
+  {
+   "q": "Which Moroccan striker headed the winner against Portugal at the 2022 World Cup?",
+   "a": "Youssef En-Nesyri",
+   "p": 600,
+   "ar": "يوسف النصيري",
+   "alt": [
+    "En-Nesyri",
+    "Ennesyri"
+   ]
+  },
+  {
+   "q": "Which team did Morocco face in the 2022 World Cup third-place match?",
+   "a": "Croatia",
+   "p": 600,
+   "ar": "كرواتيا"
+  },
+  {
+   "q": "Who coached Morocco at the 2022 World Cup?",
+   "a": "Walid Regragui",
+   "p": 600,
+   "ar": "وليد الركراكي",
+   "alt": [
+    "Regragui"
+   ]
+  },
+  {
+   "q": "Which European team did Morocco beat 2-0 in the 2022 World Cup group stage?",
+   "a": "Belgium",
+   "p": 600,
+   "ar": "بلجيكا"
+  },
+  {
+   "q": "In which year did Morocco become the first African team to reach the World Cup knockout stage?",
+   "a": "1986",
+   "p": 600
+  },
+  {
+   "q": "Which Moroccan hurdler became the first African woman to win an Olympic gold in 1984?",
+   "a": "Nawal El Moutawakel",
+   "p": 600,
+   "ar": "نوال المتوكل",
+   "alt": [
+    "El Moutawakel"
+   ]
+  },
+  {
+   "q": "Which Algerian runner won the women's 1500 m at the 1992 Barcelona Olympics?",
+   "a": "Hassiba Boulmerka",
+   "p": 600,
+   "ar": "حسيبة بولمرقة",
+   "alt": [
+    "Boulmerka"
+   ]
+  },
+  {
+   "q": "Which Algerian runner won the 1500 m at the 1996 Atlanta Olympics?",
+   "a": "Noureddine Morceli",
+   "p": 600,
+   "ar": "نور الدين مرسلي",
+   "alt": [
+    "Morceli"
+   ]
+  },
+  {
+   "q": "Which Tunisian swimmer won the 1500 m freestyle gold at the 2008 Olympics?",
+   "a": "Oussama Mellouli",
+   "p": 600,
+   "ar": "أسامة الملولي",
+   "alt": [
+    "Mellouli"
+   ]
+  },
+  {
+   "q": "Which Maghreb team became the first African nation to win a World Cup match, beating Mexico in 1978?",
+   "a": "Tunisia",
+   "p": 600,
+   "ar": "تونس"
+  },
+  {
+   "q": "Whom did Algeria beat 2-1 at the 1982 World Cup?",
+   "a": "West Germany",
+   "p": 600,
+   "ar": "ألمانيا الغربية",
+   "alt": [
+    "Germany"
+   ]
+  },
+  {
+   "q": "Which woman founded the Al-Qarawiyyin institution in Fes in 859?",
+   "a": "Fatima al-Fihri",
+   "p": 600,
+   "ar": "فاطمة الفهرية"
+  },
+  {
+   "q": "Which fashion designer bought and restored the Majorelle Garden in Marrakech in 1980?",
+   "a": "Yves Saint Laurent",
+   "p": 600,
+   "ar": "إيف سان لوران",
+   "alt": [
+    "YSL"
+   ]
+  },
+  {
+   "q": "Which unfinished 12th-century minaret towers over Rabat?",
+   "a": "Hassan Tower",
+   "p": 600,
+   "ar": "صومعة حسان",
+   "alt": [
+    "Tour Hassan"
+   ]
+  },
+  {
+   "q": "For which pilgrimage did Ibn Battuta set out from Tangier in 1325?",
+   "a": "Hajj",
+   "p": 600,
+   "ar": "الحج"
+  },
+  {
+   "q": "In which Indian city did Ibn Battuta serve as a judge?",
+   "a": "Delhi",
+   "p": 600,
+   "ar": "دلهي"
+  },
+  {
+   "q": "Which ancient Greek colony in eastern Libya is a UNESCO site on the Green Mountain?",
+   "a": "Cyrene",
+   "p": 600,
+   "ar": "شحات",
+   "alt": [
+    "Shahat"
+   ]
+  },
+  {
+   "q": "Which Libyan oasis town, called the 'Pearl of the Desert', is known for its mud-brick old town?",
+   "a": "Ghadames",
+   "p": 600,
+   "ar": "غدامس"
+  },
+  {
+   "q": "Which Algerian desert plateau is famed for prehistoric rock art?",
+   "a": "Tassili n'Ajjer",
+   "p": 600,
+   "ar": "طاسيلي ناجر",
+   "alt": [
+    "Tassili"
+   ]
+  },
+  {
+   "q": "Which Algerian site is a well-preserved Roman colonial town founded under Trajan?",
+   "a": "Timgad",
+   "p": 600,
+   "ar": "تيمقاد"
+  },
+  {
+   "q": "Which Algerian valley near Ghardaia is a UNESCO site of fortified towns built by the Mozabites?",
+   "a": "M'Zab Valley",
+   "p": 600,
+   "ar": "وادي ميزاب",
+   "alt": [
+    "Mzab",
+    "M'zab"
+   ]
+  },
+  {
+   "q": "Which Tyrian princess is said to have founded Carthage?",
+   "a": "Dido",
+   "p": 600,
+   "ar": "عليسة",
+   "alt": [
+    "Elissa"
+   ]
+  },
+  {
+   "q": "In which year was Carthage destroyed by Rome?",
+   "a": "146 BC",
+   "p": 600,
+   "ar": "146 ق.م",
+   "alt": [
+    "146 BCE",
+    "146"
+   ]
+  },
+  {
+   "q": "Which Tunisian town is famous for troglodyte homes dug into the ground?",
+   "a": "Matmata",
+   "p": 600,
+   "ar": "مطماطة"
+  },
+  {
+   "q": "Which vast Tunisian salt lake is the largest in the Sahara?",
+   "a": "Chott el Djerid",
+   "p": 600,
+   "ar": "شط الجريد",
+   "alt": [
+    "Chott el-Djerid"
+   ]
+  },
+  {
+   "q": "Which Libyan resistance leader was nicknamed the 'Lion of the Desert'?",
+   "a": "Omar Mukhtar",
+   "p": 600,
+   "ar": "عمر المختار",
+   "alt": [
+    "Omar al-Mukhtar"
+   ]
+  },
+  {
+   "q": "In which year did Libya gain independence?",
+   "a": "1951",
+   "p": 600
+  },
+  {
+   "q": "Which Libyan dish is a barley dough ball served with a tomato-based sauce?",
+   "a": "Bazin",
+   "p": 600,
+   "ar": "بازين",
+   "alt": [
+    "Bazeen"
+   ]
+  },
+  {
+   "q": "Which Algerian dish features torn flatbread soaked in a spicy stew?",
+   "a": "Chakhchoukha",
+   "p": 600,
+   "ar": "شخشوخة",
+   "alt": [
+    "Chekhchoukha"
+   ]
+  },
+  {
+   "q": "Which Marrakech dish of beef or lamb is slow-cooked in an urn buried in hot ashes?",
+   "a": "Tanjia",
+   "p": 600,
+   "ar": "طنجية",
+   "alt": [
+    "Tangia",
+    "Tanjia Marrakchia"
+   ]
+  }
+ ]
+}

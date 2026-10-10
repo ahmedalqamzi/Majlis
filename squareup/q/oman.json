@@ -1,0 +1,930 @@
+{
+ "id": "oman",
+ "name": "Oman",
+ "questions": [
+  {
+   "q": "What is the capital of Oman?",
+   "a": "Muscat",
+   "p": 200,
+   "ar": "مسقط",
+   "alt": [
+    "Masqat"
+   ]
+  },
+  {
+   "q": "What is the currency of Oman?",
+   "a": "Omani rial",
+   "p": 200,
+   "ar": "ريال عماني",
+   "alt": [
+    "Rial",
+    "Omani riyal",
+    "OMR"
+   ]
+  },
+  {
+   "q": "Which landmark mosque in Muscat, opened in 2001, is among the best-known buildings in Oman?",
+   "a": "Sultan Qaboos Grand Mosque",
+   "p": 200,
+   "ar": "جامع السلطان قابوس الأكبر",
+   "alt": [
+    "Grand Mosque",
+    "Sultan Qaboos Mosque"
+   ]
+  },
+  {
+   "q": "Dhofar has been famous for thousands of years for which aromatic tree resin burned as incense?",
+   "a": "Frankincense",
+   "p": 200,
+   "ar": "لبان",
+   "alt": [
+    "Luban",
+    "Olibanum"
+   ]
+  },
+  {
+   "q": "What is the name of the curved dagger shown on Oman's flag and national emblem?",
+   "a": "Khanjar",
+   "p": 200,
+   "ar": "خنجر",
+   "alt": [
+    "Khunjar",
+    "Khanjar dagger"
+   ]
+  },
+  {
+   "q": "Which sticky, gelatinous sweet flavoured with rosewater and cardamom is traditionally served with Omani coffee?",
+   "a": "Halwa",
+   "p": 200,
+   "ar": "حلوى",
+   "alt": [
+    "Omani halwa",
+    "Halwah",
+    "Halawa"
+   ]
+  },
+  {
+   "q": "What is the name of the festive Omani dish of marinated meat slow-cooked for a day or more in an underground oven?",
+   "a": "Shuwa",
+   "p": 200,
+   "ar": "شوا",
+   "alt": [
+    "Shuwa",
+    "Shuaa",
+    "Shiwa"
+   ]
+  },
+  {
+   "q": "Which Omani mountain, nicknamed the 'Grand Canyon of Arabia', is a famous hiking and viewpoint destination?",
+   "a": "Jebel Shams",
+   "p": 200,
+   "ar": "جبل شمس",
+   "alt": [
+    "Jabal Shams"
+   ]
+  },
+  {
+   "q": "Which large Omani sand desert, also called the Sharqiya Sands, is known for its high red dunes?",
+   "a": "Wahiba Sands",
+   "p": 200,
+   "ar": "رمال وهيبة",
+   "alt": [
+    "Sharqiya Sands",
+    "Wahiba",
+    "Sharqiyah Sands"
+   ]
+  },
+  {
+   "q": "Which inland city is known for its great round fort and its Friday livestock market?",
+   "a": "Nizwa",
+   "p": 200,
+   "ar": "نزوى"
+  },
+  {
+   "q": "Which northern Omani exclave with fjord-like inlets is nicknamed the 'Norway of Arabia'?",
+   "a": "Musandam",
+   "p": 200,
+   "ar": "مسندم",
+   "alt": [
+    "Musandam Peninsula"
+   ]
+  },
+  {
+   "q": "Which Omani port city on the Batinah coast is traditionally linked to Sindbad the Sailor?",
+   "a": "Sohar",
+   "p": 200,
+   "ar": "صحار",
+   "alt": [
+    "Suhar"
+   ]
+  },
+  {
+   "q": "Which southern Omani city in Dhofar is famous for its summer monsoon season?",
+   "a": "Salalah",
+   "p": 200,
+   "ar": "صلالة"
+  },
+  {
+   "q": "What is the name of the long robe worn by Omani men?",
+   "a": "Dishdasha",
+   "p": 200,
+   "ar": "دشداشة",
+   "alt": [
+    "Disdasha",
+    "Thobe",
+    "Dishdash"
+   ]
+  },
+  {
+   "q": "Who ruled Oman as sultan from 1970 to 2020?",
+   "a": "Sultan Qaboos",
+   "p": 200,
+   "ar": "السلطان قابوس بن سعيد",
+   "alt": [
+    "Qaboos bin Said",
+    "Qaboos",
+    "Sultan Qaboos bin Said"
+   ]
+  },
+  {
+   "q": "Which country lies to the northwest of Oman and shares a land border with it?",
+   "a": "United Arab Emirates",
+   "p": 200,
+   "ar": "الإمارات",
+   "alt": [
+    "UAE",
+    "Emirates"
+   ]
+  },
+  {
+   "q": "Which sea lies off Oman's southern and eastern coast?",
+   "a": "Arabian Sea",
+   "p": 200,
+   "ar": "بحر العرب"
+  },
+  {
+   "q": "What is the name of the cardamom-spiced coffee served as a welcome gesture in Omani homes?",
+   "a": "Kahwa",
+   "p": 200,
+   "ar": "قهوة",
+   "alt": [
+    "Qahwa",
+    "Omani coffee",
+    "Gahwa"
+   ]
+  },
+  {
+   "q": "Which district of Muscat is known for its waterfront Corniche and its traditional souq?",
+   "a": "Mutrah",
+   "p": 200,
+   "ar": "مطرح",
+   "alt": [
+    "Muttrah",
+    "Matrah",
+    "Muttra"
+   ]
+  },
+  {
+   "q": "What is the name of the traditional wooden sailing vessel of the Arabian seas?",
+   "a": "Dhow",
+   "p": 200,
+   "ar": "داو",
+   "alt": [
+    "Dhau",
+    "Dow",
+    "Boom"
+   ]
+  },
+  {
+   "q": "Which three colours appear on the Omani flag, besides the emblem?",
+   "a": "Red, white and green",
+   "p": 200,
+   "ar": "أحمر وأبيض وأخضر",
+   "alt": [
+    "White, red and green",
+    "Red white green"
+   ]
+  },
+  {
+   "q": "What is the official language of Oman?",
+   "a": "Arabic",
+   "p": 200,
+   "ar": "العربية"
+  },
+  {
+   "q": "What is the name of the cool, misty monsoon season in Dhofar from roughly June to September?",
+   "a": "Khareef",
+   "p": 200,
+   "ar": "خريف",
+   "alt": [
+    "Kharif",
+    "Khareef season"
+   ]
+  },
+  {
+   "q": "What title is given to the monarch of Oman?",
+   "a": "Sultan",
+   "p": 200,
+   "ar": "سلطان"
+  },
+  {
+   "q": "Which country lies to the southwest of Oman?",
+   "a": "Yemen",
+   "p": 200,
+   "ar": "اليمن"
+  },
+  {
+   "q": "What is the name of Oman's national airline?",
+   "a": "Oman Air",
+   "p": 200,
+   "ar": "الطيران العماني"
+  },
+  {
+   "q": "What is the embroidered, round cap worn by Omani men called?",
+   "a": "Kumma",
+   "p": 200,
+   "ar": "كمة",
+   "alt": [
+    "Kuma",
+    "Kummah"
+   ]
+  },
+  {
+   "q": "What is the name of the gulf that lies along Muscat's northern coast and shares its name with the country?",
+   "a": "Gulf of Oman",
+   "p": 200,
+   "ar": "خليج عمان",
+   "alt": [
+    "Sea of Oman"
+   ]
+  },
+  {
+   "q": "Which fossil fuel is Oman's most important export?",
+   "a": "Oil",
+   "p": 200,
+   "ar": "النفط",
+   "alt": [
+    "Crude oil",
+    "Petroleum"
+   ]
+  },
+  {
+   "q": "Which pear-shaped stringed instrument is central to traditional Arabic music?",
+   "a": "Oud",
+   "p": 200,
+   "ar": "عود",
+   "alt": [
+    "Ud",
+    "Oud lute"
+   ]
+  },
+  {
+   "q": "Oman's long southeastern coast faces which ocean?",
+   "a": "Indian Ocean",
+   "p": 200,
+   "ar": "المحيط الهندي"
+  },
+  {
+   "q": "What is the incense burner used to burn frankincense in Omani homes called?",
+   "a": "Mabkhara",
+   "p": 200,
+   "ar": "مبخرة",
+   "alt": [
+    "Mabkhar",
+    "Madkhana",
+    "Mibkhara"
+   ]
+  },
+  {
+   "q": "Which tree, whose fruit is a staple across Arabia, is called 'nakhla' in Arabic?",
+   "a": "Date palm",
+   "p": 200,
+   "ar": "نخلة",
+   "alt": [
+    "Palm",
+    "Palm tree",
+    "Nakhla"
+   ]
+  },
+  {
+   "q": "Which white antelope with long straight horns was reintroduced to Oman's desert in the 1980s?",
+   "a": "Arabian oryx",
+   "p": 200,
+   "ar": "المها العربي",
+   "alt": [
+    "Oryx",
+    "Maha"
+   ]
+  },
+  {
+   "q": "What Arabic term for a valley or seasonal riverbed appears in the names of places like Shab and Bani Khalid?",
+   "a": "Wadi",
+   "p": 200,
+   "ar": "وادي",
+   "alt": [
+    "Wadi valley"
+   ]
+  },
+  {
+   "q": "In which year did UNESCO inscribe Oman's Land of Frankincense on the World Heritage List?",
+   "a": "2000",
+   "p": 400
+  },
+  {
+   "q": "In which year did the Sultan Qaboos Grand Mosque open?",
+   "a": "2001",
+   "p": 400
+  },
+  {
+   "q": "In which year did the Royal Opera House Muscat open?",
+   "a": "2011",
+   "p": 400
+  },
+  {
+   "q": "Which ceremonial palace in Old Muscat is flanked by the Jalali and Mirani forts?",
+   "a": "Al Alam Palace",
+   "p": 400,
+   "ar": "قصر العلم",
+   "alt": [
+    "Qasr Al Alam",
+    "Al-Alam Palace"
+   ]
+  },
+  {
+   "q": "Which European power built Muscat's Jalali and Mirani forts in the 16th century?",
+   "a": "Portugal",
+   "p": 400,
+   "alt": [
+    "Portuguese"
+   ]
+  },
+  {
+   "q": "Which luxury perfume house, founded in Oman in 1983, uses frankincense in its signature scents?",
+   "a": "Amouage",
+   "p": 400,
+   "ar": "أمواج",
+   "alt": [
+    "Amouage perfumes"
+   ]
+  },
+  {
+   "q": "Which Omani goalkeeper became the first Omani to play in the English Premier League, with Wigan Athletic?",
+   "a": "Ali Al-Habsi",
+   "p": 400,
+   "ar": "علي الحبسي",
+   "alt": [
+    "Ali Al Habsi",
+    "Al-Habsi"
+   ]
+  },
+  {
+   "q": "In which Omani city was the 2009 Gulf Cup held, with Oman winning on home soil?",
+   "a": "Muscat",
+   "p": 400,
+   "ar": "مسقط"
+  },
+  {
+   "q": "Oman won the 2018 Gulf Cup final by beating which team in a penalty shootout?",
+   "a": "United Arab Emirates",
+   "p": 400,
+   "ar": "الإمارات",
+   "alt": [
+    "UAE"
+   ]
+  },
+  {
+   "q": "In which country was the 2018 Gulf Cup, won by Oman, staged?",
+   "a": "Kuwait",
+   "p": 400,
+   "ar": "الكويت"
+  },
+  {
+   "q": "Which Omani wadi has turquoise pools and is reached by crossing a short stretch of water by boat?",
+   "a": "Wadi Shab",
+   "p": 400,
+   "ar": "وادي شاب",
+   "alt": [
+    "Wadi Shaab"
+   ]
+  },
+  {
+   "q": "Which natural limestone sinkhole near Fins beach has a turquoise swimming pool?",
+   "a": "Bimmah Sinkhole",
+   "p": 400,
+   "ar": "حفرة بمة",
+   "alt": [
+    "Hawiyat Najm",
+    "Bimmah",
+    "Bimah Sinkhole"
+   ]
+  },
+  {
+   "q": "Which wadi in the Sharqiyah region is known for its palms and natural pools?",
+   "a": "Wadi Bani Khalid",
+   "p": 400,
+   "ar": "وادي بني خالد",
+   "alt": [
+    "Bani Khalid"
+   ]
+  },
+  {
+   "q": "Which Omani mountain range, whose name means 'Green Mountain', is known for roses and pomegranates?",
+   "a": "Jebel Akhdar",
+   "p": 400,
+   "ar": "الجبل الأخضر",
+   "alt": [
+    "Jabal Akhdar",
+    "Green Mountain"
+   ]
+  },
+  {
+   "q": "What is the name of the rugged mountain range running across northern Oman?",
+   "a": "Hajar Mountains",
+   "p": 400,
+   "ar": "جبال الحجر",
+   "alt": [
+    "Al Hajar Mountains",
+    "Hajar"
+   ]
+  },
+  {
+   "q": "What is the capital of Oman's Musandam Governorate?",
+   "a": "Khasab",
+   "p": 400,
+   "ar": "خصب"
+  },
+  {
+   "q": "Musandam overlooks which narrow strait linking the Gulf to the Gulf of Oman?",
+   "a": "Strait of Hormuz",
+   "p": 400,
+   "ar": "مضيق هرمز",
+   "alt": [
+    "Hormuz"
+   ]
+  },
+  {
+   "q": "Which coastal Omani town is famous for dhow building and lies near the Ras Al Jinz turtle reserve?",
+   "a": "Sur",
+   "p": 400,
+   "ar": "صور"
+  },
+  {
+   "q": "Which East African island was once ruled from Muscat by an Omani sultan?",
+   "a": "Zanzibar",
+   "p": 400,
+   "ar": "زنجبار"
+  },
+  {
+   "q": "What is the name of the skewered, spiced and grilled meat popular at Omani street stalls?",
+   "a": "Mishkak",
+   "p": 400,
+   "ar": "مشكاك",
+   "alt": [
+    "Mishkaak",
+    "Meshkak"
+   ]
+  },
+  {
+   "q": "What is the thin, crisp round bread of Oman, often eaten with fish or curry?",
+   "a": "Rukhal",
+   "p": 400,
+   "ar": "رخال",
+   "alt": [
+    "Rakhal",
+    "Rukhal bread"
+   ]
+  },
+  {
+   "q": "Which wheat and meat porridge is a classic Ramadan dish across the Gulf?",
+   "a": "Harees",
+   "p": 400,
+   "ar": "هريس",
+   "alt": [
+    "Hareeseh",
+    "Haleem",
+    "Harees"
+   ]
+  },
+  {
+   "q": "What is the name of the traditional Omani sword-and-chanting performance dance, popular at celebrations?",
+   "a": "Razha",
+   "p": 400,
+   "ar": "رزحة",
+   "alt": [
+    "Razfa",
+    "Al Razha",
+    "Razfah"
+   ]
+  },
+  {
+   "q": "How many baisa are there in one Omani rial?",
+   "a": "1,000",
+   "p": 400,
+   "alt": [
+    "1000",
+    "One thousand"
+   ]
+  },
+  {
+   "q": "Which southern governorate is the home of Oman's frankincense trees?",
+   "a": "Dhofar",
+   "p": 400,
+   "ar": "ظفار",
+   "alt": [
+    "Zufar"
+   ]
+  },
+  {
+   "q": "What is the Arabic name for the ancient system of irrigation channels in Oman, listed by UNESCO?",
+   "a": "Aflaj",
+   "p": 400,
+   "ar": "أفلاج",
+   "alt": [
+    "Falaj",
+    "Aflaj irrigation"
+   ]
+  },
+  {
+   "q": "During which major Islamic festivals is shuwa traditionally prepared?",
+   "a": "Eid",
+   "p": 400,
+   "ar": "العيد",
+   "alt": [
+    "Eid al-Fitr",
+    "Eid al-Adha"
+   ]
+  },
+  {
+   "q": "Which waterfall-fed valley near Salalah turns green during the monsoon?",
+   "a": "Wadi Darbat",
+   "p": 400,
+   "ar": "وادي دربات",
+   "alt": [
+    "Darbat"
+   ]
+  },
+  {
+   "q": "Which weapons are shown crossed behind the khanjar on Oman's national emblem?",
+   "a": "Swords",
+   "p": 400,
+   "ar": "سيوف",
+   "alt": [
+    "Sword"
+   ]
+  },
+  {
+   "q": "On which day of the week is Nizwa's famous livestock market held?",
+   "a": "Friday",
+   "p": 400,
+   "ar": "الجمعة"
+  },
+  {
+   "q": "What are the dried limes used to flavour many Omani stews and teas called?",
+   "a": "Loomi",
+   "p": 400,
+   "ar": "لومي",
+   "alt": [
+    "Loomi",
+    "Noomi Basra",
+    "Black lime"
+   ]
+  },
+  {
+   "q": "By what red-based nickname is the Omani national football team known?",
+   "a": "Red Warriors",
+   "p": 400,
+   "ar": "الأحمر",
+   "alt": [
+    "The Red Warriors",
+    "Al Ahmar"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for 'fort', as in Nizwa's famous landmark?",
+   "a": "Qal'a",
+   "p": 400,
+   "ar": "قلعة",
+   "alt": [
+    "Qalaa",
+    "Qala",
+    "Hisn"
+   ]
+  },
+  {
+   "q": "What is the genus name of the trees that produce frankincense?",
+   "a": "Boswellia",
+   "p": 400,
+   "alt": [
+    "Boswellia sacra"
+   ]
+  },
+  {
+   "q": "The meat for shuwa is traditionally wrapped in the leaves of which tree before being buried?",
+   "a": "Palm",
+   "p": 400,
+   "ar": "سعف النخيل",
+   "alt": [
+    "Palm leaves",
+    "Date palm"
+   ]
+  },
+  {
+   "q": "Which Omani fort town, famed for its pottery, had the first site in Oman inscribed on the UNESCO World Heritage List in 1987?",
+   "a": "Bahla",
+   "p": 600,
+   "ar": "بهلاء",
+   "alt": [
+    "Bahla Fort",
+    "Bahlaa"
+   ]
+  },
+  {
+   "q": "Nizwa Fort was built in the 1650s under which Omani dynasty?",
+   "a": "Ya'rubi",
+   "p": 600,
+   "ar": "اليعاربة",
+   "alt": [
+    "Yaruba",
+    "Al Ya'rubi",
+    "Yarubi",
+    "Ya'ariba"
+   ]
+  },
+  {
+   "q": "Which ancient Dhofar port, also called Sumhuram, once shipped frankincense across the Indian Ocean?",
+   "a": "Khor Rori",
+   "p": 600,
+   "ar": "خور روري",
+   "alt": [
+    "Khor Rouri",
+    "Sumhuram",
+    "Khor Rori Sumhuram"
+   ]
+  },
+  {
+   "q": "Which UNESCO-listed archaeological park in Salalah preserves the remains of a medieval trading port?",
+   "a": "Al Baleed",
+   "p": 600,
+   "ar": "البليد",
+   "alt": [
+    "Al-Baleed",
+    "Balid",
+    "Al Balid"
+   ]
+  },
+  {
+   "q": "Which Omani wildlife sanctuary became the first site ever removed from UNESCO's World Heritage List, in 2007?",
+   "a": "Arabian Oryx Sanctuary",
+   "p": 600,
+   "ar": "محمية المها العربي",
+   "alt": [
+    "Oryx Sanctuary",
+    "Jiddat al-Harasis"
+   ]
+  },
+  {
+   "q": "Before 1970, the country was known as the Sultanate of Muscat and what?",
+   "a": "Oman",
+   "p": 600,
+   "ar": "عمان"
+  },
+  {
+   "q": "By what ancient name was Oman known in Sumerian texts, linked to the copper trade?",
+   "a": "Magan",
+   "p": 600,
+   "ar": "مجان",
+   "alt": [
+    "Makan"
+   ]
+  },
+  {
+   "q": "In 1980 to 1981, Tim Severin sailed a replica dhow named Sohar from Oman to which Chinese port?",
+   "a": "Canton",
+   "p": 600,
+   "ar": "قوانغتشو",
+   "alt": [
+    "Guangzhou",
+    "Canton (Guangzhou)"
+   ]
+  },
+  {
+   "q": "Which island group near Muscat is a protected nature reserve known for diving and nesting seabirds?",
+   "a": "Daymaniyat Islands",
+   "p": 600,
+   "ar": "جزر الديمانيات",
+   "alt": [
+    "Daymaniyat",
+    "Dimaniyat Islands"
+   ]
+  },
+  {
+   "q": "Which terraced mountain village near Al Hamra is known for its falaj-fed gardens and old stone houses?",
+   "a": "Misfat Al Abriyeen",
+   "p": 600,
+   "ar": "مسفاة العبريين",
+   "alt": [
+    "Misfat",
+    "Misfat al Abriyyin"
+   ]
+  },
+  {
+   "q": "What is the name of Oman's tall sailing ship used by the Royal Navy for sail training?",
+   "a": "Shabab Oman",
+   "p": 600,
+   "ar": "شباب عمان",
+   "alt": [
+    "Shabab Oman II"
+   ]
+  },
+  {
+   "q": "What word, meaning 'renaissance', do Omanis use for the era of development that began in 1970?",
+   "a": "Nahda",
+   "p": 600,
+   "ar": "النهضة",
+   "alt": [
+    "Nahdha",
+    "Al Nahda"
+   ]
+  },
+  {
+   "q": "Which Omani sultan moved his court to Zanzibar around 1840?",
+   "a": "Said bin Sultan",
+   "p": 600,
+   "ar": "سعيد بن سلطان",
+   "alt": [
+    "Sayyid Said",
+    "Sultan Said bin Sultan",
+    "Said ibn Sultan"
+   ]
+  },
+  {
+   "q": "Roughly how high above sea level is Jebel Shams, in metres?",
+   "a": "3,000",
+   "p": 600,
+   "alt": [
+    "3000 metres",
+    "3009",
+    "3,009",
+    "About 3,000 m"
+   ]
+  },
+  {
+   "q": "Which Dhofar wadi, listed by UNESCO among the frankincense sites, is known for its protected frankincense trees?",
+   "a": "Wadi Dawkah",
+   "p": 600,
+   "ar": "وادي دوكة",
+   "alt": [
+    "Wadi Dawka",
+    "Dawkah"
+   ]
+  },
+  {
+   "q": "Oman won its first Gulf Cup in 2009 by beating which team in the final?",
+   "a": "Saudi Arabia",
+   "p": 600,
+   "ar": "السعودية",
+   "alt": [
+    "KSA"
+   ]
+  },
+  {
+   "q": "Which monsoon-fed mountain near Salalah is covered in mist and green pastures each summer?",
+   "a": "Jebel Qara",
+   "p": 600,
+   "ar": "جبل القرا",
+   "alt": [
+    "Jabal Qara",
+    "Qara Mountains"
+   ]
+  },
+  {
+   "q": "Which Musandam village, reachable only by boat, is home to a unique Iranian-rooted language?",
+   "a": "Kumzar",
+   "p": 600,
+   "ar": "كمزار",
+   "alt": [
+    "Kumzar village"
+   ]
+  },
+  {
+   "q": "Which UNESCO-listed performing art, featuring rows of men with sticks and drums, is shared between Oman and its neighbour the UAE?",
+   "a": "Al-Ayyala",
+   "p": 600,
+   "ar": "العيالة",
+   "alt": [
+    "Ayyala",
+    "Al Ayala",
+    "Ayalah"
+   ]
+  },
+  {
+   "q": "Ras Al Jinz is a nesting site for which turtle, named for the colour of its body fat?",
+   "a": "Green turtle",
+   "p": 600,
+   "ar": "السلحفاة الخضراء",
+   "alt": [
+    "Green sea turtle"
+   ]
+  },
+  {
+   "q": "What is the name of the highest grade of Omani frankincense, prized for its pale colour?",
+   "a": "Hojari",
+   "p": 600,
+   "ar": "حوجري",
+   "alt": [
+    "Hojari frankincense",
+    "Hojari Super"
+   ]
+  },
+  {
+   "q": "Which castle near Bahla is known for its elaborately painted wooden ceilings?",
+   "a": "Jabreen Castle",
+   "p": 600,
+   "ar": "قلعة جبرين",
+   "alt": [
+    "Jabrin Castle",
+    "Jabrin",
+    "Jabreen"
+   ]
+  },
+  {
+   "q": "Which valley near Sur is known for its palm groves and pools, and is a popular cliff-side swimming stop?",
+   "a": "Wadi Tiwi",
+   "p": 600,
+   "ar": "وادي طيوي",
+   "alt": [
+    "Tiwi"
+   ]
+  },
+  {
+   "q": "What is the name of the covered, dimly lit main market of Mutrah?",
+   "a": "Souq Al Dhalam",
+   "p": 600,
+   "ar": "سوق الظلام",
+   "alt": [
+    "Mutrah Souq",
+    "Al Dhalam",
+    "Souk Al Dhalam"
+   ]
+  },
+  {
+   "q": "Which palace in the old centre of Salalah is a landmark of Dhofar's capital?",
+   "a": "Al Husn Palace",
+   "p": 600,
+   "ar": "قصر الحصن",
+   "alt": [
+    "Al Husn",
+    "Husn Palace"
+   ]
+  },
+  {
+   "q": "Which plateau on Jebel Akhdar is known for its terraced rose gardens used for rose water?",
+   "a": "Saiq Plateau",
+   "p": 600,
+   "ar": "هضبة سيق",
+   "alt": [
+    "Saiq",
+    "Sayq Plateau"
+   ]
+  },
+  {
+   "q": "What is the name of the wrapped cloth turban worn by Omani men?",
+   "a": "Mussar",
+   "p": 600,
+   "ar": "مصر",
+   "alt": [
+    "Musar",
+    "Massar"
+   ]
+  },
+  {
+   "q": "What is the name of the tassel sewn at the neck of the Omani dishdasha, often scented?",
+   "a": "Furakha",
+   "p": 600,
+   "ar": "فرخة",
+   "alt": [
+    "Farakha",
+    "Furakhah"
+   ]
+  },
+  {
+   "q": "Which town in the Sharqiyah region is known for its traditional Wednesday women's market?",
+   "a": "Ibra",
+   "p": 600,
+   "ar": "إبراء",
+   "alt": [
+    "Ibri",
+    "Ebra"
+   ]
+  },
+  {
+   "q": "Which Omani town in the interior is known for its weekly Thursday market and as a trading hub for Bedouin goods?",
+   "a": "Sinaw",
+   "p": 600,
+   "ar": "سناو",
+   "alt": [
+    "Sinaw market"
+   ]
+  }
+ ]
+}

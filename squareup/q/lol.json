@@ -1,0 +1,669 @@
+{
+ "id": "lol",
+ "name": "League of Legends",
+ "questions": [
+  {
+   "q": "Which company developed League of Legends?",
+   "a": "Riot Games",
+   "p": 200,
+   "alt": [
+    "Riot"
+   ]
+  },
+  {
+   "q": "What is the name of the standard 5v5 map in League of Legends?",
+   "a": "Summoner's Rift",
+   "p": 200,
+   "alt": [
+    "Summoners Rift"
+   ]
+  },
+  {
+   "q": "How many players are on each team in a standard Summoner's Rift match?",
+   "a": "Five",
+   "p": 200,
+   "alt": [
+    "5"
+   ]
+  },
+  {
+   "q": "What structure must a team destroy to win a standard match?",
+   "a": "The Nexus",
+   "p": 200,
+   "alt": [
+    "Nexus"
+   ]
+  },
+  {
+   "q": "Which giant Void monster, found in a river pit, grants a powerful team buff when slain?",
+   "a": "Baron Nashor",
+   "p": 200,
+   "alt": [
+    "Baron",
+    "Nashor"
+   ]
+  },
+  {
+   "q": "Which elemental neutral monsters, such as the Infernal and Ocean types, give team bonuses when slain?",
+   "a": "Dragons",
+   "p": 200,
+   "alt": [
+    "Dragon",
+    "Drakes",
+    "Drake"
+   ]
+  },
+  {
+   "q": "Which role spends the game farming neutral camps between the lanes?",
+   "a": "Jungle",
+   "p": 200,
+   "alt": [
+    "Jungler"
+   ]
+  },
+  {
+   "q": "Which nine-tailed fox champion is known for charming enemies?",
+   "a": "Ahri",
+   "p": 200
+  },
+  {
+   "q": "Which tiny yordle scout is famous for placing poisonous mushrooms?",
+   "a": "Teemo",
+   "p": 200
+  },
+  {
+   "q": "Which Netflix animated series is set in the League of Legends universe?",
+   "a": "Arcane",
+   "p": 200
+  },
+  {
+   "q": "Which two cities form the main setting of Arcane?",
+   "a": "Piltover and Zaun",
+   "p": 200,
+   "alt": [
+    "Piltover & Zaun"
+   ]
+  },
+  {
+   "q": "Which blue-haired troublemaker wields a rocket launcher named Fishbones?",
+   "a": "Jinx",
+   "p": 200
+  },
+  {
+   "q": "Which organisation won the League of Legends World Championship in 2023?",
+   "a": "T1",
+   "p": 200,
+   "alt": [
+    "SK Telecom T1",
+    "SKT"
+   ]
+  },
+  {
+   "q": "Which Korean mid laner is nicknamed the Unkillable Demon King?",
+   "a": "Faker",
+   "p": 200,
+   "alt": [
+    "Lee Sang-hyeok"
+   ]
+  },
+  {
+   "q": "What is the free currency, earned by levelling up, used to buy champions?",
+   "a": "Blue Essence",
+   "p": 200,
+   "alt": [
+    "BE"
+   ]
+  },
+  {
+   "q": "Which Summoner Spell instantly blinks a champion a short distance?",
+   "a": "Flash",
+   "p": 200
+  },
+  {
+   "q": "What is a five-kill streak called in League of Legends?",
+   "a": "Pentakill",
+   "p": 200,
+   "alt": [
+    "Penta kill",
+    "Penta"
+   ]
+  },
+  {
+   "q": "Which Noxian champion wields a huge axe and is known as the Hand of Noxus?",
+   "a": "Darius",
+   "p": 200
+  },
+  {
+   "q": "Which armoured Demacian champion spins his sword and is known as the Might of Demacia?",
+   "a": "Garen",
+   "p": 200
+  },
+  {
+   "q": "What is the highest standard ranked tier in League of Legends?",
+   "a": "Challenger",
+   "p": 200
+  },
+  {
+   "q": "What is the lowest ranked tier in League of Legends?",
+   "a": "Iron",
+   "p": 200
+  },
+  {
+   "q": "What does the role abbreviation ADC stand for?",
+   "a": "Attack Damage Carry",
+   "p": 200
+  },
+  {
+   "q": "Which Ionian swordsman is famous for his Wind Wall?",
+   "a": "Yasuo",
+   "p": 200
+  },
+  {
+   "q": "How many lanes are there on Summoner's Rift?",
+   "a": "Three",
+   "p": 200,
+   "alt": [
+    "3"
+   ]
+  },
+  {
+   "q": "Which Freljord archer, called the Frost Archer, fires ice arrows?",
+   "a": "Ashe",
+   "p": 200
+  },
+  {
+   "q": "In League of Legends slang, what does CS stand for?",
+   "a": "Creep Score",
+   "p": 200,
+   "alt": [
+    "Minion Score"
+   ]
+  },
+  {
+   "q": "What are the small units that march down each lane called?",
+   "a": "Minions",
+   "p": 200,
+   "alt": [
+    "Minion",
+    "Creeps"
+   ]
+  },
+  {
+   "q": "What is the annual League of Legends World Championship usually shortened to?",
+   "a": "Worlds",
+   "p": 200
+  },
+  {
+   "q": "Which steam-powered golem champion pulls enemies with a rocket fist?",
+   "a": "Blitzcrank",
+   "p": 200
+  },
+  {
+   "q": "Which Piltover inventor of Hextech works alongside Viktor in Arcane?",
+   "a": "Jayce",
+   "p": 200
+  },
+  {
+   "q": "Which Riot Games tactical shooter was released in 2020?",
+   "a": "Valorant",
+   "p": 200
+  },
+  {
+   "q": "Which Summoner Spell is used to deal heavy damage to neutral monsters?",
+   "a": "Smite",
+   "p": 200
+  },
+  {
+   "q": "Which Demacian mage, the Lady of Luminosity, fires a huge beam called Final Spark?",
+   "a": "Lux",
+   "p": 200
+  },
+  {
+   "q": "Which pink-haired Piltover enforcer with giant gauntlets is Jinx's sister?",
+   "a": "Vi",
+   "p": 200
+  },
+  {
+   "q": "Which streaming service released Arcane?",
+   "a": "Netflix",
+   "p": 200
+  },
+  {
+   "q": "Which co-founder of Riot Games, alongside Marc Merrill, started the company in 2006?",
+   "a": "Brandon Beck",
+   "p": 400
+  },
+  {
+   "q": "In which year was League of Legends released?",
+   "a": "2009",
+   "p": 400
+  },
+  {
+   "q": "Which Warcraft III mod inspired League of Legends?",
+   "a": "Defense of the Ancients",
+   "p": 400,
+   "alt": [
+    "DotA",
+    "Dota"
+   ]
+  },
+  {
+   "q": "Which Chinese company owns Riot Games?",
+   "a": "Tencent",
+   "p": 400
+  },
+  {
+   "q": "Which European organisation won the first World Championship in 2011?",
+   "a": "Fnatic",
+   "p": 400
+  },
+  {
+   "q": "Which Taiwanese team won the 2012 World Championship?",
+   "a": "Taipei Assassins",
+   "p": 400,
+   "alt": [
+    "TPA"
+   ]
+  },
+  {
+   "q": "Which team did Faker win his first Worlds title with in 2013?",
+   "a": "SK Telecom T1",
+   "p": 400,
+   "alt": [
+    "SKT",
+    "SKT T1",
+    "T1"
+   ]
+  },
+  {
+   "q": "What is Faker's real name?",
+   "a": "Lee Sang-hyeok",
+   "p": 400,
+   "alt": [
+    "Lee Sanghyeok"
+   ]
+  },
+  {
+   "q": "Which Korean team won the 2014 World Championship?",
+   "a": "Samsung White",
+   "p": 400
+  },
+  {
+   "q": "Which Korean team beat SKT 3-0 in the 2017 Worlds final?",
+   "a": "Samsung Galaxy",
+   "p": 400
+  },
+  {
+   "q": "Which Chinese team won the 2018 World Championship?",
+   "a": "Invictus Gaming",
+   "p": 400,
+   "alt": [
+    "IG"
+   ]
+  },
+  {
+   "q": "Which Chinese team won the 2019 World Championship in Paris?",
+   "a": "FunPlus Phoenix",
+   "p": 400,
+   "alt": [
+    "FPX"
+   ]
+  },
+  {
+   "q": "Which Korean team won the 2020 World Championship in Shanghai?",
+   "a": "DAMWON Gaming",
+   "p": 400,
+   "alt": [
+    "DWG",
+    "DAMWON",
+    "Damwon Gaming"
+   ]
+  },
+  {
+   "q": "Which Chinese team won the 2021 World Championship?",
+   "a": "EDward Gaming",
+   "p": 400,
+   "alt": [
+    "EDG"
+   ]
+  },
+  {
+   "q": "Which team beat T1 in the 2022 Worlds final?",
+   "a": "DRX",
+   "p": 400
+  },
+  {
+   "q": "Which Chinese team did T1 beat in the 2024 Worlds final?",
+   "a": "Bilibili Gaming",
+   "p": 400,
+   "alt": [
+    "BLG"
+   ]
+  },
+  {
+   "q": "Which European team lost the 2019 Worlds final to FunPlus Phoenix?",
+   "a": "G2 Esports",
+   "p": 400,
+   "alt": [
+    "G2"
+   ]
+  },
+  {
+   "q": "Which European team lost the 2018 Worlds final to Invictus Gaming?",
+   "a": "Fnatic",
+   "p": 400
+  },
+  {
+   "q": "What is the trophy awarded to Worlds winners called?",
+   "a": "Summoner's Cup",
+   "p": 400,
+   "alt": [
+    "Summoners Cup"
+   ]
+  },
+  {
+   "q": "What does MSI stand for in League of Legends esports?",
+   "a": "Mid-Season Invitational",
+   "p": 400,
+   "alt": [
+    "Mid Season Invitational"
+   ]
+  },
+  {
+   "q": "Which late-game neutral monster grants an execute effect to the team that slays it?",
+   "a": "Elder Dragon",
+   "p": 400,
+   "alt": [
+    "Elder Drake"
+   ]
+  },
+  {
+   "q": "Which eye-shaped neutral monster can be summoned to charge into enemy turrets?",
+   "a": "Rift Herald",
+   "p": 400,
+   "alt": [
+    "Herald"
+   ]
+  },
+  {
+   "q": "Which virtual K-pop group with Ahri, Akali, Evelynn and Kai'Sa debuted at the 2018 Worlds opening?",
+   "a": "K/DA",
+   "p": 400,
+   "alt": [
+    "KDA"
+   ]
+  },
+  {
+   "q": "Which band, together with JID, performed the song Enemy for Arcane?",
+   "a": "Imagine Dragons",
+   "p": 400
+  },
+  {
+   "q": "Which French studio animated Arcane?",
+   "a": "Fortiche",
+   "p": 400,
+   "alt": [
+    "Fortiche Production"
+   ]
+  },
+  {
+   "q": "In which year did Arcane's first season premiere?",
+   "a": "2021",
+   "p": 400
+  },
+  {
+   "q": "Which crime lord of Zaun adopts Jinx in Arcane?",
+   "a": "Silco",
+   "p": 400
+  },
+  {
+   "q": "What was Jinx's childhood name?",
+   "a": "Powder",
+   "p": 400
+  },
+  {
+   "q": "What is the name of the world in which League of Legends is set?",
+   "a": "Runeterra",
+   "p": 400
+  },
+  {
+   "q": "Which Runeterra region is home to Darius and Swain?",
+   "a": "Noxus",
+   "p": 400
+  },
+  {
+   "q": "What is Riot's auto battler game, released in 2019?",
+   "a": "Teamfight Tactics",
+   "p": 400,
+   "alt": [
+    "TFT"
+   ]
+  },
+  {
+   "q": "What is the mobile version of League of Legends called?",
+   "a": "Wild Rift",
+   "p": 400,
+   "alt": [
+    "League of Legends: Wild Rift"
+   ]
+  },
+  {
+   "q": "Which single-lane map is used for the ARAM game mode?",
+   "a": "Howling Abyss",
+   "p": 400
+  },
+  {
+   "q": "Which item is the classic way to massively boost ability power, named after a mage's hat?",
+   "a": "Rabadon's Deathcap",
+   "p": 400,
+   "alt": [
+    "Deathcap",
+    "Rabadons Deathcap"
+   ]
+  },
+  {
+   "q": "Which item puts its user in stasis for a short time, a favourite of mages?",
+   "a": "Zhonya's Hourglass",
+   "p": 400,
+   "alt": [
+    "Zhonyas Hourglass",
+    "Zhonya's"
+   ]
+  },
+  {
+   "q": "Which Chinese team did SKT defeat in the 2013 Worlds final?",
+   "a": "Royal Club",
+   "p": 600,
+   "alt": [
+    "Royal Club Huangshi"
+   ]
+  },
+  {
+   "q": "Which Korean team did SKT beat in the 2015 Worlds final?",
+   "a": "KOO Tigers",
+   "p": 600,
+   "alt": [
+    "KOO",
+    "Koo Tigers"
+   ]
+  },
+  {
+   "q": "In which US city was the 2016 Worlds final held?",
+   "a": "Los Angeles",
+   "p": 600,
+   "alt": [
+    "LA"
+   ]
+  },
+  {
+   "q": "Which Beijing stadium hosted the 2017 Worlds final?",
+   "a": "Beijing National Stadium",
+   "p": 600,
+   "alt": [
+    "Bird's Nest",
+    "Birds Nest"
+   ]
+  },
+  {
+   "q": "Which Chinese city hosted the entire 2020 Worlds, including the final?",
+   "a": "Shanghai",
+   "p": 600
+  },
+  {
+   "q": "Which European capital hosted the 2021 Worlds final?",
+   "a": "Reykjavik",
+   "p": 600,
+   "alt": [
+    "Reykjavík"
+   ]
+  },
+  {
+   "q": "Which US city hosted the 2022 Worlds final?",
+   "a": "San Francisco",
+   "p": 600
+  },
+  {
+   "q": "Which Seoul stadium hosted the 2023 Worlds final?",
+   "a": "Gocheok Sky Dome",
+   "p": 600,
+   "alt": [
+    "Gocheok"
+   ]
+  },
+  {
+   "q": "Which British city hosted the 2024 Worlds final?",
+   "a": "London",
+   "p": 600
+  },
+  {
+   "q": "Which team did Fnatic defeat in the 2011 World Championship final?",
+   "a": "Against All authority",
+   "p": 600,
+   "alt": [
+    "AAA",
+    "Against All Authority"
+   ]
+  },
+  {
+   "q": "In which Swedish city was the 2011 World Championship final held?",
+   "a": "Jönköping",
+   "p": 600,
+   "alt": [
+    "Jonkoping",
+    "Jonköping"
+   ]
+  },
+  {
+   "q": "Which Chinese team did Samsung White beat in the 2014 Worlds final?",
+   "a": "Star Horn Royal Club",
+   "p": 600,
+   "alt": [
+    "Royal Club",
+    "Star Horn"
+   ]
+  },
+  {
+   "q": "What is the in-game name of North American ADC Yiliang Peng?",
+   "a": "Doublelift",
+   "p": 600
+  },
+  {
+   "q": "What is the in-game name of Chinese ADC Jian Zihao?",
+   "a": "Uzi",
+   "p": 600
+  },
+  {
+   "q": "What is the in-game name of the SKT jungler Bae Seong-woong, a 2013 and 2015 Worlds winner?",
+   "a": "Bengi",
+   "p": 600
+  },
+  {
+   "q": "What is the in-game name of SKT ADC Bae Jun-sik, a 2015 and 2016 Worlds winner?",
+   "a": "Bang",
+   "p": 600
+  },
+  {
+   "q": "What is the nickname of T1's long-serving head coach Kim Jeong-gyun?",
+   "a": "kkOma",
+   "p": 600,
+   "alt": [
+    "Kkoma"
+   ]
+  },
+  {
+   "q": "Which US entertainment company formed the joint venture T1 Entertainment & Sports with SK Telecom?",
+   "a": "Comcast Spectacor",
+   "p": 600
+  },
+  {
+   "q": "Which creator of the DotA Allstars map joined Riot Games as a designer?",
+   "a": "Guinsoo",
+   "p": 600,
+   "alt": [
+    "Steve Feak"
+   ]
+  },
+  {
+   "q": "In which year did Tencent acquire the remaining shares of Riot Games?",
+   "a": "2015",
+   "p": 600
+  },
+  {
+   "q": "Which ranked tier was added between Platinum and Diamond in 2023?",
+   "a": "Emerald",
+   "p": 600
+  },
+  {
+   "q": "In which year was Faker born?",
+   "a": "1996",
+   "p": 600
+  },
+  {
+   "q": "Which Arcane character leads the Firelights?",
+   "a": "Ekko",
+   "p": 600
+  },
+  {
+   "q": "Which Noxian warlord appears in Arcane's second season as Mel's mother?",
+   "a": "Ambessa Medarda",
+   "p": 600,
+   "alt": [
+    "Ambessa"
+   ]
+  },
+  {
+   "q": "Which yordle professor is a councillor and inventor in Piltover in Arcane?",
+   "a": "Heimerdinger",
+   "p": 600
+  },
+  {
+   "q": "What is Lux's family name?",
+   "a": "Crownguard",
+   "p": 600
+  },
+  {
+   "q": "Which champion is Kayle's half-sister?",
+   "a": "Morgana",
+   "p": 600
+  },
+  {
+   "q": "In which category did Arcane win an Emmy in 2022?",
+   "a": "Outstanding Animated Program",
+   "p": 600
+  },
+  {
+   "q": "Which virtual hip-hop group with Akali, Ekko, Qiyana, Senna and Yasuo performed at the 2019 Worlds opening?",
+   "a": "True Damage",
+   "p": 600
+  },
+  {
+   "q": "Which crab-like neutral creature roams the river on Summoner's Rift?",
+   "a": "Rift Scuttler",
+   "p": 600,
+   "alt": [
+    "Scuttle Crab",
+    "Scuttler"
+   ]
+  }
+ ]
+}

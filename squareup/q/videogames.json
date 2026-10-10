@@ -1,0 +1,515 @@
+{
+ "id": "videogames",
+ "name": "Video Games",
+ "questions": [
+  {
+   "q": "Which Nintendo plumber is the most famous video game mascot?",
+   "a": "Mario",
+   "p": 200
+  },
+  {
+   "q": "Which block-building sandbox game was created by Mojang?",
+   "a": "Minecraft",
+   "p": 200
+  },
+  {
+   "q": "What colour is Pac-Man?",
+   "a": "Yellow",
+   "p": 200
+  },
+  {
+   "q": "Which Pokémon is Ash Ketchum's famous partner?",
+   "a": "Pikachu",
+   "p": 200
+  },
+  {
+   "q": "Which company makes the PlayStation?",
+   "a": "Sony",
+   "p": 200
+  },
+  {
+   "q": "In Nintendo's Hyrule adventures, which princess does the hero Link usually rescue?",
+   "a": "Zelda",
+   "p": 200
+  },
+  {
+   "q": "Which blue hedgehog is the mascot of Sega?",
+   "a": "Sonic",
+   "p": 200
+  },
+  {
+   "q": "Which Atari engineer built Pong in 1972 as a training exercise?",
+   "a": "Allan Alcorn",
+   "p": 600
+  },
+  {
+   "q": "Which studio created the 1993 adventure game Myst?",
+   "a": "Cyan",
+   "p": 600
+  },
+  {
+   "q": "Which Xbox series stars the soldier Master Chief?",
+   "a": "Halo",
+   "p": 200
+  },
+  {
+   "q": "Which battle royale game features locations like Tilted Towers?",
+   "a": "Fortnite",
+   "p": 200
+  },
+  {
+   "q": "Who created the puzzle platformer Braid?",
+   "a": "Jonathan Blow",
+   "p": 600
+  },
+  {
+   "q": "Which Japanese designer created Mario and Zelda?",
+   "a": "Shigeru Miyamoto",
+   "p": 400
+  },
+  {
+   "q": "Which Taito designer created Space Invaders?",
+   "a": "Tomohiro Nishikado",
+   "p": 600
+  },
+  {
+   "q": "Which Clover Studio game casts the sun goddess Amaterasu as a white wolf?",
+   "a": "Okami",
+   "p": 600
+  },
+  {
+   "q": "Which Polish studio developed The Witcher 3?",
+   "a": "CD Projekt Red",
+   "p": 400
+  },
+  {
+   "q": "What is the name of the main world in World of Warcraft?",
+   "a": "Azeroth",
+   "p": 400
+  },
+  {
+   "q": "What is the full name of the physicist hero of Half-Life?",
+   "a": "Gordon Freeman",
+   "p": 400
+  },
+  {
+   "q": "What is the name of Mario's younger twin brother?",
+   "a": "Luigi",
+   "p": 200
+  },
+  {
+   "q": "Which Nintendo handheld console launched in 1989 and was bundled with Tetris?",
+   "a": "Game Boy",
+   "p": 200
+  },
+  {
+   "q": "Which company makes the Xbox?",
+   "a": "Microsoft",
+   "p": 200
+  },
+  {
+   "q": "What do Sonic the Hedgehog players collect to protect themselves from damage?",
+   "a": "Rings",
+   "p": 200
+  },
+  {
+   "q": "What is the name of Mario's green dinosaur companion?",
+   "a": "Yoshi",
+   "p": 200
+  },
+  {
+   "q": "Which Nintendo console, released in 2017, works both docked to a TV and as a handheld?",
+   "a": "Nintendo Switch",
+   "p": 200
+  },
+  {
+   "q": "In Animal Crossing, which raccoon dog runs the island shop and loans you money?",
+   "a": "Tom Nook",
+   "p": 400
+  },
+  {
+   "q": "Which Sony console was released in 2020 as the successor to the PlayStation 4?",
+   "a": "PlayStation 5",
+   "p": 200
+  },
+  {
+   "q": "In Among Us, what is the name of the role that secretly sabotages the crew?",
+   "a": "Impostor",
+   "p": 200
+  },
+  {
+   "q": "In which year was the original Super Mario Bros. released in Japan?",
+   "a": "1985",
+   "p": 600
+  },
+  {
+   "q": "Which villain, king of the Koopas, repeatedly kidnaps Princess Peach?",
+   "a": "Bowser",
+   "p": 200
+  },
+  {
+   "q": "Which Rockstar series includes Vice City and San Andreas?",
+   "a": "Grand Theft Auto",
+   "p": 200
+  },
+  {
+   "q": "Which Nintendo racing series features items like the blue shell?",
+   "a": "Mario Kart",
+   "p": 200
+  },
+  {
+   "q": "Which fighting game series features Ryu and Ken?",
+   "a": "Street Fighter",
+   "p": 400
+  },
+  {
+   "q": "Which engineer co-founded Atari with Nolan Bushnell in 1972?",
+   "a": "Ted Dabney",
+   "p": 600
+  },
+  {
+   "q": "Which pink puffball hero can inhale enemies to copy their abilities?",
+   "a": "Kirby",
+   "p": 200
+  },
+  {
+   "q": "Which Pokemon is the final evolution of Charmander?",
+   "a": "Charizard",
+   "p": 200
+  },
+  {
+   "q": "Which Rovio mobile game has players launching birds at pigs?",
+   "a": "Angry Birds",
+   "p": 200
+  },
+  {
+   "q": "Which adventurer in shorts and twin pistols is the star of Tomb Raider?",
+   "a": "Lara Croft",
+   "p": 200
+  },
+  {
+   "q": "Which orange marsupial is the mascot of a PlayStation platformer series?",
+   "a": "Crash Bandicoot",
+   "p": 200
+  },
+  {
+   "q": "Which shooter series includes the subtitle Modern Warfare?",
+   "a": "Call of Duty",
+   "p": 200
+  },
+  {
+   "q": "Which EA soccer series was renamed EA Sports FC in 2023?",
+   "a": "FIFA",
+   "p": 200
+  },
+  {
+   "q": "Which Nintendo console, released in 2006, popularised motion controls?",
+   "a": "Wii",
+   "p": 200
+  },
+  {
+   "q": "What colour is Mario's cap?",
+   "a": "Red",
+   "p": 200
+  },
+  {
+   "q": "In gaming slang, what does GG stand for?",
+   "a": "Good game",
+   "p": 200
+  },
+  {
+   "q": "In gaming, what does RPG stand for?",
+   "a": "Role-playing game",
+   "p": 200
+  },
+  {
+   "q": "In Minecraft, which green hostile mob explodes when it gets close to the player?",
+   "a": "Creeper",
+   "p": 200
+  },
+  {
+   "q": "In Pac-Man, what do you eat to make the ghosts turn blue and vulnerable?",
+   "a": "Power pellets",
+   "p": 200
+  },
+  {
+   "q": "Which digital PC game store and platform is operated by Valve?",
+   "a": "Steam",
+   "p": 200
+  },
+  {
+   "q": "Which Nintendo series stars the bounty hunter Samus Aran?",
+   "a": "Metroid",
+   "p": 400
+  },
+  {
+   "q": "Which composer wrote most of the score for Chrono Trigger, with Nobuo Uematsu contributing?",
+   "a": "Yasunori Mitsuda",
+   "p": 600
+  },
+  {
+   "q": "Which 2018 Rockstar Western stars the outlaw Arthur Morgan?",
+   "a": "Red Dead Redemption 2",
+   "p": 400
+  },
+  {
+   "q": "Which post-apocalyptic RPG series features the mascot Vault Boy?",
+   "a": "Fallout",
+   "p": 400
+  },
+  {
+   "q": "Which manga artist designed the characters of the original Dragon Quest?",
+   "a": "Akira Toriyama",
+   "p": 400
+  },
+  {
+   "q": "Which farming simulator created by ConcernedApe is set in Pelican Town?",
+   "a": "Stardew Valley",
+   "p": 400
+  },
+  {
+   "q": "Which Nintendo console was released in Japan in 1983 and became the NES in the West?",
+   "a": "Famicom",
+   "p": 600
+  },
+  {
+   "q": "Which composer wrote the music for the original Final Fantasy series?",
+   "a": "Nobuo Uematsu",
+   "p": 600
+  },
+  {
+   "q": "Which Capcom horror series features the rookie police officer Leon Kennedy?",
+   "a": "Resident Evil",
+   "p": 400
+  },
+  {
+   "q": "Which studio developed the 2019 RPG Disco Elysium?",
+   "a": "ZA/UM",
+   "p": 600
+  },
+  {
+   "q": "In which 1981 arcade game did Mario first appear, then named Jumpman?",
+   "a": "Donkey Kong",
+   "p": 600
+  },
+  {
+   "q": "Which Japanese studio developed Dark Souls?",
+   "a": "FromSoftware",
+   "p": 400
+  },
+  {
+   "q": "In which year was the original The Legend of Zelda released in Japan?",
+   "a": "1986",
+   "p": 600
+  },
+  {
+   "q": "Which Nintendo console, released in 1996, introduced an analogue stick to the company's controllers?",
+   "a": "Nintendo 64",
+   "p": 400
+  },
+  {
+   "q": "In which year was the original Grand Theft Auto released?",
+   "a": "1997",
+   "p": 600
+  },
+  {
+   "q": "Which Konami series, created by Hideo Kojima, features the agent Solid Snake?",
+   "a": "Metal Gear",
+   "p": 400
+  },
+  {
+   "q": "Which studio developed The Last of Us?",
+   "a": "Naughty Dog",
+   "p": 400
+  },
+  {
+   "q": "Which character was Sega's mascot before Sonic the Hedgehog?",
+   "a": "Alex Kidd",
+   "p": 600
+  },
+  {
+   "q": "Which Japanese company created Pac-Man?",
+   "a": "Namco",
+   "p": 400
+  },
+  {
+   "q": "Which programmer hid the first video game Easter egg in Atari 2600's Adventure?",
+   "a": "Warren Robinett",
+   "p": 600
+  },
+  {
+   "q": "Which company released the Neo Geo console in 1990?",
+   "a": "SNK",
+   "p": 600
+  },
+  {
+   "q": "Which studio created Halo before Microsoft's 343 Industries took over?",
+   "a": "Bungie",
+   "p": 400
+  },
+  {
+   "q": "Which Sega programmer led the original Sonic the Hedgehog alongside artist Naoto Ohshima?",
+   "a": "Yuji Naka",
+   "p": 600
+  },
+  {
+   "q": "Which studio developed Metroid Prime?",
+   "a": "Retro Studios",
+   "p": 600
+  },
+  {
+   "q": "Which id Software shooter series, first released in 1993, has players fighting demons from Hell?",
+   "a": "Doom",
+   "p": 400
+  },
+  {
+   "q": "In which year did Valve launch the Steam platform?",
+   "a": "2003",
+   "p": 600
+  },
+  {
+   "q": "In what year was the original Sony PlayStation released in Japan?",
+   "a": "1994",
+   "p": 600
+  },
+  {
+   "q": "Which Soviet engineer created Tetris in Moscow?",
+   "a": "Alexey Pajitnov",
+   "p": 400
+  },
+  {
+   "q": "Who composed the music of the original Super Mario Bros.?",
+   "a": "Koji Kondo",
+   "p": 600
+  },
+  {
+   "q": "Which game director created Death Stranding?",
+   "a": "Hideo Kojima",
+   "p": 400
+  },
+  {
+   "q": "What is the name of the underwater city in the first BioShock?",
+   "a": "Rapture",
+   "p": 400
+  },
+  {
+   "q": "Which studio developed the roguelike Hades?",
+   "a": "Supergiant Games",
+   "p": 400
+  },
+  {
+   "q": "What is the name of the continent that contains Skyrim in The Elder Scrolls?",
+   "a": "Tamriel",
+   "p": 400
+  },
+  {
+   "q": "Which game hosted the first The International esports championship in 2011?",
+   "a": "Dota 2",
+   "p": 600
+  },
+  {
+   "q": "What is the name of the main villain, the Gerudo king, in many Zelda games?",
+   "a": "Ganondorf",
+   "p": 400
+  },
+  {
+   "q": "What was the name of the first commercial home video game console, released in 1972?",
+   "a": "Magnavox Odyssey",
+   "p": 600
+  },
+  {
+   "q": "Which Nintendo president, in office from 2002 until his death in 2015, led the company through the DS and Wii era?",
+   "a": "Satoru Iwata",
+   "p": 600
+  },
+  {
+   "q": "Which Japanese studio developed Bayonetta?",
+   "a": "PlatinumGames",
+   "p": 600
+  },
+  {
+   "q": "What is the name of the silent test subject protagonist in Portal?",
+   "a": "Chell",
+   "p": 400
+  },
+  {
+   "q": "Which Rockstar game features the three protagonists Michael, Franklin and Trevor?",
+   "a": "Grand Theft Auto V",
+   "p": 400
+  },
+  {
+   "q": "In what year were Pokemon Red and Green released in Japan?",
+   "a": "1996",
+   "p": 600
+  },
+  {
+   "q": "Who created the 1989 platformer Prince of Persia?",
+   "a": "Jordan Mechner",
+   "p": 600
+  },
+  {
+   "q": "Which Guerrilla Games title stars the hunter Aloy?",
+   "a": "Horizon Zero Dawn",
+   "p": 400
+  },
+  {
+   "q": "Who is the spiky-haired protagonist of Final Fantasy VII?",
+   "a": "Cloud Strife",
+   "p": 400
+  },
+  {
+   "q": "Which 2004 Valve sequel introduced the Gravity Gun?",
+   "a": "Half-Life 2",
+   "p": 400
+  },
+  {
+   "q": "In which year did Minecraft have its official full release?",
+   "a": "2011",
+   "p": 600
+  },
+  {
+   "q": "Which developer created the indie RPG Undertale, released in 2015?",
+   "a": "Toby Fox",
+   "p": 400
+  },
+  {
+   "q": "Which Team Ico game has a young hero hunting giant creatures to revive a girl?",
+   "a": "Shadow of the Colossus",
+   "p": 400
+  },
+  {
+   "q": "Which Japanese company developed the original Final Fantasy, released in 1987?",
+   "a": "Square",
+   "p": 400
+  },
+  {
+   "q": "What was the development codename of the Nintendo 64 before its name was announced?",
+   "a": "Project Reality",
+   "p": 600
+  },
+  {
+   "q": "Which game is this trailer for?",
+   "a": "The Last of Us Part II",
+   "p": 400,
+   "yt": "eOiUtRF8k28",
+   "start": 50,
+   "end": 80
+  },
+  {
+   "q": "Which game is this trailer for?",
+   "a": "Super Mario Odyssey",
+   "p": 200,
+   "yt": "u6oPBIVjf8E",
+   "start": 60,
+   "end": 90
+  },
+  {
+   "q": "Which game is this trailer for?",
+   "a": "Halo Infinite",
+   "p": 400,
+   "yt": "Gip3MErg2pc",
+   "start": 50,
+   "end": 80
+  }
+ ]
+}

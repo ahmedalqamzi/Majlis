@@ -1,0 +1,506 @@
+{
+ "id": "science",
+ "name": "Science & Space",
+ "questions": [
+  {
+   "q": "Which planet is closest to the Sun?",
+   "a": "Mercury",
+   "p": 200
+  },
+  {
+   "q": "What is the chemical formula for water?",
+   "a": "H2O",
+   "p": 200
+  },
+  {
+   "q": "Which planet is known as the Red Planet?",
+   "a": "Mars",
+   "p": 200
+  },
+  {
+   "q": "Which gas do plants take in from the air to make their food?",
+   "a": "Carbon dioxide",
+   "p": 200
+  },
+  {
+   "q": "What is the largest planet in our solar system?",
+   "a": "Jupiter",
+   "p": 200
+  },
+  {
+   "q": "How many bones are in the adult human body?",
+   "a": "206",
+   "p": 400
+  },
+  {
+   "q": "Which planet is famous for its bright rings?",
+   "a": "Saturn",
+   "p": 200
+  },
+  {
+   "q": "What is the name of Earth's natural satellite?",
+   "a": "The Moon",
+   "p": 200
+  },
+  {
+   "q": "What is the chemical symbol for oxygen?",
+   "a": "O",
+   "p": 200
+  },
+  {
+   "q": "What is the chemical symbol for helium?",
+   "a": "He",
+   "p": 400
+  },
+  {
+   "q": "What is the closest star to Earth?",
+   "a": "The Sun",
+   "p": 200
+  },
+  {
+   "q": "Which organ pumps blood around the body?",
+   "a": "The heart",
+   "p": 200
+  },
+  {
+   "q": "At what temperature in degrees Celsius does water freeze?",
+   "a": "0 degrees Celsius",
+   "p": 200
+  },
+  {
+   "q": "At what temperature in degrees Celsius does water boil at sea level?",
+   "a": "100 degrees Celsius",
+   "p": 200
+  },
+  {
+   "q": "Who was the first person to walk on the Moon?",
+   "a": "Neil Armstrong",
+   "p": 200
+  },
+  {
+   "q": "What force pulls objects toward the centre of the Earth?",
+   "a": "Gravity",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the galaxy that contains our solar system?",
+   "a": "The Milky Way",
+   "p": 200
+  },
+  {
+   "q": "Which organs do humans use to breathe?",
+   "a": "Lungs",
+   "p": 200
+  },
+  {
+   "q": "What is the hardest naturally occurring material?",
+   "a": "Diamond",
+   "p": 200
+  },
+  {
+   "q": "Which scientist developed the theory of relativity?",
+   "a": "Albert Einstein",
+   "p": 200
+  },
+  {
+   "q": "Which scientist is famously linked to a falling apple and the law of gravity?",
+   "a": "Isaac Newton",
+   "p": 200
+  },
+  {
+   "q": "What is the process by which plants make food using sunlight?",
+   "a": "Photosynthesis",
+   "p": 200
+  },
+  {
+   "q": "What is the largest animal on Earth?",
+   "a": "Blue whale",
+   "p": 200
+  },
+  {
+   "q": "What is the fastest land animal?",
+   "a": "Cheetah",
+   "p": 200
+  },
+  {
+   "q": "What is the central part of an atom called?",
+   "a": "Nucleus",
+   "p": 200
+  },
+  {
+   "q": "Which part of a plant absorbs water from the soil?",
+   "a": "Roots",
+   "p": 200
+  },
+  {
+   "q": "Which blood cells carry oxygen around the body?",
+   "a": "Red blood cells",
+   "p": 200
+  },
+  {
+   "q": "What is a scientist who studies stars and planets called?",
+   "a": "Astronomer",
+   "p": 200
+  },
+  {
+   "q": "Which vitamin does skin make when exposed to sunlight?",
+   "a": "Vitamin D",
+   "p": 200
+  },
+  {
+   "q": "How many planets are in our solar system?",
+   "a": "Eight",
+   "p": 200
+  },
+  {
+   "q": "What is the largest organ of the human body?",
+   "a": "Skin",
+   "p": 200
+  },
+  {
+   "q": "What is the solid form of water called?",
+   "a": "Ice",
+   "p": 200
+  },
+  {
+   "q": "Is a dolphin a fish or a mammal?",
+   "a": "Mammal",
+   "p": 200
+  },
+  {
+   "q": "Which scientific instrument is used to magnify tiny objects such as cells?",
+   "a": "Microscope",
+   "p": 200
+  },
+  {
+   "q": "How many legs does an insect have?",
+   "a": "Six",
+   "p": 200
+  },
+  {
+   "q": "What is the chemical symbol for gold?",
+   "a": "Au",
+   "p": 400
+  },
+  {
+   "q": "Approximately how fast does light travel, in kilometres per second?",
+   "a": "About 300,000 km/s",
+   "p": 400
+  },
+  {
+   "q": "Who was the first human to travel into space?",
+   "a": "Yuri Gagarin",
+   "p": 400
+  },
+  {
+   "q": "Which part of a cell is known as its powerhouse?",
+   "a": "Mitochondria",
+   "p": 200
+  },
+  {
+   "q": "What is the chemical symbol for sodium?",
+   "a": "Na",
+   "p": 400
+  },
+  {
+   "q": "Which Dutch scientist first observed bacteria using a microscope he built himself?",
+   "a": "Antonie van Leeuwenhoek",
+   "p": 600
+  },
+  {
+   "q": "Which is the hottest planet in our solar system?",
+   "a": "Venus",
+   "p": 400
+  },
+  {
+   "q": "The Great Red Spot is a giant storm on which planet?",
+   "a": "Jupiter",
+   "p": 400
+  },
+  {
+   "q": "What is the SI unit of temperature?",
+   "a": "Kelvin",
+   "p": 400
+  },
+  {
+   "q": "Which element is the most abundant in the universe?",
+   "a": "Hydrogen",
+   "p": 400
+  },
+  {
+   "q": "Who discovered penicillin in 1928?",
+   "a": "Alexander Fleming",
+   "p": 400
+  },
+  {
+   "q": "Which monk is known as the father of genetics for his pea plant experiments?",
+   "a": "Gregor Mendel",
+   "p": 400
+  },
+  {
+   "q": "What shape is the DNA molecule?",
+   "a": "Double helix",
+   "p": 200
+  },
+  {
+   "q": "Which Apollo mission first landed humans on the Moon?",
+   "a": "Apollo 11",
+   "p": 400
+  },
+  {
+   "q": "Who was the first woman in space?",
+   "a": "Valentina Tereshkova",
+   "p": 400
+  },
+  {
+   "q": "Which element is the most abundant in Earth's crust by mass?",
+   "a": "Oxygen",
+   "p": 600
+  },
+  {
+   "q": "What is the largest internal organ in the human body?",
+   "a": "Liver",
+   "p": 400
+  },
+  {
+   "q": "What is the pH of pure water at 25 degrees Celsius?",
+   "a": "7",
+   "p": 400
+  },
+  {
+   "q": "Which element has the chemical symbol Sb?",
+   "a": "Antimony",
+   "p": 600
+  },
+  {
+   "q": "Which scientist formulated the three laws of planetary motion?",
+   "a": "Johannes Kepler",
+   "p": 600
+  },
+  {
+   "q": "Which planet spins on its side, tilted about 98 degrees?",
+   "a": "Uranus",
+   "p": 400
+  },
+  {
+   "q": "Which spacecraft, launched in 1977, was the first to reach interstellar space?",
+   "a": "Voyager 1",
+   "p": 600
+  },
+  {
+   "q": "Which scientist was the first woman to win a Nobel Prize?",
+   "a": "Marie Curie",
+   "p": 400
+  },
+  {
+   "q": "What is the chemical symbol for lead?",
+   "a": "Pb",
+   "p": 600
+  },
+  {
+   "q": "Which French physicist discovered radioactivity in uranium salts in 1896?",
+   "a": "Henri Becquerel",
+   "p": 600
+  },
+  {
+   "q": "What is the most abundant gas in Earth's atmosphere?",
+   "a": "Nitrogen",
+   "p": 400
+  },
+  {
+   "q": "What is the type of cell division that produces two identical cells called?",
+   "a": "Mitosis",
+   "p": 400
+  },
+  {
+   "q": "What process powers the Sun by joining hydrogen nuclei together?",
+   "a": "Nuclear fusion",
+   "p": 400
+  },
+  {
+   "q": "Which organ produces insulin?",
+   "a": "Pancreas",
+   "p": 400
+  },
+  {
+   "q": "Which green pigment in plants absorbs sunlight?",
+   "a": "Chlorophyll",
+   "p": 400
+  },
+  {
+   "q": "Which Swedish botanist created the modern two-part system of naming species?",
+   "a": "Carl Linnaeus",
+   "p": 600
+  },
+  {
+   "q": "Which Russian chemist created the periodic table?",
+   "a": "Dmitri Mendeleev",
+   "p": 400
+  },
+  {
+   "q": "Which Persian scholar wrote The Canon of Medicine?",
+   "a": "Ibn Sina (Avicenna)",
+   "p": 400
+  },
+  {
+   "q": "Which Persian scholar's name gave us the word algorithm?",
+   "a": "Al-Khwarizmi",
+   "p": 400
+  },
+  {
+   "q": "Which astronomer proposed in 1543 that the Earth orbits the Sun?",
+   "a": "Nicolaus Copernicus",
+   "p": 400
+  },
+  {
+   "q": "Which element has the atomic number 26?",
+   "a": "Iron",
+   "p": 600
+  },
+  {
+   "q": "What is the largest moon of Saturn?",
+   "a": "Titan",
+   "p": 400
+  },
+  {
+   "q": "Which scientist discovered the neutron in 1932?",
+   "a": "James Chadwick",
+   "p": 600
+  },
+  {
+   "q": "Which space telescope, launched in December 2021, observes mainly in infrared?",
+   "a": "James Webb Space Telescope",
+   "p": 400
+  },
+  {
+   "q": "Which scholar of the Islamic golden age wrote the Book of Optics?",
+   "a": "Ibn al-Haytham",
+   "p": 600
+  },
+  {
+   "q": "Who discovered Jupiter's four largest moons in 1610?",
+   "a": "Galileo Galilei",
+   "p": 400
+  },
+  {
+   "q": "Which Persian physician distinguished smallpox from measles?",
+   "a": "Al-Razi (Rhazes)",
+   "p": 600
+  },
+  {
+   "q": "Which 8th-century scholar is often called the father of Arabic chemistry?",
+   "a": "Jabir ibn Hayyan",
+   "p": 600
+  },
+  {
+   "q": "Which Andalusian physician, author of Al-Tasrif, is called the father of surgery?",
+   "a": "Al-Zahrawi (Abulcasis)",
+   "p": 600
+  },
+  {
+   "q": "Which scholar estimated Earth's radius in the 11th century using a mountain?",
+   "a": "Al-Biruni",
+   "p": 600
+  },
+  {
+   "q": "Which 13th-century physician described pulmonary circulation of blood?",
+   "a": "Ibn al-Nafis",
+   "p": 600
+  },
+  {
+   "q": "Which engineer wrote the 1206 Book of Knowledge of Ingenious Mechanical Devices?",
+   "a": "Al-Jazari",
+   "p": 600
+  },
+  {
+   "q": "Which element has the chemical symbol W?",
+   "a": "Tungsten",
+   "p": 600
+  },
+  {
+   "q": "Which element has the chemical symbol Sn?",
+   "a": "Tin",
+   "p": 600
+  },
+  {
+   "q": "Which element has the atomic number 92?",
+   "a": "Uranium",
+   "p": 600
+  },
+  {
+   "q": "Which metal is the least dense?",
+   "a": "Lithium",
+   "p": 600
+  },
+  {
+   "q": "Which physicist proposed the uncertainty principle?",
+   "a": "Werner Heisenberg",
+   "p": 600
+  },
+  {
+   "q": "Who discovered X-rays in 1895?",
+   "a": "Wilhelm Rontgen",
+   "p": 600
+  },
+  {
+   "q": "Who discovered the electron in 1897?",
+   "a": "J.J. Thomson",
+   "p": 600
+  },
+  {
+   "q": "Which two scientists described the structure of DNA in 1953?",
+   "a": "Watson and Crick",
+   "p": 400
+  },
+  {
+   "q": "Which Apollo mission first carried humans around the Moon?",
+   "a": "Apollo 8",
+   "p": 600
+  },
+  {
+   "q": "Which NASA rover landed in Gale Crater in 2012?",
+   "a": "Curiosity",
+   "p": 400
+  },
+  {
+   "q": "Which probe landed on Saturn's moon Titan in 2005?",
+   "a": "Huygens",
+   "p": 600
+  },
+  {
+   "q": "Which space telescope was launched in 1990 and named after an astronomer?",
+   "a": "Hubble Space Telescope",
+   "p": 400
+  },
+  {
+   "q": "What is the SI unit of frequency?",
+   "a": "Hertz",
+   "p": 600
+  },
+  {
+   "q": "What is the point in Earth's orbit closest to the Sun called?",
+   "a": "Perihelion",
+   "p": 600
+  },
+  {
+   "q": "Which cell organelle contains digestive enzymes?",
+   "a": "Lysosome",
+   "p": 600
+  },
+  {
+   "q": "What is the longest bone in the human body?",
+   "a": "Femur",
+   "p": 400
+  },
+  {
+   "q": "In which layer of the atmosphere is the ozone layer mainly found?",
+   "a": "Stratosphere",
+   "p": 600
+  },
+  {
+   "q": "Which part of the brain mainly controls balance and coordination?",
+   "a": "Cerebellum",
+   "p": 400
+  }
+ ]
+}
