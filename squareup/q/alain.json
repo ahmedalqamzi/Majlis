@@ -1,0 +1,981 @@
+{
+ "id": "alain",
+ "name": "Al Ain",
+ "questions": [
+  {
+   "q": "Al Ain is the second city of which emirate?",
+   "a": "Abu Dhabi",
+   "p": 200,
+   "ar": "أبوظبي",
+   "alt": [
+    "Abu Dhabi emirate"
+   ]
+  },
+  {
+   "q": "Al Ain sits on the border with which country?",
+   "a": "Oman",
+   "p": 200,
+   "ar": "عُمان",
+   "alt": [
+    "Sultanate of Oman"
+   ]
+  },
+  {
+   "q": "What does the Arabic name 'Al Ain' mean in English?",
+   "a": "The spring",
+   "p": 200,
+   "ar": "العين",
+   "alt": [
+    "Spring",
+    "The eye",
+    "Water spring"
+   ]
+  },
+  {
+   "q": "Al Ain's greenery, parks and tree-lined roads earned it which nickname?",
+   "a": "Garden City",
+   "p": 200,
+   "ar": "مدينة الحدائق",
+   "alt": [
+    "The Garden City",
+    "City of Gardens"
+   ]
+  },
+  {
+   "q": "Which mountain rises above Al Ain to the south, with a winding road to its summit?",
+   "a": "Jebel Hafeet",
+   "p": 200,
+   "ar": "جبل حفيت",
+   "alt": [
+    "Jabal Hafeet",
+    "Jebel Hafit",
+    "Hafeet"
+   ]
+  },
+  {
+   "q": "What is the traditional irrigation channel that carries water to Al Ain's oasis farms called?",
+   "a": "Falaj",
+   "p": 200,
+   "ar": "فلج",
+   "alt": [
+    "Aflaj",
+    "Qanat"
+   ]
+  },
+  {
+   "q": "Which football club is the city's famous purple-clad team?",
+   "a": "Al Ain FC",
+   "p": 200,
+   "ar": "نادي العين",
+   "alt": [
+    "Al Ain Club",
+    "Al Ain",
+    "Al-Ain"
+   ]
+  },
+  {
+   "q": "Which wildlife park in the city was founded on the orders of Sheikh Zayed in 1969?",
+   "a": "Al Ain Zoo",
+   "p": 200,
+   "ar": "حديقة الحيوانات بالعين",
+   "alt": [
+    "Al Ain Wildlife Park",
+    "Al Ain Wildlife Park and Resort"
+   ]
+  },
+  {
+   "q": "Which UAE founding father governed Al Ain for two decades before becoming Ruler of Abu Dhabi in 1966?",
+   "a": "Sheikh Zayed",
+   "p": 200,
+   "ar": "الشيخ زايد بن سلطان آل نهيان",
+   "alt": [
+    "Zayed bin Sultan Al Nahyan",
+    "Sheikh Zayed bin Sultan",
+    "Zayed"
+   ]
+  },
+  {
+   "q": "Al Ain's cultural sites became the UAE's first entry on which global list?",
+   "a": "UNESCO World Heritage List",
+   "p": 200,
+   "alt": [
+    "UNESCO",
+    "World Heritage List",
+    "UNESCO World Heritage"
+   ]
+  },
+  {
+   "q": "Al Ain Oasis shelters around 147,000 of which tree?",
+   "a": "Date palm",
+   "p": 200,
+   "ar": "نخلة",
+   "alt": [
+    "Date palms",
+    "Palm tree",
+    "Palms",
+    "Nakhla"
+   ]
+  },
+  {
+   "q": "Which Omani town forms one urban area with Al Ain across the border?",
+   "a": "Al Buraimi",
+   "p": 200,
+   "ar": "البريمي",
+   "alt": [
+    "Buraimi",
+    "Al-Buraimi"
+   ]
+  },
+  {
+   "q": "Which federal university, founded in 1976 as the country's first, has its campus in Al Ain?",
+   "a": "UAE University",
+   "p": 200,
+   "ar": "جامعة الإمارات العربية المتحدة",
+   "alt": [
+    "UAEU",
+    "United Arab Emirates University"
+   ]
+  },
+  {
+   "q": "Al Ain's traditional market near Bawadi Mall is famous for trading which animal?",
+   "a": "Camel",
+   "p": 200,
+   "ar": "الجمل",
+   "alt": [
+    "Camels",
+    "Jamal"
+   ]
+  },
+  {
+   "q": "Which Emirati astronaut, the first Arab to do a spacewalk, comes from the Al Ain area?",
+   "a": "Sultan Al Neyadi",
+   "p": 200,
+   "ar": "سلطان النيادي",
+   "alt": [
+    "Sultan AlNeyadi",
+    "Al Neyadi",
+    "Sultan Al Nayadi"
+   ]
+  },
+  {
+   "q": "Which Al Ain amusement park shares its name with the city's famous Bronze Age archaeological area?",
+   "a": "Hili Fun City",
+   "p": 200,
+   "ar": "هيلي فن سيتي",
+   "alt": [
+    "Hili Fun",
+    "Hili Fun City Amusement Park"
+   ]
+  },
+  {
+   "q": "Which archaeological park in Al Ain is home to a reconstructed Bronze Age 'Grand Tomb'?",
+   "a": "Hili Archaeological Park",
+   "p": 200,
+   "ar": "حديقة هيلي الأثرية",
+   "alt": [
+    "Hili",
+    "Hili Park"
+   ]
+  },
+  {
+   "q": "Which is the largest oasis in the city, covering more than 1,200 hectares near the museum?",
+   "a": "Al Ain Oasis",
+   "p": 200,
+   "ar": "واحة العين",
+   "alt": [
+    "Al-Ain Oasis"
+   ]
+  },
+  {
+   "q": "Which museum in the city, founded in 1969, is the oldest in the UAE?",
+   "a": "Al Ain Museum",
+   "p": 200,
+   "ar": "متحف العين",
+   "alt": [
+    "Al Ain National Museum",
+    "Al Ain Museum of Archaeology"
+   ]
+  },
+  {
+   "q": "Which Emirati playmaker nicknamed 'Amoory' spent a decade starring for Al Ain FC?",
+   "a": "Omar Abdulrahman",
+   "p": 200,
+   "ar": "عمر عبدالرحمن",
+   "alt": [
+    "Amoory",
+    "Omar Abdulrahman Al Amoodi",
+    "Omar Abdul Rahman"
+   ]
+  },
+  {
+   "q": "Which Spanish giant beat Al Ain 4-1 in the 2018 FIFA Club World Cup final?",
+   "a": "Real Madrid",
+   "p": 200,
+   "alt": [
+    "Real"
+   ]
+  },
+  {
+   "q": "Al Ain FC have twice won Asia's top club competition. What is it called?",
+   "a": "AFC Champions League",
+   "p": 200,
+   "alt": [
+    "Asian Champions League",
+    "ACL",
+    "AFC Champions League Elite"
+   ]
+  },
+  {
+   "q": "What does the Arabic word 'Jebel', as in Jebel Hafeet, mean?",
+   "a": "Mountain",
+   "p": 200,
+   "ar": "جبل",
+   "alt": [
+    "Mount",
+    "Hill"
+   ]
+  },
+  {
+   "q": "Al Ain Zoo breeds which white antelope, the UAE's national animal?",
+   "a": "Arabian oryx",
+   "p": 200,
+   "ar": "المها العربي",
+   "alt": [
+    "Oryx",
+    "Al Maha",
+    "Maha"
+   ]
+  },
+  {
+   "q": "Unlike Abu Dhabi city, Dubai and Sharjah, Al Ain is not located on what?",
+   "a": "The coast",
+   "p": 200,
+   "alt": [
+    "Coast",
+    "The sea",
+    "Sea",
+    "Coastline"
+   ]
+  },
+  {
+   "q": "What does the Arabic word 'Qasr', as in Qasr Al Muwaiji, mean?",
+   "a": "Palace",
+   "p": 200,
+   "ar": "قصر",
+   "alt": [
+    "Castle",
+    "Fort"
+   ]
+  },
+  {
+   "q": "What vital resource do Al Ain's aflaj channels carry to the palm groves?",
+   "a": "Water",
+   "p": 200,
+   "ar": "ماء",
+   "alt": [
+    "Groundwater"
+   ]
+  },
+  {
+   "q": "Which second President of the UAE was born in Al Ain in 1948?",
+   "a": "Sheikh Khalifa bin Zayed",
+   "p": 200,
+   "ar": "الشيخ خليفة بن زايد آل نهيان",
+   "alt": [
+    "Khalifa bin Zayed",
+    "Sheikh Khalifa",
+    "Khalifa bin Zayed Al Nahyan"
+   ]
+  },
+  {
+   "q": "Al Ain Zoo is known for a rare white form of which big cat?",
+   "a": "Lion",
+   "p": 200,
+   "ar": "أسد",
+   "alt": [
+    "White lion",
+    "Lions"
+   ]
+  },
+  {
+   "q": "Which is the world's largest bird, a resident of Al Ain Zoo's African collection?",
+   "a": "Ostrich",
+   "p": 200,
+   "ar": "نعامة",
+   "alt": [
+    "Ostriches"
+   ]
+  },
+  {
+   "q": "Green Mubazzarah at the foot of Jebel Hafeet is famous for what natural feature?",
+   "a": "Hot springs",
+   "p": 200,
+   "ar": "عيون ماء حارة",
+   "alt": [
+    "Hot spring",
+    "Springs",
+    "Thermal springs"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for an oasis?",
+   "a": "Waha",
+   "p": 200,
+   "ar": "واحة",
+   "alt": [
+    "Wahah",
+    "Waaha"
+   ]
+  },
+  {
+   "q": "What does 'wadi', as in Al Ain's Wadi Adventure park, mean?",
+   "a": "Valley",
+   "p": 200,
+   "ar": "وادي",
+   "alt": [
+    "Dry riverbed",
+    "Riverbed",
+    "Dry valley"
+   ]
+  },
+  {
+   "q": "Al Ain's Hili and Hafit sites are famous for ancient what?",
+   "a": "Tombs",
+   "p": 200,
+   "ar": "مقابر",
+   "alt": [
+    "Graves",
+    "Burial tombs",
+    "Burials"
+   ]
+  },
+  {
+   "q": "Which UAE stage race uses the climb to Jebel Hafeet as a summit finish?",
+   "a": "UAE Tour",
+   "p": 200,
+   "ar": "طواف الإمارات",
+   "alt": [
+    "Tour of the UAE"
+   ]
+  },
+  {
+   "q": "Which Al Ain fort hosts a permanent exhibition of explorer Wilfred Thesiger's photographs?",
+   "a": "Al Jahili Fort",
+   "p": 400,
+   "ar": "قلعة الجاهلي",
+   "alt": [
+    "Jahili Fort",
+    "Al Jahili",
+    "Jahili"
+   ]
+  },
+  {
+   "q": "Which Al Ain fort, now a museum, is the birthplace of Sheikh Khalifa bin Zayed?",
+   "a": "Qasr Al Muwaiji",
+   "p": 400,
+   "ar": "قصر المويجعي",
+   "alt": [
+    "Al Muwaiji",
+    "Muwaiji Fort",
+    "Al Muwaiji Fort"
+   ]
+  },
+  {
+   "q": "Which Al Ain museum was once the family residence of Sheikh Zayed?",
+   "a": "Al Ain Palace Museum",
+   "p": 400,
+   "ar": "متحف قصر العين",
+   "alt": [
+    "Sheikh Zayed Palace Museum",
+    "Al Ain Palace"
+   ]
+  },
+  {
+   "q": "Which man-made adventure park at the foot of Jebel Hafeet offers white-water rafting and surfing?",
+   "a": "Wadi Adventure",
+   "p": 400,
+   "ar": "وادي أدفنتشر",
+   "alt": [
+    "Al Ain Adventure",
+    "Wadi Adventure Al Ain"
+   ]
+  },
+  {
+   "q": "Which stadium, named after a son of Sheikh Zayed, has been Al Ain FC's home since 2014?",
+   "a": "Hazza bin Zayed Stadium",
+   "p": 400,
+   "ar": "استاد هزاع بن زايد",
+   "alt": [
+    "Hazza Stadium",
+    "Hazza bin Zayed"
+   ]
+  },
+  {
+   "q": "Al Ain FC's nickname 'Al Zaeem' means what in English?",
+   "a": "The Boss",
+   "p": 400,
+   "ar": "الزعيم",
+   "alt": [
+    "Boss",
+    "The Leader",
+    "Leader",
+    "The Chief"
+   ]
+  },
+  {
+   "q": "Which Ghanaian striker scored over 100 goals for Al Ain between 2011 and 2015?",
+   "a": "Asamoah Gyan",
+   "p": 400,
+   "alt": [
+    "Gyan"
+   ]
+  },
+  {
+   "q": "Which Japanese club did Al Ain beat 6-3 on aggregate in the 2024 AFC Champions League final?",
+   "a": "Yokohama F. Marinos",
+   "p": 400,
+   "alt": [
+    "Yokohama",
+    "Yokohama Marinos",
+    "Yokohama F Marinos"
+   ]
+  },
+  {
+   "q": "Which Argentine giant did Al Ain beat on penalties in the 2018 Club World Cup semi-final?",
+   "a": "River Plate",
+   "p": 400,
+   "alt": [
+    "River"
+   ]
+  },
+  {
+   "q": "Which international hotel brand runs the hotel near the summit of Jebel Hafeet?",
+   "a": "Mercure",
+   "p": 400,
+   "alt": [
+    "Mercure Grand",
+    "Mercure Grand Jebel Hafeet"
+   ]
+  },
+  {
+   "q": "Before being renamed, the Al Ain Region of Abu Dhabi was known as which region?",
+   "a": "Eastern Region",
+   "p": 400,
+   "ar": "المنطقة الشرقية",
+   "alt": [
+    "The Eastern Region",
+    "Eastern"
+   ]
+  },
+  {
+   "q": "Jebel Hafeet is an outlier of which mountain range shared by the UAE and Oman?",
+   "a": "Hajar Mountains",
+   "p": 400,
+   "ar": "جبال الحجر",
+   "alt": [
+    "Al Hajar",
+    "Hajar",
+    "Al Hajar Mountains"
+   ]
+  },
+  {
+   "q": "The dome-shaped Bronze Age stone tombs on Jebel Hafeet are nicknamed after which insect home?",
+   "a": "Beehive",
+   "p": 400,
+   "alt": [
+    "Beehive tombs",
+    "Beehives"
+   ]
+  },
+  {
+   "q": "Which early Bronze Age period, about 3200 to 2600 BCE, is named after Al Ain's mountain?",
+   "a": "Hafit period",
+   "p": 400,
+   "ar": "حفيت",
+   "alt": [
+    "Hafit",
+    "Hafeet period",
+    "Hafit culture"
+   ]
+  },
+  {
+   "q": "Hili is described as the UAE's largest archaeological site of which age?",
+   "a": "Bronze Age",
+   "p": 400,
+   "ar": "العصر البرونزي",
+   "alt": [
+    "The Bronze Age"
+   ]
+  },
+  {
+   "q": "Which Al Ain fort's name means 'square' in Arabic?",
+   "a": "Al Murabba Fort",
+   "p": 400,
+   "ar": "قلعة المربعة",
+   "alt": [
+    "Murabba Fort",
+    "Al Murabba",
+    "Murabba"
+   ]
+  },
+  {
+   "q": "Which great mosque, opened in 2021, is the largest in Al Ain?",
+   "a": "Sheikh Khalifa Mosque",
+   "p": 400,
+   "ar": "مسجد الشيخ خليفة",
+   "alt": [
+    "Sheikh Khalifa bin Zayed Mosque",
+    "Khalifa Mosque"
+   ]
+  },
+  {
+   "q": "Al Ain and Buraimi together were historically known by which oasis name?",
+   "a": "Buraimi Oasis",
+   "p": 400,
+   "ar": "واحة البريمي",
+   "alt": [
+    "Al Buraimi Oasis",
+    "Buraimi"
+   ]
+  },
+  {
+   "q": "What traditional building material are Al Ain's old forts such as Al Jahili mainly made of?",
+   "a": "Mud brick",
+   "p": 400,
+   "ar": "الطين",
+   "alt": [
+    "Mudbrick",
+    "Mud",
+    "Adobe",
+    "Mud bricks"
+   ]
+  },
+  {
+   "q": "Which desert education centre, named after the UAE's founder, is inside Al Ain Zoo?",
+   "a": "Sheikh Zayed Desert Learning Centre",
+   "p": 400,
+   "ar": "مركز الشيخ زايد لتعلم الصحراء",
+   "alt": [
+    "Sheikh Zayed Desert Learning Center",
+    "Desert Learning Centre"
+   ]
+  },
+  {
+   "q": "In which year did Al Ain become the first UAE club to win the AFC Champions League?",
+   "a": "2003",
+   "p": 400
+  },
+  {
+   "q": "Which small wild cat of the Arabian desert had three kittens born at Al Ain Zoo in 2024?",
+   "a": "Arabian sand cat",
+   "p": 400,
+   "ar": "القط الرملي",
+   "alt": [
+    "Sand cat",
+    "Sand cats"
+   ]
+  },
+  {
+   "q": "What is the Arabic name for soft, half-ripe fresh dates picked in early summer?",
+   "a": "Rutab",
+   "p": 400,
+   "ar": "رطب",
+   "alt": [
+    "Rutub",
+    "Rotab"
+   ]
+  },
+  {
+   "q": "In which year were Al Ain's cultural sites inscribed by UNESCO?",
+   "a": "2011",
+   "p": 400
+  },
+  {
+   "q": "To the nearest hundred metres, how high is Jebel Hafeet?",
+   "a": "About 1,200 metres",
+   "p": 400,
+   "alt": [
+    "1,200 m",
+    "1,240 m",
+    "1,249 m",
+    "1,250 m"
+   ]
+  },
+  {
+   "q": "Falaj tunnels in Al Ain are similar to which Persian-named underground water channels?",
+   "a": "Qanat",
+   "p": 400,
+   "ar": "قناة",
+   "alt": [
+    "Qanats",
+    "Kariz",
+    "Kareez"
+   ]
+  },
+  {
+   "q": "Which 2019 continental football tournament played matches at Al Ain's Hazza bin Zayed Stadium?",
+   "a": "AFC Asian Cup",
+   "p": 400,
+   "ar": "كأس آسيا",
+   "alt": [
+    "Asian Cup",
+    "2019 Asian Cup",
+    "2019 AFC Asian Cup"
+   ]
+  },
+  {
+   "q": "Which park at the foot of Jebel Hafeet shows Hafit-era tombs and offers desert camping?",
+   "a": "Jebel Hafeet Desert Park",
+   "p": 400,
+   "ar": "حديقة جبل حفيت الصحراوية",
+   "alt": [
+    "Jebel Hafit Desert Park",
+    "Hafeet Desert Park"
+   ]
+  },
+  {
+   "q": "What title did Sheikh Zayed hold in Al Ain from 1946, on behalf of Abu Dhabi's ruler?",
+   "a": "Ruler's Representative",
+   "p": 400,
+   "ar": "ممثل الحاكم",
+   "alt": [
+    "Ruler's Representative in the Eastern Region",
+    "Wali",
+    "Governor"
+   ]
+  },
+  {
+   "q": "In which year did Sheikh Khalifa bin Zayed, born at Qasr Al Muwaiji, become UAE President?",
+   "a": "2004",
+   "p": 400
+  },
+  {
+   "q": "Jebel Hafeet's limestone is famous for fossils of creatures from which environment?",
+   "a": "The sea",
+   "p": 400,
+   "ar": "البحر",
+   "alt": [
+    "Sea",
+    "Marine",
+    "Ocean",
+    "Marine fossils"
+   ]
+  },
+  {
+   "q": "The Arabian tahr kept at Al Ain Zoo is a wild species of which animal?",
+   "a": "Goat",
+   "p": 400,
+   "ar": "ماعز",
+   "alt": [
+    "Wild goat",
+    "Mountain goat",
+    "Goats"
+   ]
+  },
+  {
+   "q": "In names like Hisn, what type of building does the Arabic word 'Hisn' describe?",
+   "a": "Fort",
+   "p": 400,
+   "ar": "حصن",
+   "alt": [
+    "Fortress",
+    "Castle",
+    "Stronghold"
+   ]
+  },
+  {
+   "q": "What shape is the reconstructed Hili Grand Tomb?",
+   "a": "Circular",
+   "p": 400,
+   "alt": [
+    "Round",
+    "Circle",
+    "Cylindrical"
+   ]
+  },
+  {
+   "q": "Which Hili site revealed 3,000-year-old human traces on a wall in 2019?",
+   "a": "Hili 2",
+   "p": 400,
+   "alt": [
+    "Hili II",
+    "Hili Two"
+   ]
+  },
+  {
+   "q": "About how many date palms grow in Al Ain Oasis?",
+   "a": "147,000",
+   "p": 600,
+   "alt": [
+    "About 147,000",
+    "Around 150,000",
+    "147000"
+   ]
+  },
+  {
+   "q": "In which year did construction of Al Jahili Fort begin?",
+   "a": "1891",
+   "p": 600
+  },
+  {
+   "q": "Which ruler of Abu Dhabi, grandfather of the UAE's founder, built Al Jahili Fort?",
+   "a": "Sheikh Zayed bin Khalifa",
+   "p": 600,
+   "ar": "الشيخ زايد بن خليفة آل نهيان",
+   "alt": [
+    "Zayed the First",
+    "Zayed the Great",
+    "Zayed bin Khalifa"
+   ]
+  },
+  {
+   "q": "In 1955 Al Jahili Fort became a base for which British-officered force, renamed the next year?",
+   "a": "Trucial Oman Levies",
+   "p": 600,
+   "alt": [
+    "Trucial Oman Scouts",
+    "TOS",
+    "Trucial Oman Levies and Scouts"
+   ]
+  },
+  {
+   "q": "By what Arabic name was explorer Wilfred Thesiger known among Bedouin?",
+   "a": "Mubarak bin London",
+   "p": 600,
+   "ar": "مبارك بن لندن",
+   "alt": [
+    "Mubarak bin Landan",
+    "Mubarak"
+   ]
+  },
+  {
+   "q": "How many bends does the Jebel Hafeet mountain road have?",
+   "a": "60",
+   "p": 600,
+   "alt": [
+    "Sixty"
+   ]
+  },
+  {
+   "q": "About how long is the Jebel Hafeet mountain road?",
+   "a": "11.7 km",
+   "p": 600,
+   "alt": [
+    "About 12 km",
+    "12 km",
+    "11.7 kilometres"
+   ]
+  },
+  {
+   "q": "The Hili Grand Tomb belongs to which Bronze Age culture, named after an island near Abu Dhabi?",
+   "a": "Umm an-Nar",
+   "p": 600,
+   "ar": "أم النار",
+   "alt": [
+    "Umm al-Nar",
+    "Umm Al Nar",
+    "Umm an Nar"
+   ]
+  },
+  {
+   "q": "What 3,000-year-old human traces, believed to be from wall builders, were found at Hili 2 in 2019?",
+   "a": "Fingerprints",
+   "p": 600,
+   "alt": [
+    "Finger prints",
+    "Prints"
+   ]
+  },
+  {
+   "q": "Which rocky outcrop, about 40 metres high, towers over the Bidaa Bint Saud site?",
+   "a": "Garn bint Saud",
+   "p": 600,
+   "ar": "قرن بنت سعود",
+   "alt": [
+    "Gharn bint Saud",
+    "Garn bin Saud",
+    "Qarn bint Saud"
+   ]
+  },
+  {
+   "q": "Aflaj excavated at Bidaa Bint Saud suggest the falaj predates credit given to which ancient empire?",
+   "a": "Achaemenid Empire",
+   "p": 600,
+   "alt": [
+    "Achaemenids",
+    "Persian Empire",
+    "Persians"
+   ]
+  },
+  {
+   "q": "Bidaa Bint Saud is thought to have been a stop on what kind of ancient route?",
+   "a": "Caravan route",
+   "p": 600,
+   "alt": [
+    "Trade route",
+    "Caravan trail",
+    "Camel caravan route"
+   ]
+  },
+  {
+   "q": "What type of falaj draws its water directly from a natural spring?",
+   "a": "Aini",
+   "p": 600,
+   "ar": "عيني",
+   "alt": [
+    "Falaj Aini",
+    "Ayni",
+    "Aini falaj"
+   ]
+  },
+  {
+   "q": "What type of falaj taps groundwater through deep underground tunnels?",
+   "a": "Dawoodi",
+   "p": 600,
+   "ar": "داوودي",
+   "alt": [
+    "Falaj Dawoodi",
+    "Daudi",
+    "Dawudi"
+   ]
+  },
+  {
+   "q": "Al Ain's Falaj Hazza is named after which elder brother of Sheikh Zayed?",
+   "a": "Sheikh Hazza bin Sultan",
+   "p": 600,
+   "ar": "الشيخ هزاع بن سلطان",
+   "alt": [
+    "Hazza bin Sultan",
+    "Hazza bin Sultan Al Nahyan"
+   ]
+  },
+  {
+   "q": "Which school, founded by Sheikh Zayed in 1959, was Al Ain's first formal school?",
+   "a": "Al Nahyaneia Model School",
+   "p": 600,
+   "ar": "المدرسة النهيانية",
+   "alt": [
+    "Nahyaniya School",
+    "Al Nahyaniya School",
+    "Al Nahyania School"
+   ]
+  },
+  {
+   "q": "Until which year did Al Ain and Al Buraimi share an open border?",
+   "a": "2006",
+   "p": 600
+  },
+  {
+   "q": "In which year did Al Ain Museum reopen after a long renovation?",
+   "a": "2025",
+   "p": 600
+  },
+  {
+   "q": "Which fort, also called the Eastern Fort, stands beside Al Ain Museum?",
+   "a": "Sultan bin Zayed Fort",
+   "p": 600,
+   "ar": "قلعة سلطان بن زايد",
+   "alt": [
+    "Eastern Fort",
+    "Al Sharqi Fort",
+    "Qasr Sultan bin Zayed"
+   ]
+  },
+  {
+   "q": "In which Al Ain oasis is the restored fort that houses an arts centre and traditional souq?",
+   "a": "Al Qattara",
+   "p": 600,
+   "ar": "القطارة",
+   "alt": [
+    "Qattara",
+    "Al Qattara Oasis"
+   ]
+  },
+  {
+   "q": "Al Ain, Al Qattara, Al Jimi, Al Mutaredh and Al Muwaiji are UNESCO-listed oases. Name the sixth.",
+   "a": "Hili",
+   "p": 600,
+   "ar": "هيلي",
+   "alt": [
+    "Hili Oasis"
+   ]
+  },
+  {
+   "q": "Which fort near the Omani border stands close to the Hafit tomb fields north of Jebel Hafeet?",
+   "a": "Mezyad Fort",
+   "p": 600,
+   "ar": "قلعة مزيد",
+   "alt": [
+    "Mezyad",
+    "Al Mezyad Fort"
+   ]
+  },
+  {
+   "q": "Which Al Ain hospital's name recalls an old name of the Al Ain–Buraimi oasis region?",
+   "a": "Tawam Hospital",
+   "p": 600,
+   "ar": "مستشفى توام",
+   "alt": [
+    "Tawam",
+    "Tuwwam"
+   ]
+  },
+  {
+   "q": "Which Thai club did Al Ain beat in the 2003 AFC Champions League final?",
+   "a": "BEC Tero Sasana",
+   "p": 600,
+   "alt": [
+    "Tero Sasana",
+    "BEC Tero",
+    "Police Tero"
+   ]
+  },
+  {
+   "q": "In which year was Al Ain FC officially founded?",
+   "a": "1968",
+   "p": 600
+  },
+  {
+   "q": "Which Japanese defender scored Al Ain's goal in the 2018 Club World Cup final?",
+   "a": "Tsukasa Shiotani",
+   "p": 600,
+   "alt": [
+    "Shiotani"
+   ]
+  },
+  {
+   "q": "Archaeologists from which European country carried out the first digs on Al Ain's Bronze Age tombs?",
+   "a": "Denmark",
+   "p": 600,
+   "alt": [
+    "Danish",
+    "Danes"
+   ]
+  },
+  {
+   "q": "In which village south-east of Al Ain was astronaut Sultan Al Neyadi born?",
+   "a": "Umm Ghafa",
+   "p": 600,
+   "ar": "أم غافة",
+   "alt": [
+    "Um Ghafa",
+    "Umm Ghafah"
+   ]
+  },
+  {
+   "q": "In which year did Al Ain Zoo open to the public?",
+   "a": "1972",
+   "p": 600
+  },
+  {
+   "q": "The Hili Grand Tomb measures roughly how many metres across?",
+   "a": "12 metres",
+   "p": 600,
+   "alt": [
+    "12 m",
+    "About 12 metres",
+    "12"
+   ]
+  }
+ ]
+}

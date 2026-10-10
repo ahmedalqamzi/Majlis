@@ -1,0 +1,711 @@
+{
+ "id": "olympics",
+ "name": "Olympics",
+ "questions": [
+  {
+   "q": "Which city hosted the 2024 Summer Olympics?",
+   "a": "Paris",
+   "p": 200
+  },
+  {
+   "q": "Which American swimmer won eight gold medals at Beijing 2008?",
+   "a": "Michael Phelps",
+   "p": 200,
+   "alt": [
+    "Phelps"
+   ]
+  },
+  {
+   "q": "Which city will host the 2028 Summer Olympics?",
+   "a": "Los Angeles",
+   "p": 200,
+   "alt": [
+    "LA"
+   ]
+  },
+  {
+   "q": "Which Australian city will host the 2032 Summer Olympics?",
+   "a": "Brisbane",
+   "p": 200
+  },
+  {
+   "q": "What are the five colours of the Olympic rings?",
+   "a": "Blue, yellow, black, green and red",
+   "p": 200
+  },
+  {
+   "q": "In which Greek site is the Olympic flame lit before each Games?",
+   "a": "Olympia",
+   "p": 200,
+   "alt": [
+    "Ancient Olympia"
+   ]
+  },
+  {
+   "q": "Which Frenchman founded the modern Olympic Games?",
+   "a": "Pierre de Coubertin",
+   "p": 200,
+   "alt": [
+    "Coubertin",
+    "Baron de Coubertin"
+   ]
+  },
+  {
+   "q": "Which river was the stage for the Paris 2024 opening ceremony?",
+   "a": "Seine",
+   "p": 200,
+   "alt": [
+    "The Seine",
+    "River Seine"
+   ]
+  },
+  {
+   "q": "What colour medal is awarded for third place?",
+   "a": "Bronze",
+   "p": 200
+  },
+  {
+   "q": "Which Jamaican sprinter won the 100 m at three straight Olympics from 2008 to 2016?",
+   "a": "Usain Bolt",
+   "p": 200,
+   "alt": [
+    "Bolt"
+   ]
+  },
+  {
+   "q": "How many events make up the men's decathlon?",
+   "a": "10",
+   "p": 200,
+   "alt": [
+    "Ten"
+   ]
+  },
+  {
+   "q": "Which three sports make up a triathlon?",
+   "a": "Swimming, cycling and running",
+   "p": 200,
+   "alt": [
+    "Swim, bike, run"
+   ]
+  },
+  {
+   "q": "Which Romanian gymnast scored the first perfect 10 at Montreal 1976?",
+   "a": "Nadia Comăneci",
+   "p": 200,
+   "alt": [
+    "Nadia Comaneci",
+    "Comaneci"
+   ]
+  },
+  {
+   "q": "Which American sprinter won four golds at the 1936 Berlin Olympics?",
+   "a": "Jesse Owens",
+   "p": 200,
+   "alt": [
+    "Owens"
+   ]
+  },
+  {
+   "q": "Which British distance runner won the 5000 m and 10,000 m at both London 2012 and Rio 2016?",
+   "a": "Mo Farah",
+   "p": 200,
+   "alt": [
+    "Mohamed Farah",
+    "Farah"
+   ]
+  },
+  {
+   "q": "Which Kenyan won the men's Olympic marathon in 2016 and at Tokyo 2020?",
+   "a": "Eliud Kipchoge",
+   "p": 200,
+   "alt": [
+    "Kipchoge"
+   ]
+  },
+  {
+   "q": "Which US city hosted the 1996 Summer Olympics?",
+   "a": "Atlanta",
+   "p": 200
+  },
+  {
+   "q": "Which Greek city hosted the 2004 Summer Olympics?",
+   "a": "Athens",
+   "p": 200
+  },
+  {
+   "q": "Which Chinese city hosted the 2022 Winter Olympics?",
+   "a": "Beijing",
+   "p": 200
+  },
+  {
+   "q": "Which Russian Black Sea resort hosted the 2014 Winter Olympics?",
+   "a": "Sochi",
+   "p": 200
+  },
+  {
+   "q": "Which Canadian city hosted the 2010 Winter Olympics?",
+   "a": "Vancouver",
+   "p": 200
+  },
+  {
+   "q": "Which two Italian locations co-hosted the 2026 Winter Olympics?",
+   "a": "Milan and Cortina d'Ampezzo",
+   "p": 200,
+   "alt": [
+    "Milan-Cortina",
+    "Milano Cortina"
+   ]
+  },
+  {
+   "q": "Which Emirati shooter won the UAE's first Olympic gold at Athens 2004?",
+   "a": "Sheikh Ahmed bin Hasher Al Maktoum",
+   "p": 200,
+   "ar": "الشيخ أحمد بن حشر آل مكتوم",
+   "alt": [
+    "Ahmed bin Hasher",
+    "Ahmed Al Maktoum"
+   ]
+  },
+  {
+   "q": "Which winter sport combines cross-country skiing with rifle shooting?",
+   "a": "Biathlon",
+   "p": 200
+  },
+  {
+   "q": "Which winter sport involves sliding granite stones along ice towards a target called the house?",
+   "a": "Curling",
+   "p": 200
+  },
+  {
+   "q": "Which Qatari high jumper shared gold with Italy's Gianmarco Tamberi at Tokyo 2020?",
+   "a": "Mutaz Essa Barshim",
+   "p": 200,
+   "ar": "معتز عيسى برشم",
+   "alt": [
+    "Mutaz Barshim",
+    "Barshim"
+   ]
+  },
+  {
+   "q": "Which Moroccan runner won both the 1500 m and 5000 m at Athens 2004?",
+   "a": "Hicham El Guerrouj",
+   "p": 200,
+   "ar": "هشام الكروج",
+   "alt": [
+    "El Guerrouj"
+   ]
+  },
+  {
+   "q": "Which city hosted the 1984 Summer Olympics?",
+   "a": "Los Angeles",
+   "p": 200,
+   "alt": [
+    "LA"
+   ]
+  },
+  {
+   "q": "Which West German city hosted the 1972 Summer Olympics?",
+   "a": "Munich",
+   "p": 200
+  },
+  {
+   "q": "Which Canadian city hosted the 1976 Summer Olympics?",
+   "a": "Montreal",
+   "p": 200
+  },
+  {
+   "q": "Which city hosted the 1964 Summer Olympics, the first held in Asia?",
+   "a": "Tokyo",
+   "p": 200
+  },
+  {
+   "q": "Which dance-based sport made its Olympic debut at Paris 2024?",
+   "a": "Breaking",
+   "p": 200,
+   "alt": [
+    "Breakdancing",
+    "Breakdance"
+   ]
+  },
+  {
+   "q": "Which American gymnast won the women's all-around gold at Paris 2024?",
+   "a": "Simone Biles",
+   "p": 200,
+   "alt": [
+    "Biles"
+   ]
+  },
+  {
+   "q": "What was the name of Los Angeles 1984's bald-eagle mascot?",
+   "a": "Sam",
+   "p": 200,
+   "alt": [
+    "Sam the Olympic Eagle",
+    "Sam the Eagle"
+   ]
+  },
+  {
+   "q": "Which Caribbean country's bobsleigh team famously debuted at Calgary 1988?",
+   "a": "Jamaica",
+   "p": 200
+  },
+  {
+   "q": "Which Paris landmark's iron was set into every Paris 2024 medal?",
+   "a": "Eiffel Tower",
+   "p": 400,
+   "alt": [
+    "The Eiffel Tower"
+   ]
+  },
+  {
+   "q": "What was the name of the Paris 2024 mascots, based on a French cap?",
+   "a": "The Phryges",
+   "p": 400,
+   "alt": [
+    "Phryges",
+    "Phryge"
+   ]
+  },
+  {
+   "q": "Which two French Olympic champions lit the Paris 2024 cauldron?",
+   "a": "Teddy Riner and Marie-José Pérec",
+   "p": 400,
+   "alt": [
+    "Riner and Perec"
+   ]
+  },
+  {
+   "q": "Which French swimmer won four individual golds at Paris 2024?",
+   "a": "Léon Marchand",
+   "p": 400,
+   "alt": [
+    "Leon Marchand",
+    "Marchand"
+   ]
+  },
+  {
+   "q": "Which Algerian gymnast won uneven bars gold at Paris 2024, Africa's first Olympic gymnastics medal?",
+   "a": "Kaylia Nemour",
+   "p": 400,
+   "ar": "كيليا نمور",
+   "alt": [
+    "Nemour"
+   ]
+  },
+  {
+   "q": "Which Egyptian won modern pentathlon gold at Paris 2024?",
+   "a": "Ahmed Elgendy",
+   "p": 400,
+   "ar": "أحمد الجندي",
+   "alt": [
+    "Ahmed El-Gendy",
+    "Elgendy"
+   ]
+  },
+  {
+   "q": "Which Moroccan won the 3000 m steeplechase at both Tokyo 2020 and Paris 2024?",
+   "a": "Soufiane El Bakkali",
+   "p": 400,
+   "ar": "سفيان البقالي",
+   "alt": [
+    "El Bakkali"
+   ]
+  },
+  {
+   "q": "Which Tunisian swimmer won the 400 m freestyle at Tokyo 2020?",
+   "a": "Ahmed Hafnaoui",
+   "p": 400,
+   "ar": "أحمد الحفناوي",
+   "alt": [
+    "Hafnaoui"
+   ]
+  },
+  {
+   "q": "Which Moroccan won the 400 m hurdles in 1984 to become the first Arab woman Olympic champion?",
+   "a": "Nawal El Moutawakel",
+   "p": 400,
+   "ar": "نوال المتوكل",
+   "alt": [
+    "El Moutawakel"
+   ]
+  },
+  {
+   "q": "In which shooting event did Sheikh Ahmed bin Hasher win gold in 2004?",
+   "a": "Double trap",
+   "p": 400
+  },
+  {
+   "q": "Which sport did Sergiu Toma win the UAE's bronze medal in at Rio 2016?",
+   "a": "Judo",
+   "p": 400
+  },
+  {
+   "q": "What was the name of the bear mascot of the 1980 Moscow Olympics?",
+   "a": "Misha",
+   "p": 400,
+   "alt": [
+    "Mischa"
+   ]
+  },
+  {
+   "q": "What was the name of the dog mascot of the Barcelona 1992 Olympics?",
+   "a": "Cobi",
+   "p": 400
+  },
+  {
+   "q": "What was the name of the panda mascot of the Beijing 2022 Winter Olympics?",
+   "a": "Bing Dwen Dwen",
+   "p": 400
+  },
+  {
+   "q": "What was the name of the futuristic blue-checked mascot of Tokyo 2020?",
+   "a": "Miraitowa",
+   "p": 400
+  },
+  {
+   "q": "Which Olympic motto, in Latin, means 'Faster, Higher, Stronger'?",
+   "a": "Citius, Altius, Fortius",
+   "p": 400
+  },
+  {
+   "q": "In which Swiss city is the International Olympic Committee based?",
+   "a": "Lausanne",
+   "p": 400
+  },
+  {
+   "q": "Which city hosted the 1936 Summer Olympics?",
+   "a": "Berlin",
+   "p": 400
+  },
+  {
+   "q": "Which Dutch city hosted the 1928 Summer Olympics?",
+   "a": "Amsterdam",
+   "p": 400
+  },
+  {
+   "q": "Which Norwegian town hosted the 1994 Winter Olympics?",
+   "a": "Lillehammer",
+   "p": 400
+  },
+  {
+   "q": "Which Japanese city hosted the 1998 Winter Olympics?",
+   "a": "Nagano",
+   "p": 400
+  },
+  {
+   "q": "Which US city hosted the 2002 Winter Olympics?",
+   "a": "Salt Lake City",
+   "p": 400
+  },
+  {
+   "q": "Which Italian city hosted the 2006 Winter Olympics?",
+   "a": "Turin",
+   "p": 400,
+   "alt": [
+    "Torino"
+   ]
+  },
+  {
+   "q": "Which South Korean county hosted the 2018 Winter Olympics?",
+   "a": "PyeongChang",
+   "p": 400,
+   "alt": [
+    "Pyeongchang"
+   ]
+  },
+  {
+   "q": "Which Canadian city hosted the 1988 Winter Olympics?",
+   "a": "Calgary",
+   "p": 400
+  },
+  {
+   "q": "Which British ski jumper became a folk hero at Calgary 1988 despite finishing last?",
+   "a": "Eddie 'the Eagle' Edwards",
+   "p": 400,
+   "alt": [
+    "Eddie the Eagle",
+    "Eddie Edwards"
+   ]
+  },
+  {
+   "q": "Which American high jumper introduced a back-first technique at Mexico City 1968?",
+   "a": "Dick Fosbury",
+   "p": 400,
+   "alt": [
+    "Fosbury"
+   ]
+  },
+  {
+   "q": "Which American long jumper leapt 8.90 m at Mexico City 1968?",
+   "a": "Bob Beamon",
+   "p": 400,
+   "alt": [
+    "Beamon"
+   ]
+  },
+  {
+   "q": "Which American sprinter won nine Olympic golds, including four at LA 1984?",
+   "a": "Carl Lewis",
+   "p": 400,
+   "alt": [
+    "Lewis"
+   ]
+  },
+  {
+   "q": "Which Australian sprinter lit the cauldron at Sydney 2000 and then won the 400 m?",
+   "a": "Cathy Freeman",
+   "p": 400,
+   "alt": [
+    "Freeman"
+   ]
+  },
+  {
+   "q": "Which boxing legend lit the cauldron at the 1996 Atlanta Olympics?",
+   "a": "Muhammad Ali",
+   "p": 400,
+   "ar": "محمد علي",
+   "alt": [
+    "Ali"
+   ]
+  },
+  {
+   "q": "Which British rower won gold at five consecutive Olympics from 1984 to 2000?",
+   "a": "Steve Redgrave",
+   "p": 400,
+   "alt": [
+    "Sir Steve Redgrave",
+    "Redgrave"
+   ]
+  },
+  {
+   "q": "How many events make up the women's heptathlon?",
+   "a": "7",
+   "p": 400,
+   "alt": [
+    "Seven"
+   ]
+  },
+  {
+   "q": "How long, in metres, is the Olympic steeplechase race?",
+   "a": "3000 m",
+   "p": 400,
+   "alt": [
+    "3000",
+    "3,000 metres"
+   ]
+  },
+  {
+   "q": "What are the three weapons used in Olympic fencing?",
+   "a": "Foil, épée and sabre",
+   "p": 400,
+   "alt": [
+    "Foil, epee and sabre"
+   ]
+  },
+  {
+   "q": "Champions at the ancient Olympics were crowned with a wreath from which tree?",
+   "a": "Olive",
+   "p": 600,
+   "alt": [
+    "Olive wreath"
+   ]
+  },
+  {
+   "q": "In which year did the UAE first compete at the Summer Olympics?",
+   "a": "1984",
+   "p": 600
+  },
+  {
+   "q": "Which Egyptian karateka won gold at Tokyo 2020?",
+   "a": "Feryal Abdelaziz",
+   "p": 600,
+   "ar": "فريال عبد العزيز",
+   "alt": [
+    "Feryal Ashraf",
+    "Abdelaziz"
+   ]
+  },
+  {
+   "q": "What was the name of Munich 1972's dachshund, the first official Summer Olympics mascot?",
+   "a": "Waldi",
+   "p": 600
+  },
+  {
+   "q": "What was the name of the tiger mascot of PyeongChang 2018?",
+   "a": "Soohorang",
+   "p": 600
+  },
+  {
+   "q": "What was the collective name of the five Beijing 2008 mascots?",
+   "a": "Fuwa",
+   "p": 600
+  },
+  {
+   "q": "What were the two one-eyed mascots of London 2012 called?",
+   "a": "Wenlock and Mandeville",
+   "p": 600
+  },
+  {
+   "q": "Which Latin word meaning 'Together' was added to the Olympic motto in 2021?",
+   "a": "Communiter",
+   "p": 600
+  },
+  {
+   "q": "Which Tahitian surf spot hosted surfing at Paris 2024?",
+   "a": "Teahupo'o",
+   "p": 600,
+   "alt": [
+    "Teahupoo"
+   ]
+  },
+  {
+   "q": "Which royal palace near Paris hosted equestrian events at Paris 2024?",
+   "a": "Versailles",
+   "p": 600,
+   "alt": [
+    "Palace of Versailles",
+    "Chateau de Versailles"
+   ]
+  },
+  {
+   "q": "The Paris 2024 cauldron was shaped like which flying craft, rising into the sky each night?",
+   "a": "Hot-air balloon",
+   "p": 600,
+   "alt": [
+    "Balloon"
+   ]
+  },
+  {
+   "q": "Which Paris garden was home to the Paris 2024 cauldron?",
+   "a": "Tuileries Garden",
+   "p": 600,
+   "alt": [
+    "Jardin des Tuileries",
+    "Tuileries"
+   ]
+  },
+  {
+   "q": "Which Belgian city hosted the 1920 Summer Olympics?",
+   "a": "Antwerp",
+   "p": 600
+  },
+  {
+   "q": "Which US city hosted the 1904 Summer Olympics?",
+   "a": "St. Louis",
+   "p": 600,
+   "alt": [
+    "Saint Louis",
+    "St Louis"
+   ]
+  },
+  {
+   "q": "Which Swiss resort hosted the 1928 Winter Olympics?",
+   "a": "St. Moritz",
+   "p": 600,
+   "alt": [
+    "Saint Moritz",
+    "St Moritz"
+   ]
+  },
+  {
+   "q": "Which Yugoslav city hosted the 1984 Winter Olympics?",
+   "a": "Sarajevo",
+   "p": 600
+  },
+  {
+   "q": "Which Austrian city hosted the Winter Olympics in both 1964 and 1976?",
+   "a": "Innsbruck",
+   "p": 600
+  },
+  {
+   "q": "Which French city hosted the 1968 Winter Olympics?",
+   "a": "Grenoble",
+   "p": 600
+  },
+  {
+   "q": "Which Japanese city hosted the 1972 Winter Olympics?",
+   "a": "Sapporo",
+   "p": 600
+  },
+  {
+   "q": "Which French town hosted the 1992 Winter Olympics?",
+   "a": "Albertville",
+   "p": 600
+  },
+  {
+   "q": "Which Soviet gymnast won 18 Olympic medals between 1956 and 1964?",
+   "a": "Larisa Latynina",
+   "p": 600,
+   "alt": [
+    "Latynina"
+   ]
+  },
+  {
+   "q": "Which Dutch sprinter, the 'Flying Housewife', won four golds at London 1948?",
+   "a": "Fanny Blankers-Koen",
+   "p": 600,
+   "alt": [
+    "Blankers-Koen"
+   ]
+  },
+  {
+   "q": "Which Finnish distance runner of the 1920s was nicknamed 'The Flying Finn'?",
+   "a": "Paavo Nurmi",
+   "p": 600,
+   "alt": [
+    "Nurmi"
+   ]
+  },
+  {
+   "q": "Which American sprinter won the 200 m and 400 m at Atlanta 1996 wearing golden spikes?",
+   "a": "Michael Johnson",
+   "p": 600,
+   "alt": [
+    "Johnson"
+   ]
+  },
+  {
+   "q": "Which Australian swimmer was nicknamed 'The Thorpedo'?",
+   "a": "Ian Thorpe",
+   "p": 600,
+   "alt": [
+    "Thorpe"
+   ]
+  },
+  {
+   "q": "What was the name of the Sydney 2000 kookaburra mascot alongside Syd and Millie?",
+   "a": "Olly",
+   "p": 600
+  },
+  {
+   "q": "What was the name of the abstract blue mascot of Atlanta 1996?",
+   "a": "Izzy",
+   "p": 600,
+   "alt": [
+    "Whatizit"
+   ]
+  },
+  {
+   "q": "Which city hosted the first Youth Olympic Games in 2010?",
+   "a": "Singapore",
+   "p": 600
+  },
+  {
+   "q": "Which new discipline replaces horse riding in modern pentathlon from LA 2028?",
+   "a": "Obstacle",
+   "p": 600,
+   "alt": [
+    "Obstacle course",
+    "Obstacle racing"
+   ]
+  },
+  {
+   "q": "Which Californian resort hosted the 1960 Winter Olympics?",
+   "a": "Squaw Valley",
+   "p": 600,
+   "alt": [
+    "Palisades Tahoe"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,583 @@
+{
+ "id": "harrypotter",
+ "name": "Harry Potter",
+ "questions": [
+  {
+   "q": "Who wrote the Harry Potter books?",
+   "a": "J.K. Rowling",
+   "p": 200,
+   "alt": [
+    "JK Rowling"
+   ]
+  },
+  {
+   "q": "Which house is Harry sorted into?",
+   "a": "Gryffindor",
+   "p": 200
+  },
+  {
+   "q": "Which house is Draco Malfoy in?",
+   "a": "Slytherin",
+   "p": 200
+  },
+  {
+   "q": "What is the name of Harry's snowy owl?",
+   "a": "Hedwig",
+   "p": 200
+  },
+  {
+   "q": "Which actor played Harry Potter in the films?",
+   "a": "Daniel Radcliffe",
+   "p": 200
+  },
+  {
+   "q": "Which actress played Hermione Granger?",
+   "a": "Emma Watson",
+   "p": 200
+  },
+  {
+   "q": "Which actor played Ron Weasley?",
+   "a": "Rupert Grint",
+   "p": 200
+  },
+  {
+   "q": "Who is the Hogwarts headmaster for most of the series?",
+   "a": "Albus Dumbledore",
+   "p": 200,
+   "alt": [
+    "Dumbledore"
+   ]
+  },
+  {
+   "q": "Which dark wizard killed Harry's parents?",
+   "a": "Lord Voldemort",
+   "p": 200,
+   "alt": [
+    "Voldemort",
+    "Tom Riddle"
+   ]
+  },
+  {
+   "q": "What sport do wizards play on broomsticks?",
+   "a": "Quidditch",
+   "p": 200
+  },
+  {
+   "q": "What is the small winged golden ball in Quidditch called?",
+   "a": "Golden Snitch",
+   "p": 200,
+   "alt": [
+    "Snitch"
+   ]
+  },
+  {
+   "q": "Which Quidditch position does Harry play?",
+   "a": "Seeker",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the half-giant gamekeeper at Hogwarts?",
+   "a": "Rubeus Hagrid",
+   "p": 200,
+   "alt": [
+    "Hagrid"
+   ]
+  },
+  {
+   "q": "What do British wizards call a non-magic person?",
+   "a": "Muggle",
+   "p": 200
+  },
+  {
+   "q": "From which platform does the Hogwarts Express leave King's Cross?",
+   "a": "Platform Nine and Three-Quarters",
+   "p": 200,
+   "alt": [
+    "9 3/4",
+    "Nine and three quarters"
+   ]
+  },
+  {
+   "q": "What is the name of the wizarding bank run by goblins?",
+   "a": "Gringotts",
+   "p": 200
+  },
+  {
+   "q": "What is the surname of Harry's aunt and uncle?",
+   "a": "Dursley",
+   "p": 200
+  },
+  {
+   "q": "What shape is Harry's scar?",
+   "a": "Lightning bolt",
+   "p": 200
+  },
+  {
+   "q": "Which magical object sorts students into houses?",
+   "a": "Sorting Hat",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the wizarding shopping street in London?",
+   "a": "Diagon Alley",
+   "p": 200
+  },
+  {
+   "q": "Which house-elf does Harry free with a sock?",
+   "a": "Dobby",
+   "p": 200
+  },
+  {
+   "q": "Which Potions master is head of Slytherin house?",
+   "a": "Severus Snape",
+   "p": 200,
+   "alt": [
+    "Snape"
+   ]
+  },
+  {
+   "q": "Which actor played Severus Snape?",
+   "a": "Alan Rickman",
+   "p": 200
+  },
+  {
+   "q": "Which younger Weasley sister does Harry marry?",
+   "a": "Ginny Weasley",
+   "p": 200,
+   "alt": [
+    "Ginny"
+   ]
+  },
+  {
+   "q": "What is the title of the first Harry Potter book?",
+   "a": "Harry Potter and the Philosopher's Stone",
+   "p": 200,
+   "alt": [
+    "Sorcerer's Stone",
+    "Philosopher's Stone"
+   ]
+  },
+  {
+   "q": "How many books are in the main Harry Potter series?",
+   "a": "Seven",
+   "p": 200,
+   "alt": "7"
+  },
+  {
+   "q": "Which Hogwarts house has a badger as its symbol?",
+   "a": "Hufflepuff",
+   "p": 200
+  },
+  {
+   "q": "Which Hogwarts house has an eagle as its symbol?",
+   "a": "Ravenclaw",
+   "p": 200
+  },
+  {
+   "q": "Which garment, inherited from his father, lets Harry go unseen?",
+   "a": "Invisibility Cloak",
+   "p": 200
+  },
+  {
+   "q": "Which hooded creatures drain happiness from people?",
+   "a": "Dementors",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the wizarding prison?",
+   "a": "Azkaban",
+   "p": 200
+  },
+  {
+   "q": "What is the name of Ron's pet rat?",
+   "a": "Scabbers",
+   "p": 200
+  },
+  {
+   "q": "Which sweets come with collectible famous wizard cards?",
+   "a": "Chocolate Frogs",
+   "p": 200
+  },
+  {
+   "q": "Who is Harry's godfather?",
+   "a": "Sirius Black",
+   "p": 200,
+   "alt": [
+    "Sirius"
+   ]
+  },
+  {
+   "q": "What is the name of the three-headed dog guarding the Philosopher's Stone?",
+   "a": "Fluffy",
+   "p": 200
+  },
+  {
+   "q": "Which spell disarms an opponent?",
+   "a": "Expelliarmus",
+   "p": 400
+  },
+  {
+   "q": "Which spell conjures a Patronus?",
+   "a": "Expecto Patronum",
+   "p": 400
+  },
+  {
+   "q": "What animal form does Harry's Patronus take?",
+   "a": "Stag",
+   "p": 400
+  },
+  {
+   "q": "What is the name of Hermione's cat?",
+   "a": "Crookshanks",
+   "p": 400
+  },
+  {
+   "q": "What is the name of the baby dragon Hagrid hatches?",
+   "a": "Norbert",
+   "p": 400,
+   "alt": [
+    "Norberta"
+   ]
+  },
+  {
+   "q": "What is the name of the giant spider in the Forbidden Forest?",
+   "a": "Aragog",
+   "p": 400
+  },
+  {
+   "q": "Which creature is half eagle and half horse?",
+   "a": "Hippogriff",
+   "p": 400
+  },
+  {
+   "q": "What is the name of the hippogriff Hagrid cares for?",
+   "a": "Buckbeak",
+   "p": 400,
+   "alt": [
+    "Witherwings"
+   ]
+  },
+  {
+   "q": "What is the name for an object holding a piece of a dark wizard's soul?",
+   "a": "Horcrux",
+   "p": 400
+  },
+  {
+   "q": "How many Horcruxes did Voldemort deliberately create?",
+   "a": "Six",
+   "p": 400,
+   "alt": "6"
+  },
+  {
+   "q": "Which Deathly Hallow did Dumbledore own until his death?",
+   "a": "Elder Wand",
+   "p": 400
+  },
+  {
+   "q": "What is the name of the Weasley family home?",
+   "a": "The Burrow",
+   "p": 400
+  },
+  {
+   "q": "Which all-wizarding village lies near Hogwarts?",
+   "a": "Hogsmeade",
+   "p": 400
+  },
+  {
+   "q": "Which inter-school contest is held in Goblet of Fire?",
+   "a": "Triwizard Tournament",
+   "p": 400
+  },
+  {
+   "q": "Which Hufflepuff champion dies in Goblet of Fire?",
+   "a": "Cedric Diggory",
+   "p": 400,
+   "alt": [
+    "Cedric"
+   ]
+  },
+  {
+   "q": "Which actor played Cedric Diggory?",
+   "a": "Robert Pattinson",
+   "p": 400
+  },
+  {
+   "q": "What is the name of the Weasley twins' joke shop?",
+   "a": "Weasleys' Wizard Wheezes",
+   "p": 400
+  },
+  {
+   "q": "Which pink-loving teacher takes over Defence Against the Dark Arts in Order of the Phoenix?",
+   "a": "Dolores Umbridge",
+   "p": 400,
+   "alt": [
+    "Umbridge"
+   ]
+  },
+  {
+   "q": "What is Voldemort's birth name?",
+   "a": "Tom Marvolo Riddle",
+   "p": 400,
+   "alt": [
+    "Tom Riddle"
+   ]
+  },
+  {
+   "q": "What is the name of Voldemort's snake?",
+   "a": "Nagini",
+   "p": 400
+  },
+  {
+   "q": "Which potion lets the drinker take on another person's appearance?",
+   "a": "Polyjuice Potion",
+   "p": 400
+  },
+  {
+   "q": "What is the name of the liquid luck potion?",
+   "a": "Felix Felicis",
+   "p": 400
+  },
+  {
+   "q": "Which actor played Voldemort in the films?",
+   "a": "Ralph Fiennes",
+   "p": 400
+  },
+  {
+   "q": "Which actor played Dumbledore from Prisoner of Azkaban onwards?",
+   "a": "Michael Gambon",
+   "p": 400
+  },
+  {
+   "q": "Which ghost haunts a girls' bathroom at Hogwarts?",
+   "a": "Moaning Myrtle",
+   "p": 400
+  },
+  {
+   "q": "Which giant serpent lives in the Chamber of Secrets?",
+   "a": "Basilisk",
+   "p": 400
+  },
+  {
+   "q": "Who is revealed as the Half-Blood Prince?",
+   "a": "Severus Snape",
+   "p": 400,
+   "alt": [
+    "Snape"
+   ]
+  },
+  {
+   "q": "Which Quidditch position does Ron play?",
+   "a": "Keeper",
+   "p": 400
+  },
+  {
+   "q": "How many points is catching the Snitch worth?",
+   "a": "150",
+   "p": 400
+  },
+  {
+   "q": "Which magical map shows everyone's location inside Hogwarts?",
+   "a": "Marauder's Map",
+   "p": 400
+  },
+  {
+   "q": "Which mirror shows the viewer's deepest desire?",
+   "a": "Mirror of Erised",
+   "p": 400
+  },
+  {
+   "q": "Which French wizarding school does Fleur Delacour attend?",
+   "a": "Beauxbatons",
+   "p": 400
+  },
+  {
+   "q": "Which wizarding school does Viktor Krum attend?",
+   "a": "Durmstrang",
+   "p": 400
+  },
+  {
+   "q": "What is the incantation of the Killing Curse?",
+   "a": "Avada Kedavra",
+   "p": 400
+  },
+  {
+   "q": "Which actor plays Newt Scamander in Fantastic Beasts?",
+   "a": "Eddie Redmayne",
+   "p": 400
+  },
+  {
+   "q": "Which actor played Dumbledore in the first two films?",
+   "a": "Richard Harris",
+   "p": 600
+  },
+  {
+   "q": "What is the nickname of Gryffindor's house ghost?",
+   "a": "Nearly Headless Nick",
+   "p": 600
+  },
+  {
+   "q": "What is Newt Scamander's profession?",
+   "a": "Magizoologist",
+   "p": 600
+  },
+  {
+   "q": "Which spell puts out the light at a wand's tip?",
+   "a": "Nox",
+   "p": 600
+  },
+  {
+   "q": "What is the name of Dumbledore's younger brother?",
+   "a": "Aberforth Dumbledore",
+   "p": 600,
+   "alt": [
+    "Aberforth"
+   ]
+  },
+  {
+   "q": "What is Hermione's middle name?",
+   "a": "Jean",
+   "p": 600
+  },
+  {
+   "q": "What is the core of Harry's wand?",
+   "a": "Phoenix feather",
+   "p": 600
+  },
+  {
+   "q": "What wood is Harry's wand made from?",
+   "a": "Holly",
+   "p": 600
+  },
+  {
+   "q": "Which treasure-loving creature causes chaos in Fantastic Beasts and Where to Find Them?",
+   "a": "Niffler",
+   "p": 600
+  },
+  {
+   "q": "Which dark wizard was played by Johnny Depp and later Mads Mikkelsen?",
+   "a": "Gellert Grindelwald",
+   "p": 600,
+   "alt": [
+    "Grindelwald"
+   ]
+  },
+  {
+   "q": "In which city is the first Fantastic Beasts film set?",
+   "a": "New York",
+   "p": 600,
+   "alt": [
+    "New York City"
+   ]
+  },
+  {
+   "q": "What is the American wizarding word for a non-magic person?",
+   "a": "No-Maj",
+   "p": 600
+  },
+  {
+   "q": "What is the name of the American wizarding school?",
+   "a": "Ilvermorny",
+   "p": 600
+  },
+  {
+   "q": "What is the name of Neville Longbottom's toad?",
+   "a": "Trevor",
+   "p": 600
+  },
+  {
+   "q": "Which magazine does Luna Lovegood's father edit?",
+   "a": "The Quibbler",
+   "p": 600
+  },
+  {
+   "q": "Which spell unlocks doors?",
+   "a": "Alohomora",
+   "p": 600
+  },
+  {
+   "q": "What is the name of Slytherin's house ghost?",
+   "a": "The Bloody Baron",
+   "p": 600,
+   "alt": [
+    "Bloody Baron"
+   ]
+  },
+  {
+   "q": "Who kills Dobby at Malfoy Manor?",
+   "a": "Bellatrix Lestrange",
+   "p": 600,
+   "alt": [
+    "Bellatrix"
+   ]
+  },
+  {
+   "q": "Which actress played Bellatrix Lestrange?",
+   "a": "Helena Bonham Carter",
+   "p": 600
+  },
+  {
+   "q": "Which basin lets wizards view stored memories?",
+   "a": "Pensieve",
+   "p": 600
+  },
+  {
+   "q": "In which year was the first Harry Potter book published?",
+   "a": "1997",
+   "p": 600
+  },
+  {
+   "q": "Who directed the first two Harry Potter films?",
+   "a": "Chris Columbus",
+   "p": 600
+  },
+  {
+   "q": "Who directed the last four Harry Potter films?",
+   "a": "David Yates",
+   "p": 600
+  },
+  {
+   "q": "Who directed Harry Potter and the Prisoner of Azkaban?",
+   "a": "Alfonso Cuarón",
+   "p": 600,
+   "alt": [
+    "Alfonso Cuaron"
+   ]
+  },
+  {
+   "q": "What is the name of the Black family's house-elf?",
+   "a": "Kreacher",
+   "p": 600
+  },
+  {
+   "q": "What is the name of the Weasleys' elderly owl?",
+   "a": "Errol",
+   "p": 600
+  },
+  {
+   "q": "Which plant's cry can be fatal to anyone who hears it?",
+   "a": "Mandrake",
+   "p": 600
+  },
+  {
+   "q": "Which Quidditch ball do Chasers score goals with?",
+   "a": "Quaffle",
+   "p": 600
+  },
+  {
+   "q": "Which wandmaker's shop is in Diagon Alley?",
+   "a": "Ollivanders",
+   "p": 600,
+   "alt": [
+    "Ollivander's"
+   ]
+  },
+  {
+   "q": "What is the name of the main wizarding newspaper?",
+   "a": "The Daily Prophet",
+   "p": 600,
+   "alt": [
+    "Daily Prophet"
+   ]
+  }
+ ]
+}

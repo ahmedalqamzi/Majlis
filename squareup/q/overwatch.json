@@ -1,0 +1,592 @@
+{
+ "id": "overwatch",
+ "name": "Overwatch",
+ "questions": [
+  {
+   "q": "In what year was the original Overwatch released?",
+   "a": "2016",
+   "p": 200
+  },
+  {
+   "q": "In what year did Overwatch 2 launch as a free-to-play game?",
+   "a": "2022",
+   "p": 200
+  },
+  {
+   "q": "Which role in Overwatch focuses on healing teammates?",
+   "a": "Support",
+   "p": 200,
+   "alt": [
+    "Healer"
+   ]
+  },
+  {
+   "q": "Which time-jumping British pilot is the face of Overwatch?",
+   "a": "Tracer",
+   "p": 200
+  },
+  {
+   "q": "Which South Korean pro gamer pilots a pink mech?",
+   "a": "D.Va",
+   "p": 200,
+   "alt": [
+    "Dva"
+   ]
+  },
+  {
+   "q": "Which genetically engineered gorilla scientist grew up on the Moon?",
+   "a": "Winston",
+   "p": 200
+  },
+  {
+   "q": "Which Swiss doctor flies to allies with her Caduceus Staff to heal them?",
+   "a": "Mercy",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the hamster who pilots Wrecking Ball?",
+   "a": "Hammond",
+   "p": 200,
+   "alt": [
+    "Wrecking Ball"
+   ]
+  },
+  {
+   "q": "Which Japanese archer can summon spirit dragons?",
+   "a": "Hanzo",
+   "p": 200
+  },
+  {
+   "q": "Which cyborg ninja is Hanzo's younger brother?",
+   "a": "Genji",
+   "p": 200
+  },
+  {
+   "q": "Which cowboy gunslinger was originally called McCree?",
+   "a": "Cassidy",
+   "p": 200,
+   "alt": [
+    "Cole Cassidy"
+   ]
+  },
+  {
+   "q": "Which German knight carries a huge rocket hammer and barrier shield?",
+   "a": "Reinhardt",
+   "p": 200
+  },
+  {
+   "q": "Which Russian weightlifter tank uses a particle cannon?",
+   "a": "Zarya",
+   "p": 200
+  },
+  {
+   "q": "Which Egyptian hero flies in a rocket-powered combat suit?",
+   "a": "Pharah",
+   "p": 200
+  },
+  {
+   "q": "Which hook-throwing Junker is Junkrat's bodyguard?",
+   "a": "Roadhog",
+   "p": 200
+  },
+  {
+   "q": "Which Australian Junker hero throws bouncing grenades and traps?",
+   "a": "Junkrat",
+   "p": 200
+  },
+  {
+   "q": "What nationality is the DJ hero Lúcio?",
+   "a": "Brazilian",
+   "p": 200,
+   "alt": [
+    "Brazil"
+   ]
+  },
+  {
+   "q": "What nationality is the engineer Torbjörn?",
+   "a": "Swedish",
+   "p": 200,
+   "alt": [
+    "Sweden"
+   ]
+  },
+  {
+   "q": "Which French sniper is a brainwashed Talon assassin?",
+   "a": "Widowmaker",
+   "p": 200
+  },
+  {
+   "q": "Which floating omnic monk heals allies with orbs?",
+   "a": "Zenyatta",
+   "p": 200
+  },
+  {
+   "q": "What nationality is the climatologist hero Mei?",
+   "a": "Chinese",
+   "p": 200,
+   "alt": [
+    "China"
+   ]
+  },
+  {
+   "q": "Which Mexican hero is an expert hacker who can turn invisible?",
+   "a": "Sombra",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the villainous organisation that Reaper and Widowmaker work for?",
+   "a": "Talon",
+   "p": 200
+  },
+  {
+   "q": "How many players are on each team in Overwatch 2's standard modes?",
+   "a": "Five",
+   "p": 200,
+   "alt": [
+    "5"
+   ]
+  },
+  {
+   "q": "Which role lost a player when Overwatch 2 switched to 5v5?",
+   "a": "Tank",
+   "p": 200
+  },
+  {
+   "q": "Which hero is Torbjörn's daughter?",
+   "a": "Brigitte",
+   "p": 200
+  },
+  {
+   "q": "What nationality is the hard-light architect Symmetra?",
+   "a": "Indian",
+   "p": 200,
+   "alt": [
+    "India"
+   ]
+  },
+  {
+   "q": "What is the name of Ashe's omnic butler?",
+   "a": "B.O.B.",
+   "p": 200,
+   "alt": [
+    "Bob"
+   ]
+  },
+  {
+   "q": "What is the highlight replay shown at the end of each match called?",
+   "a": "Play of the Game",
+   "p": 200,
+   "alt": [
+    "POTG"
+   ]
+  },
+  {
+   "q": "What does Roadhog throw to pull enemies towards him?",
+   "a": "Chain Hook",
+   "p": 200,
+   "alt": [
+    "Hook"
+   ]
+  },
+  {
+   "q": "Which London map has payload pushing through the streets?",
+   "a": "King's Row",
+   "p": 200,
+   "alt": [
+    "Kings Row"
+   ]
+  },
+  {
+   "q": "Which Japanese fox-spirit healer joined at the launch of Overwatch 2?",
+   "a": "Kiriko",
+   "p": 200
+  },
+  {
+   "q": "Which ability lets Mercy bring a fallen ally back to life?",
+   "a": "Resurrect",
+   "p": 200,
+   "alt": [
+    "Resurrection"
+   ]
+  },
+  {
+   "q": "Which shrouded hero wields two shotguns and can turn into a wraith?",
+   "a": "Reaper",
+   "p": 200
+  },
+  {
+   "q": "Which omnic hero can transform from robot to sentry turret?",
+   "a": "Bastion",
+   "p": 200
+  },
+  {
+   "q": "What is Tracer's real name?",
+   "a": "Lena Oxton",
+   "p": 400
+  },
+  {
+   "q": "What is D.Va's real name?",
+   "a": "Hana Song",
+   "p": 400
+  },
+  {
+   "q": "What is the name of Genji's ultimate ability?",
+   "a": "Dragonblade",
+   "p": 400
+  },
+  {
+   "q": "Who is Pharah's mother?",
+   "a": "Ana",
+   "p": 400,
+   "alt": [
+    "Ana Amari"
+   ]
+  },
+  {
+   "q": "What is Reaper's real name?",
+   "a": "Gabriel Reyes",
+   "p": 400
+  },
+  {
+   "q": "What is Soldier: 76's real name?",
+   "a": "Jack Morrison",
+   "p": 400
+  },
+  {
+   "q": "What is the name of Mei's little drone robot?",
+   "a": "Snowball",
+   "p": 400
+  },
+  {
+   "q": "What nationality is the support sniper Ana?",
+   "a": "Egyptian",
+   "p": 400,
+   "alt": [
+    "Egypt"
+   ]
+  },
+  {
+   "q": "Which Caribbean country is Baptiste from?",
+   "a": "Haiti",
+   "p": 400
+  },
+  {
+   "q": "What nationality is Doomfist?",
+   "a": "Nigerian",
+   "p": 400,
+   "alt": [
+    "Nigeria"
+   ]
+  },
+  {
+   "q": "What nationality is the geneticist Moira?",
+   "a": "Irish",
+   "p": 400,
+   "alt": [
+    "Ireland"
+   ]
+  },
+  {
+   "q": "Which young Nigerian genius built the robot Orisa?",
+   "a": "Efi Oladele",
+   "p": 400,
+   "alt": [
+    "Efi"
+   ]
+  },
+  {
+   "q": "Which omnic leader of Null Sector became a tank hero in 2022?",
+   "a": "Ramattra",
+   "p": 400
+  },
+  {
+   "q": "What nationality is the support hero Lifeweaver?",
+   "a": "Thai",
+   "p": 400,
+   "alt": [
+    "Thailand"
+   ]
+  },
+  {
+   "q": "Which country is the sun-powered support hero Illari from?",
+   "a": "Peru",
+   "p": 400
+  },
+  {
+   "q": "Which Pacific island nation is the tank Mauga from?",
+   "a": "Samoa",
+   "p": 400
+  },
+  {
+   "q": "Which planet was the support hero Juno born on?",
+   "a": "Mars",
+   "p": 400
+  },
+  {
+   "q": "What was the name of the global conflict between humans and robots before Overwatch was formed?",
+   "a": "Omnic Crisis",
+   "p": 400
+  },
+  {
+   "q": "What was the 2016 animated short in which Winston reactivates Overwatch?",
+   "a": "Recall",
+   "p": 400
+  },
+  {
+   "q": "Which Overwatch map is set in a Greek seaside town?",
+   "a": "Ilios",
+   "p": 400
+  },
+  {
+   "q": "In which country is the Dorado map set?",
+   "a": "Mexico",
+   "p": 400
+  },
+  {
+   "q": "Which map is set in the Shimada family's home town in Japan?",
+   "a": "Hanamura",
+   "p": 400
+  },
+  {
+   "q": "In which Italian city is the Rialto map set?",
+   "a": "Venice",
+   "p": 400
+  },
+  {
+   "q": "Who was the game director of the original Overwatch?",
+   "a": "Jeff Kaplan",
+   "p": 400
+  },
+  {
+   "q": "Overwatch was built from the remains of which cancelled Blizzard MMO project?",
+   "a": "Titan",
+   "p": 400,
+   "alt": [
+    "Project Titan"
+   ]
+  },
+  {
+   "q": "What is D.Va's ultimate, where her mech explodes?",
+   "a": "Self-Destruct",
+   "p": 400
+  },
+  {
+   "q": "What is the name of Reinhardt's ultimate, a ground-slam knockdown?",
+   "a": "Earthshatter",
+   "p": 400
+  },
+  {
+   "q": "What is Zarya's ultimate that pulls enemies together?",
+   "a": "Graviton Surge",
+   "p": 400
+  },
+  {
+   "q": "What is Mercy's ultimate in which she gains flight and boosted abilities?",
+   "a": "Valkyrie",
+   "p": 400
+  },
+  {
+   "q": "What is the name of Tracer's sticky explosive ultimate?",
+   "a": "Pulse Bomb",
+   "p": 400
+  },
+  {
+   "q": "Which of Ana's abilities puts an enemy to sleep?",
+   "a": "Sleep Dart",
+   "p": 400
+  },
+  {
+   "q": "What is Sombra's ultimate that hacks everyone nearby?",
+   "a": "EMP",
+   "p": 400
+  },
+  {
+   "q": "What system replaced loot boxes in Overwatch 2?",
+   "a": "Battle Pass",
+   "p": 400
+  },
+  {
+   "q": "In what year did McCree's name change to Cassidy?",
+   "a": "2021",
+   "p": 400
+  },
+  {
+   "q": "Which Dutch astrophysicist hero can control gravity?",
+   "a": "Sigma",
+   "p": 400
+  },
+  {
+   "q": "What is the name of the bird that is Bastion's companion?",
+   "a": "Ganymede",
+   "p": 600
+  },
+  {
+   "q": "Which scientist created the hero Echo?",
+   "a": "Mina Liao",
+   "p": 600,
+   "alt": [
+    "Dr. Mina Liao"
+   ]
+  },
+  {
+   "q": "Which hero was the first added after Overwatch's launch, in July 2016?",
+   "a": "Ana",
+   "p": 600
+  },
+  {
+   "q": "What is Widowmaker's real name?",
+   "a": "Amélie Lacroix",
+   "p": 600,
+   "alt": [
+    "Amelie Lacroix"
+   ]
+  },
+  {
+   "q": "Which omnic monk was assassinated by Widowmaker in King's Row?",
+   "a": "Mondatta",
+   "p": 600,
+   "alt": [
+    "Tekhartha Mondatta"
+   ]
+  },
+  {
+   "q": "What was the name of the UN law that made Overwatch activity illegal?",
+   "a": "Petras Act",
+   "p": 600
+  },
+  {
+   "q": "In which country is the Oasis map set?",
+   "a": "Iraq",
+   "p": 600
+  },
+  {
+   "q": "In which country is the Numbani map set?",
+   "a": "Nigeria",
+   "p": 600
+  },
+  {
+   "q": "Which map is set in Monaco?",
+   "a": "Circuit Royal",
+   "p": 600
+  },
+  {
+   "q": "Which Overwatch 2 map is set in Portugal?",
+   "a": "Esperança",
+   "p": 600,
+   "alt": [
+    "Esperanca"
+   ]
+  },
+  {
+   "q": "Which Push map is set in Toronto?",
+   "a": "New Queen Street",
+   "p": 600
+  },
+  {
+   "q": "Which Push map is set in Rome?",
+   "a": "Colosseo",
+   "p": 600
+  },
+  {
+   "q": "Which Nepalese map is home to the Shambali omnic monks?",
+   "a": "Shambali Monastery",
+   "p": 600,
+   "alt": [
+    "Nepal"
+   ]
+  },
+  {
+   "q": "Which map is set in a Peruvian mountain region?",
+   "a": "Runasapi",
+   "p": 600
+  },
+  {
+   "q": "Which team won the Overwatch League title in both 2019 and 2020?",
+   "a": "San Francisco Shock",
+   "p": 600
+  },
+  {
+   "q": "In what year was the final Overwatch League season played?",
+   "a": "2023",
+   "p": 600
+  },
+  {
+   "q": "What competition replaced the Overwatch League in 2024?",
+   "a": "Overwatch Champions Series",
+   "p": 600,
+   "alt": [
+    "OWCS"
+   ]
+  },
+  {
+   "q": "At which BlizzCon was the original Overwatch announced?",
+   "a": "2014",
+   "p": 600,
+   "alt": [
+    "BlizzCon 2014"
+   ]
+  },
+  {
+   "q": "At which BlizzCon was Overwatch 2 announced?",
+   "a": "2019",
+   "p": 600,
+   "alt": [
+    "BlizzCon 2019"
+   ]
+  },
+  {
+   "q": "What is the name of Pharah's combat suit?",
+   "a": "Raptora",
+   "p": 600,
+   "alt": [
+    "Raptora Mark VI"
+   ]
+  },
+  {
+   "q": "What is the name of Moira's beam ultimate?",
+   "a": "Coalescence",
+   "p": 600
+  },
+  {
+   "q": "What is the name of Brigitte's armour-giving ultimate?",
+   "a": "Rally",
+   "p": 600
+  },
+  {
+   "q": "What is Lúcio's ultimate that grants a big temporary shield?",
+   "a": "Sound Barrier",
+   "p": 600
+  },
+  {
+   "q": "What is Tracer's girlfriend called in the Overwatch comic Reflections?",
+   "a": "Emily",
+   "p": 600
+  },
+  {
+   "q": "What was Sigma's real name before he became a hero?",
+   "a": "Siebren de Kuiper",
+   "p": 600
+  },
+  {
+   "q": "Which round-based Overwatch 2 mode, added in 2025, lets players buy powers between rounds?",
+   "a": "Stadium",
+   "p": 600
+  },
+  {
+   "q": "Which nationality is the tank hero Hazard?",
+   "a": "Scottish",
+   "p": 600,
+   "alt": [
+    "Scotland"
+   ]
+  },
+  {
+   "q": "Which nationality is the bounty hunter hero Freja?",
+   "a": "Danish",
+   "p": 600,
+   "alt": [
+    "Denmark"
+   ]
+  }
+ ]
+}

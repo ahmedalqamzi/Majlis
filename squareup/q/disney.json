@@ -1,0 +1,568 @@
+{
+ "id": "disney",
+ "name": "Disney Animation",
+ "questions": [
+  {
+   "q": "What was Disney's first full-length animated feature, released in 1937?",
+   "a": "Snow White and the Seven Dwarfs",
+   "p": 200,
+   "alt": [
+    "Snow White"
+   ]
+  },
+  {
+   "q": "What is the name of Aladdin's monkey?",
+   "a": "Abu",
+   "p": 200
+  },
+  {
+   "q": "Who voiced the Genie in Aladdin (1992)?",
+   "a": "Robin Williams",
+   "p": 200
+  },
+  {
+   "q": "What is the name of Ariel's fish friend?",
+   "a": "Flounder",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the sea witch in The Little Mermaid?",
+   "a": "Ursula",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the crab in The Little Mermaid?",
+   "a": "Sebastian",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the heroine of Beauty and the Beast?",
+   "a": "Belle",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the candelabra in Beauty and the Beast?",
+   "a": "Lumiere",
+   "p": 200
+  },
+  {
+   "q": "Which meerkat and warthog duo befriend Simba?",
+   "a": "Timon and Pumbaa",
+   "p": 200
+  },
+  {
+   "q": "What is the name of Elsa's younger sister?",
+   "a": "Anna",
+   "p": 200
+  },
+  {
+   "q": "Which Frozen song, sung by Elsa, won the Oscar for Best Original Song?",
+   "a": "Let It Go",
+   "p": 200
+  },
+  {
+   "q": "Which princess leaves a glass slipper behind at the ball?",
+   "a": "Cinderella",
+   "p": 200
+  },
+  {
+   "q": "Which wooden puppet wants to become a real boy?",
+   "a": "Pinocchio",
+   "p": 200
+  },
+  {
+   "q": "Which insect acts as Pinocchio's conscience?",
+   "a": "Jiminy Cricket",
+   "p": 200
+  },
+  {
+   "q": "Which Disney heroine disguises herself as a man to join the army?",
+   "a": "Mulan",
+   "p": 200
+  },
+  {
+   "q": "What is the name of Mulan's small dragon companion?",
+   "a": "Mushu",
+   "p": 200
+  },
+  {
+   "q": "Which fairy accompanies Peter Pan?",
+   "a": "Tinker Bell",
+   "p": 200
+  },
+  {
+   "q": "Which pirate captain is Peter Pan's enemy?",
+   "a": "Captain Hook",
+   "p": 200
+  },
+  {
+   "q": "Which villain wants a coat made from Dalmatian puppies?",
+   "a": "Cruella de Vil",
+   "p": 200,
+   "alt": [
+    "Cruella"
+   ]
+  },
+  {
+   "q": "Which horned villain curses Princess Aurora?",
+   "a": "Maleficent",
+   "p": 200
+  },
+  {
+   "q": "In which Disney film is Princess Aurora the heroine?",
+   "a": "Sleeping Beauty",
+   "p": 200
+  },
+  {
+   "q": "Who is Disney's most famous cartoon mouse?",
+   "a": "Mickey Mouse",
+   "p": 200
+  },
+  {
+   "q": "What is the name of Rapunzel's chameleon?",
+   "a": "Pascal",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the thief who helps Rapunzel in Tangled?",
+   "a": "Flynn Rider",
+   "p": 200,
+   "alt": [
+    "Eugene Fitzherbert"
+   ]
+  },
+  {
+   "q": "What is the name of Kristoff's reindeer in Frozen?",
+   "a": "Sven",
+   "p": 200
+  },
+  {
+   "q": "Which 2021 film follows the Madrigal family in Colombia?",
+   "a": "Encanto",
+   "p": 200
+  },
+  {
+   "q": "Which Encanto song about a banished uncle became a chart hit?",
+   "a": "We Don't Talk About Bruno",
+   "p": 200
+  },
+  {
+   "q": "What kind of animal is Nick Wilde in Zootopia?",
+   "a": "Fox",
+   "p": 200
+  },
+  {
+   "q": "Which Native American heroine befriends John Smith?",
+   "a": "Pocahontas",
+   "p": 200
+  },
+  {
+   "q": "Which Greek hero is trained by a satyr called Phil?",
+   "a": "Hercules",
+   "p": 200
+  },
+  {
+   "q": "Which 1967 film follows a boy raised by wolves in the Indian jungle?",
+   "a": "The Jungle Book",
+   "p": 200
+  },
+  {
+   "q": "Which 1999 film follows a man raised by gorillas?",
+   "a": "Tarzan",
+   "p": 200
+  },
+  {
+   "q": "Which tiger is Mowgli's enemy?",
+   "a": "Shere Khan",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the princess in Aladdin?",
+   "a": "Jasmine",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the evil vizier in Aladdin?",
+   "a": "Jafar",
+   "p": 200
+  },
+  {
+   "q": "Which 1940 film features Mickey Mouse as the Sorcerer's Apprentice?",
+   "a": "Fantasia",
+   "p": 400
+  },
+  {
+   "q": "Who co-founded the Disney studio with his brother Walt?",
+   "a": "Roy O. Disney",
+   "p": 400,
+   "alt": [
+    "Roy Disney"
+   ]
+  },
+  {
+   "q": "Which 1928 Mickey Mouse short was released with synchronised sound?",
+   "a": "Steamboat Willie",
+   "p": 400
+  },
+  {
+   "q": "Which rabbit character did Walt Disney create before Mickey Mouse?",
+   "a": "Oswald the Lucky Rabbit",
+   "p": 400,
+   "alt": [
+    "Oswald"
+   ]
+  },
+  {
+   "q": "Who voices Elsa in Frozen?",
+   "a": "Idina Menzel",
+   "p": 400
+  },
+  {
+   "q": "Who voices Anna in Frozen?",
+   "a": "Kristen Bell",
+   "p": 400
+  },
+  {
+   "q": "Who voices Moana?",
+   "a": "Auliʻi Cravalho",
+   "p": 400,
+   "alt": [
+    "Auli'i Cravalho"
+   ]
+  },
+  {
+   "q": "Who voices Maui in Moana?",
+   "a": "Dwayne Johnson",
+   "p": 400
+  },
+  {
+   "q": "Which Moana song is sung by Maui?",
+   "a": "You're Welcome",
+   "p": 400
+  },
+  {
+   "q": "Who wrote songs for both Moana and Encanto?",
+   "a": "Lin-Manuel Miranda",
+   "p": 400
+  },
+  {
+   "q": "Which composer scored The Little Mermaid, Beauty and the Beast and Aladdin?",
+   "a": "Alan Menken",
+   "p": 400
+  },
+  {
+   "q": "Which Lion King song won the Oscar for Best Original Song?",
+   "a": "Can You Feel the Love Tonight",
+   "p": 400
+  },
+  {
+   "q": "Who wrote the Lion King songs with lyricist Tim Rice?",
+   "a": "Elton John",
+   "p": 400
+  },
+  {
+   "q": "Which 1989 film is usually seen as the start of the Disney Renaissance?",
+   "a": "The Little Mermaid",
+   "p": 400
+  },
+  {
+   "q": "Which 2009 film introduced Tiana?",
+   "a": "The Princess and the Frog",
+   "p": 400
+  },
+  {
+   "q": "In which US city is The Princess and the Frog set?",
+   "a": "New Orleans",
+   "p": 400
+  },
+  {
+   "q": "Which villain tries to kill Snow White with a poisoned apple?",
+   "a": "The Evil Queen",
+   "p": 400,
+   "alt": [
+    "Queen Grimhilde",
+    "The Queen"
+   ]
+  },
+  {
+   "q": "Which of the Seven Dwarfs never speaks?",
+   "a": "Dopey",
+   "p": 400
+  },
+  {
+   "q": "Which god of the Underworld is the villain of Hercules?",
+   "a": "Hades",
+   "p": 400
+  },
+  {
+   "q": "What is the name of Hercules's winged horse?",
+   "a": "Pegasus",
+   "p": 400
+  },
+  {
+   "q": "What is the name of Gaston's sidekick?",
+   "a": "LeFou",
+   "p": 400
+  },
+  {
+   "q": "What is the name of the teapot in Beauty and the Beast?",
+   "a": "Mrs. Potts",
+   "p": 400,
+   "alt": [
+    "Mrs Potts"
+   ]
+  },
+  {
+   "q": "Which 2016 film is set in a city of talking animals, with a rabbit police officer?",
+   "a": "Zootopia",
+   "p": 400,
+   "alt": [
+    "Zootropolis"
+   ]
+  },
+  {
+   "q": "Which 2012 film follows an arcade villain who wants to be a hero?",
+   "a": "Wreck-It Ralph",
+   "p": 400
+  },
+  {
+   "q": "Which 2014 film features the inflatable robot Baymax?",
+   "a": "Big Hero 6",
+   "p": 400
+  },
+  {
+   "q": "Which prince betrays Anna in Frozen?",
+   "a": "Hans",
+   "p": 400,
+   "alt": [
+    "Prince Hans"
+   ]
+  },
+  {
+   "q": "What is the name of the kingdom in Frozen?",
+   "a": "Arendelle",
+   "p": 400
+  },
+  {
+   "q": "Who locks Rapunzel away in a tower?",
+   "a": "Mother Gothel",
+   "p": 400
+  },
+  {
+   "q": "Which villain leads the Hun army in Mulan?",
+   "a": "Shan Yu",
+   "p": 400
+  },
+  {
+   "q": "Who rings the bells of Notre Dame in the 1996 film?",
+   "a": "Quasimodo",
+   "p": 400
+  },
+  {
+   "q": "Which judge is the villain of The Hunchback of Notre Dame?",
+   "a": "Claude Frollo",
+   "p": 400,
+   "alt": [
+    "Frollo"
+   ]
+  },
+  {
+   "q": "What is the name of Ariel's father?",
+   "a": "King Triton",
+   "p": 400,
+   "alt": [
+    "Triton"
+   ]
+  },
+  {
+   "q": "What is the name of Pocahontas's raccoon friend?",
+   "a": "Meeko",
+   "p": 400
+  },
+  {
+   "q": "What is the name of Jasmine's pet tiger?",
+   "a": "Rajah",
+   "p": 400
+  },
+  {
+   "q": "Which 1955 film features a cocker spaniel and a stray dog sharing spaghetti?",
+   "a": "Lady and the Tramp",
+   "p": 400
+  },
+  {
+   "q": "Which lyricist partnered Alan Menken on The Little Mermaid and Beauty and the Beast?",
+   "a": "Howard Ashman",
+   "p": 600
+  },
+  {
+   "q": "What is the name of the voodoo villain in The Princess and the Frog?",
+   "a": "Dr. Facilier",
+   "p": 600,
+   "alt": [
+    "Facilier",
+    "The Shadow Man"
+   ]
+  },
+  {
+   "q": "What is the name of Cinderella's stepmother?",
+   "a": "Lady Tremaine",
+   "p": 600
+  },
+  {
+   "q": "Which actor voiced Hades in Hercules?",
+   "a": "James Woods",
+   "p": 600
+  },
+  {
+   "q": "What are the names of Ursula's two eels?",
+   "a": "Flotsam and Jetsam",
+   "p": 600
+  },
+  {
+   "q": "Who provided Mickey Mouse's original voice?",
+   "a": "Walt Disney",
+   "p": 600
+  },
+  {
+   "q": "What is the name of the prince in Sleeping Beauty?",
+   "a": "Prince Phillip",
+   "p": 600,
+   "alt": [
+    "Phillip"
+   ]
+  },
+  {
+   "q": "Which villain kidnaps Penny in The Rescuers (1977)?",
+   "a": "Madame Medusa",
+   "p": 600,
+   "alt": [
+    "Medusa"
+   ]
+  },
+  {
+   "q": "Which 2000 film features an emperor turned into a llama?",
+   "a": "The Emperor's New Groove",
+   "p": 600
+  },
+  {
+   "q": "What is the name of the emperor turned into a llama?",
+   "a": "Kuzco",
+   "p": 600
+  },
+  {
+   "q": "Which 2002 film is a space retelling of Treasure Island?",
+   "a": "Treasure Planet",
+   "p": 600
+  },
+  {
+   "q": "Which 2001 film follows explorers searching for a lost underwater city?",
+   "a": "Atlantis: The Lost Empire",
+   "p": 600,
+   "alt": [
+    "Atlantis"
+   ]
+  },
+  {
+   "q": "What is Stitch's experiment number?",
+   "a": "626",
+   "p": 600
+  },
+  {
+   "q": "Who voiced Scar in The Lion King (1994)?",
+   "a": "Jeremy Irons",
+   "p": 600
+  },
+  {
+   "q": "Which 1932 Silly Symphony was the first full-colour Technicolor cartoon and an Oscar winner?",
+   "a": "Flowers and Trees",
+   "p": 600
+  },
+  {
+   "q": "In which California city did Disneyland open in 1955?",
+   "a": "Anaheim",
+   "p": 600
+  },
+  {
+   "q": "What is the name of Moana's grandmother?",
+   "a": "Gramma Tala",
+   "p": 600,
+   "alt": [
+    "Tala"
+   ]
+  },
+  {
+   "q": "What is the name of Moana's dim-witted rooster?",
+   "a": "Heihei",
+   "p": 600
+  },
+  {
+   "q": "What is the name of the heroine of Encanto?",
+   "a": "Mirabel",
+   "p": 600,
+   "alt": [
+    "Mirabel Madrigal"
+   ]
+  },
+  {
+   "q": "Which Madrigal sister in Encanto has super strength?",
+   "a": "Luisa",
+   "p": 600
+  },
+  {
+   "q": "Which 2023 film marked Disney's 100th anniversary?",
+   "a": "Wish",
+   "p": 600
+  },
+  {
+   "q": "What is the name of the heroine of Wish?",
+   "a": "Asha",
+   "p": 600
+  },
+  {
+   "q": "In which 1986 film is the rat Ratigan the villain?",
+   "a": "The Great Mouse Detective",
+   "p": 600
+  },
+  {
+   "q": "Which 1961 film was the first Disney feature to use xerography to transfer drawings?",
+   "a": "One Hundred and One Dalmatians",
+   "p": 600,
+   "alt": [
+    "101 Dalmatians"
+   ]
+  },
+  {
+   "q": "What nickname was given to Walt Disney's core team of veteran animators?",
+   "a": "Nine Old Men",
+   "p": 600
+  },
+  {
+   "q": "Which 2021 film features the water dragon Sisu?",
+   "a": "Raya and the Last Dragon",
+   "p": 600
+  },
+  {
+   "q": "Which sheep is revealed as the mastermind villain of Zootopia?",
+   "a": "Dawn Bellwether",
+   "p": 600,
+   "alt": [
+    "Bellwether"
+   ]
+  },
+  {
+   "q": "Who co-directed Frozen with Chris Buck?",
+   "a": "Jennifer Lee",
+   "p": 600
+  },
+  {
+   "q": "Which of the Seven Dwarfs wears glasses and acts as leader?",
+   "a": "Doc",
+   "p": 600
+  },
+  {
+   "q": "Which Frozen II song has Elsa answering a mysterious voice?",
+   "a": "Into the Unknown",
+   "p": 600
+  }
+ ]
+}

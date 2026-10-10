@@ -1,0 +1,783 @@
+{
+ "id": "epl",
+ "name": "Premier League",
+ "questions": [
+  {
+   "q": "Which Scottish manager led Manchester United to 13 Premier League titles?",
+   "a": "Alex Ferguson",
+   "p": 200,
+   "alt": [
+    "Sir Alex Ferguson",
+    "Fergie"
+   ]
+  },
+  {
+   "q": "Which club did Arsène Wenger manage for 22 years?",
+   "a": "Arsenal",
+   "p": 200
+  },
+  {
+   "q": "Which club plays its home games at the Etihad Stadium?",
+   "a": "Manchester City",
+   "p": 200
+  },
+  {
+   "q": "Which Egyptian forward helped Liverpool win the 2019-20 title?",
+   "a": "Mohamed Salah",
+   "p": 200,
+   "ar": "محمد صلاح",
+   "alt": [
+    "Salah",
+    "Mo Salah"
+   ]
+  },
+  {
+   "q": "Which Portuguese manager called himself 'The Special One' on arriving at Chelsea in 2004?",
+   "a": "José Mourinho",
+   "p": 200,
+   "alt": [
+    "Mourinho",
+    "Jose Mourinho"
+   ]
+  },
+  {
+   "q": "Which Spanish manager led Manchester City to four straight titles from 2020-21?",
+   "a": "Pep Guardiola",
+   "p": 200,
+   "alt": [
+    "Guardiola"
+   ]
+  },
+  {
+   "q": "Which club is nicknamed 'The Hammers'?",
+   "a": "West Ham United",
+   "p": 200,
+   "alt": [
+    "West Ham"
+   ]
+  },
+  {
+   "q": "Which German manager led Liverpool from 2015 to 2024?",
+   "a": "Jürgen Klopp",
+   "p": 200,
+   "alt": [
+    "Jurgen Klopp",
+    "Klopp"
+   ]
+  },
+  {
+   "q": "Which Norwegian striker scored 36 league goals in his debut 2022-23 season for Manchester City?",
+   "a": "Erling Haaland",
+   "p": 200,
+   "alt": [
+    "Haaland"
+   ]
+  },
+  {
+   "q": "Which French striker was the star forward of Arsenal's 2003-04 Invincibles?",
+   "a": "Thierry Henry",
+   "p": 200,
+   "alt": [
+    "Henry"
+   ]
+  },
+  {
+   "q": "Which club did Frank Lampard spend 13 seasons at as a midfielder?",
+   "a": "Chelsea",
+   "p": 200
+  },
+  {
+   "q": "Which Liverpool captain famously slipped against Chelsea in April 2014?",
+   "a": "Steven Gerrard",
+   "p": 200,
+   "alt": [
+    "Gerrard"
+   ]
+  },
+  {
+   "q": "How many clubs compete in the Premier League each season?",
+   "a": "20",
+   "p": 200,
+   "alt": [
+    "Twenty"
+   ]
+  },
+  {
+   "q": "How many clubs are relegated from the Premier League each season?",
+   "a": "3",
+   "p": 200,
+   "alt": [
+    "Three"
+   ]
+  },
+  {
+   "q": "Which club signed an 18-year-old Cristiano Ronaldo from Sporting Lisbon in 2003?",
+   "a": "Manchester United",
+   "p": 200,
+   "alt": [
+    "Man United",
+    "Man Utd"
+   ]
+  },
+  {
+   "q": "Which Argentine scored Manchester City's title-winning goal in stoppage time in May 2012?",
+   "a": "Sergio Agüero",
+   "p": 200,
+   "alt": [
+    "Aguero",
+    "Kun Aguero"
+   ]
+  },
+  {
+   "q": "Which Ivorian striker won four Premier League titles with Chelsea?",
+   "a": "Didier Drogba",
+   "p": 200,
+   "alt": [
+    "Drogba"
+   ]
+  },
+  {
+   "q": "Which Premier League club is nicknamed 'The Magpies'?",
+   "a": "Newcastle United",
+   "p": 200,
+   "alt": [
+    "Newcastle"
+   ]
+  },
+  {
+   "q": "Which Premier League club is nicknamed 'The Foxes'?",
+   "a": "Leicester City",
+   "p": 200,
+   "alt": [
+    "Leicester"
+   ]
+  },
+  {
+   "q": "Which Belgian playmaker left Manchester City in 2025 after ten seasons?",
+   "a": "Kevin De Bruyne",
+   "p": 200,
+   "alt": [
+    "De Bruyne",
+    "KDB"
+   ]
+  },
+  {
+   "q": "What is the name of the stadium Arsenal moved into in 2006?",
+   "a": "Emirates Stadium",
+   "p": 200,
+   "alt": [
+    "The Emirates"
+   ]
+  },
+  {
+   "q": "Which Abu Dhabi royal's investment group bought Manchester City in 2008?",
+   "a": "Sheikh Mansour bin Zayed",
+   "p": 200,
+   "ar": "الشيخ منصور بن زايد",
+   "alt": [
+    "Sheikh Mansour",
+    "Mansour bin Zayed"
+   ]
+  },
+  {
+   "q": "Which club did Harry Kane leave Tottenham to join in 2023?",
+   "a": "Bayern Munich",
+   "p": 200,
+   "alt": [
+    "Bayern"
+   ]
+  },
+  {
+   "q": "In which year did the Premier League play its first season?",
+   "a": "1992",
+   "p": 200
+  },
+  {
+   "q": "What does VAR stand for?",
+   "a": "Video Assistant Referee",
+   "p": 200
+  },
+  {
+   "q": "Which Dutch centre-back captained Liverpool to the 2024-25 title?",
+   "a": "Virgil van Dijk",
+   "p": 200,
+   "alt": [
+    "Van Dijk"
+   ]
+  },
+  {
+   "q": "Which Chelsea captain won five Premier League titles with the club between 2005 and 2017?",
+   "a": "John Terry",
+   "p": 200,
+   "alt": [
+    "Terry"
+   ]
+  },
+  {
+   "q": "Which club won the 2004-05 title, their first league crown in 50 years?",
+   "a": "Chelsea",
+   "p": 200
+  },
+  {
+   "q": "Which club ended a 30-year wait for a league title by winning the 2019-20 Premier League?",
+   "a": "Liverpool",
+   "p": 200
+  },
+  {
+   "q": "Which Man United midfielder famously scored from his own half against Wimbledon in 1996?",
+   "a": "David Beckham",
+   "p": 200,
+   "alt": [
+    "Beckham"
+   ]
+  },
+  {
+   "q": "Which Liverpool anthem from the musical Carousel do fans sing before matches?",
+   "a": "You'll Never Walk Alone",
+   "p": 200,
+   "alt": [
+    "YNWA"
+   ]
+  },
+  {
+   "q": "Which South Korean forward spent ten seasons at Tottenham from 2015?",
+   "a": "Son Heung-min",
+   "p": 200,
+   "alt": [
+    "Son",
+    "Sonny",
+    "Heung-min Son"
+   ]
+  },
+  {
+   "q": "Which England striker scored 213 Premier League goals for Tottenham before leaving in 2023?",
+   "a": "Harry Kane",
+   "p": 200,
+   "alt": [
+    "Kane"
+   ]
+  },
+  {
+   "q": "Which Man United striker scored a famous overhead-kick winner against Man City in February 2011?",
+   "a": "Wayne Rooney",
+   "p": 200,
+   "alt": [
+    "Rooney"
+   ]
+  },
+  {
+   "q": "Which Merseyside club played at Goodison Park from 1892 to 2025?",
+   "a": "Everton",
+   "p": 200
+  },
+  {
+   "q": "Which Newcastle and Blackburn striker scored 260 Premier League goals?",
+   "a": "Alan Shearer",
+   "p": 400,
+   "alt": [
+    "Shearer"
+   ]
+  },
+  {
+   "q": "Which Welsh winger won 13 Premier League titles with Manchester United?",
+   "a": "Ryan Giggs",
+   "p": 400,
+   "alt": [
+    "Giggs"
+   ]
+  },
+  {
+   "q": "Which club won the 1994-95 title with Alan Shearer leading the line?",
+   "a": "Blackburn Rovers",
+   "p": 400,
+   "alt": [
+    "Blackburn"
+   ]
+  },
+  {
+   "q": "Which Italian manager led Leicester City to the 2015-16 title?",
+   "a": "Claudio Ranieri",
+   "p": 400,
+   "alt": [
+    "Ranieri"
+   ]
+  },
+  {
+   "q": "Which Leicester striker scored in 11 consecutive Premier League games in 2015?",
+   "a": "Jamie Vardy",
+   "p": 400,
+   "alt": [
+    "Vardy"
+   ]
+  },
+  {
+   "q": "How many league games did Arsenal play unbeaten in the 2003-04 season?",
+   "a": "38",
+   "p": 400,
+   "alt": [
+    "Thirty-eight"
+   ]
+  },
+  {
+   "q": "How many league games in a row did Arsenal go unbeaten in their famous run ending in 2004?",
+   "a": "49",
+   "p": 400,
+   "alt": [
+    "Forty-nine"
+   ]
+  },
+  {
+   "q": "What nickname was given to Manchester City's 2017-18 side that reached 100 points?",
+   "a": "The Centurions",
+   "p": 400,
+   "alt": [
+    "Centurions"
+   ]
+  },
+  {
+   "q": "Which Dutch manager won the title in his first season at Liverpool in 2024-25?",
+   "a": "Arne Slot",
+   "p": 400,
+   "alt": [
+    "Slot"
+   ]
+  },
+  {
+   "q": "Which Italian manager won the 2016-17 title in his first season at Chelsea?",
+   "a": "Antonio Conte",
+   "p": 400,
+   "alt": [
+    "Conte"
+   ]
+  },
+  {
+   "q": "Which Italian manager led Chelsea to a league and FA Cup double in 2009-10?",
+   "a": "Carlo Ancelotti",
+   "p": 400,
+   "alt": [
+    "Ancelotti"
+   ]
+  },
+  {
+   "q": "Which Italian manager was in charge when Manchester City won the 2011-12 title?",
+   "a": "Roberto Mancini",
+   "p": 400,
+   "alt": [
+    "Mancini"
+   ]
+  },
+  {
+   "q": "In which season did Manchester United win the treble?",
+   "a": "1998-99",
+   "p": 400,
+   "alt": [
+    "1999",
+    "1998/99"
+   ]
+  },
+  {
+   "q": "Which Danish goalkeeper captained Manchester United in the 1999 Champions League final?",
+   "a": "Peter Schmeichel",
+   "p": 400,
+   "alt": [
+    "Schmeichel"
+   ]
+  },
+  {
+   "q": "Which Chelsea goalkeeper wore a protective headguard after a skull fracture in 2006?",
+   "a": "Petr Čech",
+   "p": 400,
+   "alt": [
+    "Petr Cech",
+    "Cech"
+   ]
+  },
+  {
+   "q": "Which French Man United forward was banned for a kung-fu kick at a fan in 1995?",
+   "a": "Eric Cantona",
+   "p": 400,
+   "alt": [
+    "Cantona"
+   ]
+  },
+  {
+   "q": "Which Russian billionaire bought Chelsea in 2003?",
+   "a": "Roman Abramovich",
+   "p": 400,
+   "alt": [
+    "Abramovich"
+   ]
+  },
+  {
+   "q": "What was Arsenal's home stadium before 2006?",
+   "a": "Highbury",
+   "p": 400,
+   "alt": [
+    "Arsenal Stadium"
+   ]
+  },
+  {
+   "q": "Which club is nicknamed 'The Toffees'?",
+   "a": "Everton",
+   "p": 400
+  },
+  {
+   "q": "Which club is nicknamed 'The Black Cats'?",
+   "a": "Sunderland",
+   "p": 400
+  },
+  {
+   "q": "Which club is nicknamed 'The Canaries'?",
+   "a": "Norwich City",
+   "p": 400,
+   "alt": [
+    "Norwich"
+   ]
+  },
+  {
+   "q": "Which club is nicknamed 'The Cherries'?",
+   "a": "AFC Bournemouth",
+   "p": 400,
+   "alt": [
+    "Bournemouth"
+   ]
+  },
+  {
+   "q": "Which club is nicknamed 'The Seagulls'?",
+   "a": "Brighton & Hove Albion",
+   "p": 400,
+   "alt": [
+    "Brighton",
+    "Brighton and Hove Albion"
+   ]
+  },
+  {
+   "q": "Which London club plays its home games at Selhurst Park?",
+   "a": "Crystal Palace",
+   "p": 400,
+   "alt": [
+    "Palace"
+   ]
+  },
+  {
+   "q": "Which club plays its home games at Molineux?",
+   "a": "Wolverhampton Wanderers",
+   "p": 400,
+   "alt": [
+    "Wolves"
+   ]
+  },
+  {
+   "q": "Which club moved into the former London 2012 Olympic Stadium in 2016?",
+   "a": "West Ham United",
+   "p": 400,
+   "alt": [
+    "West Ham"
+   ]
+  },
+  {
+   "q": "Which Uruguayan won the 2013-14 Golden Boot with 31 goals for Liverpool?",
+   "a": "Luis Suárez",
+   "p": 400,
+   "alt": [
+    "Suarez",
+    "Luis Suarez"
+   ]
+  },
+  {
+   "q": "Which Portuguese winger won the 2007-08 Golden Boot with 31 goals?",
+   "a": "Cristiano Ronaldo",
+   "p": 400,
+   "alt": [
+    "Ronaldo",
+    "CR7"
+   ]
+  },
+  {
+   "q": "Which Dutch striker won the Golden Boot for Arsenal in 2011-12 and for Man United in 2012-13?",
+   "a": "Robin van Persie",
+   "p": 400,
+   "alt": [
+    "Van Persie",
+    "RVP"
+   ]
+  },
+  {
+   "q": "Which Algerian winger was named PFA Players' Player of the Year in Leicester's title season?",
+   "a": "Riyad Mahrez",
+   "p": 400,
+   "ar": "رياض محرز",
+   "alt": [
+    "Mahrez"
+   ]
+  },
+  {
+   "q": "Which French midfielder won back-to-back titles with Leicester in 2016 and Chelsea in 2017?",
+   "a": "N'Golo Kanté",
+   "p": 400,
+   "alt": [
+    "Kante",
+    "N'Golo Kante"
+   ]
+  },
+  {
+   "q": "Which Dutch striker at Arsenal was nicknamed 'The Non-Flying Dutchman' for his fear of flying?",
+   "a": "Dennis Bergkamp",
+   "p": 400,
+   "alt": [
+    "Bergkamp"
+   ]
+  },
+  {
+   "q": "Which French midfielder captained Arsenal's Invincibles?",
+   "a": "Patrick Vieira",
+   "p": 400,
+   "alt": [
+    "Vieira"
+   ]
+  },
+  {
+   "q": "What name is given to the Man United youth group that included Beckham, Giggs, Scholes and the Neville brothers?",
+   "a": "Class of '92",
+   "p": 400,
+   "alt": [
+    "Class of 92",
+    "Fergie's Fledglings"
+   ]
+  },
+  {
+   "q": "Who replaced Alex Ferguson as Manchester United manager in 2013?",
+   "a": "David Moyes",
+   "p": 400,
+   "alt": [
+    "Moyes"
+   ]
+  },
+  {
+   "q": "Which club was nicknamed 'The Crazy Gang' in the 1980s and 1990s?",
+   "a": "Wimbledon",
+   "p": 600
+  },
+  {
+   "q": "Which club ended Arsenal's 49-game unbeaten run in October 2004?",
+   "a": "Manchester United",
+   "p": 600,
+   "alt": [
+    "Man United",
+    "Man Utd"
+   ]
+  },
+  {
+   "q": "How many league matches did Arsenal draw in the 2003-04 Invincibles season?",
+   "a": "12",
+   "p": 600,
+   "alt": [
+    "Twelve"
+   ]
+  },
+  {
+   "q": "How many points did Liverpool finish with in their 2019-20 title season?",
+   "a": "99",
+   "p": 600
+  },
+  {
+   "q": "Which Chilean manager won the 2013-14 title with Manchester City?",
+   "a": "Manuel Pellegrini",
+   "p": 600,
+   "alt": [
+    "Pellegrini"
+   ]
+  },
+  {
+   "q": "Which Liverpool legend managed Blackburn Rovers to the 1994-95 title?",
+   "a": "Kenny Dalglish",
+   "p": 600,
+   "alt": [
+    "Dalglish"
+   ]
+  },
+  {
+   "q": "Which steel magnate's money funded Blackburn's 1994-95 title win?",
+   "a": "Jack Walker",
+   "p": 600
+  },
+  {
+   "q": "In which season did Arsenal win their first Premier League title?",
+   "a": "1997-98",
+   "p": 600,
+   "alt": [
+    "1998",
+    "1997/98"
+   ]
+  },
+  {
+   "q": "Against which club did Sergio Agüero score his famous 2012 title-winning goal?",
+   "a": "Queens Park Rangers",
+   "p": 600,
+   "alt": [
+    "QPR"
+   ]
+  },
+  {
+   "q": "Which Sheffield United striker scored the first ever Premier League goal in 1992?",
+   "a": "Brian Deane",
+   "p": 600,
+   "alt": [
+    "Deane"
+   ]
+  },
+  {
+   "q": "Which club did Manchester United beat 9-0 in March 1995, with Andy Cole scoring five?",
+   "a": "Ipswich Town",
+   "p": 600,
+   "alt": [
+    "Ipswich"
+   ]
+  },
+  {
+   "q": "How many clubs competed in the first Premier League season in 1992-93?",
+   "a": "22",
+   "p": 600,
+   "alt": [
+    "Twenty-two"
+   ]
+  },
+  {
+   "q": "Which Tottenham striker won the first Premier League Golden Boot in 1992-93?",
+   "a": "Teddy Sheringham",
+   "p": 600,
+   "alt": [
+    "Sheringham"
+   ]
+  },
+  {
+   "q": "Which Newcastle striker won the 1993-94 Golden Boot with 34 goals?",
+   "a": "Andy Cole",
+   "p": 600,
+   "alt": [
+    "Andrew Cole",
+    "Cole"
+   ]
+  },
+  {
+   "q": "Which Sunderland striker won the 1999-2000 Golden Boot with 30 goals?",
+   "a": "Kevin Phillips",
+   "p": 600,
+   "alt": [
+    "Phillips"
+   ]
+  },
+  {
+   "q": "Which Dutch striker won the 2000-01 Golden Boot with Chelsea?",
+   "a": "Jimmy Floyd Hasselbaink",
+   "p": 600,
+   "alt": [
+    "Hasselbaink"
+   ]
+  },
+  {
+   "q": "Which Dutch striker won the 2002-03 Golden Boot for Manchester United?",
+   "a": "Ruud van Nistelrooy",
+   "p": 600,
+   "alt": [
+    "Van Nistelrooy"
+   ]
+  },
+  {
+   "q": "Which French striker won the 2008-09 Golden Boot with Chelsea?",
+   "a": "Nicolas Anelka",
+   "p": 600,
+   "alt": [
+    "Anelka"
+   ]
+  },
+  {
+   "q": "Which Bulgarian shared the 2010-11 Golden Boot with Carlos Tevez?",
+   "a": "Dimitar Berbatov",
+   "p": 600,
+   "alt": [
+    "Berbatov"
+   ]
+  },
+  {
+   "q": "Which Gabonese striker shared the 2018-19 Golden Boot with Salah and Mané?",
+   "a": "Pierre-Emerick Aubameyang",
+   "p": 600,
+   "alt": [
+    "Aubameyang"
+   ]
+  },
+  {
+   "q": "Which Leicester striker won the 2019-20 Golden Boot aged 33?",
+   "a": "Jamie Vardy",
+   "p": 600,
+   "alt": [
+    "Vardy"
+   ]
+  },
+  {
+   "q": "Which Liverpool goalkeeper scored a stoppage-time header at West Brom in May 2021?",
+   "a": "Alisson Becker",
+   "p": 600,
+   "alt": [
+    "Alisson"
+   ]
+  },
+  {
+   "q": "Which club beat Manchester United 6-1 at Old Trafford in October 2011?",
+   "a": "Manchester City",
+   "p": 600,
+   "alt": [
+    "Man City"
+   ]
+  },
+  {
+   "q": "Which club did Manchester United beat 8-2 at Old Trafford in August 2011?",
+   "a": "Arsenal",
+   "p": 600
+  },
+  {
+   "q": "In which season was VAR introduced to the Premier League?",
+   "a": "2019-20",
+   "p": 600,
+   "alt": [
+    "2019",
+    "2019/20"
+   ]
+  },
+  {
+   "q": "Which club plays its home games at Craven Cottage?",
+   "a": "Fulham",
+   "p": 600
+  },
+  {
+   "q": "Which club plays its home games at Turf Moor?",
+   "a": "Burnley",
+   "p": 600
+  },
+  {
+   "q": "Which club plays its home games at Carrow Road?",
+   "a": "Norwich City",
+   "p": 600,
+   "alt": [
+    "Norwich"
+   ]
+  },
+  {
+   "q": "Which club is nicknamed 'The Tractor Boys'?",
+   "a": "Ipswich Town",
+   "p": 600,
+   "alt": [
+    "Ipswich"
+   ]
+  },
+  {
+   "q": "What is the name of Everton's stadium at Bramley-Moore Dock, opened in 2025?",
+   "a": "Hill Dickinson Stadium",
+   "p": 600,
+   "alt": [
+    "Everton Stadium"
+   ]
+  }
+ ]
+}

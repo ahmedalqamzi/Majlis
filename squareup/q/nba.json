@@ -1,0 +1,803 @@
+{
+ "id": "nba",
+ "name": "NBA",
+ "questions": [
+  {
+   "q": "Which team did Michael Jordan win six championships with?",
+   "a": "Chicago Bulls",
+   "p": 200,
+   "alt": [
+    "Bulls"
+   ]
+  },
+  {
+   "q": "Which player is nicknamed 'King James'?",
+   "a": "LeBron James",
+   "p": 200,
+   "alt": [
+    "LeBron"
+   ]
+  },
+  {
+   "q": "Which Lakers legend was nicknamed 'The Black Mamba'?",
+   "a": "Kobe Bryant",
+   "p": 200,
+   "alt": [
+    "Kobe"
+   ]
+  },
+  {
+   "q": "What jersey number did Michael Jordan famously wear for the Bulls?",
+   "a": "23",
+   "p": 200
+  },
+  {
+   "q": "Which New York team plays at Madison Square Garden?",
+   "a": "New York Knicks",
+   "p": 200,
+   "alt": [
+    "Knicks"
+   ]
+  },
+  {
+   "q": "Which team won the 2016 title after coming back from 3-1 down in the Finals?",
+   "a": "Cleveland Cavaliers",
+   "p": 200,
+   "alt": [
+    "Cavaliers",
+    "Cavs"
+   ]
+  },
+  {
+   "q": "Which Warriors guard was the first unanimous MVP in 2016?",
+   "a": "Stephen Curry",
+   "p": 200,
+   "alt": [
+    "Steph Curry",
+    "Curry"
+   ]
+  },
+  {
+   "q": "What nickname was given to the 1992 US Olympic basketball team?",
+   "a": "The Dream Team",
+   "p": 200,
+   "alt": [
+    "Dream Team"
+   ]
+  },
+  {
+   "q": "How many teams are in the NBA?",
+   "a": "30",
+   "p": 200,
+   "alt": [
+    "Thirty"
+   ]
+  },
+  {
+   "q": "How many minutes long is each quarter of an NBA game?",
+   "a": "12",
+   "p": 200,
+   "alt": [
+    "Twelve"
+   ]
+  },
+  {
+   "q": "How many points is a shot from beyond the arc worth?",
+   "a": "3",
+   "p": 200,
+   "alt": [
+    "Three"
+   ]
+  },
+  {
+   "q": "Which team is the only NBA franchise based in Canada?",
+   "a": "Toronto Raptors",
+   "p": 200,
+   "alt": [
+    "Raptors"
+   ]
+  },
+  {
+   "q": "Which 2.16 m centre won three straight titles with the Lakers from 2000 to 2002 alongside Kobe?",
+   "a": "Shaquille O'Neal",
+   "p": 200,
+   "alt": [
+    "Shaq"
+   ]
+  },
+  {
+   "q": "Which Greek star is nicknamed 'The Greek Freak'?",
+   "a": "Giannis Antetokounmpo",
+   "p": 200,
+   "alt": [
+    "Giannis"
+   ]
+  },
+  {
+   "q": "Which Lakers point guard was nicknamed 'Magic'?",
+   "a": "Earvin Johnson",
+   "p": 200,
+   "alt": [
+    "Magic Johnson"
+   ]
+  },
+  {
+   "q": "Which Celtics forward was Magic Johnson's great 1980s rival?",
+   "a": "Larry Bird",
+   "p": 200,
+   "alt": [
+    "Bird"
+   ]
+  },
+  {
+   "q": "Which team did LeBron James join in 2010 in a TV special called 'The Decision'?",
+   "a": "Miami Heat",
+   "p": 200,
+   "alt": [
+    "Heat"
+   ]
+  },
+  {
+   "q": "Which Serbian centre is nicknamed 'The Joker'?",
+   "a": "Nikola Jokić",
+   "p": 200,
+   "alt": [
+    "Jokic"
+   ]
+  },
+  {
+   "q": "How many games are in a regular NBA season for each team?",
+   "a": "82",
+   "p": 200,
+   "alt": [
+    "Eighty-two"
+   ]
+  },
+  {
+   "q": "In a best-of-seven NBA Finals, how many wins are needed to take the title?",
+   "a": "4",
+   "p": 200,
+   "alt": [
+    "Four"
+   ]
+  },
+  {
+   "q": "Which team won the 2023 title, the first in its history?",
+   "a": "Denver Nuggets",
+   "p": 200,
+   "alt": [
+    "Nuggets"
+   ]
+  },
+  {
+   "q": "Which team beat the Indiana Pacers in seven games to win the 2025 title?",
+   "a": "Oklahoma City Thunder",
+   "p": 200,
+   "alt": [
+    "Thunder",
+    "OKC"
+   ]
+  },
+  {
+   "q": "Which team won the 2024 title, beating the Dallas Mavericks?",
+   "a": "Boston Celtics",
+   "p": 200,
+   "alt": [
+    "Celtics"
+   ]
+  },
+  {
+   "q": "Which team won the 2022 title by beating the Boston Celtics in the Finals?",
+   "a": "Golden State Warriors",
+   "p": 200,
+   "alt": [
+    "Warriors"
+   ]
+  },
+  {
+   "q": "Which Warriors guard formed the 'Splash Brothers' with Stephen Curry?",
+   "a": "Klay Thompson",
+   "p": 200,
+   "alt": [
+    "Klay"
+   ]
+  },
+  {
+   "q": "The 2020 documentary series 'The Last Dance' followed which team's 1997-98 season?",
+   "a": "Chicago Bulls",
+   "p": 200,
+   "alt": [
+    "Bulls"
+   ]
+  },
+  {
+   "q": "How many personal fouls does it take to foul out of an NBA game?",
+   "a": "6",
+   "p": 200,
+   "alt": [
+    "Six"
+   ]
+  },
+  {
+   "q": "Which Chinese centre was the first overall draft pick in 2002?",
+   "a": "Yao Ming",
+   "p": 200,
+   "alt": [
+    "Yao"
+   ]
+  },
+  {
+   "q": "Which Slovenian star was traded from Dallas to the Lakers in February 2025?",
+   "a": "Luka Dončić",
+   "p": 200,
+   "alt": [
+    "Luka Doncic",
+    "Luka"
+   ]
+  },
+  {
+   "q": "Which team won the 2019 title, the first won outside the United States?",
+   "a": "Toronto Raptors",
+   "p": 200,
+   "alt": [
+    "Raptors"
+   ]
+  },
+  {
+   "q": "Which Lakers centre was born Lew Alcindor?",
+   "a": "Kareem Abdul-Jabbar",
+   "p": 200,
+   "ar": "كريم عبد الجبار",
+   "alt": [
+    "Kareem"
+   ]
+  },
+  {
+   "q": "Which Abu Dhabi venue on Yas Island hosted the first NBA games in the UAE in 2022?",
+   "a": "Etihad Arena",
+   "p": 200,
+   "ar": "الاتحاد أرينا"
+  },
+  {
+   "q": "Which team picked LeBron James first overall in the 2003 draft?",
+   "a": "Cleveland Cavaliers",
+   "p": 200,
+   "alt": [
+    "Cavaliers",
+    "Cavs"
+   ]
+  },
+  {
+   "q": "What is the height of an NBA rim above the floor, to the nearest centimetre?",
+   "a": "305 cm",
+   "p": 200,
+   "alt": [
+    "3.05 m",
+    "3.05 metres"
+   ]
+  },
+  {
+   "q": "Which Spurs power forward was nicknamed 'The Big Fundamental'?",
+   "a": "Tim Duncan",
+   "p": 200,
+   "alt": [
+    "Duncan"
+   ]
+  },
+  {
+   "q": "Which forward was nicknamed 'The Mailman'?",
+   "a": "Karl Malone",
+   "p": 400,
+   "alt": [
+    "Malone"
+   ]
+  },
+  {
+   "q": "Which guard was nicknamed 'The Answer'?",
+   "a": "Allen Iverson",
+   "p": 400,
+   "alt": [
+    "Iverson",
+    "AI"
+   ]
+  },
+  {
+   "q": "Which Rockets centre was nicknamed 'The Dream'?",
+   "a": "Hakeem Olajuwon",
+   "p": 400,
+   "alt": [
+    "Olajuwon",
+    "Hakeem"
+   ]
+  },
+  {
+   "q": "Which Spurs centre was nicknamed 'The Admiral'?",
+   "a": "David Robinson",
+   "p": 400,
+   "alt": [
+    "Robinson"
+   ]
+  },
+  {
+   "q": "Which Bulls rebounder was nicknamed 'The Worm'?",
+   "a": "Dennis Rodman",
+   "p": 400,
+   "alt": [
+    "Rodman"
+   ]
+  },
+  {
+   "q": "Which Lakers legend is believed to be the silhouette on the NBA logo?",
+   "a": "Jerry West",
+   "p": 400,
+   "alt": [
+    "West"
+   ]
+  },
+  {
+   "q": "Which 76ers forward was known simply as 'Dr. J'?",
+   "a": "Julius Erving",
+   "p": 400,
+   "alt": [
+    "Erving",
+    "Dr J"
+   ]
+  },
+  {
+   "q": "Which team did Kobe Bryant score 81 points against in January 2006?",
+   "a": "Toronto Raptors",
+   "p": 400,
+   "alt": [
+    "Raptors"
+   ]
+  },
+  {
+   "q": "Which team picked Michael Jordan third overall in the 1984 draft?",
+   "a": "Chicago Bulls",
+   "p": 400,
+   "alt": [
+    "Bulls"
+   ]
+  },
+  {
+   "q": "Which Nigerian-born centre was picked first in 1984, ahead of Michael Jordan?",
+   "a": "Hakeem Olajuwon",
+   "p": 400,
+   "alt": [
+    "Olajuwon",
+    "Hakeem"
+   ]
+  },
+  {
+   "q": "Which team won back-to-back titles in 1994 and 1995 while Jordan was away?",
+   "a": "Houston Rockets",
+   "p": 400,
+   "alt": [
+    "Rockets"
+   ]
+  },
+  {
+   "q": "Which German forward led the Dallas Mavericks to the 2011 title?",
+   "a": "Dirk Nowitzki",
+   "p": 400,
+   "alt": [
+    "Dirk",
+    "Nowitzki"
+   ]
+  },
+  {
+   "q": "Which team was nicknamed the 'Bad Boys' while winning titles in 1989 and 1990?",
+   "a": "Detroit Pistons",
+   "p": 400,
+   "alt": [
+    "Pistons"
+   ]
+  },
+  {
+   "q": "What name was given to the Lakers' fast-break era of the 1980s?",
+   "a": "Showtime",
+   "p": 400
+  },
+  {
+   "q": "What was the 2015-16 Golden State Warriors' regular-season win-loss record?",
+   "a": "73-9",
+   "p": 400
+  },
+  {
+   "q": "What was the 1995-96 Chicago Bulls' regular-season win-loss record?",
+   "a": "72-10",
+   "p": 400
+  },
+  {
+   "q": "Which Bulls star won the 1996 and 1998 MVP awards?",
+   "a": "Michael Jordan",
+   "p": 400,
+   "alt": [
+    "Jordan",
+    "MJ"
+   ]
+  },
+  {
+   "q": "Which Raptors forward was Finals MVP in 2019?",
+   "a": "Kawhi Leonard",
+   "p": 400,
+   "alt": [
+    "Kawhi"
+   ]
+  },
+  {
+   "q": "Which Thunder guard won the MVP in 2025?",
+   "a": "Shai Gilgeous-Alexander",
+   "p": 400,
+   "alt": [
+    "SGA",
+    "Shai"
+   ]
+  },
+  {
+   "q": "Which Lakers star won his only MVP award in 2008?",
+   "a": "Kobe Bryant",
+   "p": 400,
+   "alt": [
+    "Kobe"
+   ]
+  },
+  {
+   "q": "Which 76ers guard won the 2001 MVP award?",
+   "a": "Allen Iverson",
+   "p": 400,
+   "alt": [
+    "Iverson"
+   ]
+  },
+  {
+   "q": "Which Bulls point guard won the 2011 MVP aged 22?",
+   "a": "Derrick Rose",
+   "p": 400,
+   "alt": [
+    "Rose"
+   ]
+  },
+  {
+   "q": "Which Thunder guard won the 2017 MVP while averaging a triple-double?",
+   "a": "Russell Westbrook",
+   "p": 400,
+   "alt": [
+    "Westbrook"
+   ]
+  },
+  {
+   "q": "Which 76ers centre won the 2023 MVP?",
+   "a": "Joel Embiid",
+   "p": 400,
+   "alt": [
+    "Embiid"
+   ]
+  },
+  {
+   "q": "Which team picked Stephen Curry seventh overall in 2009?",
+   "a": "Golden State Warriors",
+   "p": 400,
+   "alt": [
+    "Warriors"
+   ]
+  },
+  {
+   "q": "Which team drafted Victor Wembanyama first overall in 2023?",
+   "a": "San Antonio Spurs",
+   "p": 400,
+   "alt": [
+    "Spurs"
+   ]
+  },
+  {
+   "q": "Which team picked Zion Williamson first overall in 2019?",
+   "a": "New Orleans Pelicans",
+   "p": 400,
+   "alt": [
+    "Pelicans"
+   ]
+  },
+  {
+   "q": "Which Seattle franchise moved to become the Oklahoma City Thunder in 2008?",
+   "a": "SuperSonics",
+   "p": 400,
+   "alt": [
+    "Seattle SuperSonics",
+    "Sonics"
+   ]
+  },
+  {
+   "q": "Which coach won 11 NBA titles with the Bulls and Lakers?",
+   "a": "Phil Jackson",
+   "p": 400,
+   "alt": [
+    "Jackson"
+   ]
+  },
+  {
+   "q": "Which Celtics centre won 11 championships as a player from 1957 to 1969?",
+   "a": "Bill Russell",
+   "p": 400,
+   "alt": [
+    "Russell"
+   ]
+  },
+  {
+   "q": "Whose career points record did LeBron James break in February 2023?",
+   "a": "Kareem Abdul-Jabbar",
+   "p": 400,
+   "ar": "كريم عبد الجبار",
+   "alt": [
+    "Kareem"
+   ]
+  },
+  {
+   "q": "Which Heat guard hit a famous corner three to force overtime in Game 6 of the 2013 Finals?",
+   "a": "Ray Allen",
+   "p": 400,
+   "alt": [
+    "Allen"
+   ]
+  },
+  {
+   "q": "Which country did the Dream Team beat in the 1992 Olympic final?",
+   "a": "Croatia",
+   "p": 400
+  },
+  {
+   "q": "What is the name of the NBA championship trophy?",
+   "a": "Larry O'Brien Trophy",
+   "p": 400,
+   "alt": [
+    "Larry O'Brien"
+   ]
+  },
+  {
+   "q": "Which San Antonio coach won five titles before retiring in 2025?",
+   "a": "Gregg Popovich",
+   "p": 400,
+   "alt": [
+    "Popovich",
+    "Pop"
+   ]
+  },
+  {
+   "q": "Who coached the 1992 Dream Team?",
+   "a": "Chuck Daly",
+   "p": 600,
+   "alt": [
+    "Daly"
+   ]
+  },
+  {
+   "q": "Who was the only college player on the 1992 Dream Team?",
+   "a": "Christian Laettner",
+   "p": 600,
+   "alt": [
+    "Laettner"
+   ]
+  },
+  {
+   "q": "Which team originally drafted Kobe Bryant 13th in 1996 before trading him to the Lakers?",
+   "a": "Charlotte Hornets",
+   "p": 600,
+   "alt": [
+    "Hornets"
+   ]
+  },
+  {
+   "q": "Which team drafted Dirk Nowitzki ninth in 1998 before trading him to Dallas?",
+   "a": "Milwaukee Bucks",
+   "p": 600,
+   "alt": [
+    "Bucks"
+   ]
+  },
+  {
+   "q": "In which round of the 2014 draft were the Denver Nuggets able to pick Nikola Jokić?",
+   "a": "Second round",
+   "p": 600,
+   "alt": [
+    "Second",
+    "41st pick"
+   ]
+  },
+  {
+   "q": "Which player was picked second in 1984, between Olajuwon and Jordan?",
+   "a": "Sam Bowie",
+   "p": 600,
+   "alt": [
+    "Bowie"
+   ]
+  },
+  {
+   "q": "Which Canadian forward was a surprise first overall pick in 2013?",
+   "a": "Anthony Bennett",
+   "p": 600,
+   "alt": [
+    "Bennett"
+   ]
+  },
+  {
+   "q": "Which Bulls guard's 1989 buzzer-beater over Craig Ehlo is known as 'The Shot'?",
+   "a": "Michael Jordan",
+   "p": 600,
+   "alt": [
+    "Jordan",
+    "MJ"
+   ]
+  },
+  {
+   "q": "Which Jazz forward won the MVP in 1997 and 1999?",
+   "a": "Karl Malone",
+   "p": 600,
+   "alt": [
+    "Malone"
+   ]
+  },
+  {
+   "q": "Which Suns forward won the 1993 MVP?",
+   "a": "Charles Barkley",
+   "p": 600,
+   "alt": [
+    "Barkley"
+   ]
+  },
+  {
+   "q": "Which Canadian point guard won back-to-back MVPs in 2005 and 2006?",
+   "a": "Steve Nash",
+   "p": 600,
+   "alt": [
+    "Nash"
+   ]
+  },
+  {
+   "q": "Which Timberwolves forward won the 2004 MVP?",
+   "a": "Kevin Garnett",
+   "p": 600,
+   "alt": [
+    "Garnett",
+    "KG"
+   ]
+  },
+  {
+   "q": "Which Rockets guard won the 2018 MVP?",
+   "a": "James Harden",
+   "p": 600,
+   "alt": [
+    "Harden"
+   ]
+  },
+  {
+   "q": "Which Bucks and Lakers centre won six MVP awards between 1971 and 1980?",
+   "a": "Kareem Abdul-Jabbar",
+   "p": 600,
+   "ar": "كريم عبد الجبار",
+   "alt": [
+    "Kareem"
+   ]
+  },
+  {
+   "q": "Which team won the 2004 title by beating the heavily favoured Lakers?",
+   "a": "Detroit Pistons",
+   "p": 600,
+   "alt": [
+    "Pistons"
+   ]
+  },
+  {
+   "q": "Which team won the 2021 title, its first in 50 years?",
+   "a": "Milwaukee Bucks",
+   "p": 600,
+   "alt": [
+    "Bucks"
+   ]
+  },
+  {
+   "q": "Which team won the 1983 title with Moses Malone?",
+   "a": "Philadelphia 76ers",
+   "p": 600,
+   "alt": [
+    "76ers",
+    "Sixers"
+   ]
+  },
+  {
+   "q": "Which city did the Grizzlies leave in 2001 to move to Memphis?",
+   "a": "Vancouver",
+   "p": 600
+  },
+  {
+   "q": "In which city were the Lakers based before moving to Los Angeles in 1960?",
+   "a": "Minneapolis",
+   "p": 600
+  },
+  {
+   "q": "Which Celtics coach was famous for lighting a victory cigar?",
+   "a": "Red Auerbach",
+   "p": 600,
+   "alt": [
+    "Auerbach"
+   ]
+  },
+  {
+   "q": "Which forward won seven championships with three teams and was nicknamed 'Big Shot Bob'?",
+   "a": "Robert Horry",
+   "p": 600,
+   "alt": [
+    "Horry"
+   ]
+  },
+  {
+   "q": "What name is given to the 2004 brawl between the Pacers, Pistons and fans near Detroit?",
+   "a": "Malice at the Palace",
+   "p": 600
+  },
+  {
+   "q": "Which two teams played the first NBA games in the UAE in October 2022?",
+   "a": "Atlanta Hawks and Milwaukee Bucks",
+   "p": 600,
+   "alt": [
+    "Hawks and Bucks",
+    "Bucks and Hawks"
+   ]
+  },
+  {
+   "q": "Which team faced the Boston Celtics in the 2024 NBA Abu Dhabi Games?",
+   "a": "Denver Nuggets",
+   "p": 600,
+   "alt": [
+    "Nuggets"
+   ]
+  },
+  {
+   "q": "How many seconds does an attacking team have to bring the ball past half-court?",
+   "a": "8",
+   "p": 600,
+   "alt": [
+    "Eight"
+   ]
+  },
+  {
+   "q": "How many seconds may an attacking player stay in the key (the lane) at a time?",
+   "a": "3",
+   "p": 600,
+   "alt": [
+    "Three"
+   ]
+  },
+  {
+   "q": "In which season did the NBA introduce the three-point line?",
+   "a": "1979-80",
+   "p": 600,
+   "alt": [
+    "1979"
+   ]
+  },
+  {
+   "q": "Which famously short Hawks guard won the 1986 Slam Dunk Contest?",
+   "a": "Spud Webb",
+   "p": 600,
+   "alt": [
+    "Webb"
+   ]
+  },
+  {
+   "q": "Which Raptors player won the 2000 Slam Dunk Contest?",
+   "a": "Vince Carter",
+   "p": 600,
+   "alt": [
+    "Carter"
+   ]
+  },
+  {
+   "q": "Which minor-league baseball team did Michael Jordan play for in 1994?",
+   "a": "Birmingham Barons",
+   "p": 600,
+   "alt": [
+    "Barons"
+   ]
+  }
+ ]
+}
