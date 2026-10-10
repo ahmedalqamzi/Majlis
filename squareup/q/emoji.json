@@ -1,0 +1,2196 @@
+{
+ "id": "emoji",
+ "name": "Emoji Guess",
+ "questions": [
+  {
+   "q": "Movie",
+   "emoji": "🦁👑",
+   "a": "The Lion King",
+   "p": 200
+  },
+  {
+   "q": "Movie",
+   "emoji": "❄️👸⛄",
+   "a": "Frozen",
+   "p": 200
+  },
+  {
+   "q": "Movie",
+   "emoji": "🚢🧊💔",
+   "a": "Titanic",
+   "p": 200
+  },
+  {
+   "q": "Movie",
+   "emoji": "🧸🤠🚀",
+   "a": "Toy Story",
+   "p": 200
+  },
+  {
+   "q": "Movie",
+   "emoji": "🐠🔍",
+   "a": "Finding Nemo",
+   "p": 200
+  },
+  {
+   "q": "Movie",
+   "emoji": "🦖🏝️🚙",
+   "a": "Jurassic Park",
+   "p": 200,
+   "alt": [
+    "Jurassic World"
+   ]
+  },
+  {
+   "q": "Movie",
+   "emoji": "🐼🥋",
+   "a": "Kung Fu Panda",
+   "p": 200
+  },
+  {
+   "q": "Movie",
+   "emoji": "🏠🎈👴",
+   "a": "Up",
+   "p": 200
+  },
+  {
+   "q": "Movie",
+   "emoji": "🐀👨‍🍳",
+   "a": "Ratatouille",
+   "p": 200
+  },
+  {
+   "q": "Movie",
+   "emoji": "🍫🏭🎫",
+   "a": "Charlie and the Chocolate Factory",
+   "p": 200,
+   "alt": [
+    "Willy Wonka",
+    "Wonka"
+   ]
+  },
+  {
+   "q": "Movie",
+   "emoji": "🧙‍♂️💍🌋",
+   "a": "The Lord of the Rings",
+   "p": 200,
+   "alt": [
+    "Lord of the Rings"
+   ]
+  },
+  {
+   "q": "Movie",
+   "emoji": "⚡👓🧙",
+   "a": "Harry Potter",
+   "p": 200
+  },
+  {
+   "q": "Movie",
+   "emoji": "👽📞🏠",
+   "a": "E.T. the Extra-Terrestrial",
+   "p": 200,
+   "alt": [
+    "E.T.",
+    "ET"
+   ]
+  },
+  {
+   "q": "Movie",
+   "emoji": "👸👠🎃",
+   "a": "Cinderella",
+   "p": 200
+  },
+  {
+   "q": "Movie",
+   "emoji": "🧊🐿️🌰",
+   "a": "Ice Age",
+   "p": 200
+  },
+  {
+   "q": "Movie",
+   "emoji": "💚👹🏰",
+   "a": "Shrek",
+   "p": 200
+  },
+  {
+   "q": "Movie",
+   "emoji": "🏠👦🎄",
+   "a": "Home Alone",
+   "p": 200
+  },
+  {
+   "q": "Movie",
+   "emoji": "1️⃣0️⃣1️⃣🐶",
+   "a": "101 Dalmatians",
+   "p": 200,
+   "alt": [
+    "One Hundred and One Dalmatians"
+   ]
+  },
+  {
+   "q": "Movie",
+   "emoji": "🏎️💨😡",
+   "a": "Fast & Furious",
+   "p": 200,
+   "alt": [
+    "The Fast and the Furious",
+    "Fast and Furious"
+   ]
+  },
+  {
+   "q": "Movie",
+   "emoji": "🔙🔮🚗",
+   "a": "Back to the Future",
+   "p": 200
+  },
+  {
+   "q": "Country",
+   "emoji": "🗼🥐🧀",
+   "a": "France",
+   "p": 200
+  },
+  {
+   "q": "Country",
+   "emoji": "🍕🤌👢",
+   "a": "Italy",
+   "p": 200
+  },
+  {
+   "q": "Country",
+   "emoji": "🐨🦘",
+   "a": "Australia",
+   "p": 200
+  },
+  {
+   "q": "Country",
+   "emoji": "🍣🗻🎎",
+   "a": "Japan",
+   "p": 200
+  },
+  {
+   "q": "Country",
+   "emoji": "🐼🧧🥢",
+   "a": "China",
+   "p": 200
+  },
+  {
+   "q": "Country",
+   "emoji": "🏔️🧀⌚🍫",
+   "a": "Switzerland",
+   "p": 200
+  },
+  {
+   "q": "City",
+   "emoji": "🍎🗽🚕",
+   "a": "New York",
+   "p": 200,
+   "alt": [
+    "New York City",
+    "NYC"
+   ]
+  },
+  {
+   "q": "City",
+   "emoji": "🗼❤️🥖",
+   "a": "Paris",
+   "p": 200
+  },
+  {
+   "q": "City",
+   "emoji": "🚌☔💂",
+   "a": "London",
+   "p": 200
+  },
+  {
+   "q": "Landmark",
+   "emoji": "🧱🧱🐉",
+   "a": "Great Wall of China",
+   "p": 200,
+   "alt": [
+    "The Great Wall"
+   ]
+  },
+  {
+   "q": "Landmark",
+   "emoji": "🔺🔺🔺🐪",
+   "a": "Pyramids of Giza",
+   "p": 200,
+   "alt": [
+    "The Pyramids",
+    "Great Pyramid of Giza"
+   ]
+  },
+  {
+   "q": "UAE place",
+   "emoji": "🏙️⬆️🔝",
+   "a": "Burj Khalifa",
+   "p": 200,
+   "ar": "برج خليفة"
+  },
+  {
+   "q": "UAE place",
+   "emoji": "⛵🏨🌊",
+   "a": "Burj Al Arab",
+   "p": 200,
+   "ar": "برج العرب"
+  },
+  {
+   "q": "UAE place",
+   "emoji": "🌴🏝️🏨",
+   "a": "Palm Jumeirah",
+   "p": 200,
+   "alt": [
+    "The Palm"
+   ],
+   "ar": "نخلة جميرا"
+  },
+  {
+   "q": "UAE place",
+   "emoji": "🖼️🏙️",
+   "a": "Dubai Frame",
+   "p": 200,
+   "ar": "برواز دبي"
+  },
+  {
+   "q": "UAE place",
+   "emoji": "⛷️❄️🏬",
+   "a": "Ski Dubai",
+   "p": 200,
+   "ar": "سكي دبي"
+  },
+  {
+   "q": "UAE place",
+   "emoji": "🌸🌼🌺🌷",
+   "a": "Dubai Miracle Garden",
+   "p": 200,
+   "alt": [
+    "Miracle Garden"
+   ],
+   "ar": "حديقة دبي المعجزة"
+  },
+  {
+   "q": "UAE place",
+   "emoji": "🌍🏘️🎪",
+   "a": "Global Village",
+   "p": 200,
+   "ar": "القرية العالمية"
+  },
+  {
+   "q": "UAE place",
+   "emoji": "🔮🏛️",
+   "a": "Museum of the Future",
+   "p": 200,
+   "ar": "متحف المستقبل"
+  },
+  {
+   "q": "UAE place",
+   "emoji": "⛲🎶🌃",
+   "a": "The Dubai Fountain",
+   "p": 200,
+   "alt": [
+    "Dubai Fountain"
+   ],
+   "ar": "نافورة دبي"
+  },
+  {
+   "q": "Food",
+   "emoji": "🍫🍪",
+   "a": "Chocolate chip cookie",
+   "p": 200,
+   "alt": [
+    "Chocolate chip cookies"
+   ]
+  },
+  {
+   "q": "Food",
+   "emoji": "🧀🎂",
+   "a": "Cheesecake",
+   "p": 200
+  },
+  {
+   "q": "Food",
+   "emoji": "🍎🥧",
+   "a": "Apple pie",
+   "p": 200
+  },
+  {
+   "q": "Food",
+   "emoji": "🐟🍟",
+   "a": "Fish and chips",
+   "p": 200
+  },
+  {
+   "q": "Arabic food",
+   "emoji": "🌯🥩🔥",
+   "a": "Shawarma",
+   "p": 200,
+   "alt": [
+    "Shawerma"
+   ],
+   "ar": "شاورما"
+  },
+  {
+   "q": "Arabic food",
+   "emoji": "🧆🥙",
+   "a": "Falafel",
+   "p": 200,
+   "alt": [
+    "Falafel wrap"
+   ],
+   "ar": "فلافل"
+  },
+  {
+   "q": "Song",
+   "emoji": "😊👒",
+   "a": "Happy",
+   "p": 200
+  },
+  {
+   "q": "Song",
+   "emoji": "🧟🕺🌕",
+   "a": "Thriller",
+   "p": 200
+  },
+  {
+   "q": "Song",
+   "emoji": "👶🦈",
+   "a": "Baby Shark",
+   "p": 200
+  },
+  {
+   "q": "Song",
+   "emoji": "🐎🕺😎",
+   "a": "Gangnam Style",
+   "p": 200
+  },
+  {
+   "q": "Song",
+   "emoji": "👁️🐯",
+   "a": "Eye of the Tiger",
+   "p": 200
+  },
+  {
+   "q": "Brand",
+   "emoji": "✔️👟",
+   "a": "Nike",
+   "p": 200
+  },
+  {
+   "q": "Brand",
+   "emoji": "🤡🍟",
+   "a": "McDonald's",
+   "p": 200,
+   "alt": [
+    "McDonalds"
+   ]
+  },
+  {
+   "q": "Brand",
+   "emoji": "🔴🐂🥤",
+   "a": "Red Bull",
+   "p": 200
+  },
+  {
+   "q": "Brand",
+   "emoji": "😂🐄🧀",
+   "a": "The Laughing Cow",
+   "p": 200,
+   "alt": [
+    "Laughing Cow",
+    "La Vache qui rit"
+   ]
+  },
+  {
+   "q": "Brand",
+   "emoji": "🥚🍫🎁",
+   "a": "Kinder Surprise",
+   "p": 200,
+   "alt": [
+    "Kinder Egg",
+    "Kinder"
+   ]
+  },
+  {
+   "q": "App",
+   "emoji": "👻📸",
+   "a": "Snapchat",
+   "p": 200
+  },
+  {
+   "q": "Console",
+   "emoji": "🔺⭕❌🟪",
+   "a": "PlayStation",
+   "p": 200
+  },
+  {
+   "q": "Toy",
+   "emoji": "🧱🟥🟦🟨",
+   "a": "LEGO",
+   "p": 200,
+   "alt": [
+    "Lego"
+   ]
+  },
+  {
+   "q": "Video game",
+   "emoji": "🍄👨‍🔧⭐",
+   "a": "Super Mario Bros.",
+   "p": 200,
+   "alt": [
+    "Super Mario",
+    "Mario"
+   ]
+  },
+  {
+   "q": "Video game",
+   "emoji": "🦔💨💍",
+   "a": "Sonic the Hedgehog",
+   "p": 200,
+   "alt": [
+    "Sonic"
+   ]
+  },
+  {
+   "q": "Video game",
+   "emoji": "⛏️🧱🧟",
+   "a": "Minecraft",
+   "p": 200
+  },
+  {
+   "q": "Video game",
+   "emoji": "🟡👻🍒",
+   "a": "Pac-Man",
+   "p": 200
+  },
+  {
+   "q": "Video game",
+   "emoji": "🐦😡🐷",
+   "a": "Angry Birds",
+   "p": 200
+  },
+  {
+   "q": "Video game",
+   "emoji": "🍉🔪🥷",
+   "a": "Fruit Ninja",
+   "p": 200
+  },
+  {
+   "q": "Video game",
+   "emoji": "🌻🆚🧟",
+   "a": "Plants vs. Zombies",
+   "p": 200,
+   "alt": [
+    "Plants vs Zombies"
+   ]
+  },
+  {
+   "q": "Video game",
+   "emoji": "🏎️🍌🐢",
+   "a": "Mario Kart",
+   "p": 200
+  },
+  {
+   "q": "Video game",
+   "emoji": "🚀⚽🚗",
+   "a": "Rocket League",
+   "p": 200
+  },
+  {
+   "q": "Video game",
+   "emoji": "👨‍🚀🔪🚀",
+   "a": "Among Us",
+   "p": 200
+  },
+  {
+   "q": "Video game",
+   "emoji": "⚡🐭🔴⚪",
+   "a": "Pokémon",
+   "p": 200,
+   "alt": [
+    "Pokemon"
+   ]
+  },
+  {
+   "q": "Anime",
+   "emoji": "🍥🍜🦊",
+   "a": "Naruto",
+   "p": 200
+  },
+  {
+   "q": "Anime",
+   "emoji": "1️⃣🧩👒",
+   "a": "One Piece",
+   "p": 200
+  },
+  {
+   "q": "Anime",
+   "emoji": "📓💀🍎",
+   "a": "Death Note",
+   "p": 200
+  },
+  {
+   "q": "Anime",
+   "emoji": "1️⃣👊👨‍🦲",
+   "a": "One-Punch Man",
+   "p": 200,
+   "alt": [
+    "One Punch Man"
+   ]
+  },
+  {
+   "q": "Anime",
+   "emoji": "🐱🤖🔔",
+   "a": "Doraemon",
+   "p": 200
+  },
+  {
+   "q": "Cartoon",
+   "emoji": "🧽👖",
+   "a": "SpongeBob SquarePants",
+   "p": 200,
+   "alt": [
+    "SpongeBob"
+   ]
+  },
+  {
+   "q": "Cartoon",
+   "emoji": "🐻🍯",
+   "a": "Winnie the Pooh",
+   "p": 200,
+   "alt": [
+    "Pooh"
+   ]
+  },
+  {
+   "q": "Cartoon",
+   "emoji": "🐱🐭",
+   "a": "Tom and Jerry",
+   "p": 200
+  },
+  {
+   "q": "Character",
+   "emoji": "🤥👃",
+   "a": "Pinocchio",
+   "p": 200
+  },
+  {
+   "q": "TV show",
+   "emoji": "👑🪑🐉",
+   "a": "Game of Thrones",
+   "p": 200
+  },
+  {
+   "q": "TV show",
+   "emoji": "🦑🎮",
+   "a": "Squid Game",
+   "p": 200
+  },
+  {
+   "q": "TV show",
+   "emoji": "👫👫☕",
+   "a": "Friends",
+   "p": 200
+  },
+  {
+   "q": "Superhero",
+   "emoji": "🕷️👨",
+   "a": "Spider-Man",
+   "p": 200,
+   "alt": [
+    "Spiderman"
+   ]
+  },
+  {
+   "q": "Superhero",
+   "emoji": "🦇👨",
+   "a": "Batman",
+   "p": 200
+  },
+  {
+   "q": "Superhero",
+   "emoji": "🟢💪😡",
+   "a": "Hulk",
+   "p": 200,
+   "alt": [
+    "The Hulk",
+    "Incredible Hulk"
+   ]
+  },
+  {
+   "q": "Supervillain",
+   "emoji": "🃏🤡",
+   "a": "Joker",
+   "p": 200,
+   "alt": [
+    "The Joker"
+   ]
+  },
+  {
+   "q": "Phrase",
+   "emoji": "🌧️🐱🐶",
+   "a": "Raining cats and dogs",
+   "p": 200,
+   "alt": [
+    "It's raining cats and dogs"
+   ]
+  },
+  {
+   "q": "Phrase",
+   "emoji": "🐔🥚❓",
+   "a": "Which came first, the chicken or the egg?",
+   "p": 200,
+   "alt": [
+    "Chicken or the egg",
+    "The chicken or the egg"
+   ]
+  },
+  {
+   "q": "Phrase",
+   "emoji": "🙈🙉🙊",
+   "a": "See no evil, hear no evil, speak no evil",
+   "p": 200
+  },
+  {
+   "q": "Word",
+   "emoji": "☀️🌻",
+   "a": "Sunflower",
+   "p": 200
+  },
+  {
+   "q": "Word",
+   "emoji": "❄️⚽",
+   "a": "Snowball",
+   "p": 200
+  },
+  {
+   "q": "Word",
+   "emoji": "🌧️🎀",
+   "a": "Rainbow",
+   "p": 200
+  },
+  {
+   "q": "Word",
+   "emoji": "☀️👓",
+   "a": "Sunglasses",
+   "p": 200
+  },
+  {
+   "q": "Word",
+   "emoji": "🌳🏠",
+   "a": "Treehouse",
+   "p": 200,
+   "alt": [
+    "Tree house"
+   ]
+  },
+  {
+   "q": "Word",
+   "emoji": "🐄👦",
+   "a": "Cowboy",
+   "p": 200
+  },
+  {
+   "q": "Board game",
+   "emoji": "🐍🪜🎲",
+   "a": "Snakes and Ladders",
+   "p": 200
+  },
+  {
+   "q": "Board game",
+   "emoji": "🏠💰🎩",
+   "a": "Monopoly",
+   "p": 200
+  },
+  {
+   "q": "Board game",
+   "emoji": "🧱🗼😬",
+   "a": "Jenga",
+   "p": 200
+  },
+  {
+   "q": "Board game",
+   "emoji": "🎲🔴🟡🟢🔵",
+   "a": "Ludo",
+   "p": 200
+  },
+  {
+   "q": "Animal",
+   "emoji": "🐟⭐",
+   "a": "Starfish",
+   "p": 200
+  },
+  {
+   "q": "Animal",
+   "emoji": "🐴🌊",
+   "a": "Seahorse",
+   "p": 200,
+   "alt": [
+    "Sea horse"
+   ]
+  },
+  {
+   "q": "Animal",
+   "emoji": "🦈🔨",
+   "a": "Hammerhead shark",
+   "p": 200,
+   "alt": [
+    "Hammerhead"
+   ]
+  },
+  {
+   "q": "Sport",
+   "emoji": "🐫🏃💨",
+   "a": "Camel racing",
+   "p": 200,
+   "ar": "سباق الهجن"
+  },
+  {
+   "q": "Arabic word",
+   "emoji": "👋😃",
+   "a": "Marhaba",
+   "p": 200,
+   "alt": [
+    "Marhaban"
+   ],
+   "ar": "مرحبا"
+  },
+  {
+   "q": "Emirati tradition",
+   "emoji": "🖐️🌿🎨",
+   "a": "Henna",
+   "p": 200,
+   "alt": [
+    "Hinna"
+   ],
+   "ar": "حناء"
+  },
+  {
+   "q": "Movie",
+   "emoji": "🕶️💊🐇",
+   "a": "The Matrix",
+   "p": 400,
+   "alt": [
+    "Matrix"
+   ]
+  },
+  {
+   "q": "Movie",
+   "emoji": "🍌💛👓",
+   "a": "Minions",
+   "p": 400
+  },
+  {
+   "q": "Movie",
+   "emoji": "🧒🐉🛡️",
+   "a": "How to Train Your Dragon",
+   "p": 400
+  },
+  {
+   "q": "Movie",
+   "emoji": "🌹👸👹",
+   "a": "Beauty and the Beast",
+   "p": 400
+  },
+  {
+   "q": "Movie",
+   "emoji": "💀🎸🌼",
+   "a": "Coco",
+   "p": 400
+  },
+  {
+   "q": "Movie",
+   "emoji": "🌊🛶👧",
+   "a": "Moana",
+   "p": 400
+  },
+  {
+   "q": "Movie",
+   "emoji": "🧠😡😢😄",
+   "a": "Inside Out",
+   "p": 400
+  },
+  {
+   "q": "Movie",
+   "emoji": "🌪️👠🦁",
+   "a": "The Wizard of Oz",
+   "p": 400,
+   "alt": [
+    "Wizard of Oz"
+   ]
+  },
+  {
+   "q": "Movie",
+   "emoji": "🦊🐰🚓",
+   "a": "Zootopia",
+   "p": 400,
+   "alt": [
+    "Zootropolis"
+   ]
+  },
+  {
+   "q": "Movie",
+   "emoji": "🏹👧🔥",
+   "a": "The Hunger Games",
+   "p": 400,
+   "alt": [
+    "Hunger Games"
+   ]
+  },
+  {
+   "q": "Movie",
+   "emoji": "☠️⛵🏝️",
+   "a": "Pirates of the Caribbean",
+   "p": 400
+  },
+  {
+   "q": "Movie",
+   "emoji": "🗡️🏟️🦁",
+   "a": "Gladiator",
+   "p": 400
+  },
+  {
+   "q": "Movie",
+   "emoji": "🐻🧳🍊",
+   "a": "Paddington",
+   "p": 400
+  },
+  {
+   "q": "Movie",
+   "emoji": "🗡️👧🐉",
+   "a": "Mulan",
+   "p": 400
+  },
+  {
+   "q": "Movie",
+   "emoji": "💀🎃🎄",
+   "a": "The Nightmare Before Christmas",
+   "p": 400,
+   "alt": [
+    "Nightmare Before Christmas"
+   ]
+  },
+  {
+   "q": "Movie",
+   "emoji": "👹🚪😱",
+   "a": "Monsters, Inc.",
+   "p": 400,
+   "alt": [
+    "Monsters Inc"
+   ]
+  },
+  {
+   "q": "Country",
+   "emoji": "🦃🧿",
+   "a": "Turkey",
+   "p": 600,
+   "alt": [
+    "Türkiye",
+    "Turkiye"
+   ]
+  },
+  {
+   "q": "Country",
+   "emoji": "🥝🐑🏉",
+   "a": "New Zealand",
+   "p": 400
+  },
+  {
+   "q": "Country",
+   "emoji": "🧊🏝️",
+   "a": "Iceland",
+   "p": 600
+  },
+  {
+   "q": "Country",
+   "emoji": "🌲🥙🏔️",
+   "a": "Lebanon",
+   "p": 400,
+   "ar": "لبنان"
+  },
+  {
+   "q": "City",
+   "emoji": "🎭🌉🐨",
+   "a": "Sydney",
+   "p": 400
+  },
+  {
+   "q": "City",
+   "emoji": "🦁🐟🏙️",
+   "a": "Singapore",
+   "p": 400
+  },
+  {
+   "q": "City",
+   "emoji": "🕌🌉🐈",
+   "a": "Istanbul",
+   "p": 400
+  },
+  {
+   "q": "City",
+   "emoji": "🛶🎭🌊",
+   "a": "Venice",
+   "p": 400
+  },
+  {
+   "q": "Landmark",
+   "emoji": "🗼😬↘️",
+   "a": "Leaning Tower of Pisa",
+   "p": 400,
+   "alt": [
+    "Tower of Pisa"
+   ]
+  },
+  {
+   "q": "Landmark",
+   "emoji": "🌹🏜️🏛️",
+   "a": "Petra",
+   "p": 600,
+   "ar": "البتراء"
+  },
+  {
+   "q": "UAE place",
+   "emoji": "🏎️🏝️🎢",
+   "a": "Yas Island",
+   "p": 400,
+   "ar": "جزيرة ياس"
+  },
+  {
+   "q": "UAE place",
+   "emoji": "🖼️🏛️🌊",
+   "a": "Louvre Abu Dhabi",
+   "p": 400,
+   "ar": "اللوفر أبوظبي"
+  },
+  {
+   "q": "UAE place",
+   "emoji": "🛍️🦈🏬",
+   "a": "The Dubai Mall",
+   "p": 400,
+   "alt": [
+    "Dubai Mall"
+   ],
+   "ar": "دبي مول"
+  },
+  {
+   "q": "UAE place",
+   "emoji": "🔱🏨🌴",
+   "a": "Atlantis The Palm",
+   "p": 400,
+   "alt": [
+    "Atlantis"
+   ],
+   "ar": "أتلانتس النخلة"
+  },
+  {
+   "q": "Food",
+   "emoji": "🧈🐔",
+   "a": "Butter chicken",
+   "p": 400
+  },
+  {
+   "q": "Food",
+   "emoji": "🗼🍞",
+   "a": "French toast",
+   "p": 400
+  },
+  {
+   "q": "Food",
+   "emoji": "🔥🐶",
+   "a": "Hot dog",
+   "p": 400
+  },
+  {
+   "q": "Drink",
+   "emoji": "🥛🍵🌿",
+   "a": "Karak",
+   "p": 400,
+   "alt": [
+    "Karak chai",
+    "Karak tea"
+   ],
+   "ar": "كرك"
+  },
+  {
+   "q": "Arabic food",
+   "emoji": "🍩🍯🌙",
+   "a": "Luqaimat",
+   "p": 400,
+   "alt": [
+    "Lgaimat",
+    "Legaimat"
+   ],
+   "ar": "لقيمات"
+  },
+  {
+   "q": "Arabic food",
+   "emoji": "🔺🥟",
+   "a": "Samboosa",
+   "p": 400,
+   "alt": [
+    "Sambusa",
+    "Samosa"
+   ],
+   "ar": "سمبوسة"
+  },
+  {
+   "q": "Arabic food",
+   "emoji": "🍕🌿",
+   "a": "Manakish",
+   "p": 400,
+   "alt": [
+    "Manaeesh",
+    "Manousheh",
+    "Za'atar manakish"
+   ],
+   "ar": "مناقيش"
+  },
+  {
+   "q": "Gulf tradition",
+   "emoji": "☕🌴",
+   "a": "Gahwa",
+   "p": 400,
+   "alt": [
+    "Arabic coffee",
+    "Qahwa"
+   ],
+   "ar": "قهوة"
+  },
+  {
+   "q": "Gulf tradition",
+   "emoji": "🛋️☕🗣️",
+   "a": "Majlis",
+   "p": 400,
+   "ar": "مجلس"
+  },
+  {
+   "q": "Gulf item",
+   "emoji": "💨🌸🔥",
+   "a": "Bakhoor",
+   "p": 400,
+   "alt": [
+    "Bukhoor",
+    "Bakhour"
+   ],
+   "ar": "بخور"
+  },
+  {
+   "q": "Arabic word",
+   "emoji": "🎉🎊",
+   "a": "Mabrook",
+   "p": 400,
+   "alt": [
+    "Mabrouk"
+   ],
+   "ar": "مبروك"
+  },
+  {
+   "q": "Arabic word",
+   "emoji": "🏃💨⏰",
+   "a": "Yalla",
+   "p": 400,
+   "alt": [
+    "Yallah"
+   ],
+   "ar": "يلا"
+  },
+  {
+   "q": "Arabic word",
+   "emoji": "✋🔚",
+   "a": "Khalas",
+   "p": 400,
+   "alt": [
+    "Khalaas"
+   ],
+   "ar": "خلاص"
+  },
+  {
+   "q": "Arabic phrase",
+   "emoji": "🐢🐢",
+   "a": "Shwayya shwayya",
+   "p": 400,
+   "alt": [
+    "Shway shway",
+    "Shwaya shwaya",
+    "Shoi shoi"
+   ],
+   "ar": "شوي شوي"
+  },
+  {
+   "q": "Sport",
+   "emoji": "🦅🎯",
+   "a": "Falconry",
+   "p": 400,
+   "ar": "الصيد بالصقور"
+  },
+  {
+   "q": "Song",
+   "emoji": "👋❄️👸",
+   "a": "Let It Go",
+   "p": 400
+  },
+  {
+   "q": "Song",
+   "emoji": "🎆💥",
+   "a": "Firework",
+   "p": 400
+  },
+  {
+   "q": "Song",
+   "emoji": "🙈💡💡",
+   "a": "Blinding Lights",
+   "p": 400
+  },
+  {
+   "q": "Song",
+   "emoji": "😈👨",
+   "a": "Bad Guy",
+   "p": 400
+  },
+  {
+   "q": "Song",
+   "emoji": "⚽🌍💃",
+   "a": "Waka Waka",
+   "p": 400,
+   "alt": [
+    "Waka Waka (This Time for Africa)"
+   ]
+  },
+  {
+   "q": "Song",
+   "emoji": "🟡🚢🌊",
+   "a": "Yellow Submarine",
+   "p": 400
+  },
+  {
+   "q": "Song",
+   "emoji": "🧊🧊👶",
+   "a": "Ice Ice Baby",
+   "p": 400
+  },
+  {
+   "q": "Brand",
+   "emoji": "⭐💵☕",
+   "a": "Starbucks",
+   "p": 600
+  },
+  {
+   "q": "Brand",
+   "emoji": "🐎🔴🏎️",
+   "a": "Ferrari",
+   "p": 400
+  },
+  {
+   "q": "Brand",
+   "emoji": "🔺🍫🏔️",
+   "a": "Toblerone",
+   "p": 400
+  },
+  {
+   "q": "Brand",
+   "emoji": "🦉🗣️📚",
+   "a": "Duolingo",
+   "p": 400
+  },
+  {
+   "q": "Brand",
+   "emoji": "📦🌳🌊",
+   "a": "Amazon",
+   "p": 600
+  },
+  {
+   "q": "Brand",
+   "emoji": "❌📦",
+   "a": "Xbox",
+   "p": 600
+  },
+  {
+   "q": "App",
+   "emoji": "😀📖",
+   "a": "Facebook",
+   "p": 600
+  },
+  {
+   "q": "App",
+   "emoji": "⏱️🎶📱",
+   "a": "TikTok",
+   "p": 600
+  },
+  {
+   "q": "App",
+   "emoji": "❓📱",
+   "a": "WhatsApp",
+   "p": 600
+  },
+  {
+   "q": "Video game",
+   "emoji": "⭐🦊🚀",
+   "a": "Star Fox",
+   "p": 400
+  },
+  {
+   "q": "Video game",
+   "emoji": "🪓🧔👦",
+   "a": "God of War",
+   "p": 400
+  },
+  {
+   "q": "Video game",
+   "emoji": "🐺⚔️🧙",
+   "a": "The Witcher",
+   "p": 400,
+   "alt": [
+    "Witcher"
+   ]
+  },
+  {
+   "q": "Video game",
+   "emoji": "🦝🏝️🍃",
+   "a": "Animal Crossing",
+   "p": 400
+  },
+  {
+   "q": "Video game",
+   "emoji": "🐙🎨💦",
+   "a": "Splatoon",
+   "p": 400
+  },
+  {
+   "q": "Video game",
+   "emoji": "🔴💀🤠",
+   "a": "Red Dead Redemption",
+   "p": 400,
+   "alt": [
+    "Red Dead"
+   ]
+  },
+  {
+   "q": "Video game",
+   "emoji": "🍄🧟👧",
+   "a": "The Last of Us",
+   "p": 400,
+   "alt": [
+    "Last of Us"
+   ]
+  },
+  {
+   "q": "Video game",
+   "emoji": "🦖🌵🌐",
+   "a": "Chrome Dino",
+   "p": 400,
+   "alt": [
+    "Dinosaur Game",
+    "T-Rex Game",
+    "Chrome Dinosaur Game"
+   ]
+  },
+  {
+   "q": "Video game",
+   "emoji": "🐦👆🟩",
+   "a": "Flappy Bird",
+   "p": 400
+  },
+  {
+   "q": "Video game",
+   "emoji": "🛣️🥊",
+   "a": "Street Fighter",
+   "p": 400
+  },
+  {
+   "q": "Video game",
+   "emoji": "🚌🪂🏗️",
+   "a": "Fortnite",
+   "p": 400
+  },
+  {
+   "q": "Anime",
+   "emoji": "🌊👹🎋",
+   "a": "Demon Slayer",
+   "p": 400,
+   "alt": [
+    "Kimetsu no Yaiba"
+   ]
+  },
+  {
+   "q": "Anime",
+   "emoji": "🧱⚔️👹",
+   "a": "Attack on Titan",
+   "p": 400,
+   "alt": [
+    "Shingeki no Kyojin"
+   ]
+  },
+  {
+   "q": "Anime",
+   "emoji": "🐉🟠⭐",
+   "a": "Dragon Ball",
+   "p": 400,
+   "alt": [
+    "Dragon Ball Z"
+   ]
+  },
+  {
+   "q": "Anime",
+   "emoji": "👨‍✈️⚽",
+   "a": "Captain Tsubasa",
+   "p": 400,
+   "alt": [
+    "Captain Majid",
+    "Captain Majed"
+   ],
+   "ar": "كابتن ماجد"
+  },
+  {
+   "q": "Anime",
+   "emoji": "🤖🛸",
+   "a": "Grendizer",
+   "p": 400,
+   "alt": [
+    "UFO Robot Grendizer",
+    "Goldorak"
+   ],
+   "ar": "جريندايزر"
+  },
+  {
+   "q": "Anime",
+   "emoji": "🕵️👦👓",
+   "a": "Detective Conan",
+   "p": 400,
+   "alt": [
+    "Case Closed",
+    "Conan"
+   ],
+   "ar": "المحقق كونان"
+  },
+  {
+   "q": "Anime",
+   "emoji": "⛵🌙",
+   "a": "Sailor Moon",
+   "p": 600
+  },
+  {
+   "q": "Anime",
+   "emoji": "🪚🐶👨",
+   "a": "Chainsaw Man",
+   "p": 400
+  },
+  {
+   "q": "Anime",
+   "emoji": "🕵️❌👪",
+   "a": "Spy x Family",
+   "p": 400,
+   "alt": [
+    "Spy Family"
+   ]
+  },
+  {
+   "q": "Anime",
+   "emoji": "🐉🛁👧",
+   "a": "Spirited Away",
+   "p": 400
+  },
+  {
+   "q": "Anime",
+   "emoji": "☂️🚌🐱",
+   "a": "My Neighbor Totoro",
+   "p": 400,
+   "alt": [
+    "Totoro"
+   ]
+  },
+  {
+   "q": "TV show",
+   "emoji": "🚲🧇👾",
+   "a": "Stranger Things",
+   "p": 400
+  },
+  {
+   "q": "TV show",
+   "emoji": "💸🎭🔴",
+   "a": "Money Heist",
+   "p": 400,
+   "alt": [
+    "La Casa de Papel"
+   ]
+  },
+  {
+   "q": "TV show",
+   "emoji": "🧸🚗🟢",
+   "a": "Mr. Bean",
+   "p": 400,
+   "alt": [
+    "Mr Bean"
+   ]
+  },
+  {
+   "q": "TV show",
+   "emoji": "🖐️🖤🏫",
+   "a": "Wednesday",
+   "p": 400
+  },
+  {
+   "q": "Cartoon",
+   "emoji": "🐞👧🐈",
+   "a": "Miraculous",
+   "p": 400,
+   "alt": [
+    "Miraculous Ladybug",
+    "Ladybug"
+   ]
+  },
+  {
+   "q": "Character",
+   "emoji": "⏰🐊🧚",
+   "a": "Peter Pan",
+   "p": 400
+  },
+  {
+   "q": "Character",
+   "emoji": "👸💇‍♀️🗼",
+   "a": "Rapunzel",
+   "p": 400,
+   "alt": [
+    "Tangled"
+   ]
+  },
+  {
+   "q": "Superhero",
+   "emoji": "🔨⚡",
+   "a": "Thor",
+   "p": 400
+  },
+  {
+   "q": "Superhero",
+   "emoji": "🐆🖤",
+   "a": "Black Panther",
+   "p": 400
+  },
+  {
+   "q": "Superhero",
+   "emoji": "🦾👨🔴",
+   "a": "Iron Man",
+   "p": 400,
+   "alt": [
+    "Ironman"
+   ]
+  },
+  {
+   "q": "Superhero",
+   "emoji": "💀🔥🏍️",
+   "a": "Ghost Rider",
+   "p": 400
+  },
+  {
+   "q": "Phrase",
+   "emoji": "2️⃣🐦1️⃣🪨",
+   "a": "Kill two birds with one stone",
+   "p": 400
+  },
+  {
+   "q": "Phrase",
+   "emoji": "🐘🛋️",
+   "a": "The elephant in the room",
+   "p": 400,
+   "alt": [
+    "Elephant in the room"
+   ]
+  },
+  {
+   "q": "Phrase",
+   "emoji": "🍎👁️",
+   "a": "The apple of my eye",
+   "p": 400,
+   "alt": [
+    "Apple of my eye"
+   ]
+  },
+  {
+   "q": "Phrase",
+   "emoji": "🔨🧊",
+   "a": "Break the ice",
+   "p": 400
+  },
+  {
+   "q": "Phrase",
+   "emoji": "🐱👜➡️",
+   "a": "Let the cat out of the bag",
+   "p": 400
+  },
+  {
+   "q": "Phrase",
+   "emoji": "🔵🌙",
+   "a": "Once in a blue moon",
+   "p": 400
+  },
+  {
+   "q": "Phrase",
+   "emoji": "🍋➡️🥤",
+   "a": "When life gives you lemons, make lemonade",
+   "p": 400,
+   "alt": [
+    "When life gives you lemons"
+   ]
+  },
+  {
+   "q": "Phrase",
+   "emoji": "🥶🦶",
+   "a": "Cold feet",
+   "p": 400,
+   "alt": [
+    "Get cold feet"
+   ]
+  },
+  {
+   "q": "Phrase",
+   "emoji": "⏳✈️",
+   "a": "Time flies",
+   "p": 400
+  },
+  {
+   "q": "Phrase",
+   "emoji": "🧊🏔️🔝",
+   "a": "Tip of the iceberg",
+   "p": 400
+  },
+  {
+   "q": "Phrase",
+   "emoji": "🚫💵🌳",
+   "a": "Money doesn't grow on trees",
+   "p": 400
+  },
+  {
+   "q": "Phrase",
+   "emoji": "🌅🐦🪱",
+   "a": "The early bird catches the worm",
+   "p": 400,
+   "alt": [
+    "Early bird gets the worm"
+   ]
+  },
+  {
+   "q": "Phrase",
+   "emoji": "💥🦵🎭",
+   "a": "Break a leg",
+   "p": 400
+  },
+  {
+   "q": "Phrase",
+   "emoji": "🐂👁️",
+   "a": "Bull's-eye",
+   "p": 600,
+   "alt": [
+    "Bullseye"
+   ]
+  },
+  {
+   "q": "Word",
+   "emoji": "🧠⛈️",
+   "a": "Brainstorm",
+   "p": 400
+  },
+  {
+   "q": "Word",
+   "emoji": "🐎👞",
+   "a": "Horseshoe",
+   "p": 400
+  },
+  {
+   "q": "Word",
+   "emoji": "💡🏠",
+   "a": "Lighthouse",
+   "p": 400
+  },
+  {
+   "q": "Board game",
+   "emoji": "🃏1️⃣",
+   "a": "UNO",
+   "p": 600
+  },
+  {
+   "q": "Board game",
+   "emoji": "🎲🎲🪵",
+   "a": "Backgammon",
+   "p": 400,
+   "alt": [
+    "Tawla"
+   ],
+   "ar": "طاولة"
+  },
+  {
+   "q": "Animal",
+   "emoji": "🗡️🐟",
+   "a": "Swordfish",
+   "p": 400
+  },
+  {
+   "q": "Animal",
+   "emoji": "🍯🦡",
+   "a": "Honey badger",
+   "p": 400
+  },
+  {
+   "q": "Sport",
+   "emoji": "🦗🏟️",
+   "a": "Cricket",
+   "p": 600
+  },
+  {
+   "q": "Movie",
+   "emoji": "🏃🍫📦",
+   "a": "Forrest Gump",
+   "p": 600
+  },
+  {
+   "q": "Movie",
+   "emoji": "🌌⏳👨‍🚀",
+   "a": "Interstellar",
+   "p": 600
+  },
+  {
+   "q": "Movie",
+   "emoji": "💤🌀🧠",
+   "a": "Inception",
+   "p": 600
+  },
+  {
+   "q": "Movie",
+   "emoji": "🐭👦🚗",
+   "a": "Stuart Little",
+   "p": 600
+  },
+  {
+   "q": "Movie",
+   "emoji": "🖤🦢🩰",
+   "a": "Black Swan",
+   "p": 600
+  },
+  {
+   "q": "Movie",
+   "emoji": "🦂👑",
+   "a": "The Scorpion King",
+   "p": 600,
+   "alt": [
+    "Scorpion King"
+   ]
+  },
+  {
+   "q": "Movie",
+   "emoji": "🚀🌕1️⃣3️⃣",
+   "a": "Apollo 13",
+   "p": 600
+  },
+  {
+   "q": "Movie",
+   "emoji": "🐯🛶🥧",
+   "a": "Life of Pi",
+   "p": 600
+  },
+  {
+   "q": "Movie",
+   "emoji": "♾️⚔️🦸",
+   "a": "Avengers: Infinity War",
+   "p": 600,
+   "alt": [
+    "Infinity War"
+   ]
+  },
+  {
+   "q": "Movie",
+   "emoji": "🌙🦇🃏",
+   "a": "The Dark Knight",
+   "p": 600,
+   "alt": [
+    "Dark Knight"
+   ]
+  },
+  {
+   "q": "Movie",
+   "emoji": "👑🎙️🗣️",
+   "a": "The King's Speech",
+   "p": 600,
+   "alt": [
+    "King's Speech"
+   ]
+  },
+  {
+   "q": "Movie",
+   "emoji": "🤫🐶🐱",
+   "a": "The Secret Life of Pets",
+   "p": 600,
+   "alt": [
+    "Secret Life of Pets"
+   ]
+  },
+  {
+   "q": "Movie",
+   "emoji": "🏃🧱🌀",
+   "a": "The Maze Runner",
+   "p": 600,
+   "alt": [
+    "Maze Runner"
+   ]
+  },
+  {
+   "q": "Anime",
+   "emoji": "👉📛☄️",
+   "a": "Your Name",
+   "p": 600,
+   "alt": [
+    "Kimi no Na wa"
+   ]
+  },
+  {
+   "q": "Anime",
+   "emoji": "🚪💥🏀",
+   "a": "Slam Dunk",
+   "p": 600
+  },
+  {
+   "q": "Anime",
+   "emoji": "🖤🍀",
+   "a": "Black Clover",
+   "p": 600
+  },
+  {
+   "q": "Country",
+   "emoji": "🌶️🗿",
+   "a": "Chile",
+   "p": 600
+  },
+  {
+   "q": "Country",
+   "emoji": "🐳🐋🏉",
+   "a": "Wales",
+   "p": 600
+  },
+  {
+   "q": "Country",
+   "emoji": "🚫🛣️",
+   "a": "Norway",
+   "p": 600
+  },
+  {
+   "q": "Country",
+   "emoji": "🌲🦌🎅",
+   "a": "Finland",
+   "p": 600
+  },
+  {
+   "q": "Country",
+   "emoji": "🐘🍵🏏",
+   "a": "Sri Lanka",
+   "p": 600
+  },
+  {
+   "q": "Country",
+   "emoji": "🏔️🧗🙏",
+   "a": "Nepal",
+   "p": 600
+  },
+  {
+   "q": "Landmark",
+   "emoji": "🥇🚪🌉",
+   "a": "Golden Gate Bridge",
+   "p": 600
+  },
+  {
+   "q": "Landmark",
+   "emoji": "👑🕌",
+   "a": "Taj Mahal",
+   "p": 600
+  },
+  {
+   "q": "UAE place",
+   "emoji": "🎡👁️",
+   "a": "Ain Dubai",
+   "p": 600,
+   "ar": "عين دبي"
+  },
+  {
+   "q": "UAE place",
+   "emoji": "💙💧🏝️",
+   "a": "Bluewaters Island",
+   "p": 600,
+   "alt": [
+    "Bluewaters"
+   ],
+   "ar": "جزيرة بلوواترز"
+  },
+  {
+   "q": "UAE place",
+   "emoji": "🌍🏝️🏝️",
+   "a": "The World Islands",
+   "p": 600,
+   "alt": [
+    "The World"
+   ],
+   "ar": "جزر العالم"
+  },
+  {
+   "q": "UAE place",
+   "emoji": "🦩🌅",
+   "a": "Ras Al Khor",
+   "p": 600,
+   "alt": [
+    "Ras Al Khor Wildlife Sanctuary"
+   ],
+   "ar": "رأس الخور"
+  },
+  {
+   "q": "UAE place",
+   "emoji": "🏛️👑📚",
+   "a": "Qasr Al Watan",
+   "p": 600,
+   "ar": "قصر الوطن"
+  },
+  {
+   "q": "UAE place",
+   "emoji": "🕌⚪✨",
+   "a": "Sheikh Zayed Grand Mosque",
+   "p": 400,
+   "alt": [
+    "Grand Mosque"
+   ],
+   "ar": "جامع الشيخ زايد الكبير"
+  },
+  {
+   "q": "Food",
+   "emoji": "☕🎂",
+   "a": "Cupcake",
+   "p": 600
+  },
+  {
+   "q": "Food",
+   "emoji": "🌲🍎",
+   "a": "Pineapple",
+   "p": 600
+  },
+  {
+   "q": "Food",
+   "emoji": "🍳🎂",
+   "a": "Pancake",
+   "p": 600
+  },
+  {
+   "q": "Food",
+   "emoji": "💧🍈",
+   "a": "Watermelon",
+   "p": 600
+  },
+  {
+   "q": "Food",
+   "emoji": "💔🏎️",
+   "a": "Breakfast",
+   "p": 600
+  },
+  {
+   "q": "Food",
+   "emoji": "🏖️🧙",
+   "a": "Sandwich",
+   "p": 600
+  },
+  {
+   "q": "Food",
+   "emoji": "🥚🌱",
+   "a": "Eggplant",
+   "p": 600,
+   "alt": [
+    "Aubergine"
+   ]
+  },
+  {
+   "q": "Food",
+   "emoji": "🌽💥",
+   "a": "Popcorn",
+   "p": 600
+  },
+  {
+   "q": "Arabic dessert",
+   "emoji": "👩👦🍮",
+   "a": "Umm Ali",
+   "p": 600,
+   "alt": [
+    "Om Ali"
+   ],
+   "ar": "أم علي"
+  },
+  {
+   "q": "Arabic food",
+   "emoji": "🥗🍞🍋",
+   "a": "Fattoush",
+   "p": 600,
+   "ar": "فتوش"
+  },
+  {
+   "q": "Emirati food",
+   "emoji": "🍝🍳🍬",
+   "a": "Balaleet",
+   "p": 600,
+   "alt": [
+    "Balalit"
+   ],
+   "ar": "بلاليط"
+  },
+  {
+   "q": "Song",
+   "emoji": "🐢💃",
+   "a": "Despacito",
+   "p": 600
+  },
+  {
+   "q": "Song",
+   "emoji": "☠️💚",
+   "a": "Toxic",
+   "p": 600
+  },
+  {
+   "q": "Arabic song",
+   "emoji": "💡👁️",
+   "a": "Nour El Ain",
+   "p": 600,
+   "alt": [
+    "Habibi Ya Nour El Ain",
+    "Noor El Ain"
+   ],
+   "ar": "نور العين"
+  },
+  {
+   "q": "Instrument",
+   "emoji": "🎸🌳",
+   "a": "Oud",
+   "p": 600,
+   "ar": "عود"
+  },
+  {
+   "q": "Brand",
+   "emoji": "🥅🎬",
+   "a": "Netflix",
+   "p": 600
+  },
+  {
+   "q": "Brand",
+   "emoji": "🔱🚗",
+   "a": "Maserati",
+   "p": 600
+  },
+  {
+   "q": "Brand",
+   "emoji": "🐫🥛",
+   "a": "Camelicious",
+   "p": 600
+  },
+  {
+   "q": "Brand",
+   "emoji": "🌶️🐓",
+   "a": "Nando's",
+   "p": 600,
+   "alt": [
+    "Nandos"
+   ]
+  },
+  {
+   "q": "Video game",
+   "emoji": "⭐💧🏞️",
+   "a": "Stardew Valley",
+   "p": 600
+  },
+  {
+   "q": "Video game",
+   "emoji": "🐈🌃🤖",
+   "a": "Stray",
+   "p": 600
+  },
+  {
+   "q": "Video game",
+   "emoji": "🔵🟠🚪",
+   "a": "Portal",
+   "p": 600
+  },
+  {
+   "q": "Video game",
+   "emoji": "🌳💍⚔️",
+   "a": "Elden Ring",
+   "p": 600
+  },
+  {
+   "q": "Video game",
+   "emoji": "🚫👨🌌",
+   "a": "No Man's Sky",
+   "p": 600
+  },
+  {
+   "q": "Video game",
+   "emoji": "🐵🎈🎯",
+   "a": "Bloons TD",
+   "p": 600,
+   "alt": [
+    "Bloons",
+    "Bloons Tower Defense"
+   ]
+  },
+  {
+   "q": "Video game",
+   "emoji": "🐔🛣️🚗",
+   "a": "Crossy Road",
+   "p": 600
+  },
+  {
+   "q": "TV show",
+   "emoji": "👵👵👵👵🏘️",
+   "a": "Freej",
+   "p": 600,
+   "ar": "فريج"
+  },
+  {
+   "q": "Cartoon",
+   "emoji": "🕷️🕸️🐷",
+   "a": "Charlotte's Web",
+   "p": 600
+  },
+  {
+   "q": "Superhero",
+   "emoji": "🧍🔥🔦",
+   "a": "Human Torch",
+   "p": 600,
+   "alt": [
+    "The Human Torch"
+   ]
+  },
+  {
+   "q": "Superhero",
+   "emoji": "🧊👨",
+   "a": "Iceman",
+   "p": 600
+  },
+  {
+   "q": "Superhero",
+   "emoji": "🌳🦸",
+   "a": "Groot",
+   "p": 600
+  },
+  {
+   "q": "Phrase",
+   "emoji": "🚫🥚🥚🧺",
+   "a": "Don't put all your eggs in one basket",
+   "p": 600
+  },
+  {
+   "q": "Phrase",
+   "emoji": "🦶👄",
+   "a": "Put your foot in your mouth",
+   "p": 600,
+   "alt": [
+    "Foot in mouth"
+   ]
+  },
+  {
+   "q": "Phrase",
+   "emoji": "🐟🐠🐡🌊",
+   "a": "Plenty more fish in the sea",
+   "p": 600,
+   "alt": [
+    "Plenty of fish in the sea"
+   ]
+  },
+  {
+   "q": "Phrase",
+   "emoji": "🚫🚀🔬",
+   "a": "It's not rocket science",
+   "p": 600,
+   "alt": [
+    "Not rocket science"
+   ]
+  },
+  {
+   "q": "Phrase",
+   "emoji": "🥜🐚",
+   "a": "In a nutshell",
+   "p": 600
+  },
+  {
+   "q": "Phrase",
+   "emoji": "⏳🐄🏠",
+   "a": "Till the cows come home",
+   "p": 600,
+   "alt": [
+    "Until the cows come home"
+   ]
+  },
+  {
+   "q": "Phrase",
+   "emoji": "🐂🍽️🏪",
+   "a": "Bull in a china shop",
+   "p": 600
+  },
+  {
+   "q": "Phrase",
+   "emoji": "🛒🐴",
+   "a": "Put the cart before the horse",
+   "p": 600,
+   "alt": [
+    "Cart before the horse"
+   ]
+  },
+  {
+   "q": "Phrase",
+   "emoji": "☮️🍰",
+   "a": "Piece of cake",
+   "p": 600
+  },
+  {
+   "q": "Word",
+   "emoji": "🐎🪰",
+   "a": "Horsefly",
+   "p": 600
+  },
+  {
+   "q": "Word",
+   "emoji": "🔑🛹",
+   "a": "Keyboard",
+   "p": 600
+  },
+  {
+   "q": "Word",
+   "emoji": "🧠🌊",
+   "a": "Brainwave",
+   "p": 600
+  },
+  {
+   "q": "Word",
+   "emoji": "🦶🖨️",
+   "a": "Footprint",
+   "p": 600
+  },
+  {
+   "q": "Word",
+   "emoji": "🧈🪰",
+   "a": "Butterfly",
+   "p": 600
+  },
+  {
+   "q": "Animal",
+   "emoji": "🐄🌊",
+   "a": "Dugong",
+   "p": 600,
+   "alt": [
+    "Sea cow"
+   ],
+   "ar": "أطوم"
+  },
+  {
+   "q": "Animal",
+   "emoji": "🐶🐟",
+   "a": "Dogfish",
+   "p": 600
+  },
+  {
+   "q": "Sport",
+   "emoji": "🏊🎶💃",
+   "a": "Artistic swimming",
+   "p": 600,
+   "alt": [
+    "Synchronised swimming",
+    "Synchronized swimming"
+   ]
+  }
+ ]
+}

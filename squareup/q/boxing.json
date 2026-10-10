@@ -1,0 +1,1748 @@
+{
+ "id": "boxing",
+ "name": "Boxing",
+ "questions": [
+  {
+   "q": "Which boxer famously called himself 'The Greatest'?",
+   "a": "Muhammad Ali",
+   "p": 200
+  },
+  {
+   "q": "Which American heavyweight was nicknamed 'Iron Mike'?",
+   "a": "Mike Tyson",
+   "p": 200
+  },
+  {
+   "q": "Whose ear did Mike Tyson bite during their 1997 rematch?",
+   "a": "Evander Holyfield",
+   "p": 200,
+   "alt": [
+    "Holyfield"
+   ]
+  },
+  {
+   "q": "Which unbeaten American boxer went by the nickname 'Money'?",
+   "a": "Floyd Mayweather Jr.",
+   "p": 200,
+   "alt": [
+    "Floyd Mayweather",
+    "Mayweather"
+   ]
+  },
+  {
+   "q": "Which Filipino boxer is nicknamed 'Pac-Man'?",
+   "a": "Manny Pacquiao",
+   "p": 200,
+   "alt": [
+    "Pacquiao"
+   ]
+  },
+  {
+   "q": "Which Irish UFC star crossed over to box Floyd Mayweather in 2017?",
+   "a": "Conor McGregor",
+   "p": 200
+  },
+  {
+   "q": "How many rounds is a modern men's world championship fight scheduled for?",
+   "a": "12",
+   "p": 200,
+   "alt": [
+    "Twelve"
+   ]
+  },
+  {
+   "q": "How long is a standard round in men's professional boxing?",
+   "a": "3 minutes",
+   "p": 200,
+   "alt": [
+    "Three minutes"
+   ]
+  },
+  {
+   "q": "To what number does the referee count to declare a knockout?",
+   "a": "10",
+   "p": 200,
+   "alt": [
+    "Ten"
+   ]
+  },
+  {
+   "q": "What does a trainer traditionally throw into the ring to concede a fight?",
+   "a": "A towel",
+   "p": 200,
+   "alt": [
+    "Towel"
+   ]
+  },
+  {
+   "q": "Which fictional Philadelphia boxer did Sylvester Stallone play?",
+   "a": "Rocky Balboa",
+   "p": 200,
+   "alt": [
+    "Rocky"
+   ]
+  },
+  {
+   "q": "Which champion does Rocky face in the first Rocky film?",
+   "a": "Apollo Creed",
+   "p": 200
+  },
+  {
+   "q": "In which Rocky film does Rocky fight the Soviet boxer Ivan Drago?",
+   "a": "Rocky IV",
+   "p": 200,
+   "alt": [
+    "Rocky 4"
+   ]
+  },
+  {
+   "q": "Which actor plays Adonis Creed in the Creed films?",
+   "a": "Michael B. Jordan",
+   "p": 200
+  },
+  {
+   "q": "What is the quick, straight punch thrown with the lead hand called?",
+   "a": "Jab",
+   "p": 200
+  },
+  {
+   "q": "What punch travels upward to an opponent's chin from below?",
+   "a": "Uppercut",
+   "p": 200
+  },
+  {
+   "q": "What curved punch is thrown from the side, with the elbow bent?",
+   "a": "Hook",
+   "p": 200
+  },
+  {
+   "q": "What is an illegal punch below the belt called?",
+   "a": "Low blow",
+   "p": 200
+  },
+  {
+   "q": "What do boxers wear in their mouths to protect their teeth?",
+   "a": "Mouthguard",
+   "p": 200,
+   "alt": [
+    "Gum shield",
+    "Mouthpiece"
+   ]
+  },
+  {
+   "q": "What do boxers wrap around their hands underneath their gloves?",
+   "a": "Hand wraps",
+   "p": 200,
+   "alt": [
+    "Wraps",
+    "Bandages"
+   ]
+  },
+  {
+   "q": "What name was given to the 1974 Ali versus Foreman fight in Zaire?",
+   "a": "The Rumble in the Jungle",
+   "p": 200,
+   "alt": [
+    "Rumble in the Jungle"
+   ]
+  },
+  {
+   "q": "What name was given to the third Ali versus Frazier fight, in 1975 in the Philippines?",
+   "a": "The Thrilla in Manila",
+   "p": 200,
+   "alt": [
+    "Thrilla in Manila"
+   ]
+  },
+  {
+   "q": "Which American boxer did Ali fight in the Thrilla in Manila?",
+   "a": "Joe Frazier",
+   "p": 200
+  },
+  {
+   "q": "Which future grill salesman did Ali beat in the Rumble in the Jungle?",
+   "a": "George Foreman",
+   "p": 200
+  },
+  {
+   "q": "What is the heaviest weight class in professional boxing?",
+   "a": "Heavyweight",
+   "p": 200
+  },
+  {
+   "q": "What term means holding all the major world titles in a division at once?",
+   "a": "Undisputed champion",
+   "p": 200,
+   "alt": [
+    "Undisputed"
+   ]
+  },
+  {
+   "q": "Which boxer was the British heavyweight Tyson Fury named after?",
+   "a": "Mike Tyson",
+   "p": 200
+  },
+  {
+   "q": "Which British heavyweight won super-heavyweight gold at the London 2012 Olympics?",
+   "a": "Anthony Joshua",
+   "p": 200
+  },
+  {
+   "q": "Which Mexican boxing superstar is known by the nickname 'Canelo'?",
+   "a": "Saúl Álvarez",
+   "p": 200,
+   "alt": [
+    "Canelo Alvarez",
+    "Saul Alvarez"
+   ]
+  },
+  {
+   "q": "Which Saudi city hosted the first undisputed heavyweight title fight of the four-belt era, Fury versus Usyk, in 2024?",
+   "a": "Riyadh",
+   "p": 200,
+   "ar": "الرياض"
+  },
+  {
+   "q": "Which Saudi entertainment festival staged many mega boxing cards from 2023?",
+   "a": "Riyadh Season",
+   "p": 200,
+   "ar": "موسم الرياض"
+  },
+  {
+   "q": "Which YouTuber-turned-boxer fought Mike Tyson in November 2024?",
+   "a": "Jake Paul",
+   "p": 200
+  },
+  {
+   "q": "Which streaming service broadcast Jake Paul versus Mike Tyson live in 2024?",
+   "a": "Netflix",
+   "p": 200
+  },
+  {
+   "q": "Which Ukrainian brothers dominated the heavyweight division in the 2000s?",
+   "a": "The Klitschkos",
+   "p": 200,
+   "alt": [
+    "Klitschko brothers",
+    "Vitali and Wladimir Klitschko"
+   ]
+  },
+  {
+   "q": "What is the term for a left-handed boxer who leads with the right hand?",
+   "a": "Southpaw",
+   "p": 200
+  },
+  {
+   "q": "What is it called when boxers hold each other to stop the punching?",
+   "a": "Clinch",
+   "p": 200,
+   "alt": [
+    "Clinching"
+   ]
+  },
+  {
+   "q": "What small, air-filled bag hanging at head height is hit rapidly in training?",
+   "a": "Speed bag",
+   "p": 200
+  },
+  {
+   "q": "What is fighting an imaginary opponent as practice called?",
+   "a": "Shadowboxing",
+   "p": 200,
+   "alt": [
+    "Shadow boxing"
+   ]
+  },
+  {
+   "q": "What is practice fighting with a training partner called?",
+   "a": "Sparring",
+   "p": 200
+  },
+  {
+   "q": "Boxing is often called 'the sweet' what?",
+   "a": "Science",
+   "p": 200
+  },
+  {
+   "q": "What phrase describes a fighter rescued from a count by the end of the round?",
+   "a": "Saved by the bell",
+   "p": 200
+  },
+  {
+   "q": "What term describes a boxer who is easily knocked out?",
+   "a": "Glass jaw",
+   "p": 200
+  },
+  {
+   "q": "What is the floor of a boxing ring called?",
+   "a": "Canvas",
+   "p": 200,
+   "alt": [
+    "The canvas"
+   ]
+  },
+  {
+   "q": "How many judges score a professional boxing match?",
+   "a": "Three",
+   "p": 200,
+   "alt": [
+    "3"
+   ]
+  },
+  {
+   "q": "What is the final check, usually the day before a fight, that boxers are within the limit called?",
+   "a": "Weigh-in",
+   "p": 200,
+   "alt": [
+    "Weigh in"
+   ]
+  },
+  {
+   "q": "What term ranks boxers as if they were all the same size?",
+   "a": "Pound-for-pound",
+   "p": 200,
+   "alt": [
+    "Pound for pound"
+   ]
+  },
+  {
+   "q": "What are the two colours traditionally used for the fighters' corners?",
+   "a": "Red and blue",
+   "p": 200
+  },
+  {
+   "q": "What does PPV, the way big fights are sold on TV, stand for?",
+   "a": "Pay-per-view",
+   "p": 200
+  },
+  {
+   "q": "What is the top fight on a boxing card called?",
+   "a": "Main event",
+   "p": 200,
+   "alt": [
+    "Headliner",
+    "Headline bout"
+   ]
+  },
+  {
+   "q": "Which promoter with famously upright hair staged the Rumble in the Jungle?",
+   "a": "Don King",
+   "p": 200
+  },
+  {
+   "q": "Which classic Nintendo game featured Mike Tyson as its final opponent?",
+   "a": "Mike Tyson's Punch-Out!!",
+   "p": 200,
+   "alt": [
+    "Punch-Out",
+    "Punch-Out!!"
+   ]
+  },
+  {
+   "q": "In which 2009 comedy about a Las Vegas stag party did Mike Tyson make a cameo with a tiger?",
+   "a": "The Hangover",
+   "p": 200
+  },
+  {
+   "q": "Which actor played Muhammad Ali in the 2001 film 'Ali'?",
+   "a": "Will Smith",
+   "p": 200
+  },
+  {
+   "q": "Which weight class is named after an insect?",
+   "a": "Flyweight",
+   "p": 200
+  },
+  {
+   "q": "What do the initials WBC stand for?",
+   "a": "World Boxing Council",
+   "p": 200
+  },
+  {
+   "q": "Which country does Manny Pacquiao come from?",
+   "a": "Philippines",
+   "p": 200,
+   "alt": [
+    "The Philippines"
+   ]
+  },
+  {
+   "q": "What is the name of Rocky's wife in the Rocky films?",
+   "a": "Adrian",
+   "p": 200
+  },
+  {
+   "q": "What is a wild, powerful swinging punch called?",
+   "a": "Haymaker",
+   "p": 200
+  },
+  {
+   "q": "What long, hanging bag filled with sand or fabric is used to practise power punches?",
+   "a": "Heavy bag",
+   "p": 200,
+   "alt": [
+    "Punch bag",
+    "Punching bag"
+   ]
+  },
+  {
+   "q": "Who won the 2015 'Fight of the Century' between Mayweather and Pacquiao?",
+   "a": "Floyd Mayweather Jr.",
+   "p": 200,
+   "alt": [
+    "Mayweather"
+   ]
+  },
+  {
+   "q": "What was Floyd Mayweather's professional record?",
+   "a": "50-0",
+   "p": 200,
+   "alt": [
+    "50 wins, 0 losses"
+   ]
+  },
+  {
+   "q": "Which British boxer is nicknamed 'The Gypsy King'?",
+   "a": "Tyson Fury",
+   "p": 200
+  },
+  {
+   "q": "Which Olympic medal do both losing semi-finalists receive in boxing?",
+   "a": "Bronze",
+   "p": 200
+  },
+  {
+   "q": "Which British heavyweight lost his titles to Andy Ruiz Jr. in a 2019 upset?",
+   "a": "Anthony Joshua",
+   "p": 200
+  },
+  {
+   "q": "Which American former heavyweight champion became famous for his 'lean, mean' grilling machine?",
+   "a": "George Foreman",
+   "p": 200
+  },
+  {
+   "q": "What is the area between rounds where a boxer sits with his trainer called?",
+   "a": "Corner",
+   "p": 200,
+   "alt": [
+    "The corner"
+   ]
+  },
+  {
+   "q": "What short word is used for a single boxing contest?",
+   "a": "Bout",
+   "p": 200
+  },
+  {
+   "q": "Which country did Oleksandr Usyk and the Klitschko brothers fight for?",
+   "a": "Ukraine",
+   "p": 200
+  },
+  {
+   "q": "Which Brooklyn-raised heavyweight became champion in 1986 aged just 20?",
+   "a": "Mike Tyson",
+   "p": 200
+  },
+  {
+   "q": "What do you call a match between a famous fighter and a celebrity that doesn't count on the official record?",
+   "a": "Exhibition",
+   "p": 200,
+   "alt": [
+    "Exhibition bout"
+   ]
+  },
+  {
+   "q": "In which Las Vegas arena did Mayweather fight Pacquiao in 2015?",
+   "a": "MGM Grand Garden Arena",
+   "p": 400,
+   "alt": [
+    "MGM Grand"
+   ]
+  },
+  {
+   "q": "Which Mexican knocked Manny Pacquiao out cold in 2012?",
+   "a": "Juan Manuel Márquez",
+   "p": 400,
+   "alt": [
+    "Juan Manuel Marquez",
+    "Marquez"
+   ]
+  },
+  {
+   "q": "In how many weight divisions did Manny Pacquiao win world titles?",
+   "a": "Eight",
+   "p": 400,
+   "alt": [
+    "8"
+   ]
+  },
+  {
+   "q": "Which famous American trainer worked Manny Pacquiao's corner for most of his career?",
+   "a": "Freddie Roach",
+   "p": 400
+  },
+  {
+   "q": "What nickname did Floyd Mayweather use early in his career, before 'Money'?",
+   "a": "Pretty Boy",
+   "p": 400,
+   "alt": [
+    "Pretty Boy Floyd"
+   ]
+  },
+  {
+   "q": "Which boxer handed Canelo Álvarez his first professional defeat, in 2013?",
+   "a": "Floyd Mayweather Jr.",
+   "p": 200,
+   "alt": [
+    "Floyd Mayweather",
+    "Mayweather"
+   ]
+  },
+  {
+   "q": "Which Russian light heavyweight beat Canelo Álvarez in 2022?",
+   "a": "Dmitry Bivol",
+   "p": 400,
+   "alt": [
+    "Bivol"
+   ]
+  },
+  {
+   "q": "What does the Spanish word 'canelo' refer to, a nod to the boxer's red hair?",
+   "a": "Cinnamon",
+   "p": 400
+  },
+  {
+   "q": "Which Kazakh middleweight was known by the initials GGG?",
+   "a": "Gennady Golovkin",
+   "p": 400,
+   "alt": [
+    "Golovkin"
+   ]
+  },
+  {
+   "q": "How many times did Canelo Álvarez and Gennady Golovkin fight each other?",
+   "a": "Three",
+   "p": 400,
+   "alt": [
+    "3"
+   ]
+  },
+  {
+   "q": "In which division did Canelo Álvarez become undisputed champion in 2021?",
+   "a": "Super middleweight",
+   "p": 400
+  },
+  {
+   "q": "In which division did Oleksandr Usyk become undisputed champion before moving up to heavyweight?",
+   "a": "Cruiserweight",
+   "p": 400
+  },
+  {
+   "q": "In which weight class did Mayweather and Pacquiao fight in 2015?",
+   "a": "Welterweight",
+   "p": 400
+  },
+  {
+   "q": "Which weight class is named after a small breed of chicken?",
+   "a": "Bantamweight",
+   "p": 400
+  },
+  {
+   "q": "In which weight class did Prince Naseem Hamed win his world titles?",
+   "a": "Featherweight",
+   "p": 400
+  },
+  {
+   "q": "Which Sheffield-born featherweight was famous for flying-carpet and somersault ring entrances?",
+   "a": "Naseem Hamed",
+   "p": 400,
+   "ar": "نسيم حميد",
+   "alt": [
+    "Prince Naseem",
+    "Naz"
+   ]
+  },
+  {
+   "q": "Which Arab country did Prince Naseem Hamed's parents come from?",
+   "a": "Yemen",
+   "p": 400,
+   "ar": "اليمن"
+  },
+  {
+   "q": "Which Bolton boxer won Olympic silver at just 17 at Athens 2004?",
+   "a": "Amir Khan",
+   "p": 400
+  },
+  {
+   "q": "Which Mexican-American upset Anthony Joshua at Madison Square Garden in June 2019?",
+   "a": "Andy Ruiz Jr.",
+   "p": 400,
+   "alt": [
+    "Andy Ruiz"
+   ]
+  },
+  {
+   "q": "In which historic town near Riyadh did Joshua beat Ruiz in their December 2019 rematch?",
+   "a": "Diriyah",
+   "p": 400,
+   "ar": "الدرعية",
+   "alt": [
+    "Ad Diriyah"
+   ]
+  },
+  {
+   "q": "What was the Joshua versus Ruiz rematch in Saudi Arabia nicknamed?",
+   "a": "Clash on the Dunes",
+   "p": 400
+  },
+  {
+   "q": "In which Saudi city did Usyk beat Joshua again in their 2022 rematch, 'Rage on the Red Sea'?",
+   "a": "Jeddah",
+   "p": 400,
+   "ar": "جدة"
+  },
+  {
+   "q": "Which former UFC heavyweight champion knocked Tyson Fury down in Riyadh in 2023?",
+   "a": "Francis Ngannou",
+   "p": 400,
+   "alt": [
+    "Ngannou"
+   ]
+  },
+  {
+   "q": "Which British boxer knocked out Francis Ngannou in Riyadh in March 2024?",
+   "a": "Anthony Joshua",
+   "p": 400
+  },
+  {
+   "q": "Which British heavyweight knocked out Anthony Joshua at Wembley in September 2024?",
+   "a": "Daniel Dubois",
+   "p": 400
+  },
+  {
+   "q": "Which British boxer handed Jake Paul his first loss, in Diriyah in 2023?",
+   "a": "Tommy Fury",
+   "p": 400
+  },
+  {
+   "q": "Which Saudi official led the General Entertainment Authority as it staged mega fights such as Fury versus Usyk?",
+   "a": "Turki Alalshikh",
+   "p": 400,
+   "ar": "تركي آل الشيخ",
+   "alt": [
+    "Turki Al-Sheikh",
+    "Turki Al Sheikh"
+   ]
+  },
+  {
+   "q": "Which Russian beat Dmitry Bivol in Riyadh in October 2024 to become undisputed light heavyweight champion?",
+   "a": "Artur Beterbiev",
+   "p": 400,
+   "alt": [
+    "Beterbiev"
+   ]
+  },
+  {
+   "q": "Which Ukrainian legend did Tyson Fury beat in Düsseldorf in 2015 to win the world titles?",
+   "a": "Wladimir Klitschko",
+   "p": 400,
+   "alt": [
+    "Klitschko"
+   ]
+  },
+  {
+   "q": "Which American heavyweight, nicknamed 'The Bronze Bomber', fought Tyson Fury three times?",
+   "a": "Deontay Wilder",
+   "p": 400,
+   "alt": [
+    "Wilder"
+   ]
+  },
+  {
+   "q": "What was the result of the first Fury versus Wilder fight in 2018?",
+   "a": "Draw",
+   "p": 400,
+   "alt": [
+    "A draw",
+    "Split draw"
+   ]
+  },
+  {
+   "q": "Who did Anthony Joshua beat in front of 90,000 fans at Wembley in 2017?",
+   "a": "Wladimir Klitschko",
+   "p": 400
+  },
+  {
+   "q": "What tactic, leaning on the ropes to tire out an opponent, did Ali use in Kinshasa?",
+   "a": "Rope-a-dope",
+   "p": 400
+  },
+  {
+   "q": "Which American did Cassius Clay beat in 1964 to win the world heavyweight title for the first time?",
+   "a": "Sonny Liston",
+   "p": 400,
+   "alt": [
+    "Liston"
+   ]
+  },
+  {
+   "q": "In which city did Cassius Clay win Olympic gold in 1960?",
+   "a": "Rome",
+   "p": 400
+  },
+  {
+   "q": "In which Kentucky city was Muhammad Ali born?",
+   "a": "Louisville",
+   "p": 400
+  },
+  {
+   "q": "Which war was Ali refusing to be drafted for when he was stripped of his title in 1967?",
+   "a": "Vietnam War",
+   "p": 400,
+   "alt": [
+    "Vietnam"
+   ]
+  },
+  {
+   "q": "Which New York arena hosted the 1971 'Fight of the Century' between Ali and Frazier?",
+   "a": "Madison Square Garden",
+   "p": 400,
+   "alt": [
+    "MSG"
+   ]
+  },
+  {
+   "q": "Which daughter of Muhammad Ali became an unbeaten world champion herself?",
+   "a": "Laila Ali",
+   "p": 400
+  },
+  {
+   "q": "Which illness was Muhammad Ali diagnosed with in 1984?",
+   "a": "Parkinson's disease",
+   "p": 200,
+   "alt": [
+    "Parkinson's"
+   ]
+  },
+  {
+   "q": "Which Japanese boxing star is nicknamed 'The Monster'?",
+   "a": "Naoya Inoue",
+   "p": 400,
+   "alt": [
+    "Inoue"
+   ]
+  },
+  {
+   "q": "Which American heavyweight upset Mike Tyson in Tokyo in 1990?",
+   "a": "James 'Buster' Douglas",
+   "p": 400,
+   "alt": [
+    "Buster Douglas",
+    "James Douglas"
+   ]
+  },
+  {
+   "q": "What is the 1997 Tyson versus Holyfield rematch commonly nicknamed?",
+   "a": "The Bite Fight",
+   "p": 400,
+   "alt": [
+    "Bite Fight"
+   ]
+  },
+  {
+   "q": "Which defensive style, with gloves held high by the cheeks, did Tyson famously use?",
+   "a": "Peek-a-boo",
+   "p": 400
+  },
+  {
+   "q": "Which British heavyweight beat Mike Tyson in Memphis in 2002?",
+   "a": "Lennox Lewis",
+   "p": 400
+  },
+  {
+   "q": "Which American, nicknamed 'The Real Deal', was undisputed champion at cruiserweight and later heavyweight?",
+   "a": "Evander Holyfield",
+   "p": 400
+  },
+  {
+   "q": "Which boxer, born Walker Smith Jr., is often called the greatest pound-for-pound fighter ever?",
+   "a": "Sugar Ray Robinson",
+   "p": 400,
+   "alt": [
+    "Ray Robinson"
+   ]
+  },
+  {
+   "q": "Which 'Raging Bull' fought Sugar Ray Robinson six times?",
+   "a": "Jake LaMotta",
+   "p": 400,
+   "alt": [
+    "LaMotta"
+   ]
+  },
+  {
+   "q": "Which Robert De Niro film tells the story of Jake LaMotta?",
+   "a": "Raging Bull",
+   "p": 200
+  },
+  {
+   "q": "Which 1976 Olympic champion took his ring name partly from singer Ray Charles?",
+   "a": "Sugar Ray Leonard",
+   "p": 400,
+   "alt": [
+    "Ray Leonard"
+   ]
+  },
+  {
+   "q": "Which Panamanian legend was nicknamed 'Hands of Stone'?",
+   "a": "Roberto Durán",
+   "p": 400,
+   "alt": [
+    "Roberto Duran",
+    "Duran"
+   ]
+  },
+  {
+   "q": "Which bald American middleweight legally changed his first name to 'Marvelous'?",
+   "a": "Marvin Hagler",
+   "p": 400,
+   "alt": [
+    "Marvelous Marvin Hagler",
+    "Hagler"
+   ]
+  },
+  {
+   "q": "Which Detroit boxer was nicknamed 'The Motor City Cobra'?",
+   "a": "Thomas Hearns",
+   "p": 400,
+   "alt": [
+    "Hearns",
+    "Tommy Hearns"
+   ]
+  },
+  {
+   "q": "Which heavyweight was nicknamed 'The Brown Bomber'?",
+   "a": "Joe Louis",
+   "p": 400
+  },
+  {
+   "q": "Which heavyweight champion retired unbeaten with a record of 49-0 in 1956?",
+   "a": "Rocky Marciano",
+   "p": 400,
+   "alt": [
+    "Marciano"
+   ]
+  },
+  {
+   "q": "Which 1992 Olympic champion and promoter was nicknamed 'The Golden Boy'?",
+   "a": "Oscar De La Hoya",
+   "p": 400,
+   "alt": [
+    "De La Hoya"
+   ]
+  },
+  {
+   "q": "Which Manchester boxer nicknamed 'The Hitman' lost to both Mayweather and Pacquiao?",
+   "a": "Ricky Hatton",
+   "p": 400,
+   "alt": [
+    "Hatton"
+   ]
+  },
+  {
+   "q": "Which Welsh super middleweight retired unbeaten at 46-0?",
+   "a": "Joe Calzaghe",
+   "p": 400,
+   "alt": [
+    "Calzaghe"
+   ]
+  },
+  {
+   "q": "Which Irish boxer won lightweight gold at London 2012 and later became undisputed as a pro?",
+   "a": "Katie Taylor",
+   "p": 400
+  },
+  {
+   "q": "Which Marquess gave his name to the rules of modern boxing written in 1867?",
+   "a": "Marquess of Queensberry",
+   "p": 400,
+   "alt": [
+    "Queensberry"
+   ]
+  },
+  {
+   "q": "What is the term for a count given to a boxer who is still standing but hurt?",
+   "a": "Standing eight count",
+   "p": 400,
+   "alt": [
+    "Standing count",
+    "Eight count"
+   ]
+  },
+  {
+   "q": "What term describes a right-handed boxer who leads with the left?",
+   "a": "Orthodox",
+   "p": 400
+  },
+  {
+   "q": "What is the corner team member who treats swelling and bleeding called?",
+   "a": "Cutman",
+   "p": 400,
+   "alt": [
+    "Cut man"
+   ]
+  },
+  {
+   "q": "What is an illegal punch to the back of the head called?",
+   "a": "Rabbit punch",
+   "p": 400
+  },
+  {
+   "q": "What is a boxer's prize money for a fight called?",
+   "a": "Purse",
+   "p": 400
+  },
+  {
+   "q": "What are the fights on a card before the main event called?",
+   "a": "Undercard",
+   "p": 400
+  },
+  {
+   "q": "What ruling cancels a fight's result, for example after a failed drug test?",
+   "a": "No contest",
+   "p": 400
+  },
+  {
+   "q": "What do the initials WBA stand for?",
+   "a": "World Boxing Association",
+   "p": 400
+  },
+  {
+   "q": "What do the initials IBF stand for?",
+   "a": "International Boxing Federation",
+   "p": 400
+  },
+  {
+   "q": "What do the initials WBO stand for?",
+   "a": "World Boxing Organization",
+   "p": 400,
+   "alt": [
+    "World Boxing Organisation"
+   ]
+  },
+  {
+   "q": "What colour is the famous WBC championship belt?",
+   "a": "Green",
+   "p": 400
+  },
+  {
+   "q": "Which boxing magazine is known as 'The Bible of Boxing'?",
+   "a": "The Ring",
+   "p": 400,
+   "alt": [
+    "Ring Magazine"
+   ]
+  },
+  {
+   "q": "How many rounds does an Olympic boxing bout last?",
+   "a": "Three",
+   "p": 400,
+   "alt": [
+    "3"
+   ]
+  },
+  {
+   "q": "What protective equipment did men stop wearing in Olympic boxing from 2016?",
+   "a": "Headguards",
+   "p": 400,
+   "alt": [
+    "Headgear",
+    "Head guard"
+   ]
+  },
+  {
+   "q": "Which British promoter, son of Barry Hearn, became the face of Matchroom Boxing?",
+   "a": "Eddie Hearn",
+   "p": 400
+  },
+  {
+   "q": "Which famous ring announcer trademarked his long pre-fight introduction phrase?",
+   "a": "Michael Buffer",
+   "p": 400
+  },
+  {
+   "q": "Which 2004 Clint Eastwood boxing film won the Oscar for Best Picture?",
+   "a": "Million Dollar Baby",
+   "p": 400
+  },
+  {
+   "q": "Which actor played Micky Ward in the 2010 film 'The Fighter'?",
+   "a": "Mark Wahlberg",
+   "p": 400
+  },
+  {
+   "q": "Which actor played Depression-era boxer James J. Braddock in 'Cinderella Man'?",
+   "a": "Russell Crowe",
+   "p": 400
+  },
+  {
+   "q": "Which actor played the boxer Billy Hope in the 2015 film 'Southpaw'?",
+   "a": "Jake Gyllenhaal",
+   "p": 400
+  },
+  {
+   "q": "Up the steps of which Philadelphia building does Rocky famously run?",
+   "a": "Philadelphia Museum of Art",
+   "p": 200,
+   "alt": [
+    "Rocky Steps",
+    "Museum of Art"
+   ]
+  },
+  {
+   "q": "Which actor played Clubber Lang in Rocky III?",
+   "a": "Mr. T",
+   "p": 200
+  },
+  {
+   "q": "What is Rocky Balboa's ring nickname?",
+   "a": "The Italian Stallion",
+   "p": 400,
+   "alt": [
+    "Italian Stallion"
+   ]
+  },
+  {
+   "q": "Which Ukrainian won Olympic heavyweight gold at London 2012 and later became undisputed at two weights?",
+   "a": "Oleksandr Usyk",
+   "p": 400,
+   "alt": [
+    "Usyk"
+   ]
+  },
+  {
+   "q": "Which arena in Riyadh hosted the first Fury versus Usyk fight in May 2024?",
+   "a": "Kingdom Arena",
+   "p": 600
+  },
+  {
+   "q": "Which Klitschko brother was the older one, nicknamed 'Dr. Ironfist'?",
+   "a": "Vitali Klitschko",
+   "p": 400,
+   "alt": [
+    "Vitali"
+   ]
+  },
+  {
+   "q": "Which American was the first boxer to beat Muhammad Ali as a professional, in 1971?",
+   "a": "Joe Frazier",
+   "p": 400,
+   "alt": [
+    "Smokin' Joe Frazier"
+   ]
+  },
+  {
+   "q": "Which British heavyweight famously floored a young Cassius Clay in London in 1963?",
+   "a": "Henry Cooper",
+   "p": 400
+  },
+  {
+   "q": "What term is used for a scheduled fight at an agreed weight between two official divisions?",
+   "a": "Catchweight",
+   "p": 400
+  },
+  {
+   "q": "In which division did Bivol and Beterbiev fight their undisputed bouts?",
+   "a": "Light heavyweight",
+   "p": 400
+  },
+  {
+   "q": "Which American heavyweight 'The Easton Assassin' beat an ageing Ali in 1980?",
+   "a": "Larry Holmes",
+   "p": 400,
+   "alt": [
+    "Holmes"
+   ]
+  },
+  {
+   "q": "What is the name of Mayweather's shoulder-roll defensive style?",
+   "a": "Philly shell",
+   "p": 400,
+   "alt": [
+    "Shoulder roll"
+   ]
+  },
+  {
+   "q": "Which Puerto Rican boxer fought Katie Taylor in the first women's fight to headline Madison Square Garden in 2022?",
+   "a": "Amanda Serrano",
+   "p": 400,
+   "alt": [
+    "Serrano"
+   ]
+  },
+  {
+   "q": "Which American boxer from Flint won Olympic middleweight gold in both 2012 and 2016?",
+   "a": "Claressa Shields",
+   "p": 400,
+   "alt": [
+    "Shields"
+   ]
+  },
+  {
+   "q": "Which Ukrainian won Olympic gold in 2008 and 2012 and was nicknamed 'Hi-Tech'?",
+   "a": "Vasyl Lomachenko",
+   "p": 400,
+   "alt": [
+    "Lomachenko",
+    "Loma"
+   ]
+  },
+  {
+   "q": "In which small Maine town did Ali knock out Sonny Liston with the 'phantom punch' in 1965?",
+   "a": "Lewiston",
+   "p": 600
+  },
+  {
+   "q": "Which 1976 Olympic champion beat Muhammad Ali in 1978 in only his eighth professional fight?",
+   "a": "Leon Spinks",
+   "p": 600
+  },
+  {
+   "q": "Which Canadian-Jamaican did Ali fight in his final bout, in the Bahamas in 1981?",
+   "a": "Trevor Berbick",
+   "p": 600,
+   "alt": [
+    "Berbick"
+   ]
+  },
+  {
+   "q": "Which American broke Muhammad Ali's jaw in their first fight in 1973?",
+   "a": "Ken Norton",
+   "p": 600,
+   "alt": [
+    "Norton"
+   ]
+  },
+  {
+   "q": "Which Miami trainer worked Muhammad Ali's corner for most of his career?",
+   "a": "Angelo Dundee",
+   "p": 600,
+   "alt": [
+    "Dundee"
+   ]
+  },
+  {
+   "q": "Which legendary trainer guided the young Mike Tyson but died in 1985 before Tyson became champion?",
+   "a": "Cus D'Amato",
+   "p": 600,
+   "alt": [
+    "D'Amato"
+   ]
+  },
+  {
+   "q": "In which Japanese venue did Buster Douglas knock out Mike Tyson in 1990?",
+   "a": "Tokyo Dome",
+   "p": 600
+  },
+  {
+   "q": "Which unbeaten champion did Mike Tyson knock out in 91 seconds in 1988?",
+   "a": "Michael Spinks",
+   "p": 600
+  },
+  {
+   "q": "Which Irish heavyweight beat Mike Tyson in Tyson's last professional fight in 2005?",
+   "a": "Kevin McBride",
+   "p": 600,
+   "alt": [
+    "McBride"
+   ]
+  },
+  {
+   "q": "Which American knocked out Lennox Lewis in South Africa in 2001?",
+   "a": "Hasim Rahman",
+   "p": 600,
+   "alt": [
+    "Rahman"
+   ]
+  },
+  {
+   "q": "Who did George Foreman knock out in 1994 to regain the heavyweight title aged 45?",
+   "a": "Michael Moorer",
+   "p": 600,
+   "alt": [
+    "Moorer"
+   ]
+  },
+  {
+   "q": "What landed in the ring during the 1993 Riddick Bowe versus Evander Holyfield rematch?",
+   "a": "A paraglider",
+   "p": 600,
+   "alt": [
+    "Paraglider",
+    "Fan Man",
+    "A man on a paraglider"
+   ]
+  },
+  {
+   "q": "In which city did George Foreman win Olympic heavyweight gold in 1968?",
+   "a": "Mexico City",
+   "p": 600
+  },
+  {
+   "q": "Which 1952 Olympic middleweight champion won the heavyweight title after Marciano retired?",
+   "a": "Floyd Patterson",
+   "p": 600,
+   "alt": [
+    "Patterson"
+   ]
+  },
+  {
+   "q": "Which Swede knocked out Floyd Patterson in 1959 to win the heavyweight title?",
+   "a": "Ingemar Johansson",
+   "p": 600,
+   "alt": [
+    "Johansson"
+   ]
+  },
+  {
+   "q": "Who in 1908 became the first Black world heavyweight champion?",
+   "a": "Jack Johnson",
+   "p": 600
+  },
+  {
+   "q": "Which heavyweight champion was nicknamed 'The Manassa Mauler'?",
+   "a": "Jack Dempsey",
+   "p": 600,
+   "alt": [
+    "Dempsey"
+   ]
+  },
+  {
+   "q": "What is the 1927 Dempsey versus Tunney rematch, famous for a delayed knockdown count, known as?",
+   "a": "The Long Count",
+   "p": 600,
+   "alt": [
+    "Long Count Fight"
+   ]
+  },
+  {
+   "q": "Which Argentine, 'The Wild Bull of the Pampas', knocked Jack Dempsey out of the ring in 1923?",
+   "a": "Luis Firpo",
+   "p": 600,
+   "alt": [
+    "Luis Ángel Firpo",
+    "Firpo"
+   ]
+  },
+  {
+   "q": "Which German did Joe Louis knock out in the first round of their 1938 rematch at Yankee Stadium?",
+   "a": "Max Schmeling",
+   "p": 600,
+   "alt": [
+    "Schmeling"
+   ]
+  },
+  {
+   "q": "Who was the last bare-knuckle heavyweight champion?",
+   "a": "John L. Sullivan",
+   "p": 600
+  },
+  {
+   "q": "What name was given to Hagler versus Hearns, the furious 1985 three-round fight?",
+   "a": "The War",
+   "p": 600,
+   "alt": [
+    "The Fight"
+   ]
+  },
+  {
+   "q": "What name was given to the first Leonard versus Durán fight in Canada in 1980?",
+   "a": "The Brawl in Montreal",
+   "p": 600,
+   "alt": [
+    "Brawl in Montreal"
+   ]
+  },
+  {
+   "q": "What name was given to Sugar Ray Robinson's 1951 win over Jake LaMotta?",
+   "a": "The St. Valentine's Day Massacre",
+   "p": 600,
+   "alt": [
+    "St Valentine's Day Massacre",
+    "Valentine's Day Massacre"
+   ]
+  },
+  {
+   "q": "How many times did Sugar Ray Robinson win the world middleweight title?",
+   "a": "Five",
+   "p": 600,
+   "alt": [
+    "5"
+   ]
+  },
+  {
+   "q": "Which Las Vegas hotel's outdoor arena hosted Hagler versus Hearns in 1985?",
+   "a": "Caesars Palace",
+   "p": 600
+  },
+  {
+   "q": "Which Mexican did Mayweather beat in his 49th fight before facing McGregor?",
+   "a": "Andre Berto",
+   "p": 600,
+   "alt": [
+    "Berto"
+   ]
+  },
+  {
+   "q": "Which Las Vegas arena hosted Mayweather versus McGregor in 2017?",
+   "a": "T-Mobile Arena",
+   "p": 600
+  },
+  {
+   "q": "In which Michigan city was Floyd Mayweather Jr. born?",
+   "a": "Grand Rapids",
+   "p": 600
+  },
+  {
+   "q": "Which uncle of Floyd Mayweather Jr., a former champion himself, was his long-time trainer?",
+   "a": "Roger Mayweather",
+   "p": 600
+  },
+  {
+   "q": "How many times did Manny Pacquiao fight Juan Manuel Márquez?",
+   "a": "Four",
+   "p": 600,
+   "alt": [
+    "4"
+   ]
+  },
+  {
+   "q": "Which Filipino city is Manny Pacquiao's home town?",
+   "a": "General Santos",
+   "p": 600,
+   "alt": [
+    "General Santos City",
+    "GenSan"
+   ]
+  },
+  {
+   "q": "What is the name of Freddie Roach's famous Hollywood gym?",
+   "a": "Wild Card Boxing Club",
+   "p": 600,
+   "alt": [
+    "Wild Card",
+    "Wildcard Gym"
+   ]
+  },
+  {
+   "q": "Which Mexican legend was unbeaten in his first 90 pro fights until losing to Frankie Randall in 1994?",
+   "a": "Julio César Chávez",
+   "p": 600,
+   "alt": [
+    "Julio Cesar Chavez",
+    "Chavez"
+   ]
+  },
+  {
+   "q": "Which Mexican beat Prince Naseem Hamed in 2001, handing him his only defeat?",
+   "a": "Marco Antonio Barrera",
+   "p": 600,
+   "alt": [
+    "Barrera"
+   ]
+  },
+  {
+   "q": "Which American 'Executioner' won a world title at 49 years old in 2014?",
+   "a": "Bernard Hopkins",
+   "p": 600,
+   "alt": [
+    "Hopkins"
+   ]
+  },
+  {
+   "q": "Which Puerto Rican nicknamed 'Tito' lost to Bernard Hopkins in 2001?",
+   "a": "Félix Trinidad",
+   "p": 600,
+   "alt": [
+    "Felix Trinidad",
+    "Trinidad"
+   ]
+  },
+  {
+   "q": "Which American was controversially denied gold at the 1988 Seoul Olympics before becoming a four-weight world champion?",
+   "a": "Roy Jones Jr.",
+   "p": 600,
+   "alt": [
+    "Roy Jones"
+   ]
+  },
+  {
+   "q": "Which Canadian-Italian fought Micky Ward in a famous trilogy in 2002 and 2003?",
+   "a": "Arturo Gatti",
+   "p": 600,
+   "alt": [
+    "Gatti"
+   ]
+  },
+  {
+   "q": "Which American defensive wizard was nicknamed 'Sweet Pea'?",
+   "a": "Pernell Whitaker",
+   "p": 600,
+   "alt": [
+    "Whitaker"
+   ]
+  },
+  {
+   "q": "Which British rival did Carl Froch knock out in front of 80,000 at Wembley in 2014?",
+   "a": "George Groves",
+   "p": 600,
+   "alt": [
+    "Groves"
+   ]
+  },
+  {
+   "q": "Which Klitschko brother won super-heavyweight gold at the 1996 Atlanta Olympics?",
+   "a": "Wladimir Klitschko",
+   "p": 600,
+   "alt": [
+    "Wladimir"
+   ]
+  },
+  {
+   "q": "Which British boxer won super-heavyweight gold at the Sydney 2000 Olympics?",
+   "a": "Audley Harrison",
+   "p": 600,
+   "alt": [
+    "Harrison"
+   ]
+  },
+  {
+   "q": "Which Cuban won Olympic heavyweight gold in 1992, 1996 and 2000?",
+   "a": "Félix Savón",
+   "p": 600,
+   "alt": [
+    "Felix Savon",
+    "Savon"
+   ]
+  },
+  {
+   "q": "Which governing body was given control of Olympic boxing for the LA 2028 Games?",
+   "a": "World Boxing",
+   "p": 600
+  },
+  {
+   "q": "Which London football stadium hosted the first Joshua versus Usyk fight in 2021?",
+   "a": "Tottenham Hotspur Stadium",
+   "p": 600,
+   "alt": [
+    "Tottenham"
+   ]
+  },
+  {
+   "q": "What was the 2024 Fury versus Usyk undisputed fight in Riyadh billed as?",
+   "a": "Ring of Fire",
+   "p": 600
+  },
+  {
+   "q": "Who won the February 2025 rematch between Bivol and Beterbiev in Riyadh?",
+   "a": "Dmitry Bivol",
+   "p": 600,
+   "alt": [
+    "Bivol"
+   ]
+  },
+  {
+   "q": "Which American did Floyd Mayweather box in a 2022 exhibition on a helipad in Dubai?",
+   "a": "Don Moore",
+   "p": 600
+  },
+  {
+   "q": "Which Australian-Lebanese boxer did Amir Khan stop in Jeddah in July 2019?",
+   "a": "Billy Dib",
+   "p": 600,
+   "alt": [
+    "Dib"
+   ]
+  },
+  {
+   "q": "In which Texas stadium did Jake Paul fight Mike Tyson in 2024?",
+   "a": "AT&T Stadium",
+   "p": 600,
+   "alt": [
+    "Cowboys Stadium"
+   ]
+  },
+  {
+   "q": "Which famous boxing magazine was bought by Turki Alalshikh's group in 2024?",
+   "a": "The Ring",
+   "p": 600,
+   "alt": [
+    "Ring Magazine"
+   ]
+  },
+  {
+   "q": "In which New York village is the International Boxing Hall of Fame?",
+   "a": "Canastota",
+   "p": 600
+  },
+  {
+   "q": "Which American promoter founded Top Rank?",
+   "a": "Bob Arum",
+   "p": 600,
+   "alt": [
+    "Arum"
+   ]
+  },
+  {
+   "q": "Which New Jersey journeyman, 'The Bayonne Bleeder', helped inspire Rocky?",
+   "a": "Chuck Wepner",
+   "p": 600,
+   "alt": [
+    "Wepner"
+   ]
+  },
+  {
+   "q": "What is the lightest weight class in professional boxing?",
+   "a": "Minimumweight",
+   "p": 600,
+   "alt": [
+    "Strawweight",
+    "Mini flyweight"
+   ]
+  },
+  {
+   "q": "In which city did Joe Frazier win Olympic heavyweight gold in 1964?",
+   "a": "Tokyo",
+   "p": 600
+  },
+  {
+   "q": "Which Italian giant held the world heavyweight title in 1933 and 1934?",
+   "a": "Primo Carnera",
+   "p": 600,
+   "alt": [
+    "Carnera"
+   ]
+  },
+  {
+   "q": "Which British heavyweight won the WBC title at Wembley Stadium in 1995 against Oliver McCall?",
+   "a": "Frank Bruno",
+   "p": 600,
+   "alt": [
+    "Bruno"
+   ]
+  },
+  {
+   "q": "Which arena in Quezon City hosted the Thrilla in Manila?",
+   "a": "Araneta Coliseum",
+   "p": 600,
+   "alt": [
+    "Smart Araneta Coliseum"
+   ]
+  },
+  {
+   "q": "In which Kinshasa stadium was the Rumble in the Jungle fought?",
+   "a": "Stade du 20 Mai",
+   "p": 600,
+   "alt": [
+    "20th of May Stadium",
+    "Stade Tata Raphaël"
+   ]
+  },
+  {
+   "q": "What was the 2023 Fury versus Ngannou fight in Riyadh billed as?",
+   "a": "Battle of the Baddest",
+   "p": 600
+  },
+  {
+   "q": "Which division did the WBC create in 2020 between cruiserweight and heavyweight?",
+   "a": "Bridgerweight",
+   "p": 600
+  },
+  {
+   "q": "Which Hungarian became the first boxer to win three Olympic golds, from 1948 to 1956?",
+   "a": "László Papp",
+   "p": 600,
+   "alt": [
+    "Laszlo Papp",
+    "Papp"
+   ]
+  },
+  {
+   "q": "Which Irish featherweight champion was nicknamed 'The Clones Cyclone'?",
+   "a": "Barry McGuigan",
+   "p": 600,
+   "alt": [
+    "McGuigan"
+   ]
+  },
+  {
+   "q": "Which Japanese wrestler did Muhammad Ali face in a strange boxer-versus-wrestler bout in Tokyo in 1976?",
+   "a": "Antonio Inoki",
+   "p": 600,
+   "alt": [
+    "Inoki"
+   ]
+  },
+  {
+   "q": "What nickname did a young, destructive Mike Tyson carry, before 'Iron Mike'?",
+   "a": "Kid Dynamite",
+   "p": 600
+  },
+  {
+   "q": "Which belt is awarded to British champions and kept after winning three title fights?",
+   "a": "Lonsdale Belt",
+   "p": 600,
+   "alt": [
+    "Lonsdale"
+   ]
+  },
+  {
+   "q": "Which world sanctioning body began life in 1921 as the National Boxing Association?",
+   "a": "WBA",
+   "p": 600,
+   "alt": [
+    "World Boxing Association"
+   ]
+  },
+  {
+   "q": "Hagler, Hearns, Durán and which other fighter made up boxing's 'Four Kings' of the 1980s?",
+   "a": "Sugar Ray Leonard",
+   "p": 600,
+   "alt": [
+    "Ray Leonard"
+   ]
+  },
+  {
+   "q": "Which Ghanaian featherweight great was nicknamed 'The Professor'?",
+   "a": "Azumah Nelson",
+   "p": 600,
+   "alt": [
+    "Nelson"
+   ]
+  },
+  {
+   "q": "Which tiny Welsh flyweight of the 1910s was nicknamed 'The Mighty Atom'?",
+   "a": "Jimmy Wilde",
+   "p": 600,
+   "alt": [
+    "Wilde"
+   ]
+  },
+  {
+   "q": "Which Belfast boxer, a two-weight world champion, was nicknamed 'The Jackal'?",
+   "a": "Carl Frampton",
+   "p": 600,
+   "alt": [
+    "Frampton"
+   ]
+  },
+  {
+   "q": "Which actress played Adrian in the Rocky films?",
+   "a": "Talia Shire",
+   "p": 400
+  },
+  {
+   "q": "Which Swedish actor played Ivan Drago?",
+   "a": "Dolph Lundgren",
+   "p": 400
+  },
+  {
+   "q": "In Creed II, Adonis fights the son of which Rocky IV villain?",
+   "a": "Ivan Drago",
+   "p": 200,
+   "alt": [
+    "Drago"
+   ]
+  },
+  {
+   "q": "Who is Rocky's grumpy old trainer in the first three films?",
+   "a": "Mickey",
+   "p": 200,
+   "alt": [
+    "Mickey Goldmill"
+   ]
+  },
+  {
+   "q": "What does Rocky punch while training in a meat freezer?",
+   "a": "Sides of beef",
+   "p": 200,
+   "alt": [
+    "Meat",
+    "Beef carcasses"
+   ]
+  },
+  {
+   "q": "What does Rocky famously drink raw from a glass during training?",
+   "a": "Eggs",
+   "p": 200,
+   "alt": [
+    "Raw eggs"
+   ]
+  },
+  {
+   "q": "Which two punches make up a classic 'one-two'?",
+   "a": "Jab and cross",
+   "p": 200,
+   "alt": [
+    "Jab and straight right",
+    "Jab and right hand"
+   ]
+  },
+  {
+   "q": "What do boxers jump with to build footwork and stamina?",
+   "a": "Skipping rope",
+   "p": 200,
+   "alt": [
+    "Jump rope",
+    "Rope"
+   ]
+  },
+  {
+   "q": "What is it called when a boxer is put on the floor by a punch but gets up?",
+   "a": "Knockdown",
+   "p": 200
+  },
+  {
+   "q": "Which country is Canelo Álvarez from?",
+   "a": "Mexico",
+   "p": 200
+  },
+  {
+   "q": "In which weight class did Cassius Clay win Olympic gold in 1960?",
+   "a": "Light heavyweight",
+   "p": 600
+  },
+  {
+   "q": "Which English boxer won middleweight gold at the Beijing 2008 Olympics?",
+   "a": "James DeGale",
+   "p": 600,
+   "alt": [
+    "DeGale"
+   ]
+  },
+  {
+   "q": "Which middleweight's wrongful conviction inspired the 1999 Denzel Washington film 'The Hurricane'?",
+   "a": "Rubin Carter",
+   "p": 600,
+   "alt": [
+    "Rubin 'Hurricane' Carter",
+    "Hurricane Carter"
+   ]
+  },
+  {
+   "q": "Which Mexican did Dmitry Bivol beat in Abu Dhabi in November 2022?",
+   "a": "Gilberto Ramírez",
+   "p": 600,
+   "alt": [
+    "Zurdo Ramirez",
+    "Gilberto Ramirez"
+   ]
+  },
+  {
+   "q": "Which actor won an Oscar for playing boxer Jake LaMotta?",
+   "a": "Robert De Niro",
+   "p": 200
+  }
+ ]
+}

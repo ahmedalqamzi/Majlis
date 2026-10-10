@@ -1,0 +1,1787 @@
+{
+ "id": "villains",
+ "name": "Movie Villains",
+ "questions": [
+  {
+   "q": "Which actor played the Joker in Tim Burton's Batman (1989)?",
+   "a": "Jack Nicholson",
+   "p": 200
+  },
+  {
+   "q": "Which actor played the Joker in Suicide Squad (2016)?",
+   "a": "Jared Leto",
+   "p": 200
+  },
+  {
+   "q": "Which actress plays Harley Quinn in Suicide Squad and Birds of Prey?",
+   "a": "Margot Robbie",
+   "p": 200
+  },
+  {
+   "q": "Which masked villain, played by Tom Hardy, breaks Batman's back in The Dark Knight Rises?",
+   "a": "Bane",
+   "p": 200
+  },
+  {
+   "q": "Which actor plays Hannibal Lecter in The Silence of the Lambs?",
+   "a": "Anthony Hopkins",
+   "p": 200
+  },
+  {
+   "q": "What is Hannibal Lecter's grim nickname?",
+   "a": "Hannibal the Cannibal",
+   "p": 200
+  },
+  {
+   "q": "Which FBI trainee visits Hannibal Lecter in prison for help?",
+   "a": "Clarice Starling",
+   "p": 200,
+   "alt": [
+    "Clarice"
+   ]
+  },
+  {
+   "q": "Which prince turns out to be the villain of Frozen?",
+   "a": "Prince Hans",
+   "p": 200,
+   "alt": [
+    "Hans"
+   ]
+  },
+  {
+   "q": "Which scheming adviser tries to kill Kuzco in The Emperor's New Groove?",
+   "a": "Yzma",
+   "p": 200
+  },
+  {
+   "q": "What is the name of Yzma's muscular, good-natured henchman?",
+   "a": "Kronk",
+   "p": 200
+  },
+  {
+   "q": "Which green, grumpy Dr Seuss character tries to steal Christmas?",
+   "a": "The Grinch",
+   "p": 200,
+   "alt": [
+    "Grinch"
+   ]
+  },
+  {
+   "q": "Which villain owns a cat and leads the criminal organisation SPECTRE in the Bond films?",
+   "a": "Ernst Stavro Blofeld",
+   "p": 200,
+   "alt": [
+    "Blofeld"
+   ]
+  },
+  {
+   "q": "What colour is Blofeld's fluffy cat?",
+   "a": "White",
+   "p": 200
+  },
+  {
+   "q": "Which Bond villain with steel teeth was played by Richard Kiel?",
+   "a": "Jaws",
+   "p": 200
+  },
+  {
+   "q": "Which Bond villain is famous for throwing his steel-rimmed bowler hat?",
+   "a": "Oddjob",
+   "p": 200
+  },
+  {
+   "q": "Which Bond villain, obsessed with gold, plans to raid Fort Knox?",
+   "a": "Auric Goldfinger",
+   "p": 200,
+   "alt": [
+    "Goldfinger"
+   ]
+  },
+  {
+   "q": "Which Bond villain's name is also the title of the first Bond film?",
+   "a": "Dr. No",
+   "p": 200,
+   "alt": [
+    "Doctor No",
+    "Julius No"
+   ]
+  },
+  {
+   "q": "Which German actor plays the cunning SS officer Hans Landa in Inglourious Basterds?",
+   "a": "Christoph Waltz",
+   "p": 200
+  },
+  {
+   "q": "Which actor plays Hans Gruber in Die Hard?",
+   "a": "Alan Rickman",
+   "p": 200
+  },
+  {
+   "q": "In which Los Angeles tower does Hans Gruber take hostages in Die Hard?",
+   "a": "Nakatomi Plaza",
+   "p": 200,
+   "alt": [
+    "Nakatomi Tower",
+    "Nakatomi"
+   ]
+  },
+  {
+   "q": "Which agent is Neo's relentless enemy in The Matrix?",
+   "a": "Agent Smith",
+   "p": 200
+  },
+  {
+   "q": "Which actor plays Agent Smith in The Matrix?",
+   "a": "Hugo Weaving",
+   "p": 200
+  },
+  {
+   "q": "Which liquid-metal Terminator hunts John Connor in Terminator 2?",
+   "a": "T-1000",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the AI system that starts the war in the Terminator films?",
+   "a": "Skynet",
+   "p": 200
+  },
+  {
+   "q": "Which witch melts when doused with water in The Wizard of Oz?",
+   "a": "Wicked Witch of the West",
+   "p": 200,
+   "alt": [
+    "The Wicked Witch"
+   ]
+  },
+  {
+   "q": "Which winged creatures serve the Wicked Witch of the West?",
+   "a": "Flying monkeys",
+   "p": 200,
+   "alt": [
+    "Winged monkeys"
+   ]
+  },
+  {
+   "q": "In Wicked, which green-skinned student becomes the Wicked Witch of the West?",
+   "a": "Elphaba",
+   "p": 200
+  },
+  {
+   "q": "Which villain rules Panem as president in The Hunger Games?",
+   "a": "President Snow",
+   "p": 200,
+   "alt": [
+    "Coriolanus Snow",
+    "Snow"
+   ]
+  },
+  {
+   "q": "Which witch has cast an eternal winter over Narnia?",
+   "a": "The White Witch",
+   "p": 200,
+   "alt": [
+    "Jadis"
+   ]
+  },
+  {
+   "q": "Which bald villain with a pinky-finger habit is Austin Powers's nemesis?",
+   "a": "Dr. Evil",
+   "p": 200,
+   "alt": [
+    "Doctor Evil"
+   ]
+  },
+  {
+   "q": "What is the name of Dr Evil's tiny clone?",
+   "a": "Mini-Me",
+   "p": 200
+  },
+  {
+   "q": "Which short ruler of Duloc is the villain of Shrek?",
+   "a": "Lord Farquaad",
+   "p": 200
+  },
+  {
+   "q": "Which magical godmother is the villain of Shrek 2?",
+   "a": "The Fairy Godmother",
+   "p": 200,
+   "alt": [
+    "Fairy Godmother"
+   ]
+  },
+  {
+   "q": "Which snow leopard is the villain of the first Kung Fu Panda?",
+   "a": "Tai Lung",
+   "p": 200
+  },
+  {
+   "q": "Which peacock is the villain of Kung Fu Panda 2?",
+   "a": "Lord Shen",
+   "p": 200,
+   "alt": [
+    "Shen"
+   ]
+  },
+  {
+   "q": "Which villain does Jim Carrey play in the Sonic the Hedgehog films?",
+   "a": "Dr. Robotnik",
+   "p": 200,
+   "alt": [
+    "Doctor Robotnik",
+    "Dr. Eggman",
+    "Eggman"
+   ]
+  },
+  {
+   "q": "Who plays Maleficent in the 2014 live-action film?",
+   "a": "Angelina Jolie",
+   "p": 200
+  },
+  {
+   "q": "Which actress played Cruella de Vil in 101 Dalmatians (1996)?",
+   "a": "Glenn Close",
+   "p": 200
+  },
+  {
+   "q": "Which actress plays the young Cruella in Cruella (2021)?",
+   "a": "Emma Stone",
+   "p": 200
+  },
+  {
+   "q": "Which actress played Ursula in the 2023 live-action The Little Mermaid?",
+   "a": "Melissa McCarthy",
+   "p": 200
+  },
+  {
+   "q": "Which actor played Captain Hook in Steven Spielberg's Hook (1991)?",
+   "a": "Dustin Hoffman",
+   "p": 200
+  },
+  {
+   "q": "Which ship does Captain Hook command?",
+   "a": "The Jolly Roger",
+   "p": 200,
+   "alt": [
+    "Jolly Roger"
+   ]
+  },
+  {
+   "q": "What is the name of Captain Hook's bumbling first mate?",
+   "a": "Mr. Smee",
+   "p": 200,
+   "alt": [
+    "Smee"
+   ]
+  },
+  {
+   "q": "Which Pirates of the Caribbean villain has tentacles for a beard?",
+   "a": "Davy Jones",
+   "p": 200
+  },
+  {
+   "q": "Which ship does Davy Jones captain?",
+   "a": "The Flying Dutchman",
+   "p": 200,
+   "alt": [
+    "Flying Dutchman"
+   ]
+  },
+  {
+   "q": "Which cursed captain leads the mutiny against Jack Sparrow in The Curse of the Black Pearl?",
+   "a": "Hector Barbossa",
+   "p": 200,
+   "alt": [
+    "Barbossa",
+    "Captain Barbossa"
+   ]
+  },
+  {
+   "q": "Which actor played the emperor Commodus in Gladiator (2000)?",
+   "a": "Joaquin Phoenix",
+   "p": 200
+  },
+  {
+   "q": "Which actor plays Lex Luthor in Batman v Superman: Dawn of Justice?",
+   "a": "Jesse Eisenberg",
+   "p": 200
+  },
+  {
+   "q": "Which bald genius is Superman's greatest enemy?",
+   "a": "Lex Luthor",
+   "p": 200
+  },
+  {
+   "q": "Which Kryptonian general is the villain of Man of Steel?",
+   "a": "General Zod",
+   "p": 200,
+   "alt": [
+    "Zod"
+   ]
+  },
+  {
+   "q": "Which metal-controlling mutant is the X-Men's most famous enemy?",
+   "a": "Magneto",
+   "p": 200
+  },
+  {
+   "q": "Which actor played Magneto in the original X-Men films?",
+   "a": "Ian McKellen",
+   "p": 200
+  },
+  {
+   "q": "Which actor played the younger Magneto in X-Men: First Class?",
+   "a": "Michael Fassbender",
+   "p": 200
+  },
+  {
+   "q": "Which shape-shifting blue mutant did Jennifer Lawrence play?",
+   "a": "Mystique",
+   "p": 200
+  },
+  {
+   "q": "Which alien symbiote is played by Tom Hardy in his own film series?",
+   "a": "Venom",
+   "p": 200
+  },
+  {
+   "q": "Which Batman villain did Jim Carrey play in Batman Forever?",
+   "a": "The Riddler",
+   "p": 200,
+   "alt": [
+    "Riddler"
+   ]
+  },
+  {
+   "q": "Which actor played the Penguin in Batman Returns (1992)?",
+   "a": "Danny DeVito",
+   "p": 200
+  },
+  {
+   "q": "Which actress played Catwoman in Batman Returns?",
+   "a": "Michelle Pfeiffer",
+   "p": 200
+  },
+  {
+   "q": "Which icy villain did Arnold Schwarzenegger play in Batman & Robin?",
+   "a": "Mr. Freeze",
+   "p": 200,
+   "alt": [
+    "Mister Freeze"
+   ]
+  },
+  {
+   "q": "Which Batman villain uses fear toxin?",
+   "a": "Scarecrow",
+   "p": 200,
+   "alt": [
+    "The Scarecrow"
+   ]
+  },
+  {
+   "q": "Which actor played Scarecrow in Batman Begins?",
+   "a": "Cillian Murphy",
+   "p": 200
+  },
+  {
+   "q": "Which actor played Ra's al Ghul in Batman Begins?",
+   "a": "Liam Neeson",
+   "p": 200
+  },
+  {
+   "q": "Which actor plays the Penguin in The Batman (2022) and its spin-off series?",
+   "a": "Colin Farrell",
+   "p": 200
+  },
+  {
+   "q": "Which actor plays the Riddler in The Batman (2022)?",
+   "a": "Paul Dano",
+   "p": 200
+  },
+  {
+   "q": "Which plant-loving villain did Uma Thurman play in Batman & Robin?",
+   "a": "Poison Ivy",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the Joker's girlfriend, a former psychiatrist?",
+   "a": "Harley Quinn",
+   "p": 200
+  },
+  {
+   "q": "Which Spider-Man villain did Jamie Foxx play?",
+   "a": "Electro",
+   "p": 200
+  },
+  {
+   "q": "Which Spider-Man villain is made of sand?",
+   "a": "Sandman",
+   "p": 200,
+   "alt": [
+    "The Sandman"
+   ]
+  },
+  {
+   "q": "Which nerdy villain in Despicable Me steals the Great Pyramid of Giza?",
+   "a": "Vector",
+   "p": 200
+  },
+  {
+   "q": "Which Bond villain did Javier Bardem play in Skyfall?",
+   "a": "Raoul Silva",
+   "p": 400,
+   "alt": [
+    "Silva"
+   ]
+  },
+  {
+   "q": "Which Bond villain did Rami Malek play in No Time to Die?",
+   "a": "Safin",
+   "p": 400,
+   "alt": [
+    "Lyutsifer Safin"
+   ]
+  },
+  {
+   "q": "Which Danish actor played Le Chiffre in Casino Royale (2006)?",
+   "a": "Mads Mikkelsen",
+   "p": 200
+  },
+  {
+   "q": "What does Le Chiffre weep from his damaged eye?",
+   "a": "Blood",
+   "p": 200
+  },
+  {
+   "q": "Which hitman with a strange haircut is played by Javier Bardem in No Country for Old Men?",
+   "a": "Anton Chigurh",
+   "p": 200
+  },
+  {
+   "q": "Which actress won an Oscar for playing Nurse Ratched?",
+   "a": "Louise Fletcher",
+   "p": 200
+  },
+  {
+   "q": "In which 1975 film is Nurse Ratched the villain?",
+   "a": "One Flew Over the Cuckoo's Nest",
+   "p": 200
+  },
+  {
+   "q": "Which actor won an Oscar for playing the corrupt cop Alonzo Harris in Training Day?",
+   "a": "Denzel Washington",
+   "p": 200
+  },
+  {
+   "q": "Which bully torments Marty McFly's father in Back to the Future?",
+   "a": "Biff Tannen",
+   "p": 200,
+   "alt": [
+    "Biff"
+   ]
+  },
+  {
+   "q": "Which ruthless banker plots against George Bailey in It's a Wonderful Life?",
+   "a": "Mr. Potter",
+   "p": 200,
+   "alt": [
+    "Henry F. Potter",
+    "Potter"
+   ]
+  },
+  {
+   "q": "Which thumb-sucking royal is the villain of Disney's Robin Hood?",
+   "a": "Prince John",
+   "p": 200
+  },
+  {
+   "q": "Which hissing snake is Prince John's adviser in Disney's Robin Hood?",
+   "a": "Sir Hiss",
+   "p": 200
+  },
+  {
+   "q": "Which greedy governor is the villain of Pocahontas?",
+   "a": "Governor Ratcliffe",
+   "p": 200,
+   "alt": [
+    "Ratcliffe"
+   ]
+  },
+  {
+   "q": "Which hunter betrays the gorillas in Disney's Tarzan?",
+   "a": "Clayton",
+   "p": 200
+  },
+  {
+   "q": "Which cat belongs to Lady Tremaine in Cinderella?",
+   "a": "Lucifer",
+   "p": 200
+  },
+  {
+   "q": "Which actor played the Joker in the 1960s Batman TV series and film?",
+   "a": "Cesar Romero",
+   "p": 400
+  },
+  {
+   "q": "What feature did Cesar Romero refuse to shave off when playing the Joker?",
+   "a": "His moustache",
+   "p": 600,
+   "alt": [
+    "Moustache",
+    "Mustache"
+   ]
+  },
+  {
+   "q": "What is the Joker's real name in Tim Burton's Batman (1989)?",
+   "a": "Jack Napier",
+   "p": 400
+  },
+  {
+   "q": "What is the Joker's name before his transformation in Joker (2019)?",
+   "a": "Arthur Fleck",
+   "p": 400
+  },
+  {
+   "q": "Who directed Joker (2019)?",
+   "a": "Todd Phillips",
+   "p": 400
+  },
+  {
+   "q": "Which singer plays Harley Quinn in Joker: Folie à Deux?",
+   "a": "Lady Gaga",
+   "p": 200
+  },
+  {
+   "q": "Which Oscar did Heath Ledger win posthumously for The Dark Knight?",
+   "a": "Best Supporting Actor",
+   "p": 400,
+   "alt": [
+    "Supporting Actor"
+   ]
+  },
+  {
+   "q": "Which actor appears briefly as the Joker in The Batman (2022)?",
+   "a": "Barry Keoghan",
+   "p": 400
+  },
+  {
+   "q": "Which villain did Aaron Eckhart play in The Dark Knight?",
+   "a": "Two-Face",
+   "p": 400,
+   "alt": [
+    "Harvey Dent"
+   ]
+  },
+  {
+   "q": "Which actor played Two-Face in Batman Forever?",
+   "a": "Tommy Lee Jones",
+   "p": 400
+  },
+  {
+   "q": "Which killer is the FBI hunting in The Silence of the Lambs, with Lecter's help?",
+   "a": "Buffalo Bill",
+   "p": 400
+  },
+  {
+   "q": "Which actor played Hannibal Lecter in Manhunter (1986)?",
+   "a": "Brian Cox",
+   "p": 400
+  },
+  {
+   "q": "Which actress plays Clarice Starling in The Silence of the Lambs?",
+   "a": "Jodie Foster",
+   "p": 400
+  },
+  {
+   "q": "Which 2001 sequel to The Silence of the Lambs finds Lecter living in Florence?",
+   "a": "Hannibal",
+   "p": 400
+  },
+  {
+   "q": "Which German actor played Goldfinger?",
+   "a": "Gert Fröbe",
+   "p": 400,
+   "alt": [
+    "Gert Frobe"
+   ]
+  },
+  {
+   "q": "Which Bond villain's henchwoman, played by Grace Jones, appears in A View to a Kill?",
+   "a": "May Day",
+   "p": 400
+  },
+  {
+   "q": "Which Christopher Walken villain plans to destroy Silicon Valley in A View to a Kill?",
+   "a": "Max Zorin",
+   "p": 400,
+   "alt": [
+    "Zorin"
+   ]
+  },
+  {
+   "q": "Which former 00 agent, played by Sean Bean, is the villain of GoldenEye?",
+   "a": "Alec Trevelyan",
+   "p": 400,
+   "alt": [
+    "Trevelyan",
+    "006"
+   ]
+  },
+  {
+   "q": "Which media mogul is the villain of Tomorrow Never Dies?",
+   "a": "Elliot Carver",
+   "p": 400,
+   "alt": [
+    "Carver"
+   ]
+  },
+  {
+   "q": "Which actor played the assassin Scaramanga in The Man with the Golden Gun?",
+   "a": "Christopher Lee",
+   "p": 400
+  },
+  {
+   "q": "What is the name of Scaramanga's diminutive henchman?",
+   "a": "Nick Nack",
+   "p": 600
+  },
+  {
+   "q": "In which Bond film does Jaws first appear?",
+   "a": "The Spy Who Loved Me",
+   "p": 400
+  },
+  {
+   "q": "In which Bond film does Blofeld's face first appear on screen?",
+   "a": "You Only Live Twice",
+   "p": 400
+  },
+  {
+   "q": "Inside what natural feature is Blofeld's secret rocket base in You Only Live Twice?",
+   "a": "A volcano",
+   "p": 400,
+   "alt": [
+    "Volcano"
+   ]
+  },
+  {
+   "q": "Which actor played Blofeld in Spectre (2015)?",
+   "a": "Christoph Waltz",
+   "p": 400
+  },
+  {
+   "q": "Which Bond villain in Moonraker plans to wipe out humanity from a space station?",
+   "a": "Hugo Drax",
+   "p": 400,
+   "alt": [
+    "Drax"
+   ]
+  },
+  {
+   "q": "Which SPECTRE agent with a poisoned blade in her shoe appears in From Russia with Love?",
+   "a": "Rosa Klebb",
+   "p": 400
+  },
+  {
+   "q": "Which Jaws actor played the assassin Red Grant in From Russia with Love?",
+   "a": "Robert Shaw",
+   "p": 400
+  },
+  {
+   "q": "Which eyepatch-wearing SPECTRE agent keeps sharks in Thunderball?",
+   "a": "Emilio Largo",
+   "p": 400,
+   "alt": [
+    "Largo"
+   ]
+  },
+  {
+   "q": "Which villain in The Spy Who Loved Me wants to build an underwater city?",
+   "a": "Karl Stromberg",
+   "p": 400,
+   "alt": [
+    "Stromberg"
+   ]
+  },
+  {
+   "q": "Which Live and Let Die villain disguises himself as the gangster Mr Big?",
+   "a": "Dr. Kananga",
+   "p": 400,
+   "alt": [
+    "Kananga"
+   ]
+  },
+  {
+   "q": "Which villain of The World Is Not Enough cannot feel pain because of a bullet in his brain?",
+   "a": "Renard",
+   "p": 400
+  },
+  {
+   "q": "Which oil heiress secretly works with Renard in The World Is Not Enough?",
+   "a": "Elektra King",
+   "p": 400,
+   "alt": [
+    "Elektra"
+   ]
+  },
+  {
+   "q": "Which Bond villain did Mathieu Amalric play in Quantum of Solace?",
+   "a": "Dominic Greene",
+   "p": 400,
+   "alt": [
+    "Greene"
+   ]
+  },
+  {
+   "q": "Which drug lord kills Felix Leiter's wife in Licence to Kill?",
+   "a": "Franz Sanchez",
+   "p": 400,
+   "alt": [
+    "Sanchez"
+   ]
+  },
+  {
+   "q": "Which Die Hard villain is Hans Gruber's vengeful brother?",
+   "a": "Simon Gruber",
+   "p": 400
+  },
+  {
+   "q": "Which actor played Simon Gruber in Die Hard with a Vengeance?",
+   "a": "Jeremy Irons",
+   "p": 400
+  },
+  {
+   "q": "Which actor played the T-1000 in Terminator 2?",
+   "a": "Robert Patrick",
+   "p": 400
+  },
+  {
+   "q": "Which Wall Street villain, played by Michael Douglas, won him an Oscar?",
+   "a": "Gordon Gekko",
+   "p": 400
+  },
+  {
+   "q": "Which actor plays the villain Bill in Kill Bill?",
+   "a": "David Carradine",
+   "p": 400
+  },
+  {
+   "q": "Which Kill Bill villain, played by Lucy Liu, rules the Tokyo underworld?",
+   "a": "O-Ren Ishii",
+   "p": 400
+  },
+  {
+   "q": "Which actor played Khan in the original Star Trek II: The Wrath of Khan?",
+   "a": "Ricardo Montalbán",
+   "p": 400,
+   "alt": [
+    "Ricardo Montalban"
+   ]
+  },
+  {
+   "q": "Which actor played Khan in Star Trek Into Darkness?",
+   "a": "Benedict Cumberbatch",
+   "p": 200
+  },
+  {
+   "q": "Which actor played President Snow in The Hunger Games films?",
+   "a": "Donald Sutherland",
+   "p": 400
+  },
+  {
+   "q": "Which actress played the White Witch in The Chronicles of Narnia?",
+   "a": "Tilda Swinton",
+   "p": 400
+  },
+  {
+   "q": "Which actor played Davy Jones in the Pirates of the Caribbean films?",
+   "a": "Bill Nighy",
+   "p": 400
+  },
+  {
+   "q": "Which actor played Captain Barbossa?",
+   "a": "Geoffrey Rush",
+   "p": 400
+  },
+  {
+   "q": "Which East India Trading Company lord hunts Jack Sparrow in the Pirates sequels?",
+   "a": "Lord Cutler Beckett",
+   "p": 400,
+   "alt": [
+    "Cutler Beckett",
+    "Beckett"
+   ]
+  },
+  {
+   "q": "Which ghostly Spanish captain did Javier Bardem play in Dead Men Tell No Tales?",
+   "a": "Captain Salazar",
+   "p": 400,
+   "alt": [
+    "Armando Salazar",
+    "Salazar"
+   ]
+  },
+  {
+   "q": "Which Marine colonel is the villain of Avatar (2009)?",
+   "a": "Colonel Miles Quaritch",
+   "p": 400,
+   "alt": [
+    "Quaritch"
+   ]
+  },
+  {
+   "q": "Which actor played Lord Farquaad in Shrek?",
+   "a": "John Lithgow",
+   "p": 400
+  },
+  {
+   "q": "Which villain of Shrek Forever After tricks Shrek into signing a magical contract?",
+   "a": "Rumpelstiltskin",
+   "p": 400
+  },
+  {
+   "q": "What is the name of Muntz's lead dog in Up?",
+   "a": "Alpha",
+   "p": 400
+  },
+  {
+   "q": "Which toy prospector is the villain of Toy Story 2?",
+   "a": "Stinky Pete",
+   "p": 400,
+   "alt": [
+    "The Prospector"
+   ]
+  },
+  {
+   "q": "What is the name of the bullying gang leader in A Bug's Life?",
+   "a": "Hopper",
+   "p": 400
+  },
+  {
+   "q": "Which actor voices Tai Lung in Kung Fu Panda?",
+   "a": "Ian McShane",
+   "p": 400
+  },
+  {
+   "q": "Which actor voices Lord Shen in Kung Fu Panda 2?",
+   "a": "Gary Oldman",
+   "p": 400
+  },
+  {
+   "q": "Which red-haired villain of Minions plans to steal the Queen's crown?",
+   "a": "Scarlet Overkill",
+   "p": 400
+  },
+  {
+   "q": "Which 1980s child star turned villain fights Gru in Despicable Me 3?",
+   "a": "Balthazar Bratt",
+   "p": 400
+  },
+  {
+   "q": "Which actress voices Mother Gothel in Tangled?",
+   "a": "Donna Murphy",
+   "p": 400
+  },
+  {
+   "q": "Which actress voices Yzma in The Emperor's New Groove?",
+   "a": "Eartha Kitt",
+   "p": 400
+  },
+  {
+   "q": "Which actor plays Gaston in the 2017 live-action Beauty and the Beast?",
+   "a": "Luke Evans",
+   "p": 400
+  },
+  {
+   "q": "Which actress plays Lady Tremaine in the 2015 live-action Cinderella?",
+   "a": "Cate Blanchett",
+   "p": 400
+  },
+  {
+   "q": "What does Maleficent transform into to fight Prince Phillip?",
+   "a": "A dragon",
+   "p": 400,
+   "alt": [
+    "Dragon"
+   ]
+  },
+  {
+   "q": "What is the name of Maleficent's raven?",
+   "a": "Diablo",
+   "p": 400
+  },
+  {
+   "q": "What is the name of Maleficent's castle in Sleeping Beauty (1959)?",
+   "a": "Forbidden Mountain",
+   "p": 400,
+   "alt": [
+    "The Forbidden Mountain"
+   ]
+  },
+  {
+   "q": "What is Jafar's final, most powerful form in Aladdin?",
+   "a": "A genie",
+   "p": 400,
+   "alt": [
+    "Genie"
+   ]
+  },
+  {
+   "q": "In Big Hero 6, which professor is the masked villain Yokai?",
+   "a": "Professor Callaghan",
+   "p": 400,
+   "alt": [
+    "Robert Callaghan",
+    "Callaghan"
+   ]
+  },
+  {
+   "q": "Which Wreck-It Ralph villain turns out to be Turbo in disguise?",
+   "a": "King Candy",
+   "p": 400
+  },
+  {
+   "q": "Which puppet master enslaves Pinocchio in his travelling show?",
+   "a": "Stromboli",
+   "p": 400
+  },
+  {
+   "q": "Which hyena in The Lion King laughs but never speaks?",
+   "a": "Ed",
+   "p": 400
+  },
+  {
+   "q": "Which giant bat-winged demon appears in Night on Bald Mountain in Fantasia?",
+   "a": "Chernabog",
+   "p": 600
+  },
+  {
+   "q": "Which skull-faced villain of The Black Cauldron seeks the cauldron to raise an army?",
+   "a": "The Horned King",
+   "p": 600,
+   "alt": [
+    "Horned King"
+   ]
+  },
+  {
+   "q": "Which butler tries to get rid of the cats in The Aristocats?",
+   "a": "Edgar",
+   "p": 600,
+   "alt": [
+    "Edgar Balthazar"
+   ]
+  },
+  {
+   "q": "Which loan shark with two Dobermans is the villain of Oliver & Company?",
+   "a": "Sykes",
+   "p": 600,
+   "alt": [
+    "Bill Sykes"
+   ]
+  },
+  {
+   "q": "Which poacher is the villain of The Rescuers Down Under?",
+   "a": "Percival McLeach",
+   "p": 600,
+   "alt": [
+    "McLeach"
+   ]
+  },
+  {
+   "q": "Which treacherous mercenary commander is the villain of Atlantis: The Lost Empire?",
+   "a": "Commander Rourke",
+   "p": 600,
+   "alt": [
+    "Rourke",
+    "Lyle Tiberius Rourke"
+   ]
+  },
+  {
+   "q": "Which actor plays General Zod in Superman (1978) and Superman II?",
+   "a": "Terence Stamp",
+   "p": 400
+  },
+  {
+   "q": "Which actor plays General Zod in Man of Steel?",
+   "a": "Michael Shannon",
+   "p": 400
+  },
+  {
+   "q": "Which actor played Lex Luthor in Superman (1978)?",
+   "a": "Gene Hackman",
+   "p": 400
+  },
+  {
+   "q": "Which actor plays Lex Luthor in Superman (2025)?",
+   "a": "Nicholas Hoult",
+   "p": 400
+  },
+  {
+   "q": "Which Wonder Woman villain is revealed as the god of war?",
+   "a": "Ares",
+   "p": 400
+  },
+  {
+   "q": "Which actor played Ares in Wonder Woman (2017)?",
+   "a": "David Thewlis",
+   "p": 400
+  },
+  {
+   "q": "Which Wonder Woman 1984 villain, played by Pedro Pascal, grants wishes?",
+   "a": "Maxwell Lord",
+   "p": 400
+  },
+  {
+   "q": "Which Daredevil villain did Michael Clarke Duncan play in 2003?",
+   "a": "Kingpin",
+   "p": 400,
+   "alt": [
+    "Wilson Fisk"
+   ]
+  },
+  {
+   "q": "Which Spider-Man villain did Rhys Ifans play in The Amazing Spider-Man?",
+   "a": "The Lizard",
+   "p": 400,
+   "alt": [
+    "Lizard",
+    "Curt Connors"
+   ]
+  },
+  {
+   "q": "Which actor played Sandman in Spider-Man 3?",
+   "a": "Thomas Haden Church",
+   "p": 400
+  },
+  {
+   "q": "Which god-like planet is Star-Lord's father in Guardians of the Galaxy Vol. 2?",
+   "a": "Ego",
+   "p": 400
+  },
+  {
+   "q": "Which planet-eating cosmic entity is the villain of The Fantastic Four: First Steps (2025)?",
+   "a": "Galactus",
+   "p": 400
+  },
+  {
+   "q": "What are Saruman's fighting creatures, bred in Isengard, called?",
+   "a": "Uruk-hai",
+   "p": 400
+  },
+  {
+   "q": "Which counsellor of King Théoden secretly serves Saruman?",
+   "a": "Gríma Wormtongue",
+   "p": 400,
+   "alt": [
+    "Wormtongue",
+    "Grima"
+   ]
+  },
+  {
+   "q": "Which actor played Peter Pettigrew in the Harry Potter films?",
+   "a": "Timothy Spall",
+   "p": 400
+  },
+  {
+   "q": "Which actor played Barty Crouch Jr. in Harry Potter and the Goblet of Fire?",
+   "a": "David Tennant",
+   "p": 400
+  },
+  {
+   "q": "Which actor plays the Karate Kid's ruthless Cobra Kai sensei John Kreese?",
+   "a": "Martin Kove",
+   "p": 400
+  },
+  {
+   "q": "Which Rocky III villain is played by Mr. T?",
+   "a": "Clubber Lang",
+   "p": 400
+  },
+  {
+   "q": "Which psychopathic investment banker did Christian Bale play in American Psycho?",
+   "a": "Patrick Bateman",
+   "p": 400
+  },
+  {
+   "q": "Which brutal gang leader did Daniel Day-Lewis play in Gangs of New York?",
+   "a": "Bill the Butcher",
+   "p": 400,
+   "alt": [
+    "Bill Cutting",
+    "William Cutting"
+   ]
+  },
+  {
+   "q": "Which Gladiator II villain, played by Denzel Washington, schemes for power?",
+   "a": "Macrinus",
+   "p": 400
+  },
+  {
+   "q": "Which Wizard of Oz actress played the Wicked Witch of the West in 1939?",
+   "a": "Margaret Hamilton",
+   "p": 400
+  },
+  {
+   "q": "Which Bond villain organisation's name is an acronym that begins with 'Special Executive'?",
+   "a": "SPECTRE",
+   "p": 400
+  },
+  {
+   "q": "Which head chef is the villain of Ratatouille?",
+   "a": "Skinner",
+   "p": 400,
+   "alt": [
+    "Chef Skinner"
+   ]
+  },
+  {
+   "q": "In which New York borough is the famous Joker stairway from Joker (2019)?",
+   "a": "The Bronx",
+   "p": 600,
+   "alt": [
+    "Bronx"
+   ]
+  },
+  {
+   "q": "What chemical company's vat turns Jack Napier into the Joker in Batman (1989)?",
+   "a": "Axis Chemicals",
+   "p": 600
+  },
+  {
+   "q": "What is Goldfinger's first name?",
+   "a": "Auric",
+   "p": 600
+  },
+  {
+   "q": "Which actor played Oddjob?",
+   "a": "Harold Sakata",
+   "p": 600
+  },
+  {
+   "q": "Which actor played Dr. No in the 1962 film?",
+   "a": "Joseph Wiseman",
+   "p": 600
+  },
+  {
+   "q": "Which actor was the first to show Blofeld's face, in You Only Live Twice?",
+   "a": "Donald Pleasence",
+   "p": 600
+  },
+  {
+   "q": "Which Kojak star played Blofeld in On Her Majesty's Secret Service?",
+   "a": "Telly Savalas",
+   "p": 600
+  },
+  {
+   "q": "Which actor played Blofeld in Diamonds Are Forever?",
+   "a": "Charles Gray",
+   "p": 600
+  },
+  {
+   "q": "What is the name of Blofeld's Alpine lair in On Her Majesty's Secret Service?",
+   "a": "Piz Gloria",
+   "p": 600
+  },
+  {
+   "q": "Which actor played Hugo Drax in Moonraker?",
+   "a": "Michael Lonsdale",
+   "p": 600
+  },
+  {
+   "q": "Which actress played the assassin Xenia Onatopp in GoldenEye?",
+   "a": "Famke Janssen",
+   "p": 600
+  },
+  {
+   "q": "Which actor played Elliot Carver in Tomorrow Never Dies?",
+   "a": "Jonathan Pryce",
+   "p": 600
+  },
+  {
+   "q": "Which actor played Renard in The World Is Not Enough?",
+   "a": "Robert Carlyle",
+   "p": 600
+  },
+  {
+   "q": "Which actress played Elektra King?",
+   "a": "Sophie Marceau",
+   "p": 600
+  },
+  {
+   "q": "Which Die Another Day villain reinvents himself as a British billionaire called Gustav Graves?",
+   "a": "Colonel Moon",
+   "p": 600,
+   "alt": [
+    "Tan-Sun Moon",
+    "Moon"
+   ]
+  },
+  {
+   "q": "Which actor played Kananga in Live and Let Die?",
+   "a": "Yaphet Kotto",
+   "p": 600
+  },
+  {
+   "q": "Which henchman with a metal arm serves Kananga in Live and Let Die?",
+   "a": "Tee Hee",
+   "p": 600
+  },
+  {
+   "q": "Which actor played Franz Sanchez in Licence to Kill?",
+   "a": "Robert Davi",
+   "p": 600
+  },
+  {
+   "q": "Which actor played Karl Stromberg in The Spy Who Loved Me?",
+   "a": "Curd Jürgens",
+   "p": 600,
+   "alt": [
+    "Curt Jurgens",
+    "Curd Jurgens"
+   ]
+  },
+  {
+   "q": "What is the name of Stromberg's underwater base?",
+   "a": "Atlantis",
+   "p": 600
+  },
+  {
+   "q": "Which actor played Emilio Largo in Thunderball?",
+   "a": "Adolfo Celi",
+   "p": 600
+  },
+  {
+   "q": "Which actress played Rosa Klebb?",
+   "a": "Lotte Lenya",
+   "p": 600
+  },
+  {
+   "q": "Which wrestler played the henchman Mr. Hinx in Spectre?",
+   "a": "Dave Bautista",
+   "p": 600
+  },
+  {
+   "q": "In Skyfall, what was Raoul Silva's former job?",
+   "a": "MI6 agent",
+   "p": 600,
+   "alt": [
+    "MI6 operative",
+    "Secret agent",
+    "00 agent"
+   ]
+  },
+  {
+   "q": "What weapon does Anton Chigurh famously carry, normally used on livestock?",
+   "a": "Captive bolt pistol",
+   "p": 600,
+   "alt": [
+    "Cattle gun",
+    "Bolt gun",
+    "Air gun"
+   ]
+  },
+  {
+   "q": "What does Anton Chigurh flip to decide some people's fate?",
+   "a": "A coin",
+   "p": 600,
+   "alt": [
+    "Coin"
+   ]
+  },
+  {
+   "q": "Who directed the 1986 film Manhunter featuring Hannibal Lecter?",
+   "a": "Michael Mann",
+   "p": 600
+  },
+  {
+   "q": "Which author created Hannibal Lecter?",
+   "a": "Thomas Harris",
+   "p": 600
+  },
+  {
+   "q": "In which novel did Hannibal Lecter first appear?",
+   "a": "Red Dragon",
+   "p": 600
+  },
+  {
+   "q": "Which actor plays the young Hannibal Lecter in Hannibal Rising?",
+   "a": "Gaspard Ulliel",
+   "p": 600
+  },
+  {
+   "q": "Which killer, nicknamed the Tooth Fairy, does Lecter help profile in Red Dragon?",
+   "a": "Francis Dolarhyde",
+   "p": 600,
+   "alt": [
+    "Dolarhyde",
+    "The Tooth Fairy"
+   ]
+  },
+  {
+   "q": "Which actor played Karl, Hans Gruber's vengeful henchman, in Die Hard?",
+   "a": "Alexander Godunov",
+   "p": 600
+  },
+  {
+   "q": "Which Star Trek actor voiced Galvatron in The Transformers: The Movie (1986)?",
+   "a": "Leonard Nimoy",
+   "p": 600
+  },
+  {
+   "q": "Which actor played the younger Coriolanus Snow in The Ballad of Songbirds & Snakes?",
+   "a": "Tom Blyth",
+   "p": 600
+  },
+  {
+   "q": "Which actress voiced the Fairy Godmother in Shrek 2?",
+   "a": "Jennifer Saunders",
+   "p": 600
+  },
+  {
+   "q": "Which actor voiced Prince Charming in Shrek 2?",
+   "a": "Rupert Everett",
+   "p": 600
+  },
+  {
+   "q": "Which actor voiced Syndrome?",
+   "a": "Jason Lee",
+   "p": 600
+  },
+  {
+   "q": "What is the name of Syndrome's island lair?",
+   "a": "Nomanisan Island",
+   "p": 600,
+   "alt": [
+    "Nomanisan"
+   ]
+  },
+  {
+   "q": "Which actor voiced Lotso?",
+   "a": "Ned Beatty",
+   "p": 600
+  },
+  {
+   "q": "Which actor voiced Hans in Frozen?",
+   "a": "Santino Fontana",
+   "p": 600
+  },
+  {
+   "q": "Which actor played Jafar in the 2019 live-action Aladdin?",
+   "a": "Marwan Kenzari",
+   "p": 600
+  },
+  {
+   "q": "Which actor voiced Scar in the 2019 remake of The Lion King?",
+   "a": "Chiwetel Ejiofor",
+   "p": 600
+  },
+  {
+   "q": "What are the names of the other two hyena leaders alongside Ed?",
+   "a": "Shenzi and Banzai",
+   "p": 600,
+   "alt": [
+    "Banzai and Shenzi"
+   ]
+  },
+  {
+   "q": "Which British actor voiced Shere Khan in the 1967 Jungle Book?",
+   "a": "George Sanders",
+   "p": 600
+  },
+  {
+   "q": "Which actor voiced Shere Khan in the 2016 Jungle Book?",
+   "a": "Idris Elba",
+   "p": 600
+  },
+  {
+   "q": "Which actor voiced Prince John in Disney's Robin Hood?",
+   "a": "Peter Ustinov",
+   "p": 600
+  },
+  {
+   "q": "Which actor voiced Clayton in Tarzan?",
+   "a": "Brian Blessed",
+   "p": 600
+  },
+  {
+   "q": "Which actor voiced the Horned King?",
+   "a": "John Hurt",
+   "p": 600
+  },
+  {
+   "q": "Which con man and his Coachman lure boys to Pleasure Island in Pinocchio?",
+   "a": "Honest John",
+   "p": 600,
+   "alt": [
+    "J. Worthington Foulfellow",
+    "Foulfellow"
+   ]
+  },
+  {
+   "q": "Which actor voiced Tamatoa in Moana?",
+   "a": "Jemaine Clement",
+   "p": 600
+  },
+  {
+   "q": "Which actor voiced Professor Callaghan in Big Hero 6?",
+   "a": "James Cromwell",
+   "p": 600
+  },
+  {
+   "q": "Which actor voiced King Candy in Wreck-It Ralph?",
+   "a": "Alan Tudyk",
+   "p": 600
+  },
+  {
+   "q": "What is the name of Thanos's warship in Avengers: Endgame?",
+   "a": "Sanctuary II",
+   "p": 600
+  },
+  {
+   "q": "Which actor played Kingpin in the Daredevil TV series and Hawkeye?",
+   "a": "Vincent D'Onofrio",
+   "p": 600
+  },
+  {
+   "q": "Which actor played Bullseye in Daredevil (2003)?",
+   "a": "Colin Farrell",
+   "p": 600
+  },
+  {
+   "q": "Which actress played the Cheetah in Wonder Woman 1984?",
+   "a": "Kristen Wiig",
+   "p": 600
+  },
+  {
+   "q": "Which Justice League villain seeks the three Mother Boxes in the 2017 film?",
+   "a": "Steppenwolf",
+   "p": 600
+  },
+  {
+   "q": "Which Kryptonian monster kills Superman in Batman v Superman?",
+   "a": "Doomsday",
+   "p": 600
+  },
+  {
+   "q": "Which actor plays Galactus in The Fantastic Four: First Steps?",
+   "a": "Ralph Ineson",
+   "p": 600
+  },
+  {
+   "q": "Which actor played the villain Kaecilius in Doctor Strange?",
+   "a": "Mads Mikkelsen",
+   "p": 600
+  },
+  {
+   "q": "Which actor played William Stryker in X2?",
+   "a": "Brian Cox",
+   "p": 600
+  },
+  {
+   "q": "Which actor played Sabretooth in X-Men Origins: Wolverine?",
+   "a": "Liev Schreiber",
+   "p": 600
+  },
+  {
+   "q": "Which actress played Mystique in the original X-Men films?",
+   "a": "Rebecca Romijn",
+   "p": 600
+  },
+  {
+   "q": "Which actor played Venom in Spider-Man 3?",
+   "a": "Topher Grace",
+   "p": 600
+  },
+  {
+   "q": "Which actor played Colonel Quaritch in Avatar?",
+   "a": "Stephen Lang",
+   "p": 600
+  },
+  {
+   "q": "Which actor played Biff Tannen?",
+   "a": "Thomas F. Wilson",
+   "p": 600,
+   "alt": [
+    "Tom Wilson"
+   ]
+  },
+  {
+   "q": "Which actor played Mr. Potter in It's a Wonderful Life?",
+   "a": "Lionel Barrymore",
+   "p": 600
+  },
+  {
+   "q": "Which actor played Mini-Me?",
+   "a": "Verne Troyer",
+   "p": 600
+  },
+  {
+   "q": "What is the name of Dr. Evil's cat?",
+   "a": "Mr. Bigglesworth",
+   "p": 600,
+   "alt": [
+    "Bigglesworth"
+   ]
+  },
+  {
+   "q": "What is the name of Dr. Evil's son?",
+   "a": "Scott Evil",
+   "p": 600,
+   "alt": [
+    "Scott"
+   ]
+  },
+  {
+   "q": "Which villain in The Lego Movie is voiced by Will Ferrell?",
+   "a": "Lord Business",
+   "p": 600,
+   "alt": [
+    "President Business"
+   ]
+  },
+  {
+   "q": "Which actor voiced the villainous Drago Bludvist in How to Train Your Dragon 2?",
+   "a": "Djimon Hounsou",
+   "p": 600
+  },
+  {
+   "q": "Which dragon hunter is the villain of How to Train Your Dragon: The Hidden World?",
+   "a": "Grimmel",
+   "p": 600,
+   "alt": [
+    "Grimmel the Grisly"
+   ]
+  },
+  {
+   "q": "Which actress plays Madame Morrible in Wicked (2024)?",
+   "a": "Michelle Yeoh",
+   "p": 600
+  },
+  {
+   "q": "Which actor voiced Megamind?",
+   "a": "Will Ferrell",
+   "p": 600
+  },
+  {
+   "q": "Which Gru rival in Despicable Me 4 was his former school nemesis?",
+   "a": "Maxime Le Mal",
+   "p": 600
+  },
+  {
+   "q": "What are the two burglars in Home Alone called?",
+   "a": "Harry and Marv",
+   "p": 200,
+   "alt": [
+    "The Wet Bandits",
+    "Marv and Harry"
+   ]
+  },
+  {
+   "q": "Which queen bee rules North Shore High in Mean Girls?",
+   "a": "Regina George",
+   "p": 200
+  },
+  {
+   "q": "What is the name of Regina George's exclusive clique in Mean Girls?",
+   "a": "The Plastics",
+   "p": 200,
+   "alt": [
+    "Plastics"
+   ]
+  },
+  {
+   "q": "Which hammer-throwing headmistress is the villain of Matilda?",
+   "a": "Miss Trunchbull",
+   "p": 200,
+   "alt": [
+    "Agatha Trunchbull",
+    "Trunchbull"
+   ]
+  },
+  {
+   "q": "Which actor played the killer cyborg in The Terminator (1984)?",
+   "a": "Arnold Schwarzenegger",
+   "p": 200
+  },
+  {
+   "q": "Which Fast & Furious villain, played by Jason Statham, seeks revenge for his brother?",
+   "a": "Deckard Shaw",
+   "p": 200,
+   "alt": [
+    "Shaw"
+   ]
+  },
+  {
+   "q": "Which villain did Alan Rickman play in Robin Hood: Prince of Thieves?",
+   "a": "Sheriff of Nottingham",
+   "p": 200,
+   "alt": [
+    "The Sheriff of Nottingham",
+    "George of Nottingham"
+   ]
+  },
+  {
+   "q": "Which ruthless noble house rules the planet Giedi Prime in Dune?",
+   "a": "House Harkonnen",
+   "p": 200,
+   "alt": [
+    "Harkonnen",
+    "The Harkonnens"
+   ]
+  },
+  {
+   "q": "Who is the criminal mastermind and arch-enemy of Sherlock Holmes?",
+   "a": "Professor Moriarty",
+   "p": 200,
+   "alt": [
+    "Moriarty",
+    "James Moriarty"
+   ]
+  },
+  {
+   "q": "Which penguin jewel thief disguises himself with a rubber glove in Wallace & Gromit?",
+   "a": "Feathers McGraw",
+   "p": 200
+  },
+  {
+   "q": "What species of shark terrorises Amity Island in Jaws?",
+   "a": "Great white shark",
+   "p": 200,
+   "alt": [
+    "Great white"
+   ]
+  },
+  {
+   "q": "Which actress played Catwoman in The Dark Knight Rises?",
+   "a": "Anne Hathaway",
+   "p": 200
+  },
+  {
+   "q": "In which Bond film is Raoul Silva the villain?",
+   "a": "Skyfall",
+   "p": 200
+  },
+  {
+   "q": "In which Bond film does Le Chiffre play poker against Bond?",
+   "a": "Casino Royale",
+   "p": 200
+  },
+  {
+   "q": "Which actor played the Grinch in the 2000 live-action film?",
+   "a": "Jim Carrey",
+   "p": 200
+  },
+  {
+   "q": "Which actor played the burglar Harry in Home Alone?",
+   "a": "Joe Pesci",
+   "p": 200
+  },
+  {
+   "q": "Which actress played Regina George in Mean Girls (2004)?",
+   "a": "Rachel McAdams",
+   "p": 200
+  },
+  {
+   "q": "Which genetically engineered hybrid dinosaur escapes in Jurassic World (2015)?",
+   "a": "Indominus rex",
+   "p": 400,
+   "alt": [
+    "Indominus"
+   ]
+  },
+  {
+   "q": "Which masked warlord rules the Citadel in Mad Max: Fury Road?",
+   "a": "Immortan Joe",
+   "p": 400
+  },
+  {
+   "q": "Which Aquaman villain wears a helmet with huge red eyes?",
+   "a": "Black Manta",
+   "p": 400
+  },
+  {
+   "q": "Which ruler of the underwater kingdom Talokan is the villain of Black Panther: Wakanda Forever?",
+   "a": "Namor",
+   "p": 400
+  },
+  {
+   "q": "Which actor plays the vain villain Phoenix Buchanan in Paddington 2?",
+   "a": "Hugh Grant",
+   "p": 400
+  },
+  {
+   "q": "Which six-fingered count killed Inigo Montoya's father in The Princess Bride?",
+   "a": "Count Rugen",
+   "p": 400,
+   "alt": [
+    "Rugen",
+    "Tyrone Rugen"
+   ]
+  },
+  {
+   "q": "Which actor plays Feyd-Rautha in Dune: Part Two?",
+   "a": "Austin Butler",
+   "p": 400
+  },
+  {
+   "q": "Which rock star played Jareth the Goblin King in Labyrinth?",
+   "a": "David Bowie",
+   "p": 400
+  },
+  {
+   "q": "Which greedy toy collector steals Woody in Toy Story 2?",
+   "a": "Al",
+   "p": 400,
+   "alt": [
+    "Al McWhiggin"
+   ]
+  },
+  {
+   "q": "Which lioness, Scar's devoted follower, is the villain of The Lion King II?",
+   "a": "Zira",
+   "p": 400
+  },
+  {
+   "q": "Which actor played the burglar Marv in Home Alone?",
+   "a": "Daniel Stern",
+   "p": 600
+  },
+  {
+   "q": "Which actor plays Baron Vladimir Harkonnen in Dune (2021)?",
+   "a": "Stellan Skarsgård",
+   "p": 600,
+   "alt": [
+    "Stellan Skarsgard"
+   ]
+  },
+  {
+   "q": "Which French archaeologist is Indiana Jones's rival in Raiders of the Lost Ark?",
+   "a": "René Belloq",
+   "p": 600,
+   "alt": [
+    "Belloq",
+    "Rene Belloq"
+   ]
+  },
+  {
+   "q": "Which actor voiced the Grinch in the 2018 animated film?",
+   "a": "Benedict Cumberbatch",
+   "p": 600
+  },
+  {
+   "q": "Which king of Rosas is the villain of Disney's Wish (2023)?",
+   "a": "King Magnifico",
+   "p": 600,
+   "alt": [
+    "Magnifico"
+   ]
+  },
+  {
+   "q": "Which Despicable Me 2 villain secretly runs a Mexican restaurant?",
+   "a": "El Macho",
+   "p": 600,
+   "alt": [
+    "Eduardo Pérez",
+    "Eduardo"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1648 @@
+{
+ "id": "cricket",
+ "name": "Cricket",
+ "questions": [
+  {
+   "q": "What does LBW stand for?",
+   "a": "Leg before wicket",
+   "p": 200
+  },
+  {
+   "q": "How many stumps make up one wicket?",
+   "a": "Three",
+   "p": 200,
+   "alt": [
+    "3"
+   ]
+  },
+  {
+   "q": "What is an over in which the bowler concedes no runs called?",
+   "a": "Maiden",
+   "p": 200,
+   "alt": [
+    "Maiden over"
+   ]
+  },
+  {
+   "q": "How many runs make a century?",
+   "a": "100",
+   "p": 200,
+   "alt": [
+    "One hundred"
+   ]
+  },
+  {
+   "q": "How many runs are scored when the ball crosses the boundary along the ground?",
+   "a": "Four",
+   "p": 200,
+   "alt": [
+    "4"
+   ]
+  },
+  {
+   "q": "How many runs for a hit that clears the boundary without bouncing?",
+   "a": "Six",
+   "p": 200,
+   "alt": [
+    "6"
+   ]
+  },
+  {
+   "q": "What is a delivery called that is too far from the batter to hit, earning an extra run?",
+   "a": "Wide",
+   "p": 200
+  },
+  {
+   "q": "What is the illegal delivery called when the bowler oversteps the crease?",
+   "a": "No-ball",
+   "p": 200,
+   "alt": [
+    "No ball"
+   ]
+  },
+  {
+   "q": "What full-length ball aimed at the batter's toes is a death-overs weapon?",
+   "a": "Yorker",
+   "p": 200
+  },
+  {
+   "q": "What is a short-pitched ball that rises towards the batter's head called?",
+   "a": "Bouncer",
+   "p": 200
+  },
+  {
+   "q": "Which fielder stands directly behind the stumps wearing gloves?",
+   "a": "Wicketkeeper",
+   "p": 200,
+   "alt": [
+    "Keeper",
+    "Wicket-keeper"
+   ]
+  },
+  {
+   "q": "What are the catching positions next to the wicketkeeper called?",
+   "a": "Slips",
+   "p": 200,
+   "alt": [
+    "Slip"
+   ]
+  },
+  {
+   "q": "What is a batter out for when the keeper breaks the wicket while they are out of their crease?",
+   "a": "Stumped",
+   "p": 200,
+   "alt": [
+    "Stumping"
+   ]
+  },
+  {
+   "q": "How many overs does each side face in a men's One Day International?",
+   "a": "50",
+   "p": 200,
+   "alt": [
+    "Fifty"
+   ]
+  },
+  {
+   "q": "Over how many days is a Test match scheduled?",
+   "a": "Five",
+   "p": 200,
+   "alt": [
+    "5"
+   ]
+  },
+  {
+   "q": "What does ODI stand for?",
+   "a": "One Day International",
+   "p": 200
+  },
+  {
+   "q": "What tie-breaker decides a tied T20 or ODI knockout match?",
+   "a": "Super Over",
+   "p": 200
+  },
+  {
+   "q": "Which London ground is known as the 'Home of Cricket'?",
+   "a": "Lord's",
+   "p": 200,
+   "alt": [
+    "Lords"
+   ]
+  },
+  {
+   "q": "Which Melbourne ground hosts the famous Boxing Day Test?",
+   "a": "MCG",
+   "p": 200,
+   "alt": [
+    "Melbourne Cricket Ground"
+   ]
+  },
+  {
+   "q": "What colour is the traditional ball used in Test cricket?",
+   "a": "Red",
+   "p": 200
+  },
+  {
+   "q": "Which country won the first two men's Cricket World Cups, in 1975 and 1979?",
+   "a": "West Indies",
+   "p": 200
+  },
+  {
+   "q": "Which country won the 1983 Cricket World Cup?",
+   "a": "India",
+   "p": 200
+  },
+  {
+   "q": "Who captained India to the 1983 World Cup title?",
+   "a": "Kapil Dev",
+   "p": 200
+  },
+  {
+   "q": "Who captained Pakistan to the 1992 World Cup title?",
+   "a": "Imran Khan",
+   "p": 200
+  },
+  {
+   "q": "Which country won three men's World Cups in a row from 1999?",
+   "a": "Australia",
+   "p": 200
+  },
+  {
+   "q": "Who hit the winning six in the 2011 World Cup final?",
+   "a": "MS Dhoni",
+   "p": 200,
+   "alt": [
+    "Mahendra Singh Dhoni",
+    "Dhoni"
+   ]
+  },
+  {
+   "q": "Which country won its first men's World Cup in 2019 at Lord's?",
+   "a": "England",
+   "p": 200
+  },
+  {
+   "q": "Which country won the first T20 World Cup, in 2007?",
+   "a": "India",
+   "p": 200
+  },
+  {
+   "q": "Which Indian batter is widely hailed as the 'God of Cricket'?",
+   "a": "Sachin Tendulkar",
+   "p": 200,
+   "alt": [
+    "Tendulkar"
+   ]
+  },
+  {
+   "q": "Which Australian batter finished with a Test average of 99.94?",
+   "a": "Don Bradman",
+   "p": 200,
+   "alt": [
+    "Sir Donald Bradman",
+    "Bradman"
+   ]
+  },
+  {
+   "q": "By what two-word title was Don Bradman popularly known?",
+   "a": "The Don",
+   "p": 200
+  },
+  {
+   "q": "Which Sri Lankan off-spinner took 800 Test wickets?",
+   "a": "Muttiah Muralitharan",
+   "p": 200,
+   "alt": [
+    "Muralitharan",
+    "Murali"
+   ]
+  },
+  {
+   "q": "Which IPL team did MS Dhoni captain to multiple titles?",
+   "a": "Chennai Super Kings",
+   "p": 200,
+   "alt": [
+    "CSK"
+   ]
+  },
+  {
+   "q": "Which Bollywood superstar co-owns Kolkata Knight Riders?",
+   "a": "Shah Rukh Khan",
+   "p": 200,
+   "alt": [
+    "SRK"
+   ]
+  },
+  {
+   "q": "Which IPL team has Virat Kohli played for throughout his career?",
+   "a": "Royal Challengers Bengaluru",
+   "p": 200,
+   "alt": [
+    "RCB",
+    "Royal Challengers Bangalore"
+   ]
+  },
+  {
+   "q": "What colour cap is worn by the IPL season's leading run-scorer?",
+   "a": "Orange",
+   "p": 200
+  },
+  {
+   "q": "In which year was the first IPL season played?",
+   "a": "2008",
+   "p": 200
+  },
+  {
+   "q": "What does IPL stand for?",
+   "a": "Indian Premier League",
+   "p": 200
+  },
+  {
+   "q": "Which country's domestic T20 competition is the Big Bash League?",
+   "a": "Australia",
+   "p": 200
+  },
+  {
+   "q": "Which country is the PSL, a T20 league, from?",
+   "a": "Pakistan",
+   "p": 200
+  },
+  {
+   "q": "Which national team is nicknamed the Proteas?",
+   "a": "South Africa",
+   "p": 200
+  },
+  {
+   "q": "Which national team is nicknamed the Black Caps?",
+   "a": "New Zealand",
+   "p": 200
+  },
+  {
+   "q": "Which Test team represents a group of Caribbean nations?",
+   "a": "West Indies",
+   "p": 200,
+   "alt": [
+    "Windies"
+   ]
+  },
+  {
+   "q": "Which Pakistani fast bowler was nicknamed the 'Rawalpindi Express'?",
+   "a": "Shoaib Akhtar",
+   "p": 200
+  },
+  {
+   "q": "Which Jamaican opener calls himself the 'Universe Boss'?",
+   "a": "Chris Gayle",
+   "p": 200
+  },
+  {
+   "q": "Which South African batter was nicknamed 'Mr. 360'?",
+   "a": "AB de Villiers",
+   "p": 200,
+   "alt": [
+    "De Villiers",
+    "ABD"
+   ]
+  },
+  {
+   "q": "Which Indian opener is nicknamed 'The Wall'?",
+   "a": "Rahul Dravid",
+   "p": 200,
+   "alt": [
+    "Dravid"
+   ]
+  },
+  {
+   "q": "Which cool-headed Indian captain is famous for the helicopter shot?",
+   "a": "MS Dhoni",
+   "p": 200,
+   "alt": [
+    "Dhoni"
+   ]
+  },
+  {
+   "q": "In which year did Sachin Tendulkar retire from international cricket?",
+   "a": "2013",
+   "p": 200
+  },
+  {
+   "q": "Which Pakistani left-armer was nicknamed the 'Sultan of Swing'?",
+   "a": "Wasim Akram",
+   "p": 200,
+   "alt": [
+    "Akram"
+   ]
+  },
+  {
+   "q": "Which country won the 2023 men's ODI World Cup in Ahmedabad?",
+   "a": "Australia",
+   "p": 200
+  },
+  {
+   "q": "Which country won the 2024 T20 World Cup?",
+   "a": "India",
+   "p": 200
+  },
+  {
+   "q": "Which country won the 2022 T20 World Cup at the MCG?",
+   "a": "England",
+   "p": 200
+  },
+  {
+   "q": "What do the initials ICC stand for?",
+   "a": "International Cricket Council",
+   "p": 200
+  },
+  {
+   "q": "What is the famous Test series between England and Australia played for?",
+   "a": "The Ashes",
+   "p": 200,
+   "alt": [
+    "Ashes"
+   ]
+  },
+  {
+   "q": "What is it called when a team ends its innings early, choosing to bat no further, in a Test?",
+   "a": "Declaration",
+   "p": 200,
+   "alt": [
+    "Declare"
+   ]
+  },
+  {
+   "q": "What does an umpire signal by raising one index finger?",
+   "a": "Out",
+   "p": 200
+  },
+  {
+   "q": "What does the umpire signal by raising both arms above his head?",
+   "a": "Six",
+   "p": 200,
+   "alt": [
+    "Six runs"
+   ]
+  },
+  {
+   "q": "What is a player who is good at both batting and bowling called?",
+   "a": "All-rounder",
+   "p": 200,
+   "alt": [
+    "All rounder"
+   ]
+  },
+  {
+   "q": "What is a score of 50 runs by a batter called?",
+   "a": "Half-century",
+   "p": 200,
+   "alt": [
+    "Fifty"
+   ]
+  },
+  {
+   "q": "Which piece of wood rests on top of the stumps?",
+   "a": "Bails",
+   "p": 200,
+   "alt": [
+    "Bail"
+   ]
+  },
+  {
+   "q": "What is the lead batter facing the bowler called?",
+   "a": "Striker",
+   "p": 200
+  },
+  {
+   "q": "Who was player of the match in the 2024 T20 World Cup final?",
+   "a": "Virat Kohli",
+   "p": 200,
+   "alt": [
+    "Kohli"
+   ]
+  },
+  {
+   "q": "Who was the Australian captain who lifted the 2023 World Cup?",
+   "a": "Pat Cummins",
+   "p": 200,
+   "alt": [
+    "Cummins"
+   ]
+  },
+  {
+   "q": "Who captained India to the 2024 T20 World Cup title?",
+   "a": "Rohit Sharma",
+   "p": 200,
+   "alt": [
+    "Rohit"
+   ]
+  },
+  {
+   "q": "Which Indian star married the actress Anushka Sharma?",
+   "a": "Virat Kohli",
+   "p": 200
+  },
+  {
+   "q": "Who captained England to the 2019 World Cup?",
+   "a": "Eoin Morgan",
+   "p": 200,
+   "alt": [
+    "Morgan"
+   ]
+  },
+  {
+   "q": "Which England all-rounder starred in the 2019 World Cup final super over?",
+   "a": "Ben Stokes",
+   "p": 200,
+   "alt": [
+    "Stokes"
+   ]
+  },
+  {
+   "q": "Which Afghan leg-spinner became a worldwide T20 star in the late 2010s?",
+   "a": "Rashid Khan",
+   "p": 200
+  },
+  {
+   "q": "Which country won the 2025 Women's Cricket World Cup, their first?",
+   "a": "India",
+   "p": 200
+  },
+  {
+   "q": "Which country's team is nicknamed the 'Tigers'?",
+   "a": "Bangladesh",
+   "p": 200
+  },
+  {
+   "q": "What is the shortest international format of cricket?",
+   "a": "T20",
+   "p": 200,
+   "alt": [
+    "Twenty20",
+    "T20I"
+   ]
+  },
+  {
+   "q": "Which Indian is the first man to score a double century in a men's ODI, in 2010?",
+   "a": "Sachin Tendulkar",
+   "p": 400,
+   "alt": [
+    "Tendulkar"
+   ]
+  },
+  {
+   "q": "Which country's players wear a cap called the 'baggy green'?",
+   "a": "Australia",
+   "p": 200
+  },
+  {
+   "q": "What is the line marking the edge of the playing field called?",
+   "a": "Boundary",
+   "p": 200,
+   "alt": [
+    "Boundary rope"
+   ]
+  },
+  {
+   "q": "Which Dubai development is home to the ICC headquarters?",
+   "a": "Dubai Sports City",
+   "p": 400,
+   "ar": "مدينة دبي الرياضية"
+  },
+  {
+   "q": "What colour ball is used for day-night Test matches?",
+   "a": "Pink",
+   "p": 200
+  },
+  {
+   "q": "How many balls are in a T20 innings if all overs are bowled?",
+   "a": "120",
+   "p": 200
+  },
+  {
+   "q": "Which IPL team did Shane Warne captain to the first title?",
+   "a": "Rajasthan Royals",
+   "p": 200,
+   "alt": [
+    "RR"
+   ]
+  },
+  {
+   "q": "What is the IPL franchise based in Kolkata?",
+   "a": "Kolkata Knight Riders",
+   "p": 200,
+   "alt": [
+    "KKR"
+   ]
+  },
+  {
+   "q": "In which year did Sachin Tendulkar make his Test debut, aged 16?",
+   "a": "1989",
+   "p": 400
+  },
+  {
+   "q": "How many international centuries did Sachin Tendulkar score?",
+   "a": "100",
+   "p": 400,
+   "alt": [
+    "One hundred"
+   ]
+  },
+  {
+   "q": "Which leg-spinner bowled the 'Ball of the Century' in 1993?",
+   "a": "Shane Warne",
+   "p": 200,
+   "alt": [
+    "Warne"
+   ]
+  },
+  {
+   "q": "Which English batter was bowled by the 'Ball of the Century'?",
+   "a": "Mike Gatting",
+   "p": 400,
+   "alt": [
+    "Gatting"
+   ]
+  },
+  {
+   "q": "Which Indian leg-spinner took all 10 wickets in a Test innings against Pakistan in 1999?",
+   "a": "Anil Kumble",
+   "p": 400,
+   "alt": [
+    "Kumble"
+   ]
+  },
+  {
+   "q": "Which West Indian legend hit six sixes in an over in 1968?",
+   "a": "Garfield Sobers",
+   "p": 400,
+   "alt": [
+    "Sir Garfield Sobers",
+    "Garry Sobers",
+    "Sobers"
+   ]
+  },
+  {
+   "q": "Which Indian hit six sixes in an over off Stuart Broad at the 2007 T20 World Cup?",
+   "a": "Yuvraj Singh",
+   "p": 400,
+   "alt": [
+    "Yuvraj"
+   ]
+  },
+  {
+   "q": "Which Indian opener scored 264 in an ODI against Sri Lanka in 2014?",
+   "a": "Rohit Sharma",
+   "p": 400,
+   "alt": [
+    "Rohit"
+   ]
+  },
+  {
+   "q": "Which Indian batter captained India to the 2008 Under-19 World Cup title?",
+   "a": "Virat Kohli",
+   "p": 400,
+   "alt": [
+    "Kohli"
+   ]
+  },
+  {
+   "q": "Which West Indian, knighted in 1999, was nicknamed 'King Viv'?",
+   "a": "Viv Richards",
+   "p": 400,
+   "alt": [
+    "Sir Vivian Richards",
+    "Vivian Richards"
+   ]
+  },
+  {
+   "q": "Which England all-rounder's 149 not out turned the 1981 Headingley Ashes Test?",
+   "a": "Ian Botham",
+   "p": 400,
+   "alt": [
+    "Botham"
+   ]
+  },
+  {
+   "q": "Which bearded Victorian doctor was cricket's first superstar?",
+   "a": "W.G. Grace",
+   "p": 400,
+   "alt": [
+    "WG Grace",
+    "Grace"
+   ]
+  },
+  {
+   "q": "Which England all-rounder nicknamed 'Freddie' starred in the 2005 Ashes?",
+   "a": "Andrew Flintoff",
+   "p": 400,
+   "alt": [
+    "Flintoff"
+   ]
+  },
+  {
+   "q": "Which England fast bowler retired in 2024 after taking 704 Test wickets?",
+   "a": "James Anderson",
+   "p": 200,
+   "alt": [
+    "Jimmy Anderson",
+    "Anderson"
+   ]
+  },
+  {
+   "q": "Who hit 135 not out to win the 2019 Headingley Ashes Test with one wicket left?",
+   "a": "Ben Stokes",
+   "p": 400
+  },
+  {
+   "q": "Which Pakistani was player of the match in the 1992 World Cup final?",
+   "a": "Wasim Akram",
+   "p": 400
+  },
+  {
+   "q": "Which Pakistani fast bowler formed the feared 'Two Ws' with Wasim Akram?",
+   "a": "Waqar Younis",
+   "p": 400,
+   "alt": [
+    "Waqar"
+   ]
+  },
+  {
+   "q": "Which Pakistani all-rounder was nicknamed 'Boom Boom'?",
+   "a": "Shahid Afridi",
+   "p": 400,
+   "alt": [
+    "Afridi"
+   ]
+  },
+  {
+   "q": "Which Indian captain was nicknamed 'Dada' and the 'Prince of Kolkata'?",
+   "a": "Sourav Ganguly",
+   "p": 400,
+   "alt": [
+    "Ganguly"
+   ]
+  },
+  {
+   "q": "Which Sri Lankan slinger took four wickets in four balls against South Africa at the 2007 World Cup?",
+   "a": "Lasith Malinga",
+   "p": 400,
+   "alt": [
+    "Malinga"
+   ]
+  },
+  {
+   "q": "Which Australian captained his country to the 2003 and 2007 World Cups?",
+   "a": "Ricky Ponting",
+   "p": 400,
+   "alt": [
+    "Ponting"
+   ]
+  },
+  {
+   "q": "Which Australian captain lifted the 1999 World Cup?",
+   "a": "Steve Waugh",
+   "p": 400,
+   "alt": [
+    "Waugh"
+   ]
+  },
+  {
+   "q": "Which Sri Lankan captain lifted the 1996 World Cup?",
+   "a": "Arjuna Ranatunga",
+   "p": 400,
+   "alt": [
+    "Ranatunga"
+   ]
+  },
+  {
+   "q": "Which country won the 1996 World Cup?",
+   "a": "Sri Lanka",
+   "p": 400
+  },
+  {
+   "q": "Which Australian captain lifted the 2015 World Cup?",
+   "a": "Michael Clarke",
+   "p": 400,
+   "alt": [
+    "Clarke"
+   ]
+  },
+  {
+   "q": "Which West Indies captain lifted the first two World Cups?",
+   "a": "Clive Lloyd",
+   "p": 400,
+   "alt": [
+    "Lloyd"
+   ]
+  },
+  {
+   "q": "Which country did India beat in the 1983 World Cup final?",
+   "a": "West Indies",
+   "p": 400
+  },
+  {
+   "q": "Which country did India beat in the 2011 World Cup final?",
+   "a": "Sri Lanka",
+   "p": 200
+  },
+  {
+   "q": "In which Mumbai stadium was the 2011 World Cup final played?",
+   "a": "Wankhede Stadium",
+   "p": 400,
+   "alt": [
+    "Wankhede"
+   ]
+  },
+  {
+   "q": "In which city was the 1992 World Cup final played?",
+   "a": "Melbourne",
+   "p": 400
+  },
+  {
+   "q": "Which two countries co-hosted both the 1992 and 2015 World Cups?",
+   "a": "Australia and New Zealand",
+   "p": 400
+  },
+  {
+   "q": "Which country lost the 2019 World Cup final on the boundary countback?",
+   "a": "New Zealand",
+   "p": 400
+  },
+  {
+   "q": "How was the tied 2019 World Cup final finally decided after the super over was also tied?",
+   "a": "Boundary count",
+   "p": 400,
+   "alt": [
+    "More boundaries",
+    "Boundary countback"
+   ]
+  },
+  {
+   "q": "Which Australian scored a century in the 2023 World Cup final?",
+   "a": "Travis Head",
+   "p": 400,
+   "alt": [
+    "Head"
+   ]
+  },
+  {
+   "q": "Which Australian hit 201 not out against Afghanistan while battling cramp at the 2023 World Cup?",
+   "a": "Glenn Maxwell",
+   "p": 400,
+   "alt": [
+    "Maxwell"
+   ]
+  },
+  {
+   "q": "In which Indian city's huge stadium was the 2023 World Cup final played?",
+   "a": "Ahmedabad",
+   "p": 400
+  },
+  {
+   "q": "Which country did India beat in the 2007 T20 World Cup final?",
+   "a": "Pakistan",
+   "p": 400
+  },
+  {
+   "q": "Which country won the 2009 T20 World Cup at Lord's?",
+   "a": "Pakistan",
+   "p": 400
+  },
+  {
+   "q": "Which country won the 2010 T20 World Cup, its first global trophy?",
+   "a": "England",
+   "p": 400
+  },
+  {
+   "q": "Which West Indian hit four successive sixes to win the 2016 T20 World Cup final?",
+   "a": "Carlos Brathwaite",
+   "p": 400,
+   "alt": [
+    "Brathwaite"
+   ]
+  },
+  {
+   "q": "Which country did India beat in the 2024 T20 World Cup final?",
+   "a": "South Africa",
+   "p": 200
+  },
+  {
+   "q": "Who captained England to the 2022 T20 World Cup title?",
+   "a": "Jos Buttler",
+   "p": 400,
+   "alt": [
+    "Buttler"
+   ]
+  },
+  {
+   "q": "Which two countries co-hosted the 2024 T20 World Cup?",
+   "a": "West Indies and USA",
+   "p": 400,
+   "alt": [
+    "USA and West Indies"
+   ]
+  },
+  {
+   "q": "Which country won the first World Test Championship final, in 2021?",
+   "a": "New Zealand",
+   "p": 400
+  },
+  {
+   "q": "Which country won the 2025 World Test Championship final at Lord's?",
+   "a": "South Africa",
+   "p": 400
+  },
+  {
+   "q": "Who captained India to the 2025 Women's World Cup title?",
+   "a": "Harmanpreet Kaur",
+   "p": 400,
+   "alt": [
+    "Harmanpreet"
+   ]
+  },
+  {
+   "q": "In which country was the 2009 IPL played?",
+   "a": "South Africa",
+   "p": 400
+  },
+  {
+   "q": "Which team won the IPL in its debut season of 2022?",
+   "a": "Gujarat Titans",
+   "p": 400,
+   "alt": [
+    "GT"
+   ]
+  },
+  {
+   "q": "Which team won its first IPL title in 2025?",
+   "a": "Royal Challengers Bengaluru",
+   "p": 200,
+   "alt": [
+    "RCB",
+    "Royal Challengers Bangalore"
+   ]
+  },
+  {
+   "q": "Which colour cap is worn by the IPL season's leading wicket-taker?",
+   "a": "Purple",
+   "p": 400
+  },
+  {
+   "q": "How many overs can one bowler bowl in a T20 international?",
+   "a": "Four",
+   "p": 400,
+   "alt": [
+    "4"
+   ]
+  },
+  {
+   "q": "How many overs can one bowler bowl in an ODI?",
+   "a": "Ten",
+   "p": 400,
+   "alt": [
+    "10"
+   ]
+  },
+  {
+   "q": "What does DRS stand for?",
+   "a": "Decision Review System",
+   "p": 200
+  },
+  {
+   "q": "Which method is used to set revised targets in rain-shortened limited-overs games?",
+   "a": "Duckworth-Lewis-Stern",
+   "p": 400,
+   "alt": [
+    "DLS",
+    "Duckworth-Lewis",
+    "D/L method"
+   ]
+  },
+  {
+   "q": "What is a batter out first ball for zero said to have scored?",
+   "a": "Golden duck",
+   "p": 400
+  },
+  {
+   "q": "What is a leg-spinner's delivery that turns the 'wrong way' called?",
+   "a": "Googly",
+   "p": 400,
+   "alt": [
+    "Wrong'un"
+   ]
+  },
+  {
+   "q": "What is a lower-order batter sent in late in the day to protect a top-order batter called?",
+   "a": "Nightwatchman",
+   "p": 400,
+   "alt": [
+    "Night watchman"
+   ]
+  },
+  {
+   "q": "In a Test, what is a team said to do when made to bat again straight after trailing heavily?",
+   "a": "Follow on",
+   "p": 400,
+   "alt": [
+    "Follow-on"
+   ]
+  },
+  {
+   "q": "What reward do batters get on the ball after a no-ball in limited-overs cricket?",
+   "a": "Free hit",
+   "p": 400
+  },
+  {
+   "q": "What is a batter given out for if they knock the stumps with their own bat or body while playing a shot?",
+   "a": "Hit wicket",
+   "p": 400
+  },
+  {
+   "q": "What does an umpire signal by stretching both arms out horizontally?",
+   "a": "Wide",
+   "p": 400
+  },
+  {
+   "q": "What are runs scored when the ball deflects off the batter's body, not the bat, called?",
+   "a": "Leg byes",
+   "p": 400,
+   "alt": [
+    "Leg bye"
+   ]
+  },
+  {
+   "q": "What are the opening overs with fielding restrictions in limited-overs cricket called?",
+   "a": "Powerplay",
+   "p": 400,
+   "alt": [
+    "Power play"
+   ]
+  },
+  {
+   "q": "Which annual book is known as the 'Bible of Cricket'?",
+   "a": "Wisden",
+   "p": 400,
+   "alt": [
+    "Wisden Cricketers' Almanack"
+   ]
+  },
+  {
+   "q": "What does MCC, the guardian of cricket's Laws, stand for?",
+   "a": "Marylebone Cricket Club",
+   "p": 400
+  },
+  {
+   "q": "What does BCCI stand for?",
+   "a": "Board of Control for Cricket in India",
+   "p": 400
+  },
+  {
+   "q": "In which year did the ICC move its headquarters from Lord's to Dubai?",
+   "a": "2005",
+   "p": 400
+  },
+  {
+   "q": "What is the Ashes urn said to contain?",
+   "a": "Burnt bail",
+   "p": 400,
+   "alt": [
+    "Ashes of a burnt bail",
+    "A burnt bail"
+   ]
+  },
+  {
+   "q": "What was England's short-pitched tactic against Bradman in the 1932-33 Ashes called?",
+   "a": "Bodyline",
+   "p": 400
+  },
+  {
+   "q": "Which Kolkata ground is India's oldest and most famous Test venue?",
+   "a": "Eden Gardens",
+   "p": 400
+  },
+  {
+   "q": "In which English competition does each innings last 100 balls?",
+   "a": "The Hundred",
+   "p": 400,
+   "alt": [
+    "Hundred"
+   ]
+  },
+  {
+   "q": "Which tournament was first held in Sharjah in 1984?",
+   "a": "Asia Cup",
+   "p": 400,
+   "ar": "كأس آسيا"
+  },
+  {
+   "q": "Which country won the 2022 Asia Cup, beating Pakistan in the final in Dubai?",
+   "a": "Sri Lanka",
+   "p": 400
+  },
+  {
+   "q": "Which country won the 2024 Women's T20 World Cup, played in the UAE?",
+   "a": "New Zealand",
+   "p": 400
+  },
+  {
+   "q": "Which country co-staged the 2021 T20 World Cup alongside the UAE?",
+   "a": "Oman",
+   "p": 400,
+   "ar": "عُمان"
+  },
+  {
+   "q": "Which country was the official host of the 2021 T20 World Cup, though it was played in the UAE and Oman?",
+   "a": "India",
+   "p": 400
+  },
+  {
+   "q": "By how many wickets did Pakistan beat India in their 2021 T20 World Cup match in Dubai?",
+   "a": "10",
+   "p": 400,
+   "alt": [
+    "Ten"
+   ]
+  },
+  {
+   "q": "Who captained Australia to the 2021 T20 World Cup title in Dubai?",
+   "a": "Aaron Finch",
+   "p": 400,
+   "alt": [
+    "Finch"
+   ]
+  },
+  {
+   "q": "Which Indian off-spinner took India's first Test hat-trick, against Australia in 2001?",
+   "a": "Harbhajan Singh",
+   "p": 400,
+   "alt": [
+    "Harbhajan",
+    "Bhajji"
+   ]
+  },
+  {
+   "q": "What object was used in Australia's 2018 ball-tampering scandal in Cape Town?",
+   "a": "Sandpaper",
+   "p": 400
+  },
+  {
+   "q": "Which Australian media tycoon launched World Series Cricket in 1977?",
+   "a": "Kerry Packer",
+   "p": 400,
+   "alt": [
+    "Packer"
+   ]
+  },
+  {
+   "q": "Which Australian opener hit 149 in the 2007 World Cup final?",
+   "a": "Adam Gilchrist",
+   "p": 400,
+   "alt": [
+    "Gilchrist"
+   ]
+  },
+  {
+   "q": "Which Sri Lankan opener's pinch-hitting lit up the 1996 World Cup?",
+   "a": "Sanath Jayasuriya",
+   "p": 400,
+   "alt": [
+    "Jayasuriya"
+   ]
+  },
+  {
+   "q": "Which South African all-rounder took over 290 Test wickets and scored 13,000 Test runs?",
+   "a": "Jacques Kallis",
+   "p": 400,
+   "alt": [
+    "Kallis"
+   ]
+  },
+  {
+   "q": "Which Australian fast bowler, nicknamed 'Pigeon', took 563 Test wickets?",
+   "a": "Glenn McGrath",
+   "p": 400,
+   "alt": [
+    "McGrath"
+   ]
+  },
+  {
+   "q": "Which captain led Gujarat Titans to the 2022 IPL title?",
+   "a": "Hardik Pandya",
+   "p": 400,
+   "alt": [
+    "Hardik"
+   ]
+  },
+  {
+   "q": "What childhood nickname of Virat Kohli is often heard on stump microphones?",
+   "a": "Chiku",
+   "p": 400
+  },
+  {
+   "q": "Which Indian opener was nicknamed 'Multan ka Sultan' after a 2004 triple century?",
+   "a": "Virender Sehwag",
+   "p": 400,
+   "alt": [
+    "Sehwag"
+   ]
+  },
+  {
+   "q": "Which English leg-spinner bowled Don Bradman for a duck in his final Test innings?",
+   "a": "Eric Hollies",
+   "p": 600,
+   "alt": [
+    "Hollies"
+   ]
+  },
+  {
+   "q": "Which English off-spinner took 19 wickets in a Test against Australia at Old Trafford in 1956?",
+   "a": "Jim Laker",
+   "p": 600,
+   "alt": [
+    "Laker"
+   ]
+  },
+  {
+   "q": "Which Mumbai-born New Zealand spinner took all 10 wickets in an innings against India in 2021?",
+   "a": "Ajaz Patel",
+   "p": 600,
+   "alt": [
+    "Patel"
+   ]
+  },
+  {
+   "q": "Which Welsh-based bowler was hit for six sixes in an over by Garfield Sobers?",
+   "a": "Malcolm Nash",
+   "p": 600,
+   "alt": [
+    "Nash"
+   ]
+  },
+  {
+   "q": "Which South African hit six sixes in an over against the Netherlands at the 2007 World Cup?",
+   "a": "Herschelle Gibbs",
+   "p": 600,
+   "alt": [
+    "Gibbs"
+   ]
+  },
+  {
+   "q": "Which West Indian hit six sixes in an over off Akila Dananjaya in a 2021 T20I?",
+   "a": "Kieron Pollard",
+   "p": 600,
+   "alt": [
+    "Pollard"
+   ]
+  },
+  {
+   "q": "What was Brian Lara's record first-class score for Warwickshire in 1994?",
+   "a": "501 not out",
+   "p": 600,
+   "alt": [
+    "501",
+    "501*"
+   ]
+  },
+  {
+   "q": "In which city did Sachin Tendulkar make his Test debut in 1989?",
+   "a": "Karachi",
+   "p": 600
+  },
+  {
+   "q": "Which Indian civilian award did Sachin Tendulkar become the first sportsperson to receive?",
+   "a": "Bharat Ratna",
+   "p": 600
+  },
+  {
+   "q": "Who was the first batter to reach 10,000 Test runs, in 1987?",
+   "a": "Sunil Gavaskar",
+   "p": 600,
+   "alt": [
+    "Gavaskar"
+   ]
+  },
+  {
+   "q": "Whose 281 at Eden Gardens in 2001 sparked India's famous win after following on?",
+   "a": "VVS Laxman",
+   "p": 600,
+   "alt": [
+    "Laxman"
+   ]
+  },
+  {
+   "q": "Which New Zealander became the first bowler to 400 Test wickets in 1990?",
+   "a": "Richard Hadlee",
+   "p": 600,
+   "alt": [
+    "Sir Richard Hadlee",
+    "Hadlee"
+   ]
+  },
+  {
+   "q": "Which West Indian became the first bowler to 500 Test wickets, in 2001?",
+   "a": "Courtney Walsh",
+   "p": 600,
+   "alt": [
+    "Walsh"
+   ]
+  },
+  {
+   "q": "Which West Indian fast bowler was nicknamed 'Whispering Death'?",
+   "a": "Michael Holding",
+   "p": 600,
+   "alt": [
+    "Holding"
+   ]
+  },
+  {
+   "q": "Which tall West Indian fast bowler was nicknamed 'Big Bird'?",
+   "a": "Joel Garner",
+   "p": 600,
+   "alt": [
+    "Garner"
+   ]
+  },
+  {
+   "q": "Which Australian fast bowler briefly used an aluminium bat in a 1979 Test?",
+   "a": "Dennis Lillee",
+   "p": 600,
+   "alt": [
+    "Lillee"
+   ]
+  },
+  {
+   "q": "Which English captain devised the Bodyline tactic?",
+   "a": "Douglas Jardine",
+   "p": 600,
+   "alt": [
+    "Jardine"
+   ]
+  },
+  {
+   "q": "Which English fast bowler was the spearhead of Bodyline?",
+   "a": "Harold Larwood",
+   "p": 600,
+   "alt": [
+    "Larwood"
+   ]
+  },
+  {
+   "q": "In which year was the first Test match played?",
+   "a": "1877",
+   "p": 600
+  },
+  {
+   "q": "In which year did a newspaper's mock obituary of English cricket give the Ashes their name?",
+   "a": "1882",
+   "p": 600
+  },
+  {
+   "q": "In which year was the first men's ODI played, in Melbourne?",
+   "a": "1971",
+   "p": 600
+  },
+  {
+   "q": "Which city hosted the first day-night Test match in 2015?",
+   "a": "Adelaide",
+   "p": 600
+  },
+  {
+   "q": "Which two countries played the first men's T20 international in 2005?",
+   "a": "Australia and New Zealand",
+   "p": 600,
+   "alt": [
+    "New Zealand and Australia"
+   ]
+  },
+  {
+   "q": "Which country won the first women's World Cup, held in 1973?",
+   "a": "England",
+   "p": 600
+  },
+  {
+   "q": "Which Australian all-rounder also played for her country at the 2011 women's football World Cup?",
+   "a": "Ellyse Perry",
+   "p": 600,
+   "alt": [
+    "Perry"
+   ]
+  },
+  {
+   "q": "Which Indian batter captained India women in both the 2005 and 2017 World Cup finals?",
+   "a": "Mithali Raj",
+   "p": 600,
+   "alt": [
+    "Mithali"
+   ]
+  },
+  {
+   "q": "In which city was the 1996 World Cup final played?",
+   "a": "Lahore",
+   "p": 600
+  },
+  {
+   "q": "Which Sri Lankan scored a century in the 1996 World Cup final?",
+   "a": "Aravinda de Silva",
+   "p": 600,
+   "alt": [
+    "De Silva",
+    "Aravinda"
+   ]
+  },
+  {
+   "q": "Who captained Australia to the 1987 World Cup title?",
+   "a": "Allan Border",
+   "p": 600,
+   "alt": [
+    "Border"
+   ]
+  },
+  {
+   "q": "Which country did Australia beat in the 1987 World Cup final?",
+   "a": "England",
+   "p": 600
+  },
+  {
+   "q": "In which city was the 2003 World Cup final played?",
+   "a": "Johannesburg",
+   "p": 600
+  },
+  {
+   "q": "What did Adam Gilchrist put inside his glove when scoring 149 in the 2007 World Cup final?",
+   "a": "A squash ball",
+   "p": 600,
+   "alt": [
+    "Squash ball"
+   ]
+  },
+  {
+   "q": "Which South African was run out in the famous tied 1999 World Cup semi-final?",
+   "a": "Allan Donald",
+   "p": 600,
+   "alt": [
+    "Donald"
+   ]
+  },
+  {
+   "q": "Which Indian scored 175 not out against Zimbabwe at Tunbridge Wells in 1983?",
+   "a": "Kapil Dev",
+   "p": 600
+  },
+  {
+   "q": "In which country was England's 2019 World Cup-winning captain Eoin Morgan born?",
+   "a": "Ireland",
+   "p": 600
+  },
+  {
+   "q": "Which Irish batter hit a 50-ball century to beat England at the 2011 World Cup?",
+   "a": "Kevin O'Brien",
+   "p": 600,
+   "alt": [
+    "O'Brien"
+   ]
+  },
+  {
+   "q": "Who captained Pakistan to the 2009 T20 World Cup title?",
+   "a": "Younis Khan",
+   "p": 600,
+   "alt": [
+    "Younis"
+   ]
+  },
+  {
+   "q": "Who captained England to the 2010 T20 World Cup title?",
+   "a": "Paul Collingwood",
+   "p": 600,
+   "alt": [
+    "Collingwood"
+   ]
+  },
+  {
+   "q": "Which team won the 2014 T20 World Cup in Dhaka?",
+   "a": "Sri Lanka",
+   "p": 600
+  },
+  {
+   "q": "Who captained West Indies to the 2012 and 2016 T20 World Cups?",
+   "a": "Darren Sammy",
+   "p": 600,
+   "alt": [
+    "Sammy"
+   ]
+  },
+  {
+   "q": "Which host nation beat Pakistan in a super over at the 2024 T20 World Cup?",
+   "a": "USA",
+   "p": 600,
+   "alt": [
+    "United States"
+   ]
+  },
+  {
+   "q": "In which Barbados ground did India win the 2024 T20 World Cup final?",
+   "a": "Kensington Oval",
+   "p": 600
+  },
+  {
+   "q": "Who captained South Africa to the 2025 World Test Championship title?",
+   "a": "Temba Bavuma",
+   "p": 600,
+   "alt": [
+    "Bavuma"
+   ]
+  },
+  {
+   "q": "Which team beat India in the 2017 Champions Trophy final at The Oval?",
+   "a": "Pakistan",
+   "p": 600
+  },
+  {
+   "q": "Which team won the IPL in 2009?",
+   "a": "Deccan Chargers",
+   "p": 600
+  },
+  {
+   "q": "Which team won the IPL in 2016, led by David Warner?",
+   "a": "Sunrisers Hyderabad",
+   "p": 600,
+   "alt": [
+    "SRH"
+   ]
+  },
+  {
+   "q": "Which team did RCB beat in the 2025 IPL final?",
+   "a": "Punjab Kings",
+   "p": 600,
+   "alt": [
+    "PBKS",
+    "Kings XI Punjab"
+   ]
+  },
+  {
+   "q": "Which New Zealander hit 158 not out in the very first IPL match in 2008?",
+   "a": "Brendon McCullum",
+   "p": 600,
+   "alt": [
+    "McCullum"
+   ]
+  },
+  {
+   "q": "Which two IPL franchises were suspended for the 2016 and 2017 seasons?",
+   "a": "Chennai Super Kings and Rajasthan Royals",
+   "p": 600,
+   "alt": [
+    "CSK and RR"
+   ]
+  },
+  {
+   "q": "Which country hosted the first part of the 2014 IPL?",
+   "a": "UAE",
+   "p": 600,
+   "ar": "الإمارات",
+   "alt": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "q": "Which team won the first PSL title, with the final played in Dubai in 2016?",
+   "a": "Islamabad United",
+   "p": 600
+  },
+  {
+   "q": "Which team did India beat in the last-ball 2018 Asia Cup final in Dubai?",
+   "a": "Bangladesh",
+   "p": 600
+  },
+  {
+   "q": "Which two teams played the first Test match in Sharjah in 2002?",
+   "a": "Pakistan and West Indies",
+   "p": 600,
+   "alt": [
+    "West Indies and Pakistan"
+   ]
+  },
+  {
+   "q": "What did CBFS, the body behind Sharjah's 1980s and 1990s tournaments, stand for?",
+   "a": "Cricketers' Benefit Fund Series",
+   "p": 600
+  },
+  {
+   "q": "Which Australian hit three successive sixes off Shaheen Afridi to win the 2021 T20 World Cup semi-final in Dubai?",
+   "a": "Matthew Wade",
+   "p": 600,
+   "alt": [
+    "Wade"
+   ]
+  },
+  {
+   "q": "Which Australian opener was player of the tournament at the 2021 T20 World Cup?",
+   "a": "David Warner",
+   "p": 600,
+   "alt": [
+    "Warner"
+   ]
+  },
+  {
+   "q": "Which Irish bowler took four wickets in four balls against the Netherlands in Abu Dhabi in 2021?",
+   "a": "Curtis Campher",
+   "p": 600,
+   "alt": [
+    "Campher"
+   ]
+  },
+  {
+   "q": "Which UAE batter scored his country's first Cricket World Cup century, against Ireland in 2015?",
+   "a": "Shaiman Anwar",
+   "p": 600
+  },
+  {
+   "q": "Which Sri Lankan became the first international batter given out 'timed out', in 2023?",
+   "a": "Angelo Mathews",
+   "p": 600,
+   "alt": [
+    "Mathews"
+   ]
+  },
+  {
+   "q": "What informal name was long given to running out a non-striker backing up too far?",
+   "a": "Mankad",
+   "p": 600,
+   "alt": [
+    "Mankading"
+   ]
+  },
+  {
+   "q": "Which Pakistani off-spinner is credited with inventing the doosra?",
+   "a": "Saqlain Mushtaq",
+   "p": 600,
+   "alt": [
+    "Saqlain"
+   ]
+  },
+  {
+   "q": "Which Indian batter was Muralitharan's 800th and final Test wicket in 2010?",
+   "a": "Pragyan Ojha",
+   "p": 600,
+   "alt": [
+    "Ojha"
+   ]
+  },
+  {
+   "q": "Which Sri Lankan scored four consecutive centuries at the 2015 World Cup?",
+   "a": "Kumar Sangakkara",
+   "p": 600,
+   "alt": [
+    "Sangakkara"
+   ]
+  },
+  {
+   "q": "Which England batter, born in South Africa, scored 158 to clinch the 2005 Ashes at The Oval?",
+   "a": "Kevin Pietersen",
+   "p": 600,
+   "alt": [
+    "Pietersen",
+    "KP"
+   ]
+  },
+  {
+   "q": "Which spinner was Ben Stokes' last-wicket partner at Headingley in 2019?",
+   "a": "Jack Leach",
+   "p": 600,
+   "alt": [
+    "Leach"
+   ]
+  },
+  {
+   "q": "What is the fielding position for deep mid-wicket, where slogs often go, informally called?",
+   "a": "Cow corner",
+   "p": 600
+  },
+  {
+   "q": "What is a batter dismissed for zero in both innings of a Test said to have bagged?",
+   "a": "A pair",
+   "p": 600,
+   "alt": [
+    "Pair",
+    "Spectacles"
+   ]
+  },
+  {
+   "q": "What is the line in front of the stumps that a batter must ground their bat behind?",
+   "a": "Popping crease",
+   "p": 600
+  },
+  {
+   "q": "What was the speed of Shoaib Akhtar's famous delivery at the 2003 World Cup, in km/h?",
+   "a": "161.3 km/h",
+   "p": 600,
+   "alt": [
+    "161.3",
+    "161"
+   ]
+  },
+  {
+   "q": "In which year did Ireland and Afghanistan become Test nations?",
+   "a": "2017",
+   "p": 600
+  }
+ ]
+}

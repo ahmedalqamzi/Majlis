@@ -494,7 +494,7 @@
    ]
   },
   {
-   "q": "Which Tyrant-like bioweapon is the final boss of the first game?",
+   "q": "Which hulking bioweapon is the final boss of the first game?",
    "a": "Tyrant",
    "p": 200,
    "alt": [
@@ -545,6 +545,30 @@
    "alt": [
     "Left hand",
     "Hand"
+   ]
+  },
+  {
+   "q": "Who directed the first Resident Evil?",
+   "a": "Shinji Mikami",
+   "p": 200,
+   "alt": [
+    "Mikami"
+   ]
+  },
+  {
+   "q": "How many daughters does Lady Dimitrescu have?",
+   "a": "Three",
+   "p": 200,
+   "alt": [
+    "3"
+   ]
+  },
+  {
+   "q": "Which RE mode, introduced as a bonus in RE3, challenges players to rack up kills against a timer?",
+   "a": "The Mercenaries",
+   "p": 200,
+   "alt": [
+    "Mercenaries"
    ]
   },
   {
@@ -619,6 +643,19 @@
    ]
   },
   {
+   "q": "Which giant lake creature attacks Leon's boat in RE4?",
+   "a": "Del Lago",
+   "p": 200
+  },
+  {
+   "q": "What colour is the most common healing herb on its own?",
+   "a": "Green",
+   "p": 200,
+   "alt": [
+    "Green herb"
+   ]
+  },
+  {
    "q": "Which Raccoon City mercenary partners Jill in RE3?",
    "a": "Carlos Oliveira",
    "p": 400,
@@ -632,14 +669,6 @@
    "p": 400,
    "alt": [
     "Donna"
-   ]
-  },
-  {
-   "q": "Who directed the first Resident Evil?",
-   "a": "Shinji Mikami",
-   "p": 400,
-   "alt": [
-    "Mikami"
    ]
   },
   {
@@ -902,14 +931,6 @@
    ]
   },
   {
-   "q": "How many daughters does Lady Dimitrescu have?",
-   "a": "Three",
-   "p": 400,
-   "alt": [
-    "3"
-   ]
-  },
-  {
    "q": "Which creepy doll-filled house does Ethan explore in Village?",
    "a": "House Beneviento",
    "p": 400
@@ -920,14 +941,6 @@
    "p": 400,
    "alt": [
     "Ethan"
-   ]
-  },
-  {
-   "q": "Which RE mode, introduced as a bonus in RE3, challenges players to rack up kills against a timer?",
-   "a": "The Mercenaries",
-   "p": 400,
-   "alt": [
-    "Mercenaries"
    ]
   },
   {
@@ -1083,6 +1096,64 @@
    ]
   },
   {
+   "q": "Which giant plant monster is fought in the first game?",
+   "a": "Plant 42",
+   "p": 400
+  },
+  {
+   "q": "Which tragic, chained girl stalks the mansion in the 2002 remake?",
+   "a": "Lisa Trevor",
+   "p": 400,
+   "alt": [
+    "Lisa"
+   ]
+  },
+  {
+   "q": "What are the faster, red-skinned zombies of the 2002 remake called?",
+   "a": "Crimson Heads",
+   "p": 400,
+   "alt": [
+    "Crimson Head"
+   ]
+  },
+  {
+   "q": "Which side story campaign of RE4 shows Ada's mission?",
+   "a": "Separate Ways",
+   "p": 400
+  },
+  {
+   "q": "Which virus is Wesker's plan to spread across the world in RE5?",
+   "a": "Uroboros",
+   "p": 400,
+   "alt": [
+    "Uroboros virus"
+   ]
+  },
+  {
+   "q": "Who is Leon's partner in RE6?",
+   "a": "Helena Harper",
+   "p": 400,
+   "alt": [
+    "Helena"
+   ]
+  },
+  {
+   "q": "What is the name of the underground Umbrella facility in the first film?",
+   "a": "The Hive",
+   "p": 400,
+   "alt": [
+    "Hive"
+   ]
+  },
+  {
+   "q": "Which 2021 Netflix CG series stars Leon and Claire?",
+   "a": "Resident Evil: Infinite Darkness",
+   "p": 400,
+   "alt": [
+    "Infinite Darkness"
+   ]
+  },
+  {
    "q": "Which explosive launcher is a signature weapon of Claire in RE2?",
    "a": "Grenade launcher",
    "p": 400
@@ -1125,11 +1196,6 @@
     "PS VR",
     "PSVR"
    ]
-  },
-  {
-   "q": "Which giant lake creature attacks Leon's boat in RE4?",
-   "a": "Del Lago",
-   "p": 400
   },
   {
    "q": "What item of Sherry's hides a G-virus sample?",
@@ -1191,6 +1257,21 @@
    ]
   },
   {
+   "q": "In which year was Resident Evil 7 released?",
+   "a": "2017",
+   "p": 400
+  },
+  {
+   "q": "In which year was Resident Evil Village released?",
+   "a": "2021",
+   "p": 400
+  },
+  {
+   "q": "In which year was Resident Evil 5 released?",
+   "a": "2009",
+   "p": 400
+  },
+  {
    "q": "Which 1989 Famicom horror game by Capcom inspired Resident Evil?",
    "a": "Sweet Home",
    "p": 600
@@ -1245,27 +1326,6 @@
    "q": "Which giant mutated shark appears in the first game's aqua ring?",
    "a": "Neptune",
    "p": 600
-  },
-  {
-   "q": "Which giant plant monster is fought in the first game?",
-   "a": "Plant 42",
-   "p": 600
-  },
-  {
-   "q": "Which tragic, chained girl stalks the mansion in the 2002 remake?",
-   "a": "Lisa Trevor",
-   "p": 600,
-   "alt": [
-    "Lisa"
-   ]
-  },
-  {
-   "q": "What are the faster, red-skinned zombies of the 2002 remake called?",
-   "a": "Crimson Heads",
-   "p": 600,
-   "alt": [
-    "Crimson Head"
-   ]
   },
   {
    "q": "Which S.T.A.R.S. member is found being eaten by the first zombie in the 1996 game?",
@@ -1370,22 +1430,9 @@
    ]
   },
   {
-   "q": "Which side story campaign of RE4 shows Ada's mission?",
-   "a": "Separate Ways",
-   "p": 600
-  },
-  {
    "q": "In which fictional African region does RE5 take place?",
    "a": "Kijuju",
    "p": 600
-  },
-  {
-   "q": "Which virus is Wesker's plan to spread across the world in RE5?",
-   "a": "Uroboros",
-   "p": 600,
-   "alt": [
-    "Uroboros virus"
-   ]
   },
   {
    "q": "Which Tricell executive works with Wesker in RE5?",
@@ -1406,14 +1453,6 @@
    "p": 600,
    "alt": [
     "Simmons"
-   ]
-  },
-  {
-   "q": "Who is Leon's partner in RE6?",
-   "a": "Helena Harper",
-   "p": 600,
-   "alt": [
-    "Helena"
    ]
   },
   {
@@ -1491,14 +1530,6 @@
    ]
   },
   {
-   "q": "What is the name of the underground Umbrella facility in the first film?",
-   "a": "The Hive",
-   "p": 600,
-   "alt": [
-    "Hive"
-   ]
-  },
-  {
    "q": "Which 2008 CGI film reunited Leon and Claire at an airport outbreak?",
    "a": "Resident Evil: Degeneration",
    "p": 600,
@@ -1512,14 +1543,6 @@
    "p": 600,
    "alt": [
     "Vendetta"
-   ]
-  },
-  {
-   "q": "Which 2021 Netflix CG series stars Leon and Claire?",
-   "a": "Resident Evil: Infinite Darkness",
-   "p": 600,
-   "alt": [
-    "Infinite Darkness"
    ]
   },
   {
@@ -1629,7 +1652,7 @@
    ]
   },
   {
-   "q": "Which fast, insect-like boss stalks Leon through the sewers of the castle in RE4?",
+   "q": "Which fast, insect-like Plaga warrior hunts Leon beneath the castle in RE4?",
    "a": "Verdugo",
    "p": 600
   },
@@ -1761,6 +1784,42 @@
    "p": 600,
    "alt": [
     "Apostolides"
+   ]
+  },
+  {
+   "q": "In which year was Resident Evil 6 released?",
+   "a": "2012",
+   "p": 600
+  },
+  {
+   "q": "What device removes the Plaga from Leon in RE4?",
+   "a": "A laser",
+   "p": 600,
+   "alt": [
+    "Laser",
+    "Surgical laser"
+   ]
+  },
+  {
+   "q": "Which Wii rail-shooter retold the events of RE2 and Code: Veronica?",
+   "a": "Resident Evil: The Darkside Chronicles",
+   "p": 600,
+   "alt": [
+    "The Darkside Chronicles",
+    "Darkside Chronicles"
+   ]
+  },
+  {
+   "q": "Which actor played Leon in Resident Evil: Welcome to Raccoon City?",
+   "a": "Avan Jogia",
+   "p": 600
+  },
+  {
+   "q": "Which 2012 film introduced Ada Wong, played by Li Bingbing?",
+   "a": "Resident Evil: Retribution",
+   "p": 600,
+   "alt": [
+    "Retribution"
    ]
   }
  ]

@@ -1,0 +1,1765 @@
+{
+ "id": "physics",
+ "name": "Physics",
+ "questions": [
+  {
+   "q": "What is the SI unit of power?",
+   "a": "Watt",
+   "p": 200
+  },
+  {
+   "q": "What is the SI unit of electric potential difference?",
+   "a": "Volt",
+   "p": 200
+  },
+  {
+   "q": "What is the SI base unit of mass?",
+   "a": "Kilogram",
+   "p": 200
+  },
+  {
+   "q": "What is the SI base unit of length?",
+   "a": "Metre",
+   "p": 200,
+   "alt": [
+    "Meter"
+   ]
+  },
+  {
+   "q": "What is the SI base unit of time?",
+   "a": "Second",
+   "p": 200
+  },
+  {
+   "q": "Which instrument measures electric current?",
+   "a": "Ammeter",
+   "p": 200
+  },
+  {
+   "q": "Which instrument measures voltage?",
+   "a": "Voltmeter",
+   "p": 200
+  },
+  {
+   "q": "Which instrument measures air pressure to help forecast the weather?",
+   "a": "Barometer",
+   "p": 200
+  },
+  {
+   "q": "Which device converts sound into electrical signals?",
+   "a": "Microphone",
+   "p": 200
+  },
+  {
+   "q": "What does a glass prism split white light into?",
+   "a": "A spectrum",
+   "p": 200,
+   "alt": [
+    "Colours of the rainbow",
+    "Colours"
+   ]
+  },
+  {
+   "q": "Which colour of visible light has the longest wavelength?",
+   "a": "Red",
+   "p": 200
+  },
+  {
+   "q": "Which type of lens is thicker in the middle than at the edges?",
+   "a": "Convex lens",
+   "p": 200,
+   "alt": [
+    "Converging lens"
+   ]
+  },
+  {
+   "q": "What is the bending of light as it passes from air into water called?",
+   "a": "Refraction",
+   "p": 200
+  },
+  {
+   "q": "What is the bouncing of light off a mirror called?",
+   "a": "Reflection",
+   "p": 200
+  },
+  {
+   "q": "What loud bang is heard when an aircraft breaks the sound barrier?",
+   "a": "Sonic boom",
+   "p": 200
+  },
+  {
+   "q": "Mach 1 is equal to the speed of what?",
+   "a": "Sound",
+   "p": 200
+  },
+  {
+   "q": "Why do we see lightning before we hear thunder?",
+   "a": "Light travels faster than sound",
+   "p": 200
+  },
+  {
+   "q": "Which unit is used to measure the loudness of sound?",
+   "a": "Decibel",
+   "p": 200
+  },
+  {
+   "q": "What do we call sound too high-pitched for humans to hear?",
+   "a": "Ultrasound",
+   "p": 200
+  },
+  {
+   "q": "Through what kind of empty space can sound not travel?",
+   "a": "A vacuum",
+   "p": 200
+  },
+  {
+   "q": "What is a sound wave reflected back to the listener called?",
+   "a": "Echo",
+   "p": 200
+  },
+  {
+   "q": "Newton's second law is often written as F equals what?",
+   "a": "ma",
+   "p": 200,
+   "alt": [
+    "Mass times acceleration",
+    "m x a"
+   ]
+  },
+  {
+   "q": "Which of Newton's laws says every action has an equal and opposite reaction?",
+   "a": "Third law",
+   "p": 200
+  },
+  {
+   "q": "In E = mc squared, what does c stand for?",
+   "a": "Speed of light",
+   "p": 200
+  },
+  {
+   "q": "What force opposes motion when two surfaces rub together?",
+   "a": "Friction",
+   "p": 200
+  },
+  {
+   "q": "From which leaning tower is Galileo said to have dropped balls to test falling objects?",
+   "a": "Leaning Tower of Pisa",
+   "p": 200,
+   "alt": [
+    "Pisa"
+   ]
+  },
+  {
+   "q": "James Watt made major improvements to which type of engine?",
+   "a": "Steam engine",
+   "p": 200
+  },
+  {
+   "q": "Which American inventor developed the phonograph in 1877?",
+   "a": "Thomas Edison",
+   "p": 200
+  },
+  {
+   "q": "Which Serbian-American inventor championed alternating current and has a car brand named after him?",
+   "a": "Nikola Tesla",
+   "p": 200
+  },
+  {
+   "q": "What does AC stand for in electricity?",
+   "a": "Alternating current",
+   "p": 200
+  },
+  {
+   "q": "What does DC stand for in electricity?",
+   "a": "Direct current",
+   "p": 200
+  },
+  {
+   "q": "Which law states that voltage equals current times resistance?",
+   "a": "Ohm's law",
+   "p": 200
+  },
+  {
+   "q": "Which American statesman is famous for flying a kite in a thunderstorm to study electricity?",
+   "a": "Benjamin Franklin",
+   "p": 200
+  },
+  {
+   "q": "Which safety device in a plug melts to break a circuit if too much current flows?",
+   "a": "Fuse",
+   "p": 200
+  },
+  {
+   "q": "What does LED stand for?",
+   "a": "Light-emitting diode",
+   "p": 200
+  },
+  {
+   "q": "Do like poles of two magnets attract or repel?",
+   "a": "Repel",
+   "p": 200
+  },
+  {
+   "q": "Which common metal is strongly attracted to a magnet?",
+   "a": "Iron",
+   "p": 200
+  },
+  {
+   "q": "Which navigation tool, first developed in China, uses a magnetised needle?",
+   "a": "Compass",
+   "p": 200
+  },
+  {
+   "q": "What is a magnet made by passing electric current through a coil of wire called?",
+   "a": "Electromagnet",
+   "p": 200
+  },
+  {
+   "q": "What is the name of Schrodinger's famous thought-experiment animal?",
+   "a": "A cat",
+   "p": 200,
+   "alt": [
+    "Cat"
+   ]
+  },
+  {
+   "q": "Which particle, nicknamed the 'God particle', was discovered at CERN in 2012?",
+   "a": "Higgs boson",
+   "p": 200
+  },
+  {
+   "q": "What is the splitting of a heavy atomic nucleus, used in nuclear power stations, called?",
+   "a": "Nuclear fission",
+   "p": 200,
+   "alt": [
+    "Fission"
+   ]
+  },
+  {
+   "q": "Which physicist led the Los Alamos laboratory that built the first atomic bomb?",
+   "a": "J. Robert Oppenheimer",
+   "p": 200,
+   "alt": [
+    "Oppenheimer"
+   ]
+  },
+  {
+   "q": "Which clicking instrument detects radiation?",
+   "a": "Geiger counter",
+   "p": 200
+  },
+  {
+   "q": "What is the time taken for half of a radioactive sample to decay called?",
+   "a": "Half-life",
+   "p": 200
+  },
+  {
+   "q": "Ice floats on water because it is less what?",
+   "a": "Dense",
+   "p": 200
+  },
+  {
+   "q": "What upward force from a liquid lets ships float?",
+   "a": "Buoyancy",
+   "p": 200,
+   "alt": [
+    "Upthrust"
+   ]
+  },
+  {
+   "q": "A see-saw is an example of which simple machine?",
+   "a": "Lever",
+   "p": 200
+  },
+  {
+   "q": "How does heat travel along a metal spoon left in hot soup?",
+   "a": "Conduction",
+   "p": 200
+  },
+  {
+   "q": "At what temperature in degrees Fahrenheit does water boil at sea level?",
+   "a": "212",
+   "p": 200
+  },
+  {
+   "q": "What optical illusion makes a hot desert road look as if it is covered in water?",
+   "a": "Mirage",
+   "p": 200
+  },
+  {
+   "q": "What are the three primary colours of light?",
+   "a": "Red, green and blue",
+   "p": 200,
+   "alt": [
+    "RGB"
+   ]
+  },
+  {
+   "q": "What colour do you get when you mix all colours of light together?",
+   "a": "White",
+   "p": 200
+  },
+  {
+   "q": "Does sound travel faster in water or in air?",
+   "a": "Water",
+   "p": 200
+  },
+  {
+   "q": "What property of a sound wave determines its pitch?",
+   "a": "Frequency",
+   "p": 200
+  },
+  {
+   "q": "Which animals famously use echolocation to fly and hunt in the dark?",
+   "a": "Bats",
+   "p": 200
+  },
+  {
+   "q": "What system do submarines use to detect objects with pulses of sound?",
+   "a": "Sonar",
+   "p": 200
+  },
+  {
+   "q": "Which particles flow through a metal wire to make an electric current?",
+   "a": "Electrons",
+   "p": 200
+  },
+  {
+   "q": "Rubbing a balloon on your hair builds up what type of electricity?",
+   "a": "Static electricity",
+   "p": 200
+  },
+  {
+   "q": "What device converts movement into electrical energy?",
+   "a": "Generator",
+   "p": 200,
+   "alt": [
+    "Dynamo"
+   ]
+  },
+  {
+   "q": "What device converts electrical energy into movement?",
+   "a": "Electric motor",
+   "p": 200,
+   "alt": [
+    "Motor"
+   ]
+  },
+  {
+   "q": "What type of power station is Barakah in Abu Dhabi's Al Dhafra region?",
+   "a": "Nuclear",
+   "p": 200
+  },
+  {
+   "q": "What is the distance from one wave crest to the next called?",
+   "a": "Wavelength",
+   "p": 200
+  },
+  {
+   "q": "Which invisible waves does a TV remote control usually use?",
+   "a": "Infrared",
+   "p": 200
+  },
+  {
+   "q": "Which invisible rays from the Sun cause sunburn?",
+   "a": "Ultraviolet",
+   "p": 200,
+   "alt": [
+    "UV"
+   ]
+  },
+  {
+   "q": "Which electromagnetic waves are used in hospitals to see broken bones?",
+   "a": "X-rays",
+   "p": 200
+  },
+  {
+   "q": "Does water boil at a higher or lower temperature on top of a high mountain?",
+   "a": "Lower",
+   "p": 200
+  },
+  {
+   "q": "What type of energy does a moving object have?",
+   "a": "Kinetic energy",
+   "p": 200
+  },
+  {
+   "q": "What type of energy does an object have because of its height above the ground?",
+   "a": "Gravitational potential energy",
+   "p": 200,
+   "alt": [
+    "Potential energy"
+   ]
+  },
+  {
+   "q": "Which British physicist wrote 'A Brief History of Time'?",
+   "a": "Stephen Hawking",
+   "p": 200
+  },
+  {
+   "q": "Which Italian scientist was put on trial in 1633 for supporting the idea that Earth orbits the Sun?",
+   "a": "Galileo Galilei",
+   "p": 200,
+   "alt": [
+    "Galileo"
+   ]
+  },
+  {
+   "q": "Which scientist wrote the 'Principia', setting out the laws of motion in 1687?",
+   "a": "Isaac Newton",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the theory Einstein published in 1905 about space, time and motion?",
+   "a": "Special relativity",
+   "p": 200,
+   "alt": [
+    "Special theory of relativity"
+   ]
+  },
+  {
+   "q": "What is the scientific word for how fast an object's velocity changes?",
+   "a": "Acceleration",
+   "p": 200
+  },
+  {
+   "q": "What is the scientific word for the amount of matter in an object, measured in kilograms?",
+   "a": "Mass",
+   "p": 200
+  },
+  {
+   "q": "On which body would an astronaut weigh less: the Earth or the Moon?",
+   "a": "The Moon",
+   "p": 200
+  },
+  {
+   "q": "What does a thermometer measure?",
+   "a": "Temperature",
+   "p": 200
+  },
+  {
+   "q": "What is a quantum, or packet, of light called?",
+   "a": "Photon",
+   "p": 200
+  },
+  {
+   "q": "What colour does the sky appear because air scatters short wavelengths of sunlight the most?",
+   "a": "Blue",
+   "p": 200
+  },
+  {
+   "q": "What travels at about 300,000 kilometres per second and is the fastest thing in the universe?",
+   "a": "Light",
+   "p": 200
+  },
+  {
+   "q": "What is the name for the energy from the Sun captured by panels on rooftops?",
+   "a": "Solar energy",
+   "p": 200,
+   "alt": [
+    "Solar power"
+   ]
+  },
+  {
+   "q": "Which renewable energy source uses tall turbines with spinning blades?",
+   "a": "Wind power",
+   "p": 200,
+   "alt": [
+    "Wind energy",
+    "Wind"
+   ]
+  },
+  {
+   "q": "Which type of mirror, curving outward, is used on car wing mirrors to give a wide view?",
+   "a": "Convex mirror",
+   "p": 200
+  },
+  {
+   "q": "In a circuit, what is the general name for a material that lets electricity flow easily?",
+   "a": "Conductor",
+   "p": 200
+  },
+  {
+   "q": "What is the general name for a material, like rubber or plastic, that does not let electricity flow?",
+   "a": "Insulator",
+   "p": 200
+  },
+  {
+   "q": "What does a battery store energy as before turning it into electricity?",
+   "a": "Chemical energy",
+   "p": 200
+  },
+  {
+   "q": "What is the speed of an object in a particular direction called?",
+   "a": "Velocity",
+   "p": 200
+  },
+  {
+   "q": "What name is given to the point in an object where its weight seems to act?",
+   "a": "Centre of gravity",
+   "p": 200,
+   "alt": [
+    "Centre of mass",
+    "Center of gravity"
+   ]
+  },
+  {
+   "q": "Which American physicist gave his name to diagrams showing particle interactions?",
+   "a": "Richard Feynman",
+   "p": 200
+  },
+  {
+   "q": "Which part of the electromagnetic spectrum is used to heat food quickly in a kitchen appliance?",
+   "a": "Microwaves",
+   "p": 200
+  },
+  {
+   "q": "What is the name for a complete loop that electricity flows around?",
+   "a": "Circuit",
+   "p": 200,
+   "alt": [
+    "Electric circuit"
+   ]
+  },
+  {
+   "q": "Which component opens and closes a circuit to turn a light on and off?",
+   "a": "Switch",
+   "p": 200
+  },
+  {
+   "q": "What is heat energy also called?",
+   "a": "Thermal energy",
+   "p": 200
+  },
+  {
+   "q": "What kind of energy is stored in a stretched spring or rubber band?",
+   "a": "Elastic potential energy",
+   "p": 200,
+   "alt": [
+    "Elastic energy",
+    "Strain energy"
+   ]
+  },
+  {
+   "q": "Which circuit component is used to limit the flow of current?",
+   "a": "Resistor",
+   "p": 200
+  },
+  {
+   "q": "Which device switches heating or cooling on and off to keep a set temperature?",
+   "a": "Thermostat",
+   "p": 200
+  },
+  {
+   "q": "What word describes a material, like clear glass, that lets light pass straight through?",
+   "a": "Transparent",
+   "p": 200
+  },
+  {
+   "q": "What word describes a material that lets no light through?",
+   "a": "Opaque",
+   "p": 200
+  },
+  {
+   "q": "What is a push or a pull on an object called?",
+   "a": "Force",
+   "p": 200
+  },
+  {
+   "q": "What colour of clothing absorbs the most sunlight and heats up fastest?",
+   "a": "Black",
+   "p": 200
+  },
+  {
+   "q": "What is the SI unit of pressure?",
+   "a": "Pascal",
+   "p": 400
+  },
+  {
+   "q": "What is the SI unit of electric charge?",
+   "a": "Coulomb",
+   "p": 400
+  },
+  {
+   "q": "What is the SI unit of magnetic flux density?",
+   "a": "Tesla",
+   "p": 400
+  },
+  {
+   "q": "Which instrument records the shaking of earthquakes?",
+   "a": "Seismometer",
+   "p": 400,
+   "alt": [
+    "Seismograph"
+   ]
+  },
+  {
+   "q": "Which colour of visible light has the shortest wavelength?",
+   "a": "Violet",
+   "p": 400
+  },
+  {
+   "q": "What do we call sound too low-pitched for humans to hear?",
+   "a": "Infrasound",
+   "p": 400
+  },
+  {
+   "q": "Roughly what is the upper limit of human hearing, in hertz?",
+   "a": "20,000 Hz",
+   "p": 400,
+   "alt": [
+    "20 kHz",
+    "20000"
+   ]
+  },
+  {
+   "q": "To the nearest ten, what is the speed of sound in air at room temperature, in metres per second?",
+   "a": "About 340 m/s",
+   "p": 400,
+   "alt": [
+    "343 m/s",
+    "340"
+   ]
+  },
+  {
+   "q": "What effect causes an ambulance siren to change pitch as it passes you?",
+   "a": "Doppler effect",
+   "p": 400
+  },
+  {
+   "q": "Newton's first law of motion is also known as the law of what?",
+   "a": "Inertia",
+   "p": 400
+  },
+  {
+   "q": "Approximately what is the acceleration due to gravity at Earth's surface, in metres per second squared?",
+   "a": "9.8",
+   "p": 400,
+   "alt": [
+    "9.81",
+    "About 10"
+   ]
+  },
+  {
+   "q": "What is the minimum speed an object needs to break free of a planet's gravity called?",
+   "a": "Escape velocity",
+   "p": 400
+  },
+  {
+   "q": "What is the name of the effect where moving clocks run slow compared with stationary ones?",
+   "a": "Time dilation",
+   "p": 400
+  },
+  {
+   "q": "For which discovery did Einstein receive his Nobel Prize?",
+   "a": "Photoelectric effect",
+   "p": 400
+  },
+  {
+   "q": "Which German physicist is considered the father of quantum theory, from his work in 1900?",
+   "a": "Max Planck",
+   "p": 400
+  },
+  {
+   "q": "Which Danish physicist proposed in 1913 that electrons orbit the nucleus in fixed shells?",
+   "a": "Niels Bohr",
+   "p": 400
+  },
+  {
+   "q": "Which New Zealand-born physicist discovered the atomic nucleus with his gold foil experiment?",
+   "a": "Ernest Rutherford",
+   "p": 400
+  },
+  {
+   "q": "How many types, or 'flavours', of quark are there?",
+   "a": "6",
+   "p": 400,
+   "alt": [
+    "Six"
+   ]
+  },
+  {
+   "q": "Near which Swiss city is the Large Hadron Collider?",
+   "a": "Geneva",
+   "p": 400
+  },
+  {
+   "q": "What is the antimatter partner of the electron called?",
+   "a": "Positron",
+   "p": 400
+  },
+  {
+   "q": "What is the idea that light and matter behave as both waves and particles called?",
+   "a": "Wave-particle duality",
+   "p": 400
+  },
+  {
+   "q": "Which type of radiation is a fast-moving electron emitted from a nucleus?",
+   "a": "Beta radiation",
+   "p": 400,
+   "alt": [
+    "Beta"
+   ]
+  },
+  {
+   "q": "Which German physicist discovered X-rays in 1895?",
+   "a": "Wilhelm Rontgen",
+   "p": 400,
+   "alt": [
+    "Wilhelm Röntgen",
+    "Roentgen"
+   ]
+  },
+  {
+   "q": "Which Italian inventor is credited with pioneering long-distance radio transmission?",
+   "a": "Guglielmo Marconi",
+   "p": 400
+  },
+  {
+   "q": "Which Italian physicist invented the first electric battery, the voltaic pile, in 1800?",
+   "a": "Alessandro Volta",
+   "p": 400
+  },
+  {
+   "q": "Which English scientist discovered electromagnetic induction in 1831?",
+   "a": "Michael Faraday",
+   "p": 400
+  },
+  {
+   "q": "By what Latinised name was Ibn al-Haytham known in medieval Europe?",
+   "a": "Alhazen",
+   "p": 400,
+   "ar": "ابن الهيثم",
+   "alt": [
+    "Alhacen"
+   ]
+  },
+  {
+   "q": "In which Iraqi city was Ibn al-Haytham born, around 965?",
+   "a": "Basra",
+   "p": 400,
+   "ar": "البصرة"
+  },
+  {
+   "q": "Ibn al-Haytham argued that we see because light travels from objects into what?",
+   "a": "The eye",
+   "p": 400,
+   "alt": [
+    "Eyes"
+   ]
+  },
+  {
+   "q": "Which device, a dark room with a tiny hole that projects an image, did Ibn al-Haytham study?",
+   "a": "Camera obscura",
+   "p": 400
+  },
+  {
+   "q": "Which 12th-13th-century engineer from Diyarbakir designed the famous Elephant Clock?",
+   "a": "Al-Jazari",
+   "p": 400,
+   "ar": "الجزري"
+  },
+  {
+   "q": "Which Pakistani physicist shared the 1979 Nobel Prize in Physics for unifying two fundamental forces?",
+   "a": "Abdus Salam",
+   "p": 400,
+   "ar": "عبد السلام"
+  },
+  {
+   "q": "In which year did Einstein publish special relativity, his 'miracle year'?",
+   "a": "1905",
+   "p": 400
+  },
+  {
+   "q": "What is absolute zero in degrees Celsius?",
+   "a": "-273.15",
+   "p": 400,
+   "alt": [
+    "Minus 273",
+    "-273"
+   ]
+  },
+  {
+   "q": "What is 0 degrees Celsius in kelvin?",
+   "a": "273.15",
+   "p": 400,
+   "alt": [
+    "273"
+   ]
+  },
+  {
+   "q": "At what temperature do the Celsius and Fahrenheit scales read the same number?",
+   "a": "-40",
+   "p": 400,
+   "alt": [
+    "Minus 40"
+   ]
+  },
+  {
+   "q": "Normal body temperature of 37 degrees Celsius is about how many degrees Fahrenheit?",
+   "a": "98.6",
+   "p": 400
+  },
+  {
+   "q": "The Celsius temperature scale is named after an astronomer from which country?",
+   "a": "Sweden",
+   "p": 400
+  },
+  {
+   "q": "How does heat from the Sun reach Earth across empty space?",
+   "a": "Radiation",
+   "p": 400,
+   "alt": [
+    "Infrared radiation"
+   ]
+  },
+  {
+   "q": "What do we call heat transfer where warm fluid rises and cooler fluid sinks?",
+   "a": "Convection",
+   "p": 400
+  },
+  {
+   "q": "Which law of thermodynamics says energy cannot be created or destroyed?",
+   "a": "First law",
+   "p": 400,
+   "alt": [
+    "First law of thermodynamics"
+   ]
+  },
+  {
+   "q": "Which quantity, a measure of disorder, always increases in an isolated system?",
+   "a": "Entropy",
+   "p": 400
+  },
+  {
+   "q": "A kilowatt-hour is a unit of what?",
+   "a": "Energy",
+   "p": 400
+  },
+  {
+   "q": "A 60-watt bulb is left on for 10 hours. How many kilowatt-hours does it use?",
+   "a": "0.6 kWh",
+   "p": 400
+  },
+  {
+   "q": "A car is travelling at 20 metres per second. What is that in kilometres per hour?",
+   "a": "72 km/h",
+   "p": 400
+  },
+  {
+   "q": "You hear thunder 3 seconds after seeing lightning. Roughly how far away is the storm?",
+   "a": "About 1 km",
+   "p": 400,
+   "alt": [
+    "1 kilometre",
+    "About 1000 m"
+   ]
+  },
+  {
+   "q": "Momentum equals mass multiplied by what?",
+   "a": "Velocity",
+   "p": 400
+  },
+  {
+   "q": "What is the difference between speed and velocity?",
+   "a": "Velocity includes direction",
+   "p": 400,
+   "alt": [
+    "Direction"
+   ]
+  },
+  {
+   "q": "What is the constant top speed reached by a falling skydiver called?",
+   "a": "Terminal velocity",
+   "p": 400
+  },
+  {
+   "q": "What is the inward force that keeps an object moving in a circle called?",
+   "a": "Centripetal force",
+   "p": 400
+  },
+  {
+   "q": "Kinetic energy equals one half times mass times what?",
+   "a": "Velocity squared",
+   "p": 400,
+   "alt": [
+    "Speed squared",
+    "v squared"
+   ]
+  },
+  {
+   "q": "Which desk toy of swinging steel balls demonstrates conservation of momentum?",
+   "a": "Newton's cradle",
+   "p": 400
+  },
+  {
+   "q": "Which colour is on the outside edge of a primary rainbow?",
+   "a": "Red",
+   "p": 400
+  },
+  {
+   "q": "Which effect lets optical fibres carry light around bends?",
+   "a": "Total internal reflection",
+   "p": 400
+  },
+  {
+   "q": "What is the spreading of waves as they pass through a gap or around an obstacle called?",
+   "a": "Diffraction",
+   "p": 400
+  },
+  {
+   "q": "Which type of lens is used to correct short-sightedness?",
+   "a": "Concave lens",
+   "p": 400,
+   "alt": [
+    "Diverging lens"
+   ]
+  },
+  {
+   "q": "What property of a sound wave determines how loud it is?",
+   "a": "Amplitude",
+   "p": 400
+  },
+  {
+   "q": "What does RADAR stand for?",
+   "a": "Radio detection and ranging",
+   "p": 400
+  },
+  {
+   "q": "Are household appliances usually wired in series or in parallel?",
+   "a": "Parallel",
+   "p": 400
+  },
+  {
+   "q": "What does a transformer change in an alternating current supply?",
+   "a": "Voltage",
+   "p": 400
+  },
+  {
+   "q": "Electrical power equals current multiplied by what?",
+   "a": "Voltage",
+   "p": 400,
+   "alt": [
+    "Potential difference"
+   ]
+  },
+  {
+   "q": "Which effect do solar panels use to turn sunlight directly into electricity?",
+   "a": "Photovoltaic effect",
+   "p": 400
+  },
+  {
+   "q": "What do we call materials that have zero electrical resistance when cooled enough?",
+   "a": "Superconductors",
+   "p": 400
+  },
+  {
+   "q": "Which part of the electromagnetic spectrum has the longest wavelength?",
+   "a": "Radio waves",
+   "p": 400
+  },
+  {
+   "q": "On the Moon, you would weigh roughly what fraction of your weight on Earth?",
+   "a": "One sixth",
+   "p": 400,
+   "alt": [
+    "1/6"
+   ]
+  },
+  {
+   "q": "On Apollo 15, astronaut David Scott dropped a hammer and what to show they fall together without air?",
+   "a": "A feather",
+   "p": 400,
+   "alt": [
+    "Feather"
+   ]
+  },
+  {
+   "q": "Raising the pressure in a pressure cooker raises the water's what?",
+   "a": "Boiling point",
+   "p": 400
+  },
+  {
+   "q": "What is the density of pure water in grams per cubic centimetre?",
+   "a": "1",
+   "p": 400,
+   "alt": [
+    "1 g/cm3"
+   ]
+  },
+  {
+   "q": "Which law says a spring's extension is proportional to the force on it?",
+   "a": "Hooke's law",
+   "p": 400
+  },
+  {
+   "q": "What is the fixed pivot point of a lever called?",
+   "a": "Fulcrum",
+   "p": 400
+  },
+  {
+   "q": "Car brakes and lifting jacks often use liquid to transmit force. What is this kind of system called?",
+   "a": "Hydraulic",
+   "p": 400,
+   "alt": [
+    "Hydraulics"
+   ]
+  },
+  {
+   "q": "What does the swing time of a pendulum mainly depend on: its length or its mass?",
+   "a": "Its length",
+   "p": 400,
+   "alt": [
+    "Length"
+   ]
+  },
+  {
+   "q": "What is the name of the giant particle physics laboratory on the French-Swiss border?",
+   "a": "CERN",
+   "p": 400
+  },
+  {
+   "q": "What is the name for an object so dense that not even light can escape its gravity?",
+   "a": "Black hole",
+   "p": 200
+  },
+  {
+   "q": "Which British astronomer led the 1919 eclipse expedition that confirmed Einstein's prediction that starlight bends around the Sun?",
+   "a": "Arthur Eddington",
+   "p": 600
+  },
+  {
+   "q": "Which Italian physicist built the world's first nuclear reactor in Chicago in 1942?",
+   "a": "Enrico Fermi",
+   "p": 400
+  },
+  {
+   "q": "What is the scattering of sunlight by air molecules, which makes the sky blue, called?",
+   "a": "Rayleigh scattering",
+   "p": 400
+  },
+  {
+   "q": "In which year did Einstein publish his general theory of relativity?",
+   "a": "1915",
+   "p": 400
+  },
+  {
+   "q": "Which British physicist predicted antimatter with his equation for the electron in 1928?",
+   "a": "Paul Dirac",
+   "p": 400
+  },
+  {
+   "q": "In which unit is the energy content of food often given, besides kilojoules?",
+   "a": "Calories",
+   "p": 400,
+   "alt": [
+    "Kilocalories",
+    "kcal"
+   ]
+  },
+  {
+   "q": "What is the name of the force that holds protons and neutrons together in the nucleus?",
+   "a": "Strong nuclear force",
+   "p": 400,
+   "alt": [
+    "Strong force"
+   ]
+  },
+  {
+   "q": "How many fundamental forces of nature do physicists usually list?",
+   "a": "4",
+   "p": 400,
+   "alt": [
+    "Four"
+   ]
+  },
+  {
+   "q": "Which radiation type is the most penetrating and needs thick lead or concrete to block it?",
+   "a": "Gamma radiation",
+   "p": 400,
+   "alt": [
+    "Gamma rays",
+    "Gamma"
+   ]
+  },
+  {
+   "q": "Which German-born physicist's equation describes how a quantum wave function changes over time?",
+   "a": "Erwin Schrodinger",
+   "p": 400,
+   "alt": [
+    "Schrödinger",
+    "Schrodinger"
+   ]
+  },
+  {
+   "q": "Which American physicist won a Nobel Prize for showing that X-rays lose energy when they scatter off electrons?",
+   "a": "Arthur Compton",
+   "p": 600,
+   "alt": [
+    "Compton"
+   ]
+  },
+  {
+   "q": "What do we call the amount of force acting per unit area?",
+   "a": "Pressure",
+   "p": 400
+  },
+  {
+   "q": "Which British scientist, in a 1798 experiment, first measured the strength of gravity between lead spheres?",
+   "a": "Henry Cavendish",
+   "p": 400
+  },
+  {
+   "q": "What do you call the point where light rays meet after passing through a convex lens?",
+   "a": "Focal point",
+   "p": 400,
+   "alt": [
+    "Focus",
+    "Principal focus"
+   ]
+  },
+  {
+   "q": "Which German physicist gave his name to the unit of electrical resistance?",
+   "a": "Georg Ohm",
+   "p": 400
+  },
+  {
+   "q": "Which English scientist showed with a prism that white light is a mixture of colours?",
+   "a": "Isaac Newton",
+   "p": 400
+  },
+  {
+   "q": "What is the unit of electrical energy that electricity bills in the UAE are charged in?",
+   "a": "Kilowatt-hour",
+   "p": 400,
+   "alt": [
+    "kWh"
+   ]
+  },
+  {
+   "q": "What name is given to the low-temperature limit at which particles have minimum energy?",
+   "a": "Absolute zero",
+   "p": 400
+  },
+  {
+   "q": "Which Italian scientist gave his name to a law that equal volumes of gases contain equal numbers of particles?",
+   "a": "Amedeo Avogadro",
+   "p": 400,
+   "alt": [
+    "Avogadro"
+   ]
+  },
+  {
+   "q": "Which type of curved mirror is used in make-up and shaving mirrors to magnify your face?",
+   "a": "Concave mirror",
+   "p": 400
+  },
+  {
+   "q": "Why are small gaps left between sections of old railway track and bridges?",
+   "a": "To allow for thermal expansion",
+   "p": 400,
+   "alt": [
+    "Expansion in heat",
+    "Thermal expansion"
+   ]
+  },
+  {
+   "q": "Which instrument measures wind speed?",
+   "a": "Anemometer",
+   "p": 400
+  },
+  {
+   "q": "What is the name for an object's mass per unit volume?",
+   "a": "Density",
+   "p": 400
+  },
+  {
+   "q": "At about what temperature in degrees Celsius is liquid water at its densest?",
+   "a": "4 degrees Celsius",
+   "p": 400,
+   "alt": [
+    "4"
+   ]
+  },
+  {
+   "q": "Is light a transverse or a longitudinal wave?",
+   "a": "Transverse",
+   "p": 400
+  },
+  {
+   "q": "Which metal was used for the glowing filament in old incandescent light bulbs?",
+   "a": "Tungsten",
+   "p": 400
+  },
+  {
+   "q": "What is the voltage of a standard AA battery?",
+   "a": "1.5 volts",
+   "p": 400,
+   "alt": [
+    "1.5 V",
+    "1.5"
+   ]
+  },
+  {
+   "q": "According to the law of reflection, the angle of incidence equals which other angle?",
+   "a": "Angle of reflection",
+   "p": 400
+  },
+  {
+   "q": "What does FM stand for in FM radio?",
+   "a": "Frequency modulation",
+   "p": 400
+  },
+  {
+   "q": "What is the SI unit of capacitance?",
+   "a": "Farad",
+   "p": 600
+  },
+  {
+   "q": "What is the SI unit of inductance?",
+   "a": "Henry",
+   "p": 600
+  },
+  {
+   "q": "What is the SI base unit of luminous intensity?",
+   "a": "Candela",
+   "p": 600
+  },
+  {
+   "q": "What is the SI unit of radioactivity, equal to one decay per second?",
+   "a": "Becquerel",
+   "p": 600
+  },
+  {
+   "q": "What is the SI unit of absorbed radiation dose?",
+   "a": "Gray",
+   "p": 600
+  },
+  {
+   "q": "What is the SI unit of magnetic flux?",
+   "a": "Weber",
+   "p": 600
+  },
+  {
+   "q": "What is the SI unit of electrical conductance?",
+   "a": "Siemens",
+   "p": 600
+  },
+  {
+   "q": "How many base units are there in the SI system?",
+   "a": "7",
+   "p": 600,
+   "alt": [
+    "Seven"
+   ]
+  },
+  {
+   "q": "What is the unit of a lens's optical power, used in glasses prescriptions?",
+   "a": "Dioptre",
+   "p": 600,
+   "alt": [
+    "Diopter"
+   ]
+  },
+  {
+   "q": "Roughly what is Earth's escape velocity, in kilometres per second?",
+   "a": "About 11.2 km/s",
+   "p": 600,
+   "alt": [
+    "11.2",
+    "11"
+   ]
+  },
+  {
+   "q": "Roughly how many watts is one mechanical horsepower?",
+   "a": "About 746 W",
+   "p": 600,
+   "alt": [
+    "746",
+    "745.7"
+   ]
+  },
+  {
+   "q": "How many megajoules are in one kilowatt-hour?",
+   "a": "3.6 MJ",
+   "p": 600,
+   "alt": [
+    "3.6"
+   ]
+  },
+  {
+   "q": "How many joules are in one food calorie (kilocalorie), to the nearest thousand?",
+   "a": "About 4,000 J",
+   "p": 600,
+   "alt": [
+    "4184",
+    "4.184 kJ"
+   ]
+  },
+  {
+   "q": "To one decimal place, how many seconds does light take to travel from the Moon to Earth?",
+   "a": "1.3 seconds",
+   "p": 600,
+   "alt": [
+    "About 1.3 s",
+    "1.28"
+   ]
+  },
+  {
+   "q": "Roughly what range of wavelengths, in nanometres, does visible light cover?",
+   "a": "About 400 to 700 nm",
+   "p": 600,
+   "alt": [
+    "380 to 750 nm",
+    "400-700"
+   ]
+  },
+  {
+   "q": "What is standard atmospheric pressure at sea level, in kilopascals?",
+   "a": "About 101 kPa",
+   "p": 600,
+   "alt": [
+    "101.325",
+    "101.3"
+   ]
+  },
+  {
+   "q": "What symbol represents Planck's constant?",
+   "a": "h",
+   "p": 600
+  },
+  {
+   "q": "Which Austrian physicist formulated the exclusion principle for electrons in 1925?",
+   "a": "Wolfgang Pauli",
+   "p": 600
+  },
+  {
+   "q": "Which Scottish physicist unified electricity, magnetism and light in a set of equations in the 1860s?",
+   "a": "James Clerk Maxwell",
+   "p": 600
+  },
+  {
+   "q": "Which German physicist first proved the existence of radio waves in the 1880s?",
+   "a": "Heinrich Hertz",
+   "p": 600
+  },
+  {
+   "q": "Which Danish physicist discovered in 1820 that an electric current deflects a compass needle?",
+   "a": "Hans Christian Orsted",
+   "p": 600,
+   "alt": [
+    "Ørsted",
+    "Oersted"
+   ]
+  },
+  {
+   "q": "Which Swiss scientist's principle links faster-moving fluid to lower pressure, helping explain lift?",
+   "a": "Daniel Bernoulli",
+   "p": 600,
+   "alt": [
+    "Bernoulli"
+   ]
+  },
+  {
+   "q": "Which French physicist used a giant pendulum in Paris in 1851 to show that Earth rotates?",
+   "a": "Leon Foucault",
+   "p": 600,
+   "alt": [
+    "Léon Foucault",
+    "Foucault"
+   ]
+  },
+  {
+   "q": "Which Dutch scientist invented the pendulum clock in 1656?",
+   "a": "Christiaan Huygens",
+   "p": 600
+  },
+  {
+   "q": "Which Italian student of Galileo invented the mercury barometer in 1643?",
+   "a": "Evangelista Torricelli",
+   "p": 600
+  },
+  {
+   "q": "Which English physicist's double-slit experiment around 1801 showed that light behaves as a wave?",
+   "a": "Thomas Young",
+   "p": 600
+  },
+  {
+   "q": "The Doppler effect is named after a physicist from which country?",
+   "a": "Austria",
+   "p": 600
+  },
+  {
+   "q": "Which scientist, later Lord Kelvin, proposed the absolute temperature scale?",
+   "a": "William Thomson",
+   "p": 600
+  },
+  {
+   "q": "Which 11th-century scholar estimated Earth's radius by measuring the dip of the horizon from a mountain?",
+   "a": "Al-Biruni",
+   "p": 600,
+   "ar": "البيروني"
+  },
+  {
+   "q": "In which city did Ibn al-Haytham do much of his work under the Fatimid caliphate?",
+   "a": "Cairo",
+   "p": 600,
+   "ar": "القاهرة"
+  },
+  {
+   "q": "Which Persian scholar explained the rainbow around 1300 by studying light in a water-filled glass sphere?",
+   "a": "Kamal al-Din al-Farisi",
+   "p": 600,
+   "ar": "كمال الدين الفارسي",
+   "alt": [
+    "Al-Farisi"
+   ]
+  },
+  {
+   "q": "The law of refraction known as Snell's law was described centuries earlier by which 10th-century scholar in Baghdad?",
+   "a": "Ibn Sahl",
+   "p": 600,
+   "ar": "ابن سهل"
+  },
+  {
+   "q": "What is the Arabic title of Ibn al-Haytham's Book of Optics?",
+   "a": "Kitab al-Manazir",
+   "p": 600,
+   "ar": "كتاب المناظر"
+  },
+  {
+   "q": "Which Indian physicist won the 1930 Nobel Prize for discovering how light scatters and changes wavelength?",
+   "a": "C. V. Raman",
+   "p": 600,
+   "alt": [
+    "Chandrasekhara Venkata Raman",
+    "Raman"
+   ]
+  },
+  {
+   "q": "Which Indian-American astrophysicist gave his name to the maximum mass of a white dwarf star?",
+   "a": "Subrahmanyan Chandrasekhar",
+   "p": 600,
+   "alt": [
+    "Chandrasekhar"
+   ]
+  },
+  {
+   "q": "Which physicist co-discovered nuclear fission with Otto Hahn but was left out of the Nobel Prize?",
+   "a": "Lise Meitner",
+   "p": 600
+  },
+  {
+   "q": "GPS satellite clocks must be corrected for the effects of which famous set of theories?",
+   "a": "Relativity",
+   "p": 600,
+   "alt": [
+    "Special and general relativity"
+   ]
+  },
+  {
+   "q": "What name is given to the tiny, almost massless particles that pass through Earth by the trillions every second?",
+   "a": "Neutrinos",
+   "p": 600
+  },
+  {
+   "q": "Which three quarks make up a proton?",
+   "a": "Two up and one down",
+   "p": 600,
+   "alt": [
+    "Up, up, down",
+    "uud"
+   ]
+  },
+  {
+   "q": "Which three quarks make up a neutron?",
+   "a": "One up and two down",
+   "p": 600,
+   "alt": [
+    "Up, down, down",
+    "udd"
+   ]
+  },
+  {
+   "q": "What is the name of the particle that carries the electromagnetic force?",
+   "a": "Photon",
+   "p": 600
+  },
+  {
+   "q": "Which particles carry the strong nuclear force between quarks?",
+   "a": "Gluons",
+   "p": 600
+  },
+  {
+   "q": "What is the name of the quantum effect where a particle passes through a barrier it classically should not cross?",
+   "a": "Quantum tunnelling",
+   "p": 600,
+   "alt": [
+    "Tunnelling",
+    "Tunneling"
+   ]
+  },
+  {
+   "q": "What name did Einstein give to quantum entanglement, calling it 'spooky' what?",
+   "a": "Spooky action at a distance",
+   "p": 600,
+   "alt": [
+    "Action at a distance"
+   ]
+  },
+  {
+   "q": "What is the name of the hypothetical unseen matter thought to make up most of the mass in galaxies?",
+   "a": "Dark matter",
+   "p": 600
+  },
+  {
+   "q": "Which mysterious form of energy is thought to be speeding up the expansion of the universe?",
+   "a": "Dark energy",
+   "p": 600
+  },
+  {
+   "q": "What does the 'Q' in QED, the quantum theory of light and electrons, stand for?",
+   "a": "Quantum",
+   "p": 600
+  },
+  {
+   "q": "What does LASER stand for?",
+   "a": "Light amplification by stimulated emission of radiation",
+   "p": 600
+  },
+  {
+   "q": "Which number, about 1/137, measures the strength of the electromagnetic interaction?",
+   "a": "Fine-structure constant",
+   "p": 600
+  },
+  {
+   "q": "Which Bell Labs physicist, who later founded a Silicon Valley semiconductor company, shared the 1956 Nobel Prize for the transistor?",
+   "a": "William Shockley",
+   "p": 600
+  },
+  {
+   "q": "Which Hungarian-American physicist is often called the 'father of the hydrogen bomb'?",
+   "a": "Edward Teller",
+   "p": 600
+  },
+  {
+   "q": "Which state of matter, formed near absolute zero, was predicted by Satyendra Nath Bose and Einstein?",
+   "a": "Bose-Einstein condensate",
+   "p": 600
+  },
+  {
+   "q": "Which French physicist suggested in 1924 that particles like electrons also behave as waves?",
+   "a": "Louis de Broglie",
+   "p": 600,
+   "alt": [
+    "de Broglie"
+   ]
+  },
+  {
+   "q": "Which Dutch physicist first liquefied helium and discovered superconductivity in 1911?",
+   "a": "Heike Kamerlingh Onnes",
+   "p": 600,
+   "alt": [
+    "Kamerlingh Onnes"
+   ]
+  },
+  {
+   "q": "Max Born won a Nobel Prize for showing that the square of a quantum wave function gives what?",
+   "a": "Probability",
+   "p": 600
+  },
+  {
+   "q": "What is the name for the bending of light by gravity, used to see distant galaxies?",
+   "a": "Gravitational lensing",
+   "p": 600
+  },
+  {
+   "q": "Which American physicist measured the charge of the electron with his oil-drop experiment?",
+   "a": "Robert Millikan",
+   "p": 600
+  },
+  {
+   "q": "Which French physicist's laws describe the force between electric charges?",
+   "a": "Charles-Augustin de Coulomb",
+   "p": 600,
+   "alt": [
+    "Coulomb"
+   ]
+  },
+  {
+   "q": "Which German physicist gave his name to two laws for electric circuits about currents and voltages?",
+   "a": "Gustav Kirchhoff",
+   "p": 600,
+   "alt": [
+    "Kirchhoff"
+   ]
+  },
+  {
+   "q": "The SI unit of current is named after a scientist from which country?",
+   "a": "France",
+   "p": 600
+  },
+  {
+   "q": "Which physicist first showed that heat and mechanical work are equivalent, giving his name to the unit of energy?",
+   "a": "James Prescott Joule",
+   "p": 600,
+   "alt": [
+    "James Joule",
+    "Joule"
+   ]
+  },
+  {
+   "q": "Which element is used to make the timing standard in atomic clocks that define the second?",
+   "a": "Caesium",
+   "p": 600,
+   "alt": [
+    "Cesium"
+   ]
+  },
+  {
+   "q": "What name is given to the temperature at which a material loses its permanent magnetism?",
+   "a": "Curie temperature",
+   "p": 600,
+   "alt": [
+    "Curie point"
+   ]
+  },
+  {
+   "q": "Which rule uses the thumb and first two fingers of one hand to find the direction of force on a wire in an electric motor?",
+   "a": "Fleming's left-hand rule",
+   "p": 600
+  },
+  {
+   "q": "What is the name for the spreading of white light into colours by a prism?",
+   "a": "Dispersion",
+   "p": 600
+  },
+  {
+   "q": "Which ancient Greek mathematician stated the principle that a submerged object is pushed up by a force equal to the weight of fluid it displaces?",
+   "a": "Archimedes",
+   "p": 600
+  },
+  {
+   "q": "Which ancient Greek thinker taught that heavier objects fall faster, an idea Galileo later challenged?",
+   "a": "Aristotle",
+   "p": 600
+  },
+  {
+   "q": "Which 12th-century scholar from Merv wrote 'The Book of the Balance of Wisdom' on density and weighing?",
+   "a": "Al-Khazini",
+   "p": 600,
+   "ar": "الخازني"
+  },
+  {
+   "q": "Which sound-level change, in decibels, represents a tenfold increase in sound intensity?",
+   "a": "10 dB",
+   "p": 600,
+   "alt": [
+    "10 decibels",
+    "10"
+   ]
+  },
+  {
+   "q": "In the twin paradox of relativity, which twin ends up younger: the one who travels or the one who stays home?",
+   "a": "The travelling twin",
+   "p": 600,
+   "alt": [
+    "The traveller",
+    "The one who travels"
+   ]
+  },
+  {
+   "q": "What is the name of the hypothetical particle thought to carry gravity?",
+   "a": "Graviton",
+   "p": 600
+  },
+  {
+   "q": "Which particle accelerator laboratory near Chicago discovered the top quark in 1995?",
+   "a": "Fermilab",
+   "p": 600
+  },
+  {
+   "q": "Which Scottish engineer's demonstration in London in 1926 is often called the first working television?",
+   "a": "John Logie Baird",
+   "p": 600
+  },
+  {
+   "q": "What happens to the resistance of a typical metal wire as it gets hotter?",
+   "a": "It increases",
+   "p": 600,
+   "alt": [
+    "Increases",
+    "Goes up"
+   ]
+  },
+  {
+   "q": "Which effect describes the creation of a voltage across a conductor carrying current in a magnetic field?",
+   "a": "Hall effect",
+   "p": 600
+  },
+  {
+   "q": "What do physicists call a material that conducts electricity better than an insulator but worse than a metal, like silicon?",
+   "a": "Semiconductor",
+   "p": 600
+  },
+  {
+   "q": "What is the SI unit of equivalent radiation dose, which takes biological harm into account?",
+   "a": "Sievert",
+   "p": 600
+  },
+  {
+   "q": "Which instrument measures humidity?",
+   "a": "Hygrometer",
+   "p": 600
+  },
+  {
+   "q": "What is the energy absorbed or released when a substance changes state without changing temperature called?",
+   "a": "Latent heat",
+   "p": 600
+  },
+  {
+   "q": "Exactly how many metres per second is the speed of light in a vacuum, by definition?",
+   "a": "299,792,458",
+   "p": 600,
+   "alt": [
+    "299792458"
+   ]
+  },
+  {
+   "q": "Which Austrian physicist's constant links the energy of particles to temperature?",
+   "a": "Ludwig Boltzmann",
+   "p": 600,
+   "alt": [
+    "Boltzmann"
+   ]
+  },
+  {
+   "q": "Which French engineer's cycle describes the most efficient possible heat engine?",
+   "a": "Sadi Carnot",
+   "p": 600,
+   "alt": [
+    "Carnot"
+   ]
+  },
+  {
+   "q": "Which unit of pressure equals exactly 100,000 pascals?",
+   "a": "Bar",
+   "p": 600
+  },
+  {
+   "q": "What name is given to particles, like protons and neutrons, made of three quarks?",
+   "a": "Baryons",
+   "p": 600
+  },
+  {
+   "q": "Which American physicist invented the cyclotron particle accelerator?",
+   "a": "Ernest Lawrence",
+   "p": 600
+  },
+  {
+   "q": "Which Japanese physicist predicted the meson and became Japan's first Nobel laureate in 1949?",
+   "a": "Hideki Yukawa",
+   "p": 600
+  }
+ ]
+}

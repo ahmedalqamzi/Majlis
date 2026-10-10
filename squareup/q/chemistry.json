@@ -1,0 +1,1625 @@
+{
+ "id": "chemistry",
+ "name": "Chemistry",
+ "questions": [
+  {
+   "q": "What is the chemical symbol for carbon?",
+   "a": "C",
+   "p": 200
+  },
+  {
+   "q": "What is the chemical symbol for hydrogen?",
+   "a": "H",
+   "p": 200
+  },
+  {
+   "q": "What is the chemical symbol for nitrogen?",
+   "a": "N",
+   "p": 200
+  },
+  {
+   "q": "What is the chemical symbol for calcium?",
+   "a": "Ca",
+   "p": 200
+  },
+  {
+   "q": "What is the chemical symbol for zinc?",
+   "a": "Zn",
+   "p": 200
+  },
+  {
+   "q": "What is the chemical symbol for uranium?",
+   "a": "U",
+   "p": 200
+  },
+  {
+   "q": "What is the chemical symbol for neon?",
+   "a": "Ne",
+   "p": 200
+  },
+  {
+   "q": "Which element has the chemical symbol Ni?",
+   "a": "Nickel",
+   "p": 200
+  },
+  {
+   "q": "Which precious metal has the chemical symbol Pt?",
+   "a": "Platinum",
+   "p": 200
+  },
+  {
+   "q": "Which element has the atomic number 1?",
+   "a": "Hydrogen",
+   "p": 200
+  },
+  {
+   "q": "What is the common name for sodium chloride?",
+   "a": "Table salt",
+   "p": 200,
+   "alt": [
+    "Salt",
+    "Common salt"
+   ]
+  },
+  {
+   "q": "What is the chemical formula for carbon dioxide?",
+   "a": "CO2",
+   "p": 200
+  },
+  {
+   "q": "What is the chemical formula for table salt?",
+   "a": "NaCl",
+   "p": 200
+  },
+  {
+   "q": "Which liquid metal was traditionally used inside thermometers?",
+   "a": "Mercury",
+   "p": 200
+  },
+  {
+   "q": "Which light gas is used to make party balloons float?",
+   "a": "Helium",
+   "p": 200
+  },
+  {
+   "q": "Which subatomic particle carries a negative charge?",
+   "a": "Electron",
+   "p": 200
+  },
+  {
+   "q": "Which subatomic particle carries a positive charge?",
+   "a": "Proton",
+   "p": 200
+  },
+  {
+   "q": "Which subatomic particle has no electric charge?",
+   "a": "Neutron",
+   "p": 200
+  },
+  {
+   "q": "What is the smallest unit of a chemical element called?",
+   "a": "Atom",
+   "p": 200
+  },
+  {
+   "q": "What do we call a substance made of only one type of atom?",
+   "a": "Element",
+   "p": 200
+  },
+  {
+   "q": "What do we call a substance made of two or more elements chemically joined together?",
+   "a": "Compound",
+   "p": 200
+  },
+  {
+   "q": "What do we call a substance that speeds up a chemical reaction without being used up?",
+   "a": "Catalyst",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the famous chart that arranges all the chemical elements?",
+   "a": "Periodic table",
+   "p": 200
+  },
+  {
+   "q": "What is solid carbon dioxide commonly called?",
+   "a": "Dry ice",
+   "p": 200
+  },
+  {
+   "q": "Diamonds are made entirely of which element?",
+   "a": "Carbon",
+   "p": 200
+  },
+  {
+   "q": "The 'lead' in a pencil is actually made of which form of carbon?",
+   "a": "Graphite",
+   "p": 200
+  },
+  {
+   "q": "Rust forms when iron reacts with water and which gas?",
+   "a": "Oxygen",
+   "p": 200
+  },
+  {
+   "q": "Does lemon juice contain an acid or an alkali?",
+   "a": "An acid",
+   "p": 200
+  },
+  {
+   "q": "Which reddish metal is used in most household electrical wires?",
+   "a": "Copper",
+   "p": 200
+  },
+  {
+   "q": "Which metal's weathering gives the Statue of Liberty its green colour?",
+   "a": "Copper",
+   "p": 200
+  },
+  {
+   "q": "Which noble gas glows bright red-orange in classic advertising signs?",
+   "a": "Neon",
+   "p": 200
+  },
+  {
+   "q": "Which noble gas shares its name with Superman's home planet?",
+   "a": "Krypton",
+   "p": 200
+  },
+  {
+   "q": "Which element is added to swimming pool water to kill germs?",
+   "a": "Chlorine",
+   "p": 200
+  },
+  {
+   "q": "Which compound of fluorine is added to toothpaste to protect teeth?",
+   "a": "Fluoride",
+   "p": 200
+  },
+  {
+   "q": "Which gas is the main component of natural gas?",
+   "a": "Methane",
+   "p": 200
+  },
+  {
+   "q": "Which gas, with the formula O3, forms a protective layer high in the atmosphere?",
+   "a": "Ozone",
+   "p": 200
+  },
+  {
+   "q": "Which colourless, odourless gas with the formula CO is deadly when breathed in?",
+   "a": "Carbon monoxide",
+   "p": 200
+  },
+  {
+   "q": "What colour does blue litmus paper turn in an acid?",
+   "a": "Red",
+   "p": 200
+  },
+  {
+   "q": "What colour does red litmus paper turn in an alkali?",
+   "a": "Blue",
+   "p": 200
+  },
+  {
+   "q": "On the pH scale, which is more acidic: pH 2 or pH 5?",
+   "a": "pH 2",
+   "p": 200
+  },
+  {
+   "q": "What is the process of a liquid turning into a gas below its boiling point called?",
+   "a": "Evaporation",
+   "p": 200
+  },
+  {
+   "q": "What is the process of a gas turning back into a liquid called?",
+   "a": "Condensation",
+   "p": 200
+  },
+  {
+   "q": "What do we call a mixture of metals, such as brass or bronze?",
+   "a": "Alloy",
+   "p": 200
+  },
+  {
+   "q": "What is the chemical reaction called when a fuel burns in oxygen?",
+   "a": "Combustion",
+   "p": 200,
+   "alt": [
+    "Burning"
+   ]
+  },
+  {
+   "q": "Which Swedish chemist invented dynamite and founded a famous set of prizes?",
+   "a": "Alfred Nobel",
+   "p": 200
+  },
+  {
+   "q": "Which German chemist gave his name to the gas burner used in school labs?",
+   "a": "Robert Bunsen",
+   "p": 200
+  },
+  {
+   "q": "Which medieval forerunner of chemistry has a name that comes from Arabic?",
+   "a": "Alchemy",
+   "p": 200,
+   "ar": "الكيمياء"
+  },
+  {
+   "q": "What legendary substance did alchemists believe could turn ordinary metals into gold?",
+   "a": "Philosopher's stone",
+   "p": 200
+  },
+  {
+   "q": "Which precious metal did alchemists most famously try to make from lead?",
+   "a": "Gold",
+   "p": 200
+  },
+  {
+   "q": "Which ancient civilisation invented gunpowder?",
+   "a": "China",
+   "p": 200,
+   "alt": [
+    "Chinese"
+   ]
+  },
+  {
+   "q": "Which stimulant found in coffee and tea keeps people awake?",
+   "a": "Caffeine",
+   "p": 200
+  },
+  {
+   "q": "Which metal in haemoglobin helps blood carry oxygen?",
+   "a": "Iron",
+   "p": 200
+  },
+  {
+   "q": "Which light metal gives its name to the rechargeable 'ion' batteries in phones?",
+   "a": "Lithium",
+   "p": 200
+  },
+  {
+   "q": "Which element gives California's famous tech region its nickname?",
+   "a": "Silicon",
+   "p": 200
+  },
+  {
+   "q": "Which lightweight metal are most drink cans made from?",
+   "a": "Aluminium",
+   "p": 200,
+   "alt": [
+    "Aluminum"
+   ]
+  },
+  {
+   "q": "How many carats is pure gold?",
+   "a": "24",
+   "p": 200
+  },
+  {
+   "q": "How many atoms are in one molecule of water?",
+   "a": "3",
+   "p": 200
+  },
+  {
+   "q": "Which two elements make up water?",
+   "a": "Hydrogen and oxygen",
+   "p": 200
+  },
+  {
+   "q": "What do we call an atom that has gained or lost electrons and so carries a charge?",
+   "a": "Ion",
+   "p": 200
+  },
+  {
+   "q": "What is the general name for long-chain molecules such as plastics?",
+   "a": "Polymers",
+   "p": 200
+  },
+  {
+   "q": "What is the name for proteins in living things that act as biological catalysts?",
+   "a": "Enzymes",
+   "p": 200
+  },
+  {
+   "q": "Which technique separates the colours in ink by letting them travel up wet paper?",
+   "a": "Chromatography",
+   "p": 200
+  },
+  {
+   "q": "Which separation method uses paper to remove sand from water?",
+   "a": "Filtration",
+   "p": 200
+  },
+  {
+   "q": "What process boils seawater and condenses the steam to get fresh water?",
+   "a": "Distillation",
+   "p": 200
+  },
+  {
+   "q": "What is the name for a strong solution of salt in water?",
+   "a": "Brine",
+   "p": 200
+  },
+  {
+   "q": "What is the main raw material melted to make ordinary glass?",
+   "a": "Sand",
+   "p": 200
+  },
+  {
+   "q": "What shiny mineral of iron and sulfur is nicknamed 'fool's gold'?",
+   "a": "Pyrite",
+   "p": 200,
+   "alt": [
+    "Iron pyrite"
+   ]
+  },
+  {
+   "q": "What is the common name for H2O when it is a gas?",
+   "a": "Steam",
+   "p": 200,
+   "alt": [
+    "Water vapour"
+   ]
+  },
+  {
+   "q": "Which acid gives lemons and oranges their sour taste?",
+   "a": "Citric acid",
+   "p": 200
+  },
+  {
+   "q": "Which gas bubbles make fizzy drinks fizzy?",
+   "a": "Carbon dioxide",
+   "p": 200
+  },
+  {
+   "q": "Which famous scientist won Nobel Prizes in both physics and chemistry?",
+   "a": "Marie Curie",
+   "p": 200
+  },
+  {
+   "q": "Which acid-base reaction produces a salt and water?",
+   "a": "Neutralisation",
+   "p": 200,
+   "alt": [
+    "Neutralization"
+   ]
+  },
+  {
+   "q": "Which gas do we commonly call 'laughing gas'?",
+   "a": "Nitrous oxide",
+   "p": 200
+  },
+  {
+   "q": "Which yellow non-metal element was once called brimstone and is found around volcanic vents?",
+   "a": "Sulfur",
+   "p": 200,
+   "alt": [
+    "Sulphur"
+   ]
+  },
+  {
+   "q": "What name is given to the vertical columns of the periodic table?",
+   "a": "Groups",
+   "p": 200
+  },
+  {
+   "q": "Which element, needed by plants, is the main ingredient of fertilisers like ammonium nitrate?",
+   "a": "Nitrogen",
+   "p": 200
+  },
+  {
+   "q": "Which metal is liquid at room temperature and was nicknamed 'quicksilver'?",
+   "a": "Mercury",
+   "p": 200
+  },
+  {
+   "q": "What type of energy is stored in food, fuels and batteries?",
+   "a": "Chemical energy",
+   "p": 200
+  },
+  {
+   "q": "Which fruit's juice is famously used to make 'invisible ink' that appears when heated?",
+   "a": "Lemon",
+   "p": 200
+  },
+  {
+   "q": "What is the chemical name for vitamin C?",
+   "a": "Ascorbic acid",
+   "p": 200
+  },
+  {
+   "q": "Which acid is found in vinegar?",
+   "a": "Acetic acid",
+   "p": 200,
+   "alt": [
+    "Ethanoic acid"
+   ]
+  },
+  {
+   "q": "Baking soda is the everyday name for which compound?",
+   "a": "Sodium bicarbonate",
+   "p": 200,
+   "alt": [
+    "Sodium hydrogen carbonate"
+   ]
+  },
+  {
+   "q": "What is the scientific name for the chemical change that makes a cut apple turn brown?",
+   "a": "Oxidation",
+   "p": 200
+  },
+  {
+   "q": "Which very hard material, used in drill tips, is the hardest natural form of carbon?",
+   "a": "Diamond",
+   "p": 200
+  },
+  {
+   "q": "Which group of elements on the far right of the periodic table includes helium, neon and argon?",
+   "a": "Noble gases",
+   "p": 200
+  },
+  {
+   "q": "Which liquid is often called the 'universal solvent'?",
+   "a": "Water",
+   "p": 200
+  },
+  {
+   "q": "Which Arabic-origin word names a magical healing potion, from 'al-iksir'?",
+   "a": "Elixir",
+   "p": 200,
+   "ar": "الإكسير"
+  },
+  {
+   "q": "What is the chemical symbol for chlorine?",
+   "a": "Cl",
+   "p": 200
+  },
+  {
+   "q": "What is the chemical symbol for sulfur?",
+   "a": "S",
+   "p": 200
+  },
+  {
+   "q": "What is the chemical symbol for silicon?",
+   "a": "Si",
+   "p": 200
+  },
+  {
+   "q": "What is the chemical symbol for lithium?",
+   "a": "Li",
+   "p": 200
+  },
+  {
+   "q": "What is the chemical symbol for argon?",
+   "a": "Ar",
+   "p": 200
+  },
+  {
+   "q": "What is the chemical symbol for fluorine?",
+   "a": "F",
+   "p": 200
+  },
+  {
+   "q": "What does the pH scale measure?",
+   "a": "How acidic or alkaline something is",
+   "p": 200,
+   "alt": [
+    "Acidity",
+    "Acidity or alkalinity"
+   ]
+  },
+  {
+   "q": "What word describes a solution with a pH above 7?",
+   "a": "Alkaline",
+   "p": 200,
+   "alt": [
+    "Basic"
+   ]
+  },
+  {
+   "q": "Which sour kitchen liquid, a weak acid, is used for pickling?",
+   "a": "Vinegar",
+   "p": 200
+  },
+  {
+   "q": "What is the temperature at which a solid turns into a liquid called?",
+   "a": "Melting point",
+   "p": 200
+  },
+  {
+   "q": "What is the change from a liquid to a solid called?",
+   "a": "Freezing",
+   "p": 200,
+   "alt": [
+    "Solidification"
+   ]
+  },
+  {
+   "q": "What do we call the smallest particle of a compound, such as one unit of H2O?",
+   "a": "Molecule",
+   "p": 200
+  },
+  {
+   "q": "Which flammable gas, lighter than air, filled the Hindenburg airship that caught fire in 1937?",
+   "a": "Hydrogen",
+   "p": 200
+  },
+  {
+   "q": "Which glowing radioactive element did Marie and Pierre Curie discover in 1898 alongside polonium?",
+   "a": "Radium",
+   "p": 200
+  },
+  {
+   "q": "Olympic gold medals are mostly made of which metal?",
+   "a": "Silver",
+   "p": 400
+  },
+  {
+   "q": "What is the chemical symbol for iron?",
+   "a": "Fe",
+   "p": 400
+  },
+  {
+   "q": "What is the chemical symbol for copper?",
+   "a": "Cu",
+   "p": 400
+  },
+  {
+   "q": "What is the chemical symbol for potassium?",
+   "a": "K",
+   "p": 400
+  },
+  {
+   "q": "What is the chemical symbol for magnesium?",
+   "a": "Mg",
+   "p": 400
+  },
+  {
+   "q": "What is the chemical symbol for phosphorus?",
+   "a": "P",
+   "p": 400
+  },
+  {
+   "q": "Which element has the chemical symbol Ag?",
+   "a": "Silver",
+   "p": 400
+  },
+  {
+   "q": "Which element has the chemical symbol Mn?",
+   "a": "Manganese",
+   "p": 400
+  },
+  {
+   "q": "Which element has the chemical symbol Co?",
+   "a": "Cobalt",
+   "p": 400
+  },
+  {
+   "q": "What name is given to the horizontal rows of the periodic table?",
+   "a": "Periods",
+   "p": 400
+  },
+  {
+   "q": "What name is given to the group 17 elements, such as fluorine and chlorine?",
+   "a": "Halogens",
+   "p": 400
+  },
+  {
+   "q": "What name is given to the group 1 elements, such as lithium and sodium?",
+   "a": "Alkali metals",
+   "p": 400
+  },
+  {
+   "q": "What name is given to the large central block of metals such as iron, copper and nickel?",
+   "a": "Transition metals",
+   "p": 400
+  },
+  {
+   "q": "Which radioactive noble gas can seep from the ground and build up in basements?",
+   "a": "Radon",
+   "p": 400
+  },
+  {
+   "q": "Which halogen is a red-brown liquid at room temperature?",
+   "a": "Bromine",
+   "p": 400
+  },
+  {
+   "q": "Which soft metal melts in your hand at about 30 degrees Celsius?",
+   "a": "Gallium",
+   "p": 400
+  },
+  {
+   "q": "Which element was first detected in the Sun's light before it was found on Earth?",
+   "a": "Helium",
+   "p": 400
+  },
+  {
+   "q": "Which element did Marie Curie name after her home country?",
+   "a": "Polonium",
+   "p": 400
+  },
+  {
+   "q": "Which element is named after the scientist famous for the equation E = mc squared?",
+   "a": "Einsteinium",
+   "p": 400
+  },
+  {
+   "q": "Which element, number 101, honours the creator of the periodic table?",
+   "a": "Mendelevium",
+   "p": 400
+  },
+  {
+   "q": "Which strong, light metal is named after the giants of Greek myth?",
+   "a": "Titanium",
+   "p": 400
+  },
+  {
+   "q": "Which element is named after the Norse god of thunder?",
+   "a": "Thorium",
+   "p": 400
+  },
+  {
+   "q": "Silver's symbol Ag comes from which Latin word, which also gave a South American country its name?",
+   "a": "Argentum",
+   "p": 400
+  },
+  {
+   "q": "Gold's symbol Au comes from which Latin word?",
+   "a": "Aurum",
+   "p": 400
+  },
+  {
+   "q": "The word 'plumber' comes from the Latin name of which metal, once used for water pipes?",
+   "a": "Lead",
+   "p": 400
+  },
+  {
+   "q": "Brass is an alloy of copper and which other metal?",
+   "a": "Zinc",
+   "p": 400
+  },
+  {
+   "q": "Bronze is an alloy of copper and which other metal?",
+   "a": "Tin",
+   "p": 400
+  },
+  {
+   "q": "Steel is mainly iron mixed with a small amount of which non-metal?",
+   "a": "Carbon",
+   "p": 400
+  },
+  {
+   "q": "Which metal is added to steel to make it stainless?",
+   "a": "Chromium",
+   "p": 400
+  },
+  {
+   "q": "Galvanising protects iron from rust by coating it with which metal?",
+   "a": "Zinc",
+   "p": 400
+  },
+  {
+   "q": "From which ore is aluminium mainly extracted?",
+   "a": "Bauxite",
+   "p": 400
+  },
+  {
+   "q": "What is the process of a solid turning straight into a gas called?",
+   "a": "Sublimation",
+   "p": 400
+  },
+  {
+   "q": "What is the fourth state of matter, found in lightning and stars?",
+   "a": "Plasma",
+   "p": 400
+  },
+  {
+   "q": "In salt water, is the water the solute or the solvent?",
+   "a": "Solvent",
+   "p": 400
+  },
+  {
+   "q": "What is a positively charged ion called?",
+   "a": "Cation",
+   "p": 400
+  },
+  {
+   "q": "What type of chemical bond forms when electrons are transferred from one atom to another?",
+   "a": "Ionic bond",
+   "p": 400
+  },
+  {
+   "q": "What are atoms of the same element with different numbers of neutrons called?",
+   "a": "Isotopes",
+   "p": 400
+  },
+  {
+   "q": "Which isotope of carbon is used to date ancient remains?",
+   "a": "Carbon-14",
+   "p": 400
+  },
+  {
+   "q": "What is the total number of protons and neutrons in an atom's nucleus called?",
+   "a": "Mass number",
+   "p": 400
+  },
+  {
+   "q": "How many protons does a carbon atom have?",
+   "a": "6",
+   "p": 400
+  },
+  {
+   "q": "How many electrons does a neutral oxygen atom have?",
+   "a": "8",
+   "p": 400
+  },
+  {
+   "q": "What is the maximum number of electrons in the first electron shell of an atom?",
+   "a": "2",
+   "p": 400
+  },
+  {
+   "q": "How many hydrogen atoms are in one molecule of methane?",
+   "a": "4",
+   "p": 400
+  },
+  {
+   "q": "What name is given to electrons in the outermost shell of an atom?",
+   "a": "Valence electrons",
+   "p": 400
+  },
+  {
+   "q": "What is the SI unit for the amount of a substance?",
+   "a": "Mole",
+   "p": 400
+  },
+  {
+   "q": "What name is given to the number 6.02 x 10^23, the number of particles in a mole?",
+   "a": "Avogadro's number",
+   "p": 400,
+   "alt": [
+    "Avogadro constant"
+   ]
+  },
+  {
+   "q": "What does a gas test with a glowing splint that relights show is present?",
+   "a": "Oxygen",
+   "p": 400
+  },
+  {
+   "q": "Which gas turns limewater milky?",
+   "a": "Carbon dioxide",
+   "p": 400
+  },
+  {
+   "q": "What is H2O2 commonly called?",
+   "a": "Hydrogen peroxide",
+   "p": 400
+  },
+  {
+   "q": "What is the chemical formula of methane?",
+   "a": "CH4",
+   "p": 400
+  },
+  {
+   "q": "What is the chemical formula of hydrochloric acid?",
+   "a": "HCl",
+   "p": 400
+  },
+  {
+   "q": "Which pungent gas has the formula NH3?",
+   "a": "Ammonia",
+   "p": 400
+  },
+  {
+   "q": "Which gas smells like rotten eggs?",
+   "a": "Hydrogen sulfide",
+   "p": 400,
+   "alt": [
+    "Hydrogen sulphide"
+   ]
+  },
+  {
+   "q": "Which strong acid is used in car batteries?",
+   "a": "Sulfuric acid",
+   "p": 400,
+   "alt": [
+    "Sulphuric acid"
+   ]
+  },
+  {
+   "q": "Which acid builds up in muscles during hard exercise and is also found in sour milk?",
+   "a": "Lactic acid",
+   "p": 400
+  },
+  {
+   "q": "Limestone and marble are made mainly of which compound?",
+   "a": "Calcium carbonate",
+   "p": 400
+  },
+  {
+   "q": "What is the common name for hydrated magnesium sulfate, used in bath soaks?",
+   "a": "Epsom salt",
+   "p": 400,
+   "alt": [
+    "Epsom salts"
+   ]
+  },
+  {
+   "q": "Aspirin was developed from a compound found in the bark of which tree?",
+   "a": "Willow",
+   "p": 400
+  },
+  {
+   "q": "Which compound gives chilli peppers their heat?",
+   "a": "Capsaicin",
+   "p": 400
+  },
+  {
+   "q": "What does MSG stand for?",
+   "a": "Monosodium glutamate",
+   "p": 400
+  },
+  {
+   "q": "In flame tests, what colour flame does sodium give?",
+   "a": "Orange",
+   "p": 400,
+   "alt": [
+    "Yellow",
+    "Yellow-orange"
+   ]
+  },
+  {
+   "q": "In flame tests, what colour flame does copper give?",
+   "a": "Green",
+   "p": 400,
+   "alt": [
+    "Blue-green",
+    "Green-blue"
+   ]
+  },
+  {
+   "q": "What colour light does burning magnesium give off?",
+   "a": "Bright white",
+   "p": 400,
+   "alt": [
+    "White"
+   ]
+  },
+  {
+   "q": "What colour is chlorine gas?",
+   "a": "Yellow-green",
+   "p": 400,
+   "alt": [
+    "Pale green",
+    "Greenish-yellow"
+   ]
+  },
+  {
+   "q": "What colour does iodine turn starch?",
+   "a": "Blue-black",
+   "p": 400,
+   "alt": [
+    "Dark blue",
+    "Black"
+   ]
+  },
+  {
+   "q": "What colour is universal indicator in a neutral solution?",
+   "a": "Green",
+   "p": 400
+  },
+  {
+   "q": "Which vegetable's juice can be used as a homemade pH indicator?",
+   "a": "Red cabbage",
+   "p": 400
+  },
+  {
+   "q": "What is a reaction that gives out heat called?",
+   "a": "Exothermic",
+   "p": 400
+  },
+  {
+   "q": "What is a reaction that takes in heat from its surroundings called?",
+   "a": "Endothermic",
+   "p": 400
+  },
+  {
+   "q": "In chemistry, what is the loss of electrons called?",
+   "a": "Oxidation",
+   "p": 400
+  },
+  {
+   "q": "In chemistry, what is the gain of electrons called?",
+   "a": "Reduction",
+   "p": 400
+  },
+  {
+   "q": "What is the minimum energy needed to start a chemical reaction called?",
+   "a": "Activation energy",
+   "p": 400
+  },
+  {
+   "q": "What does the state symbol (aq) mean?",
+   "a": "Aqueous",
+   "p": 400,
+   "alt": [
+    "Dissolved in water"
+   ]
+  },
+  {
+   "q": "What type of reaction is shown by a double half-arrow in an equation?",
+   "a": "Reversible reaction",
+   "p": 400
+  },
+  {
+   "q": "What is the positive electrode in electrolysis called?",
+   "a": "Anode",
+   "p": 400
+  },
+  {
+   "q": "What name is given to compounds made only of hydrogen and carbon?",
+   "a": "Hydrocarbons",
+   "p": 400
+  },
+  {
+   "q": "What are the small units that join together to make a polymer called?",
+   "a": "Monomers",
+   "p": 400
+  },
+  {
+   "q": "What does PVC stand for?",
+   "a": "Polyvinyl chloride",
+   "p": 400
+  },
+  {
+   "q": "Which plastic, used in shopping bags, is made by polymerising ethene?",
+   "a": "Polythene",
+   "p": 400,
+   "alt": [
+    "Polyethylene",
+    "Poly(ethene)"
+   ]
+  },
+  {
+   "q": "What one-atom-thick sheet of carbon earned a Nobel Prize in Physics in 2010?",
+   "a": "Graphene",
+   "p": 400
+  },
+  {
+   "q": "Which gases, banned under the Montreal Protocol, damaged the ozone layer?",
+   "a": "CFCs",
+   "p": 400,
+   "alt": [
+    "Chlorofluorocarbons"
+   ]
+  },
+  {
+   "q": "Which liquefied gas, boiling at about minus 196 degrees Celsius, is used to flash-freeze samples?",
+   "a": "Liquid nitrogen",
+   "p": 400
+  },
+  {
+   "q": "Which oily explosive liquid did Alfred Nobel stabilise to make dynamite?",
+   "a": "Nitroglycerine",
+   "p": 400,
+   "alt": [
+    "Nitroglycerin"
+   ]
+  },
+  {
+   "q": "What does the explosive TNT stand for?",
+   "a": "Trinitrotoluene",
+   "p": 400
+  },
+  {
+   "q": "Gunpowder is a mixture of saltpetre, sulfur and which other ingredient?",
+   "a": "Charcoal",
+   "p": 400
+  },
+  {
+   "q": "Which glass tube with a tap is used to add liquid drop by drop in a titration?",
+   "a": "Burette",
+   "p": 400,
+   "alt": [
+    "Buret"
+   ]
+  },
+  {
+   "q": "Which membrane-based desalination method pushes seawater through a filter at very high pressure?",
+   "a": "Reverse osmosis",
+   "p": 400
+  },
+  {
+   "q": "Which French chemist is often called the father of modern chemistry and named oxygen and hydrogen?",
+   "a": "Antoine Lavoisier",
+   "p": 400
+  },
+  {
+   "q": "Which Irish-born scientist wrote 'The Sceptical Chymist' and has a gas law named after him?",
+   "a": "Robert Boyle",
+   "p": 400
+  },
+  {
+   "q": "Which English scientist proposed modern atomic theory in the early 1800s and also studied colour blindness?",
+   "a": "John Dalton",
+   "p": 400
+  },
+  {
+   "q": "Which German chemist gave his name to the industrial process for making ammonia?",
+   "a": "Fritz Haber",
+   "p": 400
+  },
+  {
+   "q": "Which Egyptian-born scientist won the 1999 Nobel Prize in Chemistry for femtochemistry?",
+   "a": "Ahmed Zewail",
+   "p": 400,
+   "ar": "أحمد زويل"
+  },
+  {
+   "q": "Which American inventor gave his name to tyres after discovering how to vulcanise rubber?",
+   "a": "Charles Goodyear",
+   "p": 400
+  },
+  {
+   "q": "Boyle's law links the pressure of a gas to which other property?",
+   "a": "Volume",
+   "p": 400
+  },
+  {
+   "q": "By what Latin name was the scholar Jabir ibn Hayyan known in medieval Europe?",
+   "a": "Geber",
+   "p": 400,
+   "ar": "جابر بن حيان"
+  },
+  {
+   "q": "Which element is added to table salt to prevent goitre?",
+   "a": "Iodine",
+   "p": 400
+  },
+  {
+   "q": "The pH scale runs from 0 to which number?",
+   "a": "14",
+   "p": 400
+  },
+  {
+   "q": "What is the common name for calcium hydroxide solution used to test for carbon dioxide?",
+   "a": "Limewater",
+   "p": 400
+  },
+  {
+   "q": "Which bright white light-giving element is used in sparklers and old camera flashes?",
+   "a": "Magnesium",
+   "p": 400
+  },
+  {
+   "q": "Which element makes up about 21% of the air we breathe?",
+   "a": "Oxygen",
+   "p": 400
+  },
+  {
+   "q": "What do chemists call a solution that can dissolve no more solute at that temperature?",
+   "a": "Saturated solution",
+   "p": 400
+  },
+  {
+   "q": "Which family of elements, from lanthanum to lutetium, is also called the rare earths along with scandium and yttrium?",
+   "a": "Lanthanides",
+   "p": 400
+  },
+  {
+   "q": "Which element has the chemical symbol Bi?",
+   "a": "Bismuth",
+   "p": 600
+  },
+  {
+   "q": "Which element's name comes from the Greek 'chloros', meaning pale green?",
+   "a": "Chlorine",
+   "p": 600
+  },
+  {
+   "q": "Which precious metal has the atomic number 79?",
+   "a": "Gold",
+   "p": 600
+  },
+  {
+   "q": "Which element has the atomic number 118?",
+   "a": "Oganesson",
+   "p": 600
+  },
+  {
+   "q": "Element 113, the first discovered in Asia, is named after which country?",
+   "a": "Japan",
+   "p": 600
+  },
+  {
+   "q": "Iron's symbol Fe comes from which Latin word?",
+   "a": "Ferrum",
+   "p": 600
+  },
+  {
+   "q": "Sodium's symbol Na comes from which Latin word?",
+   "a": "Natrium",
+   "p": 600
+  },
+  {
+   "q": "The word 'alkali' comes from an Arabic word for the ashes of plants. What is it?",
+   "a": "Al-qali",
+   "p": 600,
+   "ar": "القلي",
+   "alt": [
+    "Qali",
+    "Al-qily"
+   ]
+  },
+  {
+   "q": "The word 'alcohol' comes from the Arabic name of which fine powder once used as eye cosmetic?",
+   "a": "Kohl",
+   "p": 600,
+   "ar": "الكحل",
+   "alt": [
+    "Al-kuhl",
+    "Kuhl"
+   ]
+  },
+  {
+   "q": "Which distillation apparatus has a name from the Arabic 'al-anbiq'?",
+   "a": "Alembic",
+   "p": 600,
+   "ar": "الإنبيق"
+  },
+  {
+   "q": "Which soft mineral, the softest on the Mohs scale, has a name from the Arabic 'talq'?",
+   "a": "Talc",
+   "p": 600,
+   "ar": "طلق"
+  },
+  {
+   "q": "The gold purity unit 'carat' comes from Arabic 'qirat', originally the seed of which tree?",
+   "a": "Carob",
+   "p": 600,
+   "ar": "خروب"
+  },
+  {
+   "q": "Potassium's symbol K comes from 'kalium', a word derived from which Arabic-origin term?",
+   "a": "Alkali",
+   "p": 600,
+   "ar": "القلي"
+  },
+  {
+   "q": "In which Iraqi city is Jabir ibn Hayyan traditionally said to have worked?",
+   "a": "Kufa",
+   "p": 600,
+   "ar": "الكوفة"
+  },
+  {
+   "q": "Which Persian physician-scholar wrote the alchemical 'Kitab al-Asrar' (Book of Secrets)?",
+   "a": "Al-Razi",
+   "p": 600,
+   "ar": "الرازي",
+   "alt": [
+    "Rhazes",
+    "Razi"
+   ]
+  },
+  {
+   "q": "Which mixture of nitric and hydrochloric acids, whose name means 'royal water', can dissolve gold?",
+   "a": "Aqua regia",
+   "p": 600
+  },
+  {
+   "q": "Which element is named after the Moon, from the Greek 'selene'?",
+   "a": "Selenium",
+   "p": 600
+  },
+  {
+   "q": "Which element is named after the Earth, from the Latin 'tellus'?",
+   "a": "Tellurium",
+   "p": 600
+  },
+  {
+   "q": "Which element is named after Lutetia, the old Latin name for Paris?",
+   "a": "Lutetium",
+   "p": 600
+  },
+  {
+   "q": "Which element is named after Russia, from its Latin name?",
+   "a": "Ruthenium",
+   "p": 600
+  },
+  {
+   "q": "Four elements are named after the same Swedish village. Name the village.",
+   "a": "Ytterby",
+   "p": 600
+  },
+  {
+   "q": "Which metal is named after a mythical king punished with food and water always just out of reach?",
+   "a": "Tantalum",
+   "p": 600
+  },
+  {
+   "q": "Which element is named after the Titan who stole fire from the gods?",
+   "a": "Promethium",
+   "p": 600
+  },
+  {
+   "q": "Which element is named after Vanadis, another name for the Norse goddess Freyja?",
+   "a": "Vanadium",
+   "p": 600
+  },
+  {
+   "q": "Which metal's name comes from a German word for a goblin, blamed by miners for troublesome ore?",
+   "a": "Cobalt",
+   "p": 600
+  },
+  {
+   "q": "Which element, whose name means 'light-bearer', was discovered in 1669 by boiling down urine?",
+   "a": "Phosphorus",
+   "p": 600
+  },
+  {
+   "q": "Which noble gas, whose name means 'stranger', is used in very bright car headlamps?",
+   "a": "Xenon",
+   "p": 600
+  },
+  {
+   "q": "Which element is the densest naturally occurring element?",
+   "a": "Osmium",
+   "p": 600
+  },
+  {
+   "q": "Which metal is the best conductor of electricity?",
+   "a": "Silver",
+   "p": 600
+  },
+  {
+   "q": "Which non-metal is the most reactive of all the elements?",
+   "a": "Fluorine",
+   "p": 600
+  },
+  {
+   "q": "Which element makes fireworks burn red?",
+   "a": "Strontium",
+   "p": 600,
+   "alt": [
+    "Lithium"
+   ]
+  },
+  {
+   "q": "Which element makes fireworks burn green?",
+   "a": "Barium",
+   "p": 600
+  },
+  {
+   "q": "Which metal sits at the centre of a chlorophyll molecule?",
+   "a": "Magnesium",
+   "p": 600
+  },
+  {
+   "q": "Which isotope of hydrogen, with one proton and one neutron, is found in 'heavy water'?",
+   "a": "Deuterium",
+   "p": 600
+  },
+  {
+   "q": "Which radioactive isotope of hydrogen has two neutrons?",
+   "a": "Tritium",
+   "p": 600
+  },
+  {
+   "q": "What are different structural forms of the same element, like diamond and graphite, called?",
+   "a": "Allotropes",
+   "p": 600
+  },
+  {
+   "q": "How many carbon atoms are in a molecule of buckminsterfullerene?",
+   "a": "60",
+   "p": 600
+  },
+  {
+   "q": "What is the chemical formula of sulfuric acid?",
+   "a": "H2SO4",
+   "p": 600
+  },
+  {
+   "q": "What is the chemical formula of glucose?",
+   "a": "C6H12O6",
+   "p": 600
+  },
+  {
+   "q": "To the nearest whole number, what is the molar mass of water in grams per mole?",
+   "a": "18",
+   "p": 600
+  },
+  {
+   "q": "Pure gold is 24 carat. What percentage of 18-carat gold is gold?",
+   "a": "75%",
+   "p": 600
+  },
+  {
+   "q": "Each step of 1 on the pH scale is a change in acidity by a factor of what?",
+   "a": "10",
+   "p": 600
+  },
+  {
+   "q": "What is the common name for sodium hydroxide?",
+   "a": "Caustic soda",
+   "p": 600,
+   "alt": [
+    "Lye"
+   ]
+  },
+  {
+   "q": "Household bleach is mainly a solution of which compound?",
+   "a": "Sodium hypochlorite",
+   "p": 600
+  },
+  {
+   "q": "What is the chemical name of quicklime?",
+   "a": "Calcium oxide",
+   "p": 600
+  },
+  {
+   "q": "Plaster of Paris is made by heating which mineral?",
+   "a": "Gypsum",
+   "p": 600
+  },
+  {
+   "q": "What is potassium nitrate commonly called, as an ingredient of gunpowder?",
+   "a": "Saltpetre",
+   "p": 600,
+   "alt": [
+    "Saltpeter",
+    "Nitre"
+   ]
+  },
+  {
+   "q": "Which acid is found in ant stings and nettles?",
+   "a": "Formic acid",
+   "p": 600,
+   "alt": [
+    "Methanoic acid"
+   ]
+  },
+  {
+   "q": "Natural gas has no smell. Which sulfur compounds are added so leaks can be noticed?",
+   "a": "Mercaptans",
+   "p": 600,
+   "alt": [
+    "Thiols"
+   ]
+  },
+  {
+   "q": "What colour does the indicator phenolphthalein turn in an alkali?",
+   "a": "Pink",
+   "p": 600,
+   "alt": [
+    "Magenta"
+   ]
+  },
+  {
+   "q": "Litmus dye is extracted from which organisms?",
+   "a": "Lichens",
+   "p": 600
+  },
+  {
+   "q": "What do we call liquids that do not mix, such as oil and water?",
+   "a": "Immiscible",
+   "p": 600
+  },
+  {
+   "q": "In electroplating, is the object being plated the anode or the cathode?",
+   "a": "Cathode",
+   "p": 600
+  },
+  {
+   "q": "Which element is added to glass to make heat-resistant borosilicate glassware?",
+   "a": "Boron",
+   "p": 600
+  },
+  {
+   "q": "Charles's law links a gas's volume to which other property?",
+   "a": "Temperature",
+   "p": 600
+  },
+  {
+   "q": "Which artificial sweetener was discovered by accident in 1879?",
+   "a": "Saccharin",
+   "p": 600
+  },
+  {
+   "q": "Which Danish chemist introduced the pH scale in 1909?",
+   "a": "Soren Sorensen",
+   "p": 600,
+   "alt": [
+    "Søren Sørensen",
+    "Sorensen"
+   ]
+  },
+  {
+   "q": "Which English clergyman isolated oxygen in 1774 and also invented soda water?",
+   "a": "Joseph Priestley",
+   "p": 600
+  },
+  {
+   "q": "Which Swedish chemist independently discovered oxygen and first produced chlorine gas in 1774?",
+   "a": "Carl Wilhelm Scheele",
+   "p": 600,
+   "alt": [
+    "Scheele"
+   ]
+  },
+  {
+   "q": "Which British chemist used electrolysis to discover sodium and potassium in 1807?",
+   "a": "Humphry Davy",
+   "p": 600
+  },
+  {
+   "q": "Which French chemist was executed by guillotine in 1794 during the French Revolution?",
+   "a": "Antoine Lavoisier",
+   "p": 600,
+   "alt": [
+    "Lavoisier"
+   ]
+  },
+  {
+   "q": "Which Scottish chemist discovered argon and the other noble gases in the 1890s?",
+   "a": "William Ramsay",
+   "p": 600
+  },
+  {
+   "q": "In which year did Dmitri Mendeleev publish his periodic table?",
+   "a": "1869",
+   "p": 600
+  },
+  {
+   "q": "Which German chemist said the ring structure of benzene came to him in a dream of a snake biting its tail?",
+   "a": "August Kekule",
+   "p": 600,
+   "alt": [
+    "Kekulé",
+    "Kekule"
+   ]
+  },
+  {
+   "q": "Which teenage English chemist accidentally made the first synthetic dye, mauveine, in 1856?",
+   "a": "William Henry Perkin",
+   "p": 600,
+   "alt": [
+    "William Perkin",
+    "Perkin"
+   ]
+  },
+  {
+   "q": "Which American chemist at DuPont invented nylon in the 1930s?",
+   "a": "Wallace Carothers",
+   "p": 600
+  },
+  {
+   "q": "Which American chemist at DuPont invented Kevlar?",
+   "a": "Stephanie Kwolek",
+   "p": 600
+  },
+  {
+   "q": "Which Belgian-American chemist invented Bakelite, an early fully synthetic plastic?",
+   "a": "Leo Baekeland",
+   "p": 600
+  },
+  {
+   "q": "What is the full chemical name of the non-stick coating known as PTFE?",
+   "a": "Polytetrafluoroethylene",
+   "p": 600
+  },
+  {
+   "q": "Which British chemist won the 1964 Nobel Prize for using X-rays to find the structures of penicillin and vitamin B12?",
+   "a": "Dorothy Hodgkin",
+   "p": 600
+  },
+  {
+   "q": "Which American chemist won two unshared Nobel Prizes, for Chemistry in 1954 and Peace in 1962?",
+   "a": "Linus Pauling",
+   "p": 600
+  },
+  {
+   "q": "Which Jordanian-born chemist shared the 2025 Nobel Prize in Chemistry for metal-organic frameworks?",
+   "a": "Omar Yaghi",
+   "p": 600,
+   "ar": "عمر ياغي"
+  },
+  {
+   "q": "Which French chemist's principle predicts how a chemical equilibrium shifts when conditions change?",
+   "a": "Henri Le Chatelier",
+   "p": 600,
+   "alt": [
+    "Le Chatelier"
+   ]
+  },
+  {
+   "q": "Which German chemist gave his name to the conical flask used in labs?",
+   "a": "Emil Erlenmeyer",
+   "p": 600,
+   "alt": [
+    "Erlenmeyer"
+   ]
+  },
+  {
+   "q": "Element 118 is named after which Russian nuclear physicist?",
+   "a": "Yuri Oganessian",
+   "p": 600
+  },
+  {
+   "q": "What name is given to the regions around a nucleus where electrons are most likely to be found?",
+   "a": "Orbitals",
+   "p": 600
+  },
+  {
+   "q": "Which ion does an acid release when it dissolves in water?",
+   "a": "Hydrogen ion",
+   "p": 600,
+   "alt": [
+    "H+",
+    "Hydrogen ions",
+    "Proton"
+   ]
+  },
+  {
+   "q": "Which metal is the most abundant element in Earth as a whole, mostly in the core?",
+   "a": "Iron",
+   "p": 600
+  },
+  {
+   "q": "What does STP stand for in chemistry?",
+   "a": "Standard temperature and pressure",
+   "p": 600
+  },
+  {
+   "q": "Which element, symbol Mo, is used to strengthen steel and has a name from the Greek for 'lead'?",
+   "a": "Molybdenum",
+   "p": 600
+  },
+  {
+   "q": "Which metal, symbol Hf, is named after the Latin name for Copenhagen?",
+   "a": "Hafnium",
+   "p": 600
+  },
+  {
+   "q": "Pyrite, or fool's gold, is a compound of iron and which element?",
+   "a": "Sulfur",
+   "p": 600,
+   "alt": [
+    "Sulphur"
+   ]
+  },
+  {
+   "q": "Galena is the main ore of which metal?",
+   "a": "Lead",
+   "p": 600
+  },
+  {
+   "q": "Ruby and sapphire are both gem forms of which mineral?",
+   "a": "Corundum",
+   "p": 600
+  },
+  {
+   "q": "Which element, atomic number 14, is the second most abundant in Earth's crust?",
+   "a": "Silicon",
+   "p": 600
+  },
+  {
+   "q": "What name is given to the group 2 elements, such as magnesium and calcium?",
+   "a": "Alkaline earth metals",
+   "p": 600
+  },
+  {
+   "q": "Which noble gas was the first to be made into a chemical compound, in 1962?",
+   "a": "Xenon",
+   "p": 600
+  },
+  {
+   "q": "Which chemist co-discovered nuclear fission with Otto Hahn and has element 109 named after her?",
+   "a": "Lise Meitner",
+   "p": 600
+  }
+ ]
+}

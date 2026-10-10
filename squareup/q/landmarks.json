@@ -1,0 +1,1953 @@
+{
+ "id": "landmarks",
+ "name": "World Landmarks",
+ "questions": [
+  {
+   "q": "In which city does the Burj Khalifa stand?",
+   "a": "Dubai",
+   "p": 200,
+   "ar": "دبي"
+  },
+  {
+   "q": "Which 15th-century Inca citadel sits on a mountain ridge high in the Andes?",
+   "a": "Machu Picchu",
+   "p": 200
+  },
+  {
+   "q": "In which country is the ancient rock-cut city of Petra?",
+   "a": "Jordan",
+   "p": 200,
+   "ar": "الأردن"
+  },
+  {
+   "q": "What is the popular nickname of the Great Bell in the clock tower at London's Palace of Westminster?",
+   "a": "Big Ben",
+   "p": 200
+  },
+  {
+   "q": "In which US city does the Statue of Liberty stand?",
+   "a": "New York City",
+   "p": 200,
+   "alt": [
+    "New York"
+   ]
+  },
+  {
+   "q": "Which Australian city's harbour is home to a famous opera house with sail-shaped roofs?",
+   "a": "Sydney",
+   "p": 200
+  },
+  {
+   "q": "The huge statue of Christ the Redeemer overlooks which Brazilian city?",
+   "a": "Rio de Janeiro",
+   "p": 200,
+   "alt": [
+    "Rio"
+   ]
+  },
+  {
+   "q": "Which Italian city is famous for its leaning tower?",
+   "a": "Pisa",
+   "p": 200
+  },
+  {
+   "q": "Which is the only one of the Seven Wonders of the Ancient World still largely standing?",
+   "a": "Great Pyramid of Giza",
+   "p": 200,
+   "alt": [
+    "Great Pyramid",
+    "Pyramid of Khufu"
+   ]
+  },
+  {
+   "q": "What is the name of the giant limestone statue with a lion's body and a human head beside the Giza pyramids?",
+   "a": "Great Sphinx",
+   "p": 200,
+   "alt": [
+    "The Sphinx",
+    "Sphinx of Giza"
+   ]
+  },
+  {
+   "q": "In which country is the prehistoric stone circle Stonehenge?",
+   "a": "England",
+   "p": 200,
+   "alt": [
+    "United Kingdom",
+    "UK"
+   ]
+  },
+  {
+   "q": "Which ancient temple on the Athens Acropolis was dedicated to the goddess Athena?",
+   "a": "Parthenon",
+   "p": 200
+  },
+  {
+   "q": "Which Paris museum has a famous glass pyramid at its entrance?",
+   "a": "The Louvre",
+   "p": 200,
+   "alt": [
+    "Louvre Museum"
+   ]
+  },
+  {
+   "q": "Which white marble mausoleum in Agra was built by a Mughal emperor in memory of his wife?",
+   "a": "Taj Mahal",
+   "p": 200
+  },
+  {
+   "q": "In which country is the temple complex of Angkor Wat?",
+   "a": "Cambodia",
+   "p": 200
+  },
+  {
+   "q": "How many US presidents' faces are carved into Mount Rushmore?",
+   "a": "Four",
+   "p": 200,
+   "alt": [
+    "4"
+   ]
+  },
+  {
+   "q": "In which US state is the Grand Canyon?",
+   "a": "Arizona",
+   "p": 200
+  },
+  {
+   "q": "Which famous waterfalls lie on the border between Canada and the United States?",
+   "a": "Niagara Falls",
+   "p": 200
+  },
+  {
+   "q": "The Golden Gate Bridge spans the entrance to the bay of which US city?",
+   "a": "San Francisco",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the sail-shaped Dubai hotel that stands on its own artificial island off Jumeirah Beach?",
+   "a": "Burj Al Arab",
+   "p": 200,
+   "ar": "برج العرب"
+  },
+  {
+   "q": "Which red-brick fortress in Moscow is the official residence of Russia's president?",
+   "a": "The Kremlin",
+   "p": 200,
+   "alt": [
+    "Moscow Kremlin"
+   ]
+  },
+  {
+   "q": "Along the coast of which country does the Great Barrier Reef lie?",
+   "a": "Australia",
+   "p": 200
+  },
+  {
+   "q": "In which country is Mount Fuji?",
+   "a": "Japan",
+   "p": 200
+  },
+  {
+   "q": "In which country is the Alhambra palace?",
+   "a": "Spain",
+   "p": 200
+  },
+  {
+   "q": "In which country are the Pyramids of Giza?",
+   "a": "Egypt",
+   "p": 200,
+   "ar": "مصر"
+  },
+  {
+   "q": "The Kaaba stands in the courtyard of which mosque?",
+   "a": "Masjid al-Haram",
+   "p": 200,
+   "alt": [
+    "The Grand Mosque",
+    "Al-Masjid al-Haram",
+    "Haram"
+   ],
+   "ar": "المسجد الحرام"
+  },
+  {
+   "q": "In which city is the Prophet's Mosque, Al-Masjid an-Nabawi?",
+   "a": "Medina",
+   "p": 200,
+   "alt": [
+    "Madinah",
+    "Al-Madinah al-Munawwarah"
+   ],
+   "ar": "المدينة المنورة"
+  },
+  {
+   "q": "What is the name of the famous well located within the grounds of Masjid al-Haram in Mecca?",
+   "a": "Zamzam",
+   "p": 200,
+   "alt": [
+    "Zamzam Well"
+   ],
+   "ar": "زمزم"
+  },
+  {
+   "q": "In which Spanish city is the unfinished basilica of the Sagrada Familia?",
+   "a": "Barcelona",
+   "p": 200
+  },
+  {
+   "q": "Which famous Gothic cathedral in Paris was badly damaged by fire in April 2019?",
+   "a": "Notre-Dame",
+   "p": 200,
+   "alt": [
+    "Notre-Dame de Paris",
+    "Notre Dame Cathedral"
+   ]
+  },
+  {
+   "q": "What is the name of the giant ancient amphitheatre in Rome, completed in 80 AD?",
+   "a": "The Colosseum",
+   "p": 200,
+   "alt": [
+    "Colosseum",
+    "Flavian Amphitheatre"
+   ]
+  },
+  {
+   "q": "What name is given to the thousands of life-size clay soldiers buried near Xi'an in China?",
+   "a": "Terracotta Army",
+   "p": 200,
+   "alt": [
+    "Terracotta Warriors"
+   ]
+  },
+  {
+   "q": "In which country is the Mayan city of Chichen Itza?",
+   "a": "Mexico",
+   "p": 200
+  },
+  {
+   "q": "Which civilisation built Machu Picchu?",
+   "a": "The Inca",
+   "p": 200,
+   "alt": [
+    "Inca",
+    "Incas",
+    "Inca Empire"
+   ]
+  },
+  {
+   "q": "Which frame-shaped landmark in Zabeel Park opened in 2018 and has a glass-floored bridge at the top?",
+   "a": "Dubai Frame",
+   "p": 200,
+   "ar": "برواز دبي"
+  },
+  {
+   "q": "In which Turkish city is the Blue Mosque, officially the Sultan Ahmed Mosque?",
+   "a": "Istanbul",
+   "p": 200
+  },
+  {
+   "q": "Which Art Deco skyscraper completed in New York in 1931 was famously climbed by King Kong in the 1933 film?",
+   "a": "Empire State Building",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the giant observation wheel on London's South Bank, opened in 2000?",
+   "a": "London Eye",
+   "p": 200,
+   "alt": [
+    "Millennium Wheel"
+   ]
+  },
+  {
+   "q": "What is the official London residence of the British monarch?",
+   "a": "Buckingham Palace",
+   "p": 200
+  },
+  {
+   "q": "Which historic London fortress houses the Crown Jewels?",
+   "a": "Tower of London",
+   "p": 200
+  },
+  {
+   "q": "Into which famous Baroque fountain in Rome do tourists toss coins to ensure they return?",
+   "a": "Trevi Fountain",
+   "p": 200
+  },
+  {
+   "q": "St Peter's Basilica is in which tiny independent state surrounded by Rome?",
+   "a": "Vatican City",
+   "p": 200,
+   "alt": [
+    "The Vatican"
+   ]
+  },
+  {
+   "q": "Which artist painted the ceiling of the Sistine Chapel?",
+   "a": "Michelangelo",
+   "p": 200
+  },
+  {
+   "q": "In which country is Marina Bay Sands, the hotel topped by a giant boat-shaped SkyPark?",
+   "a": "Singapore",
+   "p": 200
+  },
+  {
+   "q": "Which Paris arch was commissioned by Napoleon in 1806 to honour his armies?",
+   "a": "Arc de Triomphe",
+   "p": 200
+  },
+  {
+   "q": "What is the Statue of Liberty holding up in her raised right hand?",
+   "a": "A torch",
+   "p": 200,
+   "alt": [
+    "Torch"
+   ]
+  },
+  {
+   "q": "Which ancient Jordanian city is nicknamed the Rose City because of the colour of its stone?",
+   "a": "Petra",
+   "p": 200,
+   "ar": "البتراء"
+  },
+  {
+   "q": "Which museum with a huge latticed dome opened on Abu Dhabi's Saadiyat Island in 2017?",
+   "a": "Louvre Abu Dhabi",
+   "p": 200,
+   "ar": "اللوفر أبوظبي"
+  },
+  {
+   "q": "Which torus-shaped Dubai building, covered in Arabic calligraphy, opened in February 2022?",
+   "a": "Museum of the Future",
+   "p": 200,
+   "ar": "متحف المستقبل"
+  },
+  {
+   "q": "What is the name of the choreographed fountain show on the lake at the foot of the Burj Khalifa?",
+   "a": "The Dubai Fountain",
+   "p": 200,
+   "alt": [
+    "Dubai Fountain"
+   ],
+   "ar": "نافورة دبي"
+  },
+  {
+   "q": "Which palm-tree-shaped artificial island lies off the coast of Dubai?",
+   "a": "Palm Jumeirah",
+   "p": 200,
+   "alt": [
+    "The Palm"
+   ],
+   "ar": "نخلة جميرا"
+  },
+  {
+   "q": "The Burj Khalifa is named after which UAE president?",
+   "a": "Sheikh Khalifa bin Zayed Al Nahyan",
+   "p": 200,
+   "alt": [
+    "Sheikh Khalifa",
+    "Khalifa bin Zayed"
+   ],
+   "ar": "الشيخ خليفة بن زايد آل نهيان"
+  },
+  {
+   "q": "Which mountain near Al Ain is famous for the winding road that climbs to its summit?",
+   "a": "Jebel Hafeet",
+   "p": 200,
+   "alt": [
+    "Jabal Hafeet",
+    "Jebel Hafit"
+   ],
+   "ar": "جبل حفيت"
+  },
+  {
+   "q": "Which Abu Dhabi island is home to Ferrari World and the Yas Marina Circuit?",
+   "a": "Yas Island",
+   "p": 200,
+   "ar": "جزيرة ياس"
+  },
+  {
+   "q": "Which region of Turkey is famous for its 'fairy chimney' rock formations and hot-air balloon flights?",
+   "a": "Cappadocia",
+   "p": 200
+  },
+  {
+   "q": "Which ancient wonder was said to have been built in Babylon, with terraces of plants?",
+   "a": "Hanging Gardens of Babylon",
+   "p": 200,
+   "alt": [
+    "Hanging Gardens"
+   ]
+  },
+  {
+   "q": "Which flat-topped mountain overlooks Cape Town?",
+   "a": "Table Mountain",
+   "p": 200
+  },
+  {
+   "q": "In which country is Mount Kilimanjaro?",
+   "a": "Tanzania",
+   "p": 200
+  },
+  {
+   "q": "Which Ecuadorian islands are famous for giant tortoises and Charles Darwin's 1835 visit?",
+   "a": "Galapagos Islands",
+   "p": 200,
+   "alt": [
+    "Galapagos"
+   ]
+  },
+  {
+   "q": "Which canal, opened in 1914, links the Atlantic and Pacific Oceans through Central America?",
+   "a": "Panama Canal",
+   "p": 200
+  },
+  {
+   "q": "What is the official residence and office of the US president in Washington, D.C.?",
+   "a": "The White House",
+   "p": 200,
+   "alt": [
+    "White House"
+   ]
+  },
+  {
+   "q": "Which island prison in San Francisco Bay closed in 1963 and is now a tourist site?",
+   "a": "Alcatraz",
+   "p": 200
+  },
+  {
+   "q": "Which famous white hillside sign overlooks Los Angeles?",
+   "a": "Hollywood Sign",
+   "p": 200,
+   "alt": [
+    "Hollywood"
+   ]
+  },
+  {
+   "q": "Which large park in the middle of Manhattan opened in the 1850s?",
+   "a": "Central Park",
+   "p": 200
+  },
+  {
+   "q": "In which Canadian city is the CN Tower?",
+   "a": "Toronto",
+   "p": 200
+  },
+  {
+   "q": "Which Washington, D.C., memorial contains a giant seated statue of the 16th US president?",
+   "a": "Lincoln Memorial",
+   "p": 200
+  },
+  {
+   "q": "In which Italian city is Michelangelo's marble statue of David displayed?",
+   "a": "Florence",
+   "p": 400,
+   "alt": [
+    "Firenze"
+   ]
+  },
+  {
+   "q": "Which Moscow square is home to the colourful onion-domed St Basil's Cathedral?",
+   "a": "Red Square",
+   "p": 200
+  },
+  {
+   "q": "Which wrought-iron Paris landmark, completed in 1889, is named after the engineer whose company built it?",
+   "a": "Eiffel Tower",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the cube-shaped building at the centre of Masjid al-Haram in Mecca?",
+   "a": "The Kaaba",
+   "p": 200,
+   "alt": [
+    "Kaaba",
+    "Ka'bah"
+   ],
+   "ar": "الكعبة"
+  },
+  {
+   "q": "Which ancient Egyptian site near Luxor contains the rock-cut tombs of many New Kingdom pharaohs?",
+   "a": "Valley of the Kings",
+   "p": 200,
+   "ar": "وادي الملوك"
+  },
+  {
+   "q": "Which giant observation wheel stands on Bluewaters Island in Dubai?",
+   "a": "Ain Dubai",
+   "p": 200,
+   "ar": "عين دبي"
+  },
+  {
+   "q": "What was the clock tower known as Big Ben officially renamed in 2012?",
+   "a": "Elizabeth Tower",
+   "p": 400
+  },
+  {
+   "q": "In which Indian city is the Gateway of India, built on the waterfront?",
+   "a": "Mumbai",
+   "p": 200,
+   "alt": [
+    "Bombay"
+   ]
+  },
+  {
+   "q": "Which Japanese city, the old imperial capital, is home to the Golden Pavilion, Kinkaku-ji?",
+   "a": "Kyoto",
+   "p": 200
+  },
+  {
+   "q": "Which river carved the Grand Canyon?",
+   "a": "Colorado River",
+   "p": 400,
+   "alt": [
+    "Colorado"
+   ]
+  },
+  {
+   "q": "For which 1889 event was the Eiffel Tower built?",
+   "a": "Exposition Universelle",
+   "p": 400,
+   "alt": [
+    "1889 World's Fair",
+    "Paris World's Fair",
+    "World's Fair"
+   ]
+  },
+  {
+   "q": "Which Chinese-American architect designed the Louvre's glass pyramid?",
+   "a": "I. M. Pei",
+   "p": 400,
+   "alt": [
+    "Ieoh Ming Pei",
+    "I.M. Pei"
+   ]
+  },
+  {
+   "q": "Which ancient Arab people carved the city of Petra?",
+   "a": "The Nabataeans",
+   "p": 400,
+   "alt": [
+    "Nabataeans",
+    "Nabateans"
+   ],
+   "ar": "الأنباط"
+  },
+  {
+   "q": "What is Petra's most famous rock-cut facade, called Al-Khazneh in Arabic?",
+   "a": "The Treasury",
+   "p": 400,
+   "alt": [
+    "Treasury",
+    "Al-Khazneh"
+   ],
+   "ar": "الخزنة"
+  },
+  {
+   "q": "Which red-sand desert valley in southern Jordan is nicknamed the Valley of the Moon?",
+   "a": "Wadi Rum",
+   "p": 400,
+   "ar": "وادي رم"
+  },
+  {
+   "q": "Which presidential palace in Abu Dhabi opened its doors to the public in 2019?",
+   "a": "Qasr Al Watan",
+   "p": 400,
+   "ar": "قصر الوطن"
+  },
+  {
+   "q": "What is the name of the historic fort in central Abu Dhabi, the city's oldest stone building?",
+   "a": "Qasr Al Hosn",
+   "p": 400,
+   "alt": [
+    "Al Hosn"
+   ],
+   "ar": "قصر الحصن"
+  },
+  {
+   "q": "Which fort, built around 1787, is the oldest existing building in Dubai?",
+   "a": "Al Fahidi Fort",
+   "p": 400,
+   "ar": "حصن الفهيدي"
+  },
+  {
+   "q": "What are the traditional wind towers seen on old houses in Dubai's Al Fahidi district called?",
+   "a": "Barjeel",
+   "p": 400,
+   "alt": [
+    "Barjeel",
+    "Barajeel",
+    "Wind towers"
+   ],
+   "ar": "برجيل"
+  },
+  {
+   "q": "Which Omani city's 17th-century fort is famous for its huge round tower?",
+   "a": "Nizwa",
+   "p": 400,
+   "ar": "نزوى"
+  },
+  {
+   "q": "Which Nabataean site near AlUla became Saudi Arabia's first UNESCO World Heritage Site in 2008?",
+   "a": "Hegra",
+   "p": 400,
+   "alt": [
+    "Mada'in Salih",
+    "Al-Hijr",
+    "Madain Saleh"
+   ],
+   "ar": "الحجر"
+  },
+  {
+   "q": "Which UAE city's oases and archaeological sites became the country's first UNESCO World Heritage Site in 2011?",
+   "a": "Al Ain",
+   "p": 400,
+   "ar": "العين"
+  },
+  {
+   "q": "What is considered the oldest mosque still in use in the UAE, a small four-domed mosque in Fujairah?",
+   "a": "Al Bidya Mosque",
+   "p": 600,
+   "alt": [
+    "Al Badiyah Mosque",
+    "Bidiyah Mosque"
+   ],
+   "ar": "مسجد البدية"
+  },
+  {
+   "q": "The National Museum of Qatar's interlocking discs were inspired by which desert crystal formation?",
+   "a": "Desert rose",
+   "p": 400,
+   "alt": [
+    "Sand rose"
+   ],
+   "ar": "وردة الصحراء"
+  },
+  {
+   "q": "Which Moroccan city's Hassan II Mosque is partly built over the Atlantic Ocean?",
+   "a": "Casablanca",
+   "p": 400,
+   "ar": "الدار البيضاء"
+  },
+  {
+   "q": "What is the Spanish name for the Great Mosque of Cordoba?",
+   "a": "Mezquita",
+   "p": 400,
+   "alt": [
+    "La Mezquita",
+    "Mezquita-Catedral"
+   ]
+  },
+  {
+   "q": "Which courtyard of the Alhambra has a fountain supported by 12 stone lions?",
+   "a": "Court of the Lions",
+   "p": 400,
+   "alt": [
+    "Patio de los Leones"
+   ]
+  },
+  {
+   "q": "In which Syrian city is the Umayyad Mosque?",
+   "a": "Damascus",
+   "p": 400,
+   "ar": "دمشق"
+  },
+  {
+   "q": "Ruins of which ancient Phoenician city, rival of Rome, lie on the outskirts of Tunis?",
+   "a": "Carthage",
+   "p": 400,
+   "ar": "قرطاج"
+  },
+  {
+   "q": "Which blue-tiled gate of ancient Babylon has been reconstructed in Berlin's Pergamon Museum?",
+   "a": "Ishtar Gate",
+   "p": 400,
+   "ar": "بوابة عشتار"
+  },
+  {
+   "q": "Which ancient wonder stood on the island of Pharos?",
+   "a": "Lighthouse of Alexandria",
+   "p": 400,
+   "alt": [
+    "Pharos of Alexandria"
+   ],
+   "ar": "منارة الإسكندرية"
+  },
+  {
+   "q": "Which ancient wonder was a giant bronze statue of the sun god Helios?",
+   "a": "Colossus of Rhodes",
+   "p": 400
+  },
+  {
+   "q": "In which year were the New Seven Wonders of the World announced?",
+   "a": "2007",
+   "p": 400
+  },
+  {
+   "q": "Which Jordanian site was voted one of the New Seven Wonders of the World in 2007?",
+   "a": "Petra",
+   "p": 400,
+   "ar": "البتراء"
+  },
+  {
+   "q": "On which mountain does the Christ the Redeemer statue stand?",
+   "a": "Corcovado",
+   "p": 400
+  },
+  {
+   "q": "On the banks of which river does the Taj Mahal stand?",
+   "a": "Yamuna",
+   "p": 400,
+   "alt": [
+    "Jumna"
+   ]
+  },
+  {
+   "q": "What material is the Taj Mahal mainly faced with?",
+   "a": "White marble",
+   "p": 400,
+   "alt": [
+    "Marble"
+   ]
+  },
+  {
+   "q": "Which Indonesian Buddhist temple on Java is decorated with hundreds of stupas?",
+   "a": "Borobudur",
+   "p": 400
+  },
+  {
+   "q": "The Leaning Tower of Pisa was built as what kind of tower for the city's cathedral?",
+   "a": "Bell tower",
+   "p": 400,
+   "alt": [
+    "Campanile"
+   ]
+  },
+  {
+   "q": "Which famous covered bridge in Venice gets its name from the prisoners who crossed it?",
+   "a": "Bridge of Sighs",
+   "p": 400,
+   "alt": [
+    "Ponte dei Sospiri"
+   ]
+  },
+  {
+   "q": "What is the name of the main public square of Venice, home to a famous basilica?",
+   "a": "St Mark's Square",
+   "p": 400,
+   "alt": [
+    "Piazza San Marco"
+   ]
+  },
+  {
+   "q": "Which architect designed the titanium-clad Guggenheim Museum in Bilbao?",
+   "a": "Frank Gehry",
+   "p": 400
+  },
+  {
+   "q": "Mont-Saint-Michel, a tidal island abbey, lies off the coast of which French region?",
+   "a": "Normandy",
+   "p": 400
+  },
+  {
+   "q": "Which French king moved the royal court to the Palace of Versailles in 1682?",
+   "a": "Louis XIV",
+   "p": 400
+  },
+  {
+   "q": "Which giant model of an iron crystal was built for Expo 58 in Brussels?",
+   "a": "Atomium",
+   "p": 600
+  },
+  {
+   "q": "Which German city is home to a famous twin-spired Gothic cathedral beside the Rhine?",
+   "a": "Cologne",
+   "p": 400,
+   "alt": [
+    "Koln"
+   ]
+  },
+  {
+   "q": "Which historic stone bridge lined with statues crosses the Vltava River in Prague?",
+   "a": "Charles Bridge",
+   "p": 400
+  },
+  {
+   "q": "Which St Petersburg museum is housed partly in the Winter Palace?",
+   "a": "The Hermitage",
+   "p": 400,
+   "alt": [
+    "Hermitage Museum",
+    "State Hermitage"
+   ]
+  },
+  {
+   "q": "Which Turkish site is famous for its white terraces of travertine filled with warm spring water?",
+   "a": "Pamukkale",
+   "p": 400
+  },
+  {
+   "q": "Which Northern Irish landmark is made of about 40,000 interlocking basalt columns?",
+   "a": "Giant's Causeway",
+   "p": 400
+  },
+  {
+   "q": "Which Roman emperor ordered a wall built across northern England starting in 122 AD?",
+   "a": "Hadrian",
+   "p": 400
+  },
+  {
+   "q": "In which London church have English and British monarchs been crowned since 1066?",
+   "a": "Westminster Abbey",
+   "p": 400
+  },
+  {
+   "q": "Which futuristic Seattle tower was built for the 1962 World's Fair?",
+   "a": "Space Needle",
+   "p": 400
+  },
+  {
+   "q": "Which national park, created in 1872, was the world's first?",
+   "a": "Yellowstone",
+   "p": 400
+  },
+  {
+   "q": "What is the name of Yellowstone's famous, regularly erupting geyser?",
+   "a": "Old Faithful",
+   "p": 400
+  },
+  {
+   "q": "Which giant dam on the Arizona-Nevada border was completed in 1936?",
+   "a": "Hoover Dam",
+   "p": 400
+  },
+  {
+   "q": "In which US state is Mount Rushmore?",
+   "a": "South Dakota",
+   "p": 400
+  },
+  {
+   "q": "On which island in New York Harbor does the Statue of Liberty stand?",
+   "a": "Liberty Island",
+   "p": 400,
+   "alt": [
+    "Bedloe's Island"
+   ]
+  },
+  {
+   "q": "Of which metal is the Statue of Liberty's green outer skin made?",
+   "a": "Copper",
+   "p": 400
+  },
+  {
+   "q": "Which French engineer, later famous for a Paris tower, designed the internal iron framework of the Statue of Liberty?",
+   "a": "Gustave Eiffel",
+   "p": 400
+  },
+  {
+   "q": "What is the Aboriginal name of the giant sandstone monolith once called Ayers Rock?",
+   "a": "Uluru",
+   "p": 200
+  },
+  {
+   "q": "Which Danish architect designed the Sydney Opera House?",
+   "a": "Jorn Utzon",
+   "p": 400
+  },
+  {
+   "q": "Which Peruvian desert is famous for giant ancient lines and animal figures best seen from the air?",
+   "a": "Nazca",
+   "p": 400,
+   "alt": [
+    "Nazca Desert",
+    "Nazca Lines"
+   ]
+  },
+  {
+   "q": "Which Bolivian salt flat becomes a giant mirror after rain?",
+   "a": "Salar de Uyuni",
+   "p": 400,
+   "alt": [
+    "Uyuni"
+   ]
+  },
+  {
+   "q": "Which waterfalls lie on the border of Argentina and Brazil?",
+   "a": "Iguazu Falls",
+   "p": 400,
+   "alt": [
+    "Iguacu Falls",
+    "Iguassu Falls"
+   ]
+  },
+  {
+   "q": "On which Chilean island do the giant moai statues stand?",
+   "a": "Easter Island",
+   "p": 200,
+   "alt": [
+    "Rapa Nui"
+   ]
+  },
+  {
+   "q": "Which ancient civilisation built Chichen Itza?",
+   "a": "The Maya",
+   "p": 400,
+   "alt": [
+    "Maya",
+    "Mayans"
+   ]
+  },
+  {
+   "q": "On which island near Cape Town was Nelson Mandela imprisoned for 18 years?",
+   "a": "Robben Island",
+   "p": 400
+  },
+  {
+   "q": "Which Vietnamese bay is famous for thousands of limestone islands rising from emerald water?",
+   "a": "Ha Long Bay",
+   "p": 400,
+   "alt": [
+    "Halong Bay"
+   ]
+  },
+  {
+   "q": "Which Taiwanese skyscraper, opened in 2004, is named after its number of floors above ground?",
+   "a": "Taipei 101",
+   "p": 400
+  },
+  {
+   "q": "Which pointed glass skyscraper by Renzo Piano opened beside London Bridge station in 2012?",
+   "a": "The Shard",
+   "p": 400,
+   "alt": [
+    "Shard"
+   ]
+  },
+  {
+   "q": "Which London skyscraper at 30 St Mary Axe is nicknamed after a pickled vegetable?",
+   "a": "The Gherkin",
+   "p": 400,
+   "alt": [
+    "Gherkin"
+   ]
+  },
+  {
+   "q": "Which ceremonial capital of the Achaemenid Persian Empire lies in ruins in southern Iran?",
+   "a": "Persepolis",
+   "p": 400
+  },
+  {
+   "q": "Which dark silk cloth embroidered with gold thread covers the Kaaba?",
+   "a": "Kiswah",
+   "p": 400,
+   "alt": [
+    "Kiswa",
+    "Kiswat al-Kaaba"
+   ],
+   "ar": "الكسوة"
+  },
+  {
+   "q": "Which two small hills are now enclosed within the Masjid al-Haram complex?",
+   "a": "Safa and Marwah",
+   "p": 400,
+   "alt": [
+    "As-Safa and Al-Marwah",
+    "Safa and Marwa"
+   ],
+   "ar": "الصفا والمروة"
+  },
+  {
+   "q": "What is the name of the giant clock tower complex beside Masjid al-Haram in Mecca?",
+   "a": "Abraj Al Bait",
+   "p": 400,
+   "alt": [
+    "Makkah Royal Clock Tower",
+    "Mecca Clock Tower"
+   ],
+   "ar": "أبراج البيت"
+  },
+  {
+   "q": "What colour is the famous dome over the Prophet's tomb in Al-Masjid an-Nabawi?",
+   "a": "Green",
+   "p": 400,
+   "ar": "أخضر"
+  },
+  {
+   "q": "What is the name of the black stone set into the eastern corner of the Kaaba?",
+   "a": "Al-Hajar al-Aswad",
+   "p": 400,
+   "alt": [
+    "The Black Stone",
+    "Hajar al-Aswad"
+   ],
+   "ar": "الحجر الأسود"
+  },
+  {
+   "q": "For which pharaoh was the Great Pyramid of Giza built?",
+   "a": "Khufu",
+   "p": 400,
+   "alt": [
+    "Cheops"
+   ],
+   "ar": "خوفو"
+  },
+  {
+   "q": "Which Egyptian temples carved for Ramesses II were moved to higher ground in the 1960s to escape the waters of Lake Nasser?",
+   "a": "Abu Simbel",
+   "p": 400,
+   "ar": "أبو سمبل"
+  },
+  {
+   "q": "Which famous medieval bazaar in Islamic Cairo dates back to the 14th century?",
+   "a": "Khan el-Khalili",
+   "p": 600,
+   "ar": "خان الخليلي"
+  },
+  {
+   "q": "Which historic Jeddah district is known for its coral-stone houses with carved wooden rawasheen balconies?",
+   "a": "Al-Balad",
+   "p": 400,
+   "alt": [
+    "Historic Jeddah"
+   ],
+   "ar": "البلد"
+  },
+  {
+   "q": "Which Riyadh skyscraper has a giant upside-down arch with a skybridge near its top?",
+   "a": "Kingdom Centre",
+   "p": 400,
+   "alt": [
+    "Kingdom Tower"
+   ],
+   "ar": "برج المملكة"
+  },
+  {
+   "q": "Which natural sandstone rock near AlUla is famous for its shape resembling a trunked animal?",
+   "a": "Elephant Rock",
+   "p": 400,
+   "alt": [
+    "Jabal AlFil"
+   ],
+   "ar": "جبل الفيل"
+  },
+  {
+   "q": "Which mirror-clad concert hall stands in the desert of AlUla?",
+   "a": "Maraya",
+   "p": 600,
+   "ar": "مرايا"
+  },
+  {
+   "q": "Which lone tree, said to be around 400 years old, grows in the Bahraini desert far from any obvious water source?",
+   "a": "Tree of Life",
+   "p": 400,
+   "ar": "شجرة الحياة"
+  },
+  {
+   "q": "Which traditional market in Doha was restored in the 2000s in its old mud-and-timber style?",
+   "a": "Souq Waqif",
+   "p": 400,
+   "ar": "سوق واقف"
+  },
+  {
+   "q": "Which domed plaza was the centrepiece of the Expo 2020 Dubai site?",
+   "a": "Al Wasl Plaza",
+   "p": 400,
+   "alt": [
+    "Al Wasl Dome"
+   ],
+   "ar": "ساحة الوصل"
+  },
+  {
+   "q": "Which mountain in Ras Al Khaimah is home to a famous long zipline and a winding mountain road?",
+   "a": "Jebel Jais",
+   "p": 400,
+   "alt": [
+    "Jabal Jais"
+   ],
+   "ar": "جبل جيس"
+  },
+  {
+   "q": "Which steep dune near Liwa hosts an annual hill-climb festival?",
+   "a": "Moreeb Dune",
+   "p": 400,
+   "alt": [
+    "Tal Moreeb",
+    "Tal Mireb"
+   ],
+   "ar": "تل مرعب"
+  },
+  {
+   "q": "In which year did the Burj Al Arab open?",
+   "a": "1999",
+   "p": 400
+  },
+  {
+   "q": "Which grand Abu Dhabi palace hotel, opened in 2005, stands at the western end of the Corniche?",
+   "a": "Emirates Palace",
+   "p": 400,
+   "ar": "قصر الإمارات"
+  },
+  {
+   "q": "Which Ottoman palace in Istanbul was the main residence of the sultans for about 400 years?",
+   "a": "Topkapi Palace",
+   "p": 400
+  },
+  {
+   "q": "How many minarets does the Sultan Ahmed (Blue) Mosque in Istanbul have?",
+   "a": "Six",
+   "p": 400,
+   "alt": [
+    "6"
+   ]
+  },
+  {
+   "q": "What was Istanbul called when the Hagia Sophia was completed in 537?",
+   "a": "Constantinople",
+   "p": 400
+  },
+  {
+   "q": "Which tall stone obelisk on the National Mall honours America's first president?",
+   "a": "Washington Monument",
+   "p": 200
+  },
+  {
+   "q": "Which ancient Chinese emperor was buried with the Terracotta Army?",
+   "a": "Qin Shi Huang",
+   "p": 400,
+   "alt": [
+    "Qin Shi Huangdi",
+    "Shi Huangdi"
+   ]
+  },
+  {
+   "q": "Which Disney castle was inspired by Bavaria's Neuschwanstein Castle?",
+   "a": "Sleeping Beauty Castle",
+   "p": 400
+  },
+  {
+   "q": "Which Moroccan 'blue city' in the Rif Mountains is famous for its blue-painted streets?",
+   "a": "Chefchaouen",
+   "p": 400,
+   "ar": "شفشاون"
+  },
+  {
+   "q": "What is the name of Marrakesh's famous main square, full of storytellers, stalls and musicians?",
+   "a": "Jemaa el-Fnaa",
+   "p": 400,
+   "alt": [
+    "Djemaa el Fna"
+   ],
+   "ar": "ساحة جامع الفنا"
+  },
+  {
+   "q": "Which Indian city is home to the Red Fort built by Shah Jahan?",
+   "a": "Delhi",
+   "p": 400,
+   "alt": [
+    "New Delhi",
+    "Old Delhi"
+   ]
+  },
+  {
+   "q": "Which Japanese castle is nicknamed the White Heron Castle?",
+   "a": "Himeji Castle",
+   "p": 400,
+   "alt": [
+    "Himeji"
+   ]
+  },
+  {
+   "q": "Which Sicilian volcano is one of Europe's most active?",
+   "a": "Mount Etna",
+   "p": 400,
+   "alt": [
+    "Etna"
+   ]
+  },
+  {
+   "q": "Which pyramid-shaped Alpine peak stands on the border of Switzerland and Italy?",
+   "a": "Matterhorn",
+   "p": 400,
+   "alt": [
+    "Monte Cervino"
+   ]
+  },
+  {
+   "q": "What is the steel-arch Sydney Harbour Bridge's popular nickname?",
+   "a": "The Coathanger",
+   "p": 600,
+   "alt": [
+    "Coathanger"
+   ]
+  },
+  {
+   "q": "In which year did the Royal Opera House Muscat open?",
+   "a": "2011",
+   "p": 600
+  },
+  {
+   "q": "Which Doha stadium hosted the 2022 FIFA World Cup final?",
+   "a": "Lusail Stadium",
+   "p": 400,
+   "alt": [
+    "Lusail Iconic Stadium"
+   ],
+   "ar": "استاد لوسيل"
+  },
+  {
+   "q": "Which tiny bronze statue of a boy is one of Brussels' best-known landmarks?",
+   "a": "Manneken Pis",
+   "p": 400
+  },
+  {
+   "q": "Which French architect designed the Louvre Abu Dhabi and its 'rain of light' dome?",
+   "a": "Jean Nouvel",
+   "p": 600
+  },
+  {
+   "q": "How many domes does the Sheikh Zayed Grand Mosque have?",
+   "a": "82",
+   "p": 600
+  },
+  {
+   "q": "In which country was the giant hand-knotted carpet of the Sheikh Zayed Grand Mosque's main prayer hall made?",
+   "a": "Iran",
+   "p": 600,
+   "ar": "إيران"
+  },
+  {
+   "q": "Which architecture firm designed the Burj Khalifa, with Adrian Smith as lead architect?",
+   "a": "Skidmore, Owings & Merrill",
+   "p": 600,
+   "alt": [
+    "SOM"
+   ]
+  },
+  {
+   "q": "Which British architect designed the Burj Al Arab?",
+   "a": "Tom Wright",
+   "p": 600
+  },
+  {
+   "q": "Which Muslim dynasty built most of the Alhambra palace complex in Granada?",
+   "a": "Nasrid dynasty",
+   "p": 600,
+   "alt": [
+    "Nasrids",
+    "Banu Nasr"
+   ],
+   "ar": "بنو نصر"
+  },
+  {
+   "q": "What is the name of the famous spiral minaret of the Great Mosque of Samarra in Iraq?",
+   "a": "Al-Malwiya",
+   "p": 600,
+   "alt": [
+    "Malwiya"
+   ],
+   "ar": "الملوية"
+  },
+  {
+   "q": "Which Lebanese site has some of the best-preserved Roman temples, dedicated to Jupiter and Bacchus?",
+   "a": "Baalbek",
+   "p": 600,
+   "ar": "بعلبك"
+  },
+  {
+   "q": "Which Jordanian city north of Amman, ancient Gerasa, has some of the best-preserved Roman ruins in the Middle East?",
+   "a": "Jerash",
+   "p": 600,
+   "ar": "جرش"
+  },
+  {
+   "q": "Which Ayyubid sultan began building the Cairo Citadel in the 1170s?",
+   "a": "Saladin",
+   "p": 600,
+   "alt": [
+    "Salah ad-Din",
+    "Salah al-Din"
+   ],
+   "ar": "صلاح الدين الأيوبي"
+  },
+  {
+   "q": "Which Ottoman-style 'Alabaster Mosque' crowns the Cairo Citadel?",
+   "a": "Mosque of Muhammad Ali",
+   "p": 600,
+   "alt": [
+    "Muhammad Ali Mosque",
+    "Alabaster Mosque"
+   ],
+   "ar": "مسجد محمد علي"
+  },
+  {
+   "q": "Which dynasty founded Cairo's Al-Azhar Mosque in 970?",
+   "a": "The Fatimids",
+   "p": 600,
+   "alt": [
+    "Fatimid Caliphate",
+    "Fatimids"
+   ],
+   "ar": "الفاطميون"
+  },
+  {
+   "q": "Who founded the University of al-Qarawiyyin in Fez in 859?",
+   "a": "Fatima al-Fihri",
+   "p": 600,
+   "ar": "فاطمة الفهرية"
+  },
+  {
+   "q": "The word 'mausoleum' comes from the tomb of which ancient ruler of Caria?",
+   "a": "Mausolus",
+   "p": 600
+  },
+  {
+   "q": "Which ancient wonder stood in the Greek city of Ephesus?",
+   "a": "Temple of Artemis",
+   "p": 600,
+   "alt": [
+    "Artemision"
+   ]
+  },
+  {
+   "q": "Which ancient wonder was a giant gold-and-ivory statue made by the sculptor Phidias?",
+   "a": "Statue of Zeus at Olympia",
+   "p": 600,
+   "alt": [
+    "Statue of Zeus"
+   ]
+  },
+  {
+   "q": "Which Turkish resort town stands on the site of ancient Halicarnassus?",
+   "a": "Bodrum",
+   "p": 600
+  },
+  {
+   "q": "Which Swiss-born explorer, travelling as 'Sheikh Ibrahim', was the first modern European to reach Petra, in 1812?",
+   "a": "Johann Ludwig Burckhardt",
+   "p": 600
+  },
+  {
+   "q": "Which American explorer brought Machu Picchu to world attention in 1911?",
+   "a": "Hiram Bingham",
+   "p": 600
+  },
+  {
+   "q": "Which Mount Rushmore president is not Washington, Jefferson or Lincoln?",
+   "a": "Theodore Roosevelt",
+   "p": 600
+  },
+  {
+   "q": "Which French sculptor designed the Statue of Liberty?",
+   "a": "Frederic Auguste Bartholdi",
+   "p": 600,
+   "alt": [
+    "Bartholdi"
+   ]
+  },
+  {
+   "q": "What type of soft stone covers the outside of Christ the Redeemer?",
+   "a": "Soapstone",
+   "p": 600
+  },
+  {
+   "q": "To which Hindu god was Angkor Wat originally dedicated?",
+   "a": "Vishnu",
+   "p": 600
+  },
+  {
+   "q": "Which Burmese city has more than 2,000 surviving ancient temples on its plain?",
+   "a": "Bagan",
+   "p": 600
+  },
+  {
+   "q": "Which Japanese shrine is famous for its giant 'floating' torii gate on Miyajima island?",
+   "a": "Itsukushima Shrine",
+   "p": 600,
+   "alt": [
+    "Itsukushima"
+   ]
+  },
+  {
+   "q": "Which architect designed the giant brick dome of Florence Cathedral?",
+   "a": "Filippo Brunelleschi",
+   "p": 600
+  },
+  {
+   "q": "In which year did construction of Barcelona's Sagrada Familia begin?",
+   "a": "1882",
+   "p": 600
+  },
+  {
+   "q": "Which Lisbon tower on the Tagus was built in the early 16th century to defend the harbour?",
+   "a": "Belem Tower",
+   "p": 600,
+   "alt": [
+    "Torre de Belem"
+   ]
+  },
+  {
+   "q": "In which famous room of the Palace of Versailles was the 1919 peace treaty signed?",
+   "a": "Hall of Mirrors",
+   "p": 600
+  },
+  {
+   "q": "Which Dutch village is famous for its UNESCO-listed group of 19 windmills?",
+   "a": "Kinderdijk",
+   "p": 600
+  },
+  {
+   "q": "In which Vienna palace was the summer residence of the Habsburgs?",
+   "a": "Schonbrunn Palace",
+   "p": 600,
+   "alt": [
+    "Schoenbrunn"
+   ]
+  },
+  {
+   "q": "Which Greek site is famous for its monasteries perched on top of giant rock pillars?",
+   "a": "Meteora",
+   "p": 600
+  },
+  {
+   "q": "Which ancient library facade, built in honour of a Roman senator, is a famous sight in Ephesus?",
+   "a": "Library of Celsus",
+   "p": 600
+  },
+  {
+   "q": "Which Irish sea cliffs on the Atlantic coast of County Clare are a top tourist site?",
+   "a": "Cliffs of Moher",
+   "p": 600
+  },
+  {
+   "q": "In which US city is the stainless-steel Gateway Arch?",
+   "a": "St. Louis",
+   "p": 600,
+   "alt": [
+    "Saint Louis"
+   ]
+  },
+  {
+   "q": "What is the official name of the Golden Gate Bridge's red-orange paint colour?",
+   "a": "International Orange",
+   "p": 600
+  },
+  {
+   "q": "In which year did the Golden Gate Bridge open?",
+   "a": "1937",
+   "p": 600
+  },
+  {
+   "q": "Teotihuacan's two great pyramids are named after the Moon and which other heavenly body?",
+   "a": "The Sun",
+   "p": 600,
+   "alt": [
+    "Sun"
+   ]
+  },
+  {
+   "q": "Which Argentine glacier in Patagonia is famous for huge chunks of ice crashing into Lake Argentino?",
+   "a": "Perito Moreno Glacier",
+   "p": 600,
+   "alt": [
+    "Perito Moreno"
+   ]
+  },
+  {
+   "q": "What is the local Lozi name of Victoria Falls, meaning 'the smoke that thunders'?",
+   "a": "Mosi-oa-Tunya",
+   "p": 600
+  },
+  {
+   "q": "Which Malian city is famous for its Great Mosque, built entirely of mud brick?",
+   "a": "Djenne",
+   "p": 600,
+   "ar": "جينيه"
+  },
+  {
+   "q": "Which Ethiopian town is famous for 11 medieval churches carved out of solid rock?",
+   "a": "Lalibela",
+   "p": 600
+  },
+  {
+   "q": "What is the Nepali name for Mount Everest?",
+   "a": "Sagarmatha",
+   "p": 600
+  },
+  {
+   "q": "Which Egyptian pharaoh's Step Pyramid at Saqqara is one of the oldest large stone buildings?",
+   "a": "Djoser",
+   "p": 600,
+   "alt": [
+    "Zoser"
+   ],
+   "ar": "زوسر"
+  },
+  {
+   "q": "Which architect, later worshipped as a god of medicine, designed the Step Pyramid at Saqqara?",
+   "a": "Imhotep",
+   "p": 600
+  },
+  {
+   "q": "What is the huge temple complex at Luxor, dedicated mainly to the god Amun, called?",
+   "a": "Karnak",
+   "p": 600,
+   "alt": [
+    "Karnak Temple"
+   ],
+   "ar": "الكرنك"
+  },
+  {
+   "q": "Which red sandstone minaret in Delhi was begun by Qutb ud-Din Aibak around 1199?",
+   "a": "Qutub Minar",
+   "p": 600,
+   "alt": [
+    "Qutb Minar"
+   ]
+  },
+  {
+   "q": "Which ancient rock fortress in Sri Lanka is reached through a giant gate shaped like a lion's paws?",
+   "a": "Sigiriya",
+   "p": 600,
+   "alt": [
+    "Lion Rock"
+   ]
+  },
+  {
+   "q": "Which famous square in Isfahan, Iran, is lined by mosques and a palace?",
+   "a": "Naqsh-e Jahan Square",
+   "p": 600,
+   "alt": [
+    "Imam Square",
+    "Naghsh-e Jahan"
+   ]
+  },
+  {
+   "q": "Which Samarkand square is framed by three grand madrasas?",
+   "a": "Registan",
+   "p": 600
+  },
+  {
+   "q": "Which Yemeni town of tall mud-brick tower houses is nicknamed the 'Manhattan of the Desert'?",
+   "a": "Shibam",
+   "p": 600,
+   "ar": "شبام"
+  },
+  {
+   "q": "Which Omani fort, an oasis stronghold, became a UNESCO World Heritage Site in 1987?",
+   "a": "Bahla Fort",
+   "p": 600,
+   "alt": [
+    "Bahla"
+   ],
+   "ar": "قلعة بهلاء"
+  },
+  {
+   "q": "In which Riyadh clay-and-mudbrick fortress did the 1902 recapture of Riyadh take place?",
+   "a": "Masmak Fortress",
+   "p": 600,
+   "alt": [
+    "Al Masmak",
+    "Masmak"
+   ],
+   "ar": "قصر المصمك"
+  },
+  {
+   "q": "Which district of Diriyah, the first Saudi state's capital, was listed by UNESCO in 2010?",
+   "a": "At-Turaif",
+   "p": 600,
+   "alt": [
+    "Turaif"
+   ],
+   "ar": "حي الطريف"
+  },
+  {
+   "q": "Which ancient Bahraini fort, also called Bahrain Fort, is a UNESCO World Heritage Site?",
+   "a": "Qal'at al-Bahrain",
+   "p": 600,
+   "ar": "قلعة البحرين"
+  },
+  {
+   "q": "Which Qatari coastal fort and ruined pearling town became the country's first UNESCO site in 2013?",
+   "a": "Al Zubarah",
+   "p": 600,
+   "ar": "الزبارة"
+  },
+  {
+   "q": "Which Bahrain building is famous for three giant wind turbines mounted between its twin towers?",
+   "a": "Bahrain World Trade Center",
+   "p": 600,
+   "ar": "مركز البحرين التجاري العالمي"
+  },
+  {
+   "q": "Which Doha museum, designed by I. M. Pei, stands on its own artificial island off the Corniche?",
+   "a": "Museum of Islamic Art",
+   "p": 400,
+   "alt": [
+    "MIA"
+   ],
+   "ar": "متحف الفن الإسلامي"
+  },
+  {
+   "q": "Which Omani sinkhole near the coast between Muscat and Sur is a popular swimming spot?",
+   "a": "Bimmah Sinkhole",
+   "p": 600,
+   "alt": [
+    "Hawiyat Najm"
+   ],
+   "ar": "حوية النجم"
+  },
+  {
+   "q": "Which ancient desert city in Syria was ruled by Queen Zenobia in the 3rd century?",
+   "a": "Palmyra",
+   "p": 600,
+   "alt": [
+    "Tadmur"
+   ],
+   "ar": "تدمر"
+  },
+  {
+   "q": "Which famous Crusader castle in Syria is known in Arabic as Qal'at al-Hosn?",
+   "a": "Krak des Chevaliers",
+   "p": 600,
+   "ar": "قلعة الحصن"
+  },
+  {
+   "q": "Which Tunisian town has a giant Roman amphitheatre that once held about 35,000 spectators?",
+   "a": "El Djem",
+   "p": 600,
+   "alt": [
+    "El Jem"
+   ],
+   "ar": "الجم"
+  },
+  {
+   "q": "Which Moroccan fortified village of earthen buildings has appeared in films like Gladiator?",
+   "a": "Ait Benhaddou",
+   "p": 600,
+   "ar": "آيت بن حدو"
+  },
+  {
+   "q": "Which Marrakesh mosque has a 12th-century minaret that inspired the Giralda in Seville?",
+   "a": "Koutoubia Mosque",
+   "p": 600,
+   "alt": [
+    "Koutoubia"
+   ],
+   "ar": "جامع الكتبية"
+  },
+  {
+   "q": "Which Lebanese limestone caves north of Beirut have a famous lower grotto explored by boat?",
+   "a": "Jeita Grotto",
+   "p": 600,
+   "ar": "مغارة جعيتا"
+  },
+  {
+   "q": "Which Yemeni island is famous for its umbrella-shaped dragon's blood trees?",
+   "a": "Socotra",
+   "p": 600,
+   "ar": "سقطرى"
+  },
+  {
+   "q": "Which ancient Sumerian stepped temple tower near Nasiriyah in Iraq has been partly restored?",
+   "a": "Ziggurat of Ur",
+   "p": 600,
+   "alt": [
+    "Great Ziggurat of Ur"
+   ]
+  },
+  {
+   "q": "Which British architect designed the glass dome of the Reichstag in Berlin?",
+   "a": "Norman Foster",
+   "p": 600
+  },
+  {
+   "q": "In which English county is Stonehenge?",
+   "a": "Wiltshire",
+   "p": 600
+  },
+  {
+   "q": "In which year did Mount Fuji last erupt?",
+   "a": "1707",
+   "p": 600
+  },
+  {
+   "q": "In which year did the Sydney Harbour Bridge open?",
+   "a": "1932",
+   "p": 600
+  },
+  {
+   "q": "Which Mughal emperor built Delhi's Red Fort?",
+   "a": "Shah Jahan",
+   "p": 600
+  },
+  {
+   "q": "Which Chinese national park's sandstone pillars inspired the floating mountains in the film Avatar?",
+   "a": "Zhangjiajie",
+   "p": 600
+  },
+  {
+   "q": "Which Croatian national park is famous for 16 terraced lakes linked by waterfalls?",
+   "a": "Plitvice Lakes",
+   "p": 600,
+   "alt": [
+    "Plitvice"
+   ]
+  },
+  {
+   "q": "In which year did the Channel Tunnel between England and France open?",
+   "a": "1994",
+   "p": 600
+  },
+  {
+   "q": "In which year did the Suez Canal open?",
+   "a": "1869",
+   "p": 600
+  },
+  {
+   "q": "Which pharaoh built the Bent Pyramid at Dahshur?",
+   "a": "Sneferu",
+   "p": 600,
+   "alt": [
+    "Snefru"
+   ],
+   "ar": "سنفرو"
+  },
+  {
+   "q": "What is the Dutch architecture firm behind the Natural History Museum Abu Dhabi, opened in 2025?",
+   "a": "Mecanoo",
+   "p": 600
+  },
+  {
+   "q": "Which Indian city is home to the Golden Temple, Harmandir Sahib?",
+   "a": "Amritsar",
+   "p": 600
+  },
+  {
+   "q": "Which Scottish castle sits on an extinct volcano called Castle Rock?",
+   "a": "Edinburgh Castle",
+   "p": 600
+  },
+  {
+   "q": "Which Peruvian ancient city, built by the Inca, was their capital before the Spanish conquest?",
+   "a": "Cusco",
+   "p": 600,
+   "alt": [
+    "Cuzco"
+   ]
+  },
+  {
+   "q": "How many main pyramids stand on the Giza plateau?",
+   "a": "Three",
+   "p": 200,
+   "alt": [
+    "3"
+   ]
+  },
+  {
+   "q": "Which London bridge has two towers and a central roadway that lifts to let ships pass?",
+   "a": "Tower Bridge",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the ancient hilltop citadel that overlooks Athens?",
+   "a": "The Acropolis",
+   "p": 200,
+   "alt": [
+    "Acropolis"
+   ]
+  },
+  {
+   "q": "Which huge Dubai shopping centre beside the Burj Khalifa is famous for its giant aquarium?",
+   "a": "The Dubai Mall",
+   "p": 200,
+   "alt": [
+    "Dubai Mall"
+   ],
+   "ar": "دبي مول"
+  },
+  {
+   "q": "Which saltwater inlet divides old Dubai into Deira and Bur Dubai?",
+   "a": "Dubai Creek",
+   "p": 200,
+   "ar": "خور دبي"
+  },
+  {
+   "q": "Which famous Paris avenue runs from the Arc de Triomphe to the Place de la Concorde?",
+   "a": "Champs-Elysees",
+   "p": 200,
+   "alt": [
+    "Avenue des Champs-Elysees"
+   ]
+  },
+  {
+   "q": "Which Saudi city in the northwest, near the ancient site of Hegra, is famous for its sandstone landscapes?",
+   "a": "AlUla",
+   "p": 200,
+   "alt": [
+    "Al-Ula"
+   ],
+   "ar": "العلا"
+  },
+  {
+   "q": "On which Abu Dhabi island is the Louvre Abu Dhabi?",
+   "a": "Saadiyat Island",
+   "p": 200,
+   "alt": [
+    "Saadiyat"
+   ],
+   "ar": "جزيرة السعديات"
+  },
+  {
+   "q": "Which Italian city is built on more than 100 small islands and famous for gondolas?",
+   "a": "Venice",
+   "p": 200
+  },
+  {
+   "q": "Which Dutch city is famous for its canal ring and the Anne Frank House?",
+   "a": "Amsterdam",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the fairytale castle in Bavaria built for King Ludwig II?",
+   "a": "Neuschwanstein Castle",
+   "p": 200,
+   "alt": [
+    "Neuschwanstein"
+   ]
+  },
+  {
+   "q": "Which former royal palace near Paris is famous for its Hall of Mirrors and gardens?",
+   "a": "Palace of Versailles",
+   "p": 200,
+   "alt": [
+    "Versailles"
+   ]
+  },
+  {
+   "q": "Which domed building in Washington, D.C., is the meeting place of the US Congress?",
+   "a": "The Capitol",
+   "p": 200,
+   "alt": [
+    "US Capitol",
+    "Capitol Building"
+   ]
+  },
+  {
+   "q": "Which group of artificial islands off Dubai is shaped like a map of the world?",
+   "a": "The World Islands",
+   "p": 200,
+   "alt": [
+    "The World"
+   ],
+   "ar": "جزر العالم"
+  },
+  {
+   "q": "Which pink resort hotel sits at the tip of the crescent of Palm Jumeirah?",
+   "a": "Atlantis The Palm",
+   "p": 200,
+   "alt": [
+    "Atlantis"
+   ],
+   "ar": "أتلانتس النخلة"
+  },
+  {
+   "q": "Which London square is home to Nelson's Column?",
+   "a": "Trafalgar Square",
+   "p": 200
+  },
+  {
+   "q": "In which city do Big Ben, Tower Bridge and the London Eye stand?",
+   "a": "London",
+   "p": 200
+  },
+  {
+   "q": "Which traditional Dubai market in Deira is famous for its many jewellery shops?",
+   "a": "Gold Souk",
+   "p": 200,
+   "alt": [
+    "Dubai Gold Souk"
+   ],
+   "ar": "سوق الذهب"
+  },
+  {
+   "q": "What are the traditional wooden water taxis that cross Dubai Creek called?",
+   "a": "Abra",
+   "p": 400,
+   "alt": [
+    "Abras"
+   ],
+   "ar": "عبرة"
+  },
+  {
+   "q": "Which historic Dubai quarter of wind-tower houses was formerly called Al Bastakiya?",
+   "a": "Al Fahidi Historical Neighbourhood",
+   "p": 400,
+   "alt": [
+    "Al Fahidi",
+    "Bastakiya"
+   ],
+   "ar": "حي الفهيدي التاريخي"
+  },
+  {
+   "q": "Which island off Abu Dhabi's western coast was turned into a wildlife reserve by Sheikh Zayed?",
+   "a": "Sir Bani Yas Island",
+   "p": 400,
+   "alt": [
+    "Sir Bani Yas"
+   ],
+   "ar": "صير بني ياس"
+  },
+  {
+   "q": "Which modern library, opened in 2002, was built to revive Egypt's famous ancient library?",
+   "a": "Bibliotheca Alexandrina",
+   "p": 400,
+   "alt": [
+    "Library of Alexandria"
+   ],
+   "ar": "مكتبة الإسكندرية"
+  },
+  {
+   "q": "Which Spanish palace-fortress gets its name from an Arabic word meaning 'the red one'?",
+   "a": "Alhambra",
+   "p": 400,
+   "ar": "الحمراء"
+  },
+  {
+   "q": "In which Canadian province is the Canadian side of Niagara Falls?",
+   "a": "Ontario",
+   "p": 400
+  },
+  {
+   "q": "Which white-domed basilica crowns the hill of Montmartre in Paris?",
+   "a": "Sacre-Coeur",
+   "p": 400,
+   "alt": [
+    "Sacre-Coeur Basilica",
+    "Basilica of the Sacred Heart"
+   ]
+  },
+  {
+   "q": "Which ancient Greek sanctuary gave its name to the Olympic Games?",
+   "a": "Olympia",
+   "p": 400
+  },
+  {
+   "q": "In which city is the famous medieval astronomical clock on the Old Town Square?",
+   "a": "Prague",
+   "p": 400
+  },
+  {
+   "q": "Which Roman town, buried along with Pompeii in 79 AD, is famous for its preserved wooden objects?",
+   "a": "Herculaneum",
+   "p": 600
+  },
+  {
+   "q": "Which Bavarian king built Neuschwanstein Castle?",
+   "a": "Ludwig II",
+   "p": 600,
+   "alt": [
+    "King Ludwig II"
+   ]
+  }
+ ]
+}

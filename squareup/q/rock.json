@@ -1,0 +1,1577 @@
+{
+ "id": "rock",
+ "name": "Rock Music",
+ "questions": [
+  {
+   "q": "On which East African island was Freddie Mercury born?",
+   "a": "Zanzibar",
+   "p": 200
+  },
+  {
+   "q": "Which Queen guitarist built his own guitar, the Red Special, with his father?",
+   "a": "Brian May",
+   "p": 200
+  },
+  {
+   "q": "At which 1985 charity concert did Queen give a legendary performance at Wembley Stadium?",
+   "a": "Live Aid",
+   "p": 200
+  },
+  {
+   "q": "Which Irish musician co-organised Live Aid with Midge Ure?",
+   "a": "Bob Geldof",
+   "p": 200
+  },
+  {
+   "q": "Which actor won an Oscar for playing Freddie Mercury in Bohemian Rhapsody?",
+   "a": "Rami Malek",
+   "p": 200
+  },
+  {
+   "q": "Which Queen anthem is famous for its stomp-stomp-clap rhythm?",
+   "a": "We Will Rock You",
+   "p": 200
+  },
+  {
+   "q": "Which Queen song do the characters headbang to in the car in Wayne's World?",
+   "a": "Bohemian Rhapsody",
+   "p": 200
+  },
+  {
+   "q": "Which singer collaborated with Queen on the 1981 hit \"Under Pressure\"?",
+   "a": "David Bowie",
+   "p": 200
+  },
+  {
+   "q": "Which English city did the Beatles come from?",
+   "a": "Liverpool",
+   "p": 200
+  },
+  {
+   "q": "Which Beatles album cover shows the band walking across a zebra crossing?",
+   "a": "Abbey Road",
+   "p": 200
+  },
+  {
+   "q": "Which 1967 Beatles album has a colourful cover crowded with famous faces?",
+   "a": "Sgt. Pepper's Lonely Hearts Club Band",
+   "p": 200,
+   "alt": [
+    "Sgt. Pepper"
+   ]
+  },
+  {
+   "q": "Which Japanese artist married John Lennon in 1969?",
+   "a": "Yoko Ono",
+   "p": 200
+  },
+  {
+   "q": "Which Beatles song and 1968 animated film are named after an underwater vessel?",
+   "a": "Yellow Submarine",
+   "p": 200
+  },
+  {
+   "q": "Which Led Zeppelin singer is known for his golden curls and high-pitched wail?",
+   "a": "Robert Plant",
+   "p": 200
+  },
+  {
+   "q": "Which Led Zeppelin guitarist was also the band's producer?",
+   "a": "Jimmy Page",
+   "p": 200
+  },
+  {
+   "q": "What optical object is shown splitting light on the cover of Pink Floyd's The Dark Side of the Moon?",
+   "a": "A prism",
+   "p": 200,
+   "alt": [
+    "Prism"
+   ]
+  },
+  {
+   "q": "Which 1979 Pink Floyd double album is a rock opera about isolation, staged with a giant wall?",
+   "a": "The Wall",
+   "p": 200
+  },
+  {
+   "q": "Who was Nirvana's lead singer and guitarist?",
+   "a": "Kurt Cobain",
+   "p": 200
+  },
+  {
+   "q": "Which US city was the centre of the early-1990s grunge scene?",
+   "a": "Seattle",
+   "p": 200
+  },
+  {
+   "q": "Which Nirvana drummer went on to found the Foo Fighters?",
+   "a": "Dave Grohl",
+   "p": 200
+  },
+  {
+   "q": "Which 1991 Nirvana album cover shows a baby swimming towards a dollar bill?",
+   "a": "Nevermind",
+   "p": 200
+  },
+  {
+   "q": "Which 1991 Nirvana single became the anthem of grunge?",
+   "a": "Smells Like Teen Spirit",
+   "p": 200
+  },
+  {
+   "q": "Which Linkin Park singer died in 2017?",
+   "a": "Chester Bennington",
+   "p": 200
+  },
+  {
+   "q": "What was Linkin Park's 2000 debut album?",
+   "a": "Hybrid Theory",
+   "p": 200
+  },
+  {
+   "q": "Who is Coldplay's lead singer?",
+   "a": "Chris Martin",
+   "p": 200
+  },
+  {
+   "q": "Which colour is the title of Coldplay's 2000 breakthrough single?",
+   "a": "Yellow",
+   "p": 200
+  },
+  {
+   "q": "Which 1991 Metallica single is named after a mythical figure who brings sleep?",
+   "a": "Enter Sandman",
+   "p": 200
+  },
+  {
+   "q": "Which AC/DC guitarist performs in a schoolboy uniform?",
+   "a": "Angus Young",
+   "p": 200
+  },
+  {
+   "q": "Which 1980 AC/DC album has an all-black cover in memory of their late singer?",
+   "a": "Back in Black",
+   "p": 200
+  },
+  {
+   "q": "Which country do AC/DC come from?",
+   "a": "Australia",
+   "p": 200
+  },
+  {
+   "q": "Which top-hat-wearing guitarist played in Guns N' Roses?",
+   "a": "Slash",
+   "p": 200
+  },
+  {
+   "q": "Who is the lead singer of Guns N' Roses?",
+   "a": "Axl Rose",
+   "p": 200
+  },
+  {
+   "q": "Which Guns N' Roses song has a famous guitar riff that Slash first played as a warm-up exercise?",
+   "a": "Sweet Child o' Mine",
+   "p": 200
+  },
+  {
+   "q": "Which 1969 festival on a New York State farm became a symbol of the hippie era?",
+   "a": "Woodstock",
+   "p": 200
+  },
+  {
+   "q": "Which guitarist famously played the US national anthem at Woodstock?",
+   "a": "Jimi Hendrix",
+   "p": 200
+  },
+  {
+   "q": "Which Deep Purple song has one of the most famous guitar riffs ever and is about a fire?",
+   "a": "Smoke on the Water",
+   "p": 200
+  },
+  {
+   "q": "Which Eagles song is about a mysterious hotel in the desert?",
+   "a": "Hotel California",
+   "p": 200
+  },
+  {
+   "q": "Which Mancunian brothers led Oasis?",
+   "a": "Liam and Noel Gallagher",
+   "p": 200,
+   "alt": [
+    "The Gallagher brothers",
+    "Gallaghers"
+   ]
+  },
+  {
+   "q": "Which band competed with Oasis in the 1995 \"Battle of Britpop\" chart race?",
+   "a": "Blur",
+   "p": 200
+  },
+  {
+   "q": "Which glam rock alter ego did David Bowie create in 1972?",
+   "a": "Ziggy Stardust",
+   "p": 200
+  },
+  {
+   "q": "Which rock band is known for black-and-white face paint and members called the Demon and the Starchild?",
+   "a": "Kiss",
+   "p": 200,
+   "alt": [
+    "KISS"
+   ]
+  },
+  {
+   "q": "Which Black Sabbath singer was nicknamed the \"Prince of Darkness\"?",
+   "a": "Ozzy Osbourne",
+   "p": 200
+  },
+  {
+   "q": "Which 2003 White Stripes song became a football stadium chant around the world?",
+   "a": "Seven Nation Army",
+   "p": 200
+  },
+  {
+   "q": "Which singer-songwriter won the 2016 Nobel Prize in Literature?",
+   "a": "Bob Dylan",
+   "p": 200
+  },
+  {
+   "q": "Which Fender electric guitar model, launched in 1954, has a double-cutaway body?",
+   "a": "Stratocaster",
+   "p": 200,
+   "alt": [
+    "Strat",
+    "Fender Stratocaster"
+   ]
+  },
+  {
+   "q": "Which Gibson guitar model is named after the guitarist who helped design it?",
+   "a": "Les Paul",
+   "p": 200,
+   "alt": [
+    "Gibson Les Paul"
+   ]
+  },
+  {
+   "q": "How many strings does a standard bass guitar have?",
+   "a": "Four",
+   "p": 200,
+   "alt": [
+    "4"
+   ]
+  },
+  {
+   "q": "What is the largest drum in a rock drum kit, played with a foot pedal?",
+   "a": "Bass drum",
+   "p": 200,
+   "alt": [
+    "Kick drum"
+   ]
+  },
+  {
+   "q": "Which instrument did Freddie Mercury play on \"Bohemian Rhapsody\"?",
+   "a": "Piano",
+   "p": 200
+  },
+  {
+   "q": "Which rock genre is associated with Nirvana, Pearl Jam and Soundgarden?",
+   "a": "Grunge",
+   "p": 200
+  },
+  {
+   "q": "Who was the lead singer of The Police?",
+   "a": "Sting",
+   "p": 200
+  },
+  {
+   "q": "Which English band's members included Pete Townshend and Roger Daltrey?",
+   "a": "The Who",
+   "p": 200
+  },
+  {
+   "q": "Which New Jersey band fronted by Jon Bon Jovi released Slippery When Wet?",
+   "a": "Bon Jovi",
+   "p": 200
+  },
+  {
+   "q": "Which Aerosmith singer is the father of actress Liv Tyler?",
+   "a": "Steven Tyler",
+   "p": 200
+  },
+  {
+   "q": "Which Coldplay song from Viva la Vida won the 2009 Grammy for Song of the Year?",
+   "a": "Viva la Vida",
+   "p": 200
+  },
+  {
+   "q": "Which Coldplay song from X&Y is about trying to help someone through grief?",
+   "a": "Fix You",
+   "p": 200
+  },
+  {
+   "q": "Which Metallica song from 1986 featured in Stranger Things season 4?",
+   "a": "Master of Puppets",
+   "p": 200
+  },
+  {
+   "q": "Which file-sharing service did Metallica sue in 2000?",
+   "a": "Napster",
+   "p": 200
+  },
+  {
+   "q": "Which Guns N' Roses song about the dangers of a big city opens Appetite for Destruction?",
+   "a": "Welcome to the Jungle",
+   "p": 200
+  },
+  {
+   "q": "Which famous Liverpool club did the Beatles play nearly 300 times?",
+   "a": "The Cavern Club",
+   "p": 200,
+   "alt": [
+    "Cavern Club"
+   ]
+  },
+  {
+   "q": "Which band recorded \"Wonderwall\" in 1995?",
+   "a": "Oasis",
+   "p": 200
+  },
+  {
+   "q": "Which Linkin Park singer and rapper also produced their songs?",
+   "a": "Mike Shinoda",
+   "p": 200
+  },
+  {
+   "q": "Which rock band released \"Mr. Brightside\" in 2003?",
+   "a": "The Killers",
+   "p": 200
+  },
+  {
+   "q": "Which band fronted by Billie Joe Armstrong released American Idiot in 2004?",
+   "a": "Green Day",
+   "p": 200
+  },
+  {
+   "q": "Which Red Hot Chili Peppers bassist is known by a single short name?",
+   "a": "Flea",
+   "p": 200
+  },
+  {
+   "q": "Which Journey song became a famous sing-along after featuring in Glee and The Sopranos?",
+   "a": "Don't Stop Believin'",
+   "p": 200
+  },
+  {
+   "q": "Which Rolling Stones drummer died in 2021?",
+   "a": "Charlie Watts",
+   "p": 200
+  },
+  {
+   "q": "Which Queen bassist wrote \"Another One Bites the Dust\"?",
+   "a": "John Deacon",
+   "p": 200
+  },
+  {
+   "q": "Which Evanescence song was the band's breakthrough in 2003?",
+   "a": "Bring Me to Life",
+   "p": 200
+  },
+  {
+   "q": "Which Arctic Monkeys singer is from Sheffield?",
+   "a": "Alex Turner",
+   "p": 200
+  },
+  {
+   "q": "What is Freddie Mercury's birth name?",
+   "a": "Farrokh Bulsara",
+   "p": 200
+  },
+  {
+   "q": "Which Guns N' Roses power ballad has a famous video with a wedding and a guitar solo outside a church?",
+   "a": "November Rain",
+   "p": 200
+  },
+  {
+   "q": "Which Coldplay song from 2002 is built around a cascading piano riff?",
+   "a": "Clocks",
+   "p": 200
+  },
+  {
+   "q": "Which Live Aid performer flew between London and Philadelphia on Concorde to play both shows?",
+   "a": "Phil Collins",
+   "p": 200
+  },
+  {
+   "q": "What foot-operated device do guitarists use to change their sound with effects?",
+   "a": "Effects pedal",
+   "p": 200,
+   "alt": [
+    "Pedal",
+    "Stompbox"
+   ]
+  },
+  {
+   "q": "Which small clamp is placed across a guitar's fretboard to raise the pitch of all strings?",
+   "a": "Capo",
+   "p": 200
+  },
+  {
+   "q": "Which guitarist's band released the 1967 album Are You Experienced?",
+   "a": "Jimi Hendrix",
+   "p": 200,
+   "alt": [
+    "Jimi Hendrix Experience"
+   ]
+  },
+  {
+   "q": "What is Ringo Starr's real name?",
+   "a": "Richard Starkey",
+   "p": 200
+  },
+  {
+   "q": "Who was the Beatles' manager during their rise to fame?",
+   "a": "Brian Epstein",
+   "p": 200
+  },
+  {
+   "q": "Which record producer is often called the \"Fifth Beatle\"?",
+   "a": "George Martin",
+   "p": 200
+  },
+  {
+   "q": "Which Beatles member learned the sitar from Ravi Shankar?",
+   "a": "George Harrison",
+   "p": 200
+  },
+  {
+   "q": "Which band did Paul McCartney form with his wife Linda after the Beatles?",
+   "a": "Wings",
+   "p": 200
+  },
+  {
+   "q": "Which 2023 song, completed using a John Lennon demo, was billed as the last Beatles song?",
+   "a": "Now and Then",
+   "p": 200
+  },
+  {
+   "q": "In which German city did the Beatles hone their act in the early 1960s?",
+   "a": "Hamburg",
+   "p": 200
+  },
+  {
+   "q": "Which Beatles song did Paul McCartney write to comfort John Lennon's son Julian?",
+   "a": "Hey Jude",
+   "p": 200
+  },
+  {
+   "q": "Which Led Zeppelin song about Vikings featured in Thor: Ragnarok?",
+   "a": "Immigrant Song",
+   "p": 200
+  },
+  {
+   "q": "Which rapper collaborated with Linkin Park on the 2004 EP Collision Course?",
+   "a": "Jay-Z",
+   "p": 200,
+   "alt": [
+    "Jay Z"
+   ]
+  },
+  {
+   "q": "Which actress was married to Chris Martin from 2003 to 2016?",
+   "a": "Gwyneth Paltrow",
+   "p": 200
+  },
+  {
+   "q": "Which guitarist, nicknamed \"Slowhand\", was in Cream?",
+   "a": "Eric Clapton",
+   "p": 200
+  },
+  {
+   "q": "Which hip hop group remade \"Walk This Way\" with Aerosmith in 1986?",
+   "a": "Run-DMC",
+   "p": 200
+  },
+  {
+   "q": "Which Kiss member, the Demon, is famous for his long tongue?",
+   "a": "Gene Simmons",
+   "p": 200
+  },
+  {
+   "q": "Who was the lead singer of The Doors?",
+   "a": "Jim Morrison",
+   "p": 200
+  },
+  {
+   "q": "Who is Radiohead's lead singer?",
+   "a": "Thom Yorke",
+   "p": 200
+  },
+  {
+   "q": "What is the name of David Bowie's astronaut character in \"Space Oddity\"?",
+   "a": "Major Tom",
+   "p": 200
+  },
+  {
+   "q": "In which US city were The Killers formed?",
+   "a": "Las Vegas",
+   "p": 200
+  },
+  {
+   "q": "Which Italian band won Eurovision in 2021 with \"Zitti e buoni\"?",
+   "a": "Måneskin",
+   "p": 200,
+   "alt": [
+    "Maneskin"
+   ]
+  },
+  {
+   "q": "Which Las Vegas band had the 2012 hit \"Radioactive\"?",
+   "a": "Imagine Dragons",
+   "p": 200
+  },
+  {
+   "q": "Which English festival is held at Worthy Farm in Somerset?",
+   "a": "Glastonbury Festival",
+   "p": 200,
+   "alt": [
+    "Glastonbury"
+   ]
+  },
+  {
+   "q": "Which rock and roll pioneer was famous for his \"duckwalk\" and \"Johnny B. Goode\"?",
+   "a": "Chuck Berry",
+   "p": 200
+  },
+  {
+   "q": "Which Linkin Park song was the theme for the first Transformers film in 2007?",
+   "a": "What I've Done",
+   "p": 400
+  },
+  {
+   "q": "What was the name of Brian May and Roger Taylor's band before Queen?",
+   "a": "Smile",
+   "p": 400
+  },
+  {
+   "q": "Who was Queen's drummer?",
+   "a": "Roger Taylor",
+   "p": 400
+  },
+  {
+   "q": "Which 1975 Queen album includes \"Bohemian Rhapsody\"?",
+   "a": "A Night at the Opera",
+   "p": 400
+  },
+  {
+   "q": "Which 1980 sci-fi film featured a soundtrack by Queen?",
+   "a": "Flash Gordon",
+   "p": 400
+  },
+  {
+   "q": "In which year did Freddie Mercury die?",
+   "a": "1991",
+   "p": 400
+  },
+  {
+   "q": "Which Queen song did John Deacon write about wanting freedom, famous for its video in drag?",
+   "a": "I Want to Break Free",
+   "p": 400
+  },
+  {
+   "q": "What subject did Brian May earn a PhD in?",
+   "a": "Astrophysics",
+   "p": 400,
+   "alt": [
+    "Astronomy"
+   ]
+  },
+  {
+   "q": "What did Brian May use instead of a normal plectrum?",
+   "a": "A sixpence coin",
+   "p": 400,
+   "alt": [
+    "Sixpence",
+    "Coin"
+   ]
+  },
+  {
+   "q": "Which Queen song was written for the 1986 film Highlander?",
+   "a": "Who Wants to Live Forever",
+   "p": 400
+  },
+  {
+   "q": "At which stadium was the 1992 Freddie Mercury Tribute Concert held?",
+   "a": "Wembley Stadium",
+   "p": 400,
+   "alt": [
+    "Wembley"
+   ]
+  },
+  {
+   "q": "Which Brazilian festival, first held in 1985, featured Queen among its headliners?",
+   "a": "Rock in Rio",
+   "p": 400
+  },
+  {
+   "q": "Which US city hosted the American half of Live Aid?",
+   "a": "Philadelphia",
+   "p": 400
+  },
+  {
+   "q": "Which band's surviving members reunited for 2005's Live 8 in their classic four-piece line-up?",
+   "a": "Pink Floyd",
+   "p": 400
+  },
+  {
+   "q": "Who was the Beatles' original drummer before Ringo Starr?",
+   "a": "Pete Best",
+   "p": 400
+  },
+  {
+   "q": "Which American TV variety show introduced the Beatles to US audiences in February 1964?",
+   "a": "The Ed Sullivan Show",
+   "p": 400,
+   "alt": [
+    "Ed Sullivan Show"
+   ]
+  },
+  {
+   "q": "What is the official title of the 1968 Beatles album known as the White Album?",
+   "a": "The Beatles",
+   "p": 400
+  },
+  {
+   "q": "What was the Beatles' first feature film, released in 1964?",
+   "a": "A Hard Day's Night",
+   "p": 400
+  },
+  {
+   "q": "Which record label did the Beatles found in 1968?",
+   "a": "Apple Records",
+   "p": 400,
+   "alt": [
+    "Apple"
+   ]
+  },
+  {
+   "q": "What was the last Beatles album to be released, in 1970?",
+   "a": "Let It Be",
+   "p": 400
+  },
+  {
+   "q": "On which London street did the Beatles play their famous 1969 rooftop concert?",
+   "a": "Savile Row",
+   "p": 400
+  },
+  {
+   "q": "Which Led Zeppelin drummer's death in 1980 led the band to split?",
+   "a": "John Bonham",
+   "p": 400
+  },
+  {
+   "q": "Who was Led Zeppelin's bassist and keyboard player?",
+   "a": "John Paul Jones",
+   "p": 400
+  },
+  {
+   "q": "At which London arena did Led Zeppelin reunite for a one-off show in 2007?",
+   "a": "The O2",
+   "p": 400,
+   "alt": [
+    "O2 Arena"
+   ]
+  },
+  {
+   "q": "Which object did Jimmy Page famously play his guitar with on \"Dazed and Confused\"?",
+   "a": "A violin bow",
+   "p": 400,
+   "alt": [
+    "Bow"
+   ]
+  },
+  {
+   "q": "How is Led Zeppelin's untitled fourth album commonly known?",
+   "a": "Led Zeppelin IV",
+   "p": 400,
+   "alt": [
+    "IV"
+   ]
+  },
+  {
+   "q": "What type of twin-necked guitar is Jimmy Page famous for playing live?",
+   "a": "Double-neck guitar",
+   "p": 400,
+   "alt": [
+    "Gibson EDS-1275",
+    "Double-neck"
+   ]
+  },
+  {
+   "q": "Which Led Zeppelin song opens with a famous riff and is on Led Zeppelin II?",
+   "a": "Whole Lotta Love",
+   "p": 400
+  },
+  {
+   "q": "Which founding Pink Floyd member left in 1968 and inspired Wish You Were Here?",
+   "a": "Syd Barrett",
+   "p": 400
+  },
+  {
+   "q": "Which Pink Floyd bassist was the main creative force behind The Wall?",
+   "a": "Roger Waters",
+   "p": 400
+  },
+  {
+   "q": "Which Pink Floyd guitarist joined in 1968?",
+   "a": "David Gilmour",
+   "p": 400
+  },
+  {
+   "q": "Which Live Aid organiser starred as Pink in the 1982 film Pink Floyd – The Wall?",
+   "a": "Bob Geldof",
+   "p": 400
+  },
+  {
+   "q": "Which 1975 Pink Floyd album pays tribute to Syd Barrett?",
+   "a": "Wish You Were Here",
+   "p": 400
+  },
+  {
+   "q": "Pink Floyd filmed a 1972 concert film in the ruins of which ancient Roman city?",
+   "a": "Pompeii",
+   "p": 400
+  },
+  {
+   "q": "Who was Nirvana's bassist?",
+   "a": "Krist Novoselic",
+   "p": 400
+  },
+  {
+   "q": "What was Nirvana's 1989 debut album?",
+   "a": "Bleach",
+   "p": 400
+  },
+  {
+   "q": "What was Nirvana's third and final studio album, released in 1993?",
+   "a": "In Utero",
+   "p": 400
+  },
+  {
+   "q": "Which 1994 Nirvana live album was recorded for an MTV acoustic series?",
+   "a": "MTV Unplugged in New York",
+   "p": 400
+  },
+  {
+   "q": "Who is the lead singer of Pearl Jam?",
+   "a": "Eddie Vedder",
+   "p": 400
+  },
+  {
+   "q": "Which Soundgarden singer later fronted Audioslave?",
+   "a": "Chris Cornell",
+   "p": 400
+  },
+  {
+   "q": "Which Soundgarden hit from 1994 is named after a dark astronomical object and the Sun?",
+   "a": "Black Hole Sun",
+   "p": 400
+  },
+  {
+   "q": "What was Linkin Park's 2003 second album?",
+   "a": "Meteora",
+   "p": 400
+  },
+  {
+   "q": "Which Linkin Park song was mashed up with Jay-Z's \"Encore\"?",
+   "a": "Numb",
+   "p": 400
+  },
+  {
+   "q": "What was Mike Shinoda's hip hop side project, which released \"Remember the Name\"?",
+   "a": "Fort Minor",
+   "p": 400
+  },
+  {
+   "q": "Which 2007 Linkin Park album includes \"What I've Done\"?",
+   "a": "Minutes to Midnight",
+   "p": 400
+  },
+  {
+   "q": "At which London university did Coldplay's members meet?",
+   "a": "University College London",
+   "p": 400,
+   "alt": [
+    "UCL"
+   ]
+  },
+  {
+   "q": "What was Coldplay's 2000 debut album?",
+   "a": "Parachutes",
+   "p": 400
+  },
+  {
+   "q": "Which 2002 Coldplay album includes \"Clocks\" and \"The Scientist\"?",
+   "a": "A Rush of Blood to the Head",
+   "p": 400
+  },
+  {
+   "q": "Which 2005 Coldplay album includes \"Fix You\" and \"Speed of Sound\"?",
+   "a": "X&Y",
+   "p": 400
+  },
+  {
+   "q": "Which Super Bowl halftime show did Coldplay headline in 2016?",
+   "a": "Super Bowl 50",
+   "p": 400
+  },
+  {
+   "q": "In which UAE city did Coldplay play several stadium shows on their Music of the Spheres tour?",
+   "a": "Abu Dhabi",
+   "p": 400
+  },
+  {
+   "q": "Which Danish-born drummer co-founded Metallica?",
+   "a": "Lars Ulrich",
+   "p": 400
+  },
+  {
+   "q": "Who is Metallica's lead singer and rhythm guitarist?",
+   "a": "James Hetfield",
+   "p": 400
+  },
+  {
+   "q": "By what nickname is Metallica's self-titled 1991 album known?",
+   "a": "The Black Album",
+   "p": 400
+  },
+  {
+   "q": "Which band did Dave Mustaine form after being fired from Metallica?",
+   "a": "Megadeth",
+   "p": 400
+  },
+  {
+   "q": "Which Metallica guitarist is known for his wah-wah pedal solos?",
+   "a": "Kirk Hammett",
+   "p": 400
+  },
+  {
+   "q": "Which AC/DC singer died in 1980?",
+   "a": "Bon Scott",
+   "p": 400
+  },
+  {
+   "q": "Who replaced Bon Scott as AC/DC's singer?",
+   "a": "Brian Johnson",
+   "p": 400
+  },
+  {
+   "q": "Which AC/DC member played rhythm guitar alongside his brother Angus?",
+   "a": "Malcolm Young",
+   "p": 400
+  },
+  {
+   "q": "What symbol separates \"AC\" and \"DC\" in the band's logo?",
+   "a": "A lightning bolt",
+   "p": 400,
+   "alt": [
+    "Lightning bolt"
+   ]
+  },
+  {
+   "q": "Which Guns N' Roses singer filled in as AC/DC's singer on their 2016 tour?",
+   "a": "Axl Rose",
+   "p": 400
+  },
+  {
+   "q": "What was Guns N' Roses' 1987 debut album?",
+   "a": "Appetite for Destruction",
+   "p": 400
+  },
+  {
+   "q": "Which pair of 1991 Guns N' Roses albums were released on the same day?",
+   "a": "Use Your Illusion I and II",
+   "p": 400,
+   "alt": [
+    "Use Your Illusion"
+   ]
+  },
+  {
+   "q": "Which Guns N' Roses album was finally released in 2008 after about 15 years of work?",
+   "a": "Chinese Democracy",
+   "p": 400
+  },
+  {
+   "q": "Which 1969 rock opera by The Who is about a pinball-playing boy?",
+   "a": "Tommy",
+   "p": 400
+  },
+  {
+   "q": "Which Eric Clapton song from 1970 was inspired by a Persian love story?",
+   "a": "Layla",
+   "p": 400
+  },
+  {
+   "q": "What is the stage name of U2 guitarist David Evans?",
+   "a": "The Edge",
+   "p": 400
+  },
+  {
+   "q": "Which 1987 U2 album includes \"With or Without You\"?",
+   "a": "The Joshua Tree",
+   "p": 400
+  },
+  {
+   "q": "Which Def Leppard drummer continued playing after losing an arm in 1984?",
+   "a": "Rick Allen",
+   "p": 400
+  },
+  {
+   "q": "What is the name of Iron Maiden's skeletal mascot?",
+   "a": "Eddie",
+   "p": 400
+  },
+  {
+   "q": "In which Swiss lakeside town did a fire during a Frank Zappa concert inspire \"Smoke on the Water\"?",
+   "a": "Montreux",
+   "p": 400
+  },
+  {
+   "q": "Who was the singer and guitarist of Dire Straits?",
+   "a": "Mark Knopfler",
+   "p": 400
+  },
+  {
+   "q": "What was Oasis's 1994 debut album?",
+   "a": "Definitely Maybe",
+   "p": 400
+  },
+  {
+   "q": "Which 1995 Oasis album includes \"Wonderwall\" and \"Don't Look Back in Anger\"?",
+   "a": "(What's the Story) Morning Glory?",
+   "p": 400,
+   "alt": [
+    "What's the Story Morning Glory"
+   ]
+  },
+  {
+   "q": "Which 1992 Radiohead debut single became a global hit?",
+   "a": "Creep",
+   "p": 400
+  },
+  {
+   "q": "What was David Bowie's real name?",
+   "a": "David Jones",
+   "p": 400,
+   "alt": [
+    "David Robert Jones"
+   ]
+  },
+  {
+   "q": "What was David Bowie's final album, released two days before his death in 2016?",
+   "a": "Blackstar",
+   "p": 400,
+   "alt": [
+    "★"
+   ]
+  },
+  {
+   "q": "Which Canadian astronaut recorded a cover of \"Space Oddity\" aboard the International Space Station?",
+   "a": "Chris Hadfield",
+   "p": 400
+  },
+  {
+   "q": "Which Genesis singer left in 1975 to go solo?",
+   "a": "Peter Gabriel",
+   "p": 400
+  },
+  {
+   "q": "Who fronted the Sex Pistols?",
+   "a": "Johnny Rotten",
+   "p": 400,
+   "alt": [
+    "John Lydon"
+   ]
+  },
+  {
+   "q": "Which 1979 album by The Clash has a cover showing a bass guitar being smashed?",
+   "a": "London Calling",
+   "p": 400
+  },
+  {
+   "q": "Which Green Day album from 1994 broke punk into the mainstream?",
+   "a": "Dookie",
+   "p": 400
+  },
+  {
+   "q": "Which Red Hot Chili Peppers album from 1999 is named after a made-up word about California?",
+   "a": "Californication",
+   "p": 400
+  },
+  {
+   "q": "Who is the lead singer of the Red Hot Chili Peppers?",
+   "a": "Anthony Kiedis",
+   "p": 400
+  },
+  {
+   "q": "Who is Evanescence's lead singer?",
+   "a": "Amy Lee",
+   "p": 400
+  },
+  {
+   "q": "Which band's 2008 album Only by the Night includes \"Use Somebody\"?",
+   "a": "Kings of Leon",
+   "p": 400
+  },
+  {
+   "q": "Which English city are the Arctic Monkeys from?",
+   "a": "Sheffield",
+   "p": 400
+  },
+  {
+   "q": "Who is the frontman of Muse?",
+   "a": "Matt Bellamy",
+   "p": 400
+  },
+  {
+   "q": "Which virtual band was created by Damon Albarn and Jamie Hewlett?",
+   "a": "Gorillaz",
+   "p": 400
+  },
+  {
+   "q": "Which Eddie Van Halen instrumental from 1978 showcased his two-handed tapping?",
+   "a": "Eruption",
+   "p": 400
+  },
+  {
+   "q": "Which guitarist played the solo on Michael Jackson's \"Beat It\"?",
+   "a": "Eddie Van Halen",
+   "p": 400
+  },
+  {
+   "q": "Which German band released the 1990 power ballad \"Wind of Change\"?",
+   "a": "Scorpions",
+   "p": 400
+  },
+  {
+   "q": "Which German industrial metal band released \"Du Hast\" in 1997?",
+   "a": "Rammstein",
+   "p": 400
+  },
+  {
+   "q": "In which US city is the Rock and Roll Hall of Fame?",
+   "a": "Cleveland",
+   "p": 400
+  },
+  {
+   "q": "Which foot-operated guitar effect is named after the sound it makes?",
+   "a": "Wah-wah pedal",
+   "p": 400,
+   "alt": [
+    "Wah-wah",
+    "Wah"
+   ]
+  },
+  {
+   "q": "Which Beach Boys leader masterminded the 1966 album Pet Sounds?",
+   "a": "Brian Wilson",
+   "p": 400
+  },
+  {
+   "q": "Which Black Sabbath guitarist is famous for heavy riffs despite losing fingertips in an accident?",
+   "a": "Tony Iommi",
+   "p": 400
+  },
+  {
+   "q": "In which English city did Black Sabbath form?",
+   "a": "Birmingham",
+   "p": 400
+  },
+  {
+   "q": "Which Who drummer was famous for his wild playing and destroying drum kits?",
+   "a": "Keith Moon",
+   "p": 400
+  },
+  {
+   "q": "Which Beatles song was the band's first UK single, in 1962?",
+   "a": "Love Me Do",
+   "p": 400
+  },
+  {
+   "q": "Which Queen album includes \"We Will Rock You\" and \"We Are the Champions\"?",
+   "a": "News of the World",
+   "p": 400
+  },
+  {
+   "q": "Which Seattle record label released Nirvana's first album?",
+   "a": "Sub Pop",
+   "p": 600
+  },
+  {
+   "q": "What was Pearl Jam's 1991 debut album?",
+   "a": "Ten",
+   "p": 600
+  },
+  {
+   "q": "Which Linkin Park member is the band's DJ and turntablist?",
+   "a": "Joe Hahn",
+   "p": 600,
+   "alt": [
+    "Mr. Hahn"
+   ]
+  },
+  {
+   "q": "Who was Guns N' Roses' bassist in their classic line-up?",
+   "a": "Duff McKagan",
+   "p": 600
+  },
+  {
+   "q": "Which supergroup did Slash, Duff McKagan and Matt Sorum form with Scott Weiland?",
+   "a": "Velvet Revolver",
+   "p": 600
+  },
+  {
+   "q": "Which 1965 festival saw Bob Dylan controversially \"go electric\"?",
+   "a": "Newport Folk Festival",
+   "p": 600,
+   "alt": [
+    "Newport"
+   ]
+  },
+  {
+   "q": "What was the name of the Indian school town where Freddie Mercury boarded as a boy?",
+   "a": "Panchgani",
+   "p": 600
+  },
+  {
+   "q": "At which London art college did Freddie Mercury study graphic design?",
+   "a": "Ealing Art College",
+   "p": 600,
+   "alt": [
+    "Ealing"
+   ]
+  },
+  {
+   "q": "Which Queen member designed the band's crest logo?",
+   "a": "Freddie Mercury",
+   "p": 600
+  },
+  {
+   "q": "At which English venue did Queen play their final concert with Freddie Mercury, in 1986?",
+   "a": "Knebworth Park",
+   "p": 600,
+   "alt": [
+    "Knebworth"
+   ]
+  },
+  {
+   "q": "Which Free and Bad Company singer toured with Queen from 2004 to 2009?",
+   "a": "Paul Rodgers",
+   "p": 600
+  },
+  {
+   "q": "On what date was Live Aid held in 1985?",
+   "a": "13 July 1985",
+   "p": 600,
+   "alt": [
+    "July 13, 1985",
+    "13 July"
+   ]
+  },
+  {
+   "q": "Which Queen song was the band's final video featuring Freddie Mercury?",
+   "a": "These Are the Days of Our Lives",
+   "p": 600
+  },
+  {
+   "q": "Who was the Beatles' original bassist, who died in 1962?",
+   "a": "Stuart Sutcliffe",
+   "p": 600
+  },
+  {
+   "q": "In which Indian town did the Beatles study meditation in 1968?",
+   "a": "Rishikesh",
+   "p": 600
+  },
+  {
+   "q": "What brand of violin-shaped bass did Paul McCartney famously play?",
+   "a": "Höfner",
+   "p": 600,
+   "alt": [
+    "Hofner"
+   ]
+  },
+  {
+   "q": "Which George Harrison-organised 1971 concert raised money for refugees?",
+   "a": "The Concert for Bangladesh",
+   "p": 600,
+   "alt": [
+    "Concert for Bangladesh"
+   ]
+  },
+  {
+   "q": "Which British honour did the Beatles receive in 1965?",
+   "a": "MBE",
+   "p": 600
+  },
+  {
+   "q": "What was Led Zeppelin's original name when they first toured in 1968?",
+   "a": "The New Yardbirds",
+   "p": 600,
+   "alt": [
+    "New Yardbirds"
+   ]
+  },
+  {
+   "q": "Which Who drummer is often credited with inspiring the name Led Zeppelin?",
+   "a": "Keith Moon",
+   "p": 600,
+   "alt": [
+    "John Entwistle"
+   ]
+  },
+  {
+   "q": "What was the name of Led Zeppelin's own record label, founded in 1974?",
+   "a": "Swan Song Records",
+   "p": 600,
+   "alt": [
+    "Swan Song"
+   ]
+  },
+  {
+   "q": "Who managed Led Zeppelin?",
+   "a": "Peter Grant",
+   "p": 600
+  },
+  {
+   "q": "Which 1975 Led Zeppelin double album has a cover of a New York apartment building?",
+   "a": "Physical Graffiti",
+   "p": 600
+  },
+  {
+   "q": "Who played drums at Led Zeppelin's 2007 reunion in place of his late father?",
+   "a": "Jason Bonham",
+   "p": 600
+  },
+  {
+   "q": "Which bluegrass singer won Album of the Year Grammy with Robert Plant for Raising Sand?",
+   "a": "Alison Krauss",
+   "p": 600
+  },
+  {
+   "q": "Which two blues musicians' first names gave Pink Floyd their name?",
+   "a": "Pink Anderson and Floyd Council",
+   "p": 600
+  },
+  {
+   "q": "What was Pink Floyd's 1967 debut album?",
+   "a": "The Piper at the Gates of Dawn",
+   "p": 600
+  },
+  {
+   "q": "Which Pink Floyd keyboardist died in 2008?",
+   "a": "Richard Wright",
+   "p": 600,
+   "alt": [
+    "Rick Wright"
+   ]
+  },
+  {
+   "q": "Who is Pink Floyd's drummer, the only member on every album?",
+   "a": "Nick Mason",
+   "p": 600
+  },
+  {
+   "q": "Which design studio, co-founded by Storm Thorgerson, created Pink Floyd's album covers?",
+   "a": "Hipgnosis",
+   "p": 600
+  },
+  {
+   "q": "Which London school's pupils sang on \"Another Brick in the Wall, Part 2\"?",
+   "a": "Islington Green School",
+   "p": 600
+  },
+  {
+   "q": "What was Pink Floyd's 1994 album, their last with new songs before a long break?",
+   "a": "The Division Bell",
+   "p": 600
+  },
+  {
+   "q": "In which small Washington town did Kurt Cobain grow up?",
+   "a": "Aberdeen",
+   "p": 600
+  },
+  {
+   "q": "Who produced Nirvana's Nevermind?",
+   "a": "Butch Vig",
+   "p": 600
+  },
+  {
+   "q": "Who recorded Nirvana's In Utero?",
+   "a": "Steve Albini",
+   "p": 600
+  },
+  {
+   "q": "The title \"Smells Like Teen Spirit\" came from what kind of product?",
+   "a": "Deodorant",
+   "p": 600
+  },
+  {
+   "q": "Which grunge band, led by Layne Staley, released Dirt in 1992?",
+   "a": "Alice in Chains",
+   "p": 600
+  },
+  {
+   "q": "Which Rage Against the Machine member fronted the band as singer?",
+   "a": "Zack de la Rocha",
+   "p": 600
+  },
+  {
+   "q": "What was Linkin Park's original band name?",
+   "a": "Xero",
+   "p": 600
+  },
+  {
+   "q": "What was the title of Linkin Park's 2002 remix album?",
+   "a": "Reanimation",
+   "p": 600
+  },
+  {
+   "q": "Which singer became Linkin Park's co-vocalist in 2024?",
+   "a": "Emily Armstrong",
+   "p": 600
+  },
+  {
+   "q": "In which California city did Linkin Park form?",
+   "a": "Agoura Hills",
+   "p": 600
+  },
+  {
+   "q": "Which Mexican artist's painting gave Coldplay's Viva la Vida its title?",
+   "a": "Frida Kahlo",
+   "p": 600
+  },
+  {
+   "q": "Which French painting is on the cover of Viva la Vida or Death and All His Friends?",
+   "a": "Liberty Leading the People",
+   "p": 600
+  },
+  {
+   "q": "Which 2011 Coldplay album includes \"Paradise\"?",
+   "a": "Mylo Xyloto",
+   "p": 600
+  },
+  {
+   "q": "Which Coldplay member is the band's drummer?",
+   "a": "Will Champion",
+   "p": 600
+  },
+  {
+   "q": "Who is Coldplay's lead guitarist?",
+   "a": "Jonny Buckland",
+   "p": 600
+  },
+  {
+   "q": "Who is Coldplay's bassist?",
+   "a": "Guy Berryman",
+   "p": 600
+  },
+  {
+   "q": "Which Metallica bassist died in a 1986 tour bus crash?",
+   "a": "Cliff Burton",
+   "p": 600
+  },
+  {
+   "q": "Which bassist replaced Cliff Burton in Metallica?",
+   "a": "Jason Newsted",
+   "p": 600
+  },
+  {
+   "q": "Which bassist joined Metallica in 2003?",
+   "a": "Robert Trujillo",
+   "p": 600
+  },
+  {
+   "q": "On which continent did Metallica play a 2013 show to complete all seven?",
+   "a": "Antarctica",
+   "p": 600
+  },
+  {
+   "q": "What was Metallica's 1999 live album with the San Francisco Symphony?",
+   "a": "S&M",
+   "p": 600
+  },
+  {
+   "q": "Which 2004 documentary followed Metallica through group therapy sessions?",
+   "a": "Some Kind of Monster",
+   "p": 600
+  },
+  {
+   "q": "What was Metallica's 1984 second album?",
+   "a": "Ride the Lightning",
+   "p": 600
+  },
+  {
+   "q": "Which band completes the thrash metal \"Big Four\" with Metallica, Megadeth and Slayer?",
+   "a": "Anthrax",
+   "p": 600
+  },
+  {
+   "q": "AC/DC took their name from a label on what household item?",
+   "a": "A sewing machine",
+   "p": 600,
+   "alt": [
+    "Sewing machine"
+   ]
+  },
+  {
+   "q": "In which country were Angus and Malcolm Young born?",
+   "a": "Scotland",
+   "p": 600
+  },
+  {
+   "q": "Which 2010 superhero film's soundtrack was made up entirely of AC/DC songs?",
+   "a": "Iron Man 2",
+   "p": 600
+  },
+  {
+   "q": "What is Slash's real name?",
+   "a": "Saul Hudson",
+   "p": 600
+  },
+  {
+   "q": "Which original Guns N' Roses rhythm guitarist left in 1991?",
+   "a": "Izzy Stradlin",
+   "p": 600
+  },
+  {
+   "q": "What was Guns N' Roses' 2016 reunion tour called?",
+   "a": "Not in This Lifetime... Tour",
+   "p": 600,
+   "alt": [
+    "Not in This Lifetime"
+   ]
+  },
+  {
+   "q": "Which Guns N' Roses drummer was fired in 1990 and replaced by Matt Sorum?",
+   "a": "Steven Adler",
+   "p": 600
+  },
+  {
+   "q": "Which Iron Maiden singer is also a qualified airline pilot?",
+   "a": "Bruce Dickinson",
+   "p": 600
+  },
+  {
+   "q": "Who founded and fronted Motörhead?",
+   "a": "Lemmy",
+   "p": 600,
+   "alt": [
+    "Lemmy Kilmister"
+   ]
+  },
+  {
+   "q": "Which Judas Priest singer is nicknamed the \"Metal God\"?",
+   "a": "Rob Halford",
+   "p": 600
+  },
+  {
+   "q": "Which Kinks singer wrote \"You Really Got Me\"?",
+   "a": "Ray Davies",
+   "p": 600
+  },
+  {
+   "q": "In which city did Black Sabbath play their 2025 farewell concert, Back to the Beginning?",
+   "a": "Birmingham",
+   "p": 600
+  },
+  {
+   "q": "Which Dire Straits song was the first video shown on MTV Europe in 1987?",
+   "a": "Money for Nothing",
+   "p": 600
+  },
+  {
+   "q": "Which Chris Cornell song was the theme for the 2006 Bond film Casino Royale?",
+   "a": "You Know My Name",
+   "p": 600
+  },
+  {
+   "q": "At which English stately home did Oasis play two huge concerts in 1996?",
+   "a": "Knebworth",
+   "p": 600,
+   "alt": [
+    "Knebworth Park"
+   ]
+  },
+  {
+   "q": "Which 2006 Arctic Monkeys debut album has a very long title starting \"Whatever People Say I Am\"?",
+   "a": "Whatever People Say I Am, That's What I'm Not",
+   "p": 600
+  },
+  {
+   "q": "Which Armenian-American metal band released Toxicity in 2001?",
+   "a": "System of a Down",
+   "p": 600
+  },
+  {
+   "q": "Which Foo Fighters drummer died in 2022?",
+   "a": "Taylor Hawkins",
+   "p": 600
+  },
+  {
+   "q": "Which band had the 2006 hit \"Supermassive Black Hole\", used in Twilight?",
+   "a": "Muse",
+   "p": 600
+  },
+  {
+   "q": "Which Who bassist was nicknamed \"The Ox\"?",
+   "a": "John Entwistle",
+   "p": 600
+  },
+  {
+   "q": "Which 1970s glam band fronted by Marc Bolan had the hit \"Get It On\"?",
+   "a": "T. Rex",
+   "p": 600,
+   "alt": [
+    "T.Rex"
+   ]
+  },
+  {
+   "q": "Which David Bowie album cover shows him with a red and blue lightning bolt across his face?",
+   "a": "Aladdin Sane",
+   "p": 600
+  },
+  {
+   "q": "Which Doors keyboardist played the band's bass lines on a keyboard bass?",
+   "a": "Ray Manzarek",
+   "p": 600
+  },
+  {
+   "q": "Which Hammond-organ-style rotating speaker is a staple of classic rock keyboards?",
+   "a": "Leslie speaker",
+   "p": 600,
+   "alt": [
+    "Leslie"
+   ]
+  },
+  {
+   "q": "Which guitar company makes the Telecaster and the Precision Bass?",
+   "a": "Fender",
+   "p": 600
+  },
+  {
+   "q": "Which electric guitar maker produces the SG and the Flying V?",
+   "a": "Gibson",
+   "p": 600
+  },
+  {
+   "q": "Which Beatles song was the first track on Abbey Road?",
+   "a": "Come Together",
+   "p": 600
+  },
+  {
+   "q": "Which Live Aid act performed in Philadelphia with Phil Collins on drums?",
+   "a": "Led Zeppelin",
+   "p": 600
+  }
+ ]
+}

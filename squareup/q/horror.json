@@ -1,0 +1,1671 @@
+{
+ "id": "horror",
+ "name": "Horror Movies",
+ "questions": [
+  {
+   "q": "Which 1978 John Carpenter film introduced the masked killer Michael Myers?",
+   "a": "Halloween",
+   "p": 200
+  },
+  {
+   "q": "Which razor-gloved villain attacks teenagers in their dreams in A Nightmare on Elm Street?",
+   "a": "Freddy Krueger",
+   "p": 200
+  },
+  {
+   "q": "Which hockey-masked killer is the face of the Friday the 13th franchise?",
+   "a": "Jason Voorhees",
+   "p": 200,
+   "alt": [
+    "Jason"
+   ]
+  },
+  {
+   "q": "What is the name of the summer camp in Friday the 13th?",
+   "a": "Camp Crystal Lake",
+   "p": 200,
+   "alt": [
+    "Crystal Lake"
+   ]
+  },
+  {
+   "q": "Which bladed weapon is Jason Voorhees most associated with?",
+   "a": "Machete",
+   "p": 200
+  },
+  {
+   "q": "Which slasher franchise features Sidney Prescott as its heroine?",
+   "a": "Scream",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the masked killer in the Scream films?",
+   "a": "Ghostface",
+   "p": 200
+  },
+  {
+   "q": "Which possessed doll is the villain of the Child's Play films?",
+   "a": "Chucky",
+   "p": 200
+  },
+  {
+   "q": "What name does the shape-shifting evil clown use in Stephen King's It?",
+   "a": "Pennywise",
+   "p": 200
+  },
+  {
+   "q": "What colour is Pennywise's balloon?",
+   "a": "Red",
+   "p": 200
+  },
+  {
+   "q": "Which author wrote the novels Carrie, The Shining and It?",
+   "a": "Stephen King",
+   "p": 200
+  },
+  {
+   "q": "Which 1973 film follows the demonic possession of a girl named Regan?",
+   "a": "The Exorcist",
+   "p": 200
+  },
+  {
+   "q": "Which 1960 Alfred Hitchcock film is set largely at the Bates Motel?",
+   "a": "Psycho",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the motel owner in Psycho?",
+   "a": "Norman Bates",
+   "p": 200
+  },
+  {
+   "q": "Which 1963 Hitchcock film sees a California town attacked by flocks of birds?",
+   "a": "The Birds",
+   "p": 200
+  },
+  {
+   "q": "Which British director is nicknamed the Master of Suspense?",
+   "a": "Alfred Hitchcock",
+   "p": 200,
+   "alt": [
+    "Hitchcock"
+   ]
+  },
+  {
+   "q": "Which 2017 Jordan Peele film follows Chris on a visit to his girlfriend's family?",
+   "a": "Get Out",
+   "p": 200
+  },
+  {
+   "q": "Which 2018 film has a family living in silence to avoid creatures that hunt by sound?",
+   "a": "A Quiet Place",
+   "p": 200
+  },
+  {
+   "q": "Which horror franchise follows real-life paranormal investigators Ed and Lorraine Warren?",
+   "a": "The Conjuring",
+   "p": 200
+  },
+  {
+   "q": "Which creepy doll from The Conjuring got her own spin-off film in 2014?",
+   "a": "Annabelle",
+   "p": 200
+  },
+  {
+   "q": "What is the title of the 2018 Conjuring spin-off about a demonic nun?",
+   "a": "The Nun",
+   "p": 200
+  },
+  {
+   "q": "Which 1980 Stanley Kubrick horror film is set in the Overlook Hotel?",
+   "a": "The Shining",
+   "p": 200
+  },
+  {
+   "q": "Which actor plays the writer Jack Torrance in The Shining?",
+   "a": "Jack Nicholson",
+   "p": 200
+  },
+  {
+   "q": "Which horror franchise features a puppet called Billy and a killer known as Jigsaw?",
+   "a": "Saw",
+   "p": 200
+  },
+  {
+   "q": "Which 1999 found-footage film follows three student filmmakers lost in the woods while hunting a local legend?",
+   "a": "The Blair Witch Project",
+   "p": 200
+  },
+  {
+   "q": "Which found-footage franchise began in 2007 with a couple filming strange events in their home at night?",
+   "a": "Paranormal Activity",
+   "p": 200
+  },
+  {
+   "q": "Which horror franchise follows survivors who escape a disaster after a premonition, only for death to hunt them down?",
+   "a": "Final Destination",
+   "p": 200
+  },
+  {
+   "q": "Which vampire count did Bram Stoker create in 1897?",
+   "a": "Dracula",
+   "p": 200,
+   "alt": [
+    "Count Dracula"
+   ]
+  },
+  {
+   "q": "In which region of Romania is Count Dracula's castle?",
+   "a": "Transylvania",
+   "p": 200
+  },
+  {
+   "q": "Which professor hunts Dracula in Bram Stoker's novel?",
+   "a": "Abraham Van Helsing",
+   "p": 200,
+   "alt": [
+    "Van Helsing"
+   ]
+  },
+  {
+   "q": "Which English author wrote the 1818 novel Frankenstein?",
+   "a": "Mary Shelley",
+   "p": 200
+  },
+  {
+   "q": "Which 1979 Ridley Scott sci-fi horror film is set aboard the spaceship Nostromo?",
+   "a": "Alien",
+   "p": 200
+  },
+  {
+   "q": "Which actress plays Ellen Ripley in the Alien films?",
+   "a": "Sigourney Weaver",
+   "p": 200
+  },
+  {
+   "q": "What is the common name for the creature species in the Alien films?",
+   "a": "Xenomorph",
+   "p": 200
+  },
+  {
+   "q": "What is the title of James Cameron's 1986 sequel to Alien?",
+   "a": "Aliens",
+   "p": 200
+  },
+  {
+   "q": "Which 2019 Jordan Peele film features a family stalked by their own doppelgangers?",
+   "a": "Us",
+   "p": 200
+  },
+  {
+   "q": "Which 1982 haunted-house film sees little Carol Anne communicate with spirits through a television?",
+   "a": "Poltergeist",
+   "p": 200
+  },
+  {
+   "q": "Which Stephen King story, filmed in 1976, follows a bullied teenager with telekinetic powers?",
+   "a": "Carrie",
+   "p": 200
+  },
+  {
+   "q": "Which 1990 film based on a Stephen King novel sees a novelist held captive by his number one fan?",
+   "a": "Misery",
+   "p": 200
+  },
+  {
+   "q": "Which actress played Laurie Strode in Halloween (1978)?",
+   "a": "Jamie Lee Curtis",
+   "p": 200
+  },
+  {
+   "q": "Which power tool does Leatherface wield?",
+   "a": "Chainsaw",
+   "p": 200
+  },
+  {
+   "q": "Which 1974 Tobe Hooper film introduced Leatherface?",
+   "a": "The Texas Chain Saw Massacre",
+   "p": 200,
+   "alt": [
+    "The Texas Chainsaw Massacre"
+   ]
+  },
+  {
+   "q": "What does Freddy Krueger wear on his right hand?",
+   "a": "A bladed glove",
+   "p": 200,
+   "alt": [
+    "Glove with knives",
+    "Razor glove",
+    "Claw glove"
+   ]
+  },
+  {
+   "q": "What two colours are the stripes on Freddy Krueger's sweater?",
+   "a": "Red and green",
+   "p": 200,
+   "alt": [
+    "Green and red"
+   ]
+  },
+  {
+   "q": "Which 2003 crossover film pits two slasher icons from Elm Street and Crystal Lake against each other?",
+   "a": "Freddy vs. Jason",
+   "p": 200,
+   "alt": [
+    "Freddy vs Jason"
+   ]
+  },
+  {
+   "q": "Which 2004 Edgar Wright comedy stars Simon Pegg fighting zombies in London?",
+   "a": "Shaun of the Dead",
+   "p": 200
+  },
+  {
+   "q": "Which 2009 comedy stars Woody Harrelson and Jesse Eisenberg surviving a zombie apocalypse?",
+   "a": "Zombieland",
+   "p": 200
+  },
+  {
+   "q": "Which 2013 Brad Pitt zombie film is based on a novel by Max Brooks?",
+   "a": "World War Z",
+   "p": 200
+  },
+  {
+   "q": "Which 1984 film features small creatures that must never be fed after midnight?",
+   "a": "Gremlins",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the cute furry mogwai in Gremlins?",
+   "a": "Gizmo",
+   "p": 200
+  },
+  {
+   "q": "Which 1999 M. Night Shyamalan film stars Haley Joel Osment as a boy who can see ghosts?",
+   "a": "The Sixth Sense",
+   "p": 200
+  },
+  {
+   "q": "Which actor plays the child psychologist in The Sixth Sense?",
+   "a": "Bruce Willis",
+   "p": 200
+  },
+  {
+   "q": "Which 2002 horror remake features a cursed videotape?",
+   "a": "The Ring",
+   "p": 200
+  },
+  {
+   "q": "In The Ring, how many days does a viewer have to live after watching the cursed tape?",
+   "a": "Seven",
+   "p": 200,
+   "alt": [
+    "7"
+   ]
+  },
+  {
+   "q": "Which 1976 film follows the young Antichrist Damien Thorn?",
+   "a": "The Omen",
+   "p": 200
+  },
+  {
+   "q": "Which 2022 horror film features a lifelike AI doll that becomes dangerously protective of a girl?",
+   "a": "M3GAN",
+   "p": 200,
+   "alt": [
+    "Megan"
+   ]
+  },
+  {
+   "q": "Which 2023 film, based on a video game, is set in an abandoned pizzeria full of animatronics?",
+   "a": "Five Nights at Freddy's",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the animatronic bear who leads the band in Five Nights at Freddy's?",
+   "a": "Freddy Fazbear",
+   "p": 200
+  },
+  {
+   "q": "Which 2022 horror film features a curse that makes victims see people with unnerving grins?",
+   "a": "Smile",
+   "p": 200
+  },
+  {
+   "q": "Which franchise imagines a yearly night in America when all crime is legal for 12 hours?",
+   "a": "The Purge",
+   "p": 200
+  },
+  {
+   "q": "Which 1999 adventure-horror film stars Brendan Fraser battling the resurrected priest Imhotep?",
+   "a": "The Mummy",
+   "p": 200
+  },
+  {
+   "q": "Which 1988 Tim Burton film features a ghost who calls himself a bio-exorcist?",
+   "a": "Beetlejuice",
+   "p": 200
+  },
+  {
+   "q": "How many times must you say Beetlejuice's name to summon him?",
+   "a": "Three",
+   "p": 200,
+   "alt": [
+    "3"
+   ]
+  },
+  {
+   "q": "Which 1999 Tim Burton film features the Headless Horseman?",
+   "a": "Sleepy Hollow",
+   "p": 200
+  },
+  {
+   "q": "Which Stephen King story features a burial ground that brings dead pets back to life?",
+   "a": "Pet Sematary",
+   "p": 200,
+   "alt": [
+    "Pet Cemetery"
+   ]
+  },
+  {
+   "q": "Which 1981 Sam Raimi film sends five friends to a cabin where they awaken demons?",
+   "a": "The Evil Dead",
+   "p": 200,
+   "alt": [
+    "Evil Dead"
+   ]
+  },
+  {
+   "q": "Which James Wan film franchise began in 2010 with a boy who falls into a mysterious coma?",
+   "a": "Insidious",
+   "p": 200
+  },
+  {
+   "q": "Who directed Saw, Insidious and The Conjuring?",
+   "a": "James Wan",
+   "p": 400
+  },
+  {
+   "q": "Who created both the Scream and A Nightmare on Elm Street franchises?",
+   "a": "Wes Craven",
+   "p": 200
+  },
+  {
+   "q": "Who directed and composed the music for Halloween (1978)?",
+   "a": "John Carpenter",
+   "p": 200
+  },
+  {
+   "q": "Which 2024 sequel brought Michael Keaton back as a mischievous ghost 36 years later?",
+   "a": "Beetlejuice Beetlejuice",
+   "p": 200
+  },
+  {
+   "q": "Who directed A Quiet Place and played the father in it?",
+   "a": "John Krasinski",
+   "p": 200
+  },
+  {
+   "q": "In Stephen King's It, what do the group of bullied kids call themselves?",
+   "a": "The Losers' Club",
+   "p": 200,
+   "alt": [
+    "Losers Club",
+    "The Losers"
+   ]
+  },
+  {
+   "q": "Which classic monster has bolts in its neck in the famous 1931 film version?",
+   "a": "Frankenstein's monster",
+   "p": 200,
+   "alt": [
+    "Frankenstein",
+    "The Monster"
+   ]
+  },
+  {
+   "q": "Which 1922 German silent film features the vampire Count Orlok?",
+   "a": "Nosferatu",
+   "p": 200
+  },
+  {
+   "q": "Which 1993 Tim Burton-produced stop-motion film follows Jack Skellington, the Pumpkin King?",
+   "a": "The Nightmare Before Christmas",
+   "p": 200
+  },
+  {
+   "q": "Which horror villain's real name is Charles Lee Ray?",
+   "a": "Chucky",
+   "p": 200
+  },
+  {
+   "q": "Which classic horror creature transforms under a full moon?",
+   "a": "Werewolf",
+   "p": 200
+  },
+  {
+   "q": "What metal is traditionally needed to kill a werewolf?",
+   "a": "Silver",
+   "p": 200
+  },
+  {
+   "q": "Which pungent vegetable is traditionally said to ward off vampires?",
+   "a": "Garlic",
+   "p": 200
+  },
+  {
+   "q": "Which 2004 film pits the Xenomorphs against another alien hunter species?",
+   "a": "Alien vs. Predator",
+   "p": 200,
+   "alt": [
+    "AVP",
+    "Alien vs Predator"
+   ]
+  },
+  {
+   "q": "Which 2022 Jordan Peele film follows siblings who run a horse ranch and spot something in the sky?",
+   "a": "Nope",
+   "p": 200
+  },
+  {
+   "q": "Which 2016 M. Night Shyamalan film stars James McAvoy as a man with 23 personalities?",
+   "a": "Split",
+   "p": 200
+  },
+  {
+   "q": "Which 2023 horror sequel moved the Evil Dead story to a city apartment block?",
+   "a": "Evil Dead Rise",
+   "p": 200
+  },
+  {
+   "q": "Which 2024 Demi Moore body-horror film is about a drug that creates a younger version of yourself?",
+   "a": "The Substance",
+   "p": 200
+  },
+  {
+   "q": "Which 2025 Ryan Coogler horror film stars Michael B. Jordan as twin brothers facing vampires?",
+   "a": "Sinners",
+   "p": 200
+  },
+  {
+   "q": "Which 2002 Danny Boyle film sees a man wake from a coma into a deserted, infected London?",
+   "a": "28 Days Later",
+   "p": 200
+  },
+  {
+   "q": "Which 1990 film produced by Steven Spielberg features deadly spiders invading a small California town?",
+   "a": "Arachnophobia",
+   "p": 200
+  },
+  {
+   "q": "Which iconic horror villain wears a white mask and boiler suit and never speaks?",
+   "a": "Michael Myers",
+   "p": 200
+  },
+  {
+   "q": "Which Hollywood star made his film debut in A Nightmare on Elm Street (1984)?",
+   "a": "Johnny Depp",
+   "p": 200
+  },
+  {
+   "q": "Which Friends star plays TV reporter Gale Weathers in Scream?",
+   "a": "Courteney Cox",
+   "p": 200
+  },
+  {
+   "q": "Which actress's character is killed in the famous opening scene of Scream (1996)?",
+   "a": "Drew Barrymore",
+   "p": 400
+  },
+  {
+   "q": "Which hotel room number is forbidden in Kubrick's The Shining?",
+   "a": "237",
+   "p": 400,
+   "alt": [
+    "Room 237"
+   ]
+  },
+  {
+   "q": "Which 2014 horror film with a cursed spirit board shares its name with the board game?",
+   "a": "Ouija",
+   "p": 200
+  },
+  {
+   "q": "Which 2017 film follows a college student reliving the day of her murder over and over?",
+   "a": "Happy Death Day",
+   "p": 200
+  },
+  {
+   "q": "Which 2018 Ari Aster film follows the Graham family after the death of their secretive grandmother?",
+   "a": "Hereditary",
+   "p": 400
+  },
+  {
+   "q": "Which 2019 Ari Aster film is set at a sunlit Swedish midsummer festival?",
+   "a": "Midsommar",
+   "p": 400
+  },
+  {
+   "q": "Which actress leads Midsommar as Dani?",
+   "a": "Florence Pugh",
+   "p": 400
+  },
+  {
+   "q": "Which actress plays the mother, Annie, in Hereditary?",
+   "a": "Toni Collette",
+   "p": 400
+  },
+  {
+   "q": "Which 2015 Robert Eggers film follows a Puritan family in 1630s New England?",
+   "a": "The Witch",
+   "p": 400,
+   "alt": [
+    "The VVitch"
+   ]
+  },
+  {
+   "q": "Who directed the 2024 remake of Nosferatu?",
+   "a": "Robert Eggers",
+   "p": 400
+  },
+  {
+   "q": "Which 2014 Australian film features a monster from a sinister pop-up book?",
+   "a": "The Babadook",
+   "p": 400
+  },
+  {
+   "q": "Which actor plays Pennywise in the 2017 film It?",
+   "a": "Bill Skarsgård",
+   "p": 400,
+   "alt": [
+    "Bill Skarsgard"
+   ]
+  },
+  {
+   "q": "Which actor played Pennywise in the 1990 It miniseries?",
+   "a": "Tim Curry",
+   "p": 400
+  },
+  {
+   "q": "In which fictional Maine town is It set?",
+   "a": "Derry",
+   "p": 400
+  },
+  {
+   "q": "Which breed of dog is the rabid Cujo?",
+   "a": "St. Bernard",
+   "p": 400,
+   "alt": [
+    "Saint Bernard"
+   ]
+  },
+  {
+   "q": "Which actress won an Oscar for playing Annie Wilkes in Misery?",
+   "a": "Kathy Bates",
+   "p": 400
+  },
+  {
+   "q": "Which actress played Carrie White in the 1976 film?",
+   "a": "Sissy Spacek",
+   "p": 400
+  },
+  {
+   "q": "Which 2007 Stephen King adaptation traps shoppers in a supermarket surrounded by fog and monsters?",
+   "a": "The Mist",
+   "p": 400
+  },
+  {
+   "q": "What is the title of the 2019 sequel to The Shining, starring Ewan McGregor?",
+   "a": "Doctor Sleep",
+   "p": 400
+  },
+  {
+   "q": "Which 1982 John Carpenter film features a shape-shifting alien at a remote research station?",
+   "a": "The Thing",
+   "p": 400
+  },
+  {
+   "q": "On which continent is The Thing (1982) set?",
+   "a": "Antarctica",
+   "p": 400
+  },
+  {
+   "q": "Which actor plays helicopter pilot MacReady in The Thing?",
+   "a": "Kurt Russell",
+   "p": 400
+  },
+  {
+   "q": "Which 1980 John Carpenter film features a glowing mist that brings vengeful ghosts to a coastal town?",
+   "a": "The Fog",
+   "p": 400
+  },
+  {
+   "q": "Which 1983 John Carpenter film, based on a Stephen King novel, is about a killer car?",
+   "a": "Christine",
+   "p": 400
+  },
+  {
+   "q": "In Halloween II (1981), how is Laurie Strode revealed to be related to Michael Myers?",
+   "a": "His sister",
+   "p": 400,
+   "alt": [
+    "Sister"
+   ]
+  },
+  {
+   "q": "What is the name of the Illinois town where Halloween is set?",
+   "a": "Haddonfield",
+   "p": 400
+  },
+  {
+   "q": "Which actor played Freddy Krueger in the original Nightmare on Elm Street films?",
+   "a": "Robert Englund",
+   "p": 400
+  },
+  {
+   "q": "In the original Friday the 13th (1980), who turns out to be the killer?",
+   "a": "Jason's mother",
+   "p": 400,
+   "alt": [
+    "Pamela Voorhees",
+    "Mrs. Voorhees"
+   ]
+  },
+  {
+   "q": "Which actress plays Sidney Prescott in Scream?",
+   "a": "Neve Campbell",
+   "p": 400
+  },
+  {
+   "q": "Which actor plays the deputy Dewey Riley in Scream?",
+   "a": "David Arquette",
+   "p": 400
+  },
+  {
+   "q": "Which famous Edvard Munch painting inspired the Ghostface mask?",
+   "a": "The Scream",
+   "p": 400
+  },
+  {
+   "q": "In which city is Scream VI (2023) set?",
+   "a": "New York City",
+   "p": 400,
+   "alt": [
+    "New York",
+    "NYC"
+   ]
+  },
+  {
+   "q": "Which 1997 slasher, written by Scream's Kevin Williamson, features a killer fisherman with a hook?",
+   "a": "I Know What You Did Last Summer",
+   "p": 400
+  },
+  {
+   "q": "How many times must you say Candyman's name into a mirror to summon him?",
+   "a": "Five",
+   "p": 400,
+   "alt": [
+    "5"
+   ]
+  },
+  {
+   "q": "In Get Out, what is the name of the dark void Chris's mind sinks into under hypnosis?",
+   "a": "The Sunken Place",
+   "p": 400
+  },
+  {
+   "q": "Which actor played Chris in Get Out?",
+   "a": "Daniel Kaluuya",
+   "p": 400
+  },
+  {
+   "q": "Which Oscar did Jordan Peele win for Get Out?",
+   "a": "Best Original Screenplay",
+   "p": 400,
+   "alt": [
+    "Original Screenplay"
+   ]
+  },
+  {
+   "q": "Which object does Missy stir to hypnotise Chris in Get Out?",
+   "a": "A teacup",
+   "p": 400,
+   "alt": [
+    "Teacup",
+    "Tea cup"
+   ]
+  },
+  {
+   "q": "Which actress plays Adelaide and her double, Red, in Us?",
+   "a": "Lupita Nyong'o",
+   "p": 400
+  },
+  {
+   "q": "Who directed The Exorcist (1973)?",
+   "a": "William Friedkin",
+   "p": 400
+  },
+  {
+   "q": "Which Hungarian-born actor played Dracula in the 1931 Universal film?",
+   "a": "Bela Lugosi",
+   "p": 400
+  },
+  {
+   "q": "Which actor played Frankenstein's monster in the 1931 Universal film?",
+   "a": "Boris Karloff",
+   "p": 400
+  },
+  {
+   "q": "What is the title of the 1935 sequel in which the monster gets a mate?",
+   "a": "Bride of Frankenstein",
+   "p": 400,
+   "alt": [
+    "The Bride of Frankenstein"
+   ]
+  },
+  {
+   "q": "What is Dr Frankenstein's first name in Mary Shelley's novel?",
+   "a": "Victor",
+   "p": 400
+  },
+  {
+   "q": "Which 1954 Universal monster film features a gill-man from the Amazon?",
+   "a": "Creature from the Black Lagoon",
+   "p": 400
+  },
+  {
+   "q": "Which 1981 John Landis film sees a US backpacker bitten by a werewolf on the Yorkshire moors?",
+   "a": "An American Werewolf in London",
+   "p": 400
+  },
+  {
+   "q": "Which 1986 David Cronenberg film stars Jeff Goldblum as a scientist slowly becoming an insect?",
+   "a": "The Fly",
+   "p": 400
+  },
+  {
+   "q": "Which Psycho actress is the mother of Jamie Lee Curtis?",
+   "a": "Janet Leigh",
+   "p": 400
+  },
+  {
+   "q": "Which actor played Norman Bates in Psycho (1960)?",
+   "a": "Anthony Perkins",
+   "p": 400
+  },
+  {
+   "q": "Which 2013 TV series is a modern-day prequel to Psycho?",
+   "a": "Bates Motel",
+   "p": 400
+  },
+  {
+   "q": "Which 1968 Roman Polanski film follows a pregnant woman in a sinister New York apartment building?",
+   "a": "Rosemary's Baby",
+   "p": 400
+  },
+  {
+   "q": "What three-digit number is the birthmark found on Damien in The Omen?",
+   "a": "666",
+   "p": 400
+  },
+  {
+   "q": "Which 1968 George A. Romero film launched the modern zombie genre?",
+   "a": "Night of the Living Dead",
+   "p": 400
+  },
+  {
+   "q": "Where do survivors shelter in George A. Romero's Dawn of the Dead (1978)?",
+   "a": "A shopping mall",
+   "p": 400,
+   "alt": [
+    "Shopping mall",
+    "Mall"
+   ]
+  },
+  {
+   "q": "What do the zombies in The Return of the Living Dead (1985) crave?",
+   "a": "Brains",
+   "p": 400
+  },
+  {
+   "q": "Which actor plays Ash Williams in The Evil Dead films?",
+   "a": "Bruce Campbell",
+   "p": 400
+  },
+  {
+   "q": "What weapon does Ash Williams attach to the stump of his right arm?",
+   "a": "Chainsaw",
+   "p": 400
+  },
+  {
+   "q": "Which 1987 horror franchise features Pinhead and the Cenobites?",
+   "a": "Hellraiser",
+   "p": 400
+  },
+  {
+   "q": "What brand of doll is Chucky?",
+   "a": "Good Guy",
+   "p": 400,
+   "alt": [
+    "Good Guys"
+   ]
+  },
+  {
+   "q": "Which 1998 film introduced Chucky's girlfriend Tiffany as a doll?",
+   "a": "Bride of Chucky",
+   "p": 400
+  },
+  {
+   "q": "Which actress plays Lorraine Warren in The Conjuring?",
+   "a": "Vera Farmiga",
+   "p": 400
+  },
+  {
+   "q": "Which actor plays Ed Warren in The Conjuring?",
+   "a": "Patrick Wilson",
+   "p": 400
+  },
+  {
+   "q": "Which demon, appearing as a nun, terrorises the Warrens in The Conjuring 2?",
+   "a": "Valak",
+   "p": 400
+  },
+  {
+   "q": "What is the real name of the Saw franchise's Jigsaw?",
+   "a": "John Kramer",
+   "p": 400
+  },
+  {
+   "q": "What does Billy the puppet ride in the Saw films?",
+   "a": "A tricycle",
+   "p": 400,
+   "alt": [
+    "Tricycle"
+   ]
+  },
+  {
+   "q": "Which horror studio, founded by Jason Blum, produced Get Out, Paranormal Activity and The Purge?",
+   "a": "Blumhouse",
+   "p": 400,
+   "alt": [
+    "Blumhouse Productions"
+   ]
+  },
+  {
+   "q": "Which British actor played Dracula in a long series of Hammer horror films?",
+   "a": "Christopher Lee",
+   "p": 400
+  },
+  {
+   "q": "Which 1992 Francis Ford Coppola film stars Gary Oldman as the famous vampire?",
+   "a": "Bram Stoker's Dracula",
+   "p": 400
+  },
+  {
+   "q": "Which 1994 film stars Tom Cruise as the vampire Lestat?",
+   "a": "Interview with the Vampire",
+   "p": 400
+  },
+  {
+   "q": "Which actor plays Louis, the reluctant vampire, in Interview with the Vampire?",
+   "a": "Brad Pitt",
+   "p": 400
+  },
+  {
+   "q": "Which 2001 haunted-house film stars Nicole Kidman as a mother in a dark Jersey mansion?",
+   "a": "The Others",
+   "p": 400
+  },
+  {
+   "q": "Which 1996 Robert Rodriguez film, written by Quentin Tarantino, turns into a vampire siege at a bar?",
+   "a": "From Dusk Till Dawn",
+   "p": 400
+  },
+  {
+   "q": "Which actor plays Ichabod Crane in Sleepy Hollow (1999)?",
+   "a": "Johnny Depp",
+   "p": 400
+  },
+  {
+   "q": "Which 2012 meta-horror film reveals technicians in a control room manipulating five college students?",
+   "a": "The Cabin in the Woods",
+   "p": 400
+  },
+  {
+   "q": "Which 2016 film follows young burglars trapped in the house of a blind army veteran?",
+   "a": "Don't Breathe",
+   "p": 400
+  },
+  {
+   "q": "Which 1979 film is based on a supposedly haunted house in a Long Island town?",
+   "a": "The Amityville Horror",
+   "p": 400
+  },
+  {
+   "q": "Which 1973 British film follows a police sergeant investigating a pagan community on a Scottish island?",
+   "a": "The Wicker Man",
+   "p": 400
+  },
+  {
+   "q": "Which 1956 sci-fi horror film has humans replaced by duplicates grown in pods?",
+   "a": "Invasion of the Body Snatchers",
+   "p": 400
+  },
+  {
+   "q": "Which 1958 film starring Steve McQueen features a growing, gelatinous alien mass?",
+   "a": "The Blob",
+   "p": 400
+  },
+  {
+   "q": "Which 2002 M. Night Shyamalan film starring Mel Gibson involves crop circles?",
+   "a": "Signs",
+   "p": 400
+  },
+  {
+   "q": "Which 2004 M. Night Shyamalan film is set in an isolated village surrounded by woods and creatures?",
+   "a": "The Village",
+   "p": 400
+  },
+  {
+   "q": "Which 2020 Leigh Whannell film stars Elisabeth Moss as a woman stalked by an unseen ex?",
+   "a": "The Invisible Man",
+   "p": 400
+  },
+  {
+   "q": "Which horror actor performed the spoken-word section of Michael Jackson's Thriller?",
+   "a": "Vincent Price",
+   "p": 400
+  },
+  {
+   "q": "Which 2025 film continues the rage-virus story begun by Danny Boyle in 2002?",
+   "a": "28 Years Later",
+   "p": 400
+  },
+  {
+   "q": "What was the original 1998 Japanese film that inspired The Ring?",
+   "a": "Ringu",
+   "p": 400,
+   "alt": [
+    "Ring"
+   ]
+  },
+  {
+   "q": "What is the name of the drowned ghost girl in the Japanese film Ringu?",
+   "a": "Sadako",
+   "p": 400,
+   "alt": [
+    "Sadako Yamamura"
+   ]
+  },
+  {
+   "q": "What is the name of the ghost girl in the American remake The Ring?",
+   "a": "Samara",
+   "p": 400,
+   "alt": [
+    "Samara Morgan"
+   ]
+  },
+  {
+   "q": "Which 2004 horror remake starring Sarah Michelle Gellar is set in a cursed house in Tokyo?",
+   "a": "The Grudge",
+   "p": 400
+  },
+  {
+   "q": "Which 2017 film follows Annabelle's origin at a home for orphaned girls?",
+   "a": "Annabelle: Creation",
+   "p": 600
+  },
+  {
+   "q": "Which killer in Scream (1996) is Sidney's boyfriend?",
+   "a": "Billy Loomis",
+   "p": 400
+  },
+  {
+   "q": "Which 1984 Stephen King adaptation features a cult of murderous kids in a Nebraska farming town?",
+   "a": "Children of the Corn",
+   "p": 600
+  },
+  {
+   "q": "What is the name of the ship's cat in Alien?",
+   "a": "Jones",
+   "p": 400,
+   "alt": [
+    "Jonesy"
+   ]
+  },
+  {
+   "q": "Which creature hunts Arnold Schwarzenegger's commandos in a 1987 jungle film before crossing over with Alien?",
+   "a": "Predator",
+   "p": 400
+  },
+  {
+   "q": "Which 2024 Osgood Perkins film stars Nicolas Cage as a serial killer?",
+   "a": "Longlegs",
+   "p": 400
+  },
+  {
+   "q": "Which 2024 horror film follows kidnappers whose young ballerina hostage turns out to be a vampire?",
+   "a": "Abigail",
+   "p": 400
+  },
+  {
+   "q": "Which 2022 horror film begins with a woman discovering her Detroit rental has been double-booked?",
+   "a": "Barbarian",
+   "p": 400
+  },
+  {
+   "q": "Which 2025 horror film by Zach Cregger follows the overnight disappearance of almost an entire school class?",
+   "a": "Weapons",
+   "p": 400
+  },
+  {
+   "q": "Which 2009 Sam Raimi film follows a bank loan officer cursed after denying an old woman an extension?",
+   "a": "Drag Me to Hell",
+   "p": 400
+  },
+  {
+   "q": "In Ready or Not (2019), which game must a bride play on her wedding night?",
+   "a": "Hide and seek",
+   "p": 400
+  },
+  {
+   "q": "Which 2015 Guillermo del Toro gothic romance is set in a decaying mansion built on red clay?",
+   "a": "Crimson Peak",
+   "p": 600
+  },
+  {
+   "q": "Which 2005 British film follows six women trapped in a cave system with creatures?",
+   "a": "The Descent",
+   "p": 600
+  },
+  {
+   "q": "What is the name of the dimension where lost souls wander in the Insidious films?",
+   "a": "The Further",
+   "p": 400
+  },
+  {
+   "q": "Which 2016 horror film features a creature called Diana that can only appear in the dark?",
+   "a": "Lights Out",
+   "p": 400
+  },
+  {
+   "q": "Which 2023 Australian horror film features an embalmed hand used to contact spirits?",
+   "a": "Talk to Me",
+   "p": 400
+  },
+  {
+   "q": "In The Shining, what is the name of Danny's imaginary friend?",
+   "a": "Tony",
+   "p": 400
+  },
+  {
+   "q": "Which 2019 film starring Robert Pattinson and Willem Dafoe follows two keepers on a remote island?",
+   "a": "The Lighthouse",
+   "p": 400
+  },
+  {
+   "q": "In Pet Sematary, what is the name of the family's cat?",
+   "a": "Church",
+   "p": 400,
+   "alt": [
+    "Winston Churchill"
+   ]
+  },
+  {
+   "q": "What is the name of the puzzle box that summons the Cenobites in Hellraiser?",
+   "a": "Lament Configuration",
+   "p": 600
+  },
+  {
+   "q": "Who wrote and directed Hellraiser (1987)?",
+   "a": "Clive Barker",
+   "p": 600
+  },
+  {
+   "q": "Which actor played Pinhead in the original Hellraiser films?",
+   "a": "Doug Bradley",
+   "p": 600
+  },
+  {
+   "q": "Which Star Trek character's mask was modified to create Michael Myers's mask?",
+   "a": "Captain Kirk",
+   "p": 600,
+   "alt": [
+    "James T. Kirk",
+    "William Shatner"
+   ]
+  },
+  {
+   "q": "Which actor played Dr Sam Loomis in Halloween (1978)?",
+   "a": "Donald Pleasence",
+   "p": 600
+  },
+  {
+   "q": "How is Michael Myers credited in the original 1978 Halloween?",
+   "a": "The Shape",
+   "p": 600
+  },
+  {
+   "q": "Who co-wrote and produced Halloween (1978) with John Carpenter?",
+   "a": "Debra Hill",
+   "p": 600
+  },
+  {
+   "q": "Which director rebooted the Halloween series with the 2018 film?",
+   "a": "David Gordon Green",
+   "p": 600
+  },
+  {
+   "q": "In which fictional Ohio town is A Nightmare on Elm Street set?",
+   "a": "Springwood",
+   "p": 600
+  },
+  {
+   "q": "Which 1994 film sees the real actors of the Nightmare series haunted by Freddy?",
+   "a": "Wes Craven's New Nightmare",
+   "p": 600,
+   "alt": [
+    "New Nightmare"
+   ]
+  },
+  {
+   "q": "Which 1977 Wes Craven film follows a family stranded in the desert and hunted by a feral clan?",
+   "a": "The Hills Have Eyes",
+   "p": 600
+  },
+  {
+   "q": "Which 1991 Wes Craven film follows a boy trapped in a house with a cruel landlord couple?",
+   "a": "The People Under the Stairs",
+   "p": 600
+  },
+  {
+   "q": "Who wrote the screenplay for Scream (1996)?",
+   "a": "Kevin Williamson",
+   "p": 600
+  },
+  {
+   "q": "Which character is revealed as Billy Loomis's accomplice in Scream (1996)?",
+   "a": "Stu Macher",
+   "p": 600,
+   "alt": [
+    "Stu"
+   ]
+  },
+  {
+   "q": "In which Friday the 13th film does Jason first wear his hockey mask?",
+   "a": "Friday the 13th Part III",
+   "p": 600,
+   "alt": [
+    "Part III",
+    "Part 3",
+    "Friday the 13th Part 3"
+   ]
+  },
+  {
+   "q": "What does Jason wear over his head in Friday the 13th Part 2?",
+   "a": "A sack",
+   "p": 600,
+   "alt": [
+    "Sack",
+    "Bag",
+    "Pillowcase"
+   ]
+  },
+  {
+   "q": "Who created Chucky and wrote Child's Play?",
+   "a": "Don Mancini",
+   "p": 600
+  },
+  {
+   "q": "Which actor has voiced Chucky in the original Child's Play films?",
+   "a": "Brad Dourif",
+   "p": 600
+  },
+  {
+   "q": "Which Star Wars actor voiced Chucky in the 2019 Child's Play remake?",
+   "a": "Mark Hamill",
+   "p": 600
+  },
+  {
+   "q": "What make and model of car is Christine?",
+   "a": "Plymouth Fury",
+   "p": 600
+  },
+  {
+   "q": "Which 1988 John Carpenter film features sunglasses that reveal aliens hidden among humans?",
+   "a": "They Live",
+   "p": 600
+  },
+  {
+   "q": "Who wrote the novel The Exorcist?",
+   "a": "William Peter Blatty",
+   "p": 600
+  },
+  {
+   "q": "Which actress played Regan in The Exorcist (1973)?",
+   "a": "Linda Blair",
+   "p": 600
+  },
+  {
+   "q": "In which Washington DC neighbourhood is The Exorcist set?",
+   "a": "Georgetown",
+   "p": 600
+  },
+  {
+   "q": "What is the name of the ancient demon in The Exorcist?",
+   "a": "Pazuzu",
+   "p": 600
+  },
+  {
+   "q": "Which actor played Count Orlok in the original 1922 Nosferatu?",
+   "a": "Max Schreck",
+   "p": 600
+  },
+  {
+   "q": "Which actor plays Count Orlok in the 2024 Nosferatu?",
+   "a": "Bill Skarsgård",
+   "p": 600,
+   "alt": [
+    "Bill Skarsgard"
+   ]
+  },
+  {
+   "q": "Which 1920 German expressionist film features a sleepwalker controlled by a sinister doctor?",
+   "a": "The Cabinet of Dr. Caligari",
+   "p": 600,
+   "alt": [
+    "The Cabinet of Dr Caligari",
+    "Das Cabinet des Dr. Caligari"
+   ]
+  },
+  {
+   "q": "In which year was Bram Stoker's Dracula first published?",
+   "a": "1897",
+   "p": 600
+  },
+  {
+   "q": "Who directed Frankenstein (1931) and Bride of Frankenstein?",
+   "a": "James Whale",
+   "p": 600
+  },
+  {
+   "q": "Which actor starred as The Invisible Man in the 1933 Universal film?",
+   "a": "Claude Rains",
+   "p": 600
+  },
+  {
+   "q": "Which actor starred as The Wolf Man in the 1941 Universal film?",
+   "a": "Lon Chaney Jr.",
+   "p": 600
+  },
+  {
+   "q": "Which British studio made dozens of gothic horror films starring Christopher Lee and Peter Cushing?",
+   "a": "Hammer Films",
+   "p": 600,
+   "alt": [
+    "Hammer"
+   ]
+  },
+  {
+   "q": "Which actor played Van Helsing opposite Christopher Lee's Dracula in Hammer's films?",
+   "a": "Peter Cushing",
+   "p": 600
+  },
+  {
+   "q": "Which actress starred in Hitchcock's The Birds?",
+   "a": "Tippi Hedren",
+   "p": 600
+  },
+  {
+   "q": "Who directed the 1998 shot-for-shot remake of Psycho?",
+   "a": "Gus Van Sant",
+   "p": 600
+  },
+  {
+   "q": "Which 1960 Michael Powell film about a cameraman killer caused a scandal in Britain?",
+   "a": "Peeping Tom",
+   "p": 600
+  },
+  {
+   "q": "Which 1959 William Castle film stars Vincent Price as a host offering money to survive a night?",
+   "a": "House on Haunted Hill",
+   "p": 600,
+   "alt": [
+    "The House on Haunted Hill"
+   ]
+  },
+  {
+   "q": "Which 1977 Dario Argento film is set at a German ballet academy run by witches?",
+   "a": "Suspiria",
+   "p": 600
+  },
+  {
+   "q": "Which 2007 Spanish found-footage film traps a TV crew in a quarantined Barcelona apartment block?",
+   "a": "REC",
+   "p": 600,
+   "alt": [
+    "[REC]",
+    "Rec"
+   ]
+  },
+  {
+   "q": "Which 2007 J.A. Bayona film is set in a former orphanage on the Spanish coast?",
+   "a": "The Orphanage",
+   "p": 600,
+   "alt": [
+    "El orfanato"
+   ]
+  },
+  {
+   "q": "Who directed The Others (2001)?",
+   "a": "Alejandro Amenábar",
+   "p": 600,
+   "alt": [
+    "Alejandro Amenabar"
+   ]
+  },
+  {
+   "q": "Which 2008 Swedish film follows a bullied boy who befriends a vampire girl?",
+   "a": "Let the Right One In",
+   "p": 600
+  },
+  {
+   "q": "What is the name of the black goat in The Witch (2015)?",
+   "a": "Black Phillip",
+   "p": 600
+  },
+  {
+   "q": "Which 2022 Ti West slasher sees a film crew shooting at a farm in 1970s Texas, with Mia Goth in two roles?",
+   "a": "X",
+   "p": 600
+  },
+  {
+   "q": "What is the title of Ti West's 2022 prequel to X, telling the farm owner's youth?",
+   "a": "Pearl",
+   "p": 600
+  },
+  {
+   "q": "Which 2014 film features a slow-walking entity that relentlessly follows its target?",
+   "a": "It Follows",
+   "p": 600
+  },
+  {
+   "q": "Which demon king do the cult members worship in Hereditary?",
+   "a": "Paimon",
+   "p": 600,
+   "alt": [
+    "King Paimon"
+   ]
+  },
+  {
+   "q": "What does M3GAN's name stand for?",
+   "a": "Model 3 Generative Android",
+   "p": 600
+  },
+  {
+   "q": "Which Australian twin brothers directed Talk to Me?",
+   "a": "Danny and Michael Philippou",
+   "p": 600,
+   "alt": [
+    "The Philippou brothers",
+    "Philippou"
+   ]
+  },
+  {
+   "q": "Which Argentinian director made It (2017) and It Chapter Two?",
+   "a": "Andy Muschietti",
+   "p": 600
+  },
+  {
+   "q": "Which actress plays the adult Beverly Marsh in It Chapter Two?",
+   "a": "Jessica Chastain",
+   "p": 600
+  },
+  {
+   "q": "Which actor plays the author Paul Sheldon in Misery?",
+   "a": "James Caan",
+   "p": 600
+  },
+  {
+   "q": "Which actor plays Jigsaw in the Saw films?",
+   "a": "Tobin Bell",
+   "p": 600
+  },
+  {
+   "q": "Which Australian co-wrote Saw and Insidious with James Wan?",
+   "a": "Leigh Whannell",
+   "p": 600
+  },
+  {
+   "q": "Which 2021 James Wan film links a woman's visions to a killer called Gabriel?",
+   "a": "Malignant",
+   "p": 600
+  },
+  {
+   "q": "In which US state do the Perron family live in The Conjuring?",
+   "a": "Rhode Island",
+   "p": 600
+  },
+  {
+   "q": "In which London borough is The Conjuring 2 set?",
+   "a": "Enfield",
+   "p": 600
+  },
+  {
+   "q": "What type of doll is the real Annabelle, kept in the Warrens' museum?",
+   "a": "Raggedy Ann",
+   "p": 600,
+   "alt": [
+    "A Raggedy Ann doll"
+   ]
+  },
+  {
+   "q": "In which US state is The Blair Witch Project set?",
+   "a": "Maryland",
+   "p": 600
+  },
+  {
+   "q": "Which Swiss artist designed the creature in Alien?",
+   "a": "H. R. Giger",
+   "p": 600,
+   "alt": [
+    "HR Giger",
+    "Giger"
+   ]
+  },
+  {
+   "q": "What is the name of the corporation behind the Nostromo's mission in Alien?",
+   "a": "Weyland-Yutani",
+   "p": 600
+  },
+  {
+   "q": "Who directed The Ring (2002)?",
+   "a": "Gore Verbinski",
+   "p": 600
+  },
+  {
+   "q": "Who directed the 1982 film Poltergeist?",
+   "a": "Tobe Hooper",
+   "p": 600
+  },
+  {
+   "q": "Which actress played Rosemary in Rosemary's Baby?",
+   "a": "Mia Farrow",
+   "p": 600
+  },
+  {
+   "q": "Which 1979 film features the Tall Man and his flying silver spheres?",
+   "a": "Phantasm",
+   "p": 600
+  },
+  {
+   "q": "What are the giant underground worms called in Tremors (1990)?",
+   "a": "Graboids",
+   "p": 600
+  },
+  {
+   "q": "Which 1987 vampire film is set in Santa Carla and features the comic-reading Frog Brothers?",
+   "a": "The Lost Boys",
+   "p": 600
+  },
+  {
+   "q": "Which 1985 film features a teenager convinced his new neighbour is a vampire?",
+   "a": "Fright Night",
+   "p": 600
+  },
+  {
+   "q": "Which 1983 David Cronenberg film features a TV signal that causes hallucinations?",
+   "a": "Videodrome",
+   "p": 600
+  },
+  {
+   "q": "Who directed the 2004 remake of Dawn of the Dead?",
+   "a": "Zack Snyder",
+   "p": 600
+  },
+  {
+   "q": "Which actor played the Mummy, Imhotep, in the 1999 film?",
+   "a": "Arnold Vosloo",
+   "p": 600
+  },
+  {
+   "q": "Which actor starred as the Mummy in the original 1932 Universal film?",
+   "a": "Boris Karloff",
+   "p": 600
+  },
+  {
+   "q": "Which 2007 film starring John Cusack is set in a haunted hotel room?",
+   "a": "1408",
+   "p": 600
+  },
+  {
+   "q": "In which California beach town is the opening of Us set?",
+   "a": "Santa Cruz",
+   "p": 600
+  },
+  {
+   "q": "What do the Haywoods name the creature in the sky in Nope?",
+   "a": "Jean Jacket",
+   "p": 600
+  },
+  {
+   "q": "In which fictional town is Gremlins set?",
+   "a": "Kingston Falls",
+   "p": 600
+  },
+  {
+   "q": "Which actress plays the deaf daughter Regan in A Quiet Place?",
+   "a": "Millicent Simmonds",
+   "p": 600
+  },
+  {
+   "q": "Which 2021 Edgar Wright psychological horror moves between modern and 1960s London?",
+   "a": "Last Night in Soho",
+   "p": 600
+  },
+  {
+   "q": "Which 2021 M. Night Shyamalan film is set on a beach that makes people age rapidly?",
+   "a": "Old",
+   "p": 600
+  },
+  {
+   "q": "Who founded the horror studio Blumhouse Productions?",
+   "a": "Jason Blum",
+   "p": 600
+  },
+  {
+   "q": "Who directed Michael Jackson's horror-themed Thriller music video?",
+   "a": "John Landis",
+   "p": 600
+  },
+  {
+   "q": "Who directed Smile (2022)?",
+   "a": "Parker Finn",
+   "p": 600
+  },
+  {
+   "q": "What kind of creature is Count Dracula?",
+   "a": "Vampire",
+   "p": 200
+  },
+  {
+   "q": "What name is given to horror films in which a killer picks off victims one by one?",
+   "a": "Slasher",
+   "p": 200,
+   "alt": [
+    "Slasher films"
+   ]
+  },
+  {
+   "q": "What term describes horror films presented as recovered real camera recordings?",
+   "a": "Found footage",
+   "p": 200
+  },
+  {
+   "q": "Which 2007 film stars Will Smith as seemingly the last man alive in New York?",
+   "a": "I Am Legend",
+   "p": 200
+  },
+  {
+   "q": "Which 1984 comedy-horror film follows Bill Murray's team catching spirits in New York?",
+   "a": "Ghostbusters",
+   "p": 200
+  },
+  {
+   "q": "Which giant monster stomps through New York at the climax of Ghostbusters?",
+   "a": "Stay Puft Marshmallow Man",
+   "p": 200,
+   "alt": [
+    "Marshmallow Man",
+    "Stay Puft"
+   ]
+  },
+  {
+   "q": "Which author wrote the Goosebumps books?",
+   "a": "R. L. Stine",
+   "p": 200,
+   "alt": [
+    "RL Stine"
+   ]
+  },
+  {
+   "q": "Which 1993 Disney Halloween film features the witches known as the Sanderson sisters?",
+   "a": "Hocus Pocus",
+   "p": 200
+  },
+  {
+   "q": "Which 2006 film, based on a Konami video game, is set in a fog-shrouded ghost town?",
+   "a": "Silent Hill",
+   "p": 200
+  },
+  {
+   "q": "Which 2019 sequel follows the Losers' Club as adults?",
+   "a": "It Chapter Two",
+   "p": 200
+  },
+  {
+   "q": "Which actress plays Winifred Sanderson in Hocus Pocus?",
+   "a": "Bette Midler",
+   "p": 400
+  },
+  {
+   "q": "Which actor plays R. L. Stine in the 2015 film Goosebumps?",
+   "a": "Jack Black",
+   "p": 400
+  },
+  {
+   "q": "Which 2023 horror film stars Russell Crowe as a real-life Vatican exorcist?",
+   "a": "The Pope's Exorcist",
+   "p": 400
+  },
+  {
+   "q": "What is the name of Will Smith's dog in I Am Legend?",
+   "a": "Sam",
+   "p": 600,
+   "alt": [
+    "Samantha"
+   ]
+  }
+ ]
+}

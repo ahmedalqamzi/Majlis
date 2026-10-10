@@ -1,0 +1,1949 @@
+{
+ "id": "ucl",
+ "name": "Champions League",
+ "questions": [
+  {
+   "q": "Which club beat Inter Milan 5-0 in the 2025 Champions League final?",
+   "a": "Paris Saint-Germain",
+   "p": 200,
+   "alt": [
+    "PSG"
+   ]
+  },
+  {
+   "q": "By what score did PSG win the 2025 Champions League final?",
+   "a": "5-0",
+   "p": 200
+  },
+  {
+   "q": "Which Spanish coach led PSG to the 2025 title, having also won it with Barcelona in 2015?",
+   "a": "Luis Enrique",
+   "p": 200
+  },
+  {
+   "q": "Which club beat Borussia Dortmund at Wembley in the 2024 final?",
+   "a": "Real Madrid",
+   "p": 200
+  },
+  {
+   "q": "Which English club won its first Champions League title in Istanbul in 2023?",
+   "a": "Manchester City",
+   "p": 200,
+   "alt": [
+    "Man City"
+   ]
+  },
+  {
+   "q": "Which Spanish midfielder scored the only goal of the 2023 final?",
+   "a": "Rodri",
+   "p": 200,
+   "alt": [
+    "Rodrigo Hernandez"
+   ]
+  },
+  {
+   "q": "Which London club beat Manchester City in the 2021 final in Porto?",
+   "a": "Chelsea",
+   "p": 200
+  },
+  {
+   "q": "Which German club beat PSG in the 2020 final in Lisbon?",
+   "a": "Bayern Munich",
+   "p": 200,
+   "alt": [
+    "Bayern"
+   ]
+  },
+  {
+   "q": "Which club did Liverpool beat in the all-English 2019 final in Madrid?",
+   "a": "Tottenham Hotspur",
+   "p": 200,
+   "alt": [
+    "Tottenham",
+    "Spurs"
+   ]
+  },
+  {
+   "q": "Which Egyptian scored a second-minute penalty for Liverpool in the 2019 final?",
+   "a": "Mohamed Salah",
+   "p": 200,
+   "ar": "محمد صلاح",
+   "alt": [
+    "Salah",
+    "Mo Salah"
+   ]
+  },
+  {
+   "q": "Which Welsh forward scored a spectacular overhead kick in the 2018 final?",
+   "a": "Gareth Bale",
+   "p": 200,
+   "alt": [
+    "Bale"
+   ]
+  },
+  {
+   "q": "Which Liverpool goalkeeper made two costly errors in the 2018 final?",
+   "a": "Loris Karius",
+   "p": 200,
+   "alt": [
+    "Karius"
+   ]
+  },
+  {
+   "q": "Which Real Madrid defender scored a stoppage-time header to force extra time in the 2014 final?",
+   "a": "Sergio Ramos",
+   "p": 200,
+   "alt": [
+    "Ramos"
+   ]
+  },
+  {
+   "q": "Which club lost both the 2014 and 2016 finals to Real Madrid?",
+   "a": "Atletico Madrid",
+   "p": 200,
+   "alt": [
+    "Atletico"
+   ]
+  },
+  {
+   "q": "Which Ivorian striker scored a late header and the winning penalty for Chelsea in the 2012 final?",
+   "a": "Didier Drogba",
+   "p": 200,
+   "alt": [
+    "Drogba"
+   ]
+  },
+  {
+   "q": "Which Chelsea captain slipped while taking a penalty in the 2008 final shootout?",
+   "a": "John Terry",
+   "p": 200,
+   "alt": [
+    "Terry"
+   ]
+  },
+  {
+   "q": "Which club came back from 3-0 down at half-time to win the 2005 final?",
+   "a": "Liverpool",
+   "p": 200
+  },
+  {
+   "q": "What was the half-time score in the 2005 final between AC Milan and Liverpool?",
+   "a": "3-0",
+   "p": 200,
+   "alt": [
+    "3-0 to Milan"
+   ]
+  },
+  {
+   "q": "In which Turkish city was the 2005 final played?",
+   "a": "Istanbul",
+   "p": 200
+  },
+  {
+   "q": "Which Portuguese club won the 2004 final under Jose Mourinho?",
+   "a": "Porto",
+   "p": 200,
+   "alt": [
+    "FC Porto"
+   ]
+  },
+  {
+   "q": "Which French legend scored a famous left-footed volley in the 2002 final?",
+   "a": "Zinedine Zidane",
+   "p": 200,
+   "alt": [
+    "Zidane"
+   ]
+  },
+  {
+   "q": "Which coach won the Champions League with Porto in 2004 and Inter Milan in 2010?",
+   "a": "Jose Mourinho",
+   "p": 200,
+   "alt": [
+    "Mourinho"
+   ]
+  },
+  {
+   "q": "Which coach won the Champions League with Barcelona and with Manchester City?",
+   "a": "Pep Guardiola",
+   "p": 200,
+   "alt": [
+    "Guardiola"
+   ]
+  },
+  {
+   "q": "Which Italian coach has won the Champions League with both AC Milan and Real Madrid?",
+   "a": "Carlo Ancelotti",
+   "p": 200,
+   "alt": [
+    "Ancelotti"
+   ]
+  },
+  {
+   "q": "Which French coach led Real Madrid to three Champions League titles in a row from 2016 to 2018?",
+   "a": "Zinedine Zidane",
+   "p": 200,
+   "alt": [
+    "Zidane"
+   ]
+  },
+  {
+   "q": "Which German manager led Liverpool to the 2019 title?",
+   "a": "Jurgen Klopp",
+   "p": 200,
+   "alt": [
+    "Klopp"
+   ]
+  },
+  {
+   "q": "Which Manchester United manager won the Champions League in 1999 and 2008?",
+   "a": "Alex Ferguson",
+   "p": 200,
+   "alt": [
+    "Sir Alex Ferguson",
+    "Ferguson"
+   ]
+  },
+  {
+   "q": "Which organisation runs the Champions League?",
+   "a": "UEFA",
+   "p": 200
+  },
+  {
+   "q": "What is UEFA's second-tier club competition called?",
+   "a": "Europa League",
+   "p": 200,
+   "alt": [
+    "UEFA Europa League"
+   ]
+  },
+  {
+   "q": "What was the Champions League called before 1992?",
+   "a": "European Cup",
+   "p": 200,
+   "alt": [
+    "European Champion Clubs' Cup"
+   ]
+  },
+  {
+   "q": "The Champions League trophy is nicknamed after which body part, because of its huge handles?",
+   "a": "Ears",
+   "p": 200,
+   "alt": [
+    "Big Ears"
+   ]
+  },
+  {
+   "q": "On which two weekdays are Champions League matches traditionally played?",
+   "a": "Tuesday and Wednesday",
+   "p": 200
+  },
+  {
+   "q": "How many consecutive European Cups did Real Madrid win from the very first one in 1956?",
+   "a": "5",
+   "p": 200,
+   "alt": [
+    "Five"
+   ]
+  },
+  {
+   "q": "Which German club thrashed Barcelona 8-2 in the 2020 quarter-final?",
+   "a": "Bayern Munich",
+   "p": 200,
+   "alt": [
+    "Bayern"
+   ]
+  },
+  {
+   "q": "What Spanish name was given to Barcelona's 6-1 comeback against PSG in 2017?",
+   "a": "La Remontada",
+   "p": 200,
+   "alt": [
+    "Remontada"
+   ]
+  },
+  {
+   "q": "Which club came back from 3-0 down to beat Barcelona 4-0 at Anfield in 2019?",
+   "a": "Liverpool",
+   "p": 200
+  },
+  {
+   "q": "Against which club did Cristiano Ronaldo score a famous bicycle kick in Turin in 2018?",
+   "a": "Juventus",
+   "p": 200,
+   "alt": [
+    "Juve"
+   ]
+  },
+  {
+   "q": "Which London stadium hosted the 2011, 2013 and 2024 finals?",
+   "a": "Wembley",
+   "p": 200,
+   "alt": [
+    "Wembley Stadium"
+   ]
+  },
+  {
+   "q": "How many teams take part in the Champions League league phase introduced in 2024-25?",
+   "a": "36",
+   "p": 200,
+   "alt": [
+    "Thirty-six"
+   ]
+  },
+  {
+   "q": "Which Argentine scored for Barcelona in both the 2009 and 2011 finals?",
+   "a": "Lionel Messi",
+   "p": 200,
+   "alt": [
+    "Messi"
+   ]
+  },
+  {
+   "q": "Which club did Barcelona beat in both the 2009 and 2011 finals?",
+   "a": "Manchester United",
+   "p": 200,
+   "alt": [
+    "Man United"
+   ]
+  },
+  {
+   "q": "Which competition's winner plays the Champions League winner in the UEFA Super Cup?",
+   "a": "Europa League",
+   "p": 200,
+   "alt": [
+    "UEFA Europa League"
+   ]
+  },
+  {
+   "q": "Which Portuguese star scored for Manchester United in the 2008 final and for Real Madrid in the 2014 and 2017 finals?",
+   "a": "Cristiano Ronaldo",
+   "p": 200,
+   "alt": [
+    "Ronaldo",
+    "CR7"
+   ]
+  },
+  {
+   "q": "Which English club lost the 2006 final to Barcelona in Paris?",
+   "a": "Arsenal",
+   "p": 200
+  },
+  {
+   "q": "Which French teenager scored twice for PSG in the 2025 final?",
+   "a": "Desire Doue",
+   "p": 400,
+   "alt": [
+    "Doue"
+   ]
+  },
+  {
+   "q": "Which Moroccan defender opened the scoring for PSG in the 2025 final?",
+   "a": "Achraf Hakimi",
+   "p": 400,
+   "ar": "أشرف حكيمي",
+   "alt": [
+    "Hakimi"
+   ]
+  },
+  {
+   "q": "In which German city was the 2025 final played?",
+   "a": "Munich",
+   "p": 400
+  },
+  {
+   "q": "Which Spanish right-back headed Real Madrid's opener in the 2024 final?",
+   "a": "Dani Carvajal",
+   "p": 400,
+   "alt": [
+    "Carvajal"
+   ]
+  },
+  {
+   "q": "Which Brazilian scored the only goal of the 2022 final against Liverpool?",
+   "a": "Vinicius Junior",
+   "p": 200,
+   "alt": [
+    "Vinicius Jr",
+    "Vinicius"
+   ]
+  },
+  {
+   "q": "Which Belgian goalkeeper was man of the match in the 2022 final?",
+   "a": "Thibaut Courtois",
+   "p": 200,
+   "alt": [
+    "Courtois"
+   ]
+  },
+  {
+   "q": "Which Paris stadium hosted the 2022 final?",
+   "a": "Stade de France",
+   "p": 400
+  },
+  {
+   "q": "Which German scored the winner for Chelsea in the 2021 final?",
+   "a": "Kai Havertz",
+   "p": 400,
+   "alt": [
+    "Havertz"
+   ]
+  },
+  {
+   "q": "Which German coach led Chelsea to the 2021 title months after taking over?",
+   "a": "Thomas Tuchel",
+   "p": 400,
+   "alt": [
+    "Tuchel"
+   ]
+  },
+  {
+   "q": "Which former PSG player headed Bayern's winner against PSG in the 2020 final?",
+   "a": "Kingsley Coman",
+   "p": 400,
+   "alt": [
+    "Coman"
+   ]
+  },
+  {
+   "q": "Who coached Bayern Munich to the 2020 title?",
+   "a": "Hansi Flick",
+   "p": 400,
+   "alt": [
+    "Flick"
+   ]
+  },
+  {
+   "q": "Which Belgian striker scored for Liverpool in the 2019 semi-final comeback and in the final?",
+   "a": "Divock Origi",
+   "p": 200,
+   "alt": [
+    "Origi"
+   ]
+  },
+  {
+   "q": "Which Liverpool full-back took the quick corner for the decisive goal against Barcelona in 2019?",
+   "a": "Trent Alexander-Arnold",
+   "p": 200,
+   "alt": [
+    "Alexander-Arnold",
+    "Trent"
+   ]
+  },
+  {
+   "q": "Which Brazilian scored a second-half hat-trick for Tottenham against Ajax in the 2019 semi-final?",
+   "a": "Lucas Moura",
+   "p": 400,
+   "alt": [
+    "Lucas"
+   ]
+  },
+  {
+   "q": "Which young Dutch side won 4-1 at the Bernabeu in 2019 to knock out the holders Real Madrid?",
+   "a": "Ajax",
+   "p": 400
+  },
+  {
+   "q": "Which Egyptian left the 2018 final injured after a challenge by Sergio Ramos?",
+   "a": "Mohamed Salah",
+   "p": 200,
+   "ar": "محمد صلاح",
+   "alt": [
+    "Salah"
+   ]
+  },
+  {
+   "q": "In which Ukrainian city was the 2018 final played?",
+   "a": "Kyiv",
+   "p": 400,
+   "alt": [
+    "Kiev"
+   ]
+  },
+  {
+   "q": "In which Welsh city was the 2017 final played?",
+   "a": "Cardiff",
+   "p": 200
+  },
+  {
+   "q": "Which Italian club lost the 2015 and 2017 finals?",
+   "a": "Juventus",
+   "p": 200,
+   "alt": [
+    "Juve"
+   ]
+  },
+  {
+   "q": "Which stadium, shared by AC Milan and Inter, hosted the 2016 final?",
+   "a": "San Siro",
+   "p": 400,
+   "alt": [
+    "Giuseppe Meazza"
+   ]
+  },
+  {
+   "q": "Who scored the winning penalty in the 2016 final shootout?",
+   "a": "Cristiano Ronaldo",
+   "p": 200,
+   "alt": [
+    "Ronaldo"
+   ]
+  },
+  {
+   "q": "In which German city was the 2015 final between Barcelona and Juventus played?",
+   "a": "Berlin",
+   "p": 200
+  },
+  {
+   "q": "What was the final score after extra time of the 2014 final?",
+   "a": "4-1",
+   "p": 400,
+   "alt": [
+    "Real Madrid 4-1 Atletico"
+   ]
+  },
+  {
+   "q": "Which Dutch winger scored the late winner in the all-German 2013 final?",
+   "a": "Arjen Robben",
+   "p": 200,
+   "alt": [
+    "Robben"
+   ]
+  },
+  {
+   "q": "Which club, famous for its 'Yellow Wall' stand, lost the 2013 and 2024 finals?",
+   "a": "Borussia Dortmund",
+   "p": 200,
+   "alt": [
+    "Dortmund"
+   ]
+  },
+  {
+   "q": "Which Chelsea goalkeeper saved Arjen Robben's extra-time penalty in the 2012 final?",
+   "a": "Petr Cech",
+   "p": 400,
+   "alt": [
+    "Cech"
+   ]
+  },
+  {
+   "q": "Which interim manager led Chelsea to the 2012 title?",
+   "a": "Roberto Di Matteo",
+   "p": 400,
+   "alt": [
+    "Di Matteo"
+   ]
+  },
+  {
+   "q": "Which stadium, Bayern's own home ground, hosted the 2012 final they lost to Chelsea?",
+   "a": "Allianz Arena",
+   "p": 400
+  },
+  {
+   "q": "Which Argentine striker scored both goals for Inter in the 2010 final?",
+   "a": "Diego Milito",
+   "p": 400,
+   "alt": [
+    "Milito"
+   ]
+  },
+  {
+   "q": "Which Madrid stadium hosted the 2010 final between Inter and Bayern?",
+   "a": "Santiago Bernabeu",
+   "p": 400,
+   "alt": [
+    "Bernabeu"
+   ]
+  },
+  {
+   "q": "Which Barcelona forward scored a rare header in the 2009 final in Rome?",
+   "a": "Lionel Messi",
+   "p": 400,
+   "alt": [
+    "Messi"
+   ]
+  },
+  {
+   "q": "Which Barcelona midfielder's stoppage-time goal at Stamford Bridge sent them to the 2009 final?",
+   "a": "Andres Iniesta",
+   "p": 400,
+   "alt": [
+    "Iniesta"
+   ]
+  },
+  {
+   "q": "In which city was the all-English 2008 final played?",
+   "a": "Moscow",
+   "p": 200
+  },
+  {
+   "q": "Which Manchester United goalkeeper saved Nicolas Anelka's penalty to win the 2008 final?",
+   "a": "Edwin van der Sar",
+   "p": 400,
+   "alt": [
+    "Van der Sar"
+   ]
+  },
+  {
+   "q": "Which Italian striker scored both of Milan's goals in the 2007 final against Liverpool?",
+   "a": "Filippo Inzaghi",
+   "p": 400,
+   "alt": [
+    "Inzaghi",
+    "Pippo Inzaghi"
+   ]
+  },
+  {
+   "q": "In which city was the 2007 final, a rematch of 2005, played?",
+   "a": "Athens",
+   "p": 400
+  },
+  {
+   "q": "Which Polish goalkeeper was Liverpool's shootout hero in the 2005 final?",
+   "a": "Jerzy Dudek",
+   "p": 200,
+   "alt": [
+    "Dudek"
+   ]
+  },
+  {
+   "q": "Which Milan captain scored in the first minute of the 2005 final?",
+   "a": "Paolo Maldini",
+   "p": 400,
+   "alt": [
+    "Maldini"
+   ]
+  },
+  {
+   "q": "Which Spanish manager led Liverpool to the 2005 title?",
+   "a": "Rafael Benitez",
+   "p": 400,
+   "alt": [
+    "Rafa Benitez",
+    "Benitez"
+   ]
+  },
+  {
+   "q": "Which Ukrainian scored the winning penalty for Milan in the 2003 final?",
+   "a": "Andriy Shevchenko",
+   "p": 400,
+   "alt": [
+    "Shevchenko"
+   ]
+  },
+  {
+   "q": "Which English stadium hosted the all-Italian 2003 final?",
+   "a": "Old Trafford",
+   "p": 400
+  },
+  {
+   "q": "Which German goalkeeper saved three penalties as Bayern beat Valencia in the 2001 final?",
+   "a": "Oliver Kahn",
+   "p": 400,
+   "alt": [
+    "Kahn"
+   ]
+  },
+  {
+   "q": "Which club lost the 2000 and 2001 finals in a row?",
+   "a": "Valencia",
+   "p": 400
+  },
+  {
+   "q": "Which two substitutes scored in stoppage time for Manchester United in the 1999 final?",
+   "a": "Teddy Sheringham and Ole Gunnar Solskjaer",
+   "p": 400,
+   "alt": [
+    "Sheringham and Solskjaer"
+   ]
+  },
+  {
+   "q": "Which Barcelona stadium hosted the 1999 final?",
+   "a": "Camp Nou",
+   "p": 400,
+   "alt": [
+    "Nou Camp"
+   ]
+  },
+  {
+   "q": "Who scored Barcelona's extra-time free kick to win the 1992 European Cup at Wembley?",
+   "a": "Ronald Koeman",
+   "p": 400,
+   "alt": [
+    "Koeman"
+   ]
+  },
+  {
+   "q": "Which club thrashed Cruyff's Barcelona 4-0 in the 1994 final?",
+   "a": "AC Milan",
+   "p": 400,
+   "alt": [
+    "Milan"
+   ]
+  },
+  {
+   "q": "Which Italian coach led AC Milan to back-to-back European Cups in 1989 and 1990?",
+   "a": "Arrigo Sacchi",
+   "p": 400,
+   "alt": [
+    "Sacchi"
+   ]
+  },
+  {
+   "q": "Which Algerian scored a famous backheel for Porto in the 1987 final?",
+   "a": "Rabah Madjer",
+   "p": 400,
+   "ar": "رابح ماجر",
+   "alt": [
+    "Madjer"
+   ]
+  },
+  {
+   "q": "Which Romanian club became the first from Eastern Europe to win the European Cup, in 1986?",
+   "a": "Steaua Bucharest",
+   "p": 400,
+   "alt": [
+    "Steaua",
+    "FCSB"
+   ]
+  },
+  {
+   "q": "Which Yugoslav club won the 1991 European Cup on penalties?",
+   "a": "Red Star Belgrade",
+   "p": 400,
+   "alt": [
+    "Crvena Zvezda"
+   ]
+  },
+  {
+   "q": "Which Dutch club won the 1988 European Cup under Guus Hiddink?",
+   "a": "PSV Eindhoven",
+   "p": 400,
+   "alt": [
+    "PSV"
+   ]
+  },
+  {
+   "q": "Which Liverpool goalkeeper's 'wobbly legs' unsettled Roma in the 1984 final shootout?",
+   "a": "Bruce Grobbelaar",
+   "p": 400,
+   "alt": [
+    "Grobbelaar"
+   ]
+  },
+  {
+   "q": "Which Midlands club won the 1982 European Cup in Rotterdam?",
+   "a": "Aston Villa",
+   "p": 400,
+   "alt": [
+    "Villa"
+   ]
+  },
+  {
+   "q": "Which manager won back-to-back European Cups with Nottingham Forest in 1979 and 1980?",
+   "a": "Brian Clough",
+   "p": 200,
+   "alt": [
+    "Clough"
+   ]
+  },
+  {
+   "q": "Which Liverpool manager won the European Cup in 1977, 1978 and 1981?",
+   "a": "Bob Paisley",
+   "p": 400,
+   "alt": [
+    "Paisley"
+   ]
+  },
+  {
+   "q": "Which club became the first Dutch winner of the European Cup in 1970?",
+   "a": "Feyenoord",
+   "p": 400
+  },
+  {
+   "q": "Who managed Manchester United to the 1968 European Cup?",
+   "a": "Matt Busby",
+   "p": 400,
+   "alt": [
+    "Sir Matt Busby",
+    "Busby"
+   ]
+  },
+  {
+   "q": "Which Celtic manager led the 'Lisbon Lions' to the 1967 title?",
+   "a": "Jock Stein",
+   "p": 400,
+   "alt": [
+    "Stein"
+   ]
+  },
+  {
+   "q": "Which Portuguese legend scored twice as Benfica beat Real Madrid 5-3 in the 1962 final?",
+   "a": "Eusebio",
+   "p": 400
+  },
+  {
+   "q": "Which Benfica coach is said to have put a 'curse' on the club after leaving in 1962?",
+   "a": "Bela Guttmann",
+   "p": 400,
+   "alt": [
+    "Guttmann"
+   ]
+  },
+  {
+   "q": "By what score did Real Madrid beat Eintracht Frankfurt in the 1960 final?",
+   "a": "7-3",
+   "p": 400
+  },
+  {
+   "q": "Which Glasgow stadium hosted the 1960 and 2002 finals?",
+   "a": "Hampden Park",
+   "p": 400,
+   "alt": [
+    "Hampden"
+   ]
+  },
+  {
+   "q": "Which Dutch midfielder won the Champions League with Ajax, Real Madrid and AC Milan?",
+   "a": "Clarence Seedorf",
+   "p": 400,
+   "alt": [
+    "Seedorf"
+   ]
+  },
+  {
+   "q": "Which Barcelona forward scored five goals in one match against Bayer Leverkusen in 2012?",
+   "a": "Lionel Messi",
+   "p": 200,
+   "alt": [
+    "Messi"
+   ]
+  },
+  {
+   "q": "Which striker scored four for Borussia Dortmund against Real Madrid in the 2013 semi-final first leg?",
+   "a": "Robert Lewandowski",
+   "p": 200,
+   "alt": [
+    "Lewandowski"
+   ]
+  },
+  {
+   "q": "Which Real Madrid striker scored a 17-minute hat-trick to knock out PSG in 2022?",
+   "a": "Karim Benzema",
+   "p": 200,
+   "alt": [
+    "Benzema"
+   ]
+  },
+  {
+   "q": "Which Brazilian scored twice in stoppage time to rescue Real Madrid against Manchester City in the 2022 semi-final?",
+   "a": "Rodrygo",
+   "p": 400
+  },
+  {
+   "q": "Which Spanish striker scored twice late on to beat Bayern in the 2024 semi-final?",
+   "a": "Joselu",
+   "p": 400
+  },
+  {
+   "q": "Which coach won the Champions League with Real Madrid in 1998 and Bayern Munich in 2013?",
+   "a": "Jupp Heynckes",
+   "p": 400,
+   "alt": [
+    "Heynckes"
+   ]
+  },
+  {
+   "q": "Which classical composer's coronation anthem 'Zadok the Priest' inspired the Champions League anthem?",
+   "a": "George Frideric Handel",
+   "p": 400,
+   "alt": [
+    "Handel"
+   ]
+  },
+  {
+   "q": "How many stars make up the Champions League 'starball' logo?",
+   "a": "8",
+   "p": 400,
+   "alt": [
+    "Eight"
+   ]
+  },
+  {
+   "q": "What is the name of the official Adidas match ball design used in the Champions League since 2001?",
+   "a": "Finale",
+   "p": 400
+  },
+  {
+   "q": "In which season was the European Cup rebranded as the Champions League?",
+   "a": "1992-93",
+   "p": 400
+  },
+  {
+   "q": "From which season was the away goals rule scrapped in UEFA competitions?",
+   "a": "2021-22",
+   "p": 400
+  },
+  {
+   "q": "How many league-phase matches does each club play in the Champions League format introduced in 2024-25?",
+   "a": "8",
+   "p": 400,
+   "alt": [
+    "Eight"
+   ]
+  },
+  {
+   "q": "How many teams were in the Champions League group stage from 1999-2000 until 2023-24?",
+   "a": "32",
+   "p": 400,
+   "alt": [
+    "Thirty-two"
+   ]
+  },
+  {
+   "q": "What is UEFA's third-tier club competition, launched in 2021?",
+   "a": "Conference League",
+   "p": 400,
+   "alt": [
+    "UEFA Conference League",
+    "Europa Conference League"
+   ]
+  },
+  {
+   "q": "Which Italian club lost both the 2023 and 2025 finals?",
+   "a": "Inter Milan",
+   "p": 200,
+   "alt": [
+    "Inter",
+    "Internazionale"
+   ]
+  },
+  {
+   "q": "Which club lost the 2008 final to Manchester United on penalties?",
+   "a": "Chelsea",
+   "p": 200
+  },
+  {
+   "q": "Which Madrid stadium hosted the 2019 final?",
+   "a": "Metropolitano",
+   "p": 400,
+   "alt": [
+    "Wanda Metropolitano"
+   ]
+  },
+  {
+   "q": "Which Italian city hosted the 2009 final between Barcelona and Manchester United?",
+   "a": "Rome",
+   "p": 400
+  },
+  {
+   "q": "Which English Midlands club won back-to-back European Cups in 1979 and 1980?",
+   "a": "Nottingham Forest",
+   "p": 400,
+   "alt": [
+    "Forest"
+   ]
+  },
+  {
+   "q": "Which Barcelona defender scored the 95th-minute goal that completed the 6-1 win over PSG in 2017?",
+   "a": "Sergi Roberto",
+   "p": 400
+  },
+  {
+   "q": "Which Real Madrid forward scored a hat-trick to overturn a 2-0 deficit against Wolfsburg in 2016?",
+   "a": "Cristiano Ronaldo",
+   "p": 400,
+   "alt": [
+    "Ronaldo"
+   ]
+  },
+  {
+   "q": "Which Frenchman scored for Real Madrid in the 2018 final after charging down the goalkeeper's throw?",
+   "a": "Karim Benzema",
+   "p": 400,
+   "alt": [
+    "Benzema"
+   ]
+  },
+  {
+   "q": "Which 19-year-old academy player scored PSG's fifth goal in the 2025 final?",
+   "a": "Senny Mayulu",
+   "p": 600,
+   "alt": [
+    "Mayulu"
+   ]
+  },
+  {
+   "q": "Which Italian defender's stoppage-time goal helped Inter beat Barcelona 7-6 on aggregate in the 2025 semi-final?",
+   "a": "Francesco Acerbi",
+   "p": 600,
+   "alt": [
+    "Acerbi"
+   ]
+  },
+  {
+   "q": "From which city was the 2022 final moved to Paris?",
+   "a": "Saint Petersburg",
+   "p": 600,
+   "alt": [
+    "St Petersburg"
+   ]
+  },
+  {
+   "q": "Which Portuguese city hosted the 2021 final after it was moved from Istanbul?",
+   "a": "Porto",
+   "p": 600
+  },
+  {
+   "q": "In which city was the 2020 'Final Eight' tournament held behind closed doors?",
+   "a": "Lisbon",
+   "p": 600
+  },
+  {
+   "q": "How many of their 11 matches did Bayern win on the way to the 2020 title?",
+   "a": "11",
+   "p": 600,
+   "alt": [
+    "All 11",
+    "All of them"
+   ]
+  },
+  {
+   "q": "Which Benfica stadium hosted the 2014 final?",
+   "a": "Estadio da Luz",
+   "p": 600,
+   "alt": [
+    "Da Luz"
+   ]
+  },
+  {
+   "q": "Which Croatian striker scored an overhead kick for Juventus in the 2017 final?",
+   "a": "Mario Mandzukic",
+   "p": 400,
+   "alt": [
+    "Mandzukic"
+   ]
+  },
+  {
+   "q": "Which Croatian midfielder scored Barcelona's opener in the 2015 final?",
+   "a": "Ivan Rakitic",
+   "p": 600,
+   "alt": [
+    "Rakitic"
+   ]
+  },
+  {
+   "q": "Which Atletico defender hit the post in the 2016 final shootout?",
+   "a": "Juanfran",
+   "p": 600
+  },
+  {
+   "q": "Which German scored Bayern's goal in the 2012 final against Chelsea?",
+   "a": "Thomas Muller",
+   "p": 600,
+   "alt": [
+    "Muller"
+   ]
+  },
+  {
+   "q": "Which Arsenal goalkeeper became the first player sent off in a Champions League final, in 2006?",
+   "a": "Jens Lehmann",
+   "p": 400,
+   "alt": [
+    "Lehmann"
+   ]
+  },
+  {
+   "q": "Which Brazilian full-back scored Barcelona's winner in the 2006 final?",
+   "a": "Juliano Belletti",
+   "p": 600,
+   "alt": [
+    "Belletti"
+   ]
+  },
+  {
+   "q": "Which club lost the 2004 final to Porto?",
+   "a": "Monaco",
+   "p": 600,
+   "alt": [
+    "AS Monaco"
+   ]
+  },
+  {
+   "q": "In which German city was the 2004 final played?",
+   "a": "Gelsenkirchen",
+   "p": 600
+  },
+  {
+   "q": "Which club lost the 2002 final to Real Madrid at Hampden Park?",
+   "a": "Bayer Leverkusen",
+   "p": 600,
+   "alt": [
+    "Leverkusen"
+   ]
+  },
+  {
+   "q": "Which young goalkeeper came off the bench to make vital saves for Real Madrid in the 2002 final?",
+   "a": "Iker Casillas",
+   "p": 600,
+   "alt": [
+    "Casillas"
+   ]
+  },
+  {
+   "q": "Which Englishman scored a volley for Real Madrid in the 2000 final?",
+   "a": "Steve McManaman",
+   "p": 600,
+   "alt": [
+    "McManaman"
+   ]
+  },
+  {
+   "q": "Which Paris stadium hosted the 2000 and 2006 finals?",
+   "a": "Stade de France",
+   "p": 600
+  },
+  {
+   "q": "Which Montenegrin scored Real Madrid's winner in the 1998 final against Juventus?",
+   "a": "Predrag Mijatovic",
+   "p": 600,
+   "alt": [
+    "Mijatovic"
+   ]
+  },
+  {
+   "q": "Which Dortmund substitute scored with a lob seconds after coming on in the 1997 final?",
+   "a": "Lars Ricken",
+   "p": 600,
+   "alt": [
+    "Ricken"
+   ]
+  },
+  {
+   "q": "Which club did Juventus beat on penalties in the 1996 final in Rome?",
+   "a": "Ajax",
+   "p": 600
+  },
+  {
+   "q": "Which 18-year-old scored Ajax's winner in the 1995 final against Milan?",
+   "a": "Patrick Kluivert",
+   "p": 600,
+   "alt": [
+    "Kluivert"
+   ]
+  },
+  {
+   "q": "Which Montenegrin scored a famous lob as Milan beat Barcelona 4-0 in the 1994 final?",
+   "a": "Dejan Savicevic",
+   "p": 600,
+   "alt": [
+    "Savicevic"
+   ]
+  },
+  {
+   "q": "Which Ivorian-born defender headed Marseille's winner in the 1993 final?",
+   "a": "Basile Boli",
+   "p": 600,
+   "alt": [
+    "Boli"
+   ]
+  },
+  {
+   "q": "Which Italian club lost the 1992 final to Barcelona at Wembley?",
+   "a": "Sampdoria",
+   "p": 600
+  },
+  {
+   "q": "In which Italian city was the 1991 final between Red Star and Marseille played?",
+   "a": "Bari",
+   "p": 600
+  },
+  {
+   "q": "Which Dutchman scored Milan's winner in the 1990 final and later coached Barcelona to the 2006 title?",
+   "a": "Frank Rijkaard",
+   "p": 600,
+   "alt": [
+    "Rijkaard"
+   ]
+  },
+  {
+   "q": "At which stadium did Milan beat Steaua 4-0 in the 1989 final?",
+   "a": "Camp Nou",
+   "p": 600,
+   "alt": [
+    "Nou Camp"
+   ]
+  },
+  {
+   "q": "Which Romanian goalkeeper saved four penalties in the 1986 final shootout?",
+   "a": "Helmuth Duckadam",
+   "p": 600,
+   "alt": [
+    "Duckadam"
+   ]
+  },
+  {
+   "q": "In which Spanish city was the 1986 final between Steaua and Barcelona played?",
+   "a": "Seville",
+   "p": 600,
+   "alt": [
+    "Sevilla"
+   ]
+  },
+  {
+   "q": "Which Frenchman scored the penalty that won the 1985 final for Juventus?",
+   "a": "Michel Platini",
+   "p": 400,
+   "alt": [
+    "Platini"
+   ]
+  },
+  {
+   "q": "Which German midfielder scored Hamburg's winner in the 1983 final?",
+   "a": "Felix Magath",
+   "p": 600,
+   "alt": [
+    "Magath"
+   ]
+  },
+  {
+   "q": "Which striker scored Aston Villa's winner in the 1982 final?",
+   "a": "Peter Withe",
+   "p": 600,
+   "alt": [
+    "Withe"
+   ]
+  },
+  {
+   "q": "Which reserve goalkeeper came on early for Aston Villa in the 1982 final and kept a clean sheet?",
+   "a": "Nigel Spink",
+   "p": 600,
+   "alt": [
+    "Spink"
+   ]
+  },
+  {
+   "q": "Which full-back scored Liverpool's winner against Real Madrid in the 1981 final?",
+   "a": "Alan Kennedy",
+   "p": 600,
+   "alt": [
+    "Kennedy"
+   ]
+  },
+  {
+   "q": "Which Scottish winger scored Nottingham Forest's winner in the 1980 final?",
+   "a": "John Robertson",
+   "p": 600,
+   "alt": [
+    "Robertson"
+   ]
+  },
+  {
+   "q": "Which British record signing scored Nottingham Forest's winner in the 1979 final?",
+   "a": "Trevor Francis",
+   "p": 600,
+   "alt": [
+    "Francis"
+   ]
+  },
+  {
+   "q": "Which Swedish club lost the 1979 final to Nottingham Forest?",
+   "a": "Malmo",
+   "p": 600,
+   "alt": [
+    "Malmo FF"
+   ]
+  },
+  {
+   "q": "Who scored Liverpool's winner against Club Brugge in the 1978 final?",
+   "a": "Kenny Dalglish",
+   "p": 400,
+   "alt": [
+    "Dalglish"
+   ]
+  },
+  {
+   "q": "Which German club lost the 1977 final to Liverpool in Rome?",
+   "a": "Borussia Monchengladbach",
+   "p": 600,
+   "alt": [
+    "Monchengladbach",
+    "Gladbach"
+   ]
+  },
+  {
+   "q": "Which French club lost the 1976 final to Bayern at Hampden Park?",
+   "a": "Saint-Etienne",
+   "p": 600,
+   "alt": [
+    "St Etienne"
+   ]
+  },
+  {
+   "q": "Which English club lost the 1975 final to Bayern Munich in Paris?",
+   "a": "Leeds United",
+   "p": 600,
+   "alt": [
+    "Leeds"
+   ]
+  },
+  {
+   "q": "Which club lost to Bayern in a replayed 1974 final, the only replay in the competition's history?",
+   "a": "Atletico Madrid",
+   "p": 600,
+   "alt": [
+    "Atletico"
+   ]
+  },
+  {
+   "q": "Which Dutch legend scored both goals in Ajax's 2-0 win over Inter in the 1972 final?",
+   "a": "Johan Cruyff",
+   "p": 400,
+   "alt": [
+    "Cruyff"
+   ]
+  },
+  {
+   "q": "Which Hungarian legend coached Panathinaikos to the 1971 final?",
+   "a": "Ferenc Puskas",
+   "p": 600,
+   "alt": [
+    "Puskas"
+   ]
+  },
+  {
+   "q": "Which Austrian coach won the European Cup with Feyenoord in 1970 and Hamburg in 1983?",
+   "a": "Ernst Happel",
+   "p": 600,
+   "alt": [
+    "Happel"
+   ]
+  },
+  {
+   "q": "Which Milan striker scored a hat-trick in the 1969 final against Ajax?",
+   "a": "Pierino Prati",
+   "p": 600,
+   "alt": [
+    "Prati"
+   ]
+  },
+  {
+   "q": "Which Yugoslav club lost the 1966 final to Real Madrid?",
+   "a": "Partizan",
+   "p": 600,
+   "alt": [
+    "Partizan Belgrade"
+   ]
+  },
+  {
+   "q": "Which Argentine-born coach won back-to-back European Cups with Inter in 1964 and 1965?",
+   "a": "Helenio Herrera",
+   "p": 600,
+   "alt": [
+    "Herrera"
+   ]
+  },
+  {
+   "q": "Which Brazilian-born striker scored twice as Milan won the 1963 final at Wembley?",
+   "a": "Jose Altafini",
+   "p": 600,
+   "alt": [
+    "Altafini"
+   ]
+  },
+  {
+   "q": "Which club did Benfica beat 3-2 in the 1961 final in Bern?",
+   "a": "Barcelona",
+   "p": 600
+  },
+  {
+   "q": "Which player scored in each of the first five European Cup finals from 1956 to 1960?",
+   "a": "Alfredo Di Stefano",
+   "p": 400,
+   "alt": [
+    "Di Stefano"
+   ]
+  },
+  {
+   "q": "Which French club lost the first European Cup final in 1956 and again in 1959?",
+   "a": "Reims",
+   "p": 600,
+   "alt": [
+    "Stade de Reims"
+   ]
+  },
+  {
+   "q": "Which French sports newspaper editor proposed the European Cup in 1955?",
+   "a": "Gabriel Hanot",
+   "p": 600,
+   "alt": [
+    "Hanot"
+   ]
+  },
+  {
+   "q": "Which English composer arranged the Champions League anthem in 1992?",
+   "a": "Tony Britten",
+   "p": 600,
+   "alt": [
+    "Britten"
+   ]
+  },
+  {
+   "q": "In which three languages is the Champions League anthem sung?",
+   "a": "English, French and German",
+   "p": 600
+  },
+  {
+   "q": "Which English club kept the original trophy permanently after winning its fifth title in 2005?",
+   "a": "Liverpool",
+   "p": 600
+  },
+  {
+   "q": "In which Swiss town is UEFA's headquarters?",
+   "a": "Nyon",
+   "p": 600
+  },
+  {
+   "q": "Which Swiss jeweller designed the current trophy, introduced in 1967?",
+   "a": "Jurg Stadelmann",
+   "p": 600,
+   "alt": [
+    "Stadelmann"
+   ]
+  },
+  {
+   "q": "Which Cypriot club reached the Champions League quarter-finals in 2012?",
+   "a": "APOEL",
+   "p": 600,
+   "alt": [
+    "APOEL Nicosia"
+   ]
+  },
+  {
+   "q": "Which reigning English champions reached the quarter-finals on their Champions League debut in 2016-17?",
+   "a": "Leicester City",
+   "p": 600,
+   "alt": [
+    "Leicester"
+   ]
+  },
+  {
+   "q": "Which Greek defender's header completed Roma's 3-0 comeback against Barcelona in 2018?",
+   "a": "Kostas Manolas",
+   "p": 600,
+   "alt": [
+    "Manolas"
+   ]
+  },
+  {
+   "q": "Which club overturned a 4-1 first-leg defeat to beat AC Milan 4-0 in the 2004 quarter-final?",
+   "a": "Deportivo La Coruna",
+   "p": 600,
+   "alt": [
+    "Deportivo",
+    "Depor"
+   ]
+  },
+  {
+   "q": "Which forward's stoppage-time VAR penalty knocked PSG out against Manchester United in 2019?",
+   "a": "Marcus Rashford",
+   "p": 600,
+   "alt": [
+    "Rashford"
+   ]
+  },
+  {
+   "q": "Which Brazilian striker scored five goals for Shakhtar against BATE Borisov in 2014?",
+   "a": "Luiz Adriano",
+   "p": 600
+  },
+  {
+   "q": "Which German coach won the European Cup with Borussia Dortmund in 1997 and Bayern in 2001?",
+   "a": "Ottmar Hitzfeld",
+   "p": 600,
+   "alt": [
+    "Hitzfeld"
+   ]
+  },
+  {
+   "q": "Which Italian coach won the 1996 Champions League with Juventus?",
+   "a": "Marcello Lippi",
+   "p": 600,
+   "alt": [
+    "Lippi"
+   ]
+  },
+  {
+   "q": "Which Belgian coach led Marseille to the 1993 title?",
+   "a": "Raymond Goethals",
+   "p": 600,
+   "alt": [
+    "Goethals"
+   ]
+  },
+  {
+   "q": "Which Spanish coach won the Champions League with Real Madrid in 2000 and 2002?",
+   "a": "Vicente del Bosque",
+   "p": 600,
+   "alt": [
+    "Del Bosque"
+   ]
+  },
+  {
+   "q": "Which Italian coach led Milan to the 1994 title, beating Barcelona 4-0?",
+   "a": "Fabio Capello",
+   "p": 600,
+   "alt": [
+    "Capello"
+   ]
+  },
+  {
+   "q": "What was the penalty shootout score in the 2005 final?",
+   "a": "3-2",
+   "p": 600
+  },
+  {
+   "q": "Which Dutch club lost the 1969 final to AC Milan?",
+   "a": "Ajax",
+   "p": 600
+  },
+  {
+   "q": "Which Liverpool captain inspired the comeback and lifted the trophy in 2005?",
+   "a": "Steven Gerrard",
+   "p": 200,
+   "alt": [
+    "Gerrard"
+   ]
+  },
+  {
+   "q": "Which country provided both finalists in 2019 and 2021?",
+   "a": "England",
+   "p": 200
+  },
+  {
+   "q": "Which country provided both finalists in 2000, 2014 and 2016?",
+   "a": "Spain",
+   "p": 200
+  },
+  {
+   "q": "Which country provided both finalists in 2013?",
+   "a": "Germany",
+   "p": 200
+  },
+  {
+   "q": "Which Italian club won the treble under Jose Mourinho in 2010?",
+   "a": "Inter Milan",
+   "p": 200,
+   "alt": [
+    "Inter",
+    "Internazionale"
+   ]
+  },
+  {
+   "q": "Which club became the first English winner of the European Cup in 1968?",
+   "a": "Manchester United",
+   "p": 200,
+   "alt": [
+    "Man United"
+   ]
+  },
+  {
+   "q": "What Spanish name was given to Real Madrid's tenth European Cup, won in 2014?",
+   "a": "La Decima",
+   "p": 200,
+   "alt": [
+    "Decima"
+   ]
+  },
+  {
+   "q": "In a penalty shootout, how many kicks does each team take before sudden death?",
+   "a": "5",
+   "p": 200,
+   "alt": [
+    "Five"
+   ]
+  },
+  {
+   "q": "How many minutes of extra time are played in total if a final is level after 90 minutes?",
+   "a": "30",
+   "p": 200,
+   "alt": [
+    "Thirty"
+   ]
+  },
+  {
+   "q": "Which Italian club won the finals of 2003 and 2007?",
+   "a": "AC Milan",
+   "p": 200,
+   "alt": [
+    "Milan"
+   ]
+  },
+  {
+   "q": "Which Brazilian playmaker won the Champions League with Barcelona in 2006?",
+   "a": "Ronaldinho",
+   "p": 200
+  },
+  {
+   "q": "What nickname is given to Liverpool's comeback in the 2005 final?",
+   "a": "The Miracle of Istanbul",
+   "p": 200,
+   "alt": [
+    "Miracle of Istanbul"
+   ]
+  },
+  {
+   "q": "Which Croatian midfielder played in all three of Real Madrid's 2016-2018 winning finals?",
+   "a": "Luka Modric",
+   "p": 200,
+   "alt": [
+    "Modric"
+   ]
+  },
+  {
+   "q": "Manchester City, the 2023 champions, are owned by a group from which UAE emirate?",
+   "a": "Abu Dhabi",
+   "p": 200,
+   "ar": "أبوظبي"
+  },
+  {
+   "q": "PSG, the 2025 champions, are owned by investors from which Gulf country?",
+   "a": "Qatar",
+   "p": 200,
+   "ar": "قطر"
+  },
+  {
+   "q": "How many points does a team get for a win in the Champions League league phase?",
+   "a": "3",
+   "p": 200,
+   "alt": [
+    "Three"
+   ]
+  },
+  {
+   "q": "Which club won three Champions League titles in a row from 2016 to 2018?",
+   "a": "Real Madrid",
+   "p": 200
+  },
+  {
+   "q": "Which club beat Liverpool in both the 2018 and 2022 finals?",
+   "a": "Real Madrid",
+   "p": 200
+  },
+  {
+   "q": "Which Spanish club won the 2006 final in Paris?",
+   "a": "Barcelona",
+   "p": 200,
+   "alt": [
+    "FC Barcelona"
+   ]
+  },
+  {
+   "q": "What does the 'E' in UEFA stand for?",
+   "a": "European",
+   "p": 200
+  },
+  {
+   "q": "In what year was the first European Cup final played?",
+   "a": "1956",
+   "p": 200
+  },
+  {
+   "q": "With which club did Cristiano Ronaldo win his first Champions League in 2008?",
+   "a": "Manchester United",
+   "p": 200,
+   "alt": [
+    "Man United"
+   ]
+  },
+  {
+   "q": "Which Brazilian won the 2007 Ballon d'Or after winning the Champions League with Milan?",
+   "a": "Kaka",
+   "p": 200
+  },
+  {
+   "q": "Which Manchester United midfielder took both corners that led to the 1999 stoppage-time goals?",
+   "a": "David Beckham",
+   "p": 200,
+   "alt": [
+    "Beckham"
+   ]
+  },
+  {
+   "q": "Which French defender, back from illness, was handed the armband to lift the trophy for Barcelona in 2011?",
+   "a": "Eric Abidal",
+   "p": 200,
+   "alt": [
+    "Abidal"
+   ]
+  },
+  {
+   "q": "Which Argentine manager led Tottenham to the 2019 final?",
+   "a": "Mauricio Pochettino",
+   "p": 200,
+   "alt": [
+    "Pochettino"
+   ]
+  },
+  {
+   "q": "Which Portuguese club won the European Cup in 1961 and 1962?",
+   "a": "Benfica",
+   "p": 400
+  },
+  {
+   "q": "Which German club did Inter beat in the 2010 final?",
+   "a": "Bayern Munich",
+   "p": 400,
+   "alt": [
+    "Bayern"
+   ]
+  },
+  {
+   "q": "Which German goalkeeper won the Champions League with Bayern in 2013 and 2020?",
+   "a": "Manuel Neuer",
+   "p": 200,
+   "alt": [
+    "Neuer"
+   ]
+  },
+  {
+   "q": "Which Cameroonian scored for Barcelona in both the 2006 and 2009 finals?",
+   "a": "Samuel Eto'o",
+   "p": 400,
+   "alt": [
+    "Eto'o"
+   ]
+  },
+  {
+   "q": "Which Spanish striker curled in Barcelona's third goal in the 2011 final?",
+   "a": "David Villa",
+   "p": 400,
+   "alt": [
+    "Villa"
+   ]
+  },
+  {
+   "q": "Who scored Manchester United's goal in the 2011 final?",
+   "a": "Wayne Rooney",
+   "p": 400,
+   "alt": [
+    "Rooney"
+   ]
+  },
+  {
+   "q": "Who scored Chelsea's goal in the 2008 final in Moscow?",
+   "a": "Frank Lampard",
+   "p": 400,
+   "alt": [
+    "Lampard"
+   ]
+  },
+  {
+   "q": "Which Chelsea striker rounded Victor Valdes to seal the 2012 semi-final at the Camp Nou?",
+   "a": "Fernando Torres",
+   "p": 400,
+   "alt": [
+    "Torres"
+   ]
+  },
+  {
+   "q": "Which Brazilian scored Barcelona's stoppage-time third goal in the 2015 final?",
+   "a": "Neymar",
+   "p": 400,
+   "alt": [
+    "Neymar Jr"
+   ]
+  },
+  {
+   "q": "Which Uruguayan scored Barcelona's second goal in the 2015 final?",
+   "a": "Luis Suarez",
+   "p": 400,
+   "alt": [
+    "Suarez"
+   ]
+  },
+  {
+   "q": "Which Liverpool captain lifted the trophy in 2019?",
+   "a": "Jordan Henderson",
+   "p": 200,
+   "alt": [
+    "Henderson"
+   ]
+  },
+  {
+   "q": "Which Brazilian left-back lifted the trophy as Real Madrid captain in 2022?",
+   "a": "Marcelo",
+   "p": 400
+  },
+  {
+   "q": "Which German midfielder won the trophy with Bayern in 2013 and then several more with Real Madrid?",
+   "a": "Toni Kroos",
+   "p": 200,
+   "alt": [
+    "Kroos"
+   ]
+  },
+  {
+   "q": "Which Dutch striker, nicknamed 'the Swan of Utrecht', scored twice in the 1989 final?",
+   "a": "Marco van Basten",
+   "p": 400,
+   "alt": [
+    "Van Basten"
+   ]
+  },
+  {
+   "q": "Which dreadlocked Dutch star also scored twice for Milan in the 1989 final?",
+   "a": "Ruud Gullit",
+   "p": 400,
+   "alt": [
+    "Gullit"
+   ]
+  },
+  {
+   "q": "Which German captain, nicknamed 'Der Kaiser', lifted three straight European Cups for Bayern from 1974 to 1976?",
+   "a": "Franz Beckenbauer",
+   "p": 400,
+   "alt": [
+    "Beckenbauer"
+   ]
+  },
+  {
+   "q": "Which German striker, nicknamed 'Der Bomber', scored in the 1974 replay and the 1975 final?",
+   "a": "Gerd Muller",
+   "p": 400,
+   "alt": [
+    "Muller"
+   ]
+  },
+  {
+   "q": "In which principality is the Champions League draw traditionally held each August?",
+   "a": "Monaco",
+   "p": 400
+  },
+  {
+   "q": "Which country provided both finalists in 2003?",
+   "a": "Italy",
+   "p": 400
+  },
+  {
+   "q": "Which Barcelona captain lifted the trophy in 2009?",
+   "a": "Carles Puyol",
+   "p": 400,
+   "alt": [
+    "Puyol"
+   ]
+  },
+  {
+   "q": "How many European Cups did Liverpool win between 1977 and 1984?",
+   "a": "4",
+   "p": 400,
+   "alt": [
+    "Four"
+   ]
+  },
+  {
+   "q": "Which Dutch coach led Bayern Munich in the 2010 final?",
+   "a": "Louis van Gaal",
+   "p": 600,
+   "alt": [
+    "Van Gaal"
+   ]
+  },
+  {
+   "q": "Which Spanish forward scored Barcelona's opener in the 2011 final?",
+   "a": "Pedro",
+   "p": 600,
+   "alt": [
+    "Pedro Rodriguez"
+   ]
+  },
+  {
+   "q": "Which Spanish striker scored Juventus's goal against Barcelona in the 2015 final?",
+   "a": "Alvaro Morata",
+   "p": 600,
+   "alt": [
+    "Morata"
+   ]
+  },
+  {
+   "q": "Which Brazilian midfielder chipped Victor Valdes for Chelsea in the 2012 semi-final at the Camp Nou?",
+   "a": "Ramires",
+   "p": 600
+  },
+  {
+   "q": "Which Italian club did Chelsea beat 4-1 after extra time in a 2012 last-16 comeback?",
+   "a": "Napoli",
+   "p": 600,
+   "alt": [
+    "SSC Napoli"
+   ]
+  },
+  {
+   "q": "Which Brazilian midfielder scored Real Madrid's second goal in the 2017 final?",
+   "a": "Casemiro",
+   "p": 600
+  },
+  {
+   "q": "Which Spanish winger scored Real Madrid's fourth goal in the 2017 final?",
+   "a": "Marco Asensio",
+   "p": 600,
+   "alt": [
+    "Asensio"
+   ]
+  },
+  {
+   "q": "Which Brazilian left-back scored Real Madrid's third goal in the 2014 final?",
+   "a": "Marcelo",
+   "p": 600
+  },
+  {
+   "q": "Which Argentine winger was named man of the match in the 2014 final?",
+   "a": "Angel Di Maria",
+   "p": 600,
+   "alt": [
+    "Di Maria"
+   ]
+  },
+  {
+   "q": "Which Algerian winger scored three goals over two legs to knock PSG out of the 2021 semi-finals?",
+   "a": "Riyad Mahrez",
+   "p": 600,
+   "ar": "رياض محرز",
+   "alt": [
+    "Mahrez"
+   ]
+  },
+  {
+   "q": "Which Italian defender captained AC Milan to the 1989 and 1990 titles?",
+   "a": "Franco Baresi",
+   "p": 600,
+   "alt": [
+    "Baresi"
+   ]
+  },
+  {
+   "q": "Which Spanish midfielder scored Liverpool's third goal in the 2005 final, from the rebound of his own penalty?",
+   "a": "Xabi Alonso",
+   "p": 400,
+   "alt": [
+    "Alonso"
+   ]
+  },
+  {
+   "q": "Which Czech midfielder scored Liverpool's second goal in the 2005 final?",
+   "a": "Vladimir Smicer",
+   "p": 600,
+   "alt": [
+    "Smicer"
+   ]
+  },
+  {
+   "q": "Which Argentine defender captained Inter to the 2010 title?",
+   "a": "Javier Zanetti",
+   "p": 600,
+   "alt": [
+    "Zanetti"
+   ]
+  }
+ ]
+}

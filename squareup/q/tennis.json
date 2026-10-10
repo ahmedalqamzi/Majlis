@@ -1,0 +1,2025 @@
+{
+ "id": "tennis",
+ "name": "Tennis",
+ "questions": [
+  {
+   "q": "Which Grand Slam is played at Flushing Meadows in New York?",
+   "a": "US Open",
+   "p": 200
+  },
+  {
+   "q": "Which Grand Slam is played at Melbourne Park?",
+   "a": "Australian Open",
+   "p": 200
+  },
+  {
+   "q": "Which Grand Slam is the first of the tennis year?",
+   "a": "Australian Open",
+   "p": 200
+  },
+  {
+   "q": "On what type of surface is the US Open played?",
+   "a": "Hard court",
+   "p": 200,
+   "alt": [
+    "Hard",
+    "Acrylic hard court"
+   ]
+  },
+  {
+   "q": "In which month are the Wimbledon singles finals played?",
+   "a": "July",
+   "p": 200
+  },
+  {
+   "q": "What colour clothing must players wear at Wimbledon?",
+   "a": "White",
+   "p": 200
+  },
+  {
+   "q": "Which fruit, served with cream, is a famous Wimbledon tradition?",
+   "a": "Strawberries",
+   "p": 200,
+   "alt": [
+    "Strawberry"
+   ]
+  },
+  {
+   "q": "What is a legal serve that the receiver fails to touch called?",
+   "a": "Ace",
+   "p": 200
+  },
+  {
+   "q": "What is it called when a server misses both serves and loses the point?",
+   "a": "Double fault",
+   "p": 200
+  },
+  {
+   "q": "What is called when a serve clips the net and lands in, so it is replayed?",
+   "a": "Let",
+   "p": 200
+  },
+  {
+   "q": "After deuce, what is the score called when one player wins the next point?",
+   "a": "Advantage",
+   "p": 200,
+   "alt": [
+    "Ad",
+    "Advantage in/out"
+   ]
+  },
+  {
+   "q": "How many games are normally needed to win a set (by two games)?",
+   "a": "6",
+   "p": 200,
+   "alt": [
+    "Six"
+   ]
+  },
+  {
+   "q": "How many sets must a man win to take a Grand Slam singles match?",
+   "a": "3",
+   "p": 200,
+   "alt": [
+    "Three"
+   ]
+  },
+  {
+   "q": "How many Grand Slam singles titles did Roger Federer win in his career?",
+   "a": "20",
+   "p": 200,
+   "alt": [
+    "Twenty"
+   ]
+  },
+  {
+   "q": "How many Grand Slam singles titles did Serena Williams win?",
+   "a": "23",
+   "p": 200,
+   "alt": [
+    "Twenty-three"
+   ]
+  },
+  {
+   "q": "How many Grand Slam singles titles did Rafael Nadal win in his career?",
+   "a": "22",
+   "p": 200,
+   "alt": [
+    "Twenty-two"
+   ]
+  },
+  {
+   "q": "How many French Open singles titles did Rafael Nadal win?",
+   "a": "14",
+   "p": 200,
+   "alt": [
+    "Fourteen"
+   ]
+  },
+  {
+   "q": "How many Wimbledon singles titles did Roger Federer win?",
+   "a": "8",
+   "p": 200,
+   "alt": [
+    "Eight"
+   ]
+  },
+  {
+   "q": "Which country did Roger Federer represent?",
+   "a": "Switzerland",
+   "p": 200
+  },
+  {
+   "q": "Which country does Novak Djokovic represent?",
+   "a": "Serbia",
+   "p": 200
+  },
+  {
+   "q": "On which Spanish island was Rafael Nadal born?",
+   "a": "Mallorca",
+   "p": 200,
+   "alt": [
+    "Majorca"
+   ]
+  },
+  {
+   "q": "With which hand did Rafael Nadal play his forehand?",
+   "a": "Left",
+   "p": 200,
+   "alt": [
+    "Left hand",
+    "Left-handed"
+   ]
+  },
+  {
+   "q": "Which older sister of Serena won five Wimbledon singles titles?",
+   "a": "Venus Williams",
+   "p": 200,
+   "alt": [
+    "Venus"
+   ]
+  },
+  {
+   "q": "Which country does Ons Jabeur represent?",
+   "a": "Tunisia",
+   "p": 200,
+   "ar": "تونس"
+  },
+  {
+   "q": "Which Tunisian became the first Arab woman to reach a Grand Slam singles final, at Wimbledon in 2022?",
+   "a": "Ons Jabeur",
+   "p": 200,
+   "ar": "أنس جابر",
+   "alt": [
+    "Jabeur"
+   ]
+  },
+  {
+   "q": "Which Scot won Wimbledon in 2013, ending a long wait for a British men's champion?",
+   "a": "Andy Murray",
+   "p": 200,
+   "alt": [
+    "Murray"
+   ]
+  },
+  {
+   "q": "Which Swede won five Wimbledon titles in a row from 1976 to 1980?",
+   "a": "Bjorn Borg",
+   "p": 200,
+   "alt": [
+    "Borg"
+   ]
+  },
+  {
+   "q": "Which fiery left-handed American had a famous rivalry with Borg and won Wimbledon three times?",
+   "a": "John McEnroe",
+   "p": 200,
+   "alt": [
+    "McEnroe"
+   ]
+  },
+  {
+   "q": "Which American nicknamed 'Pistol Pete' won seven Wimbledon titles?",
+   "a": "Pete Sampras",
+   "p": 200,
+   "alt": [
+    "Sampras"
+   ]
+  },
+  {
+   "q": "Which American eight-time Grand Slam champion married Steffi Graf?",
+   "a": "Andre Agassi",
+   "p": 200,
+   "alt": [
+    "Agassi"
+   ]
+  },
+  {
+   "q": "Which German won all four majors and Olympic gold in 1988?",
+   "a": "Steffi Graf",
+   "p": 200,
+   "alt": [
+    "Graf"
+   ]
+  },
+  {
+   "q": "Which 17-year-old Russian beat Serena Williams in the 2004 Wimbledon final?",
+   "a": "Maria Sharapova",
+   "p": 200,
+   "alt": [
+    "Sharapova"
+   ]
+  },
+  {
+   "q": "Which Japanese player beat Serena Williams in the 2018 US Open final?",
+   "a": "Naomi Osaka",
+   "p": 200,
+   "alt": [
+    "Osaka"
+   ]
+  },
+  {
+   "q": "Which British teenager won the 2021 US Open as a qualifier?",
+   "a": "Emma Raducanu",
+   "p": 200,
+   "alt": [
+    "Raducanu"
+   ]
+  },
+  {
+   "q": "Which Spaniard beat Novak Djokovic in both the 2023 and 2024 Wimbledon finals?",
+   "a": "Carlos Alcaraz",
+   "p": 200,
+   "alt": [
+    "Alcaraz"
+   ]
+  },
+  {
+   "q": "Which Italian won his first Grand Slam at the 2024 Australian Open?",
+   "a": "Jannik Sinner",
+   "p": 200,
+   "alt": [
+    "Sinner"
+   ]
+  },
+  {
+   "q": "What is the name of Wimbledon's main show court?",
+   "a": "Centre Court",
+   "p": 200
+  },
+  {
+   "q": "The US Open's main stadium is named after which American champion?",
+   "a": "Arthur Ashe",
+   "p": 200,
+   "alt": [
+    "Ashe"
+   ]
+  },
+  {
+   "q": "The Australian Open's main arena is named after which Australian legend?",
+   "a": "Rod Laver",
+   "p": 200,
+   "alt": [
+    "Laver"
+   ]
+  },
+  {
+   "q": "What is the name of the main international men's team competition in tennis?",
+   "a": "Davis Cup",
+   "p": 200
+  },
+  {
+   "q": "Which competition between Team Europe and Team World began in 2017?",
+   "a": "Laver Cup",
+   "p": 200
+  },
+  {
+   "q": "Who partnered Roger Federer in doubles in his final match, at the 2022 Laver Cup?",
+   "a": "Rafael Nadal",
+   "p": 200,
+   "alt": [
+    "Nadal",
+    "Rafa Nadal"
+   ]
+  },
+  {
+   "q": "Which Swiss star won the Dubai Duty Free Tennis Championships eight times?",
+   "a": "Roger Federer",
+   "p": 200,
+   "alt": [
+    "Federer"
+   ]
+  },
+  {
+   "q": "Federer and Agassi famously hit balls on the helipad of which Dubai hotel in 2005?",
+   "a": "Burj Al Arab",
+   "p": 200,
+   "ar": "برج العرب"
+  },
+  {
+   "q": "In which UAE city is the Mubadala World Tennis Championship exhibition held?",
+   "a": "Abu Dhabi",
+   "p": 200,
+   "ar": "أبوظبي"
+  },
+  {
+   "q": "What is a shot hit before the ball bounces called?",
+   "a": "Volley",
+   "p": 200
+  },
+  {
+   "q": "What is a hard overhead shot, like a serve, called?",
+   "a": "Smash",
+   "p": 200,
+   "alt": [
+    "Overhead smash"
+   ]
+  },
+  {
+   "q": "What shot sends the ball high over a player at the net?",
+   "a": "Lob",
+   "p": 200
+  },
+  {
+   "q": "What is a soft shot that lands just over the net called?",
+   "a": "Drop shot",
+   "p": 200
+  },
+  {
+   "q": "What is the line at the back of the court called?",
+   "a": "Baseline",
+   "p": 200
+  },
+  {
+   "q": "What is the camera system used for line-call challenges called?",
+   "a": "Hawk-Eye",
+   "p": 200,
+   "alt": [
+    "Hawkeye"
+   ]
+  },
+  {
+   "q": "What fault is called when a server steps on the baseline while serving?",
+   "a": "Foot fault",
+   "p": 200
+  },
+  {
+   "q": "Which organisation runs the men's professional tour?",
+   "a": "ATP",
+   "p": 200,
+   "alt": [
+    "Association of Tennis Professionals"
+   ]
+  },
+  {
+   "q": "Which organisation runs the women's professional tour?",
+   "a": "WTA",
+   "p": 200,
+   "alt": [
+    "Women's Tennis Association"
+   ]
+  },
+  {
+   "q": "What is winning all four majors in the same calendar year called?",
+   "a": "Calendar Grand Slam",
+   "p": 200,
+   "alt": [
+    "Grand Slam",
+    "Calendar Slam"
+   ]
+  },
+  {
+   "q": "Whom did Nadal beat in the famous 2008 Wimbledon final that finished in near darkness?",
+   "a": "Roger Federer",
+   "p": 200,
+   "alt": [
+    "Federer"
+   ]
+  },
+  {
+   "q": "Which three men are known as tennis's 'Big Three'?",
+   "a": "Federer, Nadal and Djokovic",
+   "p": 200
+  },
+  {
+   "q": "What portmanteau name is given to the Federer-Nadal rivalry?",
+   "a": "Fedal",
+   "p": 200
+  },
+  {
+   "q": "Whom did Djokovic beat in the 2024 Olympic final in Paris?",
+   "a": "Carlos Alcaraz",
+   "p": 200,
+   "alt": [
+    "Alcaraz"
+   ]
+  },
+  {
+   "q": "How many points must a player reach to win a standard tie-break (by two)?",
+   "a": "7",
+   "p": 200,
+   "alt": [
+    "Seven"
+   ]
+  },
+  {
+   "q": "What is the name for a doubles match with one man and one woman per side?",
+   "a": "Mixed doubles",
+   "p": 200
+  },
+  {
+   "q": "Which Serbian won his first Grand Slam at the 2008 Australian Open?",
+   "a": "Novak Djokovic",
+   "p": 200,
+   "alt": [
+    "Djokovic"
+   ]
+  },
+  {
+   "q": "Which Australian-born world No. 1 retired in 2022 shortly after winning the Australian Open?",
+   "a": "Ashleigh Barty",
+   "p": 200,
+   "alt": [
+    "Ash Barty",
+    "Barty"
+   ]
+  },
+  {
+   "q": "Which American teenager won the 2023 US Open aged 19?",
+   "a": "Coco Gauff",
+   "p": 200,
+   "alt": [
+    "Gauff"
+   ]
+  },
+  {
+   "q": "Which Polish star won her first Grand Slam at the 2020 French Open?",
+   "a": "Iga Swiatek",
+   "p": 200,
+   "alt": [
+    "Swiatek"
+   ]
+  },
+  {
+   "q": "Which Belarusian won her first Grand Slam at the 2023 Australian Open?",
+   "a": "Aryna Sabalenka",
+   "p": 200,
+   "alt": [
+    "Sabalenka"
+   ]
+  },
+  {
+   "q": "In which Spanish city did Nadal play his final professional match, at the 2024 Davis Cup Finals?",
+   "a": "Malaga",
+   "p": 200
+  },
+  {
+   "q": "How many players are on each side in doubles?",
+   "a": "2",
+   "p": 200,
+   "alt": [
+    "Two"
+   ]
+  },
+  {
+   "q": "In which city were the ATP Finals held at the O2 Arena from 2009 to 2020?",
+   "a": "London",
+   "p": 200
+  },
+  {
+   "q": "In which Saudi city were the WTA Finals held in 2024?",
+   "a": "Riyadh",
+   "p": 200,
+   "ar": "الرياض"
+  },
+  {
+   "q": "Whom did Djokovic beat in the 2019 Wimbledon final, saving two match points?",
+   "a": "Roger Federer",
+   "p": 200,
+   "alt": [
+    "Federer"
+   ]
+  },
+  {
+   "q": "Which Spaniard won the 2008 Olympic men's singles gold in Beijing?",
+   "a": "Rafael Nadal",
+   "p": 200,
+   "alt": [
+    "Nadal"
+   ]
+  },
+  {
+   "q": "Which American won Olympic singles gold at London 2012, completing a career Golden Slam?",
+   "a": "Serena Williams",
+   "p": 200,
+   "alt": [
+    "Serena"
+   ]
+  },
+  {
+   "q": "What two-word name describes winning all four majors at any point in a career?",
+   "a": "Career Grand Slam",
+   "p": 200,
+   "alt": [
+    "Career Slam"
+   ]
+  },
+  {
+   "q": "Which country is Rod Laver from?",
+   "a": "Australia",
+   "p": 200
+  },
+  {
+   "q": "Which country won the 2019 Davis Cup Finals in Madrid, led by Rafael Nadal?",
+   "a": "Spain",
+   "p": 200
+  },
+  {
+   "q": "Which Swiss city was Roger Federer born in?",
+   "a": "Basel",
+   "p": 200,
+   "alt": [
+    "Basle"
+   ]
+  },
+  {
+   "q": "What nickname was given to Ons Jabeur by her fans?",
+   "a": "Minister of Happiness",
+   "p": 400,
+   "alt": [
+    "The Minister of Happiness"
+   ]
+  },
+  {
+   "q": "At which English tournament did Ons Jabeur become the first Arab woman to win a WTA title, in 2021?",
+   "a": "Birmingham",
+   "p": 400,
+   "alt": [
+    "Birmingham Classic"
+   ]
+  },
+  {
+   "q": "Which Kazakh beat Ons Jabeur in the 2022 Wimbledon final?",
+   "a": "Elena Rybakina",
+   "p": 400,
+   "alt": [
+    "Rybakina"
+   ]
+  },
+  {
+   "q": "Federer's 100th career title came at which tournament in 2019?",
+   "a": "Dubai Duty Free Tennis Championships",
+   "p": 400,
+   "ar": "دبي",
+   "alt": [
+    "Dubai",
+    "Dubai Tennis Championships"
+   ]
+  },
+  {
+   "q": "At which Garhoud club are the Dubai Duty Free Tennis Championships played?",
+   "a": "Aviation Club",
+   "p": 400,
+   "alt": [
+    "Dubai Duty Free Tennis Stadium",
+    "The Aviation Club"
+   ]
+  },
+  {
+   "q": "Which British man won Wimbledon in 1936, the last before Andy Murray in 2013?",
+   "a": "Fred Perry",
+   "p": 400,
+   "alt": [
+    "Perry"
+   ]
+  },
+  {
+   "q": "In what year did the Open Era of tennis begin?",
+   "a": "1968",
+   "p": 400
+  },
+  {
+   "q": "What is winning all four majors plus Olympic gold in one year called?",
+   "a": "Golden Slam",
+   "p": 400,
+   "alt": [
+    "Calendar Golden Slam"
+   ]
+  },
+  {
+   "q": "Which Australian won the calendar Grand Slam in both 1962 and 1969?",
+   "a": "Rod Laver",
+   "p": 400,
+   "alt": [
+    "Laver"
+   ]
+  },
+  {
+   "q": "Which Australian woman won 24 Grand Slam singles titles?",
+   "a": "Margaret Court",
+   "p": 400,
+   "alt": [
+    "Court"
+   ]
+  },
+  {
+   "q": "How many Wimbledon singles titles did Martina Navratilova win?",
+   "a": "9",
+   "p": 400,
+   "alt": [
+    "Nine"
+   ]
+  },
+  {
+   "q": "How many Wimbledon singles titles did Pete Sampras win?",
+   "a": "7",
+   "p": 400,
+   "alt": [
+    "Seven"
+   ]
+  },
+  {
+   "q": "How many Grand Slam singles titles did Steffi Graf win?",
+   "a": "22",
+   "p": 400,
+   "alt": [
+    "Twenty-two"
+   ]
+  },
+  {
+   "q": "In what year did Nadal win his first French Open, aged 19?",
+   "a": "2005",
+   "p": 400
+  },
+  {
+   "q": "Whom did Federer beat 16-14 in the fifth set of the 2009 Wimbledon final?",
+   "a": "Andy Roddick",
+   "p": 400,
+   "alt": [
+    "Roddick"
+   ]
+  },
+  {
+   "q": "Whom did Djokovic beat in the 2012 Australian Open final, which lasted nearly six hours?",
+   "a": "Rafael Nadal",
+   "p": 400,
+   "alt": [
+    "Nadal"
+   ]
+  },
+  {
+   "q": "Which American beat Nicolas Mahut 70-68 in the fifth set at Wimbledon in 2010?",
+   "a": "John Isner",
+   "p": 400,
+   "alt": [
+    "Isner"
+   ]
+  },
+  {
+   "q": "Which young Swiss beat Pete Sampras in the fourth round of Wimbledon 2001?",
+   "a": "Roger Federer",
+   "p": 400,
+   "alt": [
+    "Federer"
+   ]
+  },
+  {
+   "q": "Which uncle coached Rafael Nadal for most of his career?",
+   "a": "Toni Nadal",
+   "p": 400,
+   "alt": [
+    "Uncle Toni"
+   ]
+  },
+  {
+   "q": "Which Brit won Olympic singles gold in both 2012 and 2016?",
+   "a": "Andy Murray",
+   "p": 400,
+   "alt": [
+    "Murray"
+   ]
+  },
+  {
+   "q": "Which Swiss partner won 2008 Olympic doubles gold with Federer?",
+   "a": "Stan Wawrinka",
+   "p": 400,
+   "alt": [
+    "Stanislas Wawrinka",
+    "Wawrinka"
+   ]
+  },
+  {
+   "q": "Which Japanese star lit the Olympic cauldron at Tokyo 2020?",
+   "a": "Naomi Osaka",
+   "p": 200,
+   "alt": [
+    "Osaka"
+   ]
+  },
+  {
+   "q": "Which Chinese player became the first Asian Grand Slam singles champion at the 2011 French Open?",
+   "a": "Li Na",
+   "p": 400
+  },
+  {
+   "q": "Which Swiss won the 1997 Australian Open aged just 16?",
+   "a": "Martina Hingis",
+   "p": 400,
+   "alt": [
+    "Hingis"
+   ]
+  },
+  {
+   "q": "Which unseeded 17-year-old German won Wimbledon in 1985?",
+   "a": "Boris Becker",
+   "p": 200,
+   "alt": [
+    "Becker"
+   ]
+  },
+  {
+   "q": "Which American won Wimbledon in 1975, beating Jimmy Connors in the final?",
+   "a": "Arthur Ashe",
+   "p": 400,
+   "alt": [
+    "Ashe"
+   ]
+  },
+  {
+   "q": "Which Croatian won Wimbledon in 2001 as a wildcard?",
+   "a": "Goran Ivanisevic",
+   "p": 200,
+   "alt": [
+    "Ivanisevic"
+   ]
+  },
+  {
+   "q": "Which Brazilian, nicknamed 'Guga', drew a heart in the Roland Garros clay?",
+   "a": "Gustavo Kuerten",
+   "p": 400,
+   "alt": [
+    "Kuerten",
+    "Guga"
+   ]
+  },
+  {
+   "q": "Which Swiss player, nicknamed 'Stanimal', won the 2015 French Open and 2016 US Open?",
+   "a": "Stan Wawrinka",
+   "p": 400,
+   "alt": [
+    "Wawrinka"
+   ]
+  },
+  {
+   "q": "Which Argentine beat Federer in the 2009 US Open final?",
+   "a": "Juan Martin del Potro",
+   "p": 400,
+   "alt": [
+    "Del Potro"
+   ]
+  },
+  {
+   "q": "Which Croatian won the 2014 US Open?",
+   "a": "Marin Cilic",
+   "p": 400,
+   "alt": [
+    "Cilic"
+   ]
+  },
+  {
+   "q": "Which Austrian came from two sets down to beat Zverev in the 2020 US Open final?",
+   "a": "Dominic Thiem",
+   "p": 400,
+   "alt": [
+    "Thiem"
+   ]
+  },
+  {
+   "q": "Which Russian beat Djokovic in the 2021 US Open final, ending his bid for a calendar Grand Slam?",
+   "a": "Daniil Medvedev",
+   "p": 400,
+   "alt": [
+    "Medvedev"
+   ]
+  },
+  {
+   "q": "Whom did Alcaraz beat in the 2022 US Open final to win his first major?",
+   "a": "Casper Ruud",
+   "p": 400,
+   "alt": [
+    "Ruud"
+   ]
+  },
+  {
+   "q": "Which Italian became the first man from his country to win Wimbledon, in 2025?",
+   "a": "Jannik Sinner",
+   "p": 400,
+   "alt": [
+    "Sinner"
+   ]
+  },
+  {
+   "q": "Whom did Carlos Alcaraz beat in the 2025 French Open final after saving three match points?",
+   "a": "Jannik Sinner",
+   "p": 400,
+   "alt": [
+    "Sinner"
+   ]
+  },
+  {
+   "q": "Who beat Amanda Anisimova 6-0 6-0 in the 2025 Wimbledon final?",
+   "a": "Iga Swiatek",
+   "p": 400,
+   "alt": [
+    "Swiatek"
+   ]
+  },
+  {
+   "q": "Which American won the 2017 Australian Open while pregnant, beating her sister in the final?",
+   "a": "Serena Williams",
+   "p": 400,
+   "alt": [
+    "Serena"
+   ]
+  },
+  {
+   "q": "What name was given to Serena Williams holding all four major titles at once in 2002-03?",
+   "a": "Serena Slam",
+   "p": 400
+  },
+  {
+   "q": "Which Swede ended Nadal's unbeaten run at Roland Garros in 2009?",
+   "a": "Robin Soderling",
+   "p": 400,
+   "alt": [
+    "Soderling"
+   ]
+  },
+  {
+   "q": "In what year did Federer complete his career Grand Slam by winning the French Open?",
+   "a": "2009",
+   "p": 400
+  },
+  {
+   "q": "Which 2003 French Open champion later became Carlos Alcaraz's coach?",
+   "a": "Juan Carlos Ferrero",
+   "p": 400,
+   "alt": [
+    "Ferrero"
+   ]
+  },
+  {
+   "q": "Which American won the 2003 US Open, his only major title?",
+   "a": "Andy Roddick",
+   "p": 400,
+   "alt": [
+    "Roddick"
+   ]
+  },
+  {
+   "q": "Which American played his final match winning the 2002 US Open final against Andre Agassi?",
+   "a": "Pete Sampras",
+   "p": 400,
+   "alt": [
+    "Sampras"
+   ]
+  },
+  {
+   "q": "Which Czech-born champion coached Andy Murray to his first major titles?",
+   "a": "Ivan Lendl",
+   "p": 400,
+   "alt": [
+    "Lendl"
+   ]
+  },
+  {
+   "q": "Which Belgian won the 2009 US Open in only her third event after returning as a mother?",
+   "a": "Kim Clijsters",
+   "p": 400,
+   "alt": [
+    "Clijsters"
+   ]
+  },
+  {
+   "q": "Which 15-year-old American beat Venus Williams at Wimbledon in 2019?",
+   "a": "Coco Gauff",
+   "p": 400,
+   "alt": [
+    "Gauff"
+   ]
+  },
+  {
+   "q": "What is a 6-0 set nicknamed in tennis slang?",
+   "a": "Bagel",
+   "p": 400
+  },
+  {
+   "q": "What is a trick shot hit between the legs called?",
+   "a": "Tweener",
+   "p": 400,
+   "alt": [
+    "Between-the-legs shot"
+   ]
+  },
+  {
+   "q": "What are the alleys between the singles and doubles sidelines called in Britain?",
+   "a": "Tramlines",
+   "p": 400,
+   "alt": [
+    "Doubles alley",
+    "Alley"
+   ]
+  },
+  {
+   "q": "Which tennis pioneer founded the WTA in 1973?",
+   "a": "Billie Jean King",
+   "p": 400,
+   "alt": [
+    "King"
+   ]
+  },
+  {
+   "q": "Whom did Billie Jean King beat in the 1973 'Battle of the Sexes' match?",
+   "a": "Bobby Riggs",
+   "p": 400,
+   "alt": [
+    "Riggs"
+   ]
+  },
+  {
+   "q": "What was the women's team competition, the Fed Cup, renamed in 2020?",
+   "a": "Billie Jean King Cup",
+   "p": 400,
+   "alt": [
+    "BJK Cup"
+   ]
+  },
+  {
+   "q": "The Davis Cup is named after which American player who founded it?",
+   "a": "Dwight Davis",
+   "p": 400,
+   "alt": [
+    "Dwight F. Davis"
+   ]
+  },
+  {
+   "q": "Which country won the Davis Cup in 2014, led by Federer and Wawrinka?",
+   "a": "Switzerland",
+   "p": 400
+  },
+  {
+   "q": "Which country won its first Davis Cup in 2010, led by Djokovic?",
+   "a": "Serbia",
+   "p": 400
+  },
+  {
+   "q": "Which country won the 2023 Davis Cup, inspired by Jannik Sinner?",
+   "a": "Italy",
+   "p": 400
+  },
+  {
+   "q": "Which Italian city has hosted the ATP Finals since 2021?",
+   "a": "Turin",
+   "p": 400,
+   "alt": [
+    "Torino"
+   ]
+  },
+  {
+   "q": "Which Saudi city hosted the Next Gen ATP Finals in 2023?",
+   "a": "Jeddah",
+   "p": 400,
+   "ar": "جدة"
+  },
+  {
+   "q": "Which sport, besides lawn tennis, appears in the full name of the All England Club?",
+   "a": "Croquet",
+   "p": 400
+  },
+  {
+   "q": "Which fruit sits on top of the Wimbledon men's singles trophy?",
+   "a": "Pineapple",
+   "p": 400,
+   "alt": [
+    "A pineapple"
+   ]
+  },
+  {
+   "q": "What is the grassy slope at Wimbledon where fans watch on big screens popularly called?",
+   "a": "Henman Hill",
+   "p": 400,
+   "alt": [
+    "Murray Mound",
+    "Aorangi Terrace"
+   ]
+  },
+  {
+   "q": "In 2025, which Grand Slam replaced its line judges with electronic line calling for the first time?",
+   "a": "Wimbledon",
+   "p": 400
+  },
+  {
+   "q": "Roland Garros, after whom the French Open venue is named, was a pioneer in which field?",
+   "a": "Aviation",
+   "p": 400,
+   "alt": [
+    "Flying",
+    "Aviator"
+   ]
+  },
+  {
+   "q": "Which French champion nicknamed 'the Crocodile' founded a famous clothing brand?",
+   "a": "Rene Lacoste",
+   "p": 400,
+   "alt": [
+    "Lacoste"
+   ]
+  },
+  {
+   "q": "Since 2022, at what game score in the deciding set is a 10-point tie-break played at all four majors?",
+   "a": "6-6",
+   "p": 400,
+   "alt": [
+    "Six all"
+   ]
+  },
+  {
+   "q": "How many players are in a Grand Slam singles main draw?",
+   "a": "128",
+   "p": 400
+  },
+  {
+   "q": "How many seeds are there in a Grand Slam singles draw?",
+   "a": "32",
+   "p": 400
+  },
+  {
+   "q": "Which Spanish island town is home to the Rafa Nadal Academy?",
+   "a": "Manacor",
+   "p": 400
+  },
+  {
+   "q": "Which American won the US Open on grass, clay and hard courts in the 1970s?",
+   "a": "Jimmy Connors",
+   "p": 400,
+   "alt": [
+    "Connors"
+   ]
+  },
+  {
+   "q": "What is Novak Djokovic's popular Serbian nickname?",
+   "a": "Nole",
+   "p": 400,
+   "alt": [
+    "Djoker"
+   ]
+  },
+  {
+   "q": "Which American nicknamed 'Superbrat' won seven Grand Slam singles titles?",
+   "a": "John McEnroe",
+   "p": 400,
+   "alt": [
+    "McEnroe"
+   ]
+  },
+  {
+   "q": "Which Japanese man became the first Asian man to reach a Grand Slam singles final, at the 2014 US Open?",
+   "a": "Kei Nishikori",
+   "p": 400,
+   "alt": [
+    "Nishikori"
+   ]
+  },
+  {
+   "q": "Which surface is the Australian Open played on?",
+   "a": "Hard court",
+   "p": 400,
+   "alt": [
+    "Hard"
+   ]
+  },
+  {
+   "q": "Who won the Dubai men's title five times, in 2009, 2010, 2011, 2013 and 2020?",
+   "a": "Novak Djokovic",
+   "p": 400,
+   "alt": [
+    "Djokovic"
+   ]
+  },
+  {
+   "q": "Which Briton beat Fernando Verdasco to win the 2017 Dubai Duty Free Tennis Championships?",
+   "a": "Andy Murray",
+   "p": 400,
+   "alt": [
+    "Murray"
+   ]
+  },
+  {
+   "q": "Which Pole beat Ons Jabeur in the 2022 US Open final?",
+   "a": "Iga Swiatek",
+   "p": 400,
+   "alt": [
+    "Swiatek"
+   ]
+  },
+  {
+   "q": "Which Czech player, unseeded, beat Ons Jabeur in the 2023 Wimbledon final?",
+   "a": "Marketa Vondrousova",
+   "p": 400,
+   "alt": [
+    "Vondrousova"
+   ]
+  },
+  {
+   "q": "Which Swiss won Olympic gold at Tokyo 2020 and the first Abu Dhabi Open in 2023?",
+   "a": "Belinda Bencic",
+   "p": 600,
+   "alt": [
+    "Bencic"
+   ]
+  },
+  {
+   "q": "Which Moroccan qualifier stunned world No. 1 Pete Sampras in Doha in 1994?",
+   "a": "Karim Alami",
+   "p": 600,
+   "ar": "كريم العلمي",
+   "alt": [
+    "Alami"
+   ]
+  },
+  {
+   "q": "Which racket brand is Rafael Nadal famously associated with?",
+   "a": "Babolat",
+   "p": 400
+  },
+  {
+   "q": "Which racket brand did Roger Federer use throughout his career?",
+   "a": "Wilson",
+   "p": 400
+  },
+  {
+   "q": "Which Russian won the 2000 US Open final against Pete Sampras?",
+   "a": "Marat Safin",
+   "p": 600,
+   "alt": [
+    "Safin"
+   ]
+  },
+  {
+   "q": "Which Australian won the 2001 US Open and 2002 Wimbledon titles?",
+   "a": "Lleyton Hewitt",
+   "p": 400,
+   "alt": [
+    "Hewitt"
+   ]
+  },
+  {
+   "q": "Which Dane won her first major at the 2018 Australian Open?",
+   "a": "Caroline Wozniacki",
+   "p": 400,
+   "alt": [
+    "Wozniacki"
+   ]
+  },
+  {
+   "q": "Which American won the 2025 Australian Open women's title?",
+   "a": "Madison Keys",
+   "p": 400,
+   "alt": [
+    "Keys"
+   ]
+  },
+  {
+   "q": "Which German beat Serena Williams in the 2016 Australian Open final?",
+   "a": "Angelique Kerber",
+   "p": 400,
+   "alt": [
+    "Kerber"
+   ]
+  },
+  {
+   "q": "Which Czech left-hander won Wimbledon in 2011 and 2014?",
+   "a": "Petra Kvitova",
+   "p": 400,
+   "alt": [
+    "Kvitova"
+   ]
+  },
+  {
+   "q": "Which Belgian won four French Open titles between 2003 and 2007?",
+   "a": "Justine Henin",
+   "p": 600,
+   "alt": [
+    "Henin"
+   ]
+  },
+  {
+   "q": "At what game score did Wimbledon play a final-set tie-break from 2019 to 2021?",
+   "a": "12-12",
+   "p": 600,
+   "alt": [
+    "Twelve all"
+   ]
+  },
+  {
+   "q": "Which Egyptian beat a young Bjorn Borg at Wimbledon in 1974?",
+   "a": "Ismail El Shafei",
+   "p": 600,
+   "ar": "إسماعيل الشافعي",
+   "alt": [
+    "El Shafei"
+   ]
+  },
+  {
+   "q": "Which Moroccan lost a 21-19 fifth set to Andy Roddick in the 2003 Australian Open quarter-finals?",
+   "a": "Younes El Aynaoui",
+   "p": 600,
+   "ar": "يونس العيناوي",
+   "alt": [
+    "El Aynaoui"
+   ]
+  },
+  {
+   "q": "Who became the first Egyptian woman to win a WTA title, in Parma in 2022?",
+   "a": "Mayar Sherif",
+   "p": 600,
+   "ar": "ميار شريف",
+   "alt": [
+    "Sherif"
+   ]
+  },
+  {
+   "q": "Who became the first Lebanese player to win a Grand Slam singles main-draw match in the Open Era, at the 2025 Australian Open?",
+   "a": "Hady Habib",
+   "p": 600,
+   "ar": "هادي حبيب",
+   "alt": [
+    "Habib"
+   ]
+  },
+  {
+   "q": "Which Serbian won the first Next Gen ATP Finals held in Jeddah in 2023?",
+   "a": "Hamad Medjedovic",
+   "p": 600,
+   "alt": [
+    "Medjedovic"
+   ]
+  },
+  {
+   "q": "Which American became the first man to win the calendar Grand Slam, in 1938?",
+   "a": "Don Budge",
+   "p": 600,
+   "alt": [
+    "Budge"
+   ]
+  },
+  {
+   "q": "Which American, nicknamed 'Little Mo', won the women's calendar Grand Slam in 1953?",
+   "a": "Maureen Connolly",
+   "p": 600,
+   "alt": [
+    "Connolly"
+   ]
+  },
+  {
+   "q": "In what year did Margaret Court win the calendar Grand Slam?",
+   "a": "1970",
+   "p": 600
+  },
+  {
+   "q": "How many French Open singles titles did Chris Evert win?",
+   "a": "7",
+   "p": 600,
+   "alt": [
+    "Seven"
+   ]
+  },
+  {
+   "q": "How many French Open singles titles did Bjorn Borg win?",
+   "a": "6",
+   "p": 600,
+   "alt": [
+    "Six"
+   ]
+  },
+  {
+   "q": "Whom did Federer beat in the 2003 Wimbledon final for his first major title?",
+   "a": "Mark Philippoussis",
+   "p": 600,
+   "alt": [
+    "Philippoussis"
+   ]
+  },
+  {
+   "q": "Which junior title did Roger Federer win in 1998?",
+   "a": "Wimbledon boys' singles",
+   "p": 600,
+   "alt": [
+    "Wimbledon junior",
+    "Wimbledon boys"
+   ]
+  },
+  {
+   "q": "In 2020, Federer became the first living person to appear on a coin from which country?",
+   "a": "Switzerland",
+   "p": 600
+  },
+  {
+   "q": "Whom did Nadal beat in the 2005 French Open final?",
+   "a": "Mariano Puerta",
+   "p": 600,
+   "alt": [
+    "Puerta"
+   ]
+  },
+  {
+   "q": "Which Mallorcan won the 1998 French Open and later coached Rafael Nadal?",
+   "a": "Carlos Moya",
+   "p": 600,
+   "alt": [
+    "Moya"
+   ]
+  },
+  {
+   "q": "In what year did Nadal complete his career Grand Slam at the US Open?",
+   "a": "2010",
+   "p": 600
+  },
+  {
+   "q": "Whom did Djokovic beat in the 2008 Australian Open final for his first major?",
+   "a": "Jo-Wilfried Tsonga",
+   "p": 600,
+   "alt": [
+    "Tsonga"
+   ]
+  },
+  {
+   "q": "Which Cypriot reached the 2006 Australian Open final, losing to Federer?",
+   "a": "Marcos Baghdatis",
+   "p": 600,
+   "alt": [
+    "Baghdatis"
+   ]
+  },
+  {
+   "q": "Which Argentine won the all-Argentine 2004 French Open final?",
+   "a": "Gaston Gaudio",
+   "p": 600,
+   "alt": [
+    "Gaudio"
+   ]
+  },
+  {
+   "q": "Which Swede won the 2002 Australian Open, beating Marat Safin in the final?",
+   "a": "Thomas Johansson",
+   "p": 600,
+   "alt": [
+    "Johansson"
+   ]
+  },
+  {
+   "q": "Which Dutchman won Wimbledon in 1996?",
+   "a": "Richard Krajicek",
+   "p": 600,
+   "alt": [
+    "Krajicek"
+   ]
+  },
+  {
+   "q": "Which Australian climbed into the stands after winning Wimbledon in 1987?",
+   "a": "Pat Cash",
+   "p": 600,
+   "alt": [
+    "Cash"
+   ]
+  },
+  {
+   "q": "Which 17-year-old American beat Ivan Lendl with an underarm serve on his way to the 1989 French Open title?",
+   "a": "Michael Chang",
+   "p": 600,
+   "alt": [
+    "Chang"
+   ]
+  },
+  {
+   "q": "In what year did Andre Agassi complete his career Grand Slam at the French Open?",
+   "a": "1999",
+   "p": 600
+  },
+  {
+   "q": "Which South African lost the 2018 Wimbledon final after a semi-final lasting more than six hours against Isner?",
+   "a": "Kevin Anderson",
+   "p": 600,
+   "alt": [
+    "Anderson"
+   ]
+  },
+  {
+   "q": "Which Latvian won the 2017 French Open unseeded?",
+   "a": "Jelena Ostapenko",
+   "p": 600,
+   "alt": [
+    "Ostapenko"
+   ]
+  },
+  {
+   "q": "Which Canadian beat Serena Williams in the 2019 US Open final?",
+   "a": "Bianca Andreescu",
+   "p": 600,
+   "alt": [
+    "Andreescu"
+   ]
+  },
+  {
+   "q": "Which Frenchwoman won Wimbledon in 2013?",
+   "a": "Marion Bartoli",
+   "p": 600,
+   "alt": [
+    "Bartoli"
+   ]
+  },
+  {
+   "q": "Which Italian became her country's first female Grand Slam singles champion at the 2010 French Open?",
+   "a": "Francesca Schiavone",
+   "p": 600,
+   "alt": [
+    "Schiavone"
+   ]
+  },
+  {
+   "q": "Which Italian beat Serena in the 2015 US Open semi-finals, ending her calendar Grand Slam bid?",
+   "a": "Roberta Vinci",
+   "p": 600,
+   "alt": [
+    "Vinci"
+   ]
+  },
+  {
+   "q": "Which Italian beat Roberta Vinci in the all-Italian 2015 US Open final?",
+   "a": "Flavia Pennetta",
+   "p": 600,
+   "alt": [
+    "Pennetta"
+   ]
+  },
+  {
+   "q": "Which Czech won the 2024 Wimbledon women's title?",
+   "a": "Barbora Krejcikova",
+   "p": 600,
+   "alt": [
+    "Krejcikova"
+   ]
+  },
+  {
+   "q": "Which Spaniard beat Serena in the 2016 French Open final and Venus in the 2017 Wimbledon final?",
+   "a": "Garbine Muguruza",
+   "p": 600,
+   "alt": [
+    "Muguruza"
+   ]
+  },
+  {
+   "q": "In what year did Serena Williams win her first Grand Slam title, at the US Open?",
+   "a": "1999",
+   "p": 600
+  },
+  {
+   "q": "Which Australian beat Serena Williams at the 2022 US Open in what became her final match?",
+   "a": "Ajla Tomljanovic",
+   "p": 600,
+   "alt": [
+    "Tomljanovic"
+   ]
+  },
+  {
+   "q": "Which Chinese player won the women's singles gold at the Paris 2024 Olympics?",
+   "a": "Zheng Qinwen",
+   "p": 600,
+   "alt": [
+    "Qinwen Zheng"
+   ]
+  },
+  {
+   "q": "Which Kazakh completed a 'golden set' at Wimbledon in 2012, winning every point of a set?",
+   "a": "Yaroslava Shvedova",
+   "p": 600,
+   "alt": [
+    "Shvedova"
+   ]
+  },
+  {
+   "q": "What is a 6-1 set nicknamed in tennis slang?",
+   "a": "Breadstick",
+   "p": 600
+  },
+  {
+   "q": "What is the French Open men's singles trophy called?",
+   "a": "Coupe des Mousquetaires",
+   "p": 600,
+   "alt": [
+    "Musketeers' Cup"
+   ]
+  },
+  {
+   "q": "What is the Wimbledon ladies' singles trophy called?",
+   "a": "Venus Rosewater Dish",
+   "p": 600,
+   "alt": [
+    "Rosewater Dish"
+   ]
+  },
+  {
+   "q": "What is the Australian Open men's singles trophy called?",
+   "a": "Norman Brookes Challenge Cup",
+   "p": 600,
+   "alt": [
+    "Norman Brookes Cup"
+   ]
+  },
+  {
+   "q": "Which British army officer patented an early form of lawn tennis called 'Sphairistike' in 1874?",
+   "a": "Walter Wingfield",
+   "p": 600,
+   "alt": [
+    "Major Walter Clopton Wingfield",
+    "Wingfield"
+   ]
+  },
+  {
+   "q": "Who won the first Wimbledon men's singles title in 1877?",
+   "a": "Spencer Gore",
+   "p": 600,
+   "alt": [
+    "Gore"
+   ]
+  },
+  {
+   "q": "What is the length of a tennis court in metres?",
+   "a": "23.77",
+   "p": 600,
+   "alt": [
+    "23.77 metres",
+    "23.77 m"
+   ]
+  },
+  {
+   "q": "What is the width of a doubles court in metres?",
+   "a": "10.97",
+   "p": 600,
+   "alt": [
+    "10.97 metres",
+    "10.97 m"
+   ]
+  },
+  {
+   "q": "In what year did Wimbledon switch from white to yellow balls?",
+   "a": "1986",
+   "p": 600
+  },
+  {
+   "q": "What is the name of the Harris hawk used to scare pigeons away at Wimbledon?",
+   "a": "Rufus",
+   "p": 600
+  },
+  {
+   "q": "In what year was the Centre Court retractable roof first used at Wimbledon?",
+   "a": "2009",
+   "p": 600
+  },
+  {
+   "q": "In what year did the US Open move from clay to hard courts at Flushing Meadows?",
+   "a": "1978",
+   "p": 600
+  },
+  {
+   "q": "In what year did the Australian Open switch from grass to hard courts?",
+   "a": "1988",
+   "p": 600
+  },
+  {
+   "q": "In what year was the Davis Cup first contested?",
+   "a": "1900",
+   "p": 600
+  },
+  {
+   "q": "Which country won its first Davis Cup title in 2022?",
+   "a": "Canada",
+   "p": 600
+  },
+  {
+   "q": "Which country won the Davis Cup in 2005 and 2018?",
+   "a": "Croatia",
+   "p": 600
+  },
+  {
+   "q": "Which country won the 2016 Davis Cup, led by Juan Martin del Potro?",
+   "a": "Argentina",
+   "p": 600
+  },
+  {
+   "q": "In which Australian city was the mixed-team Hopman Cup traditionally held?",
+   "a": "Perth",
+   "p": 600
+  },
+  {
+   "q": "Which German three-time Wimbledon champion coached Novak Djokovic from 2014 to 2016?",
+   "a": "Boris Becker",
+   "p": 600,
+   "alt": [
+    "Becker"
+   ]
+  },
+  {
+   "q": "What is the height of the net at the posts, in metres?",
+   "a": "1.07",
+   "p": 600,
+   "alt": [
+    "1.07 metres",
+    "1.07 m"
+   ]
+  },
+  {
+   "q": "In tennis scoring, what comes after 15 and 30?",
+   "a": "40",
+   "p": 200,
+   "alt": [
+    "Forty"
+   ]
+  },
+  {
+   "q": "How many sets must a woman win to take a Grand Slam singles match?",
+   "a": "2",
+   "p": 200,
+   "alt": [
+    "Two"
+   ]
+  },
+  {
+   "q": "What is it called when the receiver wins a game on the opponent's serve?",
+   "a": "A break",
+   "p": 200,
+   "alt": [
+    "Break",
+    "Break of serve"
+   ]
+  },
+  {
+   "q": "What is a point that would win the whole match called?",
+   "a": "Match point",
+   "p": 200
+  },
+  {
+   "q": "Which groundstroke is hit with the back of the hitting hand facing the ball?",
+   "a": "Backhand",
+   "p": 200
+  },
+  {
+   "q": "What is the shot that starts every point called?",
+   "a": "Serve",
+   "p": 200,
+   "alt": [
+    "Service"
+   ]
+  },
+  {
+   "q": "What is the official who sits in the high chair called?",
+   "a": "Umpire",
+   "p": 200,
+   "alt": [
+    "Chair umpire"
+   ]
+  },
+  {
+   "q": "What colour is the clay at Roland Garros?",
+   "a": "Red",
+   "p": 200,
+   "alt": [
+    "Orange",
+    "Terracotta"
+   ]
+  },
+  {
+   "q": "What colour have the Australian Open courts been since 2008?",
+   "a": "Blue",
+   "p": 200
+  },
+  {
+   "q": "Will Smith won an Oscar playing the father of which tennis sisters?",
+   "a": "Venus and Serena Williams",
+   "p": 200,
+   "alt": [
+    "The Williams sisters",
+    "Williams"
+   ]
+  },
+  {
+   "q": "Which Serbian beat Daniil Medvedev in the 2023 US Open final?",
+   "a": "Novak Djokovic",
+   "p": 200,
+   "alt": [
+    "Djokovic"
+   ]
+  },
+  {
+   "q": "What is a shot the opponent cannot reach or return called?",
+   "a": "Winner",
+   "p": 200
+  },
+  {
+   "q": "What is a mistake on an easy ball, not caused by the opponent, called?",
+   "a": "Unforced error",
+   "p": 200
+  },
+  {
+   "q": "If the ball touches any part of the line, is it in or out?",
+   "a": "In",
+   "p": 200
+  },
+  {
+   "q": "How many service boxes are there on a tennis court?",
+   "a": "4",
+   "p": 200,
+   "alt": [
+    "Four"
+   ]
+  },
+  {
+   "q": "How many attempts does a server get to land a serve on each point?",
+   "a": "2",
+   "p": 200,
+   "alt": [
+    "Two"
+   ]
+  },
+  {
+   "q": "In which Gulf capital is the Qatar Open played?",
+   "a": "Doha",
+   "p": 200,
+   "ar": "الدوحة"
+  },
+  {
+   "q": "Which Romanian beat Serena Williams in the 2019 Wimbledon final?",
+   "a": "Simona Halep",
+   "p": 400,
+   "alt": [
+    "Halep"
+   ]
+  },
+  {
+   "q": "Which Belarusian won the Australian Open in 2012 and 2013?",
+   "a": "Victoria Azarenka",
+   "p": 400,
+   "alt": [
+    "Azarenka"
+   ]
+  },
+  {
+   "q": "Which American lost the 2024 US Open men's final to Jannik Sinner?",
+   "a": "Taylor Fritz",
+   "p": 400,
+   "alt": [
+    "Fritz"
+   ]
+  },
+  {
+   "q": "Which German lost the 2024 French Open final to Carlos Alcaraz?",
+   "a": "Alexander Zverev",
+   "p": 400,
+   "alt": [
+    "Zverev"
+   ]
+  },
+  {
+   "q": "Which Australian lost the 2022 Wimbledon final to Djokovic?",
+   "a": "Nick Kyrgios",
+   "p": 400,
+   "alt": [
+    "Kyrgios"
+   ]
+  },
+  {
+   "q": "Which Greek led by two sets but lost the 2021 French Open final to Djokovic?",
+   "a": "Stefanos Tsitsipas",
+   "p": 400,
+   "alt": [
+    "Tsitsipas"
+   ]
+  },
+  {
+   "q": "Which Spaniard lost the 2013 French Open final to Nadal?",
+   "a": "David Ferrer",
+   "p": 400,
+   "alt": [
+    "Ferrer"
+   ]
+  },
+  {
+   "q": "Which Swede won Wimbledon in 1988 and 1990?",
+   "a": "Stefan Edberg",
+   "p": 400,
+   "alt": [
+    "Edberg"
+   ]
+  },
+  {
+   "q": "Which British woman won Wimbledon in 1977, the Queen's Silver Jubilee year?",
+   "a": "Virginia Wade",
+   "p": 400,
+   "alt": [
+    "Wade"
+   ]
+  },
+  {
+   "q": "What is the first name of the father who coached Venus and Serena Williams?",
+   "a": "Richard",
+   "p": 400
+  },
+  {
+   "q": "What material is the red surface at Roland Garros made from?",
+   "a": "Crushed brick",
+   "p": 400,
+   "alt": [
+    "Brick dust",
+    "Brick"
+   ]
+  },
+  {
+   "q": "What is a first-to-10 tie-break used in place of a deciding set in doubles often called?",
+   "a": "Match tie-break",
+   "p": 400,
+   "alt": [
+    "Super tie-break",
+    "Champions tie-break"
+   ]
+  },
+  {
+   "q": "On what surface is the Dubai Duty Free Tennis Championships played?",
+   "a": "Hard court",
+   "p": 400,
+   "alt": [
+    "Hard"
+   ]
+  },
+  {
+   "q": "Which Russian did Sinner beat from two sets down in the 2024 Australian Open final?",
+   "a": "Daniil Medvedev",
+   "p": 600,
+   "alt": [
+    "Medvedev"
+   ]
+  },
+  {
+   "q": "Which American won the 2017 US Open, beating Madison Keys in the final?",
+   "a": "Sloane Stephens",
+   "p": 600,
+   "alt": [
+    "Stephens"
+   ]
+  },
+  {
+   "q": "Which Czech lost the 2021 Wimbledon final to Ashleigh Barty?",
+   "a": "Karolina Pliskova",
+   "p": 600,
+   "alt": [
+    "Pliskova"
+   ]
+  },
+  {
+   "q": "Which Canadian teenager lost the 2021 US Open final to Emma Raducanu?",
+   "a": "Leylah Fernandez",
+   "p": 600,
+   "alt": [
+    "Fernandez"
+   ]
+  },
+  {
+   "q": "Which Italian lost both the 2024 French Open and Wimbledon women's finals?",
+   "a": "Jasmine Paolini",
+   "p": 600,
+   "alt": [
+    "Paolini"
+   ]
+  },
+  {
+   "q": "Which American lost the 2024 US Open women's final to Sabalenka?",
+   "a": "Jessica Pegula",
+   "p": 600,
+   "alt": [
+    "Pegula"
+   ]
+  },
+  {
+   "q": "Which Italian lost the 2021 Wimbledon final to Djokovic?",
+   "a": "Matteo Berrettini",
+   "p": 600,
+   "alt": [
+    "Berrettini"
+   ]
+  },
+  {
+   "q": "Which Canadian lost the 2016 Wimbledon final to Andy Murray?",
+   "a": "Milos Raonic",
+   "p": 600,
+   "alt": [
+    "Raonic"
+   ]
+  },
+  {
+   "q": "Which Czech lost the 2010 Wimbledon final to Nadal?",
+   "a": "Tomas Berdych",
+   "p": 600,
+   "alt": [
+    "Berdych"
+   ]
+  },
+  {
+   "q": "Which Spaniard won the 2002 French Open?",
+   "a": "Albert Costa",
+   "p": 600,
+   "alt": [
+    "Costa"
+   ]
+  },
+  {
+   "q": "Which Argentine lost the 2002 Wimbledon final to Lleyton Hewitt?",
+   "a": "David Nalbandian",
+   "p": 600,
+   "alt": [
+    "Nalbandian"
+   ]
+  },
+  {
+   "q": "Which Australian lost the 2000 and 2001 Wimbledon finals?",
+   "a": "Pat Rafter",
+   "p": 600,
+   "alt": [
+    "Patrick Rafter",
+    "Rafter"
+   ]
+  },
+  {
+   "q": "Which Russian won the 1996 French Open?",
+   "a": "Yevgeny Kafelnikov",
+   "p": 600,
+   "alt": [
+    "Kafelnikov"
+   ]
+  },
+  {
+   "q": "Which Austrian left-hander won the 1995 French Open?",
+   "a": "Thomas Muster",
+   "p": 600,
+   "alt": [
+    "Muster"
+   ]
+  },
+  {
+   "q": "Which Swede won three of the four majors in 1988?",
+   "a": "Mats Wilander",
+   "p": 600,
+   "alt": [
+    "Wilander"
+   ]
+  },
+  {
+   "q": "Which Frenchwoman won the Australian Open and Wimbledon in 2006?",
+   "a": "Amelie Mauresmo",
+   "p": 600,
+   "alt": [
+    "Mauresmo"
+   ]
+  },
+  {
+   "q": "Which Serbian woman won the 2008 French Open?",
+   "a": "Ana Ivanovic",
+   "p": 600,
+   "alt": [
+    "Ivanovic"
+   ]
+  },
+  {
+   "q": "Which Spaniard won the 1989 French Open aged 17?",
+   "a": "Arantxa Sanchez Vicario",
+   "p": 600,
+   "alt": [
+    "Sanchez Vicario"
+   ]
+  },
+  {
+   "q": "Which Spaniard won the Wimbledon women's title in 1994?",
+   "a": "Conchita Martinez",
+   "p": 600,
+   "alt": [
+    "Martinez"
+   ]
+  },
+  {
+   "q": "Which Argentine beat Steffi Graf to win the 1990 US Open?",
+   "a": "Gabriela Sabatini",
+   "p": 600,
+   "alt": [
+    "Sabatini"
+   ]
+  }
+ ]
+}
