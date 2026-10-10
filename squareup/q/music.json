@@ -5,27 +5,32 @@
   {
    "q": "How many strings does a standard guitar have?",
    "a": "Six",
-   "p": 200
+   "p": 200,
+   "pic": "Guitar"
   },
   {
    "q": "Which instrument has 88 keys?",
    "a": "Piano",
-   "p": 200
+   "p": 200,
+   "apic": "Piano"
   },
   {
    "q": "Which British band had members named John, Paul, George and Ringo?",
    "a": "The Beatles",
-   "p": 200
+   "p": 200,
+   "apic": "The Beatles"
   },
   {
    "q": "Which country is the group ABBA from?",
    "a": "Sweden",
-   "p": 200
+   "p": 200,
+   "apic": "Sweden"
   },
   {
    "q": "Which composer wrote the piano piece \"Fur Elise\"?",
    "a": "Beethoven",
-   "p": 200
+   "p": 200,
+   "apic": "Ludwig van Beethoven"
   },
   {
    "q": "Which family of orchestra instruments includes the violin, viola and cello?",
@@ -35,37 +40,44 @@
   {
    "q": "Which singer is nicknamed the \"King of Rock and Roll\"?",
    "a": "Elvis Presley",
-   "p": 200
+   "p": 200,
+   "apic": "Elvis Presley"
   },
   {
    "q": "Which Egyptian singer was nicknamed \"Kawkab al-Sharq\" (Star of the East)?",
    "a": "Umm Kulthum",
-   "p": 400
+   "p": 400,
+   "apic": "Umm Kulthum"
   },
   {
    "q": "Which Lebanese singer is nicknamed \"Jarat al-Qamar\" (Neighbour of the Moon)?",
    "a": "Fairuz",
-   "p": 400
+   "p": 400,
+   "apic": "Fairuz"
   },
   {
    "q": "Which Italian Baroque composer wrote \"The Four Seasons\"?",
    "a": "Vivaldi",
-   "p": 200
+   "p": 200,
+   "apic": "Antonio Vivaldi"
   },
   {
    "q": "Which country does the music genre K-pop come from?",
    "a": "South Korea",
-   "p": 200
+   "p": 200,
+   "apic": "South Korea"
   },
   {
    "q": "Bono is the lead singer of which Irish band?",
    "a": "U2",
-   "p": 200
+   "p": 200,
+   "apic": "U2"
   },
   {
    "q": "Which singer is known as the \"Queen of Pop\"?",
    "a": "Madonna",
-   "p": 200
+   "p": 200,
+   "apic": "Madonna"
   },
   {
    "q": "What is the musical term for playing loudly?",
@@ -75,27 +87,33 @@
   {
    "q": "Which US city is widely known as the birthplace of jazz?",
    "a": "New Orleans",
-   "p": 400
+   "p": 400,
+   "apic": "New Orleans"
   },
   {
    "q": "Which Russian composer wrote 'Pictures at an Exhibition'?",
    "a": "Modest Mussorgsky",
-   "p": 600
+   "p": 600,
+   "apic": "Modest Mussorgsky"
   },
   {
    "q": "Which instrument is the cellist Yo-Yo Ma famous for playing?",
    "a": "Cello",
-   "p": 400
+   "p": 400,
+   "pic": "Yo-Yo Ma",
+   "apic": "Cello"
   },
   {
    "q": "Which Colombian singer released the song \"Hips Don't Lie\"?",
    "a": "Shakira",
-   "p": 200
+   "p": 200,
+   "apic": "Shakira"
   },
   {
    "q": "Which Barbadian singer released the song \"Umbrella\"?",
    "a": "Rihanna",
-   "p": 200
+   "p": 200,
+   "apic": "Rihanna"
   },
   {
    "q": "In music notation, how many beats does a whole note last in 4/4 time?",
@@ -105,57 +123,69 @@
   {
    "q": "Which band released the 1973 album \"The Dark Side of the Moon\"?",
    "a": "Pink Floyd",
-   "p": 200
+   "p": 200,
+   "apic": "Pink Floyd"
   },
   {
    "q": "Which American singer is called the \"Queen of Soul\"?",
    "a": "Aretha Franklin",
-   "p": 200
+   "p": 200,
+   "apic": "Aretha Franklin"
   },
   {
    "q": "Which singer released the albums \"1989\" and \"Folklore\"?",
    "a": "Taylor Swift",
-   "p": 200
+   "p": 200,
+   "apic": "Taylor Swift"
   },
   {
    "q": "Which composer wrote the opera \"The Magic Flute\"?",
    "a": "Mozart",
-   "p": 400
+   "p": 400,
+   "apic": "Wolfgang Amadeus Mozart"
   },
   {
    "q": "Which large keyboard instrument with pipes is found in many churches?",
    "a": "Organ",
-   "p": 200
+   "p": 200,
+   "apic": "Pipe organ"
   },
   {
    "q": "Which Saudi singer is nicknamed \"Fannan al-Arab\" (Artist of the Arabs)?",
    "a": "Mohammed Abdu",
-   "p": 600
+   "p": 600,
+   "apic": "Mohammed Abdu"
   },
   {
    "q": "Which country is singer Hussain Al Jassmi from?",
    "a": "United Arab Emirates",
-   "p": 400
+   "p": 400,
+   "pic": "Hussain Al Jassmi",
+   "apic": "United Arab Emirates"
   },
   {
    "q": "Which composer wrote the main theme of the original Star Wars film?",
    "a": "John Williams",
-   "p": 200
+   "p": 200,
+   "apic": "John Williams"
   },
   {
    "q": "Which Disney animated film features the song \"Let It Go\"?",
    "a": "Frozen",
-   "p": 200
+   "p": 200,
+   "apic": "Frozen (2013 film)"
   },
   {
    "q": "Which brass instrument is played with a slide?",
    "a": "Trombone",
-   "p": 400
+   "p": 400,
+   "apic": "Trombone"
   },
   {
    "q": "Mick Jagger and Keith Richards founded which British rock band?",
    "a": "The Rolling Stones",
-   "p": 200
+   "p": 200,
+   "apic": "The Rolling Stones"
   },
   {
    "q": "Who is the artist in this clip?",
@@ -163,7 +193,8 @@
    "p": 200,
    "yt": "dQw4w9WgXcQ",
    "start": 43,
-   "end": 68
+   "end": 68,
+   "apic": "Rick Astley"
   },
   {
    "q": "Who is the artist in this clip?",
@@ -171,7 +202,8 @@
    "p": 200,
    "yt": "Zi_XLOBDo_Y",
    "start": 30,
-   "end": 55
+   "end": 55,
+   "apic": "Michael Jackson"
   },
   {
    "q": "Who is the artist in this clip?",
@@ -179,7 +211,8 @@
    "p": 200,
    "yt": "JGwWNGJdvx8",
    "start": 20,
-   "end": 45
+   "end": 45,
+   "apic": "Ed Sheeran"
   },
   {
    "q": "Who is the artist in this clip?",
@@ -187,12 +220,14 @@
    "p": 200,
    "yt": "YQHsXMglC9A",
    "start": 30,
-   "end": 55
+   "end": 55,
+   "apic": "Adele"
   },
   {
    "q": "Which traditional Arabic instrument is a pear-shaped, short-necked lute?",
    "a": "Oud",
-   "p": 400
+   "p": 400,
+   "apic": "Oud"
   },
   {
    "q": "How many lines does a standard musical staff have?",
@@ -202,62 +237,75 @@
   {
    "q": "Which rapper's birth name is Marshall Mathers?",
    "a": "Eminem",
-   "p": 200
+   "p": 200,
+   "apic": "Eminem"
   },
   {
    "q": "Which Jamaican artist released the 1977 album \"Exodus\"?",
    "a": "Bob Marley",
-   "p": 200
+   "p": 200,
+   "apic": "Bob Marley"
   },
   {
    "q": "Which Emirati singer, known by one name, was a judge on Arab Idol?",
    "a": "Ahlam",
-   "p": 400
+   "p": 400,
+   "apic": "Ahlam (singer)"
   },
   {
    "q": "Which Egyptian singer is nicknamed \"Al-Andaleeb al-Asmar\" (the Dark Nightingale)?",
    "a": "Abdel Halim Hafez",
-   "p": 400
+   "p": 400,
+   "apic": "Abdel Halim Hafez"
   },
   {
    "q": "Which Italian composer wrote the opera \"La Traviata\"?",
    "a": "Giuseppe Verdi",
-   "p": 400
+   "p": 400,
+   "apic": "Giuseppe Verdi"
   },
   {
    "q": "Which German Baroque composer wrote the \"Brandenburg Concertos\"?",
    "a": "Johann Sebastian Bach",
-   "p": 400
+   "p": 400,
+   "apic": "Johann Sebastian Bach"
   },
   {
    "q": "Which Russian composer wrote the ballet \"Swan Lake\"?",
    "a": "Tchaikovsky",
-   "p": 200
+   "p": 200,
+   "apic": "Pyotr Ilyich Tchaikovsky"
   },
   {
    "q": "What is the largest bowed string instrument in a standard orchestra?",
    "a": "Double bass",
-   "p": 400
+   "p": 400,
+   "apic": "Double bass"
   },
   {
    "q": "Which British band recorded the song \"Stairway to Heaven\"?",
    "a": "Led Zeppelin",
-   "p": 200
+   "p": 200,
+   "apic": "Led Zeppelin"
   },
   {
    "q": "Which Italian composer scored the film \"The Good, the Bad and the Ugly\"?",
    "a": "Ennio Morricone",
-   "p": 400
+   "p": 400,
+   "apic": "Ennio Morricone"
   },
   {
    "q": "Which composer scored the films \"Inception\" and \"Interstellar\"?",
    "a": "Hans Zimmer",
-   "p": 200
+   "p": 200,
+   "apic": "Hans Zimmer"
   },
   {
    "q": "In which Austrian city was Mozart born?",
    "a": "Salzburg",
-   "p": 400
+   "p": 400,
+   "pic": "Wolfgang Amadeus Mozart",
+   "apic": "Salzburg"
   },
   {
    "q": "How many sharps are in the key of G major?",
@@ -282,12 +330,14 @@
   {
    "q": "Which country is the tango dance and music style from?",
    "a": "Argentina",
-   "p": 200
+   "p": 200,
+   "apic": "Argentina"
   },
   {
    "q": "Which country is the flamenco music style from?",
    "a": "Spain",
-   "p": 200
+   "p": 200,
+   "apic": "Spain"
   },
   {
    "q": "Which Brazilian music style is named for a Portuguese phrase meaning \"new trend\"?",
@@ -297,42 +347,50 @@
   {
    "q": "Which US city is the home of the Motown record label?",
    "a": "Detroit",
-   "p": 400
+   "p": 400,
+   "apic": "Detroit"
   },
   {
    "q": "Which band released the 1977 album \"Rumours\"?",
    "a": "Fleetwood Mac",
-   "p": 400
+   "p": 400,
+   "apic": "Fleetwood Mac"
   },
   {
    "q": "Which American rock singer is nicknamed \"The Boss\"?",
    "a": "Bruce Springsteen",
-   "p": 400
+   "p": 400,
+   "apic": "Bruce Springsteen"
   },
   {
    "q": "Which orchestra instrument has 47 strings and seven pedals?",
    "a": "Harp",
-   "p": 400
+   "p": 400,
+   "apic": "Harp"
   },
   {
    "q": "Which composer wrote the waltz \"The Blue Danube\"?",
    "a": "Johann Strauss II",
-   "p": 400
+   "p": 400,
+   "apic": "Johann Strauss II"
   },
   {
    "q": "Which pop star's birth name is Stefani Germanotta?",
    "a": "Lady Gaga",
-   "p": 200
+   "p": 200,
+   "apic": "Lady Gaga"
   },
   {
    "q": "Which South Korean group includes the members RM, Jin and Suga?",
    "a": "BTS",
-   "p": 200
+   "p": 200,
+   "apic": "BTS"
   },
   {
    "q": "Which singer released the 2017 hit \"Despacito\" with Daddy Yankee?",
    "a": "Luis Fonsi",
-   "p": 400
+   "p": 400,
+   "apic": "Luis Fonsi"
   },
   {
    "q": "Which two Lebanese brothers wrote many songs for Fairuz?",
@@ -342,12 +400,14 @@
   {
    "q": "Which Syrian singer is nicknamed the \"Sultan of Tarab\"?",
    "a": "George Wassouf",
-   "p": 600
+   "p": 600,
+   "apic": "George Wassouf"
   },
   {
    "q": "Which country is the bagpipe most famously associated with?",
    "a": "Scotland",
-   "p": 200
+   "p": 200,
+   "apic": "Scotland"
   },
   {
    "q": "Who is the artist in this clip?",
@@ -355,7 +415,8 @@
    "p": 200,
    "yt": "fJ9rUzIMcZQ",
    "start": 60,
-   "end": 85
+   "end": 85,
+   "apic": "Queen (band)"
   },
   {
    "q": "Who is the artist in this clip?",
@@ -363,7 +424,8 @@
    "p": 400,
    "yt": "hTWKbfoikeg",
    "start": 20,
-   "end": 45
+   "end": 45,
+   "apic": "Nirvana (band)"
   },
   {
    "q": "Who is the artist in this clip?",
@@ -371,42 +433,50 @@
    "p": 400,
    "yt": "y6Sxv-sUYtM",
    "start": 30,
-   "end": 55
+   "end": 55,
+   "apic": "Pharrell Williams"
   },
   {
    "q": "Which Arabic plucked zither has dozens of strings and is played on the lap?",
    "a": "Qanun",
-   "p": 600
+   "p": 600,
+   "apic": "Qanun (instrument)"
   },
   {
    "q": "Which composer wrote the ballet \"The Rite of Spring\"?",
    "a": "Igor Stravinsky",
-   "p": 600
+   "p": 600,
+   "apic": "Igor Stravinsky"
   },
   {
    "q": "Which French composer wrote \"Bolero\"?",
    "a": "Maurice Ravel",
-   "p": 400
+   "p": 400,
+   "apic": "Maurice Ravel"
   },
   {
    "q": "Which Norwegian composer wrote the \"Peer Gynt\" suites?",
    "a": "Edvard Grieg",
-   "p": 600
+   "p": 600,
+   "apic": "Edvard Grieg"
   },
   {
    "q": "Which Czech composer wrote the \"New World\" Symphony?",
    "a": "Antonin Dvorak",
-   "p": 600
+   "p": 600,
+   "apic": "Antonín Dvořák"
   },
   {
    "q": "Which Finnish composer wrote \"Finlandia\"?",
    "a": "Jean Sibelius",
-   "p": 600
+   "p": 600,
+   "apic": "Jean Sibelius"
   },
   {
    "q": "Which Egyptian composer was nicknamed the \"Musician of Generations\"?",
    "a": "Mohamed Abdel Wahab",
-   "p": 600
+   "p": 600,
+   "apic": "Mohammed Abdel Wahab"
   },
   {
    "q": "On which day of the week were Umm Kulthum's famous monthly concerts traditionally broadcast?",
@@ -416,7 +486,8 @@
   {
    "q": "Which Lebanese composer and pianist is the son of Fairuz?",
    "a": "Ziad Rahbani",
-   "p": 600
+   "p": 600,
+   "apic": "Ziad Rahbani"
   },
   {
    "q": "How many flats are in the key of F major?",
@@ -451,72 +522,86 @@
   {
    "q": "Which double-reed woodwind instrument gives the tuning note for an orchestra?",
    "a": "Oboe",
-   "p": 600
+   "p": 600,
+   "apic": "Oboe"
   },
   {
    "q": "Which Austrian composer is nicknamed the \"Father of the Symphony\"?",
    "a": "Joseph Haydn",
-   "p": 600
+   "p": 600,
+   "apic": "Joseph Haydn"
   },
   {
    "q": "Which French composer wrote the opera \"Carmen\"?",
    "a": "Georges Bizet",
-   "p": 400
+   "p": 400,
+   "apic": "Georges Bizet"
   },
   {
    "q": "Which Polish composer is famous for his nocturnes and polonaises for piano?",
    "a": "Frederic Chopin",
-   "p": 400
+   "p": 400,
+   "apic": "Frédéric Chopin"
   },
   {
    "q": "Which Hungarian composer wrote the \"Hungarian Rhapsodies\"?",
    "a": "Franz Liszt",
-   "p": 600
+   "p": 600,
+   "apic": "Franz Liszt"
   },
   {
    "q": "Which Italian composer wrote the score for \"The Godfather\"?",
    "a": "Nino Rota",
-   "p": 600
+   "p": 600,
+   "apic": "Nino Rota"
   },
   {
    "q": "Which composer wrote the score for the film \"Psycho\"?",
    "a": "Bernard Herrmann",
-   "p": 600
+   "p": 600,
+   "apic": "Bernard Herrmann"
   },
   {
    "q": "Which Greek composer wrote the theme for \"Chariots of Fire\"?",
    "a": "Vangelis",
-   "p": 600
+   "p": 600,
+   "apic": "Vangelis"
   },
   {
    "q": "Which French composer scored the film \"Amelie\"?",
    "a": "Yann Tiersen",
-   "p": 600
+   "p": 600,
+   "apic": "Yann Tiersen"
   },
   {
    "q": "Which Japanese composer scored many Studio Ghibli films?",
    "a": "Joe Hisaishi",
-   "p": 600
+   "p": 600,
+   "apic": "Joe Hisaishi"
   },
   {
    "q": "Which English band released the 1997 album \"OK Computer\"?",
    "a": "Radiohead",
-   "p": 400
+   "p": 400,
+   "apic": "Radiohead"
   },
   {
    "q": "Which jazz trumpeter released the 1959 album \"Kind of Blue\"?",
    "a": "Miles Davis",
-   "p": 400
+   "p": 400,
+   "apic": "Miles Davis"
   },
   {
    "q": "Which jazz saxophonist recorded the 1965 album \"A Love Supreme\"?",
    "a": "John Coltrane",
-   "p": 600
+   "p": 600,
+   "apic": "John Coltrane"
   },
   {
    "q": "Which Nigerian musician pioneered the Afrobeat genre?",
    "a": "Fela Kuti",
-   "p": 600
+   "p": 600,
+   "apic": "Fela Kuti"
   },
   {
    "q": "Who is the artist in this clip?",
@@ -524,17 +609,20 @@
    "p": 400,
    "yt": "djV11Xbc914",
    "start": 30,
-   "end": 55
+   "end": 55,
+   "apic": "A-ha"
   },
   {
    "q": "Which singer is known as the King of Pop?",
    "a": "Michael Jackson",
-   "p": 200
+   "p": 200,
+   "apic": "Michael Jackson"
   },
   {
    "q": "Which 1982 Michael Jackson album includes 'Billie Jean' and 'Beat It'?",
    "a": "Thriller",
-   "p": 200
+   "p": 200,
+   "apic": "Thriller (album)"
   },
   {
    "q": "Which backwards-gliding dance move did Michael Jackson make famous in 1983?",
@@ -547,47 +635,56 @@
   {
    "q": "Which Swedish group won Eurovision in 1974 with 'Waterloo'?",
    "a": "ABBA",
-   "p": 200
+   "p": 200,
+   "apic": "ABBA"
   },
   {
    "q": "Which musical and film is built around the songs of ABBA?",
    "a": "Mamma Mia!",
-   "p": 200
+   "p": 200,
+   "apic": "Mamma Mia!"
   },
   {
    "q": "Which singer released the albums '21' and '25'?",
    "a": "Adele",
-   "p": 200
+   "p": 200,
+   "apic": "Adele"
   },
   {
    "q": "Which British singer named his albums with maths symbols such as '+', 'x' and '÷'?",
    "a": "Ed Sheeran",
-   "p": 200
+   "p": 200,
+   "apic": "Ed Sheeran"
   },
   {
    "q": "Which singer released the 2019 hit 'Bad Guy'?",
    "a": "Billie Eilish",
-   "p": 200
+   "p": 200,
+   "apic": "Billie Eilish"
   },
   {
    "q": "Which Canadian singer released the 2019 hit 'Blinding Lights'?",
    "a": "The Weeknd",
-   "p": 200
+   "p": 200,
+   "apic": "The Weeknd"
   },
   {
    "q": "Which singer featured on Mark Ronson's 2014 hit 'Uptown Funk'?",
    "a": "Bruno Mars",
-   "p": 200
+   "p": 200,
+   "apic": "Bruno Mars"
   },
   {
    "q": "Which Canadian singer, discovered on YouTube, released the 2010 hit 'Baby'?",
    "a": "Justin Bieber",
-   "p": 200
+   "p": 200,
+   "apic": "Justin Bieber"
   },
   {
    "q": "Which singer released the 2016 visual album 'Lemonade'?",
    "a": "Beyoncé",
-   "p": 200
+   "p": 200,
+   "apic": "Beyoncé"
   },
   {
    "q": "What was the name of Taylor Swift's 2023 to 2024 world tour?",
@@ -597,27 +694,32 @@
   {
    "q": "Which boy band was formed on The X Factor in 2010?",
    "a": "One Direction",
-   "p": 200
+   "p": 200,
+   "apic": "One Direction"
   },
   {
    "q": "Which former One Direction member released 'Watermelon Sugar'?",
    "a": "Harry Styles",
-   "p": 200
+   "p": 200,
+   "apic": "Harry Styles"
   },
   {
    "q": "Which singer recorded 'I Will Always Love You' for the film The Bodyguard?",
    "a": "Whitney Houston",
-   "p": 200
+   "p": 200,
+   "apic": "Whitney Houston"
   },
   {
    "q": "Which artist released the album and film 'Purple Rain'?",
    "a": "Prince",
-   "p": 200
+   "p": 200,
+   "apic": "Prince (musician)"
   },
   {
    "q": "Which music genre is Bob Marley most associated with?",
    "a": "Reggae",
-   "p": 200
+   "p": 200,
+   "apic": "Reggae"
   },
   {
    "q": "Which Puerto Rican music genre, built on the dembow rhythm, made Daddy Yankee famous?",
@@ -627,42 +729,50 @@
   {
    "q": "Which Mexican music style features trumpets, violins, guitars and wide sombreros?",
    "a": "Mariachi",
-   "p": 200
+   "p": 200,
+   "apic": "Mariachi"
   },
   {
    "q": "Which Brazilian music and dance is the heartbeat of the Rio Carnival?",
    "a": "Samba",
-   "p": 200
+   "p": 200,
+   "apic": "Samba"
   },
   {
    "q": "Which woodwind instrument with a single reed is a favourite in jazz?",
    "a": "Saxophone",
-   "p": 200
+   "p": 200,
+   "apic": "Saxophone"
   },
   {
    "q": "Which is the largest and lowest brass instrument in an orchestra?",
    "a": "Tuba",
-   "p": 200
+   "p": 200,
+   "apic": "Tuba"
   },
   {
    "q": "Which percussion instrument has wooden bars struck with mallets?",
    "a": "Xylophone",
-   "p": 200
+   "p": 200,
+   "apic": "Xylophone"
   },
   {
    "q": "Which small four-stringed guitar-like instrument is associated with Hawaii?",
    "a": "Ukulele",
-   "p": 200
+   "p": 200,
+   "apic": "Ukulele"
   },
   {
    "q": "Which long wooden wind instrument was developed by Aboriginal Australians?",
    "a": "Didgeridoo",
-   "p": 200
+   "p": 200,
+   "apic": "Didgeridoo"
   },
   {
    "q": "What is the name of the stick an orchestra conductor holds?",
    "a": "Baton",
-   "p": 200
+   "p": 200,
+   "apic": "Baton (conducting)"
   },
   {
    "q": "How many musicians play in a quartet?",
@@ -677,7 +787,8 @@
   {
    "q": "Which ticking device helps musicians keep a steady tempo?",
    "a": "Metronome",
-   "p": 200
+   "p": 200,
+   "apic": "Metronome"
   },
   {
    "q": "What is the highest female singing voice?",
@@ -716,12 +827,14 @@
   {
    "q": "Which woodwind instrument is held sideways and played by blowing across a hole?",
    "a": "Flute",
-   "p": 200
+   "p": 200,
+   "apic": "Western concert flute"
   },
   {
    "q": "How many strings does a violin have?",
    "a": "Four",
-   "p": 200
+   "p": 200,
+   "pic": "Violin"
   },
   {
    "q": "Which composer kept writing music after going completely deaf?",
@@ -729,7 +842,8 @@
    "p": 200,
    "alt": [
     "Ludwig van Beethoven"
-   ]
+   ],
+   "apic": "Ludwig van Beethoven"
   },
   {
    "q": "Which composer wrote 'Eine kleine Nachtmusik'?",
@@ -737,7 +851,8 @@
    "p": 200,
    "alt": [
     "Wolfgang Amadeus Mozart"
-   ]
+   ],
+   "apic": "Wolfgang Amadeus Mozart"
   },
   {
    "q": "Which composer wrote the ballet 'The Nutcracker'?",
@@ -745,17 +860,20 @@
    "p": 200,
    "alt": [
     "Pyotr Ilyich Tchaikovsky"
-   ]
+   ],
+   "apic": "Pyotr Ilyich Tchaikovsky"
   },
   {
    "q": "Which composer wrote the musical 'The Phantom of the Opera'?",
    "a": "Andrew Lloyd Webber",
-   "p": 200
+   "p": 200,
+   "apic": "Andrew Lloyd Webber"
   },
   {
    "q": "Which Lin-Manuel Miranda musical tells the story of a US founding father?",
    "a": "Hamilton",
-   "p": 200
+   "p": 200,
+   "apic": "Hamilton (musical)"
   },
   {
    "q": "Which musical is based on Victor Hugo's novel about Jean Valjean?",
@@ -763,32 +881,38 @@
    "p": 200,
    "alt": [
     "Les Mis"
-   ]
+   ],
+   "apic": "Les Misérables (musical)"
   },
   {
    "q": "Which musical about the witches of Oz features the song 'Defying Gravity'?",
    "a": "Wicked",
-   "p": 200
+   "p": 200,
+   "apic": "Wicked (musical)"
   },
   {
    "q": "Which New York street is famous for its theatres and musicals?",
    "a": "Broadway",
-   "p": 200
+   "p": 200,
+   "apic": "Broadway theatre"
   },
   {
    "q": "Which London theatre district is famous for its musicals?",
    "a": "West End",
-   "p": 200
+   "p": 200,
+   "apic": "West End theatre"
   },
   {
    "q": "Which jazz trumpeter recorded 'What a Wonderful World'?",
    "a": "Louis Armstrong",
-   "p": 200
+   "p": 200,
+   "apic": "Louis Armstrong"
   },
   {
    "q": "Which Motown star, blind since infancy, released 'Superstition'?",
    "a": "Stevie Wonder",
-   "p": 200
+   "p": 200,
+   "apic": "Stevie Wonder"
   },
   {
    "q": "Which Motown family group featured a young Michael Jackson?",
@@ -797,12 +921,14 @@
    "alt": [
     "Jackson 5",
     "The Jacksons"
-   ]
+   ],
+   "apic": "The Jackson 5"
   },
   {
    "q": "Which Canadian singer recorded 'My Heart Will Go On'?",
    "a": "Celine Dion",
-   "p": 200
+   "p": 200,
+   "apic": "Celine Dion"
   },
   {
    "q": "Which Mariah Carey song became a Christmas staple after its 1994 release?",
@@ -822,7 +948,8 @@
   {
    "q": "Which British singer released the 2017 hit 'New Rules'?",
    "a": "Dua Lipa",
-   "p": 200
+   "p": 200,
+   "apic": "Dua Lipa"
   },
   {
    "q": "Which Miley Cyrus 2023 hit is about buying herself a bouquet?",
@@ -837,12 +964,14 @@
   {
    "q": "Which singer released the 2013 hit 'Roar'?",
    "a": "Katy Perry",
-   "p": 200
+   "p": 200,
+   "apic": "Katy Perry"
   },
   {
    "q": "Which US city in Tennessee is known as Music City?",
    "a": "Nashville",
-   "p": 200
+   "p": 200,
+   "apic": "Nashville, Tennessee"
   },
   {
    "q": "What is the Grammy Award trophy shaped like?",
@@ -850,7 +979,8 @@
    "p": 200,
    "alt": [
     "Gramophone"
-   ]
+   ],
+   "apic": "Phonograph"
   },
   {
    "q": "What does MTV stand for?",
@@ -860,27 +990,32 @@
   {
    "q": "Which Swedish music streaming service launched in 2008?",
    "a": "Spotify",
-   "p": 200
+   "p": 200,
+   "apic": "Spotify"
   },
   {
    "q": "What does CD stand for?",
    "a": "Compact disc",
-   "p": 200
+   "p": 200,
+   "apic": "Compact disc"
   },
   {
    "q": "Which Apple portable music player was launched in 2001?",
    "a": "iPod",
-   "p": 200
+   "p": 200,
+   "apic": "iPod"
   },
   {
    "q": "Which Sydney building with sail-shaped roofs is a world-famous performing arts venue?",
    "a": "Sydney Opera House",
-   "p": 200
+   "p": 200,
+   "apic": "Sydney Opera House"
   },
   {
    "q": "Which country singer wrote 'I Will Always Love You'?",
    "a": "Dolly Parton",
-   "p": 400
+   "p": 400,
+   "apic": "Dolly Parton"
   },
   {
    "q": "Which Dolly Parton song pleads with a woman not to take her man?",
@@ -890,12 +1025,14 @@
   {
    "q": "Which Puerto Rican star released the 2022 album 'Un Verano Sin Ti'?",
    "a": "Bad Bunny",
-   "p": 400
+   "p": 400,
+   "apic": "Bad Bunny"
   },
   {
    "q": "How many symphonies did Beethoven complete?",
    "a": "Nine",
-   "p": 400
+   "p": 400,
+   "pic": "Ludwig van Beethoven"
   },
   {
    "q": "Which Beethoven symphony contains the 'Ode to Joy'?",
@@ -909,7 +1046,8 @@
   {
    "q": "Which composer's Requiem was left unfinished when he died in 1791?",
    "a": "Mozart",
-   "p": 400
+   "p": 400,
+   "apic": "Wolfgang Amadeus Mozart"
   },
   {
    "q": "Which German composer wrote 'Canon in D'?",
@@ -917,7 +1055,8 @@
    "p": 600,
    "alt": [
     "Pachelbel"
-   ]
+   ],
+   "apic": "Johann Pachelbel"
   },
   {
    "q": "Which French composer wrote 'Clair de Lune'?",
@@ -925,7 +1064,8 @@
    "p": 400,
    "alt": [
     "Debussy"
-   ]
+   ],
+   "apic": "Claude Debussy"
   },
   {
    "q": "Which German composer wrote 'Ride of the Valkyries'?",
@@ -933,7 +1073,8 @@
    "p": 400,
    "alt": [
     "Wagner"
-   ]
+   ],
+   "apic": "Richard Wagner"
   },
   {
    "q": "Which composer wrote the oratorio 'Messiah', famous for its Hallelujah chorus?",
@@ -941,7 +1082,8 @@
    "p": 400,
    "alt": [
     "Handel"
-   ]
+   ],
+   "apic": "George Frideric Handel"
   },
   {
    "q": "Which American composer wrote 'Rhapsody in Blue'?",
@@ -949,7 +1091,8 @@
    "p": 400,
    "alt": [
     "Gershwin"
-   ]
+   ],
+   "apic": "George Gershwin"
   },
   {
    "q": "Which Russian composer wrote 'Peter and the Wolf'?",
@@ -957,7 +1100,8 @@
    "p": 600,
    "alt": [
     "Prokofiev"
-   ]
+   ],
+   "apic": "Sergei Prokofiev"
   },
   {
    "q": "Which Italian composer wrote the opera 'The Barber of Seville'?",
@@ -965,7 +1109,8 @@
    "p": 400,
    "alt": [
     "Rossini"
-   ]
+   ],
+   "apic": "Gioachino Rossini"
   },
   {
    "q": "Which Italian composer wrote the operas 'La Bohème' and 'Madama Butterfly'?",
@@ -973,7 +1118,8 @@
    "p": 400,
    "alt": [
     "Puccini"
-   ]
+   ],
+   "apic": "Giacomo Puccini"
   },
   {
    "q": "Which Verdi opera set in ancient Egypt premiered in Cairo in 1871?",
@@ -986,27 +1132,32 @@
    "p": 400,
    "alt": [
     "Rimsky-Korsakov"
-   ]
+   ],
+   "apic": "Nikolai Rimsky-Korsakov"
   },
   {
    "q": "Which American composer wrote the music for 'West Side Story'?",
    "a": "Leonard Bernstein",
-   "p": 400
+   "p": 400,
+   "apic": "Leonard Bernstein"
   },
   {
    "q": "Which Andrew Lloyd Webber musical features the song 'Memory'?",
    "a": "Cats",
-   "p": 400
+   "p": 400,
+   "apic": "Cats (musical)"
   },
   {
    "q": "Which musical tells the life story of Argentina's Eva Perón?",
    "a": "Evita",
-   "p": 400
+   "p": 400,
+   "apic": "Evita (musical)"
   },
   {
    "q": "Which Disney film became a Broadway musical directed by Julie Taymor in 1997?",
    "a": "The Lion King",
-   "p": 400
+   "p": 400,
+   "apic": "The Lion King (musical)"
   },
   {
    "q": "Which Italian craftsman of Cremona made the world's most prized violins?",
@@ -1015,17 +1166,20 @@
    "alt": [
     "Stradivari",
     "Stradivarius"
-   ]
+   ],
+   "apic": "Antonio Stradivari"
   },
   {
    "q": "Which tenor completed the Three Tenors with Plácido Domingo and José Carreras?",
    "a": "Luciano Pavarotti",
-   "p": 400
+   "p": 400,
+   "apic": "Luciano Pavarotti"
   },
   {
    "q": "Which Italian tenor sang 'Time to Say Goodbye' with Sarah Brightman?",
    "a": "Andrea Bocelli",
-   "p": 400
+   "p": 400,
+   "apic": "Andrea Bocelli"
   },
   {
    "q": "What is the female voice type between soprano and contralto?",
@@ -1053,17 +1207,20 @@
   {
    "q": "Which large tuned drums, also called kettledrums, sit at the back of the orchestra?",
    "a": "Timpani",
-   "p": 400
+   "p": 400,
+   "apic": "Timpani"
   },
   {
    "q": "Which double-reed instrument plays the bass part of the woodwind section?",
    "a": "Bassoon",
-   "p": 400
+   "p": 400,
+   "apic": "Bassoon"
   },
   {
    "q": "Which keyboard instrument with plucked strings was popular in the Baroque era?",
    "a": "Harpsichord",
-   "p": 400
+   "p": 400,
+   "apic": "Harpsichord"
   },
   {
    "q": "Which coiled brass instrument with a wide bell is often called the French horn?",
@@ -1071,22 +1228,26 @@
    "p": 400,
    "alt": [
     "French horn"
-   ]
+   ],
+   "apic": "French horn"
   },
   {
    "q": "Which jazz singer was nicknamed Lady Day?",
    "a": "Billie Holiday",
-   "p": 400
+   "p": 400,
+   "apic": "Billie Holiday"
   },
   {
    "q": "Which jazz singer was called the First Lady of Song?",
    "a": "Ella Fitzgerald",
-   "p": 600
+   "p": 600,
+   "apic": "Ella Fitzgerald"
   },
   {
    "q": "Which jazz bandleader and pianist was known simply as 'The Duke'?",
    "a": "Duke Ellington",
-   "p": 400
+   "p": 400,
+   "apic": "Duke Ellington"
   },
   {
    "q": "What is the jazz singing style that uses nonsense syllables called?",
@@ -1099,22 +1260,26 @@
   {
    "q": "Which Motown group was led by Diana Ross?",
    "a": "The Supremes",
-   "p": 400
+   "p": 400,
+   "apic": "The Supremes"
   },
   {
    "q": "Which singer, the Godfather of Soul, released 'I Got You (I Feel Good)'?",
    "a": "James Brown",
-   "p": 400
+   "p": 400,
+   "apic": "James Brown"
   },
   {
    "q": "Which singer released the 1971 album 'What's Going On'?",
    "a": "Marvin Gaye",
-   "p": 400
+   "p": 400,
+   "apic": "Marvin Gaye"
   },
   {
    "q": "What was the name of Elvis Presley's mansion in Memphis?",
    "a": "Graceland",
-   "p": 400
+   "p": 400,
+   "apic": "Graceland"
   },
   {
    "q": "Which 1985 charity single was recorded by USA for Africa?",
@@ -1142,7 +1307,8 @@
   {
    "q": "Which New Zealand singer released 'Royals' at the age of 16?",
    "a": "Lorde",
-   "p": 400
+   "p": 400,
+   "apic": "Lorde"
   },
   {
    "q": "Which Gotye song featuring Kimbra was a global hit in 2012?",
@@ -1162,77 +1328,92 @@
   {
    "q": "Which Swedish DJ released the 2013 hit 'Wake Me Up'?",
    "a": "Avicii",
-   "p": 400
+   "p": 400,
+   "apic": "Avicii"
   },
   {
    "q": "Which French DJ produced the 2011 hit 'Titanium' with Sia?",
    "a": "David Guetta",
-   "p": 400
+   "p": 400,
+   "apic": "David Guetta"
   },
   {
    "q": "Which Australian singer often hides her face behind a large two-tone wig?",
    "a": "Sia",
-   "p": 400
+   "p": 400,
+   "apic": "Sia"
   },
   {
    "q": "Which Scottish DJ released 'Summer' and 'This Is What You Came For'?",
    "a": "Calvin Harris",
-   "p": 400
+   "p": 400,
+   "apic": "Calvin Harris"
   },
   {
    "q": "Which British singer released the 2006 album 'Back to Black'?",
    "a": "Amy Winehouse",
-   "p": 400
+   "p": 400,
+   "apic": "Amy Winehouse"
   },
   {
    "q": "Which singer released 'Girls Just Want to Have Fun' in 1983?",
    "a": "Cyndi Lauper",
-   "p": 400
+   "p": 400,
+   "apic": "Cyndi Lauper"
   },
   {
    "q": "Which duo released 'Wake Me Up Before You Go-Go'?",
    "a": "Wham!",
-   "p": 400
+   "p": 400,
+   "apic": "Wham!"
   },
   {
    "q": "Which former Wham! singer released the 1987 album 'Faith'?",
    "a": "George Michael",
-   "p": 400
+   "p": 400,
+   "apic": "George Michael"
   },
   {
    "q": "Which singer released 'What's Love Got to Do with It' in 1984?",
    "a": "Tina Turner",
-   "p": 400
+   "p": 400,
+   "apic": "Tina Turner"
   },
   {
    "q": "Which duo released 'Sweet Dreams (Are Made of This)'?",
    "a": "Eurythmics",
-   "p": 400
+   "p": 400,
+   "apic": "Eurythmics"
   },
   {
    "q": "Which girl group released 'No Scrubs' in 1999?",
    "a": "TLC",
-   "p": 400
+   "p": 400,
+   "apic": "TLC (group)"
   },
   {
    "q": "Which Swedish band released 'The Sign' in 1993?",
    "a": "Ace of Base",
-   "p": 400
+   "p": 400,
+   "apic": "Ace of Base"
   },
   {
    "q": "Which boy band released 'I Want It That Way' in 1999?",
    "a": "Backstreet Boys",
-   "p": 400
+   "p": 400,
+   "apic": "Backstreet Boys"
   },
   {
    "q": "Which Canadian singer released the 1995 album 'Jagged Little Pill'?",
    "a": "Alanis Morissette",
-   "p": 400
+   "p": 400,
+   "apic": "Alanis Morissette"
   },
   {
    "q": "Which former Fugees singer released 'The Miseducation of Lauryn Hill'?",
    "a": "Lauryn Hill",
-   "p": 400
+   "p": 400,
+   "apic": "Lauryn Hill"
   },
   {
    "q": "Which Spanish duo released the dance hit 'Macarena'?",
@@ -1240,17 +1421,20 @@
    "p": 400,
    "alt": [
     "Los del Rio"
-   ]
+   ],
+   "apic": "Los del Río"
   },
   {
    "q": "Which Swedish singer won Eurovision in both 2012 and 2023?",
    "a": "Loreen",
-   "p": 600
+   "p": 600,
+   "apic": "Loreen"
   },
   {
    "q": "Which Irish dance show began as the interval act at Eurovision 1994?",
    "a": "Riverdance",
-   "p": 400
+   "p": 400,
+   "apic": "Riverdance"
   },
   {
    "q": "Which romantic guitar-based music style from the Dominican Republic is Romeo Santos famous for?",
@@ -1260,7 +1444,8 @@
   {
    "q": "Which mournful Portuguese song style is associated with Lisbon?",
    "a": "Fado",
-   "p": 400
+   "p": 400,
+   "apic": "Fado"
   },
   {
    "q": "Which instrument, made from oil drums, comes from Trinidad and Tobago?",
@@ -1269,12 +1454,14 @@
    "alt": [
     "Steel drum",
     "Steel pan"
-   ]
+   ],
+   "apic": "Steelpan"
   },
   {
    "q": "Which pair of hand drums is central to Indian classical music?",
    "a": "Tabla",
-   "p": 400
+   "p": 400,
+   "apic": "Tabla"
   },
   {
    "q": "Which energetic Punjabi folk music became a dance-floor genre?",
@@ -1284,7 +1471,8 @@
   {
    "q": "Which Indian playback singer was called the Nightingale of India?",
    "a": "Lata Mangeshkar",
-   "p": 400
+   "p": 400,
+   "apic": "Lata Mangeshkar"
   },
   {
    "q": "Which Jamaican music genre with offbeat rhythms came before reggae?",
@@ -1297,7 +1485,8 @@
    "p": 400,
    "alt": [
     "Bob Marley and the Wailers"
-   ]
+   ],
+   "apic": "The Wailers"
   },
   {
    "q": "Which Palestinian singer from Gaza won Arab Idol in 2013?",
@@ -1306,7 +1495,8 @@
    "ar": "محمد عساف",
    "alt": [
     "Mohammad Assaf"
-   ]
+   ],
+   "apic": "Mohammed Assaf"
   },
   {
    "q": "Which Harry Styles album won Album of the Year at the 2023 Grammys?",
@@ -1321,7 +1511,8 @@
   {
    "q": "Which composer wrote 'Hedwig's Theme' for the Harry Potter films?",
    "a": "John Williams",
-   "p": 400
+   "p": 400,
+   "apic": "John Williams"
   },
   {
    "q": "Which song by The Buggles was the first music video shown on MTV in 1981?",
@@ -1339,7 +1530,8 @@
   {
    "q": "Which London concert hall hosts the summer Proms?",
    "a": "Royal Albert Hall",
-   "p": 400
+   "p": 400,
+   "apic": "Royal Albert Hall"
   },
   {
    "q": "Which Milan opera house is one of the most famous in the world?",
@@ -1347,32 +1539,38 @@
    "p": 400,
    "alt": [
     "Teatro alla Scala"
-   ]
+   ],
+   "apic": "La Scala"
   },
   {
    "q": "Which New York concert hall was funded by steel magnate Andrew Carnegie?",
    "a": "Carnegie Hall",
-   "p": 600
+   "p": 600,
+   "apic": "Carnegie Hall"
   },
   {
    "q": "Which singer was nicknamed Ol' Blue Eyes?",
    "a": "Frank Sinatra",
-   "p": 400
+   "p": 400,
+   "apic": "Frank Sinatra"
   },
   {
    "q": "Which country singer was known as the Man in Black?",
    "a": "Johnny Cash",
-   "p": 400
+   "p": 400,
+   "apic": "Johnny Cash"
   },
   {
    "q": "Which blues guitarist named his guitar Lucille?",
    "a": "B.B. King",
-   "p": 600
+   "p": 600,
+   "apic": "B.B. King"
   },
   {
    "q": "Which singer-songwriter is known as the Piano Man?",
    "a": "Billy Joel",
-   "p": 400
+   "p": 400,
+   "apic": "Billy Joel"
   },
   {
    "q": "Which Andean wind instrument is made of a row of pipes of different lengths?",
@@ -1381,7 +1579,8 @@
    "alt": [
     "Panpipes",
     "Siku"
-   ]
+   ],
+   "apic": "Pan flute"
   },
   {
    "q": "Which British composer wrote 'The Planets' suite?",
@@ -1389,7 +1588,8 @@
    "p": 600,
    "alt": [
     "Holst"
-   ]
+   ],
+   "apic": "Gustav Holst"
   },
   {
    "q": "Which German composer wrote 'Carmina Burana'?",
@@ -1397,7 +1597,8 @@
    "p": 600,
    "alt": [
     "Orff"
-   ]
+   ],
+   "apic": "Carl Orff"
   },
   {
    "q": "Which French composer wrote the 'Gymnopédies'?",
@@ -1405,7 +1606,8 @@
    "p": 600,
    "alt": [
     "Satie"
-   ]
+   ],
+   "apic": "Erik Satie"
   },
   {
    "q": "Which German composer wrote the 'Hungarian Dances'?",
@@ -1413,7 +1615,8 @@
    "p": 600,
    "alt": [
     "Brahms"
-   ]
+   ],
+   "apic": "Johannes Brahms"
   },
   {
    "q": "Which Russian composer's 'Scheherazade' was inspired by One Thousand and One Nights?",
@@ -1421,7 +1624,8 @@
    "p": 600,
    "alt": [
     "Rimsky-Korsakov"
-   ]
+   ],
+   "apic": "Nikolai Rimsky-Korsakov"
   },
   {
    "q": "Which French composer wrote the 'Symphonie fantastique'?",
@@ -1429,12 +1633,14 @@
    "p": 600,
    "alt": [
     "Berlioz"
-   ]
+   ],
+   "apic": "Hector Berlioz"
   },
   {
    "q": "Which composer wrote 'Also sprach Zarathustra', famously used in 2001: A Space Odyssey?",
    "a": "Richard Strauss",
-   "p": 600
+   "p": 600,
+   "apic": "Richard Strauss"
   },
   {
    "q": "Which English composer wrote 'The Lark Ascending'?",
@@ -1442,7 +1648,8 @@
    "p": 600,
    "alt": [
     "Vaughan Williams"
-   ]
+   ],
+   "apic": "Ralph Vaughan Williams"
   },
   {
    "q": "Which English composer wrote the 'Pomp and Circumstance' marches?",
@@ -1450,12 +1657,14 @@
    "p": 600,
    "alt": [
     "Elgar"
-   ]
+   ],
+   "apic": "Edward Elgar"
   },
   {
    "q": "Which American composer wrote 'Adagio for Strings'?",
    "a": "Samuel Barber",
-   "p": 600
+   "p": 600,
+   "apic": "Samuel Barber"
   },
   {
    "q": "Which Russian composer wrote the 'Rhapsody on a Theme of Paganini'?",
@@ -1464,7 +1673,8 @@
    "alt": [
     "Rachmaninoff",
     "Rachmaninov"
-   ]
+   ],
+   "apic": "Sergei Rachmaninoff"
   },
   {
    "q": "Which Italian violin virtuoso was rumoured to have made a pact with the devil?",
@@ -1472,7 +1682,8 @@
    "p": 600,
    "alt": [
     "Paganini"
-   ]
+   ],
+   "apic": "Niccolò Paganini"
   },
   {
    "q": "Which composer's surname means 'brook' or 'stream' in German?",
@@ -1480,7 +1691,8 @@
    "p": 600,
    "alt": [
     "Johann Sebastian Bach"
-   ]
+   ],
+   "apic": "Johann Sebastian Bach"
   },
   {
    "q": "What is the Italian term for gradually slowing down?",
@@ -1499,32 +1711,38 @@
   {
    "q": "Which jazz saxophonist was nicknamed 'Bird'?",
    "a": "Charlie Parker",
-   "p": 600
+   "p": 600,
+   "apic": "Charlie Parker"
   },
   {
    "q": "Which Dave Brubeck Quartet tune is famous for being in 5/4 time?",
    "a": "Take Five",
-   "p": 600
+   "p": 600,
+   "apic": "Take Five"
   },
   {
    "q": "Who founded Motown Records in Detroit?",
    "a": "Berry Gordy",
-   "p": 600
+   "p": 600,
+   "apic": "Berry Gordy"
   },
   {
    "q": "Which singer was known as the Empress of the Blues?",
    "a": "Bessie Smith",
-   "p": 600
+   "p": 600,
+   "apic": "Bessie Smith"
   },
   {
    "q": "Which flamboyant pianist was famous for the candelabra on his piano?",
    "a": "Liberace",
-   "p": 600
+   "p": 600,
+   "apic": "Liberace"
   },
   {
    "q": "Who directed Michael Jackson's 'Thriller' music video?",
    "a": "John Landis",
-   "p": 600
+   "p": 600,
+   "apic": "John Landis"
   },
   {
    "q": "What is Elton John's birth name?",
@@ -1532,7 +1750,8 @@
    "p": 600,
    "alt": [
     "Reginald Kenneth Dwight"
-   ]
+   ],
+   "apic": "Elton John"
   },
   {
    "q": "What is U2 singer Bono's real name?",
@@ -1540,63 +1759,75 @@
    "p": 600,
    "alt": [
     "Paul David Hewson"
-   ]
+   ],
+   "apic": "Bono"
   },
   {
    "q": "Which singer was born Elizabeth Grant?",
    "a": "Lana Del Rey",
-   "p": 600
+   "p": 600,
+   "apic": "Lana Del Rey"
   },
   {
    "q": "Which band released 'Don't You Want Me' in 1981?",
    "a": "The Human League",
-   "p": 600
+   "p": 600,
+   "apic": "The Human League"
   },
   {
    "q": "Which band released the 1982 album 'Rio'?",
    "a": "Duran Duran",
-   "p": 600
+   "p": 600,
+   "apic": "Duran Duran"
   },
   {
    "q": "Which Canadian singer won Eurovision in 1988 representing Switzerland?",
    "a": "Celine Dion",
-   "p": 600
+   "p": 600,
+   "apic": "Celine Dion"
   },
   {
    "q": "Which country won Eurovision in 2024 with Nemo's 'The Code'?",
    "a": "Switzerland",
-   "p": 600
+   "p": 600,
+   "apic": "Switzerland"
   },
   {
    "q": "Which Finnish monster-masked rock band won Eurovision in 2006?",
    "a": "Lordi",
-   "p": 600
+   "p": 600,
+   "apic": "Lordi"
   },
   {
    "q": "Which Irish singer won Eurovision as a performer in both 1980 and 1987?",
    "a": "Johnny Logan",
-   "p": 600
+   "p": 600,
+   "apic": "Johnny Logan (singer)"
   },
   {
    "q": "Which Japanese stringed instrument is a long 13-string zither?",
    "a": "Koto",
-   "p": 600
+   "p": 600,
+   "apic": "Koto (instrument)"
   },
   {
    "q": "Which Chinese two-stringed bowed instrument is sometimes called the Chinese violin?",
    "a": "Erhu",
-   "p": 600
+   "p": 600,
+   "apic": "Erhu"
   },
   {
    "q": "Which West African harp-lute traditionally has 21 strings?",
    "a": "Kora",
-   "p": 600
+   "p": 600,
+   "apic": "Kora (instrument)"
   },
   {
    "q": "Which Lebanese singer and actress was nicknamed Al Shahroura?",
    "a": "Sabah",
    "p": 600,
-   "ar": "صباح"
+   "ar": "صباح",
+   "apic": "Sabah (singer)"
   },
   {
    "q": "Which Lebanese singer, famous for his mawwal, was known as the Voice of Lebanon?",
@@ -1606,7 +1837,8 @@
    "alt": [
     "Wadih al-Safi",
     "Wadih Al Safi"
-   ]
+   ],
+   "apic": "Wadih El Safi"
   },
   {
    "q": "Which Lebanese oud master and composer founded the Al Mayadeen Ensemble?",
@@ -1615,7 +1847,8 @@
    "ar": "مارسيل خليفة",
    "alt": [
     "Marcel Khalifa"
-   ]
+   ],
+   "apic": "Marcel Khalife"
   },
   {
    "q": "Which Bruno Mars album won Album of the Year at the 2018 Grammys?",
@@ -1635,22 +1868,26 @@
   {
    "q": "Which composer wrote the score for The Lord of the Rings films?",
    "a": "Howard Shore",
-   "p": 600
+   "p": 600,
+   "apic": "Howard Shore"
   },
   {
    "q": "Which composer is credited with writing the James Bond Theme?",
    "a": "Monty Norman",
-   "p": 600
+   "p": 600,
+   "apic": "Monty Norman"
   },
   {
    "q": "Which composer scored Titanic (1997)?",
    "a": "James Horner",
-   "p": 600
+   "p": 600,
+   "apic": "James Horner"
   },
   {
    "q": "Which Nintendo composer wrote the Super Mario Bros. theme?",
    "a": "Koji Kondo",
-   "p": 600
+   "p": 600,
+   "apic": "Koji Kondo"
   }
  ]
 }

@@ -5,7 +5,8 @@
   {
    "q": "Which Studio Ghibli film won the Academy Award for Best Animated Feature at the 2003 ceremony?",
    "a": "Spirited Away",
-   "p": 200
+   "p": 200,
+   "apic": "Spirited Away"
   },
   {
    "q": "Which director, born in 1941, co-founded Studio Ghibli and created My Neighbor Totoro?",
@@ -13,7 +14,8 @@
    "p": 200,
    "alt": [
     "Miyazaki"
-   ]
+   ],
+   "apic": "Hayao Miyazaki"
   },
   {
    "q": "What is the name of Kiki's black cat?",
@@ -78,7 +80,8 @@
    "alt": [
     "Cat Bus",
     "Nekobus"
-   ]
+   ],
+   "apic": "Catbus"
   },
   {
    "q": "Which composer wrote the music for most of Hayao Miyazaki's films?",
@@ -86,7 +89,8 @@
    "p": 200,
    "alt": [
     "Hisaishi"
-   ]
+   ],
+   "apic": "Joe Hisaishi"
   },
   {
    "q": "In Howl's Moving Castle, what is the name of the fire demon who powers the castle?",
@@ -114,7 +118,8 @@
   {
    "q": "Which Ghibli character appears in the studio's logo?",
    "a": "Totoro",
-   "p": 200
+   "p": 200,
+   "apic": "Totoro"
   },
   {
    "q": "In which country is Studio Ghibli based?",
@@ -158,12 +163,14 @@
    "p": 200,
    "alt": [
     "Howls Moving Castle"
-   ]
+   ],
+   "apic": "Howl's Moving Castle (film)"
   },
   {
    "q": "Which tragic Ghibli film follows siblings Seita and Setsuko in wartime Japan?",
    "a": "Grave of the Fireflies",
-   "p": 200
+   "p": 200,
+   "apic": "Grave of the Fireflies"
   },
   {
    "q": "What is the name of the cursed prince in Princess Mononoke?",
@@ -187,12 +194,15 @@
    "alt": [
     "Laputa: Castle in the Sky",
     "Laputa Castle in the Sky"
-   ]
+   ],
+   "apic": "Castle in the Sky"
   },
   {
    "q": "In which Japanese capital city is the Ghibli Museum located?",
    "a": "Tokyo",
-   "p": 200
+   "p": 200,
+   "pic": "Ghibli Museum",
+   "apic": "Tokyo"
   },
   {
    "q": "Ghibli films belong to which Japanese style of animation?",
@@ -219,7 +229,8 @@
    "alt": [
     "Boy and the Heron",
     "How Do You Live"
-   ]
+   ],
+   "apic": "The Boy and the Heron"
   },
   {
    "q": "What is the title character of Kiki's Delivery Service training to become?",
@@ -232,7 +243,9 @@
    "p": 400,
    "alt": [
     "Takahata"
-   ]
+   ],
+   "pic": "Grave of the Fireflies",
+   "apic": "Isao Takahata"
   },
   {
    "q": "In which year was Studio Ghibli founded?",
@@ -247,12 +260,14 @@
     "Nausicaa",
     "Nausicaa of the Valley of the Wind",
     "Nausicaä of the Valley of the Wind"
-   ]
+   ],
+   "apic": "Nausicaä of the Valley of the Wind (film)"
   },
   {
    "q": "Which 1992 Miyazaki film is set around the Adriatic Sea and stars a seaplane pilot?",
    "a": "Porco Rosso",
-   "p": 400
+   "p": 400,
+   "apic": "Porco Rosso"
   },
   {
    "q": "Which 2013 Miyazaki film is a fictionalised story about an aircraft designer named Jiro?",
@@ -260,7 +275,8 @@
    "p": 400,
    "alt": [
     "Wind Rises"
-   ]
+   ],
+   "apic": "The Wind Rises"
   },
   {
    "q": "What is the name of the boy hero of The Boy and the Heron?",
@@ -270,7 +286,8 @@
   {
    "q": "Which British author wrote the novel that Howl's Moving Castle is based on?",
    "a": "Diana Wynne Jones",
-   "p": 400
+   "p": 400,
+   "apic": "Diana Wynne Jones"
   },
   {
    "q": "Ponyo is loosely inspired by which Hans Christian Andersen tale?",
@@ -278,7 +295,9 @@
    "p": 400,
    "alt": [
     "Little Mermaid"
-   ]
+   ],
+   "pic": "Ponyo",
+   "apic": "The Little Mermaid"
   },
   {
    "q": "What is the name of Ponyo's father, a former human wizard?",
@@ -341,7 +360,8 @@
    "alt": [
     "Arrietty",
     "Secret World of Arrietty"
-   ]
+   ],
+   "apic": "The Secret World of Arrietty"
   },
   {
    "q": "Which dapper cat figurine character appears in both Whisper of the Heart and The Cat Returns?",
@@ -358,7 +378,9 @@
    "alt": [
     "Goro Miyazaki",
     "Goro"
-   ]
+   ],
+   "pic": "Tales from Earthsea (film)",
+   "apic": "Gorō Miyazaki"
   },
   {
    "q": "In which year was Spirited Away released in Japan?",
@@ -376,7 +398,8 @@
   {
    "q": "Which Pixar film from 2010 includes a plush Totoro cameo?",
    "a": "Toy Story 3",
-   "p": 400
+   "p": 400,
+   "pic": "Spirited Away"
   },
   {
    "q": "What star-shaped candy do the soot sprites eat in Spirited Away?",
@@ -392,7 +415,9 @@
    "p": 400,
    "alt": [
     "Camphor"
-   ]
+   ],
+   "pic": "Totoro",
+   "apic": "Cinnamomum camphora"
   },
   {
    "q": "Where is the mother of Satsuki and Mei staying in My Neighbor Totoro?",
@@ -415,7 +440,8 @@
   {
    "q": "Which Takahata film features raccoon dogs fighting to save their forest home?",
    "a": "Pom Poko",
-   "p": 400
+   "p": 400,
+   "apic": "Pom Poko"
   },
   {
    "q": "Which 2013 Takahata film is based on the folktale of a bamboo cutter?",
@@ -424,12 +450,15 @@
    "alt": [
     "Princess Kaguya",
     "Tale of Princess Kaguya"
-   ]
+   ],
+   "apic": "The Tale of the Princess Kaguya (film)"
   },
   {
    "q": "In which Tokyo suburb is the Ghibli Museum located?",
    "a": "Mitaka",
-   "p": 400
+   "p": 400,
+   "pic": "Ghibli Museum",
+   "apic": "Mitaka"
   },
   {
    "q": "In Spirited Away, what unusual vehicle crosses the water at the film's quiet turning point?",
@@ -456,12 +485,14 @@
   {
    "q": "In which year was Princess Mononoke released in Japan?",
    "a": "1997",
-   "p": 400
+   "p": 400,
+   "pic": "Princess Mononoke"
   },
   {
    "q": "In which year was Ponyo released in Japan?",
    "a": "2008",
-   "p": 400
+   "p": 400,
+   "pic": "Ponyo"
   },
   {
    "q": "What is the name of the wolf god who raised San in Princess Mononoke?",
@@ -471,7 +502,8 @@
   {
    "q": "Which author wrote the novel that Kiki's Delivery Service is based on?",
    "a": "Eiko Kadono",
-   "p": 600
+   "p": 600,
+   "apic": "Eiko Kadono"
   },
   {
    "q": "In which month of 2001 did the Ghibli Museum open?",
@@ -484,12 +516,14 @@
    "p": 600,
    "alt": [
     "Suzuki"
-   ]
+   ],
+   "apic": "Toshio Suzuki (producer)"
   },
   {
    "q": "Spirited Away shared which top prize at the 2002 Berlin International Film Festival?",
    "a": "Golden Bear",
-   "p": 600
+   "p": 600,
+   "apic": "Golden Bear"
   },
   {
    "q": "Who is the American pilot who rivals Porco in Porco Rosso?",
@@ -506,7 +540,8 @@
    "alt": [
     "Yoshifumi Kondo",
     "Kondo"
-   ]
+   ],
+   "apic": "Yoshifumi Kondō"
   },
   {
    "q": "Which 2011 film by Gorō Miyazaki is set in 1963 Yokohama?",
@@ -514,7 +549,8 @@
    "p": 600,
    "alt": [
     "Poppy Hill"
-   ]
+   ],
+   "apic": "From Up on Poppy Hill"
   },
   {
    "q": "Which American author wrote the Earthsea novels that inspired Tales from Earthsea?",
@@ -523,7 +559,8 @@
    "alt": [
     "Ursula Le Guin",
     "Le Guin"
-   ]
+   ],
+   "apic": "Ursula K. Le Guin"
   },
   {
    "q": "In 1988, Grave of the Fireflies was released as a double bill with which Miyazaki film?",
@@ -531,7 +568,8 @@
    "p": 600,
    "alt": [
     "Totoro"
-   ]
+   ],
+   "apic": "My Neighbor Totoro"
   },
   {
    "q": "Which robot from Castle in the Sky stands on the roof of the Ghibli Museum?",
@@ -565,7 +603,8 @@
   {
    "q": "Which Ghibli film directed by Hiromasa Yonebayashi earned a 2016 Oscar nomination?",
    "a": "When Marnie Was There",
-   "p": 600
+   "p": 600,
+   "apic": "When Marnie Was There"
   },
   {
    "q": "What is the name of the baker who gives Kiki a place to stay?",
@@ -606,12 +645,14 @@
    "alt": [
     "The Yamadas",
     "Yamadas"
-   ]
+   ],
+   "apic": "My Neighbors the Yamadas"
   },
   {
    "q": "Which 1991 Takahata film contrasts a woman's countryside trip with memories of her childhood?",
    "a": "Only Yesterday",
-   "p": 600
+   "p": 600,
+   "apic": "Only Yesterday (1991 film)"
   },
   {
    "q": "Which 2020 Gorō Miyazaki film was Ghibli's first fully computer-animated feature?",
@@ -620,7 +661,8 @@
    "alt": [
     "Aya and the Witch",
     "Earwig"
-   ]
+   ],
+   "apic": "Earwig and the Witch (film)"
   },
   {
    "q": "Which 1993 Ghibli TV film, directed by Tomomi Mochizuki, is set in a Kōchi high school?",
@@ -628,7 +670,8 @@
    "p": 600,
    "alt": [
     "I Can Hear the Sea"
-   ]
+   ],
+   "apic": "Ocean Waves (film)"
   },
   {
    "q": "Which 1979 film was Hayao Miyazaki's feature directorial debut?",
@@ -637,7 +680,8 @@
    "alt": [
     "Lupin III: The Castle of Cagliostro",
     "Castle of Cagliostro"
-   ]
+   ],
+   "apic": "The Castle of Cagliostro"
   },
   {
    "q": "Which 1974 TV series based on Johanna Spyri's novel did Isao Takahata direct?",
@@ -646,7 +690,8 @@
    "alt": [
     "Heidi",
     "Alps no Shoujo Heidi"
-   ]
+   ],
+   "apic": "Heidi, Girl of the Alps"
   },
   {
    "q": "Which real Italian aircraft designer inspires the dream mentor of Jiro in The Wind Rises?",
@@ -655,7 +700,8 @@
    "alt": [
     "Caproni",
     "Gianni Caproni"
-   ]
+   ],
+   "apic": "Giovanni Battista Caproni"
   },
   {
    "q": "What is the name of Nausicaä's glider?",
@@ -718,7 +764,8 @@
   {
    "q": "In which film does a girl named Kiki move to a seaside town?",
    "a": "Kiki's Delivery Service",
-   "p": 200
+   "p": 200,
+   "apic": "Kiki's Delivery Service"
   },
   {
    "q": "What does Totoro use to fly through the sky with the girls?",
@@ -736,7 +783,8 @@
    "alt": [
     "Laputa: Castle in the Sky",
     "Laputa"
-   ]
+   ],
+   "apic": "Castle in the Sky"
   },
   {
    "q": "In Princess Mononoke, which animals raised San?",
@@ -749,7 +797,8 @@
   {
    "q": "Which Ghibli film has a heroine who must work for a witch to save her parents?",
    "a": "Spirited Away",
-   "p": 200
+   "p": 200,
+   "apic": "Spirited Away"
   },
   {
    "q": "In Howl's Moving Castle, what does Howl turn into when he flies to war?",
@@ -772,7 +821,8 @@
    "alt": [
     "Nausicaä",
     "Nausicaa"
-   ]
+   ],
+   "apic": "Nausicaä of the Valley of the Wind (film)"
   },
   {
    "q": "What colour is the big Totoro's fur?",
@@ -786,7 +836,8 @@
   {
    "q": "Which Ghibli film features a hero cursed by a demon boar who travels west?",
    "a": "Princess Mononoke",
-   "p": 200
+   "p": 200,
+   "apic": "Princess Mononoke"
   },
   {
    "q": "In Spirited Away, how does No-Face pay the bathhouse workers?",
@@ -994,7 +1045,8 @@
   {
    "q": "Which classic novel by Jonathan Swift gives Laputa its name?",
    "a": "Gulliver's Travels",
-   "p": 400
+   "p": 400,
+   "apic": "Gulliver's Travels"
   },
   {
    "q": "What is the name of Nausicaä's homeland?",
@@ -1020,7 +1072,8 @@
     "Kanto earthquake",
     "1923 earthquake",
     "Earthquake"
-   ]
+   ],
+   "apic": "1923 Great Kantō earthquake"
   },
   {
    "q": "What is the Japanese title of The Boy and the Heron, also a famous novel?",
@@ -1028,17 +1081,20 @@
    "p": 400,
    "alt": [
     "Kimitachi wa Dō Ikiru ka"
-   ]
+   ],
+   "apic": "How Do You Live?"
   },
   {
    "q": "Who voices the Grey Heron in the English dub of The Boy and the Heron?",
    "a": "Robert Pattinson",
-   "p": 400
+   "p": 400,
+   "apic": "Robert Pattinson"
   },
   {
    "q": "Who voices Howl in the English dub of Howl's Moving Castle?",
    "a": "Christian Bale",
-   "p": 400
+   "p": 400,
+   "apic": "Christian Bale"
   },
   {
    "q": "What birds rule a kingdom in the other world of The Boy and the Heron?",
@@ -1070,7 +1126,8 @@
    "p": 400,
    "alt": [
     "Country Roads"
-   ]
+   ],
+   "apic": "Take Me Home, Country Roads"
   },
   {
    "q": "What brand of fruit drops does Setsuko treasure in Grave of the Fireflies?",
@@ -1083,7 +1140,8 @@
   {
    "q": "In which Japanese city is Grave of the Fireflies set?",
    "a": "Kobe",
-   "p": 400
+   "p": 400,
+   "apic": "Kobe"
   },
   {
    "q": "Where does Princess Kaguya come from and return to?",
@@ -1091,7 +1149,8 @@
    "p": 400,
    "alt": [
     "Moon"
-   ]
+   ],
+   "apic": "Moon"
   },
   {
    "q": "What does Umi raise every morning in From Up on Poppy Hill?",
@@ -1192,7 +1251,8 @@
    "p": 400,
    "alt": [
     "Yonebayashi"
-   ]
+   ],
+   "apic": "Hiromasa Yonebayashi"
   },
   {
    "q": "In Ponyo, at what kind of centre next to Sosuke's school does his mother Lisa work?",
@@ -1223,7 +1283,8 @@
   {
    "q": "Which British author wrote The Borrowers, the basis of Arrietty?",
    "a": "Mary Norton",
-   "p": 600
+   "p": 600,
+   "apic": "Mary Norton"
   },
   {
    "q": "What is the name of the seaside town where Kiki settles?",
@@ -1233,7 +1294,8 @@
   {
    "q": "Which Swedish island town partly inspired Kiki's town?",
    "a": "Visby",
-   "p": 600
+   "p": 600,
+   "apic": "Visby"
   },
   {
    "q": "To where does Chihiro travel by train to visit Zeniba?",
@@ -1273,7 +1335,8 @@
    "p": 600,
    "alt": [
     "Nippon Television"
-   ]
+   ],
+   "apic": "Nippon TV"
   },
   {
    "q": "Which Italian aircraft model, named after a desert wind, inspired Ghibli's name?",
@@ -1282,7 +1345,8 @@
    "alt": [
     "Caproni Ca.309 Ghibli",
     "Caproni"
-   ]
+   ],
+   "apic": "Caproni Ca.309"
   },
   {
    "q": "Which boar god curses Ashitaka?",
@@ -1331,7 +1395,9 @@
    "alt": [
     "Zero",
     "A6M Zero"
-   ]
+   ],
+   "pic": "Jiro Horikoshi",
+   "apic": "Mitsubishi A6M Zero"
   },
   {
    "q": "What is the name of Mahito's stepmother and aunt in The Boy and the Heron?",
@@ -1357,47 +1423,60 @@
    "p": 600,
    "alt": [
     "Cannes Film Festival"
-   ]
+   ],
+   "apic": "Cannes Film Festival"
   },
   {
    "q": "What is Joe Hisaishi's real name?",
    "a": "Mamoru Fujisawa",
-   "p": 600
+   "p": 600,
+   "pic": "Joe Hisaishi"
   },
   {
    "q": "Which American musician inspired Joe Hisaishi's stage name?",
    "a": "Quincy Jones",
-   "p": 600
+   "p": 600,
+   "apic": "Quincy Jones",
+   "pic": "Joe Hisaishi"
   },
   {
    "q": "Who voices Kiki in Disney's English dub?",
    "a": "Kirsten Dunst",
-   "p": 600
+   "p": 600,
+   "pic": "Kiki's Delivery Service",
+   "apic": "Kirsten Dunst"
   },
   {
    "q": "Which writer adapted Princess Mononoke's English script?",
    "a": "Neil Gaiman",
-   "p": 600
+   "p": 600,
+   "pic": "Princess Mononoke",
+   "apic": "Neil Gaiman"
   },
   {
    "q": "Which Pixar chief helped bring Spirited Away to US audiences?",
    "a": "John Lasseter",
-   "p": 600
+   "p": 600,
+   "apic": "John Lasseter",
+   "pic": "Spirited Away"
   },
   {
    "q": "Which American distributor has released Ghibli films in North America since 2011?",
    "a": "GKIDS",
-   "p": 600
+   "p": 600,
+   "apic": "GKIDS"
   },
   {
    "q": "Which publishing company co-founded Studio Ghibli?",
    "a": "Tokuma Shoten",
-   "p": 600
+   "p": 600,
+   "apic": "Tokuma Shoten"
   },
   {
    "q": "Which Dutch-British director made the 2016 Ghibli co-production The Red Turtle?",
    "a": "Michael Dudok de Wit",
-   "p": 600
+   "p": 600,
+   "apic": "Michael Dudok de Wit"
   },
   {
    "q": "Which 2014 CGI TV series by Gorō Miyazaki is based on Astrid Lindgren's novel?",
@@ -1405,12 +1484,14 @@
    "p": 600,
    "alt": [
     "Ronia, the Robber's Daughter"
-   ]
+   ],
+   "apic": "Ronja, the Robber's Daughter (TV series)"
   },
   {
    "q": "Which author wrote the short story Grave of the Fireflies?",
    "a": "Akiyuki Nosaka",
-   "p": 600
+   "p": 600,
+   "apic": "Akiyuki Nosaka"
   },
   {
    "q": "What is the name of the boy who loves Shizuku in Whisper of the Heart?",
@@ -1428,7 +1509,8 @@
   {
    "q": "In which Japanese island setting does When Marnie Was There take place?",
    "a": "Hokkaido",
-   "p": 600
+   "p": 600,
+   "apic": "Hokkaido"
   },
   {
    "q": "Which singers performed Ponyo's theme song?",
@@ -1444,7 +1526,8 @@
    "p": 600,
    "alt": [
     "Muromachi"
-   ]
+   ],
+   "apic": "Muromachi period"
   },
   {
    "q": "What is the name of the bathhouse in Spirited Away?",

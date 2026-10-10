@@ -20,67 +20,81 @@
   {
    "q": "Which player is nicknamed CR7?",
    "a": "Cristiano Ronaldo",
-   "p": 200
+   "p": 200,
+   "apic": "Cristiano Ronaldo"
   },
   {
    "q": "Which country won the 2022 World Cup in Qatar?",
    "a": "Argentina",
-   "p": 200
+   "p": 200,
+   "apic": "Argentina"
   },
   {
    "q": "Which English club plays its home games at Old Trafford?",
    "a": "Manchester United",
-   "p": 200
+   "p": 200,
+   "pic": "Old Trafford",
+   "apic": "Manchester United F.C."
   },
   {
    "q": "Which country hosted the 2014 World Cup?",
    "a": "Brazil",
-   "p": 200
+   "p": 200,
+   "apic": "Brazil"
   },
   {
    "q": "Which London club is nicknamed 'The Gunners'?",
    "a": "Arsenal",
-   "p": 400
+   "p": 400,
+   "apic": "Arsenal F.C."
   },
   {
    "q": "Which country won the 2010 World Cup in South Africa?",
    "a": "Spain",
-   "p": 400
+   "p": 400,
+   "apic": "Spain"
   },
   {
    "q": "Which Argentine scored the 'Hand of God' goal in 1986?",
    "a": "Diego Maradona",
-   "p": 200
+   "p": 200,
+   "apic": "Diego Maradona"
   },
   {
    "q": "Which Liverpool stadium has a famous stand called The Kop?",
    "a": "Anfield",
-   "p": 400
+   "p": 400,
+   "apic": "Anfield"
   },
   {
    "q": "Which country's top league is called Serie A?",
    "a": "Italy",
-   "p": 200
+   "p": 200,
+   "apic": "Italy"
   },
   {
    "q": "Which Brazilian is the only player to win three World Cups?",
    "a": "Pelé",
-   "p": 200
+   "p": 200,
+   "apic": "Pelé"
   },
   {
    "q": "Which Uruguayan scored the winning goal against Brazil in the 1950 World Cup decider?",
    "a": "Alcides Ghiggia",
-   "p": 600
+   "p": 600,
+   "apic": "Alcides Ghiggia"
   },
   {
    "q": "Who scored a hat-trick for England in the 1966 World Cup final?",
    "a": "Geoff Hurst",
-   "p": 400
+   "p": 400,
+   "apic": "Geoff Hurst"
   },
   {
    "q": "Which French player was sent off for headbutting Materazzi in the 2006 final?",
    "a": "Zinedine Zidane",
-   "p": 200
+   "p": 200,
+   "apic": "Zinedine Zidane"
   },
   {
    "q": "Which two countries co-hosted the 2002 World Cup?",
@@ -90,32 +104,40 @@
   {
    "q": "Which country won Euro 2004 as a major surprise?",
    "a": "Greece",
-   "p": 400
+   "p": 400,
+   "apic": "Greece"
   },
   {
    "q": "Which country has won the most men's World Cups?",
    "a": "Brazil",
-   "p": 200
+   "p": 200,
+   "apic": "Brazil"
   },
   {
    "q": "Which Spanish club plays its home games at the Camp Nou?",
    "a": "Barcelona",
-   "p": 200
+   "p": 200,
+   "pic": "Camp Nou",
+   "apic": "FC Barcelona"
   },
   {
    "q": "Which Spanish club plays at the Santiago Bernabeu stadium?",
    "a": "Real Madrid",
-   "p": 200
+   "p": 200,
+   "pic": "Santiago Bernabéu Stadium",
+   "apic": "Real Madrid CF"
   },
   {
    "q": "Which country won the 2018 World Cup in Russia?",
    "a": "France",
-   "p": 200
+   "p": 200,
+   "apic": "France"
   },
   {
    "q": "Which Argentine captain lifted the trophy at the 2022 World Cup?",
    "a": "Lionel Messi",
-   "p": 200
+   "p": 200,
+   "apic": "Lionel Messi"
   },
   {
    "q": "What colour card is shown as a caution or warning?",
@@ -125,52 +147,64 @@
   {
    "q": "Which organisation runs the World Cup?",
    "a": "FIFA",
-   "p": 200
+   "p": 200,
+   "apic": "FIFA"
   },
   {
    "q": "Which Gulf country hosted the 2022 World Cup?",
    "a": "Qatar",
-   "p": 200
+   "p": 200,
+   "apic": "Qatar"
   },
   {
    "q": "Which Spanish club is nicknamed Los Blancos?",
    "a": "Real Madrid",
-   "p": 400
+   "p": 400,
+   "apic": "Real Madrid CF"
   },
   {
    "q": "Which Italian club is nicknamed the Old Lady?",
    "a": "Juventus",
-   "p": 400
+   "p": 400,
+   "apic": "Juventus FC"
   },
   {
    "q": "Which national team is nicknamed the Three Lions?",
    "a": "England",
-   "p": 200
+   "p": 200,
+   "apic": "England national football team"
   },
   {
    "q": "Which London club plays at Stamford Bridge?",
    "a": "Chelsea",
-   "p": 200
+   "p": 200,
+   "pic": "Stamford Bridge (stadium)",
+   "apic": "Chelsea F.C."
   },
   {
    "q": "Which country does Neymar play for?",
    "a": "Brazil",
-   "p": 200
+   "p": 200,
+   "pic": "Neymar",
+   "apic": "Brazil"
   },
   {
    "q": "Which English club is nicknamed the Red Devils?",
    "a": "Manchester United",
-   "p": 200
+   "p": 200,
+   "apic": "Manchester United F.C."
   },
   {
    "q": "Which Bavarian club has won the most German league titles?",
    "a": "Bayern Munich",
-   "p": 200
+   "p": 200,
+   "apic": "FC Bayern Munich"
   },
   {
    "q": "Which country won the 2014 World Cup?",
    "a": "Germany",
-   "p": 200
+   "p": 200,
+   "apic": "Germany"
   },
   {
    "q": "What is it called when a player scores three goals in one match?",
@@ -180,22 +214,27 @@
   {
    "q": "Which teenage French forward scored in the 2018 World Cup final?",
    "a": "Kylian Mbappe",
-   "p": 200
+   "p": 200,
+   "apic": "Kylian Mbappé"
   },
   {
    "q": "Which French forward scored the golden goal that beat Italy in the Euro 2000 final?",
    "a": "David Trezeguet",
-   "p": 600
+   "p": 600,
+   "apic": "David Trezeguet"
   },
   {
    "q": "Which country does Cristiano Ronaldo represent?",
    "a": "Portugal",
-   "p": 200
+   "p": 200,
+   "pic": "Cristiano Ronaldo",
+   "apic": "Portugal"
   },
   {
    "q": "Which Manchester club is nicknamed the Citizens?",
    "a": "Manchester City",
-   "p": 200
+   "p": 200,
+   "apic": "Manchester City F.C."
   },
   {
    "q": "What do you call a goal scored into your own net?",
@@ -205,12 +244,15 @@
   {
    "q": "Which country's top league is called La Liga?",
    "a": "Spain",
-   "p": 200
+   "p": 200,
+   "apic": "Spain"
   },
   {
    "q": "Which Dutch club plays at the Johan Cruyff Arena?",
    "a": "Ajax",
-   "p": 400
+   "p": 400,
+   "pic": "Johan Cruyff Arena",
+   "apic": "AFC Ajax"
   },
   {
    "q": "How many points does a team get for a league win?",
@@ -220,7 +262,8 @@
   {
    "q": "Which country won the World Cup in 1998 on home soil?",
    "a": "France",
-   "p": 200
+   "p": 200,
+   "apic": "France"
   },
   {
    "q": "What is awarded to the attacking team for a defender's foul inside the penalty area?",
@@ -230,267 +273,321 @@
   {
    "q": "Which national team is nicknamed Les Bleus?",
    "a": "France",
-   "p": 200
+   "p": 200,
+   "apic": "France national football team"
   },
   {
    "q": "Which team won the first European Championship in 1960?",
    "a": "Soviet Union",
-   "p": 600
+   "p": 600,
+   "apic": "Soviet Union national football team"
   },
   {
    "q": "Which German forward holds the record for most men's World Cup goals, with 16?",
    "a": "Miroslav Klose",
-   "p": 400
+   "p": 400,
+   "apic": "Miroslav Klose"
   },
   {
    "q": "Which club won three consecutive European Cups from 1971 to 1973?",
    "a": "Ajax",
-   "p": 600
+   "p": 600,
+   "apic": "AFC Ajax"
   },
   {
    "q": "Which country won Euro 1964 on home soil?",
    "a": "Spain",
-   "p": 600
+   "p": 600,
+   "apic": "Spain"
   },
   {
    "q": "Which French club won the first UEFA Champions League in 1992-93?",
    "a": "Marseille",
-   "p": 600
+   "p": 600,
+   "apic": "Olympique de Marseille"
   },
   {
    "q": "Which Russian striker scored five goals in one match at the 1994 World Cup?",
    "a": "Oleg Salenko",
-   "p": 600
+   "p": 600,
+   "apic": "Oleg Salenko"
   },
   {
    "q": "Which country won Euro 2016?",
    "a": "Portugal",
-   "p": 400
+   "p": 400,
+   "apic": "Portugal"
   },
   {
    "q": "Which Brazilian captain lifted the Jules Rimet Trophy in 1970?",
    "a": "Carlos Alberto",
-   "p": 600
+   "p": 600,
+   "apic": "Carlos Alberto Torres"
   },
   {
    "q": "Which Dutch legend is famous for the 'Cruyff turn'?",
    "a": "Johan Cruyff",
-   "p": 400
+   "p": 400,
+   "apic": "Johan Cruyff"
   },
   {
    "q": "Which team did the Netherlands beat in the Euro 1988 final?",
    "a": "Soviet Union",
-   "p": 600
+   "p": 600,
+   "apic": "Soviet Union national football team"
   },
   {
    "q": "Which Buenos Aires club plays at La Bombonera?",
    "a": "Boca Juniors",
-   "p": 400
+   "p": 400,
+   "pic": "La Bombonera",
+   "apic": "Boca Juniors"
   },
   {
    "q": "Which stadium hosted the 2022 World Cup final?",
    "a": "Lusail Stadium",
-   "p": 400
+   "p": 400,
+   "apic": "Lusail Stadium"
   },
   {
    "q": "Which German scored 10 goals at the 1970 World Cup to win the Golden Boot?",
    "a": "Gerd Muller",
-   "p": 600
+   "p": 600,
+   "apic": "Gerd Müller"
   },
   {
    "q": "Who scored the first goal in World Cup history, in 1930?",
    "a": "Lucien Laurent",
-   "p": 600
+   "p": 600,
+   "apic": "Lucien Laurent"
   },
   {
    "q": "Which German won the Ballon d'Or in both 1980 and 1981?",
    "a": "Karl-Heinz Rummenigge",
-   "p": 600
+   "p": 600,
+   "apic": "Karl-Heinz Rummenigge"
   },
   {
    "q": "Which Argentine striker was top scorer at the 1978 World Cup?",
    "a": "Mario Kempes",
-   "p": 600
+   "p": 600,
+   "apic": "Mario Kempes"
   },
   {
    "q": "Which German defender was nicknamed Der Kaiser?",
    "a": "Franz Beckenbauer",
-   "p": 400
+   "p": 400,
+   "apic": "Franz Beckenbauer"
   },
   {
    "q": "Which Brazilian striker was nicknamed O Fenomeno?",
    "a": "Ronaldo",
-   "p": 400
+   "p": 400,
+   "apic": "Ronaldo (Brazilian footballer)"
   },
   {
    "q": "Which club won the first European Cup in 1956?",
    "a": "Real Madrid",
-   "p": 400
+   "p": 400,
+   "apic": "Real Madrid CF"
   },
   {
    "q": "Which English club won the 1999 Champions League final against Bayern Munich?",
    "a": "Manchester United",
-   "p": 400
+   "p": 400,
+   "apic": "Manchester United F.C."
   },
   {
    "q": "Which London club went unbeaten in the 2003-04 Premier League?",
    "a": "Arsenal",
-   "p": 400
+   "p": 400,
+   "apic": "Arsenal F.C."
   },
   {
    "q": "Which Italian defender captained Italy to the 2006 World Cup and won the Ballon d'Or that year?",
    "a": "Fabio Cannavaro",
-   "p": 400
+   "p": 400,
+   "apic": "Fabio Cannavaro"
   },
   {
    "q": "Which club won the 2015-16 Premier League at 5000-1 odds?",
    "a": "Leicester City",
-   "p": 400
+   "p": 400,
+   "apic": "Leicester City F.C."
   },
   {
    "q": "Which country hosted the 1958 World Cup?",
    "a": "Sweden",
-   "p": 600
+   "p": 600,
+   "apic": "Sweden"
   },
   {
    "q": "Which trophy is awarded to the Euro winners?",
    "a": "Henri Delaunay Trophy",
-   "p": 600
+   "p": 600,
+   "apic": "Henri Delaunay Trophy"
   },
   {
    "q": "Which country won the 2019 AFC Asian Cup, held in the UAE?",
    "a": "Qatar",
-   "p": 400
+   "p": 400,
+   "apic": "Qatar"
   },
   {
    "q": "Which Spanish club beat Al Ain in the 2018 Club World Cup final?",
    "a": "Real Madrid",
-   "p": 400
+   "p": 400,
+   "apic": "Real Madrid CF"
   },
   {
    "q": "Which Brazilian club won the first FIFA Club World Championship in 2000?",
    "a": "Corinthians",
-   "p": 600
+   "p": 600,
+   "apic": "Sport Club Corinthians Paulista"
   },
   {
    "q": "Which Hungarian forward was top scorer at the 1954 World Cup with 11 goals?",
    "a": "Sandor Kocsis",
-   "p": 600
+   "p": 600,
+   "apic": "Sándor Kocsis"
   },
   {
    "q": "Which Italian won the Golden Boot at the 1982 World Cup?",
    "a": "Paolo Rossi",
-   "p": 600
+   "p": 600,
+   "apic": "Paolo Rossi"
   },
   {
    "q": "Which country won the 1954 'Miracle of Bern' final against Hungary?",
    "a": "West Germany",
-   "p": 400
+   "p": 400,
+   "apic": "West Germany"
   },
   {
    "q": "Which German scored the golden goal to win Euro 1996?",
    "a": "Oliver Bierhoff",
-   "p": 600
+   "p": 600,
+   "apic": "Oliver Bierhoff"
   },
   {
    "q": "Which North American club did Pele play for from 1975 to 1977?",
    "a": "New York Cosmos",
-   "p": 400
+   "p": 400,
+   "apic": "New York Cosmos (1970–1985)"
   },
   {
    "q": "Which Frenchman scored nine goals at Euro 1984?",
    "a": "Michel Platini",
-   "p": 600
+   "p": 600,
+   "apic": "Michel Platini"
   },
   {
    "q": "Which club won the first Premier League season in 1992-93?",
    "a": "Manchester United",
-   "p": 400
+   "p": 400,
+   "apic": "Manchester United F.C."
   },
   {
    "q": "Which Czechoslovak player scored the famous chipped penalty in the Euro 1976 final?",
    "a": "Antonin Panenka",
-   "p": 400
+   "p": 400,
+   "apic": "Antonín Panenka"
   },
   {
    "q": "Which country won Euro 1992 after replacing Yugoslavia?",
    "a": "Denmark",
-   "p": 400
+   "p": 400,
+   "apic": "Denmark"
   },
   {
    "q": "Which 38-year-old Cameroonian was famed for corner-flag dances at the 1990 World Cup?",
    "a": "Roger Milla",
-   "p": 400
+   "p": 400,
+   "apic": "Roger Milla"
   },
   {
    "q": "Which Asian team beat Italy at the 1966 World Cup?",
    "a": "North Korea",
-   "p": 400
+   "p": 400,
+   "apic": "North Korea"
   },
   {
    "q": "Which Soviet goalkeeper won the 1963 Ballon d'Or?",
    "a": "Lev Yashin",
-   "p": 600
+   "p": 600,
+   "apic": "Lev Yashin"
   },
   {
    "q": "Who won the first Ballon d'Or in 1956?",
    "a": "Stanley Matthews",
-   "p": 600
+   "p": 600,
+   "apic": "Stanley Matthews"
   },
   {
    "q": "Which Hungarian scored four goals in the 1960 European Cup final for Real Madrid?",
    "a": "Ferenc Puskas",
-   "p": 600
+   "p": 600,
+   "apic": "Ferenc Puskás"
   },
   {
    "q": "Which Portuguese star was top scorer at the 1966 World Cup with nine goals?",
    "a": "Eusebio",
-   "p": 600
+   "p": 600,
+   "apic": "Eusébio"
   },
   {
    "q": "Which goalkeeper captained Italy to the 1982 World Cup?",
    "a": "Dino Zoff",
-   "p": 600
+   "p": 600,
+   "apic": "Dino Zoff"
   },
   {
    "q": "Which country lost World Cup finals in 1974, 1978 and 2010?",
    "a": "Netherlands",
-   "p": 400
+   "p": 400,
+   "apic": "Netherlands"
   },
   {
    "q": "Which Scottish club won the 1967 European Cup?",
    "a": "Celtic",
-   "p": 600
+   "p": 600,
+   "apic": "Celtic F.C."
   },
   {
    "q": "Which England goalkeeper was beaten by the Hand of God goal?",
    "a": "Peter Shilton",
-   "p": 600
+   "p": 600,
+   "apic": "Peter Shilton"
   },
   {
    "q": "Who managed England to the 1966 World Cup win?",
    "a": "Alf Ramsey",
-   "p": 400
+   "p": 400,
+   "apic": "Alf Ramsey"
   },
   {
    "q": "Which French striker scored 13 goals at the 1958 World Cup?",
    "a": "Just Fontaine",
-   "p": 600
+   "p": 600,
+   "apic": "Just Fontaine"
   },
   {
    "q": "Which Croatian won the Golden Ball at the 2018 World Cup?",
    "a": "Luka Modric",
-   "p": 400
+   "p": 400,
+   "apic": "Luka Modrić"
   },
   {
    "q": "Which Saudi player scored a famous solo goal against Belgium at the 1994 World Cup?",
    "a": "Saeed Al-Owairan",
-   "p": 600
+   "p": 600,
+   "apic": "Saeed Al-Owairan"
   },
   {
    "q": "Which Thai club did Al Ain beat in the 2003 AFC Champions League final?",
    "a": "BEC Tero Sasana",
-   "p": 600
+   "p": 600,
+   "apic": "Police Tero F.C."
   },
   {
    "q": "Who scored this goal?",
@@ -498,7 +595,8 @@
    "p": 400,
    "yt": "S1Q4KhJUJ3g",
    "start": 0,
-   "end": 25
+   "end": 25,
+   "apic": "Zinedine Zidane"
   },
   {
    "q": "Who scored this goal in the 2005 Champions League final?",
@@ -506,7 +604,8 @@
    "p": 400,
    "yt": "-zgjQ2nep5A",
    "start": 0,
-   "end": 25
+   "end": 25,
+   "apic": "Steven Gerrard"
   },
   {
    "q": "How many minutes long is each half of a standard match?",
@@ -526,7 +625,8 @@
   {
    "q": "Which player is allowed to handle the ball inside their own penalty area?",
    "a": "The goalkeeper",
-   "p": 200
+   "p": 200,
+   "apic": "Goalkeeper (association football)"
   },
   {
    "q": "Which rule penalises an attacker who is beyond the second-last defender when the ball is played to them?",
@@ -556,7 +656,8 @@
   {
    "q": "What name is given to an overhead kick taken in mid-air with the player's back to goal?",
    "a": "A bicycle kick",
-   "p": 200
+   "p": 200,
+   "apic": "Bicycle kick"
   },
   {
    "q": "Which shirt number is traditionally worn by a team's main striker?",
@@ -566,32 +667,39 @@
   {
    "q": "Which Milan club plays in red and black stripes?",
    "a": "AC Milan",
-   "p": 200
+   "p": 200,
+   "apic": "AC Milan"
   },
   {
    "q": "Which Argentine legend starred for Napoli from 1984 to 1991?",
    "a": "Diego Maradona",
-   "p": 200
+   "p": 200,
+   "apic": "Diego Maradona"
   },
   {
    "q": "Which Italian goalkeeper won the 2006 World Cup and spent most of his career at Juventus?",
    "a": "Gianluigi Buffon",
-   "p": 200
+   "p": 200,
+   "apic": "Gianluigi Buffon"
   },
   {
    "q": "Which country's top league is called the Bundesliga?",
    "a": "Germany",
-   "p": 200
+   "p": 200,
+   "apic": "Germany"
   },
   {
    "q": "Which country's top league is called the Eredivisie?",
    "a": "Netherlands",
-   "p": 200
+   "p": 200,
+   "apic": "Netherlands"
   },
   {
    "q": "Which Paris club plays its home games at the Parc des Princes?",
    "a": "Paris Saint-Germain",
-   "p": 200
+   "p": 200,
+   "pic": "Parc des Princes",
+   "apic": "Paris Saint-Germain FC"
   },
   {
    "q": "Which two Glasgow clubs make up the Old Firm?",
@@ -601,27 +709,33 @@
   {
    "q": "Which Brazilian club did Pelé play for during most of his career?",
    "a": "Santos",
-   "p": 200
+   "p": 200,
+   "apic": "Santos FC"
   },
   {
    "q": "In which Brazilian city is the Maracanã stadium?",
    "a": "Rio de Janeiro",
-   "p": 200
+   "p": 200,
+   "pic": "Maracanã Stadium",
+   "apic": "Rio de Janeiro"
   },
   {
    "q": "Which country won Euro 2020, played in 2021?",
    "a": "Italy",
-   "p": 200
+   "p": 200,
+   "apic": "Italy"
   },
   {
    "q": "Which country hosted Euro 2024?",
    "a": "Germany",
-   "p": 200
+   "p": 200,
+   "apic": "Germany"
   },
   {
    "q": "Which small Nordic nation knocked England out of Euro 2016?",
    "a": "Iceland",
-   "p": 200
+   "p": 200,
+   "apic": "Iceland"
   },
   {
    "q": "Which Saudi club signed Cristiano Ronaldo in January 2023?",
@@ -630,22 +744,28 @@
    "ar": "النصر",
    "alt": [
     "Al-Nassr"
-   ]
+   ],
+   "apic": "Al Nassr FC"
   },
   {
    "q": "What is Pelé's real name?",
    "a": "Edson Arantes do Nascimento",
-   "p": 200
+   "p": 200,
+   "pic": "Pelé"
   },
   {
    "q": "Which country does Zlatan Ibrahimović represent?",
    "a": "Sweden",
-   "p": 200
+   "p": 200,
+   "pic": "Zlatan Ibrahimović",
+   "apic": "Sweden"
   },
   {
    "q": "Which country does Erling Haaland represent?",
    "a": "Norway",
-   "p": 200
+   "p": 200,
+   "pic": "Erling Haaland",
+   "apic": "Norway"
   },
   {
    "q": "What colour are Brazil's famous home shirts?",
@@ -665,34 +785,40 @@
   {
    "q": "Which national team is nicknamed the Socceroos?",
    "a": "Australia",
-   "p": 200
+   "p": 200,
+   "apic": "Australia"
   },
   {
    "q": "Which national team is nicknamed the Atlas Lions?",
    "a": "Morocco",
    "p": 200,
-   "ar": "المغرب"
+   "ar": "المغرب",
+   "apic": "Morocco"
   },
   {
    "q": "Which national team is nicknamed the Pharaohs?",
    "a": "Egypt",
    "p": 200,
-   "ar": "مصر"
+   "ar": "مصر",
+   "apic": "Egypt"
   },
   {
    "q": "Which national team is nicknamed the Samurai Blue?",
    "a": "Japan",
-   "p": 200
+   "p": 200,
+   "apic": "Japan"
   },
   {
    "q": "Which energy drink company backs the German club RB Leipzig?",
    "a": "Red Bull",
-   "p": 200
+   "p": 200,
+   "apic": "Red Bull"
   },
   {
    "q": "Which principality's club plays in France's Ligue 1?",
    "a": "Monaco",
-   "p": 200
+   "p": 200,
+   "apic": "AS Monaco FC"
   },
   {
    "q": "What size of ball is used in adult professional matches?",
@@ -707,12 +833,14 @@
   {
    "q": "In which Swiss city is FIFA's headquarters?",
    "a": "Zurich",
-   "p": 400
+   "p": 400,
+   "apic": "Zurich"
   },
   {
    "q": "Which Milan club is nicknamed the Nerazzurri?",
    "a": "Inter Milan",
-   "p": 400
+   "p": 400,
+   "apic": "Inter Milan"
   },
   {
    "q": "What name is given to the Milan derby between AC Milan and Inter?",
@@ -722,77 +850,94 @@
   {
    "q": "Which two clubs contest the Derby della Capitale in Rome?",
    "a": "Roma and Lazio",
-   "p": 400
+   "p": 400,
+   "pic": "Stadio Olimpico"
   },
   {
    "q": "Which club won Serie A in 2023, its first league title since the Maradona era?",
    "a": "Napoli",
-   "p": 400
+   "p": 400,
+   "apic": "SSC Napoli"
   },
   {
    "q": "Which AC Milan defender, a one-club man, wore the number 3 shirt?",
    "a": "Paolo Maldini",
-   "p": 200
+   "p": 200,
+   "apic": "Paolo Maldini"
   },
   {
    "q": "Which Italian forward was nicknamed \"Il Divin Codino\", the Divine Ponytail?",
    "a": "Roberto Baggio",
-   "p": 400
+   "p": 400,
+   "apic": "Roberto Baggio"
   },
   {
    "q": "Which Roma captain spent his entire professional career at the club, retiring in 2017?",
    "a": "Francesco Totti",
-   "p": 200
+   "p": 200,
+   "apic": "Francesco Totti"
   },
   {
    "q": "Which Italian club from Florence is nicknamed La Viola?",
    "a": "Fiorentina",
-   "p": 400
+   "p": 400,
+   "apic": "ACF Fiorentina"
   },
   {
    "q": "Which club won the 2023-24 Bundesliga unbeaten, ending Bayern's run of 11 straight titles?",
    "a": "Bayer Leverkusen",
-   "p": 400
+   "p": 400,
+   "apic": "Bayer 04 Leverkusen"
   },
   {
    "q": "Which Spanish coach led Bayer Leverkusen to their unbeaten 2023-24 title?",
    "a": "Xabi Alonso",
-   "p": 400
+   "p": 400,
+   "apic": "Xabi Alonso"
   },
   {
    "q": "What is the main German knockout cup competition called?",
    "a": "DFB-Pokal",
-   "p": 400
+   "p": 400,
+   "apic": "DFB-Pokal"
   },
   {
    "q": "Which French club won seven consecutive Ligue 1 titles from 2002 to 2008?",
    "a": "Lyon",
-   "p": 400
+   "p": 400,
+   "apic": "Olympique Lyonnais"
   },
   {
    "q": "What is the name of Marseille's home stadium?",
    "a": "Stade Vélodrome",
-   "p": 400
+   "p": 400,
+   "apic": "Stade Vélodrome"
   },
   {
    "q": "Which Eindhoven club was founded as a works team for the electronics firm Philips?",
    "a": "PSV Eindhoven",
-   "p": 400
+   "p": 400,
+   "apic": "PSV Eindhoven"
   },
   {
    "q": "Which Rotterdam club plays at De Kuip?",
    "a": "Feyenoord",
-   "p": 400
+   "p": 400,
+   "pic": "De Kuip",
+   "apic": "Feyenoord"
   },
   {
    "q": "Which Lisbon club is nicknamed the Eagles?",
    "a": "Benfica",
-   "p": 400
+   "p": 400,
+   "apic": "S.L. Benfica"
   },
   {
    "q": "Which Glasgow club plays at Ibrox?",
    "a": "Rangers",
-   "p": 400
+   "p": 400,
+   "pic": "Ibrox Stadium",
+   "apic": "Rangers F.C."
   },
   {
    "q": "What name is given to matches between Boca Juniors and River Plate?",
@@ -802,47 +947,56 @@
   {
    "q": "What is South America's equivalent of the Champions League?",
    "a": "Copa Libertadores",
-   "p": 200
+   "p": 200,
+   "apic": "Copa Libertadores"
   },
   {
    "q": "Which red-and-black Rio de Janeiro club is often called Brazil's most supported?",
    "a": "Flamengo",
-   "p": 400
+   "p": 400,
+   "apic": "CR Flamengo"
   },
   {
    "q": "Which country won the 2021 Copa América at the Maracanã?",
    "a": "Argentina",
-   "p": 400
+   "p": 400,
+   "apic": "Argentina"
   },
   {
    "q": "Which country did Argentina beat in the 2024 Copa América final?",
    "a": "Colombia",
-   "p": 400
+   "p": 400,
+   "apic": "Colombia"
   },
   {
    "q": "Which country won back-to-back Copa América titles in 2015 and 2016?",
    "a": "Chile",
-   "p": 400
+   "p": 400,
+   "apic": "Chile"
   },
   {
    "q": "Which country lost the Euro 2020 final on penalties at Wembley?",
    "a": "England",
-   "p": 200
+   "p": 200,
+   "apic": "England"
   },
   {
    "q": "Who coached Italy to the Euro 2020 title?",
    "a": "Roberto Mancini",
-   "p": 400
+   "p": 400,
+   "apic": "Roberto Mancini"
   },
   {
    "q": "Which Danish midfielder collapsed with a cardiac arrest during a Euro 2020 match?",
    "a": "Christian Eriksen",
-   "p": 400
+   "p": 400,
+   "apic": "Christian Eriksen"
   },
   {
    "q": "Which country did Greece beat in the Euro 2004 final?",
    "a": "Portugal",
-   "p": 400
+   "p": 400,
+   "apic": "Portugal"
   },
   {
    "q": "Which two countries co-hosted Euro 2000?",
@@ -862,7 +1016,9 @@
   {
    "q": "Which country reached the Euro 2016 semi-finals, led by Gareth Bale?",
    "a": "Wales",
-   "p": 400
+   "p": 400,
+   "pic": "Gareth Bale",
+   "apic": "Wales"
   },
   {
    "q": "What rhythmic chant did Iceland's fans make famous at Euro 2016?",
@@ -872,41 +1028,48 @@
   {
    "q": "Which country won the 2023 Africa Cup of Nations, played in early 2024 on home soil?",
    "a": "Ivory Coast",
-   "p": 400
+   "p": 400,
+   "apic": "Ivory Coast"
   },
   {
    "q": "Which country won the 2021 Africa Cup of Nations, played in 2022?",
    "a": "Senegal",
-   "p": 400
+   "p": 400,
+   "apic": "Senegal"
   },
   {
    "q": "Which country won three straight Africa Cup of Nations titles from 2006 to 2010?",
    "a": "Egypt",
    "p": 400,
-   "ar": "مصر"
+   "ar": "مصر",
+   "apic": "Egypt"
   },
   {
    "q": "Which Cairo club is the great rival of Al Ahly?",
    "a": "Zamalek",
    "p": 400,
-   "ar": "الزمالك"
+   "ar": "الزمالك",
+   "apic": "Zamalek SC"
   },
   {
    "q": "Which Liberian striker won the 1995 Ballon d'Or?",
    "a": "George Weah",
-   "p": 400
+   "p": 400,
+   "apic": "George Weah"
   },
   {
    "q": "Which country won the 2023 AFC Asian Cup, played in 2024?",
    "a": "Qatar",
    "p": 400,
-   "ar": "قطر"
+   "ar": "قطر",
+   "apic": "Qatar"
   },
   {
    "q": "Which country did Qatar beat in the 2023 AFC Asian Cup final?",
    "a": "Jordan",
    "p": 400,
-   "ar": "الأردن"
+   "ar": "الأردن",
+   "apic": "Jordan"
   },
   {
    "q": "Which Saudi club signed Neymar from PSG in 2023?",
@@ -915,7 +1078,8 @@
    "ar": "الهلال",
    "alt": [
     "Al-Hilal"
-   ]
+   ],
+   "apic": "Al Hilal SFC"
   },
   {
    "q": "Which Saudi club signed Karim Benzema in 2023?",
@@ -924,19 +1088,22 @@
    "ar": "الاتحاد",
    "alt": [
     "Al-Ittihad"
-   ]
+   ],
+   "apic": "Ittihad FC"
   },
   {
    "q": "Which country won the 25th Gulf Cup in Basra in 2023?",
    "a": "Iraq",
    "p": 400,
-   "ar": "العراق"
+   "ar": "العراق",
+   "apic": "Iraq"
   },
   {
    "q": "Which country won its first Gulf Cup title in 2019 in Qatar?",
    "a": "Bahrain",
    "p": 400,
-   "ar": "البحرين"
+   "ar": "البحرين",
+   "apic": "Bahrain"
   },
   {
    "q": "What is the UAE national team's Arabic nickname, meaning \"The Whites\"?",
@@ -951,60 +1118,71 @@
    "q": "Which national team is nicknamed the Green Falcons?",
    "a": "Saudi Arabia",
    "p": 400,
-   "ar": "السعودية"
+   "ar": "السعودية",
+   "apic": "Saudi Arabia"
   },
   {
    "q": "Which national team is nicknamed the Lions of Mesopotamia?",
    "a": "Iraq",
    "p": 400,
-   "ar": "العراق"
+   "ar": "العراق",
+   "apic": "Iraq"
   },
   {
    "q": "Which national team is nicknamed the Desert Foxes?",
    "a": "Algeria",
    "p": 400,
-   "ar": "الجزائر"
+   "ar": "الجزائر",
+   "apic": "Algeria"
   },
   {
    "q": "Which national team is nicknamed the Eagles of Carthage?",
    "a": "Tunisia",
    "p": 400,
-   "ar": "تونس"
+   "ar": "تونس",
+   "apic": "Tunisia"
   },
   {
    "q": "Which national team is nicknamed the Super Eagles?",
    "a": "Nigeria",
-   "p": 400
+   "p": 400,
+   "apic": "Nigeria"
   },
   {
    "q": "Which national team is nicknamed the Indomitable Lions?",
    "a": "Cameroon",
-   "p": 400
+   "p": 400,
+   "apic": "Cameroon"
   },
   {
    "q": "Which national team is nicknamed the Black Stars?",
    "a": "Ghana",
-   "p": 400
+   "p": 400,
+   "apic": "Ghana"
   },
   {
    "q": "Which national team is nicknamed La Celeste?",
    "a": "Uruguay",
-   "p": 400
+   "p": 400,
+   "apic": "Uruguay"
   },
   {
    "q": "Which national team is nicknamed El Tri?",
    "a": "Mexico",
-   "p": 400
+   "p": 400,
+   "apic": "Mexico"
   },
   {
    "q": "Which national team is nicknamed the Taeguk Warriors?",
    "a": "South Korea",
-   "p": 400
+   "p": 400,
+   "apic": "South Korea"
   },
   {
    "q": "Which national team is nicknamed Bafana Bafana?",
    "a": "South Africa",
-   "p": 400
+   "p": 400,
+   "apic": "South Africa"
   },
   {
    "q": "Argentina's nickname \"La Albiceleste\" refers to which two shirt colours?",
@@ -1014,7 +1192,8 @@
   {
    "q": "Which French magazine created the Ballon d'Or in 1956?",
    "a": "France Football",
-   "p": 400
+   "p": 400,
+   "apic": "France Football"
   },
   {
    "q": "Which FIFA award is given for the best goal of the year?",
@@ -1024,27 +1203,32 @@
   {
    "q": "Which French forward won the 2025 Ballon d'Or?",
    "a": "Ousmane Dembélé",
-   "p": 400
+   "p": 400,
+   "apic": "Ousmane Dembélé"
   },
   {
    "q": "Which Spanish midfielder won the women's Ballon d'Or in 2023?",
    "a": "Aitana Bonmatí",
-   "p": 400
+   "p": 400,
+   "apic": "Aitana Bonmatí"
   },
   {
    "q": "Which Dutch striker won the Ballon d'Or in 1988, 1989 and 1992?",
    "a": "Marco van Basten",
-   "p": 400
+   "p": 400,
+   "apic": "Marco van Basten"
   },
   {
    "q": "Which club won the expanded 32-team FIFA Club World Cup in the USA in 2025?",
    "a": "Chelsea",
-   "p": 200
+   "p": 200,
+   "apic": "Chelsea F.C."
   },
   {
    "q": "Which Colombian goalkeeper made a famous \"scorpion kick\" save against England at Wembley in 1995?",
    "a": "René Higuita",
-   "p": 400
+   "p": 400,
+   "apic": "René Higuita"
   },
   {
    "q": "Which shirt number did Johan Cruyff famously wear for Ajax and the Netherlands?",
@@ -1059,32 +1243,38 @@
   {
    "q": "Which Northern Irish winger starred for Manchester United in the 1960s and won the 1968 Ballon d'Or?",
    "a": "George Best",
-   "p": 400
+   "p": 400,
+   "apic": "George Best"
   },
   {
    "q": "Which Polish striker scored five goals in nine minutes after coming off the bench for Bayern in 2015?",
    "a": "Robert Lewandowski",
-   "p": 400
+   "p": 400,
+   "apic": "Robert Lewandowski"
   },
   {
    "q": "Which Ivorian striker captained his country and starred for Chelsea and Marseille?",
    "a": "Didier Drogba",
-   "p": 400
+   "p": 400,
+   "apic": "Didier Drogba"
   },
   {
    "q": "Which Turkish club won the 2000 UEFA Cup, beating Arsenal on penalties?",
    "a": "Galatasaray",
-   "p": 400
+   "p": 400,
+   "apic": "Galatasaray S.K. (football)"
   },
   {
    "q": "Which Italian coach has won league titles in Italy, England, Germany, France and Spain?",
    "a": "Carlo Ancelotti",
-   "p": 400
+   "p": 400,
+   "apic": "Carlo Ancelotti"
   },
   {
    "q": "Which Brazilian scored a famous swerving free kick against France at Le Tournoi in 1997?",
    "a": "Roberto Carlos",
-   "p": 400
+   "p": 400,
+   "apic": "Roberto Carlos"
   },
   {
    "q": "What is the width of a full-size goal, in metres?",
@@ -1109,7 +1299,8 @@
   {
    "q": "Which club, founded in 1857, is recognised by FIFA as the world's oldest football club?",
    "a": "Sheffield FC",
-   "p": 600
+   "p": 600,
+   "apic": "Sheffield F.C."
   },
   {
    "q": "What Italian word for \"free\" describes a sweeper who plays behind the defensive line?",
@@ -1124,7 +1315,8 @@
   {
    "q": "Which Dutch coach is credited with developing Total Football at Ajax and the Netherlands?",
    "a": "Rinus Michels",
-   "p": 600
+   "p": 600,
+   "apic": "Rinus Michels"
   },
   {
    "q": "What name is given to the trick of kicking the ball by wrapping the kicking leg behind the standing leg?",
@@ -1149,12 +1341,14 @@
   {
    "q": "Which Italian World Cup winner is the San Siro officially named after?",
    "a": "Giuseppe Meazza",
-   "p": 600
+   "p": 600,
+   "apic": "Giuseppe Meazza"
   },
   {
    "q": "What was Napoli's stadium called before it was renamed after Maradona in 2020?",
    "a": "Stadio San Paolo",
-   "p": 600
+   "p": 600,
+   "apic": "Stadio Diego Armando Maradona"
   },
   {
    "q": "Which 2006 Italian match-fixing scandal saw Juventus relegated to Serie B?",
@@ -1164,86 +1358,102 @@
   {
    "q": "Which Bergamo club won the 2024 Europa League, beating Bayer Leverkusen in the final?",
    "a": "Atalanta",
-   "p": 600
+   "p": 600,
+   "apic": "Atalanta BC"
   },
   {
    "q": "Which Bundesliga club is nicknamed Die Fohlen, the Foals?",
    "a": "Borussia Mönchengladbach",
-   "p": 600
+   "p": 600,
+   "apic": "Borussia Mönchengladbach"
   },
   {
    "q": "Which German club was relegated from the Bundesliga for the first time in 2018?",
    "a": "Hamburger SV",
-   "p": 600
+   "p": 600,
+   "apic": "Hamburger SV"
   },
   {
    "q": "Which French club is nicknamed Les Verts, the Greens?",
    "a": "Saint-Étienne",
-   "p": 600
+   "p": 600,
+   "apic": "AS Saint-Étienne"
   },
   {
    "q": "What is the nickname of Celtic Park?",
    "a": "Paradise",
-   "p": 600
+   "p": 600,
+   "pic": "Celtic Park"
   },
   {
    "q": "Which Greek club won the 2024 Europa Conference League?",
    "a": "Olympiacos",
-   "p": 600
+   "p": 600,
+   "apic": "Olympiacos F.C."
   },
   {
    "q": "Which Qatari striker was top scorer at the 2019 AFC Asian Cup with nine goals?",
    "a": "Almoez Ali",
    "p": 600,
-   "ar": "المعز علي"
+   "ar": "المعز علي",
+   "apic": "Almoez Ali"
   },
   {
    "q": "Which country won the 2007 AFC Asian Cup, beating Saudi Arabia in the final?",
    "a": "Iraq",
    "p": 600,
-   "ar": "العراق"
+   "ar": "العراق",
+   "apic": "Iraq"
   },
   {
    "q": "Which country won the AFC Asian Cup in 1984, 1988 and 1996?",
    "a": "Saudi Arabia",
    "p": 600,
-   "ar": "السعودية"
+   "ar": "السعودية",
+   "apic": "Saudi Arabia"
   },
   {
    "q": "Which Gulf country won the 1980 AFC Asian Cup?",
    "a": "Kuwait",
    "p": 600,
-   "ar": "الكويت"
+   "ar": "الكويت",
+   "apic": "Kuwait"
   },
   {
    "q": "Which Cameroonian striker won African Player of the Year four times?",
    "a": "Samuel Eto'o",
-   "p": 600
+   "p": 600,
+   "apic": "Samuel Eto'o"
   },
   {
    "q": "Who scored Portugal's extra-time winner in the Euro 2016 final?",
    "a": "Éder",
-   "p": 600
+   "p": 600,
+   "apic": "Éder (footballer, born 1987)"
   },
   {
    "q": "Who scored the winning goal for Greece in the Euro 2004 final?",
    "a": "Angelos Charisteas",
-   "p": 600
+   "p": 600,
+   "apic": "Angelos Charisteas"
   },
   {
    "q": "Which German coach led Greece to the Euro 2004 title?",
    "a": "Otto Rehhagel",
-   "p": 600
+   "p": 600,
+   "apic": "Otto Rehhagel"
   },
   {
    "q": "Which country won Euro 1968?",
    "a": "Italy",
-   "p": 600
+   "p": 600,
+   "apic": "Italy"
   },
   {
    "q": "Which country won Euro 1980?",
    "a": "West Germany",
-   "p": 600
+   "p": 600,
+   "apic": "West Germany"
   },
   {
    "q": "Across how many countries was Euro 2020 staged?",
@@ -1253,27 +1463,32 @@
   {
    "q": "Which Czech midfielder won the 2003 Ballon d'Or?",
    "a": "Pavel Nedvěd",
-   "p": 600
+   "p": 600,
+   "apic": "Pavel Nedvěd"
   },
   {
    "q": "Which Ukrainian striker won the 2004 Ballon d'Or?",
    "a": "Andriy Shevchenko",
-   "p": 600
+   "p": 600,
+   "apic": "Andriy Shevchenko"
   },
   {
    "q": "Which German defender won the 1996 Ballon d'Or?",
    "a": "Matthias Sammer",
-   "p": 600
+   "p": 600,
+   "apic": "Matthias Sammer"
   },
   {
    "q": "Which German captain won the 1990 Ballon d'Or?",
    "a": "Lothar Matthäus",
-   "p": 600
+   "p": 600,
+   "apic": "Lothar Matthäus"
   },
   {
    "q": "Which French striker won the 1991 Ballon d'Or while at Marseille?",
    "a": "Jean-Pierre Papin",
-   "p": 600
+   "p": 600,
+   "apic": "Jean-Pierre Papin"
   },
   {
    "q": "Which award goes to the best young player at the Ballon d'Or ceremony?",
@@ -1288,22 +1503,26 @@
   {
    "q": "Which Brazilian's full name is Ricardo Izecson dos Santos Leite?",
    "a": "Kaká",
-   "p": 600
+   "p": 600,
+   "apic": "Kaká"
   },
   {
    "q": "Which Portuguese legend was nicknamed the Black Panther?",
    "a": "Eusébio",
-   "p": 600
+   "p": 600,
+   "apic": "Eusébio"
   },
   {
    "q": "Who scored twice in the 2025 Club World Cup final?",
    "a": "Cole Palmer",
-   "p": 600
+   "p": 600,
+   "apic": "Cole Palmer"
   },
   {
    "q": "Which club did Chelsea beat 3-0 in the 2025 Club World Cup final?",
    "a": "Paris Saint-Germain",
-   "p": 600
+   "p": 600,
+   "apic": "Paris Saint-Germain FC"
   }
  ]
 }

@@ -1,14 +1,14 @@
 import json,glob,os,urllib.parse
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 chk={}
-for f in ("video_check_a.json","video_check_b.json"): chk.update(json.load(open(f)))
+for f in sorted(glob.glob("video_check_*.json")): chk.update(json.load(open(f)))
 bad={k for k,v in chk.items() if v.get("status")!="ok"}
 bank={}
 for f in sorted(glob.glob('q/*.json')):
     d=json.load(open(f));qs=[]
     for q in d['questions']:
         if q.get('yt') and (q['yt'] in bad or q['yt'] not in chk): continue
-        qs.append({k:q[k] for k in ('q','a','p','ar','alt','yt','start','end','emoji','img') if k in q and q[k] not in (None,"",[])})
+        qs.append({k:q[k] for k in ('q','a','p','ar','alt','yt','start','end','emoji','img','pic','apic','audio') if k in q and q[k] not in (None,"",[])})
     bank[d['id']]={"id":d['id'],"name":d['name'],"questions":qs}
 for f in glob.glob('qimg/*.json'):
     d=json.load(open(f))

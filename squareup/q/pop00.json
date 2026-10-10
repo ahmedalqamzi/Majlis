@@ -24,7 +24,8 @@
   {
    "q": "Which singer kissed Britney Spears and Christina Aguilera on stage at the 2003 MTV VMAs?",
    "a": "Madonna",
-   "p": 200
+   "p": 200,
+   "apic": "Madonna"
   },
   {
    "q": "Which Disney Channel show featured young Britney Spears, Christina Aguilera and Justin Timberlake?",
@@ -38,7 +39,8 @@
   {
    "q": "Which Destiny's Child member completed the best-known trio with Beyoncé and Kelly Rowland?",
    "a": "Michelle Williams",
-   "p": 200
+   "p": 200,
+   "apic": "Michelle Williams (singer)"
   },
   {
    "q": "Which 2001 Destiny's Child album shares its name with a reality show and its hit title track?",
@@ -48,7 +50,9 @@
   {
    "q": "Which Texas city is Destiny's Child from?",
    "a": "Houston",
-   "p": 200
+   "p": 200,
+   "pic": "Destiny's Child",
+   "apic": "Houston"
   },
   {
    "q": "What was Beyoncé's 2003 debut solo album?",
@@ -76,7 +80,8 @@
   {
    "q": "Which Colombian singer duetted with Beyoncé on 2007's \"Beautiful Liar\"?",
    "a": "Shakira",
-   "p": 200
+   "p": 200,
+   "apic": "Shakira"
   },
   {
    "q": "What was Justin Timberlake's 2002 debut solo album?",
@@ -86,7 +91,8 @@
   {
    "q": "Which singer performed with Justin Timberlake at the controversial 2004 Super Bowl halftime show?",
    "a": "Janet Jackson",
-   "p": 200
+   "p": 200,
+   "apic": "Janet Jackson"
   },
   {
    "q": "Which 2000 *NSYNC album includes \"Bye Bye Bye\"?",
@@ -96,7 +102,8 @@
   {
    "q": "Which Florida city were both *NSYNC and the Backstreet Boys formed in?",
    "a": "Orlando",
-   "p": 200
+   "p": 200,
+   "apic": "Orlando, Florida"
   },
   {
    "q": "Which 2002 Christina Aguilera album includes \"Beautiful\" and \"Dirrty\"?",
@@ -127,7 +134,8 @@
    "p": 200,
    "alt": [
     "Beyonce"
-   ]
+   ],
+   "apic": "Beyoncé"
   },
   {
    "q": "What nickname does Lady Gaga use for her fans?",
@@ -137,7 +145,8 @@
   {
    "q": "What is Rihanna's surname?",
    "a": "Fenty",
-   "p": 200
+   "p": 200,
+   "pic": "Rihanna"
   },
   {
    "q": "Which 2001 Shakira single was her first big English-language hit?",
@@ -150,7 +159,8 @@
    "p": 200,
    "alt": [
     "Belly dance"
-   ]
+   ],
+   "apic": "Belly dance"
   },
   {
    "q": "Which 2004 Usher album includes \"Yeah!\" and \"Burn\"?",
@@ -160,7 +170,8 @@
   {
    "q": "Which R&B star helped launch a teenage Justin Bieber in 2008?",
    "a": "Usher",
-   "p": 200
+   "p": 200,
+   "apic": "Usher (musician)"
   },
   {
    "q": "What was Avril Lavigne's 2002 debut album?",
@@ -178,12 +189,15 @@
   {
    "q": "Which country is Avril Lavigne from?",
    "a": "Canada",
-   "p": 200
+   "p": 200,
+   "pic": "Avril Lavigne",
+   "apic": "Canada"
   },
   {
    "q": "Which Irish boy band had the hits \"Flying Without Wings\" and \"You Raise Me Up\"?",
    "a": "Westlife",
-   "p": 200
+   "p": 200,
+   "apic": "Westlife"
   },
   {
    "q": "Which Spice Girl married footballer David Beckham?",
@@ -192,7 +206,8 @@
    "alt": [
     "Posh Spice",
     "Victoria Adams"
-   ]
+   ],
+   "apic": "Victoria Beckham"
   },
   {
    "q": "Which Spice Girl was known as Ginger Spice?",
@@ -200,7 +215,8 @@
    "p": 200,
    "alt": [
     "Geri Horner"
-   ]
+   ],
+   "apic": "Geri Halliwell"
   },
   {
    "q": "Which Spice Girl was known as Sporty Spice?",
@@ -209,12 +225,14 @@
    "alt": [
     "Mel C",
     "Melanie Chisholm"
-   ]
+   ],
+   "apic": "Melanie C"
   },
   {
    "q": "Which singer won the first series of Pop Idol in 2002?",
    "a": "Will Young",
-   "p": 200
+   "p": 200,
+   "apic": "Will Young"
   },
   {
    "q": "Which TV duo presented Pop Idol?",
@@ -222,27 +240,32 @@
    "p": 200,
    "alt": [
     "Ant and Dec"
-   ]
+   ],
+   "apic": "Ant & Dec"
   },
   {
    "q": "Who won the first season of American Idol in 2002?",
    "a": "Kelly Clarkson",
-   "p": 200
+   "p": 200,
+   "apic": "Kelly Clarkson"
   },
   {
    "q": "Which country singer won the fourth season of American Idol in 2005?",
    "a": "Carrie Underwood",
-   "p": 200
+   "p": 200,
+   "apic": "Carrie Underwood"
   },
   {
    "q": "Which British judge on American Idol was famous for his blunt criticism?",
    "a": "Simon Cowell",
-   "p": 200
+   "p": 200,
+   "apic": "Simon Cowell"
   },
   {
    "q": "Which host presented American Idol from its first season?",
    "a": "Ryan Seacrest",
-   "p": 200
+   "p": 200,
+   "apic": "Ryan Seacrest"
   },
   {
    "q": "Which British talent show was American Idol adapted from?",
@@ -252,7 +275,8 @@
   {
    "q": "Which 2006 X Factor winner had the global hit \"Bleeding Love\"?",
    "a": "Leona Lewis",
-   "p": 200
+   "p": 200,
+   "apic": "Leona Lewis"
   },
   {
    "q": "Which Australian singer had the 2001 hit \"Can't Get You Out of My Head\"?",
@@ -260,17 +284,20 @@
    "p": 200,
    "alt": [
     "Kylie"
-   ]
+   ],
+   "apic": "Kylie Minogue"
   },
   {
    "q": "Which singer had the 2005 hit \"You're Beautiful\" from Back to Bedlam?",
    "a": "James Blunt",
-   "p": 200
+   "p": 200,
+   "apic": "James Blunt"
   },
   {
    "q": "Which Spanish singer had the 2001 ballad \"Hero\"?",
    "a": "Enrique Iglesias",
-   "p": 200
+   "p": 200,
+   "apic": "Enrique Iglesias"
   },
   {
    "q": "Which J.Lo hit is about staying true to her Bronx roots?",
@@ -280,12 +307,14 @@
   {
    "q": "Which band was Gwen Stefani the lead singer of before going solo?",
    "a": "No Doubt",
-   "p": 200
+   "p": 200,
+   "apic": "No Doubt"
   },
   {
    "q": "Which singer joined the Black Eyed Peas in 2003?",
    "a": "Fergie",
-   "p": 200
+   "p": 200,
+   "apic": "Fergie (singer)"
   },
   {
    "q": "Which 2009 Black Eyed Peas hit became a huge party anthem about a good night ahead?",
@@ -295,7 +324,8 @@
   {
    "q": "Who was the lead singer of the Pussycat Dolls?",
    "a": "Nicole Scherzinger",
-   "p": 200
+   "p": 200,
+   "apic": "Nicole Scherzinger"
   },
   {
    "q": "Which Disney Channel character did Hilary Duff play?",
@@ -305,12 +335,14 @@
   {
    "q": "Which Disney Channel star played the double life of Hannah Montana?",
    "a": "Miley Cyrus",
-   "p": 200
+   "p": 200,
+   "apic": "Miley Cyrus"
   },
   {
    "q": "Which country singer played Miley Cyrus's father in Hannah Montana?",
    "a": "Billy Ray Cyrus",
-   "p": 200
+   "p": 200,
+   "apic": "Billy Ray Cyrus"
   },
   {
    "q": "Which 2006 Disney Channel film followed Troy Bolton and Gabriella Montez?",
@@ -320,7 +352,8 @@
   {
    "q": "Which actor played Troy Bolton in High School Musical?",
    "a": "Zac Efron",
-   "p": 200
+   "p": 200,
+   "apic": "Zac Efron"
   },
   {
    "q": "Which 2009 Lady Gaga single won Video of the Year at the 2010 MTV VMAs?",
@@ -347,12 +380,14 @@
    "alt": [
     "NSYNC",
     "N Sync"
-   ]
+   ],
+   "apic": "NSYNC"
   },
   {
    "q": "Which American Idol season 3 contestant later won an Oscar for Dreamgirls?",
    "a": "Jennifer Hudson",
-   "p": 200
+   "p": 200,
+   "apic": "Jennifer Hudson"
   },
   {
    "q": "Which 2000 *NSYNC single has a video in which the band are puppets on strings?",
@@ -380,17 +415,20 @@
    "p": 200,
    "alt": [
     "Will.i.am"
-   ]
+   ],
+   "apic": "will.i.am"
   },
   {
    "q": "Which singer had the 2001 hit \"Fallin'\" from her debut Songs in A Minor?",
    "a": "Alicia Keys",
-   "p": 200
+   "p": 200,
+   "apic": "Alicia Keys"
   },
   {
    "q": "Which actress duetted with Robbie Williams on the 2001 UK No. 1 \"Somethin' Stupid\"?",
    "a": "Nicole Kidman",
-   "p": 200
+   "p": 200,
+   "apic": "Nicole Kidman"
   },
   {
    "q": "Which 2003 Black Eyed Peas single featured Justin Timberlake on the chorus?",
@@ -416,12 +454,14 @@
    "p": 200,
    "alt": [
     "Pink"
-   ]
+   ],
+   "apic": "Pink (singer)"
   },
   {
    "q": "Which Canadian singer of Portuguese descent had the 2000 hit \"I'm Like a Bird\"?",
    "a": "Nelly Furtado",
-   "p": 200
+   "p": 200,
+   "apic": "Nelly Furtado"
   },
   {
    "q": "Which family pop trio starred in Disney's Camp Rock in 2008?",
@@ -429,7 +469,8 @@
    "p": 200,
    "alt": [
     "The Jonas Brothers"
-   ]
+   ],
+   "apic": "Jonas Brothers"
   },
   {
    "q": "Which 2009 Miley Cyrus single is about moving to Los Angeles?",
@@ -442,12 +483,14 @@
    "p": 200,
    "alt": [
     "J.Lo"
-   ]
+   ],
+   "apic": "Jennifer Lopez"
   },
   {
    "q": "Which Westlife member left the band in 2004?",
    "a": "Brian McFadden",
-   "p": 200
+   "p": 200,
+   "apic": "Brian McFadden"
   },
   {
    "q": "Which 2007 Rihanna album includes \"Don't Stop the Music\" and \"Disturbia\"?",
@@ -457,7 +500,8 @@
   {
    "q": "Which Pop Idol runner-up had a 2002 UK No. 1 with \"Unchained Melody\"?",
    "a": "Gareth Gates",
-   "p": 200
+   "p": 200,
+   "apic": "Gareth Gates"
   },
   {
    "q": "Which reality TV talent show did Simon Cowell launch in the UK in 2004?",
@@ -475,7 +519,8 @@
   {
    "q": "Which singer featured on Britney Spears's 2003 single \"Me Against the Music\"?",
    "a": "Madonna",
-   "p": 200
+   "p": 200,
+   "apic": "Madonna"
   },
   {
    "q": "Which 2006 Beyoncé hit tells an ex that he can be replaced?",
@@ -488,7 +533,8 @@
    "p": 200,
    "alt": [
     "Solange Knowles"
-   ]
+   ],
+   "apic": "Solange Knowles"
   },
   {
    "q": "Which 2008 Beyoncé ballad, produced by Ryan Tedder, has a heavenly title?",
@@ -498,7 +544,8 @@
   {
    "q": "Which Spice Girl was known as Baby Spice?",
    "a": "Emma Bunton",
-   "p": 200
+   "p": 200,
+   "apic": "Emma Bunton"
   },
   {
    "q": "Which Spice Girl was known as Scary Spice?",
@@ -506,7 +553,8 @@
    "p": 200,
    "alt": [
     "Mel B"
-   ]
+   ],
+   "apic": "Mel B"
   },
   {
    "q": "Which 2005 Daniel Powter hit was used on American Idol's farewell montages?",
@@ -544,12 +592,14 @@
   {
    "q": "Which Canadian singer had the 2002 hit \"Complicated\"?",
    "a": "Avril Lavigne",
-   "p": 200
+   "p": 200,
+   "apic": "Avril Lavigne"
   },
   {
    "q": "Which former pop star judged American Idol alongside Simon Cowell and Randy Jackson?",
    "a": "Paula Abdul",
-   "p": 200
+   "p": 200,
+   "apic": "Paula Abdul"
   },
   {
    "q": "Which 2003 Britney Spears album includes \"Toxic\" and \"Everytime\"?",
@@ -574,7 +624,9 @@
   {
    "q": "In which US state did Britney Spears grow up?",
    "a": "Louisiana",
-   "p": 400
+   "p": 400,
+   "pic": "Britney Spears",
+   "apic": "Louisiana"
   },
   {
    "q": "Which 2004 Destiny's Child album was their last studio album?",
@@ -584,7 +636,9 @@
   {
    "q": "Who managed Destiny's Child and is Beyoncé's father?",
    "a": "Mathew Knowles",
-   "p": 400
+   "p": 400,
+   "pic": "Destiny's Child",
+   "apic": "Mathew Knowles"
   },
   {
    "q": "Which 2006 Beyoncé album was released on her birthday?",
@@ -619,12 +673,14 @@
   {
    "q": "Which producer made most of Justin Timberlake's FutureSex/LoveSounds?",
    "a": "Timbaland",
-   "p": 400
+   "p": 400,
+   "apic": "Timbaland"
   },
   {
    "q": "Which *NSYNC member trained in Russia in 2002 hoping to fly to space?",
    "a": "Lance Bass",
-   "p": 400
+   "p": 400,
+   "apic": "Lance Bass"
   },
   {
    "q": "Which *NSYNC member, besides Justin Timberlake, sang most of the group's lead vocals?",
@@ -633,7 +689,8 @@
    "alt": [
     "JC",
     "Joshua Chasez"
-   ]
+   ],
+   "apic": "JC Chasez"
   },
   {
    "q": "Which 2000 *NSYNC single followed \"Bye Bye Bye\" from No Strings Attached?",
@@ -643,7 +700,8 @@
   {
    "q": "Which Backstreet Boy's younger brother Aaron had pop hits around 2000?",
    "a": "Nick Carter",
-   "p": 400
+   "p": 400,
+   "apic": "Nick Carter (musician)"
   },
   {
    "q": "Which 2000 Backstreet Boys album followed Millennium?",
@@ -681,7 +739,8 @@
   {
    "q": "Which singer featured on Lady Gaga's debut single \"Just Dance\"?",
    "a": "Colby O'Donis",
-   "p": 400
+   "p": 400,
+   "apic": "Colby O'Donis"
   },
   {
    "q": "Which reunited boy band did Lady Gaga support on tour in 2008?",
@@ -689,7 +748,8 @@
    "p": 400,
    "alt": [
     "NKOTB"
-   ]
+   ],
+   "apic": "New Kids on the Block"
   },
   {
    "q": "Which record label boss signed Rihanna to Def Jam in 2005?",
@@ -697,7 +757,8 @@
    "p": 400,
    "alt": [
     "Jay Z"
-   ]
+   ],
+   "apic": "Jay-Z"
   },
   {
    "q": "What was Rihanna's 2005 debut single?",
@@ -722,7 +783,9 @@
   {
    "q": "Which Middle Eastern country did Shakira's father's family come from?",
    "a": "Lebanon",
-   "p": 400
+   "p": 400,
+   "pic": "Shakira",
+   "apic": "Lebanon"
   },
   {
    "q": "Which 2009 Shakira single and album shares its name with a female wild animal?",
@@ -737,7 +800,8 @@
   {
    "q": "Which singer duetted with Usher on the 2004 hit \"My Boo\"?",
    "a": "Alicia Keys",
-   "p": 400
+   "p": 400,
+   "apic": "Alicia Keys"
   },
   {
    "q": "Which 2004 Avril Lavigne album includes \"My Happy Ending\"?",
@@ -765,7 +829,8 @@
   {
    "q": "Which Irish manager guided both Boyzone and Westlife?",
    "a": "Louis Walsh",
-   "p": 400
+   "p": 400,
+   "apic": "Louis Walsh"
   },
   {
    "q": "Which Billy Joel song did Westlife cover for Comic Relief in 2001?",
@@ -779,7 +844,8 @@
    "alt": [
     "Geri Horner",
     "Ginger Spice"
-   ]
+   ],
+   "apic": "Geri Halliwell"
   },
   {
    "q": "In which year did the Spice Girls launch their reunion tour, The Return of the Spice Girls?",
@@ -789,7 +855,8 @@
   {
    "q": "Which Pop Idol judge, of Stock Aitken Waterman fame, produced many 1980s hits?",
    "a": "Pete Waterman",
-   "p": 400
+   "p": 400,
+   "apic": "Pete Waterman"
   },
   {
    "q": "Which singer won season 3 of American Idol in 2004?",
@@ -797,32 +864,38 @@
    "p": 400,
    "alt": [
     "Fantasia"
-   ]
+   ],
+   "apic": "Fantasia Barrino"
   },
   {
    "q": "Which singer won season 2 of American Idol in 2003?",
    "a": "Ruben Studdard",
-   "p": 400
+   "p": 400,
+   "apic": "Ruben Studdard"
   },
   {
    "q": "Which season 2 American Idol runner-up became a big seller anyway?",
    "a": "Clay Aiken",
-   "p": 400
+   "p": 400,
+   "apic": "Clay Aiken"
   },
   {
    "q": "Which 2009 American Idol runner-up later toured as Queen's lead singer?",
    "a": "Adam Lambert",
-   "p": 400
+   "p": 400,
+   "apic": "Adam Lambert"
   },
   {
    "q": "Which singer won season 6 of American Idol in 2007?",
    "a": "Jordin Sparks",
-   "p": 400
+   "p": 400,
+   "apic": "Jordin Sparks"
   },
   {
    "q": "Which Popstars: The Rivals group included Cheryl and Nadine Coyle?",
    "a": "Girls Aloud",
-   "p": 400
+   "p": 400,
+   "apic": "Girls Aloud"
   },
   {
    "q": "Which Girls Aloud member became an X Factor judge in 2008?",
@@ -831,12 +904,14 @@
    "alt": [
     "Cheryl Cole",
     "Cheryl Tweedy"
-   ]
+   ],
+   "apic": "Cheryl (singer)"
   },
   {
    "q": "Which rock band beat the X Factor winner to the 2009 UK Christmas No. 1?",
    "a": "Rage Against the Machine",
-   "p": 400
+   "p": 400,
+   "apic": "Rage Against the Machine"
   },
   {
    "q": "Which 2002 Will Young debut single was a double A-side with \"Anything Is Possible\"?",
@@ -846,17 +921,20 @@
   {
    "q": "Which singer had the 2003 hit \"White Flag\"?",
    "a": "Dido",
-   "p": 400
+   "p": 400,
+   "apic": "Dido (singer)"
   },
   {
    "q": "Which singer's 2002 debut Come Away with Me won Album of the Year at the Grammys?",
    "a": "Norah Jones",
-   "p": 400
+   "p": 400,
+   "apic": "Norah Jones"
   },
   {
    "q": "Which Beirut-born singer had the 2007 hit \"Grace Kelly\"?",
    "a": "Mika",
-   "p": 400
+   "p": 400,
+   "apic": "Mika (singer)"
   },
   {
    "q": "Which 2006 Lily Allen hit has a one-word title meaning to grin?",
@@ -866,12 +944,14 @@
   {
    "q": "Which singer had the 2002 hit \"A Thousand Miles\"?",
    "a": "Vanessa Carlton",
-   "p": 400
+   "p": 400,
+   "apic": "Vanessa Carlton"
   },
   {
    "q": "Which singer's brother Daniel had a 2001 UK No. 1 with \"Gotta Get Thru This\"?",
    "a": "Natasha Bedingfield",
-   "p": 400
+   "p": 400,
+   "apic": "Natasha Bedingfield"
   },
   {
    "q": "Which 2008 Adele debut album is named after her age?",
@@ -881,7 +961,8 @@
   {
    "q": "Which Welsh singer had the 2008 hit \"Mercy\"?",
    "a": "Duffy",
-   "p": 400
+   "p": 400,
+   "apic": "Duffy (singer)"
   },
   {
    "q": "Which 2000 Madonna album includes its title track and \"Don't Tell Me\"?",
@@ -907,7 +988,8 @@
    "p": 400,
    "alt": [
     "Knebworth Park"
-   ]
+   ],
+   "apic": "Knebworth House"
   },
   {
    "q": "Which 2001 Robbie Williams album paid tribute to big-band swing?",
@@ -948,12 +1030,14 @@
    "p": 400,
    "alt": [
     "98°"
-   ]
+   ],
+   "apic": "98 Degrees"
   },
   {
    "q": "Which singer was caught in a 2004 lip-sync mishap on Saturday Night Live?",
    "a": "Ashlee Simpson",
-   "p": 400
+   "p": 400,
+   "apic": "Ashlee Simpson"
   },
   {
    "q": "Which 2008 Taylor Swift album won Album of the Year at the 2010 Grammys?",
@@ -963,12 +1047,14 @@
   {
    "q": "Which Spanish girl group had a 2002 hit with \"Aserejé\"?",
    "a": "Las Ketchup",
-   "p": 400
+   "p": 400,
+   "apic": "Las Ketchup"
   },
   {
    "q": "Which country was O-Zone, the group behind \"Dragostea Din Tei\", from?",
    "a": "Moldova",
-   "p": 400
+   "p": 400,
+   "apic": "Moldova"
   },
   {
    "q": "Which 2001 Atomic Kitten single was a UK No. 1 ballad?",
@@ -988,7 +1074,8 @@
   {
    "q": "Which singer had the 2001 hit \"Murder on the Dancefloor\"?",
    "a": "Sophie Ellis-Bextor",
-   "p": 400
+   "p": 400,
+   "apic": "Sophie Ellis-Bextor"
   },
   {
    "q": "Which Kylie Minogue album includes \"Can't Get You Out of My Head\"?",
@@ -1008,7 +1095,8 @@
   {
    "q": "Which singer had the 2005 debut hit \"Run It!\"?",
    "a": "Chris Brown",
-   "p": 400
+   "p": 400,
+   "apic": "Chris Brown"
   },
   {
    "q": "Which 2000 Ricky Martin hit was the lead single from Sound Loaded?",
@@ -1018,7 +1106,9 @@
   {
    "q": "Which famous Spanish singer is Enrique Iglesias's father?",
    "a": "Julio Iglesias",
-   "p": 400
+   "p": 400,
+   "pic": "Enrique Iglesias",
+   "apic": "Julio Iglesias"
   },
   {
    "q": "Which 2001 Pink album, including \"Get the Party Started\", was co-written with Linda Perry?",
@@ -1064,17 +1154,20 @@
   {
    "q": "Which Destiny's Child singer released the solo album Simply Deep in 2002?",
    "a": "Kelly Rowland",
-   "p": 400
+   "p": 400,
+   "apic": "Kelly Rowland"
   },
   {
    "q": "Which Boyzone singer had a 2000 solo hit with \"Life Is a Rollercoaster\"?",
    "a": "Ronan Keating",
-   "p": 400
+   "p": 400,
+   "apic": "Ronan Keating"
   },
   {
    "q": "Which girl group's 2000 hit \"Pure Shores\" featured in the film The Beach?",
    "a": "All Saints",
-   "p": 400
+   "p": 400,
+   "apic": "All Saints (group)"
   },
   {
    "q": "Roughly how many copies did *NSYNC's No Strings Attached sell in its first US week?",
@@ -1087,17 +1180,22 @@
   {
    "q": "Which *NSYNC member was the oldest and wore braided hair in the early 2000s?",
    "a": "Chris Kirkpatrick",
-   "p": 600
+   "p": 600,
+   "apic": "Chris Kirkpatrick"
   },
   {
    "q": "Which Russian training centre did Lance Bass attend in his bid for space?",
    "a": "Star City",
-   "p": 600
+   "p": 600,
+   "pic": "Lance Bass",
+   "apic": "Star City, Russia"
   },
   {
    "q": "In which Louisiana town did Britney Spears grow up?",
    "a": "Kentwood",
-   "p": 600
+   "p": 600,
+   "pic": "Britney Spears",
+   "apic": "Kentwood, Louisiana"
   },
   {
    "q": "What was the name of Britney Spears's 2001 tour, sharing its name with an Edgar Allan Poe poem?",
@@ -1120,7 +1218,8 @@
   {
    "q": "Which American Idol season 1 runner-up co-starred with Kelly Clarkson in From Justin to Kelly?",
    "a": "Justin Guarini",
-   "p": 600
+   "p": 600,
+   "apic": "Justin Guarini"
   },
   {
    "q": "Which 2003 film starred American Idol stars Kelly Clarkson and Justin Guarini?",
@@ -1130,17 +1229,20 @@
   {
    "q": "Who won season 5 of American Idol in 2006?",
    "a": "Taylor Hicks",
-   "p": 600
+   "p": 600,
+   "apic": "Taylor Hicks"
   },
   {
    "q": "Who won season 7 of American Idol in 2008, beating David Archuleta?",
    "a": "David Cook",
-   "p": 600
+   "p": 600,
+   "apic": "David Cook (singer)"
   },
   {
    "q": "Who won season 8 of American Idol in 2009, beating Adam Lambert?",
    "a": "Kris Allen",
-   "p": 600
+   "p": 600,
+   "apic": "Kris Allen"
   },
   {
    "q": "Which American Idol season 5 finalist formed a rock band named after himself?",
@@ -1148,7 +1250,8 @@
    "p": 600,
    "alt": [
     "Daughtry"
-   ]
+   ],
+   "apic": "Chris Daughtry"
   },
   {
    "q": "Which 2003 international contest pitting Idol winners was won by Norway's Kurt Nilsen?",
@@ -1158,7 +1261,8 @@
   {
    "q": "Who won the second series of Pop Idol in 2003?",
    "a": "Michelle McManus",
-   "p": 600
+   "p": 600,
+   "apic": "Michelle McManus"
   },
   {
    "q": "Which Beatles song did Will Young and Gareth Gates record as a duet in 2002?",
@@ -1168,27 +1272,32 @@
   {
    "q": "Which band won Popstars in 2001 and had a UK No. 1 with \"Pure and Simple\"?",
    "a": "Hear'Say",
-   "p": 600
+   "p": 600,
+   "apic": "Hear'Say"
   },
   {
    "q": "Who won the first series of The X Factor in 2004?",
    "a": "Steve Brookstein",
-   "p": 600
+   "p": 600,
+   "apic": "Steve Brookstein"
   },
   {
    "q": "Which X Factor winner had the 2005 UK Christmas No. 1 \"That's My Goal\"?",
    "a": "Shayne Ward",
-   "p": 600
+   "p": 600,
+   "apic": "Shayne Ward"
   },
   {
    "q": "Which boy band finished second on The X Factor in 2008?",
    "a": "JLS",
-   "p": 600
+   "p": 600,
+   "apic": "JLS"
   },
   {
    "q": "Which 2009 X Factor winner lost the Christmas No. 1 race to Rage Against the Machine?",
    "a": "Joe McElderry",
-   "p": 600
+   "p": 600,
+   "apic": "Joe McElderry"
   },
   {
    "q": "What was Kelly Clarkson's first single, released after she won American Idol?",
@@ -1198,12 +1307,15 @@
   {
    "q": "Which Irish town is home to most of the original Westlife members?",
    "a": "Sligo",
-   "p": 600
+   "p": 600,
+   "pic": "Westlife",
+   "apic": "Sligo"
   },
   {
    "q": "Which Westlife member was once a goalkeeper on Leeds United's books?",
    "a": "Nicky Byrne",
-   "p": 600
+   "p": 600,
+   "apic": "Nicky Byrne"
   },
   {
    "q": "How many of Westlife's first singles went to UK No. 1 in a row?",
@@ -1219,12 +1331,14 @@
    "p": 600,
    "alt": [
     "Mel C"
-   ]
+   ],
+   "apic": "Melanie C"
   },
   {
    "q": "Which Spice Girl's 2001 solo single was \"What Took You So Long?\"?",
    "a": "Emma Bunton",
-   "p": 600
+   "p": 600,
+   "apic": "Emma Bunton"
   },
   {
    "q": "Which 2007 Spice Girls single was recorded for their reunion and greatest hits album?",
@@ -1240,12 +1354,14 @@
    "p": 600,
    "alt": [
     "Posh Spice"
-   ]
+   ],
+   "apic": "Victoria Beckham"
   },
   {
    "q": "What is Beyoncé's middle name?",
    "a": "Giselle",
-   "p": 600
+   "p": 600,
+   "pic": "Beyoncé"
   },
   {
    "q": "Which character did Beyoncé play in Dreamgirls?",
@@ -1258,7 +1374,9 @@
    "p": 600,
    "alt": [
     "Tina Lawson"
-   ]
+   ],
+   "pic": "Destiny's Child",
+   "apic": "Tina Knowles"
   },
   {
    "q": "Which 2004 Destiny's Child comeback single is built on a marching-drum beat?",
@@ -1278,12 +1396,15 @@
   {
    "q": "In which Colombian city was Shakira born?",
    "a": "Barranquilla",
-   "p": 600
+   "p": 600,
+   "pic": "Shakira",
+   "apic": "Barranquilla"
   },
   {
    "q": "Which Spanish singer duetted with Shakira on 2005's \"La Tortura\"?",
    "a": "Alejandro Sanz",
-   "p": 600
+   "p": 600,
+   "apic": "Alejandro Sanz"
   },
   {
    "q": "Which Spanish-language Shakira album was released in 2005 before Oral Fixation Vol. 2?",
@@ -1301,17 +1422,21 @@
   {
    "q": "What is Usher's surname?",
    "a": "Raymond",
-   "p": 600
+   "p": 600,
+   "pic": "Usher (musician)"
   },
   {
    "q": "In which small Ontario town did Avril Lavigne grow up?",
    "a": "Napanee",
-   "p": 600
+   "p": 600,
+   "pic": "Avril Lavigne",
+   "apic": "Napanee"
   },
   {
    "q": "Which Sum 41 singer did Avril Lavigne marry in 2006?",
    "a": "Deryck Whibley",
-   "p": 600
+   "p": 600,
+   "apic": "Deryck Whibley"
   },
   {
    "q": "Which 2000 Christina Aguilera Spanish-language album won a Latin Grammy?",
@@ -1335,7 +1460,9 @@
    "alt": [
     "NYU Tisch",
     "New York University"
-   ]
+   ],
+   "pic": "Lady Gaga",
+   "apic": "Tisch School of the Arts"
   },
   {
    "q": "What was the name of Lady Gaga's 2009 to 2011 world tour?",
@@ -1353,7 +1480,8 @@
   {
    "q": "What is Pink's real first name?",
    "a": "Alecia",
-   "p": 600
+   "p": 600,
+   "pic": "Pink (singer)"
   },
   {
    "q": "Which 2001 Mariah Carey film was a box-office flop?",
@@ -1389,12 +1517,14 @@
   {
    "q": "Which singer-songwriter co-wrote Britney's \"Toxic\" and Kylie's \"Can't Get You Out of My Head\"?",
    "a": "Cathy Dennis",
-   "p": 600
+   "p": 600,
+   "apic": "Cathy Dennis"
   },
   {
    "q": "Which Swedish producer co-wrote Britney's early hits and Kelly Clarkson's \"Since U Been Gone\"?",
    "a": "Max Martin",
-   "p": 600
+   "p": 600,
+   "apic": "Max Martin"
   },
   {
    "q": "Which Westlife single did the band release first, in 1999, starting their No. 1 run?",
@@ -1412,17 +1542,20 @@
    "p": 600,
    "alt": [
     "Kylie"
-   ]
+   ],
+   "apic": "Kylie Minogue"
   },
   {
    "q": "Which British trio of the 2000s went through several line-ups and had the hit \"Push the Button\"?",
    "a": "Sugababes",
-   "p": 600
+   "p": 600,
+   "apic": "Sugababes"
   },
   {
    "q": "Which band was formed alongside Busted and featured Tom Fletcher?",
    "a": "McFly",
-   "p": 600
+   "p": 600,
+   "apic": "McFly"
   },
   {
    "q": "Which 2002 Blue single was a collaboration with Elton John?",
@@ -1475,12 +1608,15 @@
   {
    "q": "Which rapper featured on the remix of *NSYNC's 2002 single \"Girlfriend\"?",
    "a": "Nelly",
-   "p": 600
+   "p": 600,
+   "apic": "Nelly"
   },
   {
    "q": "Christina Aguilera's father is from which South American country?",
    "a": "Ecuador",
-   "p": 600
+   "p": 600,
+   "pic": "Christina Aguilera",
+   "apic": "Ecuador"
   },
   {
    "q": "Which ABBA song did Westlife cover for the 1999 UK Christmas No. 1?",
@@ -1490,12 +1626,14 @@
   {
    "q": "Which choreographer founded the Pussycat Dolls as a burlesque troupe?",
    "a": "Robin Antin",
-   "p": 600
+   "p": 600,
+   "apic": "Robin Antin"
   },
   {
    "q": "Which singer briefly joined Destiny's Child in 2000 before leaving after about five months?",
    "a": "Farrah Franklin",
-   "p": 600
+   "p": 600,
+   "apic": "Farrah Franklin"
   },
   {
    "q": "Which two original Destiny's Child members left the group in 2000?",
@@ -1513,22 +1651,26 @@
   {
    "q": "Which Popstars judge earned the nickname \"Nasty Nigel\"?",
    "a": "Nigel Lythgoe",
-   "p": 600
+   "p": 600,
+   "apic": "Nigel Lythgoe"
   },
   {
    "q": "Which radio DJ, nicknamed \"Dr Fox\", was a Pop Idol judge?",
    "a": "Neil Fox",
-   "p": 600
+   "p": 600,
+   "apic": "Neil Fox"
   },
   {
    "q": "Which American Idol judge had played bass with the rock band Journey?",
    "a": "Randy Jackson",
-   "p": 600
+   "p": 600,
+   "apic": "Randy Jackson"
   },
   {
    "q": "Which DJ and singer had a 2000 UK No. 1 with \"It Feels So Good\"?",
    "a": "Sonique",
-   "p": 600
+   "p": 600,
+   "apic": "Sonique"
   }
  ]
 }

@@ -6,7 +6,8 @@
    "q": "What is the capital of Qatar?",
    "a": "Doha",
    "p": 200,
-   "ar": "الدوحة"
+   "ar": "الدوحة",
+   "apic": "Doha"
   },
   {
    "q": "What is the name of Qatar's ruling family?",
@@ -16,7 +17,8 @@
    "alt": [
     "Al-Thani",
     "House of Thani"
-   ]
+   ],
+   "apic": "House of Thani"
   },
   {
    "q": "On which date is Qatar National Day celebrated?",
@@ -36,13 +38,15 @@
    "alt": [
     "Riyal",
     "QAR"
-   ]
+   ],
+   "apic": "Qatari riyal"
   },
   {
    "q": "What is the national airline of Qatar?",
    "a": "Qatar Airways",
    "p": 200,
-   "ar": "الخطوط الجوية القطرية"
+   "ar": "الخطوط الجوية القطرية",
+   "apic": "Qatar Airways"
   },
   {
    "q": "Which Doha-based news channel launched in 1996?",
@@ -51,7 +55,8 @@
    "ar": "الجزيرة",
    "alt": [
     "Aljazeera"
-   ]
+   ],
+   "apic": "Al Jazeera"
   },
   {
    "q": "Which country won the 2022 FIFA World Cup in Qatar?",
@@ -67,7 +72,8 @@
    "alt": [
     "Lusail Iconic Stadium",
     "Lusail"
-   ]
+   ],
+   "apic": "Lusail Stadium"
   },
   {
    "q": "Which is the only country sharing a land border with Qatar?",
@@ -76,7 +82,8 @@
    "ar": "السعودية",
    "alt": [
     "KSA"
-   ]
+   ],
+   "apic": "Saudi Arabia"
   },
   {
    "q": "What two colours make up Qatar's flag?",
@@ -105,7 +112,8 @@
    "alt": [
     "The Pearl",
     "Pearl Qatar"
-   ]
+   ],
+   "apic": "The Pearl-Qatar"
   },
   {
    "q": "Which traditional Doha market is famous for spices, falcons and evening strolls?",
@@ -115,7 +123,8 @@
    "alt": [
     "Souk Waqif",
     "Souq Wakif"
-   ]
+   ],
+   "apic": "Souq Waqif"
   },
   {
    "q": "Which Doha cultural village by the sea has an amphitheatre, galleries and beach?",
@@ -124,7 +133,8 @@
    "ar": "كتارا",
    "alt": [
     "Katara Cultural Village"
-   ]
+   ],
+   "apic": "Katara Cultural Village"
   },
   {
    "q": "Which Doha museum's design was inspired by the desert rose crystal?",
@@ -134,7 +144,8 @@
    "alt": [
     "NMoQ",
     "Qatar National Museum"
-   ]
+   ],
+   "apic": "National Museum of Qatar"
   },
   {
    "q": "Which Doha museum, standing on its own island, holds a famous collection of Islamic art?",
@@ -143,7 +154,8 @@
    "ar": "متحف الفن الإسلامي",
    "alt": [
     "MIA"
-   ]
+   ],
+   "apic": "Museum of Islamic Art, Doha"
   },
   {
    "q": "Who became Emir of Qatar in 2013?",
@@ -154,7 +166,8 @@
     "Tamim bin Hamad",
     "Sheikh Tamim",
     "Tamim"
-   ]
+   ],
+   "apic": "Tamim bin Hamad Al Thani"
   },
   {
    "q": "Which fuel, shipped as LNG, is Qatar's biggest export?",
@@ -165,7 +178,8 @@
     "LNG",
     "Liquefied natural gas",
     "Gas"
-   ]
+   ],
+   "apic": "Natural gas"
   },
   {
    "q": "How many stadiums hosted matches at the 2022 World Cup?",
@@ -182,7 +196,8 @@
    "ar": "بشت",
    "alt": [
     "Mishlah"
-   ]
+   ],
+   "apic": "Bisht (clothing)"
   },
   {
    "q": "Which Frenchman scored a hat-trick in the 2022 World Cup final?",
@@ -191,7 +206,8 @@
    "alt": [
     "Mbappe",
     "Kylian Mbappe"
-   ]
+   ],
+   "apic": "Kylian Mbappé"
   },
   {
    "q": "Which country became the first Arab and African team to reach a World Cup semi-final, in 2022?",
@@ -214,7 +230,8 @@
    "p": 200,
    "alt": [
     "Messi"
-   ]
+   ],
+   "apic": "Lionel Messi"
   },
   {
    "q": "In which two months was the 2022 World Cup played?",
@@ -232,7 +249,8 @@
    "alt": [
     "Barshim",
     "Mutaz Barshim"
-   ]
+   ],
+   "apic": "Mutaz Essa Barshim"
   },
   {
    "q": "Which antelope appears on the Qatar Airways logo?",
@@ -263,7 +281,8 @@
    "alt": [
     "Lugaimat",
     "Loqaimat"
-   ]
+   ],
+   "apic": "Luqaimat"
   },
   {
    "q": "Which sweet, milky spiced tea is sold at roadside cafeterias across Qatar?",
@@ -291,7 +310,8 @@
    "ar": "دلة",
    "alt": [
     "Dalla"
-   ]
+   ],
+   "apic": "Dallah (coffee pot)"
   },
   {
    "q": "What is the name of Doha's crescent-shaped waterfront promenade?",
@@ -329,7 +349,8 @@
    "alt": [
     "Hamad bin Khalifa",
     "Sheikh Hamad"
-   ]
+   ],
+   "apic": "Hamad bin Khalifa Al Thani"
   },
   {
    "q": "Qatar National Day marks the 1878 succession of which founder of the state?",
@@ -340,7 +361,8 @@
     "Jassim bin Mohammed",
     "Sheikh Jassim",
     "Qassim bin Muhammad"
-   ]
+   ],
+   "apic": "Jassim bin Mohammed Al Thani"
   },
   {
    "q": "In which year did Qatar gain independence from Britain?",
@@ -380,7 +402,8 @@
    "alt": [
     "974",
     "Ras Abu Aboud Stadium"
-   ]
+   ],
+   "apic": "Stadium 974"
   },
   {
    "q": "Which Al Khor stadium, shaped like a Bedouin tent, hosted the 2022 opening match?",
@@ -389,7 +412,8 @@
    "ar": "استاد البيت",
    "alt": [
     "Al Bayt"
-   ]
+   ],
+   "apic": "Al Bayt Stadium"
   },
   {
    "q": "Which Al Wakrah stadium, designed by Zaha Hadid, was inspired by dhow sails?",
@@ -399,7 +423,8 @@
    "alt": [
     "Al Janoub",
     "Al Wakrah Stadium"
-   ]
+   ],
+   "apic": "Al Janoub Stadium"
   },
   {
    "q": "Which Doha stadium, first opened in 1976, was rebuilt for the 2022 World Cup?",
@@ -408,7 +433,8 @@
    "ar": "استاد خليفة الدولي",
    "alt": [
     "Khalifa Stadium"
-   ]
+   ],
+   "apic": "Khalifa International Stadium"
   },
   {
    "q": "What was the score after extra time in the 2022 World Cup final?",
@@ -427,7 +453,8 @@
     "Emiliano Martinez",
     "Dibu Martínez",
     "Dibu"
-   ]
+   ],
+   "apic": "Emiliano Martínez"
   },
   {
    "q": "Which team won the third-place play-off at the 2022 World Cup?",
@@ -458,7 +485,8 @@
    "p": 400,
    "alt": [
     "Jung Kook"
-   ]
+   ],
+   "apic": "Jungkook"
   },
   {
    "q": "In which year was Qatar chosen to host the 2022 World Cup?",
@@ -472,17 +500,22 @@
    "alt": [
     "IM Pei",
     "Ieoh Ming Pei"
-   ]
+   ],
+   "pic": "Museum of Islamic Art, Doha",
+   "apic": "I. M. Pei"
   },
   {
    "q": "Which French architect designed the National Museum of Qatar?",
    "a": "Jean Nouvel",
-   "p": 400
+   "p": 400,
+   "pic": "National Museum of Qatar",
+   "apic": "Jean Nouvel"
   },
   {
    "q": "What is the IATA code of Hamad International Airport?",
    "a": "DOH",
-   "p": 400
+   "p": 400,
+   "pic": "Hamad International Airport"
   },
   {
    "q": "What giant yellow sculpture sits in Hamad International Airport's main hall?",
@@ -499,7 +532,8 @@
    "p": 400,
    "alt": [
     "One World"
-   ]
+   ],
+   "apic": "Oneworld"
   },
   {
    "q": "What is the name of Qatar Airways' business class suite with sliding doors?",
@@ -517,7 +551,8 @@
    "ar": "أكرم عفيف",
    "alt": [
     "Afif"
-   ]
+   ],
+   "apic": "Akram Afif"
   },
   {
    "q": "Which country did Qatar beat in the 2023 Asian Cup final?",
@@ -532,7 +567,8 @@
    "ar": "باريس سان جيرمان",
    "alt": [
     "PSG"
-   ]
+   ],
+   "apic": "Paris Saint-Germain F.C."
   },
   {
    "q": "Which Qatari driver has won the Dakar Rally several times and an Olympic shooting bronze?",
@@ -542,7 +578,8 @@
    "alt": [
     "Al-Attiyah",
     "Nasser Al Attiyah"
-   ]
+   ],
+   "apic": "Nasser Al-Attiyah"
   },
   {
    "q": "Which Doha sports academy trains young footballers and helped develop many of Qatar's 2019 Asian Cup winners?",
@@ -551,13 +588,15 @@
    "ar": "أكاديمية أسباير",
    "alt": [
     "Aspire"
-   ]
+   ],
+   "apic": "Aspire Academy"
   },
   {
    "q": "Which Asian multi-sport event did Doha host in 2006?",
    "a": "Asian Games",
    "p": 400,
-   "ar": "دورة الألعاب الآسيوية"
+   "ar": "دورة الألعاب الآسيوية",
+   "apic": "2006 Asian Games"
   },
   {
    "q": "Which torch-shaped tower in Aspire Zone was built for the 2006 Asian Games?",
@@ -567,7 +606,8 @@
    "alt": [
     "Aspire Tower",
     "The Torch"
-   ]
+   ],
+   "apic": "Aspire Tower"
   },
   {
    "q": "Which Qatari archaeological site became a UNESCO World Heritage site in 2013?",
@@ -577,7 +617,8 @@
    "alt": [
     "Zubarah",
     "Al Zubarah Archaeological Site"
-   ]
+   ],
+   "apic": "Al Zubarah"
   },
   {
    "q": "What is Qatar's second-largest city, home to Education City Stadium and Ahmad bin Ali Stadium?",
@@ -586,7 +627,8 @@
    "ar": "الريان",
    "alt": [
     "Rayyan"
-   ]
+   ],
+   "apic": "Al Rayyan"
   },
   {
    "q": "Which inland sea in southeast Qatar is a protected nature reserve among sand dunes?",
@@ -596,7 +638,8 @@
    "alt": [
     "Inland Sea",
     "Khor Al Udeid"
-   ]
+   ],
+   "apic": "Khor Al Adaid"
   },
   {
    "q": "Which birds have their own souq and hospital next to Souq Waqif?",
@@ -605,7 +648,8 @@
    "ar": "الصقور",
    "alt": [
     "Falcon"
-   ]
+   ],
+   "apic": "Falcon"
   },
   {
    "q": "Which Qatari sheikha co-founded Qatar Foundation and is the mother of Emir Tamim?",
@@ -615,7 +659,8 @@
    "alt": [
     "Sheikha Moza",
     "Moza bint Nasser"
-   ]
+   ],
+   "apic": "Moza bint Nasser"
   },
   {
    "q": "Which 2022 World Cup stadium was designed to look like the gahfiya, a traditional woven cap?",
@@ -624,7 +669,8 @@
    "ar": "استاد الثمامة",
    "alt": [
     "Al Thumama"
-   ]
+   ],
+   "apic": "Al Thumama Stadium"
   },
   {
    "q": "Which 2022 World Cup stadium is nicknamed the 'Diamond in the Desert'?",
@@ -633,7 +679,8 @@
    "ar": "استاد المدينة التعليمية",
    "alt": [
     "Education City"
-   ]
+   ],
+   "apic": "Education City Stadium"
   },
   {
    "q": "Which Qatari striker scored nine goals at the 2019 Asian Cup?",
@@ -643,7 +690,8 @@
    "alt": [
     "Almoez",
     "Al-Moez Ali"
-   ]
+   ],
+   "apic": "Almoez Ali"
   },
   {
    "q": "With which Italian high jumper did Barshim share Olympic gold?",
@@ -651,7 +699,9 @@
    "p": 600,
    "alt": [
     "Tamberi"
-   ]
+   ],
+   "pic": "Mutaz Essa Barshim",
+   "apic": "Gianmarco Tamberi"
   },
   {
    "q": "Which Spanish coach led Qatar to the 2019 Asian Cup title?",
@@ -660,7 +710,8 @@
    "alt": [
     "Felix Sanchez",
     "Félix Sánchez Bas"
-   ]
+   ],
+   "apic": "Félix Sánchez Bas"
   },
   {
    "q": "Which country did Qatar beat 3-1 in the 2019 Asian Cup final?",
@@ -675,7 +726,8 @@
    "ar": "محمد مونتاري",
    "alt": [
     "Muntari"
-   ]
+   ],
+   "apic": "Mohammed Muntari"
   },
   {
    "q": "Which Ecuador captain scored the first goal of the 2022 World Cup?",
@@ -683,7 +735,8 @@
    "p": 600,
    "alt": [
     "Valencia"
-   ]
+   ],
+   "apic": "Enner Valencia"
   },
   {
    "q": "Which Argentine won Best Young Player at the 2022 World Cup?",
@@ -692,7 +745,8 @@
    "alt": [
     "Enzo Fernandez",
     "Enzo"
-   ]
+   ],
+   "apic": "Enzo Fernández"
   },
   {
    "q": "Which French referee became the first woman to referee a men's World Cup match, in 2022?",
@@ -701,7 +755,8 @@
    "alt": [
     "Stephanie Frappart",
     "Frappart"
-   ]
+   ],
+   "apic": "Stéphanie Frappart"
   },
   {
    "q": "Which Qatari ambassador appeared with Morgan Freeman at the 2022 opening ceremony?",
@@ -710,7 +765,9 @@
    "ar": "غانم المفتاح",
    "alt": [
     "Ghanim Al Muftah"
-   ]
+   ],
+   "pic": "Morgan Freeman",
+   "apic": "Ghanim Al-Muftah"
   },
   {
    "q": "What was the name of the special ball used from the 2022 World Cup semi-finals, meaning 'the dream'?",
@@ -747,7 +804,8 @@
    "ar": "الشيخ خليفة بن حمد آل ثاني",
    "alt": [
     "Khalifa bin Hamad"
-   ]
+   ],
+   "apic": "Khalifa bin Hamad Al Thani"
   },
   {
    "q": "Before 2007, Qatar celebrated its national day on which date?",
@@ -794,7 +852,8 @@
    "ar": "الجساسية",
    "alt": [
     "Jassasiya"
-   ]
+   ],
+   "apic": "Al Jassasiya"
   },
   {
    "q": "What is the name of Richard Serra's sculpture of four steel plates in Qatar's Brouq reserve?",
@@ -817,7 +876,8 @@
    "ar": "أبراج كتارا",
    "alt": [
     "Lusail Towers"
-   ]
+   ],
+   "apic": "Katara Towers"
   },
   {
    "q": "What are the colours of the three Doha Metro lines?",
@@ -839,7 +899,9 @@
    "alt": [
     "Koolhaas",
     "OMA"
-   ]
+   ],
+   "pic": "Qatar National Library",
+   "apic": "Rem Koolhaas"
   },
   {
    "q": "What was the name of the oryx mascot of the 2006 Doha Asian Games?",
@@ -851,7 +913,8 @@
    "q": "Which sport's world championship final did host Qatar reach in 2015, winning silver?",
    "a": "Handball",
    "p": 600,
-   "ar": "كرة اليد"
+   "ar": "كرة اليد",
+   "apic": "Handball"
   },
   {
    "q": "Which Doha festival area hosts the main Qatar National Day celebrations and heritage events?",
@@ -877,13 +940,16 @@
    "ar": "الخور",
    "alt": [
     "Khor"
-   ]
+   ],
+   "pic": "Al Bayt Stadium",
+   "apic": "Al Khor"
   },
   {
    "q": "Which island kingdom lies just off Qatar's west coast?",
    "a": "Bahrain",
    "p": 200,
-   "ar": "البحرين"
+   "ar": "البحرين",
+   "apic": "Bahrain"
   },
   {
    "q": "What is the official language of Qatar?",
@@ -898,7 +964,8 @@
    "ar": "الصيد بالصقور",
    "alt": [
     "Hawking"
-   ]
+   ],
+   "apic": "Falconry"
   },
   {
    "q": "Which animal race in Qatar uses small robot jockeys?",
@@ -907,7 +974,8 @@
    "ar": "سباق الهجن",
    "alt": [
     "Camels"
-   ]
+   ],
+   "apic": "Camel racing"
   },
   {
    "q": "What is the long white robe worn by Qatari men called?",
@@ -918,7 +986,8 @@
     "Thawb",
     "Dishdasha",
     "Kandura"
-   ]
+   ],
+   "apic": "Thawb"
   },
   {
    "q": "What is the black cord that holds a man's headscarf in place called?",
@@ -928,7 +997,8 @@
    "alt": [
     "Iqal",
     "Egal"
-   ]
+   ],
+   "apic": "Agal"
   },
   {
    "q": "What long black cloak do many Qatari women wear over their clothes?",
@@ -938,7 +1008,8 @@
    "alt": [
     "Abaya",
     "Abayah"
-   ]
+   ],
+   "apic": "Abaya"
   },
   {
    "q": "Which Ramadan dish is a thick porridge of wheat and meat?",
@@ -948,7 +1019,8 @@
    "alt": [
     "Harris",
     "Hareesa"
-   ]
+   ],
+   "apic": "Harees"
   },
   {
    "q": "What is Arabic coffee called in Gulf dialect?",
@@ -958,7 +1030,8 @@
    "alt": [
     "Qahwa",
     "Kahwa"
-   ]
+   ],
+   "apic": "Arabic coffee"
   },
   {
    "q": "What is the nickname of Qatar's national football team?",
@@ -989,7 +1062,8 @@
    "ar": "فيلاجيو",
    "alt": [
     "Villaggio"
-   ]
+   ],
+   "apic": "Villaggio Mall"
   },
   {
    "q": "Which Doha airport opened in 2014 as Qatar Airways' hub?",
@@ -999,7 +1073,8 @@
    "alt": [
     "Hamad Airport",
     "HIA"
-   ]
+   ],
+   "apic": "Hamad International Airport"
   },
   {
    "q": "What Formula 1 race is held at Lusail International Circuit?",
@@ -1008,7 +1083,9 @@
    "ar": "جائزة قطر الكبرى",
    "alt": [
     "Qatar GP"
-   ]
+   ],
+   "pic": "Lusail International Circuit",
+   "apic": "Qatar Grand Prix"
   },
   {
    "q": "In which year did Qatar first play at a World Cup?",
@@ -1022,7 +1099,8 @@
    "ar": "مجلس التعاون الخليجي",
    "alt": [
     "GCC"
-   ]
+   ],
+   "apic": "Gulf Cooperation Council"
   },
   {
    "q": "Which Doha district is the city's main cluster of skyscrapers?",
@@ -1060,7 +1138,8 @@
    "ar": "سفن شراعية",
    "alt": [
     "Dhow"
-   ]
+   ],
+   "apic": "Dhow"
   },
   {
    "q": "What is the Gulf word for a guest sitting room where men gather?",
@@ -1069,7 +1148,8 @@
    "ar": "مجلس",
    "alt": [
     "Majles"
-   ]
+   ],
+   "apic": "Majlis"
   },
   {
    "q": "Which Qatari-owned TV network broadcasts sport across the Middle East and was once Al Jazeera Sport?",
@@ -1079,7 +1159,8 @@
    "alt": [
     "beIN",
     "Bein Sports"
-   ]
+   ],
+   "apic": "beIN Sports"
   },
   {
    "q": "Who coached Argentina to the 2022 World Cup title?",
@@ -1087,7 +1168,8 @@
    "p": 200,
    "alt": [
     "Scaloni"
-   ]
+   ],
+   "apic": "Lionel Scaloni"
   },
   {
    "q": "Which Morocco goalkeeper was a star of their 2022 World Cup run?",
@@ -1097,7 +1179,8 @@
    "alt": [
     "Bono",
     "Bounou"
-   ]
+   ],
+   "apic": "Yassine Bounou"
   },
   {
    "q": "Before oil, Qatar's economy depended mainly on diving for what?",
@@ -1107,7 +1190,8 @@
    "alt": [
     "Pearl",
     "Pearl diving"
-   ]
+   ],
+   "apic": "Pearl"
   },
   {
    "q": "What is the Gulf pastime of driving 4x4s over sand dunes called?",
@@ -1117,7 +1201,8 @@
    "alt": [
     "Tat'ees",
     "Dune driving"
-   ]
+   ],
+   "apic": "Dune bashing"
   },
   {
    "q": "Which Ramadan dish is made of bread soaked in meat and vegetable stew?",
@@ -1127,7 +1212,8 @@
    "alt": [
     "Tharid",
     "Threed"
-   ]
+   ],
+   "apic": "Tharid"
   },
   {
    "q": "Which mid-Ramadan night do Qatari children celebrate by collecting sweets in traditional clothes?",
@@ -1146,7 +1232,8 @@
    "ar": "بلاليط",
    "alt": [
     "Balalit"
-   ]
+   ],
+   "apic": "Balaleet"
   },
   {
    "q": "In Gulf dialect, what does 'wayed' mean?",
@@ -1187,7 +1274,8 @@
    "alt": [
     "Barajeel",
     "Badgir"
-   ]
+   ],
+   "apic": "Windcatcher"
   },
   {
    "q": "How many white points does the serrated edge of Qatar's flag have?",
@@ -1237,7 +1325,8 @@
    "alt": [
     "Ottomans",
     "Turkey"
-   ]
+   ],
+   "apic": "Ottoman Empire"
   },
   {
    "q": "What is the name of Qatar's top football league?",
@@ -1247,7 +1336,8 @@
    "alt": [
     "QSL",
     "Expo Stars League"
-   ]
+   ],
+   "apic": "Qatar Stars League"
   },
   {
    "q": "Which international motorbike championship holds night races at Lusail?",
@@ -1255,7 +1345,9 @@
    "p": 400,
    "alt": [
     "Moto GP"
-   ]
+   ],
+   "pic": "Lusail International Circuit",
+   "apic": "MotoGP"
   },
   {
    "q": "In which year did Doha host the World Athletics Championships?",
@@ -1266,7 +1358,8 @@
    "q": "Which Doha campus hosts branches of Georgetown, Texas A&M and Carnegie Mellon?",
    "a": "Education City",
    "p": 400,
-   "ar": "المدينة التعليمية"
+   "ar": "المدينة التعليمية",
+   "apic": "Education City"
   },
   {
    "q": "Which Spanish club wore 'Qatar Foundation' as its first paid shirt sponsor, in 2011?",
@@ -1276,7 +1369,8 @@
    "alt": [
     "FC Barcelona",
     "Barca"
-   ]
+   ],
+   "apic": "FC Barcelona"
   },
   {
    "q": "Which Al Jazeera online brand is known for short social media videos?",
@@ -1284,7 +1378,8 @@
    "p": 400,
    "alt": [
     "AJ Plus"
-   ]
+   ],
+   "apic": "AJ+"
   },
   {
    "q": "Which former Qatari tennis player became president of Paris Saint-Germain?",
@@ -1294,7 +1389,8 @@
    "alt": [
     "Al-Khelaifi",
     "Nasser Al Khelaifi"
-   ]
+   ],
+   "apic": "Nasser Al-Khelaifi"
   },
   {
    "q": "Which FIFA tournament for Arab nations did Qatar host in 2021?",
@@ -1303,13 +1399,15 @@
    "ar": "كأس العرب",
    "alt": [
     "Arab Cup"
-   ]
+   ],
+   "apic": "2021 FIFA Arab Cup"
   },
   {
    "q": "Which city was awarded the 2030 Asian Games?",
    "a": "Doha",
    "p": 400,
-   "ar": "الدوحة"
+   "ar": "الدوحة",
+   "apic": "Doha"
   },
   {
    "q": "Which team did Morocco beat on penalties in the 2022 round of 16?",
@@ -1330,7 +1428,8 @@
    "ar": "وليد الركراكي",
    "alt": [
     "Regragui"
-   ]
+   ],
+   "apic": "Walid Regragui"
   },
   {
    "q": "Who scored Saudi Arabia's winning goal against Argentina in 2022?",
@@ -1340,7 +1439,8 @@
    "alt": [
     "Al-Dawsari",
     "Salem Al Dawsari"
-   ]
+   ],
+   "apic": "Salem Al-Dawsari"
   },
   {
    "q": "Which North African team beat France 1-0 in the 2022 group stage?",
@@ -1355,7 +1455,8 @@
    "ar": "أشرف حكيمي",
    "alt": [
     "Hakimi"
-   ]
+   ],
+   "apic": "Achraf Hakimi"
   },
   {
    "q": "Which Argentine winger scored his side's second goal in the 2022 final?",
@@ -1365,7 +1466,8 @@
     "Angel Di Maria",
     "Di María",
     "Di Maria"
-   ]
+   ],
+   "apic": "Ángel Di María"
   },
   {
    "q": "How many goals did Kylian Mbappé score at the 2022 World Cup?",
@@ -1373,7 +1475,8 @@
    "p": 400,
    "alt": [
     "8"
-   ]
+   ],
+   "pic": "Kylian Mbappé"
   },
   {
    "q": "What does the stadium name 'Al Bayt' mean in English?",
@@ -1438,7 +1541,9 @@
    "ar": "الوكرة",
    "alt": [
     "Wakrah"
-   ]
+   ],
+   "pic": "Al Janoub Stadium",
+   "apic": "Al Wakrah"
   },
   {
    "q": "Which Qatari weightlifter won the country's first Olympic gold, at Tokyo 2020?",
@@ -1448,7 +1553,8 @@
    "alt": [
     "Fares Ibrahim",
     "Fares Ibrahim El-Bakh"
-   ]
+   ],
+   "apic": "Fares El-Bakh"
   },
   {
    "q": "Which Qatari runner won the country's first Olympic medal, a 1500 m bronze in 1992?",
@@ -1465,7 +1571,8 @@
    "p": 600,
    "alt": [
     "Montiel"
-   ]
+   ],
+   "apic": "Gonzalo Montiel"
   },
   {
    "q": "Which team did Qatar play in their final group match of the 2022 World Cup?",
@@ -1483,7 +1590,9 @@
    "alt": [
     "Foster and Partners",
     "Norman Foster"
-   ]
+   ],
+   "pic": "Lusail Stadium",
+   "apic": "Foster + Partners"
   },
   {
    "q": "Which Al Rayyan stadium is named after the emir who ruled Qatar from 1960 to 1972?",
@@ -1492,7 +1601,8 @@
    "ar": "استاد أحمد بن علي",
    "alt": [
     "Ahmad bin Ali"
-   ]
+   ],
+   "apic": "Ahmad bin Ali Stadium"
   },
   {
    "q": "Who ruled Qatar from 1949 to 1960?",
@@ -1501,7 +1611,8 @@
    "ar": "الشيخ علي بن عبدالله آل ثاني",
    "alt": [
     "Ali bin Abdullah"
-   ]
+   ],
+   "apic": "Ali bin Abdullah Al Thani"
   },
   {
    "q": "Which Qatari ruler signed the 1916 treaty with Britain?",
@@ -1510,7 +1621,8 @@
    "ar": "الشيخ عبدالله بن جاسم آل ثاني",
    "alt": [
     "Abdullah bin Jassim"
-   ]
+   ],
+   "apic": "Abdullah bin Jassim Al Thani"
   },
   {
    "q": "Which Al Thani sheikh signed the 1868 agreement with Britain recognising his leadership?",
@@ -1519,13 +1631,15 @@
    "ar": "الشيخ محمد بن ثاني",
    "alt": [
     "Mohammed bin Thani"
-   ]
+   ],
+   "apic": "Mohammed bin Thani"
   },
   {
    "q": "At which west-coast site was oil first discovered in Qatar, in 1939?",
    "a": "Dukhan",
    "p": 600,
-   "ar": "دخان"
+   "ar": "دخان",
+   "apic": "Dukhan"
   },
   {
    "q": "In which year did Qatar leave OPEC?",
@@ -1539,7 +1653,8 @@
    "ar": "ريال قطر ودبي",
    "alt": [
     "Qatar-Dubai riyal"
-   ]
+   ],
+   "apic": "Qatar and Dubai riyal"
   },
   {
    "q": "Which Indian-issued currency circulated in Qatar before 1966?",
@@ -1549,7 +1664,8 @@
    "alt": [
     "Indian rupee",
     "Rupee"
-   ]
+   ],
+   "apic": "Gulf rupee"
   },
   {
    "q": "Al Jazeera English launched in which year?",
@@ -1571,7 +1687,9 @@
    "ar": "أكبر الباكر",
    "alt": [
     "Al Baker"
-   ]
+   ],
+   "pic": "Qatar Airways",
+   "apic": "Akbar Al Baker"
   },
   {
    "q": "Which Qatari sheikha, sister of Emir Tamim, chairs Qatar Museums?",
@@ -1580,13 +1698,15 @@
    "ar": "الشيخة المياسة",
    "alt": [
     "Al Mayassa bint Hamad"
-   ]
+   ],
+   "apic": "Al-Mayassa bint Hamad Al Thani"
   },
   {
    "q": "What is the name of Doha's Arab Museum of Modern Art in Education City?",
    "a": "Mathaf",
    "p": 600,
-   "ar": "متحف"
+   "ar": "متحف",
+   "apic": "Mathaf: Arab Museum of Modern Art"
   },
   {
    "q": "Which Doha museum of sport opened beside Khalifa International Stadium in 2021?",
@@ -1595,7 +1715,8 @@
    "alt": [
     "3-2-1 Museum",
     "3-2-1"
-   ]
+   ],
+   "apic": "3-2-1 Qatar Olympic and Sports Museum"
   },
   {
    "q": "Which Doha downtown regeneration project includes four restored heritage-house museums?",
@@ -1614,7 +1735,8 @@
    "ar": "برج الدوحة",
    "alt": [
     "Burj Doha"
-   ]
+   ],
+   "apic": "Doha Tower"
   },
   {
    "q": "Which Umm Salal watchtowers were built to watch over the area and track the moon?",
@@ -1623,7 +1745,8 @@
    "ar": "أبراج برزان",
    "alt": [
     "Barzan"
-   ]
+   ],
+   "apic": "Barzan Towers"
   },
   {
    "q": "Which northern Qatar coastal area is famous for mangroves you can kayak through?",
@@ -1650,7 +1773,8 @@
    "p": 400,
    "alt": [
     "Batistuta"
-   ]
+   ],
+   "apic": "Gabriel Batistuta"
   },
   {
    "q": "Which Real Madrid legend finished his playing career with Al Sadd?",
@@ -1659,7 +1783,8 @@
    "alt": [
     "Raul",
     "Raúl González"
-   ]
+   ],
+   "apic": "Raúl (footballer)"
   },
   {
    "q": "Which FIFA youth tournament did Qatar host in 1995?",
@@ -1682,7 +1807,8 @@
    "ar": "جزيرة حالول",
    "alt": [
     "Halul"
-   ]
+   ],
+   "apic": "Halul Island"
   },
   {
    "q": "What are the traditional pearl-diving work songs of the Gulf called?",

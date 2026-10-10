@@ -10,12 +10,14 @@
   {
    "q": "Which Pokemon is the mascot of the Pokemon franchise?",
    "a": "Pikachu",
-   "p": 200
+   "p": 200,
+   "apic": "Pikachu"
   },
   {
    "q": "Which fire-breathing Pokemon is the star of the famous Base Set holo card?",
    "a": "Charizard",
-   "p": 200
+   "p": 200,
+   "apic": "Charizard"
   },
   {
    "q": "Which trading card game has five colours of mana?",
@@ -25,7 +27,8 @@
     "Magic the Gathering",
     "Magic",
     "MTG"
-   ]
+   ],
+   "apic": "Magic: The Gathering"
   },
   {
    "q": "How many colours of mana are there in Magic: The Gathering?",
@@ -51,12 +54,14 @@
    "p": 200,
    "alt": [
     "Kaiba"
-   ]
+   ],
+   "apic": "Seto Kaiba"
   },
   {
    "q": "Which spellcaster is Yugi's signature monster?",
    "a": "Dark Magician",
-   "p": 200
+   "p": 200,
+   "apic": "Dark Magician"
   },
   {
    "q": "Which Yu-Gi-Oh! monster wins the duel instantly when all five of its pieces are in your hand?",
@@ -98,7 +103,8 @@
   {
    "q": "Which genetically engineered Legendary Pokemon is a famous Base Set rare?",
    "a": "Mewtwo",
-   "p": 200
+   "p": 200,
+   "apic": "Mewtwo"
   },
   {
    "q": "What is the top grade on the PSA scale of 1 to 10?",
@@ -116,7 +122,8 @@
    "alt": [
     "Walt Disney",
     "The Walt Disney Company"
-   ]
+   ],
+   "apic": "The Walt Disney Company"
   },
   {
    "q": "Which Eiichiro Oda pirate manga is the basis of a card game launched in the 2020s?",
@@ -129,7 +136,8 @@
    "p": 200,
    "alt": [
     "WoW"
-   ]
+   ],
+   "apic": "World of Warcraft"
   },
   {
    "q": "Which Pokemon TCG cards are needed to power attacks?",
@@ -153,7 +161,8 @@
    "p": 200,
    "alt": [
     "Mickey"
-   ]
+   ],
+   "apic": "Mickey Mouse"
   },
   {
    "q": "What do players put cards into to protect them from scratches?",
@@ -184,7 +193,8 @@
    "alt": [
     "Yugi Mutou",
     "Yugi"
-   ]
+   ],
+   "apic": "Yugi Mutou"
   },
   {
    "q": "Which Pokemon trainer is the hero of the Pokemon anime and wants to be a Pokemon Master?",
@@ -192,7 +202,8 @@
    "p": 200,
    "alt": [
     "Ash"
-   ]
+   ],
+   "apic": "Ash Ketchum"
   },
   {
    "q": "What is a sealed box containing many booster packs called?",
@@ -209,12 +220,14 @@
    "p": 400,
    "alt": [
     "Garfield"
-   ]
+   ],
+   "apic": "Richard Garfield"
   },
   {
    "q": "In which year did Magic: The Gathering first appear?",
    "a": "1993",
-   "p": 400
+   "p": 400,
+   "pic": "Magic: The Gathering"
   },
   {
    "q": "Which company first published the Pokemon TCG in English in 1999?",
@@ -222,7 +235,8 @@
    "p": 400,
    "alt": [
     "Wizards"
-   ]
+   ],
+   "apic": "Wizards of the Coast"
   },
   {
    "q": "Which artist illustrated the Base Set Charizard?",
@@ -286,7 +300,8 @@
   {
    "q": "Which famous Alpha-era Magic card taps for three mana of one colour?",
    "a": "Black Lotus",
-   "p": 400
+   "p": 400,
+   "apic": "Black Lotus (Magic: The Gathering)"
   },
   {
    "q": "Which red instant spell deals three damage for one mana?",
@@ -332,12 +347,14 @@
   {
    "q": "Which Japanese company publishes Yu-Gi-Oh!?",
    "a": "Konami",
-   "p": 400
+   "p": 400,
+   "apic": "Konami"
   },
   {
    "q": "Who created Yu-Gi-Oh!?",
    "a": "Kazuki Takahashi",
-   "p": 400
+   "p": 400,
+   "apic": "Kazuki Takahashi"
   },
   {
    "q": "Which Yu-Gi-Oh! monster type uses a Tuner for its summoning method?",
@@ -367,7 +384,8 @@
   {
    "q": "Which company produces Disney Lorcana?",
    "a": "Ravensburger",
-   "p": 400
+   "p": 400,
+   "apic": "Ravensburger"
   },
   {
    "q": "How many ink colours are there in Disney Lorcana?",
@@ -391,7 +409,8 @@
    "p": 400,
    "alt": [
     "Bandai Namco"
-   ]
+   ],
+   "apic": "Bandai"
   },
   {
    "q": "What are the special cost-paying cards of the One Piece Card Game called?",
@@ -409,7 +428,8 @@
    "p": 400,
    "alt": [
     "Upper Deck Entertainment"
-   ]
+   ],
+   "apic": "Upper Deck Company"
   },
   {
    "q": "What name is given to World of Warcraft TCG cards that unlock in-game items?",
@@ -422,7 +442,8 @@
   {
    "q": "What do the letters PSA stand for?",
    "a": "Professional Sports Authenticator",
-   "p": 400
+   "p": 400,
+   "apic": "Professional Sports Authenticator"
   },
   {
    "q": "What is PSA's grade 9 called?",
@@ -436,7 +457,8 @@
    "alt": [
     "BGS",
     "Beckett Grading Services"
-   ]
+   ],
+   "apic": "Beckett Media"
   },
   {
    "q": "What is the name of the list that restricts powerful cards in Yu-Gi-Oh!?",
@@ -460,7 +482,8 @@
    "alt": [
     "CoroCoro",
     "Corocoro Comic"
-   ]
+   ],
+   "apic": "CoroCoro Comic"
   },
   {
    "q": "Which was the first expansion after the English Pokemon Base Set?",
@@ -557,7 +580,8 @@
    "p": 600,
    "alt": [
     "Shonen Jump"
-   ]
+   ],
+   "apic": "Weekly Shōnen Jump"
   },
   {
    "q": "How much Lore wins a game of Disney Lorcana?",
@@ -662,7 +686,8 @@
   {
    "q": "Which Water-type starter Pokemon evolves into Blastoise?",
    "a": "Squirtle",
-   "p": 200
+   "p": 200,
+   "apic": "Squirtle"
   },
   {
    "q": "What type is Pikachu?",
@@ -677,7 +702,8 @@
     "Jonouchi",
     "Katsuya Jonouchi",
     "Joey"
-   ]
+   ],
+   "apic": "Joey Wheeler"
   },
   {
    "q": "Which Straw Hat captain is the Leader of the first One Piece Card Game starter deck?",
@@ -685,7 +711,8 @@
    "p": 200,
    "alt": [
     "Luffy"
-   ]
+   ],
+   "apic": "Monkey D. Luffy"
   },
   {
    "q": "Which Pokemon TCG energy type uses a flame symbol?",
@@ -700,7 +727,8 @@
   {
    "q": "Which Grass-type starter Pokemon evolves into Venusaur?",
    "a": "Bulbasaur",
-   "p": 200
+   "p": 200,
+   "apic": "Bulbasaur"
   },
   {
    "q": "Which basic land in Magic: The Gathering produces blue mana?",
@@ -756,7 +784,8 @@
   {
    "q": "Which Fire-type starter evolves into Charmeleon and then Charizard?",
    "a": "Charmander",
-   "p": 200
+   "p": 200,
+   "apic": "Charmander"
   },
   {
    "q": "What do the letters ATK stand for on a Yu-Gi-Oh! monster card?",
@@ -787,7 +816,8 @@
    "p": 200,
    "alt": [
     "Digimon"
-   ]
+   ],
+   "apic": "Digimon Card Game"
   },
   {
    "q": "What is the term for getting a particular card out of a booster pack?",
@@ -830,12 +860,14 @@
   {
    "q": "Which Italian company is famous for football sticker albums?",
    "a": "Panini",
-   "p": 200
+   "p": 200,
+   "apic": "Panini Group"
   },
   {
    "q": "Which US company is best known for baseball cards and the Garbage Pail Kids?",
    "a": "Topps",
-   "p": 200
+   "p": 200,
+   "apic": "Topps"
   },
   {
    "q": "What do players call shuffling away an opening hand to draw a new one?",
@@ -917,7 +949,8 @@
    "alt": [
     "D&D",
     "Dungeons and Dragons"
-   ]
+   ],
+   "apic": "Dungeons & Dragons"
   },
   {
    "q": "In Magic, which keyword lets a creature be blocked only by creatures with flying or reach?",
@@ -1148,12 +1181,14 @@
    "p": 400,
    "alt": [
     "Pokemon TCG"
-   ]
+   ],
+   "apic": "Pokémon Trading Card Game (video game)"
   },
   {
    "q": "Which company bought Wizards of the Coast in 1999?",
    "a": "Hasbro",
-   "p": 400
+   "p": 400,
+   "apic": "Hasbro"
   },
   {
    "q": "What name is given to Magic's very first print run of 1993, famous for rounded corners?",
@@ -1170,7 +1205,8 @@
    "alt": [
     "Magic: The Gathering Arena",
     "Arena"
-   ]
+   ],
+   "apic": "Magic: The Gathering Arena"
   },
   {
    "q": "Which Magic keyword lets excess combat damage carry over to the defending player?",
@@ -1244,7 +1280,8 @@
   {
    "q": "Which ancient elder dragon is one of Magic's greatest villains?",
    "a": "Nicol Bolas",
-   "p": 400
+   "p": 400,
+   "apic": "Nicol Bolas"
   },
   {
    "q": "Which Magic plane is a giant city ruled by ten guilds?",
@@ -1269,12 +1306,14 @@
   {
    "q": "Which Tolkien artifact was the one-of-a-kind serialised card in Magic's 2023 Lord of the Rings set?",
    "a": "The One Ring",
-   "p": 400
+   "p": 400,
+   "apic": "One Ring"
   },
   {
    "q": "Which Square Enix RPG series got its own Magic: The Gathering set in 2025?",
    "a": "Final Fantasy",
-   "p": 400
+   "p": 400,
+   "apic": "Final Fantasy"
   },
   {
    "q": "What type of deck tries to win quickly with cheap, aggressive attackers?",
@@ -1384,7 +1423,8 @@
    "p": 400,
    "alt": [
     "Master Duel"
-   ]
+   ],
+   "apic": "Yu-Gi-Oh! Master Duel"
   },
   {
    "q": "Which card does the Hearthstone player going second receive to gain one extra mana?",
@@ -1410,7 +1450,8 @@
   {
    "q": "Which card game, based on a Japanese manga, was produced by Takara Tomy with Wizards of the Coast?",
    "a": "Duel Masters",
-   "p": 400
+   "p": 400,
+   "apic": "Duel Masters"
   },
   {
    "q": "How many cards were in the original English Pokemon Base Set?",
@@ -1500,7 +1541,8 @@
    "alt": [
     "Pokemon USA",
     "Pokémon USA"
-   ]
+   ],
+   "apic": "The Pokémon Company"
   },
   {
    "q": "Which artist painted the art of Magic's Black Lotus in Alpha?",
@@ -1556,17 +1598,21 @@
   {
    "q": "At which US college was Richard Garfield teaching mathematics when Magic launched in 1993?",
    "a": "Whitman College",
-   "p": 600
+   "p": 600,
+   "pic": "Richard Garfield",
+   "apic": "Whitman College"
   },
   {
    "q": "Who founded Wizards of the Coast?",
    "a": "Peter Adkison",
-   "p": 600
+   "p": 600,
+   "apic": "Peter Adkison"
   },
   {
    "q": "Which Richard Garfield game, published in 2018, gives every deck a unique, procedurally generated card list?",
    "a": "KeyForge",
-   "p": 600
+   "p": 600,
+   "apic": "KeyForge"
   },
   {
    "q": "Which 1996 Richard Garfield card game pits corporations against hackers?",
@@ -1574,12 +1620,14 @@
    "p": 600,
    "alt": [
     "Android: Netrunner"
-   ]
+   ],
+   "apic": "Netrunner"
   },
   {
    "q": "Which Richard Garfield vampire card game was first called Jyhad?",
    "a": "Vampire: The Eternal Struggle",
-   "p": 600
+   "p": 600,
+   "apic": "Vampire: The Eternal Struggle"
   },
   {
    "q": "In what year was Magic's online client, Magic: The Gathering Online, launched?",
@@ -1615,7 +1663,8 @@
   {
    "q": "In which year did Yu-Gi-Oh! creator Kazuki Takahashi die?",
    "a": "2022",
-   "p": 600
+   "p": 600,
+   "pic": "Kazuki Takahashi"
   },
   {
    "q": "Which 1999 PlayStation Yu-Gi-Oh! game is remembered for its brutal difficulty and fusions?",
@@ -1623,7 +1672,8 @@
    "p": 600,
    "alt": [
     "Forbidden Memories"
-   ]
+   ],
+   "apic": "Yu-Gi-Oh! Forbidden Memories"
   },
   {
    "q": "Which Yu-Gi-Oh! ZEXAL hero teams up with the mysterious Astral?",
@@ -1698,17 +1748,20 @@
   {
    "q": "Which company makes the Weiss Schwarz and Cardfight!! Vanguard card games?",
    "a": "Bushiroad",
-   "p": 600
+   "p": 600,
+   "apic": "Bushiroad"
   },
   {
    "q": "Which Cygames digital card game features classes like Forestcraft and Swordcraft?",
    "a": "Shadowverse",
-   "p": 600
+   "p": 600,
+   "apic": "Shadowverse"
   },
   {
    "q": "Which company acquired Topps' trading card business in 2022?",
    "a": "Fanatics",
-   "p": 600
+   "p": 600,
+   "apic": "Fanatics, Inc."
   },
   {
    "q": "Which early-1900s baseball card of Honus Wagner is one of the most famous rare cards ever?",
@@ -1716,7 +1769,8 @@
    "p": 600,
    "alt": [
     "T206 Honus Wagner"
-   ]
+   ],
+   "apic": "T206 Honus Wagner"
   },
   {
    "q": "In which Italian city is Panini based?",

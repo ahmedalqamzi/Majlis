@@ -8,17 +8,20 @@
    "p": 200,
    "alt": [
     "Luxo"
-   ]
+   ],
+   "apic": "Luxo Jr."
   },
   {
    "q": "Which actor voices Woody in the Toy Story films?",
    "a": "Tom Hanks",
-   "p": 200
+   "p": 200,
+   "apic": "Tom Hanks"
   },
   {
    "q": "Which actor voices Buzz Lightyear in the Toy Story films?",
    "a": "Tim Allen",
-   "p": 200
+   "p": 200,
+   "apic": "Tim Allen"
   },
   {
    "q": "What is the name of the boy who owns Woody and Buzz in the first three Toy Story films?",
@@ -35,7 +38,8 @@
    "alt": [
     "Tyrannosaurus rex",
     "T. rex"
-   ]
+   ],
+   "apic": "Dinosaur"
   },
   {
    "q": "What is the name of the yodelling cowgirl doll introduced in Toy Story 2?",
@@ -183,7 +187,8 @@
    "p": 200,
    "alt": [
     "Clown fish"
-   ]
+   ],
+   "apic": "Amphiprioninae"
   },
   {
    "q": "What is the name of Nemo's overprotective father?",
@@ -201,12 +206,14 @@
    "p": 200,
    "alt": [
     "Turtle"
-   ]
+   ],
+   "apic": "Sea turtle"
   },
   {
    "q": "In which Australian city is Nemo kept in a dentist's fish tank?",
    "a": "Sydney",
-   "p": 200
+   "p": 200,
+   "apic": "Sydney"
   },
   {
    "q": "In Finding Nemo, what kind of animal is Bruce, who has sworn off eating fish?",
@@ -214,7 +221,8 @@
    "p": 200,
    "alt": [
     "Great white shark"
-   ]
+   ],
+   "apic": "Shark"
   },
   {
    "q": "What is the superhero name of Bob Parr in The Incredibles?",
@@ -307,7 +315,8 @@
   {
    "q": "In which city is Ratatouille set?",
    "a": "Paris",
-   "p": 200
+   "p": 200,
+   "apic": "Paris"
   },
   {
    "q": "What is the name of the clumsy young kitchen worker Remy helps to cook?",
@@ -344,7 +353,8 @@
   {
    "q": "What kind of insect is WALL-E's pet companion?",
    "a": "Cockroach",
-   "p": 200
+   "p": 200,
+   "apic": "Cockroach"
   },
   {
    "q": "In which 2009 Pixar film does an old man fly his house away using balloons?",
@@ -372,7 +382,8 @@
   {
    "q": "In which country is Brave set?",
    "a": "Scotland",
-   "p": 200
+   "p": 200,
+   "apic": "Scotland"
   },
   {
    "q": "What is the name of the red-haired archer princess in Brave?",
@@ -385,7 +396,8 @@
    "p": 200,
    "alt": [
     "A bear"
-   ]
+   ],
+   "apic": "Bear"
   },
   {
    "q": "In Inside Out, which yellow emotion leads the team in Riley's head?",
@@ -446,7 +458,8 @@
     "Día de los Muertos",
     "Dia de Muertos",
     "Day of the Dead festival"
-   ]
+   ],
+   "apic": "Day of the Dead"
   },
   {
    "q": "In Coco, what kind of animal is Miguel's goofy companion Dante?",
@@ -455,12 +468,14 @@
    "alt": [
     "Xoloitzcuintli",
     "Xolo"
-   ]
+   ],
+   "apic": "Dog"
   },
   {
    "q": "What instrument does Miguel secretly play in Coco?",
    "a": "Guitar",
-   "p": 200
+   "p": 200,
+   "apic": "Guitar"
   },
   {
    "q": "Which 2015 Pixar film imagines a world where the asteroid missed the dinosaurs?",
@@ -478,7 +493,8 @@
   {
    "q": "In which country is Luca set?",
    "a": "Italy",
-   "p": 200
+   "p": 200,
+   "apic": "Italy"
   },
   {
    "q": "What animal does Mei turn into when she gets emotional in Turning Red?",
@@ -486,12 +502,14 @@
    "p": 200,
    "alt": [
     "Panda"
-   ]
+   ],
+   "apic": "Red panda"
   },
   {
    "q": "In which Canadian city is Turning Red set?",
    "a": "Toronto",
-   "p": 200
+   "p": 200,
+   "apic": "Toronto"
   },
   {
    "q": "Which 2020 Pixar film follows two elf brothers on a quest to see their late father?",
@@ -530,7 +548,8 @@
    "alt": [
     "The Walt Disney Company",
     "Walt Disney"
-   ]
+   ],
+   "apic": "The Walt Disney Company"
   },
   {
    "q": "Which Apple co-founder bought the company that became Pixar in 1986?",
@@ -538,7 +557,8 @@
    "p": 200,
    "alt": [
     "Jobs"
-   ]
+   ],
+   "apic": "Steve Jobs"
   },
   {
    "q": "Which 1998 Pixar film follows an inventive ant named Flik?",
@@ -548,7 +568,8 @@
   {
    "q": "In A Bug's Life, which insects bully the ant colony for food?",
    "a": "Grasshoppers",
-   "p": 200
+   "p": 200,
+   "apic": "Grasshopper"
   },
   {
    "q": "What colour is Sulley's fur?",
@@ -631,97 +652,116 @@
   {
    "q": "Which actor voices Mike Wazowski?",
    "a": "Billy Crystal",
-   "p": 400
+   "p": 400,
+   "apic": "Billy Crystal"
   },
   {
    "q": "Which actor voices Sulley in Monsters, Inc.?",
    "a": "John Goodman",
-   "p": 400
+   "p": 400,
+   "apic": "John Goodman"
   },
   {
    "q": "Which actor voices Lightning McQueen?",
    "a": "Owen Wilson",
-   "p": 400
+   "p": 400,
+   "apic": "Owen Wilson"
   },
   {
    "q": "Which talk show host voices Dory?",
    "a": "Ellen DeGeneres",
-   "p": 400
+   "p": 400,
+   "apic": "Ellen DeGeneres"
   },
   {
    "q": "Which actor voices Marlin in Finding Nemo?",
    "a": "Albert Brooks",
-   "p": 400
+   "p": 400,
+   "apic": "Albert Brooks"
   },
   {
    "q": "Which actor voices Frozone in The Incredibles?",
    "a": "Samuel L. Jackson",
-   "p": 400
+   "p": 400,
+   "apic": "Samuel L. Jackson"
   },
   {
    "q": "Which actress voices Elastigirl?",
    "a": "Holly Hunter",
-   "p": 400
+   "p": 400,
+   "apic": "Holly Hunter"
   },
   {
    "q": "Which actor voices Mr. Incredible?",
    "a": "Craig T. Nelson",
-   "p": 400
+   "p": 400,
+   "apic": "Craig T. Nelson"
   },
   {
    "q": "Which Parks and Recreation star voices Joy in Inside Out?",
    "a": "Amy Poehler",
-   "p": 400
+   "p": 400,
+   "apic": "Amy Poehler"
   },
   {
    "q": "Which actor voices jazz pianist Joe Gardner in Soul?",
    "a": "Jamie Foxx",
-   "p": 400
+   "p": 400,
+   "apic": "Jamie Foxx"
   },
   {
    "q": "Which comedian voices the soul 22 in Soul?",
    "a": "Tina Fey",
-   "p": 400
+   "p": 400,
+   "apic": "Tina Fey"
   },
   {
    "q": "Which Spider-Man actor voices Ian Lightfoot in Onward?",
    "a": "Tom Holland",
-   "p": 400
+   "p": 400,
+   "apic": "Tom Holland"
   },
   {
    "q": "Which Guardians of the Galaxy star voices Barley Lightfoot in Onward?",
    "a": "Chris Pratt",
-   "p": 400
+   "p": 400,
+   "apic": "Chris Pratt"
   },
   {
    "q": "Which Captain America actor voices the hero of Lightyear?",
    "a": "Chris Evans",
-   "p": 400
+   "p": 400,
+   "apic": "Chris Evans (actor)"
   },
   {
    "q": "Which Hollywood legend voiced Doc Hudson in Cars?",
    "a": "Paul Newman",
-   "p": 400
+   "p": 400,
+   "apic": "Paul Newman"
   },
   {
    "q": "Which actor voices Duke Caboom in Toy Story 4?",
    "a": "Keanu Reeves",
-   "p": 400
+   "p": 400,
+   "apic": "Keanu Reeves"
   },
   {
    "q": "Which comedian voices Mater in Cars?",
    "a": "Larry the Cable Guy",
-   "p": 400
+   "p": 400,
+   "apic": "Larry the Cable Guy"
   },
   {
    "q": "Which comedian voices Remy in Ratatouille?",
    "a": "Patton Oswalt",
-   "p": 400
+   "p": 400,
+   "apic": "Patton Oswalt"
   },
   {
    "q": "Which Lawrence of Arabia star voiced the critic Anton Ego?",
    "a": "Peter O'Toole",
-   "p": 400
+   "p": 400,
+   "apic": "Peter O'Toole"
   },
   {
    "q": "Which Lou Grant star voiced Carl Fredricksen in Up?",
@@ -729,32 +769,38 @@
    "p": 400,
    "alt": [
     "Edward Asner"
-   ]
+   ],
+   "apic": "Ed Asner"
   },
   {
    "q": "Which Cheers actor voiced a role in so many Pixar films he was called the studio's good-luck charm?",
    "a": "John Ratzenberger",
-   "p": 400
+   "p": 400,
+   "apic": "John Ratzenberger"
   },
   {
    "q": "Which comedian voiced Mr. Potato Head in the first three Toy Story films?",
    "a": "Don Rickles",
-   "p": 400
+   "p": 400,
+   "apic": "Don Rickles"
   },
   {
    "q": "Which actress voices Jessie in Toy Story 2?",
    "a": "Joan Cusack",
-   "p": 400
+   "p": 400,
+   "apic": "Joan Cusack"
   },
   {
    "q": "Which Frasier star voiced Stinky Pete the Prospector in Toy Story 2?",
    "a": "Kelsey Grammer",
-   "p": 400
+   "p": 400,
+   "apic": "Kelsey Grammer"
   },
   {
    "q": "Which actor voices Forky in Toy Story 4 and later Fear in Inside Out 2?",
    "a": "Tony Hale",
-   "p": 400
+   "p": 400,
+   "apic": "Tony Hale"
   },
   {
    "q": "Who directed the original Toy Story?",
@@ -762,22 +808,26 @@
    "p": 400,
    "alt": [
     "Lasseter"
-   ]
+   ],
+   "apic": "John Lasseter"
   },
   {
    "q": "Who directed Finding Nemo and WALL-E?",
    "a": "Andrew Stanton",
-   "p": 400
+   "p": 400,
+   "apic": "Andrew Stanton"
   },
   {
    "q": "Who directed The Incredibles and Ratatouille?",
    "a": "Brad Bird",
-   "p": 400
+   "p": 400,
+   "apic": "Brad Bird"
   },
   {
    "q": "Who directed Monsters, Inc., Up and Inside Out?",
    "a": "Pete Docter",
-   "p": 400
+   "p": 400,
+   "apic": "Pete Docter"
   },
   {
    "q": "Which Pixar co-founder wrote the business book Creativity, Inc.?",
@@ -785,17 +835,20 @@
    "p": 400,
    "alt": [
     "Edwin Catmull"
-   ]
+   ],
+   "apic": "Ed Catmull"
   },
   {
    "q": "Which singer-songwriter composed the music for the Toy Story films?",
    "a": "Randy Newman",
-   "p": 400
+   "p": 400,
+   "apic": "Randy Newman"
   },
   {
    "q": "Which composer won an Oscar for his score for Up?",
    "a": "Michael Giacchino",
-   "p": 400
+   "p": 400,
+   "apic": "Michael Giacchino"
   },
   {
    "q": "Which song from Coco won the Oscar for Best Original Song?",
@@ -834,7 +887,8 @@
   {
    "q": "To a museum in which country does Al plan to sell Woody in Toy Story 2?",
    "a": "Japan",
-   "p": 400
+   "p": 400,
+   "apic": "Japan"
   },
   {
    "q": "What was the name of the 1950s TV puppet show Woody starred in, revealed in Toy Story 2?",
@@ -920,7 +974,8 @@
   {
    "q": "What kind of bird is Nigel, who helps Marlin in Finding Nemo?",
    "a": "Pelican",
-   "p": 400
+   "p": 400,
+   "apic": "Pelican"
   },
   {
    "q": "In Finding Dory, what is the name of the grumpy seven-legged octopus?",
@@ -1141,12 +1196,14 @@
   {
    "q": "From which US state does Riley's family move in Inside Out?",
    "a": "Minnesota",
-   "p": 400
+   "p": 400,
+   "apic": "Minnesota"
   },
   {
    "q": "To which city does Riley's family move in Inside Out?",
    "a": "San Francisco",
-   "p": 400
+   "p": 400,
+   "apic": "San Francisco"
   },
   {
    "q": "Which sport does Riley love to play?",
@@ -1154,7 +1211,8 @@
    "p": 200,
    "alt": [
     "Hockey"
-   ]
+   ],
+   "apic": "Ice hockey"
   },
   {
    "q": "Which French-speaking emotion slumps around bored in Inside Out 2?",
@@ -1204,7 +1262,8 @@
    "alt": [
     "Marigolds",
     "Cempasúchil"
-   ]
+   ],
+   "apic": "Tagetes"
   },
   {
    "q": "What is the name of Barley's beloved purple van in Onward?",
@@ -1235,7 +1294,8 @@
    "alt": [
     "A cat",
     "Therapy cat"
-   ]
+   ],
+   "apic": "Cat"
   },
   {
    "q": "What is the name of Luca's rebellious best friend?",
@@ -1270,7 +1330,8 @@
   {
    "q": "Which Grey's Anatomy and Killing Eve star voices Mei's mother Ming?",
    "a": "Sandra Oh",
-   "p": 400
+   "p": 400,
+   "apic": "Sandra Oh"
   },
   {
    "q": "What is the name of Buzz's robot cat in Lightyear?",
@@ -1305,17 +1366,20 @@
   {
    "q": "What is the name of Pixar's famous rendering software?",
    "a": "RenderMan",
-   "p": 400
+   "p": 400,
+   "apic": "Pixar RenderMan"
   },
   {
    "q": "In which California city is Pixar's headquarters?",
    "a": "Emeryville",
-   "p": 400
+   "p": 400,
+   "apic": "Emeryville, California"
   },
   {
    "q": "Which George Lucas company did Pixar spin out of in 1986?",
    "a": "Lucasfilm",
-   "p": 400
+   "p": 400,
+   "apic": "Lucasfilm"
   },
   {
    "q": "Which Pixar film became the first animated film to gross over a billion US dollars?",
@@ -1343,32 +1407,38 @@
   {
    "q": "Which Scottish actress voices Merida in Brave?",
    "a": "Kelly Macdonald",
-   "p": 600
+   "p": 600,
+   "apic": "Kelly Macdonald"
   },
   {
    "q": "Which actor voiced Randall Boggs in Monsters, Inc.?",
    "a": "Steve Buscemi",
-   "p": 600
+   "p": 600,
+   "apic": "Steve Buscemi"
   },
   {
    "q": "Which Modern Family actor voices Hank the octopus?",
    "a": "Ed O'Neill",
-   "p": 600
+   "p": 600,
+   "apic": "Ed O'Neill"
   },
   {
    "q": "Which Pixar director also voices the fashion designer Edna Mode?",
    "a": "Brad Bird",
-   "p": 600
+   "p": 600,
+   "apic": "Brad Bird"
   },
   {
    "q": "Which Pixar director voices Crush the sea turtle?",
    "a": "Andrew Stanton",
-   "p": 600
+   "p": 600,
+   "apic": "Andrew Stanton"
   },
   {
    "q": "Which Star Wars sound designer created WALL-E's voice?",
    "a": "Ben Burtt",
-   "p": 600
+   "p": 600,
+   "apic": "Ben Burtt"
   },
   {
    "q": "What does the name WALL-E stand for?",
@@ -1406,27 +1476,32 @@
   {
    "q": "Who directed the short Bao and the feature Turning Red?",
    "a": "Domee Shi",
-   "p": 600
+   "p": 600,
+   "apic": "Domee Shi"
   },
   {
    "q": "Who directed Toy Story 3 and Coco?",
    "a": "Lee Unkrich",
-   "p": 600
+   "p": 600,
+   "apic": "Lee Unkrich"
   },
   {
    "q": "Who directed Monsters University and Onward?",
    "a": "Dan Scanlon",
-   "p": 600
+   "p": 600,
+   "apic": "Dan Scanlon"
   },
   {
    "q": "Who directed Luca?",
    "a": "Enrico Casarosa",
-   "p": 600
+   "p": 600,
+   "apic": "Enrico Casarosa"
   },
   {
    "q": "Who directed The Good Dinosaur and Elemental?",
    "a": "Peter Sohn",
-   "p": 600
+   "p": 600,
+   "apic": "Peter Sohn"
   },
   {
    "q": "Who directed Inside Out 2?",
@@ -1436,7 +1511,8 @@
   {
    "q": "Which computer graphics pioneer co-founded Pixar with Ed Catmull?",
    "a": "Alvy Ray Smith",
-   "p": 600
+   "p": 600,
+   "apic": "Alvy Ray Smith"
   },
   {
    "q": "Pixar took its name from which expensive product the company originally sold?",
@@ -1444,7 +1520,8 @@
    "p": 600,
    "alt": [
     "The Pixar Image Computer"
-   ]
+   ],
+   "apic": "Pixar Image Computer"
   },
   {
    "q": "For roughly how many billion US dollars did Disney buy Pixar in 2006?",
@@ -1517,7 +1594,8 @@
    "p": 600,
    "alt": [
     "Himalayas"
-   ]
+   ],
+   "apic": "Himalayas"
   },
   {
    "q": "What is Sulley's full name?",
@@ -1540,7 +1618,8 @@
   {
    "q": "Which Alien actress is heard as herself over the speakers in Finding Dory?",
    "a": "Sigourney Weaver",
-   "p": 600
+   "p": 600,
+   "apic": "Sigourney Weaver"
   },
   {
    "q": "Which mole-like villain pops out of the ground at the end of The Incredibles?",
@@ -1571,7 +1650,8 @@
   {
    "q": "Which NASCAR legend voiced The King in Cars?",
    "a": "Richard Petty",
-   "p": 600
+   "p": 600,
+   "apic": "Richard Petty"
   },
   {
    "q": "Which sports car model is Sally Carrera?",
@@ -1580,7 +1660,8 @@
    "alt": [
     "Porsche 911 Carrera",
     "Porsche"
-   ]
+   ],
+   "apic": "Porsche 911"
   },
   {
    "q": "What is the name of Luigi's forklift assistant?",
@@ -1595,7 +1676,8 @@
   {
    "q": "Which actor voiced Finn McMissile?",
    "a": "Michael Caine",
-   "p": 600
+   "p": 600,
+   "apic": "Michael Caine"
   },
   {
    "q": "What is the name of the bistro Remy and Linguini open at the end of Ratatouille?",
@@ -1605,7 +1687,8 @@
   {
    "q": "Which Everybody Loves Raymond actor voiced Chef Gusteau?",
    "a": "Brad Garrett",
-   "p": 600
+   "p": 600,
+   "apic": "Brad Garrett"
   },
   {
    "q": "What is the name of the steering-wheel robot that pilots the Axiom in WALL-E?",
@@ -1634,7 +1717,8 @@
   {
    "q": "Which Sound of Music star voiced Charles Muntz?",
    "a": "Christopher Plummer",
-   "p": 600
+   "p": 600,
+   "apic": "Christopher Plummer"
   },
   {
    "q": "What are the names of Merida's triplet brothers?",
@@ -1644,7 +1728,8 @@
   {
    "q": "Which Scottish comedian voiced King Fergus?",
    "a": "Billy Connolly",
-   "p": 600
+   "p": 600,
+   "apic": "Billy Connolly"
   },
   {
    "q": "In Inside Out, what are the floating lands built from Riley's core memories called?",
@@ -1657,22 +1742,26 @@
   {
    "q": "Which actress from The Office voices Sadness?",
    "a": "Phyllis Smith",
-   "p": 600
+   "p": 600,
+   "apic": "Phyllis Smith"
   },
   {
    "q": "Which stand-up comedian voices Anger?",
    "a": "Lewis Black",
-   "p": 600
+   "p": 600,
+   "apic": "Lewis Black"
   },
   {
    "q": "Which Stranger Things actress voices Anxiety in Inside Out 2?",
    "a": "Maya Hawke",
-   "p": 600
+   "p": 600,
+   "apic": "Maya Hawke"
   },
   {
    "q": "Which actor voices Bing Bong?",
    "a": "Richard Kind",
-   "p": 600
+   "p": 600,
+   "apic": "Richard Kind"
   },
   {
    "q": "Bing Bong's body is made mostly of which fairground sweet?",
@@ -1680,7 +1769,8 @@
    "p": 600,
    "alt": [
     "Cotton candy"
-   ]
+   ],
+   "apic": "Cotton candy"
   },
   {
    "q": "Which Mexican actor voices Héctor in Coco?",
@@ -1688,7 +1778,8 @@
    "p": 600,
    "alt": [
     "Gael Garcia Bernal"
-   ]
+   ],
+   "apic": "Gael García Bernal"
   },
   {
    "q": "In which fictional Mexican town does Miguel's family live?",
@@ -1731,7 +1822,8 @@
   {
    "q": "Which musician wrote Soul's jazz pieces, sharing an Oscar with Trent Reznor and Atticus Ross?",
    "a": "Jon Batiste",
-   "p": 600
+   "p": 600,
+   "apic": "Jon Batiste"
   },
   {
    "q": "In Soul, what is the name of the realm where new souls get their personalities?",
@@ -1753,7 +1845,8 @@
    "p": 600,
    "alt": [
     "Trenette al pesto"
-   ]
+   ],
+   "apic": "Pasta"
   },
   {
    "q": "Who is the arrogant reigning champion of the Portorosso Cup?",
@@ -1787,7 +1880,8 @@
    "p": 600,
    "alt": [
     "Ludwig Goransson"
-   ]
+   ],
+   "apic": "Ludwig Göransson"
   },
   {
    "q": "Which actress voices Ember in Elemental?",
@@ -1808,7 +1902,8 @@
    "p": 600,
    "alt": [
     "Zoe Saldana"
-   ]
+   ],
+   "apic": "Zoe Saldaña"
   },
   {
    "q": "What is the name of the young alien Elio befriends?",
@@ -1826,17 +1921,20 @@
   {
    "q": "Which Monsters, Inc. song finally won Randy Newman an Oscar?",
    "a": "If I Didn't Have You",
-   "p": 600
+   "p": 600,
+   "pic": "Randy Newman"
   },
   {
    "q": "Which Toy Story 3 song won Randy Newman his second Oscar?",
    "a": "We Belong Together",
-   "p": 600
+   "p": 600,
+   "pic": "Randy Newman"
   },
   {
    "q": "Which composer scored Finding Nemo and WALL-E?",
    "a": "Thomas Newman",
-   "p": 600
+   "p": 600,
+   "apic": "Thomas Newman"
   },
   {
    "q": "Which Pixar SparkShort features a stray kitten and a chained pit bull?",
@@ -1867,7 +1965,9 @@
    "p": 600,
    "alt": [
     "ACM Turing Award"
-   ]
+   ],
+   "pic": "Ed Catmull",
+   "apic": "Turing Award"
   },
   {
    "q": "What is the name of Pixar's group of senior storytellers who critique films in progress?",

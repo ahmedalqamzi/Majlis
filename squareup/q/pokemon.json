@@ -5,22 +5,27 @@
   {
    "q": "Which Pokemon is Ash Ketchum's most famous partner?",
    "a": "Pikachu",
-   "p": 200
+   "p": 200,
+   "apic": "Pikachu"
   },
   {
    "q": "Which Pokemon is number 1 in the National Pokedex?",
    "a": "Bulbasaur",
-   "p": 200
+   "p": 200,
+   "apic": "Bulbasaur"
   },
   {
    "q": "Which Pokemon is number 151 in the National Pokedex?",
    "a": "Mew",
-   "p": 200
+   "p": 200,
+   "apic": "Mew (Pokémon)"
   },
   {
    "q": "Which Pokemon does Pikachu evolve into?",
    "a": "Raichu",
-   "p": 200
+   "p": 200,
+   "pic": "Pikachu",
+   "apic": "Raichu"
   },
   {
    "q": "Which evolution stone turns Pikachu into Raichu?",
@@ -30,7 +35,9 @@
   {
    "q": "What is Charmander's final evolution?",
    "a": "Charizard",
-   "p": 200
+   "p": 200,
+   "pic": "Charmander",
+   "apic": "Charizard"
   },
   {
    "q": "What type is Squirtle?",
@@ -50,7 +57,8 @@
   {
    "q": "Which Pokemon talks in Team Rocket's trio?",
    "a": "Meowth",
-   "p": 200
+   "p": 200,
+   "apic": "Meowth"
   },
   {
    "q": "Which professor gives starters to new trainers in Kanto?",
@@ -60,32 +68,39 @@
   {
    "q": "Which sleepy Pokemon often blocks the path in Kanto?",
    "a": "Snorlax",
-   "p": 200
+   "p": 200,
+   "apic": "Snorlax"
   },
   {
    "q": "Which Pokemon does Magikarp evolve into?",
    "a": "Gyarados",
-   "p": 200
+   "p": 200,
+   "apic": "Gyarados"
   },
   {
    "q": "What is the basic item used to catch Pokemon?",
    "a": "Poke Ball",
-   "p": 200
+   "p": 200,
+   "apic": "Poké Ball"
   },
   {
    "q": "Which Japanese studio has developed the main Pokemon games since 1996?",
    "a": "Game Freak",
-   "p": 200
+   "p": 200,
+   "apic": "Game Freak"
   },
   {
    "q": "Who created Pokemon?",
    "a": "Satoshi Tajiri",
-   "p": 200
+   "p": 200,
+   "apic": "Satoshi Tajiri"
   },
   {
    "q": "Which Pokemon was Mewtwo cloned from?",
    "a": "Mew",
-   "p": 200
+   "p": 200,
+   "pic": "Mewtwo",
+   "apic": "Mew (Pokémon)"
   },
   {
    "q": "Which Kanto legendary bird is Electric type?",
@@ -95,7 +110,8 @@
   {
    "q": "Which Eevee evolution is Fire type?",
    "a": "Flareon",
-   "p": 200
+   "p": 200,
+   "apic": "Flareon"
   },
   {
    "q": "Who is Ash's rival in the Kanto anime?",
@@ -125,17 +141,20 @@
   {
    "q": "Which real-world place inspired the Alola region?",
    "a": "Hawaii",
-   "p": 200
+   "p": 200,
+   "apic": "Hawaii"
   },
   {
    "q": "Which company developed the mobile game Pokemon Go?",
    "a": "Niantic",
-   "p": 200
+   "p": 200,
+   "apic": "Niantic, Inc."
   },
   {
    "q": "What does Jigglypuff's song do to listeners?",
    "a": "Puts them to sleep",
-   "p": 200
+   "p": 200,
+   "pic": "Jigglypuff"
   },
   {
    "q": "What is the group of four top trainers before the Champion called?",
@@ -155,7 +174,8 @@
   {
    "q": "Which two characters make up Team Rocket's main duo?",
    "a": "Jessie and James",
-   "p": 200
+   "p": 200,
+   "apic": "Jessie and James"
   },
   {
    "q": "Which energy type does Pikachu use in the Pokemon TCG?",
@@ -206,7 +226,8 @@
   {
    "q": "What is Eevee's National Pokedex number?",
    "a": "133",
-   "p": 400
+   "p": 400,
+   "pic": "Eevee"
   },
   {
    "q": "What is Dragonite's National Pokedex number?",
@@ -346,7 +367,8 @@
   {
    "q": "Which Nintendo console had the original Pokemon Snap?",
    "a": "Nintendo 64",
-   "p": 400
+   "p": 400,
+   "apic": "Nintendo 64"
   },
   {
    "q": "This trailer announces a Legends game set in which city?",
@@ -377,7 +399,8 @@
   {
    "q": "What is Gardevoir's National Pokedex number?",
    "a": "282",
-   "p": 600
+   "p": 600,
+   "pic": "Gardevoir"
   },
   {
    "q": "What is Tyranitar's National Pokedex number?",
@@ -427,7 +450,8 @@
   {
    "q": "Which company published the English Pokemon TCG from 1999?",
    "a": "Wizards of the Coast",
-   "p": 600
+   "p": 600,
+   "apic": "Wizards of the Coast"
   },
   {
    "q": "Who illustrated the Base Set Charizard card?",
@@ -437,7 +461,8 @@
   {
    "q": "Who illustrated the Pikachu Illustrator card?",
    "a": "Atsuko Nishida",
-   "p": 600
+   "p": 600,
+   "apic": "Atsuko Nishida"
   },
   {
    "q": "What term describes early Base Set prints without a drop shadow on the art frame?",
@@ -462,12 +487,14 @@
   {
    "q": "Who is the Game Freak art director behind the original 151 designs?",
    "a": "Ken Sugimori",
-   "p": 600
+   "p": 600,
+   "apic": "Ken Sugimori"
   },
   {
    "q": "Which Game Freak composer and director worked on the music of Red and Green?",
    "a": "Junichi Masuda",
-   "p": 600
+   "p": 600,
+   "apic": "Junichi Masuda"
   },
   {
    "q": "Who are the main protagonists of the anime Pokemon Horizons?",
@@ -477,17 +504,20 @@
   {
    "q": "Which 1997 anime episode caused viewer seizures in Japan?",
    "a": "Electric Soldier Porygon",
-   "p": 600
+   "p": 600,
+   "apic": "Electric Soldier Porygon"
   },
   {
    "q": "Who voiced Ash in the original Japanese anime?",
    "a": "Rica Matsumoto",
-   "p": 600
+   "p": 600,
+   "apic": "Rica Matsumoto"
   },
   {
    "q": "Who first voiced Ash in the English dub?",
    "a": "Veronica Taylor",
-   "p": 600
+   "p": 600,
+   "apic": "Veronica Taylor"
   },
   {
    "q": "Which three companies own The Pokemon Company?",
@@ -497,7 +527,8 @@
   {
    "q": "What is the famous glitch Pokemon of Red and Blue?",
    "a": "MissingNo.",
-   "p": 600
+   "p": 600,
+   "apic": "MissingNo."
   },
   {
    "q": "Which two types is Chi-Yu from the Treasures of Ruin?",
@@ -557,37 +588,44 @@
   {
    "q": "What is Squirtle's final evolution?",
    "a": "Blastoise",
-   "p": 200
+   "p": 200,
+   "apic": "Squirtle"
   },
   {
    "q": "What is Bulbasaur's final evolution?",
    "a": "Venusaur",
-   "p": 200
+   "p": 200,
+   "apic": "Bulbasaur"
   },
   {
    "q": "Which Eevee evolution is Water type?",
    "a": "Vaporeon",
-   "p": 200
+   "p": 200,
+   "apic": "Vaporeon"
   },
   {
    "q": "Which Eevee evolution is Electric type?",
    "a": "Jolteon",
-   "p": 200
+   "p": 200,
+   "apic": "Jolteon"
   },
   {
    "q": "Which pink, ribbon-wearing Eevee evolution is Fairy type?",
    "a": "Sylveon",
-   "p": 200
+   "p": 200,
+   "apic": "Sylveon"
   },
   {
    "q": "Which Pokemon appears on the cover of Pokemon Red?",
    "a": "Charizard",
-   "p": 200
+   "p": 200,
+   "apic": "Charizard"
   },
   {
    "q": "Which Pokemon follows the player around in Pokemon Yellow?",
    "a": "Pikachu",
-   "p": 200
+   "p": 200,
+   "apic": "Pikachu"
   },
   {
    "q": "Which Kanto legendary bird is Ice type?",
@@ -615,7 +653,8 @@
   {
    "q": "What is the electronic encyclopedia that records Pokemon data called?",
    "a": "Pokedex",
-   "p": 200
+   "p": 200,
+   "apic": "Pokédex"
   },
   {
    "q": "Which evolution stone turns Eevee into Flareon?",
@@ -635,17 +674,20 @@
   {
    "q": "Which Pokemon can transform into a copy of any other Pokemon?",
    "a": "Ditto",
-   "p": 200
+   "p": 200,
+   "apic": "Ditto (Pokémon)"
   },
   {
    "q": "Which Pokemon wears its mother's skull as a helmet?",
    "a": "Cubone",
-   "p": 200
+   "p": 200,
+   "apic": "Cubone"
   },
   {
    "q": "Which ghostly Pokemon disguises itself in a rag costume that looks like Pikachu?",
    "a": "Mimikyu",
-   "p": 200
+   "p": 200,
+   "apic": "Mimikyu"
   },
   {
    "q": "Which Pokemon carries its baby in a pouch?",
@@ -660,17 +702,20 @@
   {
    "q": "Which yellow duck with constant headaches belongs to Misty?",
    "a": "Psyduck",
-   "p": 200
+   "p": 200,
+   "apic": "Psyduck"
   },
   {
    "q": "Which Gym Leader travels with Ash and dreams of becoming a top Pokemon breeder?",
    "a": "Brock",
-   "p": 200
+   "p": 200,
+   "apic": "Brock (Pokémon)"
   },
   {
    "q": "Whose bicycle did Ash wreck in the first episode, leading her to follow him?",
    "a": "Misty",
-   "p": 200
+   "p": 200,
+   "apic": "Misty (Pokémon)"
   },
   {
    "q": "Which nurse, with many identical relatives, runs Pokemon Centers in the anime?",
@@ -685,17 +730,20 @@
   {
    "q": "Which legendary Pokemon is the villain of Pokemon: The First Movie?",
    "a": "Mewtwo",
-   "p": 200
+   "p": 200,
+   "apic": "Mewtwo"
   },
   {
    "q": "Which actor voiced Pikachu in the 2019 film Detective Pikachu?",
    "a": "Ryan Reynolds",
-   "p": 200
+   "p": 200,
+   "apic": "Ryan Reynolds"
   },
   {
    "q": "Which Pokemon game is a 5-versus-5 MOBA?",
    "a": "Pokemon Unite",
-   "p": 200
+   "p": 200,
+   "apic": "Pokémon Unite"
   },
   {
    "q": "Which Electric move is Pikachu's signature attack in the anime?",
@@ -754,7 +802,8 @@
   {
    "q": "Which real country inspired the Kalos region?",
    "a": "France",
-   "p": 200
+   "p": 200,
+   "apic": "France"
   },
   {
    "q": "Which real country inspired the Galar region?",
@@ -764,7 +813,8 @@
     "UK",
     "Britain",
     "Great Britain"
-   ]
+   ],
+   "apic": "United Kingdom"
   },
   {
    "q": "Which real-world area inspired the Paldea region?",
@@ -773,7 +823,8 @@
    "alt": [
     "Spain",
     "Iberia"
-   ]
+   ],
+   "apic": "Iberian Peninsula"
   },
   {
    "q": "Which real-world city inspired the Unova region?",
@@ -781,7 +832,8 @@
    "p": 200,
    "alt": [
     "New York"
-   ]
+   ],
+   "apic": "New York City"
   },
   {
    "q": "In which year was Pokemon Go released?",
@@ -802,12 +854,14 @@
    "p": 200,
    "alt": [
     "8"
-   ]
+   ],
+   "pic": "Eevee"
   },
   {
    "q": "What is Pikachu's National Pokedex number?",
    "a": "25",
-   "p": 200
+   "p": 200,
+   "pic": "Pikachu"
   },
   {
    "q": "Which Pokemon did Ash release early in the anime so it could join a flock and find a mate?",
@@ -877,17 +931,20 @@
   {
    "q": "Which Eevee evolution is Psychic type?",
    "a": "Espeon",
-   "p": 400
+   "p": 400,
+   "apic": "Espeon"
   },
   {
    "q": "Which Eevee evolution is Grass type?",
    "a": "Leafeon",
-   "p": 400
+   "p": 400,
+   "apic": "Leafeon"
   },
   {
    "q": "Which Eevee evolution is Ice type?",
    "a": "Glaceon",
-   "p": 400
+   "p": 400,
+   "apic": "Glaceon"
   },
   {
    "q": "Which Pokemon appears on the cover of Pokemon Silver?",
@@ -1015,7 +1072,8 @@
   {
    "q": "What is Mewtwo's National Pokedex number?",
    "a": "150",
-   "p": 400
+   "p": 400,
+   "pic": "Mewtwo"
   },
   {
    "q": "What is Snorlax's pre-evolution, introduced in Diamond and Pearl?",
@@ -1053,7 +1111,8 @@
    "p": 400,
    "alt": [
     "Ghost/Poison"
-   ]
+   ],
+   "pic": "Gengar"
   },
   {
    "q": "What two types is Gyarados?",
@@ -1199,12 +1258,14 @@
   {
    "q": "Which Japanese island inspired the Hoenn region?",
    "a": "Kyushu",
-   "p": 600
+   "p": 600,
+   "apic": "Kyushu"
   },
   {
    "q": "Which Japanese island inspired the Sinnoh region?",
    "a": "Hokkaido",
-   "p": 600
+   "p": 600,
+   "apic": "Hokkaido"
   },
   {
    "q": "In which year did the Pokemon anime premiere in Japan?",
@@ -1245,7 +1306,8 @@
   {
    "q": "Which Pokemon comes in 28 forms shaped like letters and punctuation?",
    "a": "Unown",
-   "p": 600
+   "p": 600,
+   "apic": "Unown"
   },
   {
    "q": "Which duck Pokemon carries a leek stalk?",
@@ -1273,17 +1335,20 @@
   {
    "q": "Which Nintendo 64 game let players battle with their Game Boy Pokemon in 3D?",
    "a": "Pokemon Stadium",
-   "p": 400
+   "p": 400,
+   "apic": "Pokémon Stadium"
   },
   {
    "q": "Which spin-off series turns the player into a Pokemon on a rescue team?",
    "a": "Pokemon Mystery Dungeon",
-   "p": 400
+   "p": 400,
+   "apic": "Pokémon Mystery Dungeon"
   },
   {
    "q": "Which Pokemon TCG app launched in 2024 for mobile phones?",
    "a": "Pokemon TCG Pocket",
-   "p": 200
+   "p": 200,
+   "apic": "Pokémon TCG Pocket"
   },
   {
    "q": "On what date is Pokemon Day celebrated each year?",
@@ -1331,7 +1396,8 @@
   {
    "q": "What is Snorlax's National Pokedex number?",
    "a": "143",
-   "p": 600
+   "p": 600,
+   "pic": "Snorlax"
   },
   {
    "q": "What is Arceus's National Pokedex number?",
@@ -1341,7 +1407,8 @@
   {
    "q": "What is Gengar's National Pokedex number?",
    "a": "94",
-   "p": 600
+   "p": 600,
+   "pic": "Gengar"
   },
   {
    "q": "Which Mythical Pokemon is number 1025 in the National Pokedex, completing Generation 9?",
@@ -1481,17 +1548,20 @@
   {
    "q": "Which singer performed the original English Pokemon theme song in 1998?",
    "a": "Jason Paige",
-   "p": 600
+   "p": 600,
+   "apic": "Jason Paige"
   },
   {
    "q": "Which voice actress has voiced Pikachu in Japanese and English since 1997?",
    "a": "Ikue Otani",
-   "p": 600
+   "p": 600,
+   "apic": "Ikue Ōtani"
   },
   {
    "q": "Which 2023 Netflix stop-motion series is set at a Pokemon resort?",
    "a": "Pokemon Concierge",
-   "p": 600
+   "p": 600,
+   "apic": "Pokémon Concierge"
   },
   {
    "q": "In which anime series did Ash become World Champion and finish his journey?",
@@ -1505,7 +1575,8 @@
   {
    "q": "Which GameCube game featured Shadow Pokemon and a snag machine?",
    "a": "Pokemon Colosseum",
-   "p": 600
+   "p": 600,
+   "apic": "Pokémon Colosseum"
   },
   {
    "q": "What name is given to the ancient and future Pokemon of Scarlet and Violet, like Great Tusk?",

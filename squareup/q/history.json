@@ -5,12 +5,15 @@
   {
    "q": "Which ancient civilization built the pyramids of Giza?",
    "a": "Ancient Egypt",
-   "p": 200
+   "p": 200,
+   "pic": "Giza pyramid complex",
+   "apic": "Ancient Egypt"
   },
   {
    "q": "Who was the first emperor of Rome?",
    "a": "Augustus",
-   "p": 400
+   "p": 400,
+   "apic": "Augustus"
   },
   {
    "q": "In what year did World War II end?",
@@ -20,52 +23,64 @@
   {
    "q": "Which ship carried the Pilgrims to America in 1620?",
    "a": "Mayflower",
-   "p": 200
+   "p": 200,
+   "apic": "Mayflower"
   },
   {
    "q": "Which explorer sailed for Spain in 1492 and reached the Caribbean?",
    "a": "Christopher Columbus",
-   "p": 200
+   "p": 200,
+   "apic": "Christopher Columbus"
   },
   {
    "q": "In which city did a wall that had divided it since 1961 fall in 1989?",
    "a": "Berlin",
-   "p": 200
+   "p": 200,
+   "apic": "Berlin"
   },
   {
    "q": "Which French emperor was exiled to the island of Saint Helena?",
    "a": "Napoleon Bonaparte",
-   "p": 200
+   "p": 200,
+   "apic": "Napoleon"
   },
   {
    "q": "Which empire was founded by Genghis Khan?",
    "a": "Mongol Empire",
-   "p": 200
+   "p": 200,
+   "pic": "Genghis Khan",
+   "apic": "Mongol Empire"
   },
   {
    "q": "Which city was the capital of the Ottoman Empire from 1453 until the empire ended?",
    "a": "Istanbul (Constantinople)",
-   "p": 400
+   "p": 400,
+   "apic": "Istanbul"
   },
   {
    "q": "Who was the first President of the United States?",
    "a": "George Washington",
-   "p": 200
+   "p": 200,
+   "apic": "George Washington"
   },
   {
    "q": "Which Roman city is most famous for being buried by the 79 CE eruption of Mount Vesuvius?",
    "a": "Pompeii",
-   "p": 200
+   "p": 200,
+   "pic": "Mount Vesuvius",
+   "apic": "Pompeii"
   },
   {
    "q": "In what year did the Titanic sink?",
    "a": "1912",
-   "p": 200
+   "p": 200,
+   "pic": "Titanic"
   },
   {
    "q": "Which ancient Greek city-state was famous for its military training?",
    "a": "Sparta",
-   "p": 200
+   "p": 200,
+   "apic": "Sparta"
   },
   {
    "q": "Which monk began the Protestant Reformation in 1517?",
@@ -75,17 +90,20 @@
   {
    "q": "Which revolution began in 1789 with the storming of the Bastille?",
    "a": "French Revolution",
-   "p": 200
+   "p": 200,
+   "apic": "French Revolution"
   },
   {
    "q": "Who was the first person to walk on the Moon?",
    "a": "Neil Armstrong",
-   "p": 200
+   "p": 200,
+   "apic": "Neil Armstrong"
   },
   {
    "q": "Which Chinese structure was built to protect against northern invasions?",
    "a": "Great Wall of China",
-   "p": 200
+   "p": 200,
+   "apic": "Great Wall of China"
   },
   {
    "q": "Which language did the ancient Romans speak?",
@@ -95,7 +113,9 @@
   {
    "q": "Which Egyptian pharaoh's tomb was discovered by Howard Carter in 1922?",
    "a": "Tutankhamun",
-   "p": 200
+   "p": 200,
+   "pic": "Howard Carter",
+   "apic": "Tutankhamun"
   },
   {
    "q": "What is the name of the Prophet Muhammad's 622 CE journey from Mecca to Medina?",
@@ -105,27 +125,33 @@
   {
    "q": "Which war was fought in the United States from 1861 to 1865?",
    "a": "American Civil War",
-   "p": 200
+   "p": 200,
+   "apic": "American Civil War"
   },
   {
    "q": "Who led India's nonviolent independence movement?",
    "a": "Mahatma Gandhi",
-   "p": 200
+   "p": 200,
+   "apic": "Mahatma Gandhi"
   },
   {
    "q": "Which Italian city was home to the Medici family and the heart of the Renaissance?",
    "a": "Florence",
-   "p": 400
+   "p": 400,
+   "apic": "Florence"
   },
   {
    "q": "Which Portuguese explorer reached India by sea in 1498?",
    "a": "Vasco da Gama",
-   "p": 400
+   "p": 400,
+   "apic": "Vasco da Gama"
   },
   {
    "q": "Which city in Egypt was founded by Alexander the Great?",
    "a": "Alexandria",
-   "p": 200
+   "p": 200,
+   "pic": "Alexander the Great",
+   "apic": "Alexandria"
   },
   {
    "q": "Who was the leader of Nazi Germany during World War II?",
@@ -135,12 +161,15 @@
   {
    "q": "Which country gave the Statue of Liberty to the United States?",
    "a": "France",
-   "p": 200
+   "p": 200,
+   "pic": "Statue of Liberty",
+   "apic": "France"
   },
   {
    "q": "In the legend of Troy, what did the Greeks use to get inside the city?",
    "a": "A wooden horse",
-   "p": 200
+   "p": 200,
+   "apic": "Trojan Horse"
   },
   {
    "q": "In what year did World War I begin?",
@@ -150,42 +179,51 @@
   {
    "q": "Which people of ancient Mesopotamia invented cuneiform writing?",
    "a": "Sumerians",
-   "p": 400
+   "p": 400,
+   "apic": "Sumer"
   },
   {
    "q": "Which British queen reigned from 1837 to 1901?",
    "a": "Queen Victoria",
-   "p": 200
+   "p": 200,
+   "apic": "Queen Victoria"
   },
   {
    "q": "Which Mughal emperor built the Taj Mahal?",
    "a": "Shah Jahan",
-   "p": 400
+   "p": 400,
+   "pic": "Taj Mahal"
   },
   {
    "q": "Which Roman general crossed the Rubicon in 49 BCE?",
    "a": "Julius Caesar",
-   "p": 200
+   "p": 200,
+   "apic": "Julius Caesar"
   },
   {
    "q": "Which US president issued the Emancipation Proclamation?",
    "a": "Abraham Lincoln",
-   "p": 200
+   "p": 200,
+   "pic": "Emancipation Proclamation",
+   "apic": "Abraham Lincoln"
   },
   {
    "q": "Who introduced movable-type printing to Europe around 1440?",
    "a": "Johannes Gutenberg",
-   "p": 200
+   "p": 200,
+   "apic": "Johannes Gutenberg"
   },
   {
    "q": "Which caliphate had Damascus as its capital?",
    "a": "Umayyad Caliphate",
-   "p": 400
+   "p": 400,
+   "apic": "Umayyad Caliphate"
   },
   {
    "q": "Which caliphate founded Baghdad in 762 CE?",
    "a": "Abbasid Caliphate",
-   "p": 400
+   "p": 400,
+   "apic": "Abbasid Caliphate"
   },
   {
    "q": "Which Abbasid caliph features in the tales of One Thousand and One Nights?",
@@ -200,12 +238,14 @@
   {
    "q": "Which 1919 treaty formally ended World War I with Germany?",
    "a": "Treaty of Versailles",
-   "p": 400
+   "p": 400,
+   "apic": "Treaty of Versailles"
   },
   {
    "q": "Which 1066 battle led to the Norman conquest of England?",
    "a": "Battle of Hastings",
-   "p": 400
+   "p": 400,
+   "apic": "Battle of Hastings"
   },
   {
    "q": "Which Persian polymath wrote The Canon of Medicine?",
@@ -220,32 +260,39 @@
   {
    "q": "Which Mongol commander sacked Baghdad in 1258?",
    "a": "Hulagu Khan",
-   "p": 600
+   "p": 600,
+   "apic": "Hulagu Khan"
   },
   {
    "q": "Which Roman emperor issued the Edict of Milan in 313 CE?",
    "a": "Constantine",
-   "p": 600
+   "p": 600,
+   "apic": "Constantine the Great"
   },
   {
    "q": "Which Carthaginian general crossed the Alps with war elephants?",
    "a": "Hannibal",
-   "p": 400
+   "p": 400,
+   "apic": "Hannibal"
   },
   {
    "q": "Who led the Soviet Union during World War II?",
    "a": "Joseph Stalin",
-   "p": 200
+   "p": 200,
+   "apic": "Joseph Stalin"
   },
   {
    "q": "Which Chinese dynasty built the Forbidden City in Beijing?",
    "a": "Ming dynasty",
-   "p": 400
+   "p": 400,
+   "pic": "Forbidden City",
+   "apic": "Ming dynasty"
   },
   {
    "q": "In which city was Archduke Franz Ferdinand assassinated in 1914?",
    "a": "Sarajevo",
-   "p": 400
+   "p": 400,
+   "apic": "Sarajevo"
   },
   {
    "q": "Which Muslim leader recaptured Jerusalem in 1187?",
@@ -255,7 +302,8 @@
   {
    "q": "Which Spanish conquistador led the conquest of the Aztec Empire?",
    "a": "Hernan Cortes",
-   "p": 400
+   "p": 400,
+   "apic": "Hernán Cortés"
   },
   {
    "q": "Which Moroccan traveler wrote the Rihla about his 14th century journeys?",
@@ -265,7 +313,8 @@
   {
    "q": "In what year was the Magna Carta sealed?",
    "a": "1215",
-   "p": 400
+   "p": 400,
+   "pic": "Magna Carta"
   },
   {
    "q": "In what year did the D-Day landings take place?",
@@ -280,7 +329,8 @@
   {
    "q": "Which leader headed the Bolsheviks in the 1917 October Revolution?",
    "a": "Vladimir Lenin",
-   "p": 400
+   "p": 400,
+   "apic": "Vladimir Lenin"
   },
   {
    "q": "Who was the first caliph after the Prophet Muhammad?",
@@ -290,12 +340,14 @@
   {
    "q": "Which ancient Greek writer is known as the 'Father of History'?",
    "a": "Herodotus",
-   "p": 400
+   "p": 400,
+   "apic": "Herodotus"
   },
   {
    "q": "Which 1815 battle ended Napoleon's rule?",
    "a": "Battle of Waterloo",
-   "p": 200
+   "p": 200,
+   "apic": "Battle of Waterloo"
   },
   {
    "q": "Which Ottoman sultan was known as 'the Magnificent'?",
@@ -305,12 +357,14 @@
   {
    "q": "Which Venetian merchant wrote about his travels to Yuan China?",
    "a": "Marco Polo",
-   "p": 200
+   "p": 200,
+   "apic": "Marco Polo"
   },
   {
    "q": "Which canal in Egypt, opened in 1869, links the Mediterranean and Red Seas?",
    "a": "Suez Canal",
-   "p": 400
+   "p": 400,
+   "apic": "Suez Canal"
   },
   {
    "q": "In what year did India gain independence from Britain?",
@@ -320,32 +374,38 @@
   {
    "q": "Which Chinese admiral led the 'treasure voyages' of the early 1400s?",
    "a": "Zheng He",
-   "p": 600
+   "p": 600,
+   "apic": "Zheng He"
   },
   {
    "q": "Who founded the Achaemenid Persian Empire?",
    "a": "Cyrus the Great",
-   "p": 400
+   "p": 400,
+   "apic": "Cyrus the Great"
   },
   {
    "q": "Which Egyptian queen allied with Mark Antony?",
    "a": "Cleopatra VII",
-   "p": 200
+   "p": 200,
+   "apic": "Cleopatra"
   },
   {
    "q": "In which country did the Industrial Revolution begin?",
    "a": "Britain",
-   "p": 200
+   "p": 200,
+   "apic": "Great Britain"
   },
   {
    "q": "In which Greek city did democracy first develop?",
    "a": "Athens",
-   "p": 200
+   "p": 200,
+   "apic": "Athens"
   },
   {
    "q": "Which 1494 treaty divided newly found lands between Spain and Portugal?",
    "a": "Treaty of Tordesillas",
-   "p": 600
+   "p": 600,
+   "apic": "Treaty of Tordesillas"
   },
   {
    "q": "Which Umayyad caliph commissioned the Dome of the Rock in Jerusalem?",
@@ -355,12 +415,14 @@
   {
    "q": "Which 751 CE battle saw an Abbasid army face a Tang Chinese army near the Talas River?",
    "a": "Battle of Talas",
-   "p": 600
+   "p": 600,
+   "apic": "Battle of Talas"
   },
   {
    "q": "Which 732 CE battle in France halted an Umayyad advance north of the Pyrenees?",
    "a": "Battle of Tours (Poitiers)",
-   "p": 400
+   "p": 400,
+   "apic": "Battle of Tours"
   },
   {
    "q": "Who founded the Mughal Empire in 1526?",
@@ -385,12 +447,15 @@
   {
    "q": "Which 1648 settlement ended the Thirty Years' War?",
    "a": "Peace of Westphalia",
-   "p": 600
+   "p": 600,
+   "apic": "Peace of Westphalia"
   },
   {
    "q": "Which Byzantine emperor built the Hagia Sophia in the 6th century?",
    "a": "Justinian I",
-   "p": 600
+   "p": 600,
+   "pic": "Hagia Sophia",
+   "apic": "Justinian I"
   },
   {
    "q": "Which scholar wrote the Book of Optics in the 11th century?",
@@ -400,12 +465,14 @@
   {
    "q": "Which Spanish city, home to a famous mosque-cathedral, was the capital of the Umayyad Caliphate in Iberia?",
    "a": "Cordoba",
-   "p": 600
+   "p": 600,
+   "apic": "Córdoba, Spain"
   },
   {
    "q": "What 1916 secret agreement planned the division of Ottoman Arab provinces between Britain and France?",
    "a": "Sykes-Picot Agreement",
-   "p": 600
+   "p": 600,
+   "apic": "Sykes–Picot Agreement"
   },
   {
    "q": "What name is given to the 1820 maritime peace treaty signed by Britain and Gulf sheikhs?",
@@ -430,7 +497,8 @@
   {
    "q": "Which Thracian city was the Ottoman capital before 1453?",
    "a": "Edirne (Adrianople)",
-   "p": 600
+   "p": 600,
+   "apic": "Edirne"
   },
   {
    "q": "Who was the first Abbasid caliph?",
@@ -440,42 +508,51 @@
   {
    "q": "Which Roman emperor was deposed in 476 CE, traditionally marking the end of Western Rome?",
    "a": "Romulus Augustulus",
-   "p": 600
+   "p": 600,
+   "apic": "Romulus Augustulus"
   },
   {
    "q": "Which dynasty did Kublai Khan establish in China?",
    "a": "Yuan dynasty",
-   "p": 600
+   "p": 600,
+   "pic": "Kublai Khan",
+   "apic": "Yuan dynasty"
   },
   {
    "q": "Which 1571 naval battle saw a Holy League fleet defeat the Ottoman navy?",
    "a": "Battle of Lepanto",
-   "p": 600
+   "p": 600,
+   "apic": "Battle of Lepanto"
   },
   {
    "q": "Which city did the Fatimids found in 969 CE as their capital?",
    "a": "Cairo",
-   "p": 600
+   "p": 600,
+   "apic": "Cairo"
   },
   {
    "q": "Which 1071 battle saw the Seljuks defeat a Byzantine army?",
    "a": "Battle of Manzikert",
-   "p": 600
+   "p": 600,
+   "apic": "Battle of Manzikert"
   },
   {
    "q": "Who was the most prominent leader of the Haitian Revolution?",
    "a": "Toussaint Louverture",
-   "p": 600
+   "p": 600,
+   "apic": "Toussaint Louverture"
   },
   {
    "q": "Which 1884 to 1885 conference set rules for European claims in Africa?",
    "a": "Berlin Conference",
-   "p": 600
+   "p": 600,
+   "apic": "Berlin Conference"
   },
   {
    "q": "Which Chinese dynasty immediately preceded the Tang?",
    "a": "Sui dynasty",
-   "p": 600
+   "p": 600,
+   "apic": "Sui dynasty"
   },
   {
    "q": "What was Genghis Khan's birth name?",
@@ -490,17 +567,20 @@
   {
    "q": "Which 1805 battle was Napoleon's victory over Russia and Austria?",
    "a": "Battle of Austerlitz",
-   "p": 600
+   "p": 600,
+   "apic": "Battle of Austerlitz"
   },
   {
    "q": "At which battle in 490 BCE did Athens defeat a Persian force?",
    "a": "Battle of Marathon",
-   "p": 400
+   "p": 400,
+   "apic": "Battle of Marathon"
   },
   {
    "q": "Which Assyrian city housed the library of Ashurbanipal?",
    "a": "Nineveh",
-   "p": 600
+   "p": 600,
+   "apic": "Nineveh"
   },
   {
    "q": "Which US president was assassinated in Dallas in 1963?",
@@ -508,22 +588,26 @@
    "p": 200,
    "alt": [
     "JFK"
-   ]
+   ],
+   "apic": "John F. Kennedy"
   },
   {
    "q": "Which civil rights leader gave the famous 'I Have a Dream' speech in 1963?",
    "a": "Martin Luther King Jr.",
-   "p": 200
+   "p": 200,
+   "apic": "Martin Luther King Jr."
   },
   {
    "q": "Which South African leader spent 27 years in prison before becoming president in 1994?",
    "a": "Nelson Mandela",
-   "p": 200
+   "p": 200,
+   "apic": "Nelson Mandela"
   },
   {
    "q": "Which Macedonian king built an empire stretching from Greece to India by the age of 30?",
    "a": "Alexander the Great",
-   "p": 200
+   "p": 200,
+   "apic": "Alexander the Great"
   },
   {
    "q": "Which Mesoamerican people built their capital Tenochtitlan on a lake, where Mexico City stands today?",
@@ -531,7 +615,8 @@
    "p": 200,
    "alt": [
     "Mexica"
-   ]
+   ],
+   "apic": "Aztecs"
   },
   {
    "q": "In what year did the American colonies declare independence from Britain?",
@@ -541,17 +626,20 @@
   {
    "q": "Which seafaring raiders from Scandinavia attacked coasts across Europe from the late 8th century?",
    "a": "Vikings",
-   "p": 200
+   "p": 200,
+   "apic": "Vikings"
   },
   {
    "q": "Which English queen reigned when the Spanish Armada was defeated in 1588?",
    "a": "Elizabeth I",
-   "p": 200
+   "p": 200,
+   "apic": "Elizabeth I"
   },
   {
    "q": "Which Portuguese explorer led the first expedition to sail around the world, though he died on the way?",
    "a": "Ferdinand Magellan",
-   "p": 200
+   "p": 200,
+   "apic": "Ferdinand Magellan"
   },
   {
    "q": "The Black Death that swept Europe in the 1340s was an outbreak of which disease?",
@@ -564,7 +652,8 @@
   {
    "q": "Who became Britain's first female Prime Minister in 1979?",
    "a": "Margaret Thatcher",
-   "p": 200
+   "p": 200,
+   "apic": "Margaret Thatcher"
   },
   {
    "q": "Which long war, ending in 1975, saw US forces fight in Southeast Asia?",
@@ -579,37 +668,44 @@
   {
    "q": "Which Japanese city was the target of the first atomic bomb used in war, in August 1945?",
    "a": "Hiroshima",
-   "p": 200
+   "p": 200,
+   "apic": "Hiroshima"
   },
   {
    "q": "Which US naval base in Hawaii was attacked by Japan in December 1941?",
    "a": "Pearl Harbor",
-   "p": 200
+   "p": 200,
+   "apic": "Pearl Harbor"
   },
   {
    "q": "Which French teenage heroine led troops against the English and was burned at the stake in 1431?",
    "a": "Joan of Arc",
-   "p": 200
+   "p": 200,
+   "apic": "Joan of Arc"
   },
   {
    "q": "Which French queen, wife of Louis XVI, was executed in 1793?",
    "a": "Marie Antoinette",
-   "p": 200
+   "p": 200,
+   "apic": "Marie Antoinette"
   },
   {
    "q": "Which execution device became a symbol of the French Revolution's Reign of Terror?",
    "a": "Guillotine",
-   "p": 200
+   "p": 200,
+   "apic": "Guillotine"
   },
   {
    "q": "At which mountain pass did 300 Spartans make a famous last stand in 480 BCE?",
    "a": "Thermopylae",
-   "p": 200
+   "p": 200,
+   "apic": "Thermopylae"
   },
   {
    "q": "Which Chinese philosopher's teachings on family, respect and order shaped East Asia for over 2,000 years?",
    "a": "Confucius",
-   "p": 200
+   "p": 200,
+   "apic": "Confucius"
   },
   {
    "q": "Which two men were first confirmed to reach the summit of Everest, in 1953?",
@@ -622,12 +718,14 @@
    "p": 200,
    "alt": [
     "UN"
-   ]
+   ],
+   "apic": "United Nations"
   },
   {
    "q": "Which Italian dictator led his country into World War II alongside Germany?",
    "a": "Benito Mussolini",
-   "p": 200
+   "p": 200,
+   "apic": "Benito Mussolini"
   },
   {
    "q": "In what year did World War II begin?",
@@ -637,12 +735,14 @@
   {
    "q": "Germany's invasion of which country started World War II in Europe?",
    "a": "Poland",
-   "p": 200
+   "p": 200,
+   "apic": "Poland"
   },
   {
    "q": "Which Soviet nuclear power plant suffered a disastrous accident in 1986?",
    "a": "Chernobyl",
-   "p": 200
+   "p": 200,
+   "apic": "Chernobyl Nuclear Power Plant"
   },
   {
    "q": "In what year did the First World War end?",
@@ -652,7 +752,8 @@
   {
    "q": "Which 1773 protest saw colonists dump British tea into a harbour?",
    "a": "Boston Tea Party",
-   "p": 200
+   "p": 200,
+   "apic": "Boston Tea Party"
   },
   {
    "q": "What precious metal drew hundreds of thousands of people to California from 1849?",
@@ -665,7 +766,8 @@
    "p": 200,
    "alt": [
     "Mao Tse-tung"
-   ]
+   ],
+   "apic": "Mao Zedong"
   },
   {
    "q": "Which Chinese general wrote the military classic The Art of War?",
@@ -673,12 +775,14 @@
    "p": 200,
    "alt": [
     "Sunzi"
-   ]
+   ],
+   "apic": "Sun Tzu"
   },
   {
    "q": "Which Greek philosopher was the tutor of the young Alexander the Great?",
    "a": "Aristotle",
-   "p": 400
+   "p": 400,
+   "apic": "Aristotle"
   },
   {
    "q": "On which ship did Charles Darwin make his famous voyage in the 1830s?",
@@ -686,12 +790,16 @@
    "p": 400,
    "alt": [
     "The Beagle"
-   ]
+   ],
+   "pic": "Charles Darwin",
+   "apic": "HMS Beagle"
   },
   {
    "q": "From which country did the United States buy Alaska in 1867?",
    "a": "Russia",
-   "p": 400
+   "p": 400,
+   "pic": "Alaska",
+   "apic": "Russia"
   },
   {
    "q": "Which South American empire was conquered by Francisco Pizarro?",
@@ -699,7 +807,9 @@
    "p": 400,
    "alt": [
     "The Incas"
-   ]
+   ],
+   "pic": "Francisco Pizarro",
+   "apic": "Inca Empire"
   },
   {
    "q": "Which US president led the country through the Great Depression and most of World War II?",
@@ -707,7 +817,8 @@
    "p": 400,
    "alt": [
     "FDR"
-   ]
+   ],
+   "apic": "Franklin D. Roosevelt"
   },
   {
    "q": "Which royal dynasty ruled Russia from 1613 until 1917?",
@@ -715,17 +826,20 @@
    "p": 400,
    "alt": [
     "Romanovs"
-   ]
+   ],
+   "apic": "House of Romanov"
   },
   {
    "q": "Who was the last Tsar of Russia?",
    "a": "Nicholas II",
-   "p": 400
+   "p": 400,
+   "apic": "Nicholas II"
   },
   {
    "q": "Which Babylonian king is famous for one of the earliest written law codes?",
    "a": "Hammurabi",
-   "p": 400
+   "p": 400,
+   "apic": "Hammurabi"
   },
   {
    "q": "Which Persian king invaded Greece in 480 BCE?",
@@ -733,22 +847,26 @@
    "p": 400,
    "alt": [
     "Xerxes"
-   ]
+   ],
+   "apic": "Xerxes I"
   },
   {
    "q": "Which Spartan king led the stand at Thermopylae?",
    "a": "Leonidas",
-   "p": 400
+   "p": 400,
+   "apic": "Leonidas I"
   },
   {
    "q": "Which Athenian philosopher was sentenced to death by drinking hemlock in 399 BCE?",
    "a": "Socrates",
-   "p": 400
+   "p": 400,
+   "apic": "Socrates"
   },
   {
    "q": "Which philosopher, a student of Socrates, founded the Academy in Athens?",
    "a": "Plato",
-   "p": 400
+   "p": 400,
+   "apic": "Plato"
   },
   {
    "q": "Which Indian emperor of the Maurya dynasty turned to Buddhism after the bloody Kalinga war?",
@@ -756,17 +874,20 @@
    "p": 400,
    "alt": [
     "Asoka"
-   ]
+   ],
+   "apic": "Ashoka"
   },
   {
    "q": "Which dynasty first unified China in 221 BCE?",
    "a": "Qin dynasty",
-   "p": 400
+   "p": 400,
+   "apic": "Qin dynasty"
   },
   {
    "q": "Which was the last imperial dynasty of China, ending in 1912?",
    "a": "Qing dynasty",
-   "p": 400
+   "p": 400,
+   "apic": "Qing dynasty"
   },
   {
    "q": "Which British explorer died with his team returning from the South Pole in 1912?",
@@ -774,17 +895,20 @@
    "p": 400,
    "alt": [
     "Captain Scott"
-   ]
+   ],
+   "apic": "Robert Falcon Scott"
   },
   {
    "q": "Who made the first solo nonstop flight across the Atlantic, in 1927?",
    "a": "Charles Lindbergh",
-   "p": 400
+   "p": 400,
+   "apic": "Charles Lindbergh"
   },
   {
    "q": "Which American aviator, the first woman to fly solo across the Atlantic, vanished over the Pacific in 1937?",
    "a": "Amelia Earhart",
-   "p": 400
+   "p": 400,
+   "apic": "Amelia Earhart"
   },
   {
    "q": "Which British captain charted the east coast of Australia in 1770?",
@@ -792,22 +916,26 @@
    "p": 400,
    "alt": [
     "Captain Cook"
-   ]
+   ],
+   "apic": "James Cook"
   },
   {
    "q": "Which Italian navigator gave his first name to the Americas?",
    "a": "Amerigo Vespucci",
-   "p": 400
+   "p": 400,
+   "apic": "Amerigo Vespucci"
   },
   {
    "q": "Which war, fought from 1950 to 1953, ended in an armistice near the 38th parallel?",
    "a": "Korean War",
-   "p": 400
+   "p": 400,
+   "apic": "Korean War"
   },
   {
    "q": "Which international organisation, founded after World War I, was replaced by the United Nations?",
    "a": "League of Nations",
-   "p": 400
+   "p": 400,
+   "apic": "League of Nations"
   },
   {
    "q": "Which Soviet city was the scene of a decisive 1942 to 1943 battle on the Eastern Front?",
@@ -815,27 +943,32 @@
    "p": 400,
    "alt": [
     "Volgograd"
-   ]
+   ],
+   "apic": "Volgograd"
   },
   {
    "q": "From which French port were over 300,000 Allied troops evacuated in 1940?",
    "a": "Dunkirk",
-   "p": 400
+   "p": 400,
+   "apic": "Dunkirk"
   },
   {
    "q": "What name is given to the 1940 air campaign fought between the RAF and the Luftwaffe?",
    "a": "Battle of Britain",
-   "p": 400
+   "p": 400,
+   "apic": "Battle of Britain"
   },
   {
    "q": "Which German cipher machine's codes were broken at Bletchley Park?",
    "a": "Enigma",
-   "p": 400
+   "p": 400,
+   "apic": "Enigma machine"
   },
   {
    "q": "Who was the last leader of the Soviet Union?",
    "a": "Mikhail Gorbachev",
-   "p": 200
+   "p": 200,
+   "apic": "Mikhail Gorbachev"
   },
   {
    "q": "In what year did the Soviet Union dissolve?",
@@ -848,7 +981,8 @@
    "p": 400,
    "alt": [
     "Peter I"
-   ]
+   ],
+   "apic": "Peter the Great"
   },
   {
    "q": "Which German-born empress ruled Russia from 1762 to 1796?",
@@ -856,7 +990,8 @@
    "p": 400,
    "alt": [
     "Catherine II"
-   ]
+   ],
+   "apic": "Catherine the Great"
   },
   {
    "q": "Which two royal houses fought the Wars of the Roses in 15th century England?",
@@ -869,27 +1004,32 @@
    "p": 400,
    "alt": [
     "House of Tudor"
-   ]
+   ],
+   "apic": "House of Tudor"
   },
   {
    "q": "Who ruled England as Lord Protector after the English Civil War?",
    "a": "Oliver Cromwell",
-   "p": 400
+   "p": 400,
+   "apic": "Oliver Cromwell"
   },
   {
    "q": "Who was caught guarding barrels of gunpowder under Parliament in 1605?",
    "a": "Guy Fawkes",
-   "p": 400
+   "p": 400,
+   "apic": "Guy Fawkes"
   },
   {
    "q": "In what year did the Great Fire of London break out?",
    "a": "1666",
-   "p": 400
+   "p": 400,
+   "pic": "Great Fire of London"
   },
   {
    "q": "Which Frankish king was crowned Emperor of the Romans on Christmas Day in the year 800?",
    "a": "Charlemagne",
-   "p": 400
+   "p": 400,
+   "apic": "Charlemagne"
   },
   {
    "q": "Who led the Huns in their 5th-century attacks on the Roman Empire?",
@@ -897,17 +1037,20 @@
    "p": 200,
    "alt": [
     "Attila the Hun"
-   ]
+   ],
+   "apic": "Attila"
   },
   {
    "q": "Which Roman emperor is famously said to have fiddled while Rome burned in 64 CE?",
    "a": "Nero",
-   "p": 400
+   "p": 400,
+   "apic": "Nero"
   },
   {
    "q": "Which Roman emperor and Stoic philosopher wrote the Meditations?",
    "a": "Marcus Aurelius",
-   "p": 400
+   "p": 400,
+   "apic": "Marcus Aurelius"
   },
   {
    "q": "On which day of March in 44 BCE was Julius Caesar assassinated?",
@@ -921,7 +1064,8 @@
   {
    "q": "Which gladiator led a major slave revolt against Rome in 73 BCE?",
    "a": "Spartacus",
-   "p": 400
+   "p": 400,
+   "apic": "Spartacus"
   },
   {
    "q": "Which Indonesian volcano's huge eruption in 1883 was heard thousands of kilometres away?",
@@ -929,7 +1073,8 @@
    "p": 400,
    "alt": [
     "Krakatau"
-   ]
+   ],
+   "apic": "Krakatoa"
   },
   {
    "q": "Which Aztec ruler was emperor when Hernan Cortes arrived in 1519?",
@@ -938,12 +1083,14 @@
    "alt": [
     "Moctezuma II",
     "Montezuma"
-   ]
+   ],
+   "apic": "Moctezuma II"
   },
   {
    "q": "Which Venezuelan-born leader, called 'The Liberator', freed much of South America from Spain?",
    "a": "Simon Bolivar",
-   "p": 400
+   "p": 400,
+   "apic": "Simón Bolívar"
   },
   {
    "q": "Which Norse explorer is believed to have reached North America around the year 1000?",
@@ -951,7 +1098,8 @@
    "p": 400,
    "alt": [
     "Leif Eriksson"
-   ]
+   ],
+   "apic": "Leif Erikson"
   },
   {
    "q": "Which Norman duke became King of England in 1066?",
@@ -959,12 +1107,14 @@
    "p": 400,
    "alt": [
     "William I"
-   ]
+   ],
+   "apic": "William the Conqueror"
   },
   {
    "q": "Which long embroidered cloth depicts the Norman conquest of England?",
    "a": "Bayeux Tapestry",
-   "p": 400
+   "p": 400,
+   "apic": "Bayeux Tapestry"
   },
   {
    "q": "Which two kingdoms fought the Hundred Years' War?",
@@ -977,27 +1127,32 @@
    "p": 400,
    "alt": [
     "Eastern Roman Empire"
-   ]
+   ],
+   "apic": "Byzantine Empire"
   },
   {
    "q": "Which Florentine diplomat wrote The Prince in 1513?",
    "a": "Niccolo Machiavelli",
-   "p": 400
+   "p": 400,
+   "apic": "Niccolò Machiavelli"
   },
   {
    "q": "To which Mediterranean island was Napoleon first exiled in 1814?",
    "a": "Elba",
-   "p": 400
+   "p": 400,
+   "apic": "Elba"
   },
   {
    "q": "Which Prussian chancellor led the unification of Germany in 1871?",
    "a": "Otto von Bismarck",
-   "p": 400
+   "p": 400,
+   "apic": "Otto von Bismarck"
   },
   {
    "q": "Which 1915 to 1916 Allied campaign in Turkey ended in defeat and evacuation?",
    "a": "Gallipoli",
-   "p": 400
+   "p": 400,
+   "apic": "Gallipoli campaign"
   },
   {
    "q": "Which Ottoman commander at Gallipoli later founded the Republic of Turkey?",
@@ -1005,47 +1160,56 @@
    "p": 400,
    "alt": [
     "Ataturk"
-   ]
+   ],
+   "apic": "Mustafa Kemal Atatürk"
   },
   {
    "q": "Which influenza pandemic of 1918 to 1920 killed tens of millions worldwide?",
    "a": "Spanish flu",
-   "p": 200
+   "p": 200,
+   "apic": "Spanish flu"
   },
   {
    "q": "Which German passenger airship burst into flames in New Jersey in 1937?",
    "a": "Hindenburg",
-   "p": 400
+   "p": 400,
+   "apic": "LZ 129 Hindenburg"
   },
   {
    "q": "Which general won the Spanish Civil War and ruled Spain until 1975?",
    "a": "Francisco Franco",
-   "p": 400
+   "p": 400,
+   "apic": "Francisco Franco"
   },
   {
    "q": "Which 1942 Pacific naval battle was a turning point in the war against Japan?",
    "a": "Battle of Midway",
-   "p": 400
+   "p": 400,
+   "apic": "Battle of Midway"
   },
   {
    "q": "Which Allied commander on D-Day later became US president?",
    "a": "Dwight D. Eisenhower",
-   "p": 400
+   "p": 400,
+   "apic": "Dwight D. Eisenhower"
   },
   {
    "q": "Who was the first Prime Minister of independent India?",
    "a": "Jawaharlal Nehru",
-   "p": 400
+   "p": 400,
+   "apic": "Jawaharlal Nehru"
   },
   {
    "q": "Which British trading company ruled much of India until 1858?",
    "a": "East India Company",
-   "p": 400
+   "p": 400,
+   "apic": "East India Company"
   },
   {
    "q": "Who was India's first female Prime Minister?",
    "a": "Indira Gandhi",
-   "p": 400
+   "p": 400,
+   "apic": "Indira Gandhi"
   },
   {
    "q": "In what year did Nelson Mandela become President of South Africa?",
@@ -1063,12 +1227,14 @@
    "p": 400,
    "alt": [
     "Pu Yi"
-   ]
+   ],
+   "apic": "Puyi"
   },
   {
    "q": "Which US Founding Father was the main author of the Declaration of Independence?",
    "a": "Thomas Jefferson",
-   "p": 400
+   "p": 400,
+   "apic": "Thomas Jefferson"
   },
   {
    "q": "Which Persian king began building Persepolis?",
@@ -1076,17 +1242,21 @@
    "p": 600,
    "alt": [
     "Darius the Great"
-   ]
+   ],
+   "pic": "Persepolis",
+   "apic": "Darius the Great"
   },
   {
    "q": "Which Dutch explorer gave his name to Tasmania and a sea?",
    "a": "Abel Tasman",
-   "p": 600
+   "p": 600,
+   "apic": "Abel Tasman"
   },
   {
    "q": "Which Portuguese explorer was the first European to sail around the Cape of Good Hope, in 1488?",
    "a": "Bartolomeu Dias",
-   "p": 600
+   "p": 600,
+   "apic": "Bartolomeu Dias"
   },
   {
    "q": "Which Portuguese prince sponsored early voyages along the African coast and is known by a nautical nickname?",
@@ -1094,32 +1264,38 @@
    "p": 600,
    "alt": [
     "Prince Henry"
-   ]
+   ],
+   "apic": "Prince Henry the Navigator"
   },
   {
    "q": "In which German town did Allied leaders meet in July 1945 to decide the future of Germany?",
    "a": "Potsdam",
-   "p": 600
+   "p": 600,
+   "apic": "Potsdam"
   },
   {
    "q": "What was the code name for the Allied invasion of Normandy in 1944?",
    "a": "Operation Overlord",
-   "p": 600
+   "p": 600,
+   "apic": "Operation Overlord"
   },
   {
    "q": "Which British king abdicated in 1936?",
    "a": "Edward VIII",
-   "p": 600
+   "p": 600,
+   "apic": "Edward VIII"
   },
   {
    "q": "Which English king was killed at the Battle of Bosworth Field in 1485?",
    "a": "Richard III",
-   "p": 600
+   "p": 600,
+   "apic": "Richard III of England"
   },
   {
    "q": "Which Germanic people sacked Rome in 410 CE under Alaric?",
    "a": "Visigoths",
-   "p": 600
+   "p": 600,
+   "apic": "Visigoths"
   },
   {
    "q": "Which Bronze Age civilisation on Crete built the palace of Knossos?",
@@ -1127,12 +1303,14 @@
    "p": 600,
    "alt": [
     "Minoan civilisation"
-   ]
+   ],
+   "apic": "Minoan civilization"
   },
   {
    "q": "Which great Bronze Age city of the Indus Valley Civilisation lies in today's Sindh, Pakistan?",
    "a": "Mohenjo-daro",
-   "p": 600
+   "p": 600,
+   "apic": "Mohenjo-daro"
   },
   {
    "q": "Which ancient kingdom in northern Ethiopia is famous for its giant stone stelae?",
@@ -1140,7 +1318,8 @@
    "p": 600,
    "alt": [
     "Axum"
-   ]
+   ],
+   "apic": "Kingdom of Aksum"
   },
   {
    "q": "Which US cavalry commander was killed at the Battle of the Little Bighorn in 1876?",
@@ -1148,7 +1327,8 @@
    "p": 600,
    "alt": [
     "Custer"
-   ]
+   ],
+   "apic": "George Armstrong Custer"
   },
   {
    "q": "In what year was the first US transcontinental railroad completed?",
@@ -1158,7 +1338,8 @@
   {
    "q": "Who assassinated Abraham Lincoln in 1865?",
    "a": "John Wilkes Booth",
-   "p": 600
+   "p": 600,
+   "apic": "John Wilkes Booth"
   },
   {
    "q": "Which French aristocrat served as a general under George Washington in the American Revolution?",
@@ -1166,7 +1347,8 @@
    "p": 600,
    "alt": [
     "Lafayette"
-   ]
+   ],
+   "apic": "Gilbert du Motier, Marquis de Lafayette"
   },
   {
    "q": "What is the 1857 uprising against the East India Company's rule usually called?",
@@ -1176,42 +1358,50 @@
     "Indian Mutiny",
     "Sepoy Mutiny",
     "First War of Independence"
-   ]
+   ],
+   "apic": "Indian Rebellion of 1857"
   },
   {
    "q": "Which 1815 gathering of diplomats redrew the map of Europe after Napoleon?",
    "a": "Congress of Vienna",
-   "p": 600
+   "p": 600,
+   "apic": "Congress of Vienna"
   },
   {
    "q": "Which nephew of Napoleon ruled France as emperor from 1852 to 1870?",
    "a": "Napoleon III",
-   "p": 600
+   "p": 600,
+   "apic": "Napoleon III"
   },
   {
    "q": "Which Italian general led the Redshirts in the unification of Italy?",
    "a": "Giuseppe Garibaldi",
-   "p": 600
+   "p": 600,
+   "apic": "Giuseppe Garibaldi"
   },
   {
    "q": "Which British ocean liner was sunk by a German U-boat in 1915?",
    "a": "Lusitania",
-   "p": 600
+   "p": 600,
+   "apic": "RMS Lusitania"
   },
   {
    "q": "Which French fortress city gave its name to the longest battle of World War I, in 1916?",
    "a": "Verdun",
-   "p": 600
+   "p": 600,
+   "apic": "Battle of Verdun"
   },
   {
    "q": "What name was given to US President Roosevelt's 1930s programme of economic recovery?",
    "a": "New Deal",
-   "p": 600
+   "p": 600,
+   "apic": "New Deal"
   },
   {
    "q": "Which US general oversaw the occupation of Japan after World War II?",
    "a": "Douglas MacArthur",
-   "p": 600
+   "p": 600,
+   "apic": "Douglas MacArthur"
   },
   {
    "q": "Which British general defeated Rommel at the Second Battle of El Alamein in 1942?",
@@ -1219,7 +1409,8 @@
    "p": 600,
    "alt": [
     "Monty"
-   ]
+   ],
+   "apic": "Bernard Montgomery"
   },
   {
    "q": "In what year did the Berlin Airlift begin?",
@@ -1229,53 +1420,63 @@
   {
    "q": "Which military alliance did the Soviet Union form with Eastern European states in 1955?",
    "a": "Warsaw Pact",
-   "p": 600
+   "p": 600,
+   "apic": "Warsaw Pact"
   },
   {
    "q": "Who became the world's first female prime minister, in Sri Lanka in 1960?",
    "a": "Sirimavo Bandaranaike",
-   "p": 600
+   "p": 600,
+   "apic": "Sirimavo Bandaranaike"
   },
   {
    "q": "Which 1992 treaty created the European Union?",
    "a": "Maastricht Treaty",
-   "p": 600
+   "p": 600,
+   "apic": "Maastricht Treaty"
   },
   {
    "q": "Which Polish trade union movement was led by Lech Walesa?",
    "a": "Solidarity",
-   "p": 600
+   "p": 600,
+   "apic": "Solidarity (Polish trade union)"
   },
   {
    "q": "Which country's peaceful 1989 'Velvet Revolution' ended communist rule?",
    "a": "Czechoslovakia",
-   "p": 600
+   "p": 600,
+   "apic": "Czechoslovakia"
   },
   {
    "q": "In which city did Alexander the Great die in 323 BCE?",
    "a": "Babylon",
    "p": 600,
-   "ar": "بابل"
+   "ar": "بابل",
+   "apic": "Babylon"
   },
   {
    "q": "What was the name of Alexander the Great's famous horse?",
    "a": "Bucephalus",
-   "p": 600
+   "p": 600,
+   "apic": "Bucephalus"
   },
   {
    "q": "Which 31 BCE naval battle saw Octavian defeat Mark Antony and Cleopatra?",
    "a": "Battle of Actium",
-   "p": 600
+   "p": 600,
+   "apic": "Battle of Actium"
   },
   {
    "q": "Which American explorers led the 1804 to 1806 expedition to the Pacific coast?",
    "a": "Lewis and Clark",
-   "p": 600
+   "p": 600,
+   "apic": "Lewis and Clark Expedition"
   },
   {
    "q": "Which Inca emperor was captured and executed by Pizarro's forces?",
    "a": "Atahualpa",
-   "p": 600
+   "p": 600,
+   "apic": "Atahualpa"
   },
   {
    "q": "Which Argentine general helped liberate Argentina, Chile and Peru from Spain?",
@@ -1283,17 +1484,20 @@
    "p": 600,
    "alt": [
     "San Martin"
-   ]
+   ],
+   "apic": "José de San Martín"
   },
   {
    "q": "Which 1415 battle saw Henry V's English archers defeat a larger French army?",
    "a": "Battle of Agincourt",
-   "p": 600
+   "p": 600,
+   "apic": "Battle of Agincourt"
   },
   {
    "q": "Which Ethiopian emperor ruled from 1930 to 1974?",
    "a": "Haile Selassie",
-   "p": 600
+   "p": 600,
+   "apic": "Haile Selassie"
   },
   {
    "q": "Which empress dowager effectively controlled China's Qing court for decades until 1908?",
@@ -1301,7 +1505,8 @@
    "p": 600,
    "alt": [
     "Empress Dowager Cixi"
-   ]
+   ],
+   "apic": "Empress Dowager Cixi"
   },
   {
    "q": "Which anti-foreign uprising in northern China was crushed by an eight-nation alliance in 1900?",
@@ -1309,62 +1514,74 @@
    "p": 600,
    "alt": [
     "Boxer Uprising"
-   ]
+   ],
+   "apic": "Boxer Rebellion"
   },
   {
    "q": "Who fired the shots that killed Archduke Franz Ferdinand in 1914?",
    "a": "Gavrilo Princip",
-   "p": 600
+   "p": 600,
+   "apic": "Gavrilo Princip"
   },
   {
    "q": "Which ancient Greek poet is traditionally credited with the Iliad and the Odyssey?",
    "a": "Homer",
-   "p": 200
+   "p": 200,
+   "apic": "Homer"
   },
   {
    "q": "Which country was ruled by emperors called tsars until 1917?",
    "a": "Russia",
-   "p": 200
+   "p": 200,
+   "apic": "Russia"
   },
   {
    "q": "What were the main units of the Roman army, each of several thousand soldiers, called?",
    "a": "Legions",
-   "p": 200
+   "p": 200,
+   "apic": "Roman legion"
   },
   {
    "q": "What was the council of elders that advised and later governed ancient Rome called?",
    "a": "The Senate",
-   "p": 200
+   "p": 200,
+   "apic": "Roman Senate"
   },
   {
    "q": "What were the armoured mounted warriors of medieval Europe called?",
    "a": "Knights",
-   "p": 200
+   "p": 200,
+   "apic": "Knight"
   },
   {
    "q": "What name, meaning 'rebirth', is given to the revival of art and learning in Europe from the 14th century?",
    "a": "The Renaissance",
-   "p": 200
+   "p": 200,
+   "apic": "Renaissance"
   },
   {
    "q": "Which European country colonised Brazil?",
    "a": "Portugal",
-   "p": 200
+   "p": 200,
+   "apic": "Portugal"
   },
   {
    "q": "Which European country conquered and ruled Mexico for about 300 years?",
    "a": "Spain",
-   "p": 200
+   "p": 200,
+   "apic": "Spain"
   },
   {
    "q": "Which country did Napoleon invade in 1812, leading to a disastrous retreat?",
    "a": "Russia",
-   "p": 400
+   "p": 400,
+   "apic": "Russia"
   },
   {
    "q": "Which general led the Free French during World War II and later became President of France?",
    "a": "Charles de Gaulle",
-   "p": 400
+   "p": 400,
+   "apic": "Charles de Gaulle"
   },
   {
    "q": "What was the medieval system in which lords granted land in return for loyalty and military service called?",
@@ -1377,27 +1594,33 @@
    "p": 400,
    "alt": [
     "Turkiye"
-   ]
+   ],
+   "pic": "Troy",
+   "apic": "Turkey"
   },
   {
    "q": "What was the original Greek name of the city later called Constantinople?",
    "a": "Byzantium",
-   "p": 400
+   "p": 400,
+   "apic": "Byzantium"
   },
   {
    "q": "What is the name of Abraham Lincoln's famous short speech of November 1863?",
    "a": "Gettysburg Address",
-   "p": 400
+   "p": 400,
+   "apic": "Gettysburg Address"
   },
   {
    "q": "Which Union general accepted Robert E. Lee's surrender in 1865?",
    "a": "Ulysses S. Grant",
-   "p": 400
+   "p": 400,
+   "apic": "Ulysses S. Grant"
   },
   {
    "q": "Which Confederate general surrendered at Appomattox in 1865?",
    "a": "Robert E. Lee",
-   "p": 400
+   "p": 400,
+   "apic": "Robert E. Lee"
   },
   {
    "q": "What name is given to the rapid division of Africa among European powers in the 1880s?",
@@ -1410,12 +1633,15 @@
    "p": 400,
    "alt": [
     "Holland"
-   ]
+   ],
+   "apic": "Netherlands"
   },
   {
    "q": "Which European country's king, Leopold II, personally owned the Congo Free State?",
    "a": "Belgium",
-   "p": 400
+   "p": 400,
+   "pic": "Leopold II of Belgium",
+   "apic": "Belgium"
   },
   {
    "q": "Which British admiral was killed at his victory at Trafalgar in 1805?",
@@ -1423,7 +1649,8 @@
    "p": 400,
    "alt": [
     "Lord Nelson"
-   ]
+   ],
+   "apic": "Horatio Nelson"
   },
   {
    "q": "Which British duke commanded the allied army that defeated Napoleon at Waterloo?",
@@ -1431,47 +1658,57 @@
    "p": 400,
    "alt": [
     "Arthur Wellesley"
-   ]
+   ],
+   "apic": "Arthur Wellesley, 1st Duke of Wellington"
   },
   {
    "q": "Which US president authorised the atomic bombings of Japan in 1945?",
    "a": "Harry S. Truman",
-   "p": 400
+   "p": 400,
+   "apic": "Harry S. Truman"
   },
   {
    "q": "Which Japanese city was hit by the second atomic bomb, three days after the first?",
    "a": "Nagasaki",
-   "p": 400
+   "p": 400,
+   "apic": "Nagasaki"
   },
   {
    "q": "What was the first permanent English settlement in America, founded in 1607?",
    "a": "Jamestown",
-   "p": 600
+   "p": 600,
+   "apic": "Jamestown, Virginia"
   },
   {
    "q": "Which ancient Mexican civilisation carved giant stone heads?",
    "a": "Olmecs",
-   "p": 600
+   "p": 600,
+   "apic": "Olmecs"
   },
   {
    "q": "What was the name of Nelson's flagship at Trafalgar?",
    "a": "HMS Victory",
-   "p": 600
+   "p": 600,
+   "apic": "HMS Victory"
   },
   {
    "q": "Which Byzantine empress, wife of Justinian I, was famous for her influence?",
    "a": "Theodora",
-   "p": 600
+   "p": 600,
+   "apic": "Theodora (wife of Justinian I)"
   },
   {
    "q": "Which Korean admiral is famous for his 'turtle ships' in the 1590s?",
    "a": "Yi Sun-sin",
-   "p": 600
+   "p": 600,
+   "apic": "Yi Sun-sin"
   },
   {
    "q": "Which Khmer king built Angkor Wat in the 12th century?",
    "a": "Suryavarman II",
-   "p": 600
+   "p": 600,
+   "pic": "Angkor Wat",
+   "apic": "Suryavarman II"
   },
   {
    "q": "Which Zulu king built a powerful kingdom in southern Africa in the early 1800s?",
@@ -1479,12 +1716,14 @@
    "p": 600,
    "alt": [
     "Shaka Zulu"
-   ]
+   ],
+   "apic": "Shaka"
   },
   {
    "q": "At which 1879 battle did a Zulu army defeat a British force?",
    "a": "Battle of Isandlwana",
-   "p": 600
+   "p": 600,
+   "apic": "Battle of Isandlwana"
   },
   {
    "q": "Which 1783 treaty ended the American Revolutionary War?",
@@ -1494,82 +1733,99 @@
   {
    "q": "Which statesman led Athens in its golden age and oversaw the building of the Parthenon?",
    "a": "Pericles",
-   "p": 600
+   "p": 600,
+   "apic": "Pericles"
   },
   {
    "q": "At which 216 BCE battle did Hannibal crush a much larger Roman army?",
    "a": "Battle of Cannae",
-   "p": 600
+   "p": 600,
+   "apic": "Battle of Cannae"
   },
   {
    "q": "Who founded India's Maurya Empire around 320 BCE?",
    "a": "Chandragupta Maurya",
-   "p": 600
+   "p": 600,
+   "apic": "Chandragupta Maurya"
   },
   {
    "q": "Which US president resigned in 1974 after the Watergate scandal?",
    "a": "Richard Nixon",
-   "p": 200
+   "p": 200,
+   "apic": "Richard Nixon"
   },
   {
    "q": "Which Jewish teenager's diary, written while hiding in Amsterdam during World War II, became world famous?",
    "a": "Anne Frank",
-   "p": 200
+   "p": 200,
+   "apic": "Anne Frank"
   },
   {
    "q": "Which prehistoric age, named after an alloy of copper and tin, came before the Iron Age?",
    "a": "Bronze Age",
-   "p": 200
+   "p": 200,
+   "apic": "Bronze Age"
   },
   {
    "q": "The British Raj was the period of British rule over which country?",
    "a": "India",
-   "p": 200
+   "p": 200,
+   "apic": "India"
   },
   {
    "q": "What name was given to the Cold War competition between the USA and USSR to explore space?",
    "a": "Space Race",
-   "p": 200
+   "p": 200,
+   "apic": "Space Race"
   },
   {
    "q": "Which American woman refused to give up her bus seat in Montgomery, Alabama in 1955?",
    "a": "Rosa Parks",
-   "p": 200
+   "p": 200,
+   "apic": "Rosa Parks"
   },
   {
    "q": "The Inca Empire was centred on which modern country?",
    "a": "Peru",
-   "p": 200
+   "p": 200,
+   "apic": "Peru"
   },
   {
    "q": "What did the Romans call their province of Britain?",
    "a": "Britannia",
-   "p": 200
+   "p": 200,
+   "apic": "Roman Britain"
   },
   {
    "q": "What is the bridge-like channel the Romans built to carry water to their cities called?",
    "a": "Aqueduct",
-   "p": 200
+   "p": 200,
+   "apic": "Roman aqueduct"
   },
   {
    "q": "What were the trained fighters who battled in Roman arenas called?",
    "a": "Gladiators",
-   "p": 200
+   "p": 200,
+   "apic": "Gladiator"
   },
   {
    "q": "What was the Roman name for London?",
    "a": "Londinium",
-   "p": 400
+   "p": 400,
+   "apic": "Londinium"
   },
   {
    "q": "Which Central American country is home to the great Maya city of Tikal?",
    "a": "Guatemala",
-   "p": 400
+   "p": 400,
+   "pic": "Tikal",
+   "apic": "Guatemala"
   },
   {
    "q": "What was the name of Christopher Columbus's flagship on his 1492 voyage?",
    "a": "Santa Maria",
-   "p": 400
+   "p": 400,
+   "apic": "Santa María (ship)"
   },
   {
    "q": "What was the name of Nazi Germany's secret state police?",

@@ -5,7 +5,8 @@
   {
    "q": "Who is Mario's green-clad brother?",
    "a": "Luigi",
-   "p": 200
+   "p": 200,
+   "apic": "Luigi"
   },
   {
    "q": "Which princess does Mario usually rescue?",
@@ -13,7 +14,8 @@
    "p": 200,
    "alt": [
     "Peach"
-   ]
+   ],
+   "apic": "Princess Peach"
   },
   {
    "q": "Which fire-breathing, spiked-shell king is Mario's arch-enemy?",
@@ -21,7 +23,8 @@
    "p": 200,
    "alt": [
     "King Koopa"
-   ]
+   ],
+   "apic": "Bowser (character)"
   },
   {
    "q": "Which power-up makes Mario grow bigger?",
@@ -48,32 +51,38 @@
   {
    "q": "Which green dinosaur does Mario ride?",
    "a": "Yoshi",
-   "p": 200
+   "p": 200,
+   "apic": "Yoshi"
   },
   {
    "q": "Which mushroom-headed character is Peach's loyal attendant?",
    "a": "Toad",
-   "p": 200
+   "p": 200,
+   "apic": "Toad (Nintendo)"
   },
   {
    "q": "Which yellow-capped, greedy rival of Mario wears a cap with a W?",
    "a": "Wario",
-   "p": 200
+   "p": 200,
+   "apic": "Wario"
   },
   {
    "q": "In which 1981 arcade game did Mario first appear?",
    "a": "Donkey Kong",
-   "p": 200
+   "p": 200,
+   "apic": "Donkey Kong (arcade game)"
   },
   {
    "q": "Which racing series features items like shells and bananas?",
    "a": "Mario Kart",
-   "p": 200
+   "p": 200,
+   "apic": "Mario Kart"
   },
   {
    "q": "Which series of board-style minigame collections features Mario and friends?",
    "a": "Mario Party",
-   "p": 200
+   "p": 200,
+   "apic": "Mario Party"
   },
   {
    "q": "Which Nintendo designer created Mario?",
@@ -81,12 +90,14 @@
    "p": 200,
    "alt": [
     "Miyamoto"
-   ]
+   ],
+   "apic": "Shigeru Miyamoto"
   },
   {
    "q": "Which actor voiced Mario in the 2023 animated movie?",
    "a": "Chris Pratt",
-   "p": 200
+   "p": 200,
+   "apic": "Chris Pratt"
   },
   {
    "q": "What is the title of the 2023 animated Mario film?",
@@ -94,17 +105,20 @@
    "p": 200,
    "alt": [
     "Super Mario Bros. Movie"
-   ]
+   ],
+   "apic": "The Super Mario Bros. Movie"
   },
   {
    "q": "Which actor voiced Bowser in the 2023 film?",
    "a": "Jack Black",
-   "p": 200
+   "p": 200,
+   "apic": "Jack Black"
   },
   {
    "q": "What is Mario's job?",
    "a": "Plumber",
-   "p": 200
+   "p": 200,
+   "apic": "Plumber"
   },
   {
    "q": "What is the name of Mario's home kingdom?",
@@ -112,7 +126,8 @@
    "p": 200,
    "alt": [
     "The Mushroom Kingdom"
-   ]
+   ],
+   "apic": "Mushroom Kingdom"
   },
   {
    "q": "What yellow items does Mario collect 100 of for an extra life?",
@@ -130,7 +145,8 @@
     "Pipes",
     "Warp pipes",
     "Pipe"
-   ]
+   ],
+   "apic": "Warp Pipe"
   },
   {
    "q": "Which brown mushroom-like enemies does Mario usually stomp?",
@@ -138,7 +154,8 @@
    "p": 200,
    "alt": [
     "Goomba"
-   ]
+   ],
+   "apic": "Goomba"
   },
   {
    "q": "Which walking turtle enemies can be kicked as shells?",
@@ -148,7 +165,8 @@
     "Koopas",
     "Koopa Troopa",
     "Koopa"
-   ]
+   ],
+   "apic": "Koopa Troopa"
   },
   {
    "q": "Which yellow curved item makes karts spin out in Mario Kart?",
@@ -156,12 +174,14 @@
    "p": 200,
    "alt": [
     "Banana peel"
-   ]
+   ],
+   "apic": "Banana"
   },
   {
    "q": "What is the colourful final track in many Mario Kart games?",
    "a": "Rainbow Road",
-   "p": 200
+   "p": 200,
+   "apic": "Rainbow Road"
   },
   {
    "q": "What colour is Luigi's cap?",
@@ -179,12 +199,14 @@
    "p": 200,
    "alt": [
     "Piranha Plants"
-   ]
+   ],
+   "apic": "Piranha Plant"
   },
   {
    "q": "In which spin-off does Luigi vacuum up ghosts?",
    "a": "Luigi's Mansion",
-   "p": 200
+   "p": 200,
+   "apic": "Luigi's Mansion"
   },
   {
    "q": "Which green mushroom gives Mario an extra life?",
@@ -202,7 +224,8 @@
    "p": 200,
    "alt": [
     "Boos"
-   ]
+   ],
+   "apic": "Boo (character)"
   },
   {
    "q": "Which Nintendo console hosted the 1985 Super Mario Bros.?",
@@ -211,7 +234,8 @@
    "alt": [
     "Nintendo Entertainment System",
     "Famicom"
-   ]
+   ],
+   "apic": "Nintendo Entertainment System"
   },
   {
    "q": "What yellow blocks with a symbol does Mario hit from below?",
@@ -226,7 +250,8 @@
   {
    "q": "Which actress voiced Princess Peach in the 2023 film?",
    "a": "Anya Taylor-Joy",
-   "p": 200
+   "p": 200,
+   "apic": "Anya Taylor-Joy"
   },
   {
    "q": "What does Mario jump on at the end of a level to finish it?",
@@ -248,7 +273,8 @@
   {
    "q": "In which year was Super Mario Bros. released in Japan?",
    "a": "1985",
-   "p": 400
+   "p": 400,
+   "pic": "Super Mario Bros."
   },
   {
    "q": "Which orange-haired princess is a regular in Mario Kart and Mario Party?",
@@ -256,7 +282,8 @@
    "p": 400,
    "alt": [
     "Daisy"
-   ]
+   ],
+   "apic": "Princess Daisy"
   },
   {
    "q": "Who is Bowser's son?",
@@ -264,7 +291,8 @@
    "p": 400,
    "alt": [
     "Bowser Junior"
-   ]
+   ],
+   "apic": "Bowser Jr."
   },
   {
    "q": "Which Super Mario Bros. 3 suit has a tail and lets Mario turn to stone?",
@@ -287,7 +315,8 @@
    "p": 400,
    "alt": [
     "N64"
-   ]
+   ],
+   "apic": "Nintendo 64"
   },
   {
    "q": "Which console hosts Mario Kart 8 Deluxe?",
@@ -295,7 +324,8 @@
    "p": 400,
    "alt": [
     "Switch"
-   ]
+   ],
+   "apic": "Nintendo Switch"
   },
   {
    "q": "Which Wii Mario game has you hopping between planets?",
@@ -303,7 +333,8 @@
    "p": 400,
    "alt": [
     "Galaxy"
-   ]
+   ],
+   "apic": "Super Mario Galaxy"
   },
   {
    "q": "Which game lets players design and share their own Mario levels?",
@@ -311,7 +342,8 @@
    "p": 400,
    "alt": [
     "Mario Maker"
-   ]
+   ],
+   "apic": "Super Mario Maker"
   },
   {
    "q": "Which cloud-riding enemy throws Spiny eggs?",
@@ -339,7 +371,8 @@
   {
    "q": "Which lanky purple-capped rival of Luigi appears in Mario Kart?",
    "a": "Waluigi",
-   "p": 400
+   "p": 400,
+   "apic": "Waluigi"
   },
   {
    "q": "Which Mario Kart item targets the player in first place?",
@@ -370,7 +403,8 @@
   {
    "q": "Which actor voiced Luigi in the 2023 animated film?",
    "a": "Charlie Day",
-   "p": 400
+   "p": 400,
+   "apic": "Charlie Day"
   },
   {
    "q": "By what name was Peach known in older Western releases?",
@@ -378,7 +412,8 @@
    "p": 400,
    "alt": [
     "Toadstool"
-   ]
+   ],
+   "apic": "Princess Peach"
   },
   {
    "q": "Which composer wrote the Super Mario Bros. theme?",
@@ -386,12 +421,14 @@
    "p": 400,
    "alt": [
     "Kondo"
-   ]
+   ],
+   "apic": "Koji Kondo"
   },
   {
    "q": "In which game did Yoshi make his debut?",
    "a": "Super Mario World",
-   "p": 400
+   "p": 400,
+   "apic": "Super Mario World"
   },
   {
    "q": "Which console hosted the very first Mario Kart in 1992?",
@@ -401,17 +438,20 @@
     "SNES",
     "Super NES",
     "Super Famicom"
-   ]
+   ],
+   "apic": "Super Nintendo Entertainment System"
   },
   {
    "q": "Which animation studio, known for Minions, made the 2023 Mario film?",
    "a": "Illumination",
-   "p": 400
+   "p": 400,
+   "apic": "Illumination (company)"
   },
   {
    "q": "Which actor played Mario in the 1993 live-action film?",
    "a": "Bob Hoskins",
-   "p": 400
+   "p": 400,
+   "apic": "Bob Hoskins"
   },
   {
    "q": "What is the water-spraying backpack in Super Mario Sunshine?",
@@ -428,7 +468,8 @@
    "p": 400,
    "alt": [
     "Sonic the Hedgehog"
-   ]
+   ],
+   "apic": "Sonic the Hedgehog (character)"
   },
   {
    "q": "Which absent-minded scientist invented the Poltergust in the Luigi's Mansion games?",
@@ -442,7 +483,8 @@
   {
    "q": "Who does Yoshi carry on his back in Yoshi's Island?",
    "a": "Baby Mario",
-   "p": 400
+   "p": 400,
+   "pic": "Yoshi's Island"
   },
   {
    "q": "Which object in the 2023 side-scroller Super Mario Bros. Wonder transforms levels?",
@@ -462,7 +504,8 @@
   {
    "q": "What was Mario's original name in Donkey Kong?",
    "a": "Jumpman",
-   "p": 400
+   "p": 400,
+   "pic": "Donkey Kong (arcade game)"
   },
   {
    "q": "Which actor voiced Mario in the games for decades?",
@@ -470,7 +513,8 @@
    "p": 400,
    "alt": [
     "Martinet"
-   ]
+   ],
+   "apic": "Charles Martinet"
   },
   {
    "q": "What are Bowser's seven minions introduced in Super Mario Bros. 3 called?",
@@ -478,7 +522,8 @@
    "p": 400,
    "alt": [
     "The Koopalings"
-   ]
+   ],
+   "apic": "Koopalings"
   },
   {
    "q": "Which chained, barking ball enemy lunges at Mario?",
@@ -496,12 +541,14 @@
   {
    "q": "What is the name of the damsel in distress in the original Donkey Kong?",
    "a": "Pauline",
-   "p": 600
+   "p": 600,
+   "apic": "Pauline (Mario)"
   },
   {
    "q": "Who composed the score for The Super Mario Bros. Movie?",
    "a": "Brian Tyler",
-   "p": 600
+   "p": 600,
+   "apic": "Brian Tyler"
   },
   {
    "q": "Which two directors made The Super Mario Bros. Movie?",
@@ -518,7 +565,8 @@
    "alt": [
     "Squaresoft",
     "SquareSoft"
-   ]
+   ],
+   "apic": "Square (video game company)"
   },
   {
    "q": "Which blue-robed Magikoopa wizard serves Bowser?",
@@ -536,12 +584,14 @@
    "p": 600,
    "alt": [
     "Super Mario Land 2"
-   ]
+   ],
+   "apic": "Super Mario Land 2: 6 Golden Coins"
   },
   {
    "q": "In which year was Super Mario Bros. 3 released in Japan?",
    "a": "1988",
-   "p": 600
+   "p": 600,
+   "pic": "Super Mario Bros. 3"
   },
   {
    "q": "Which tropical island is the setting of Super Mario Sunshine?",
@@ -557,22 +607,26 @@
    "p": 600,
    "alt": [
     "Mario Bros"
-   ]
+   ],
+   "apic": "Mario Bros."
   },
   {
    "q": "Which company developed the first eight Mario Party games?",
    "a": "Hudson Soft",
-   "p": 600
+   "p": 600,
+   "apic": "Hudson Soft"
   },
   {
    "q": "Which studio developed Luigi's Mansion 3?",
    "a": "Next Level Games",
-   "p": 600
+   "p": 600,
+   "apic": "Next Level Games"
   },
   {
    "q": "In which year was Shigeru Miyamoto born?",
    "a": "1952",
-   "p": 600
+   "p": 600,
+   "pic": "Shigeru Miyamoto"
   },
   {
    "q": "What is Rosalina's home base in Super Mario Galaxy called?",
@@ -589,7 +643,8 @@
    "alt": [
     "Elephant Fruit",
     "Elephant Mario"
-   ]
+   ],
+   "apic": "Elephant"
   },
   {
    "q": "Who is the prince of the Flower Kingdom in Super Mario Bros. Wonder?",
@@ -614,17 +669,20 @@
    "p": 600,
    "alt": [
     "Yume Kojo: Doki Doki Panic"
-   ]
+   ],
+   "apic": "Yume Kōjō: Doki Doki Panic"
   },
   {
    "q": "In which year was Super Mario World released in Japan?",
    "a": "1990",
-   "p": 600
+   "p": 600,
+   "pic": "Super Mario World"
   },
   {
    "q": "In which year was Super Mario Sunshine released?",
    "a": "2002",
-   "p": 600
+   "p": 600,
+   "pic": "Super Mario Sunshine"
   },
   {
    "q": "Which actor played Luigi in the 1993 live-action film?",
@@ -632,7 +690,8 @@
    "p": 600,
    "alt": [
     "Leguizamo"
-   ]
+   ],
+   "apic": "John Leguizamo"
   },
   {
    "q": "Which villain with bulging eyes appears in Mario & Luigi: Superstar Saga?",
@@ -647,12 +706,14 @@
   {
    "q": "Which studio develops the Paper Mario series?",
    "a": "Intelligent Systems",
-   "p": 600
+   "p": 600,
+   "apic": "Intelligent Systems"
   },
   {
    "q": "Which extra mode was bundled with Super Mario 3D World on Switch?",
    "a": "Bowser's Fury",
-   "p": 600
+   "p": 600,
+   "apic": "Super Mario 3D World"
   },
   {
    "q": "What are the flower-folk townspeople in Super Mario Bros. Wonder called?",
@@ -665,7 +726,8 @@
   {
    "q": "In which year was Super Mario Galaxy 2 released?",
    "a": "2010",
-   "p": 600
+   "p": 600,
+   "pic": "Super Mario Galaxy 2"
   },
   {
    "q": "What is the name of Cappy's sister in Super Mario Odyssey?",
@@ -697,12 +759,14 @@
    "alt": [
     "Italian-American",
     "Italian American"
-   ]
+   ],
+   "apic": "Italy"
   },
   {
    "q": "In the 2023 film, which New York borough are Mario and Luigi from?",
    "a": "Brooklyn",
-   "p": 200
+   "p": 200,
+   "apic": "Brooklyn"
   },
   {
    "q": "What letter is on Luigi's cap?",
@@ -751,7 +815,8 @@
   {
    "q": "Which Mario Kart game launched alongside the Nintendo Switch 2 in 2025?",
    "a": "Mario Kart World",
-   "p": 200
+   "p": 200,
+   "apic": "Mario Kart World"
   },
   {
    "q": "Which masked enemies in robes are common Mario foes?",
@@ -759,7 +824,8 @@
    "p": 200,
    "alt": [
     "Shy Guy"
-   ]
+   ],
+   "apic": "Shy Guy"
   },
   {
    "q": "What is the very first level of Super Mario Bros. usually called?",
@@ -793,7 +859,8 @@
    "p": 200,
    "alt": [
     "Mario 64"
-   ]
+   ],
+   "apic": "Super Mario 64"
   },
   {
    "q": "Which puzzle spin-off has Mario in a white coat throwing pills at viruses?",
@@ -801,17 +868,20 @@
    "p": 200,
    "alt": [
     "Doctor Mario"
-   ]
+   ],
+   "apic": "Dr. Mario"
   },
   {
    "q": "Which spin-off series has Mario swinging rackets on court?",
    "a": "Mario Tennis",
-   "p": 200
+   "p": 200,
+   "apic": "Mario Tennis"
   },
   {
    "q": "Which Mario RPG series uses a flat papercraft art style?",
    "a": "Paper Mario",
-   "p": 200
+   "p": 200,
+   "apic": "Paper Mario"
   },
   {
    "q": "What do you mainly buy with coins to win a game of Mario Party?",
@@ -837,7 +907,8 @@
   {
    "q": "Which theme park area themed on Mario opened at Universal Studios Japan in 2021?",
    "a": "Super Nintendo World",
-   "p": 200
+   "p": 200,
+   "apic": "Super Nintendo World"
   },
   {
    "q": "Which 2017 Switch game sees Mario travel the world in a hat-shaped airship?",
@@ -845,7 +916,8 @@
    "p": 200,
    "alt": [
     "Mario Odyssey"
-   ]
+   ],
+   "apic": "Super Mario Odyssey"
   },
   {
    "q": "How many laps make up a standard Mario Kart race?",
@@ -880,7 +952,8 @@
    "p": 200,
    "alt": [
     "Raving Rabbids"
-   ]
+   ],
+   "apic": "Rabbids"
   },
   {
    "q": "Which caterpillar enemy turns red and angry when stomped?",
@@ -908,12 +981,14 @@
   {
    "q": "Which actor voiced Donkey Kong in the 2023 Mario film?",
    "a": "Seth Rogen",
-   "p": 200
+   "p": 200,
+   "apic": "Seth Rogen"
   },
   {
    "q": "Which actor voiced Toad in the 2023 Mario film?",
    "a": "Keegan-Michael Key",
-   "p": 400
+   "p": 400,
+   "apic": "Keegan-Michael Key"
   },
   {
    "q": "What is the title of the 2026 sequel to The Super Mario Bros. Movie?",
@@ -921,7 +996,8 @@
    "p": 400,
    "alt": [
     "Super Mario Galaxy Movie"
-   ]
+   ],
+   "apic": "The Super Mario Galaxy Movie"
   },
   {
    "q": "Which power-up turns Mario into a cat in Super Mario 3D World?",
@@ -940,7 +1016,8 @@
   {
    "q": "Which pink dinosaur with a bow shoots eggs from her snout?",
    "a": "Birdo",
-   "p": 200
+   "p": 200,
+   "apic": "Birdo"
   },
   {
    "q": "What do Bloopers look like?",
@@ -948,7 +1025,8 @@
    "p": 200,
    "alt": [
     "Squids"
-   ]
+   ],
+   "apic": "Squid"
   },
   {
    "q": "Which grassy Mario Kart track is a farm full of cows and Monty Moles?",
@@ -1079,7 +1157,8 @@
    "p": 400,
    "alt": [
     "Nintendo GameCube"
-   ]
+   ],
+   "apic": "GameCube"
   },
   {
    "q": "Which 2006 DS game revived classic 2D Mario platforming?",
@@ -1088,7 +1167,8 @@
    "alt": [
     "New Super Mario Bros",
     "NSMB"
-   ]
+   ],
+   "apic": "New Super Mario Bros."
   },
   {
    "q": "Which 2009 Wii game let four players run through 2D levels together?",
@@ -1097,7 +1177,8 @@
    "alt": [
     "NSMB Wii",
     "New Super Mario Bros Wii"
-   ]
+   ],
+   "apic": "New Super Mario Bros. Wii"
   },
   {
    "q": "Which console first hosted Super Mario 3D World in 2013?",
@@ -1105,7 +1186,8 @@
    "p": 400,
    "alt": [
     "Nintendo Wii U"
-   ]
+   ],
+   "apic": "Wii U"
   },
   {
    "q": "Which handheld hosted Super Mario 3D Land?",
@@ -1113,7 +1195,8 @@
    "p": 400,
    "alt": [
     "3DS"
-   ]
+   ],
+   "apic": "Nintendo 3DS"
   },
   {
    "q": "Which 2020 Switch collection bundled Super Mario 64, Sunshine and Galaxy?",
@@ -1121,7 +1204,8 @@
    "p": 400,
    "alt": [
     "3D All-Stars"
-   ]
+   ],
+   "apic": "Super Mario 3D All-Stars"
   },
   {
    "q": "Which 1993 SNES collection remade the NES Super Mario Bros. games?",
@@ -1129,7 +1213,8 @@
    "p": 400,
    "alt": [
     "Mario All-Stars"
-   ]
+   ],
+   "apic": "Super Mario All-Stars"
   },
   {
    "q": "Which puzzle spin-off stars a backpack-wearing Toad explorer?",
@@ -1137,7 +1222,8 @@
    "p": 400,
    "alt": [
     "Captain Toad"
-   ]
+   ],
+   "apic": "Captain Toad: Treasure Tracker"
   },
   {
    "q": "Which GameCube sports spin-off has Mario playing football?",
@@ -1146,17 +1232,20 @@
    "alt": [
     "Mario Strikers",
     "Mario Smash Football"
-   ]
+   ],
+   "apic": "Super Mario Strikers"
   },
   {
    "q": "Which Game Boy series stars Wario as a greedy treasure hunter?",
    "a": "Wario Land",
-   "p": 400
+   "p": 400,
+   "apic": "Wario Land"
   },
   {
    "q": "Which Mario Kart game came with a plastic steering wheel for motion controls?",
    "a": "Mario Kart Wii",
-   "p": 400
+   "p": 400,
+   "apic": "Mario Kart Wii"
   },
   {
    "q": "What is the speed boost from holding a long drift in Mario Kart called?",
@@ -1241,7 +1330,8 @@
   {
    "q": "In which year was Super Mario Odyssey released?",
    "a": "2017",
-   "p": 400
+   "p": 400,
+   "pic": "Super Mario Odyssey"
   },
   {
    "q": "What is Bowser called in Japan?",
@@ -1250,7 +1340,8 @@
    "alt": [
     "Daimao Koopa",
     "King Koopa"
-   ]
+   ],
+   "pic": "Bowser (character)"
   },
   {
    "q": "Which wild-haired Koopaling is named after Beethoven?",
@@ -1356,7 +1447,8 @@
   {
    "q": "In which game did Princess Daisy make her debut?",
    "a": "Super Mario Land",
-   "p": 600
+   "p": 600,
+   "apic": "Super Mario Land"
   },
   {
    "q": "Which flying vehicle with a clown face does Bowser ride in Super Mario World?",
@@ -1424,7 +1516,8 @@
    "p": 600,
    "alt": [
     "Universal Hollywood"
-   ]
+   ],
+   "apic": "Universal Studios Hollywood"
   },
   {
    "q": "Which Nintendo of America warehouse landlord is Mario said to be named after?",
@@ -1432,7 +1525,8 @@
    "p": 600,
    "alt": [
     "Segale"
-   ]
+   ],
+   "apic": "Mario Segale"
   },
   {
    "q": "Which director led Super Mario Galaxy?",
@@ -1440,7 +1534,8 @@
    "p": 600,
    "alt": [
     "Koizumi"
-   ]
+   ],
+   "apic": "Yoshiaki Koizumi"
   },
   {
    "q": "Which Mario tennis game was a launch title for the Virtual Boy?",
@@ -1448,7 +1543,8 @@
    "p": 600,
    "alt": [
     "Marios Tennis"
-   ]
+   ],
+   "apic": "Mario's Tennis"
   },
   {
    "q": "By what name was Japan's harder Super Mario Bros. 2 known in the West?",
@@ -1457,7 +1553,8 @@
    "alt": [
     "Lost Levels",
     "Super Mario Bros.: The Lost Levels"
-   ]
+   ],
+   "apic": "Super Mario Bros.: The Lost Levels"
   },
   {
    "q": "Which city's sewers are the setting of the 1983 arcade game Mario Bros.?",
@@ -1466,7 +1563,8 @@
    "alt": [
     "New York City",
     "NYC"
-   ]
+   ],
+   "apic": "New York City"
   },
   {
    "q": "Which turtle enemies must be flipped by bumping the floor in the arcade Mario Bros.?",
@@ -1482,7 +1580,8 @@
    "p": 600,
    "alt": [
     "Mario 35"
-   ]
+   ],
+   "apic": "Super Mario Bros. 35"
   },
   {
    "q": "Which actor took over as the voice of Mario in Super Mario Bros. Wonder?",
@@ -1490,7 +1589,8 @@
    "p": 600,
    "alt": [
     "Afghani"
-   ]
+   ],
+   "apic": "Kevin Afghani"
   },
   {
    "q": "Which actor played King Koopa in the 1993 live-action film?",
@@ -1498,7 +1598,8 @@
    "p": 600,
    "alt": [
     "Hopper"
-   ]
+   ],
+   "apic": "Dennis Hopper"
   },
   {
    "q": "Which actress played Daisy in the 1993 live-action film?",
@@ -1506,7 +1607,8 @@
    "p": 600,
    "alt": [
     "Mathis"
-   ]
+   ],
+   "apic": "Samantha Mathis"
   },
   {
    "q": "Which actor voiced Cranky Kong in the 2023 Mario film?",
@@ -1514,17 +1616,20 @@
    "p": 600,
    "alt": [
     "Armisen"
-   ]
+   ],
+   "apic": "Fred Armisen"
   },
   {
    "q": "Which actor voiced Kamek in the 2023 Mario film?",
    "a": "Kevin Michael Richardson",
-   "p": 600
+   "p": 600,
+   "apic": "Kevin Michael Richardson"
   },
   {
    "q": "In which year was the first Super Mario Galaxy released?",
    "a": "2007",
-   "p": 600
+   "p": 600,
+   "pic": "Super Mario Galaxy"
   },
   {
    "q": "Which bee mushroom costume lets Mario fly briefly in Super Mario Galaxy?",
@@ -1541,12 +1646,14 @@
    "p": 200,
    "alt": [
     "Gameboy"
-   ]
+   ],
+   "apic": "Game Boy"
   },
   {
    "q": "Which spin-off series has Mario and friends playing on golf courses?",
    "a": "Mario Golf",
-   "p": 200
+   "p": 200,
+   "apic": "Mario Golf"
   },
   {
    "q": "What move lets Mario kick off one wall to reach another?",
@@ -1581,7 +1688,8 @@
    "p": 200,
    "alt": [
     "Mario Run"
-   ]
+   ],
+   "apic": "Super Mario Run"
   },
   {
    "q": "Which 2024 game stars Princess Peach in theatre-themed roles?",
@@ -1590,7 +1698,8 @@
    "alt": [
     "Princess Peach Showtime",
     "Showtime"
-   ]
+   ],
+   "apic": "Princess Peach: Showtime!"
   },
   {
    "q": "Which jump in Super Mario 64 needs three jumps in a row?",
@@ -1611,7 +1720,8 @@
   {
    "q": "In which year was Super Mario Bros. Wonder released?",
    "a": "2023",
-   "p": 400
+   "p": 400,
+   "pic": "Super Mario Bros. Wonder"
   },
   {
    "q": "Which song does Pauline sing at the New Donk City Festival in Super Mario Odyssey?",
@@ -1624,7 +1734,8 @@
   {
    "q": "Which Mario Kart game introduced gliders and underwater driving?",
    "a": "Mario Kart 7",
-   "p": 400
+   "p": 400,
+   "apic": "Mario Kart 7"
   },
   {
    "q": "Which GameCube Mario Kart put two characters on each kart?",
@@ -1633,12 +1744,14 @@
    "alt": [
     "Double Dash",
     "Mario Kart Double Dash"
-   ]
+   ],
+   "apic": "Mario Kart: Double Dash"
   },
   {
    "q": "Which Mario Kart game launched on phones in 2019?",
    "a": "Mario Kart Tour",
-   "p": 400
+   "p": 400,
+   "apic": "Mario Kart Tour"
   },
   {
    "q": "Which Yoshi game is made to look like it is knitted from yarn?",
@@ -1646,7 +1759,8 @@
    "p": 400,
    "alt": [
     "Woolly World"
-   ]
+   ],
+   "apic": "Yoshi's Woolly World"
   },
   {
    "q": "Which tool does Bowser Jr. use to cover Isle Delfino in graffiti?",
@@ -1686,7 +1800,8 @@
    "p": 600,
    "alt": [
     "Super Circuit"
-   ]
+   ],
+   "apic": "Mario Kart: Super Circuit"
   },
   {
    "q": "Which Mario Kart arcade series was made with Namco?",
@@ -1694,12 +1809,14 @@
    "p": 600,
    "alt": [
     "Arcade GP"
-   ]
+   ],
+   "apic": "Mario Kart Arcade GP"
   },
   {
    "q": "Which 2005 DS game starred Peach rescuing Mario with emotion powers?",
    "a": "Super Princess Peach",
-   "p": 600
+   "p": 600,
+   "apic": "Super Princess Peach"
   }
  ]
 }

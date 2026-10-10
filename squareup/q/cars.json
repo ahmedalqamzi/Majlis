@@ -5,67 +5,82 @@
   {
    "q": "Which Italian brand has a prancing horse as its logo?",
    "a": "Ferrari",
-   "p": 200
+   "p": 200,
+   "apic": "Ferrari"
   },
   {
    "q": "Which German brand's logo is four interlinked rings?",
    "a": "Audi",
-   "p": 200
+   "p": 200,
+   "apic": "Audi"
   },
   {
    "q": "Which car brand uses a three-pointed star as its logo?",
    "a": "Mercedes-Benz",
-   "p": 200
+   "p": 200,
+   "apic": "Mercedes-Benz"
   },
   {
    "q": "Which Japanese company makes the Corolla?",
    "a": "Toyota",
-   "p": 200
+   "p": 200,
+   "apic": "Toyota Corolla"
   },
   {
    "q": "Which American company makes the Mustang?",
    "a": "Ford",
-   "p": 200
+   "p": 200,
+   "apic": "Ford Mustang"
   },
   {
    "q": "Which electric car company, led by Elon Musk, makes the Model 3?",
    "a": "Tesla",
-   "p": 200
+   "p": 200,
+   "apic": "Tesla Model 3"
   },
   {
    "q": "Which Ford model, launched in 1908, helped put America on wheels?",
    "a": "Model T",
-   "p": 200
+   "p": 200,
+   "apic": "Ford Model T"
   },
   {
    "q": "Which Lamborghini supercar, built from 1974 to 1990, is known for its wedge shape and scissor doors?",
    "a": "Countach",
-   "p": 400
+   "p": 400,
+   "apic": "Lamborghini Countach"
   },
   {
    "q": "Which car, driven by Marty McFly, served as a time machine in Back to the Future?",
    "a": "DeLorean",
-   "p": 200
+   "p": 200,
+   "apic": "DMC DeLorean"
   },
   {
    "q": "Which Volvo engineer invented the three-point seat belt in 1959?",
    "a": "Nils Bohlin",
-   "p": 600
+   "p": 600,
+   "pic": "Seat belt",
+   "apic": "Nils Bohlin"
   },
   {
    "q": "Which Japanese brand makes the GT-R sports car?",
    "a": "Nissan",
-   "p": 400
+   "p": 400,
+   "apic": "Nissan GT-R"
   },
   {
    "q": "Which German company makes the 911?",
    "a": "Porsche",
-   "p": 200
+   "p": 200,
+   "apic": "Porsche 911"
   },
   {
    "q": "Who patented the first practical gasoline-powered automobile in 1886?",
    "a": "Karl Benz",
-   "p": 400
+   "p": 400,
+   "pic": "Benz Patent-Motorwagen",
+   "apic": "Carl Benz"
   },
   {
    "q": "What does BMW stand for in German?",
@@ -75,52 +90,64 @@
   {
    "q": "In which Italian town is Ferrari headquartered?",
    "a": "Maranello",
-   "p": 400
+   "p": 400,
+   "pic": "Ferrari",
+   "apic": "Maranello"
   },
   {
    "q": "Which designer created the original Mini, launched in 1959?",
    "a": "Alec Issigonis",
-   "p": 600
+   "p": 600,
+   "pic": "Mini",
+   "apic": "Alec Issigonis"
   },
   {
    "q": "Which Italian brand uses a trident as its logo?",
    "a": "Maserati",
-   "p": 400
+   "p": 400,
+   "apic": "Maserati"
   },
   {
    "q": "Which Citroën, launched in 1948, was designed to carry two farmers and a basket of eggs across a ploughed field?",
    "a": "Citroën 2CV",
-   "p": 600
+   "p": 600,
+   "apic": "Citroën 2CV"
   },
   {
    "q": "Which Japanese brand makes the Civic?",
    "a": "Honda",
-   "p": 200
+   "p": 200,
+   "apic": "Honda Civic"
   },
   {
    "q": "Which German brand makes the Golf?",
    "a": "Volkswagen",
-   "p": 200
+   "p": 200,
+   "apic": "Volkswagen Golf"
   },
   {
    "q": "Which Italian brand makes the Huracán?",
    "a": "Lamborghini",
-   "p": 400
+   "p": 400,
+   "apic": "Lamborghini Huracán"
   },
   {
    "q": "Which British brand makes the Defender off-roader?",
    "a": "Land Rover",
-   "p": 200
+   "p": 200,
+   "apic": "Land Rover Defender"
   },
   {
    "q": "Which Toyota sports car appeared in the 1967 Bond film You Only Live Twice?",
    "a": "Toyota 2000GT",
-   "p": 600
+   "p": 600,
+   "apic": "Toyota 2000GT"
   },
   {
    "q": "What is the name of the third pedal, on the far left, in a manual car?",
    "a": "Clutch",
-   "p": 200
+   "p": 200,
+   "apic": "Clutch"
   },
   {
    "q": "What does EV stand for in the car world?",
@@ -135,12 +162,14 @@
   {
    "q": "What is a car with a folding or removable roof called?",
    "a": "Convertible",
-   "p": 200
+   "p": 200,
+   "apic": "Convertible"
   },
   {
    "q": "Which Italian brand makes the 500 city car?",
    "a": "Fiat",
-   "p": 200
+   "p": 200,
+   "apic": "Fiat 500"
   },
   {
    "q": "Which animal appears on the Lamborghini logo?",
@@ -150,17 +179,20 @@
   {
    "q": "Which French brand makes the 208?",
    "a": "Peugeot",
-   "p": 400
+   "p": 400,
+   "apic": "Peugeot 208"
   },
   {
    "q": "Which British luxury brand makes the Phantom?",
    "a": "Rolls-Royce",
-   "p": 200
+   "p": 200,
+   "apic": "Rolls-Royce Phantom"
   },
   {
    "q": "Which British brand made James Bond's DB5?",
    "a": "Aston Martin",
-   "p": 200
+   "p": 200,
+   "apic": "Aston Martin DB5"
   },
   {
    "q": "What colour is Ferrari's traditional racing colour?",
@@ -170,12 +202,14 @@
   {
    "q": "Which German brand has a blue and white roundel logo?",
    "a": "BMW",
-   "p": 200
+   "p": 200,
+   "apic": "BMW"
   },
   {
    "q": "Which American brand makes the Corvette?",
    "a": "Chevrolet",
-   "p": 200
+   "p": 200,
+   "apic": "Chevrolet Corvette"
   },
   {
    "q": "In which year was the first Le Mans 24 Hours held?",
@@ -190,22 +224,26 @@
   {
    "q": "Which Pixar film stars a race car named Lightning McQueen?",
    "a": "Cars",
-   "p": 200
+   "p": 200,
+   "apic": "Cars (film)"
   },
   {
    "q": "Which flag is waved to signal the end of a race?",
    "a": "Chequered flag",
-   "p": 200
+   "p": 200,
+   "apic": "Racing flags"
   },
   {
    "q": "Which racing series includes the Monaco Grand Prix?",
    "a": "Formula 1",
-   "p": 200
+   "p": 200,
+   "apic": "Formula One"
   },
   {
    "q": "Which Japanese brand makes the MX-5 roadster?",
    "a": "Mazda",
-   "p": 400
+   "p": 400,
+   "apic": "Mazda MX-5"
   },
   {
    "q": "Which animal appears on the Peugeot logo?",
@@ -225,12 +263,15 @@
   {
    "q": "Which safety device inflates in a crash to protect passengers?",
    "a": "Airbag",
-   "p": 200
+   "p": 200,
+   "apic": "Airbag"
   },
   {
    "q": "Which British driver won the 1955 Mille Miglia for Mercedes-Benz in record time?",
    "a": "Stirling Moss",
-   "p": 600
+   "p": 600,
+   "pic": "Mille Miglia",
+   "apic": "Stirling Moss"
   },
   {
    "q": "Which American brand uses a blue oval as its logo?",
@@ -240,22 +281,27 @@
   {
    "q": "Which country is the supercar maker Koenigsegg from?",
    "a": "Sweden",
-   "p": 400
+   "p": 400,
+   "pic": "Koenigsegg Agera",
+   "apic": "Sweden"
   },
   {
    "q": "In which Alsace town did Bugatti set up its factory in 1909?",
    "a": "Molsheim",
-   "p": 600
+   "p": 600,
+   "apic": "Molsheim"
   },
   {
    "q": "Which Czech brand, part of the Volkswagen Group, makes the Octavia?",
    "a": "Skoda",
-   "p": 400
+   "p": 400,
+   "apic": "Škoda Octavia"
   },
   {
    "q": "Which Japanese brand uses three diamonds as its logo?",
    "a": "Mitsubishi",
-   "p": 400
+   "p": 400,
+   "apic": "Mitsubishi Motors"
   },
   {
    "q": "What does ABS stand for in car brakes?",
@@ -270,57 +316,70 @@
   {
    "q": "Which Mazda won the 1991 Le Mans 24 Hours, the first Japanese-built winner and the only rotary-engined one?",
    "a": "Mazda 787B",
-   "p": 600
+   "p": 600,
+   "apic": "Mazda 787B"
   },
   {
    "q": "Which German city is home to Audi's headquarters?",
    "a": "Ingolstadt",
-   "p": 600
+   "p": 600,
+   "pic": "Audi",
+   "apic": "Ingolstadt"
   },
   {
    "q": "Which Modena-born racing driver founded the company that built the 125 S in 1947?",
    "a": "Enzo Ferrari",
-   "p": 200
+   "p": 200,
+   "apic": "Enzo Ferrari"
   },
   {
    "q": "Which British brand makes the Elise and Evora?",
    "a": "Lotus",
-   "p": 400
+   "p": 400,
+   "apic": "Lotus Elise"
   },
   {
    "q": "Which British brand built the P1 and the 720S?",
    "a": "McLaren",
-   "p": 400
+   "p": 400,
+   "apic": "McLaren P1"
   },
   {
    "q": "In which year was the Ford Mustang introduced?",
    "a": "1964",
-   "p": 400
+   "p": 400,
+   "pic": "Ford Mustang"
   },
   {
    "q": "Which Italian designer drew the first-generation Volkswagen Golf?",
    "a": "Giorgetto Giugiaro",
-   "p": 600
+   "p": 600,
+   "pic": "Volkswagen Golf",
+   "apic": "Giorgetto Giugiaro"
   },
   {
    "q": "Which French town hosts a famous 24-hour endurance race?",
    "a": "Le Mans",
-   "p": 400
+   "p": 400,
+   "apic": "24 Hours of Le Mans"
   },
   {
    "q": "Which German driver won five consecutive F1 titles from 2000 to 2004?",
    "a": "Michael Schumacher",
-   "p": 200
+   "p": 200,
+   "apic": "Michael Schumacher"
   },
   {
    "q": "Which engineer designed the V12 engine of the first Ferrari, the 125 S?",
    "a": "Gioacchino Colombo",
-   "p": 600
+   "p": 600,
+   "apic": "Gioacchino Colombo"
   },
   {
    "q": "Which Italian brand makes the Giulia?",
    "a": "Alfa Romeo",
-   "p": 400
+   "p": 400,
+   "apic": "Alfa Romeo Giulia (952)"
   },
   {
    "q": "Which Italian brand's logo includes a serpent known as the Biscione?",
@@ -330,37 +389,47 @@
   {
    "q": "Which engineer designed the original Volkswagen Beetle?",
    "a": "Ferdinand Porsche",
-   "p": 400
+   "p": 400,
+   "pic": "Volkswagen Beetle",
+   "apic": "Ferdinand Porsche"
   },
   {
    "q": "Which British luxury brand, owned by the Volkswagen Group, makes the Continental GT?",
    "a": "Bentley",
-   "p": 400
+   "p": 400,
+   "apic": "Bentley Continental GT"
   },
   {
    "q": "Which Ford race car won Le Mans four years in a row from 1966?",
    "a": "GT40",
-   "p": 400
+   "p": 400,
+   "apic": "Ford GT40"
   },
   {
    "q": "Which German engineer invented the rotary engine used in the Mazda RX-7?",
    "a": "Felix Wankel",
-   "p": 600
+   "p": 600,
+   "pic": "Mazda RX-7",
+   "apic": "Felix Wankel"
   },
   {
    "q": "Which Italian circuit is nicknamed the Temple of Speed?",
    "a": "Monza",
-   "p": 400
+   "p": 400,
+   "pic": "Autodromo Nazionale di Monza",
+   "apic": "Monza Circuit"
   },
   {
    "q": "Which Swiss-born racing driver co-founded a US car brand in 1911 with William Durant?",
    "a": "Louis Chevrolet",
-   "p": 600
+   "p": 600,
+   "apic": "Louis Chevrolet"
   },
   {
    "q": "Which Frenchman built a steam-powered road vehicle in 1769?",
    "a": "Nicolas-Joseph Cugnot",
-   "p": 600
+   "p": 600,
+   "apic": "Nicolas-Joseph Cugnot"
   },
   {
    "q": "What does the name Fiat stand for?",
@@ -375,7 +444,8 @@
   {
    "q": "What was Ferruccio Lamborghini's original business before making cars?",
    "a": "Tractors",
-   "p": 400
+   "p": 400,
+   "apic": "Tractor"
   },
   {
    "q": "What does GTO stand for in Ferrari 250 GTO?",
@@ -395,12 +465,14 @@
   {
    "q": "In which year did Ford introduce its moving assembly line?",
    "a": "1913",
-   "p": 600
+   "p": 600,
+   "pic": "Ford Model T"
   },
   {
    "q": "What engine layout does the Bugatti Veyron use?",
    "a": "W16",
-   "p": 400
+   "p": 400,
+   "apic": "Bugatti Veyron"
   },
   {
    "q": "Which Italian design house styled many Ferrari road cars from the 1950s?",
@@ -410,27 +482,35 @@
   {
    "q": "Which aerodynamicist designed the Jaguar E-Type?",
    "a": "Malcolm Sayer",
-   "p": 600
+   "p": 600,
+   "pic": "Jaguar E-Type",
+   "apic": "Malcolm Sayer"
   },
   {
    "q": "Which Bertone designer drew the Lamborghini Countach?",
    "a": "Marcello Gandini",
-   "p": 600
+   "p": 600,
+   "pic": "Lamborghini Countach",
+   "apic": "Marcello Gandini"
   },
   {
    "q": "Who founded Lotus Cars?",
    "a": "Colin Chapman",
-   "p": 400
+   "p": 400,
+   "apic": "Colin Chapman"
   },
   {
    "q": "Which McLaren road car, designed by Gordon Murray, has a central driving seat?",
    "a": "McLaren F1",
-   "p": 400
+   "p": 400,
+   "pic": "McLaren F1",
+   "apic": "McLaren F1"
   },
   {
    "q": "Which 1948 American car designed by Preston Tucker had a central headlight?",
    "a": "Tucker 48",
-   "p": 600
+   "p": 600,
+   "apic": "Tucker 48"
   },
   {
    "q": "What does DOHC stand for in engine design?",
@@ -440,22 +520,26 @@
   {
    "q": "What nickname did Jackie Stewart give the Nürburgring Nordschleife?",
    "a": "The Green Hell",
-   "p": 600
+   "p": 600,
+   "apic": "Nürburgring"
   },
   {
    "q": "Which Audi model, launched in 1980, popularised permanent all-wheel drive in rallying?",
    "a": "Quattro",
-   "p": 400
+   "p": 400,
+   "apic": "Audi Quattro"
   },
   {
    "q": "Which Citroën model, launched in 1955, was famed for its hydropneumatic suspension and futuristic styling?",
    "a": "DS",
-   "p": 400
+   "p": 400,
+   "apic": "Citroën DS"
   },
   {
    "q": "What is the name of the Rolls-Royce bonnet mascot?",
    "a": "Spirit of Ecstasy",
-   "p": 400
+   "p": 400,
+   "apic": "Spirit of Ecstasy"
   },
   {
    "q": "What did the initials W.O. stand for in the name of Bentley's founder, W. O. Bentley?",
@@ -465,7 +549,8 @@
   {
    "q": "Which Italian open-road race, run from Brescia to Rome and back until 1957, was a classic of sports-car racing?",
    "a": "Mille Miglia",
-   "p": 400
+   "p": 400,
+   "apic": "Mille Miglia"
   },
   {
    "q": "What does the name Saab stand for, in Swedish?",
@@ -478,7 +563,8 @@
    "p": 600,
    "yt": "8UgJCF_a0F8",
    "start": 30,
-   "end": 55
+   "end": 55,
+   "apic": "Porsche 911 GT3"
   },
   {
    "q": "Which Mercedes-AMG sports car is being premiered in this clip?",
@@ -486,7 +572,8 @@
    "p": 400,
    "yt": "S6IHdPSIp90",
    "start": 20,
-   "end": 45
+   "end": 45,
+   "apic": "Mercedes-AMG GT"
   },
   {
    "q": "Which Lamborghini plug-in hybrid V12 supercar is shown in this clip?",
@@ -494,7 +581,8 @@
    "p": 400,
    "yt": "sitXeGjm4Mc",
    "start": 20,
-   "end": 45
+   "end": 45,
+   "apic": "Lamborghini Revuelto"
   },
   {
    "q": "Which legendary driver is completing this famous opening lap of the 1993 European Grand Prix?",
@@ -502,7 +590,8 @@
    "p": 400,
    "yt": "pktF3wJKfxo",
    "start": 10,
-   "end": 40
+   "end": 40,
+   "apic": "Ayrton Senna"
   },
   {
    "q": "Which special Mercedes-AMG model is premiered in this clip?",
@@ -523,37 +612,45 @@
   {
    "q": "Which Japanese brand makes the Patrol, a favourite SUV in the Gulf?",
    "a": "Nissan",
-   "p": 200
+   "p": 200,
+   "apic": "Nissan Patrol"
   },
   {
    "q": "Which American brand makes the Wrangler off-roader?",
    "a": "Jeep",
-   "p": 200
+   "p": 200,
+   "apic": "Jeep Wrangler"
   },
   {
    "q": "Which Swedish brand, famous for safety, makes the XC90?",
    "a": "Volvo",
-   "p": 200
+   "p": 200,
+   "apic": "Volvo XC90"
   },
   {
    "q": "Which British brand makes the F-Pace and made the E-Type?",
    "a": "Jaguar",
-   "p": 200
+   "p": 200,
+   "apic": "Jaguar E-Type"
   },
   {
    "q": "Which luxury brand is Toyota's premium division?",
    "a": "Lexus",
-   "p": 200
+   "p": 200,
+   "apic": "Lexus"
   },
   {
    "q": "Which Japanese brand makes the Swift and the Jimny?",
    "a": "Suzuki",
-   "p": 200
+   "p": 200,
+   "apic": "Suzuki Jimny"
   },
   {
    "q": "Who founded the Ford Motor Company?",
    "a": "Henry Ford",
-   "p": 200
+   "p": 200,
+   "pic": "Ford Model T",
+   "apic": "Henry Ford"
   },
   {
    "q": "What does 'hp' stand for when measuring engine power?",
@@ -577,7 +674,8 @@
   {
    "q": "Which dashboard instrument shows how fast the car is going?",
    "a": "Speedometer",
-   "p": 200
+   "p": 200,
+   "apic": "Speedometer"
   },
   {
    "q": "What type of gearbox changes gear without the driver using a clutch pedal?",
@@ -599,7 +697,8 @@
   {
    "q": "What small part creates the spark that ignites fuel in a petrol engine?",
    "a": "Spark plug",
-   "p": 200
+   "p": 200,
+   "apic": "Spark plug"
   },
   {
    "q": "How many cylinders does a V8 engine have?",
@@ -612,7 +711,8 @@
   {
    "q": "What is a car body style with a rear door that lifts upward, like the Golf, called?",
    "a": "Hatchback",
-   "p": 200
+   "p": 200,
+   "apic": "Hatchback"
   },
   {
    "q": "What is a long, stretched luxury car with a chauffeur usually called?",
@@ -620,12 +720,14 @@
    "p": 200,
    "alt": [
     "Limo"
-   ]
+   ],
+   "apic": "Limousine"
   },
   {
    "q": "Which motoring show was presented by Clarkson, Hammond and May until 2015?",
    "a": "Top Gear",
-   "p": 200
+   "p": 200,
+   "apic": "Top Gear (2002 TV series)"
   },
   {
    "q": "What is the name of Top Gear's anonymous masked racing driver?",
@@ -633,7 +735,8 @@
    "p": 200,
    "alt": [
     "Stig"
-   ]
+   ],
+   "apic": "The Stig"
   },
   {
    "q": "Which film franchise about street racing began in 2001?",
@@ -642,7 +745,8 @@
    "alt": [
     "Fast & Furious",
     "Fast and Furious"
-   ]
+   ],
+   "apic": "The Fast and the Furious"
   },
   {
    "q": "Which small British car did Mr. Bean famously drive?",
@@ -651,7 +755,8 @@
    "alt": [
     "Mini 1000",
     "Austin Mini"
-   ]
+   ],
+   "apic": "Mini"
   },
   {
    "q": "What make of car is Herbie, the Love Bug?",
@@ -660,17 +765,20 @@
    "alt": [
     "VW Beetle",
     "Beetle"
-   ]
+   ],
+   "apic": "Volkswagen Beetle"
   },
   {
    "q": "What is the name of Tesla's angular stainless-steel pickup truck?",
    "a": "Cybertruck",
-   "p": 200
+   "p": 200,
+   "apic": "Tesla Cybertruck"
   },
   {
    "q": "Which tyre company also publishes a famous restaurant guide that awards stars?",
    "a": "Michelin",
-   "p": 200
+   "p": 200,
+   "apic": "Michelin"
   },
   {
    "q": "Which animal appears at the centre of the Porsche crest?",
@@ -691,7 +799,8 @@
   {
    "q": "Which Japanese brand's badge shows the Pleiades star cluster?",
    "a": "Subaru",
-   "p": 400
+   "p": 400,
+   "apic": "Pleiades"
   },
   {
    "q": "Which French brand uses a diamond-shaped logo?",
@@ -704,7 +813,8 @@
    "p": 400,
    "alt": [
     "Citroen"
-   ]
+   ],
+   "apic": "Citroën"
   },
   {
    "q": "What is Nissan's luxury brand called?",
@@ -724,7 +834,8 @@
   {
    "q": "Which Toyota hybrid was launched in Japan in 1997?",
    "a": "Prius",
-   "p": 200
+   "p": 200,
+   "apic": "Toyota Prius"
   },
   {
    "q": "Which German engineer, who vanished from a ship in 1913, gave his name to a type of engine?",
@@ -732,12 +843,15 @@
    "p": 400,
    "alt": [
     "Diesel"
-   ]
+   ],
+   "pic": "Diesel engine",
+   "apic": "Rudolf Diesel"
   },
   {
    "q": "Who founded the Honda Motor Company?",
    "a": "Soichiro Honda",
-   "p": 400
+   "p": 400,
+   "apic": "Soichiro Honda"
   },
   {
    "q": "Which aristocratic motoring pioneer co-founded Rolls-Royce with Henry Royce?",
@@ -745,17 +859,20 @@
    "p": 400,
    "alt": [
     "Charles Stewart Rolls"
-   ]
+   ],
+   "apic": "Charles Rolls"
   },
   {
    "q": "Which Italian brand, famous in rallying with the Stratos and Delta, was founded by Vincenzo Lancia?",
    "a": "Lancia",
-   "p": 400
+   "p": 400,
+   "apic": "Lancia Stratos"
   },
   {
    "q": "Which American car brand was founded by brothers John and Horace?",
    "a": "Dodge",
-   "p": 400
+   "p": 400,
+   "apic": "Dodge"
   },
   {
    "q": "Which Milan-born founder set up the Bugatti car company?",
@@ -763,17 +880,20 @@
    "p": 400,
    "alt": [
     "Bugatti"
-   ]
+   ],
+   "apic": "Ettore Bugatti"
   },
   {
    "q": "What is the name of the talking car in Knight Rider?",
    "a": "KITT",
-   "p": 400
+   "p": 400,
+   "apic": "KITT"
   },
   {
    "q": "Which car brand makes Dom Toretto's famous black Charger in Fast & Furious?",
    "a": "Dodge",
-   "p": 200
+   "p": 200,
+   "apic": "Dodge Charger"
   },
   {
    "q": "Which Lotus model turned into a submarine in The Spy Who Loved Me?",
@@ -781,7 +901,9 @@
    "p": 400,
    "alt": [
     "Esprit"
-   ]
+   ],
+   "pic": "The Spy Who Loved Me (film)",
+   "apic": "Lotus Esprit"
   },
   {
    "q": "Which 1969 film features a famous chase with three Mini Coopers in Turin?",
@@ -789,7 +911,8 @@
    "p": 400,
    "alt": [
     "Italian Job"
-   ]
+   ],
+   "apic": "The Italian Job"
   },
   {
    "q": "What is the name of the Michelin tyre man mascot?",
@@ -797,7 +920,8 @@
    "p": 400,
    "alt": [
     "Michelin Man"
-   ]
+   ],
+   "apic": "Michelin Man"
   },
   {
    "q": "Which Chinese EV maker's name stands for 'Build Your Dreams'?",
@@ -837,7 +961,9 @@
    "alt": [
     "Sebastien Loeb",
     "Loeb"
-   ]
+   ],
+   "pic": "World Rally Championship",
+   "apic": "Sébastien Loeb"
   },
   {
    "q": "Which famous rally raid originally ran from Paris to Dakar in Senegal?",
@@ -846,7 +972,8 @@
    "alt": [
     "Dakar",
     "Paris-Dakar"
-   ]
+   ],
+   "apic": "Dakar Rally"
   },
   {
    "q": "What does MPV stand for?",
@@ -864,7 +991,8 @@
    "p": 400,
    "alt": [
     "Gullwing"
-   ]
+   ],
+   "apic": "Mercedes-Benz 300 SL"
   },
   {
    "q": "What does 'cc' measure in an engine's size?",
@@ -877,12 +1005,14 @@
   {
    "q": "Which dashboard instrument records the total distance a car has travelled?",
    "a": "Odometer",
-   "p": 200
+   "p": 200,
+   "apic": "Odometer"
   },
   {
    "q": "What device in the exhaust reduces harmful emissions?",
    "a": "Catalytic converter",
-   "p": 200
+   "p": 200,
+   "apic": "Catalytic converter"
   },
   {
    "q": "What drives the turbine of a turbocharger?",
@@ -898,7 +1028,8 @@
    "p": 200,
    "alt": [
     "Diesel engine"
-   ]
+   ],
+   "apic": "Diesel engine"
   },
   {
    "q": "Which Nissan electric hatchback was launched in 2010?",
@@ -906,7 +1037,8 @@
    "p": 400,
    "alt": [
     "Nissan Leaf"
-   ]
+   ],
+   "apic": "Nissan Leaf"
   },
   {
    "q": "What is the model name of Ford's long-running full-size F-Series pickup?",
@@ -914,7 +1046,8 @@
    "p": 400,
    "alt": [
     "F150"
-   ]
+   ],
+   "apic": "Ford F-Series"
   },
   {
    "q": "Which rugged Toyota pickup did Top Gear famously fail to destroy?",
@@ -922,7 +1055,8 @@
    "p": 400,
    "alt": [
     "Toyota Hilux"
-   ]
+   ],
+   "apic": "Toyota Hilux"
   },
   {
    "q": "Which Amazon motoring show did Clarkson, Hammond and May make after leaving Top Gear?",
@@ -930,7 +1064,8 @@
    "p": 400,
    "alt": [
     "Grand Tour"
-   ]
+   ],
+   "apic": "The Grand Tour"
   },
   {
    "q": "Which Bugatti hypercar succeeded the Veyron in 2016?",
@@ -938,7 +1073,8 @@
    "p": 400,
    "alt": [
     "Bugatti Chiron"
-   ]
+   ],
+   "apic": "Bugatti Chiron"
   },
   {
    "q": "What is the background colour of the Ferrari shield badge?",
@@ -960,12 +1096,16 @@
    "alt": [
     "GDR",
     "German Democratic Republic"
-   ]
+   ],
+   "pic": "Trabant",
+   "apic": "East Germany"
   },
   {
    "q": "In which country is the carmaker Proton based?",
    "a": "Malaysia",
-   "p": 600
+   "p": 600,
+   "pic": "Proton Saga",
+   "apic": "Malaysia"
   },
   {
    "q": "Which 2019 film starring Matt Damon and Christian Bale is about Ford's 1966 Le Mans challenge?",
@@ -973,7 +1113,8 @@
    "p": 400,
    "alt": [
     "Le Mans '66"
-   ]
+   ],
+   "apic": "Ford v Ferrari"
   },
   {
    "q": "Who founded the company that became Toyota Motor Corporation in 1937?",
@@ -981,7 +1122,8 @@
    "p": 600,
    "alt": [
     "Toyoda"
-   ]
+   ],
+   "apic": "Kiichiro Toyoda"
   },
   {
    "q": "Which Korean brand's name roughly means 'rising out of Asia'?",
@@ -991,7 +1133,8 @@
   {
    "q": "Which Chinese company bought Volvo Cars from Ford in 2010?",
    "a": "Geely",
-   "p": 600
+   "p": 600,
+   "pic": "Volvo Cars"
   },
   {
    "q": "Which German carmaker took control of the Rolls-Royce car brand in 2003?",
@@ -1001,7 +1144,8 @@
   {
    "q": "Which Romanian car brand has been owned by Renault since 1999?",
    "a": "Dacia",
-   "p": 600
+   "p": 600,
+   "pic": "Dacia Duster"
   },
   {
    "q": "Which World War I fighter pilot's emblem inspired the Ferrari prancing horse?",
@@ -1009,7 +1153,9 @@
    "p": 600,
    "alt": [
     "Baracca"
-   ]
+   ],
+   "pic": "Ferrari",
+   "apic": "Francesco Baracca"
   },
   {
    "q": "Which Lamborghini, launched in 1966 with a mid-mounted V12, is often called the first supercar?",
@@ -1017,7 +1163,8 @@
    "p": 600,
    "alt": [
     "Lamborghini Miura"
-   ]
+   ],
+   "apic": "Lamborghini Miura"
   },
   {
    "q": "What does the Alfa Romeo Quadrifoglio emblem show?",
@@ -1036,7 +1183,8 @@
     "Flat engine",
     "Flat-four",
     "Flat-six"
-   ]
+   ],
+   "apic": "Flat engine"
   },
   {
    "q": "What does GTI stand for on the Volkswagen Golf GTI?",
@@ -1054,12 +1202,14 @@
   {
    "q": "Which British carmaker is famous for using ash-wood body frames on cars like the Plus Four?",
    "a": "Morgan",
-   "p": 600
+   "p": 600,
+   "apic": "Morgan Plus 4"
   },
   {
    "q": "Which Monegasque racing driver is the Bugatti Chiron named after?",
    "a": "Louis Chiron",
-   "p": 600
+   "p": 600,
+   "apic": "Louis Chiron"
   },
   {
    "q": "Which Croatian company builds the Nevera electric hypercar?",
@@ -1067,7 +1217,8 @@
    "p": 600,
    "alt": [
     "Rimac Automobili"
-   ]
+   ],
+   "apic": "Rimac Nevera"
   },
   {
    "q": "Which Lotus model was the basis for the first Tesla Roadster?",
@@ -1075,7 +1226,8 @@
    "p": 600,
    "alt": [
     "Lotus Elise"
-   ]
+   ],
+   "apic": "Lotus Elise"
   },
   {
    "q": "Which Ford model replaced the Model T in 1927?",
@@ -1083,7 +1235,8 @@
    "p": 600,
    "alt": [
     "Ford Model A"
-   ]
+   ],
+   "apic": "Ford Model A (1927–1931)"
   },
   {
    "q": "Which Pontiac model was KITT in the original Knight Rider?",
@@ -1092,12 +1245,15 @@
    "alt": [
     "Pontiac Firebird Trans Am",
     "Firebird"
-   ]
+   ],
+   "apic": "Pontiac Firebird"
   },
   {
    "q": "Which make of car was the Ecto-1 in the original Ghostbusters?",
    "a": "Cadillac",
-   "p": 600
+   "p": 600,
+   "pic": "Ghostbusters",
+   "apic": "Ecto-1"
   },
   {
    "q": "Which BMW roadster did James Bond drive in GoldenEye?",
@@ -1105,7 +1261,9 @@
    "p": 600,
    "alt": [
     "BMW Z3"
-   ]
+   ],
+   "pic": "GoldenEye",
+   "apic": "BMW Z3"
   },
   {
    "q": "Which Japanese driver is known as the 'Drift King'?",
@@ -1113,7 +1271,8 @@
    "p": 600,
    "alt": [
     "Tsuchiya"
-   ]
+   ],
+   "apic": "Keiichi Tsuchiya"
   },
   {
    "q": "What does ESC stand for in car safety systems?",
@@ -1126,7 +1285,8 @@
    "p": 600,
    "alt": [
     "AvtoVAZ"
-   ]
+   ],
+   "apic": "Lada Niva"
   },
   {
    "q": "Which Indian company makes the Thar and Scorpio off-roaders?",
@@ -1134,7 +1294,8 @@
    "p": 600,
    "alt": [
     "Mahindra & Mahindra"
-   ]
+   ],
+   "apic": "Mahindra Thar"
   }
  ]
 }

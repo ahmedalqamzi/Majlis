@@ -5,7 +5,8 @@
   {
    "q": "In which Japanese city was Nintendo founded?",
    "a": "Kyoto",
-   "p": 200
+   "p": 200,
+   "apic": "Kyoto"
   },
   {
    "q": "In which country is Nintendo headquartered?",
@@ -19,7 +20,8 @@
    "alt": [
     "Hanafuda cards",
     "Flower cards"
-   ]
+   ],
+   "apic": "Hanafuda"
   },
   {
    "q": "Which necktie-wearing gorilla stars in the Country series of platformers?",
@@ -27,7 +29,8 @@
    "p": 200,
    "alt": [
     "DK"
-   ]
+   ],
+   "apic": "Donkey Kong (character)"
   },
   {
    "q": "What is the name of Donkey Kong's small monkey sidekick in a red cap?",
@@ -35,7 +38,8 @@
    "p": 200,
    "alt": [
     "Diddy"
-   ]
+   ],
+   "apic": "Diddy Kong"
   },
   {
    "q": "What colour is Donkey Kong's tie?",
@@ -57,7 +61,8 @@
    "alt": [
     "K. Rool",
     "King K Rool"
-   ]
+   ],
+   "apic": "King K. Rool"
   },
   {
    "q": "Which 2025 Switch 2 game has DK smashing his way through an underground world?",
@@ -65,7 +70,8 @@
    "p": 200,
    "alt": [
     "DK Bananza"
-   ]
+   ],
+   "apic": "Donkey Kong Bananza"
   },
   {
    "q": "Which Nintendo fighting series pits Mario, Link, Pikachu and Kirby against each other?",
@@ -74,7 +80,8 @@
    "alt": [
     "Smash Bros.",
     "Smash"
-   ]
+   ],
+   "apic": "Super Smash Bros."
   },
   {
    "q": "Which 2018 Smash Bros. game brought back every fighter from the series' history?",
@@ -83,7 +90,8 @@
    "alt": [
     "Smash Ultimate",
     "Ultimate"
-   ]
+   ],
+   "apic": "Super Smash Bros. Ultimate"
   },
   {
    "q": "Which 2001 GameCube Smash game remains a competitive favourite?",
@@ -92,12 +100,14 @@
    "alt": [
     "Melee",
     "Smash Melee"
-   ]
+   ],
+   "apic": "Super Smash Bros. Melee"
   },
   {
    "q": "What is Captain Falcon's famous flaming signature attack in Smash?",
    "a": "Falcon Punch",
-   "p": 200
+   "p": 200,
+   "pic": "Captain Falcon"
   },
   {
    "q": "Which penguin calls himself king and is Kirby's frequent rival?",
@@ -105,12 +115,14 @@
    "p": 200,
    "alt": [
     "Dedede"
-   ]
+   ],
+   "apic": "King Dedede"
   },
   {
    "q": "Which masked swordsman with bat-like wings appears in the Kirby games?",
    "a": "Meta Knight",
-   "p": 200
+   "p": 200,
+   "apic": "Meta Knight"
   },
   {
    "q": "Which 2022 Switch game was Kirby's first fully 3D platform adventure?",
@@ -118,7 +130,8 @@
    "p": 200,
    "alt": [
     "Forgotten Land"
-   ]
+   ],
+   "apic": "Kirby and the Forgotten Land"
   },
   {
    "q": "Which round, orange, mouthless creatures are King Dedede's most common foot soldiers?",
@@ -131,7 +144,8 @@
   {
    "q": "Who is the cheerful yellow assistant at Resident Services in Animal Crossing: New Horizons?",
    "a": "Isabelle",
-   "p": 200
+   "p": 200,
+   "apic": "Isabelle (Animal Crossing)"
   },
   {
    "q": "What kind of animal is Isabelle from Animal Crossing?",
@@ -161,12 +175,14 @@
    "alt": [
     "K.K.",
     "Totakeke"
-   ]
+   ],
+   "apic": "K.K. Slider"
   },
   {
    "q": "In which Nintendo series do you pay off a home loan by selling fruit, fish and fossils?",
    "a": "Animal Crossing",
-   "p": 200
+   "p": 200,
+   "apic": "Animal Crossing"
   },
   {
    "q": "Which vegetable is bought on Sundays and traded like stocks in Animal Crossing?",
@@ -174,7 +190,8 @@
    "p": 200,
    "alt": [
     "Turnip"
-   ]
+   ],
+   "apic": "Turnip"
   },
   {
    "q": "Which 2020 Nintendo game had players move to a deserted island getaway?",
@@ -183,7 +200,8 @@
    "alt": [
     "New Horizons",
     "ACNH"
-   ]
+   ],
+   "apic": "Animal Crossing: New Horizons"
   },
   {
    "q": "What are the squid-kid characters you play as in Splatoon called?",
@@ -214,7 +232,8 @@
    "p": 200,
    "alt": [
     "Switch 2"
-   ]
+   ],
+   "apic": "Nintendo Switch 2"
   },
   {
    "q": "Which Nintendo handheld showed 3D images without the need for glasses?",
@@ -222,7 +241,8 @@
    "p": 200,
    "alt": [
     "3DS"
-   ]
+   ],
+   "apic": "Nintendo 3DS"
   },
   {
    "q": "What does the \"DS\" in Nintendo DS stand for?",
@@ -239,7 +259,8 @@
    "alt": [
     "Joy-Cons",
     "Joycon"
-   ]
+   ],
+   "apic": "Joy-Con"
   },
   {
    "q": "Which 2019 Switch model is handheld-only and cannot be docked to a TV?",
@@ -247,7 +268,8 @@
    "p": 200,
    "alt": [
     "Switch Lite"
-   ]
+   ],
+   "apic": "Nintendo Switch Lite"
   },
   {
    "q": "What are Nintendo's online video showcases announcing new games called?",
@@ -255,17 +277,20 @@
    "p": 200,
    "alt": [
     "Directs"
-   ]
+   ],
+   "apic": "Nintendo Direct"
   },
   {
    "q": "Which Wii launch game included tennis, bowling, golf, baseball and boxing?",
    "a": "Wii Sports",
-   "p": 200
+   "p": 200,
+   "apic": "Wii Sports"
   },
   {
    "q": "Which Wii game used a balance board for yoga, aerobics and exercise?",
    "a": "Wii Fit",
-   "p": 200
+   "p": 200,
+   "apic": "Wii Fit"
   },
   {
    "q": "What is the name of the motion-sensing, TV-remote-shaped controller that came with the Wii?",
@@ -273,7 +298,8 @@
    "p": 200,
    "alt": [
     "Wiimote"
-   ]
+   ],
+   "apic": "Wii Remote"
   },
   {
    "q": "Which attachment plugs into the Wii Remote to add an analogue stick?",
@@ -289,7 +315,8 @@
    "p": 200,
    "alt": [
     "Mii"
-   ]
+   ],
+   "apic": "Mii"
   },
   {
    "q": "Which Switch fitness game uses a flexible ring-shaped controller?",
@@ -297,7 +324,8 @@
    "p": 200,
    "alt": [
     "Ring Fit"
-   ]
+   ],
+   "apic": "Ring Fit Adventure"
   },
   {
    "q": "What are Nintendo's NFC figurines that unlock in-game content called?",
@@ -305,22 +333,26 @@
    "p": 200,
    "alt": [
     "amiibos"
-   ]
+   ],
+   "apic": "Amiibo"
   },
   {
    "q": "Which NES game had you shooting ducks with a light gun while a dog laughed at you?",
    "a": "Duck Hunt",
-   "p": 200
+   "p": 200,
+   "apic": "Duck Hunt"
   },
   {
    "q": "Which Nintendo series has you commanding small plant-like creatures?",
    "a": "Pikmin",
-   "p": 200
+   "p": 200,
+   "apic": "Pikmin"
   },
   {
    "q": "Which Nintendo DS game let you raise and play with virtual puppies?",
    "a": "Nintendogs",
-   "p": 200
+   "p": 200,
+   "apic": "Nintendogs"
   },
   {
    "q": "Which DS game featuring Dr Kawashima claimed to keep your mind sharp with daily puzzles?",
@@ -337,7 +369,8 @@
    "p": 200,
    "alt": [
     "Starfox"
-   ]
+   ],
+   "apic": "Star Fox"
   },
   {
    "q": "Which futuristic Nintendo racing series stars Captain Falcon?",
@@ -345,7 +378,8 @@
    "p": 200,
    "alt": [
     "F Zero"
-   ]
+   ],
+   "apic": "F-Zero"
   },
   {
    "q": "Which Nintendo handheld succeeded the Game Boy Color in 2001?",
@@ -353,12 +387,14 @@
    "p": 200,
    "alt": [
     "GBA"
-   ]
+   ],
+   "apic": "Game Boy Advance"
   },
   {
    "q": "Which Nintendo strategy series features the swordsmen Marth and Ike?",
    "a": "Fire Emblem",
-   "p": 200
+   "p": 200,
+   "apic": "Fire Emblem"
   },
   {
    "q": "What weapon is built into Samus Aran's right arm?",
@@ -374,12 +410,14 @@
    "p": 200,
    "alt": [
     "GoldenEye"
-   ]
+   ],
+   "apic": "GoldenEye 007 (1997 video game)"
   },
   {
    "q": "Which 2022 Switch game is the third main entry in the ink-shooting series?",
    "a": "Splatoon 3",
-   "p": 200
+   "p": 200,
+   "apic": "Splatoon 3"
   },
   {
    "q": "How many Joy-Con come with a standard Nintendo Switch?",
@@ -395,7 +433,8 @@
    "p": 200,
    "alt": [
     "Dixie"
-   ]
+   ],
+   "apic": "Dixie Kong"
   },
   {
    "q": "Which grumpy, elderly Kong complains about modern games in Donkey Kong Country?",
@@ -403,7 +442,8 @@
    "p": 200,
    "alt": [
     "Cranky"
-   ]
+   ],
+   "apic": "Cranky Kong"
   },
   {
    "q": "Which N64 add-on made the controller vibrate?",
@@ -411,17 +451,20 @@
    "p": 200,
    "alt": [
     "Rumble Pack"
-   ]
+   ],
+   "apic": "Rumble Pak"
   },
   {
    "q": "Which game genre name blends Metroid with Konami's vampire-hunting series?",
    "a": "Metroidvania",
-   "p": 200
+   "p": 200,
+   "apic": "Metroidvania"
   },
   {
    "q": "In which year was Animal Crossing: New Horizons released?",
    "a": "2020",
-   "p": 200
+   "p": 200,
+   "pic": "Animal Crossing: New Horizons"
   },
   {
    "q": "Which real heavyweight champion headlined the 1987 NES version of Punch-Out!!?",
@@ -429,7 +472,8 @@
    "p": 200,
    "alt": [
     "Tyson"
-   ]
+   ],
+   "apic": "Mike Tyson"
   },
   {
    "q": "Which item in Smash Bros. lets a fighter unleash their Final Smash?",
@@ -439,7 +483,8 @@
   {
    "q": "Which Kingdom Hearts hero was the final DLC fighter added to Smash Ultimate?",
    "a": "Sora",
-   "p": 200
+   "p": 200,
+   "apic": "Sora (Kingdom Hearts)"
   },
   {
    "q": "Which Minecraft hero joined Smash Ultimate as a DLC fighter in 2020?",
@@ -447,7 +492,8 @@
    "p": 200,
    "alt": [
     "Steve and Alex"
-   ]
+   ],
+   "apic": "Steve (Minecraft)"
   },
   {
    "q": "Which 2018 Nintendo product let players build pianos and fishing rods from cardboard?",
@@ -455,7 +501,8 @@
    "p": 200,
    "alt": [
     "Labo"
-   ]
+   ],
+   "apic": "Nintendo Labo"
   },
   {
    "q": "In Smash Bros., where must you send opponents to score a KO?",
@@ -472,7 +519,8 @@
    "p": 200,
    "alt": [
     "Switch Sports"
-   ]
+   ],
+   "apic": "Nintendo Switch Sports"
   },
   {
    "q": "Which Sega mascot joined Super Smash Bros. in Brawl?",
@@ -480,7 +528,8 @@
    "p": 200,
    "alt": [
     "Sonic the Hedgehog"
-   ]
+   ],
+   "apic": "Sonic the Hedgehog (character)"
   },
   {
    "q": "Which giant white glove is a recurring boss in Super Smash Bros.?",
@@ -499,12 +548,14 @@
    "alt": [
     "Brawl",
     "Smash Brawl"
-   ]
+   ],
+   "apic": "Super Smash Bros. Brawl"
   },
   {
    "q": "In the arcade game Donkey Kong Jr., who is the villain holding DK captive?",
    "a": "Mario",
-   "p": 200
+   "p": 200,
+   "apic": "Mario"
   },
   {
    "q": "Which Splatoon event lets players pick a side in a themed team-vs-team battle?",
@@ -525,7 +576,8 @@
    "p": 200,
    "alt": [
     "Pocket Camp"
-   ]
+   ],
+   "apic": "Animal Crossing: Pocket Camp"
   },
   {
    "q": "Which 2017 Switch launch game had two players face each other in quick-draw and cow-milking minigames?",
@@ -533,12 +585,14 @@
    "p": 200,
    "alt": [
     "1 2 Switch"
-   ]
+   ],
+   "apic": "1-2-Switch"
   },
   {
    "q": "Which Wii U launch title was a theme park of Nintendo-themed minigames?",
    "a": "Nintendo Land",
-   "p": 200
+   "p": 200,
+   "apic": "Nintendo Land"
   },
   {
    "q": "Which Animal Crossing tool do you use to catch bugs?",
@@ -554,12 +608,14 @@
    "p": 200,
    "alt": [
     "Metroid Prime 4"
-   ]
+   ],
+   "apic": "Metroid Prime 4: Beyond"
   },
   {
    "q": "Which free-to-play mobile game gathers heroes from across Fire Emblem history?",
    "a": "Fire Emblem Heroes",
-   "p": 200
+   "p": 200,
+   "apic": "Fire Emblem Heroes"
   },
   {
    "q": "Which blue-feathered ace pilot is part of Fox McCloud's team?",
@@ -567,7 +623,8 @@
    "p": 200,
    "alt": [
     "Falco"
-   ]
+   ],
+   "apic": "Falco Lombardi"
   },
   {
    "q": "Which Smash fighter is a flat black figure from the Game & Watch handhelds?",
@@ -575,7 +632,8 @@
    "p": 200,
    "alt": [
     "Mr Game and Watch"
-   ]
+   ],
+   "apic": "Mr. Game & Watch"
   },
   {
    "q": "What tool do you use to catch fish in Animal Crossing?",
@@ -633,7 +691,8 @@
    "p": 200,
    "alt": [
     "Arwings"
-   ]
+   ],
+   "apic": "Arwing"
   },
   {
    "q": "What is Nintendo's paid online subscription service for the Switch called?",
@@ -641,7 +700,8 @@
    "p": 200,
    "alt": [
     "NSO"
-   ]
+   ],
+   "apic": "Nintendo Switch Online"
   },
   {
    "q": "What is the name of Nintendo's digital game store?",
@@ -649,7 +709,8 @@
    "p": 200,
    "alt": [
     "eShop"
-   ]
+   ],
+   "apic": "Nintendo eShop"
   },
   {
    "q": "In Smash Bros., what rises as a fighter takes hits, making them fly further?",
@@ -671,12 +732,14 @@
    "p": 200,
    "alt": [
     "Olimar"
-   ]
+   ],
+   "apic": "Captain Olimar"
   },
   {
    "q": "Which Yamauchi led Nintendo as president from 1949 to 2002?",
    "a": "Hiroshi Yamauchi",
-   "p": 400
+   "p": 400,
+   "apic": "Hiroshi Yamauchi"
   },
   {
    "q": "Which American executive, president of Nintendo of America, became a meme at E3 2007?",
@@ -685,7 +748,8 @@
    "alt": [
     "Reggie",
     "Reggie Fils-Aime"
-   ]
+   ],
+   "apic": "Reggie Fils-Aimé"
   },
   {
    "q": "In which US state is Nintendo of America headquartered?",
@@ -694,7 +758,8 @@
    "alt": [
     "Washington State",
     "Redmond"
-   ]
+   ],
+   "apic": "Washington (state)"
   },
   {
    "q": "Which British studio developed Donkey Kong Country for the SNES?",
@@ -702,7 +767,9 @@
    "p": 400,
    "alt": [
     "Rareware"
-   ]
+   ],
+   "pic": "Donkey Kong Country",
+   "apic": "Rare (company)"
   },
   {
    "q": "Which bear-and-bird duo starred in Rare's 1998 N64 platformer?",
@@ -710,7 +777,8 @@
    "p": 400,
    "alt": [
     "Banjo and Kazooie"
-   ]
+   ],
+   "apic": "Banjo-Kazooie"
   },
   {
    "q": "How many handles did the Nintendo 64 controller have?",
@@ -726,7 +794,8 @@
    "p": 400,
    "alt": [
     "NES Zapper"
-   ]
+   ],
+   "apic": "NES Zapper"
   },
   {
    "q": "What was the name of the toy robot accessory sold with the NES?",
@@ -735,7 +804,8 @@
    "alt": [
     "ROB",
     "Robotic Operating Buddy"
-   ]
+   ],
+   "apic": "R.O.B."
   },
   {
    "q": "Which designer created both Kirby and Super Smash Bros.?",
@@ -743,7 +813,8 @@
    "p": 400,
    "alt": [
     "Sakurai"
-   ]
+   ],
+   "apic": "Masahiro Sakurai"
   },
   {
    "q": "Which studio develops the Kirby games?",
@@ -751,7 +822,9 @@
    "p": 400,
    "alt": [
     "HAL"
-   ]
+   ],
+   "pic": "Kirby (character)",
+   "apic": "HAL Laboratory"
   },
   {
    "q": "Which 1992 Game Boy game was Kirby's debut?",
@@ -759,7 +832,8 @@
    "p": 400,
    "alt": [
     "Kirby's Dreamland"
-   ]
+   ],
+   "apic": "Kirby's Dream Land"
   },
   {
    "q": "What is the name of Kirby's star-shaped flying vehicle?",
@@ -769,7 +843,8 @@
   {
    "q": "Which studio develops the Fire Emblem series?",
    "a": "Intelligent Systems",
-   "p": 400
+   "p": 400,
+   "apic": "Intelligent Systems"
   },
   {
    "q": "In Fire Emblem's weapon triangle, which weapon type beats axes?",
@@ -798,7 +873,8 @@
    "p": 400,
    "alt": [
     "Monolith"
-   ]
+   ],
+   "apic": "Monolith Soft"
   },
   {
    "q": "What is the name of the prophetic red sword wielded by Shulk?",
@@ -816,12 +892,14 @@
   {
    "q": "What is the name of Samus Aran's winged space-pirate arch-enemy?",
    "a": "Ridley",
-   "p": 400
+   "p": 400,
+   "apic": "Ridley (Metroid)"
   },
   {
    "q": "Which giant brain in a tank is the final boss of the original Metroid?",
    "a": "Mother Brain",
-   "p": 400
+   "p": 400,
+   "apic": "Mother Brain"
   },
   {
    "q": "What does Samus curl into to roll through narrow tunnels?",
@@ -860,7 +938,8 @@
   {
    "q": "On which console did the first Splatoon launch in 2015?",
    "a": "Wii U",
-   "p": 400
+   "p": 400,
+   "apic": "Wii U"
   },
   {
    "q": "What are the names of the Squid Sisters pop idols in Splatoon?",
@@ -889,7 +968,8 @@
   {
    "q": "Which angel is the hero of Kid Icarus?",
    "a": "Pit",
-   "p": 400
+   "p": 400,
+   "apic": "Pit (Kid Icarus)"
   },
   {
    "q": "Which boxer is the small hero of the Punch-Out!! series?",
@@ -899,7 +979,8 @@
   {
    "q": "Which baseball-capped boy from EarthBound is a Smash Bros. fighter?",
    "a": "Ness",
-   "p": 400
+   "p": 400,
+   "apic": "Ness (EarthBound)"
   },
   {
    "q": "In which year did the first Super Smash Bros. release in Japan?",
@@ -930,17 +1011,20 @@
   {
    "q": "Which Nintendo series of five-second microgames is named after Mario's greedy rival?",
    "a": "WarioWare",
-   "p": 400
+   "p": 400,
+   "apic": "WarioWare"
   },
   {
    "q": "Which Intelligent Systems strategy series features armies led by commanders such as Andy?",
    "a": "Advance Wars",
-   "p": 400
+   "p": 400,
+   "apic": "Advance Wars"
   },
   {
    "q": "Which Switch fighting game features boxers with stretchy, spring-loaded limbs?",
    "a": "ARMS",
-   "p": 400
+   "p": 400,
+   "apic": "Arms (video game)"
   },
   {
    "q": "What was the Nintendo Switch's codename before it was announced?",
@@ -961,7 +1045,8 @@
   {
    "q": "What was the Wii's download service for classic retro games called?",
    "a": "Virtual Console",
-   "p": 400
+   "p": 400,
+   "apic": "Virtual Console"
   },
   {
    "q": "Which 3DS feature swapped data with other systems as players passed each other?",
@@ -977,7 +1062,8 @@
    "p": 400,
    "alt": [
     "GBA SP"
-   ]
+   ],
+   "apic": "Game Boy Advance SP"
   },
   {
    "q": "Which slimmer, brighter redesign of the DS came out in 2006?",
@@ -985,17 +1071,20 @@
    "p": 400,
    "alt": [
     "DS Lite"
-   ]
+   ],
+   "apic": "Nintendo DS Lite"
   },
   {
    "q": "In which year was the Game Boy Color released?",
    "a": "1998",
-   "p": 400
+   "p": 400,
+   "pic": "Game Boy Color"
   },
   {
    "q": "Which Game Boy accessory printed photos on thermal paper?",
    "a": "Game Boy Printer",
-   "p": 400
+   "p": 400,
+   "apic": "Game Boy Printer"
   },
   {
    "q": "What do Nintendo Switch game cards taste like, thanks to a coating to stop children swallowing them?",
@@ -1024,12 +1113,15 @@
   {
    "q": "Which city's Universal Studios park opened the first Super Nintendo World in 2021?",
    "a": "Osaka",
-   "p": 400
+   "p": 400,
+   "pic": "Super Nintendo World",
+   "apic": "Osaka"
   },
   {
    "q": "What was Satoru Iwata's long-running series of interviews with developers called?",
    "a": "Iwata Asks",
-   "p": 400
+   "p": 400,
+   "pic": "Satoru Iwata"
   },
   {
    "q": "Which writer's Mother series is known in the West through EarthBound?",
@@ -1037,12 +1129,15 @@
    "p": 400,
    "alt": [
     "Itoi"
-   ]
+   ],
+   "pic": "EarthBound",
+   "apic": "Shigesato Itoi"
   },
   {
    "q": "Which ice-axe-wielding duo climb mountains in a 1985 NES game and in Smash?",
    "a": "Ice Climbers",
-   "p": 400
+   "p": 400,
+   "apic": "Ice Climber"
   },
   {
    "q": "What is the name of Kirby's home land in most games?",
@@ -1063,7 +1158,8 @@
    "p": 400,
    "alt": [
     "Jungle Beat"
-   ]
+   ],
+   "apic": "Donkey Kong Jungle Beat"
   },
   {
    "q": "What kind of animal is Rambi, Donkey Kong's animal buddy?",
@@ -1071,7 +1167,8 @@
    "p": 400,
    "alt": [
     "Rhino"
-   ]
+   ],
+   "apic": "Rhinoceros"
   },
   {
    "q": "Which sunglasses-wearing, surfing Kong appears in the Donkey Kong Country games?",
@@ -1125,7 +1222,8 @@
    "p": 400,
    "alt": [
     "Fates"
-   ]
+   ],
+   "apic": "Fire Emblem Fates"
   },
   {
    "q": "Which wireless GameCube controller was named after a bird?",
@@ -1133,17 +1231,20 @@
    "p": 400,
    "alt": [
     "Wave Bird"
-   ]
+   ],
+   "apic": "WaveBird"
   },
   {
    "q": "Which 3DS life sim lets your Miis live together on an island and fall in love?",
    "a": "Tomodachi Life",
-   "p": 400
+   "p": 400,
+   "apic": "Tomodachi Life"
   },
   {
    "q": "Which Nintendo magazine ran in North America from 1988 to 2012?",
    "a": "Nintendo Power",
-   "p": 400
+   "p": 400,
+   "apic": "Nintendo Power"
   },
   {
    "q": "Which red-haired Fire Emblem lord appeared in Smash Melee before his own game came out?",
@@ -1169,7 +1270,8 @@
   {
    "q": "Which character did Persona 5 contribute as Smash Ultimate's first paid DLC fighter?",
    "a": "Joker",
-   "p": 400
+   "p": 400,
+   "apic": "Joker (Persona)"
   },
   {
    "q": "What is the name of Smash Ultimate's adventure mode?",
@@ -1187,12 +1289,14 @@
    "p": 400,
    "alt": [
     "Epic Yarn"
-   ]
+   ],
+   "apic": "Kirby's Epic Yarn"
   },
   {
    "q": "Which 1993 NES game introduced Kirby's Copy Abilities?",
    "a": "Kirby's Adventure",
-   "p": 400
+   "p": 400,
+   "apic": "Kirby's Adventure"
   },
   {
    "q": "What is the name of Meta Knight's giant battleship?",
@@ -1276,17 +1380,20 @@
   {
    "q": "Which Wii U social network let players post drawings and messages?",
    "a": "Miiverse",
-   "p": 400
+   "p": 400,
+   "apic": "Miiverse"
   },
   {
    "q": "Which 1996 slimmer Game Boy model needed only two AAA batteries?",
    "a": "Game Boy Pocket",
-   "p": 400
+   "p": 400,
+   "apic": "Game Boy Pocket"
   },
   {
    "q": "Which Game Boy accessory let players take tiny black-and-white photos?",
    "a": "Game Boy Camera",
-   "p": 400
+   "p": 400,
+   "apic": "Game Boy Camera"
   },
   {
    "q": "Which DS model added cameras and an SD card slot in 2008?",
@@ -1294,7 +1401,8 @@
    "p": 400,
    "alt": [
     "DSi"
-   ]
+   ],
+   "apic": "Nintendo DSi"
   },
   {
    "q": "Which wedge-shaped, non-folding 3DS variant launched in 2013?",
@@ -1302,12 +1410,14 @@
    "p": 400,
    "alt": [
     "2DS"
-   ]
+   ],
+   "apic": "Nintendo 2DS"
   },
   {
    "q": "In which year did the Nintendo 3DS launch?",
    "a": "2011",
-   "p": 400
+   "p": 400,
+   "pic": "Nintendo 3DS"
   },
   {
    "q": "Which Nintendo console's controller introduced the L and R shoulder buttons?",
@@ -1316,7 +1426,8 @@
    "alt": [
     "SNES",
     "Super Famicom"
-   ]
+   ],
+   "apic": "Super Nintendo Entertainment System"
   },
   {
    "q": "How do the Switch 2's Joy-Con attach to the console?",
@@ -1340,7 +1451,8 @@
    "p": 400,
    "alt": [
     "Rhythm Tengoku"
-   ]
+   ],
+   "apic": "Rhythm Heaven"
   },
   {
    "q": "What was the name of the GameCube's best-known deep purple colour?",
@@ -1413,12 +1525,14 @@
    "p": 600,
    "alt": [
     "Walt Disney"
-   ]
+   ],
+   "apic": "The Walt Disney Company"
   },
   {
    "q": "Which extending grabber toy, designed by Gunpei Yokoi, was a 1960s Nintendo hit?",
    "a": "Ultra Hand",
-   "p": 600
+   "p": 600,
+   "apic": "Ultra Hand"
   },
   {
    "q": "How many cards are in a standard hanafuda deck?",
@@ -1434,7 +1548,9 @@
    "p": 600,
    "alt": [
     "Mariners"
-   ]
+   ],
+   "pic": "Hiroshi Yamauchi",
+   "apic": "Seattle Mariners"
   },
   {
    "q": "Who succeeded Satoru Iwata as Nintendo president in 2015?",
@@ -1442,7 +1558,9 @@
    "p": 600,
    "alt": [
     "Kimishima"
-   ]
+   ],
+   "pic": "Satoru Iwata",
+   "apic": "Tatsumi Kimishima"
   },
   {
    "q": "Who became Nintendo's president in 2018?",
@@ -1450,12 +1568,15 @@
    "p": 600,
    "alt": [
     "Furukawa"
-   ]
+   ],
+   "apic": "Shuntaro Furukawa"
   },
   {
    "q": "In which Kyoto Prefecture city did the Nintendo Museum open in 2024?",
    "a": "Uji",
-   "p": 600
+   "p": 600,
+   "pic": "Nintendo Museum",
+   "apic": "Uji"
   },
   {
    "q": "In which US city did the NES first launch as a test market in 1985?",
@@ -1463,12 +1584,15 @@
    "p": 600,
    "alt": [
     "New York City"
-   ]
+   ],
+   "pic": "Nintendo Entertainment System",
+   "apic": "New York City"
   },
   {
    "q": "What was the GameCube's codename during development?",
    "a": "Dolphin",
-   "p": 600
+   "p": 600,
+   "pic": "GameCube"
   },
   {
    "q": "Which N64 memory add-on was required to play Donkey Kong 64?",
@@ -1484,12 +1608,15 @@
    "p": 600,
    "alt": [
     "Super FX chip"
-   ]
+   ],
+   "pic": "Star Fox (1993 video game)",
+   "apic": "Super FX"
   },
   {
    "q": "Which SNES cartridge adapter let players run Game Boy games on a TV?",
    "a": "Super Game Boy",
-   "p": 600
+   "p": 600,
+   "apic": "Super Game Boy"
   },
   {
    "q": "Which Famicom add-on read games from proprietary floppy disks?",
@@ -1497,12 +1624,14 @@
    "p": 600,
    "alt": [
     "Disk System"
-   ]
+   ],
+   "apic": "Family Computer Disk System"
   },
   {
    "q": "Which tiny Game Boy Advance model was released in 2005?",
    "a": "Game Boy Micro",
-   "p": 600
+   "p": 600,
+   "apic": "Game Boy Micro"
   },
   {
    "q": "How many playable fighters did the original N64 Super Smash Bros. have?",
@@ -1510,7 +1639,8 @@
    "p": 600,
    "alt": [
     "Twelve"
-   ]
+   ],
+   "pic": "Super Smash Bros. (video game)"
   },
   {
    "q": "What was the story mode of Super Smash Bros. Brawl called?",
@@ -1526,7 +1656,8 @@
    "p": 600,
    "alt": [
     "MotionPlus"
-   ]
+   ],
+   "apic": "Wii MotionPlus"
   },
   {
    "q": "On which planet does Samus fight Mother Brain in the original Metroid?",
@@ -1542,7 +1673,9 @@
    "p": 600,
    "alt": [
     "Mercury Steam"
-   ]
+   ],
+   "pic": "Metroid Dread",
+   "apic": "MercurySteam"
   },
   {
    "q": "What parasite infects Samus at the start of Metroid Fusion?",
@@ -1596,7 +1729,8 @@
    "p": 600,
    "alt": [
     "Shadow Dragon and the Blade of Light"
-   ]
+   ],
+   "apic": "Fire Emblem: Shadow Dragon and the Blade of Light"
   },
   {
    "q": "Which kingdom is Marth the prince of?",
@@ -1609,7 +1743,8 @@
    "p": 600,
    "alt": [
     "Takahashi"
-   ]
+   ],
+   "apic": "Tetsuya Takahashi"
   },
   {
    "q": "On the bodies of which two frozen titans is the first Xenoblade Chronicles set?",
@@ -1654,7 +1789,8 @@
    "p": 600,
    "alt": [
     "N64"
-   ]
+   ],
+   "apic": "Nintendo 64"
   },
   {
    "q": "What are the hedgehog sisters who run the clothing shop in Animal Crossing called?",
@@ -1691,7 +1827,8 @@
   {
    "q": "Which failed 1980 Nintendo arcade game had its unsold cabinets converted into Donkey Kong?",
    "a": "Radar Scope",
-   "p": 600
+   "p": 600,
+   "apic": "Radar Scope"
   },
   {
    "q": "Which 1982 Game & Watch title introduced Nintendo's cross-shaped D-pad?",
@@ -1725,7 +1862,8 @@
   {
    "q": "Which Mattel-made NES glove controller became a famous flop?",
    "a": "Power Glove",
-   "p": 600
+   "p": 600,
+   "apic": "Power Glove"
   },
   {
    "q": "Which NES security chip blocked unlicensed cartridges?",
@@ -1741,7 +1879,8 @@
    "p": 600,
    "alt": [
     "Transfer Pack"
-   ]
+   ],
+   "apic": "Transfer Pak"
   },
   {
    "q": "Which N64 add-on, released only in Japan, read magnetic disks?",
@@ -1749,22 +1888,26 @@
    "p": 600,
    "alt": [
     "N64DD"
-   ]
+   ],
+   "apic": "64DD"
   },
   {
    "q": "Which GameCube add-on let players run Game Boy Advance games on a TV?",
    "a": "Game Boy Player",
-   "p": 600
+   "p": 600,
+   "apic": "Game Boy Player"
   },
   {
    "q": "Which Super Famicom satellite add-on broadcast games in Japan?",
    "a": "Satellaview",
-   "p": 600
+   "p": 600,
+   "apic": "Satellaview"
   },
   {
    "q": "Which Japan-only 1998 Game Boy model had a backlit screen?",
    "a": "Game Boy Light",
-   "p": 600
+   "p": 600,
+   "apic": "Game Boy Light"
   },
   {
    "q": "How many shades could the original Game Boy screen display?",
@@ -1788,12 +1931,14 @@
    "p": 600,
    "alt": [
     "New 3DS"
-   ]
+   ],
+   "apic": "New Nintendo 3DS"
   },
   {
    "q": "What was Nintendo's first smartphone app, a Mii social game launched in 2016?",
    "a": "Miitomo",
-   "p": 600
+   "p": 600,
+   "apic": "Miitomo"
   },
   {
    "q": "What was the name of the island in Wii Sports Resort?",
@@ -1833,7 +1978,8 @@
    "p": 600,
    "alt": [
     "Samus Returns"
-   ]
+   ],
+   "apic": "Metroid: Samus Returns"
   },
   {
    "q": "Which 2004 GBA game remade the original Metroid?",
@@ -1841,12 +1987,15 @@
    "p": 600,
    "alt": [
     "Zero Mission"
-   ]
+   ],
+   "apic": "Metroid: Zero Mission"
   },
   {
    "q": "Which Japanese studio co-developed Metroid: Other M?",
    "a": "Team Ninja",
-   "p": 600
+   "p": 600,
+   "pic": "Metroid: Other M",
+   "apic": "Team Ninja"
   },
   {
    "q": "Which heat-resistant suit upgrade turns Samus's armour orange?",
@@ -1881,7 +2030,8 @@
   {
    "q": "Which Rare game was originally developed as Dinosaur Planet before becoming a Star Fox title?",
    "a": "Star Fox Adventures",
-   "p": 600
+   "p": 600,
+   "apic": "Star Fox Adventures"
   },
   {
    "q": "What is Fox McCloud's home planet?",
@@ -1972,12 +2122,14 @@
   {
    "q": "Which Mario-series character was the first Smash Ultimate DLC, given free for early buyers?",
    "a": "Piranha Plant",
-   "p": 600
+   "p": 600,
+   "apic": "Piranha Plant"
   },
   {
    "q": "Which Camelot GBA RPG stars Isaac and the magic of Psynergy?",
    "a": "Golden Sun",
-   "p": 600
+   "p": 600,
+   "apic": "Golden Sun"
   },
   {
    "q": "Which Splatoon 3 hub city is located in the Splatlands?",
@@ -1998,7 +2150,8 @@
    "p": 600,
    "alt": [
     "Hoshi no Kirby"
-   ]
+   ],
+   "apic": "Kirby: Right Back at Ya!"
   }
  ]
 }

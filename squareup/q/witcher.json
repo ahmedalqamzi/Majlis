@@ -8,7 +8,8 @@
    "p": 200,
    "alt": [
     "Sapkowski"
-   ]
+   ],
+   "apic": "Andrzej Sapkowski"
   },
   {
    "q": "What is the name of the white-haired monster hunter who is the main hero of The Witcher?",
@@ -16,7 +17,8 @@
    "p": 200,
    "alt": [
     "Geralt"
-   ]
+   ],
+   "apic": "Geralt of Rivia"
   },
   {
    "q": "Which raven-haired sorceress with violet eyes is Geralt's great love?",
@@ -25,7 +27,8 @@
    "alt": [
     "Yennefer",
     "Yen"
-   ]
+   ],
+   "apic": "Yennefer of Vengerberg"
   },
   {
    "q": "What is the short name of Geralt's adopted daughter, the princess of Cintra?",
@@ -59,7 +62,9 @@
   {
    "q": "In which country were the Witcher books first published?",
    "a": "Poland",
-   "p": 200
+   "p": 200,
+   "pic": "Andrzej Sapkowski",
+   "apic": "Poland"
   },
   {
    "q": "Which actor played Geralt in the first three seasons of Netflix's The Witcher?",
@@ -67,7 +72,8 @@
    "p": 200,
    "alt": [
     "Cavill"
-   ]
+   ],
+   "apic": "Henry Cavill"
   },
   {
    "q": "Which Australian actor took over the role of Geralt for season 4 of the Netflix series?",
@@ -75,7 +81,8 @@
    "p": 200,
    "alt": [
     "Hemsworth"
-   ]
+   ],
+   "apic": "Liam Hemsworth"
   },
   {
    "q": "What is the name of the card game Geralt can play in taverns in The Witcher 3?",
@@ -88,7 +95,8 @@
    "p": 200,
    "alt": [
     "Silver sword"
-   ]
+   ],
+   "apic": "Silver"
   },
   {
    "q": "What are the simple magic spells used by witchers called?",
@@ -134,17 +142,20 @@
   {
    "q": "Which actress plays Yennefer in the Netflix series?",
    "a": "Anya Chalotra",
-   "p": 200
+   "p": 200,
+   "apic": "Anya Chalotra"
   },
   {
    "q": "Which actress plays Ciri in the Netflix series?",
    "a": "Freya Allan",
-   "p": 200
+   "p": 200,
+   "apic": "Freya Allan"
   },
   {
    "q": "Which actor plays the bard Jaskier in the Netflix series?",
    "a": "Joey Batey",
-   "p": 200
+   "p": 200,
+   "apic": "Joey Batey"
   },
   {
    "q": "What is the title of Jaskier's hit song from season 1 of the Netflix series about paying a witcher?",
@@ -170,12 +181,14 @@
    "p": 200,
    "alt": [
     "Cat's eyes"
-   ]
+   ],
+   "apic": "Cat"
   },
   {
    "q": "What animal is shown on Geralt's witcher medallion?",
    "a": "Wolf",
-   "p": 200
+   "p": 200,
+   "apic": "Wolf"
   },
   {
    "q": "What is the largest free city in The Witcher 3, home to many quests?",
@@ -206,7 +219,8 @@
   {
    "q": "Which streaming service produced the 2019 Witcher TV series?",
    "a": "Netflix",
-   "p": 200
+   "p": 200,
+   "apic": "Netflix"
   },
   {
    "q": "What nickname, Gwynbleidd in Elder Speech, do the elves give Geralt?",
@@ -249,12 +263,14 @@
    "p": 400,
    "alt": [
     "Lauren Hissrich"
-   ]
+   ],
+   "apic": "Lauren Schmidt Hissrich"
   },
   {
    "q": "Which actor voices Geralt in the English versions of the games?",
    "a": "Doug Cockle",
-   "p": 400
+   "p": 400,
+   "apic": "Doug Cockle"
   },
   {
    "q": "Which queen of Cintra, Ciri's grandmother, is known as the Lioness of Cintra?",
@@ -480,7 +496,8 @@
    "p": 600,
    "alt": [
     "Aurora Engine"
-   ]
+   ],
+   "apic": "BioWare"
   },
   {
    "q": "What is the name of CD Projekt Red's in-house engine first used for The Witcher 2?",
@@ -540,22 +557,26 @@
   {
    "q": "Which Danish actor played Vesemir in season 2 of the Netflix series?",
    "a": "Kim Bodnia",
-   "p": 600
+   "p": 600,
+   "apic": "Kim Bodnia"
   },
   {
    "q": "Which actress played Triss in the Netflix series?",
    "a": "Anna Shaffer",
-   "p": 600
+   "p": 600,
+   "apic": "Anna Shaffer"
   },
   {
    "q": "Which actor played the Nilfgaardian knight Cahir in the Netflix series?",
    "a": "Eamon Farren",
-   "p": 600
+   "p": 600,
+   "apic": "Eamon Farren"
   },
   {
    "q": "Which actress played the Nilfgaardian sorceress Fringilla in the Netflix series?",
    "a": "Mimi Ndiweni",
-   "p": 600
+   "p": 600,
+   "apic": "Mimi Ndiweni"
   },
   {
    "q": "Which actor is the Polish voice of Geralt in the games?",
@@ -565,7 +586,8 @@
   {
    "q": "Ciri's Elder Speech name Zireael means which bird?",
    "a": "Swallow",
-   "p": 600
+   "p": 600,
+   "apic": "Swallow"
   },
   {
    "q": "Which witcher potion grants night vision in dark places?",
@@ -644,7 +666,8 @@
   {
    "q": "Which flower is Jaskier named after in Polish?",
    "a": "Buttercup",
-   "p": 600
+   "p": 600,
+   "apic": "Ranunculus"
   },
   {
    "q": "Which elven sage of the Aen Elle helps Ciri in The Witcher 3?",
@@ -678,7 +701,8 @@
    "p": 200,
    "alt": [
     "Gryphon"
-   ]
+   ],
+   "apic": "Griffin"
   },
   {
    "q": "A witcher's steel sword is meant mainly for fighting what?",
@@ -847,12 +871,15 @@
    "alt": [
     "Unreal Engine",
     "UE5"
-   ]
+   ],
+   "apic": "Unreal Engine 5"
   },
   {
    "q": "In which city is CD Projekt Red headquartered?",
    "a": "Warsaw",
-   "p": 400
+   "p": 400,
+   "pic": "CD Projekt",
+   "apic": "Warsaw"
   },
   {
    "q": "Which witcher school wears cat medallions and is known for assassins?",
@@ -1001,7 +1028,8 @@
   {
    "q": "Which actress voices Yennefer in the English Witcher 3?",
    "a": "Denise Gough",
-   "p": 600
+   "p": 600,
+   "apic": "Denise Gough"
   },
   {
    "q": "Which composer led the music of The Witcher 3?",
@@ -1009,12 +1037,14 @@
    "p": 600,
    "alt": [
     "Przybylowicz"
-   ]
+   ],
+   "apic": "Marcin Przybyłowicz"
   },
   {
    "q": "Which actress plays Tissaia in the Netflix series?",
    "a": "MyAnna Buring",
-   "p": 600
+   "p": 600,
+   "apic": "MyAnna Buring"
   },
   {
    "q": "What powerful single-dose concoctions made from monster mutagens last a long time in The Witcher 3?",
@@ -1037,12 +1067,14 @@
    "p": 600,
    "alt": [
     "Fantastyka magazine"
-   ]
+   ],
+   "pic": "Andrzej Sapkowski"
   },
   {
    "q": "In what year was the first Witcher short story published?",
    "a": "1986",
-   "p": 600
+   "p": 600,
+   "pic": "Andrzej Sapkowski"
   },
   {
    "q": "While cursed, what animal did Emhyr resemble by day when he courted Pavetta?",
@@ -1089,7 +1121,8 @@
   {
    "q": "Which ranged weapon does Geralt use in The Witcher 3 to shoot down flying monsters?",
    "a": "Crossbow",
-   "p": 200
+   "p": 200,
+   "apic": "Crossbow"
   },
   {
    "q": "Besides Gwent, what bare-knuckle activity can Geralt take part in for money?",
@@ -1150,7 +1183,8 @@
    "p": 400,
    "alt": [
     "Obama"
-   ]
+   ],
+   "apic": "Barack Obama"
   },
   {
    "q": "In what year was season 4 of Netflix's The Witcher released?",
@@ -1169,7 +1203,8 @@
    "alt": [
     "GOG.com",
     "Good Old Games"
-   ]
+   ],
+   "apic": "GOG.com"
   }
  ]
 }

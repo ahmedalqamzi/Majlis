@@ -10,7 +10,8 @@
    "alt": [
     "Khalifa Tower",
     "Burj Khalifah"
-   ]
+   ],
+   "apic": "Burj Khalifa"
   },
   {
    "q": "Which sail-shaped luxury hotel stands on its own island off Jumeirah Beach?",
@@ -21,7 +22,8 @@
     "Burj al-Arab",
     "Burj Al Arab Jumeirah",
     "Tower of the Arabs"
-   ]
+   ],
+   "apic": "Burj Al Arab"
   },
   {
    "q": "Which man-made island in Dubai is shaped like a palm tree?",
@@ -32,7 +34,8 @@
     "The Palm",
     "Palm Jumeira",
     "Palm Island"
-   ]
+   ],
+   "apic": "Palm Jumeirah"
   },
   {
    "q": "Which golden picture-frame-shaped landmark stands in Zabeel Park?",
@@ -41,7 +44,8 @@
    "ar": "إطار دبي",
    "alt": [
     "The Frame"
-   ]
+   ],
+   "apic": "Dubai Frame"
   },
   {
    "q": "Which Dubai museum has Arabic calligraphy across its oval facade?",
@@ -50,7 +54,8 @@
    "ar": "متحف المستقبل",
    "alt": [
     "Dubai Museum of the Future"
-   ]
+   ],
+   "apic": "Museum of the Future"
   },
   {
    "q": "Which giant observation wheel stands on Bluewaters Island?",
@@ -60,7 +65,8 @@
    "alt": [
     "Dubai Eye",
     "Eye of Dubai"
-   ]
+   ],
+   "apic": "Ain Dubai"
   },
   {
    "q": "Which huge shopping mall sits beside the Burj Khalifa?",
@@ -69,7 +75,9 @@
    "ar": "دبي مول",
    "alt": [
     "Dubai Mall"
-   ]
+   ],
+   "pic": "Burj Khalifa",
+   "apic": "The Dubai Mall"
   },
   {
    "q": "Which seasonal Dubai attraction has pavilions representing many countries?",
@@ -79,7 +87,8 @@
    "alt": [
     "Dubai Global Village",
     "Global Village Dubai"
-   ]
+   ],
+   "apic": "Global Village (Dubai)"
   },
   {
    "q": "Which waterway divides Deira from Bur Dubai?",
@@ -90,7 +99,8 @@
     "The Creek",
     "Khor Dubai",
     "Creek"
-   ]
+   ],
+   "apic": "Dubai Creek"
   },
   {
    "q": "What are the traditional wooden water taxis that cross the Creek called?",
@@ -101,7 +111,9 @@
     "Abra",
     "Abbra",
     "Abrah"
-   ]
+   ],
+   "pic": "Dubai Creek",
+   "apic": "Abra (boat)"
   },
   {
    "q": "Which historic Dubai district, home to the Gold Souk, lies on the north side of the Creek?",
@@ -110,7 +122,8 @@
    "ar": "ديرة",
    "alt": [
     "Dera"
-   ]
+   ],
+   "apic": "Deira, Dubai"
   },
   {
    "q": "Which district is home to Marina Walk and the JBR beachfront?",
@@ -119,7 +132,8 @@
    "ar": "مرسى دبي",
    "alt": [
     "Marina"
-   ]
+   ],
+   "apic": "Dubai Marina"
   },
   {
    "q": "Which prepaid card is used on Dubai Metro, buses and abras?",
@@ -138,12 +152,14 @@
    "alt": [
     "Emirates Airline",
     "Emirates Airlines"
-   ]
+   ],
+   "apic": "Emirates (airline)"
   },
   {
    "q": "What is the airport code for Dubai International Airport?",
    "a": "DXB",
-   "p": 200
+   "p": 200,
+   "pic": "Dubai International Airport"
   },
   {
    "q": "Which annual winter event in Dubai is known for sales, raffles and fireworks?",
@@ -152,12 +168,14 @@
    "ar": "مهرجان دبي للتسوق",
    "alt": [
     "DSF"
-   ]
+   ],
+   "apic": "Dubai Shopping Festival"
   },
   {
    "q": "Which world fair did Dubai host from 2021 to 2022?",
    "a": "Expo 2020",
-   "p": 200
+   "p": 200,
+   "apic": "Expo 2020"
   },
   {
    "q": "Which prestigious horse race, held each March, is Dubai's most famous sporting event?",
@@ -166,7 +184,8 @@
    "ar": "كأس دبي العالمي",
    "alt": [
     "DWC"
-   ]
+   ],
+   "apic": "Dubai World Cup"
   },
   {
    "q": "Which royal family rules Dubai?",
@@ -177,7 +196,8 @@
     "Maktoum",
     "Al Maktoum family",
     "Maktoum family"
-   ]
+   ],
+   "apic": "Al Maktoum"
   },
   {
    "q": "Before oil, diving for oysters to find gems was a key Dubai industry. What is it called?",
@@ -188,7 +208,8 @@
     "Pearl diving",
     "Pearl fishing",
     "Al Ghous"
-   ]
+   ],
+   "apic": "Pearl hunting"
   },
   {
    "q": "Which large port and free zone in south-west Dubai is a major trade hub?",
@@ -198,7 +219,8 @@
    "alt": [
     "Jabal Ali",
     "Jebel Ali Port"
-   ]
+   ],
+   "apic": "Jebel Ali"
   },
   {
    "q": "Which fountain performs music and light shows beside the Burj Khalifa?",
@@ -208,7 +230,9 @@
    "alt": [
     "Dubai Fountain",
     "Burj Khalifa Fountain"
-   ]
+   ],
+   "pic": "Burj Khalifa",
+   "apic": "The Dubai Fountain"
   },
   {
    "q": "In which coastal district is the Jumeirah Mosque?",
@@ -218,7 +242,9 @@
    "alt": [
     "Jumeira",
     "Jumairah"
-   ]
+   ],
+   "pic": "Jumeirah Mosque",
+   "apic": "Jumeirah"
   },
   {
    "q": "In which Dubai district is the Al Fahidi Historical Neighbourhood?",
@@ -228,7 +254,9 @@
    "alt": [
     "Bur-Dubai",
     "Burdubai"
-   ]
+   ],
+   "pic": "Al Fahidi Historical Neighbourhood",
+   "apic": "Bur Dubai"
   },
   {
    "q": "Which Dubai mall has an indoor ski slope?",
@@ -238,12 +266,15 @@
    "alt": [
     "MOE",
     "Emirates Mall"
-   ]
+   ],
+   "pic": "Ski Dubai",
+   "apic": "Mall of the Emirates"
   },
   {
    "q": "Which Palm Jumeirah resort has the Aquaventure waterpark?",
    "a": "Atlantis The Palm",
-   "p": 200
+   "p": 200,
+   "apic": "Atlantis The Palm"
   },
   {
    "q": "What currency is used in Dubai?",
@@ -255,7 +286,8 @@
     "AED",
     "Emirati dirham",
     "Dhs"
-   ]
+   ],
+   "apic": "United Arab Emirates dirham"
   },
   {
    "q": "Which main highway lined with skyscrapers runs through Dubai?",
@@ -266,12 +298,14 @@
     "SZR",
     "E11",
     "Sheikh Zayed Rd"
-   ]
+   ],
+   "apic": "Sheikh Zayed Road"
   },
   {
    "q": "Which Dubai garden is known for huge displays of living flowers?",
    "a": "Dubai Miracle Garden",
-   "p": 200
+   "p": 200,
+   "apic": "Dubai Miracle Garden"
   },
   {
    "q": "Which emirate lies to the south-west of Dubai?",
@@ -281,7 +315,8 @@
    "alt": [
     "Abu Zaby",
     "Abudhabi"
-   ]
+   ],
+   "apic": "Emirate of Abu Dhabi"
   },
   {
    "q": "What colour is the main Dubai Metro line from Rashidiya to Jebel Ali?",
@@ -291,7 +326,8 @@
   {
    "q": "Which marine attraction inside the Dubai Mall has a famous viewing tunnel?",
    "a": "Dubai Aquarium",
-   "p": 200
+   "p": 200,
+   "apic": "Dubai Aquarium & Underwater Zoo"
   },
   {
    "q": "What is the name of the traditional wooden sailing ship seen along the Creek?",
@@ -303,7 +339,9 @@
     "Boom",
     "Sambuk",
     "Dau"
-   ]
+   ],
+   "pic": "Dubai Creek",
+   "apic": "Dhow"
   },
   {
    "q": "Which Deira market sells saffron, frankincense and dried limes?",
@@ -322,12 +360,14 @@
    "ar": "وسط مدينة دبي",
    "alt": [
     "Downtown"
-   ]
+   ],
+   "apic": "Downtown Dubai"
   },
   {
    "q": "In which year did Burj Khalifa officially open?",
    "a": "2010",
-   "p": 400
+   "p": 400,
+   "pic": "Burj Khalifa"
   },
   {
    "q": "Which developer built Burj Khalifa and the Dubai Mall?",
@@ -337,7 +377,9 @@
    "alt": [
     "Emaar Properties",
     "Emmar"
-   ]
+   ],
+   "pic": "Burj Khalifa",
+   "apic": "Emaar Properties"
   },
   {
    "q": "Which developer built Palm Jumeirah?",
@@ -346,42 +388,51 @@
    "ar": "نخيل",
    "alt": [
     "Nakheel Properties"
-   ]
+   ],
+   "pic": "Palm Jumeirah",
+   "apic": "Nakheel Properties"
   },
   {
    "q": "In which year did Burj Al Arab open?",
    "a": "1999",
-   "p": 400
+   "p": 400,
+   "pic": "Burj Al Arab"
   },
   {
    "q": "How tall is the Dubai Frame in metres?",
    "a": "150 metres",
-   "p": 400
+   "p": 400,
+   "pic": "Dubai Frame"
   },
   {
    "q": "In which year did the Dubai Frame open to the public?",
    "a": "2018",
-   "p": 400
+   "p": 400,
+   "pic": "Dubai Frame"
   },
   {
    "q": "In which year did the Museum of the Future open?",
    "a": "2022",
-   "p": 400
+   "p": 400,
+   "pic": "Museum of the Future"
   },
   {
    "q": "In which year did Ain Dubai open to visitors?",
    "a": "2021",
-   "p": 400
+   "p": 400,
+   "pic": "Ain Dubai"
   },
   {
    "q": "How tall is Ain Dubai in metres?",
    "a": "250 metres",
-   "p": 400
+   "p": 400,
+   "pic": "Ain Dubai"
   },
   {
    "q": "In which year did the Dubai Mall open?",
    "a": "2008",
-   "p": 400
+   "p": 400,
+   "pic": "The Dubai Mall"
   },
   {
    "q": "During which season of the year does Global Village usually operate?",
@@ -398,7 +449,8 @@
     "Wind tower",
     "Barjil",
     "Windcatcher"
-   ]
+   ],
+   "apic": "Windcatcher"
   },
   {
    "q": "By what other name is the Al Fahidi Historical Neighbourhood known?",
@@ -409,7 +461,8 @@
     "Bastakiya",
     "Bastakia",
     "Al Bastakia"
-   ]
+   ],
+   "apic": "Al Fahidi Historical Neighbourhood"
   },
   {
    "q": "Which fort in Bur Dubai houses the Dubai Museum?",
@@ -419,7 +472,8 @@
    "alt": [
     "Fahidi Fort",
     "Al Fahidi"
-   ]
+   ],
+   "apic": "Al Fahidi Fort"
   },
   {
    "q": "Which wildlife sanctuary at the head of the Creek is famous for flamingos?",
@@ -429,17 +483,20 @@
    "alt": [
     "Ras al-Khor",
     "Ras Al Khor Wildlife Sanctuary"
-   ]
+   ],
+   "apic": "Ras Al Khor"
   },
   {
    "q": "In which year did Dubai Metro open as the Arabian Peninsula's first metro?",
    "a": "2009",
-   "p": 400
+   "p": 400,
+   "pic": "Dubai Metro"
   },
   {
    "q": "What colour is the second Dubai Metro line, opened in 2011?",
    "a": "Green",
-   "p": 400
+   "p": 400,
+   "pic": "Dubai Metro"
   },
   {
    "q": "Which authority runs Dubai Metro?",
@@ -450,7 +507,9 @@
     "RTA",
     "Dubai RTA",
     "Roads & Transport Authority"
-   ]
+   ],
+   "pic": "Dubai Metro",
+   "apic": "Roads and Transport Authority (Dubai)"
   },
   {
    "q": "Which light-rail service runs along Dubai Marina and Jumeirah Beach Residence?",
@@ -460,12 +519,14 @@
    "alt": [
     "Tram",
     "Al Sufouh Tram"
-   ]
+   ],
+   "apic": "Dubai Tram"
   },
   {
    "q": "In which year was Emirates airline founded?",
    "a": "1985",
-   "p": 400
+   "p": 400,
+   "pic": "Emirates (airline)"
   },
   {
    "q": "What is the name of the Emirates frequent flyer programme?",
@@ -475,7 +536,8 @@
   {
    "q": "Which DXB terminal is the main home of Emirates?",
    "a": "Terminal 3",
-   "p": 400
+   "p": 400,
+   "pic": "Dubai International Airport"
   },
   {
    "q": "Which airport south-west of Dubai opened in 2010 and has the code DWC?",
@@ -486,7 +548,8 @@
     "Al Maktoum Airport",
     "Dubai World Central",
     "DWC"
-   ]
+   ],
+   "apic": "Al Maktoum International Airport"
   },
   {
    "q": "At which racecourse is the Dubai World Cup run today?",
@@ -496,7 +559,9 @@
    "alt": [
     "Meydan Racecourse",
     "Meydan Race Course"
-   ]
+   ],
+   "pic": "Dubai World Cup",
+   "apic": "Meydan Racecourse"
   },
   {
    "q": "In which year was the first Dubai Shopping Festival held?",
@@ -506,7 +571,8 @@
   {
    "q": "What is the Expo 2020 site called today?",
    "a": "Expo City Dubai",
-   "p": 400
+   "p": 400,
+   "apic": "Expo City Dubai"
   },
   {
    "q": "Which central plaza with a giant trellis dome was the heart of Expo 2020?",
@@ -516,7 +582,8 @@
    "alt": [
     "Al Wasl Dome",
     "Al Wasl"
-   ]
+   ],
+   "apic": "Al Wasl Plaza"
   },
   {
    "q": "Which area of Dubai, near Al Maktoum airport, hosted the Expo 2020 site?",
@@ -547,7 +614,8 @@
     "Sheikh Rashid",
     "Rashid bin Saeed Al Maktoum",
     "Rashid bin Saeed"
-   ]
+   ],
+   "apic": "Rashid bin Saeed Al Maktoum"
   },
   {
    "q": "In which year did Dubai join the United Arab Emirates?",
@@ -557,17 +625,20 @@
   {
    "q": "What shape is the breakwater that encircles Palm Jumeirah?",
    "a": "Crescent",
-   "p": 400
+   "p": 400,
+   "pic": "Palm Jumeirah"
   },
   {
    "q": "Dubai Marina is built around what man-made waterway?",
    "a": "A canal",
-   "p": 400
+   "p": 400,
+   "pic": "Dubai Marina"
   },
   {
    "q": "Which dhow-inspired performing arts venue opened in Downtown Dubai in 2016?",
    "a": "Dubai Opera",
-   "p": 400
+   "p": 400,
+   "apic": "Dubai Opera"
   },
   {
    "q": "Which museum in Jumeirah, opened in 2016, tells the story of the UAE's founding?",
@@ -576,7 +647,8 @@
    "ar": "متحف الاتحاد",
    "alt": [
     "Al Ittihad Museum"
-   ]
+   ],
+   "apic": "Etihad Museum"
   },
   {
    "q": "In which year did Maktoum bin Butti and the Al Bu Falasah settle in Dubai?",
@@ -623,7 +695,8 @@
   {
    "q": "In which year did Jebel Ali Port open?",
    "a": "1979",
-   "p": 600
+   "p": 600,
+   "pic": "Jebel Ali Port"
   },
   {
    "q": "In which year did Al Maktoum Bridge, the first Creek crossing, open?",
@@ -640,7 +713,8 @@
     "DWTC",
     "Dubai World Trade Center",
     "Sheikh Rashid Tower"
-   ]
+   ],
+   "apic": "Dubai World Trade Centre"
   },
   {
    "q": "Whose 1896 house in Al Shindagha is now a museum?",
@@ -656,12 +730,15 @@
   {
    "q": "Al Bastakiya is named after Bastak, a town in which country?",
    "a": "Iran",
-   "p": 600
+   "p": 600,
+   "pic": "Al Fahidi Historical Neighbourhood",
+   "apic": "Iran"
   },
   {
    "q": "Which 1930s Japanese innovation helped collapse the Gulf pearl trade?",
    "a": "Cultured pearls",
-   "p": 600
+   "p": 600,
+   "apic": "Cultured pearl"
   },
   {
    "q": "What was the Arabic term for the rope puller who tended a pearl diver?",
@@ -697,7 +774,9 @@
   {
    "q": "Which horse won the first Dubai World Cup in 1996?",
    "a": "Cigar",
-   "p": 600
+   "p": 600,
+   "pic": "Dubai World Cup",
+   "apic": "Cigar (horse)"
   },
   {
    "q": "At which racecourse was the first Dubai World Cup run?",
@@ -708,7 +787,8 @@
     "Nad Al Shiba",
     "Nad Al Sheba Racecourse",
     "Nad al-Sheba"
-   ]
+   ],
+   "apic": "Nad Al Sheba Racecourse"
   },
   {
    "q": "What distance in metres is the Dubai World Cup run over?",
@@ -728,23 +808,29 @@
   {
    "q": "Which US architecture firm designed Burj Khalifa?",
    "a": "Skidmore, Owings & Merrill",
-   "p": 600
+   "p": 600,
+   "pic": "Burj Khalifa",
+   "apic": "Skidmore, Owings & Merrill"
   },
   {
    "q": "What was Burj Khalifa originally called before its opening?",
    "a": "Burj Dubai",
    "p": 600,
-   "ar": "برج دبي"
+   "ar": "برج دبي",
+   "apic": "Burj Khalifa"
   },
   {
    "q": "Which British firm designed Burj Al Arab?",
    "a": "Atkins",
-   "p": 600
+   "p": 600,
+   "pic": "Burj Al Arab",
+   "apic": "Atkins (company)"
   },
   {
    "q": "How far offshore, in metres, does Burj Al Arab stand?",
    "a": "280 metres",
-   "p": 600
+   "p": 600,
+   "pic": "Burj Al Arab"
   },
   {
    "q": "On what date in 2009 did Dubai Metro open?",
@@ -754,12 +840,16 @@
   {
    "q": "Which airline leased Emirates its first aircraft in 1985?",
    "a": "Pakistan International Airlines",
-   "p": 600
+   "p": 600,
+   "pic": "Emirates (airline)",
+   "apic": "Pakistan International Airlines"
   },
   {
    "q": "To which city did Emirates fly its first A380 service in 2008?",
    "a": "New York",
-   "p": 600
+   "p": 600,
+   "pic": "Airbus A380",
+   "apic": "New York City"
   },
   {
    "q": "Which DXB concourse was built specifically for the A380?",
@@ -774,7 +864,9 @@
   {
    "q": "Emirates' first flights in 1985 linked Dubai with Mumbai and which other city?",
    "a": "Karachi",
-   "p": 600
+   "p": 600,
+   "pic": "Emirates (airline)",
+   "apic": "Karachi"
   },
   {
    "q": "Which Dubai ruler is also Vice President and Prime Minister of the UAE?",
@@ -785,7 +877,8 @@
     "Mohammed bin Rashid",
     "MBR",
     "Sheikh Mohammed"
-   ]
+   ],
+   "apic": "Mohammed bin Rashid Al Maktoum"
   },
   {
    "q": "By which poetic nickname is Dubai's Crown Prince, Sheikh Hamdan bin Mohammed, widely known?",
@@ -794,7 +887,8 @@
    "ar": "فزاع",
    "alt": [
     "Fazzaa"
-   ]
+   ],
+   "apic": "Hamdan bin Mohammed Al Maktoum"
   },
   {
    "q": "Which Dubai-based low-cost airline began flying in 2009?",
@@ -803,12 +897,14 @@
    "ar": "فلاي دبي",
    "alt": [
     "Fly Dubai"
-   ]
+   ],
+   "apic": "Flydubai"
   },
   {
    "q": "Which leisure resort near Jebel Ali includes Motiongate and Legoland Dubai?",
    "a": "Dubai Parks and Resorts",
-   "p": 200
+   "p": 200,
+   "apic": "Dubai Parks and Resorts"
   },
   {
    "q": "Which huge indoor theme park in Dubai has Marvel and Cartoon Network zones?",
@@ -816,7 +912,8 @@
    "p": 200,
    "alt": [
     "IMG Worlds"
-   ]
+   ],
+   "apic": "IMG Worlds of Adventure"
   },
   {
    "q": "Which Jumeirah waterpark sits right beside the Burj Al Arab?",
@@ -824,7 +921,9 @@
    "p": 200,
    "alt": [
     "Wild Wadi Waterpark"
-   ]
+   ],
+   "pic": "Burj Al Arab",
+   "apic": "Wild Wadi Water Park"
   },
   {
    "q": "Which wildlife park in Al Warqa'a opened in 2017 with African, Asian and Arabian villages?",
@@ -832,7 +931,8 @@
    "p": 200,
    "alt": [
     "Dubai Safari"
-   ]
+   ],
+   "apic": "Dubai Safari Park"
   },
   {
    "q": "Which UAE president is the Burj Khalifa named after?",
@@ -842,7 +942,9 @@
    "alt": [
     "Khalifa bin Zayed",
     "Sheikh Khalifa"
-   ]
+   ],
+   "pic": "Burj Khalifa",
+   "apic": "Khalifa bin Zayed Al Nahyan"
   },
   {
    "q": "In which Mission: Impossible film did Tom Cruise climb the outside of the Burj Khalifa?",
@@ -851,7 +953,9 @@
    "alt": [
     "Mission: Impossible – Ghost Protocol",
     "MI4"
-   ]
+   ],
+   "pic": "Burj Khalifa",
+   "apic": "Mission: Impossible – Ghost Protocol"
   },
   {
    "q": "The viral 'Dubai chocolate' bar is filled with pistachio cream and which crispy shredded pastry?",
@@ -862,12 +966,14 @@
     "Knafeh",
     "Kataifi",
     "Kunafeh"
-   ]
+   ],
+   "apic": "Knafeh"
   },
   {
    "q": "Which English football club plays at a stadium named after Dubai's airline?",
    "a": "Arsenal",
-   "p": 200
+   "p": 200,
+   "apic": "Arsenal F.C."
   },
   {
    "q": "What colour is the hat worn by Emirates cabin crew?",
@@ -880,7 +986,9 @@
    "p": 200,
    "alt": [
     "GITEX Global"
-   ]
+   ],
+   "pic": "Dubai World Trade Centre",
+   "apic": "GITEX"
   },
   {
    "q": "Which UN climate conference did Dubai host at Expo City in 2023?",
@@ -888,7 +996,8 @@
    "p": 200,
    "alt": [
     "COP 28"
-   ]
+   ],
+   "apic": "2023 United Nations Climate Change Conference"
   },
   {
    "q": "Which global health crisis delayed Expo 2020 by a year?",
@@ -906,22 +1015,26 @@
    "alt": [
     "Sports cars",
     "Luxury sports cars"
-   ]
+   ],
+   "apic": "Supercar"
   },
   {
    "q": "What does JLT stand for?",
    "a": "Jumeirah Lake Towers",
-   "p": 200
+   "p": 200,
+   "apic": "Jumeirah Lake Towers"
   },
   {
    "q": "What does DIFC stand for?",
    "a": "Dubai International Financial Centre",
-   "p": 200
+   "p": 200,
+   "apic": "Dubai International Financial Centre"
   },
   {
    "q": "Which Dubai district beside Downtown, built around an extension of the Creek, is named after commerce?",
    "a": "Business Bay",
-   "p": 200
+   "p": 200,
+   "apic": "Business Bay"
   },
   {
    "q": "Which month-long campaign challenges Dubai residents to 30 minutes of exercise every day?",
@@ -939,12 +1052,15 @@
   {
    "q": "Which sport is played at the Dubai Desert Classic, held each year at Emirates Golf Club?",
    "a": "Golf",
-   "p": 200
+   "p": 200,
+   "pic": "Emirates Golf Club",
+   "apic": "Golf"
   },
   {
    "q": "Which sport is the Dubai Duty Free Championships held for each year?",
    "a": "Tennis",
-   "p": 200
+   "p": 200,
+   "apic": "Tennis"
   },
   {
    "q": "Which sport is played at the Dubai Sevens each December?",
@@ -952,12 +1068,15 @@
    "p": 200,
    "alt": [
     "Rugby sevens"
-   ]
+   ],
+   "apic": "Rugby sevens"
   },
   {
    "q": "Which ports operator, headquartered in Dubai, runs Jebel Ali Port?",
    "a": "DP World",
-   "p": 200
+   "p": 200,
+   "pic": "Jebel Ali Port",
+   "apic": "DP World"
   },
   {
    "q": "What does DEWA stand for?",
@@ -968,12 +1087,14 @@
    "q": "Which emirate borders Dubai to the north-east?",
    "a": "Sharjah",
    "p": 200,
-   "ar": "الشارقة"
+   "ar": "الشارقة",
+   "apic": "Emirate of Sharjah"
   },
   {
    "q": "Apart from its white bar, what colour is the Dubai emirate flag?",
    "a": "Red",
-   "p": 200
+   "p": 200,
+   "apic": "Flag of Dubai"
   },
   {
    "q": "Which Indian film industry has its own theme park at Dubai Parks and Resorts?",
@@ -986,22 +1107,26 @@
   {
    "q": "What is a trip into the dunes with off-road driving and a camp dinner usually called in Dubai?",
    "a": "Desert safari",
-   "p": 200
+   "p": 200,
+   "apic": "Desert safari"
   },
   {
    "q": "Which Italian city hosted the World Expo before Dubai's Expo 2020?",
    "a": "Milan",
-   "p": 200
+   "p": 200,
+   "apic": "Milan"
   },
   {
    "q": "The Dubai Frame's sky bridge has a floor partly made of what see-through material?",
    "a": "Glass",
-   "p": 200
+   "p": 200,
+   "pic": "Dubai Frame"
   },
   {
    "q": "Which annual air show is held in Dubai every two years?",
    "a": "Dubai Airshow",
-   "p": 200
+   "p": 200,
+   "apic": "Dubai Airshow"
   },
   {
    "q": "Which huge annual food and drink trade show is held in Dubai?",
@@ -1020,13 +1145,15 @@
    "q": "Dubai's biggest New Year's Eve fireworks show is launched from which building?",
    "a": "Burj Khalifa",
    "p": 200,
-   "ar": "برج خليفة"
+   "ar": "برج خليفة",
+   "apic": "Burj Khalifa"
   },
   {
    "q": "Which emirate has the largest population in the UAE?",
    "a": "Dubai",
    "p": 200,
-   "ar": "دبي"
+   "ar": "دبي",
+   "apic": "Dubai"
   },
   {
    "q": "Which theme park at Dubai Parks and Resorts is built around toy bricks?",
@@ -1034,7 +1161,9 @@
    "p": 200,
    "alt": [
     "Legoland"
-   ]
+   ],
+   "pic": "Dubai Parks and Resorts",
+   "apic": "Legoland Dubai"
   },
   {
    "q": "At Dubai's camel races, what rides the camels instead of human jockeys?",
@@ -1042,18 +1171,21 @@
    "p": 200,
    "alt": [
     "Robots"
-   ]
+   ],
+   "apic": "Robot jockey"
   },
   {
    "q": "Which emirate is the second largest by area, after Abu Dhabi?",
    "a": "Dubai",
    "p": 200,
-   "ar": "دبي"
+   "ar": "دبي",
+   "apic": "Dubai"
   },
   {
    "q": "Which Japanese city hosted the World Expo that followed Dubai's Expo 2020?",
    "a": "Osaka",
-   "p": 400
+   "p": 400,
+   "apic": "Osaka"
   },
   {
    "q": "On what date did Expo 2020 Dubai open?",
@@ -1069,7 +1201,8 @@
    "p": 400,
    "alt": [
     "Falcon in flight"
-   ]
+   ],
+   "apic": "Falcon"
   },
   {
    "q": "Which park in Dubai has a dolphinarium, a cable car and gardens along the Creek?",
@@ -1077,7 +1210,8 @@
    "p": 400,
    "alt": [
     "Dubai Creek Park"
-   ]
+   ],
+   "apic": "Creek Park"
   },
   {
    "q": "Which life-size airliner is covered in flowers at the Dubai Miracle Garden?",
@@ -1099,17 +1233,21 @@
    "p": 400,
    "alt": [
     "Infinity Tower"
-   ]
+   ],
+   "apic": "Cayan Tower"
   },
   {
    "q": "In which Dubai district is the Coca-Cola Arena?",
    "a": "City Walk",
-   "p": 400
+   "p": 400,
+   "pic": "Coca-Cola Arena",
+   "apic": "City Walk (Dubai)"
   },
   {
    "q": "Which horse-racing operation, founded by Sheikh Mohammed in 1992, races in royal blue?",
    "a": "Godolphin",
-   "p": 400
+   "p": 400,
+   "apic": "Godolphin (racing)"
   },
   {
    "q": "Which Swiss tennis star won the Dubai Duty Free Tennis Championships eight times?",
@@ -1117,7 +1255,8 @@
    "p": 400,
    "alt": [
     "Federer"
-   ]
+   ],
+   "apic": "Roger Federer"
   },
   {
    "q": "Which international cricket governing body moved its headquarters to Dubai in 2005?",
@@ -1125,17 +1264,21 @@
    "p": 400,
    "alt": [
     "International Cricket Council"
-   ]
+   ],
+   "apic": "International Cricket Council"
   },
   {
    "q": "Which Dubai skyscraper's design took inspiration from the Hymenocallis desert flower?",
    "a": "Burj Khalifa",
-   "p": 400
+   "p": 400,
+   "pic": "Hymenocallis",
+   "apic": "Burj Khalifa"
   },
   {
    "q": "In which year did Sheikh Mohammed bin Rashid become Ruler of Dubai?",
    "a": "2006",
-   "p": 400
+   "p": 400,
+   "pic": "Mohammed bin Rashid Al Maktoum"
   },
   {
    "q": "Which brother did Sheikh Mohammed bin Rashid succeed as Ruler of Dubai?",
@@ -1144,7 +1287,9 @@
    "ar": "مكتوم بن راشد آل مكتوم",
    "alt": [
     "Maktoum bin Rashid"
-   ]
+   ],
+   "pic": "Mohammed bin Rashid Al Maktoum",
+   "apic": "Maktoum bin Rashid Al Maktoum"
   },
   {
    "q": "Which ruler of Dubai became the UAE's first Vice President in 1971?",
@@ -1154,12 +1299,14 @@
    "alt": [
     "Rashid bin Saeed",
     "Sheikh Rashid"
-   ]
+   ],
+   "apic": "Rashid bin Saeed Al Maktoum"
   },
   {
    "q": "Which Al Quoz warehouse district is Dubai's contemporary art hub?",
    "a": "Alserkal Avenue",
-   "p": 400
+   "p": 400,
+   "apic": "Alserkal Avenue"
   },
   {
    "q": "What is Dubai Design District usually abbreviated to?",
@@ -1172,18 +1319,22 @@
   {
    "q": "Which motorsport circuit sits beside Dubai's Motor City?",
    "a": "Dubai Autodrome",
-   "p": 400
+   "p": 400,
+   "apic": "Dubai Autodrome"
   },
   {
    "q": "Which Dubai football club did Diego Maradona coach in 2011 and 2012?",
    "a": "Al Wasl",
    "p": 400,
-   "ar": "الوصل"
+   "ar": "الوصل",
+   "pic": "Diego Maradona",
+   "apic": "Al-Wasl F.C."
   },
   {
    "q": "Which drink has its own museum in the Al Fahidi Historical Neighbourhood?",
    "a": "Coffee",
-   "p": 400
+   "p": 400,
+   "apic": "Coffee"
   },
   {
    "q": "What is the motion-picture theme park at Dubai Parks and Resorts called?",
@@ -1191,12 +1342,15 @@
    "p": 400,
    "alt": [
     "Motiongate Dubai"
-   ]
+   ],
+   "apic": "Motiongate Dubai"
   },
   {
    "q": "Which French urban climber scaled the outside of Burj Khalifa in March 2011?",
    "a": "Alain Robert",
-   "p": 400
+   "p": 400,
+   "pic": "Burj Khalifa",
+   "apic": "Alain Robert"
   },
   {
    "q": "In which Dubai neighbourhood is the Dubai International Cricket Stadium?",
@@ -1204,7 +1358,9 @@
    "p": 400,
    "alt": [
     "Sports City"
-   ]
+   ],
+   "pic": "Dubai International Cricket Stadium",
+   "apic": "Dubai Sports City"
   },
   {
    "q": "Which pair of triangular-topped towers on Sheikh Zayed Road, opened in 2000, hold offices and a hotel?",
@@ -1212,12 +1368,14 @@
    "p": 400,
    "alt": [
     "Jumeirah Emirates Towers"
-   ]
+   ],
+   "apic": "Emirates Towers (Dubai)"
   },
   {
    "q": "Which global gathering of government leaders is held in Dubai each February?",
    "a": "World Government Summit",
-   "p": 400
+   "p": 400,
+   "apic": "World Government Summit"
   },
   {
    "q": "Is the Dubai Airshow held in odd-numbered or even-numbered years?",
@@ -1253,18 +1411,21 @@
   {
    "q": "Which Dubai free zone is home to tech companies such as Microsoft and Google?",
    "a": "Dubai Internet City",
-   "p": 400
+   "p": 400,
+   "apic": "Dubai Internet City"
   },
   {
    "q": "Which Dubai free zone hosts media companies such as CNN and MBC?",
    "a": "Dubai Media City",
-   "p": 400
+   "p": 400,
+   "apic": "Dubai Media City"
   },
   {
    "q": "Which pan-Arab news channel was launched from Dubai Media City in 2003?",
    "a": "Al Arabiya",
    "p": 400,
-   "ar": "العربية"
+   "ar": "العربية",
+   "apic": "Al Arabiya"
   },
   {
    "q": "Besides the A380, which Boeing wide-body makes up much of the Emirates fleet?",
@@ -1272,12 +1433,15 @@
    "p": 400,
    "alt": [
     "777"
-   ]
+   ],
+   "pic": "Emirates (airline)",
+   "apic": "Boeing 777"
   },
   {
    "q": "Which city's cable car across the Thames carried the Emirates name from 2012 to 2022?",
    "a": "London",
-   "p": 400
+   "p": 400,
+   "apic": "London"
   },
   {
    "q": "Which pair of heart-shaped lakes lies in the desert off Al Qudra Road?",
@@ -1291,18 +1455,21 @@
    "q": "Which Dubai mountain exclave hosts an annual honey festival?",
    "a": "Hatta",
    "p": 400,
-   "ar": "حتا"
+   "ar": "حتا",
+   "apic": "Hatta"
   },
   {
    "q": "Which desert lakes off Al Qudra Road attract swans, ducks and flamingos?",
    "a": "Al Qudra Lakes",
    "p": 400,
-   "ar": "القدرة"
+   "ar": "القدرة",
+   "apic": "Al Qudra Lakes"
   },
   {
    "q": "In which year did construction of the Burj Khalifa begin?",
    "a": "2004",
-   "p": 400
+   "p": 400,
+   "pic": "Burj Khalifa"
   },
   {
    "q": "Which Expo City attraction is shaped like a huge solar canopy and teaches visitors about sustainability?",
@@ -1319,7 +1486,9 @@
    "ar": "دار الاتحاد",
    "alt": [
     "Dar Al Ittihad"
-   ]
+   ],
+   "pic": "Etihad Museum",
+   "apic": "Union House"
   },
   {
    "q": "Which Arabic art form decorates the whole facade of the Museum of the Future?",
@@ -1328,7 +1497,9 @@
    "ar": "الخط العربي",
    "alt": [
     "Arabic calligraphy"
-   ]
+   ],
+   "pic": "Museum of the Future",
+   "apic": "Arabic calligraphy"
   },
   {
    "q": "In which year was Sheikh Hamdan bin Mohammed named Crown Prince of Dubai?",
@@ -1341,7 +1512,8 @@
    "p": 600,
    "alt": [
     "Calatrava"
-   ]
+   ],
+   "apic": "Santiago Calatrava"
   },
   {
    "q": "What was the name of Expo 2020's mobility pavilion, named after the first letter of the Arabic alphabet?",
@@ -1362,7 +1534,9 @@
   {
    "q": "Who was Skidmore, Owings & Merrill's lead architect on the Burj Khalifa?",
    "a": "Adrian Smith",
-   "p": 600
+   "p": 600,
+   "pic": "Burj Khalifa",
+   "apic": "Adrian Smith (architect)"
   },
   {
    "q": "Which South Korean company led the main construction of the Burj Khalifa?",
@@ -1370,7 +1544,9 @@
    "p": 600,
    "alt": [
     "Samsung"
-   ]
+   ],
+   "pic": "Burj Khalifa",
+   "apic": "Samsung C&T"
   },
   {
    "q": "On which floor is Burj Khalifa's highest public observation deck, At the Top Sky?",
@@ -1378,7 +1554,8 @@
    "p": 600,
    "alt": [
     "148th"
-   ]
+   ],
+   "pic": "Burj Khalifa"
   },
   {
    "q": "On what date in 2010 did the Burj Khalifa officially open?",
@@ -1394,7 +1571,9 @@
    "p": 600,
    "alt": [
     "Federer and Agassi"
-   ]
+   ],
+   "pic": "Burj Al Arab",
+   "apic": "Roger Federer"
   },
   {
    "q": "Who ruled Dubai from 1912 to 1958?",
@@ -1403,7 +1582,8 @@
    "ar": "سعيد بن مكتوم",
    "alt": [
     "Saeed bin Maktoum bin Hasher"
-   ]
+   ],
+   "apic": "Saeed bin Maktoum bin Hasher Al Maktoum"
   },
   {
    "q": "Who served as the UAE's first Prime Minister from 1971?",
@@ -1412,7 +1592,8 @@
    "ar": "مكتوم بن راشد",
    "alt": [
     "Maktoum bin Rashid"
-   ]
+   ],
+   "apic": "Maktoum bin Rashid Al Maktoum"
   },
   {
    "q": "In which year did Sheikh Rashid bin Saeed become Prime Minister of the UAE?",
@@ -1426,23 +1607,28 @@
    "ar": "محمد العبار",
    "alt": [
     "Mohammed Alabbar"
-   ]
+   ],
+   "pic": "Emaar Properties",
+   "apic": "Mohamed Alabbar"
   },
   {
    "q": "Which Dubai club was formed in 2017 by merging Al Ahli, Al Shabab and Dubai Club?",
    "a": "Shabab Al Ahli",
    "p": 600,
-   "ar": "شباب الأهلي"
+   "ar": "شباب الأهلي",
+   "apic": "Shabab Al Ahli Club"
   },
   {
    "q": "Godolphin is named after which 18th-century stallion, one of the founders of the Thoroughbred breed?",
    "a": "Godolphin Arabian",
-   "p": 600
+   "p": 600,
+   "apic": "Godolphin Arabian"
   },
   {
    "q": "In which year did Meydan Racecourse open?",
    "a": "2010",
-   "p": 600
+   "p": 600,
+   "pic": "Meydan Racecourse"
   },
   {
    "q": "Which reserve near the Al Maha resort was set up to protect Dubai's desert, oryx and gazelles?",
@@ -1450,7 +1636,8 @@
    "p": 600,
    "alt": [
     "DDCR"
-   ]
+   ],
+   "apic": "Dubai Desert Conservation Reserve"
   },
   {
    "q": "In which desert conservation reserve are the Al Qudra Lakes?",
@@ -1468,7 +1655,8 @@
    "ar": "ساروق الحديد",
    "alt": [
     "Sarouq Al Hadid"
-   ]
+   ],
+   "apic": "Saruq Al Hadid"
   },
   {
    "q": "Which centre runs tours of Jumeirah Mosque under the motto 'Open doors, open minds'?",
@@ -1481,12 +1669,14 @@
   {
    "q": "In which year was Al Fahidi Fort, Dubai's oldest standing building, built?",
    "a": "1787",
-   "p": 600
+   "p": 600,
+   "pic": "Al Fahidi Fort"
   },
   {
    "q": "In which year did the Dubai Museum open in Al Fahidi Fort?",
    "a": "1971",
-   "p": 600
+   "p": 600,
+   "pic": "Al Fahidi Fort"
   },
   {
    "q": "Mohammed bin Rashid Library is shaped like an open book on which traditional reading stand?",
@@ -1496,7 +1686,8 @@
    "alt": [
     "Rahl",
     "Lectern"
-   ]
+   ],
+   "pic": "Mohammed bin Rashid Library"
   },
   {
    "q": "Which Emirati artist created the calligraphy on the Museum of the Future?",
@@ -1505,7 +1696,9 @@
    "ar": "مطر بن لاحج",
    "alt": [
     "Matar bin Lahej"
-   ]
+   ],
+   "pic": "Museum of the Future",
+   "apic": "Mattar bin Lahej"
   },
   {
    "q": "How many floors does the Museum of the Future have?",
@@ -1513,7 +1706,8 @@
    "p": 600,
    "alt": [
     "7"
-   ]
+   ],
+   "pic": "Museum of the Future"
   },
   {
    "q": "Which tenor gave the opening concert at Dubai Opera in August 2016?",
@@ -1521,7 +1715,9 @@
    "p": 600,
    "alt": [
     "Placido Domingo"
-   ]
+   ],
+   "pic": "Dubai Opera",
+   "apic": "Plácido Domingo"
   },
   {
    "q": "Which water-theatre show by Franco Dragone opened at Al Habtoor City in 2017?",
@@ -1531,7 +1727,8 @@
   {
    "q": "Which season-ending golf event is played at Jumeirah Golf Estates?",
    "a": "DP World Tour Championship",
-   "p": 600
+   "p": 600,
+   "apic": "DP World Tour Championship"
   },
   {
    "q": "Which annual travel trade show is held at the Dubai World Trade Centre?",
@@ -1552,13 +1749,16 @@
    "p": 600,
    "alt": [
     "Torch Tower"
-   ]
+   ],
+   "apic": "The Torch (Dubai)"
   },
   {
    "q": "Which other emirate's historic flag is identical to Dubai's red flag with a white hoist bar?",
    "a": "Ajman",
    "p": 600,
-   "ar": "عجمان"
+   "ar": "عجمان",
+   "pic": "Flag of Dubai",
+   "apic": "Emirate of Ajman"
   },
   {
    "q": "Which Deira school, founded in 1912, is now a museum of education?",
@@ -1567,7 +1767,8 @@
    "ar": "المدرسة الأحمدية",
    "alt": [
     "Al Ahmadiya"
-   ]
+   ],
+   "apic": "Al Ahmadiya School"
   },
   {
    "q": "Which Dubai film festival ran from 2004 to 2017, mostly at Madinat Jumeirah?",
@@ -1575,12 +1776,14 @@
    "p": 600,
    "alt": [
     "DIFF"
-   ]
+   ],
+   "apic": "Dubai International Film Festival"
   },
   {
    "q": "Which airport-services and travel company is Emirates' sister within the Emirates Group?",
    "a": "dnata",
-   "p": 600
+   "p": 600,
+   "apic": "Dnata"
   },
   {
    "q": "Who was the founding chairman of Emirates airline in 1985?",

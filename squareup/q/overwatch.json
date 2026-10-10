@@ -23,7 +23,8 @@
   {
    "q": "Which time-jumping British pilot is the face of Overwatch?",
    "a": "Tracer",
-   "p": 200
+   "p": 200,
+   "apic": "Tracer (Overwatch)"
   },
   {
    "q": "Which South Korean pro gamer pilots a pink mech?",
@@ -31,17 +32,20 @@
    "p": 200,
    "alt": [
     "Dva"
-   ]
+   ],
+   "apic": "D.Va"
   },
   {
    "q": "Which genetically engineered gorilla scientist grew up on the Moon?",
    "a": "Winston",
-   "p": 200
+   "p": 200,
+   "apic": "Winston (Overwatch)"
   },
   {
    "q": "Which Swiss doctor flies to allies with her Caduceus Staff to heal them?",
    "a": "Mercy",
-   "p": 200
+   "p": 200,
+   "apic": "Mercy (Overwatch)"
   },
   {
    "q": "What is the name of the hamster who pilots Wrecking Ball?",
@@ -49,7 +53,8 @@
    "p": 200,
    "alt": [
     "Wrecking Ball"
-   ]
+   ],
+   "apic": "Wrecking Ball (Overwatch)"
   },
   {
    "q": "Which Japanese archer can summon spirit dragons?",
@@ -59,7 +64,8 @@
   {
    "q": "Which cyborg ninja is Hanzo's younger brother?",
    "a": "Genji",
-   "p": 200
+   "p": 200,
+   "apic": "Genji (Overwatch)"
   },
   {
    "q": "Which cowboy gunslinger was originally called McCree?",
@@ -72,7 +78,8 @@
   {
    "q": "Which German knight carries a huge rocket hammer and barrier shield?",
    "a": "Reinhardt",
-   "p": 200
+   "p": 200,
+   "apic": "Reinhardt (Overwatch)"
   },
   {
    "q": "Which Russian weightlifter tank uses a particle cannon?",
@@ -113,7 +120,8 @@
   {
    "q": "Which French sniper is a brainwashed Talon assassin?",
    "a": "Widowmaker",
-   "p": 200
+   "p": 200,
+   "apic": "Widowmaker (Overwatch)"
   },
   {
    "q": "Which floating omnic monk heals allies with orbs?",
@@ -131,7 +139,8 @@
   {
    "q": "Which Mexican hero is an expert hacker who can turn invisible?",
    "a": "Sombra",
-   "p": 200
+   "p": 200,
+   "apic": "Sombra (Overwatch)"
   },
   {
    "q": "What is the name of the villainous organisation that Reaper and Widowmaker work for?",
@@ -154,7 +163,8 @@
   {
    "q": "Which hero is Torbjörn's daughter?",
    "a": "Brigitte",
-   "p": 200
+   "p": 200,
+   "pic": "Torbjörn (Overwatch)"
   },
   {
    "q": "What nationality is the hard-light architect Symmetra?",
@@ -212,7 +222,8 @@
   {
    "q": "Which shrouded hero wields two shotguns and can turn into a wraith?",
    "a": "Reaper",
-   "p": 200
+   "p": 200,
+   "apic": "Reaper (Overwatch)"
   },
   {
    "q": "Which omnic hero can transform from robot to sentry turret?",
@@ -268,7 +279,8 @@
   {
    "q": "Which Caribbean country is Baptiste from?",
    "a": "Haiti",
-   "p": 400
+   "p": 400,
+   "apic": "Haiti"
   },
   {
    "q": "What nationality is Doomfist?",
@@ -310,17 +322,20 @@
   {
    "q": "Which country is the sun-powered support hero Illari from?",
    "a": "Peru",
-   "p": 400
+   "p": 400,
+   "apic": "Peru"
   },
   {
    "q": "Which Pacific island nation is the tank Mauga from?",
    "a": "Samoa",
-   "p": 400
+   "p": 400,
+   "apic": "Samoa"
   },
   {
    "q": "Which planet was the support hero Juno born on?",
    "a": "Mars",
-   "p": 400
+   "p": 400,
+   "apic": "Mars"
   },
   {
    "q": "What was the name of the global conflict between humans and robots before Overwatch was formed?",
@@ -340,7 +355,8 @@
   {
    "q": "In which country is the Dorado map set?",
    "a": "Mexico",
-   "p": 400
+   "p": 400,
+   "apic": "Mexico"
   },
   {
    "q": "Which map is set in Hanzo and Genji's home town in Japan?",
@@ -350,12 +366,14 @@
   {
    "q": "In which Italian city is the Rialto map set?",
    "a": "Venice",
-   "p": 400
+   "p": 400,
+   "apic": "Venice"
   },
   {
    "q": "Who was the game director of the original Overwatch?",
    "a": "Jeff Kaplan",
-   "p": 400
+   "p": 400,
+   "apic": "Jeff Kaplan"
   },
   {
    "q": "Overwatch was built from the remains of which cancelled Blizzard MMO project?",
@@ -457,12 +475,14 @@
   {
    "q": "In which country is the Oasis map set?",
    "a": "Iraq",
-   "p": 600
+   "p": 600,
+   "apic": "Iraq"
   },
   {
    "q": "In which country is the Numbani map set?",
    "a": "Nigeria",
-   "p": 600
+   "p": 600,
+   "apic": "Nigeria"
   },
   {
    "q": "Which map is set in Monaco?",
@@ -503,7 +523,8 @@
   {
    "q": "Which team won the Overwatch League title in both 2019 and 2020?",
    "a": "San Francisco Shock",
-   "p": 600
+   "p": 600,
+   "apic": "San Francisco Shock"
   },
   {
    "q": "In what year was the final Overwatch League season played?",
@@ -614,7 +635,8 @@
   {
    "q": "Which tank hero leads Talon and fights with a giant gauntlet?",
    "a": "Doomfist",
-   "p": 200
+   "p": 200,
+   "apic": "Doomfist"
   },
   {
    "q": "Which Irish scientist uses biotic grasp to heal and damage?",
@@ -652,7 +674,8 @@
   {
    "q": "In which country is the Junkers' outback home found?",
    "a": "Australia",
-   "p": 200
+   "p": 200,
+   "apic": "Australia"
   },
   {
    "q": "What ability lets Tracer zip forward in short bursts?",
@@ -670,7 +693,8 @@
    "p": 200,
    "alt": [
     "Torbjorn"
-   ]
+   ],
+   "apic": "Torbjörn (Overwatch)"
   },
   {
    "q": "Which game mode has teams capture and hold a single point to win rounds?",
@@ -690,12 +714,14 @@
   {
    "q": "Which Blizzard MOBA added many Overwatch heroes to its roster?",
    "a": "Heroes of the Storm",
-   "p": 200
+   "p": 200,
+   "apic": "Heroes of the Storm"
   },
   {
    "q": "Which company acquired Activision Blizzard in 2023?",
    "a": "Microsoft",
-   "p": 200
+   "p": 200,
+   "apic": "Microsoft"
   },
   {
    "q": "What is the name of the Moon base where Winston grew up?",
@@ -718,7 +744,8 @@
   {
    "q": "Which South Korean city is D.Va's home map?",
    "a": "Busan",
-   "p": 400
+   "p": 400,
+   "apic": "Busan"
   },
   {
    "q": "Which map is set where Mei was frozen for years at a research station?",
@@ -728,7 +755,8 @@
   {
    "q": "In which country is the Lijiang Tower map set?",
    "a": "China",
-   "p": 400
+   "p": 400,
+   "apic": "China"
   },
   {
    "q": "What is Soldier: 76's ultimate that auto-aims his rifle?",
@@ -902,22 +930,26 @@
   {
    "q": "Which country won the first three Overwatch World Cups from 2016 to 2018?",
    "a": "South Korea",
-   "p": 600
+   "p": 600,
+   "apic": "South Korea"
   },
   {
    "q": "Which team won the 2022 Overwatch League title?",
    "a": "Dallas Fuel",
-   "p": 600
+   "p": 600,
+   "apic": "Dallas Fuel"
   },
   {
    "q": "Which team won the final Overwatch League title in 2023?",
    "a": "Florida Mayhem",
-   "p": 600
+   "p": 600,
+   "apic": "Florida Mayhem"
   },
   {
    "q": "Which team won the 2021 Overwatch League title?",
    "a": "Shanghai Dragons",
-   "p": 600
+   "p": 600,
+   "apic": "Shanghai Dragons"
   },
   {
    "q": "What is Junkrat's real name?",
@@ -1010,7 +1042,8 @@
   {
    "q": "Which support hero builds teleporters and sentry turrets?",
    "a": "Symmetra",
-   "p": 200
+   "p": 200,
+   "apic": "Symmetra"
   },
   {
    "q": "Which veteran support sniper heals allies with her biotic rifle darts?",
@@ -1037,7 +1070,8 @@
    "alt": [
     "Soldier 76",
     "Soldier"
-   ]
+   ],
+   "apic": "Soldier: 76"
   }
  ]
 }

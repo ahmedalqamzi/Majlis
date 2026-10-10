@@ -5,12 +5,15 @@
   {
    "q": "What is the capital city of the United Kingdom?",
    "a": "London",
-   "p": 200
+   "p": 200,
+   "apic": "London"
   },
   {
    "q": "In which capital city are the Kremlin and Red Square?",
    "a": "Moscow",
-   "p": 200
+   "p": 200,
+   "pic": "Moscow Kremlin",
+   "apic": "Moscow"
   },
   {
    "q": "What is the capital city of the United States?",
@@ -19,7 +22,8 @@
    "alt": [
     "Washington",
     "Washington DC"
-   ]
+   ],
+   "apic": "Washington, D.C."
   },
   {
    "q": "In the name of the US capital Washington, D.C., what does D.C. stand for?",
@@ -30,7 +34,8 @@
    "q": "What is the capital city of Iraq?",
    "a": "Baghdad",
    "p": 200,
-   "ar": "بغداد"
+   "ar": "بغداد",
+   "apic": "Baghdad"
   },
   {
    "q": "What is the capital city of Syria?",
@@ -40,28 +45,33 @@
    "alt": [
     "Dimashq",
     "Al-Sham"
-   ]
+   ],
+   "apic": "Damascus"
   },
   {
    "q": "What is the capital city of Lebanon?",
    "a": "Beirut",
    "p": 200,
-   "ar": "بيروت"
+   "ar": "بيروت",
+   "apic": "Beirut"
   },
   {
    "q": "What is the capital city of South Korea?",
    "a": "Seoul",
-   "p": 200
+   "p": 200,
+   "apic": "Seoul"
   },
   {
    "q": "What is the capital city of Thailand?",
    "a": "Bangkok",
-   "p": 200
+   "p": 200,
+   "apic": "Bangkok"
   },
   {
    "q": "What is the capital city of Ireland?",
    "a": "Dublin",
-   "p": 200
+   "p": 200,
+   "apic": "Dublin"
   },
   {
    "q": "What is the capital city of Austria?",
@@ -69,42 +79,51 @@
    "p": 200,
    "alt": [
     "Wien"
-   ]
+   ],
+   "apic": "Vienna"
   },
   {
    "q": "Which capital city hosts the headquarters of both the European Union and NATO?",
    "a": "Brussels",
-   "p": 200
+   "p": 200,
+   "apic": "Brussels"
   },
   {
    "q": "What is the capital city of Norway?",
    "a": "Oslo",
-   "p": 200
+   "p": 200,
+   "apic": "Oslo"
   },
   {
    "q": "What is the capital city of Sweden?",
    "a": "Stockholm",
-   "p": 200
+   "p": 200,
+   "apic": "Stockholm"
   },
   {
    "q": "Which European capital is home to the Little Mermaid statue?",
    "a": "Copenhagen",
-   "p": 200
+   "p": 200,
+   "pic": "The Little Mermaid (statue)",
+   "apic": "Copenhagen"
   },
   {
    "q": "What is the capital city of Poland?",
    "a": "Warsaw",
-   "p": 200
+   "p": 200,
+   "apic": "Warsaw"
   },
   {
    "q": "What is the capital city of Kenya?",
    "a": "Nairobi",
-   "p": 200
+   "p": 200,
+   "apic": "Nairobi"
   },
   {
    "q": "What is the capital city of the Philippines?",
    "a": "Manila",
-   "p": 200
+   "p": 200,
+   "apic": "Manila"
   },
   {
    "q": "What is the capital city of Malaysia?",
@@ -112,22 +131,26 @@
    "p": 200,
    "alt": [
     "KL"
-   ]
+   ],
+   "apic": "Kuala Lumpur"
   },
   {
    "q": "What is the capital city of Iran?",
    "a": "Tehran",
-   "p": 200
+   "p": 200,
+   "apic": "Tehran"
   },
   {
    "q": "What is the capital city of Cuba?",
    "a": "Havana",
-   "p": 200
+   "p": 200,
+   "apic": "Havana"
   },
   {
    "q": "What is the capital city of Peru?",
    "a": "Lima",
-   "p": 200
+   "p": 200,
+   "apic": "Lima"
   },
   {
    "q": "What is the capital city of Colombia?",
@@ -135,17 +158,20 @@
    "p": 200,
    "alt": [
     "Bogotá"
-   ]
+   ],
+   "apic": "Bogotá"
   },
   {
    "q": "What is the capital city of Chile?",
    "a": "Santiago",
-   "p": 200
+   "p": 200,
+   "apic": "Santiago"
   },
   {
    "q": "Which capital city is split by the Danube into the old towns of Buda and Pest?",
    "a": "Budapest",
-   "p": 200
+   "p": 200,
+   "apic": "Budapest"
   },
   {
    "q": "What is the capital city of the Czech Republic?",
@@ -153,7 +179,8 @@
    "p": 200,
    "alt": [
     "Praha"
-   ]
+   ],
+   "apic": "Prague"
   },
   {
    "q": "What is the capital city of Ukraine?",
@@ -161,39 +188,46 @@
    "p": 200,
    "alt": [
     "Kiev"
-   ]
+   ],
+   "apic": "Kyiv"
   },
   {
    "q": "What is the capital city of Afghanistan?",
    "a": "Kabul",
-   "p": 200
+   "p": 200,
+   "apic": "Kabul"
   },
   {
    "q": "What is the capital city of Vietnam?",
    "a": "Hanoi",
-   "p": 200
+   "p": 200,
+   "apic": "Hanoi"
   },
   {
    "q": "What is the capital city of Finland?",
    "a": "Helsinki",
-   "p": 200
+   "p": 200,
+   "apic": "Helsinki"
   },
   {
    "q": "Which city is the official capital of the Netherlands, even though the government sits in The Hague?",
    "a": "Amsterdam",
-   "p": 200
+   "p": 200,
+   "apic": "Amsterdam"
   },
   {
    "q": "What is the capital city of Tunisia?",
    "a": "Tunis",
    "p": 200,
-   "ar": "تونس"
+   "ar": "تونس",
+   "apic": "Tunis"
   },
   {
    "q": "What is the capital city of Algeria?",
    "a": "Algiers",
    "p": 200,
-   "ar": "الجزائر"
+   "ar": "الجزائر",
+   "apic": "Algiers"
   },
   {
    "q": "What is the capital city of Somalia?",
@@ -202,13 +236,15 @@
    "ar": "مقديشو",
    "alt": [
     "Muqdisho"
-   ]
+   ],
+   "apic": "Mogadishu"
   },
   {
    "q": "What is the capital city of Sudan?",
    "a": "Khartoum",
    "p": 200,
-   "ar": "الخرطوم"
+   "ar": "الخرطوم",
+   "apic": "Khartoum"
   },
   {
    "q": "Which river flows through Cairo?",
@@ -217,12 +253,14 @@
    "ar": "النيل",
    "alt": [
     "Nile"
-   ]
+   ],
+   "apic": "Nile"
   },
   {
    "q": "Kyoto served as the imperial capital of which country for over a thousand years?",
    "a": "Japan",
-   "p": 200
+   "p": 200,
+   "apic": "Japan"
   },
   {
    "q": "Which city was the capital of Brazil before Brasilia was built?",
@@ -230,27 +268,34 @@
    "p": 200,
    "alt": [
     "Rio"
-   ]
+   ],
+   "apic": "Rio de Janeiro"
   },
   {
    "q": "Which city, once called Constantinople, was the capital of the Ottoman Empire?",
    "a": "Istanbul",
-   "p": 200
+   "p": 200,
+   "apic": "Istanbul"
   },
   {
    "q": "Which capital city is home to the ancient Colosseum?",
    "a": "Rome",
-   "p": 200
+   "p": 200,
+   "pic": "Colosseum",
+   "apic": "Rome"
   },
   {
    "q": "Which capital city hosted the first modern Olympic Games in 1896?",
    "a": "Athens",
-   "p": 200
+   "p": 200,
+   "apic": "Athens"
   },
   {
    "q": "In which capital city is the Brandenburg Gate?",
    "a": "Berlin",
-   "p": 200
+   "p": 200,
+   "pic": "Brandenburg Gate",
+   "apic": "Berlin"
   },
   {
    "q": "In which capital city is the Forbidden City?",
@@ -258,55 +303,70 @@
    "p": 200,
    "alt": [
     "Peking"
-   ]
+   ],
+   "pic": "Forbidden City",
+   "apic": "Beijing"
   },
   {
    "q": "Which capital city is home to the Louvre museum?",
    "a": "Paris",
-   "p": 200
+   "p": 200,
+   "pic": "Louvre",
+   "apic": "Paris"
   },
   {
    "q": "Which capital city is home to the Sheikh Zayed Grand Mosque?",
    "a": "Abu Dhabi",
    "p": 200,
-   "ar": "أبوظبي"
+   "ar": "أبوظبي",
+   "pic": "Sheikh Zayed Grand Mosque",
+   "apic": "Abu Dhabi"
   },
   {
    "q": "Which Gulf capital is home to the Kuwait Towers?",
    "a": "Kuwait City",
    "p": 200,
-   "ar": "مدينة الكويت"
+   "ar": "مدينة الكويت",
+   "pic": "Kuwait Towers",
+   "apic": "Kuwait City"
   },
   {
    "q": "Which Gulf capital is home to the Sultan Qaboos Grand Mosque?",
    "a": "Muscat",
    "p": 200,
-   "ar": "مسقط"
+   "ar": "مسقط",
+   "pic": "Sultan Qaboos Grand Mosque",
+   "apic": "Muscat"
   },
   {
    "q": "On which continent is the capital city Nairobi?",
    "a": "Africa",
-   "p": 200
+   "p": 200,
+   "apic": "Africa"
   },
   {
    "q": "On which continent are the capitals Lima, Bogota and Santiago?",
    "a": "South America",
-   "p": 200
+   "p": 200,
+   "apic": "South America"
   },
   {
    "q": "On which continent are the capitals Oslo, Warsaw and Dublin?",
    "a": "Europe",
-   "p": 200
+   "p": 200,
+   "apic": "Europe"
   },
   {
    "q": "On which continent are the capitals Hanoi, Kabul and Tehran?",
    "a": "Asia",
-   "p": 200
+   "p": 200,
+   "apic": "Asia"
   },
   {
    "q": "On which continent are the capitals Havana, Kingston and Ottawa?",
    "a": "North America",
-   "p": 200
+   "p": 200,
+   "apic": "North America"
   },
   {
    "q": "On which continent, or region, are the capitals Suva and Port Moresby?",
@@ -314,40 +374,48 @@
    "p": 400,
    "alt": [
     "Australia and Oceania"
-   ]
+   ],
+   "apic": "Oceania"
   },
   {
    "q": "Which capital city of a Gulf state is home to the Bab Al Bahrain gateway?",
    "a": "Manama",
    "p": 400,
-   "ar": "المنامة"
+   "ar": "المنامة",
+   "pic": "Bab Al Bahrain",
+   "apic": "Manama"
   },
   {
    "q": "What is the capital city of Venezuela?",
    "a": "Caracas",
-   "p": 200
+   "p": 200,
+   "apic": "Caracas"
   },
   {
    "q": "What is the capital city of Jamaica?",
    "a": "Kingston",
-   "p": 200
+   "p": 200,
+   "apic": "Kingston, Jamaica"
   },
   {
    "q": "Which capital city is home to the historic Masmak Fortress?",
    "a": "Riyadh",
    "p": 400,
-   "ar": "الرياض"
+   "ar": "الرياض",
+   "apic": "Riyadh"
   },
   {
    "q": "Which country has three capital cities: Pretoria, Cape Town and Bloemfontein?",
    "a": "South Africa",
-   "p": 200
+   "p": 200,
+   "apic": "South Africa"
   },
   {
    "q": "In which capital city is the Arab League headquartered?",
    "a": "Cairo",
    "p": 400,
-   "ar": "القاهرة"
+   "ar": "القاهرة",
+   "apic": "Cairo"
   },
   {
    "q": "What is the capital city of Bangladesh?",
@@ -355,17 +423,20 @@
    "p": 400,
    "alt": [
     "Dacca"
-   ]
+   ],
+   "apic": "Dhaka"
   },
   {
    "q": "What is the capital city of Uruguay?",
    "a": "Montevideo",
-   "p": 400
+   "p": 400,
+   "apic": "Montevideo"
   },
   {
    "q": "What is the capital city of Ecuador?",
    "a": "Quito",
-   "p": 400
+   "p": 400,
+   "apic": "Quito"
   },
   {
    "q": "Ecuador's capital Quito lies very close to which famous line of latitude?",
@@ -378,62 +449,74 @@
   {
    "q": "Which is the northernmost capital city of a sovereign country?",
    "a": "Reykjavik",
-   "p": 400
+   "p": 400,
+   "apic": "Reykjavík"
   },
   {
    "q": "Which capital was renamed Nur-Sultan in 2019 before getting its old name back in 2022?",
    "a": "Astana",
-   "p": 400
+   "p": 400,
+   "apic": "Astana"
   },
   {
    "q": "What is the capital city of Azerbaijan, on the Caspian Sea?",
    "a": "Baku",
-   "p": 400
+   "p": 400,
+   "apic": "Baku"
   },
   {
    "q": "What is the capital city of Romania?",
    "a": "Bucharest",
-   "p": 400
+   "p": 400,
+   "apic": "Bucharest"
   },
   {
    "q": "What is the capital city of Bulgaria?",
    "a": "Sofia",
-   "p": 400
+   "p": 400,
+   "apic": "Sofia"
   },
   {
    "q": "What is the capital city of Croatia?",
    "a": "Zagreb",
-   "p": 400
+   "p": 400,
+   "apic": "Zagreb"
   },
   {
    "q": "What is the capital city of Belarus?",
    "a": "Minsk",
-   "p": 400
+   "p": 400,
+   "apic": "Minsk"
   },
   {
    "q": "What is the capital city of Malta?",
    "a": "Valletta",
-   "p": 400
+   "p": 400,
+   "apic": "Valletta"
   },
   {
    "q": "What is the capital city of Ghana?",
    "a": "Accra",
-   "p": 400
+   "p": 400,
+   "apic": "Accra"
   },
   {
    "q": "What is the capital city of Senegal?",
    "a": "Dakar",
-   "p": 400
+   "p": 400,
+   "apic": "Dakar"
   },
   {
    "q": "What is the capital city of Cambodia?",
    "a": "Phnom Penh",
-   "p": 400
+   "p": 400,
+   "apic": "Phnom Penh"
   },
   {
    "q": "What is the capital city of North Korea?",
    "a": "Pyongyang",
-   "p": 400
+   "p": 400,
+   "apic": "Pyongyang"
   },
   {
    "q": "What is the capital city of the Maldives?",
@@ -441,42 +524,50 @@
    "p": 400,
    "alt": [
     "Malé"
-   ]
+   ],
+   "apic": "Malé"
   },
   {
    "q": "Belgrade is the capital of which country?",
    "a": "Serbia",
-   "p": 400
+   "p": 400,
+   "apic": "Serbia"
   },
   {
    "q": "What is the capital city of Uzbekistan?",
    "a": "Tashkent",
-   "p": 400
+   "p": 400,
+   "apic": "Tashkent"
   },
   {
    "q": "What is the capital city of Uganda?",
    "a": "Kampala",
-   "p": 400
+   "p": 400,
+   "apic": "Kampala"
   },
   {
    "q": "What is the capital city of Zimbabwe?",
    "a": "Harare",
-   "p": 400
+   "p": 400,
+   "apic": "Harare"
   },
   {
    "q": "What is the capital city of Albania?",
    "a": "Tirana",
-   "p": 400
+   "p": 400,
+   "apic": "Tirana"
   },
   {
    "q": "What is the capital city of Latvia?",
    "a": "Riga",
-   "p": 400
+   "p": 400,
+   "apic": "Riga"
   },
   {
    "q": "What is the capital city of Bosnia and Herzegovina?",
    "a": "Sarajevo",
-   "p": 400
+   "p": 400,
+   "apic": "Sarajevo"
   },
   {
    "q": "What is the capital city of Paraguay?",
@@ -484,53 +575,63 @@
    "p": 400,
    "alt": [
     "Asunción"
-   ]
+   ],
+   "apic": "Asunción"
   },
   {
    "q": "What is the capital city of Armenia?",
    "a": "Yerevan",
-   "p": 400
+   "p": 400,
+   "apic": "Yerevan"
   },
   {
    "q": "What is the capital city of Lithuania?",
    "a": "Vilnius",
-   "p": 400
+   "p": 400,
+   "apic": "Vilnius"
   },
   {
    "q": "What is the capital city of Estonia?",
    "a": "Tallinn",
-   "p": 400
+   "p": 400,
+   "apic": "Tallinn"
   },
   {
    "q": "What is the capital city of Mauritania?",
    "a": "Nouakchott",
    "p": 400,
-   "ar": "نواكشوط"
+   "ar": "نواكشوط",
+   "apic": "Nouakchott"
   },
   {
    "q": "What is the capital city of Zambia?",
    "a": "Lusaka",
-   "p": 400
+   "p": 400,
+   "apic": "Lusaka"
   },
   {
    "q": "What is the capital city of Rwanda?",
    "a": "Kigali",
-   "p": 400
+   "p": 400,
+   "apic": "Kigali"
   },
   {
    "q": "What is the capital city of Haiti?",
    "a": "Port-au-Prince",
-   "p": 400
+   "p": 400,
+   "apic": "Port-au-Prince"
   },
   {
    "q": "What is the capital city of the Dominican Republic?",
    "a": "Santo Domingo",
-   "p": 400
+   "p": 400,
+   "apic": "Santo Domingo"
   },
   {
    "q": "What is the capital city of the Bahamas?",
    "a": "Nassau",
-   "p": 400
+   "p": 400,
+   "apic": "Nassau, The Bahamas"
   },
   {
    "q": "What is the capital city of Costa Rica?",
@@ -538,12 +639,14 @@
    "p": 400,
    "alt": [
     "San José"
-   ]
+   ],
+   "apic": "San José, Costa Rica"
   },
   {
    "q": "What is the capital city of South Sudan?",
    "a": "Juba",
-   "p": 400
+   "p": 400,
+   "apic": "Juba"
   },
   {
    "q": "Which city was Russia's capital for most of the period from 1712 to 1918?",
@@ -553,17 +656,20 @@
     "St Petersburg",
     "Petrograd",
     "Leningrad"
-   ]
+   ],
+   "apic": "Saint Petersburg"
   },
   {
    "q": "Which city was the capital of West Germany from 1949 to 1990?",
    "a": "Bonn",
-   "p": 400
+   "p": 400,
+   "apic": "Bonn"
   },
   {
    "q": "Which coastal city was Nigeria's capital before Abuja took over in 1991?",
    "a": "Lagos",
-   "p": 400
+   "p": 400,
+   "apic": "Lagos"
   },
   {
    "q": "Which city was the capital of British India until 1911?",
@@ -571,7 +677,8 @@
    "p": 400,
    "alt": [
     "Calcutta"
-   ]
+   ],
+   "apic": "Kolkata"
   },
   {
    "q": "Which city was Kazakhstan's capital until 1997?",
@@ -579,12 +686,14 @@
    "p": 400,
    "alt": [
     "Alma-Ata"
-   ]
+   ],
+   "apic": "Almaty"
   },
   {
    "q": "Which port city was Pakistan's first capital?",
    "a": "Karachi",
-   "p": 400
+   "p": 400,
+   "apic": "Karachi"
   },
   {
    "q": "Which former capital of Myanmar is home to the Shwedagon Pagoda?",
@@ -592,7 +701,9 @@
    "p": 400,
    "alt": [
     "Rangoon"
-   ]
+   ],
+   "pic": "Shwedagon Pagoda",
+   "apic": "Yangon"
   },
   {
    "q": "Which town near Riyadh was the capital of the first Saudi state?",
@@ -602,7 +713,8 @@
    "alt": [
     "Al-Diriyah",
     "Dir'iyah"
-   ]
+   ],
+   "apic": "Diriyah"
   },
   {
    "q": "Which Chinese former capital is home to the Terracotta Army?",
@@ -611,13 +723,16 @@
    "alt": [
     "Xian",
     "Chang'an"
-   ]
+   ],
+   "pic": "Terracotta Army",
+   "apic": "Xi'an"
   },
   {
    "q": "Which city, founded by Alexander the Great, was Egypt's capital for nearly a thousand years in ancient times?",
    "a": "Alexandria",
    "p": 400,
-   "ar": "الإسكندرية"
+   "ar": "الإسكندرية",
+   "apic": "Alexandria"
   },
   {
    "q": "Which Andalusian city was the capital of the Umayyad Caliphate of al-Andalus?",
@@ -627,7 +742,8 @@
    "alt": [
     "Córdoba",
     "Qurtuba"
-   ]
+   ],
+   "apic": "Córdoba, Spain"
   },
   {
    "q": "Which Spanish city, home of the Alhambra, was the capital of the last Muslim kingdom in Iberia?",
@@ -636,19 +752,23 @@
    "ar": "غرناطة",
    "alt": [
     "Gharnata"
-   ]
+   ],
+   "pic": "Alhambra",
+   "apic": "Granada"
   },
   {
    "q": "From which city did the Umayyad Caliphs rule their empire?",
    "a": "Damascus",
    "p": 400,
-   "ar": "دمشق"
+   "ar": "دمشق",
+   "apic": "Damascus"
   },
   {
    "q": "Which city did the Abbasid Caliph al-Mansur found as his new capital in 762?",
    "a": "Baghdad",
    "p": 400,
-   "ar": "بغداد"
+   "ar": "بغداد",
+   "apic": "Baghdad"
   },
   {
    "q": "Which Moroccan imperial city is home to the ancient University of al-Qarawiyyin?",
@@ -657,7 +777,9 @@
    "ar": "فاس",
    "alt": [
     "Fez"
-   ]
+   ],
+   "pic": "University of al-Qarawiyyin",
+   "apic": "Fez, Morocco"
   },
   {
    "q": "Which city was Poland's capital before Warsaw?",
@@ -666,12 +788,14 @@
    "alt": [
     "Kraków",
     "Cracow"
-   ]
+   ],
+   "apic": "Kraków"
   },
   {
    "q": "Which Japanese capital city was known as Edo until 1868?",
    "a": "Tokyo",
-   "p": 400
+   "p": 400,
+   "apic": "Tokyo"
   },
   {
    "q": "Which river flows through Rome?",
@@ -680,7 +804,8 @@
    "alt": [
     "Tiber",
     "Tevere"
-   ]
+   ],
+   "apic": "Tiber"
   },
   {
    "q": "Which river flows through Kyiv?",
@@ -689,7 +814,8 @@
    "alt": [
     "Dnipro",
     "Dnieper"
-   ]
+   ],
+   "apic": "Dnieper"
   },
   {
    "q": "Which two capital cities face each other across the Congo River?",
@@ -702,48 +828,57 @@
    "p": 400,
    "alt": [
     "Nanking"
-   ]
+   ],
+   "apic": "Nanjing"
   },
   {
    "q": "In which capital city is the Museum of Islamic Art, on the Corniche?",
    "a": "Doha",
    "p": 400,
-   "ar": "الدوحة"
+   "ar": "الدوحة",
+   "apic": "Doha"
   },
   {
    "q": "Which administrative capital of Malaysia was built as a planned city south of Kuala Lumpur?",
    "a": "Putrajaya",
-   "p": 400
+   "p": 400,
+   "apic": "Putrajaya"
   },
   {
    "q": "What is the capital city of Laos?",
    "a": "Vientiane",
-   "p": 600
+   "p": 600,
+   "apic": "Vientiane"
   },
   {
    "q": "What is the capital city of Mozambique?",
    "a": "Maputo",
-   "p": 600
+   "p": 600,
+   "apic": "Maputo"
   },
   {
    "q": "What is the capital city of Angola?",
    "a": "Luanda",
-   "p": 600
+   "p": 600,
+   "apic": "Luanda"
   },
   {
    "q": "What is the capital city of Madagascar?",
    "a": "Antananarivo",
-   "p": 600
+   "p": 600,
+   "apic": "Antananarivo"
   },
   {
    "q": "What is the capital city of Fiji?",
    "a": "Suva",
-   "p": 600
+   "p": 600,
+   "apic": "Suva"
   },
   {
    "q": "What is the capital city of Papua New Guinea?",
    "a": "Port Moresby",
-   "p": 600
+   "p": 600,
+   "apic": "Port Moresby"
   },
   {
    "q": "What is the capital city of Cameroon?",
@@ -751,52 +886,62 @@
    "p": 600,
    "alt": [
     "Yaoundé"
-   ]
+   ],
+   "apic": "Yaoundé"
   },
   {
    "q": "What is the capital city of Mali?",
    "a": "Bamako",
-   "p": 600
+   "p": 600,
+   "apic": "Bamako"
   },
   {
    "q": "What is the capital city of Trinidad and Tobago?",
    "a": "Port of Spain",
-   "p": 600
+   "p": 600,
+   "apic": "Port of Spain"
   },
   {
    "q": "What is the capital city of Honduras?",
    "a": "Tegucigalpa",
-   "p": 600
+   "p": 600,
+   "apic": "Tegucigalpa"
   },
   {
    "q": "What is the capital city of Nicaragua?",
    "a": "Managua",
-   "p": 600
+   "p": 600,
+   "apic": "Managua"
   },
   {
    "q": "What is the capital city of Botswana?",
    "a": "Gaborone",
-   "p": 600
+   "p": 600,
+   "apic": "Gaborone"
   },
   {
    "q": "Which planned city replaced Belize City as the capital of Belize in 1970?",
    "a": "Belmopan",
-   "p": 400
+   "p": 400,
+   "apic": "Belmopan"
   },
   {
    "q": "Which US city was the national capital from 1790 to 1800?",
    "a": "Philadelphia",
-   "p": 400
+   "p": 400,
+   "apic": "Philadelphia"
   },
   {
    "q": "Which city was Australia's temporary seat of government from 1901 until Canberra was ready in 1927?",
    "a": "Melbourne",
-   "p": 400
+   "p": 400,
+   "apic": "Melbourne"
   },
   {
    "q": "Which Japanese city was the capital from 710 to 784, before the court moved toward Kyoto?",
    "a": "Nara",
-   "p": 400
+   "p": 400,
+   "apic": "Nara, Nara"
   },
   {
    "q": "Which ancient Egyptian capital stood where the city of Luxor is today?",
@@ -804,7 +949,8 @@
    "p": 400,
    "alt": [
     "Waset"
-   ]
+   ],
+   "apic": "Thebes, Egypt"
   },
   {
    "q": "Which Italian city became the first capital of unified Italy in 1861?",
@@ -812,7 +958,8 @@
    "p": 400,
    "alt": [
     "Torino"
-   ]
+   ],
+   "apic": "Turin"
   },
   {
    "q": "What was the name of Kinshasa in colonial times?",
@@ -820,12 +967,14 @@
    "p": 400,
    "alt": [
     "Léopoldville"
-   ]
+   ],
+   "apic": "Kinshasa"
   },
   {
    "q": "What is the capital city of Tajikistan?",
    "a": "Dushanbe",
-   "p": 600
+   "p": 600,
+   "apic": "Dushanbe"
   },
   {
    "q": "What is the capital city of Turkmenistan?",
@@ -833,17 +982,20 @@
    "p": 600,
    "alt": [
     "Ashkhabad"
-   ]
+   ],
+   "apic": "Ashgabat"
   },
   {
    "q": "What is the capital city of Montenegro?",
    "a": "Podgorica",
-   "p": 600
+   "p": 600,
+   "apic": "Podgorica"
   },
   {
    "q": "What is the capital city of North Macedonia?",
    "a": "Skopje",
-   "p": 600
+   "p": 600,
+   "apic": "Skopje"
   },
   {
    "q": "What is the capital city of Moldova?",
@@ -852,22 +1004,26 @@
    "alt": [
     "Chișinău",
     "Kishinev"
-   ]
+   ],
+   "apic": "Chișinău"
   },
   {
    "q": "What is the capital city of Guyana?",
    "a": "Georgetown",
-   "p": 600
+   "p": 600,
+   "apic": "Georgetown, Guyana"
   },
   {
    "q": "What is the capital city of Suriname?",
    "a": "Paramaribo",
-   "p": 600
+   "p": 600,
+   "apic": "Paramaribo"
   },
   {
    "q": "What is the capital city of Niger?",
    "a": "Niamey",
-   "p": 600
+   "p": 600,
+   "apic": "Niamey"
   },
   {
    "q": "What is the capital city of Chad?",
@@ -875,32 +1031,38 @@
    "p": 600,
    "alt": [
     "Ndjamena"
-   ]
+   ],
+   "apic": "N'Djamena"
   },
   {
    "q": "What is the capital city of the Central African Republic?",
    "a": "Bangui",
-   "p": 600
+   "p": 600,
+   "apic": "Bangui"
   },
   {
    "q": "What is the capital city of Gabon?",
    "a": "Libreville",
-   "p": 600
+   "p": 600,
+   "apic": "Libreville"
   },
   {
    "q": "What is the capital city of Lesotho?",
    "a": "Maseru",
-   "p": 600
+   "p": 600,
+   "apic": "Maseru"
   },
   {
    "q": "What is the capital city of Guinea?",
    "a": "Conakry",
-   "p": 600
+   "p": 600,
+   "apic": "Conakry"
   },
   {
    "q": "What is the capital city of The Gambia?",
    "a": "Banjul",
-   "p": 600
+   "p": 600,
+   "apic": "Banjul"
   },
   {
    "q": "What is the capital city of Togo?",
@@ -908,23 +1070,27 @@
    "p": 600,
    "alt": [
     "Lomé"
-   ]
+   ],
+   "apic": "Lomé"
   },
   {
    "q": "What is the capital city of the Comoros?",
    "a": "Moroni",
    "p": 600,
-   "ar": "موروني"
+   "ar": "موروني",
+   "apic": "Moroni, Comoros"
   },
   {
    "q": "What is the capital city of Barbados?",
    "a": "Bridgetown",
-   "p": 600
+   "p": 600,
+   "apic": "Bridgetown"
   },
   {
    "q": "What is the capital city of Samoa?",
    "a": "Apia",
-   "p": 600
+   "p": 600,
+   "apic": "Apia"
   },
   {
    "q": "What is the capital city of Tonga?",
@@ -934,22 +1100,26 @@
   {
    "q": "What is the capital city of Mauritius?",
    "a": "Port Louis",
-   "p": 600
+   "p": 600,
+   "apic": "Port Louis"
   },
   {
    "q": "What is the capital city of the Seychelles?",
    "a": "Victoria",
-   "p": 600
+   "p": 600,
+   "apic": "Victoria, Seychelles"
   },
   {
    "q": "Which city is the official capital of Côte d'Ivoire, though Abidjan is far larger?",
    "a": "Yamoussoukro",
-   "p": 600
+   "p": 600,
+   "apic": "Yamoussoukro"
   },
   {
    "q": "Which city is the official capital of Benin, though the government mostly sits in Cotonou?",
    "a": "Porto-Novo",
-   "p": 600
+   "p": 600,
+   "apic": "Porto-Novo"
   },
   {
    "q": "Which city is the official legislative capital of Sri Lanka, beside Colombo?",
@@ -957,22 +1127,26 @@
    "p": 600,
    "alt": [
     "Kotte"
-   ]
+   ],
+   "apic": "Sri Jayawardenepura Kotte"
   },
   {
    "q": "To which city did Burundi move its political capital from Bujumbura in 2019?",
    "a": "Gitega",
-   "p": 600
+   "p": 600,
+   "apic": "Gitega"
   },
   {
    "q": "Which Liberian capital is named after a US president?",
    "a": "Monrovia",
-   "p": 600
+   "p": 600,
+   "apic": "Monrovia"
   },
   {
    "q": "Which West African capital was founded as a settlement for freed slaves and named for it?",
    "a": "Freetown",
-   "p": 600
+   "p": 600,
+   "apic": "Freetown"
   },
   {
    "q": "What was the capital of Mozambique called during Portuguese rule?",
@@ -980,7 +1154,8 @@
    "p": 600,
    "alt": [
     "Lourenço Marques"
-   ]
+   ],
+   "apic": "Maputo"
   },
   {
    "q": "What was Oslo called for much of the 19th century and up to 1925?",
@@ -988,17 +1163,20 @@
    "p": 600,
    "alt": [
     "Kristiania"
-   ]
+   ],
+   "apic": "Oslo"
   },
   {
    "q": "Which is the highest capital city in Europe, at over 1,000 metres?",
    "a": "Andorra la Vella",
-   "p": 600
+   "p": 600,
+   "apic": "Andorra la Vella"
   },
   {
    "q": "What is the capital city of Liechtenstein?",
    "a": "Vaduz",
-   "p": 600
+   "p": 600,
+   "apic": "Vaduz"
   },
   {
    "q": "Which city was the first US capital under the Constitution, where George Washington took office in 1789?",
@@ -1006,7 +1184,8 @@
    "p": 600,
    "alt": [
     "New York"
-   ]
+   ],
+   "apic": "New York City"
   },
   {
    "q": "Which Brazilian city was the country's first capital, from 1549 to 1763?",
@@ -1014,7 +1193,8 @@
    "p": 600,
    "alt": [
     "Salvador da Bahia"
-   ]
+   ],
+   "apic": "Salvador, Bahia"
   },
   {
    "q": "Which Ottoman city served as the empire's capital immediately before Constantinople?",
@@ -1022,13 +1202,15 @@
    "p": 600,
    "alt": [
     "Adrianople"
-   ]
+   ],
+   "apic": "Edirne"
   },
   {
    "q": "Which Iraqi city on the Tigris was the Abbasid capital from 836 to 892?",
    "a": "Samarra",
    "p": 600,
-   "ar": "سامراء"
+   "ar": "سامراء",
+   "apic": "Samarra"
   },
   {
    "q": "What was the name of the first Arab capital of Egypt, founded by Amr ibn al-As?",
@@ -1037,12 +1219,14 @@
    "ar": "الفسطاط",
    "alt": [
     "Al-Fustat"
-   ]
+   ],
+   "apic": "Fustat"
   },
   {
    "q": "Which city was the capital of Egypt's Old Kingdom, near the apex of the Nile Delta?",
    "a": "Memphis",
-   "p": 600
+   "p": 600,
+   "apic": "Memphis, Egypt"
   },
   {
    "q": "Which Vietnamese city was the imperial capital of the Nguyen dynasty?",
@@ -1050,7 +1234,8 @@
    "p": 600,
    "alt": [
     "Huế"
-   ]
+   ],
+   "apic": "Huế"
   },
   {
    "q": "Which former Siamese capital was destroyed by Burmese forces in 1767?",
@@ -1060,12 +1245,14 @@
   {
    "q": "Which city served as the capital of the Philippines from 1948 to 1976?",
    "a": "Quezon City",
-   "p": 600
+   "p": 600,
+   "apic": "Quezon City"
   },
   {
    "q": "Which city was New Zealand's capital before Wellington took over in 1865?",
    "a": "Auckland",
-   "p": 600
+   "p": 600,
+   "apic": "Auckland"
   },
   {
    "q": "Which city was Finland's capital until 1812?",
@@ -1073,22 +1260,26 @@
    "p": 600,
    "alt": [
     "Åbo"
-   ]
+   ],
+   "apic": "Turku"
   },
   {
    "q": "Which city was the temporary capital of Lithuania between the two World Wars?",
    "a": "Kaunas",
-   "p": 600
+   "p": 600,
+   "apic": "Kaunas"
   },
   {
    "q": "Which Burmese city was the last royal capital before British rule?",
    "a": "Mandalay",
-   "p": 600
+   "p": 600,
+   "apic": "Mandalay"
   },
   {
    "q": "Which Mughal capital, built by Emperor Akbar, was abandoned soon after it was completed?",
    "a": "Fatehpur Sikri",
-   "p": 600
+   "p": 600,
+   "apic": "Fatehpur Sikri"
   },
   {
    "q": "Which Moroccan city was founded by the Almoravids around 1070 as their capital?",
@@ -1097,13 +1288,15 @@
    "ar": "مراكش",
    "alt": [
     "Marrakech"
-   ]
+   ],
+   "apic": "Marrakesh"
   },
   {
    "q": "Which Tanzanian port city was the national capital before Dodoma?",
    "a": "Dar es Salaam",
    "p": 600,
-   "ar": "دار السلام"
+   "ar": "دار السلام",
+   "apic": "Dar es Salaam"
   },
   {
    "q": "Which river flows through Warsaw?",
@@ -1112,7 +1305,8 @@
    "alt": [
     "Vistula",
     "Wisla"
-   ]
+   ],
+   "apic": "Vistula"
   },
   {
    "q": "Which river flows through Prague?",
@@ -1121,7 +1315,8 @@
    "alt": [
     "Vltava",
     "Moldau"
-   ]
+   ],
+   "apic": "Vltava"
   },
   {
    "q": "Which river flows through Lisbon into the Atlantic?",
@@ -1130,7 +1325,8 @@
    "alt": [
     "Tagus",
     "Tejo"
-   ]
+   ],
+   "apic": "Tagus"
   },
   {
    "q": "Which river flows through Berlin?",
@@ -1138,7 +1334,8 @@
    "p": 600,
    "alt": [
     "Spree"
-   ]
+   ],
+   "apic": "Spree"
   },
   {
    "q": "On which river does Washington, D.C. stand?",
@@ -1146,7 +1343,8 @@
    "p": 600,
    "alt": [
     "Potomac"
-   ]
+   ],
+   "apic": "Potomac River"
   },
   {
    "q": "Which river flows through Bangkok?",
@@ -1154,7 +1352,8 @@
    "p": 600,
    "alt": [
     "Chao Phraya"
-   ]
+   ],
+   "apic": "Chao Phraya River"
   },
   {
    "q": "Which river flows through Seoul?",
@@ -1163,7 +1362,8 @@
    "alt": [
     "Han",
     "Hangang"
-   ]
+   ],
+   "apic": "Han River (Korea)"
   },
   {
    "q": "Which river flows through Damascus and fed its famous Ghouta oasis?",
@@ -1172,7 +1372,8 @@
    "ar": "بردى",
    "alt": [
     "Barada"
-   ]
+   ],
+   "apic": "Barada"
   },
   {
    "q": "Which river meets the Danube at Belgrade?",
@@ -1180,7 +1381,8 @@
    "p": 600,
    "alt": [
     "Sava"
-   ]
+   ],
+   "apic": "Sava"
   },
   {
    "q": "Which river flows through Riga into the Baltic?",
@@ -1188,7 +1390,8 @@
    "p": 600,
    "alt": [
     "Daugava"
-   ]
+   ],
+   "apic": "Daugava"
   },
   {
    "q": "On which river do both Bamako and Niamey stand?",
@@ -1197,7 +1400,8 @@
    "alt": [
     "Niger River",
     "Niger"
-   ]
+   ],
+   "apic": "Niger River"
   },
   {
    "q": "Which wide estuary separates Buenos Aires from Montevideo?",
@@ -1206,7 +1410,8 @@
    "alt": [
     "River Plate",
     "Río de la Plata"
-   ]
+   ],
+   "apic": "Río de la Plata"
   },
   {
    "q": "Which river flows through Hanoi?",
@@ -1215,7 +1420,8 @@
    "alt": [
     "Red River",
     "Song Hong"
-   ]
+   ],
+   "apic": "Red River (Asia)"
   },
   {
    "q": "Which river flows through Madrid?",
@@ -1232,7 +1438,8 @@
    "alt": [
     "Jean Parisot de Valette",
     "La Valette"
-   ]
+   ],
+   "apic": "Jean Parisot de Valette"
   },
   {
    "q": "Kuala Lumpur's name means what in Malay?",

@@ -5,12 +5,14 @@
   {
    "q": "What is the largest planet in our solar system?",
    "a": "Jupiter",
-   "p": 200
+   "p": 200,
+   "apic": "Jupiter"
   },
   {
    "q": "What is the chemical formula of water?",
    "a": "H2O",
-   "p": 200
+   "p": 200,
+   "apic": "Water"
   },
   {
    "q": "How many continents are there?",
@@ -20,12 +22,14 @@
   {
    "q": "What is the largest ocean on Earth?",
    "a": "Pacific Ocean",
-   "p": 200
+   "p": 200,
+   "apic": "Pacific Ocean"
   },
   {
    "q": "What is the capital of the United Arab Emirates?",
    "a": "Abu Dhabi",
-   "p": 200
+   "p": 200,
+   "apic": "Abu Dhabi"
   },
   {
    "q": "How many days are there in a leap year?",
@@ -35,7 +39,9 @@
   {
    "q": "Who painted the Mona Lisa?",
    "a": "Leonardo da Vinci",
-   "p": 200
+   "p": 200,
+   "pic": "Mona Lisa",
+   "apic": "Leonardo da Vinci"
   },
   {
    "q": "How many sides does a hexagon have?",
@@ -50,27 +56,33 @@
   {
    "q": "Which animal is often called the king of the jungle?",
    "a": "Lion",
-   "p": 200
+   "p": 200,
+   "apic": "Lion"
   },
   {
    "q": "Which planet is known as the Red Planet?",
    "a": "Mars",
-   "p": 200
+   "p": 200,
+   "apic": "Mars"
   },
   {
    "q": "What is the largest land animal?",
    "a": "African elephant",
-   "p": 200
+   "p": 200,
+   "apic": "African bush elephant"
   },
   {
    "q": "In which country is the Eiffel Tower?",
    "a": "France",
-   "p": 200
+   "p": 200,
+   "pic": "Eiffel Tower",
+   "apic": "France"
   },
   {
    "q": "Who wrote the play Romeo and Juliet?",
    "a": "William Shakespeare",
-   "p": 200
+   "p": 200,
+   "apic": "William Shakespeare"
   },
   {
    "q": "How many strings does a standard guitar have?",
@@ -80,7 +92,8 @@
   {
    "q": "What is the hardest natural substance?",
    "a": "Diamond",
-   "p": 200
+   "p": 200,
+   "apic": "Diamond"
   },
   {
    "q": "At what temperature in degrees Celsius does water freeze?",
@@ -90,7 +103,8 @@
   {
    "q": "What is the capital of Japan?",
    "a": "Tokyo",
-   "p": 200
+   "p": 200,
+   "apic": "Tokyo"
   },
   {
    "q": "At what temperature in degrees Celsius does water boil at sea level?",
@@ -105,17 +119,20 @@
   {
    "q": "What is the tallest animal in the world?",
    "a": "Giraffe",
-   "p": 200
+   "p": 200,
+   "apic": "Giraffe"
   },
   {
    "q": "Which fruit is said to keep the doctor away if eaten daily?",
    "a": "Apple",
-   "p": 200
+   "p": 200,
+   "apic": "Apple"
   },
   {
    "q": "Which flightless bird is famous for living in Antarctica?",
    "a": "Penguin",
-   "p": 200
+   "p": 200,
+   "apic": "Penguin"
   },
   {
    "q": "How many colours are traditionally listed in a rainbow?",
@@ -125,32 +142,38 @@
   {
    "q": "What is the largest mammal on Earth?",
    "a": "Blue whale",
-   "p": 200
+   "p": 200,
+   "apic": "Blue whale"
   },
   {
    "q": "What is the main language spoken in Brazil?",
    "a": "Portuguese",
-   "p": 200
+   "p": 200,
+   "apic": "Portuguese language"
   },
   {
    "q": "Who wrote the Harry Potter books?",
    "a": "J.K. Rowling",
-   "p": 200
+   "p": 200,
+   "apic": "J. K. Rowling"
   },
   {
    "q": "What is the capital of Italy?",
    "a": "Rome",
-   "p": 200
+   "p": 200,
+   "apic": "Rome"
   },
   {
    "q": "Which organ pumps blood around the human body?",
    "a": "Heart",
-   "p": 200
+   "p": 200,
+   "apic": "Heart"
   },
   {
    "q": "Which insects make honey?",
    "a": "Bees",
-   "p": 200
+   "p": 200,
+   "apic": "Honey bee"
   },
   {
    "q": "How many letters are in the English alphabet?",
@@ -160,12 +183,14 @@
   {
    "q": "What is the capital of Egypt?",
    "a": "Cairo",
-   "p": 200
+   "p": 200,
+   "apic": "Cairo"
   },
   {
    "q": "What is a baby kangaroo called?",
    "a": "Joey",
-   "p": 200
+   "p": 200,
+   "apic": "Kangaroo"
   },
   {
    "q": "In which year was the United Arab Emirates formed?",
@@ -175,17 +200,20 @@
   {
    "q": "Which planet is best known for its prominent rings?",
    "a": "Saturn",
-   "p": 200
+   "p": 200,
+   "apic": "Saturn"
   },
   {
    "q": "What is the capital city of Australia?",
    "a": "Canberra",
-   "p": 400
+   "p": 400,
+   "apic": "Canberra"
   },
   {
    "q": "Which element has the chemical symbol Au?",
    "a": "Gold",
-   "p": 400
+   "p": 400,
+   "apic": "Gold"
   },
   {
    "q": "Which gas makes up most of Earth's atmosphere?",
@@ -195,12 +223,14 @@
   {
    "q": "What is the longest bone in the human body?",
    "a": "Femur",
-   "p": 400
+   "p": 400,
+   "apic": "Femur"
   },
   {
    "q": "Who discovered penicillin?",
    "a": "Alexander Fleming",
-   "p": 400
+   "p": 400,
+   "apic": "Alexander Fleming"
   },
   {
    "q": "How many bones are in an adult human body?",
@@ -210,17 +240,20 @@
   {
    "q": "What is the smallest country in the world by area?",
    "a": "Vatican City",
-   "p": 400
+   "p": 400,
+   "apic": "Vatican City"
   },
   {
    "q": "What is the capital city of Brazil?",
    "a": "Brasilia",
-   "p": 400
+   "p": 400,
+   "apic": "Brasília"
   },
   {
    "q": "Who wrote the novel Nineteen Eighty-Four?",
    "a": "George Orwell",
-   "p": 400
+   "p": 400,
+   "apic": "George Orwell"
   },
   {
    "q": "What is the smallest prime number?",
@@ -230,7 +263,8 @@
   {
    "q": "What is the capital of Canada?",
    "a": "Ottawa",
-   "p": 400
+   "p": 400,
+   "apic": "Ottawa"
   },
   {
    "q": "How many months of the year have 31 days?",
@@ -240,7 +274,8 @@
   {
    "q": "Who wrote the novel Pride and Prejudice?",
    "a": "Jane Austen",
-   "p": 400
+   "p": 400,
+   "apic": "Jane Austen"
   },
   {
    "q": "What is the chemical symbol for sodium?",
@@ -250,17 +285,21 @@
   {
    "q": "How many hearts does an octopus have?",
    "a": "Three",
-   "p": 400
+   "p": 400,
+   "pic": "Octopus"
   },
   {
    "q": "What is the Japanese art of paper folding called?",
    "a": "Origami",
-   "p": 400
+   "p": 400,
+   "apic": "Origami"
   },
   {
    "q": "In which Indian city is the Taj Mahal?",
    "a": "Agra",
-   "p": 400
+   "p": 400,
+   "pic": "Taj Mahal",
+   "apic": "Agra"
   },
   {
    "q": "What is a group of lions called?",
@@ -270,7 +309,8 @@
   {
    "q": "Who wrote the novel Don Quixote?",
    "a": "Miguel de Cervantes",
-   "p": 400
+   "p": 400,
+   "apic": "Miguel de Cervantes"
   },
   {
    "q": "How many keys does a standard piano have?",
@@ -280,22 +320,27 @@
   {
    "q": "What is the capital of Turkey?",
    "a": "Ankara",
-   "p": 400
+   "p": 400,
+   "apic": "Ankara"
   },
   {
    "q": "Who wrote the novel War and Peace?",
    "a": "Leo Tolstoy",
-   "p": 400
+   "p": 400,
+   "apic": "Leo Tolstoy"
   },
   {
    "q": "Which artist painted Guernica?",
    "a": "Pablo Picasso",
-   "p": 400
+   "p": 400,
+   "pic": "Guernica (Picasso)",
+   "apic": "Pablo Picasso"
   },
   {
    "q": "What is the capital of New Zealand?",
    "a": "Wellington",
-   "p": 400
+   "p": 400,
+   "apic": "Wellington"
   },
   {
    "q": "In which year did the Berlin Wall fall?",
@@ -305,27 +350,35 @@
   {
    "q": "Which composer wrote The Four Seasons?",
    "a": "Antonio Vivaldi",
-   "p": 400
+   "p": 400,
+   "apic": "Antonio Vivaldi"
   },
   {
    "q": "Which language has the most native speakers in the world?",
    "a": "Mandarin Chinese",
-   "p": 400
+   "p": 400,
+   "apic": "Mandarin Chinese"
   },
   {
    "q": "In which city is the Hagia Sophia?",
    "a": "Istanbul",
-   "p": 400
+   "p": 400,
+   "pic": "Hagia Sophia",
+   "apic": "Istanbul"
   },
   {
    "q": "In which country is the Inca site of Machu Picchu?",
    "a": "Peru",
-   "p": 400
+   "p": 400,
+   "pic": "Machu Picchu",
+   "apic": "Peru"
   },
   {
    "q": "In which city are the Petronas Towers?",
    "a": "Kuala Lumpur",
-   "p": 400
+   "p": 400,
+   "pic": "Petronas Towers",
+   "apic": "Kuala Lumpur"
   },
   {
    "q": "Which Roman numeral represents 500?",
@@ -345,52 +398,63 @@
   {
    "q": "Who painted The Persistence of Memory?",
    "a": "Salvador Dali",
-   "p": 400
+   "p": 400,
+   "pic": "The Persistence of Memory",
+   "apic": "Salvador Dalí"
   },
   {
    "q": "In which year did the Burj Khalifa officially open?",
    "a": "2010",
-   "p": 400
+   "p": 400,
+   "pic": "Burj Khalifa"
   },
   {
    "q": "Who wrote the novel One Hundred Years of Solitude?",
    "a": "Gabriel Garcia Marquez",
-   "p": 600
+   "p": 600,
+   "apic": "Gabriel García Márquez"
   },
   {
    "q": "What is the smallest bone in the human body?",
    "a": "Stapes",
-   "p": 600
+   "p": 600,
+   "apic": "Stapes"
   },
   {
    "q": "What is the deepest lake in the world?",
    "a": "Lake Baikal",
-   "p": 600
+   "p": 600,
+   "apic": "Lake Baikal"
   },
   {
    "q": "What is the longest river in Europe?",
    "a": "Volga",
-   "p": 600
+   "p": 600,
+   "apic": "Volga"
   },
   {
    "q": "What is the capital of Mongolia?",
    "a": "Ulaanbaatar",
-   "p": 600
+   "p": 600,
+   "apic": "Ulaanbaatar"
   },
   {
    "q": "Who wrote the epic poem The Divine Comedy?",
    "a": "Dante Alighieri",
-   "p": 600
+   "p": 600,
+   "apic": "Dante Alighieri"
   },
   {
    "q": "Who wrote the novel Crime and Punishment?",
    "a": "Fyodor Dostoevsky",
-   "p": 600
+   "p": 600,
+   "apic": "Fyodor Dostoevsky"
   },
   {
    "q": "Which scientist developed the first successful polio vaccine?",
    "a": "Jonas Salk",
-   "p": 600
+   "p": 600,
+   "apic": "Jonas Salk"
   },
   {
    "q": "Which gas is the third most abundant in Earth's atmosphere?",
@@ -400,12 +464,15 @@
   {
    "q": "Who wrote the novel Moby-Dick?",
    "a": "Herman Melville",
-   "p": 600
+   "p": 600,
+   "apic": "Herman Melville"
   },
   {
    "q": "Which architect designed the Sagrada Familia in Barcelona?",
    "a": "Antoni Gaudi",
-   "p": 600
+   "p": 600,
+   "pic": "Sagrada Família",
+   "apic": "Antoni Gaudí"
   },
   {
    "q": "What is the SI unit of electrical resistance?",
@@ -415,12 +482,14 @@
   {
    "q": "What is the capital of Switzerland?",
    "a": "Bern",
-   "p": 600
+   "p": 600,
+   "apic": "Bern"
   },
   {
    "q": "What is the tallest uninterrupted waterfall in the world?",
    "a": "Angel Falls",
-   "p": 600
+   "p": 600,
+   "apic": "Angel Falls"
   },
   {
    "q": "What is the scientific study of birds called?",
@@ -430,52 +499,63 @@
   {
    "q": "What is the capital of Bhutan?",
    "a": "Thimphu",
-   "p": 600
+   "p": 600,
+   "apic": "Thimphu"
   },
   {
    "q": "What is the capital of Burkina Faso?",
    "a": "Ouagadougou",
-   "p": 600
+   "p": 600,
+   "apic": "Ouagadougou"
   },
   {
    "q": "Which planet in our solar system rotates tilted on its side, with an axial tilt of about 98 degrees?",
    "a": "Uranus",
-   "p": 600
+   "p": 600,
+   "apic": "Uranus"
   },
   {
    "q": "What is the longest river in Asia?",
    "a": "Yangtze",
-   "p": 600
+   "p": 600,
+   "apic": "Yangtze"
   },
   {
    "q": "Which composer wrote the Brandenburg Concertos?",
    "a": "Johann Sebastian Bach",
-   "p": 600
+   "p": 600,
+   "apic": "Johann Sebastian Bach"
   },
   {
    "q": "Who painted Girl with a Pearl Earring?",
    "a": "Johannes Vermeer",
-   "p": 600
+   "p": 600,
+   "pic": "Girl with a Pearl Earring",
+   "apic": "Johannes Vermeer"
   },
   {
    "q": "Which element has the chemical symbol W?",
    "a": "Tungsten",
-   "p": 600
+   "p": 600,
+   "apic": "Tungsten"
   },
   {
    "q": "What is the largest moon of Saturn?",
    "a": "Titan",
-   "p": 600
+   "p": 600,
+   "apic": "Titan (moon)"
   },
   {
    "q": "Who led the first expedition to reach the South Pole, in December 1911?",
    "a": "Roald Amundsen",
-   "p": 600
+   "p": 600,
+   "apic": "Roald Amundsen"
   },
   {
    "q": "What is the capital of Ethiopia?",
    "a": "Addis Ababa",
-   "p": 600
+   "p": 600,
+   "apic": "Addis Ababa"
   },
   {
    "q": "What is the SI unit of frequency?",
@@ -485,22 +565,26 @@
   {
    "q": "What is the most abundant metal in Earth's crust?",
    "a": "Aluminium",
-   "p": 600
+   "p": 600,
+   "apic": "Aluminium"
   },
   {
    "q": "Which Swiss psychiatrist founded analytical psychology?",
    "a": "Carl Jung",
-   "p": 600
+   "p": 600,
+   "apic": "Carl Jung"
   },
   {
    "q": "Who discovered the electron in 1897?",
    "a": "J. J. Thomson",
-   "p": 600
+   "p": 600,
+   "apic": "J. J. Thomson"
   },
   {
    "q": "What is the capital of Kyrgyzstan?",
    "a": "Bishkek",
-   "p": 600
+   "p": 600,
+   "apic": "Bishkek"
   },
   {
    "q": "What is a female deer called?",
@@ -517,7 +601,8 @@
    "alt": [
     "Butterfly",
     "Moths"
-   ]
+   ],
+   "apic": "Butterfly"
   },
   {
    "q": "Which insect lights up at night with a glowing abdomen?",
@@ -526,7 +611,8 @@
    "alt": [
     "Glow-worm",
     "Lightning bug"
-   ]
+   ],
+   "apic": "Firefly"
   },
   {
    "q": "How many sides does an octagon have?",
@@ -576,7 +662,8 @@
    "p": 200,
    "alt": [
     "RMS Titanic"
-   ]
+   ],
+   "apic": "Titanic"
   },
   {
    "q": "Who painted The Starry Night?",
@@ -584,17 +671,21 @@
    "p": 200,
    "alt": [
     "Van Gogh"
-   ]
+   ],
+   "pic": "The Starry Night",
+   "apic": "Vincent van Gogh"
   },
   {
    "q": "Which company makes the iPhone?",
    "a": "Apple",
-   "p": 200
+   "p": 200,
+   "apic": "Apple Inc."
   },
   {
    "q": "Who co-founded Microsoft with Paul Allen?",
    "a": "Bill Gates",
-   "p": 200
+   "p": 200,
+   "apic": "Bill Gates"
   },
   {
    "q": "What does GPS stand for?",
@@ -612,12 +703,14 @@
   {
    "q": "Which chess piece can only move diagonally?",
    "a": "Bishop",
-   "p": 200
+   "p": 200,
+   "apic": "Bishop (chess)"
   },
   {
    "q": "Which chess piece moves in an L shape and can jump over others?",
    "a": "Knight",
-   "p": 200
+   "p": 200,
+   "apic": "Knight (chess)"
   },
   {
    "q": "How many musicians play in a quartet?",
@@ -633,7 +726,8 @@
    "p": 200,
    "alt": [
     "Alexander"
-   ]
+   ],
+   "apic": "Alexander the Great"
   },
   {
    "q": "What do the interior angles of a triangle add up to, in degrees?",
@@ -653,7 +747,8 @@
   {
    "q": "What is the largest species of shark?",
    "a": "Whale shark",
-   "p": 400
+   "p": 400,
+   "apic": "Whale shark"
   },
   {
    "q": "What does the 'S' in USB stand for?",
@@ -666,7 +761,8 @@
    "p": 400,
    "alt": [
     "Chinggis Khan"
-   ]
+   ],
+   "apic": "Genghis Khan"
   },
   {
    "q": "What name do historians give the eastern Roman Empire ruled from Constantinople?",
@@ -675,7 +771,8 @@
    "alt": [
     "Byzantium",
     "Eastern Roman Empire"
-   ]
+   ],
+   "apic": "Byzantine Empire"
   },
   {
    "q": "Which Norwegian artist painted The Scream?",
@@ -683,12 +780,16 @@
    "p": 400,
    "alt": [
     "Munch"
-   ]
+   ],
+   "pic": "The Scream",
+   "apic": "Edvard Munch"
   },
   {
    "q": "Which art movement is Claude Monet most associated with?",
    "a": "Impressionism",
-   "p": 400
+   "p": 400,
+   "pic": "Claude Monet",
+   "apic": "Impressionism"
   },
   {
    "q": "In which Paris museum does the Mona Lisa hang?",
@@ -696,7 +797,9 @@
    "p": 200,
    "alt": [
     "Louvre"
-   ]
+   ],
+   "pic": "Mona Lisa",
+   "apic": "Louvre"
   },
   {
    "q": "Which composer wrote the Moonlight Sonata?",
@@ -704,7 +807,8 @@
    "p": 400,
    "alt": [
     "Beethoven"
-   ]
+   ],
+   "apic": "Ludwig van Beethoven"
   },
   {
    "q": "How many strings does a violin have?",
@@ -720,17 +824,20 @@
    "p": 400,
    "alt": [
     "Conan Doyle"
-   ]
+   ],
+   "apic": "Arthur Conan Doyle"
   },
   {
    "q": "Who wrote Alice's Adventures in Wonderland?",
    "a": "Lewis Carroll",
-   "p": 400
+   "p": 400,
+   "apic": "Lewis Carroll"
   },
   {
    "q": "Which ancient Greek poet is credited with The Iliad and The Odyssey?",
    "a": "Homer",
-   "p": 400
+   "p": 400,
+   "apic": "Homer"
   },
   {
    "q": "Who wrote the novel Les Misérables?",
@@ -738,12 +845,14 @@
    "p": 400,
    "alt": [
     "Hugo"
-   ]
+   ],
+   "apic": "Victor Hugo"
   },
   {
    "q": "Who wrote the novel To Kill a Mockingbird?",
    "a": "Harper Lee",
-   "p": 400
+   "p": 400,
+   "apic": "Harper Lee"
   },
   {
    "q": "Which Brazilian author wrote The Alchemist?",
@@ -751,7 +860,8 @@
    "p": 400,
    "alt": [
     "Coelho"
-   ]
+   ],
+   "apic": "Paulo Coelho"
   },
   {
    "q": "Who wrote the novel The Old Man and the Sea?",
@@ -759,7 +869,8 @@
    "p": 400,
    "alt": [
     "Hemingway"
-   ]
+   ],
+   "apic": "Ernest Hemingway"
   },
   {
    "q": "Tahini is a paste made from which seeds?",
@@ -767,12 +878,16 @@
    "p": 400,
    "alt": [
     "Sesame"
-   ]
+   ],
+   "pic": "Tahini",
+   "apic": "Sesame"
   },
   {
    "q": "Which IBM computer defeated world chess champion Garry Kasparov in 1997?",
    "a": "Deep Blue",
-   "p": 600
+   "p": 600,
+   "pic": "Garry Kasparov",
+   "apic": "Deep Blue (chess computer)"
   },
   {
    "q": "Which American won the 1972 World Chess Championship in Reykjavík?",
@@ -780,7 +895,8 @@
    "p": 600,
    "alt": [
     "Fischer"
-   ]
+   ],
+   "apic": "Bobby Fischer"
   },
   {
    "q": "Which Norwegian became world chess champion in 2013?",
@@ -788,12 +904,14 @@
    "p": 400,
    "alt": [
     "Carlsen"
-   ]
+   ],
+   "apic": "Magnus Carlsen"
   },
   {
    "q": "What is the chemical symbol for silver?",
    "a": "Ag",
-   "p": 400
+   "p": 400,
+   "apic": "Silver"
   },
   {
    "q": "What is the SI unit of electric current?",
@@ -809,7 +927,8 @@
    "p": 400,
    "alt": [
     "Tchaikovsky"
-   ]
+   ],
+   "apic": "Pyotr Ilyich Tchaikovsky"
   },
   {
    "q": "Which musical term means gradually getting louder?",
@@ -823,12 +942,15 @@
    "alt": [
     "Hillary and Tenzing",
     "Hillary and Norgay"
-   ]
+   ],
+   "pic": "Mount Everest",
+   "apic": "Tenzing Norgay"
   },
   {
    "q": "What is the Japanese art of growing miniature trees in pots?",
    "a": "Bonsai",
-   "p": 200
+   "p": 200,
+   "apic": "Bonsai"
   },
   {
    "q": "Which land mammal has the longest pregnancy, about 22 months?",
@@ -836,7 +958,8 @@
    "p": 200,
    "alt": [
     "African elephant"
-   ]
+   ],
+   "apic": "Elephant"
   },
   {
    "q": "What is a word formed from initial letters and pronounced as a word, like NATO, called?",
@@ -854,7 +977,8 @@
    "p": 600,
    "alt": [
     "Achebe"
-   ]
+   ],
+   "apic": "Chinua Achebe"
   },
   {
    "q": "Who wrote The Little Prince?",
@@ -863,7 +987,8 @@
    "alt": [
     "Saint-Exupery",
     "Antoine de Saint-Exupery"
-   ]
+   ],
+   "apic": "Antoine de Saint-Exupéry"
   },
   {
    "q": "Which Andalusian philosopher, famous for commentaries on Aristotle, was known in Europe as Averroes?",
@@ -878,7 +1003,8 @@
    "alt": [
     "Scott Fitzgerald",
     "Fitzgerald"
-   ]
+   ],
+   "apic": "F. Scott Fitzgerald"
   },
   {
    "q": "What was the name of the ship on which Charles Darwin sailed around the world?",
@@ -887,7 +1013,9 @@
    "alt": [
     "Beagle",
     "The Beagle"
-   ]
+   ],
+   "pic": "Charles Darwin",
+   "apic": "HMS Beagle"
   },
   {
    "q": "What is the scientific study of fungi called?",
@@ -900,7 +1028,8 @@
    "p": 600,
    "alt": [
     "10"
-   ]
+   ],
+   "pic": "Lobster"
   },
   {
    "q": "Which ancient Chinese general is credited with The Art of War?",
@@ -908,7 +1037,8 @@
    "p": 600,
    "alt": [
     "Sunzi"
-   ]
+   ],
+   "apic": "Sun Tzu"
   },
   {
    "q": "Who painted The Birth of Venus?",
@@ -916,7 +1046,9 @@
    "p": 600,
    "alt": [
     "Botticelli"
-   ]
+   ],
+   "pic": "The Birth of Venus",
+   "apic": "Sandro Botticelli"
   },
   {
    "q": "Which Dutch master painted The Night Watch?",
@@ -924,7 +1056,9 @@
    "p": 400,
    "alt": [
     "Rembrandt van Rijn"
-   ]
+   ],
+   "pic": "The Night Watch",
+   "apic": "Rembrandt"
   },
   {
    "q": "Which Dutch painter created The Garden of Earthly Delights?",
@@ -932,7 +1066,9 @@
    "p": 600,
    "alt": [
     "Bosch"
-   ]
+   ],
+   "pic": "The Garden of Earthly Delights",
+   "apic": "Hieronymus Bosch"
   },
   {
    "q": "In which year did the French Revolution begin?",
@@ -945,7 +1081,8 @@
    "p": 600,
    "alt": [
     "Earhart"
-   ]
+   ],
+   "apic": "Amelia Earhart"
   },
   {
    "q": "Which university in Fez, founded in 859 by Fatima al-Fihri, is often cited as the oldest still operating?",
@@ -956,7 +1093,8 @@
     "University of al-Qarawiyyin",
     "Al Quaraouiyine",
     "Qarawiyyin"
-   ]
+   ],
+   "apic": "University of al-Qarawiyyin"
   },
   {
    "q": "What is the study of the origin and history of words called?",
@@ -989,7 +1127,8 @@
   {
    "q": "Which property-trading board game features Mayfair and Park Lane in its UK edition?",
    "a": "Monopoly",
-   "p": 200
+   "p": 200,
+   "apic": "Monopoly (game)"
   },
   {
    "q": "Which Danish company makes interlocking plastic toy bricks?",
@@ -997,7 +1136,8 @@
    "p": 200,
    "alt": [
     "LEGO"
-   ]
+   ],
+   "apic": "Lego"
   },
   {
    "q": "Which precious metal traditionally marks a 50th wedding anniversary?",
@@ -1005,12 +1145,14 @@
    "p": 200,
    "alt": [
     "Golden"
-   ]
+   ],
+   "apic": "Gold"
   },
   {
    "q": "Which Shakespeare play is about the Prince of Denmark?",
    "a": "Hamlet",
-   "p": 200
+   "p": 200,
+   "apic": "Hamlet"
   },
   {
    "q": "Who wrote Charlie and the Chocolate Factory and Matilda?",
@@ -1018,7 +1160,8 @@
    "p": 200,
    "alt": [
     "Dahl"
-   ]
+   ],
+   "apic": "Roald Dahl"
   },
   {
    "q": "Who wrote and illustrated The Cat in the Hat?",
@@ -1027,7 +1170,8 @@
    "alt": [
     "Dr Seuss",
     "Theodor Geisel"
-   ]
+   ],
+   "apic": "Dr. Seuss"
   },
   {
    "q": "Which German brothers collected fairy tales such as Snow White and Hansel and Gretel?",
@@ -1036,12 +1180,14 @@
    "alt": [
     "The Grimm brothers",
     "Grimm"
-   ]
+   ],
+   "apic": "Brothers Grimm"
   },
   {
    "q": "Whose wartime diary, written while hiding in Amsterdam, became one of the world's most read books?",
    "a": "Anne Frank",
-   "p": 200
+   "p": 200,
+   "apic": "Anne Frank"
   },
   {
    "q": "Which American civil rights leader gave the 'I Have a Dream' speech in 1963?",
@@ -1050,7 +1196,8 @@
    "alt": [
     "Martin Luther King",
     "MLK"
-   ]
+   ],
+   "apic": "Martin Luther King Jr."
   },
   {
    "q": "Which South African leader was released in 1990 after 27 years in prison?",
@@ -1058,7 +1205,8 @@
    "p": 200,
    "alt": [
     "Mandela"
-   ]
+   ],
+   "apic": "Nelson Mandela"
   },
   {
    "q": "What colour do you get by mixing red and blue?",
@@ -1074,7 +1222,8 @@
    "p": 200,
    "alt": [
     "Hailstones"
-   ]
+   ],
+   "apic": "Hail"
   },
   {
    "q": "What is the international Morse code distress signal?",
@@ -1089,12 +1238,14 @@
   {
    "q": "In which Shakespeare play does a Scottish general murder King Duncan?",
    "a": "Macbeth",
-   "p": 400
+   "p": 400,
+   "apic": "Macbeth"
   },
   {
    "q": "Which Shakespeare tragedy is subtitled 'The Moor of Venice'?",
    "a": "Othello",
-   "p": 400
+   "p": 400,
+   "apic": "Othello"
   },
   {
    "q": "What was the name of Shakespeare's theatre on London's Bankside?",
@@ -1103,7 +1254,8 @@
    "alt": [
     "Globe Theatre",
     "Globe"
-   ]
+   ],
+   "apic": "Globe Theatre"
   },
   {
    "q": "Who wrote The Jungle Book?",
@@ -1111,7 +1263,8 @@
    "p": 400,
    "alt": [
     "Kipling"
-   ]
+   ],
+   "apic": "Rudyard Kipling"
   },
   {
    "q": "Who wrote Around the World in Eighty Days?",
@@ -1119,7 +1272,8 @@
    "p": 400,
    "alt": [
     "Verne"
-   ]
+   ],
+   "apic": "Jules Verne"
   },
   {
    "q": "Who created Winnie-the-Pooh?",
@@ -1128,7 +1282,9 @@
    "alt": [
     "AA Milne",
     "Milne"
-   ]
+   ],
+   "pic": "Winnie-the-Pooh",
+   "apic": "A. A. Milne"
   },
   {
    "q": "Who wrote Peter Pan?",
@@ -1137,7 +1293,8 @@
    "alt": [
     "JM Barrie",
     "Barrie"
-   ]
+   ],
+   "apic": "J. M. Barrie"
   },
   {
    "q": "Who wrote The Hunger Games novels?",
@@ -1145,7 +1302,8 @@
    "p": 400,
    "alt": [
     "Collins"
-   ]
+   ],
+   "apic": "Suzanne Collins"
   },
   {
    "q": "Who wrote The Lion, the Witch and the Wardrobe?",
@@ -1153,12 +1311,14 @@
    "p": 400,
    "alt": [
     "CS Lewis"
-   ]
+   ],
+   "apic": "C. S. Lewis"
   },
   {
    "q": "Who wrote The Da Vinci Code?",
    "a": "Dan Brown",
-   "p": 400
+   "p": 400,
+   "apic": "Dan Brown"
   },
   {
    "q": "Who wrote The War of the Worlds?",
@@ -1166,7 +1326,8 @@
    "p": 400,
    "alt": [
     "HG Wells"
-   ]
+   ],
+   "apic": "H. G. Wells"
   },
   {
    "q": "Which Danish author wrote The Little Mermaid and The Ugly Duckling?",
@@ -1174,7 +1335,8 @@
    "p": 400,
    "alt": [
     "Andersen"
-   ]
+   ],
+   "apic": "Hans Christian Andersen"
   },
   {
    "q": "Who wrote The Tale of Peter Rabbit?",
@@ -1182,7 +1344,8 @@
    "p": 400,
    "alt": [
     "Potter"
-   ]
+   ],
+   "apic": "Beatrix Potter"
   },
   {
    "q": "Which pop artist painted Campbell's Soup Cans?",
@@ -1190,7 +1353,8 @@
    "p": 400,
    "alt": [
     "Warhol"
-   ]
+   ],
+   "apic": "Andy Warhol"
   },
   {
    "q": "Which Mexican painter is famous for her self-portraits and monobrow?",
@@ -1198,7 +1362,8 @@
    "p": 400,
    "alt": [
     "Kahlo"
-   ]
+   ],
+   "apic": "Frida Kahlo"
   },
   {
    "q": "Which French sculptor created The Thinker?",
@@ -1206,12 +1371,15 @@
    "p": 400,
    "alt": [
     "Rodin"
-   ]
+   ],
+   "pic": "The Thinker",
+   "apic": "Auguste Rodin"
   },
   {
    "q": "Which month is named after Julius Caesar?",
    "a": "July",
-   "p": 400
+   "p": 400,
+   "pic": "Julius Caesar"
   },
   {
    "q": "What does a barometer measure?",
@@ -1219,7 +1387,8 @@
    "p": 400,
    "alt": [
     "Atmospheric pressure"
-   ]
+   ],
+   "apic": "Barometer"
   },
   {
    "q": "What is the fear of enclosed spaces called?",
@@ -1255,7 +1424,8 @@
    "p": 400,
    "alt": [
     "Defoe"
-   ]
+   ],
+   "apic": "Daniel Defoe"
   },
   {
    "q": "Who wrote Gulliver's Travels?",
@@ -1263,7 +1433,8 @@
    "p": 400,
    "alt": [
     "Swift"
-   ]
+   ],
+   "apic": "Jonathan Swift"
   },
   {
    "q": "Who wrote Charlotte's Web?",
@@ -1271,7 +1442,8 @@
    "p": 600,
    "alt": [
     "EB White"
-   ]
+   ],
+   "apic": "E. B. White"
   },
   {
    "q": "Who wrote The Adventures of Pinocchio?",
@@ -1279,7 +1451,8 @@
    "p": 600,
    "alt": [
     "Collodi"
-   ]
+   ],
+   "apic": "Carlo Collodi"
   },
   {
    "q": "Who wrote The Count of Monte Cristo?",
@@ -1287,7 +1460,8 @@
    "p": 600,
    "alt": [
     "Dumas"
-   ]
+   ],
+   "apic": "Alexandre Dumas"
   },
   {
    "q": "Who wrote Madame Bovary?",
@@ -1295,7 +1469,8 @@
    "p": 600,
    "alt": [
     "Flaubert"
-   ]
+   ],
+   "apic": "Gustave Flaubert"
   },
   {
    "q": "Who wrote The Canterbury Tales?",
@@ -1303,7 +1478,8 @@
    "p": 600,
    "alt": [
     "Chaucer"
-   ]
+   ],
+   "apic": "Geoffrey Chaucer"
   },
   {
    "q": "Who wrote the epic poem Paradise Lost?",
@@ -1311,7 +1487,8 @@
    "p": 600,
    "alt": [
     "Milton"
-   ]
+   ],
+   "apic": "John Milton"
   },
   {
    "q": "Who wrote Wuthering Heights?",
@@ -1319,7 +1496,8 @@
    "p": 600,
    "alt": [
     "Emily Bronte"
-   ]
+   ],
+   "apic": "Emily Brontë"
   },
   {
    "q": "Who wrote Jane Eyre?",
@@ -1327,7 +1505,8 @@
    "p": 600,
    "alt": [
     "Charlotte Bronte"
-   ]
+   ],
+   "apic": "Charlotte Brontë"
   },
   {
    "q": "Who wrote The Catcher in the Rye?",
@@ -1335,7 +1514,8 @@
    "p": 600,
    "alt": [
     "Salinger"
-   ]
+   ],
+   "apic": "J. D. Salinger"
   },
   {
    "q": "Who wrote Brave New World?",
@@ -1343,7 +1523,8 @@
    "p": 600,
    "alt": [
     "Huxley"
-   ]
+   ],
+   "apic": "Aldous Huxley"
   },
   {
    "q": "Who wrote The Metamorphosis, about a man who wakes up as an insect?",
@@ -1351,7 +1532,8 @@
    "p": 600,
    "alt": [
     "Kafka"
-   ]
+   ],
+   "apic": "Franz Kafka"
   },
   {
    "q": "Who wrote Little Women?",
@@ -1359,7 +1541,8 @@
    "p": 600,
    "alt": [
     "Alcott"
-   ]
+   ],
+   "apic": "Louisa May Alcott"
   },
   {
    "q": "In which Shakespeare play does the moneylender Shylock appear?",
@@ -1367,7 +1550,8 @@
    "p": 600,
    "alt": [
     "Merchant of Venice"
-   ]
+   ],
+   "apic": "The Merchant of Venice"
   },
   {
    "q": "Which Austrian artist painted The Kiss in 1908?",
@@ -1375,12 +1559,16 @@
    "p": 600,
    "alt": [
     "Klimt"
-   ]
+   ],
+   "pic": "The Kiss (Klimt)",
+   "apic": "Gustav Klimt"
   },
   {
    "q": "Which American artist painted American Gothic?",
    "a": "Grant Wood",
-   "p": 600
+   "p": 600,
+   "pic": "American Gothic",
+   "apic": "Grant Wood"
   },
   {
    "q": "Which Dutch artist is known for 'impossible' drawings such as Relativity?",
@@ -1388,7 +1576,9 @@
    "p": 600,
    "alt": [
     "Escher"
-   ]
+   ],
+   "pic": "Relativity (M. C. Escher)",
+   "apic": "M. C. Escher"
   },
   {
    "q": "Which Italian musical term means 'very loud'?",
@@ -1398,7 +1588,8 @@
   {
    "q": "What does an anemometer measure?",
    "a": "Wind speed",
-   "p": 600
+   "p": 600,
+   "apic": "Anemometer"
   },
   {
    "q": "What are lines on a weather map joining places of equal air pressure called?",
@@ -1411,7 +1602,8 @@
   {
    "q": "Which towering cloud type produces thunderstorms?",
    "a": "Cumulonimbus",
-   "p": 600
+   "p": 600,
+   "apic": "Cumulonimbus cloud"
   },
   {
    "q": "What is the fear of heights called?",
@@ -1431,7 +1623,8 @@
   {
    "q": "Which precious material traditionally marks a 25th wedding anniversary?",
    "a": "Silver",
-   "p": 400
+   "p": 400,
+   "apic": "Silver"
   }
  ]
 }

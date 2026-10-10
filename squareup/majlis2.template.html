@@ -152,6 +152,16 @@ h1,h2,h3{font-family:var(--display);font-weight:800;margin:0;text-wrap:balance}
 .vid{display:flex;flex-direction:column;gap:8px}
 .vid iframe{width:100%;aspect-ratio:16/9;max-width:100%;border:0;border-radius:16px;background:#000}
 .vid a{color:var(--pri);font-weight:700;font-size:14px}
+.vid{position:relative}
+.aud-mode iframe{position:absolute;left:0;top:0;width:320px;height:200px;opacity:0;pointer-events:none}
+.aud-mode>a{display:none}
+.vid:not(.aud-mode) .aud-card{display:none}
+.aud-card{display:flex;align-items:center;gap:14px;background:var(--s1);border:1px solid var(--line);border-radius:16px;padding:16px;box-shadow:var(--shadow);position:relative;z-index:1}
+.aud-card b{display:block}.aud-card small{color:var(--muted)}
+.aud-btn{width:58px;height:58px;border-radius:50%;border:0;background:var(--pri);color:#fff;font-size:22px;flex:none;cursor:pointer}
+.aud-re{margin-left:auto;border:1px solid var(--line);background:var(--s2,transparent);color:var(--ink);border-radius:12px;padding:8px 12px;font-weight:700;cursor:pointer}
+.wpic:empty{display:none}
+.ans .q-img{max-height:42vh;width:auto;margin-top:12px}
 .vid-open{display:flex;align-items:center;gap:12px;background:var(--s1);border:1px solid var(--line);border-radius:16px;padding:16px;text-decoration:none;color:var(--ink);box-shadow:var(--shadow)}
 .vid-open i{width:46px;height:46px;border-radius:50%;background:var(--bad);display:grid;place-items:center;flex:none}
 .vid-open i::after{content:"";border-left:14px solid #fff;border-block:9px solid transparent;margin-left:4px}
@@ -291,13 +301,13 @@ anime:"star",onepiece:"anchor",jjk:"flame",naruto:"leaf",dragonball:"orb",aot:"w
 videogames:"pad",gaminghistory:"clock",tga:"trophy",warcraft:"axe",pokemon:"spark",minecraft:"cube",fortnite:"bus",cod:"cross",gta:"car",eafc:"ball",zelda:"sword",mario:"star",fromsoft:"sword",lol:"crown",esports:"trophy",playstation:"pad",xbox:"pad",
 movies:"film",oscars:"trophy",sitcoms:"tv",superheroes:"mask",music:"music",rap90s:"mic",soccer:"ball",worldcup:"trophy",f1:"car",padel:"racket",sports:"racket",cars:"car",
 general:"bulb",geography:"globe",history:"scroll",japan:"torii",science:"atom",math:"pi",gcse:"book",food:"pot",brands:"tag",riddles:"brain",emoji:"star",
-nintendo:"pad",finalfantasy:"crown",assassins:"sword",residentevil:"flame",witcher:"sword",overwatch:"target",roblox:"cube",mobilegames:"pad",fighting:"bolt",retro:"clock",mcu:"mask",starwars:"star",harrypotter:"bolt",disney:"crown",lotr:"orb",got:"crown",breakingbad:"atom",pixar:"bulb",simpsons:"tv",cartoons:"tv",kpop:"mic",kdrama:"tv",bollywood:"film",horror:"mask",netflix:"tv",villains:"mask",hiphop00:"mic",pop00:"music",rock:"music",epl:"ball",nba:"trophy",olympics:"trophy",ufc:"target",laliga:"ball",ucl:"trophy",tennis:"racket",boxing:"target",wwe:"crown",cricket:"racket",uaefootball:"ball",capitals:"globe",space:"rocket",humanbody:"brain",animals:"leaf",landmarks:"tower",dinosaurs:"mountain",inventions:"bulb",chemistry:"atom",physics:"bolt",mythology:"scroll",flags:"flag",logos:"tag"};
+nintendo:"pad",finalfantasy:"crown",assassins:"sword",residentevil:"flame",witcher:"sword",overwatch:"target",roblox:"cube",mobilegames:"pad",fighting:"bolt",retro:"clock",mcu:"mask",starwars:"star",harrypotter:"bolt",disney:"crown",lotr:"orb",got:"crown",breakingbad:"atom",pixar:"bulb",simpsons:"tv",cartoons:"tv",kpop:"mic",kdrama:"tv",bollywood:"film",horror:"mask",netflix:"tv",villains:"mask",hiphop00:"mic",pop00:"music",rock:"music",epl:"ball",nba:"trophy",olympics:"trophy",ufc:"target",laliga:"ball",ucl:"trophy",tennis:"racket",boxing:"target",wwe:"crown",cricket:"racket",uaefootball:"ball",capitals:"globe",space:"rocket",humanbody:"brain",animals:"leaf",landmarks:"tower",dinosaurs:"mountain",inventions:"bulb",chemistry:"atom",physics:"bolt",mythology:"scroll",flags:"flag",logos:"tag",animeost:"music",gameost:"music",screenthemes:"music"};
 const GROUPS=[
  {name:"UAE",color:"#D63B3B",ids:["uaehistory","heritage","emiratidialect","emiratifood","uaesymbols","abudhabi","dubai","sharjah","rak","alain","eastcoast","ajmanuaq","uaenature","uaeislands","uaefastfood","uaetv","uaespace","uaesports","ramadan","uaebiz","uaetransport","uaemalls"]},
  {name:"Arab World",color:"#C07A00",ids:["arabworld","saudi","oman","qatar","kuwait","bahrain","egypt","levant","maghreb","arabic","proverbs","islamicgolden","islamichistory","khaleejimusic","arabicmusic","khaleejitv","egyptiancinema"]},
- {name:"Anime",color:"#D2397E",ids:["anime","onepiece","jjk","naruto","dragonball","aot","demonslayer","deathnote","hxh","mha","bleach","ghibli","fma","chainsawman","sololeveling","conan","spacetoon","manga"]},
- {name:"Gaming",color:"#13A065",ids:["videogames","gaminghistory","tga","warcraft","pokemon","tcg","minecraft","fortnite","cod","gta","eafc","zelda","mario","fromsoft","lol","esports","playstation","xbox","nintendo","finalfantasy","assassins","residentevil","witcher","overwatch","roblox","mobilegames","fighting","retro"]},
- {name:"Screen & Music",color:"#5361E8",ids:["movies","oscars","sitcoms","superheroes","music","rap90s","mcu","starwars","harrypotter","disney","lotr","got","breakingbad","pixar","simpsons","cartoons","kpop","kdrama","bollywood","horror","netflix","villains","hiphop00","pop00","rock"]},
+ {name:"Anime",color:"#D2397E",ids:["anime","onepiece","jjk","naruto","dragonball","aot","demonslayer","deathnote","hxh","mha","bleach","ghibli","fma","chainsawman","sololeveling","conan","spacetoon","manga","animeost"]},
+ {name:"Gaming",color:"#13A065",ids:["videogames","gaminghistory","tga","warcraft","pokemon","tcg","minecraft","fortnite","cod","gta","eafc","zelda","mario","fromsoft","lol","esports","playstation","xbox","nintendo","finalfantasy","assassins","residentevil","witcher","overwatch","roblox","mobilegames","fighting","retro","gameost"]},
+ {name:"Screen & Music",color:"#5361E8",ids:["movies","oscars","sitcoms","superheroes","music","rap90s","mcu","starwars","harrypotter","disney","lotr","got","breakingbad","pixar","simpsons","cartoons","kpop","kdrama","bollywood","horror","netflix","villains","hiphop00","pop00","rock","screenthemes"]},
  {name:"Sports & Motors",color:"#0E93B5",ids:["soccer","worldcup","f1","padel","sports","cars","epl","nba","olympics","ufc","laliga","ucl","tennis","boxing","wwe","cricket","uaefootball"]},
  {name:"Knowledge",color:"#7A4DE0",ids:["general","geography","history","japan","science","math","gcse","food","brands","riddles","emoji","capitals","space","humanbody","animals","landmarks","dinosaurs","inventions","chemistry","physics","mythology","flags","logos"]}
 ];
@@ -439,10 +449,21 @@ function teamSheet(i){const t=game.teams[i];
 function pickTeam(self,title,cb){const m=modal(`<h3 style="font-size:22px">${title}</h3><div class="award">${game.teams.map((t,j)=>j===self?"":`<button style="--c:${COLORS[j]}" data-j="${j}">${esc(t.name)}</button>`).join("")}</div><div class="row"><button class="btn btn-soft" data-close>Cancel</button></div>`);
   m.querySelector("[data-close]").onclick=()=>m.remove();m.querySelectorAll("[data-j]").forEach(b=>b.onclick=()=>{m.remove();cb(+b.dataset.j)})}
 
-function vidHTML(x){if(!x.yt)return "";const s=x.start||0,e=x.end||s+30,url=`https://www.youtube.com/watch?v=${x.yt}&t=${s}s`;
-  if(ytBlocked)return `<a class="vid-open" href="${url}" target="_blank" rel="noopener"><i></i><span><b>Play the clip</b><small>Opens YouTube at ${s}s. Watch until ${e}s, then come back.</small></span></a>`;
-  return `<div class="vid"><iframe id="ytf" src="https://www.youtube-nocookie.com/embed/${x.yt}?start=${s}&end=${e}&rel=0&playsinline=1&fs=1&modestbranding=1${location.protocol==="https:"?"&origin="+encodeURIComponent(location.origin):""}" referrerpolicy="strict-origin-when-cross-origin" title="Question clip" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe><a href="${url}" target="_blank" rel="noopener">Clip not playing? Open on YouTube</a></div>`}
-function mediaHTML(x){let h="";if(x.img)h+=`<img class="q-img" alt="Picture for this question" src="${esc(x.img)}">`;if(x.svg)h+=`<img class="q-img" alt="Picture for this question" src="data:image/svg+xml;charset=utf-8,${encodeURIComponent(x.svg)}">`;if(x.emoji)h+=`<div class="q-emoji">${esc(x.emoji)}</div>`;return h+`<div id="vidbox">${vidHTML(x)}</div>`}
+function vidHTML(x){if(!x.yt)return "";const s=x.start||0,e=x.end||s+30,url=`https://www.youtube.com/watch?v=${x.yt}&t=${s}s`,aud=x.audio&&!(Q&&Q.revealed);
+  if(ytBlocked)return aud?`<div class="aud-card"><span><b>Sound clip</b><small>Clips play inside the Majlis app. Here you can open it on YouTube, but the page shows the title, so let the host play it.</small></span></div><a class="vid-open" href="${url}" target="_blank" rel="noopener"><i></i><span><b>Host: play on YouTube</b><small>Starts at ${s}s, play until ${e}s.</small></span></a>`
+    :`<a class="vid-open" href="${url}" target="_blank" rel="noopener"><i></i><span><b>Play the clip</b><small>Opens YouTube at ${s}s. Watch until ${e}s, then come back.</small></span></a>`;
+  return `<div class="vid ${aud?"aud-mode":""}">${x.audio?`<div class="aud-card"><button class="aud-btn" id="audb" onclick="audPlay()" aria-label="Play or pause the sound clip">&#9654;</button><span><b>Listen to the clip</b><small>${e-s} seconds of sound. The video shows after the answer.</small></span><button class="aud-re" onclick="audPlay(true)">Replay</button></div>`:""}<iframe id="ytf" src="https://www.youtube-nocookie.com/embed/${x.yt}?start=${s}&end=${e}&rel=0&playsinline=1&fs=1&modestbranding=1&enablejsapi=1${location.protocol==="https:"?"&origin="+encodeURIComponent(location.origin):""}" referrerpolicy="strict-origin-when-cross-origin" title="Question clip" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe><a href="${url}" target="_blank" rel="noopener">Clip not playing? Open on YouTube</a></div>`}
+let audOn=false;
+function ytCmd(func,args){const f=$("#ytf");if(f&&f.contentWindow)f.contentWindow.postMessage(JSON.stringify({event:"command",func,args:args||[]}),"*")}
+function audPlay(restart){const x=cur();if(restart){ytCmd("seekTo",[x.start||0,true]);ytCmd("playVideo");audOn=true}else{audOn=!audOn;ytCmd(audOn?"playVideo":"pauseVideo")}const b=$("#audb");if(b)b.innerHTML=audOn?"&#10074;&#10074;":"&#9654;"}
+const WIKI={},WURL={};
+function wikiImg(t){if(!WIKI[t])WIKI[t]=fetch("https://en.wikipedia.org/api/rest_v1/page/summary/"+encodeURIComponent(t.replace(/ /g,"_"))).then(r=>r.ok?r.json():null).then(j=>{
+    if(!j||j.type==="disambiguation"||!j.thumbnail)return null;const o=j.originalimage,th=j.thumbnail.source;
+    const u=o&&o.width<=1100&&!/\.svg$/i.test(o.source)?o.source:/\/\d+px-/.test(th)&&(!o||o.width>800)?th.replace(/\/\d+px-/,"/800px-"):th;return WURL[t]=u}).catch(()=>null);return WIKI[t]}
+function wpicHTML(t,id){if(!t)return "";if(WURL[t])return `<div class="wpic"><img class="q-img" alt="" src="${esc(WURL[t])}" onerror="this.remove()"></div>`;
+  return `<div class="wpic" id="${id}" data-t="${esc(t)}"></div>`}
+function fillPics(){document.querySelectorAll(".wpic[data-t]").forEach(el=>{const t=el.dataset.t;el.removeAttribute("data-t");wikiImg(t).then(u=>{if(u&&el.isConnected)el.innerHTML=`<img class="q-img" alt="" src="${esc(u)}" onerror="this.remove()">`})})}
+function mediaHTML(x){let h="";h+=wpicHTML(x.pic,"qpic");if(x.img)h+=`<img class="q-img" alt="Picture for this question" src="${esc(x.img)}">`;if(x.svg)h+=`<img class="q-img" alt="Picture for this question" src="data:image/svg+xml;charset=utf-8,${encodeURIComponent(x.svg)}">`;if(x.emoji)h+=`<div class="q-emoji">${esc(x.emoji)}</div>`;return h+`<div id="vidbox">${vidHTML(x)}</div>`}
 function hintOf(a){return String(a).split(/\s+/).map(w=>w[0]+" _".repeat(Math.max(0,w.length-1))).join("   ")}
 
 function openQ(ci,ti){
@@ -455,7 +476,7 @@ function openQ(ci,ti){
 function buildQ(){const c=CAT[game.cats[Q.ci].id],x=cur();
   $("#qv").innerHTML=`<div class="band"></div><div class="q-in"><div class="q-head" id="qhead"></div><div class="tags" id="qtags"></div>
    <div class="q-body"><div class="q-text">${esc(x.q)}</div>${mediaHTML(x)}<div id="qhint"></div><div id="qans"></div></div><div id="qfoot"></div></div>`;
-  drawQ()}
+  audOn=false;drawQ();fillPics();if(x.apic)wikiImg(x.apic)}
 function drawQ(){
   const c=CAT[game.cats[Q.ci].id],x=cur(),tile=game.cats[Q.ci].tiles[Q.ti],t=game.teams[Q.team];
   const R=33,C=2*Math.PI*R,frac=Math.max(0,Q.left)/Q.total,low=Q.left<=10;
@@ -468,8 +489,9 @@ function drawQ(){
   if(Q.first!==null)tags.push(`<span class="tag-pill">${esc(game.teams[Q.first].name)} steals first</span>`);if(Q.block!==null)tags.push(`<span class="tag-pill">${esc(game.teams[Q.block].name)} blocked</span>`);
   if(!Q.revealed&&Q.left<=0)tags.push(`<span style="color:var(--bad);font-weight:700">Time is up. Others can steal.</span>`);
   $("#qtags").innerHTML=tags.join("");
+  if(Q.revealed)setTimeout(fillPics);
   $("#qhint").innerHTML=Q.hint&&!Q.revealed?`<div class="hint" aria-label="Hint">${esc(hintOf(x.a))}</div>`:"";
-  $("#qans").innerHTML=Q.revealed?`<div class="ans"><small>Answer</small><p>${esc(x.a)}</p>${x.ar?`<div class="ar" lang="ar">${esc(x.ar)}</div>`:""}${x.alt&&x.alt.length?`<div class="alt">Also accepted: ${x.alt.map(esc).join(", ")}</div>`:""}</div>`:"";
+  $("#qans").innerHTML=Q.revealed?`<div class="ans"><small>Answer</small><p>${esc(x.a)}</p>${x.ar?`<div class="ar" lang="ar">${esc(x.ar)}</div>`:""}${x.alt&&x.alt.length?`<div class="alt">Also accepted: ${x.alt.map(esc).join(", ")}</div>`:""}${wpicHTML(x.apic,"apic")}</div>`:"";
   if(!Q.revealed){
     const rows=game.teams.map((tm,i)=>{const list=tm.abil.filter(id=>{const a=ABM[id];if(a.when!=="q")return false;if(a.who==="ans")return i===Q.team;if(a.who==="other")return i!==Q.team;return true});if(!list.length)return "";
       return `<div class="tm" style="--c:${COLORS[i]}"><span>${esc(tm.name)}</span>${list.map(id=>{const a=ABM[id],u=tm.used[id],dis=u||(["double","risk"].includes(id)&&Q.mult>1);return `<button class="use ${Q.active[i+id]?"active":""}" style="--c:${COLORS[i]}" ${dis?"disabled":""} onclick="useAb(${i},'${id}')" title="${esc(a.desc)}">${P(IC[a.ico])}${a.name}</button>`}).join("")}</div>`}).join("");
@@ -505,7 +527,7 @@ function useAb(i,id){const tm=game.teams[i];if(tm.used[id])return;const tile=gam
    case"pass":pickTeam(i,"Pass this question to which team?",j=>{Q.team=j;tm.used.pass=true;save();drawQ();toast(game.teams[j].name+" must answer")});break;
    case"block":pickTeam(i,"Block which team from stealing?",j=>{Q.block=j;tm.used.block=true;save();drawQ()});break;
   }}
-function reveal(){Q.revealed=true;clearInterval(tick);drawQ();beep(520,.15)}
+function reveal(){Q.revealed=true;const vb=$("#vidbox .aud-mode");if(vb)vb.classList.remove("aud-mode");else if(cur().audio&&ytBlocked)$("#vidbox").innerHTML=vidHTML(cur());clearInterval(tick);drawQ();beep(520,.15)}
 function award(i){
   const tile=game.cats[Q.ci].tiles[Q.ti],ans=game.teams[Q.team];
   game.hist.push({ci:Q.ci,ti:Q.ti,teams:JSON.parse(JSON.stringify(game.teams)),turn:game.turn});if(game.hist.length>20)game.hist.shift();

@@ -8,27 +8,32 @@
    "p": 200,
    "alt": [
     "Activision"
-   ]
+   ],
+   "apic": "Activision Blizzard"
   },
   {
    "q": "Which company makes the Xbox?",
    "a": "Microsoft",
-   "p": 200
+   "p": 200,
+   "apic": "Microsoft"
   },
   {
    "q": "In which year was the original Xbox released?",
    "a": "2001",
-   "p": 200
+   "p": 200,
+   "pic": "Xbox (console)"
   },
   {
    "q": "Which franchise stars the armoured Spartan known as Master Chief?",
    "a": "Halo",
-   "p": 200
+   "p": 200,
+   "apic": "Halo (franchise)"
   },
   {
    "q": "Which AI companion helps Master Chief throughout the Halo series?",
    "a": "Cortana",
-   "p": 200
+   "p": 200,
+   "apic": "Cortana (Halo)"
   },
   {
    "q": "What is the nickname of the infamous Xbox 360 hardware fault shown by flashing red lights?",
@@ -37,7 +42,8 @@
    "alt": [
     "RROD",
     "Red Ring"
-   ]
+   ],
+   "apic": "Xbox 360 technical problems"
   },
   {
    "q": "What is the name of Microsoft's subscription service offering a library of games for a monthly fee?",
@@ -45,12 +51,14 @@
    "p": 200,
    "alt": [
     "Game Pass"
-   ]
+   ],
+   "apic": "Xbox Game Pass"
   },
   {
    "q": "Which motion-sensing camera accessory did Microsoft launch for Xbox 360 in 2010?",
    "a": "Kinect",
-   "p": 200
+   "p": 200,
+   "apic": "Kinect"
   },
   {
    "q": "What are the points earned from Xbox achievements called?",
@@ -63,17 +71,20 @@
   {
    "q": "In which year was the Xbox Series X released?",
    "a": "2020",
-   "p": 200
+   "p": 200,
+   "pic": "Xbox Series X and Series S"
   },
   {
    "q": "In which year was the Xbox One released?",
    "a": "2013",
-   "p": 200
+   "p": 200,
+   "pic": "Xbox One"
   },
   {
    "q": "In which year was the Xbox 360 released?",
    "a": "2005",
-   "p": 200
+   "p": 200,
+   "pic": "Xbox 360"
   },
   {
    "q": "What is the name of Xbox's online gaming service, launched in 2002?",
@@ -86,17 +97,20 @@
    "p": 200,
    "alt": [
     "Gears"
-   ]
+   ],
+   "apic": "Gears of War"
   },
   {
    "q": "Which Xbox racing franchise includes the Motorsport and Horizon games?",
    "a": "Forza",
-   "p": 200
+   "p": 200,
+   "apic": "Forza"
   },
   {
    "q": "Which blocky sandbox game did Microsoft buy in 2014?",
    "a": "Minecraft",
-   "p": 200
+   "p": 200,
+   "apic": "Minecraft"
   },
   {
    "q": "What are the four lettered face buttons on an Xbox controller?",
@@ -117,7 +131,8 @@
    "p": 200,
    "alt": [
     "Series S"
-   ]
+   ],
+   "apic": "Xbox Series X and Series S"
   },
   {
    "q": "Which Sony console was the main rival of the Xbox 360?",
@@ -125,7 +140,8 @@
    "p": 200,
    "alt": [
     "PS3"
-   ]
+   ],
+   "apic": "PlayStation 3"
   },
   {
    "q": "In which month of 2020 did the Xbox Series X and S launch?",
@@ -133,12 +149,14 @@
    "p": 200,
    "alt": [
     "Nov"
-   ]
+   ],
+   "pic": "Xbox Series X and Series S"
   },
   {
    "q": "What is the name of the jeep-like all-terrain vehicle that Master Chief drives in Halo?",
    "a": "Warthog",
-   "p": 200
+   "p": 200,
+   "pic": "Master Chief (Halo)"
   },
   {
    "q": "Which Bethesda fantasy RPG about the Dragonborn was released in 2011?",
@@ -146,7 +164,8 @@
    "p": 200,
    "alt": [
     "The Elder Scrolls V: Skyrim"
-   ]
+   ],
+   "apic": "The Elder Scrolls V: Skyrim"
   },
   {
    "q": "In which year did Xbox Game Pass launch?",
@@ -156,17 +175,20 @@
   {
    "q": "Who became head of Xbox in 2014, succeeding Don Mattrick?",
    "a": "Phil Spencer",
-   "p": 400
+   "p": 400,
+   "apic": "Phil Spencer (business executive)"
   },
   {
    "q": "Which Microsoft co-founder introduced the Xbox at GDC in 2000?",
    "a": "Bill Gates",
-   "p": 400
+   "p": 400,
+   "apic": "Bill Gates"
   },
   {
    "q": "Which studio developed the first Halo game?",
    "a": "Bungie",
-   "p": 400
+   "p": 400,
+   "apic": "Bungie"
   },
   {
    "q": "Which parasitic alien enemy in Halo infects and converts other species?",
@@ -182,22 +204,26 @@
    "p": 400,
    "alt": [
     "117"
-   ]
+   ],
+   "pic": "Master Chief (Halo)"
   },
   {
    "q": "In which year was Halo 3 released?",
    "a": "2007",
-   "p": 400
+   "p": 400,
+   "pic": "Halo 3"
   },
   {
    "q": "In which year was Halo: Combat Evolved released?",
    "a": "2001",
-   "p": 400
+   "p": 400,
+   "pic": "Halo: Combat Evolved"
   },
   {
    "q": "Which studio took over Halo development from Bungie?",
    "a": "343 Industries",
-   "p": 400
+   "p": 400,
+   "apic": "343 Industries"
   },
   {
    "q": "Which company did Microsoft acquire in 2021, with parent ZeniMax Media, owner of Fallout and The Elder Scrolls?",
@@ -206,7 +232,8 @@
    "alt": [
     "Bethesda Softworks",
     "Bethesda Game Studios"
-   ]
+   ],
+   "apic": "Bethesda Softworks"
   },
   {
    "q": "In which year did Microsoft complete its purchase of Activision Blizzard?",
@@ -216,22 +243,26 @@
   {
    "q": "Which British studio behind Banjo-Kazooie and Sea of Thieves joined Microsoft in 2002?",
    "a": "Rare",
-   "p": 400
+   "p": 400,
+   "apic": "Rare (company)"
   },
   {
    "q": "Which 2023 Bethesda space RPG was an Xbox exclusive?",
    "a": "Starfield",
-   "p": 400
+   "p": 400,
+   "apic": "Starfield (video game)"
   },
   {
    "q": "Which pirate multiplayer adventure from Rare was released in 2018?",
    "a": "Sea of Thieves",
-   "p": 400
+   "p": 400,
+   "apic": "Sea of Thieves"
   },
   {
    "q": "In which year was Kinect released?",
    "a": "2010",
-   "p": 400
+   "p": 400,
+   "pic": "Kinect"
   },
   {
    "q": "In which year did Xbox Live launch?",
@@ -241,7 +272,8 @@
   {
    "q": "Which 2017 Xbox model was marketed as the most powerful console of its time?",
    "a": "Xbox One X",
-   "p": 400
+   "p": 400,
+   "apic": "Xbox One X"
   },
   {
    "q": "Which 2018 controller was designed for gamers with limited mobility?",
@@ -249,7 +281,8 @@
    "p": 400,
    "alt": [
     "Adaptive Controller"
-   ]
+   ],
+   "apic": "Xbox Adaptive Controller"
   },
   {
    "q": "In which US city is Microsoft headquartered?",
@@ -257,7 +290,8 @@
    "p": 400,
    "alt": [
     "Redmond, Washington"
-   ]
+   ],
+   "apic": "Redmond, Washington"
   },
   {
    "q": "Which streaming service released the Fallout TV series in 2024?",
@@ -266,12 +300,14 @@
    "alt": [
     "Amazon Prime Video",
     "Amazon"
-   ]
+   ],
+   "apic": "Amazon Prime Video"
   },
   {
    "q": "Which Halo game from 343 Industries launched in December 2021?",
    "a": "Halo Infinite",
-   "p": 400
+   "p": 400,
+   "apic": "Halo Infinite"
   },
   {
    "q": "Which Xbox 360 shooter from Bungie in 2010 features Noble Team?",
@@ -279,12 +315,14 @@
    "p": 400,
    "alt": [
     "Halo Reach"
-   ]
+   ],
+   "apic": "Halo: Reach"
   },
   {
    "q": "In which year did Microsoft buy Mojang?",
    "a": "2014",
-   "p": 400
+   "p": 400,
+   "pic": "Minecraft"
   },
   {
    "q": "Which Xbox service lets players stream games to devices?",
@@ -362,12 +400,15 @@
   {
    "q": "Who voices Master Chief in the main Halo games?",
    "a": "Steve Downes",
-   "p": 600
+   "p": 600,
+   "pic": "Master Chief (Halo)",
+   "apic": "Steve Downes"
   },
   {
    "q": "Who voices Cortana in the main Halo games?",
    "a": "Jen Taylor",
-   "p": 600
+   "p": 600,
+   "apic": "Jen Taylor"
   },
   {
    "q": "Which British studio, led by Peter Molyneux, created Black & White and Fable?",
@@ -375,12 +416,14 @@
    "p": 600,
    "alt": [
     "Lionhead"
-   ]
+   ],
+   "apic": "Lionhead Studios"
   },
   {
    "q": "Which Microsoft studio developed Forza Horizon?",
    "a": "Playground Games",
-   "p": 600
+   "p": 600,
+   "apic": "Playground Games"
   },
   {
    "q": "Which Microsoft studio develops Forza Motorsport?",
@@ -388,7 +431,8 @@
    "p": 600,
    "alt": [
     "Turn 10"
-   ]
+   ],
+   "apic": "Turn 10 Studios"
   },
   {
    "q": "Which nickname was given to the large original Xbox controller?",
@@ -404,7 +448,8 @@
    "p": 600,
    "alt": [
     "Paramount Plus"
-   ]
+   ],
+   "apic": "Paramount+"
   },
   {
    "q": "How many Gamerscore points does a typical full retail Xbox 360 game offer?",
@@ -438,12 +483,14 @@
    "p": 600,
    "alt": [
     "Bizarre"
-   ]
+   ],
+   "apic": "Bizarre Creations"
   },
   {
    "q": "Which Bethesda post-apocalyptic series features the Vault Boy mascot?",
    "a": "Fallout",
-   "p": 200
+   "p": 200,
+   "apic": "Fallout (franchise)"
   },
   {
    "q": "Which Rare series features a bear and a bird duo?",
@@ -451,12 +498,14 @@
    "p": 200,
    "alt": [
     "Banjo Kazooie"
-   ]
+   ],
+   "apic": "Banjo-Kazooie"
   },
   {
    "q": "Which Bethesda shooter series pits a lone marine against demons from Hell?",
    "a": "Doom",
-   "p": 200
+   "p": 200,
+   "apic": "Doom (franchise)"
   },
   {
    "q": "Which Blizzard MMO is now owned by Microsoft?",
@@ -464,12 +513,14 @@
    "p": 200,
    "alt": [
     "WoW"
-   ]
+   ],
+   "apic": "World of Warcraft"
   },
   {
    "q": "Which Blizzard hero shooter is now owned by Microsoft?",
    "a": "Overwatch",
-   "p": 200
+   "p": 200,
+   "apic": "Overwatch (video game)"
   },
   {
    "q": "Which match-three mobile game from King is now owned by Microsoft?",
@@ -477,17 +528,20 @@
    "p": 200,
    "alt": [
     "Candy Crush Saga"
-   ]
+   ],
+   "apic": "Candy Crush Saga"
   },
   {
    "q": "Which Blizzard action RPG series sends players to fight demons in the world of Sanctuary?",
    "a": "Diablo",
-   "p": 200
+   "p": 200,
+   "apic": "Diablo (series)"
   },
   {
    "q": "Which Xbox console succeeded the Xbox 360?",
    "a": "Xbox One",
-   "p": 200
+   "p": 200,
+   "apic": "Xbox One"
   },
   {
    "q": "Which green creature explodes near players in Minecraft?",
@@ -505,7 +559,8 @@
   {
    "q": "Which Blizzard sci-fi strategy series features Terrans, Zerg and Protoss?",
    "a": "StarCraft",
-   "p": 200
+   "p": 200,
+   "apic": "StarCraft"
   },
   {
    "q": "Which long-running Microsoft series lets players fly aircraft around the world?",
@@ -513,7 +568,8 @@
    "p": 200,
    "alt": [
     "Flight Simulator"
-   ]
+   ],
+   "apic": "Microsoft Flight Simulator"
   },
   {
    "q": "Which Microsoft studio took over Gears of War from Epic Games in 2014?",
@@ -521,7 +577,8 @@
    "p": 400,
    "alt": [
     "Coalition"
-   ]
+   ],
+   "apic": "The Coalition (company)"
   },
   {
    "q": "Which Forza Horizon game is set in Mexico?",
@@ -529,27 +586,32 @@
    "p": 400,
    "alt": [
     "FH5"
-   ]
+   ],
+   "apic": "Forza Horizon 5"
   },
   {
    "q": "In which year was Halo 2 released?",
    "a": "2004",
-   "p": 400
+   "p": 400,
+   "pic": "Halo 2"
   },
   {
    "q": "Which BioWare sci-fi RPG starring Commander Shepard debuted on Xbox 360 in 2007?",
    "a": "Mass Effect",
-   "p": 400
+   "p": 400,
+   "apic": "Mass Effect (video game)"
   },
   {
    "q": "In which year was Halo: The Master Chief Collection released?",
    "a": "2014",
-   "p": 400
+   "p": 400,
+   "pic": "Halo: The Master Chief Collection"
   },
   {
    "q": "In which year was Halo 4 released?",
    "a": "2012",
-   "p": 400
+   "p": 400,
+   "pic": "Halo 4"
   },
   {
    "q": "Which premium controller line was launched by Microsoft in 2015?",
@@ -563,7 +625,8 @@
   {
    "q": "Which studio behind Doom is part of ZeniMax Media?",
    "a": "id Software",
-   "p": 400
+   "p": 400,
+   "apic": "Id Software"
   },
   {
    "q": "Which studio behind Fallout: New Vegas joined Microsoft in 2018?",
@@ -571,27 +634,32 @@
    "p": 600,
    "alt": [
     "Obsidian"
-   ]
+   ],
+   "apic": "Obsidian Entertainment"
   },
   {
    "q": "Which British studio behind Hellblade joined Xbox Game Studios in 2018?",
    "a": "Ninja Theory",
-   "p": 600
+   "p": 600,
+   "apic": "Ninja Theory"
   },
   {
    "q": "Which Rare shooter was a launch title for the Xbox 360?",
    "a": "Perfect Dark Zero",
-   "p": 600
+   "p": 600,
+   "apic": "Perfect Dark Zero"
   },
   {
    "q": "What was the internal codename of the Xbox 360?",
    "a": "Xenon",
-   "p": 600
+   "p": 600,
+   "pic": "Xbox 360"
   },
   {
    "q": "What was the internal codename of the Xbox One?",
    "a": "Durango",
-   "p": 600
+   "p": 600,
+   "pic": "Xbox One"
   },
   {
    "q": "What was the codename of the Xbox Series S?",
@@ -604,7 +672,8 @@
    "p": 600,
    "alt": [
     "Jay Allard"
-   ]
+   ],
+   "apic": "J Allard"
   },
   {
    "q": "What is the ring in Halo Infinite called?",
@@ -628,7 +697,8 @@
    "p": 600,
    "alt": [
     "Guilty Spark"
-   ]
+   ],
+   "apic": "343 Guilty Spark"
   },
   {
    "q": "In which year did Microsoft acquire Bungie?",
@@ -641,12 +711,15 @@
    "p": 600,
    "alt": [
     "Notch"
-   ]
+   ],
+   "pic": "Minecraft",
+   "apic": "Markus Persson"
   },
   {
    "q": "Which studio, famous for Age of Empires, developed Halo Wars?",
    "a": "Ensemble Studios",
-   "p": 600
+   "p": 600,
+   "apic": "Ensemble Studios"
   },
   {
    "q": "How many teraflops of graphics power does the Xbox Series X have, to the nearest whole number?",
@@ -689,7 +762,8 @@
   {
    "q": "Microsoft's Windows voice assistant was named after which Halo character?",
    "a": "Cortana",
-   "p": 200
+   "p": 200,
+   "apic": "Cortana (Halo)"
   },
   {
    "q": "Which kitchen appliance was the tall Xbox Series X often compared to, leading Microsoft to make a mini version?",
@@ -713,7 +787,8 @@
   {
    "q": "Which 2017 run-and-gun game is drawn in the style of 1930s cartoons?",
    "a": "Cuphead",
-   "p": 200
+   "p": 200,
+   "apic": "Cuphead"
   },
   {
    "q": "Which Microsoft real-time strategy series takes civilisations from the Stone Age onward?",
@@ -721,7 +796,8 @@
    "p": 200,
    "alt": [
     "AoE"
-   ]
+   ],
+   "apic": "Age of Empires"
   },
   {
    "q": "Which two factions are at war in World of Warcraft?",
@@ -739,7 +815,8 @@
    "alt": [
     "The Great Circle",
     "Indiana Jones"
-   ]
+   ],
+   "apic": "Indiana Jones and the Great Circle"
   },
   {
    "q": "Which weapon with a chainsaw bayonet is iconic in Gears of War?",
@@ -756,22 +833,26 @@
    "p": 400,
    "alt": [
     "Ori"
-   ]
+   ],
+   "apic": "Ori and the Blind Forest"
   },
   {
    "q": "Which Fallout game is set in the ruins of Washington, D.C.?",
    "a": "Fallout 3",
-   "p": 200
+   "p": 200,
+   "apic": "Fallout 3"
   },
   {
    "q": "Which Fallout game is set in and around Boston?",
    "a": "Fallout 4",
-   "p": 400
+   "p": 400,
+   "apic": "Fallout 4"
   },
   {
    "q": "Which actor played Master Chief in the Halo TV series?",
    "a": "Pablo Schreiber",
-   "p": 400
+   "p": 400,
+   "apic": "Pablo Schreiber"
   },
   {
    "q": "What colour is the Y button on an Xbox controller?",
@@ -824,7 +905,8 @@
    "p": 400,
    "alt": [
     "FH4"
-   ]
+   ],
+   "apic": "Forza Horizon 4"
   },
   {
    "q": "Which Forza Horizon game is set in Australia?",
@@ -832,7 +914,8 @@
    "p": 400,
    "alt": [
     "FH3"
-   ]
+   ],
+   "apic": "Forza Horizon 3"
   },
   {
    "q": "Which 2015 Halo game introduced Spartan Jameson Locke?",
@@ -840,12 +923,14 @@
    "p": 400,
    "alt": [
     "Halo 5"
-   ]
+   ],
+   "apic": "Halo 5: Guardians"
   },
   {
    "q": "Which 2009 Halo spin-off is a real-time strategy game?",
    "a": "Halo Wars",
-   "p": 400
+   "p": 400,
+   "apic": "Halo Wars"
   },
   {
    "q": "Which machinima comedy series by Rooster Teeth was made inside Halo?",
@@ -854,22 +939,26 @@
    "alt": [
     "Red vs Blue",
     "RvB"
-   ]
+   ],
+   "apic": "Red vs. Blue"
   },
   {
    "q": "Which 2010 Remedy thriller on Xbox 360 follows a writer whose novel comes to life?",
    "a": "Alan Wake",
-   "p": 400
+   "p": 400,
+   "apic": "Alan Wake"
   },
   {
    "q": "Which 2006 Xbox 360 zombie game stars photojournalist Frank West in a shopping mall?",
    "a": "Dead Rising",
-   "p": 400
+   "p": 400,
+   "apic": "Dead Rising (video game)"
   },
   {
    "q": "Which black-and-white puzzle platformer by Playdead was a 2010 Xbox Live Arcade hit?",
    "a": "Limbo",
-   "p": 400
+   "p": 400,
+   "apic": "Limbo (video game)"
   },
   {
    "q": "What was the 360-era online store of small downloadable games called?",
@@ -885,7 +974,8 @@
    "p": 400,
    "alt": [
     "One S"
-   ]
+   ],
+   "apic": "Xbox One"
   },
   {
    "q": "Which Series X|S feature lets players switch between several suspended games?",
@@ -895,7 +985,8 @@
   {
    "q": "Which fighting series, originally by Rare, was revived as an Xbox One launch title?",
    "a": "Killer Instinct",
-   "p": 400
+   "p": 400,
+   "apic": "Killer Instinct (2013 video game)"
   },
   {
    "q": "Which Tim Schafer studio, maker of Psychonauts, joined Xbox in 2019?",
@@ -903,7 +994,8 @@
    "p": 400,
    "alt": [
     "Double Fine Productions"
-   ]
+   ],
+   "apic": "Double Fine"
   },
   {
    "q": "Which game engine powered the original Gears of War?",
@@ -912,12 +1004,14 @@
    "alt": [
     "Unreal Engine 3",
     "Unreal"
-   ]
+   ],
+   "apic": "Unreal Engine"
   },
   {
    "q": "Which Bethesda director led Oblivion, Skyrim and Starfield?",
    "a": "Todd Howard",
-   "p": 400
+   "p": 400,
+   "apic": "Todd Howard"
   },
   {
    "q": "What is the continent where most Elder Scrolls games are set?",
@@ -953,7 +1047,8 @@
   {
    "q": "On which planet is Gears of War set?",
    "a": "Sera",
-   "p": 600
+   "p": 600,
+   "pic": "Gears of War"
   },
   {
    "q": "What is the name of Marcus Fenix's best friend in Gears of War?",
@@ -962,7 +1057,8 @@
    "alt": [
     "Dom",
     "Dom Santiago"
-   ]
+   ],
+   "pic": "Marcus Fenix"
   },
   {
    "q": "Which Epic Games designer, known as CliffyB, led the design of Gears of War?",
@@ -970,12 +1066,14 @@
    "p": 600,
    "alt": [
     "CliffyB"
-   ]
+   ],
+   "apic": "Cliff Bleszinski"
   },
   {
    "q": "Which US state was the setting of the first Forza Horizon?",
    "a": "Colorado",
-   "p": 600
+   "p": 600,
+   "apic": "Colorado"
   },
   {
    "q": "In which kingdom are the Fable games set?",
@@ -1016,7 +1114,8 @@
    "alt": [
     "MJOLNIR",
     "Mjolnir armour"
-   ]
+   ],
+   "pic": "Master Chief (Halo)"
   },
   {
    "q": "Which composer created the Halo theme with Michael Salvatori?",
@@ -1024,27 +1123,32 @@
    "p": 600,
    "alt": [
     "Marty O'Donnell"
-   ]
+   ],
+   "apic": "Martin O'Donnell"
   },
   {
    "q": "Which Kinect launch title included river rafting and other mini-games?",
    "a": "Kinect Adventures",
-   "p": 600
+   "p": 600,
+   "apic": "Kinect Adventures!"
   },
   {
    "q": "Which Harmonix series was a Kinect dance hit?",
    "a": "Dance Central",
-   "p": 600
+   "p": 600,
+   "apic": "Dance Central (video game)"
   },
   {
    "q": "Which time-bending puzzle platformer by Jonathan Blow was a 2008 Xbox Live Arcade hit?",
    "a": "Braid",
-   "p": 600
+   "p": 600,
+   "apic": "Braid (video game)"
   },
   {
    "q": "Which studio makes the zombie survival series State of Decay?",
    "a": "Undead Labs",
-   "p": 600
+   "p": 600,
+   "apic": "Undead Labs"
   },
   {
    "q": "Which studio created Cuphead?",
@@ -1052,7 +1156,8 @@
    "p": 600,
    "alt": [
     "Studio MDHR"
-   ]
+   ],
+   "apic": "StudioMDHR"
   },
   {
    "q": "Which 2023 Tango Gameworks rhythm action game was shadow-dropped on Xbox?",
@@ -1060,7 +1165,8 @@
    "p": 600,
    "alt": [
     "HiFi Rush"
-   ]
+   ],
+   "apic": "Hi-Fi Rush"
   },
   {
    "q": "In which region of the world Eora is Obsidian's 2025 RPG Avowed set?",
@@ -1083,22 +1189,26 @@
   {
    "q": "Which 2015 Rare collection bundled 30 of the studio's classic games?",
    "a": "Rare Replay",
-   "p": 600
+   "p": 600,
+   "apic": "Rare Replay"
   },
   {
    "q": "Which Team Ninja action game was a 2004 original Xbox hit?",
    "a": "Ninja Gaiden",
-   "p": 600
+   "p": 600,
+   "apic": "Ninja Gaiden (2004 video game)"
   },
   {
    "q": "Which original Xbox mech game came with a huge controller of about 40 buttons?",
    "a": "Steel Battalion",
-   "p": 600
+   "p": 600,
+   "apic": "Steel Battalion"
   },
   {
    "q": "Which Xbox 360 RPG by Mistwalker was designed by Final Fantasy's creator?",
    "a": "Blue Dragon",
-   "p": 600
+   "p": 600,
+   "apic": "Blue Dragon"
   },
   {
    "q": "Which Final Fantasy creator founded the studio Mistwalker?",
@@ -1106,7 +1216,8 @@
    "p": 600,
    "alt": [
     "Sakaguchi"
-   ]
+   ],
+   "apic": "Hironobu Sakaguchi"
   },
   {
    "q": "Which PC maker partnered with Xbox on the ROG Xbox Ally handheld of 2025?",
@@ -1114,7 +1225,8 @@
    "p": 600,
    "alt": [
     "ASUS"
-   ]
+   ],
+   "apic": "Asus"
   },
   {
    "q": "What was the project codename for Kinect?",
@@ -1143,7 +1255,8 @@
    "p": 600,
    "alt": [
     "NVIDIA"
-   ]
+   ],
+   "apic": "Nvidia"
   },
   {
    "q": "What virtual currency did the Xbox Live Marketplace use until 2013?",
@@ -1175,7 +1288,8 @@
    "p": 200,
    "alt": [
     "Elder Scrolls"
-   ]
+   ],
+   "apic": "The Elder Scrolls"
   },
   {
    "q": "What genre is Halo, played through the hero's own eyes with guns?",
@@ -1227,7 +1341,8 @@
    "p": 200,
    "alt": [
     "Kraken"
-   ]
+   ],
+   "apic": "Kraken"
   },
   {
    "q": "What are the religious leaders of the Covenant in Halo called?",
@@ -1257,7 +1372,8 @@
   {
    "q": "On which planet's moons does the original 1993 Doom take place?",
    "a": "Mars",
-   "p": 400
+   "p": 400,
+   "apic": "Mars"
   }
  ]
 }

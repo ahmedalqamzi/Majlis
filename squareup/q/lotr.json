@@ -8,7 +8,8 @@
    "p": 200,
    "alt": [
     "Frodo"
-   ]
+   ],
+   "apic": "Frodo Baggins"
   },
   {
    "q": "Which author wrote The Lord of the Rings?",
@@ -17,17 +18,20 @@
    "alt": [
     "Tolkien",
     "JRR Tolkien"
-   ]
+   ],
+   "apic": "J. R. R. Tolkien"
   },
   {
    "q": "Which twisted creature, once called Sméagol, is obsessed with the Ring?",
    "a": "Gollum",
-   "p": 200
+   "p": 200,
+   "apic": "Gollum"
   },
   {
    "q": "Which wizard is known first as 'the Grey' and later as 'the White'?",
    "a": "Gandalf",
-   "p": 200
+   "p": 200,
+   "apic": "Gandalf"
   },
   {
    "q": "Which loyal hobbit gardener travels with Frodo all the way to Mordor?",
@@ -36,17 +40,20 @@
    "alt": [
     "Sam",
     "Samwise"
-   ]
+   ],
+   "apic": "Samwise Gamgee"
   },
   {
    "q": "In which country were Peter Jackson's Middle-earth films shot?",
    "a": "New Zealand",
-   "p": 200
+   "p": 200,
+   "apic": "New Zealand"
   },
   {
    "q": "Which actor played Frodo in the Jackson films?",
    "a": "Elijah Wood",
-   "p": 200
+   "p": 200,
+   "apic": "Elijah Wood"
   },
   {
    "q": "Which actor played Gandalf in the Jackson films?",
@@ -54,7 +61,8 @@
    "p": 200,
    "alt": [
     "Sir Ian McKellen"
-   ]
+   ],
+   "apic": "Ian McKellen"
   },
   {
    "q": "In which volcano was the One Ring forged?",
@@ -62,12 +70,15 @@
    "p": 200,
    "alt": [
     "Orodruin"
-   ]
+   ],
+   "pic": "One Ring",
+   "apic": "Mount Doom"
   },
   {
    "q": "Who is the Dark Lord who created the One Ring?",
    "a": "Sauron",
-   "p": 200
+   "p": 200,
+   "apic": "Sauron"
   },
   {
    "q": "Which hobbit finds the Ring in a dark cave in The Hobbit?",
@@ -75,17 +86,20 @@
    "p": 200,
    "alt": [
     "Bilbo"
-   ]
+   ],
+   "apic": "Bilbo Baggins"
   },
   {
    "q": "Which actor played the young Bilbo in The Hobbit film trilogy?",
    "a": "Martin Freeman",
-   "p": 200
+   "p": 200,
+   "apic": "Martin Freeman"
   },
   {
    "q": "What is the name of the dragon who guards the treasure of the Lonely Mountain?",
    "a": "Smaug",
-   "p": 200
+   "p": 200,
+   "apic": "Smaug"
   },
   {
    "q": "What race does Legolas belong to?",
@@ -94,7 +108,9 @@
    "alt": [
     "Elves",
     "Wood-elf"
-   ]
+   ],
+   "pic": "Legolas",
+   "apic": "Elf (Middle-earth)"
   },
   {
    "q": "What race does Gimli belong to?",
@@ -102,17 +118,21 @@
    "p": 200,
    "alt": [
     "Dwarves"
-   ]
+   ],
+   "pic": "Gimli (Middle-earth)",
+   "apic": "Dwarf (Middle-earth)"
   },
   {
    "q": "Which actor played Legolas?",
    "a": "Orlando Bloom",
-   "p": 200
+   "p": 200,
+   "apic": "Orlando Bloom"
   },
   {
    "q": "Which actor played Aragorn?",
    "a": "Viggo Mortensen",
-   "p": 200
+   "p": 200,
+   "apic": "Viggo Mortensen"
   },
   {
    "q": "What is the green, peaceful homeland of the hobbits called?",
@@ -120,17 +140,20 @@
    "p": 200,
    "alt": [
     "Shire"
-   ]
+   ],
+   "apic": "Shire (Middle-earth)"
   },
   {
    "q": "What is the name of Bilbo and Frodo's hobbit-hole home?",
    "a": "Bag End",
-   "p": 200
+   "p": 200,
+   "apic": "Bag End"
   },
   {
    "q": "Which wizard of Isengard betrays Gandalf and serves Sauron?",
    "a": "Saruman",
-   "p": 200
+   "p": 200,
+   "apic": "Saruman"
   },
   {
    "q": "Which actor played Saruman?",
@@ -138,27 +161,32 @@
    "p": 200,
    "alt": [
     "Sir Christopher Lee"
-   ]
+   ],
+   "apic": "Christopher Lee"
   },
   {
    "q": "Which Elf queen rules the golden wood of Lothlórien?",
    "a": "Galadriel",
-   "p": 200
+   "p": 200,
+   "apic": "Galadriel"
   },
   {
    "q": "Which actress played Galadriel in the Jackson films?",
    "a": "Cate Blanchett",
-   "p": 200
+   "p": 200,
+   "apic": "Cate Blanchett"
   },
   {
    "q": "Which actress played Arwen?",
    "a": "Liv Tyler",
-   "p": 200
+   "p": 200,
+   "apic": "Liv Tyler"
   },
   {
    "q": "What nickname do the people of Bree give to Aragorn the Ranger?",
    "a": "Strider",
-   "p": 200
+   "p": 200,
+   "pic": "Aragorn"
   },
   {
    "q": "What is the title of the first Lord of the Rings film?",
@@ -166,7 +194,8 @@
    "p": 200,
    "alt": [
     "Fellowship of the Ring"
-   ]
+   ],
+   "apic": "The Lord of the Rings: The Fellowship of the Ring"
   },
   {
    "q": "What is the title of the second Lord of the Rings film?",
@@ -174,7 +203,8 @@
    "p": 200,
    "alt": [
     "Two Towers"
-   ]
+   ],
+   "apic": "The Lord of the Rings: The Two Towers"
   },
   {
    "q": "Which Lord of the Rings film won the Academy Award for Best Picture?",
@@ -182,7 +212,8 @@
    "p": 200,
    "alt": [
     "Return of the King"
-   ]
+   ],
+   "apic": "The Lord of the Rings: The Return of the King"
   },
   {
    "q": "How many members made up the Fellowship of the Ring?",
@@ -195,17 +226,20 @@
   {
    "q": "What giant spider attacks Frodo and Sam on the way into Mordor?",
    "a": "Shelob",
-   "p": 200
+   "p": 200,
+   "apic": "Shelob"
   },
   {
    "q": "What is the dark land ruled by Sauron called?",
    "a": "Mordor",
-   "p": 200
+   "p": 200,
+   "apic": "Mordor"
   },
   {
    "q": "Which son of Denethor, played by Sean Bean, joins the Fellowship?",
    "a": "Boromir",
-   "p": 200
+   "p": 200,
+   "apic": "Boromir"
   },
   {
    "q": "What is the name of the Elvish blade that glows blue when orcs are near?",
@@ -219,7 +253,8 @@
    "alt": [
     "Mithril silver",
     "Truesilver"
-   ]
+   ],
+   "apic": "Mithril"
   },
   {
    "q": "What are the giant, tree-like shepherds of Fangorn Forest called?",
@@ -227,7 +262,8 @@
    "p": 200,
    "alt": [
     "Ent"
-   ]
+   ],
+   "apic": "Ent"
   },
   {
    "q": "What is the name of the oldest Ent, who carries Merry and Pippin?",
@@ -235,12 +271,14 @@
    "p": 200,
    "alt": [
     "Fangorn"
-   ]
+   ],
+   "apic": "Treebeard"
   },
   {
    "q": "What is the name of Gandalf's swift white horse?",
    "a": "Shadowfax",
-   "p": 200
+   "p": 200,
+   "apic": "Shadowfax"
   },
   {
    "q": "What usually happens to a person who puts on the One Ring?",
@@ -265,7 +303,8 @@
    "p": 200,
    "alt": [
     "Durin's Bane"
-   ]
+   ],
+   "apic": "Balrog"
   },
   {
    "q": "Which dwarf leads the company of dwarves in The Hobbit?",
@@ -273,22 +312,28 @@
    "p": 200,
    "alt": [
     "Thorin"
-   ]
+   ],
+   "apic": "Thorin Oakenshield"
   },
   {
    "q": "Which actor gave Gollum his motion-capture performance?",
    "a": "Andy Serkis",
-   "p": 200
+   "p": 200,
+   "apic": "Andy Serkis"
   },
   {
    "q": "Which kingdom of Men has Minas Tirith as its capital?",
    "a": "Gondor",
-   "p": 200
+   "p": 200,
+   "pic": "Minas Tirith",
+   "apic": "Gondor"
   },
   {
    "q": "Which kingdom of horse-lords is ruled by King Théoden?",
    "a": "Rohan",
-   "p": 200
+   "p": 200,
+   "pic": "Théoden",
+   "apic": "Rohan (Middle-earth)"
   },
   {
    "q": "Which ranger is the heir to the throne of Gondor?",
@@ -296,7 +341,8 @@
    "p": 200,
    "alt": [
     "Elessar"
-   ]
+   ],
+   "apic": "Aragorn"
   },
   {
    "q": "What giant birds rescue Frodo and Sam from the slopes of Mount Doom?",
@@ -305,7 +351,8 @@
    "alt": [
     "Great Eagles",
     "The Eagles"
-   ]
+   ],
+   "apic": "Eagles (Middle-earth)"
   },
   {
    "q": "What is the name of Amazon's Middle-earth series set in the Second Age?",
@@ -314,7 +361,8 @@
    "alt": [
     "Rings of Power",
     "The Lord of the Rings: The Rings of Power"
-   ]
+   ],
+   "apic": "The Lord of the Rings: The Rings of Power"
   },
   {
    "q": "What game do Bilbo and Gollum play in the cave, with the Ring at stake?",
@@ -328,7 +376,8 @@
   {
    "q": "At which fortress do the people of Rohan make their stand in The Two Towers?",
    "a": "Helm's Deep",
-   "p": 200
+   "p": 200,
+   "apic": "Helm's Deep"
   },
   {
    "q": "What do hobbits famously have on the tops of their feet?",
@@ -349,12 +398,14 @@
    "p": 200,
    "alt": [
     "Lembas bread"
-   ]
+   ],
+   "apic": "Lembas"
   },
   {
    "q": "What does Gandalf bring to Bilbo's birthday party that the hobbits love?",
    "a": "Fireworks",
-   "p": 200
+   "p": 200,
+   "apic": "Fireworks"
   },
   {
    "q": "Whom does Aragorn marry after he becomes king?",
@@ -362,7 +413,8 @@
    "p": 200,
    "alt": [
     "Arwen Undómiel"
-   ]
+   ],
+   "apic": "Arwen"
   },
   {
    "q": "What turns the three trolls in The Hobbit to stone?",
@@ -380,7 +432,8 @@
    "alt": [
     "Lonely Mountain",
     "Erebor"
-   ]
+   ],
+   "apic": "Lonely Mountain"
   },
   {
    "q": "In what do the dwarves escape from the Elvenking's halls in The Hobbit?",
@@ -393,17 +446,20 @@
   {
    "q": "Which Elf lord is master of Rivendell and father of Arwen?",
    "a": "Elrond",
-   "p": 200
+   "p": 200,
+   "apic": "Elrond"
   },
   {
    "q": "What is the nickname of the hobbit Peregrin Took?",
    "a": "Pippin",
-   "p": 200
+   "p": 200,
+   "apic": "Peregrin Took"
   },
   {
    "q": "What is the nickname of the hobbit Meriadoc Brandybuck?",
    "a": "Merry",
-   "p": 200
+   "p": 200,
+   "apic": "Meriadoc Brandybuck"
   },
   {
    "q": "What is the name of the dark, dwarf-made mines the Fellowship crosses under the mountains?",
@@ -412,7 +468,8 @@
    "alt": [
     "Mines of Moria",
     "Khazad-dûm"
-   ]
+   ],
+   "apic": "Moria (Middle-earth)"
   },
   {
    "q": "Which Shieldmaiden of Rohan disguises herself to ride into battle?",
@@ -420,7 +477,8 @@
    "p": 200,
    "alt": [
     "Eowyn"
-   ]
+   ],
+   "apic": "Éowyn"
   },
   {
    "q": "What is Sam Gamgee's job at Bag End before the quest?",
@@ -433,7 +491,8 @@
    "p": 200,
    "alt": [
     "Imladris"
-   ]
+   ],
+   "apic": "Rivendell"
   },
   {
    "q": "What do the Black Riders that hunt Frodo turn out to be?",
@@ -442,7 +501,8 @@
    "alt": [
     "Nazgûl",
     "Nazgul"
-   ]
+   ],
+   "apic": "Nazgûl"
   },
   {
    "q": "What symbol represents Sauron on top of his dark tower in the films?",
@@ -460,7 +520,8 @@
    "p": 200,
    "alt": [
     "Battle of the Five Armies"
-   ]
+   ],
+   "apic": "The Hobbit: The Battle of the Five Armies"
   },
   {
    "q": "What colour is Gandalf's robe when he first meets Frodo?",
@@ -477,7 +538,8 @@
    "alt": [
     "Hobbit",
     "Halflings"
-   ]
+   ],
+   "apic": "Hobbit"
   },
   {
    "q": "What type of creatures are the Uruk-hai bred from?",
@@ -485,7 +547,8 @@
    "p": 200,
    "alt": [
     "Orc"
-   ]
+   ],
+   "apic": "Orc (Middle-earth)"
   },
   {
    "q": "What do the Elves give each member of the Fellowship to wear, which helps hide them?",
@@ -498,12 +561,14 @@
   {
    "q": "Which actor played Thorin Oakenshield in The Hobbit films?",
    "a": "Richard Armitage",
-   "p": 400
+   "p": 400,
+   "apic": "Richard Armitage"
   },
   {
    "q": "What is the capital city of Gondor, built in seven levels?",
    "a": "Minas Tirith",
-   "p": 400
+   "p": 400,
+   "apic": "Minas Tirith"
   },
   {
    "q": "What is the name of Sauron's dark fortress in Mordor?",
@@ -512,7 +577,8 @@
    "alt": [
     "Barad-dur",
     "The Dark Tower"
-   ]
+   ],
+   "apic": "Barad-dûr"
   },
   {
    "q": "Who is Gimli's father, one of Thorin's companions in The Hobbit?",
@@ -537,7 +603,8 @@
    "alt": [
     "Eleventy-one",
     "One hundred and eleven"
-   ]
+   ],
+   "pic": "Bilbo Baggins"
   },
   {
    "q": "How many Rings of Power were given to the Elven-kings?",
@@ -561,22 +628,26 @@
    "p": 400,
    "alt": [
     "Warg"
-   ]
+   ],
+   "apic": "Warg"
   },
   {
    "q": "The Hobbiton film set is on a farm near which New Zealand town?",
    "a": "Matamata",
-   "p": 400
+   "p": 400,
+   "apic": "Matamata"
   },
   {
    "q": "Who composed the music for Jackson's Middle-earth films?",
    "a": "Howard Shore",
-   "p": 400
+   "p": 400,
+   "apic": "Howard Shore"
   },
   {
    "q": "What is the name of Saruman's black tower in Isengard?",
    "a": "Orthanc",
-   "p": 400
+   "p": 400,
+   "apic": "Orthanc"
   },
   {
    "q": "At which university was Tolkien a professor?",
@@ -584,12 +655,14 @@
    "p": 400,
    "alt": [
     "University of Oxford"
-   ]
+   ],
+   "apic": "University of Oxford"
   },
   {
    "q": "In which present-day country was Tolkien born?",
    "a": "South Africa",
-   "p": 400
+   "p": 400,
+   "apic": "South Africa"
   },
   {
    "q": "What was the name of the Oxford literary group whose members included Tolkien and C. S. Lewis?",
@@ -597,7 +670,8 @@
    "p": 400,
    "alt": [
     "Inklings"
-   ]
+   ],
+   "apic": "Inklings"
   },
   {
    "q": "Which Tolkien book of the Elder Days was published after his death, in 1977?",
@@ -605,17 +679,20 @@
    "p": 400,
    "alt": [
     "Silmarillion"
-   ]
+   ],
+   "apic": "The Silmarillion"
   },
   {
    "q": "Which of Tolkien's sons edited and published his unfinished works?",
    "a": "Christopher Tolkien",
-   "p": 400
+   "p": 400,
+   "apic": "Christopher Tolkien"
   },
   {
    "q": "What is the subtitle of The Hobbit?",
    "a": "There and Back Again",
-   "p": 400
+   "p": 400,
+   "pic": "The Hobbit"
   },
   {
    "q": "What gift from Galadriel holds the light of Eärendil's star?",
@@ -634,7 +711,8 @@
    "alt": [
     "Black Speech",
     "Black Speech of Mordor"
-   ]
+   ],
+   "apic": "Black Speech"
   },
   {
    "q": "Which leader of the Nazgûl does Éowyn defeat on the Pelennor Fields?",
@@ -644,12 +722,14 @@
     "Witch-king",
     "Witch King",
     "Lord of the Nazgûl"
-   ]
+   ],
+   "apic": "Witch-king of Angmar"
   },
   {
    "q": "Which actor played Éomer?",
    "a": "Karl Urban",
-   "p": 400
+   "p": 400,
+   "apic": "Karl Urban"
   },
   {
    "q": "Who is the Steward of Gondor and father of Boromir?",
@@ -657,12 +737,14 @@
    "p": 400,
    "alt": [
     "Denethor II"
-   ]
+   ],
+   "apic": "Denethor"
   },
   {
    "q": "Who is Boromir's younger brother, a captain of Gondor?",
    "a": "Faramir",
-   "p": 400
+   "p": 400,
+   "apic": "Faramir"
   },
   {
    "q": "What is the first name of Wormtongue, King Théoden's treacherous adviser?",
@@ -670,7 +752,8 @@
    "p": 400,
    "alt": [
     "Grima"
-   ]
+   ],
+   "apic": "Gríma Wormtongue"
   },
   {
    "q": "Which brown-robed wizard, fond of animals, appears in The Hobbit films?",
@@ -678,7 +761,8 @@
    "p": 400,
    "alt": [
     "Radagast the Brown"
-   ]
+   ],
+   "apic": "Radagast"
   },
   {
    "q": "From which harbour do Frodo and Bilbo sail into the West at the end?",
@@ -687,7 +771,8 @@
    "alt": [
     "Grey Havens",
     "Mithlond"
-   ]
+   ],
+   "apic": "Grey Havens"
   },
   {
    "q": "What is the name of the inn at Bree where the hobbits meet Strider?",
@@ -700,7 +785,8 @@
   {
    "q": "Which merry figure in yellow boots, skipped by the Jackson films, finally appears in The Rings of Power?",
    "a": "Tom Bombadil",
-   "p": 400
+   "p": 400,
+   "apic": "Tom Bombadil"
   },
   {
    "q": "In The Rings of Power, what are the wandering ancestors of the hobbits called?",
@@ -717,7 +803,8 @@
    "alt": [
     "Numenor",
     "Westernesse"
-   ]
+   ],
+   "apic": "Númenor"
   },
   {
    "q": "In season one of The Rings of Power, what name does Sauron use while hiding among Men?",
@@ -727,7 +814,8 @@
   {
    "q": "Which Elven-smith of Eregion forged the Three Rings?",
    "a": "Celebrimbor",
-   "p": 400
+   "p": 400,
+   "apic": "Celebrimbor"
   },
   {
    "q": "In which year did The Rings of Power premiere?",
@@ -741,12 +829,14 @@
    "alt": [
     "Pelennor Fields",
     "Pelennor"
-   ]
+   ],
+   "apic": "Battle of the Pelennor Fields"
   },
   {
    "q": "What is the subtitle of the first Hobbit film, released in 2012?",
    "a": "An Unexpected Journey",
-   "p": 400
+   "p": 400,
+   "apic": "The Hobbit: An Unexpected Journey"
   },
   {
    "q": "What is the subtitle of the second Hobbit film?",
@@ -754,17 +844,20 @@
    "p": 400,
    "alt": [
     "Desolation of Smaug"
-   ]
+   ],
+   "apic": "The Hobbit: The Desolation of Smaug"
   },
   {
    "q": "Which Elf warrior played by Evangeline Lilly was created specially for The Hobbit films?",
    "a": "Tauriel",
-   "p": 400
+   "p": 400,
+   "apic": "Tauriel"
   },
   {
    "q": "What is the dwarvish name of the Lonely Mountain kingdom?",
    "a": "Erebor",
-   "p": 400
+   "p": 400,
+   "apic": "Lonely Mountain"
   },
   {
    "q": "Which bowman of Lake-town slays Smaug?",
@@ -772,12 +865,14 @@
    "p": 400,
    "alt": [
     "Bard the Bowman"
-   ]
+   ],
+   "apic": "Bard the Bowman"
   },
   {
    "q": "Which actor voiced Smaug in The Hobbit films?",
    "a": "Benedict Cumberbatch",
-   "p": 400
+   "p": 400,
+   "apic": "Benedict Cumberbatch"
   },
   {
    "q": "What great white jewel, the Heart of the Mountain, does Thorin seek?",
@@ -798,7 +893,8 @@
   {
    "q": "Who is the Elvenking of Mirkwood and father of Legolas?",
    "a": "Thranduil",
-   "p": 400
+   "p": 400,
+   "apic": "Thranduil"
   },
   {
    "q": "Into which animal can Beorn transform?",
@@ -806,7 +902,9 @@
    "p": 400,
    "alt": [
     "Bear"
-   ]
+   ],
+   "pic": "Beorn",
+   "apic": "Bear"
   },
   {
    "q": "Under which mountain range is Gollum's cave lake hidden?",
@@ -814,7 +912,8 @@
    "p": 400,
    "alt": [
     "Misty Mountains"
-   ]
+   ],
+   "apic": "Misty Mountains"
   },
   {
    "q": "What are the horse-lords of Rohan collectively called?",
@@ -822,7 +921,8 @@
    "p": 400,
    "alt": [
     "Rohirrim"
-   ]
+   ],
+   "apic": "Rohirrim"
   },
   {
    "q": "Which New Zealand company created the weapons, armour and creatures for the films?",
@@ -830,17 +930,20 @@
    "p": 400,
    "alt": [
     "Weta"
-   ]
+   ],
+   "apic": "Wētā Workshop"
   },
   {
    "q": "Which actor played Merry?",
    "a": "Dominic Monaghan",
-   "p": 400
+   "p": 400,
+   "apic": "Dominic Monaghan"
   },
   {
    "q": "Which actor played Pippin?",
    "a": "Billy Boyd",
-   "p": 400
+   "p": 400,
+   "apic": "Billy Boyd"
   },
   {
    "q": "What Elvish word, meaning friend, opens the Doors of Durin?",
@@ -893,12 +996,14 @@
     "Army of the Dead",
     "Dead Men of Dunharrow",
     "Oathbreakers"
-   ]
+   ],
+   "apic": "Army of the Dead"
   },
   {
    "q": "Who cut the One Ring from Sauron's hand at the end of the Second Age?",
    "a": "Isildur",
-   "p": 400
+   "p": 400,
+   "apic": "Isildur"
   },
   {
    "q": "What is the name of the pony that travels with the Fellowship as far as Moria?",
@@ -915,7 +1020,8 @@
    "alt": [
     "Amon Sûl",
     "Amon Sul"
-   ]
+   ],
+   "apic": "Weathertop"
   },
   {
    "q": "What does Galadriel invite Frodo to look into in Lothlórien?",
@@ -933,7 +1039,8 @@
    "alt": [
     "Palantir",
     "Palantír"
-   ]
+   ],
+   "apic": "Palantír"
   },
   {
    "q": "Which hobbit looks into the stone of Orthanc and is glimpsed by Sauron?",
@@ -941,7 +1048,8 @@
    "p": 400,
    "alt": [
     "Peregrin Took"
-   ]
+   ],
+   "apic": "Peregrin Took"
   },
   {
    "q": "What is the name of the forest of the Ents?",
@@ -949,7 +1057,8 @@
    "p": 400,
    "alt": [
     "Fangorn Forest"
-   ]
+   ],
+   "apic": "Fangorn Forest"
   },
   {
    "q": "What new name does the reforged sword of Elendil receive for Aragorn?",
@@ -1039,7 +1148,8 @@
   {
    "q": "Who is Galadriel's husband?",
    "a": "Celeborn",
-   "p": 400
+   "p": 400,
+   "apic": "Celeborn"
   },
   {
    "q": "Which pale orc chieftain hunts Thorin in The Hobbit films?",
@@ -1047,17 +1157,20 @@
    "p": 400,
    "alt": [
     "Azog the Defiler"
-   ]
+   ],
+   "apic": "Azog"
   },
   {
    "q": "Who is the Necromancer of Dol Guldur revealed to be?",
    "a": "Sauron",
-   "p": 400
+   "p": 400,
+   "apic": "Sauron"
   },
   {
    "q": "Which dark forest must the dwarves pass through in The Hobbit?",
    "a": "Mirkwood",
-   "p": 400
+   "p": 400,
+   "apic": "Mirkwood"
   },
   {
    "q": "In which age of Middle-earth does the War of the Ring take place?",
@@ -1073,7 +1186,8 @@
    "p": 400,
    "alt": [
     "Silmarils"
-   ]
+   ],
+   "apic": "Silmaril"
   },
   {
    "q": "Which actor played the older Bilbo in The Fellowship of the Ring?",
@@ -1081,22 +1195,26 @@
    "p": 400,
    "alt": [
     "Sir Ian Holm"
-   ]
+   ],
+   "apic": "Ian Holm"
   },
   {
    "q": "Which singer performed I See Fire for The Desolation of Smaug?",
    "a": "Ed Sheeran",
-   "p": 400
+   "p": 400,
+   "apic": "Ed Sheeran"
   },
   {
    "q": "The Return of the King's 11 Oscars tied the record held by Ben-Hur and which other film?",
    "a": "Titanic",
-   "p": 400
+   "p": 400,
+   "apic": "Titanic (1997 film)"
   },
   {
    "q": "In which New Zealand city did The Return of the King hold its world premiere?",
    "a": "Wellington",
-   "p": 400
+   "p": 400,
+   "apic": "Wellington"
   },
   {
    "q": "Which 2024 anime film is set about 200 years before The Lord of the Rings, in Rohan?",
@@ -1105,7 +1223,8 @@
    "alt": [
     "War of the Rohirrim",
     "The Lord of the Rings: The War of the Rohirrim"
-   ]
+   ],
+   "apic": "The Lord of the Rings: The War of the Rohirrim"
   },
   {
    "q": "In which decade was The Lord of the Rings first published?",
@@ -1118,17 +1237,20 @@
   {
    "q": "Which actor broke toes kicking an orc helmet in a scene in The Two Towers?",
    "a": "Viggo Mortensen",
-   "p": 400
+   "p": 400,
+   "apic": "Viggo Mortensen"
   },
   {
    "q": "Which actor played Bard the Bowman?",
    "a": "Luke Evans",
-   "p": 400
+   "p": 400,
+   "apic": "Luke Evans"
   },
   {
    "q": "Which actor played Elrond in the Jackson films?",
    "a": "Hugo Weaving",
-   "p": 400
+   "p": 400,
+   "apic": "Hugo Weaving"
   },
   {
    "q": "What is the name of the land in the far West where the Elves sail?",
@@ -1138,7 +1260,8 @@
     "The Undying Lands",
     "Undying Lands",
     "Aman"
-   ]
+   ],
+   "apic": "Valinor"
   },
   {
    "q": "Which giant orc army, bred in Isengard, attacks Helm's Deep?",
@@ -1147,7 +1270,8 @@
    "alt": [
     "Uruk-hai",
     "Uruks"
-   ]
+   ],
+   "apic": "Uruk-hai"
   },
   {
    "q": "What substance from Fangorn makes Merry and Pippin grow taller?",
@@ -1161,17 +1285,20 @@
   {
    "q": "What do the initials J. R. R. in J. R. R. Tolkien stand for?",
    "a": "John Ronald Reuel",
-   "p": 600
+   "p": 600,
+   "pic": "J. R. R. Tolkien"
   },
   {
    "q": "In which city was Tolkien born?",
    "a": "Bloemfontein",
-   "p": 600
+   "p": 600,
+   "apic": "Bloemfontein"
   },
   {
    "q": "In which year was The Hobbit first published?",
    "a": "1937",
-   "p": 600
+   "p": 600,
+   "pic": "The Hobbit"
   },
   {
    "q": "Which Elvish language did Tolkien base largely on Finnish?",
@@ -1180,17 +1307,20 @@
    "alt": [
     "High-elven",
     "Quenya (High-elven)"
-   ]
+   ],
+   "apic": "Quenya"
   },
   {
    "q": "Which Elvish language did Tolkien base largely on the sounds of Welsh?",
    "a": "Sindarin",
-   "p": 600
+   "p": 600,
+   "apic": "Sindarin"
   },
   {
    "q": "What is the secret language of the Dwarves called?",
    "a": "Khuzdul",
-   "p": 600
+   "p": 600,
+   "apic": "Khuzdul"
   },
   {
    "q": "What is the Dwarvish name of Moria?",
@@ -1204,22 +1334,26 @@
   {
    "q": "Which actress played Éowyn in the Jackson films?",
    "a": "Miranda Otto",
-   "p": 600
+   "p": 600,
+   "apic": "Miranda Otto"
   },
   {
    "q": "Which actor played Faramir?",
    "a": "David Wenham",
-   "p": 600
+   "p": 600,
+   "apic": "David Wenham"
   },
   {
    "q": "Which actor played King Théoden?",
    "a": "Bernard Hill",
-   "p": 600
+   "p": 600,
+   "apic": "Bernard Hill"
   },
   {
    "q": "Which actor played Gríma Wormtongue?",
    "a": "Brad Dourif",
-   "p": 600
+   "p": 600,
+   "apic": "Brad Dourif"
   },
   {
    "q": "Whom does Sam Gamgee marry after the quest?",
@@ -1241,12 +1375,14 @@
    "p": 600,
    "alt": [
     "Istari"
-   ]
+   ],
+   "apic": "Wizards (Middle-earth)"
   },
   {
    "q": "Which former Doctor Who actor played Radagast in The Hobbit films?",
    "a": "Sylvester McCoy",
-   "p": 600
+   "p": 600,
+   "apic": "Sylvester McCoy"
   },
   {
    "q": "What kind of spirit is Gandalf, the same order of being as Sauron?",
@@ -1255,7 +1391,8 @@
    "alt": [
     "Maia",
     "Maiar"
-   ]
+   ],
+   "apic": "Maiar"
   },
   {
    "q": "Who was Sauron's master, the first Dark Lord?",
@@ -1263,7 +1400,8 @@
    "p": 600,
    "alt": [
     "Melkor"
-   ]
+   ],
+   "apic": "Morgoth"
   },
   {
    "q": "Who is the innkeeper of the Prancing Pony?",
@@ -1281,7 +1419,8 @@
   {
    "q": "Which actress plays Galadriel in The Rings of Power?",
    "a": "Morfydd Clark",
-   "p": 600
+   "p": 600,
+   "apic": "Morfydd Clark"
   },
   {
    "q": "In season two of The Rings of Power, what fair name does Sauron use to deceive Celebrimbor?",
@@ -1303,12 +1442,14 @@
   {
    "q": "Which actor plays Sauron in The Rings of Power?",
    "a": "Charlie Vickers",
-   "p": 600
+   "p": 600,
+   "apic": "Charlie Vickers"
   },
   {
    "q": "Which actor plays Elrond in The Rings of Power?",
    "a": "Robert Aramayo",
-   "p": 600
+   "p": 600,
+   "apic": "Robert Aramayo"
   },
   {
    "q": "Who is the queen regent of Númenor in The Rings of Power?",
@@ -1352,12 +1493,14 @@
   {
    "q": "Which Elvish script is used for the inscription on the One Ring?",
    "a": "Tengwar",
-   "p": 600
+   "p": 600,
+   "apic": "Tengwar"
   },
   {
    "q": "In the book, which Elf lord carries Frodo to the Ford of Bruinen, a role given to Arwen in the film?",
    "a": "Glorfindel",
-   "p": 600
+   "p": 600,
+   "apic": "Glorfindel"
   },
   {
    "q": "What is the name of the great council of the Ents?",
@@ -1370,7 +1513,8 @@
   {
    "q": "Which malicious tree traps Merry and Pippin in the Old Forest?",
    "a": "Old Man Willow",
-   "p": 600
+   "p": 600,
+   "apic": "Old Man Willow"
   },
   {
    "q": "Which undead spirits capture the hobbits on the Barrow-downs?",
@@ -1379,7 +1523,8 @@
    "alt": [
     "Barrow-wight",
     "Barrow wights"
-   ]
+   ],
+   "apic": "Barrow-wight"
   },
   {
    "q": "What is the name of the pass into Mordor where Shelob lurks?",
@@ -1406,7 +1551,8 @@
   {
    "q": "Who was Isildur's father, the first High King of Gondor and Arnor?",
    "a": "Elendil",
-   "p": 600
+   "p": 600,
+   "apic": "Elendil"
   },
   {
    "q": "What was the name of Elendil's sword, broken in the fight against Sauron?",
@@ -1421,7 +1567,8 @@
     "Anduin",
     "River Anduin",
     "Great River"
-   ]
+   ],
+   "apic": "Anduin"
   },
   {
    "q": "Who first found the lost Ring in the river, before Sméagol took it?",
@@ -1498,7 +1645,8 @@
    "p": 600,
    "alt": [
     "Ngauruhoe"
-   ]
+   ],
+   "apic": "Mount Ngauruhoe"
   },
   {
    "q": "On which South Island peak was the set of Edoras built?",
@@ -1508,7 +1656,8 @@
   {
    "q": "Who directed the 1978 animated film of The Lord of the Rings?",
    "a": "Ralph Bakshi",
-   "p": 600
+   "p": 600,
+   "apic": "Ralph Bakshi"
   },
   {
    "q": "Which studio made the 1977 animated TV film of The Hobbit?",
@@ -1529,7 +1678,8 @@
   {
    "q": "Who directed the anime film The War of the Rohirrim?",
    "a": "Kenji Kamiyama",
-   "p": 600
+   "p": 600,
+   "apic": "Kenji Kamiyama"
   },
   {
    "q": "Into how many 'books' did Tolkien divide The Lord of the Rings?",
@@ -1546,7 +1696,8 @@
    "alt": [
     "George Allen & Unwin",
     "Allen and Unwin"
-   ]
+   ],
+   "apic": "Allen & Unwin"
   },
   {
    "q": "In which First World War battle did Tolkien serve in 1916?",
@@ -1555,7 +1706,8 @@
    "alt": [
     "Somme",
     "Battle of the Somme"
-   ]
+   ],
+   "apic": "Battle of the Somme"
   },
   {
    "q": "Which Elf-maiden's name is carved on the gravestone of Tolkien's wife Edith?",
@@ -1563,7 +1715,8 @@
    "p": 600,
    "alt": [
     "Luthien"
-   ]
+   ],
+   "apic": "Lúthien"
   },
   {
    "q": "What is the name of Gandalf's sword, found in the troll-hoard?",
@@ -1604,22 +1757,26 @@
    "p": 600,
    "alt": [
     "Sir Christopher Lee"
-   ]
+   ],
+   "apic": "Christopher Lee"
   },
   {
    "q": "Which actor played the dwarf lord Dáin Ironfoot in The Battle of the Five Armies?",
    "a": "Billy Connolly",
-   "p": 600
+   "p": 600,
+   "apic": "Billy Connolly"
   },
   {
    "q": "Which actor played the Master of Lake-town?",
    "a": "Stephen Fry",
-   "p": 600
+   "p": 600,
+   "apic": "Stephen Fry"
   },
   {
    "q": "Which actor played the young dwarf Kíli?",
    "a": "Aidan Turner",
-   "p": 600
+   "p": 600,
+   "apic": "Aidan Turner"
   },
   {
    "q": "Which Annie Lennox song won the Oscar for Best Original Song for The Return of the King?",
@@ -1629,12 +1786,14 @@
   {
    "q": "Which Irish singer performed May It Be for The Fellowship of the Ring?",
    "a": "Enya",
-   "p": 600
+   "p": 600,
+   "apic": "Enya"
   },
   {
    "q": "Which Fellowship actor sang The Last Goodbye over the end credits of the final Hobbit film?",
    "a": "Billy Boyd",
-   "p": 600
+   "p": 600,
+   "apic": "Billy Boyd"
   },
   {
    "q": "What regnal name does Aragorn take as King of Gondor?",
@@ -1651,12 +1810,14 @@
    "p": 600,
    "alt": [
     "Feanor"
-   ]
+   ],
+   "apic": "Fëanor"
   },
   {
    "q": "Which hidden Elven city, founded by Turgon, is the subject of a 2018 Tolkien book?",
    "a": "Gondolin",
-   "p": 600
+   "p": 600,
+   "apic": "Gondolin"
   },
   {
    "q": "What is the name of Arwen's pendant, which she gives to Aragorn in the films?",
@@ -1673,12 +1834,14 @@
    "alt": [
     "Dúnedain",
     "Dunedain"
-   ]
+   ],
+   "apic": "Dúnedain"
   },
   {
    "q": "Which fortress in southern Mirkwood is the Necromancer's lair?",
    "a": "Dol Guldur",
-   "p": 600
+   "p": 600,
+   "apic": "Dol Guldur"
   },
   {
    "q": "Who was Thorin's grandfather, King under the Mountain when Smaug came?",
@@ -1691,7 +1854,8 @@
   {
    "q": "Which actor played Thranduil in The Hobbit films?",
    "a": "Lee Pace",
-   "p": 600
+   "p": 600,
+   "apic": "Lee Pace"
   },
   {
    "q": "In which month do Bilbo and Frodo share a birthday?",
@@ -1709,7 +1873,8 @@
   {
    "q": "What is the name of the hobbit village where Bag End stands?",
    "a": "Hobbiton",
-   "p": 200
+   "p": 200,
+   "apic": "Hobbiton"
   },
   {
    "q": "What name, referring to their small size, do Men sometimes call hobbits?",
@@ -1722,7 +1887,8 @@
   {
    "q": "What metal is the One Ring made of?",
    "a": "Gold",
-   "p": 200
+   "p": 200,
+   "apic": "Gold"
   },
   {
    "q": "What kind of being is Gandalf, along with Saruman and Radagast?",
@@ -1783,7 +1949,8 @@
   {
    "q": "Which actor played Boromir?",
    "a": "Sean Bean",
-   "p": 200
+   "p": 200,
+   "apic": "Sean Bean"
   },
   {
    "q": "On which streaming service is The Rings of Power shown?",
@@ -1792,7 +1959,8 @@
    "alt": [
     "Prime Video",
     "Amazon"
-   ]
+   ],
+   "apic": "Amazon Prime Video"
   },
   {
    "q": "What food does Gollum love to catch and eat raw?",
@@ -1802,12 +1970,14 @@
   {
    "q": "Which fortress of Saruman do the Ents attack and flood?",
    "a": "Isengard",
-   "p": 200
+   "p": 200,
+   "apic": "Isengard"
   },
   {
    "q": "Which Fellowship member becomes Legolas's best friend despite old Elf-Dwarf rivalry?",
    "a": "Gimli",
-   "p": 200
+   "p": 200,
+   "apic": "Gimli (Middle-earth)"
   },
   {
    "q": "Which two hobbits are carried off by the Uruk-hai?",
@@ -1823,7 +1993,8 @@
    "p": 200,
    "alt": [
     "Theoden"
-   ]
+   ],
+   "apic": "Théoden"
   },
   {
    "q": "What is the name of the world, or continent, where Tolkien's stories are set?",
@@ -1831,7 +2002,8 @@
    "p": 200,
    "alt": [
     "Middle Earth"
-   ]
+   ],
+   "apic": "Middle-earth"
   },
   {
    "q": "What long wooden object does Gandalf carry and use for magic?",
@@ -1845,7 +2017,8 @@
   {
    "q": "Which actor played Samwise Gamgee?",
    "a": "Sean Astin",
-   "p": 200
+   "p": 200,
+   "apic": "Sean Astin"
   },
   {
    "q": "Which creature guides Frodo and Sam through the Dead Marshes?",
@@ -1853,7 +2026,8 @@
    "p": 200,
    "alt": [
     "Sméagol"
-   ]
+   ],
+   "apic": "Gollum"
   },
   {
    "q": "Unlike Men, what can Elves never die from?",
@@ -1884,12 +2058,14 @@
   {
    "q": "Which actor played Gimli?",
    "a": "John Rhys-Davies",
-   "p": 400
+   "p": 400,
+   "apic": "John Rhys-Davies"
   },
   {
    "q": "What is the capital of Rohan, home of the Golden Hall?",
    "a": "Edoras",
-   "p": 400
+   "p": 400,
+   "apic": "Edoras"
   },
   {
    "q": "Which vegetable does Sam want to add to his stew, to Gollum's disgust?",
@@ -1898,7 +2074,8 @@
    "alt": [
     "Potato",
     "Taters"
-   ]
+   ],
+   "apic": "Potato"
   },
   {
    "q": "What animals does Gollum catch for Sam to cook in Ithilien?",
@@ -1907,7 +2084,8 @@
    "alt": [
     "Rabbit",
     "Coneys"
-   ]
+   ],
+   "apic": "Rabbit"
   },
   {
    "q": "Before the Ring twisted him, what race was Sméagol?",
@@ -1927,7 +2105,8 @@
   {
    "q": "Which Elf of Mirkwood, played by Orlando Bloom, returns in The Hobbit films?",
    "a": "Legolas",
-   "p": 200
+   "p": 200,
+   "apic": "Legolas"
   },
   {
    "q": "Who inherits Bag End and the Ring when Bilbo leaves the Shire?",
@@ -1935,7 +2114,8 @@
    "p": 200,
    "alt": [
     "Frodo"
-   ]
+   ],
+   "apic": "Frodo Baggins"
   },
   {
    "q": "What colour are the robes and cloaks of the Ringwraiths?",

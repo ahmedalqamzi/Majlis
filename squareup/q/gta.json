@@ -8,7 +8,8 @@
    "p": 200,
    "alt": [
     "Rockstar"
-   ]
+   ],
+   "apic": "Rockstar Games"
   },
   {
    "q": "Which company publishes Rockstar's games?",
@@ -16,7 +17,8 @@
    "p": 200,
    "alt": [
     "Take-Two"
-   ]
+   ],
+   "apic": "Take-Two Interactive"
   },
   {
    "q": "Which fictional city is the main setting of Grand Theft Auto V?",
@@ -44,7 +46,8 @@
   {
    "q": "In which year was Grand Theft Auto V first released?",
    "a": "2013",
-   "p": 200
+   "p": 200,
+   "pic": "Grand Theft Auto V"
   },
   {
    "q": "What is the name of the protagonist of San Andreas?",
@@ -61,7 +64,8 @@
    "p": 200,
    "alt": [
     "Niko"
-   ]
+   ],
+   "apic": "Niko Bellic"
   },
   {
    "q": "What is the name of the protagonist of Vice City?",
@@ -69,12 +73,14 @@
    "p": 200,
    "alt": [
     "Tommy"
-   ]
+   ],
+   "apic": "Tommy Vercetti"
   },
   {
    "q": "San Andreas is a fictional version of which US state, home to Los Santos?",
    "a": "California",
-   "p": 200
+   "p": 200,
+   "apic": "California"
   },
   {
    "q": "Which fictional city in San Andreas is based on Las Vegas?",
@@ -102,7 +108,8 @@
    "p": 200,
    "alt": [
     "Grand Theft Auto Online"
-   ]
+   ],
+   "apic": "Grand Theft Auto Online"
   },
   {
    "q": "What is the name of Franklin's pet dog?",
@@ -116,7 +123,8 @@
    "alt": [
     "GTA III",
     "GTA 3"
-   ]
+   ],
+   "apic": "Grand Theft Auto III"
   },
   {
    "q": "Which store chain sells weapons in the series?",
@@ -145,7 +153,8 @@
    "p": 200,
    "alt": [
     "Grand Theft Auto: San Andreas"
-   ]
+   ],
+   "apic": "Grand Theft Auto: San Andreas"
   },
   {
    "q": "Which 2008 game returned to Liberty City with Niko Bellic?",
@@ -154,7 +163,8 @@
    "alt": [
     "GTA IV",
     "GTA 4"
-   ]
+   ],
+   "apic": "Grand Theft Auto IV"
   },
   {
    "q": "What is Michael De Santa's occupation before retirement?",
@@ -204,17 +214,21 @@
   {
    "q": "In which Scottish city was DMA Design founded?",
    "a": "Dundee",
-   "p": 400
+   "p": 400,
+   "apic": "Dundee"
   },
   {
    "q": "Which actor voiced Tommy Vercetti?",
    "a": "Ray Liotta",
-   "p": 400
+   "p": 400,
+   "pic": "Tommy Vercetti",
+   "apic": "Ray Liotta"
   },
   {
    "q": "Which actor voiced the corrupt cop Frank Tenpenny in San Andreas?",
    "a": "Samuel L. Jackson",
-   "p": 400
+   "p": 400,
+   "apic": "Samuel L. Jackson"
   },
   {
    "q": "What is the name of CJ's brother in San Andreas?",
@@ -269,7 +283,8 @@
    "p": 400,
    "alt": [
     "TLAD"
-   ]
+   ],
+   "apic": "Grand Theft Auto IV: The Lost and Damned"
   },
   {
    "q": "Which biker gang does Johnny Klebitz belong to?",
@@ -301,7 +316,8 @@
   {
    "q": "In which year was the first Grand Theft Auto released?",
    "a": "1997",
-   "p": 400
+   "p": 400,
+   "pic": "Grand Theft Auto (video game)"
   },
   {
    "q": "In which year was Grand Theft Auto 2 released?",
@@ -321,7 +337,8 @@
   {
    "q": "On which handheld was Chinatown Wars first released?",
    "a": "Nintendo DS",
-   "p": 400
+   "p": 400,
+   "apic": "Nintendo DS"
   },
   {
    "q": "Which fictional stock market is in GTA V?",
@@ -349,7 +366,8 @@
   {
    "q": "Which year did GTA V release on PC?",
    "a": "2015",
-   "p": 400
+   "p": 400,
+   "pic": "Grand Theft Auto V"
   },
   {
    "q": "On what date was Grand Theft Auto V released?",
@@ -358,7 +376,8 @@
    "alt": [
     "September 17 2013",
     "September 17, 2013"
-   ]
+   ],
+   "pic": "Grand Theft Auto V"
   },
   {
    "q": "On what date did GTA Online launch?",
@@ -376,7 +395,8 @@
    "alt": [
     "April 29 2008",
     "April 29, 2008"
-   ]
+   ],
+   "pic": "Grand Theft Auto IV"
   },
   {
    "q": "In which year was Rockstar Games founded?",
@@ -399,7 +419,8 @@
   {
    "q": "Which puzzle game was famously created by DMA Design?",
    "a": "Lemmings",
-   "p": 600
+   "p": 600,
+   "apic": "Lemmings (video game)"
   },
   {
    "q": "What is the name of the 1999 GTA expansion set in 1969?",
@@ -407,37 +428,45 @@
    "p": 600,
    "alt": [
     "Grand Theft Auto: London 1969"
-   ]
+   ],
+   "apic": "Grand Theft Auto: London 1969"
   },
   {
    "q": "Which actor voiced Michael De Santa?",
    "a": "Ned Luke",
-   "p": 600
+   "p": 600,
+   "apic": "Ned Luke"
   },
   {
    "q": "Which actor voiced Franklin Clinton?",
    "a": "Shawn Fonteno",
-   "p": 600
+   "p": 600,
+   "apic": "Shawn Fonteno"
   },
   {
    "q": "Which actor voiced Trevor Philips?",
    "a": "Steven Ogg",
-   "p": 600
+   "p": 600,
+   "apic": "Steven Ogg"
   },
   {
    "q": "Which actor voiced Niko Bellic?",
    "a": "Michael Hollick",
-   "p": 600
+   "p": 600,
+   "pic": "Niko Bellic",
+   "apic": "Michael Hollick"
   },
   {
    "q": "Which actor voiced Avery Carrington in Vice City?",
    "a": "Burt Reynolds",
-   "p": 600
+   "p": 600,
+   "apic": "Burt Reynolds"
   },
   {
    "q": "Which actor voiced Lance Vance in Vice City?",
    "a": "Philip Michael Thomas",
-   "p": 600
+   "p": 600,
+   "apic": "Philip Michael Thomas"
   },
   {
    "q": "Who is the protagonist of Chinatown Wars?",
@@ -491,17 +520,20 @@
   {
    "q": "Which Rockstar game is known as Canis Canem Edit in Europe?",
    "a": "Bully",
-   "p": 600
+   "p": 600,
+   "apic": "Bully (video game)"
   },
   {
    "q": "In which year is Vice City set?",
    "a": "1986",
-   "p": 600
+   "p": 600,
+   "pic": "Grand Theft Auto: Vice City"
   },
   {
    "q": "In which year is San Andreas set?",
    "a": "1992",
-   "p": 600
+   "p": 600,
+   "pic": "Grand Theft Auto: San Andreas"
   },
   {
    "q": "What is the fictional version of Los Angeles Police Department in GTA V?",
@@ -523,7 +555,8 @@
   {
    "q": "Which game engine did GTA III use?",
    "a": "RenderWare",
-   "p": 600
+   "p": 600,
+   "apic": "RenderWare"
   },
   {
    "q": "What symbols show how wanted you are by the police?",
@@ -565,7 +598,8 @@
    "p": 200,
    "alt": [
     "PS2"
-   ]
+   ],
+   "apic": "PlayStation 2"
   },
   {
    "q": "What colour is associated with the Grove Street Families?",
@@ -604,7 +638,8 @@
   {
    "q": "Which real New York borough inspired Broker in GTA IV?",
    "a": "Brooklyn",
-   "p": 400
+   "p": 400,
+   "apic": "Brooklyn"
   },
   {
    "q": "What is the name of the silent protagonist of GTA III?",
@@ -635,7 +670,8 @@
   {
    "q": "Which rapper voiced CJ in San Andreas?",
    "a": "Young Maylay",
-   "p": 600
+   "p": 600,
+   "apic": "Young Maylay"
   },
   {
    "q": "Which borough is the first area unlocked in GTA III?",
@@ -700,12 +736,14 @@
   {
    "q": "What breed of dog is Chop?",
    "a": "Rottweiler",
-   "p": 200
+   "p": 200,
+   "apic": "Rottweiler"
   },
   {
    "q": "Which country is Trevor Philips originally from?",
    "a": "Canada",
-   "p": 200
+   "p": 200,
+   "apic": "Canada"
   },
   {
    "q": "Which Los Santos beach area parodies Venice Beach?",
@@ -726,12 +764,14 @@
   {
    "q": "Which 1983 Al Pacino film heavily inspired Vice City's mansion finale?",
    "a": "Scarface",
-   "p": 200
+   "p": 200,
+   "apic": "Scarface (1983 film)"
   },
   {
    "q": "Which 1980s TV series inspired the look of Vice City?",
    "a": "Miami Vice",
-   "p": 200
+   "p": 200,
+   "apic": "Miami Vice"
   },
   {
    "q": "Which flying device can CJ steal from a secret military base?",
@@ -739,17 +779,20 @@
    "p": 200,
    "alt": [
     "Jet pack"
-   ]
+   ],
+   "apic": "Jet pack"
   },
   {
    "q": "In which year was Vice City released?",
    "a": "2002",
-   "p": 200
+   "p": 200,
+   "pic": "Grand Theft Auto: Vice City"
   },
   {
    "q": "In which year was San Andreas released?",
    "a": "2004",
-   "p": 200
+   "p": 200,
+   "pic": "Grand Theft Auto: San Andreas"
   },
   {
    "q": "Which rapper and producer starred in GTA Online's 2021 update The Contract?",
@@ -758,7 +801,9 @@
    "alt": [
     "Dr Dre",
     "Dre"
-   ]
+   ],
+   "pic": "Grand Theft Auto Online",
+   "apic": "Dr. Dre"
   },
   {
    "q": "What is the name of Michael De Santa's wife?",
@@ -784,7 +829,8 @@
   {
    "q": "Which King of Pop had songs on Vice City's Flash FM?",
    "a": "Michael Jackson",
-   "p": 200
+   "p": 200,
+   "apic": "Michael Jackson"
   },
   {
    "q": "Which fictional car brand parodies Lamborghini?",
@@ -928,7 +974,8 @@
    "p": 200,
    "alt": [
     "PlayStation Portable"
-   ]
+   ],
+   "apic": "PlayStation Portable"
   },
   {
    "q": "What is Ken Rosenberg's profession?",
@@ -1050,17 +1097,20 @@
   {
    "q": "Which Guns N' Roses singer hosts K-DST in San Andreas?",
    "a": "Axl Rose",
-   "p": 600
+   "p": 600,
+   "apic": "Axl Rose"
   },
   {
    "q": "Which supermodel hosts Non-Stop-Pop FM in GTA V?",
    "a": "Cara Delevingne",
-   "p": 600
+   "p": 600,
+   "apic": "Cara Delevingne"
   },
   {
    "q": "Which rapper and producer hosts West Coast Classics in GTA V?",
    "a": "DJ Pooh",
-   "p": 600
+   "p": 600,
+   "apic": "DJ Pooh"
   },
   {
    "q": "Who is Luis Lopez's boss in The Ballad of Gay Tony?",
@@ -1073,7 +1123,8 @@
   {
    "q": "What was the combined release of GTA IV's two expansions called?",
    "a": "Episodes from Liberty City",
-   "p": 600
+   "p": 600,
+   "apic": "Grand Theft Auto: Episodes from Liberty City"
   },
   {
    "q": "Which 2004 GTA was made for the Game Boy Advance?",
@@ -1081,7 +1132,8 @@
    "p": 600,
    "alt": [
     "GTA Advance"
-   ]
+   ],
+   "apic": "Grand Theft Auto Advance"
   },
   {
    "q": "What was the original GTA's working title?",
@@ -1157,22 +1209,26 @@
   {
    "q": "Which actor voiced Ken Rosenberg?",
    "a": "William Fichtner",
-   "p": 600
+   "p": 600,
+   "apic": "William Fichtner"
   },
   {
    "q": "Which actor voiced Big Smoke?",
    "a": "Clifton Powell",
-   "p": 600
+   "p": 600,
+   "apic": "Clifton Powell"
   },
   {
    "q": "Which actor voiced Mike Toreno in San Andreas?",
    "a": "James Woods",
-   "p": 600
+   "p": 600,
+   "apic": "James Woods"
   },
   {
    "q": "Which Easy Rider star voiced The Truth in San Andreas?",
    "a": "Peter Fonda",
-   "p": 600
+   "p": 600,
+   "apic": "Peter Fonda"
   },
   {
    "q": "Which Liberty City island in GTA III holds the airport?",
@@ -1206,7 +1262,8 @@
    "p": 200,
    "alt": [
     "Moped"
-   ]
+   ],
+   "apic": "Scooter (motorcycle)"
   },
   {
    "q": "Which fictional city is GTA VI's main setting?",

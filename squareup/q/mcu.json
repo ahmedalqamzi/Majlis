@@ -25,7 +25,8 @@
   {
    "q": "Which tree-like Guardian of the Galaxy has a very limited vocabulary?",
    "a": "Groot",
-   "p": 200
+   "p": 200,
+   "apic": "Groot"
   },
   {
    "q": "Which raccoon-like Guardian is voiced by Bradley Cooper?",
@@ -33,22 +34,26 @@
    "p": 200,
    "alt": [
     "Rocket Raccoon"
-   ]
+   ],
+   "apic": "Rocket Raccoon"
   },
   {
    "q": "Which actor plays Star-Lord in Guardians of the Galaxy?",
    "a": "Chris Pratt",
-   "p": 200
+   "p": 200,
+   "apic": "Chris Pratt"
   },
   {
    "q": "Which Guardian is Thanos's adopted daughter, played by Zoe Saldaña?",
    "a": "Gamora",
-   "p": 200
+   "p": 200,
+   "apic": "Gamora"
   },
   {
    "q": "Which actor played T'Challa in Black Panther?",
    "a": "Chadwick Boseman",
-   "p": 200
+   "p": 200,
+   "apic": "Chadwick Boseman"
   },
   {
    "q": "What is the name of Tony Stark's AI butler in the early Iron Man films?",
@@ -58,7 +63,8 @@
   {
    "q": "What is the name of Thor's home realm?",
    "a": "Asgard",
-   "p": 200
+   "p": 200,
+   "apic": "Asgard (comics)"
   },
   {
    "q": "Which spy agency is led by Nick Fury?",
@@ -66,12 +72,14 @@
    "p": 200,
    "alt": [
     "SHIELD"
-   ]
+   ],
+   "apic": "S.H.I.E.L.D."
   },
   {
    "q": "Which actor plays Nick Fury?",
    "a": "Samuel L. Jackson",
-   "p": 200
+   "p": 200,
+   "apic": "Samuel L. Jackson"
   },
   {
    "q": "In which 2019 film do the Avengers travel through time to collect the Infinity Stones?",
@@ -79,7 +87,8 @@
    "p": 200,
    "alt": [
     "Endgame"
-   ]
+   ],
+   "apic": "Avengers: Endgame"
   },
   {
    "q": "Which 2018 film ends with Thanos wiping out half of all life?",
@@ -87,7 +96,8 @@
    "p": 200,
    "alt": [
     "Infinity War"
-   ]
+   ],
+   "apic": "Avengers: Infinity War"
   },
   {
    "q": "Who is Peter Parker's best friend in the MCU, played by Jacob Batalon?",
@@ -103,7 +113,8 @@
    "p": 200,
    "alt": [
     "May Parker"
-   ]
+   ],
+   "apic": "Aunt May"
   },
   {
    "q": "Which Avenger is played by Jeremy Renner?",
@@ -111,7 +122,8 @@
    "p": 200,
    "alt": [
     "Clint Barton"
-   ]
+   ],
+   "apic": "Hawkeye (Clint Barton)"
   },
   {
    "q": "What was Stephen Strange's job before he became a sorcerer?",
@@ -124,17 +136,20 @@
   {
    "q": "What is Wanda Maximoff's superhero name?",
    "a": "Scarlet Witch",
-   "p": 200
+   "p": 200,
+   "apic": "Scarlet Witch"
   },
   {
    "q": "Which 2021 Disney+ series is set in a sitcom-style town called Westview?",
    "a": "WandaVision",
-   "p": 200
+   "p": 200,
+   "apic": "WandaVision"
   },
   {
    "q": "Which android Avenger is played by Paul Bettany?",
    "a": "Vision",
-   "p": 200
+   "p": 200,
+   "apic": "Vision (Marvel Comics)"
   },
   {
    "q": "What is the name of Tony Stark's company?",
@@ -144,7 +159,8 @@
   {
    "q": "Which goddess of death, played by Cate Blanchett, is Thor's sister?",
    "a": "Hela",
-   "p": 200
+   "p": 200,
+   "apic": "Hela (character)"
   },
   {
    "q": "Which 2017 Thor film features a gladiator fight against the Hulk on Sakaar?",
@@ -152,22 +168,26 @@
    "p": 200,
    "alt": [
     "Ragnarok"
-   ]
+   ],
+   "apic": "Thor: Ragnarok"
   },
   {
    "q": "Which actor plays Ant-Man in the MCU?",
    "a": "Paul Rudd",
-   "p": 200
+   "p": 200,
+   "apic": "Paul Rudd"
   },
   {
    "q": "Which Marvel hero is played by Simu Liu?",
    "a": "Shang-Chi",
-   "p": 200
+   "p": 200,
+   "apic": "Shang-Chi"
   },
   {
    "q": "Which Marvel Comics legend made cameo appearances in most MCU films until 2019?",
    "a": "Stan Lee",
-   "p": 200
+   "p": 200,
+   "apic": "Stan Lee"
   },
   {
    "q": "Which Black Panther villain, played by Michael B. Jordan, challenges T'Challa for the throne?",
@@ -176,7 +196,8 @@
    "alt": [
     "Erik Killmonger",
     "N'Jadaka"
-   ]
+   ],
+   "apic": "Erik Killmonger"
   },
   {
    "q": "Which 2015 film sees the Avengers fight a rogue AI built by Tony Stark?",
@@ -184,12 +205,14 @@
    "p": 200,
    "alt": [
     "Age of Ultron"
-   ]
+   ],
+   "apic": "Avengers: Age of Ultron"
   },
   {
    "q": "Who is Thor's father, the king of Asgard?",
    "a": "Odin",
-   "p": 200
+   "p": 200,
+   "apic": "Odin (Marvel Comics)"
   },
   {
    "q": "Which 2016 film splits the Avengers into two teams over the Sokovia Accords?",
@@ -197,7 +220,8 @@
    "p": 200,
    "alt": [
     "Civil War"
-   ]
+   ],
+   "apic": "Captain America: Civil War"
   },
   {
    "q": "Which literal-minded Guardian of the Galaxy is played by Dave Bautista?",
@@ -205,7 +229,8 @@
    "p": 200,
    "alt": [
     "Drax the Destroyer"
-   ]
+   ],
+   "apic": "Drax the Destroyer"
   },
   {
    "q": "Which 2017 film was Tom Holland's first solo Spider-Man film?",
@@ -213,12 +238,14 @@
    "p": 200,
    "alt": [
     "Homecoming"
-   ]
+   ],
+   "apic": "Spider-Man: Homecoming"
   },
   {
    "q": "Which hero is Carol Danvers?",
    "a": "Captain Marvel",
-   "p": 200
+   "p": 200,
+   "apic": "Carol Danvers"
   },
   {
    "q": "Which Avenger snaps his fingers with the Infinity Stones to defeat Thanos in Avengers: Endgame?",
@@ -226,12 +253,14 @@
    "p": 200,
    "alt": [
     "Tony Stark"
-   ]
+   ],
+   "apic": "Iron Man"
   },
   {
    "q": "What is the name of T'Challa's younger sister, a brilliant inventor?",
    "a": "Shuri",
-   "p": 200
+   "p": 200,
+   "apic": "Shuri (character)"
   },
   {
    "q": "Which Avenger was brainwashed by Hydra and known as the Winter Soldier?",
@@ -240,7 +269,8 @@
    "alt": [
     "James Buchanan Barnes",
     "Bucky"
-   ]
+   ],
+   "apic": "Bucky Barnes"
   },
   {
    "q": "What is the real name of the Falcon?",
@@ -254,7 +284,8 @@
    "alt": [
     "New York City",
     "Manhattan"
-   ]
+   ],
+   "apic": "New York City"
   },
   {
    "q": "Which 2011 film introduced Steve Rogers to the MCU?",
@@ -262,12 +293,14 @@
    "p": 200,
    "alt": [
     "The First Avenger"
-   ]
+   ],
+   "apic": "Captain America: The First Avenger"
   },
   {
    "q": "Which actress plays Wanda Maximoff?",
    "a": "Elizabeth Olsen",
-   "p": 200
+   "p": 200,
+   "apic": "Elizabeth Olsen"
   },
   {
    "q": "Which 2022 film sees Shuri take up the mantle of Black Panther?",
@@ -275,12 +308,14 @@
    "p": 200,
    "alt": [
     "Wakanda Forever"
-   ]
+   ],
+   "apic": "Black Panther: Wakanda Forever"
   },
   {
    "q": "Which actress plays MJ in Tom Holland's Spider-Man films?",
    "a": "Zendaya",
-   "p": 200
+   "p": 200,
+   "apic": "Zendaya"
   },
   {
    "q": "Which two earlier Spider-Man actors return in Spider-Man: No Way Home?",
@@ -290,7 +325,8 @@
   {
    "q": "Which rare metal is Wakanda rich in?",
    "a": "Vibranium",
-   "p": 200
+   "p": 200,
+   "apic": "Vibranium"
   },
   {
    "q": "What is the nickname of James Rhodes, Tony Stark's best friend?",
@@ -311,27 +347,32 @@
    "p": 200,
    "alt": [
     "Pepper"
-   ]
+   ],
+   "apic": "Pepper Potts"
   },
   {
    "q": "Which Middle Eastern dish do the Avengers eat in the post-credits scene of The Avengers (2012)?",
    "a": "Shawarma",
-   "p": 200
+   "p": 200,
+   "apic": "Shawarma"
   },
   {
    "q": "Which hero is Matt Murdock?",
    "a": "Daredevil",
-   "p": 200
+   "p": 200,
+   "apic": "Daredevil (Marvel Comics character)"
   },
   {
    "q": "What hero name does Peter Quill use?",
    "a": "Star-Lord",
-   "p": 200
+   "p": 200,
+   "apic": "Star-Lord"
   },
   {
    "q": "In which New York borough did Steve Rogers grow up?",
    "a": "Brooklyn",
-   "p": 200
+   "p": 200,
+   "apic": "Brooklyn"
   },
   {
    "q": "Into which subatomic dimension does Ant-Man shrink?",
@@ -344,12 +385,14 @@
    "p": 200,
    "alt": [
     "Stephen Strange"
-   ]
+   ],
+   "apic": "Doctor Strange"
   },
   {
    "q": "Which 2011 film introduced the god of thunder to the MCU?",
    "a": "Thor",
-   "p": 200
+   "p": 200,
+   "apic": "Thor (film)"
   },
   {
    "q": "What is the name of the Guardians' ship in the first Guardians of the Galaxy film?",
@@ -365,7 +408,8 @@
    "p": 200,
    "alt": [
     "Yelena"
-   ]
+   ],
+   "apic": "Yelena Belova"
   },
   {
    "q": "What kind of creature is Groot?",
@@ -374,12 +418,14 @@
    "alt": [
     "Flora colossus",
     "Tree-like humanoid"
-   ]
+   ],
+   "apic": "Tree"
   },
   {
    "q": "Which 2023 film is the third and final Guardians film directed by James Gunn?",
    "a": "Guardians of the Galaxy Vol. 3",
-   "p": 200
+   "p": 200,
+   "apic": "Guardians of the Galaxy Vol. 3"
   },
   {
    "q": "Which Spider-Man film is set mainly on a school trip in Europe?",
@@ -387,7 +433,8 @@
    "p": 200,
    "alt": [
     "Far From Home"
-   ]
+   ],
+   "apic": "Spider-Man: Far From Home"
   },
   {
    "q": "Who is Thor's mother?",
@@ -397,22 +444,26 @@
   {
    "q": "Which 2023 film stars Brie Larson, Iman Vellani and Teyonah Parris?",
    "a": "The Marvels",
-   "p": 200
+   "p": 200,
+   "apic": "The Marvels"
   },
   {
    "q": "Which Disney+ animated series imagines alternate versions of MCU events?",
    "a": "What If...?",
-   "p": 200
+   "p": 200,
+   "apic": "What If...? (TV series)"
   },
   {
    "q": "Which actress plays Jane Foster?",
    "a": "Natalie Portman",
-   "p": 200
+   "p": 200,
+   "apic": "Natalie Portman"
   },
   {
    "q": "Which actor plays Gorr the God Butcher?",
    "a": "Christian Bale",
-   "p": 200
+   "p": 200,
+   "apic": "Christian Bale"
   },
   {
    "q": "What is the name of Tony Stark's daughter?",
@@ -425,7 +476,8 @@
   {
    "q": "Which blue cyborg is Gamora's adopted sister?",
    "a": "Nebula",
-   "p": 200
+   "p": 200,
+   "apic": "Nebula (character)"
   },
   {
    "q": "At the end of Avengers: Endgame, which hero goes back in time to live with Peggy Carter?",
@@ -433,7 +485,8 @@
    "p": 200,
    "alt": [
     "Steve Rogers"
-   ]
+   ],
+   "apic": "Captain America"
   },
   {
    "q": "Who becomes Peter Parker's mentor in Captain America: Civil War and Homecoming?",
@@ -441,7 +494,8 @@
    "p": 200,
    "alt": [
     "Iron Man"
-   ]
+   ],
+   "apic": "Tony Stark (Marvel Cinematic Universe)"
   },
   {
    "q": "Which Infinity Stone was hidden on Vormir and required a sacrifice?",
@@ -464,7 +518,8 @@
    "p": 400,
    "alt": [
     "Natasha Romanoff"
-   ]
+   ],
+   "apic": "Black Widow (Natasha Romanova)"
   },
   {
    "q": "Which brothers directed Avengers: Infinity War and Endgame?",
@@ -473,32 +528,38 @@
    "alt": [
     "Anthony and Joe Russo",
     "Russo brothers"
-   ]
+   ],
+   "apic": "Russo brothers"
   },
   {
    "q": "Who directed Guardians of the Galaxy (2014)?",
    "a": "James Gunn",
-   "p": 400
+   "p": 400,
+   "apic": "James Gunn"
   },
   {
    "q": "Who directed Thor: Ragnarok?",
    "a": "Taika Waititi",
-   "p": 400
+   "p": 400,
+   "apic": "Taika Waititi"
   },
   {
    "q": "Who directed Black Panther (2018)?",
    "a": "Ryan Coogler",
-   "p": 400
+   "p": 400,
+   "apic": "Ryan Coogler"
   },
   {
    "q": "Who directed The Avengers (2012) and Age of Ultron?",
    "a": "Joss Whedon",
-   "p": 400
+   "p": 400,
+   "apic": "Joss Whedon"
   },
   {
    "q": "Who directed Iron Man (2008) and also plays Happy Hogan?",
    "a": "Jon Favreau",
-   "p": 400
+   "p": 400,
+   "apic": "Jon Favreau"
   },
   {
    "q": "What is the name of Thanos's ruined home planet?",
@@ -513,22 +574,26 @@
   {
    "q": "Which actor voices Ultron?",
    "a": "James Spader",
-   "p": 400
+   "p": 400,
+   "apic": "James Spader"
   },
   {
    "q": "Which actor plays Bucky Barnes, the Winter Soldier?",
    "a": "Sebastian Stan",
-   "p": 400
+   "p": 400,
+   "apic": "Sebastian Stan"
   },
   {
    "q": "Which actor plays Sam Wilson?",
    "a": "Anthony Mackie",
-   "p": 400
+   "p": 400,
+   "apic": "Anthony Mackie"
   },
   {
    "q": "Which 2021 Disney+ series sees Sam Wilson take up Captain America's shield?",
    "a": "The Falcon and the Winter Soldier",
-   "p": 400
+   "p": 400,
+   "apic": "The Falcon and the Winter Soldier"
   },
   {
    "q": "What organisation polices the timeline in the Disney+ series Loki?",
@@ -536,7 +601,8 @@
    "p": 400,
    "alt": [
     "TVA"
-   ]
+   ],
+   "apic": "Time Variance Authority"
   },
   {
    "q": "Which TVA agent is played by Owen Wilson in Loki?",
@@ -549,12 +615,14 @@
   {
    "q": "Which hero is Kamala Khan?",
    "a": "Ms. Marvel",
-   "p": 400
+   "p": 400,
+   "apic": "Kamala Khan"
   },
   {
    "q": "Which 2022 Disney+ series stars Oscar Isaac as Marc Spector?",
    "a": "Moon Knight",
-   "p": 400
+   "p": 400,
+   "apic": "Moon Knight"
   },
   {
    "q": "Which hero does Tatiana Maslany play in a 2022 Disney+ series?",
@@ -562,17 +630,20 @@
    "p": 400,
    "alt": [
     "Jennifer Walters"
-   ]
+   ],
+   "apic": "She-Hulk"
   },
   {
    "q": "What is the name of Peter Quill's father, a living planet?",
    "a": "Ego",
-   "p": 400
+   "p": 400,
+   "apic": "Ego the Living Planet"
   },
   {
    "q": "Which actress plays Pepper Potts?",
    "a": "Gwyneth Paltrow",
-   "p": 400
+   "p": 400,
+   "apic": "Gwyneth Paltrow"
   },
   {
    "q": "Which Spider-Man: Homecoming villain is played by Michael Keaton?",
@@ -580,7 +651,8 @@
    "p": 400,
    "alt": [
     "Adrian Toomes"
-   ]
+   ],
+   "apic": "Vulture (Marvel Comics)"
   },
   {
    "q": "Which Far From Home villain pretends to be a hero from another Earth?",
@@ -588,7 +660,8 @@
    "p": 400,
    "alt": [
     "Quentin Beck"
-   ]
+   ],
+   "apic": "Mysterio"
   },
   {
    "q": "What is the name of Thanos's group of loyal alien henchmen?",
@@ -596,12 +669,14 @@
    "p": 400,
    "alt": [
     "Children of Thanos"
-   ]
+   ],
+   "apic": "Black Order (comics)"
   },
   {
    "q": "Which actor played Kang the Conqueror and He Who Remains?",
    "a": "Jonathan Majors",
-   "p": 400
+   "p": 400,
+   "apic": "Jonathan Majors"
   },
   {
    "q": "Which Wakandan plant grants the Black Panther his powers?",
@@ -611,12 +686,14 @@
   {
    "q": "What is the name of Wakanda's all-female royal guard?",
    "a": "Dora Milaje",
-   "p": 400
+   "p": 400,
+   "apic": "Dora Milaje"
   },
   {
    "q": "Which actress plays Shuri?",
    "a": "Letitia Wright",
-   "p": 400
+   "p": 400,
+   "apic": "Letitia Wright"
   },
   {
    "q": "Which red cape helps Doctor Strange fly?",
@@ -626,7 +703,8 @@
   {
    "q": "Which actor played Bruce Banner in The Incredible Hulk (2008)?",
    "a": "Edward Norton",
-   "p": 400
+   "p": 400,
+   "apic": "Edward Norton"
   },
   {
    "q": "Which axe does Thor obtain in Avengers: Infinity War?",
@@ -639,7 +717,8 @@
    "p": 400,
    "alt": [
     "Steve Rogers"
-   ]
+   ],
+   "apic": "Captain America"
   },
   {
    "q": "What name is given to the five years when half of life was snapped away?",
@@ -652,7 +731,8 @@
   {
    "q": "Which alien army invades Earth in The Avengers (2012)?",
    "a": "Chitauri",
-   "p": 400
+   "p": 400,
+   "apic": "Chitauri"
   },
   {
    "q": "What is the name of Asgard's rainbow bridge?",
@@ -665,7 +745,8 @@
    "p": 400,
    "alt": [
     "Henry Pym"
-   ]
+   ],
+   "apic": "Hank Pym"
   },
   {
    "q": "Which electric-whip villain attacks Tony Stark in Iron Man 2?",
@@ -673,12 +754,14 @@
    "p": 400,
    "alt": [
     "Ivan Vanko"
-   ]
+   ],
+   "apic": "Whiplash (Marvel Comics)"
   },
   {
    "q": "In which country is Tony Stark held captive in Iron Man (2008)?",
    "a": "Afghanistan",
-   "p": 400
+   "p": 400,
+   "apic": "Afghanistan"
   },
   {
    "q": "What colour is the Power Stone?",
@@ -706,12 +789,14 @@
    "p": 400,
    "alt": [
     "Wasp"
-   ]
+   ],
+   "apic": "Hope van Dyne"
   },
   {
    "q": "Which empath Guardian is played by Pom Klementieff?",
    "a": "Mantis",
-   "p": 400
+   "p": 400,
+   "apic": "Mantis (Marvel Comics)"
   },
   {
    "q": "Which Kree villain hunts the Orb in Guardians of the Galaxy (2014)?",
@@ -719,17 +804,20 @@
    "p": 400,
    "alt": [
     "Ronan"
-   ]
+   ],
+   "apic": "Ronan the Accuser"
   },
   {
    "q": "Which 2019 film set in the 1990s shows Nick Fury before he lost an eye?",
    "a": "Captain Marvel",
-   "p": 400
+   "p": 400,
+   "apic": "Captain Marvel (film)"
   },
   {
    "q": "What hero name is used by Pietro Maximoff?",
    "a": "Quicksilver",
-   "p": 400
+   "p": 400,
+   "apic": "Quicksilver (Marvel Comics)"
   },
   {
    "q": "Which fictional Eastern European country is lifted into the sky in Age of Ultron?",
@@ -742,7 +830,8 @@
    "p": 400,
    "alt": [
     "Mandarin"
-   ]
+   ],
+   "apic": "Mandarin (character)"
   },
   {
    "q": "Who is the main villain of Iron Man (2008)?",
@@ -750,12 +839,14 @@
    "p": 400,
    "alt": [
     "Iron Monger"
-   ]
+   ],
+   "apic": "Obadiah Stane"
   },
   {
    "q": "Which British agent is Steve Rogers' love interest in The First Avenger?",
    "a": "Peggy Carter",
-   "p": 400
+   "p": 400,
+   "apic": "Peggy Carter"
   },
   {
    "q": "Which 2022 film features Gorr the God Butcher?",
@@ -763,17 +854,20 @@
    "p": 400,
    "alt": [
     "Love and Thunder"
-   ]
+   ],
+   "apic": "Thor: Love and Thunder"
   },
   {
    "q": "Which character becomes the Mighty Thor in Love and Thunder?",
    "a": "Jane Foster",
-   "p": 400
+   "p": 400,
+   "apic": "Jane Foster"
   },
   {
    "q": "Which actress plays Valkyrie?",
    "a": "Tessa Thompson",
-   "p": 400
+   "p": 400,
+   "apic": "Tessa Thompson"
   },
   {
    "q": "What is the name of the rock-bodied gladiator voiced by Taika Waititi?",
@@ -783,7 +877,8 @@
   {
    "q": "Which actor plays the Grandmaster in Thor: Ragnarok?",
    "a": "Jeff Goldblum",
-   "p": 400
+   "p": 400,
+   "apic": "Jeff Goldblum"
   },
   {
    "q": "Which Spider-Man villain does Willem Dafoe play in No Way Home?",
@@ -791,7 +886,8 @@
    "p": 400,
    "alt": [
     "Norman Osborn"
-   ]
+   ],
+   "apic": "Green Goblin"
   },
   {
    "q": "Which Spider-Man villain does Alfred Molina play?",
@@ -800,12 +896,14 @@
    "alt": [
     "Doc Ock",
     "Otto Octavius"
-   ]
+   ],
+   "apic": "Doctor Octopus"
   },
   {
    "q": "Which actress plays Yelena Belova?",
    "a": "Florence Pugh",
-   "p": 400
+   "p": 400,
+   "apic": "Florence Pugh"
   },
   {
    "q": "What is the name of the Soviet programme that trained Black Widow?",
@@ -829,12 +927,14 @@
    "p": 400,
    "alt": [
     "Yondu Udonta"
-   ]
+   ],
+   "apic": "Yondu"
   },
   {
    "q": "Which actor plays Daredevil in Daredevil: Born Again?",
    "a": "Charlie Cox",
-   "p": 400
+   "p": 400,
+   "apic": "Charlie Cox"
   },
   {
    "q": "Which crime lord does Vincent D'Onofrio play?",
@@ -842,7 +942,8 @@
    "p": 400,
    "alt": [
     "Wilson Fisk"
-   ]
+   ],
+   "apic": "Kingpin (character)"
   },
   {
    "q": "Which Civil War villain, played by Daniel Brühl, sets the Avengers against each other?",
@@ -851,12 +952,14 @@
    "alt": [
     "Baron Zemo",
     "Zemo"
-   ]
+   ],
+   "apic": "Helmut Zemo"
   },
   {
    "q": "What is the name of Tony Stark's father?",
    "a": "Howard Stark",
-   "p": 400
+   "p": 400,
+   "apic": "Howard Stark"
   },
   {
    "q": "What is the name of T'Challa's father?",
@@ -869,22 +972,26 @@
    "p": 400,
    "alt": [
     "Ironheart"
-   ]
+   ],
+   "apic": "Riri Williams"
   },
   {
    "q": "Which teenage archer, played by Hailee Steinfeld, trains with Clint Barton?",
    "a": "Kate Bishop",
-   "p": 400
+   "p": 400,
+   "apic": "Kate Bishop"
   },
   {
    "q": "Who plays the Ancient One in Doctor Strange (2016)?",
    "a": "Tilda Swinton",
-   "p": 400
+   "p": 400,
+   "apic": "Tilda Swinton"
   },
   {
    "q": "Which Wakandan rival, played by Winston Duke, leads the Jabari tribe?",
    "a": "M'Baku",
-   "p": 400
+   "p": 400,
+   "apic": "M'Baku"
   },
   {
    "q": "Which head of the Dora Milaje is played by Danai Gurira?",
@@ -894,12 +1001,14 @@
   {
    "q": "Which actor plays Ego in Guardians of the Galaxy Vol. 2?",
    "a": "Kurt Russell",
-   "p": 600
+   "p": 600,
+   "apic": "Kurt Russell"
   },
   {
    "q": "Which actor played James Rhodes in Iron Man (2008) before Don Cheadle took over?",
    "a": "Terrence Howard",
-   "p": 600
+   "p": 600,
+   "apic": "Terrence Howard"
   },
   {
    "q": "Which dwarf, played by Peter Dinklage, forges Thor's new weapon?",
@@ -914,22 +1023,26 @@
   {
    "q": "Which former villain guards the Soul Stone on Vormir?",
    "a": "Red Skull",
-   "p": 600
+   "p": 600,
+   "apic": "Red Skull"
   },
   {
    "q": "Which actor played Red Skull in Captain America: The First Avenger?",
    "a": "Hugo Weaving",
-   "p": 600
+   "p": 600,
+   "apic": "Hugo Weaving"
   },
   {
    "q": "Which film opened Phase Two of the MCU?",
    "a": "Iron Man 3",
-   "p": 600
+   "p": 600,
+   "apic": "Iron Man 3"
   },
   {
    "q": "Which film closed Phase Two of the MCU?",
    "a": "Ant-Man",
-   "p": 600
+   "p": 600,
+   "apic": "Ant-Man (film)"
   },
   {
    "q": "Which film opened Phase Five of the MCU?",
@@ -937,12 +1050,14 @@
    "p": 600,
    "alt": [
     "Quantumania"
-   ]
+   ],
+   "apic": "Ant-Man and the Wasp: Quantumania"
   },
   {
    "q": "What was the only MCU film released in cinemas in 2024?",
    "a": "Deadpool & Wolverine",
-   "p": 600
+   "p": 600,
+   "apic": "Deadpool & Wolverine"
   },
   {
    "q": "In the MCU, what does S.H.I.E.L.D. stand for?",
@@ -963,27 +1078,32 @@
    "p": 600,
    "alt": [
     "The High Evolutionary"
-   ]
+   ],
+   "apic": "High Evolutionary"
   },
   {
    "q": "Which actor plays the High Evolutionary?",
    "a": "Chukwudi Iwuji",
-   "p": 600
+   "p": 600,
+   "apic": "Chukwudi Iwuji"
   },
   {
    "q": "Which actress plays Agatha Harkness?",
    "a": "Kathryn Hahn",
-   "p": 600
+   "p": 600,
+   "apic": "Kathryn Hahn"
   },
   {
    "q": "Which Dark Elf leader is the villain of Thor: The Dark World?",
    "a": "Malekith",
-   "p": 600
+   "p": 600,
+   "apic": "Malekith"
   },
   {
    "q": "Which actor played Malekith?",
    "a": "Christopher Eccleston",
-   "p": 600
+   "p": 600,
+   "apic": "Christopher Eccleston"
   },
   {
    "q": "What is the name of Peter Parker's high school in the MCU?",
@@ -997,7 +1117,8 @@
   {
    "q": "Which actor voices the Watcher in the series What If...?",
    "a": "Jeffrey Wright",
-   "p": 600
+   "p": 600,
+   "apic": "Jeffrey Wright"
   },
   {
    "q": "What is the name of the Flerken disguised as a cat in Captain Marvel?",
@@ -1025,17 +1146,20 @@
   {
    "q": "Who directed Doctor Strange in the Multiverse of Madness?",
    "a": "Sam Raimi",
-   "p": 600
+   "p": 600,
+   "apic": "Sam Raimi"
   },
   {
    "q": "Who directed Captain America: The First Avenger?",
    "a": "Joe Johnston",
-   "p": 600
+   "p": 600,
+   "apic": "Joe Johnston"
   },
   {
    "q": "Which actor plays Thaddeus Ross, who becomes Red Hulk, in Captain America: Brave New World?",
    "a": "Harrison Ford",
-   "p": 600
+   "p": 600,
+   "apic": "Harrison Ford"
   },
   {
    "q": "What shape-shifting alien race features in Captain Marvel (2019)?",
@@ -1043,7 +1167,8 @@
    "p": 600,
    "alt": [
     "Skrull"
-   ]
+   ],
+   "apic": "Skrull"
   },
   {
    "q": "Who directed Eternals (2021)?",
@@ -1051,7 +1176,8 @@
    "p": 600,
    "alt": [
     "Chloe Zhao"
-   ]
+   ],
+   "apic": "Chloé Zhao"
   },
   {
    "q": "Which 2025 MCU film teams Yelena Belova, Bucky Barnes and other antiheroes?",
@@ -1060,7 +1186,8 @@
    "alt": [
     "Thunderbolts",
     "The New Avengers"
-   ]
+   ],
+   "apic": "Thunderbolts*"
   },
   {
    "q": "Which 2025 film brought Marvel's first family into the MCU?",
@@ -1068,32 +1195,38 @@
    "p": 600,
    "alt": [
     "Fantastic Four: First Steps"
-   ]
+   ],
+   "apic": "The Fantastic Four: First Steps"
   },
   {
    "q": "Which American city is the setting of Black Panther's 1992 flashback?",
    "a": "Oakland",
-   "p": 600
+   "p": 600,
+   "apic": "Oakland, California"
   },
   {
    "q": "Which actor played Whiplash in Iron Man 2?",
    "a": "Mickey Rourke",
-   "p": 600
+   "p": 600,
+   "apic": "Mickey Rourke"
   },
   {
    "q": "Which actor plays Namor in Wakanda Forever?",
    "a": "Tenoch Huerta",
-   "p": 600
+   "p": 600,
+   "apic": "Tenoch Huerta"
   },
   {
    "q": "Which actor plays Quicksilver in Avengers: Age of Ultron?",
    "a": "Aaron Taylor-Johnson",
-   "p": 600
+   "p": 600,
+   "apic": "Aaron Taylor-Johnson"
   },
   {
    "q": "Which actor plays Trevor Slattery?",
    "a": "Ben Kingsley",
-   "p": 600
+   "p": 600,
+   "apic": "Ben Kingsley"
   },
   {
    "q": "Which Iron Man 3 villain founded Advanced Idea Mechanics?",
@@ -1103,12 +1236,14 @@
   {
    "q": "Which actor played Obadiah Stane?",
    "a": "Jeff Bridges",
-   "p": 600
+   "p": 600,
+   "apic": "Jeff Bridges"
   },
   {
    "q": "Which actress plays Peggy Carter?",
    "a": "Hayley Atwell",
-   "p": 600
+   "p": 600,
+   "apic": "Hayley Atwell"
   },
   {
    "q": "Which deaf hero, played by Alaqua Cox, got her own 2024 Disney+ series?",
@@ -1121,7 +1256,8 @@
   {
    "q": "Which actor plays Wenwu in Shang-Chi?",
    "a": "Tony Leung",
-   "p": 600
+   "p": 600,
+   "apic": "Tony Leung Chiu-wai"
   },
   {
    "q": "What is the name of the hidden mystical village in Shang-Chi?",
@@ -1131,22 +1267,26 @@
   {
    "q": "In which country is New Asgard located?",
    "a": "Norway",
-   "p": 600
+   "p": 600,
+   "apic": "Norway"
   },
   {
    "q": "Which Deadpool & Wolverine villain is Charles Xavier's twin sister?",
    "a": "Cassandra Nova",
-   "p": 600
+   "p": 600,
+   "apic": "Cassandra Nova"
   },
   {
    "q": "Which actress plays Cassandra Nova?",
    "a": "Emma Corrin",
-   "p": 600
+   "p": 600,
+   "apic": "Emma Corrin"
   },
   {
    "q": "Which actor plays Red Guardian in Black Widow?",
    "a": "David Harbour",
-   "p": 600
+   "p": 600,
+   "apic": "David Harbour"
   },
   {
    "q": "Which masked villain mimics fighting styles in Black Widow (2021)?",
@@ -1166,27 +1306,32 @@
   {
    "q": "Which actor plays Yondu?",
    "a": "Michael Rooker",
-   "p": 600
+   "p": 600,
+   "apic": "Michael Rooker"
   },
   {
    "q": "In which US state did Peter Quill grow up?",
    "a": "Missouri",
-   "p": 600
+   "p": 600,
+   "apic": "Missouri"
   },
   {
    "q": "Which actor plays John Walker, the U.S. Agent?",
    "a": "Wyatt Russell",
-   "p": 600
+   "p": 600,
+   "apic": "Wyatt Russell"
   },
   {
    "q": "What is Kamala Khan's home city?",
    "a": "Jersey City",
-   "p": 600
+   "p": 600,
+   "apic": "Jersey City, New Jersey"
   },
   {
    "q": "Which Egyptian moon god gives Moon Knight his powers?",
    "a": "Khonshu",
-   "p": 600
+   "p": 600,
+   "apic": "Khonshu"
   },
   {
    "q": "What is the name of Marc Spector's mild-mannered gift-shop alter ego?",
@@ -1196,7 +1341,8 @@
   {
    "q": "Which unit of soldiers does Captain America lead in World War II?",
    "a": "Howling Commandos",
-   "p": 600
+   "p": 600,
+   "apic": "Howling Commandos"
   },
   {
    "q": "Which scientist created the super-soldier serum given to Steve Rogers?",
@@ -1209,12 +1355,14 @@
   {
    "q": "Which actress plays Maria Hill?",
    "a": "Cobie Smulders",
-   "p": 600
+   "p": 600,
+   "apic": "Cobie Smulders"
   },
   {
    "q": "Which actor plays Agent Phil Coulson?",
    "a": "Clark Gregg",
-   "p": 600
+   "p": 600,
+   "apic": "Clark Gregg"
   },
   {
    "q": "What is the name of Hela's giant wolf in Thor: Ragnarok?",
@@ -1224,7 +1372,8 @@
   {
    "q": "Which actor plays Kraglin, Yondu's first mate?",
    "a": "Sean Gunn",
-   "p": 600
+   "p": 600,
+   "apic": "Sean Gunn"
   },
   {
    "q": "What is the name of the Avengers' upstate New York headquarters destroyed in Endgame?",
@@ -1241,17 +1390,20 @@
    "p": 600,
    "alt": [
     "New York Sanctum"
-   ]
+   ],
+   "apic": "Sanctum Sanctorum"
   },
   {
    "q": "Which actor plays Doctor Strange's rival Karl Mordo?",
    "a": "Chiwetel Ejiofor",
-   "p": 600
+   "p": 600,
+   "apic": "Chiwetel Ejiofor"
   },
   {
    "q": "Which Hydra leader in The Winter Soldier is played by Robert Redford?",
    "a": "Alexander Pierce",
-   "p": 600
+   "p": 600,
+   "apic": "Robert Redford"
   },
   {
    "q": "Which hidden underwater nation is ruled by Namor?",
@@ -1261,7 +1413,8 @@
   {
    "q": "Which actor plays Doctor Strange's ally Wong?",
    "a": "Benedict Wong",
-   "p": 600
+   "p": 600,
+   "apic": "Benedict Wong"
   }
  ]
 }

@@ -9,12 +9,14 @@
    "alt": [
     "George RR Martin",
     "GRRM"
-   ]
+   ],
+   "apic": "George R. R. Martin"
   },
   {
    "q": "Which TV network made and aired Game of Thrones?",
    "a": "HBO",
-   "p": 200
+   "p": 200,
+   "apic": "HBO"
   },
   {
    "q": "Which noble house has a grey direwolf as its sigil?",
@@ -23,7 +25,8 @@
    "alt": [
     "Stark",
     "The Starks"
-   ]
+   ],
+   "pic": "Winterfell"
   },
   {
    "q": "What animal appears on the sigil of House Lannister?",
@@ -32,7 +35,8 @@
    "alt": [
     "Lion",
     "Golden lion"
-   ]
+   ],
+   "apic": "Lion"
   },
   {
    "q": "What creature appears on the sigil of House Targaryen?",
@@ -59,22 +63,26 @@
    "alt": [
     "Daenerys",
     "Dany"
-   ]
+   ],
+   "apic": "Daenerys Targaryen"
   },
   {
    "q": "Which actress played Daenerys Targaryen?",
    "a": "Emilia Clarke",
-   "p": 200
+   "p": 200,
+   "apic": "Emilia Clarke"
   },
   {
    "q": "Which actor played Jon Snow?",
    "a": "Kit Harington",
-   "p": 200
+   "p": 200,
+   "apic": "Kit Harington"
   },
   {
    "q": "Which actor played Tyrion Lannister?",
    "a": "Peter Dinklage",
-   "p": 200
+   "p": 200,
+   "apic": "Peter Dinklage"
   },
   {
    "q": "What is the name of the seat of the king, forged from swords?",
@@ -124,27 +132,32 @@
    "p": 200,
    "alt": [
     "Drogo"
-   ]
+   ],
+   "apic": "Khal Drogo"
   },
   {
    "q": "Which actor played Khal Drogo?",
    "a": "Jason Momoa",
-   "p": 200
+   "p": 200,
+   "apic": "Jason Momoa"
   },
   {
    "q": "Which actress played Arya Stark?",
    "a": "Maisie Williams",
-   "p": 200
+   "p": 200,
+   "apic": "Maisie Williams"
   },
   {
    "q": "Which actress played Sansa Stark?",
    "a": "Sophie Turner",
-   "p": 200
+   "p": 200,
+   "apic": "Sophie Turner"
   },
   {
    "q": "Which actor played Ned Stark?",
    "a": "Sean Bean",
-   "p": 200
+   "p": 200,
+   "apic": "Sean Bean"
   },
   {
    "q": "Which youngest Stark daughter refuses to be a lady and learns to fight?",
@@ -152,17 +165,20 @@
    "p": 200,
    "alt": [
     "Arya"
-   ]
+   ],
+   "apic": "Arya Stark"
   },
   {
    "q": "What is the name of Arya's small sword, a gift from Jon?",
    "a": "Needle",
-   "p": 200
+   "p": 200,
+   "pic": "Arya Stark"
   },
   {
    "q": "What is the name of Jon Snow's white direwolf?",
    "a": "Ghost",
-   "p": 200
+   "p": 200,
+   "pic": "Jon Snow (character)"
   },
   {
    "q": "Who is King of the Seven Kingdoms at the start of the series?",
@@ -171,12 +187,14 @@
    "alt": [
     "King Robert",
     "Robert"
-   ]
+   ],
+   "apic": "Robert Baratheon"
   },
   {
    "q": "Which gentle giant at Winterfell can only say one word?",
    "a": "Hodor",
-   "p": 200
+   "p": 200,
+   "apic": "Hodor"
   },
   {
    "q": "What title is given to the king's chief adviser, who wears a pin?",
@@ -193,7 +211,8 @@
    "p": 200,
    "alt": [
     "Brienne"
-   ]
+   ],
+   "apic": "Brienne of Tarth"
   },
   {
    "q": "Who is the icy leader of the White Walkers in the show?",
@@ -201,7 +220,8 @@
    "p": 200,
    "alt": [
     "Night King"
-   ]
+   ],
+   "apic": "Night King"
   },
   {
    "q": "Who defeats the Night King at the Battle of Winterfell?",
@@ -209,7 +229,8 @@
    "p": 200,
    "alt": [
     "Arya"
-   ]
+   ],
+   "apic": "Arya Stark"
   },
   {
    "q": "What is the infamous massacre at the Twins, in season three, commonly called?",
@@ -227,7 +248,8 @@
     "Eddard Stark",
     "Eddard",
     "Ned"
-   ]
+   ],
+   "apic": "Eddard Stark"
   },
   {
    "q": "How many seasons did Game of Thrones run?",
@@ -263,7 +285,8 @@
   {
    "q": "What is the name of Daenerys's largest dragon?",
    "a": "Drogon",
-   "p": 200
+   "p": 200,
+   "pic": "Daenerys Targaryen"
   },
   {
    "q": "What do the Night's Watch call the people who live beyond the Wall?",
@@ -285,7 +308,8 @@
    "p": 200,
    "alt": [
     "Jaime"
-   ]
+   ],
+   "apic": "Jaime Lannister"
   },
   {
    "q": "Which cruel boy king is Cersei's eldest son?",
@@ -293,7 +317,8 @@
    "p": 200,
    "alt": [
     "Joffrey"
-   ]
+   ],
+   "apic": "Joffrey Baratheon"
   },
   {
    "q": "Which Stark son becomes the Three-Eyed Raven?",
@@ -302,7 +327,8 @@
    "alt": [
     "Bran",
     "Brandon Stark"
-   ]
+   ],
+   "apic": "Bran Stark"
   },
   {
    "q": "Which Stark daughter becomes Queen in the North in the finale?",
@@ -310,7 +336,8 @@
    "p": 200,
    "alt": [
     "Sansa"
-   ]
+   ],
+   "apic": "Sansa Stark"
   },
   {
    "q": "Who is crowned King of the Six Kingdoms in the final episode?",
@@ -319,7 +346,8 @@
    "alt": [
     "Bran",
     "Bran the Broken"
-   ]
+   ],
+   "apic": "Bran Stark"
   },
   {
    "q": "What do the Starks keep warning is coming, as their family words?",
@@ -335,7 +363,8 @@
    "p": 200,
    "alt": [
     "Cersei"
-   ]
+   ],
+   "apic": "Cersei Lannister"
   },
   {
    "q": "Which Lannister is nicknamed the Imp?",
@@ -343,7 +372,8 @@
    "p": 200,
    "alt": [
     "Tyrion"
-   ]
+   ],
+   "apic": "Tyrion Lannister"
   },
   {
    "q": "What nickname did Jaime earn by killing the Mad King?",
@@ -364,7 +394,8 @@
   {
    "q": "Which prequel series about House Targaryen premiered on HBO in 2022?",
    "a": "House of the Dragon",
-   "p": 200
+   "p": 200,
+   "apic": "House of the Dragon"
   },
   {
    "q": "Which Targaryen princess is named heir by her father in House of the Dragon?",
@@ -372,7 +403,8 @@
    "p": 200,
    "alt": [
     "Rhaenyra"
-   ]
+   ],
+   "apic": "Rhaenyra Targaryen"
   },
   {
    "q": "Which Lannister lord, father of Cersei, Jaime and Tyrion, rules from Casterly Rock?",
@@ -380,12 +412,14 @@
    "p": 200,
    "alt": [
     "Tywin"
-   ]
+   ],
+   "apic": "Tywin Lannister"
   },
   {
    "q": "Which actor played Robb Stark, the King in the North?",
    "a": "Richard Madden",
-   "p": 200
+   "p": 200,
+   "apic": "Richard Madden"
   },
   {
    "q": "In which season of Game of Thrones does Ned Stark die?",
@@ -408,7 +442,8 @@
    "p": 200,
    "alt": [
     "The Red Woman"
-   ]
+   ],
+   "apic": "Melisandre"
   },
   {
    "q": "Which blacksmith's apprentice turns out to be King Robert's son?",
@@ -417,7 +452,8 @@
    "alt": [
     "Gendry Baratheon",
     "Gendry Waters"
-   ]
+   ],
+   "apic": "Gendry"
   },
   {
    "q": "Which bookish friend of Jon Snow at the Wall later trains at the Citadel?",
@@ -426,7 +462,8 @@
    "alt": [
     "Sam",
     "Sam Tarly"
-   ]
+   ],
+   "apic": "Samwell Tarly"
   },
   {
    "q": "Which red-bearded wildling becomes Jon's ally and admires Brienne?",
@@ -442,7 +479,8 @@
    "p": 200,
    "alt": [
     "Theon"
-   ]
+   ],
+   "apic": "Theon Greyjoy"
   },
   {
    "q": "What legendary sword metal can shatter a White Walker?",
@@ -455,7 +493,8 @@
    "p": 200,
    "alt": [
     "Lord Varys"
-   ]
+   ],
+   "apic": "Varys"
   },
   {
    "q": "Which scheming Master of Coin is nicknamed Littlefinger?",
@@ -464,7 +503,8 @@
    "alt": [
     "Littlefinger",
     "Baelish"
-   ]
+   ],
+   "apic": "Petyr Baelish"
   },
   {
    "q": "What do the undead warriors raised by the White Walkers get called?",
@@ -483,7 +523,8 @@
    "alt": [
     "Direwolves",
     "Wolf"
-   ]
+   ],
+   "apic": "Dire wolf"
   },
   {
    "q": "Who is Daenerys's older brother, who sells her into marriage to Drogo?",
@@ -491,7 +532,8 @@
    "p": 200,
    "alt": [
     "Viserys"
-   ]
+   ],
+   "apic": "Viserys Targaryen"
   },
   {
    "q": "In which city does Arya train with the Faceless Men?",
@@ -504,17 +546,20 @@
    "p": 200,
    "alt": [
     "The Red Woman"
-   ]
+   ],
+   "apic": "Melisandre"
   },
   {
    "q": "Which British actor played Tywin Lannister?",
    "a": "Charles Dance",
-   "p": 200
+   "p": 200,
+   "apic": "Charles Dance"
   },
   {
    "q": "Which actress played Cersei Lannister?",
    "a": "Lena Headey",
-   "p": 200
+   "p": 200,
+   "apic": "Lena Headey"
   },
   {
    "q": "Which elite eunuch soldiers does Daenerys free and lead?",
@@ -531,7 +576,8 @@
    "alt": [
     "Sandor",
     "The Hound"
-   ]
+   ],
+   "apic": "Sandor Clegane"
   },
   {
    "q": "Which country provided most of the studio work and locations for Game of Thrones?",
@@ -540,7 +586,8 @@
    "alt": [
     "UK",
     "United Kingdom"
-   ]
+   ],
+   "apic": "Northern Ireland"
   },
   {
    "q": "What are the icy, ancient enemies from beyond the Wall called in the show?",
@@ -559,7 +606,8 @@
   {
    "q": "Which actor played Oberyn Martell?",
    "a": "Pedro Pascal",
-   "p": 400
+   "p": 400,
+   "apic": "Pedro Pascal"
   },
   {
    "q": "Which Stark is the eldest son and heir of Ned?",
@@ -567,7 +615,8 @@
    "p": 200,
    "alt": [
     "Robb"
-   ]
+   ],
+   "apic": "Robb Stark"
   },
   {
    "q": "Who kills Daenerys in the final episode?",
@@ -576,12 +625,14 @@
    "alt": [
     "Jon",
     "Aegon Targaryen"
-   ]
+   ],
+   "apic": "Jon Snow (character)"
   },
   {
    "q": "What is the overall title of George R. R. Martin's book series?",
    "a": "A Song of Ice and Fire",
-   "p": 400
+   "p": 400,
+   "apic": "A Song of Ice and Fire"
   },
   {
    "q": "What creature appears on the sigil of House Greyjoy?",
@@ -590,7 +641,8 @@
    "alt": [
     "Kraken",
     "Golden kraken"
-   ]
+   ],
+   "apic": "Kraken"
   },
   {
    "q": "What flower appears on the sigil of House Tyrell?",
@@ -599,12 +651,14 @@
    "alt": [
     "Rose",
     "Golden rose"
-   ]
+   ],
+   "apic": "Rose"
   },
   {
    "q": "Which actor played Jaime Lannister?",
    "a": "Nikolaj Coster-Waldau",
-   "p": 400
+   "p": 400,
+   "apic": "Nikolaj Coster-Waldau"
   },
   {
    "q": "Which of Daenerys's dragons is raised from the dead by the Night King?",
@@ -619,7 +673,8 @@
   {
    "q": "What is the name of Arya's direwolf?",
    "a": "Nymeria",
-   "p": 400
+   "p": 400,
+   "pic": "Arya Stark"
   },
   {
    "q": "Which Faceless Man does Arya first meet on the road and later train with in Braavos?",
@@ -636,12 +691,14 @@
    "alt": [
     "Gregor",
     "Ser Gregor"
-   ]
+   ],
+   "apic": "Gregor Clegane"
   },
   {
    "q": "Which actress played Brienne of Tarth?",
    "a": "Gwendoline Christie",
-   "p": 400
+   "p": 400,
+   "apic": "Gwendoline Christie"
   },
   {
    "q": "What volcanic glass can kill White Walkers?",
@@ -673,7 +730,8 @@
    "p": 400,
    "alt": [
     "Rhaegar"
-   ]
+   ],
+   "pic": "Jon Snow (character)"
   },
   {
    "q": "Which old lord of the Twins hosts the Red Wedding?",
@@ -681,7 +739,8 @@
    "p": 400,
    "alt": [
     "Lord Frey"
-   ]
+   ],
+   "apic": "Walder Frey"
   },
   {
    "q": "Which king dies at his own wedding feast, dubbed the Purple Wedding?",
@@ -690,7 +749,8 @@
    "alt": [
     "Joffrey",
     "King Joffrey"
-   ]
+   ],
+   "apic": "Joffrey Baratheon"
   },
   {
    "q": "In which season-six battle does Jon fight Ramsay Bolton for Winterfell?",
@@ -718,7 +778,8 @@
   {
    "q": "Which actress, who played the wildling Ygritte, married Kit Harington?",
    "a": "Rose Leslie",
-   "p": 400
+   "p": 400,
+   "apic": "Rose Leslie"
   },
   {
    "q": "What new name and broken identity does Ramsay force on Theon?",
@@ -759,7 +820,8 @@
   {
    "q": "What is the name of Jon Snow's Valyrian steel sword?",
    "a": "Longclaw",
-   "p": 400
+   "p": 400,
+   "pic": "Jon Snow (character)"
   },
   {
    "q": "Which exiled knight serves Daenerys from the start and later catches greyscale?",
@@ -768,7 +830,8 @@
    "alt": [
     "Ser Jorah",
     "Jorah"
-   ]
+   ],
+   "apic": "Jorah Mormont"
   },
   {
    "q": "Which commander of the Unsullied is close to Missandei?",
@@ -776,12 +839,14 @@
    "p": 400,
    "alt": [
     "Torgo Nudho"
-   ]
+   ],
+   "apic": "Grey Worm"
   },
   {
    "q": "Which translator becomes one of Daenerys's most trusted advisers?",
    "a": "Missandei",
-   "p": 400
+   "p": 400,
+   "apic": "Missandei"
   },
   {
    "q": "In which city in Slaver's Bay does Daenerys rule for several seasons?",
@@ -810,7 +875,8 @@
    "p": 400,
    "alt": [
     "High Sparrow"
-   ]
+   ],
+   "apic": "High Sparrow"
   },
   {
    "q": "What is the main religion of southern Westeros?",
@@ -855,7 +921,8 @@
   {
    "q": "Who composed the Game of Thrones theme music?",
    "a": "Ramin Djawadi",
-   "p": 400
+   "p": 400,
+   "apic": "Ramin Djawadi"
   },
   {
    "q": "How many episodes of Game of Thrones were made in total?",
@@ -882,17 +949,20 @@
    "alt": [
     "Benioff and Weiss",
     "D. B. Weiss and David Benioff"
-   ]
+   ],
+   "apic": "David Benioff"
   },
   {
    "q": "Which walled Croatian city stood in for King's Landing?",
    "a": "Dubrovnik",
-   "p": 400
+   "p": 400,
+   "apic": "Dubrovnik"
   },
   {
    "q": "Which Nordic island country provided many of the snowy scenes beyond the Wall?",
    "a": "Iceland",
-   "p": 400
+   "p": 400,
+   "apic": "Iceland"
   },
   {
    "q": "Roughly how many years before Game of Thrones is House of the Dragon set?",
@@ -910,7 +980,8 @@
    "p": 400,
    "alt": [
     "Fire and Blood"
-   ]
+   ],
+   "apic": "Fire & Blood (novel)"
   },
   {
    "q": "What is the Targaryen civil war in House of the Dragon called?",
@@ -941,12 +1012,14 @@
   {
    "q": "Which actor played Daemon Targaryen?",
    "a": "Matt Smith",
-   "p": 400
+   "p": 400,
+   "apic": "Matt Smith"
   },
   {
    "q": "Which performer played the adult Rhaenyra Targaryen?",
    "a": "Emma D'Arcy",
-   "p": 400
+   "p": 400,
+   "apic": "Emma D'Arcy"
   },
   {
    "q": "Who is Rhaenyra's childhood friend who becomes her stepmother?",
@@ -954,7 +1027,8 @@
    "p": 400,
    "alt": [
     "Alicent"
-   ]
+   ],
+   "apic": "Alicent Hightower"
   },
   {
    "q": "Which one-eyed prince rides the dragon Vhagar?",
@@ -989,27 +1063,32 @@
   {
    "q": "What is the title of the first book in A Song of Ice and Fire?",
    "a": "A Game of Thrones",
-   "p": 400
+   "p": 400,
+   "apic": "A Game of Thrones"
   },
   {
    "q": "What is the title of the second book in A Song of Ice and Fire?",
    "a": "A Clash of Kings",
-   "p": 400
+   "p": 400,
+   "apic": "A Clash of Kings"
   },
   {
    "q": "What is the title of the third book in A Song of Ice and Fire?",
    "a": "A Storm of Swords",
-   "p": 400
+   "p": 400,
+   "apic": "A Storm of Swords"
   },
   {
    "q": "What is the title of the fourth book in A Song of Ice and Fire?",
    "a": "A Feast for Crows",
-   "p": 400
+   "p": 400,
+   "apic": "A Feast for Crows"
   },
   {
    "q": "What is the title of the fifth book in A Song of Ice and Fire, published in 2011?",
    "a": "A Dance with Dragons",
-   "p": 400
+   "p": 400,
+   "apic": "A Dance with Dragons"
   },
   {
    "q": "What is the title of the planned sixth book in A Song of Ice and Fire?",
@@ -1026,7 +1105,8 @@
    "alt": [
     "Right",
     "Right hand"
-   ]
+   ],
+   "pic": "Jaime Lannister"
   },
   {
    "q": "Which Targaryen king, Daenerys's father, was known as the Mad King?",
@@ -1048,7 +1128,8 @@
   {
    "q": "Which sellsword becomes Tyrion's loyal friend and later Master of Coin?",
    "a": "Bronn",
-   "p": 400
+   "p": 400,
+   "pic": "Tyrion Lannister"
   },
   {
    "q": "Which young king follows Joffrey on the Iron Throne?",
@@ -1056,7 +1137,8 @@
    "p": 400,
    "alt": [
     "Tommen"
-   ]
+   ],
+   "apic": "Tommen Baratheon"
   },
   {
    "q": "Which linguist created the Dothraki and High Valyrian languages for the show?",
@@ -1064,7 +1146,8 @@
    "p": 400,
    "alt": [
     "David Peterson"
-   ]
+   ],
+   "apic": "David J. Peterson"
   },
   {
    "q": "What is the surname given to highborn bastards in Dorne?",
@@ -1103,7 +1186,8 @@
    "alt": [
     "Catelyn",
     "Catelyn Tully"
-   ]
+   ],
+   "apic": "Catelyn Stark"
   },
   {
    "q": "How many trueborn children do Ned and Catelyn Stark have?",
@@ -1125,12 +1209,14 @@
    "alt": [
     "Ramsay Bolton",
     "Ramsay Snow"
-   ]
+   ],
+   "pic": "Ramsay Bolton"
   },
   {
    "q": "Which actor played Ramsay Bolton?",
    "a": "Iwan Rheon",
-   "p": 600
+   "p": 600,
+   "apic": "Iwan Rheon"
   },
   {
    "q": "What do the Ironborn worship, a god of the sea?",
@@ -1175,12 +1261,14 @@
     "Ser Davos",
     "Davos",
     "The Onion Knight"
-   ]
+   ],
+   "apic": "Davos Seaworth"
   },
   {
    "q": "What was the name of Bran's direwolf?",
    "a": "Summer",
-   "p": 600
+   "p": 600,
+   "pic": "Bran Stark"
   },
   {
    "q": "In House of the Dragon, which House is Alicent from, with a lighthouse tower sigil?",
@@ -1193,7 +1281,8 @@
   {
    "q": "Which actor played Hodor?",
    "a": "Kristian Nairn",
-   "p": 600
+   "p": 600,
+   "apic": "Kristian Nairn"
   },
   {
    "q": "What is the name of the royal castle of the Targaryens and Baratheons in King's Landing?",
@@ -1222,7 +1311,8 @@
    "p": 400,
    "alt": [
     "Mance"
-   ]
+   ],
+   "apic": "Mance Rayder"
   },
   {
    "q": "What is the name of the wildling settlement where Jon witnesses a massacre by the dead in season five?",
@@ -1236,7 +1326,8 @@
    "alt": [
     "Trout",
     "Leaping trout"
-   ]
+   ],
+   "apic": "Trout"
   },
   {
    "q": "What appears on the sigil of House Martell?",
@@ -1254,17 +1345,20 @@
    "alt": [
     "Falcon",
     "Moon and falcon"
-   ]
+   ],
+   "apic": "Falcon"
   },
   {
    "q": "Which actor played Bran Stark?",
    "a": "Isaac Hempstead Wright",
-   "p": 600
+   "p": 600,
+   "apic": "Isaac Hempstead Wright"
   },
   {
    "q": "Which actor played King Joffrey?",
    "a": "Jack Gleeson",
-   "p": 600
+   "p": 600,
+   "apic": "Jack Gleeson"
   },
   {
    "q": "Who was Arya's sword-fighting teacher in King's Landing, the former First Sword of Braavos?",
@@ -1277,12 +1371,14 @@
   {
    "q": "What was the name of Sansa's direwolf?",
    "a": "Lady",
-   "p": 600
+   "p": 600,
+   "pic": "Sansa Stark"
   },
   {
    "q": "What was the name of Robb Stark's direwolf?",
    "a": "Grey Wind",
-   "p": 600
+   "p": 600,
+   "pic": "Robb Stark"
   },
   {
    "q": "What was the name of Rickon Stark's direwolf?",
@@ -1341,7 +1437,8 @@
    "alt": [
     "Olenna",
     "Lady Olenna"
-   ]
+   ],
+   "apic": "Olenna Tyrell"
   },
   {
    "q": "Which actress played Olenna Tyrell?",
@@ -1349,12 +1446,14 @@
    "p": 600,
    "alt": [
     "Dame Diana Rigg"
-   ]
+   ],
+   "apic": "Diana Rigg"
   },
   {
    "q": "Which actress played Margaery Tyrell?",
    "a": "Natalie Dormer",
-   "p": 600
+   "p": 600,
+   "apic": "Natalie Dormer"
   },
   {
    "q": "What is the seat of House Baratheon in the Stormlands?",
@@ -1430,12 +1529,14 @@
    "alt": [
     "Ser Barristan",
     "Barristan the Bold"
-   ]
+   ],
+   "apic": "Barristan Selmy"
   },
   {
    "q": "Which actor played the High Sparrow?",
    "a": "Jonathan Pryce",
-   "p": 600
+   "p": 600,
+   "apic": "Jonathan Pryce"
   },
   {
    "q": "Which giant fights for Jon at the Battle of the Bastards?",
@@ -1475,12 +1576,14 @@
   {
    "q": "Which Mediterranean island country stood in for King's Landing in season one?",
    "a": "Malta",
-   "p": 600
+   "p": 600,
+   "apic": "Malta"
   },
   {
    "q": "Which Moroccan coastal town was used for Astapor?",
    "a": "Essaouira",
-   "p": 600
+   "p": 600,
+   "apic": "Essaouira"
   },
   {
    "q": "Which tree-lined road in Northern Ireland played the Kingsroad?",
@@ -1488,7 +1591,8 @@
    "p": 600,
    "alt": [
     "Dark Hedges"
-   ]
+   ],
+   "apic": "Dark Hedges"
   },
   {
    "q": "How many Emmys did Peter Dinklage win for playing Tyrion?",
@@ -1496,17 +1600,20 @@
    "p": 600,
    "alt": [
     "4"
-   ]
+   ],
+   "pic": "Peter Dinklage"
   },
   {
    "q": "Which actor played King Viserys I in House of the Dragon?",
    "a": "Paddy Considine",
-   "p": 600
+   "p": 600,
+   "apic": "Paddy Considine"
   },
   {
    "q": "Which actress played the young Rhaenyra in House of the Dragon?",
    "a": "Milly Alcock",
-   "p": 600
+   "p": 600,
+   "apic": "Milly Alcock"
   },
   {
    "q": "What is the name of Rhaenyra's golden dragon?",
@@ -1546,7 +1653,8 @@
    "alt": [
     "Seahorse",
     "Sea horse"
-   ]
+   ],
+   "apic": "Seahorse"
   },
   {
    "q": "Which Targaryen princess is known as the Queen Who Never Was?",
@@ -1586,7 +1694,8 @@
   {
    "q": "Which shared-world superhero anthology series does George R. R. Martin edit?",
    "a": "Wild Cards",
-   "p": 600
+   "p": 600,
+   "apic": "Wild Cards"
   },
   {
    "q": "What do the initials R. R. stand for in George R. R. Martin's name?",
@@ -1601,7 +1710,8 @@
   {
    "q": "Which actress starred in the unmade prequel pilot known as Bloodmoon?",
    "a": "Naomi Watts",
-   "p": 600
+   "p": 600,
+   "apic": "Naomi Watts"
   },
   {
    "q": "What is the surname given to highborn bastards in the Crownlands?",
@@ -1642,7 +1752,8 @@
    "p": 600,
    "alt": [
     "Euron"
-   ]
+   ],
+   "apic": "Euron Greyjoy"
   },
   {
    "q": "Which Bolton lord, Ramsay's father, takes part in the Red Wedding?",
@@ -1650,22 +1761,26 @@
    "p": 600,
    "alt": [
     "Roose"
-   ]
+   ],
+   "apic": "Roose Bolton"
   },
   {
    "q": "Which actress played Catelyn Stark?",
    "a": "Michelle Fairley",
-   "p": 600
+   "p": 600,
+   "apic": "Michelle Fairley"
   },
   {
    "q": "Which actor played the Hound?",
    "a": "Rory McCann",
-   "p": 600
+   "p": 600,
+   "apic": "Rory McCann"
   },
   {
    "q": "Which actor played Bronn?",
    "a": "Jerome Flynn",
-   "p": 600
+   "p": 600,
+   "apic": "Jerome Flynn"
   },
   {
    "q": "Which Kingsguard knight, the Knight of Flowers, is Margaery's brother?",
@@ -1674,7 +1789,8 @@
    "alt": [
     "Loras",
     "Ser Loras"
-   ]
+   ],
+   "apic": "Loras Tyrell"
   },
   {
    "q": "Who is Oberyn Martell's partner, mother of several of the Sand Snakes?",
@@ -1770,7 +1886,8 @@
    "p": 200,
    "alt": [
     "Cersei"
-   ]
+   ],
+   "apic": "Cersei Lannister"
   },
   {
    "q": "What does Hodor hold shut so that Bran can escape the dead in season six?",
@@ -1811,7 +1928,8 @@
    "p": 200,
    "alt": [
     "Stannis"
-   ]
+   ],
+   "apic": "Stannis Baratheon"
   },
   {
    "q": "What colour hair are Targaryens usually shown with?",
@@ -1839,7 +1957,8 @@
    "p": 200,
    "alt": [
     "Jaime"
-   ]
+   ],
+   "apic": "Jaime Lannister"
   },
   {
    "q": "Which creatures were believed extinct before Daenerys's eggs hatched?",
@@ -1855,7 +1974,8 @@
    "p": 200,
    "alt": [
     "Jon"
-   ]
+   ],
+   "apic": "Jon Snow (character)"
   },
   {
    "q": "Which youngest Baratheon brother claims the crown with the backing of the Tyrells?",
@@ -1863,7 +1983,8 @@
    "p": 400,
    "alt": [
     "Renly"
-   ]
+   ],
+   "apic": "Renly Baratheon"
   },
   {
    "q": "In which Slaver's Bay city does Daenerys acquire the Unsullied?",
@@ -1882,17 +2003,20 @@
   {
    "q": "Which actor played Theon Greyjoy?",
    "a": "Alfie Allen",
-   "p": 400
+   "p": 400,
+   "apic": "Alfie Allen"
   },
   {
    "q": "Which actor played Littlefinger?",
    "a": "Aidan Gillen",
-   "p": 400
+   "p": 400,
+   "apic": "Aidan Gillen"
   },
   {
    "q": "Which actor played Jorah Mormont?",
    "a": "Iain Glen",
-   "p": 400
+   "p": 400,
+   "apic": "Iain Glen"
   },
   {
    "q": "Which great holy building in King's Landing does Cersei destroy with wildfire?",
@@ -1915,12 +2039,14 @@
   {
    "q": "Which actor played Ser Davos Seaworth?",
    "a": "Liam Cunningham",
-   "p": 600
+   "p": 600,
+   "apic": "Liam Cunningham"
   },
   {
    "q": "Which actress played Melisandre?",
    "a": "Carice van Houten",
-   "p": 600
+   "p": 600,
+   "apic": "Carice van Houten"
   }
  ]
 }

@@ -9,32 +9,40 @@
    "alt": [
     "Walt",
     "Walter"
-   ]
+   ],
+   "apic": "Walter White (Breaking Bad)"
   },
   {
    "q": "Which actor played Walter White?",
    "a": "Bryan Cranston",
-   "p": 200
+   "p": 200,
+   "apic": "Bryan Cranston"
   },
   {
    "q": "Which actor played Jesse Pinkman?",
    "a": "Aaron Paul",
-   "p": 200
+   "p": 200,
+   "apic": "Aaron Paul"
   },
   {
    "q": "What alias, borrowed from a famous physicist, does Walter use in the drug trade?",
    "a": "Heisenberg",
-   "p": 200
+   "p": 200,
+   "apic": "Werner Heisenberg"
   },
   {
    "q": "In which US city is Breaking Bad set?",
    "a": "Albuquerque",
-   "p": 200
+   "p": 200,
+   "pic": "Breaking Bad",
+   "apic": "Albuquerque, New Mexico"
   },
   {
    "q": "In which US state is Breaking Bad set?",
    "a": "New Mexico",
-   "p": 200
+   "p": 200,
+   "pic": "Breaking Bad",
+   "apic": "New Mexico"
   },
   {
    "q": "What is the name of the fried chicken restaurant chain run by Gus Fring?",
@@ -42,7 +50,8 @@
    "p": 200,
    "alt": [
     "Pollos Hermanos"
-   ]
+   ],
+   "apic": "Los Pollos Hermanos"
   },
   {
    "q": "Which calm businessman secretly runs a drug empire behind his chicken restaurants?",
@@ -51,7 +60,8 @@
    "alt": [
     "Gustavo Fring",
     "Gus"
-   ]
+   ],
+   "apic": "Gus Fring"
   },
   {
    "q": "Which lawyer, known for his loud TV adverts, helps Walt and Jesse?",
@@ -59,12 +69,14 @@
    "p": 200,
    "alt": [
     "Saul"
-   ]
+   ],
+   "apic": "Saul Goodman (Breaking Bad)"
   },
   {
    "q": "Which actor played Saul Goodman?",
    "a": "Bob Odenkirk",
-   "p": 200
+   "p": 200,
+   "apic": "Bob Odenkirk"
   },
   {
    "q": "What is Saul Goodman's real name?",
@@ -73,17 +85,22 @@
    "alt": [
     "James McGill",
     "James Morgan McGill"
-   ]
+   ],
+   "apic": "Saul Goodman (Breaking Bad)"
   },
   {
    "q": "Which US cable channel originally aired Breaking Bad?",
    "a": "AMC",
-   "p": 200
+   "p": 200,
+   "pic": "Breaking Bad",
+   "apic": "AMC (TV channel)"
   },
   {
    "q": "Who created Breaking Bad?",
    "a": "Vince Gilligan",
-   "p": 200
+   "p": 200,
+   "pic": "Breaking Bad",
+   "apic": "Vince Gilligan"
   },
   {
    "q": "Which DEA agent is Walter's brother-in-law?",
@@ -91,12 +108,14 @@
    "p": 200,
    "alt": [
     "Hank"
-   ]
+   ],
+   "apic": "Hank Schrader"
   },
   {
    "q": "What is the first name of Walter White's wife?",
    "a": "Skyler",
-   "p": 200
+   "p": 200,
+   "apic": "Skyler White"
   },
   {
    "q": "What illness is Walter diagnosed with in the first episode?",
@@ -120,12 +139,14 @@
     "Camper van",
     "Motorhome",
     "Winnebago"
-   ]
+   ],
+   "apic": "Recreational vehicle"
   },
   {
    "q": "What is the name of the Breaking Bad spin-off about Saul's earlier life?",
    "a": "Better Call Saul",
-   "p": 200
+   "p": 200,
+   "apic": "Better Call Saul"
   },
   {
    "q": "What subject did Walter White teach at high school?",
@@ -138,12 +159,14 @@
    "p": 200,
    "alt": [
     "Mike"
-   ]
+   ],
+   "apic": "Mike Ehrmantraut"
   },
   {
    "q": "What is the first name of Hank's wife, Skyler's sister?",
    "a": "Marie",
-   "p": 200
+   "p": 200,
+   "apic": "Marie Schrader"
   },
   {
    "q": "How many seasons did Breaking Bad run?",
@@ -159,12 +182,14 @@
    "p": 200,
    "alt": [
     "El Camino: A Breaking Bad Movie"
-   ]
+   ],
+   "apic": "El Camino: A Breaking Bad Movie"
   },
   {
    "q": "Which streaming service released El Camino?",
    "a": "Netflix",
-   "p": 200
+   "p": 200,
+   "apic": "Netflix"
   },
   {
    "q": "What does Hector Salamanca ring to communicate from his wheelchair?",
@@ -181,7 +206,8 @@
    "alt": [
     "Periodic table",
     "Periodic table of elements"
-   ]
+   ],
+   "apic": "Periodic table"
   },
   {
    "q": "What business do Walt and Skyler buy to clean their money?",
@@ -190,7 +216,8 @@
    "alt": [
     "Car wash",
     "A1A Car Wash"
-   ]
+   ],
+   "apic": "Car wash"
   },
   {
    "q": "What does Walt angrily throw onto the roof of his house in season three?",
@@ -207,7 +234,8 @@
    "alt": [
     "Hal",
     "Malcolm in the Middle"
-   ]
+   ],
+   "apic": "Malcolm in the Middle"
   },
   {
    "q": "Who is Jimmy McGill's older brother, a respected lawyer?",
@@ -216,7 +244,8 @@
    "alt": [
     "Chuck",
     "Charles McGill"
-   ]
+   ],
+   "apic": "Chuck McGill"
   },
   {
    "q": "Which lawyer, played by Rhea Seehorn, is Jimmy McGill's partner in Better Call Saul?",
@@ -224,12 +253,14 @@
    "p": 200,
    "alt": [
     "Kim"
-   ]
+   ],
+   "apic": "Kim Wexler"
   },
   {
    "q": "Which actor played Gus Fring?",
    "a": "Giancarlo Esposito",
-   "p": 200
+   "p": 200,
+   "apic": "Giancarlo Esposito"
   },
   {
    "q": "What is the name of Walt and Skyler's teenage son?",
@@ -239,7 +270,8 @@
     "Walter Jr.",
     "Flynn",
     "Walt Jr."
-   ]
+   ],
+   "apic": "Walter White Jr."
   },
   {
    "q": "What is the name of Walt and Skyler's baby daughter?",
@@ -252,7 +284,8 @@
   {
    "q": "What kind of animal is the 'Pollo' in Los Pollos Hermanos?",
    "a": "Chicken",
-   "p": 200
+   "p": 200,
+   "apic": "Chicken"
   },
   {
    "q": "Which US government agency does Hank Schrader work for?",
@@ -261,7 +294,8 @@
    "alt": [
     "DEA",
     "Drug Enforcement Administration"
-   ]
+   ],
+   "apic": "Drug Enforcement Administration"
   },
   {
    "q": "Which skinny young former student becomes Walter's partner?",
@@ -269,7 +303,8 @@
    "p": 200,
    "alt": [
     "Jesse"
-   ]
+   ],
+   "apic": "Jesse Pinkman"
   },
   {
    "q": "What item of clothing does Walt put on to become Heisenberg?",
@@ -288,22 +323,26 @@
    "alt": [
     "Hazmat suit",
     "Hazmat"
-   ]
+   ],
+   "apic": "Hazmat suit"
   },
   {
    "q": "Which country is Gus Fring originally from?",
    "a": "Chile",
-   "p": 200
+   "p": 200,
+   "apic": "Chile"
   },
   {
    "q": "Which actor played Mike Ehrmantraut?",
    "a": "Jonathan Banks",
-   "p": 200
+   "p": 200,
+   "apic": "Jonathan Banks"
   },
   {
    "q": "Which chain bakery does Saul end up managing after Breaking Bad?",
    "a": "Cinnabon",
-   "p": 200
+   "p": 200,
+   "apic": "Cinnabon"
   },
   {
    "q": "In which US city does Saul hide out working at a shopping mall?",
@@ -311,7 +350,8 @@
    "p": 200,
    "alt": [
     "Omaha, Nebraska"
-   ]
+   ],
+   "apic": "Omaha, Nebraska"
   },
   {
    "q": "What is the name of Jesse's girlfriend in season two, his landlord?",
@@ -350,12 +390,14 @@
   {
    "q": "Which actor played Hank Schrader?",
    "a": "Dean Norris",
-   "p": 200
+   "p": 200,
+   "apic": "Dean Norris"
   },
   {
    "q": "Which actress played Skyler White?",
    "a": "Anna Gunn",
-   "p": 200
+   "p": 200,
+   "apic": "Anna Gunn"
   },
   {
    "q": "Which Salamanca, Hector's charming nephew, is a main villain in Better Call Saul?",
@@ -363,7 +405,8 @@
    "p": 200,
    "alt": [
     "Lalo"
-   ]
+   ],
+   "apic": "Lalo Salamanca"
   },
   {
    "q": "Which young man, played by Michael Mando, works for the Salamancas in Better Call Saul?",
@@ -371,7 +414,8 @@
    "p": 200,
    "alt": [
     "Nacho"
-   ]
+   ],
+   "apic": "Nacho Varga"
   },
   {
    "q": "What does Hank Schrader collect as a hobby while recovering from his injuries?",
@@ -380,7 +424,8 @@
    "alt": [
     "Rocks",
     "Rock collection"
-   ]
+   ],
+   "apic": "Mineral"
   },
   {
    "q": "Which colour does Marie Schrader wear almost all the time?",
@@ -390,12 +435,14 @@
   {
    "q": "Which state does Jesse escape to at the end of El Camino?",
    "a": "Alaska",
-   "p": 200
+   "p": 200,
+   "apic": "Alaska"
   },
   {
    "q": "Which state does Walt flee to, hiding in a remote cabin?",
    "a": "New Hampshire",
-   "p": 200
+   "p": 200,
+   "apic": "New Hampshire"
   },
   {
    "q": "Which German-sounding pest control firm do Walt and Jesse use as cover in season five?",
@@ -438,7 +485,8 @@
    "p": 200,
    "alt": [
     "R. J. Mitte"
-   ]
+   ],
+   "apic": "RJ Mitte"
   },
   {
    "q": "Which milestone birthday does Walt celebrate in the pilot?",
@@ -480,7 +528,8 @@
   {
    "q": "Which actor played Chuck McGill?",
    "a": "Michael McKean",
-   "p": 400
+   "p": 400,
+   "apic": "Michael McKean"
   },
   {
    "q": "What does Chuck McGill believe he is allergic to?",
@@ -494,7 +543,8 @@
   {
    "q": "Which actress played Kim Wexler?",
    "a": "Rhea Seehorn",
-   "p": 400
+   "p": 400,
+   "apic": "Rhea Seehorn"
   },
   {
    "q": "Who is Hank's DEA partner, played by Steven Michael Quezada?",
@@ -508,7 +558,8 @@
   {
    "q": "Which actor played Lalo Salamanca?",
    "a": "Tony Dalton",
-   "p": 400
+   "p": 400,
+   "apic": "Tony Dalton"
   },
   {
    "q": "Under which kind of business does Gus hide his giant underground lab?",
@@ -534,12 +585,14 @@
    "p": 400,
    "alt": [
     "Todd"
-   ]
+   ],
+   "apic": "Todd Alquist"
   },
   {
    "q": "Which actor played Todd Alquist?",
    "a": "Jesse Plemons",
-   "p": 400
+   "p": 400,
+   "apic": "Jesse Plemons"
   },
   {
    "q": "What is the title of the final episode of Breaking Bad?",
@@ -585,7 +638,9 @@
   {
    "q": "Who co-created Better Call Saul with Vince Gilligan?",
    "a": "Peter Gould",
-   "p": 400
+   "p": 400,
+   "pic": "Better Call Saul",
+   "apic": "Peter Gould"
   },
   {
    "q": "What was the name of the science company Walt co-founded and left early?",
@@ -599,7 +654,8 @@
   {
    "q": "Which actress played Jane Margolis?",
    "a": "Krysten Ritter",
-   "p": 400
+   "p": 400,
+   "apic": "Krysten Ritter"
   },
   {
    "q": "What is Jane's father's job, linked to the plane crash at the end of season two?",
@@ -617,12 +673,14 @@
   {
    "q": "Which plant does Walt use to make Brock ill?",
    "a": "Lily of the valley",
-   "p": 400
+   "p": 400,
+   "apic": "Convallaria majalis"
   },
   {
    "q": "Which deadly toxin does Walt make more than once, from castor beans?",
    "a": "Ricin",
-   "p": 400
+   "p": 400,
+   "apic": "Ricin"
   },
   {
    "q": "What inflatable landmark sits on the roof of Saul's strip-mall office in Better Call Saul?",
@@ -630,7 +688,8 @@
    "p": 400,
    "alt": [
     "Statue of Liberty"
-   ]
+   ],
+   "apic": "Statue of Liberty"
   },
   {
    "q": "What alias does Saul use while working in Omaha?",
@@ -662,7 +721,8 @@
    "p": 400,
    "alt": [
     "Cicero, Illinois"
-   ]
+   ],
+   "apic": "Cicero, Illinois"
   },
   {
    "q": "What is the name of Chuck's law firm, where Jimmy works in the mailroom?",
@@ -679,7 +739,8 @@
    "p": 400,
    "alt": [
     "Howard"
-   ]
+   ],
+   "apic": "Howard Hamlin"
   },
   {
    "q": "Which large bodyguard works for Saul and is played by Lavell Crawford?",
@@ -696,7 +757,8 @@
    "alt": [
     "Krazy 8",
     "Domingo"
-   ]
+   ],
+   "apic": "Krazy-8"
   },
   {
    "q": "What does the Spanish name Los Pollos Hermanos mean in English?",
@@ -717,7 +779,8 @@
    "p": 400,
    "alt": [
     "Aztek"
-   ]
+   ],
+   "apic": "Pontiac Aztek"
   },
   {
    "q": "At what kind of booth does Mike work as an attendant in Better Call Saul?",
@@ -732,17 +795,20 @@
   {
    "q": "For which city's police department did Mike Ehrmantraut once work?",
    "a": "Philadelphia",
-   "p": 400
+   "p": 400,
+   "apic": "Philadelphia"
   },
   {
    "q": "Which collection of poems does Hank find in Walt's bathroom, leading to his discovery?",
    "a": "Leaves of Grass",
-   "p": 400
+   "p": 400,
+   "apic": "Leaves of Grass"
   },
   {
    "q": "Which poet wrote the book Hank finds in Walt's bathroom?",
    "a": "Walt Whitman",
-   "p": 400
+   "p": 400,
+   "apic": "Walt Whitman"
   },
   {
    "q": "Which season-three bottle episode sees Walt hunting an insect in the lab?",
@@ -755,7 +821,8 @@
   {
    "q": "Which chemical do Walt and his crew steal from a moving train?",
    "a": "Methylamine",
-   "p": 400
+   "p": 400,
+   "apic": "Methylamine"
   },
   {
    "q": "What spice does Jesse add to his own cook as a 'signature'?",
@@ -797,7 +864,8 @@
    "p": 400,
    "alt": [
     "X-Files"
-   ]
+   ],
+   "apic": "The X-Files"
   },
   {
    "q": "What does Hector Salamanca's family call him, the Spanish word for uncle?",
@@ -822,7 +890,8 @@
    "p": 400,
    "alt": [
     "Chevy"
-   ]
+   ],
+   "apic": "Chevrolet"
   },
   {
    "q": "Which element, atomic number 56, supplies the first two letters of the title's second word?",
@@ -830,7 +899,8 @@
    "p": 400,
    "alt": [
     "Ba"
-   ]
+   ],
+   "apic": "Barium"
   },
   {
    "q": "Which company is the fictional German parent of Los Pollos Hermanos?",
@@ -843,7 +913,8 @@
   {
    "q": "Which actor played Tuco Salamanca?",
    "a": "Raymond Cruz",
-   "p": 600
+   "p": 600,
+   "apic": "Raymond Cruz"
   },
   {
    "q": "What kind of business is Ed's front, where people go to 'disappear'?",
@@ -858,7 +929,8 @@
   {
    "q": "Which actor played Ed the disappearer?",
    "a": "Robert Forster",
-   "p": 400
+   "p": 400,
+   "apic": "Robert Forster"
   },
   {
    "q": "Who is the head of the Mexican cartel that Gus supplies, seen hosting at his pool?",
@@ -918,7 +990,8 @@
    "p": 400,
    "alt": [
     "Brandon Mayhew"
-   ]
+   ],
+   "apic": "Badger Mayhew"
   },
   {
    "q": "Which Madrigal executive becomes Walt's methylamine supplier in season five?",
@@ -961,12 +1034,14 @@
   {
    "q": "Which actor played Howard Hamlin?",
    "a": "Patrick Fabian",
-   "p": 600
+   "p": 600,
+   "apic": "Patrick Fabian"
   },
   {
    "q": "Which actress played Marie Schrader?",
    "a": "Betsy Brandt",
-   "p": 600
+   "p": 600,
+   "apic": "Betsy Brandt"
   },
   {
    "q": "Which law firm hires Jimmy in Santa Fe, giving him a company car?",
@@ -1039,7 +1114,8 @@
   {
    "q": "Which actor played Tortuga, a cartel informant?",
    "a": "Danny Trejo",
-   "p": 600
+   "p": 600,
+   "apic": "Danny Trejo"
   },
   {
    "q": "Which cartel middleman, working for Don Eladio, deals with Gus in both series?",
@@ -1068,7 +1144,8 @@
   {
    "q": "Which future Star Wars director helmed Fly and Ozymandias?",
    "a": "Rian Johnson",
-   "p": 600
+   "p": 600,
+   "apic": "Rian Johnson"
   },
   {
    "q": "Which car does Walt buy for himself when he becomes rich, a black sedan?",
@@ -1076,7 +1153,8 @@
    "p": 600,
    "alt": [
     "Chrysler 300 SRT8"
-   ]
+   ],
+   "apic": "Chrysler 300"
   },
   {
    "q": "What model of small car does Jimmy drive in Better Call Saul?",
@@ -1084,7 +1162,8 @@
    "p": 600,
    "alt": [
     "Esteem"
-   ]
+   ],
+   "apic": "Suzuki Cultus Crescent"
   },
   {
    "q": "What is the name of Mike's son, a police officer?",
@@ -1159,7 +1238,8 @@
    "alt": [
     "Nobel Prize",
     "Nobel"
-   ]
+   ],
+   "apic": "Nobel Prize"
   },
   {
    "q": "On what date is Walt's birthday in the show?",
@@ -1188,7 +1268,8 @@
   {
    "q": "Which actor played Huell Babineaux?",
    "a": "Lavell Crawford",
-   "p": 600
+   "p": 600,
+   "apic": "Lavell Crawford"
   },
   {
    "q": "How many Emmys did Aaron Paul win for playing Jesse?",
@@ -1225,7 +1306,8 @@
   {
    "q": "Which 2025 Apple TV+ series created by Vince Gilligan stars Rhea Seehorn?",
    "a": "Pluribus",
-   "p": 600
+   "p": 600,
+   "apic": "Pluribus (TV series)"
   },
   {
    "q": "Which poet wrote the sonnet Ozymandias?",
@@ -1234,7 +1316,8 @@
    "alt": [
     "Shelley",
     "Percy Shelley"
-   ]
+   ],
+   "apic": "Percy Bysshe Shelley"
   },
   {
    "q": "On which Navajo land does Walt bury his barrels of money?",
@@ -1255,12 +1338,14 @@
   {
    "q": "Who is the actor who played Gale Boetticher?",
    "a": "David Costabile",
-   "p": 600
+   "p": 600,
+   "apic": "David Costabile"
   },
   {
    "q": "Who played Lydia Rodarte-Quayle?",
    "a": "Laura Fraser",
-   "p": 600
+   "p": 600,
+   "apic": "Laura Fraser"
   },
   {
    "q": "Which Breaking Bad season-two episode is set mostly in the desert with a dead RV battery?",
@@ -1281,7 +1366,8 @@
   {
    "q": "Which actor played Hector Salamanca?",
    "a": "Mark Margolis",
-   "p": 600
+   "p": 600,
+   "apic": "Mark Margolis"
   },
   {
    "q": "What is the name of the Better Call Saul episode in which Jimmy humiliates Chuck in a bar hearing?",
@@ -1301,7 +1387,8 @@
   {
    "q": "Which actor played Steve Gomez?",
    "a": "Steven Michael Quezada",
-   "p": 600
+   "p": 600,
+   "apic": "Steven Michael Quezada"
   },
   {
    "q": "What is the first name of Jimmy's old scam partner and best friend from Cicero?",
@@ -1340,7 +1427,8 @@
   {
    "q": "In which country is the cartel that the Salamancas work for based?",
    "a": "Mexico",
-   "p": 200
+   "p": 200,
+   "apic": "Mexico"
   },
   {
    "q": "Which wheelchair-bound Salamanca elder takes his revenge on Gus?",
@@ -1370,7 +1458,8 @@
   {
    "q": "Better Call Saul is a prequel to which series?",
    "a": "Breaking Bad",
-   "p": 200
+   "p": 200,
+   "apic": "Breaking Bad"
   },
   {
    "q": "Which illegal drug does Walter White start making?",
@@ -1379,7 +1468,8 @@
    "alt": [
     "Meth",
     "Crystal meth"
-   ]
+   ],
+   "apic": "Methamphetamine"
   },
   {
    "q": "Which main character dies in the final episode of Breaking Bad?",
@@ -1388,7 +1478,8 @@
    "alt": [
     "Walt",
     "Heisenberg"
-   ]
+   ],
+   "apic": "Walter White (Breaking Bad)"
   },
   {
    "q": "What street name does Walt's product get because of its colour?",
@@ -1424,7 +1515,8 @@
    "p": 600,
    "alt": [
     "Challenger"
-   ]
+   ],
+   "apic": "Dodge Challenger"
   }
  ]
 }

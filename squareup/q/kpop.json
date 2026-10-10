@@ -5,7 +5,8 @@
   {
    "q": "Which K-pop boy group's fans are called ARMY?",
    "a": "BTS",
-   "p": 200
+   "p": 200,
+   "apic": "BTS"
   },
   {
    "q": "Which K-pop girl group's fans are called BLINK?",
@@ -13,12 +14,14 @@
    "p": 200,
    "alt": [
     "Black Pink"
-   ]
+   ],
+   "apic": "Blackpink"
   },
   {
    "q": "Which South Korean singer had a viral 2012 hit with a horse-riding dance?",
    "a": "PSY",
-   "p": 200
+   "p": 200,
+   "apic": "Psy"
   },
   {
    "q": "PSY's dance in \"Gangnam Style\" imitates riding which animal?",
@@ -26,12 +29,15 @@
    "p": 200,
    "alt": [
     "Horse"
-   ]
+   ],
+   "pic": "Psy"
   },
   {
    "q": "In which city is the Gangnam district, made famous by PSY?",
    "a": "Seoul",
-   "p": 200
+   "p": 200,
+   "pic": "Psy",
+   "apic": "Seoul"
   },
   {
    "q": "How many members are in BTS?",
@@ -39,7 +45,8 @@
    "p": 200,
    "alt": [
     "7"
-   ]
+   ],
+   "pic": "BTS"
   },
   {
    "q": "How many members are in BLACKPINK?",
@@ -47,12 +54,14 @@
    "p": 200,
    "alt": [
     "4"
-   ]
+   ],
+   "pic": "Blackpink"
   },
   {
    "q": "Which BLACKPINK member was born in Thailand?",
    "a": "Lisa",
-   "p": 200
+   "p": 200,
+   "apic": "Lisa (rapper)"
   },
   {
    "q": "Which BLACKPINK member released the 2024 hit \"APT.\" with Bruno Mars?",
@@ -60,17 +69,20 @@
    "p": 200,
    "alt": [
     "Rose"
-   ]
+   ],
+   "apic": "Rosé (singer)"
   },
   {
    "q": "Which American singer duetted with Rosé on the 2024 hit \"APT.\"?",
    "a": "Bruno Mars",
-   "p": 200
+   "p": 200,
+   "apic": "Bruno Mars"
   },
   {
    "q": "Which 2020 BTS single was the group's first song sung entirely in English?",
    "a": "Dynamite",
-   "p": 200
+   "p": 200,
+   "apic": "Dynamite (BTS song)"
   },
   {
    "q": "Which BTS member is the youngest in the group?",
@@ -79,7 +91,8 @@
    "alt": [
     "Jeon Jungkook",
     "Jeon Jung-kook"
-   ]
+   ],
+   "apic": "Jungkook"
   },
   {
    "q": "What is the stage name of BTS leader Kim Nam-joon?",
@@ -87,7 +100,9 @@
    "p": 200,
    "alt": [
     "Rap Monster"
-   ]
+   ],
+   "pic": "BTS",
+   "apic": "RM (rapper)"
   },
   {
    "q": "What does the \"K\" in K-pop stand for?",
@@ -100,42 +115,50 @@
   {
    "q": "Which BLACKPINK member released the 2023 solo single \"Flower\"?",
    "a": "Jisoo",
-   "p": 200
+   "p": 200,
+   "apic": "Jisoo"
   },
   {
    "q": "Which BTS member released the 2023 solo hit \"Seven\" featuring Latto?",
    "a": "Jungkook",
-   "p": 200
+   "p": 200,
+   "apic": "Jungkook"
   },
   {
    "q": "Which BTS member sang \"Dreamers\" at the opening ceremony of the 2022 FIFA World Cup in Qatar?",
    "a": "Jungkook",
-   "p": 200
+   "p": 200,
+   "apic": "Jungkook"
   },
   {
    "q": "Which girl group released \"How You Like That\" in 2020?",
    "a": "BLACKPINK",
-   "p": 200
+   "p": 200,
+   "apic": "Blackpink"
   },
   {
    "q": "Which boy group released \"Butter\" in 2021?",
    "a": "BTS",
-   "p": 200
+   "p": 200,
+   "apic": "BTS"
   },
   {
    "q": "Which K-pop group's fandom is called ONCE?",
    "a": "TWICE",
-   "p": 200
+   "p": 200,
+   "apic": "Twice (group)"
   },
   {
    "q": "Which K-pop group's fans are called STAY?",
    "a": "Stray Kids",
-   "p": 200
+   "p": 200,
+   "apic": "Stray Kids"
   },
   {
    "q": "Which K-pop group includes Jisoo, Jennie, Rosé and Lisa?",
    "a": "BLACKPINK",
-   "p": 200
+   "p": 200,
+   "apic": "Blackpink"
   },
   {
    "q": "Which boy group, led by G-Dragon, released \"Fantastic Baby\"?",
@@ -143,7 +166,8 @@
    "p": 200,
    "alt": [
     "BIGBANG"
-   ]
+   ],
+   "apic": "Big Bang (South Korean band)"
   },
   {
    "q": "What is the stage name of Big Bang's leader Kwon Ji-yong?",
@@ -151,7 +175,8 @@
    "p": 200,
    "alt": [
     "GD"
-   ]
+   ],
+   "apic": "G-Dragon"
   },
   {
    "q": "Which BLACKPINK member, born in New Zealand and raised in Australia, has the real name Park Chae-young?",
@@ -159,7 +184,8 @@
    "p": 200,
    "alt": [
     "Rose"
-   ]
+   ],
+   "apic": "Rosé (singer)"
   },
   {
    "q": "Which colour is most associated with BTS and its ARMY fandom?",
@@ -180,7 +206,8 @@
    "p": 200,
    "alt": [
     "K-Pop Demon Hunters"
-   ]
+   ],
+   "apic": "KPop Demon Hunters"
   },
   {
    "q": "Which BTS song, a 2017 single, shares its name with the genetic molecule?",
@@ -194,7 +221,8 @@
    "alt": [
     "Big Hit",
     "Big Hit Entertainment"
-   ]
+   ],
+   "apic": "Hybe Corporation"
   },
   {
    "q": "Which K-pop agency, founded by Yang Hyun-suk, manages BLACKPINK?",
@@ -202,7 +230,8 @@
    "p": 200,
    "alt": [
     "YG"
-   ]
+   ],
+   "apic": "YG Entertainment"
   },
   {
    "q": "Which K-pop agency, founded by Park Jin-young, manages TWICE and Stray Kids?",
@@ -210,7 +239,8 @@
    "p": 200,
    "alt": [
     "JYP"
-   ]
+   ],
+   "apic": "JYP Entertainment"
   },
   {
    "q": "Which K-pop agency, founded by Lee Soo-man, manages EXO?",
@@ -218,32 +248,38 @@
    "p": 200,
    "alt": [
     "SM"
-   ]
+   ],
+   "apic": "SM Entertainment"
   },
   {
    "q": "Which BTS member's real name is Kim Taehyung?",
    "a": "V",
-   "p": 200
+   "p": 200,
+   "apic": "V (singer)"
   },
   {
    "q": "In 2023, BLACKPINK became the first Asian act to headline which California music festival?",
    "a": "Coachella",
-   "p": 200
+   "p": 200,
+   "apic": "Coachella"
   },
   {
    "q": "Which British band, together with BTS, released the 2021 single \"My Universe\"?",
    "a": "Coldplay",
-   "p": 200
+   "p": 200,
+   "apic": "Coldplay"
   },
   {
    "q": "Which American pop star featured on BLACKPINK's 2020 single \"Ice Cream\"?",
    "a": "Selena Gomez",
-   "p": 200
+   "p": 200,
+   "apic": "Selena Gomez"
   },
   {
    "q": "Which BLACKPINK member starred in the third season of HBO's \"The White Lotus\"?",
    "a": "Lisa",
-   "p": 200
+   "p": 200,
+   "apic": "Lisa (rapper)"
   },
   {
    "q": "PSY's \"Gangnam Style\" became the first YouTube video to reach how many views?",
@@ -262,7 +298,8 @@
   {
    "q": "Which K-pop girl group includes Nayeon, Sana and Tzuyu?",
    "a": "TWICE",
-   "p": 200
+   "p": 200,
+   "apic": "Twice (group)"
   },
   {
    "q": "In K-pop, what is someone called who trains at an agency before debuting?",
@@ -320,12 +357,14 @@
   {
    "q": "Which streaming service released the 2025 film \"KPop Demon Hunters\"?",
    "a": "Netflix",
-   "p": 200
+   "p": 200,
+   "apic": "Netflix"
   },
   {
    "q": "Which JYP boy group attended the 2024 Met Gala in New York?",
    "a": "Stray Kids",
-   "p": 600
+   "p": 600,
+   "apic": "Stray Kids"
   },
   {
    "q": "What is the name of the lead heroine of \"KPop Demon Hunters\"?",
@@ -348,17 +387,20 @@
   {
    "q": "Which girl group released \"Kill This Love\" in 2019?",
    "a": "BLACKPINK",
-   "p": 200
+   "p": 200,
+   "apic": "Blackpink"
   },
   {
    "q": "Which girl group released \"Fancy\" and \"What Is Love?\"",
    "a": "TWICE",
-   "p": 200
+   "p": 200,
+   "apic": "Twice (group)"
   },
   {
    "q": "Which boy group released \"Fake Love\" and \"Idol\" in 2018?",
    "a": "BTS",
-   "p": 200
+   "p": 200,
+   "apic": "BTS"
   },
   {
    "q": "What Korean word for \"older brother\" do female fans often use for male idols?",
@@ -371,12 +413,14 @@
    "p": 200,
    "alt": [
     "Hangeul"
-   ]
+   ],
+   "apic": "Hangul"
   },
   {
    "q": "Which BTS member is the oldest in the group?",
    "a": "Jin",
-   "p": 200
+   "p": 200,
+   "apic": "Jin (singer)"
   },
   {
    "q": "Which BTS song is named after a season of the year?",
@@ -386,12 +430,14 @@
   {
    "q": "Which boy group released \"Love Shot\" and \"Growl\"?",
    "a": "EXO",
-   "p": 200
+   "p": 200,
+   "apic": "Exo (group)"
   },
   {
    "q": "Which boy group released \"Maniac\" and \"S-Class\"?",
    "a": "Stray Kids",
-   "p": 400
+   "p": 400,
+   "apic": "Stray Kids"
   },
   {
    "q": "Which TWICE song from 2016 is named after a cheerleading call?",
@@ -406,17 +452,22 @@
   {
    "q": "Which American rapper featured on Jungkook's 2023 single \"Seven\"?",
    "a": "Latto",
-   "p": 400
+   "p": 400,
+   "pic": "Jungkook",
+   "apic": "Latto"
   },
   {
    "q": "Which American DJ remixed BTS's \"Mic Drop\" in 2017?",
    "a": "Steve Aoki",
-   "p": 400
+   "p": 400,
+   "pic": "BTS",
+   "apic": "Steve Aoki"
   },
   {
    "q": "Which BLACKPINK member released the 2024 solo single \"Rockstar\"?",
    "a": "Lisa",
-   "p": 400
+   "p": 400,
+   "apic": "Lisa (rapper)"
   },
   {
    "q": "What kind of TV show, such as \"Produce 101\" or \"Sixteen\", has contestants compete to join a new group?",
@@ -435,7 +486,9 @@
   {
    "q": "Which American rapper appears in PSY's 2014 single \"Hangover\"?",
    "a": "Snoop Dogg",
-   "p": 600
+   "p": 600,
+   "pic": "Psy",
+   "apic": "Snoop Dogg"
   },
   {
    "q": "In 2017, BTS gave its name a new English meaning: \"Beyond the\" what?",
@@ -450,12 +503,14 @@
   {
    "q": "In which year did BTS debut?",
    "a": "2013",
-   "p": 400
+   "p": 400,
+   "pic": "BTS"
   },
   {
    "q": "In which year did BLACKPINK debut?",
    "a": "2016",
-   "p": 400
+   "p": 400,
+   "pic": "Blackpink"
   },
   {
    "q": "BTS stands for \"Bangtan Sonyeondan\". What does that translate to in English?",
@@ -480,7 +535,8 @@
    "p": 400,
    "alt": [
     "Kim Namjoon"
-   ]
+   ],
+   "apic": "RM (rapper)"
   },
   {
    "q": "Which BTS member releases solo music under the name Agust D?",
@@ -488,7 +544,8 @@
    "p": 400,
    "alt": [
     "Min Yoongi"
-   ]
+   ],
+   "apic": "Suga (rapper)"
   },
   {
    "q": "Which BTS member was the first to enlist for military service, in December 2022?",
@@ -496,7 +553,8 @@
    "p": 400,
    "alt": [
     "Kim Seokjin"
-   ]
+   ],
+   "apic": "Jin (singer)"
   },
   {
    "q": "What is the name of BTS's official light stick?",
@@ -565,7 +623,8 @@
    "p": 400,
    "alt": [
     "Thirteen"
-   ]
+   ],
+   "pic": "Seventeen (South Korean band)"
   },
   {
    "q": "How many members are in TWICE?",
@@ -573,7 +632,8 @@
    "p": 200,
    "alt": [
     "9"
-   ]
+   ],
+   "pic": "Twice (group)"
   },
   {
    "q": "Three members of TWICE come from which country?",
@@ -583,7 +643,8 @@
   {
    "q": "Stray Kids leader Bang Chan grew up in which country?",
    "a": "Australia",
-   "p": 400
+   "p": 400,
+   "pic": "Stray Kids"
   },
   {
    "q": "Which Stray Kids member, raised in Sydney, is famous for his very deep voice?",
@@ -599,27 +660,32 @@
    "p": 400,
    "alt": [
     "YG"
-   ]
+   ],
+   "apic": "YG Entertainment"
   },
   {
    "q": "Which boy group includes Hyunjin, Han and Felix?",
    "a": "Stray Kids",
-   "p": 200
+   "p": 200,
+   "apic": "Stray Kids"
   },
   {
    "q": "Which boy group includes Hoshi, Woozi and Mingyu?",
    "a": "SEVENTEEN",
-   "p": 400
+   "p": 400,
+   "apic": "Seventeen (South Korean band)"
   },
   {
    "q": "Which boy group includes Baekhyun, Chanyeol and Kai?",
    "a": "EXO",
-   "p": 200
+   "p": 200,
+   "apic": "Exo (group)"
   },
   {
    "q": "Which girl group includes Minji, Hanni and Haerin?",
    "a": "NewJeans",
-   "p": 200
+   "p": 200,
+   "apic": "NewJeans"
   },
   {
    "q": "Which boy group includes T.O.P, Taeyang and Daesung?",
@@ -627,22 +693,26 @@
    "p": 400,
    "alt": [
     "BIGBANG"
-   ]
+   ],
+   "apic": "Big Bang (South Korean band)"
   },
   {
    "q": "Which Big Bang member's stage name means \"sun\" in Korean?",
    "a": "Taeyang",
-   "p": 400
+   "p": 400,
+   "apic": "Taeyang"
   },
   {
    "q": "Which girl group includes Karina and Winter?",
    "a": "aespa",
-   "p": 200
+   "p": 200,
+   "apic": "Aespa"
   },
   {
    "q": "Which girl group includes Irene, Seulgi and Wendy?",
    "a": "Red Velvet",
-   "p": 400
+   "p": 400,
+   "apic": "Red Velvet (group)"
   },
   {
    "q": "Which girl group released the 2009 hit \"Gee\"?",
@@ -651,12 +721,14 @@
    "alt": [
     "SNSD",
     "Girls Generation"
-   ]
+   ],
+   "apic": "Girls' Generation"
   },
   {
    "q": "Which YG girl group, which debuted in 2009, included CL and Dara?",
    "a": "2NE1",
-   "p": 400
+   "p": 400,
+   "apic": "2NE1"
   },
   {
    "q": "Which solo singer is known as Korea's \"Nation's Little Sister\"?",
@@ -664,7 +736,8 @@
    "p": 400,
    "alt": [
     "Lee Ji-eun"
-   ]
+   ],
+   "apic": "IU (singer)"
   },
   {
    "q": "Who founded JYP Entertainment?",
@@ -673,7 +746,8 @@
    "alt": [
     "J.Y. Park",
     "JYP"
-   ]
+   ],
+   "apic": "Park Jin-young"
   },
   {
    "q": "Which girl group's name is an anagram of \"I'm fearless\"?",
@@ -681,7 +755,8 @@
    "p": 400,
    "alt": [
     "Le Sserafim"
-   ]
+   ],
+   "apic": "Le Sserafim"
   },
   {
    "q": "What does the boy group name TXT stand for?",
@@ -699,12 +774,14 @@
   {
    "q": "Which BLACKPINK member's 2018 solo debut single was titled \"Solo\"?",
    "a": "Jennie",
-   "p": 400
+   "p": 400,
+   "apic": "Jennie (singer)"
   },
   {
    "q": "Which BLACKPINK member appeared in the 2023 HBO series \"The Idol\"?",
    "a": "Jennie",
-   "p": 400
+   "p": 400,
+   "apic": "Jennie (singer)"
   },
   {
    "q": "Which Lady Gaga song from 2020 features BLACKPINK?",
@@ -719,12 +796,14 @@
   {
    "q": "Which American singer featured on BTS's 2019 single \"Boy With Luv\"?",
    "a": "Halsey",
-   "p": 200
+   "p": 200,
+   "apic": "Halsey (singer)"
   },
   {
    "q": "Which British singer co-wrote BTS's 2021 single \"Permission to Dance\"?",
    "a": "Ed Sheeran",
-   "p": 400
+   "p": 400,
+   "apic": "Ed Sheeran"
   },
   {
    "q": "In 2019, BTS became the first Korean act to headline which London stadium?",
@@ -732,7 +811,8 @@
    "p": 400,
    "alt": [
     "Wembley Stadium"
-   ]
+   ],
+   "apic": "Wembley Stadium"
   },
   {
    "q": "Which TWICE song from 2016 is famous for a hand gesture that mimics a crying face?",
@@ -745,12 +825,14 @@
    "p": 400,
    "alt": [
     "Chou Tzu-yu"
-   ]
+   ],
+   "apic": "Tzuyu"
   },
   {
    "q": "Which group performed at the closing ceremony of the 2018 PyeongChang Winter Olympics?",
    "a": "EXO",
-   "p": 400
+   "p": 400,
+   "apic": "Exo (group)"
   },
   {
    "q": "What Korean term describes the global spread of Korean pop culture, meaning \"Korean Wave\"?",
@@ -794,17 +876,20 @@
    "p": 400,
    "alt": [
     "Jung Ho-seok"
-   ]
+   ],
+   "apic": "J-Hope"
   },
   {
    "q": "Which BTS member starred in the historical drama \"Hwarang\"?",
    "a": "V",
-   "p": 400
+   "p": 400,
+   "apic": "V (singer)"
   },
   {
    "q": "Which BLACKPINK member starred in the drama \"Snowdrop\"?",
    "a": "Jisoo",
-   "p": 400
+   "p": 400,
+   "apic": "Jisoo"
   },
   {
    "q": "Which Big Bang song from 2015 repeats one word three times in its title?",
@@ -814,7 +899,8 @@
   {
    "q": "Which agency launched NewJeans in 2022 through its label ADOR?",
    "a": "HYBE",
-   "p": 400
+   "p": 400,
+   "apic": "Hybe Corporation"
   },
   {
    "q": "In 2016, which K-pop convention came to Abu Dhabi's du Arena?",
@@ -829,7 +915,8 @@
   {
    "q": "Which SM boy group, which debuted in 2016, has an unlimited-member concept with units such as 127 and Dream?",
    "a": "NCT",
-   "p": 400
+   "p": 400,
+   "apic": "NCT (group)"
   },
   {
    "q": "Which NewJeans song from 2022 shares its name with an English word meaning \"the same again\"?",
@@ -854,12 +941,14 @@
   {
    "q": "What is the stage name of BTS member Jung Ho-seok?",
    "a": "J-Hope",
-   "p": 400
+   "p": 400,
+   "apic": "J-Hope"
   },
   {
    "q": "Which BTS member is known as \"Worldwide Handsome\"?",
    "a": "Jin",
-   "p": 200
+   "p": 200,
+   "apic": "Jin (singer)"
   },
   {
    "q": "Which girl group from the small agency Attrakt had a viral 2023 hit with \"Cupid\"?",
@@ -867,22 +956,27 @@
    "p": 400,
    "alt": [
     "Fifty Fifty"
-   ]
+   ],
+   "apic": "Fifty Fifty (group)"
   },
   {
    "q": "The boy group GOT7 includes Jackson Wang, who comes from which city?",
    "a": "Hong Kong",
-   "p": 400
+   "p": 400,
+   "pic": "Got7",
+   "apic": "Hong Kong"
   },
   {
    "q": "Which JYP girl group includes Yeji and Ryujin?",
    "a": "ITZY",
-   "p": 400
+   "p": 400,
+   "apic": "Itzy"
   },
   {
    "q": "Which girl group includes Wonyoung, Yujin and Rei?",
    "a": "IVE",
-   "p": 400
+   "p": 400,
+   "apic": "Ive (group)"
   },
   {
    "q": "aespa debuted in 2020 with which single named after a snake?",
@@ -905,7 +999,8 @@
   {
    "q": "In which year did EXO debut?",
    "a": "2012",
-   "p": 600
+   "p": 600,
+   "pic": "Exo (group)"
   },
   {
    "q": "EXO originally debuted as two sub-units, EXO-K and which other?",
@@ -915,7 +1010,8 @@
   {
    "q": "In which year did Big Bang debut?",
    "a": "2006",
-   "p": 600
+   "p": 600,
+   "pic": "Big Bang (South Korean band)"
   },
   {
    "q": "TWICE's members were chosen on which 2015 survival show?",
@@ -990,7 +1086,8 @@
    "p": 600,
    "alt": [
     "Lee Sooman"
-   ]
+   ],
+   "apic": "Lee Soo-man"
   },
   {
    "q": "Who founded YG Entertainment?",
@@ -998,12 +1095,14 @@
    "p": 600,
    "alt": [
     "Yang Hyunsuk"
-   ]
+   ],
+   "apic": "Yang Hyun-suk"
   },
   {
    "q": "Which 1990s act, whose 1992 debut \"Nan Arayo\" is seen as the birth of modern K-pop, was led by Seo Taiji?",
    "a": "Seo Taiji and Boys",
-   "p": 600
+   "p": 600,
+   "apic": "Seo Taiji and Boys"
   },
   {
    "q": "Which SM boy group, debuting in 1996, is often called the first K-pop idol group?",
@@ -1011,12 +1110,14 @@
    "p": 600,
    "alt": [
     "HOT"
-   ]
+   ],
+   "apic": "H.O.T. (band)"
   },
   {
    "q": "Which SM soloist debuted at 13 in 2000 and became a huge star in Japan?",
    "a": "BoA",
-   "p": 600
+   "p": 600,
+   "apic": "BoA"
   },
   {
    "q": "Which SM boy group is also known as DBSK?",
@@ -1025,32 +1126,38 @@
    "alt": [
     "TVXQ!",
     "Tohoshinki"
-   ]
+   ],
+   "apic": "TVXQ"
   },
   {
    "q": "Which SM boy group released \"Sorry, Sorry\" in 2009?",
    "a": "Super Junior",
-   "p": 600
+   "p": 600,
+   "apic": "Super Junior"
   },
   {
    "q": "Which SM boy group debuted in 2008 with \"Replay\" and later released \"Ring Ding Dong\"?",
    "a": "SHINee",
-   "p": 600
+   "p": 600,
+   "apic": "Shinee"
   },
   {
    "q": "Which JYP girl group released \"Nobody\" in 2008 and also had the hit \"Tell Me\"?",
    "a": "Wonder Girls",
-   "p": 600
+   "p": 600,
+   "apic": "Wonder Girls"
   },
   {
    "q": "Which JYP boy group, debuting in 2008 with members including Taecyeon, is named after a time of day?",
    "a": "2PM",
-   "p": 600
+   "p": 600,
+   "apic": "2PM"
   },
   {
    "q": "Which JYP boy group debuted in 2014 with \"Girls Girls Girls\"?",
    "a": "GOT7",
-   "p": 600
+   "p": 600,
+   "apic": "Got7"
   },
   {
    "q": "Which JYP band, rare in K-pop for playing its own instruments, debuted in 2015?",
@@ -1058,12 +1165,14 @@
    "p": 600,
    "alt": [
     "DAY6"
-   ]
+   ],
+   "apic": "Day6"
   },
   {
    "q": "Which Japanese girl group did JYP create through the \"Nizi Project\" audition show?",
    "a": "NiziU",
-   "p": 600
+   "p": 600,
+   "apic": "NiziU"
   },
   {
    "q": "What does NCT stand for?",
@@ -1078,7 +1187,8 @@
   {
    "q": "Which girl group includes Solar, Moonbyul, Wheein and Hwasa?",
    "a": "MAMAMOO",
-   "p": 600
+   "p": 600,
+   "apic": "Mamamoo"
   },
   {
    "q": "MAMAMOO's light stick, the \"Moo Bong\", is shaped like which vegetable?",
@@ -1098,7 +1208,8 @@
   {
    "q": "Which boy group includes Hongjoong, Seonghwa and San?",
    "a": "ATEEZ",
-   "p": 600
+   "p": 600,
+   "apic": "Ateez"
   },
   {
    "q": "ENHYPEN was formed through which 2020 survival show?",
@@ -1114,7 +1225,8 @@
    "p": 400,
    "alt": [
     "Tomorrow X Together"
-   ]
+   ],
+   "apic": "Tomorrow X Together"
   },
   {
    "q": "What was the debut single of TXT in 2019?",
@@ -1127,7 +1239,8 @@
   {
    "q": "Which BTS member released the solo album \"Layover\" in 2023?",
    "a": "V",
-   "p": 600
+   "p": 600,
+   "apic": "V (singer)"
   },
   {
    "q": "What is the title of J-Hope's 2022 debut solo album?",
@@ -1137,7 +1250,8 @@
   {
    "q": "Which BTS member co-wrote the 2022 single \"The Astronaut\" with Coldplay?",
    "a": "Jin",
-   "p": 600
+   "p": 600,
+   "apic": "Jin (singer)"
   },
   {
    "q": "Which 2020 BTS song was the first sung mainly in Korean to top the Billboard Hot 100?",
@@ -1165,12 +1279,14 @@
    "p": 600,
    "alt": [
     "IOI"
-   ]
+   ],
+   "apic": "I.O.I"
   },
   {
    "q": "Which boy group was formed through \"Produce 101 Season 2\" in 2017?",
    "a": "Wanna One",
-   "p": 600
+   "p": 600,
+   "apic": "Wanna One"
   },
   {
    "q": "Which girl group was formed through the 2018 show \"Produce 48\"?",
@@ -1178,12 +1294,14 @@
    "p": 600,
    "alt": [
     "IZONE"
-   ]
+   ],
+   "apic": "Iz*One"
   },
   {
    "q": "Which HYBE girl group debuted in 2024 with \"Magnetic\"?",
    "a": "ILLIT",
-   "p": 600
+   "p": 600,
+   "apic": "Illit"
   },
   {
    "q": "Which global girl group was formed by HYBE and Geffen through the \"Dream Academy\" show?",
@@ -1191,7 +1309,8 @@
    "p": 600,
    "alt": [
     "Katseye"
-   ]
+   ],
+   "apic": "Katseye"
   },
   {
    "q": "What is the name of the fictional rival boy band in \"KPop Demon Hunters\"?",
@@ -1201,7 +1320,8 @@
   {
    "q": "In 2021, HYBE bought Ithaca Holdings, the company of which American music manager?",
    "a": "Scooter Braun",
-   "p": 600
+   "p": 600,
+   "apic": "Scooter Braun"
   },
   {
    "q": "What is the name of the long-running KBS weekly music chart show that began in 1998?",

@@ -5,7 +5,8 @@
   {
    "q": "Which Japanese company makes Resident Evil?",
    "a": "Capcom",
-   "p": 200
+   "p": 200,
+   "apic": "Capcom"
   },
   {
    "q": "What is Resident Evil called in Japan?",
@@ -66,7 +67,8 @@
    "p": 200,
    "alt": [
     "Wesker"
-   ]
+   ],
+   "apic": "Albert Wesker"
   },
   {
    "q": "Who is Chris Redfield's younger sister?",
@@ -74,7 +76,9 @@
    "p": 200,
    "alt": [
     "Claire"
-   ]
+   ],
+   "pic": "Chris Redfield",
+   "apic": "Claire Redfield"
   },
   {
    "q": "Which RE2 hero later rescues the President's daughter in RE4?",
@@ -83,7 +87,8 @@
    "alt": [
     "Leon",
     "Leon Kennedy"
-   ]
+   ],
+   "apic": "Leon S. Kennedy"
   },
   {
    "q": "Who is the President's daughter that Leon rescues in RE4?",
@@ -105,12 +110,14 @@
   {
    "q": "In which country is RE4 set?",
    "a": "Spain",
-   "p": 200
+   "p": 200,
+   "apic": "Spain"
   },
   {
    "q": "On which continent is RE5 set?",
    "a": "Africa",
-   "p": 200
+   "p": 200,
+   "apic": "Africa"
   },
   {
    "q": "Which hulking pursuer in a trench coat and hat stalks the police station in RE2?",
@@ -198,7 +205,8 @@
   {
    "q": "Which video game genre did Resident Evil popularise and give its name to?",
    "a": "Survival horror",
-   "p": 200
+   "p": 200,
+   "apic": "Survival horror"
   },
   {
    "q": "What slowly opening object served as the classic games' loading screen?",
@@ -224,7 +232,8 @@
    "p": 200,
    "alt": [
     "Ethan"
-   ]
+   ],
+   "apic": "Ethan Winters"
   },
   {
    "q": "Which towering vampire lady from Village became an internet sensation?",
@@ -233,7 +242,8 @@
    "alt": [
     "Alcina Dimitrescu",
     "Dimitrescu"
-   ]
+   ],
+   "apic": "Lady Dimitrescu"
   },
   {
    "q": "Where does Lady Dimitrescu live?",
@@ -267,7 +277,9 @@
    "p": 200,
    "alt": [
     "Ada"
-   ]
+   ],
+   "pic": "Leon S. Kennedy",
+   "apic": "Ada Wong"
   },
   {
    "q": "What colour dress does Ada Wong usually wear?",
@@ -280,7 +292,8 @@
    "p": 200,
    "alt": [
     "Jovovich"
-   ]
+   ],
+   "apic": "Milla Jovovich"
   },
   {
    "q": "Which Resident Evil was the first mainline entry played in first person?",
@@ -289,7 +302,8 @@
    "alt": [
     "RE7",
     "Resident Evil 7"
-   ]
+   ],
+   "apic": "Resident Evil 7: Biohazard"
   },
   {
    "q": "Which mainline entry introduced the over-the-shoulder camera in 2005?",
@@ -297,7 +311,8 @@
    "p": 200,
    "alt": [
     "RE4"
-   ]
+   ],
+   "apic": "Resident Evil 4"
   },
   {
    "q": "Who is Chris's partner in Resident Evil 5?",
@@ -305,7 +320,8 @@
    "p": 200,
    "alt": [
     "Sheva"
-   ]
+   ],
+   "pic": "Chris Redfield"
   },
   {
    "q": "Which hooded shopkeeper sells weapons to Leon in RE4?",
@@ -330,7 +346,8 @@
    "p": 200,
    "alt": [
     "A chainsaw"
-   ]
+   ],
+   "apic": "Chainsaw"
   },
   {
    "q": "In RE5, what does Chris famously punch inside a volcano?",
@@ -347,7 +364,8 @@
    "p": 200,
    "alt": [
     "RE2"
-   ]
+   ],
+   "apic": "Resident Evil 2 (2019 video game)"
   },
   {
    "q": "Which Resident Evil game was remade in 2023?",
@@ -355,7 +373,8 @@
    "p": 200,
    "alt": [
     "RE4"
-   ]
+   ],
+   "apic": "Resident Evil 4 (2023 video game)"
   },
   {
    "q": "Which police building is the main setting of RE2?",
@@ -460,7 +479,8 @@
    "p": 200,
    "alt": [
     "RE5"
-   ]
+   ],
+   "apic": "Resident Evil 5"
   },
   {
    "q": "Which shopkeeper serves Ethan in Resident Evil Village?",
@@ -473,7 +493,9 @@
   {
    "q": "What instrument must Jill play to open a secret passage in the first game?",
    "a": "Piano",
-   "p": 200
+   "p": 200,
+   "pic": "Jill Valentine",
+   "apic": "Piano"
   },
   {
    "q": "Which RE game from 2012 launched on the 3DS, set aboard a cruise ship?",
@@ -481,7 +503,8 @@
    "p": 200,
    "alt": [
     "Revelations"
-   ]
+   ],
+   "apic": "Resident Evil: Revelations"
   },
   {
    "q": "What job does Leon have at the start of RE2?",
@@ -520,7 +543,8 @@
    "p": 200,
    "alt": [
     "Rebecca"
-   ]
+   ],
+   "apic": "Rebecca Chambers"
   },
   {
    "q": "Which bearded S.T.A.R.S. weapons expert helps Jill in the first game?",
@@ -536,7 +560,8 @@
    "p": 200,
    "alt": [
     "Wesker"
-   ]
+   ],
+   "apic": "Albert Wesker"
   },
   {
    "q": "What does Ethan lose early in Resident Evil 7?",
@@ -553,7 +578,9 @@
    "p": 200,
    "alt": [
     "Mikami"
-   ]
+   ],
+   "pic": "Resident Evil (1996 video game)",
+   "apic": "Shinji Mikami"
   },
   {
    "q": "How many daughters does Lady Dimitrescu have?",
@@ -577,7 +604,8 @@
    "p": 200,
    "alt": [
     "Pistol"
-   ]
+   ],
+   "apic": "Handgun"
   },
   {
    "q": "Which close-range weapon can Leon use to parry attacks in the RE4 remake?",
@@ -593,7 +621,9 @@
    "p": 200,
    "alt": [
     "Motorbike"
-   ]
+   ],
+   "pic": "Claire Redfield",
+   "apic": "Motorcycle"
   },
   {
    "q": "Who is Claire looking for when she arrives in Raccoon City?",
@@ -602,7 +632,9 @@
    "alt": [
     "Chris Redfield",
     "Chris"
-   ]
+   ],
+   "pic": "Claire Redfield",
+   "apic": "Chris Redfield"
   },
   {
    "q": "Which game is a prequel set just before the mansion incident?",
@@ -611,7 +643,8 @@
    "alt": [
     "RE0",
     "Resident Evil Zero"
-   ]
+   ],
+   "apic": "Resident Evil Zero"
   },
   {
    "q": "Which veteran hero arrives by helicopter at the end of Resident Evil 7?",
@@ -619,7 +652,9 @@
    "p": 200,
    "alt": [
     "Chris"
-   ]
+   ],
+   "pic": "Ethan Winters",
+   "apic": "Chris Redfield"
   },
   {
    "q": "How many lords serve Mother Miranda in Resident Evil Village?",
@@ -773,7 +808,8 @@
    "p": 400,
    "alt": [
     "Sega Dreamcast"
-   ]
+   ],
+   "apic": "Dreamcast"
   },
   {
    "q": "On which console was the 2002 remake of the first game released?",
@@ -781,7 +817,8 @@
    "p": 400,
    "alt": [
     "Nintendo GameCube"
-   ]
+   ],
+   "apic": "GameCube"
   },
   {
    "q": "Which game console did RE4 launch on as an exclusive in 2005?",
@@ -789,7 +826,8 @@
    "p": 400,
    "alt": [
     "Nintendo GameCube"
-   ]
+   ],
+   "apic": "GameCube"
   },
   {
    "q": "Who is the cult leader and main villain of RE4?",
@@ -856,7 +894,9 @@
    "p": 400,
    "alt": [
     "Jill"
-   ]
+   ],
+   "pic": "Chris Redfield",
+   "apic": "Jill Valentine"
   },
   {
    "q": "Where does Wesker meet his end in RE5?",
@@ -864,7 +904,8 @@
    "p": 400,
    "alt": [
     "Volcano"
-   ]
+   ],
+   "pic": "Albert Wesker"
   },
   {
    "q": "Which mercenary son of Wesker stars in RE6?",
@@ -893,12 +934,16 @@
   {
    "q": "In which country does part of RE6 take place, in the city of Lanshiang?",
    "a": "China",
-   "p": 400
+   "p": 400,
+   "pic": "Resident Evil 6",
+   "apic": "China"
   },
   {
    "q": "In which US state is Resident Evil 7 set?",
    "a": "Louisiana",
-   "p": 400
+   "p": 400,
+   "pic": "Resident Evil 7: Biohazard",
+   "apic": "Louisiana"
   },
   {
    "q": "Which mold-powered girl is the true villain of Resident Evil 7?",
@@ -949,7 +994,9 @@
    "p": 400,
    "alt": [
     "Paul Anderson"
-   ]
+   ],
+   "pic": "Milla Jovovich",
+   "apic": "Paul W. S. Anderson"
   },
   {
    "q": "In which year was the first live-action Resident Evil film released?",
@@ -975,7 +1022,9 @@
   {
    "q": "In which Japanese city is Capcom headquartered?",
    "a": "Osaka",
-   "p": 400
+   "p": 400,
+   "pic": "Capcom",
+   "apic": "Osaka"
   },
   {
    "q": "What job does Leon have in RE4?",
@@ -984,7 +1033,8 @@
    "alt": [
     "Government agent",
     "Agent"
-   ]
+   ],
+   "pic": "Leon S. Kennedy"
   },
   {
    "q": "Which year saw the Resident Evil 3 remake?",
@@ -1047,7 +1097,9 @@
   {
    "q": "Which ice-covered continent hosts the second half of Code: Veronica?",
    "a": "Antarctica",
-   "p": 400
+   "p": 400,
+   "pic": "Resident Evil – Code: Veronica",
+   "apic": "Antarctica"
   },
   {
    "q": "Who is Barry's daughter, a playable hero of Revelations 2?",
@@ -1151,7 +1203,8 @@
    "p": 400,
    "alt": [
     "Infinite Darkness"
-   ]
+   ],
+   "apic": "Resident Evil: Infinite Darkness"
   },
   {
    "q": "Which explosive launcher is a signature weapon of Claire in RE2?",
@@ -1186,7 +1239,8 @@
    "p": 400,
    "alt": [
     "Apocalypse"
-   ]
+   ],
+   "apic": "Resident Evil: Apocalypse"
   },
   {
    "q": "Which VR headset could play all of Resident Evil 7 at launch?",
@@ -1195,7 +1249,8 @@
    "alt": [
     "PS VR",
     "PSVR"
-   ]
+   ],
+   "apic": "PlayStation VR"
   },
   {
    "q": "What item of Sherry's hides a G-virus sample?",
@@ -1238,7 +1293,8 @@
   {
    "q": "Which Capcom action series began life as a Resident Evil 4 prototype?",
    "a": "Devil May Cry",
-   "p": 400
+   "p": 400,
+   "apic": "Devil May Cry (video game)"
   },
   {
    "q": "In which military branch did Chris Redfield serve before S.T.A.R.S.?",
@@ -1246,7 +1302,9 @@
    "p": 400,
    "alt": [
     "US Air Force"
-   ]
+   ],
+   "pic": "Chris Redfield",
+   "apic": "United States Air Force"
   },
   {
    "q": "Which veteran hero shoots Mia at the start of Resident Evil Village?",
@@ -1254,7 +1312,8 @@
    "p": 400,
    "alt": [
     "Chris"
-   ]
+   ],
+   "apic": "Chris Redfield"
   },
   {
    "q": "In which year was Resident Evil 7 released?",
@@ -1274,7 +1333,8 @@
   {
    "q": "Which 1989 Famicom horror game by Capcom inspired Resident Evil?",
    "a": "Sweet Home",
-   "p": 600
+   "p": 600,
+   "apic": "Sweet Home (video game)"
   },
   {
    "q": "Who directed RE2?",
@@ -1282,7 +1342,8 @@
    "p": 600,
    "alt": [
     "Kamiya"
-   ]
+   ],
+   "apic": "Hideki Kamiya"
   },
   {
    "q": "Who directed Resident Evil 7?",
@@ -1303,7 +1364,9 @@
    "p": 600,
    "alt": [
     "Tango"
-   ]
+   ],
+   "pic": "Shinji Mikami",
+   "apic": "Tango Gameworks"
   },
   {
    "q": "What does the name Capcom come from?",
@@ -1514,12 +1577,14 @@
   {
    "q": "Who directed the 2021 film Resident Evil: Welcome to Raccoon City?",
    "a": "Johannes Roberts",
-   "p": 600
+   "p": 600,
+   "apic": "Johannes Roberts"
   },
   {
    "q": "Which actress played Claire in Resident Evil: Welcome to Raccoon City?",
    "a": "Kaya Scodelario",
-   "p": 600
+   "p": 600,
+   "apic": "Kaya Scodelario"
   },
   {
    "q": "What is the subtitle of the final Milla Jovovich film?",
@@ -1535,7 +1600,8 @@
    "p": 600,
    "alt": [
     "Degeneration"
-   ]
+   ],
+   "apic": "Resident Evil: Degeneration"
   },
   {
    "q": "Which 2017 CGI film sees Chris, Leon and Rebecca fight a bioterrorist?",
@@ -1543,7 +1609,8 @@
    "p": 600,
    "alt": [
     "Vendetta"
-   ]
+   ],
+   "apic": "Resident Evil: Vendetta"
   },
   {
    "q": "Which PS2 spin-off let up to four players try to escape Raccoon City online?",
@@ -1551,7 +1618,8 @@
    "p": 600,
    "alt": [
     "Outbreak"
-   ]
+   ],
+   "apic": "Resident Evil Outbreak"
   },
   {
    "q": "Which virus spreads aboard the Queen Zenobia in Resident Evil: Revelations?",
@@ -1707,7 +1775,9 @@
    "p": 600,
    "alt": [
     "Tsujimoto"
-   ]
+   ],
+   "pic": "Capcom",
+   "apic": "Kenzo Tsujimoto"
   },
   {
    "q": "Which 2000 spin-off was the first Resident Evil played in first person?",
@@ -1715,7 +1785,8 @@
    "p": 600,
    "alt": [
     "Survivor"
-   ]
+   ],
+   "apic": "Resident Evil Survivor"
   },
   {
    "q": "Which Game Boy Color spin-off sent Leon and Barry aboard a cruise ship?",
@@ -1723,7 +1794,8 @@
    "p": 600,
    "alt": [
     "Gaiden"
-   ]
+   ],
+   "apic": "Resident Evil Gaiden"
   },
   {
    "q": "Which 2020 asymmetrical multiplayer game was bundled with the RE3 remake?",
@@ -1731,7 +1803,8 @@
    "p": 600,
    "alt": [
     "Resistance"
-   ]
+   ],
+   "apic": "Resident Evil Resistance"
   },
   {
    "q": "Which 2014 horror game did Shinji Mikami direct at Tango Gameworks?",
@@ -1739,7 +1812,8 @@
    "p": 600,
    "alt": [
     "Evil Within"
-   ]
+   ],
+   "apic": "The Evil Within"
   },
   {
    "q": "Who directed Resident Evil 5?",
@@ -1747,7 +1821,8 @@
    "p": 600,
    "alt": [
     "Takeuchi"
-   ]
+   ],
+   "apic": "Jun Takeuchi"
   },
   {
    "q": "Which NGO does Claire work for in later games?",
@@ -1763,7 +1838,9 @@
    "p": 600,
    "alt": [
     "Afterlife"
-   ]
+   ],
+   "pic": "Wentworth Miller",
+   "apic": "Resident Evil: Afterlife"
   },
   {
    "q": "Which 2007 film is set in a desert wasteland and brings in Claire?",
@@ -1771,7 +1848,8 @@
    "p": 600,
    "alt": [
     "Extinction"
-   ]
+   ],
+   "apic": "Resident Evil: Extinction"
   },
   {
    "q": "In which year did Netflix release its live-action Resident Evil series?",
@@ -1784,12 +1862,14 @@
    "p": 600,
    "alt": [
     "Apostolides"
-   ]
+   ],
+   "pic": "Leon S. Kennedy"
   },
   {
    "q": "In which year was Resident Evil 6 released?",
    "a": "2012",
-   "p": 600
+   "p": 600,
+   "pic": "Resident Evil 6"
   },
   {
    "q": "What device removes the Plaga from Leon in RE4?",
@@ -1807,12 +1887,15 @@
    "alt": [
     "The Darkside Chronicles",
     "Darkside Chronicles"
-   ]
+   ],
+   "apic": "Resident Evil: The Darkside Chronicles"
   },
   {
    "q": "Which actor played Leon in Resident Evil: Welcome to Raccoon City?",
    "a": "Avan Jogia",
-   "p": 600
+   "p": 600,
+   "pic": "Leon S. Kennedy",
+   "apic": "Avan Jogia"
   },
   {
    "q": "Which 2012 film introduced Ada Wong, played by Li Bingbing?",
@@ -1820,7 +1903,9 @@
    "p": 600,
    "alt": [
     "Retribution"
-   ]
+   ],
+   "pic": "Li Bingbing",
+   "apic": "Resident Evil: Retribution"
   }
  ]
 }

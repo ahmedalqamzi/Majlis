@@ -5,7 +5,8 @@
   {
    "q": "In which fictional Indiana town is Stranger Things set?",
    "a": "Hawkins",
-   "p": 200
+   "p": 200,
+   "pic": "Stranger Things"
   },
   {
    "q": "What is the name of the girl with psychic powers in Stranger Things?",
@@ -14,17 +15,21 @@
    "alt": [
     "El",
     "011"
-   ]
+   ],
+   "apic": "Eleven (Stranger Things)"
   },
   {
    "q": "Which actress plays Eleven in Stranger Things?",
    "a": "Millie Bobby Brown",
-   "p": 200
+   "p": 200,
+   "apic": "Millie Bobby Brown"
   },
   {
    "q": "Which brand of frozen waffles does Eleven love?",
    "a": "Eggo",
-   "p": 200
+   "p": 200,
+   "pic": "Eleven (Stranger Things)",
+   "apic": "Eggo"
   },
   {
    "q": "Which boy vanishes in the first season of Stranger Things?",
@@ -42,7 +47,8 @@
   {
    "q": "Which actress plays Joyce Byers in Stranger Things?",
    "a": "Winona Ryder",
-   "p": 200
+   "p": 200,
+   "apic": "Winona Ryder"
   },
   {
    "q": "How does Joyce communicate with her missing son in season 1 of Stranger Things?",
@@ -60,7 +66,8 @@
    "alt": [
     "Matt and Ross Duffer",
     "Duffer Brothers"
-   ]
+   ],
+   "apic": "The Duffer Brothers"
   },
   {
    "q": "Which fantasy role-playing game do the boys play in Stranger Things?",
@@ -69,7 +76,8 @@
    "alt": [
     "D&D",
     "Dungeons and Dragons"
-   ]
+   ],
+   "apic": "Dungeons & Dragons"
   },
   {
    "q": "What is the name of the monster the boys name after a D&D villain in season 1 of Stranger Things?",
@@ -109,7 +117,8 @@
    "alt": [
     "Dali",
     "Salvador Dali"
-   ]
+   ],
+   "apic": "Salvador Dalí"
   },
   {
    "q": "What colour jumpsuits do the Money Heist robbers wear?",
@@ -133,7 +142,8 @@
   {
    "q": "Which Italian protest song is sung by the gang in Money Heist?",
    "a": "Bella Ciao",
-   "p": 200
+   "p": 200,
+   "apic": "Bella ciao"
   },
   {
    "q": "Which British monarch is the central figure of The Crown?",
@@ -142,27 +152,33 @@
    "alt": [
     "Elizabeth II",
     "The Queen"
-   ]
+   ],
+   "pic": "The Crown (TV series)",
+   "apic": "Elizabeth II"
   },
   {
    "q": "Which actress played the young Queen Elizabeth in the first two seasons of The Crown?",
    "a": "Claire Foy",
-   "p": 200
+   "p": 200,
+   "apic": "Claire Foy"
   },
   {
    "q": "Which Oscar winner took over as the Queen in seasons 3 and 4 of The Crown?",
    "a": "Olivia Colman",
-   "p": 200
+   "p": 200,
+   "apic": "Olivia Colman"
   },
   {
    "q": "Which actress plays Wednesday Addams in Netflix's Wednesday?",
    "a": "Jenna Ortega",
-   "p": 200
+   "p": 200,
+   "apic": "Jenna Ortega"
   },
   {
    "q": "Which director known for gothic films directed episodes of Wednesday and is an executive producer?",
    "a": "Tim Burton",
-   "p": 200
+   "p": 200,
+   "apic": "Tim Burton"
   },
   {
    "q": "What is the name of the school Wednesday attends?",
@@ -175,12 +191,14 @@
   {
    "q": "What is the name of the disembodied hand that helps Wednesday?",
    "a": "Thing",
-   "p": 200
+   "p": 200,
+   "apic": "Thing (The Addams Family)"
   },
   {
    "q": "Which string instrument does Wednesday play?",
    "a": "Cello",
-   "p": 200
+   "p": 200,
+   "apic": "Cello"
   },
   {
    "q": "What is the name of Wednesday's younger brother?",
@@ -193,7 +211,8 @@
    "p": 200,
    "alt": [
     "Addams"
-   ]
+   ],
+   "apic": "The Addams Family"
   },
   {
    "q": "What pen name does the anonymous gossip writer use in Bridgerton?",
@@ -203,22 +222,27 @@
   {
    "q": "In which city is Bridgerton set?",
    "a": "London",
-   "p": 200
+   "p": 200,
+   "pic": "Bridgerton",
+   "apic": "London"
   },
   {
    "q": "Who co-founded Netflix with Marc Randolph and later led it as CEO for over two decades?",
    "a": "Reed Hastings",
-   "p": 200
+   "p": 200,
+   "apic": "Reed Hastings"
   },
   {
    "q": "Which video rental chain famously turned down the chance to buy Netflix in 2000?",
    "a": "Blockbuster",
-   "p": 200
+   "p": 200,
+   "apic": "Blockbuster (retailer)"
   },
   {
    "q": "Which 2013 political drama set in Washington was Netflix's first big original series?",
    "a": "House of Cards",
-   "p": 200
+   "p": 200,
+   "apic": "House of Cards (American TV series)"
   },
   {
    "q": "Which Netflix docuseries follows teams and drivers behind the scenes of Formula One?",
@@ -226,37 +250,46 @@
    "p": 200,
    "alt": [
     "Formula 1: Drive to Survive"
-   ]
+   ],
+   "apic": "Formula 1: Drive to Survive"
   },
   {
    "q": "Which Netflix crime series follows Colombian drug lord Pablo Escobar?",
    "a": "Narcos",
-   "p": 200
+   "p": 200,
+   "pic": "Pablo Escobar",
+   "apic": "Narcos"
   },
   {
    "q": "Which board game is at the heart of The Queen's Gambit?",
    "a": "Chess",
-   "p": 200
+   "p": 200,
+   "apic": "Chess"
   },
   {
    "q": "Which actress plays Beth Harmon in The Queen's Gambit?",
    "a": "Anya Taylor-Joy",
-   "p": 200
+   "p": 200,
+   "apic": "Anya Taylor-Joy"
   },
   {
    "q": "Which actress plays a young American marketing executive in Emily in Paris?",
    "a": "Lily Collins",
-   "p": 200
+   "p": 200,
+   "apic": "Lily Collins"
   },
   {
    "q": "Which Netflix series continues the Karate Kid story decades later?",
    "a": "Cobra Kai",
-   "p": 200
+   "p": 200,
+   "apic": "Cobra Kai"
   },
   {
    "q": "Which 2018 Netflix film stars Sandra Bullock leading children blindfolded down a river?",
    "a": "Bird Box",
-   "p": 200
+   "p": 200,
+   "pic": "Sandra Bullock",
+   "apic": "Bird Box (film)"
   },
   {
    "q": "What must the survivors in Bird Box wear to stay safe outdoors?",
@@ -269,12 +302,15 @@
   {
    "q": "Which Netflix film series stars Millie Bobby Brown as Sherlock Holmes's younger sister?",
    "a": "Enola Holmes",
-   "p": 200
+   "p": 200,
+   "pic": "Millie Bobby Brown",
+   "apic": "Enola Holmes (film)"
   },
   {
    "q": "Which Netflix dating show has couples get engaged before ever seeing each other?",
    "a": "Love Is Blind",
-   "p": 200
+   "p": 200,
+   "apic": "Love Is Blind (TV series)"
   },
   {
    "q": "In Love Is Blind, where do couples talk while separated by a wall?",
@@ -290,12 +326,15 @@
    "p": 200,
    "alt": [
     "Sir David Attenborough"
-   ]
+   ],
+   "pic": "Our Planet",
+   "apic": "David Attenborough"
   },
   {
    "q": "Which Netflix series follows the Addams Family daughter at boarding school?",
    "a": "Wednesday",
-   "p": 200
+   "p": 200,
+   "apic": "Wednesday (TV series)"
   },
   {
    "q": "What is the name of Netflix's big annual fan event, named after its signature sound?",
@@ -308,12 +347,14 @@
    "p": 200,
    "alt": [
     "Eddie"
-   ]
+   ],
+   "pic": "Stranger Things"
   },
   {
    "q": "Which Kate Bush song saves Max from Vecna in Stranger Things season 4?",
    "a": "Running Up That Hill",
-   "p": 200
+   "p": 200,
+   "apic": "Running Up That Hill"
   },
   {
    "q": "In which decade is Stranger Things set?",
@@ -338,7 +379,8 @@
    "p": 200,
    "alt": [
     "Dustin"
-   ]
+   ],
+   "pic": "Stranger Things"
   },
   {
    "q": "Which Stranger Things character, a former popular jock, becomes the kids' protective babysitter?",
@@ -380,7 +422,8 @@
    "q": "Which Egyptian star plays the title role in Finding Ola?",
    "a": "Hend Sabry",
    "p": 400,
-   "ar": "هند صبري"
+   "ar": "هند صبري",
+   "apic": "Hend Sabry"
   },
   {
    "q": "Which Egyptian Netflix series, the first from Egypt, follows haematologist Dr Refaat Ismail through supernatural cases?",
@@ -405,12 +448,14 @@
   {
    "q": "Which red-haired actress plays Max Mayfield in Stranger Things?",
    "a": "Sadie Sink",
-   "p": 200
+   "p": 200,
+   "apic": "Sadie Sink"
   },
   {
    "q": "Which 2023 Netflix live-action series adapts Eiichiro Oda's pirate manga?",
    "a": "One Piece",
-   "p": 200
+   "p": 200,
+   "apic": "One Piece (2023 TV series)"
   },
   {
    "q": "Which 2022 Netflix film stars Daniel Craig as Benoit Blanc on a Greek island?",
@@ -418,52 +463,71 @@
    "p": 200,
    "alt": [
     "Glass Onion: A Knives Out Mystery"
-   ]
+   ],
+   "pic": "Daniel Craig",
+   "apic": "Glass Onion: A Knives Out Mystery"
   },
   {
    "q": "Which 2021 Netflix film stars Dwayne Johnson, Ryan Reynolds and Gal Gadot as rival art thieves?",
    "a": "Red Notice",
-   "p": 200
+   "p": 200,
+   "pic": "Dwayne Johnson",
+   "apic": "Red Notice (film)"
   },
   {
    "q": "Which 2020 Netflix action film stars Chris Hemsworth as mercenary Tyler Rake?",
    "a": "Extraction",
-   "p": 200
+   "p": 200,
+   "pic": "Chris Hemsworth",
+   "apic": "Extraction (2020 film)"
   },
   {
    "q": "Which 2022 Netflix film by the Russo brothers stars Ryan Gosling as a CIA operative?",
    "a": "The Gray Man",
-   "p": 200
+   "p": 200,
+   "pic": "Ryan Gosling",
+   "apic": "The Gray Man (2022 film)"
   },
   {
    "q": "Which 2021 Netflix satire stars Leonardo DiCaprio and Jennifer Lawrence as astronomers who spot a comet?",
    "a": "Don't Look Up",
-   "p": 200
+   "p": 200,
+   "pic": "Leonardo DiCaprio",
+   "apic": "Don't Look Up"
   },
   {
    "q": "Which 2019 Martin Scorsese Netflix film starring Robert De Niro used digital de-ageing?",
    "a": "The Irishman",
-   "p": 200
+   "p": 200,
+   "pic": "Martin Scorsese",
+   "apic": "The Irishman"
   },
   {
    "q": "Which 2019 Netflix comedy reunites Adam Sandler and Jennifer Aniston as a couple solving a murder on holiday?",
    "a": "Murder Mystery",
-   "p": 200
+   "p": 200,
+   "pic": "Adam Sandler",
+   "apic": "Murder Mystery (film)"
   },
   {
    "q": "Which Adam Sandler Netflix animated film is about a class pet lizard?",
    "a": "Leo",
-   "p": 200
+   "p": 200,
+   "pic": "Adam Sandler",
+   "apic": "Leo (2023 film)"
   },
   {
    "q": "Which Netflix series stars Omar Sy as a gentleman thief in Paris?",
    "a": "Lupin",
-   "p": 200
+   "p": 200,
+   "pic": "Omar Sy",
+   "apic": "Lupin (TV series)"
   },
   {
    "q": "Which Netflix series follows the adopted superpowered Hargreeves siblings?",
    "a": "The Umbrella Academy",
-   "p": 200
+   "p": 200,
+   "apic": "The Umbrella Academy (TV series)"
   },
   {
    "q": "Which Bridgerton character is revealed as Lady Whistledown at the end of season 1?",
@@ -476,22 +540,28 @@
   {
    "q": "Which Netflix series is based on Julia Quinn's Regency romance novels?",
    "a": "Bridgerton",
-   "p": 200
+   "p": 200,
+   "pic": "Julia Quinn",
+   "apic": "Bridgerton"
   },
   {
    "q": "Which Netflix crime drama stars Jason Bateman as a financial adviser laundering money in Missouri?",
    "a": "Ozark",
-   "p": 200
+   "p": 200,
+   "pic": "Jason Bateman",
+   "apic": "Ozark (TV series)"
   },
   {
    "q": "Which 2020 Netflix series follows teenagers hunting for gold in North Carolina?",
    "a": "Outer Banks",
-   "p": 200
+   "p": 200,
+   "apic": "Outer Banks (TV series)"
   },
   {
    "q": "Which actor plays Chief Jim Hopper in Stranger Things?",
    "a": "David Harbour",
-   "p": 200
+   "p": 200,
+   "apic": "David Harbour"
   },
   {
    "q": "Which Wednesday character is a cheerful werewolf and Wednesday's roommate?",
@@ -519,22 +589,27 @@
   {
    "q": "Which actress, daughter of Uma Thurman, plays Robin in Stranger Things?",
    "a": "Maya Hawke",
-   "p": 400
+   "p": 400,
+   "pic": "Uma Thurman",
+   "apic": "Maya Hawke"
   },
   {
    "q": "Which actor plays Steve Harrington?",
    "a": "Joe Keery",
-   "p": 600
+   "p": 600,
+   "apic": "Joe Keery"
   },
   {
    "q": "Which actor plays Dustin Henderson?",
    "a": "Gaten Matarazzo",
-   "p": 600
+   "p": 600,
+   "apic": "Gaten Matarazzo"
   },
   {
    "q": "Which actor plays Mike Wheeler?",
    "a": "Finn Wolfhard",
-   "p": 400
+   "p": 400,
+   "apic": "Finn Wolfhard"
   },
   {
    "q": "Which giant shadowy villain controls the Upside Down in Stranger Things season 2?",
@@ -618,7 +693,8 @@
    "p": 400,
    "alt": [
     "Alvaro Morte"
-   ]
+   ],
+   "apic": "Álvaro Morte"
   },
   {
    "q": "Which actress plays Tokyo in Money Heist?",
@@ -626,7 +702,8 @@
    "p": 400,
    "alt": [
     "Ursula Corbero"
-   ]
+   ],
+   "apic": "Úrsula Corberó"
   },
   {
    "q": "Which building is robbed in the first heist of Money Heist?",
@@ -636,12 +713,16 @@
     "The Royal Mint",
     "Fábrica Nacional de Moneda y Timbre",
     "The Mint"
-   ]
+   ],
+   "pic": "Money Heist",
+   "apic": "Royal Mint of Spain"
   },
   {
    "q": "Which building is targeted in the second Money Heist robbery?",
    "a": "Bank of Spain",
-   "p": 400
+   "p": 400,
+   "pic": "Money Heist",
+   "apic": "Bank of Spain"
   },
   {
    "q": "Which police inspector falls for the Professor and joins the gang as Lisbon?",
@@ -679,47 +760,63 @@
   {
    "q": "Who created and wrote The Crown?",
    "a": "Peter Morgan",
-   "p": 400
+   "p": 400,
+   "pic": "The Crown (TV series)",
+   "apic": "Peter Morgan"
   },
   {
    "q": "Which actress played the Queen in the final two seasons of The Crown?",
    "a": "Imelda Staunton",
-   "p": 400
+   "p": 400,
+   "apic": "Imelda Staunton"
   },
   {
    "q": "Which Doctor Who star played Prince Philip in the first two seasons of The Crown?",
    "a": "Matt Smith",
-   "p": 400
+   "p": 400,
+   "apic": "Matt Smith"
   },
   {
    "q": "Which actor played Winston Churchill in The Crown?",
    "a": "John Lithgow",
-   "p": 400
+   "p": 400,
+   "pic": "Winston Churchill",
+   "apic": "John Lithgow"
   },
   {
    "q": "Which actress played Princess Diana in season 4 of The Crown?",
    "a": "Emma Corrin",
-   "p": 400
+   "p": 400,
+   "pic": "Diana, Princess of Wales",
+   "apic": "Emma Corrin"
   },
   {
    "q": "Which Australian actress played Princess Diana in seasons 5 and 6 of The Crown?",
    "a": "Elizabeth Debicki",
-   "p": 400
+   "p": 400,
+   "pic": "Diana, Princess of Wales",
+   "apic": "Elizabeth Debicki"
   },
   {
    "q": "Which actress played Princess Margaret in the first two seasons of The Crown?",
    "a": "Vanessa Kirby",
-   "p": 400
+   "p": 400,
+   "pic": "Princess Margaret, Countess of Snowdon",
+   "apic": "Vanessa Kirby"
   },
   {
    "q": "Which X-Files star played Margaret Thatcher in The Crown?",
    "a": "Gillian Anderson",
-   "p": 400
+   "p": 400,
+   "pic": "Margaret Thatcher",
+   "apic": "Gillian Anderson"
   },
   {
    "q": "Which actor played Prince Charles in seasons 3 and 4 of The Crown?",
    "a": "Josh O'Connor",
-   "p": 400
+   "p": 400,
+   "pic": "Charles III",
+   "apic": "Josh O'Connor"
   },
   {
    "q": "How many seasons of The Crown were made?",
@@ -737,22 +834,27 @@
   {
    "q": "Which actress played Princess Margaret in seasons 3 and 4 of The Crown?",
    "a": "Helena Bonham Carter",
-   "p": 400
+   "p": 400,
+   "pic": "Princess Margaret, Countess of Snowdon",
+   "apic": "Helena Bonham Carter"
   },
   {
    "q": "Which Game of Thrones actress plays Principal Weems in Wednesday?",
    "a": "Gwendoline Christie",
-   "p": 400
+   "p": 400,
+   "apic": "Gwendoline Christie"
   },
   {
    "q": "Which actress plays Morticia Addams in Wednesday?",
    "a": "Catherine Zeta-Jones",
-   "p": 400
+   "p": 400,
+   "apic": "Catherine Zeta-Jones"
   },
   {
    "q": "Which actress, who played Wednesday in the 1990s films, appears as teacher Marilyn Thornhill?",
    "a": "Christina Ricci",
-   "p": 400
+   "p": 400,
+   "apic": "Christina Ricci"
   },
   {
    "q": "What is the name of the monster terrorising Jericho in season 1 of Wednesday?",
@@ -765,7 +867,8 @@
   {
    "q": "Which pop star plays Rosaline Rotwood in Wednesday season 2 and released The Dead Dance for it?",
    "a": "Lady Gaga",
-   "p": 400
+   "p": 400,
+   "apic": "Lady Gaga"
   },
   {
    "q": "Which Wednesday character is a Siren and Nevermore's queen bee?",
@@ -791,17 +894,22 @@
   {
    "q": "Which legendary actress voices Lady Whistledown in Bridgerton?",
    "a": "Julie Andrews",
-   "p": 400
+   "p": 400,
+   "apic": "Julie Andrews"
   },
   {
    "q": "Whose production company, Shondaland, makes Bridgerton?",
    "a": "Shonda Rhimes",
-   "p": 400
+   "p": 400,
+   "pic": "Bridgerton",
+   "apic": "Shonda Rhimes"
   },
   {
    "q": "Which author wrote the Bridgerton novels?",
    "a": "Julia Quinn",
-   "p": 400
+   "p": 400,
+   "pic": "Bridgerton",
+   "apic": "Julia Quinn"
   },
   {
    "q": "Which actor played Simon, the Duke of Hastings, in Bridgerton season 1?",
@@ -809,7 +917,8 @@
    "p": 400,
    "alt": [
     "Rege-Jean Page"
-   ]
+   ],
+   "apic": "Regé-Jean Page"
   },
   {
    "q": "Which Bridgerton brother is the hero of season 2, falling for Kate Sharma?",
@@ -830,7 +939,9 @@
    "p": 400,
    "alt": [
     "Queen Charlotte"
-   ]
+   ],
+   "pic": "Charlotte of Mecklenburg-Strelitz",
+   "apic": "Queen Charlotte: A Bridgerton Story"
   },
   {
    "q": "What is special about the Bridgerton siblings' first names?",
@@ -852,7 +963,8 @@
    "p": 400,
    "alt": [
     "Regency"
-   ]
+   ],
+   "apic": "Regency era"
   },
   {
    "q": "In which year was Netflix founded?",
@@ -882,7 +994,8 @@
   {
    "q": "Which director's stop-motion Pinocchio won Netflix the Oscar for Best Animated Feature?",
    "a": "Guillermo del Toro",
-   "p": 400
+   "p": 400,
+   "apic": "Guillermo del Toro"
   },
   {
    "q": "Which wrestling show moved its weekly broadcasts to Netflix in January 2025?",
@@ -891,17 +1004,21 @@
    "alt": [
     "Raw",
     "Monday Night Raw"
-   ]
+   ],
+   "apic": "WWE Raw"
   },
   {
    "q": "Which Brazilian actor plays Pablo Escobar in Narcos?",
    "a": "Wagner Moura",
-   "p": 600
+   "p": 600,
+   "pic": "Pablo Escobar",
+   "apic": "Wagner Moura"
   },
   {
    "q": "Which German time-travel series is set in the town of Winden?",
    "a": "Dark",
-   "p": 400
+   "p": 400,
+   "apic": "Dark (TV series)"
   },
   {
    "q": "What is the name of Omar Sy's character in Lupin?",
@@ -917,7 +1034,9 @@
    "p": 400,
    "alt": [
     "Arsene Lupin"
-   ]
+   ],
+   "pic": "Omar Sy",
+   "apic": "Arsène Lupin"
   },
   {
    "q": "Which Umbrella Academy sibling is a time traveller trapped in his younger body?",
@@ -930,22 +1049,26 @@
   {
    "q": "Which director created The Haunting of Hill House and Midnight Mass?",
    "a": "Mike Flanagan",
-   "p": 400
+   "p": 400,
+   "apic": "Mike Flanagan (filmmaker)"
   },
   {
    "q": "Which author's stories inspired Mike Flanagan's The Fall of the House of Usher?",
    "a": "Edgar Allan Poe",
-   "p": 400
+   "p": 400,
+   "apic": "Edgar Allan Poe"
   },
   {
    "q": "Which Japanese Netflix series traps players in an empty Tokyo where deadly games are ranked by playing cards?",
    "a": "Alice in Borderland",
-   "p": 400
+   "p": 400,
+   "apic": "Alice in Borderland (TV series)"
   },
   {
    "q": "Which Korean Netflix reality show tests 100 contestants to find the best physique?",
    "a": "Physical: 100",
-   "p": 600
+   "p": 600,
+   "apic": "Physical: 100"
   },
   {
    "q": "Which 2018 interactive Black Mirror film let viewers choose the story's path?",
@@ -953,7 +1076,8 @@
    "p": 400,
    "alt": [
     "Black Mirror: Bandersnatch"
-   ]
+   ],
+   "apic": "Black Mirror: Bandersnatch"
   },
   {
    "q": "Which Game of Thrones creators made Netflix's 3 Body Problem?",
@@ -961,27 +1085,36 @@
    "p": 400,
    "alt": [
     "Benioff and Weiss"
-   ]
+   ],
+   "pic": "3 Body Problem (TV series)",
+   "apic": "David Benioff"
   },
   {
    "q": "Which 2023 Netflix series starring Steven Yeun and Ali Wong begins with a road rage incident?",
    "a": "Beef",
-   "p": 400
+   "p": 400,
+   "pic": "Steven Yeun",
+   "apic": "Beef (TV series)"
   },
   {
    "q": "Which 2025 British Netflix miniseries filmed every episode in one continuous take?",
    "a": "Adolescence",
-   "p": 400
+   "p": 400,
+   "apic": "Adolescence (TV series)"
   },
   {
    "q": "Which 2021 Netflix film by Zack Snyder is a zombie heist in Las Vegas?",
    "a": "Army of the Dead",
-   "p": 400
+   "p": 400,
+   "pic": "Zack Snyder",
+   "apic": "Army of the Dead"
   },
   {
    "q": "Which 2022 Netflix film stars Ryan Reynolds travelling back in time to meet his younger self?",
    "a": "The Adam Project",
-   "p": 400
+   "p": 400,
+   "pic": "Ryan Reynolds",
+   "apic": "The Adam Project"
   },
   {
    "q": "Which Netflix teen film franchise began with Lara Jean's secret love letters being sent out?",
@@ -989,7 +1122,8 @@
    "p": 400,
    "alt": [
     "To All the Boys"
-   ]
+   ],
+   "apic": "To All the Boys I've Loved Before (film)"
   },
   {
    "q": "Which actor plays Dr Refaat Ismail in Paranormal?",
@@ -1025,7 +1159,8 @@
    "q": "In which ancient Jordanian city does a school trip unleash a jinn in Netflix's Jinn?",
    "a": "Petra",
    "p": 400,
-   "ar": "البتراء"
+   "ar": "البتراء",
+   "apic": "Petra"
   },
   {
    "q": "Which Jordanian creator made and starred in AlRawabi School for Girls?",
@@ -1036,52 +1171,65 @@
   {
    "q": "Which Netflix series follows teenage Devi Vishwakumar, with tennis legend John McEnroe narrating?",
    "a": "Never Have I Ever",
-   "p": 400
+   "p": 400,
+   "pic": "John McEnroe",
+   "apic": "Never Have I Ever (TV series)"
   },
   {
    "q": "Which Netflix series follows FBI agent Peter Sutherland after a mysterious phone call?",
    "a": "The Night Agent",
-   "p": 600
+   "p": 600,
+   "apic": "The Night Agent"
   },
   {
    "q": "Which Netflix series based on Leigh Bardugo's Grishaverse books premiered in 2021?",
    "a": "Shadow and Bone",
-   "p": 600
+   "p": 600,
+   "pic": "Leigh Bardugo",
+   "apic": "Shadow and Bone (TV series)"
   },
   {
    "q": "Which Netflix documentary series profiles world-famous chefs and their kitchens?",
    "a": "Chef's Table",
-   "p": 600
+   "p": 600,
+   "apic": "Chef's Table"
   },
   {
    "q": "Which Netflix series about a horse actor who used to star in a 90s sitcom is animated?",
    "a": "BoJack Horseman",
-   "p": 400
+   "p": 400,
+   "apic": "BoJack Horseman"
   },
   {
    "q": "Which Netflix series is set in a women's prison and follows Piper Chapman?",
    "a": "Orange Is the New Black",
-   "p": 400
+   "p": 400,
+   "apic": "Orange Is the New Black"
   },
   {
    "q": "Which 2019 Netflix film by Noah Baumbach starring Adam Driver and Scarlett Johansson follows a divorce?",
    "a": "Marriage Story",
-   "p": 400
+   "p": 400,
+   "pic": "Adam Driver",
+   "apic": "Marriage Story"
   },
   {
    "q": "Which actress won an Oscar for Marriage Story?",
    "a": "Laura Dern",
-   "p": 600
+   "p": 600,
+   "apic": "Laura Dern"
   },
   {
    "q": "Which 2023 Netflix animated film follows a shape-shifting teenage girl in a medieval-futuristic kingdom?",
    "a": "Nimona",
-   "p": 600
+   "p": 600,
+   "apic": "Nimona (film)"
   },
   {
    "q": "Which 2021 Netflix animated film follows a family road trip during a robot uprising?",
    "a": "The Mitchells vs. the Machines",
-   "p": 400
+   "p": 400,
+   "apic": "The Mitchells vs. the Machines"
   },
   {
    "q": "What is the title of the London stage prequel to Stranger Things?",
@@ -1089,17 +1237,21 @@
    "p": 600,
    "alt": [
     "The First Shadow"
-   ]
+   ],
+   "apic": "Stranger Things: The First Shadow"
   },
   {
    "q": "Which 2023 Netflix film stars Julia Roberts and Mahershala Ali as strangers during a mysterious cyberattack?",
    "a": "Leave the World Behind",
-   "p": 400
+   "p": 400,
+   "pic": "Julia Roberts",
+   "apic": "Leave the World Behind (film)"
   },
   {
    "q": "Which actor plays Dr Martin Brenner in Stranger Things?",
    "a": "Matthew Modine",
-   "p": 600
+   "p": 600,
+   "apic": "Matthew Modine"
   },
   {
    "q": "What test-subject number was Henry Creel given at Hawkins Lab?",
@@ -1137,12 +1289,14 @@
   {
    "q": "Which actor plays Lucas Sinclair?",
    "a": "Caleb McLaughlin",
-   "p": 600
+   "p": 600,
+   "apic": "Caleb McLaughlin"
   },
   {
    "q": "In which Russian region is Hopper imprisoned in Stranger Things season 4?",
    "a": "Kamchatka",
-   "p": 600
+   "p": 600,
+   "apic": "Kamchatka Peninsula"
   },
   {
    "q": "What is the name of the conspiracy-theorist journalist in Stranger Things?",
@@ -1163,12 +1317,15 @@
    "p": 600,
    "alt": [
     "Alex Pina"
-   ]
+   ],
+   "pic": "Money Heist",
+   "apic": "Álex Pina"
   },
   {
    "q": "On which Spanish TV channel did Money Heist originally air before Netflix?",
    "a": "Antena 3",
-   "p": 600
+   "p": 600,
+   "apic": "Antena 3"
   },
   {
    "q": "What is the Professor's real name in Money Heist?",
@@ -1181,7 +1338,8 @@
   {
    "q": "Which actor plays Berlin in Money Heist?",
    "a": "Pedro Alonso",
-   "p": 600
+   "p": 600,
+   "apic": "Pedro Alonso"
   },
   {
    "q": "Which Money Heist robbers are Serbian cousins?",
@@ -1213,34 +1371,41 @@
   {
    "q": "Which actress played Princess Margaret in the final two seasons of The Crown?",
    "a": "Lesley Manville",
-   "p": 600
+   "p": 600,
+   "apic": "Lesley Manville"
   },
   {
    "q": "Which actor played Prince Philip in seasons 3 and 4 of The Crown?",
    "a": "Tobias Menzies",
-   "p": 600
+   "p": 600,
+   "apic": "Tobias Menzies"
   },
   {
    "q": "Which actor played Prince Philip in the final two seasons of The Crown?",
    "a": "Jonathan Pryce",
-   "p": 600
+   "p": 600,
+   "apic": "Jonathan Pryce"
   },
   {
    "q": "Which actor played Prince Charles in the final two seasons of The Crown?",
    "a": "Dominic West",
-   "p": 600
+   "p": 600,
+   "apic": "Dominic West"
   },
   {
    "q": "Which Palestinian actor played Mohamed Al-Fayed in The Crown?",
    "a": "Salim Daw",
    "p": 600,
-   "ar": "سليم ضو"
+   "ar": "سليم ضو",
+   "pic": "Mohamed Al-Fayed"
   },
   {
    "q": "Which British-Egyptian actor played Dodi Fayed in The Crown?",
    "a": "Khalid Abdalla",
    "p": 600,
-   "ar": "خالد عبد الله"
+   "ar": "خالد عبد الله",
+   "pic": "Dodi Fayed",
+   "apic": "Khalid Abdalla"
   },
   {
    "q": "Who created Wednesday?",
@@ -1258,7 +1423,8 @@
   {
    "q": "Which song by The Cramps soundtracks Wednesday's viral school dance?",
    "a": "Goo Goo Muck",
-   "p": 600
+   "p": 600,
+   "apic": "The Cramps"
   },
   {
    "q": "What is the name of the detective heroine of Wednesday's novel?",
@@ -1271,7 +1437,8 @@
   {
    "q": "Which comedian plays Uncle Fester in Wednesday?",
    "a": "Fred Armisen",
-   "p": 600
+   "p": 600,
+   "apic": "Fred Armisen"
   },
   {
    "q": "For Squid Game, Lee Jung-jae became the first Asian actor to win which Emmy category?",
@@ -1280,7 +1447,8 @@
    "alt": [
     "Lead Actor in a Drama",
     "Best Drama Actor"
-   ]
+   ],
+   "pic": "Lee Jung-jae"
   },
   {
    "q": "What is the name of the Front Man's brother, a detective who infiltrates the games?",
@@ -1293,7 +1461,8 @@
   {
    "q": "Which actress plays Queen Charlotte in Bridgerton?",
    "a": "Golda Rosheuvel",
-   "p": 600
+   "p": 600,
+   "apic": "Golda Rosheuvel"
   },
   {
    "q": "What is the surname of Kate, Anthony Bridgerton's love interest?",
@@ -1303,7 +1472,8 @@
   {
    "q": "Which string quartet's instrumental pop covers feature heavily in Bridgerton?",
    "a": "Vitamin String Quartet",
-   "p": 600
+   "p": 600,
+   "apic": "Vitamin String Quartet"
   },
   {
    "q": "What is the Duke of Hastings's first name in Bridgerton?",
@@ -1313,12 +1483,14 @@
   {
    "q": "Which Netflix co-founder was the company's first CEO?",
    "a": "Marc Randolph",
-   "p": 600
+   "p": 600,
+   "apic": "Marc Randolph"
   },
   {
    "q": "In which California town is Netflix headquartered?",
    "a": "Los Gatos",
-   "p": 600
+   "p": 600,
+   "apic": "Los Gatos, California"
   },
   {
    "q": "What name did Netflix give its short-lived 2011 plan to split off the DVD business?",
@@ -1328,34 +1500,41 @@
   {
    "q": "Which 2016 documentary short about Syrian rescue workers gave Netflix its first Oscar?",
    "a": "The White Helmets",
-   "p": 600
+   "p": 600,
+   "apic": "The White Helmets (film)"
   },
   {
    "q": "Which 2012 series starring Steven Van Zandt as a New York gangster in Norway was Netflix's first exclusive original?",
    "a": "Lilyhammer",
-   "p": 600
+   "p": 600,
+   "pic": "Steven Van Zandt",
+   "apic": "Lilyhammer"
   },
   {
    "q": "Who became co-CEO of Netflix alongside Ted Sarandos in January 2023?",
    "a": "Greg Peters",
-   "p": 600
+   "p": 600,
+   "pic": "Ted Sarandos"
   },
   {
    "q": "Which Netflix film was nominated in 2020 as the streamer's first original animated feature, directed by Sergio Pablos?",
    "a": "Klaus",
-   "p": 600
+   "p": 600,
+   "apic": "Klaus (film)"
   },
   {
    "q": "Which Egyptian author wrote the novels that inspired Paranormal?",
    "a": "Ahmed Khaled Tawfik",
    "p": 600,
-   "ar": "أحمد خالد توفيق"
+   "ar": "أحمد خالد توفيق",
+   "apic": "Ahmed Khaled Tawfik"
   },
   {
    "q": "Which Egyptian filmmaker created and co-directed Paranormal?",
    "a": "Amr Salama",
    "p": 600,
-   "ar": "عمرو سلامة"
+   "ar": "عمرو سلامة",
+   "apic": "Amr Salama"
   },
   {
    "q": "In which decade is Paranormal set?",
@@ -1379,17 +1558,21 @@
    "q": "Which Lebanese director and actress stars in Perfect Strangers?",
    "a": "Nadine Labaki",
    "p": 600,
-   "ar": "نادين لبكي"
+   "ar": "نادين لبكي",
+   "apic": "Nadine Labaki"
   },
   {
    "q": "Which Spanish Netflix teen drama is set at the exclusive Las Encinas school?",
    "a": "Elite",
-   "p": 600
+   "p": 600,
+   "apic": "Elite (TV series)"
   },
   {
    "q": "Which My Chemical Romance singer co-created The Umbrella Academy comics?",
    "a": "Gerard Way",
-   "p": 600
+   "p": 600,
+   "pic": "The Umbrella Academy (TV series)",
+   "apic": "Gerard Way"
   },
   {
    "q": "What is the name of the eccentric billionaire who adopts the Umbrella Academy children?",
@@ -1405,17 +1588,22 @@
    "p": 600,
    "alt": [
     "Cixin Liu"
-   ]
+   ],
+   "pic": "3 Body Problem (TV series)",
+   "apic": "Liu Cixin"
   },
   {
    "q": "Which 2017 David Fincher series follows FBI agents interviewing imprisoned killers?",
    "a": "Mindhunter",
-   "p": 600
+   "p": 600,
+   "pic": "David Fincher",
+   "apic": "Mindhunter (TV series)"
   },
   {
    "q": "Who directed the 2021 Netflix film The Power of the Dog, winning Best Director?",
    "a": "Jane Campion",
-   "p": 600
+   "p": 600,
+   "apic": "Jane Campion"
   },
   {
    "q": "What is the name of the marketing agency Emily works for in Paris?",
@@ -1425,17 +1613,20 @@
   {
    "q": "Which actor plays Eddie Munson in Stranger Things?",
    "a": "Joseph Quinn",
-   "p": 600
+   "p": 600,
+   "apic": "Joseph Quinn"
   },
   {
    "q": "Which actress plays Nancy Wheeler in Stranger Things?",
    "a": "Natalia Dyer",
-   "p": 600
+   "p": 600,
+   "apic": "Natalia Dyer"
   },
   {
    "q": "Which actor plays Will Byers?",
    "a": "Noah Schnapp",
-   "p": 600
+   "p": 600,
+   "apic": "Noah Schnapp"
   },
   {
    "q": "What is Max's half-brother called in Stranger Things?",
@@ -1456,7 +1647,9 @@
   {
    "q": "What city is Extraction's kidnapping rescue mission set in?",
    "a": "Dhaka",
-   "p": 600
+   "p": 600,
+   "pic": "Extraction (2020 film)",
+   "apic": "Dhaka"
   },
   {
    "q": "In The Queen's Gambit, who first teaches Beth chess in the orphanage basement?",
@@ -1478,17 +1671,22 @@
   {
    "q": "Which Netflix original film stars Will Smith as a cop with an orc partner?",
    "a": "Bright",
-   "p": 600
+   "p": 600,
+   "pic": "Will Smith",
+   "apic": "Bright (film)"
   },
   {
    "q": "Which British series, which moved from Channel 4 to Netflix, is an anthology about the dark side of technology?",
    "a": "Black Mirror",
-   "p": 600
+   "p": 600,
+   "apic": "Black Mirror"
   },
   {
    "q": "Who created Black Mirror?",
    "a": "Charlie Brooker",
-   "p": 600
+   "p": 600,
+   "pic": "Black Mirror",
+   "apic": "Charlie Brooker"
   },
   {
    "q": "Which Stranger Things character is Mike's older sister?",
@@ -1526,7 +1724,8 @@
    "p": 200,
    "alt": [
     "Margaret"
-   ]
+   ],
+   "apic": "Princess Margaret, Countess of Snowdon"
   },
   {
    "q": "How does Wednesday Addams wear her hair?",
@@ -1541,7 +1740,9 @@
   {
    "q": "Which Netflix fantasy series stars Henry Cavill as a monster hunter?",
    "a": "The Witcher",
-   "p": 200
+   "p": 200,
+   "pic": "Henry Cavill",
+   "apic": "The Witcher (TV series)"
   },
   {
    "q": "Which Nickelodeon cartoon got a Netflix live-action remake in 2024?",
@@ -1549,7 +1750,8 @@
    "p": 200,
    "alt": [
     "Avatar"
-   ]
+   ],
+   "apic": "Avatar: The Last Airbender (2024 TV series)"
   },
   {
    "q": "What does Max ride around Hawkins in Stranger Things?",
@@ -1570,22 +1772,28 @@
   {
    "q": "Which actor reprises his role as Daniel LaRusso in Cobra Kai?",
    "a": "Ralph Macchio",
-   "p": 200
+   "p": 200,
+   "apic": "Ralph Macchio"
   },
   {
    "q": "From which country does Money Heist come?",
    "a": "Spain",
-   "p": 200
+   "p": 200,
+   "apic": "Spain"
   },
   {
    "q": "From which country does the time-travel series Dark come?",
    "a": "Germany",
-   "p": 200
+   "p": 200,
+   "pic": "Dark (TV series)",
+   "apic": "Germany"
   },
   {
    "q": "Which Netflix drama charts the reign of Queen Elizabeth II?",
    "a": "The Crown",
-   "p": 200
+   "p": 200,
+   "pic": "Elizabeth II",
+   "apic": "The Crown (TV series)"
   },
   {
    "q": "Which Karate Kid rival reopens the Cobra Kai dojo?",
@@ -1615,17 +1823,21 @@
    "p": 600,
    "alt": [
     "Luis Guzman"
-   ]
+   ],
+   "apic": "Luis Guzmán"
   },
   {
    "q": "From which US city does Emily move to Paris?",
    "a": "Chicago",
-   "p": 600
+   "p": 600,
+   "pic": "Emily in Paris",
+   "apic": "Chicago"
   },
   {
    "q": "Which actress plays Daphne Bridgerton?",
    "a": "Phoebe Dynevor",
-   "p": 600
+   "p": 600,
+   "apic": "Phoebe Dynevor"
   },
   {
    "q": "What is the name of Gi-hun's childhood friend, player 218, in Squid Game?",
@@ -1660,12 +1872,14 @@
   {
    "q": "Which Netflix series follows a group of kids in Hawkins fighting creatures from another dimension?",
    "a": "Stranger Things",
-   "p": 200
+   "p": 200,
+   "apic": "Stranger Things"
   },
   {
    "q": "Which Netflix series follows a debt-ridden man who enters a deadly contest of children's games?",
    "a": "Squid Game",
-   "p": 200
+   "p": 200,
+   "apic": "Squid Game"
   },
   {
    "q": "What was unusual about Eleven's hair in the first season of Stranger Things?",
@@ -1685,32 +1899,42 @@
   {
    "q": "In which country is Lupin set?",
    "a": "France",
-   "p": 200
+   "p": 200,
+   "pic": "Lupin (TV series)",
+   "apic": "France"
   },
   {
    "q": "From which country does Pablo Escobar, the subject of Narcos, come?",
    "a": "Colombia",
-   "p": 200
+   "p": 200,
+   "pic": "Pablo Escobar",
+   "apic": "Colombia"
   },
   {
    "q": "Which Netflix Christmas film stars Kurt Russell as Santa Claus?",
    "a": "The Christmas Chronicles",
-   "p": 200
+   "p": 200,
+   "pic": "Kurt Russell",
+   "apic": "The Christmas Chronicles"
   },
   {
    "q": "Which 2020 Netflix action film stars Charlize Theron as the leader of a band of immortal warriors?",
    "a": "The Old Guard",
-   "p": 200
+   "p": 200,
+   "pic": "Charlize Theron",
+   "apic": "The Old Guard (film)"
   },
   {
    "q": "Which actress plays Enid in Wednesday?",
    "a": "Emma Myers",
-   "p": 400
+   "p": 400,
+   "apic": "Emma Myers"
   },
   {
    "q": "Which actor plays Sherlock Holmes in the Enola Holmes films?",
    "a": "Henry Cavill",
-   "p": 400
+   "p": 400,
+   "apic": "Henry Cavill"
   },
   {
    "q": "What is the nickname of the five experts who give makeovers on Queer Eye?",
@@ -1718,7 +1942,8 @@
    "p": 400,
    "alt": [
     "Fab Five"
-   ]
+   ],
+   "apic": "Queer Eye (2018 TV series)"
   },
   {
    "q": "Which Netflix baking show challenges amateurs to recreate elaborate cakes, often with funny failures?",
@@ -1726,7 +1951,8 @@
    "p": 400,
    "alt": [
     "Nailed It"
-   ]
+   ],
+   "apic": "Nailed It!"
   },
   {
    "q": "Which 2019 Spanish Netflix film is set in a prison where food descends level by level on a platform?",
@@ -1734,57 +1960,73 @@
    "p": 400,
    "alt": [
     "El hoyo"
-   ]
+   ],
+   "apic": "The Platform (2019 film)"
   },
   {
    "q": "Which Netflix animated series is based on Konami's vampire-hunting video games?",
    "a": "Castlevania",
-   "p": 400
+   "p": 400,
+   "apic": "Castlevania (TV series)"
   },
   {
    "q": "Which 2023 Netflix film stars Jennifer Lopez as an ex-assassin protecting her daughter?",
    "a": "The Mother",
-   "p": 400
+   "p": 400,
+   "pic": "Jennifer Lopez",
+   "apic": "The Mother (2023 film)"
   },
   {
    "q": "Which 2023 Netflix spy film stars Gal Gadot as an intelligence agent?",
    "a": "Heart of Stone",
-   "p": 400
+   "p": 400,
+   "pic": "Gal Gadot",
+   "apic": "Heart of Stone (2023 film)"
   },
   {
    "q": "Which Zack Snyder space saga was released on Netflix in two parts in 2023 and 2024?",
    "a": "Rebel Moon",
-   "p": 400
+   "p": 400,
+   "pic": "Zack Snyder",
+   "apic": "Rebel Moon"
   },
   {
    "q": "Which 2022 Netflix animated film follows a girl who stows away aboard a monster-hunting ship?",
    "a": "The Sea Beast",
-   "p": 400
+   "p": 400,
+   "apic": "The Sea Beast (2022 film)"
   },
   {
    "q": "Which 2015 Mexican series about a football club was Netflix's first Spanish-language original?",
    "a": "Club de Cuervos",
-   "p": 600
+   "p": 600,
+   "apic": "Club de Cuervos"
   },
   {
    "q": "Which dystopian 2016 series was Netflix's first Brazilian original?",
    "a": "3%",
-   "p": 600
+   "p": 600,
+   "apic": "3% (TV series)"
   },
   {
    "q": "Which actress played the Queen Mother in the first two seasons of The Crown?",
    "a": "Victoria Hamilton",
-   "p": 600
+   "p": 600,
+   "pic": "Queen Elizabeth The Queen Mother",
+   "apic": "Victoria Hamilton"
   },
   {
    "q": "Which actress, later an Oscar-winning writer, played Camilla in seasons 3 and 4 of The Crown?",
    "a": "Emerald Fennell",
-   "p": 600
+   "p": 600,
+   "apic": "Emerald Fennell"
   },
   {
    "q": "Which 2024 Netflix series shot in black and white stars Andrew Scott as a con man in Italy?",
    "a": "Ripley",
-   "p": 600
+   "p": 600,
+   "pic": "Andrew Scott",
+   "apic": "Ripley (TV series)"
   },
   {
    "q": "In which fictional European kingdom is A Christmas Prince set?",

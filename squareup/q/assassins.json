@@ -10,7 +10,8 @@
     "Altair",
     "Altaïr"
    ],
-   "ar": "الطائر ابن لا أحد"
+   "ar": "الطائر ابن لا أحد",
+   "apic": "Altaïr Ibn-La'Ahad"
   },
   {
    "q": "Which Florentine nobleman is the hero of Assassin's Creed II?",
@@ -19,12 +20,14 @@
    "alt": [
     "Ezio",
     "Ezio Auditore"
-   ]
+   ],
+   "apic": "Ezio Auditore da Firenze"
   },
   {
    "q": "In which country is Assassin's Creed II mainly set?",
    "a": "Italy",
-   "p": 200
+   "p": 200,
+   "apic": "Italy"
   },
   {
    "q": "In which city was Ezio born?",
@@ -32,12 +35,15 @@
    "p": 200,
    "alt": [
     "Firenze"
-   ]
+   ],
+   "pic": "Ezio Auditore da Firenze",
+   "apic": "Florence"
   },
   {
    "q": "Besides Florence, which canal city does Ezio explore in Assassin's Creed II?",
    "a": "Venice",
-   "p": 200
+   "p": 200,
+   "apic": "Venice"
   },
   {
    "q": "Which Leonardo invention lets Ezio glide over Venice?",
@@ -54,7 +60,8 @@
    "alt": [
     "Leonardo",
     "Da Vinci"
-   ]
+   ],
+   "apic": "Leonardo da Vinci"
   },
   {
    "q": "Which Italian family are the main villains of Assassin's Creed II and Brotherhood?",
@@ -63,12 +70,14 @@
    "alt": [
     "The Borgias",
     "Borgias"
-   ]
+   ],
+   "apic": "House of Borgia"
   },
   {
    "q": "In which city is Assassin's Creed Brotherhood set?",
    "a": "Rome",
-   "p": 200
+   "p": 200,
+   "apic": "Rome"
   },
   {
    "q": "In which city is Assassin's Creed Revelations mainly set?",
@@ -76,7 +85,8 @@
    "p": 200,
    "alt": [
     "Istanbul"
-   ]
+   ],
+   "apic": "Constantinople"
   },
   {
    "q": "During which war is Assassin's Creed III set?",
@@ -85,7 +95,8 @@
    "alt": [
     "American Revolution",
     "American War of Independence"
-   ]
+   ],
+   "apic": "American Revolutionary War"
   },
   {
    "q": "Who is the Native American hero of Assassin's Creed III?",
@@ -99,7 +110,8 @@
   {
    "q": "Which axe does Connor famously wield?",
    "a": "Tomahawk",
-   "p": 200
+   "p": 200,
+   "apic": "Tomahawk"
   },
   {
    "q": "Which American Continental Army commander appears in Assassin's Creed III?",
@@ -107,7 +119,8 @@
    "p": 200,
    "alt": [
     "Washington"
-   ]
+   ],
+   "apic": "George Washington"
   },
   {
    "q": "Which Welsh pirate stars in Assassin's Creed IV: Black Flag?",
@@ -115,7 +128,8 @@
    "p": 200,
    "alt": [
     "Edward"
-   ]
+   ],
+   "apic": "Edward Kenway"
   },
   {
    "q": "In which sea is Black Flag mainly set?",
@@ -123,7 +137,8 @@
    "p": 200,
    "alt": [
     "Caribbean Sea"
-   ]
+   ],
+   "apic": "Caribbean"
   },
   {
    "q": "Which famous bearded pirate appears in Black Flag?",
@@ -132,7 +147,8 @@
    "alt": [
     "Edward Thatch",
     "Edward Teach"
-   ]
+   ],
+   "apic": "Blackbeard"
   },
   {
    "q": "What do Edward's crew sing while sailing in Black Flag?",
@@ -140,17 +156,20 @@
    "p": 200,
    "alt": [
     "Shanties"
-   ]
+   ],
+   "apic": "Sea shanty"
   },
   {
    "q": "During which revolution is Assassin's Creed Unity set?",
    "a": "French Revolution",
-   "p": 200
+   "p": 200,
+   "apic": "French Revolution"
   },
   {
    "q": "In which city is Assassin's Creed Unity set?",
    "a": "Paris",
-   "p": 200
+   "p": 200,
+   "apic": "Paris"
   },
   {
    "q": "Who is the hero of Assassin's Creed Unity?",
@@ -166,12 +185,14 @@
    "p": 200,
    "alt": [
     "Napoleon"
-   ]
+   ],
+   "apic": "Napoleon"
   },
   {
    "q": "In which city is Assassin's Creed Syndicate set?",
    "a": "London",
-   "p": 200
+   "p": 200,
+   "apic": "London"
   },
   {
    "q": "Which twin siblings star in Assassin's Creed Syndicate?",
@@ -189,7 +210,8 @@
    "alt": [
     "Ancient Egypt",
     "Ptolemaic Egypt"
-   ]
+   ],
+   "apic": "Ancient Egypt"
   },
   {
    "q": "Who is the hero of Assassin's Creed Origins?",
@@ -202,7 +224,8 @@
   {
    "q": "Which Egyptian queen appears in Assassin's Creed Origins?",
    "a": "Cleopatra",
-   "p": 200
+   "p": 200,
+   "apic": "Cleopatra"
   },
   {
    "q": "Which Roman dictator appears in Assassin's Creed Origins?",
@@ -210,7 +233,8 @@
    "p": 200,
    "alt": [
     "Caesar"
-   ]
+   ],
+   "apic": "Julius Caesar"
   },
   {
    "q": "In which ancient land is Assassin's Creed Odyssey set?",
@@ -218,7 +242,8 @@
    "p": 200,
    "alt": [
     "Ancient Greece"
-   ]
+   ],
+   "apic": "Ancient Greece"
   },
   {
    "q": "Who is the female hero you can choose in Assassin's Creed Odyssey?",
@@ -236,7 +261,8 @@
   {
    "q": "Which snake-haired monster can be fought in Assassin's Creed Odyssey?",
    "a": "Medusa",
-   "p": 200
+   "p": 200,
+   "apic": "Medusa"
   },
   {
    "q": "Which AC game let you choose between two siblings as the hero, Alexios or Kassandra?",
@@ -244,12 +270,14 @@
    "p": 200,
    "alt": [
     "Odyssey"
-   ]
+   ],
+   "apic": "Assassin's Creed Odyssey"
   },
   {
    "q": "Which seafaring Norse raiders are the focus of Assassin's Creed Valhalla?",
    "a": "Vikings",
-   "p": 200
+   "p": 200,
+   "apic": "Vikings"
   },
   {
    "q": "Who is the hero of Assassin's Creed Valhalla?",
@@ -264,7 +292,8 @@
    "q": "In which city is Assassin's Creed Mirage set?",
    "a": "Baghdad",
    "p": 200,
-   "ar": "بغداد"
+   "ar": "بغداد",
+   "apic": "Baghdad"
   },
   {
    "q": "Who is the hero of Assassin's Creed Mirage?",
@@ -281,12 +310,14 @@
    "p": 200,
    "alt": [
     "Feudal Japan"
-   ]
+   ],
+   "apic": "Japan"
   },
   {
    "q": "Which samurai of African origin is a playable hero of Assassin's Creed Shadows?",
    "a": "Yasuke",
-   "p": 200
+   "p": 200,
+   "apic": "Yasuke"
   },
   {
    "q": "Who is the shinobi heroine of Assassin's Creed Shadows?",
@@ -319,7 +350,8 @@
    "alt": [
     "Knights Templar",
     "Templar Order"
-   ]
+   ],
+   "apic": "Knights Templar"
   },
   {
    "q": "What is the name of the series' famous high dive from rooftops and viewpoints?",
@@ -352,12 +384,14 @@
   {
    "q": "Which company publishes Assassin's Creed?",
    "a": "Ubisoft",
-   "p": 200
+   "p": 200,
+   "apic": "Ubisoft"
   },
   {
    "q": "In which country is Ubisoft headquartered?",
    "a": "France",
-   "p": 200
+   "p": 200,
+   "apic": "France"
   },
   {
    "q": "Who is the modern-day hero who relives the memories of Altaïr and Ezio?",
@@ -365,7 +399,8 @@
    "p": 200,
    "alt": [
     "Desmond"
-   ]
+   ],
+   "apic": "Desmond Miles"
   },
   {
    "q": "What do players climb to synchronise and reveal the surrounding map?",
@@ -382,7 +417,8 @@
    "p": 200,
    "alt": [
     "Fassbender"
-   ]
+   ],
+   "apic": "Michael Fassbender"
   },
   {
    "q": "What colour are the classic Assassin robes of Altaïr and Ezio?",
@@ -392,7 +428,8 @@
   {
    "q": "What bird is closely tied to the Assassins and appears circling viewpoints?",
    "a": "Eagle",
-   "p": 200
+   "p": 200,
+   "apic": "Eagle"
   },
   {
    "q": "Which golden orb from the first game can control minds?",
@@ -422,7 +459,8 @@
    "p": 200,
    "alt": [
     "The Third Crusade"
-   ]
+   ],
+   "apic": "Third Crusade"
   },
   {
    "q": "What wrist-mounted hooked blade does Ezio use in Revelations?",
@@ -438,7 +476,8 @@
    "p": 200,
    "alt": [
     "Brotherhood"
-   ]
+   ],
+   "apic": "Assassin's Creed: Brotherhood"
   },
   {
    "q": "What happens when you stray too far from an ancestor's real actions?",
@@ -456,7 +495,8 @@
    "alt": [
     "AC3",
     "III"
-   ]
+   ],
+   "apic": "Assassin's Creed III"
   },
   {
    "q": "Which Assassin's Creed game is set in the Golden Age of Piracy?",
@@ -465,7 +505,8 @@
    "alt": [
     "Black Flag",
     "AC4"
-   ]
+   ],
+   "apic": "Assassin's Creed IV: Black Flag"
   },
   {
    "q": "Which English king of Wessex appears in Valhalla?",
@@ -474,12 +515,14 @@
    "alt": [
     "King Alfred",
     "Alfred"
-   ]
+   ],
+   "apic": "Alfred the Great"
   },
   {
    "q": "From which country does Eivor's clan sail to England?",
    "a": "Norway",
-   "p": 200
+   "p": 200,
+   "apic": "Norway"
   },
   {
    "q": "In which year was Assassin's Creed Shadows released?",
@@ -492,12 +535,14 @@
    "p": 200,
    "alt": [
     "Nobunaga"
-   ]
+   ],
+   "apic": "Oda Nobunaga"
   },
   {
    "q": "Which legendary sunken city does Odyssey's three-part story expansion explore?",
    "a": "Atlantis",
-   "p": 200
+   "p": 200,
+   "apic": "Atlantis"
   },
   {
    "q": "Which half-bull monster can be fought in Assassin's Creed Odyssey?",
@@ -505,7 +550,8 @@
    "p": 200,
    "alt": [
     "The Minotaur"
-   ]
+   ],
+   "apic": "Minotaur"
   },
   {
    "q": "Which Ezio relative in Assassin's Creed II shares his name with Nintendo's famous plumber?",
@@ -538,12 +584,14 @@
    "p": 200,
    "alt": [
     "Dickens"
-   ]
+   ],
+   "apic": "Charles Dickens"
   },
   {
    "q": "Which Greek philosopher known for asking endless questions appears in Odyssey?",
    "a": "Socrates",
-   "p": 200
+   "p": 200,
+   "apic": "Socrates"
   },
   {
    "q": "Which Spartan king of Thermopylae is the grandfather of Odyssey's hero?",
@@ -551,7 +599,8 @@
    "p": 200,
    "alt": [
     "King Leonidas"
-   ]
+   ],
+   "apic": "Leonidas I"
   },
   {
    "q": "Which famous Egyptian monuments can Bayek climb at Giza?",
@@ -560,7 +609,8 @@
    "alt": [
     "Pyramids",
     "Great Pyramid"
-   ]
+   ],
+   "apic": "Giza pyramid complex"
   },
   {
    "q": "Which famous temple on the Athenian Acropolis can be climbed in Odyssey?",
@@ -568,7 +618,8 @@
    "p": 200,
    "alt": [
     "The Parthenon"
-   ]
+   ],
+   "apic": "Parthenon"
   },
   {
    "q": "Which famous London clock tower can be climbed in Syndicate?",
@@ -577,7 +628,8 @@
    "alt": [
     "Elizabeth Tower",
     "Clock Tower"
-   ]
+   ],
+   "apic": "Big Ben"
   },
   {
    "q": "Which famous Paris cathedral can Arno climb in Unity?",
@@ -586,7 +638,8 @@
    "alt": [
     "Notre-Dame de Paris",
     "Notre Dame"
-   ]
+   ],
+   "apic": "Notre-Dame de Paris"
   },
   {
    "q": "Which ancient Roman amphitheatre can Ezio climb in Brotherhood?",
@@ -594,23 +647,27 @@
    "p": 200,
    "alt": [
     "The Colosseum"
-   ]
+   ],
+   "apic": "Colosseum"
   },
   {
    "q": "Which Egyptian city founded by Alexander the Great is a major location in Origins?",
    "a": "Alexandria",
    "p": 200,
-   "ar": "الإسكندرية"
+   "ar": "الإسكندرية",
+   "apic": "Alexandria"
   },
   {
    "q": "Which Greek city-state is Kassandra from?",
    "a": "Sparta",
-   "p": 200
+   "p": 200,
+   "apic": "Sparta"
   },
   {
    "q": "Which city-state is Sparta's great rival in Odyssey?",
    "a": "Athens",
-   "p": 200
+   "p": 200,
+   "apic": "Athens"
   },
   {
    "q": "What kind of ship do Eivor's raiders sail?",
@@ -618,12 +675,14 @@
    "p": 200,
    "alt": [
     "Longboat"
-   ]
+   ],
+   "apic": "Longship"
   },
   {
    "q": "In which country does most of Valhalla take place?",
    "a": "England",
-   "p": 200
+   "p": 200,
+   "apic": "England"
   },
   {
    "q": "In how many main games is Ezio the hero?",
@@ -649,7 +708,8 @@
    "p": 200,
    "alt": [
     "Victoria"
-   ]
+   ],
+   "apic": "Queen Victoria"
   },
   {
    "q": "What is the name of Bayek's wife?",
@@ -662,7 +722,8 @@
    "p": 200,
    "alt": [
     "Olympics"
-   ]
+   ],
+   "apic": "Ancient Olympic Games"
   },
   {
    "q": "Which large wooden club does Yasuke wield in Shadows?",
@@ -670,7 +731,8 @@
    "p": 200,
    "alt": [
     "Kanabo"
-   ]
+   ],
+   "apic": "Kanabō"
   },
   {
    "q": "What is the name of Edward Kenway's ship?",
@@ -683,12 +745,14 @@
   {
    "q": "What is the name of the pirate republic's capital in Black Flag?",
    "a": "Nassau",
-   "p": 400
+   "p": 400,
+   "apic": "Nassau, Bahamas"
   },
   {
    "q": "Which Ubisoft series did Assassin's Creed begin as a spin-off of during development?",
    "a": "Prince of Persia",
-   "p": 400
+   "p": 400,
+   "apic": "Prince of Persia"
   },
   {
    "q": "Which educational, combat-free mode was added to Origins?",
@@ -704,7 +768,8 @@
    "q": "Which Assassin fortress is Altaïr's home base?",
    "a": "Masyaf",
    "p": 400,
-   "ar": "مصياف"
+   "ar": "مصياف",
+   "apic": "Masyaf Castle"
   },
   {
    "q": "Who is the Assassin mentor in the first Assassin's Creed?",
@@ -719,7 +784,8 @@
    "alt": [
     "Richard I",
     "King Richard"
-   ]
+   ],
+   "apic": "Richard I of England"
   },
   {
    "q": "Which Abstergo scientist holds Desmond captive in the first game?",
@@ -778,7 +844,8 @@
   {
    "q": "Which Tuscan town is home to the Auditore family villa?",
    "a": "Monteriggioni",
-   "p": 400
+   "p": 400,
+   "apic": "Monteriggioni"
   },
   {
    "q": "Which Florentine political writer becomes an Assassin ally of Ezio?",
@@ -787,7 +854,8 @@
    "alt": [
     "Machiavelli",
     "Niccolo Machiavelli"
-   ]
+   ],
+   "apic": "Niccolò Machiavelli"
   },
   {
    "q": "Which Borgia patriarch is Ezio's main enemy in Assassin's Creed II?",
@@ -795,7 +863,8 @@
    "p": 400,
    "alt": [
     "Rodrigo"
-   ]
+   ],
+   "apic": "Pope Alexander VI"
   },
   {
    "q": "Which ruthless Borgia son is the villain of Brotherhood?",
@@ -803,7 +872,8 @@
    "p": 400,
    "alt": [
     "Cesare"
-   ]
+   ],
+   "apic": "Cesare Borgia"
   },
   {
    "q": "Which Florentine family plots against the Medici in Assassin's Creed II?",
@@ -812,7 +882,8 @@
    "alt": [
     "The Pazzi",
     "Pazzi family"
-   ]
+   ],
+   "apic": "Pazzi family"
   },
   {
    "q": "Which Medici ruler of Florence does Ezio protect?",
@@ -821,7 +892,8 @@
    "alt": [
     "Lorenzo Medici",
     "Lorenzo"
-   ]
+   ],
+   "apic": "Lorenzo de' Medici"
   },
   {
    "q": "What is the currency of Assassin's Creed II?",
@@ -829,7 +901,8 @@
    "p": 400,
    "alt": [
     "Florin"
-   ]
+   ],
+   "apic": "Florin"
   },
   {
    "q": "Who is Connor's Templar father?",
@@ -853,17 +926,20 @@
    "p": 400,
    "alt": [
     "Revere"
-   ]
+   ],
+   "apic": "Paul Revere"
   },
   {
    "q": "Which 1773 protest in Boston does Connor take part in?",
    "a": "Boston Tea Party",
-   "p": 400
+   "p": 400,
+   "apic": "Boston Tea Party"
   },
   {
    "q": "Which rope weapon lets Connor hang enemies from trees?",
    "a": "Rope dart",
-   "p": 400
+   "p": 400,
+   "apic": "Rope dart"
   },
   {
    "q": "To which Native American nation does Connor belong?",
@@ -871,7 +947,8 @@
    "p": 400,
    "alt": [
     "Kanien'kehá:ka"
-   ]
+   ],
+   "apic": "Mohawk people"
   },
   {
    "q": "Besides Boston, which major colonial city can Connor explore?",
@@ -879,7 +956,8 @@
    "p": 400,
    "alt": [
     "New York City"
-   ]
+   ],
+   "apic": "New York City"
   },
   {
    "q": "Which former slave is Edward Kenway's quartermaster?",
@@ -917,7 +995,8 @@
    "p": 400,
    "alt": [
     "Robespierre"
-   ]
+   ],
+   "apic": "Maximilien Robespierre"
   },
   {
    "q": "What is the name of the Frye twins' London street gang?",
@@ -933,7 +1012,8 @@
    "p": 400,
    "alt": [
     "Darwin"
-   ]
+   ],
+   "apic": "Charles Darwin"
   },
   {
    "q": "Which telephone inventor helps the Frye twins with gadgets?",
@@ -941,7 +1021,8 @@
    "p": 400,
    "alt": [
     "Graham Bell"
-   ]
+   ],
+   "apic": "Alexander Graham Bell"
   },
   {
    "q": "What protector title does Bayek hold?",
@@ -952,7 +1033,8 @@
    "q": "In which oasis village is Bayek's home?",
    "a": "Siwa",
    "p": 400,
-   "ar": "سيوة"
+   "ar": "سيوة",
+   "apic": "Siwa Oasis"
   },
   {
    "q": "What group, forerunners of the Templars, does Bayek fight?",
@@ -982,7 +1064,8 @@
   {
    "q": "Which war between Athens and Sparta is the setting of Odyssey?",
    "a": "Peloponnesian War",
-   "p": 400
+   "p": 400,
+   "apic": "Peloponnesian War"
   },
   {
    "q": "Which secretive cult controls Greece from the shadows in Odyssey?",
@@ -1013,7 +1096,8 @@
   {
    "q": "Which Greek historian travels with the Odyssey hero?",
    "a": "Herodotus",
-   "p": 400
+   "p": 400,
+   "apic": "Herodotus"
   },
   {
    "q": "What is Valhalla's Viking insult-poetry contest called?",
@@ -1026,7 +1110,8 @@
    "p": 400,
    "alt": [
     "Havi"
-   ]
+   ],
+   "apic": "Odin"
   },
   {
    "q": "What is Eivor's settlement in England called?",
@@ -1045,7 +1130,8 @@
    "alt": [
     "Bayt al-Hikma"
    ],
-   "ar": "بيت الحكمة"
+   "ar": "بيت الحكمة",
+   "apic": "House of Wisdom"
   },
   {
    "q": "Under which caliphate is Assassin's Creed Mirage set?",
@@ -1054,7 +1140,8 @@
    "alt": [
     "Abbasids"
    ],
-   "ar": "الخلافة العباسية"
+   "ar": "الخلافة العباسية",
+   "apic": "Abbasid Caliphate"
   },
   {
    "q": "What does Basim do for a living at the start of Mirage?",
@@ -1069,7 +1156,8 @@
    "q": "Which mountain fortress is the Hidden Ones' base in Mirage?",
    "a": "Alamut",
    "p": 400,
-   "ar": "ألموت"
+   "ar": "ألموت",
+   "apic": "Alamut Castle"
   },
   {
    "q": "In which era of Japanese history is Assassin's Creed Shadows set?",
@@ -1078,7 +1166,8 @@
    "alt": [
     "Sengoku",
     "Warring States period"
-   ]
+   ],
+   "apic": "Sengoku period"
   },
   {
    "q": "From which Japanese province does Naoe come?",
@@ -1086,12 +1175,14 @@
    "p": 400,
    "alt": [
     "Iga Province"
-   ]
+   ],
+   "apic": "Iga Province"
   },
   {
    "q": "Which Ubisoft studio led development of the first Assassin's Creed?",
    "a": "Ubisoft Montreal",
-   "p": 400
+   "p": 400,
+   "apic": "Ubisoft Montreal"
   },
   {
    "q": "Which family of brothers founded Ubisoft?",
@@ -1107,12 +1198,14 @@
    "p": 400,
    "alt": [
     "Cotillard"
-   ]
+   ],
+   "apic": "Marion Cotillard"
   },
   {
    "q": "In which American city is Assassin's Creed III: Liberation set?",
    "a": "New Orleans",
-   "p": 400
+   "p": 400,
+   "apic": "New Orleans"
   },
   {
    "q": "Which modern-day hero dies saving the world at the end of Assassin's Creed III?",
@@ -1120,12 +1213,14 @@
    "p": 400,
    "alt": [
     "Desmond"
-   ]
+   ],
+   "apic": "Desmond Miles"
   },
   {
    "q": "Which Isu figure manipulates events as the main modern-day villain after AC III?",
    "a": "Juno",
-   "p": 400
+   "p": 400,
+   "apic": "Juno (mythology)"
   },
   {
    "q": "Which Venetian woman does Ezio marry?",
@@ -1141,7 +1236,8 @@
    "p": 400,
    "alt": [
     "Süleyman"
-   ]
+   ],
+   "apic": "Suleiman the Magnificent"
   },
   {
    "q": "What objects does Ezio collect to open Altaïr's library?",
@@ -1175,7 +1271,8 @@
    "p": 400,
    "alt": [
     "Brotherhood"
-   ]
+   ],
+   "apic": "Assassin's Creed: Brotherhood"
   },
   {
    "q": "Which DLC for Valhalla is set in Ireland?",
@@ -1195,7 +1292,8 @@
   {
    "q": "Which Syndicate DLC has Jacob hunting a notorious Whitechapel killer?",
    "a": "Jack the Ripper",
-   "p": 400
+   "p": 400,
+   "apic": "Jack the Ripper"
   },
   {
    "q": "Which 2009 short-film series showed Ezio's father Giovanni at work?",
@@ -1227,7 +1325,8 @@
    "p": 400,
    "alt": [
     "Robert de Sable"
-   ]
+   ],
+   "apic": "Robert de Sablé"
   },
   {
    "q": "What is the name of Altaïr's one-armed fellow Assassin?",
@@ -1241,7 +1340,8 @@
   {
    "q": "Which chain-and-sickle weapon does Naoe use in Shadows?",
    "a": "Kusarigama",
-   "p": 400
+   "p": 400,
+   "apic": "Kusarigama"
   },
   {
    "q": "In which year was Assassin's Creed II released?",
@@ -1305,7 +1405,8 @@
    "p": 400,
    "alt": [
     "Ivarr"
-   ]
+   ],
+   "apic": "Ivar the Boneless"
   },
   {
    "q": "Which clan does Eivor belong to?",
@@ -1318,7 +1419,8 @@
   {
    "q": "Which realm of the Norse gods does Eivor visit in visions?",
    "a": "Asgard",
-   "p": 400
+   "p": 400,
+   "apic": "Asgard"
   },
   {
    "q": "What was the circular walled heart of Abbasid Baghdad called?",
@@ -1327,7 +1429,8 @@
    "alt": [
     "The Round City"
    ],
-   "ar": "المدينة المدورة"
+   "ar": "المدينة المدورة",
+   "apic": "Round city of Baghdad"
   },
   {
    "q": "What title does the head of an Assassin brotherhood hold?",
@@ -1337,7 +1440,8 @@
   {
    "q": "Which female pirate, a companion of Mary Read, appears in Black Flag?",
    "a": "Anne Bonny",
-   "p": 400
+   "p": 400,
+   "apic": "Anne Bonny"
   },
   {
    "q": "Which nurse and founder of modern nursing appears in Syndicate?",
@@ -1345,17 +1449,20 @@
    "p": 400,
    "alt": [
     "Nightingale"
-   ]
+   ],
+   "apic": "Florence Nightingale"
   },
   {
    "q": "Which Athenian statesman is an important ally in Odyssey?",
    "a": "Pericles",
-   "p": 400
+   "p": 400,
+   "apic": "Pericles"
   },
   {
    "q": "Which \"father of medicine\" appears in Odyssey?",
    "a": "Hippocrates",
-   "p": 400
+   "p": 400,
+   "apic": "Hippocrates"
   },
   {
    "q": "What does Altaïr's surname, Ibn-La'Ahad, mean?",
@@ -1370,7 +1477,8 @@
    "q": "Which port city in the first game is under Crusader control?",
    "a": "Acre",
    "p": 600,
-   "ar": "عكا"
+   "ar": "عكا",
+   "apic": "Acre, Israel"
   },
   {
    "q": "Which English Templar does Altaïr later marry?",
@@ -1405,7 +1513,8 @@
   {
    "q": "In which city does Ezio die in the short film Embers?",
    "a": "Florence",
-   "p": 600
+   "p": 600,
+   "apic": "Florence"
   },
   {
    "q": "Which Chinese Assassin, trained by Ezio, appears in Embers and Chronicles: China?",
@@ -1426,7 +1535,8 @@
    "p": 600,
    "alt": [
     "Caterina"
-   ]
+   ],
+   "apic": "Caterina Sforza"
   },
   {
    "q": "Which suit of armour, hidden beneath Monteriggioni, did Altaïr once wear?",
@@ -1459,7 +1569,8 @@
    "p": 600,
    "alt": [
     "Lee"
-   ]
+   ],
+   "apic": "Charles Lee (general)"
   },
   {
    "q": "Which Assassin's Creed III DLC imagines George Washington as a tyrant?",
@@ -1483,7 +1594,8 @@
    "p": 600,
    "alt": [
     "French and Indian War"
-   ]
+   ],
+   "apic": "Seven Years' War"
   },
   {
    "q": "Which Ubisoft studio led development of Assassin's Creed Rogue?",
@@ -1493,7 +1605,8 @@
   {
    "q": "Which pirate, disguised as a man, uses the name James Kidd in Black Flag?",
    "a": "Mary Read",
-   "p": 600
+   "p": 600,
+   "apic": "Mary Read"
   },
   {
    "q": "Whose identity does Edward steal early in Black Flag?",
@@ -1509,7 +1622,8 @@
    "p": 600,
    "alt": [
     "Black Bart"
-   ]
+   ],
+   "apic": "Bartholomew Roberts"
   },
   {
    "q": "Which Grand Master leads the Templar Order against Arno in Unity?",
@@ -1543,7 +1657,8 @@
   {
    "q": "Which curved knife is one of the Frye twins' signature weapons?",
    "a": "Kukri",
-   "p": 600
+   "p": 600,
+   "apic": "Kukri"
   },
   {
    "q": "What name does Aya take after joining the Hidden Ones?",
@@ -1561,7 +1676,8 @@
    "p": 600,
    "alt": [
     "Ptolemy"
-   ]
+   ],
+   "apic": "Ptolemy XIII"
   },
   {
    "q": "Which Origins DLC brings undead pharaohs to Thebes?",
@@ -1577,7 +1693,8 @@
    "p": 600,
    "alt": [
     "Cephalonia"
-   ]
+   ],
+   "apic": "Kefalonia"
   },
   {
    "q": "What is the name of the Odyssey hero's ship?",
@@ -1634,7 +1751,8 @@
   {
    "q": "Which Norse trickster god is Basim revealed to be connected to?",
    "a": "Loki",
-   "p": 600
+   "p": 600,
+   "apic": "Loki"
   },
   {
    "q": "Which Valhalla dice game can be played in taverns?",
@@ -1666,12 +1784,14 @@
    "alt": [
     "Patrice Desilets",
     "Désilets"
-   ]
+   ],
+   "apic": "Patrice Désilets"
   },
   {
    "q": "Which producer led the first Assassin's Creed's development?",
    "a": "Jade Raymond",
-   "p": 600
+   "p": 600,
+   "apic": "Jade Raymond"
   },
   {
    "q": "In which year was Ubisoft founded?",
@@ -1684,7 +1804,8 @@
    "p": 600,
    "alt": [
     "Kurzel"
-   ]
+   ],
+   "apic": "Justin Kurzel"
   },
   {
    "q": "What is the name of Michael Fassbender's modern-day character in the film?",
@@ -1708,7 +1829,8 @@
    "p": 600,
    "alt": [
     "The Inquisition"
-   ]
+   ],
+   "apic": "Spanish Inquisition"
   },
   {
    "q": "Under which pen name were the official Assassin's Creed novels published?",
@@ -1763,7 +1885,8 @@
    "alt": [
     "A solar flare",
     "The Toba catastrophe"
-   ]
+   ],
+   "apic": "Solar flare"
   },
   {
    "q": "What is the name of Abstergo's consumer version of the Animus?",
@@ -1776,7 +1899,8 @@
   {
    "q": "Which Isu speaks directly to Desmond through Ezio's memories at the end of Assassin's Creed II?",
    "a": "Minerva",
-   "p": 600
+   "p": 600,
+   "apic": "Minerva"
   },
   {
    "q": "What concealed firearm does Leonardo build into Ezio's hidden blade?",
@@ -1844,7 +1968,8 @@
   {
    "q": "Which Persian assassin of King Xerxes appears in Legacy of the First Blade?",
    "a": "Darius",
-   "p": 600
+   "p": 600,
+   "apic": "Darius I"
   },
   {
    "q": "Which young Hidden One is Basim's apprentice in Valhalla?",
@@ -1860,12 +1985,14 @@
    "p": 600,
    "alt": [
     "Church"
-   ]
+   ],
+   "apic": "Benjamin Church (physician)"
   },
   {
    "q": "Which pirate called \"the Gentleman Pirate\" appears in Black Flag?",
    "a": "Stede Bonnet",
-   "p": 600
+   "p": 600,
+   "apic": "Stede Bonnet"
   },
   {
    "q": "Which hot-headed pirate captain clashes with Edward over Nassau's future?",
@@ -1873,7 +2000,8 @@
    "p": 600,
    "alt": [
     "Vane"
-   ]
+   ],
+   "apic": "Charles Vane"
   },
   {
    "q": "Which silent weapon does Shay use to fire darts and grenades?",
@@ -1899,17 +2027,20 @@
    "p": 600,
    "alt": [
     "Pompey the Great"
-   ]
+   ],
+   "apic": "Pompey"
   },
   {
    "q": "Which Athenian general and politician can become the hero's romantic ally in Odyssey?",
    "a": "Alcibiades",
-   "p": 600
+   "p": 600,
+   "apic": "Alcibiades"
   },
   {
    "q": "Which mathematician is revealed as Kassandra's biological father?",
    "a": "Pythagoras",
-   "p": 600
+   "p": 600,
+   "apic": "Pythagoras"
   },
   {
    "q": "From which mountain was the Odyssey hero thrown as a child?",
@@ -1917,7 +2048,8 @@
    "p": 600,
    "alt": [
     "Taygetos"
-   ]
+   ],
+   "apic": "Taygetus"
   },
   {
    "q": "What nickname does Eivor earn after surviving a wolf attack as a child?",
@@ -1930,7 +2062,8 @@
   {
    "q": "Which Spartan general is a friend of the hero in Odyssey and dies at Amphipolis?",
    "a": "Brasidas",
-   "p": 600
+   "p": 600,
+   "apic": "Brasidas"
   }
  ]
 }

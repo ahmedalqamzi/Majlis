@@ -20,32 +20,39 @@
   {
    "q": "What was the first World of Warcraft expansion?",
    "a": "The Burning Crusade",
-   "p": 200
+   "p": 200,
+   "pic": "World of Warcraft",
+   "apic": "World of Warcraft: The Burning Crusade"
   },
   {
    "q": "Which fallen prince of Lordaeron became the Lich King?",
    "a": "Arthas Menethil",
-   "p": 200
+   "p": 200,
+   "apic": "Arthas Menethil"
   },
   {
    "q": "Which orc shaman, raised as a slave, became Warchief of the new Horde?",
    "a": "Thrall",
-   "p": 200
+   "p": 200,
+   "apic": "Thrall (Warcraft)"
   },
   {
    "q": "Which mage is the Lord Admiral of Kul Tiras and a Proudmoore?",
    "a": "Jaina Proudmoore",
-   "p": 200
+   "p": 200,
+   "apic": "Jaina Proudmoore"
   },
   {
    "q": "Which Banshee Queen led the Forsaken?",
    "a": "Sylvanas Windrunner",
-   "p": 200
+   "p": 200,
+   "apic": "Sylvanas Windrunner"
   },
   {
    "q": "Which blindfolded night elf demon hunter is known as The Betrayer?",
    "a": "Illidan Stormrage",
-   "p": 200
+   "p": 200,
+   "apic": "Illidan Stormrage"
   },
   {
    "q": "What is the capital city of the Forsaken?",
@@ -110,22 +117,26 @@
   {
    "q": "Which expansion introduced the Pandaren race?",
    "a": "Mists of Pandaria",
-   "p": 200
+   "p": 200,
+   "apic": "World of Warcraft: Mists of Pandaria"
   },
   {
    "q": "Which expansion introduced the Death Knight class?",
    "a": "Wrath of the Lich King",
-   "p": 200
+   "p": 200,
+   "apic": "World of Warcraft: Wrath of the Lich King"
   },
   {
    "q": "Which expansion introduced the Demon Hunter class?",
    "a": "Legion",
-   "p": 200
+   "p": 200,
+   "apic": "World of Warcraft: Legion"
   },
   {
    "q": "Which company developed World of Warcraft?",
    "a": "Blizzard Entertainment",
-   "p": 200
+   "p": 200,
+   "apic": "Blizzard Entertainment"
   },
   {
    "q": "What is the name of the world where WoW is set?",
@@ -135,7 +146,8 @@
   {
    "q": "Which Blizzard digital card game is set in the Warcraft universe?",
    "a": "Hearthstone",
-   "p": 200
+   "p": 200,
+   "apic": "Hearthstone"
   },
   {
    "q": "Which black dragon's return shattered Azeroth in Cataclysm?",
@@ -178,47 +190,64 @@
    "p": 200,
    "yt": "BCr7y4SLhck",
    "start": 20,
-   "end": 45
+   "end": 45,
+   "apic": "World of Warcraft: Wrath of the Lich King"
   },
   {
    "q": "Which expansion directly followed The Burning Crusade?",
    "a": "Wrath of the Lich King",
-   "p": 400
+   "p": 400,
+   "pic": "World of Warcraft: The Burning Crusade",
+   "apic": "World of Warcraft: Wrath of the Lich King"
   },
   {
    "q": "Which expansion directly followed Wrath of the Lich King?",
    "a": "Cataclysm",
-   "p": 400
+   "p": 400,
+   "pic": "World of Warcraft: Wrath of the Lich King",
+   "apic": "World of Warcraft: Cataclysm"
   },
   {
    "q": "Which expansion directly followed Cataclysm?",
    "a": "Mists of Pandaria",
-   "p": 400
+   "p": 400,
+   "pic": "World of Warcraft: Cataclysm",
+   "apic": "World of Warcraft: Mists of Pandaria"
   },
   {
    "q": "Which expansion directly followed Mists of Pandaria?",
    "a": "Warlords of Draenor",
-   "p": 400
+   "p": 400,
+   "pic": "World of Warcraft: Mists of Pandaria",
+   "apic": "World of Warcraft: Warlords of Draenor"
   },
   {
    "q": "Which expansion directly followed Warlords of Draenor?",
    "a": "Legion",
-   "p": 400
+   "p": 400,
+   "pic": "World of Warcraft: Warlords of Draenor",
+   "apic": "World of Warcraft: Legion"
   },
   {
    "q": "Which expansion directly followed Legion?",
    "a": "Battle for Azeroth",
-   "p": 400
+   "p": 400,
+   "pic": "World of Warcraft: Legion",
+   "apic": "World of Warcraft: Battle for Azeroth"
   },
   {
    "q": "Which expansion directly followed Battle for Azeroth?",
    "a": "Shadowlands",
-   "p": 400
+   "p": 400,
+   "pic": "World of Warcraft: Battle for Azeroth",
+   "apic": "World of Warcraft: Shadowlands"
   },
   {
    "q": "Which expansion directly followed Shadowlands?",
    "a": "Dragonflight",
-   "p": 400
+   "p": 400,
+   "pic": "World of Warcraft: Shadowlands",
+   "apic": "World of Warcraft: Dragonflight"
   },
   {
    "q": "In which raid do players fight the Lich King in Wrath of the Lich King?",
@@ -308,7 +337,8 @@
   {
    "q": "What is the name of the Warcraft III expansion?",
    "a": "The Frozen Throne",
-   "p": 400
+   "p": 400,
+   "apic": "Warcraft III: The Frozen Throne"
   },
   {
    "q": "Which gnome capital city was irradiated and overrun by troggs?",
@@ -346,7 +376,8 @@
    "p": 400,
    "yt": "Wq4Y7ztznKc",
    "start": 20,
-   "end": 45
+   "end": 45,
+   "apic": "World of Warcraft: Cataclysm"
   },
   {
    "q": "Which expansion's cinematic is this?",
@@ -354,7 +385,8 @@
    "p": 400,
    "yt": "eYNCCu0y-Is",
    "start": 20,
-   "end": 45
+   "end": 45,
+   "apic": "World of Warcraft: Legion"
   },
   {
    "q": "Which expansion's cinematic is this?",
@@ -362,7 +394,8 @@
    "p": 400,
    "yt": "jSJr3dXZfcg",
    "start": 30,
-   "end": 55
+   "end": 55,
+   "apic": "World of Warcraft: Battle for Azeroth"
   },
   {
    "q": "Which Guardian of Tirisfal dwelled in Karazhan?",
@@ -452,12 +485,14 @@
   {
    "q": "In which year was the first Warcraft game released?",
    "a": "1994",
-   "p": 600
+   "p": 600,
+   "pic": "Warcraft: Orcs & Humans"
   },
   {
    "q": "In which year was Warcraft III: Reign of Chaos released?",
    "a": "2002",
-   "p": 600
+   "p": 600,
+   "pic": "Warcraft III: Reign of Chaos"
   },
   {
    "q": "What was Deathwing's name before his corruption?",
@@ -472,7 +507,8 @@
   {
    "q": "What is the Warcraft II expansion called?",
    "a": "Beyond the Dark Portal",
-   "p": 600
+   "p": 600,
+   "apic": "Warcraft II: Beyond the Dark Portal"
   },
   {
    "q": "Which young mage was Medivh's apprentice and later Archmage of the Kirin Tor?",
@@ -515,17 +551,20 @@
    "p": 600,
    "yt": "wvYXoyxLv64",
    "start": 30,
-   "end": 55
+   "end": 55,
+   "apic": "World of Warcraft: Mists of Pandaria"
   },
   {
    "q": "In which year was World of Warcraft first released?",
    "a": "2004",
-   "p": 200
+   "p": 200,
+   "pic": "World of Warcraft"
   },
   {
    "q": "Which expansion made goblins and worgen playable races?",
    "a": "Cataclysm",
-   "p": 200
+   "p": 200,
+   "apic": "World of Warcraft: Cataclysm"
   },
   {
    "q": "Which purple-skinned Alliance race lives in Kalimdor's forests and worships the moon?",
@@ -570,7 +609,9 @@
   {
    "q": "Which expansion directly followed Dragonflight?",
    "a": "The War Within",
-   "p": 200
+   "p": 200,
+   "pic": "World of Warcraft: Dragonflight",
+   "apic": "World of Warcraft: The War Within"
   },
   {
    "q": "What is the name of the shattered remains of Draenor visited in The Burning Crusade?",
@@ -611,12 +652,14 @@
   {
    "q": "What name did the paladin in the famous 2005 viral raid wipe video shout as he charged in?",
    "a": "Leeroy Jenkins",
-   "p": 200
+   "p": 200,
+   "apic": "Leeroy Jenkins"
   },
   {
    "q": "What is the version of World of Warcraft that recreated the original game in 2019 called?",
    "a": "World of Warcraft Classic",
-   "p": 200
+   "p": 200,
+   "apic": "World of Warcraft Classic"
   },
   {
    "q": "Which item lets players teleport back to the inn where they set their home?",
@@ -629,7 +672,8 @@
    "p": 200,
    "alt": [
     "Griffin"
-   ]
+   ],
+   "apic": "Griffin"
   },
   {
    "q": "Which hugely influential MOBA started as a custom map for Warcraft III?",
@@ -638,7 +682,9 @@
    "alt": [
     "DotA",
     "Defense of the Ancients"
-   ]
+   ],
+   "pic": "Warcraft III: Reign of Chaos",
+   "apic": "Defense of the Ancients"
   },
   {
    "q": "What was the level cap in the original World of Warcraft?",
@@ -648,12 +694,14 @@
   {
    "q": "Which Blizzard remaster of Warcraft III was released in 2020?",
    "a": "Warcraft III: Reforged",
-   "p": 200
+   "p": 200,
+   "apic": "Warcraft III: Reforged"
   },
   {
    "q": "In which year was the Warcraft film directed by Duncan Jones released?",
    "a": "2016",
-   "p": 200
+   "p": 200,
+   "pic": "Warcraft (film)"
   },
   {
    "q": "Which demon titan founded the Burning Legion?",
@@ -736,12 +784,14 @@
   {
    "q": "Which animated series won an Emmy for its 2006 episode about World of Warcraft?",
    "a": "South Park",
-   "p": 200
+   "p": 200,
+   "apic": "South Park"
   },
   {
    "q": "Which Blizzard team-brawler game features Warcraft heroes alongside StarCraft and Diablo characters?",
    "a": "Heroes of the Storm",
-   "p": 200
+   "p": 200,
+   "apic": "Heroes of the Storm"
   },
   {
    "q": "Which pandaren brewmaster first appeared as a hero in Warcraft III?",
@@ -817,7 +867,8 @@
   {
    "q": "Which debuff from Hakkar spread through cities in a 2005 virtual pandemic?",
    "a": "Corrupted Blood",
-   "p": 400
+   "p": 400,
+   "apic": "Corrupted Blood incident"
   },
   {
    "q": "What is the name of the Jailer before his fall?",
@@ -877,7 +928,8 @@
   {
    "q": "Who did Vol'jin name as his successor as Warchief?",
    "a": "Sylvanas Windrunner",
-   "p": 400
+   "p": 400,
+   "apic": "Sylvanas Windrunner"
   },
   {
    "q": "Which battleground in Ashenvale is a capture-the-flag map?",
@@ -937,12 +989,14 @@
   {
    "q": "Who directed the 2016 Warcraft film?",
    "a": "Duncan Jones",
-   "p": 400
+   "p": 400,
+   "apic": "Duncan Jones"
   },
   {
    "q": "Which actor played Anduin Lothar in the 2016 Warcraft film?",
    "a": "Travis Fimmel",
-   "p": 400
+   "p": 400,
+   "apic": "Travis Fimmel"
   },
   {
    "q": "Which knight, called the Lion of Azeroth, led the Alliance in the Second War?",
@@ -952,12 +1006,14 @@
   {
    "q": "What was the subtitle of the first Warcraft game in 1994?",
    "a": "Orcs & Humans",
-   "p": 400
+   "p": 400,
+   "apic": "Warcraft: Orcs & Humans"
   },
   {
    "q": "What is the subtitle of Warcraft II?",
    "a": "Tides of Darkness",
-   "p": 400
+   "p": 400,
+   "apic": "Warcraft II: Tides of Darkness"
   },
   {
    "q": "Besides humans, orcs and undead, which race is the fourth playable faction in Warcraft III?",
@@ -967,12 +1023,14 @@
   {
    "q": "Which mobile strategy game set in the Warcraft universe launched in 2023?",
    "a": "Warcraft Rumble",
-   "p": 400
+   "p": 400,
+   "apic": "Warcraft Rumble"
   },
   {
    "q": "In which year was Hearthstone released?",
    "a": "2014",
-   "p": 400
+   "p": 400,
+   "pic": "Hearthstone"
   },
   {
    "q": "What is the maximum number of mana crystals a player can have in Hearthstone?",
@@ -995,7 +1053,8 @@
   {
    "q": "Which expansion directly followed The War Within?",
    "a": "Midnight",
-   "p": 400
+   "p": 400,
+   "pic": "World of Warcraft: The War Within"
   },
   {
    "q": "Which playable race of stone-skinned titan creations was introduced in The War Within?",
@@ -1069,7 +1128,8 @@
   {
    "q": "Which Blizzard creative lead was the long-time voice of Thrall?",
    "a": "Chris Metzen",
-   "p": 400
+   "p": 400,
+   "apic": "Chris Metzen"
   },
   {
    "q": "What is the name of Grom and Garrosh Hellscream's legendary axe?",
@@ -1107,7 +1167,8 @@
    "p": 600,
    "alt": [
     "Mr T"
-   ]
+   ],
+   "apic": "Mr. T"
   },
   {
    "q": "Which raid ends the Legion expansion with Argus the Unmaker?",
@@ -1182,7 +1243,8 @@
   {
    "q": "Who killed Garrosh Hellscream in a mak'gora in Warlords of Draenor?",
    "a": "Thrall",
-   "p": 600
+   "p": 600,
+   "apic": "Thrall (Warcraft)"
   },
   {
    "q": "What is the capital city of Kul Tiras?",
@@ -1238,12 +1300,14 @@
   {
    "q": "Which actor played Durotan in the 2016 Warcraft film via motion capture?",
    "a": "Toby Kebbell",
-   "p": 600
+   "p": 600,
+   "apic": "Toby Kebbell"
   },
   {
    "q": "Which Blizzard co-founder served as the company's president until 2018?",
    "a": "Mike Morhaime",
-   "p": 600
+   "p": 600,
+   "apic": "Mike Morhaime"
   },
   {
    "q": "Approximately how many million subscribers did World of Warcraft peak at around 2010?",
@@ -1278,7 +1342,8 @@
   {
    "q": "Which animal appears on the crest of Stormwind?",
    "a": "Lion",
-   "p": 200
+   "p": 200,
+   "apic": "Lion"
   },
   {
    "q": "What colour is the Horde's banner?",
@@ -1288,7 +1353,8 @@
   {
    "q": "Which Blizzard fan convention is held in Anaheim, California?",
    "a": "BlizzCon",
-   "p": 200
+   "p": 200,
+   "apic": "BlizzCon"
   },
   {
    "q": "Which dungeon role absorbs enemy attacks to protect the group?",
@@ -1318,7 +1384,8 @@
   {
    "q": "Which mage was Arthas's romantic interest before his fall?",
    "a": "Jaina Proudmoore",
-   "p": 200
+   "p": 200,
+   "apic": "Jaina Proudmoore"
   },
   {
    "q": "Which glowing spirit is the night elf worker unit in Warcraft III?",

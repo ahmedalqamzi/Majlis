@@ -5,12 +5,14 @@
   {
    "q": "Which Nintendo plumber is the most famous video game mascot?",
    "a": "Mario",
-   "p": 200
+   "p": 200,
+   "apic": "Mario"
   },
   {
    "q": "Which block-building sandbox game was created by Mojang?",
    "a": "Minecraft",
-   "p": 200
+   "p": 200,
+   "apic": "Minecraft"
   },
   {
    "q": "What colour is Pac-Man?",
@@ -20,67 +22,80 @@
   {
    "q": "Which Pokémon is Ash Ketchum's famous partner?",
    "a": "Pikachu",
-   "p": 200
+   "p": 200,
+   "apic": "Pikachu"
   },
   {
    "q": "Which company makes the PlayStation?",
    "a": "Sony",
-   "p": 200
+   "p": 200,
+   "apic": "Sony"
   },
   {
    "q": "In Nintendo's Hyrule adventures, which princess does the hero Link usually rescue?",
    "a": "Zelda",
-   "p": 200
+   "p": 200,
+   "apic": "Princess Zelda"
   },
   {
    "q": "Which blue hedgehog is the mascot of Sega?",
    "a": "Sonic",
-   "p": 200
+   "p": 200,
+   "apic": "Sonic the Hedgehog (character)"
   },
   {
    "q": "Which Atari engineer built Pong in 1972 as a training exercise?",
    "a": "Allan Alcorn",
-   "p": 600
+   "p": 600,
+   "apic": "Allan Alcorn"
   },
   {
    "q": "Which studio created the 1993 adventure game Myst?",
    "a": "Cyan",
-   "p": 600
+   "p": 600,
+   "apic": "Cyan Worlds"
   },
   {
    "q": "Which Xbox series stars the soldier Master Chief?",
    "a": "Halo",
-   "p": 200
+   "p": 200,
+   "apic": "Halo (franchise)"
   },
   {
    "q": "Which battle royale game features locations like Tilted Towers?",
    "a": "Fortnite",
-   "p": 200
+   "p": 200,
+   "apic": "Fortnite"
   },
   {
    "q": "Who created the puzzle platformer Braid?",
    "a": "Jonathan Blow",
-   "p": 600
+   "p": 600,
+   "apic": "Jonathan Blow"
   },
   {
    "q": "Which Japanese designer created Mario and Zelda?",
    "a": "Shigeru Miyamoto",
-   "p": 400
+   "p": 400,
+   "apic": "Shigeru Miyamoto"
   },
   {
    "q": "Which Taito designer created Space Invaders?",
    "a": "Tomohiro Nishikado",
-   "p": 600
+   "p": 600,
+   "apic": "Tomohiro Nishikado"
   },
   {
    "q": "Which Clover Studio game casts the sun goddess Amaterasu as a white wolf?",
    "a": "Okami",
-   "p": 600
+   "p": 600,
+   "apic": "Ōkami"
   },
   {
    "q": "Which Polish studio developed The Witcher 3?",
    "a": "CD Projekt Red",
-   "p": 400
+   "p": 400,
+   "apic": "CD Projekt"
   },
   {
    "q": "What is the name of the main world in World of Warcraft?",
@@ -90,22 +105,26 @@
   {
    "q": "What is the full name of the physicist hero of Half-Life?",
    "a": "Gordon Freeman",
-   "p": 400
+   "p": 400,
+   "apic": "Gordon Freeman"
   },
   {
    "q": "What is the name of Mario's younger twin brother?",
    "a": "Luigi",
-   "p": 200
+   "p": 200,
+   "apic": "Luigi"
   },
   {
    "q": "Which Nintendo handheld console launched in 1989 and was bundled with Tetris?",
    "a": "Game Boy",
-   "p": 200
+   "p": 200,
+   "apic": "Game Boy"
   },
   {
    "q": "Which company makes the Xbox?",
    "a": "Microsoft",
-   "p": 200
+   "p": 200,
+   "apic": "Microsoft"
   },
   {
    "q": "What do Sonic the Hedgehog players collect to protect themselves from damage?",
@@ -115,22 +134,26 @@
   {
    "q": "What is the name of Mario's green dinosaur companion?",
    "a": "Yoshi",
-   "p": 200
+   "p": 200,
+   "apic": "Yoshi"
   },
   {
    "q": "Which Nintendo console, released in 2017, works both docked to a TV and as a handheld?",
    "a": "Nintendo Switch",
-   "p": 200
+   "p": 200,
+   "apic": "Nintendo Switch"
   },
   {
    "q": "In Animal Crossing, which raccoon dog runs the island shop and loans you money?",
    "a": "Tom Nook",
-   "p": 400
+   "p": 400,
+   "apic": "Tom Nook"
   },
   {
    "q": "Which Sony console was released in 2020 as the successor to the PlayStation 4?",
    "a": "PlayStation 5",
-   "p": 200
+   "p": 200,
+   "apic": "PlayStation 5"
   },
   {
    "q": "In Among Us, what is the name of the role that secretly sabotages the crew?",
@@ -145,57 +168,68 @@
   {
    "q": "Which villain, king of the Koopas, repeatedly kidnaps Princess Peach?",
    "a": "Bowser",
-   "p": 200
+   "p": 200,
+   "apic": "Bowser (character)"
   },
   {
    "q": "Which Rockstar series includes Vice City and San Andreas?",
    "a": "Grand Theft Auto",
-   "p": 200
+   "p": 200,
+   "apic": "Grand Theft Auto"
   },
   {
    "q": "Which Nintendo racing series features items like the blue shell?",
    "a": "Mario Kart",
-   "p": 200
+   "p": 200,
+   "apic": "Mario Kart"
   },
   {
    "q": "Which fighting game series features Ryu and Ken?",
    "a": "Street Fighter",
-   "p": 400
+   "p": 400,
+   "apic": "Street Fighter"
   },
   {
    "q": "Which engineer co-founded Atari with Nolan Bushnell in 1972?",
    "a": "Ted Dabney",
-   "p": 600
+   "p": 600,
+   "apic": "Ted Dabney"
   },
   {
    "q": "Which pink puffball hero can inhale enemies to copy their abilities?",
    "a": "Kirby",
-   "p": 200
+   "p": 200,
+   "apic": "Kirby (character)"
   },
   {
    "q": "Which Pokemon is the final evolution of Charmander?",
    "a": "Charizard",
-   "p": 200
+   "p": 200,
+   "apic": "Charizard"
   },
   {
    "q": "Which Rovio mobile game has players launching birds at pigs?",
    "a": "Angry Birds",
-   "p": 200
+   "p": 200,
+   "apic": "Angry Birds"
   },
   {
    "q": "Which adventurer in shorts and twin pistols is the star of Tomb Raider?",
    "a": "Lara Croft",
-   "p": 200
+   "p": 200,
+   "apic": "Lara Croft"
   },
   {
    "q": "Which orange marsupial is the mascot of a PlayStation platformer series?",
    "a": "Crash Bandicoot",
-   "p": 200
+   "p": 200,
+   "apic": "Crash Bandicoot (character)"
   },
   {
    "q": "Which shooter series includes the subtitle Modern Warfare?",
    "a": "Call of Duty",
-   "p": 200
+   "p": 200,
+   "apic": "Call of Duty"
   },
   {
    "q": "Which EA soccer series was renamed EA Sports FC in 2023?",
@@ -205,7 +239,8 @@
   {
    "q": "Which Nintendo console, released in 2006, popularised motion controls?",
    "a": "Wii",
-   "p": 200
+   "p": 200,
+   "apic": "Wii"
   },
   {
    "q": "What colour is Mario's cap?",
@@ -225,7 +260,8 @@
   {
    "q": "In Minecraft, which green hostile mob explodes when it gets close to the player?",
    "a": "Creeper",
-   "p": 200
+   "p": 200,
+   "apic": "Creeper (Minecraft)"
   },
   {
    "q": "In Pac-Man, what do you eat to make the ghosts turn blue and vulnerable?",
@@ -235,52 +271,62 @@
   {
    "q": "Which digital PC game store and platform is operated by Valve?",
    "a": "Steam",
-   "p": 200
+   "p": 200,
+   "apic": "Steam (service)"
   },
   {
    "q": "Which Nintendo series stars the bounty hunter Samus Aran?",
    "a": "Metroid",
-   "p": 400
+   "p": 400,
+   "apic": "Metroid"
   },
   {
    "q": "Which composer wrote most of the score for Chrono Trigger, with Nobuo Uematsu contributing?",
    "a": "Yasunori Mitsuda",
-   "p": 600
+   "p": 600,
+   "apic": "Yasunori Mitsuda"
   },
   {
    "q": "Which 2018 Rockstar Western stars the outlaw Arthur Morgan?",
    "a": "Red Dead Redemption 2",
-   "p": 400
+   "p": 400,
+   "apic": "Red Dead Redemption 2"
   },
   {
    "q": "Which post-apocalyptic RPG series features the mascot Vault Boy?",
    "a": "Fallout",
-   "p": 400
+   "p": 400,
+   "apic": "Fallout (series)"
   },
   {
    "q": "Which manga artist designed the characters of the original Dragon Quest?",
    "a": "Akira Toriyama",
-   "p": 400
+   "p": 400,
+   "apic": "Akira Toriyama"
   },
   {
    "q": "Which farming simulator created by ConcernedApe is set in Pelican Town?",
    "a": "Stardew Valley",
-   "p": 400
+   "p": 400,
+   "apic": "Stardew Valley"
   },
   {
    "q": "Which Nintendo console was released in Japan in 1983 and became the NES in the West?",
    "a": "Famicom",
-   "p": 600
+   "p": 600,
+   "apic": "Nintendo Entertainment System"
   },
   {
    "q": "Which composer wrote the music for the original Final Fantasy series?",
    "a": "Nobuo Uematsu",
-   "p": 600
+   "p": 600,
+   "apic": "Nobuo Uematsu"
   },
   {
    "q": "Which Capcom horror series features the rookie police officer Leon Kennedy?",
    "a": "Resident Evil",
-   "p": 400
+   "p": 400,
+   "apic": "Resident Evil"
   },
   {
    "q": "Which studio developed the 2019 RPG Disco Elysium?",
@@ -290,12 +336,14 @@
   {
    "q": "In which 1981 arcade game did Mario first appear, then named Jumpman?",
    "a": "Donkey Kong",
-   "p": 600
+   "p": 600,
+   "apic": "Donkey Kong (1981 video game)"
   },
   {
    "q": "Which Japanese studio developed Dark Souls?",
    "a": "FromSoftware",
-   "p": 400
+   "p": 400,
+   "apic": "FromSoftware"
   },
   {
    "q": "In which year was the original The Legend of Zelda released in Japan?",
@@ -305,7 +353,8 @@
   {
    "q": "Which Nintendo console, released in 1996, introduced an analogue stick to the company's controllers?",
    "a": "Nintendo 64",
-   "p": 400
+   "p": 400,
+   "apic": "Nintendo 64"
   },
   {
    "q": "In which year was the original Grand Theft Auto released?",
@@ -315,52 +364,62 @@
   {
    "q": "Which Konami series, created by Hideo Kojima, features the agent Solid Snake?",
    "a": "Metal Gear",
-   "p": 400
+   "p": 400,
+   "apic": "Metal Gear"
   },
   {
    "q": "Which studio developed The Last of Us?",
    "a": "Naughty Dog",
-   "p": 400
+   "p": 400,
+   "apic": "Naughty Dog"
   },
   {
    "q": "Which character was Sega's mascot before Sonic the Hedgehog?",
    "a": "Alex Kidd",
-   "p": 600
+   "p": 600,
+   "apic": "Alex Kidd"
   },
   {
    "q": "Which Japanese company created Pac-Man?",
    "a": "Namco",
-   "p": 400
+   "p": 400,
+   "apic": "Namco"
   },
   {
    "q": "Which programmer hid the first video game Easter egg in Atari 2600's Adventure?",
    "a": "Warren Robinett",
-   "p": 600
+   "p": 600,
+   "apic": "Warren Robinett"
   },
   {
    "q": "Which company released the Neo Geo console in 1990?",
    "a": "SNK",
-   "p": 600
+   "p": 600,
+   "apic": "SNK"
   },
   {
    "q": "Which studio created Halo before Microsoft's 343 Industries took over?",
    "a": "Bungie",
-   "p": 400
+   "p": 400,
+   "apic": "Bungie"
   },
   {
    "q": "Which Sega programmer led the original Sonic the Hedgehog alongside artist Naoto Ohshima?",
    "a": "Yuji Naka",
-   "p": 600
+   "p": 600,
+   "apic": "Yuji Naka"
   },
   {
    "q": "Which studio developed Metroid Prime?",
    "a": "Retro Studios",
-   "p": 600
+   "p": 600,
+   "apic": "Retro Studios"
   },
   {
    "q": "Which id Software shooter series, first released in 1993, has players fighting demons from Hell?",
    "a": "Doom",
-   "p": 400
+   "p": 400,
+   "apic": "Doom (franchise)"
   },
   {
    "q": "In which year did Valve launch the Steam platform?",
@@ -375,17 +434,20 @@
   {
    "q": "Which Soviet engineer created Tetris in Moscow?",
    "a": "Alexey Pajitnov",
-   "p": 400
+   "p": 400,
+   "apic": "Alexey Pajitnov"
   },
   {
    "q": "Who composed the music of the original Super Mario Bros.?",
    "a": "Koji Kondo",
-   "p": 600
+   "p": 600,
+   "apic": "Koji Kondo"
   },
   {
    "q": "Which game director created Death Stranding?",
    "a": "Hideo Kojima",
-   "p": 400
+   "p": 400,
+   "apic": "Hideo Kojima"
   },
   {
    "q": "What is the name of the underwater city in the first BioShock?",
@@ -395,7 +457,8 @@
   {
    "q": "Which studio developed the roguelike Hades?",
    "a": "Supergiant Games",
-   "p": 400
+   "p": 400,
+   "apic": "Supergiant Games"
   },
   {
    "q": "What is the name of the continent that contains Skyrim in The Elder Scrolls?",
@@ -405,37 +468,44 @@
   {
    "q": "Which game hosted the first The International esports championship in 2011?",
    "a": "Dota 2",
-   "p": 600
+   "p": 600,
+   "apic": "Dota 2"
   },
   {
    "q": "What is the name of the main villain, the Gerudo king, in many Zelda games?",
    "a": "Ganondorf",
-   "p": 400
+   "p": 400,
+   "apic": "Ganon"
   },
   {
    "q": "What was the name of the first commercial home video game console, released in 1972?",
    "a": "Magnavox Odyssey",
-   "p": 600
+   "p": 600,
+   "apic": "Magnavox Odyssey"
   },
   {
    "q": "Which Nintendo president, in office from 2002 until his death in 2015, led the company through the DS and Wii era?",
    "a": "Satoru Iwata",
-   "p": 600
+   "p": 600,
+   "apic": "Satoru Iwata"
   },
   {
    "q": "Which Japanese studio developed Bayonetta?",
    "a": "PlatinumGames",
-   "p": 600
+   "p": 600,
+   "apic": "PlatinumGames"
   },
   {
    "q": "What is the name of the silent test subject protagonist in Portal?",
    "a": "Chell",
-   "p": 400
+   "p": 400,
+   "apic": "Chell (Portal)"
   },
   {
    "q": "Which Rockstar game features the three protagonists Michael, Franklin and Trevor?",
    "a": "Grand Theft Auto V",
-   "p": 400
+   "p": 400,
+   "apic": "Grand Theft Auto V"
   },
   {
    "q": "In what year were Pokemon Red and Green released in Japan?",
@@ -445,22 +515,26 @@
   {
    "q": "Who created the 1989 platformer Prince of Persia?",
    "a": "Jordan Mechner",
-   "p": 600
+   "p": 600,
+   "apic": "Jordan Mechner"
   },
   {
    "q": "Which Guerrilla Games title stars the hunter Aloy?",
    "a": "Horizon Zero Dawn",
-   "p": 400
+   "p": 400,
+   "apic": "Horizon Zero Dawn"
   },
   {
    "q": "Who is the spiky-haired protagonist of Final Fantasy VII?",
    "a": "Cloud Strife",
-   "p": 400
+   "p": 400,
+   "apic": "Cloud Strife"
   },
   {
    "q": "Which 2004 Valve sequel introduced the Gravity Gun?",
    "a": "Half-Life 2",
-   "p": 400
+   "p": 400,
+   "apic": "Half-Life 2"
   },
   {
    "q": "In which year did Minecraft have its official full release?",
@@ -470,17 +544,20 @@
   {
    "q": "Which developer created the indie RPG Undertale, released in 2015?",
    "a": "Toby Fox",
-   "p": 400
+   "p": 400,
+   "apic": "Toby Fox"
   },
   {
    "q": "Which Team Ico game has a young hero hunting giant creatures to revive a girl?",
    "a": "Shadow of the Colossus",
-   "p": 400
+   "p": 400,
+   "apic": "Shadow of the Colossus"
   },
   {
    "q": "Which Japanese company developed the original Final Fantasy, released in 1987?",
    "a": "Square",
-   "p": 400
+   "p": 400,
+   "apic": "Square (video game company)"
   },
   {
    "q": "What was the development codename of the Nintendo 64 before its name was announced?",
@@ -493,7 +570,8 @@
    "p": 400,
    "yt": "eOiUtRF8k28",
    "start": 50,
-   "end": 80
+   "end": 80,
+   "apic": "The Last of Us Part II"
   },
   {
    "q": "Which game is this trailer for?",
@@ -501,7 +579,8 @@
    "p": 200,
    "yt": "u6oPBIVjf8E",
    "start": 60,
-   "end": 90
+   "end": 90,
+   "apic": "Super Mario Odyssey"
   },
   {
    "q": "Which game is this trailer for?",
@@ -509,12 +588,14 @@
    "p": 400,
    "yt": "Gip3MErg2pc",
    "start": 50,
-   "end": 80
+   "end": 80,
+   "apic": "Halo Infinite"
   },
   {
    "q": "Which Valve puzzle game gives you a gun that creates linked holes in walls?",
    "a": "Portal",
-   "p": 200
+   "p": 200,
+   "apic": "Portal (video game)"
   },
   {
    "q": "In Portal, what dessert does the AI GLaDOS keep promising as a reward?",
@@ -524,7 +605,8 @@
   {
    "q": "Which EA life simulation game lets you control virtual people and build their homes?",
    "a": "The Sims",
-   "p": 200
+   "p": 200,
+   "apic": "The Sims"
   },
   {
    "q": "Which Valve tactical shooter pits terrorists against counter-terrorists?",
@@ -534,22 +616,26 @@
     "CS",
     "CS2",
     "Counter-Strike 2"
-   ]
+   ],
+   "apic": "Counter-Strike"
   },
   {
    "q": "Which game has colourful jelly-bean characters racing through wobbly obstacle courses?",
    "a": "Fall Guys",
-   "p": 200
+   "p": 200,
+   "apic": "Fall Guys"
   },
   {
    "q": "Which Ubisoft series has players copying on-screen dancers' moves?",
    "a": "Just Dance",
-   "p": 200
+   "p": 200,
+   "apic": "Just Dance (video game series)"
   },
   {
    "q": "Which music game series used plastic guitar-shaped controllers?",
    "a": "Guitar Hero",
-   "p": 200
+   "p": 200,
+   "apic": "Guitar Hero"
   },
   {
    "q": "Which two Disney characters travel with Sora in Kingdom Hearts?",
@@ -567,22 +653,26 @@
   {
    "q": "Which online game drops you somewhere in Google Street View and asks you to guess where?",
    "a": "GeoGuessr",
-   "p": 200
+   "p": 200,
+   "apic": "GeoGuessr"
   },
   {
    "q": "Which five-letter word-guessing web game did The New York Times buy in 2022?",
    "a": "Wordle",
-   "p": 200
+   "p": 200,
+   "apic": "Wordle"
   },
   {
    "q": "Which chat app, popular with gamers, uses servers and voice channels?",
    "a": "Discord",
-   "p": 200
+   "p": 200,
+   "apic": "Discord"
   },
   {
    "q": "Which Valve handheld gaming PC was launched in 2022?",
    "a": "Steam Deck",
-   "p": 200
+   "p": 200,
+   "apic": "Steam Deck"
   },
   {
    "q": "Which company makes the Quest virtual reality headsets?",
@@ -591,7 +681,8 @@
    "alt": [
     "Facebook",
     "Oculus"
-   ]
+   ],
+   "apic": "Meta Platforms"
   },
   {
    "q": "Which tabletop roleplaying game is Baldur's Gate 3 based on?",
@@ -600,17 +691,20 @@
    "alt": [
     "D&D",
     "Dungeons and Dragons"
-   ]
+   ],
+   "apic": "Dungeons & Dragons"
   },
   {
    "q": "Which actor plays Johnny Silverhand in Cyberpunk 2077?",
    "a": "Keanu Reeves",
-   "p": 200
+   "p": 200,
+   "apic": "Keanu Reeves"
   },
   {
    "q": "Which co-op cooking game has chefs rushing around chaotic kitchens?",
    "a": "Overcooked",
-   "p": 200
+   "p": 200,
+   "apic": "Overcooked"
   },
   {
    "q": "Which asylum is the setting of Rocksteady's first Batman game?",
@@ -618,12 +712,14 @@
    "p": 200,
    "alt": [
     "Arkham"
-   ]
+   ],
+   "apic": "Batman: Arkham Asylum"
   },
   {
    "q": "Which bald assassin with a barcode on his head stars in the Hitman series?",
    "a": "Agent 47",
-   "p": 200
+   "p": 200,
+   "apic": "Agent 47"
   },
   {
    "q": "What is Gordon Freeman's signature melee weapon in Half-Life?",
@@ -633,12 +729,14 @@
   {
    "q": "Which Activision skateboarding series is named after a real pro skater?",
    "a": "Tony Hawk's Pro Skater",
-   "p": 200
+   "p": 200,
+   "apic": "Tony Hawk's Pro Skater"
   },
   {
    "q": "Which EA racing series includes Most Wanted and Underground?",
    "a": "Need for Speed",
-   "p": 200
+   "p": 200,
+   "apic": "Need for Speed"
   },
   {
    "q": "What does DLC stand for?",
@@ -686,17 +784,20 @@
   {
    "q": "Which 2D sandbox game by Re-Logic has players dig, build and fight bosses?",
    "a": "Terraria",
-   "p": 200
+   "p": 200,
+   "apic": "Terraria"
   },
   {
    "q": "Which 2024 game, nicknamed 'Pokemon with guns', has creatures called Pals?",
    "a": "Palworld",
-   "p": 200
+   "p": 200,
+   "apic": "Palworld"
   },
   {
    "q": "Which actress played Lara Croft in the 2001 film Lara Croft: Tomb Raider?",
    "a": "Angelina Jolie",
-   "p": 200
+   "p": 200,
+   "apic": "Angelina Jolie"
   },
   {
    "q": "What is the green diamond that floats above a character's head in The Sims called?",
@@ -727,27 +828,32 @@
   {
    "q": "Which 2020 PlayStation game follows the samurai Jin Sakai during the Mongol invasion of Japan?",
    "a": "Ghost of Tsushima",
-   "p": 400
+   "p": 400,
+   "apic": "Ghost of Tsushima"
   },
   {
    "q": "Which limbless hero stars in Ubisoft's platformers alongside the crazy Rabbids?",
    "a": "Rayman",
-   "p": 400
+   "p": 400,
+   "apic": "Rayman (character)"
   },
   {
    "q": "Which Capcom series has players hunting giant beasts like Rathalos?",
    "a": "Monster Hunter",
-   "p": 400
+   "p": 400,
+   "apic": "Monster Hunter"
   },
   {
    "q": "Which Riot shooter features agents like Jett, Sage and Phoenix?",
    "a": "Valorant",
-   "p": 400
+   "p": 400,
+   "apic": "Valorant"
   },
   {
    "q": "Which Team Cherry game follows a tiny bug knight through the ruined kingdom of Hallownest?",
    "a": "Hollow Knight",
-   "p": 400
+   "p": 400,
+   "apic": "Hollow Knight"
   },
   {
    "q": "Who is the playable heroine of Hollow Knight: Silksong?",
@@ -757,12 +863,14 @@
   {
    "q": "Which 2018 platformer follows Madeline climbing a mountain?",
    "a": "Celeste",
-   "p": 400
+   "p": 400,
+   "apic": "Celeste (video game)"
   },
   {
    "q": "Which skeleton in a blue hoodie is a fan favourite from Undertale?",
    "a": "Sans",
-   "p": 400
+   "p": 400,
+   "apic": "Sans (Undertale)"
   },
   {
    "q": "Who is the son of Hades and hero of Supergiant's Hades?",
@@ -772,12 +880,14 @@
   {
    "q": "Which studio created Mass Effect and Dragon Age?",
    "a": "BioWare",
-   "p": 400
+   "p": 400,
+   "apic": "BioWare"
   },
   {
    "q": "Which Atlus RPG series has students summoning manifestations of their inner selves?",
    "a": "Persona",
-   "p": 400
+   "p": 400,
+   "apic": "Persona (series)"
   },
   {
    "q": "What do the Persona 5 heroes call their group of heart-stealing thieves?",
@@ -804,7 +914,8 @@
   {
    "q": "Which white-haired demon hunter in a red coat stars in Devil May Cry?",
    "a": "Dante",
-   "p": 400
+   "p": 400,
+   "apic": "Dante (Devil May Cry)"
   },
   {
    "q": "Which Sega series stars the 'Dragon of Dojima', Kazuma Kiryu?",
@@ -812,12 +923,14 @@
    "p": 400,
    "alt": [
     "Like a Dragon"
-   ]
+   ],
+   "apic": "Like a Dragon"
   },
   {
    "q": "Which Ubisoft stealth series stars Sam Fisher?",
    "a": "Splinter Cell",
-   "p": 400
+   "p": 400,
+   "apic": "Tom Clancy's Splinter Cell"
   },
   {
    "q": "Which 2003 Ubisoft game featured a dagger that rewinds time?",
@@ -826,7 +939,8 @@
    "alt": [
     "The Sands of Time",
     "Sands of Time"
-   ]
+   ],
+   "apic": "Prince of Persia: The Sands of Time"
   },
   {
    "q": "In BioShock, which armoured diving-suit giants protect the Little Sisters?",
@@ -834,7 +948,8 @@
    "p": 400,
    "alt": [
     "Big Daddy"
-   ]
+   ],
+   "apic": "Big Daddy (BioShock)"
   },
   {
    "q": "What is the name of the research facility where Half-Life begins?",
@@ -847,17 +962,20 @@
    "p": 400,
    "alt": [
     "Aperture"
-   ]
+   ],
+   "apic": "Aperture Science"
   },
   {
    "q": "What is the name of the AI that runs the tests in Portal?",
    "a": "GLaDOS",
-   "p": 400
+   "p": 400,
+   "apic": "GLaDOS"
   },
   {
    "q": "Which Valve co-op game has four survivors fighting through zombie hordes?",
    "a": "Left 4 Dead",
-   "p": 400
+   "p": 400,
+   "apic": "Left 4 Dead"
   },
   {
    "q": "Which Valve team shooter has nine classes, including the Heavy, the Medic and the Spy?",
@@ -865,7 +983,8 @@
    "p": 400,
    "alt": [
     "TF2"
-   ]
+   ],
+   "apic": "Team Fortress 2"
   },
   {
    "q": "Which StarCraft race is a swarm of insect-like aliens?",
@@ -875,17 +994,20 @@
   {
    "q": "Which game designer created the Civilization series?",
    "a": "Sid Meier",
-   "p": 400
+   "p": 400,
+   "apic": "Sid Meier"
   },
   {
    "q": "Which designer created SimCity, The Sims and Spore?",
    "a": "Will Wright",
-   "p": 400
+   "p": 400,
+   "apic": "Will Wright (game designer)"
   },
   {
    "q": "Which Naughty Dog game stars a hero and his friend, who was turned into an ottsel?",
    "a": "Jak and Daxter",
-   "p": 400
+   "p": 400,
+   "apic": "Jak and Daxter"
   },
   {
    "q": "What is the name of the floating mask that protects Crash Bandicoot?",
@@ -895,12 +1017,14 @@
   {
    "q": "Which game series follows Max Caulfield, a student who can rewind time?",
    "a": "Life Is Strange",
-   "p": 400
+   "p": 400,
+   "apic": "Life Is Strange"
   },
   {
    "q": "Which two-player-only co-op game stars Cody and May, shrunk into dolls?",
    "a": "It Takes Two",
-   "p": 400
+   "p": 400,
+   "apic": "It Takes Two (video game)"
   },
   {
    "q": "Which Bungie shooter series has players become Guardians with floating robot Ghosts?",
@@ -925,17 +1049,20 @@
   {
    "q": "Which Valve VR game from 2020 returned to the Half-Life world?",
    "a": "Half-Life: Alyx",
-   "p": 400
+   "p": 400,
+   "apic": "Half-Life: Alyx"
   },
   {
    "q": "Who co-founded Valve and became its long-time public face?",
    "a": "Gabe Newell",
-   "p": 400
+   "p": 400,
+   "apic": "Gabe Newell"
   },
   {
    "q": "Which id Software programmer built the engines behind Doom and Quake?",
    "a": "John Carmack",
-   "p": 400
+   "p": 400,
+   "apic": "John Carmack"
   },
   {
    "q": "What does HUD stand for in games?",
@@ -945,7 +1072,8 @@
   {
    "q": "Which 1980 dungeon game gave its name to a genre of permadeath and randomly generated levels?",
    "a": "Rogue",
-   "p": 400
+   "p": 400,
+   "apic": "Rogue (video game)"
   },
   {
    "q": "What term describes repeating the same tasks over and over to level up?",
@@ -965,7 +1093,8 @@
   {
    "q": "Which horror creator made Five Nights at Freddy's?",
    "a": "Scott Cawthon",
-   "p": 400
+   "p": 400,
+   "apic": "Scott Cawthon"
   },
   {
    "q": "Which Rocksteady Batman game opened up all of Gotham to explore in 2015?",
@@ -973,7 +1102,8 @@
    "p": 400,
    "alt": [
     "Arkham Knight"
-   ]
+   ],
+   "apic": "Batman: Arkham Knight"
   },
   {
    "q": "In Dead Space, what are the reanimated alien-infected corpses called?",
@@ -988,7 +1118,8 @@
   {
    "q": "Which Ubisoft series is set in a different open world each game, often with a charismatic villain, like Vaas?",
    "a": "Far Cry",
-   "p": 400
+   "p": 400,
+   "apic": "Far Cry"
   },
   {
    "q": "Which Finnish studio made Max Payne, Alan Wake and Control?",
@@ -996,52 +1127,62 @@
    "p": 400,
    "alt": [
     "Remedy"
-   ]
+   ],
+   "apic": "Remedy Entertainment"
   },
   {
    "q": "Which 2025 co-op game is the follow-up to It Takes Two?",
    "a": "Split Fiction",
-   "p": 400
+   "p": 400,
+   "apic": "Split Fiction"
   },
   {
    "q": "Which German studio made Crysis?",
    "a": "Crytek",
-   "p": 600
+   "p": 600,
+   "apic": "Crytek"
   },
   {
    "q": "What is the real name of Stardew Valley creator ConcernedApe?",
    "a": "Eric Barone",
-   "p": 600
+   "p": 600,
+   "apic": "Eric Barone"
   },
   {
    "q": "Who designed the immigration-checkpoint game Papers, Please?",
    "a": "Lucas Pope",
-   "p": 600
+   "p": 600,
+   "apic": "Lucas Pope"
   },
   {
    "q": "Who co-created The Binding of Isaac and Super Meat Boy?",
    "a": "Edmund McMillen",
-   "p": 600
+   "p": 600,
+   "apic": "Edmund McMillen"
   },
   {
    "q": "Which game designer created BioShock?",
    "a": "Ken Levine",
-   "p": 600
+   "p": 600,
+   "apic": "Ken Levine"
   },
   {
    "q": "Who founded Double Fine and created Psychonauts?",
    "a": "Tim Schafer",
-   "p": 600
+   "p": 600,
+   "apic": "Tim Schafer"
   },
   {
    "q": "Who directed the original Devil May Cry and Bayonetta?",
    "a": "Hideki Kamiya",
-   "p": 600
+   "p": 600,
+   "apic": "Hideki Kamiya"
   },
   {
    "q": "Which studio made Limbo and Inside?",
    "a": "Playdead",
-   "p": 600
+   "p": 600,
+   "apic": "Playdead"
   },
   {
    "q": "Which French studio developed Clair Obscur: Expedition 33?",
@@ -1054,17 +1195,20 @@
    "p": 600,
    "alt": [
     "Dontnod"
-   ]
+   ],
+   "apic": "Don't Nod"
   },
   {
    "q": "Who created RollerCoaster Tycoon, writing it almost entirely in assembly language?",
    "a": "Chris Sawyer",
-   "p": 600
+   "p": 600,
+   "apic": "Chris Sawyer"
   },
   {
    "q": "Which studio made the original Age of Empires?",
    "a": "Ensemble Studios",
-   "p": 600
+   "p": 600,
+   "apic": "Ensemble Studios"
   },
   {
    "q": "Which Swedish studio makes grand strategy games like Europa Universalis?",
@@ -1073,12 +1217,14 @@
    "alt": [
     "Paradox Interactive",
     "Paradox Development Studio"
-   ]
+   ],
+   "apic": "Paradox Interactive"
   },
   {
    "q": "Which British studio made LittleBigPlanet and Dreams?",
    "a": "Media Molecule",
-   "p": 600
+   "p": 600,
+   "apic": "Media Molecule"
   },
   {
    "q": "Which studio developed the Sly Cooper and Infamous games?",
@@ -1086,37 +1232,44 @@
    "p": 600,
    "alt": [
     "Sucker Punch Productions"
-   ]
+   ],
+   "apic": "Sucker Punch Productions"
   },
   {
    "q": "Who composed the music of Kingdom Hearts?",
    "a": "Yoko Shimomura",
-   "p": 600
+   "p": 600,
+   "apic": "Yoko Shimomura"
   },
   {
    "q": "Who composed the heavy metal soundtrack of Doom (2016)?",
    "a": "Mick Gordon",
-   "p": 600
+   "p": 600,
+   "apic": "Mick Gordon"
   },
   {
    "q": "Who composed the soundtrack of Celeste?",
    "a": "Lena Raine",
-   "p": 600
+   "p": 600,
+   "apic": "Lena Raine"
   },
   {
    "q": "Who composed the music for Journey, the first video game score nominated for a Grammy?",
    "a": "Austin Wintory",
-   "p": 600
+   "p": 600,
+   "apic": "Austin Wintory"
   },
   {
    "q": "Who composed God of War (2018)'s score?",
    "a": "Bear McCreary",
-   "p": 600
+   "p": 600,
+   "apic": "Bear McCreary"
   },
   {
    "q": "Who composed the music of Skyrim?",
    "a": "Jeremy Soule",
-   "p": 600
+   "p": 600,
+   "apic": "Jeremy Soule"
   },
   {
    "q": "Which Valve game engine powered Half-Life 2?",
@@ -1129,7 +1282,8 @@
   {
    "q": "Who founded Oculus and designed the original Rift?",
    "a": "Palmer Luckey",
-   "p": 600
+   "p": 600,
+   "apic": "Palmer Luckey"
   },
   {
    "q": "Which Skyrim city is home to the palace Dragonsreach?",
@@ -1147,7 +1301,8 @@
    "p": 600,
    "alt": [
     "The G-Man"
-   ]
+   ],
+   "apic": "G-Man (Half-Life)"
   },
   {
    "q": "What is the name of BioShock Infinite's floating city?",
@@ -1157,12 +1312,14 @@
   {
    "q": "Which rogue AI is the villain of System Shock?",
    "a": "SHODAN",
-   "p": 600
+   "p": 600,
+   "apic": "SHODAN"
   },
   {
    "q": "What is the name of the nano-augmented hero of the original Deus Ex?",
    "a": "JC Denton",
-   "p": 600
+   "p": 600,
+   "apic": "JC Denton"
   },
   {
    "q": "In which fictional Tokyo district are most Yakuza games set?",
@@ -1172,7 +1329,8 @@
   {
    "q": "Which actor played The Ghoul in the Fallout TV series?",
    "a": "Walton Goggins",
-   "p": 600
+   "p": 600,
+   "apic": "Walton Goggins"
   },
   {
    "q": "Who is the creator of the Balatro poker roguelike, known by his online name?",
@@ -1191,12 +1349,14 @@
   {
    "q": "Which 2012 PlayStation game has a robed traveller crossing a desert towards a mountain?",
    "a": "Journey",
-   "p": 400
+   "p": 400,
+   "apic": "Journey (2012 video game)"
   },
   {
    "q": "Which 2011 Valve sequel added co-op robots Atlas and P-Body?",
    "a": "Portal 2",
-   "p": 400
+   "p": 400,
+   "apic": "Portal 2"
   },
   {
    "q": "What is the name of Cuphead's brother?",
@@ -1206,12 +1366,14 @@
   {
    "q": "Which Supergiant game came before Hades and starred a silent hero called the Kid?",
    "a": "Bastion",
-   "p": 600
+   "p": 600,
+   "apic": "Bastion (video game)"
   },
   {
    "q": "Which Supergiant game stars the singer Red and a talking sword?",
    "a": "Transistor",
-   "p": 600
+   "p": 600,
+   "apic": "Transistor (video game)"
   },
   {
    "q": "Which Rocksteady 2009 villain was the main enemy in Batman: Arkham Asylum?",
@@ -1219,7 +1381,8 @@
    "p": 400,
    "alt": [
     "Joker"
-   ]
+   ],
+   "apic": "Joker (character)"
   },
   {
    "q": "Which 2023 Larian RPG character is a vampire spawn rogue?",
@@ -1317,12 +1480,14 @@
   {
    "q": "Which 2019 game has players cause chaos in an English village as a mischievous goose?",
    "a": "Untitled Goose Game",
-   "p": 200
+   "p": 200,
+   "apic": "Untitled Goose Game"
   },
   {
    "q": "Which silly 2014 physics game lets you wreck a town as a goat?",
    "a": "Goat Simulator",
-   "p": 200
+   "p": 200,
+   "apic": "Goat Simulator"
   },
   {
    "q": "Which SCS Software game has players drive lorries across Europe?",
@@ -1330,7 +1495,8 @@
    "p": 200,
    "alt": [
     "Euro Truck Simulator"
-   ]
+   ],
+   "apic": "Euro Truck Simulator 2"
   },
   {
    "q": "Which Valve game series features the alien Combine?",
@@ -1340,22 +1506,26 @@
   {
    "q": "Which game features the Weighted Companion Cube?",
    "a": "Portal",
-   "p": 400
+   "p": 400,
+   "apic": "Portal (video game)"
   },
   {
    "q": "Which 2023 co-op horror game has players scavenging abandoned moons to meet a company's quota?",
    "a": "Lethal Company",
-   "p": 400
+   "p": 400,
+   "apic": "Lethal Company"
   },
   {
    "q": "Which 1997 Bullfrog game had players treat patients with illnesses like Bloaty Head?",
    "a": "Theme Hospital",
-   "p": 600
+   "p": 600,
+   "apic": "Theme Hospital"
   },
   {
    "q": "Which British designer created Populous and co-founded Bullfrog?",
    "a": "Peter Molyneux",
-   "p": 600
+   "p": 600,
+   "apic": "Peter Molyneux"
   },
   {
    "q": "Which LucasArts adventure series stars the would-be pirate Guybrush Threepwood?",
@@ -1363,12 +1533,14 @@
    "p": 400,
    "alt": [
     "The Secret of Monkey Island"
-   ]
+   ],
+   "apic": "Monkey Island"
   },
   {
    "q": "Who created The Secret of Monkey Island?",
    "a": "Ron Gilbert",
-   "p": 600
+   "p": 600,
+   "apic": "Ron Gilbert"
   },
   {
    "q": "What is the name of the ghost pirate villain of Monkey Island?",
@@ -1378,17 +1550,20 @@
   {
    "q": "Which LucasArts adventure follows Manny Calavera through the Land of the Dead?",
    "a": "Grim Fandango",
-   "p": 600
+   "p": 600,
+   "apic": "Grim Fandango"
   },
   {
    "q": "Which Sierra adventure series follows King Graham of Daventry?",
    "a": "King's Quest",
-   "p": 600
+   "p": 600,
+   "apic": "King's Quest"
   },
   {
    "q": "Who designed King's Quest and co-founded Sierra On-Line?",
    "a": "Roberta Williams",
-   "p": 600
+   "p": 600,
+   "apic": "Roberta Williams"
   },
   {
    "q": "Which 1998 Looking Glass stealth game stars the master thief Garrett?",
@@ -1401,7 +1576,8 @@
   {
    "q": "Who directed the original Deus Ex?",
    "a": "Warren Spector",
-   "p": 600
+   "p": 600,
+   "apic": "Warren Spector"
   },
   {
    "q": "Which 2017 action RPG stars the android 2B?",
@@ -1409,22 +1585,26 @@
    "p": 400,
    "alt": [
     "Nier Automata"
-   ]
+   ],
+   "apic": "Nier: Automata"
   },
   {
    "q": "Which mask-wearing director created the NieR series?",
    "a": "Yoko Taro",
-   "p": 600
+   "p": 600,
+   "apic": "Yoko Taro"
   },
   {
    "q": "Which 2019 space exploration game traps you in a 22-minute time loop before the sun explodes?",
    "a": "Outer Wilds",
-   "p": 600
+   "p": 600,
+   "apic": "Outer Wilds"
   },
   {
    "q": "Which Jonathan Blow puzzle game is set on an island full of line-drawing panels?",
    "a": "The Witness",
-   "p": 600
+   "p": 600,
+   "apic": "The Witness (2016 video game)"
   },
   {
    "q": "What is the name of the mining ship in the first Dead Space?",
@@ -1446,7 +1626,8 @@
    "alt": [
     "KOTOR",
     "Star Wars: Knights of the Old Republic"
-   ]
+   ],
+   "apic": "Star Wars: Knights of the Old Republic"
   },
   {
    "q": "Which 2019 Respawn game stars the Jedi survivor Cal Kestis?",
@@ -1455,7 +1636,8 @@
    "alt": [
     "Jedi: Fallen Order",
     "Fallen Order"
-   ]
+   ],
+   "apic": "Star Wars Jedi: Fallen Order"
   }
  ]
 }

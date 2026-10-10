@@ -11,7 +11,8 @@
     "Shwarma",
     "Shawerma",
     "Shawurma"
-   ]
+   ],
+   "apic": "Shawarma"
   },
   {
    "q": "Which garlic sauce is served with shawarma and grilled chicken?",
@@ -22,7 +23,8 @@
     "Thoum",
     "Tum",
     "Garlic sauce"
-   ]
+   ],
+   "apic": "Toum"
   },
   {
    "q": "Which fried chickpea patties give Operation Falafel its name?",
@@ -33,7 +35,8 @@
     "Felafel",
     "Falaafel",
     "Ta'amiya"
-   ]
+   ],
+   "apic": "Falafel"
   },
   {
    "q": "Which spiced milk tea is a roadside favourite across the UAE?",
@@ -44,12 +47,14 @@
     "Karak",
     "Karak tea",
     "Chai karak"
-   ]
+   ],
+   "apic": "Karak chai"
   },
   {
    "q": "Which canned dairy product makes karak chai creamy?",
    "a": "Evaporated milk",
-   "p": 200
+   "p": 200,
+   "apic": "Evaporated milk"
   },
   {
    "q": "Which green-pod spice flavours karak chai?",
@@ -60,7 +65,8 @@
     "Hail",
     "Heil",
     "Elaichi"
-   ]
+   ],
+   "apic": "Cardamom"
   },
   {
    "q": "Which Emirati dessert is made of sweet fried dough balls?",
@@ -71,7 +77,8 @@
     "Lugaimat",
     "Legaimat",
     "Lukaimat"
-   ]
+   ],
+   "apic": "Luqaimat"
   },
   {
    "q": "Which fruit syrup is drizzled over luqaimat?",
@@ -82,27 +89,32 @@
     "Dibs",
     "Dibs al tamr",
     "Date molasses"
-   ]
+   ],
+   "apic": "Date honey"
   },
   {
    "q": "Which Canadian coffee and doughnut chain sells Timbits?",
    "a": "Tim Hortons",
-   "p": 200
+   "p": 200,
+   "apic": "Tim Hortons"
   },
   {
    "q": "Which New York burger chain is famous for the ShackBurger?",
    "a": "Shake Shack",
-   "p": 200
+   "p": 200,
+   "apic": "Shake Shack"
   },
   {
    "q": "Which Filipino chain is famous for Chickenjoy?",
    "a": "Jollibee",
-   "p": 200
+   "p": 200,
+   "apic": "Jollibee"
   },
   {
    "q": "Which South African chain is famous for peri-peri chicken?",
    "a": "Nando's",
-   "p": 200
+   "p": 200,
+   "apic": "Nando's"
   },
   {
    "q": "Which Gulf-born chicken chain is famed for broasted chicken?",
@@ -113,13 +125,15 @@
     "Albaik",
     "Al-Baik",
     "Elbaik"
-   ]
+   ],
+   "apic": "Al Baik"
   },
   {
    "q": "Which ride-hailing app that began in Dubai also delivers food?",
    "a": "Careem",
    "p": 200,
-   "ar": "كريم"
+   "ar": "كريم",
+   "apic": "Careem"
   },
   {
    "q": "Which food delivery app's name means \"orders\" in Arabic?",
@@ -128,12 +142,14 @@
    "ar": "طلبات",
    "alt": [
     "Talabat app"
-   ]
+   ],
+   "apic": "Talabat"
   },
   {
    "q": "Which Virginia-born burger chain is known for free peanuts?",
    "a": "Five Guys",
-   "p": 200
+   "p": 200,
+   "apic": "Five Guys"
   },
   {
    "q": "Which Dubai burger truck is named after a seasoning?",
@@ -149,7 +165,8 @@
     "Manakeesh",
     "Manaqish",
     "Mana'eesh"
-   ]
+   ],
+   "apic": "Manakish"
   },
   {
    "q": "Which herb and sesame blend tops manakish?",
@@ -160,7 +177,8 @@
     "Zaatar",
     "Zatar",
     "Zaater"
-   ]
+   ],
+   "apic": "Za'atar"
   },
   {
    "q": "What does Careem call its drivers?",
@@ -171,12 +189,14 @@
    "q": "Which country's cuisine inspires Operation Falafel?",
    "a": "Lebanon",
    "p": 200,
-   "ar": "لبنان"
+   "ar": "لبنان",
+   "apic": "Lebanon"
   },
   {
    "q": "A Chips Oman sandwich is built around which snack?",
    "a": "Potato chips",
-   "p": 200
+   "p": 200,
+   "apic": "Potato chip"
   },
   {
    "q": "Which sesame paste sauce is served with falafel?",
@@ -188,7 +208,8 @@
     "Tahineh",
     "Tehina",
     "Tahin"
-   ]
+   ],
+   "apic": "Tahini"
   },
   {
    "q": "Which dried fruit is traditionally served with Arabic coffee?",
@@ -198,12 +219,14 @@
    "alt": [
     "Tamr",
     "Tamar"
-   ]
+   ],
+   "apic": "Date palm"
   },
   {
    "q": "Which flaky South Asian bread is often served with karak?",
    "a": "Paratha",
-   "p": 200
+   "p": 200,
+   "apic": "Paratha"
   },
   {
    "q": "Which UAE burger brand is named after a brined cucumber?",
@@ -218,17 +241,20 @@
    "alt": [
     "Ayran",
     "Laban Ayran"
-   ]
+   ],
+   "apic": "Laban (drink)"
   },
   {
    "q": "Which chain sells the Whopper?",
    "a": "Burger King",
-   "p": 200
+   "p": 200,
+   "apic": "Burger King"
   },
   {
    "q": "Which country is Tim Hortons from?",
    "a": "Canada",
-   "p": 200
+   "p": 200,
+   "apic": "Canada"
   },
   {
    "q": "Which creamy chickpea dip comes with shawarma platters?",
@@ -240,7 +266,8 @@
     "Houmous",
     "Hommos",
     "Hommus"
-   ]
+   ],
+   "apic": "Hummus"
   },
   {
    "q": "What do residents call small, cheap eateries famous for karak?",
@@ -250,12 +277,14 @@
   {
    "q": "Which fried chicken chain is known for the Zinger burger?",
    "a": "KFC",
-   "p": 200
+   "p": 200,
+   "apic": "KFC"
   },
   {
    "q": "Which chain is known for the Big Mac?",
    "a": "McDonald's",
-   "p": 200
+   "p": 200,
+   "apic": "McDonald's"
   },
   {
    "q": "Which cooling yogurt cheese is often served with manakish?",
@@ -267,12 +296,14 @@
     "Labna",
     "Labaneh",
     "Lebneh"
-   ]
+   ],
+   "apic": "Labneh"
   },
   {
    "q": "Which pizza chain uses a red roof logo?",
    "a": "Pizza Hut",
-   "p": 200
+   "p": 200,
+   "apic": "Pizza Hut"
   },
   {
    "q": "Which Saudi city is the home of Al Baik?",
@@ -283,83 +314,99 @@
     "Jiddah",
     "Jedda",
     "Jidda"
-   ]
+   ],
+   "apic": "Jeddah"
   },
   {
    "q": "Which country did Jollibee originate in?",
    "a": "Philippines",
-   "p": 400
+   "p": 400,
+   "apic": "Philippines"
   },
   {
    "q": "What is Jollibee's sweet-style pasta dish called?",
    "a": "Jolly Spaghetti",
-   "p": 400
+   "p": 400,
+   "pic": "Jollibee"
   },
   {
    "q": "Which fruity dessert pie is a Jollibee favourite?",
    "a": "Peach Mango Pie",
-   "p": 400
+   "p": 400,
+   "pic": "Jollibee"
   },
   {
    "q": "Which burger line is Hardee's best known for?",
    "a": "Thickburger",
-   "p": 400
+   "p": 400,
+   "apic": "Hardee's"
   },
   {
    "q": "What is Nando's signature chilli sauce called?",
    "a": "Peri-peri",
-   "p": 400
+   "p": 400,
+   "apic": "Piri piri"
   },
   {
    "q": "Which two food cultures inspired Nando's?",
    "a": "Portuguese and Mozambican",
-   "p": 400
+   "p": 400,
+   "pic": "Nando's"
   },
   {
    "q": "Which free snack is offered in shells at Five Guys?",
    "a": "Peanuts",
-   "p": 400
+   "p": 400,
+   "apic": "Peanut"
   },
   {
    "q": "Which spiced fries flavour does Five Guys offer?",
    "a": "Cajun",
-   "p": 400
+   "p": 400,
+   "pic": "Five Guys"
   },
   {
    "q": "In which US city did Shake Shack begin?",
    "a": "New York City",
-   "p": 400
+   "p": 400,
+   "apic": "New York City"
   },
   {
    "q": "What does Shake Shack call its custard blended with mix-ins?",
    "a": "Concrete",
-   "p": 400
+   "p": 400,
+   "pic": "Shake Shack"
   },
   {
    "q": "Which Canadian province did Tim Hortons start in?",
    "a": "Ontario",
-   "p": 400
+   "p": 400,
+   "apic": "Ontario"
   },
   {
    "q": "What is Texas Chicken called in the USA?",
    "a": "Church's",
-   "p": 400
+   "p": 400,
+   "apic": "Church's Texas Chicken"
   },
   {
    "q": "In which country was Talabat founded?",
    "a": "Kuwait",
    "p": 400,
-   "ar": "الكويت"
+   "ar": "الكويت",
+   "apic": "Kuwait"
   },
   {
    "q": "Which German company owns Talabat?",
    "a": "Delivery Hero",
-   "p": 400
+   "p": 400,
+   "apic": "Delivery Hero"
   },
   {
    "q": "Which company acquired Careem?",
    "a": "Uber",
-   "p": 400
+   "p": 400,
+   "apic": "Uber"
   },
   {
    "q": "What does the name Careem mean in Arabic?",
@@ -371,7 +418,8 @@
    "q": "Which UAE city is Operation Falafel based in?",
    "a": "Dubai",
    "p": 400,
-   "ar": "دبي"
+   "ar": "دبي",
+   "apic": "Dubai"
   },
   {
    "q": "What does \"farooj\" mean in Arabic?",
@@ -381,12 +429,14 @@
   {
    "q": "Al Farooj Fresh is best known for which dish?",
    "a": "Grilled chicken",
-   "p": 400
+   "p": 400,
+   "apic": "Grilled chicken"
   },
   {
    "q": "Which Dubai beach hosts the original Salt truck?",
    "a": "Kite Beach",
-   "p": 400
+   "p": 400,
+   "apic": "Kite Beach"
   },
   {
    "q": "Which dairy topping is classic in a Chips Oman sandwich?",
@@ -396,12 +446,14 @@
   {
    "q": "What does the word karak mean?",
    "a": "Strong",
-   "p": 400
+   "p": 400,
+   "pic": "Karak chai"
   },
   {
    "q": "Which kind of tea is the base of karak chai?",
    "a": "Black tea",
-   "p": 400
+   "p": 400,
+   "apic": "Black tea"
   },
   {
    "q": "Which brined white cheese tops many cheese manakish?",
@@ -412,22 +464,26 @@
     "Akawi",
     "Ackawi",
     "Akkawi cheese"
-   ]
+   ],
+   "apic": "Akkawi"
   },
   {
    "q": "Egyptian falafel is traditionally made from which bean?",
    "a": "Fava beans",
-   "p": 400
+   "p": 400,
+   "apic": "Vicia faba"
   },
   {
    "q": "Luqaimat are often sprinkled with which seed?",
    "a": "Sesame",
-   "p": 400
+   "p": 400,
+   "apic": "Sesame"
   },
   {
    "q": "Which pink pickled root is rolled into shawarma?",
    "a": "Turnip",
-   "p": 400
+   "p": 400,
+   "apic": "Turnip"
   },
   {
    "q": "Which grocery service is run by Talabat?",
@@ -438,7 +494,8 @@
   {
    "q": "Which British-founded app competes in UAE food delivery?",
    "a": "Deliveroo",
-   "p": 400
+   "p": 400,
+   "apic": "Deliveroo"
   },
   {
    "q": "What colour is Talabat's brand?",
@@ -460,7 +517,8 @@
     "Sambousa",
     "Sambosa",
     "Samboosa"
-   ]
+   ],
+   "apic": "Sambusak"
   },
   {
    "q": "Which fava bean dish is a classic Gulf breakfast?",
@@ -472,7 +530,8 @@
     "Fool",
     "Ful medames",
     "Foul medames"
-   ]
+   ],
+   "apic": "Ful medames"
   },
   {
    "q": "What is the Arabic word for bread?",
@@ -494,23 +553,27 @@
     "Samun",
     "Samoun",
     "Sammoun"
-   ]
+   ],
+   "apic": "Samoon"
   },
   {
    "q": "Shawarma comes from a Turkish word meaning what?",
    "a": "Turning",
-   "p": 600
+   "p": 600,
+   "pic": "Shawarma"
   },
   {
    "q": "Which city is Talabat headquartered in?",
    "a": "Dubai",
    "p": 600,
-   "ar": "دبي"
+   "ar": "دبي",
+   "apic": "Dubai"
   },
   {
    "q": "On which exchange is Talabat listed?",
    "a": "Dubai Financial Market",
-   "p": 600
+   "p": 600,
+   "apic": "Dubai Financial Market"
   },
   {
    "q": "Who co-founded Careem and served as its CEO?",
@@ -540,32 +603,38 @@
   {
    "q": "Which US state is Hardee's from?",
    "a": "North Carolina",
-   "p": 600
+   "p": 600,
+   "apic": "North Carolina"
   },
   {
    "q": "Which Texas city is home to Church's Texas Chicken?",
    "a": "San Antonio",
-   "p": 600
+   "p": 600,
+   "apic": "San Antonio"
   },
   {
    "q": "Which South African city is Nando's from?",
    "a": "Johannesburg",
-   "p": 600
+   "p": 600,
+   "apic": "Johannesburg"
   },
   {
    "q": "Tim Hortons is named after a player of which sport?",
    "a": "Ice hockey",
-   "p": 600
+   "p": 600,
+   "apic": "Ice hockey"
   },
   {
    "q": "Who founded Shake Shack?",
    "a": "Danny Meyer",
-   "p": 600
+   "p": 600,
+   "apic": "Danny Meyer"
   },
   {
    "q": "Which New York park hosted Shake Shack's first kiosk?",
    "a": "Madison Square Park",
-   "p": 600
+   "p": 600,
+   "apic": "Madison Square Park"
   },
   {
    "q": "What is the Five Guys founding family's surname?",
@@ -585,12 +654,14 @@
   {
    "q": "Who founded Jollibee?",
    "a": "Tony Tan Caktiong",
-   "p": 600
+   "p": 600,
+   "apic": "Tony Tan Caktiong"
   },
   {
    "q": "Karak chai arrived with migrants from which region?",
    "a": "South Asia",
-   "p": 600
+   "p": 600,
+   "apic": "South Asia"
   },
   {
    "q": "What is the singular of manakish?",
@@ -601,12 +672,14 @@
     "Manousheh",
     "Manoushe",
     "Manousha"
-   ]
+   ],
+   "pic": "Manakish"
   },
   {
    "q": "What does luqaimat mean in Arabic?",
    "a": "Little morsels",
-   "p": 600
+   "p": 600,
+   "pic": "Luqaimat"
   },
   {
    "q": "What is falafel called in Egypt?",
@@ -617,7 +690,8 @@
     "Ta'ameya",
     "Taamiya",
     "Tamiya"
-   ]
+   ],
+   "pic": "Falafel"
   },
   {
    "q": "Which thin bread baked on a domed griddle wraps shawarma?",
@@ -627,12 +701,14 @@
    "alt": [
     "Saj bread",
     "Markook"
-   ]
+   ],
+   "apic": "Saj bread"
   },
   {
    "q": "Which city is Delivery Hero headquartered in?",
    "a": "Berlin",
-   "p": 600
+   "p": 600,
+   "apic": "Berlin"
   },
   {
    "q": "Salt launched a burger with which unusual colour bun?",
@@ -642,12 +718,14 @@
   {
    "q": "What does \"double-double\" mean at Tim Hortons?",
    "a": "Two creams, two sugars",
-   "p": 600
+   "p": 600,
+   "pic": "Tim Hortons"
   },
   {
    "q": "Which chilli variety underpins peri-peri sauce?",
    "a": "African bird's eye",
-   "p": 600
+   "p": 600,
+   "apic": "Bird's eye chili"
   },
   {
    "q": "Which Gulf group operates Hardee's across the region?",
@@ -657,7 +735,8 @@
    "alt": [
     "Americana Group",
     "Americana Restaurants"
-   ]
+   ],
+   "apic": "Americana Group"
   },
   {
    "q": "Which Kuwaiti group operates Shake Shack in the UAE?",
@@ -667,22 +746,26 @@
    "alt": [
     "Alshaya Group",
     "M.H. Alshaya"
-   ]
+   ],
+   "apic": "Alshaya Group"
   },
   {
    "q": "Which US state was KFC's founder Harland Sanders based in?",
    "a": "Kentucky",
-   "p": 600
+   "p": 600,
+   "apic": "Kentucky"
   },
   {
    "q": "What cooking method defines broasted chicken?",
    "a": "Pressure frying",
-   "p": 600
+   "p": 600,
+   "apic": "Broasted chicken"
   },
   {
    "q": "What does KFC stand for?",
    "a": "Kentucky Fried Chicken",
-   "p": 200
+   "p": 200,
+   "pic": "KFC"
   },
   {
    "q": "Which clown is McDonald's long-time mascot?",
@@ -690,7 +773,8 @@
    "p": 200,
    "alt": [
     "Ronald"
-   ]
+   ],
+   "apic": "Ronald McDonald"
   },
   {
    "q": "What is the nickname of McDonald's big yellow 'M' logo?",
@@ -698,22 +782,26 @@
    "p": 200,
    "alt": [
     "Golden Arches"
-   ]
+   ],
+   "apic": "Golden Arches"
   },
   {
    "q": "Which McDonald's children's meal comes in a box with a toy?",
    "a": "Happy Meal",
-   "p": 200
+   "p": 200,
+   "apic": "Happy Meal"
   },
   {
    "q": "Which coffee chain's logo is a green twin-tailed siren?",
    "a": "Starbucks",
-   "p": 200
+   "p": 200,
+   "apic": "Starbucks"
   },
   {
    "q": "Which sandwich chain is famous for its footlong subs?",
    "a": "Subway",
-   "p": 200
+   "p": 200,
+   "apic": "Subway (restaurant)"
   },
   {
    "q": "Which pizza chain's logo is a red and blue domino tile?",
@@ -722,7 +810,8 @@
    "alt": [
     "Dominos",
     "Domino's Pizza"
-   ]
+   ],
+   "apic": "Domino's"
   },
   {
    "q": "Which ice cream chain is famous for its '31 flavours'?",
@@ -731,7 +820,8 @@
    "alt": [
     "Baskin Robbins",
     "BR"
-   ]
+   ],
+   "apic": "Baskin-Robbins"
   },
   {
    "q": "Which doughnut chain dropped 'Donuts' from its name in 2019?",
@@ -740,7 +830,8 @@
    "alt": [
     "Dunkin",
     "Dunkin' Donuts"
-   ]
+   ],
+   "apic": "Dunkin'"
   },
   {
    "q": "Which burger chain's logo shows a smiling red-haired girl with pigtails?",
@@ -748,12 +839,14 @@
    "p": 200,
    "alt": [
     "Wendys"
-   ]
+   ],
+   "apic": "Wendy's"
   },
   {
    "q": "Which Mexican-inspired chain has a bell for a logo?",
    "a": "Taco Bell",
-   "p": 200
+   "p": 200,
+   "apic": "Taco Bell"
   },
   {
    "q": "Which chicken chain from New Orleans is known for Louisiana-style fried chicken?",
@@ -762,7 +855,8 @@
    "alt": [
     "Popeyes Louisiana Kitchen",
     "Popeye's"
-   ]
+   ],
+   "apic": "Popeyes"
   },
   {
    "q": "Which chain is famous for the Blizzard, an ice cream blended with sweets?",
@@ -770,7 +864,8 @@
    "p": 200,
    "alt": [
     "DQ"
-   ]
+   ],
+   "apic": "Dairy Queen"
   },
   {
    "q": "Which Lebanese chain's name means 'thyme and olive oil'?",
@@ -780,7 +875,8 @@
    "alt": [
     "Zaatar w Zaid",
     "Za'atar w Zeit"
-   ]
+   ],
+   "apic": "Zaatar w Zeit"
   },
   {
    "q": "How many herbs and spices are said to be in KFC's Original Recipe?",
@@ -788,7 +884,8 @@
    "p": 200,
    "alt": [
     "Eleven"
-   ]
+   ],
+   "pic": "KFC"
   },
   {
    "q": "What honorary title did KFC founder Harland Sanders famously use?",
@@ -796,7 +893,8 @@
    "p": 200,
    "alt": [
     "Kentucky Colonel"
-   ]
+   ],
+   "apic": "Colonel Sanders"
   },
   {
    "q": "What insect is Jollibee's mascot?",
@@ -804,7 +902,8 @@
    "p": 200,
    "alt": [
     "Honeybee"
-   ]
+   ],
+   "apic": "Bee"
   },
   {
    "q": "What are shish tawook skewers made of?",
@@ -814,7 +913,8 @@
    "alt": [
     "Marinated chicken",
     "Chicken breast"
-   ]
+   ],
+   "apic": "Shish taouk"
   },
   {
    "q": "Which spice, besides cardamom, gives 'zafran' tea its golden colour?",
@@ -823,7 +923,8 @@
    "ar": "زعفران",
    "alt": [
     "Zafran"
-   ]
+   ],
+   "apic": "Saffron"
   },
   {
    "q": "Which Dubai-made chocolate bar filled with pistachio and kunafa went viral on TikTok in 2024?",
@@ -833,7 +934,8 @@
    "alt": [
     "Dubai chocolate bar",
     "Can't Get Knafeh of It"
-   ]
+   ],
+   "apic": "Dubai chocolate"
   },
   {
    "q": "What is the Burger King mascot, a smiling man in a crown, called?",
@@ -842,7 +944,8 @@
    "alt": [
     "King",
     "Burger King"
-   ]
+   ],
+   "apic": "The King (Burger King)"
   },
   {
    "q": "Which businessman turned McDonald's into a global franchise empire?",
@@ -850,22 +953,26 @@
    "p": 400,
    "alt": [
     "Kroc"
-   ]
+   ],
+   "apic": "Ray Kroc"
   },
   {
    "q": "Which 2016 film starred Michael Keaton as Ray Kroc?",
    "a": "The Founder",
-   "p": 400
+   "p": 400,
+   "apic": "The Founder"
   },
   {
    "q": "Which McDonald's burger did franchisee Jim Delligatti create in 1967?",
    "a": "Big Mac",
-   "p": 400
+   "p": 400,
+   "apic": "Big Mac"
   },
   {
    "q": "Which purple McDonaldland character is a big, friendly blob?",
    "a": "Grimace",
-   "p": 400
+   "p": 400,
+   "apic": "Grimace (character)"
   },
   {
    "q": "Which McDonaldland villain in a mask and striped suit steals burgers?",
@@ -873,12 +980,14 @@
    "p": 400,
    "alt": [
     "The Hamburglar"
-   ]
+   ],
+   "apic": "Hamburglar"
   },
   {
    "q": "In which US city was Starbucks founded?",
    "a": "Seattle",
-   "p": 400
+   "p": 400,
+   "apic": "Seattle"
   },
   {
    "q": "Which Seattle market is home to the original Starbucks store?",
@@ -886,7 +995,8 @@
    "p": 400,
    "alt": [
     "Pike Place"
-   ]
+   ],
+   "apic": "Pike Place Market"
   },
   {
    "q": "Which Starbucks size name means 'large' in Italian, though it is the medium?",
@@ -925,17 +1035,20 @@
    "p": 400,
    "alt": [
     "Rex David Thomas"
-   ]
+   ],
+   "apic": "Dave Thomas (businessman)"
   },
   {
    "q": "Which pizza chain introduced Stuffed Crust pizza in 1995?",
    "a": "Pizza Hut",
-   "p": 400
+   "p": 400,
+   "apic": "Pizza Hut"
   },
   {
    "q": "Which doughnut chain switches on a 'Hot Now' sign when fresh doughnuts come off the line?",
    "a": "Krispy Kreme",
-   "p": 400
+   "p": 400,
+   "apic": "Krispy Kreme"
   },
   {
    "q": "Which coffee chain was founded in London in 1971 by Italian brothers?",
@@ -943,7 +1056,8 @@
    "p": 400,
    "alt": [
     "Costa"
-   ]
+   ],
+   "apic": "Costa Coffee"
   },
   {
    "q": "Which soft-drink giant bought Costa Coffee in 2019?",
@@ -952,12 +1066,14 @@
    "alt": [
     "The Coca-Cola Company",
     "Coke"
-   ]
+   ],
+   "apic": "The Coca-Cola Company"
   },
   {
    "q": "Which cinnamon roll chain was founded in Seattle in 1985?",
    "a": "Cinnabon",
-   "p": 400
+   "p": 400,
+   "apic": "Cinnabon"
   },
   {
    "q": "Which soft pretzel chain began at a Pennsylvania farmers' market in 1988?",
@@ -965,12 +1081,14 @@
    "p": 400,
    "alt": [
     "Auntie Annes"
-   ]
+   ],
+   "apic": "Auntie Anne's"
   },
   {
    "q": "Which chicken wing chain decorates its restaurants with a 1930s aviation theme?",
    "a": "Wingstop",
-   "p": 400
+   "p": 400,
+   "apic": "Wingstop"
   },
   {
    "q": "Which chicken finger chain is named after its founder's yellow Labrador?",
@@ -979,7 +1097,8 @@
    "alt": [
     "Raising Canes",
     "Cane's"
-   ]
+   ],
+   "apic": "Raising Cane's Chicken Fingers"
   },
   {
    "q": "Which Minnesota coffee chain is named after a reindeer-like animal?",
@@ -987,7 +1106,8 @@
    "p": 400,
    "alt": [
     "Caribou"
-   ]
+   ],
+   "apic": "Caribou Coffee"
   },
   {
    "q": "Which specialty coffee brand, founded in Kyoto, uses a percent sign as its logo?",
@@ -1004,7 +1124,8 @@
    "p": 400,
    "alt": [
     "Papa Johns"
-   ]
+   ],
+   "apic": "Papa John's"
   },
   {
    "q": "Which chain shares a smiling star logo with Hardee's?",
@@ -1013,19 +1134,22 @@
    "alt": [
     "Carl's Jr",
     "Carls Jr"
-   ]
+   ],
+   "apic": "Carl's Jr."
   },
   {
    "q": "Which Saudi burger chain shares its name with an African antelope?",
    "a": "Kudu",
    "p": 400,
-   "ar": "كودو"
+   "ar": "كودو",
+   "apic": "Kudu (restaurant)"
   },
   {
    "q": "Which McDonald's chicken sandwich in Arabic flatbread was created for the Middle East?",
    "a": "McArabia",
    "p": 400,
-   "ar": "ماك أرابيا"
+   "ar": "ماك أرابيا",
+   "apic": "McArabia"
   },
   {
    "q": "The word tawook comes from the Turkish word for which bird?",
@@ -1044,7 +1168,8 @@
    "alt": [
     "Malak Al Tawouk",
     "Malak Tawook"
-   ]
+   ],
+   "apic": "Malak Al Tawook"
   },
   {
    "q": "Which Pakistani restaurant opened in Satwa in 1978 and became a Dubai institution?",
@@ -1072,7 +1197,8 @@
    "alt": [
     "Fix",
     "FIX Dessert Chocolatier"
-   ]
+   ],
+   "apic": "Fix Dessert Chocolatier"
   },
   {
    "q": "How do 'Arabi' shawarma platters differ from wraps?",
@@ -1090,7 +1216,8 @@
    "alt": [
     "Wada pav",
     "Vada pao"
-   ]
+   ],
+   "apic": "Vada pav"
   },
   {
    "q": "Which UAE grocery delivery app did Delivery Hero buy in 2020?",
@@ -1100,7 +1227,8 @@
   {
    "q": "In which California city did the McDonald brothers open their first restaurant in 1940?",
    "a": "San Bernardino",
-   "p": 600
+   "p": 600,
+   "apic": "San Bernardino, California"
   },
   {
    "q": "What were the first names of the McDonald brothers who founded the chain?",
@@ -1119,22 +1247,26 @@
     "Multimixers",
     "Multimixer",
     "Milkshake machines"
-   ]
+   ],
+   "apic": "Milkshake machine"
   },
   {
    "q": "Which McDonald's breakfast sandwich was invented in 1971 by franchisee Herb Peterson?",
    "a": "Egg McMuffin",
-   "p": 600
+   "p": 600,
+   "apic": "Egg McMuffin"
   },
   {
    "q": "In which Kentucky town did Harland Sanders serve chicken at his roadside cafe?",
    "a": "Corbin",
-   "p": 600
+   "p": 600,
+   "apic": "Corbin, Kentucky"
   },
   {
    "q": "In which US city did the first KFC franchise open in 1952?",
    "a": "Salt Lake City",
-   "p": 600
+   "p": 600,
+   "apic": "Salt Lake City"
   },
   {
    "q": "What was Burger King's original name in 1953?",
@@ -1152,12 +1284,14 @@
   {
    "q": "In which Florida city is Burger King headquartered?",
    "a": "Miami",
-   "p": 600
+   "p": 600,
+   "apic": "Miami"
   },
   {
    "q": "In which Kansas city was Pizza Hut founded in 1958?",
    "a": "Wichita",
-   "p": 600
+   "p": 600,
+   "apic": "Wichita, Kansas"
   },
   {
    "q": "What is the surname of the brothers who founded Pizza Hut?",
@@ -1178,7 +1312,8 @@
   {
    "q": "In which Michigan city was Domino's founded?",
    "a": "Ypsilanti",
-   "p": 600
+   "p": 600,
+   "apic": "Ypsilanti, Michigan"
   },
   {
    "q": "What was Subway's original name in 1965?",
@@ -1194,22 +1329,26 @@
    "p": 600,
    "alt": [
     "DeLuca"
-   ]
+   ],
+   "apic": "Fred DeLuca"
   },
   {
    "q": "In which Massachusetts city did Dunkin' begin in 1950?",
    "a": "Quincy",
-   "p": 600
+   "p": 600,
+   "apic": "Quincy, Massachusetts"
   },
   {
    "q": "In which North Carolina city was Krispy Kreme founded in 1937?",
    "a": "Winston-Salem",
-   "p": 600
+   "p": 600,
+   "apic": "Winston-Salem, North Carolina"
   },
   {
    "q": "In which Ohio city did Dave Thomas open the first Wendy's in 1969?",
    "a": "Columbus",
-   "p": 600
+   "p": 600,
+   "apic": "Columbus, Ohio"
   },
   {
    "q": "Who founded Taco Bell in 1962?",
@@ -1217,7 +1356,8 @@
    "p": 600,
    "alt": [
     "Glen William Bell"
-   ]
+   ],
+   "apic": "Glen Bell"
   },
   {
    "q": "Popeyes is named after a detective in which 1971 film?",
@@ -1225,27 +1365,32 @@
    "p": 600,
    "alt": [
     "French Connection"
-   ]
+   ],
+   "apic": "The French Connection (film)"
   },
   {
    "q": "Which Los Angeles burger chain was started by Lovie Yancey in 1952?",
    "a": "Fatburger",
-   "p": 600
+   "p": 600,
+   "apic": "Fatburger"
   },
   {
    "q": "Which 1950s-diner-style burger chain opened on Melrose Avenue in Los Angeles in 1986?",
    "a": "Johnny Rockets",
-   "p": 600
+   "p": 600,
+   "apic": "Johnny Rockets"
   },
   {
    "q": "In which city was Joe & the Juice founded in 2002?",
    "a": "Copenhagen",
-   "p": 600
+   "p": 600,
+   "apic": "Copenhagen"
   },
   {
    "q": "Which US burger chain did Jollibee buy a majority of in 2018?",
    "a": "Smashburger",
-   "p": 600
+   "p": 600,
+   "apic": "Smashburger"
   },
   {
    "q": "Which California coffee chain did Jollibee buy in 2019?",
@@ -1255,7 +1400,8 @@
     "Coffee Bean & Tea Leaf",
     "Coffee Bean",
     "The Coffee Bean"
-   ]
+   ],
+   "apic": "The Coffee Bean & Tea Leaf"
   },
   {
    "q": "In which year was the Americana group, which runs KFC and Pizza Hut across the Arab world, founded?",
@@ -1266,7 +1412,8 @@
    "q": "Which Saudi burger chain, founded in Riyadh in 1981, belongs to the Savola Group?",
    "a": "Herfy",
    "p": 600,
-   "ar": "هرفي"
+   "ar": "هرفي",
+   "apic": "Herfy"
   },
   {
    "q": "In which year was Talabat founded?",
@@ -1287,7 +1434,8 @@
    "p": 600,
    "alt": [
     "Door Dash"
-   ]
+   ],
+   "apic": "DoorDash"
   },
   {
    "q": "What was the name of KFC's founder?",
@@ -1296,12 +1444,14 @@
    "alt": [
     "Colonel Sanders",
     "Colonel Harland Sanders"
-   ]
+   ],
+   "apic": "Colonel Sanders"
   },
   {
    "q": "Which chain's long-time slogan is 'Finger lickin' good'?",
    "a": "KFC",
-   "p": 200
+   "p": 200,
+   "apic": "KFC"
   },
   {
    "q": "Which burger chain's classic slogan is 'Have it your way'?",
@@ -1309,7 +1459,8 @@
    "p": 200,
    "alt": [
     "BK"
-   ]
+   ],
+   "apic": "Burger King"
   },
   {
    "q": "What is the German-Turkish cousin of shawarma, sliced from a rotating cone, called?",
@@ -1319,7 +1470,8 @@
     "Döner",
     "Doner",
     "Doner kebap"
-   ]
+   ],
+   "apic": "Doner kebab"
   },
   {
    "q": "Which thin, crispy South Indian rice-and-lentil crepe is a UAE cafeteria staple?",
@@ -1328,12 +1480,14 @@
    "alt": [
     "Dosai",
     "Masala dosa"
-   ]
+   ],
+   "apic": "Dosa (food)"
   },
   {
    "q": "Which McDonald's dessert of soft serve with mixed-in sweets was created in Canada?",
    "a": "McFlurry",
-   "p": 400
+   "p": 400,
+   "apic": "McFlurry"
   },
   {
    "q": "Which chain's thick frozen dessert is called the Frosty?",
@@ -1341,7 +1495,8 @@
    "p": 400,
    "alt": [
     "Wendys"
-   ]
+   ],
+   "apic": "Wendy's"
   },
   {
    "q": "In which year did McDonald's launch its 'I'm lovin' it' slogan?",
@@ -1355,7 +1510,8 @@
    "alt": [
     "Hotel Saravana Bhavan",
     "HSB"
-   ]
+   ],
+   "apic": "Saravana Bhavan"
   }
  ]
 }

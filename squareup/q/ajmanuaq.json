@@ -11,13 +11,15 @@
     "UAQ",
     "Umm Al Qaiwain",
     "Umm al-Quwain"
-   ]
+   ],
+   "apic": "Umm Al Quwain"
   },
   {
    "q": "Which emirate lies directly south of Ajman?",
    "a": "Sharjah",
    "p": 200,
-   "ar": "الشارقة"
+   "ar": "الشارقة",
+   "apic": "Sharjah"
   },
   {
    "q": "Ajman's most popular seafront promenade, lined with cafes and hotels, is called the Ajman what?",
@@ -40,7 +42,8 @@
    "q": "Which emirate is the smallest of the seven by land area?",
    "a": "Ajman",
    "p": 200,
-   "ar": "عجمان"
+   "ar": "عجمان",
+   "apic": "Ajman"
   },
   {
    "q": "Ajman's old shipyard is famous for building which traditional wooden vessels?",
@@ -50,7 +53,8 @@
    "alt": [
     "Dhow",
     "Wooden boats"
-   ]
+   ],
+   "apic": "Dhow"
   },
   {
    "q": "Dreamland Aqua Park, one of the UAE's biggest water parks, is found in which emirate?",
@@ -60,7 +64,8 @@
    "alt": [
     "UAQ",
     "Umm Al Qaiwain"
-   ]
+   ],
+   "apic": "Umm Al Quwain"
   },
   {
    "q": "The lagoons around Umm Al Quwain are lined with which salt-tolerant trees?",
@@ -69,7 +74,8 @@
    "alt": [
     "Mangrove",
     "Mangrove trees"
-   ]
+   ],
+   "apic": "Mangrove"
   },
   {
    "q": "Which tall pink wading bird is a winter visitor to the lagoons near Ajman and Umm Al Quwain?",
@@ -79,7 +85,8 @@
    "alt": [
     "Flamingos",
     "Greater flamingo"
-   ]
+   ],
+   "apic": "Flamingo"
   },
   {
    "q": "Ajman and Umm Al Quwain both have their coastline on which gulf?",
@@ -90,7 +97,8 @@
     "Persian Gulf",
     "The Gulf",
     "Gulf"
-   ]
+   ],
+   "apic": "Persian Gulf"
   },
   {
    "q": "How many emirates, including Ajman and Umm Al Quwain, formed the UAE when it was founded?",
@@ -116,7 +124,8 @@
    "alt": [
     "Pearl oyster",
     "Oysters"
-   ]
+   ],
+   "apic": "Pearl oyster"
   },
   {
    "q": "What is the Arabic word for pearl?",
@@ -166,7 +175,8 @@
     "Hajar",
     "Al Hajar",
     "Hajar range"
-   ]
+   ],
+   "apic": "Hajar Mountains"
   },
   {
    "q": "Masfout lies close to the border with which neighbouring country?",
@@ -175,12 +185,14 @@
    "ar": "عُمان",
    "alt": [
     "Sultanate of Oman"
-   ]
+   ],
+   "apic": "Oman"
   },
   {
    "q": "Al Zorah, a nature reserve and resort area in Ajman, is home to a championship course for which sport?",
    "a": "Golf",
-   "p": 200
+   "p": 200,
+   "apic": "Golf"
   },
   {
    "q": "Traditional coastal homes called barasti were built mainly from what material?",
@@ -270,7 +282,8 @@
    "alt": [
     "Petroleum",
     "Crude oil"
-   ]
+   ],
+   "apic": "Petroleum"
   },
   {
    "q": "Which curved Emirati dagger often features in museum weapon displays?",
@@ -281,7 +294,8 @@
     "Khanjer",
     "Khunjar",
     "Khanjar dagger"
-   ]
+   ],
+   "apic": "Khanjar"
   },
   {
    "q": "What is the Arabic word for sword?",
@@ -300,7 +314,8 @@
    "ar": "مجلس",
    "alt": [
     "Majlas"
-   ]
+   ],
+   "apic": "Majlis"
   },
   {
    "q": "How many exclaves does Ajman have?",
@@ -319,7 +334,8 @@
     "Qahwa",
     "Kahwa",
     "Arabic coffee"
-   ]
+   ],
+   "apic": "Arabic coffee"
   },
   {
    "q": "Which Ajman exclave in the Hajar Mountains is surrounded by Ras Al Khaimah, Hatta and Oman?",
@@ -328,7 +344,8 @@
    "ar": "مصفوت",
    "alt": [
     "Masfut"
-   ]
+   ],
+   "apic": "Masfout"
   },
   {
    "q": "Besides Masfout, what is Ajman's other inland exclave?",
@@ -376,7 +393,8 @@
    "alt": [
     "UAQ",
     "Umm Al Qaiwain"
-   ]
+   ],
+   "apic": "Umm Al Quwain"
   },
   {
    "q": "The ancient Ed-Dur archaeological site lies in which emirate?",
@@ -386,7 +404,8 @@
    "alt": [
     "UAQ",
     "Umm Al Qaiwain"
-   ]
+   ],
+   "apic": "Umm Al Quwain"
   },
   {
    "q": "What is the Arabic name for the traditional wind tower used to cool buildings?",
@@ -397,7 +416,8 @@
     "Badgir",
     "Wind tower",
     "Barjil"
-   ]
+   ],
+   "apic": "Windcatcher"
   },
   {
    "q": "In Gulf pearling, what was the title of the boat's owner or captain?",
@@ -427,7 +447,8 @@
    "p": 400,
    "alt": [
     "Japanese"
-   ]
+   ],
+   "apic": "Japan"
   },
   {
    "q": "In 1820 the coastal rulers, including Ajman's and Umm Al Quwain's, signed which treaty with Britain?",
@@ -446,7 +467,8 @@
    "alt": [
     "Lateen",
     "Settee sail"
-   ]
+   ],
+   "apic": "Lateen"
   },
   {
    "q": "What is the traditional woven fish trap used in the Gulf called?",
@@ -466,7 +488,8 @@
    "ar": "رأس الخيمة",
    "alt": [
     "RAK"
-   ]
+   ],
+   "apic": "Ras Al Khaimah"
   },
   {
    "q": "Which Ajman nature reserve of mangroves and lagoons offers kayaking and flamingo spotting?",
@@ -508,7 +531,8 @@
    "alt": [
     "Coral stone",
     "Coral rock"
-   ]
+   ],
+   "apic": "Coral"
   },
   {
    "q": "What is the Arabic word for a coastal salt flat?",
@@ -550,7 +574,8 @@
    "alt": [
     "Arabian horse",
     "Arabian horses"
-   ]
+   ],
+   "apic": "Arabian horse"
   },
   {
    "q": "What are the small traditional wooden water taxis that cross Ajman's creek and coast called?",
@@ -560,7 +585,8 @@
    "alt": [
     "Abras",
     "Abrah"
-   ]
+   ],
+   "apic": "Abra (boat)"
   },
   {
    "q": "The 'Trucial' in Trucial States comes from the word for what?",
@@ -598,7 +624,8 @@
    "alt": [
     "Camel races",
     "Camel race"
-   ]
+   ],
+   "apic": "Camel racing"
   },
   {
    "q": "What is the traditional Emirati group performance, listed by UNESCO, in which two rows of men face each other, swaying with canes?",
@@ -628,7 +655,8 @@
    "alt": [
     "Nicklaus",
     "Nicklaus Design"
-   ]
+   ],
+   "apic": "Jack Nicklaus"
   },
   {
    "q": "Which colour gives its name to the historic fort in Ajman's Manama exclave?",
@@ -643,7 +671,8 @@
    "ar": "أم القيوين",
    "alt": [
     "UAQ"
-   ]
+   ],
+   "apic": "Umm Al Quwain"
   },
   {
    "q": "Which Dreamland slide is named after a region of space with extreme gravity?",
@@ -704,7 +733,8 @@
    "ar": "إسبانيا",
    "alt": [
     "Spanish"
-   ]
+   ],
+   "apic": "Spain"
   },
   {
    "q": "The dhow type called the baghlah is named after which animal in Arabic?",
@@ -713,7 +743,8 @@
    "ar": "بغلة",
    "alt": [
     "Baghla"
-   ]
+   ],
+   "apic": "Mule"
   },
   {
    "q": "Which Indian town in Kerala was historically a centre of dhow building?",
@@ -721,7 +752,8 @@
    "p": 600,
    "alt": [
     "Baypore"
-   ]
+   ],
+   "apic": "Beypore"
   },
   {
    "q": "In early dhows, hull planks were stitched together with rope made from which fibre?",
@@ -731,7 +763,8 @@
     "Coir",
     "Coconut fibre",
     "Coconut coir"
-   ]
+   ],
+   "apic": "Coconut"
   },
   {
    "q": "What was the main pearl-diving season, 1 June to 30 September, called?",
@@ -762,7 +795,8 @@
    "ar": "الغاق السقطري",
    "alt": [
     "Cormorant"
-   ]
+   ],
+   "apic": "Socotra cormorant"
   },
   {
    "q": "In 2023, officials announced Sinniyah Island held the oldest known what in the Gulf?",
@@ -808,7 +842,8 @@
    "p": 600,
    "alt": [
     "Shamas"
-   ]
+   ],
+   "apic": "Shamash"
   },
   {
    "q": "Ed-Dur was closely linked to which inland trading centre in Sharjah?",
@@ -818,7 +853,8 @@
    "alt": [
     "Meliha",
     "Mleiha site"
-   ]
+   ],
+   "apic": "Mleiha"
   },
   {
    "q": "Ed-Dur overlooks which lagoon wetland, a recognised Important Bird Area?",
@@ -839,7 +875,8 @@
    "alt": [
     "Tell Abraq site",
     "Tel Abraq"
-   ]
+   ],
+   "apic": "Tell Abraq"
   },
   {
    "q": "In which year was Umm Al Quwain Fort built?",
@@ -898,7 +935,8 @@
    "alt": [
     "Sidra",
     "Ziziphus"
-   ]
+   ],
+   "apic": "Ziziphus spina-christi"
   },
   {
    "q": "Ajman Fort was built from coral stone bound with which white mineral plaster?",
@@ -908,7 +946,8 @@
    "alt": [
     "Jiss",
     "Gypsum plaster"
-   ]
+   ],
+   "apic": "Gypsum"
   },
   {
    "q": "Which 1930s rectangular watchtower stands on the Ajman Corniche?",
@@ -949,19 +988,22 @@
    "ar": "أم القيوين",
    "alt": [
     "UAQ"
-   ]
+   ],
+   "apic": "Umm Al Quwain"
   },
   {
    "q": "On land, Ajman city is completely surrounded by which emirate?",
    "a": "Sharjah",
    "p": 200,
-   "ar": "الشارقة"
+   "ar": "الشارقة",
+   "apic": "Sharjah"
   },
   {
    "q": "Which private university, founded in 1988, carries the name of the smallest emirate?",
    "a": "Ajman University",
    "p": 200,
-   "ar": "جامعة عجمان"
+   "ar": "جامعة عجمان",
+   "apic": "Ajman University"
   },
   {
    "q": "Which Umm Al Quwain motorsport venue is known for drag racing and off-road events?",
@@ -984,7 +1026,8 @@
    "alt": [
     "Persian Gulf",
     "The Gulf"
-   ]
+   ],
+   "apic": "Persian Gulf"
   },
   {
    "q": "Who became Ruler of Ajman in 1981?",
@@ -1034,7 +1077,8 @@
    "ar": "مصفوت",
    "alt": [
     "Masfut"
-   ]
+   ],
+   "apic": "Masfout"
   },
   {
    "q": "Which Soviet cargo plane model was the famous abandoned aircraft at Umm Al Quwain?",
@@ -1042,7 +1086,8 @@
    "p": 400,
    "alt": [
     "Il-76"
-   ]
+   ],
+   "apic": "Ilyushin Il-76"
   },
   {
    "q": "What is the Gulf word for the pearl beds where divers worked?",
@@ -1062,7 +1107,8 @@
    "alt": [
     "Sambuq",
     "Sambouk"
-   ]
+   ],
+   "apic": "Sambuk"
   },
   {
    "q": "Who ruled Umm Al Quwain from 1981 until 2009?",
@@ -1116,12 +1162,14 @@
   {
    "q": "Archaeologists from which country first identified the Ed-Dur site in 1973?",
    "a": "Iraq",
-   "p": 600
+   "p": 600,
+   "apic": "Iraq"
   },
   {
    "q": "Ed-Dur has the first recorded use in Arabia of window panes made of which stone?",
    "a": "Alabaster",
-   "p": 600
+   "p": 600,
+   "apic": "Alabaster"
   },
   {
    "q": "Coins found at Ed-Dur and Mleiha carry the name of which pre-Islamic local ruler?",
@@ -1137,7 +1185,8 @@
    "p": 600,
    "alt": [
     "Hercules"
-   ]
+   ],
+   "apic": "Heracles"
   },
   {
    "q": "Which emirate borders Umm Al Quwain to the north-east?",
@@ -1146,7 +1195,8 @@
    "ar": "رأس الخيمة",
    "alt": [
     "RAK"
-   ]
+   ],
+   "apic": "Ras Al Khaimah"
   },
   {
    "q": "Which three-letter abbreviation is commonly used for Umm Al Quwain?",

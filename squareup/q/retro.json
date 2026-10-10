@@ -5,7 +5,8 @@
   {
    "q": "Which yellow maze hero is chased by ghosts named Blinky, Pinky, Inky and Clyde?",
    "a": "Pac-Man",
-   "p": 200
+   "p": 200,
+   "apic": "Pac-Man"
   },
   {
    "q": "How many ghosts chase Pac-Man in the original arcade game?",
@@ -32,7 +33,8 @@
   {
    "q": "Which 1978 Taito arcade game had rows of aliens marching down towards the player's cannon?",
    "a": "Space Invaders",
-   "p": 200
+   "p": 200,
+   "apic": "Space Invaders"
   },
   {
    "q": "In Space Invaders, which direction do the aliens step each time they reach the edge of the screen?",
@@ -45,22 +47,26 @@
   {
    "q": "Which Atari arcade game had players blasting space rocks that split into smaller pieces?",
    "a": "Asteroids",
-   "p": 200
+   "p": 200,
+   "apic": "Asteroids (video game)"
   },
   {
    "q": "In which 1981 arcade game do you guide an amphibian across a busy road and a river?",
    "a": "Frogger",
-   "p": 200
+   "p": 200,
+   "apic": "Frogger"
   },
   {
    "q": "Which Namco shooter from 1981 has insect-like aliens that can capture your ship with a tractor beam?",
    "a": "Galaga",
-   "p": 200
+   "p": 200,
+   "apic": "Galaga"
   },
   {
    "q": "Which falling-block puzzle game uses pieces called tetrominoes?",
    "a": "Tetris",
-   "p": 200
+   "p": 200,
+   "apic": "Tetris"
   },
   {
    "q": "How many squares make up each piece in Tetris?",
@@ -82,7 +88,8 @@
   {
    "q": "Which classic Atari game has you bouncing a ball off a paddle to smash a wall of bricks?",
    "a": "Breakout",
-   "p": 200
+   "p": 200,
+   "apic": "Breakout (video game)"
   },
   {
    "q": "Which 1982 arcade sequel gave Pac-Man a female partner wearing a red bow?",
@@ -90,7 +97,8 @@
    "p": 200,
    "alt": [
     "Ms Pac-Man"
-   ]
+   ],
+   "apic": "Ms. Pac-Man"
   },
   {
    "q": "In which decade were Pac-Man, Donkey Kong and Galaga all released?",
@@ -116,7 +124,8 @@
   {
    "q": "What kind of animal is Tails?",
    "a": "Fox",
-   "p": 200
+   "p": 200,
+   "apic": "Fox"
   },
   {
    "q": "What is the name of Sonic's red rival who guards the Master Emerald?",
@@ -187,12 +196,14 @@
   {
    "q": "Which actor played Dr. Robotnik in the 2020 Sonic the Hedgehog film?",
    "a": "Jim Carrey",
-   "p": 200
+   "p": 200,
+   "apic": "Jim Carrey"
   },
   {
    "q": "What was Sega's final home console, launched in Japan in 1998?",
    "a": "Dreamcast",
-   "p": 200
+   "p": 200,
+   "apic": "Dreamcast"
   },
   {
    "q": "What were the plug-in game cards used by most 1980s consoles called?",
@@ -201,7 +212,8 @@
    "alt": [
     "Carts",
     "Game cartridges"
-   ]
+   ],
+   "apic": "ROM cartridge"
   },
   {
    "q": "What did players famously blow into when a 1980s game would not load?",
@@ -218,7 +230,8 @@
    "p": 200,
    "alt": [
     "Directional pad"
-   ]
+   ],
+   "apic": "D-pad"
   },
   {
    "q": "What two words flash on an arcade screen asking for money to play?",
@@ -253,7 +266,8 @@
   {
    "q": "What is the stick with a ball on top used to steer in arcade cabinets called?",
    "a": "Joystick",
-   "p": 200
+   "p": 200,
+   "apic": "Joystick"
   },
   {
    "q": "What do you call the big enemy waiting at the end of a level?",
@@ -263,7 +277,8 @@
   {
    "q": "What is the famous cheat code that begins up, up, down, down called?",
    "a": "Konami Code",
-   "p": 200
+   "p": 200,
+   "apic": "Konami Code"
   },
   {
    "q": "Which Capcom series stars a blue robot who copies the weapons of defeated bosses?",
@@ -271,7 +286,8 @@
    "p": 200,
    "alt": [
     "Rockman"
-   ]
+   ],
+   "apic": "Mega Man"
   },
   {
    "q": "Which Hudson Soft series has players dropping explosives in a maze-like grid?",
@@ -284,7 +300,8 @@
    "p": 200,
    "alt": [
     "Whack-a-Mole"
-   ]
+   ],
+   "apic": "Whac-A-Mole"
   },
   {
    "q": "What is the arcade machine where you steer a metal grabber to try to win a plush toy?",
@@ -293,7 +310,8 @@
    "alt": [
     "Crane game",
     "Claw crane"
-   ]
+   ],
+   "apic": "Claw machine"
   },
   {
    "q": "Which arcade game has you rolling balls up a ramp into scoring rings?",
@@ -301,12 +319,14 @@
    "p": 200,
    "alt": [
     "Skee ball"
-   ]
+   ],
+   "apic": "Skee-Ball"
   },
   {
    "q": "Which arcade machine uses flippers to keep a steel ball in play?",
    "a": "Pinball",
-   "p": 200
+   "p": 200,
+   "apic": "Pinball"
   },
   {
    "q": "What paper prizes do many arcade games spit out to swap at the prize counter?",
@@ -316,7 +336,8 @@
   {
    "q": "Which two-player arcade table game sends a puck gliding on a cushion of air?",
    "a": "Air hockey",
-   "p": 200
+   "p": 200,
+   "apic": "Air hockey"
   },
   {
    "q": "Which arcade machine measures how hard you can hit a padded bag?",
@@ -333,7 +354,8 @@
    "p": 200,
    "alt": [
     "DDR"
-   ]
+   ],
+   "apic": "Dance Dance Revolution"
   },
   {
    "q": "Which game came preloaded on Nokia phones, steering a line that grows longer as it eats?",
@@ -343,7 +365,8 @@
   {
    "q": "Which Windows puzzle game uses numbers to warn you about hidden explosives?",
    "a": "Minesweeper",
-   "p": 200
+   "p": 200,
+   "apic": "Minesweeper (video game)"
   },
   {
    "q": "Which card game came bundled with Windows from version 3.0?",
@@ -375,12 +398,14 @@
    "p": 200,
    "alt": [
     "A, B"
-   ]
+   ],
+   "pic": "Game Boy"
   },
   {
    "q": "Which egg-shaped Bandai keychain from 1996 had you raising a digital pet?",
    "a": "Tamagotchi",
-   "p": 200
+   "p": 200,
+   "apic": "Tamagotchi"
   },
   {
    "q": "Which 1989 Konami four-player arcade brawler starred Leonardo, Donatello, Raphael and Michelangelo?",
@@ -523,7 +548,8 @@
   {
    "q": "What kind of animal is Knuckles?",
    "a": "Echidna",
-   "p": 400
+   "p": 400,
+   "apic": "Echidna"
   },
   {
    "q": "How many rings does Sonic need to collect to earn an extra life?",
@@ -561,17 +587,20 @@
   {
    "q": "Which actor voiced Knuckles in the Sonic films?",
    "a": "Idris Elba",
-   "p": 400
+   "p": 400,
+   "apic": "Idris Elba"
   },
   {
    "q": "Which actor voiced Shadow in Sonic the Hedgehog 3?",
    "a": "Keanu Reeves",
-   "p": 400
+   "p": 400,
+   "apic": "Keanu Reeves"
   },
   {
    "q": "Which actor voiced Sonic in the 2020 Sonic the Hedgehog film?",
    "a": "Ben Schwartz",
-   "p": 400
+   "p": 400,
+   "apic": "Ben Schwartz"
   },
   {
    "q": "Which Sega 8-bit console competed with the NES in the 1980s?",
@@ -579,12 +608,14 @@
    "p": 400,
    "alt": [
     "Sega Master System"
-   ]
+   ],
+   "apic": "Master System"
   },
   {
    "q": "In which year did the Dreamcast launch in Japan?",
    "a": "1998",
-   "p": 400
+   "p": 400,
+   "pic": "Dreamcast"
   },
   {
    "q": "What did the Dreamcast include out of the box so players could go online?",
@@ -592,7 +623,8 @@
    "p": 400,
    "alt": [
     "Modem"
-   ]
+   ],
+   "pic": "Dreamcast"
   },
   {
    "q": "Which Dreamcast game follows Ryo Hazuki searching for his father's killer in Yokosuka?",
@@ -638,7 +670,8 @@
   {
    "q": "Which brand's logo looks like a stylised Mount Fuji with three prongs?",
    "a": "Atari",
-   "p": 400
+   "p": 400,
+   "apic": "Atari"
   },
   {
    "q": "What is the 1983 collapse of the North American games market commonly called?",
@@ -648,7 +681,8 @@
     "Video game crash",
     "The crash of 1983",
     "Atari shock"
-   ]
+   ],
+   "apic": "Video game crash of 1983"
   },
   {
    "q": "Which pizza-and-arcade restaurant chain did Atari's Nolan Bushnell found?",
@@ -656,7 +690,8 @@
    "p": 400,
    "alt": [
     "Pizza Time Theatre"
-   ]
+   ],
+   "apic": "Chuck E. Cheese"
   },
   {
    "q": "Which Apple co-founder helped Steve Jobs build the prototype of Atari's Breakout?",
@@ -665,7 +700,8 @@
    "alt": [
     "Wozniak",
     "Woz"
-   ]
+   ],
+   "apic": "Steve Wozniak"
   },
   {
    "q": "Which Commodore computer, launched in 1982, is often named the best-selling single home computer model?",
@@ -673,7 +709,8 @@
    "p": 400,
    "alt": [
     "C64"
-   ]
+   ],
+   "apic": "Commodore 64"
   },
   {
    "q": "Which Commodore computer line, launched in 1985, was famous for its graphics and the demoscene?",
@@ -681,7 +718,8 @@
    "p": 400,
    "alt": [
     "Commodore Amiga"
-   ]
+   ],
+   "apic": "Amiga"
   },
   {
    "q": "Which Sinclair home computer of 1982 had rubbery keys and a rainbow stripe?",
@@ -689,7 +727,8 @@
    "p": 400,
    "alt": [
     "Spectrum"
-   ]
+   ],
+   "apic": "ZX Spectrum"
   },
   {
    "q": "What was the brand name of the Arabic MSX computers that were popular across the Gulf in the 1980s?",
@@ -769,7 +808,8 @@
   {
    "q": "In the arcade game Joust, which large bird does the knight ride?",
    "a": "Ostrich",
-   "p": 400
+   "p": 400,
+   "apic": "Ostrich"
   },
   {
    "q": "Which 1982 Activision Atari 2600 game has Harry swinging on vines over crocodiles?",
@@ -888,7 +928,8 @@
    "p": 400,
    "alt": [
     "Game and Watch"
-   ]
+   ],
+   "apic": "Game & Watch"
   },
   {
    "q": "What colour tint did the original Game Boy's screen have?",
@@ -897,7 +938,8 @@
    "alt": [
     "Greenish",
     "Pea green"
-   ]
+   ],
+   "pic": "Game Boy"
   },
   {
    "q": "In Wreck-It Ralph, which candy-themed racing game is Vanellope from?",
@@ -982,7 +1024,8 @@
    "alt": [
     "Korobushka",
     "The Peddlers"
-   ]
+   ],
+   "apic": "Korobeiniki"
   },
   {
    "q": "What three letters were printed on the original Game Boy's model number, short for Dot Matrix Game?",
@@ -990,17 +1033,20 @@
    "p": 600,
    "alt": [
     "DMG-01"
-   ]
+   ],
+   "pic": "Game Boy"
   },
   {
    "q": "In which US state's desert were thousands of Atari cartridges buried in 1983?",
    "a": "New Mexico",
-   "p": 600
+   "p": 600,
+   "apic": "New Mexico"
   },
   {
    "q": "Which US department store chain sold the first home version of Pong in 1975?",
    "a": "Sears",
-   "p": 600
+   "p": 600,
+   "apic": "Sears"
   },
   {
    "q": "What was the first home video game console, released by Magnavox in 1972?",
@@ -1008,12 +1054,14 @@
    "p": 600,
    "alt": [
     "Odyssey"
-   ]
+   ],
+   "apic": "Magnavox Odyssey"
   },
   {
    "q": "Which German-American engineer, called the father of video games, designed the first home console?",
    "a": "Ralph Baer",
-   "p": 600
+   "p": 600,
+   "apic": "Ralph H. Baer"
   },
   {
    "q": "Which 1981 Atari arcade game was co-designed by Dona Bailey, one of the first female arcade designers?",
@@ -1059,12 +1107,14 @@
   {
    "q": "Which former Disney animator drew the cartoon scenes of Dragon's Lair?",
    "a": "Don Bluth",
-   "p": 600
+   "p": 600,
+   "apic": "Don Bluth"
   },
   {
    "q": "Which Activision programmer created Pitfall!?",
    "a": "David Crane",
-   "p": 600
+   "p": 600,
+   "apic": "David Crane (programmer)"
   },
   {
    "q": "Which 1982 Universal arcade game stars a clown who digs tunnels and collects cherries?",
@@ -1124,7 +1174,8 @@
    "p": 600,
    "alt": [
     "Sega 32X"
-   ]
+   ],
+   "apic": "32X"
   },
   {
    "q": "What did the cartridge Sonic & Knuckles let players do with Sonic 3 plugged on top?",
@@ -1143,12 +1194,14 @@
    "alt": [
     "DCT",
     "Dorikamu"
-   ]
+   ],
+   "apic": "Dreams Come True (band)"
   },
   {
    "q": "What colour was the Dreamcast's swirl logo on European consoles?",
    "a": "Blue",
-   "p": 600
+   "p": 600,
+   "pic": "Dreamcast"
   },
   {
    "q": "What was the Dreamcast memory card with its own tiny screen called?",
@@ -1157,7 +1210,8 @@
    "alt": [
     "Visual Memory Unit",
     "Visual Memory"
-   ]
+   ],
+   "apic": "VMU"
   },
   {
    "q": "Which 2000 Sonic Team online RPG let Dreamcast players team up over the internet?",
@@ -1196,7 +1250,8 @@
    "p": 600,
    "alt": [
     "Sega Republic"
-   ]
+   ],
+   "apic": "Sega"
   },
   {
    "q": "Which Kuwaiti company made the Sakhr Arabic MSX computers?",
@@ -1211,7 +1266,8 @@
   {
    "q": "Which 1983 home computer standard was launched by ASCII and Microsoft Japan?",
    "a": "MSX",
-   "p": 600
+   "p": 600,
+   "apic": "MSX"
   },
   {
    "q": "What was the name of the Commodore 64's famous sound chip?",
@@ -1220,7 +1276,8 @@
    "alt": [
     "SID chip",
     "Sound Interface Device"
-   ]
+   ],
+   "pic": "Commodore 64"
   },
   {
    "q": "Which British businessman's company made the Amstrad CPC home computers?",
@@ -1228,7 +1285,8 @@
    "p": 600,
    "alt": [
     "Lord Sugar"
-   ]
+   ],
+   "apic": "Alan Sugar"
   },
   {
    "q": "Which British company made the BBC Micro?",
@@ -1236,7 +1294,8 @@
    "p": 600,
    "alt": [
     "Acorn"
-   ]
+   ],
+   "apic": "Acorn Computers"
   },
   {
    "q": "Which ZX Spectrum platformer stars Miner Willy?",
@@ -1423,7 +1482,8 @@
    "p": 200,
    "alt": [
     "Gray"
-   ]
+   ],
+   "pic": "Game Boy"
   },
   {
    "q": "What genre name is given to games like Space Invaders and Galaga, where you blast waves of enemies?",
@@ -1442,7 +1502,8 @@
    "alt": [
     "An arcade",
     "Amusement arcade"
-   ]
+   ],
+   "apic": "Amusement arcade"
   }
  ]
 }

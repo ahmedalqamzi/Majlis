@@ -10,7 +10,8 @@
    "alt": [
     "Jais",
     "Jabal Jais"
-   ]
+   ],
+   "apic": "Jebel Jais"
   },
   {
    "q": "Which ruling family governs the Emirate of Ras Al Khaimah?",
@@ -20,7 +21,8 @@
    "alt": [
     "Qasimi",
     "Qawasim"
-   ]
+   ],
+   "apic": "Al Qasimi"
   },
   {
    "q": "In which year did Ras Al Khaimah join the UAE federation?",
@@ -34,7 +36,8 @@
    "ar": "رأس الخيمة",
    "alt": [
     "RAK"
-   ]
+   ],
+   "apic": "Emirate of Ras Al Khaimah"
   },
   {
    "q": "What does 'Ras' mean in the name Ras Al Khaimah?",
@@ -64,13 +67,15 @@
     "Dhaya Fort",
     "Dhayah",
     "Zayah Fort"
-   ]
+   ],
+   "apic": "Dhayah Fort"
   },
   {
    "q": "Which Ras Al Khaimah company is a major producer of ceramic tiles and sanitaryware?",
    "a": "RAK Ceramics",
    "p": 200,
-   "ar": "رأس الخيمة للسيراميك"
+   "ar": "رأس الخيمة للسيراميك",
+   "apic": "RAK Ceramics"
   },
   {
    "q": "Which zipline on Jebel Jais, opened in 2018, stretches about 2.8 km?",
@@ -87,7 +92,9 @@
    "ar": "عُمان",
    "alt": [
     "Sultanate of Oman"
-   ]
+   ],
+   "pic": "Musandam Peninsula",
+   "apic": "Oman"
   },
   {
    "q": "Which artificial island group off Ras Al Khaimah is known for beach resorts?",
@@ -96,7 +103,8 @@
    "ar": "جزيرة المرجان",
    "alt": [
     "Marjan Island"
-   ]
+   ],
+   "apic": "Al Marjan Island"
   },
   {
    "q": "Which mountain range rises behind Ras Al Khaimah and includes Jebel Jais?",
@@ -106,7 +114,9 @@
    "alt": [
     "Al Hajar",
     "Hajar"
-   ]
+   ],
+   "pic": "Jebel Jais",
+   "apic": "Al Hajar Mountains"
   },
   {
    "q": "Which natural gems did the people of Jazirat Al Hamra depend on for their living?",
@@ -116,7 +126,9 @@
    "alt": [
     "Pearl",
     "Lulu"
-   ]
+   ],
+   "pic": "Jazirat Al Hamra",
+   "apic": "Pearl"
   },
   {
    "q": "Which toboggan-style ride runs about 1.8 km down Jebel Jais?",
@@ -129,7 +141,8 @@
   {
    "q": "Which British adventurer's name is on the explorers' camp at Jebel Jais?",
    "a": "Bear Grylls",
-   "p": 200
+   "p": 200,
+   "apic": "Bear Grylls"
   },
   {
    "q": "Which abandoned pearling village near Ras Al Khaimah town is often called a ghost town?",
@@ -140,7 +153,8 @@
     "Jazirat Al Hamra",
     "Al Jazeera Al Hamra",
     "Jazira Al Hamra"
-   ]
+   ],
+   "apic": "Jazirat Al Hamra"
   },
   {
    "q": "What does 'Hamra' mean in the name Al Jazirat Al Hamra?",
@@ -207,7 +221,8 @@
    "alt": [
     "RAK National Museum",
     "National Museum"
-   ]
+   ],
+   "apic": "National Museum of Ras Al Khaimah"
   },
   {
    "q": "Which village at the foot of the Hajar Mountains is known for its natural hot springs?",
@@ -224,7 +239,8 @@
    "p": 200,
    "alt": [
     "Jais Via Ferrata"
-   ]
+   ],
+   "apic": "Via ferrata"
   },
   {
    "q": "Which hiking spot in the Hajar Mountains is known for natural pools and rugged trails?",
@@ -253,7 +269,8 @@
    "alt": [
     "UAQ",
     "Umm Al Qaiwain"
-   ]
+   ],
+   "apic": "Umm Al Quwain"
   },
   {
    "q": "What does 'Jebel' mean in the name Jebel Jais?",
@@ -296,7 +313,8 @@
    "alt": [
     "Saqr bin Mohammed",
     "Sheikh Saqr"
-   ]
+   ],
+   "apic": "Saqr bin Mohammad Al Qasimi"
   },
   {
    "q": "What does 'marjan' mean in the name Al Marjan Island?",
@@ -362,7 +380,8 @@
    "ar": "الطهر العربي",
    "alt": [
     "Tahr"
-   ]
+   ],
+   "apic": "Arabian tahr"
   },
   {
    "q": "In which year did Britain end its protection over the Trucial States?",
@@ -390,7 +409,8 @@
    "ar": "جلفار",
    "alt": [
     "Julfar port"
-   ]
+   ],
+   "apic": "Julfar"
   },
   {
    "q": "Which coastal town north of Ras Al Khaimah city hosts the Suwaidi Pearl Farm?",
@@ -409,7 +429,8 @@
    "alt": [
     "Pearl culturing",
     "Cultured pearl"
-   ]
+   ],
+   "apic": "Cultured pearl"
   },
   {
    "q": "In which year was Julphar founded?",
@@ -455,7 +476,8 @@
   {
    "q": "What is the IATA code of Ras Al Khaimah International Airport?",
    "a": "RKT",
-   "p": 400
+   "p": 400,
+   "pic": "Ras Al Khaimah International Airport"
   },
   {
    "q": "How many ziplines make up the Jais Sky Tour?",
@@ -534,7 +556,8 @@
    "ar": "هرمز",
    "alt": [
     "Ormuz"
-   ]
+   ],
+   "apic": "Kingdom of Ormus"
   },
   {
    "q": "Which European trading company's director described Jazirat Al Hamra's pearl divers in 1756?",
@@ -542,7 +565,9 @@
    "p": 600,
    "alt": [
     "VOC"
-   ]
+   ],
+   "pic": "Jazirat Al Hamra",
+   "apic": "Dutch East India Company"
   },
   {
    "q": "What happened to the lagoon around Jazirat Al Hamra in the late 1970s that joined the island to the mainland?",
@@ -620,7 +645,8 @@
    "alt": [
     "Saud bin Saqr",
     "Sheikh Saud"
-   ]
+   ],
+   "apic": "Saud bin Saqr Al Qasimi"
   },
   {
    "q": "What did the British call the Gulf coast controlled by the Qawasim before it became the 'Trucial Coast'?",
@@ -647,7 +673,8 @@
    "alt": [
     "General Treaty of Peace",
     "Maritime Treaty of 1820"
-   ]
+   ],
+   "apic": "General Maritime Treaty of 1820"
   },
   {
    "q": "Which salt-tolerant coastal trees, called qurm in Arabic, line the lagoons of Al Rams and RAK's creek?",
@@ -657,7 +684,8 @@
    "alt": [
     "Mangrove",
     "Grey mangroves"
-   ]
+   ],
+   "apic": "Mangrove"
   },
   {
    "q": "Which rare weather event made headlines on Jebel Jais in February 2017?",
@@ -666,7 +694,9 @@
    "ar": "ثلج",
    "alt": [
     "Snowfall"
-   ]
+   ],
+   "pic": "Jebel Jais",
+   "apic": "Snow"
   },
   {
    "q": "What is a traditional Gulf pearl diver called in Arabic?",
@@ -707,7 +737,8 @@
    "p": 400,
    "alt": [
     "Da Gama"
-   ]
+   ],
+   "apic": "Vasco da Gama"
   },
   {
    "q": "Which international cycling race has used the climb up Jebel Jais as a stage finish?",
@@ -716,7 +747,9 @@
    "ar": "طواف الإمارات",
    "alt": [
     "Tour of the UAE"
-   ]
+   ],
+   "pic": "Jebel Jais",
+   "apic": "UAE Tour"
   },
   {
    "q": "Which elder half-brother did Sheikh Saud replace as Crown Prince of Ras Al Khaimah in 2003?",
@@ -726,7 +759,8 @@
    "alt": [
     "Khalid bin Saqr",
     "Sheikh Khalid"
-   ]
+   ],
+   "apic": "Khalid bin Saqr Al Qasimi"
   },
   {
    "q": "Which Arabic title, meaning 'teacher', was given to master navigators like Ahmad ibn Majid?",
@@ -798,7 +832,8 @@
    "alt": [
     "Keir Grant",
     "Sir William Grant"
-   ]
+   ],
+   "apic": "William Keir Grant"
   },
   {
    "q": "Which German university excavated the Shimal tombs in the mid-1980s?",
@@ -807,7 +842,8 @@
    "alt": [
     "Göttingen",
     "Gottingen"
-   ]
+   ],
+   "apic": "University of Göttingen"
   },
   {
    "q": "The round collective tombs at Shimal belong to which Bronze Age culture, named after an island off Abu Dhabi?",
@@ -817,7 +853,8 @@
    "alt": [
     "Umm Al Nar",
     "Umm al-Nar"
-   ]
+   ],
+   "apic": "Umm an-Nar culture"
   },
   {
    "q": "Roughly how long, in kilometres, is the winding road up Jebel Jais on the UAE side?",
@@ -840,7 +877,8 @@
    "alt": [
     "Gray mangrove",
     "White mangrove"
-   ]
+   ],
+   "apic": "Avicennia marina"
   },
   {
    "q": "What was a Gulf pearl merchant, who bought pearls from the boats, called?",
@@ -869,7 +907,9 @@
    "alt": [
     "Sultanate of Oman",
     "Musandam"
-   ]
+   ],
+   "pic": "Jebel Jais",
+   "apic": "Oman"
   },
   {
    "q": "What does the RAK village name Shimal mean in Arabic?",
@@ -881,7 +921,8 @@
    "q": "Which emirate shares the Al Qasimi ruling family name with Ras Al Khaimah?",
    "a": "Sharjah",
    "p": 200,
-   "ar": "الشارقة"
+   "ar": "الشارقة",
+   "apic": "Sharjah (emirate)"
   },
   {
    "q": "Which emirate uses the same red-and-white flag as Ras Al Khaimah?",
@@ -893,7 +934,8 @@
    "q": "Which east coast emirate borders Ras Al Khaimah across the Hajar Mountains?",
    "a": "Fujairah",
    "p": 200,
-   "ar": "الفجيرة"
+   "ar": "الفجيرة",
+   "apic": "Fujairah"
   },
   {
    "q": "Al Jazirat Al Hamra is popularly said to be haunted by which supernatural beings?",
@@ -903,7 +945,9 @@
    "alt": [
     "Djinn",
     "Genies"
-   ]
+   ],
+   "pic": "Jazirat Al Hamra",
+   "apic": "Jinn"
   },
   {
    "q": "What is the short name of the National Bank of Ras Al Khaimah?",
@@ -919,7 +963,9 @@
    "p": 200,
    "alt": [
     "Ras Al Khaimah Half Marathon"
-   ]
+   ],
+   "pic": "Al Marjan Island",
+   "apic": "Ras Al Khaimah Half Marathon"
   },
   {
    "q": "Which ice- and penguin-themed water park opened at Al Hamra in Ras Al Khaimah in 2010?",
@@ -933,7 +979,8 @@
   {
    "q": "Which UAE university's name is abbreviated AURAK?",
    "a": "American University of Ras Al Khaimah",
-   "p": 200
+   "p": 200,
+   "apic": "American University of Ras Al Khaimah"
   },
   {
    "q": "Which mountain-top restaurant on Jebel Jais is named after its height in metres above sea level?",
@@ -966,7 +1013,8 @@
    "ar": "نادي الإمارات",
    "alt": [
     "Al Emarat"
-   ]
+   ],
+   "apic": "Emirates Club"
   },
   {
    "q": "In which year did the first Ras Al Khaimah Half Marathon take place?",
@@ -990,7 +1038,8 @@
    "alt": [
     "Saud bin Saqr",
     "Sheikh Saud"
-   ]
+   ],
+   "apic": "Saud bin Saqr Al Qasimi"
   },
   {
    "q": "Which northernmost town of Ras Al Khaimah lies close to the Omani border on the coast road to Musandam?",
@@ -1009,12 +1058,14 @@
    "alt": [
     "Oyster",
     "Pearl oysters"
-   ]
+   ],
+   "apic": "Oyster"
   },
   {
    "q": "Which Indian vehicle maker opened a bus factory in Ras Al Khaimah in 2010?",
    "a": "Ashok Leyland",
-   "p": 400
+   "p": 400,
+   "apic": "Ashok Leyland"
   },
   {
    "q": "In which year was Ras Al Khaimah separated from Sharjah again, after being re-incorporated in 1900?",
@@ -1041,12 +1092,14 @@
   {
    "q": "Which Kenyan runner set a half marathon world record at the first RAK Half Marathon in 2007?",
    "a": "Samuel Wanjiru",
-   "p": 600
+   "p": 600,
+   "apic": "Samuel Wanjiru"
   },
   {
    "q": "Which Ethiopian runner set the women's half marathon world record at the RAK Half Marathon in 2020?",
    "a": "Ababel Yeshaneh",
-   "p": 600
+   "p": 600,
+   "apic": "Ababel Yeshaneh"
   },
   {
    "q": "Under which neighbouring country's name was RAK's Emirates Club originally founded in 1969?",
@@ -1088,7 +1141,9 @@
    "p": 600,
    "alt": [
     "Yuan dynasty"
-   ]
+   ],
+   "pic": "Julfar",
+   "apic": "Yuan dynasty"
   },
   {
    "q": "At which inland fort, the Qasimi summer seat, was the General Maritime Treaty signed in January 1820?",
@@ -1122,7 +1177,8 @@
     "Shihhi",
     "Al Shehhi",
     "Shuhuh"
-   ]
+   ],
+   "apic": "Shihuh"
   },
   {
    "q": "What is the full company name behind the abbreviation Julphar?",
@@ -1135,7 +1191,9 @@
    "p": 600,
    "alt": [
     "Bangladesh"
-   ]
+   ],
+   "pic": "RAK Ceramics",
+   "apic": "Dhaka"
   },
   {
    "q": "Which agricultural village south of RAK city is home to the Al Sawan camel racetrack and a well-known dairy farm?",

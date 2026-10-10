@@ -6,7 +6,8 @@
    "q": "In which year did the Dubai Metro open?",
    "a": "2009",
    "p": 200,
-   "ar": "٢٠٠٩"
+   "ar": "٢٠٠٩",
+   "pic": "Dubai Metro"
   },
   {
    "q": "Name the two colours of the original Dubai Metro lines.",
@@ -45,7 +46,8 @@
    "ar": "هيئة الطرق والمواصلات",
    "alt": [
     "Road and Transport Authority"
-   ]
+   ],
+   "apic": "Roads and Transport Authority (Dubai)"
   },
   {
    "q": "What E-number does Sheikh Zayed Road carry?",
@@ -55,7 +57,8 @@
    "alt": [
     "E 11",
     "E-11"
-   ]
+   ],
+   "pic": "Sheikh Zayed Road"
   },
   {
    "q": "What are the traditional wooden boats that ferry passengers across Dubai Creek called?",
@@ -65,12 +68,15 @@
    "alt": [
     "Abra",
     "Abbra"
-   ]
+   ],
+   "pic": "Dubai Creek",
+   "apic": "Abra (boat)"
   },
   {
    "q": "What is the three-letter code for Abu Dhabi's main airport?",
    "a": "AUH",
-   "p": 200
+   "p": 200,
+   "pic": "Zayed International Airport"
   },
   {
    "q": "What is Dubai World Central airport's official name, honouring the ruling family?",
@@ -81,7 +87,8 @@
     "Al Maktoum International",
     "Al Maktoum Airport",
     "DWC"
-   ]
+   ],
+   "apic": "Al Maktoum International Airport"
   },
   {
    "q": "What is the name of the UAE's national railway?",
@@ -90,7 +97,8 @@
    "ar": "قطارات الاتحاد",
    "alt": [
     "Etihad Railway"
-   ]
+   ],
+   "apic": "Etihad Rail"
   },
   {
    "q": "Which canal opened in 2016 to link Business Bay to the sea at Jumeirah?",
@@ -99,7 +107,8 @@
    "ar": "قناة دبي المائية",
    "alt": [
     "Water Canal"
-   ]
+   ],
+   "apic": "Dubai Water Canal"
   },
   {
    "q": "Dubai Metro trains run without what kind of crew member in the cab?",
@@ -109,7 +118,8 @@
    "alt": [
     "Train driver",
     "Drivers"
-   ]
+   ],
+   "pic": "Dubai Metro"
   },
   {
    "q": "What is the premium cabin on the Dubai Metro called?",
@@ -142,7 +152,8 @@
    "ar": "مونوريل النخلة",
    "alt": [
     "Palm Jumeirah Monorail"
-   ]
+   ],
+   "apic": "Palm Jumeirah Monorail"
   },
   {
    "q": "Which RAK mountain, the UAE's highest peak, is reached by a famous winding road?",
@@ -151,7 +162,8 @@
    "ar": "جبل جيس",
    "alt": [
     "Jabal Jais"
-   ]
+   ],
+   "apic": "Jebel Jais"
   },
   {
    "q": "Which DXB terminal is used exclusively by Emirates?",
@@ -161,7 +173,8 @@
    "alt": [
     "T3",
     "3"
-   ]
+   ],
+   "pic": "Dubai International Airport"
   },
   {
    "q": "Which wavy bridge designed by Zaha Hadid links Abu Dhabi island to the mainland?",
@@ -170,7 +183,8 @@
    "ar": "جسر الشيخ زايد",
    "alt": [
     "Zayed Bridge"
-   ]
+   ],
+   "apic": "Sheikh Zayed Bridge"
   },
   {
    "q": "Which Dubai Creek bridge opened in 2022 with a giant arch shaped like a mathematical symbol?",
@@ -179,7 +193,8 @@
    "ar": "جسر إنفينيتي",
    "alt": [
     "Infinity"
-   ]
+   ],
+   "apic": "Infinity Bridge (Dubai)"
   },
   {
    "q": "Which tram system runs along Al Sufouh Road and through Dubai Marina?",
@@ -188,7 +203,8 @@
    "ar": "ترام دبي",
    "alt": [
     "Tram"
-   ]
+   ],
+   "apic": "Dubai Tram"
   },
   {
    "q": "Which traditional wooden cargo vessels still load goods at the Deira wharves?",
@@ -198,7 +214,8 @@
    "alt": [
     "Dhow",
     "Booms"
-   ]
+   ],
+   "apic": "Dhow"
   },
   {
    "q": "Hatta's border crossing leads into which country?",
@@ -207,18 +224,23 @@
    "ar": "عُمان",
    "alt": [
     "Sultanate of Oman"
-   ]
+   ],
+   "pic": "Hatta",
+   "apic": "Oman"
   },
   {
    "q": "In which emirate is DXB airport?",
    "a": "Dubai",
    "p": 200,
-   "ar": "دبي"
+   "ar": "دبي",
+   "pic": "Dubai International Airport",
+   "apic": "Emirate of Dubai"
   },
   {
    "q": "What is the three-letter code for Sharjah International Airport?",
    "a": "SHJ",
-   "p": 200
+   "p": 200,
+   "pic": "Sharjah International Airport"
   },
   {
    "q": "Which Dubai Metro line serves the airport terminals?",
@@ -247,7 +269,8 @@
    "alt": [
     "Abu Dhabi International",
     "Abu Dhabi Airport"
-   ]
+   ],
+   "apic": "Zayed International Airport"
   },
   {
    "q": "Which Dubai Metro carriages are reserved for women and children?",
@@ -267,7 +290,8 @@
    "alt": [
     "KSA",
     "Saudi"
-   ]
+   ],
+   "apic": "Saudi Arabia"
   },
   {
    "q": "In which year did Dubai's Salik tolls begin?",
@@ -296,13 +320,15 @@
    "q": "In which year did the Dubai Metro Green Line open?",
    "a": "2011",
    "p": 400,
-   "ar": "٢٠١١"
+   "ar": "٢٠١١",
+   "pic": "Dubai Metro"
   },
   {
    "q": "In which year did the Dubai Tram open?",
    "a": "2014",
    "p": 400,
-   "ar": "٢٠١٤"
+   "ar": "٢٠١٤",
+   "pic": "Dubai Tram"
   },
   {
    "q": "In which year was Dubai's RTA established?",
@@ -337,7 +363,8 @@
    "ar": "جسر آل مكتوم",
    "alt": [
     "Maktoum Bridge"
-   ]
+   ],
+   "apic": "Al Maktoum Bridge"
   },
   {
    "q": "Which Dubai Creek crossing opened in 2007 rests on pontoons?",
@@ -371,7 +398,9 @@
    "q": "Etihad Rail runs from Ghuwaifat on the Saudi border to which east-coast city?",
    "a": "Fujairah",
    "p": 400,
-   "ar": "الفجيرة"
+   "ar": "الفجيرة",
+   "pic": "Etihad Rail",
+   "apic": "Fujairah"
   },
   {
    "q": "What three-letter code belongs to Ras Al Khaimah International Airport?",
@@ -393,7 +422,8 @@
    "q": "Which Abu Dhabi port at Taweelah opened in 2012?",
    "a": "Khalifa Port",
    "p": 400,
-   "ar": "ميناء خليفة"
+   "ar": "ميناء خليفة",
+   "apic": "Khalifa Port"
   },
   {
    "q": "Which Dubai port near Bur Dubai, opened in 1972, now hosts cruise ships?",
@@ -402,7 +432,8 @@
    "ar": "ميناء راشد",
    "alt": [
     "Mina Rashid"
-   ]
+   ],
+   "apic": "Port Rashid"
   },
   {
    "q": "Which tunnel under Dubai Creek opened in 1975?",
@@ -411,7 +442,8 @@
    "ar": "نفق الشندغة",
    "alt": [
     "Shindagha Tunnel"
-   ]
+   ],
+   "apic": "Al Shindagha Tunnel"
   },
   {
    "q": "Dubai's first passenger flights in 1960 used an airport with what kind of runway?",
@@ -427,7 +459,8 @@
    "q": "In which year did Dubai International Airport open?",
    "a": "1960",
    "p": 400,
-   "ar": "١٩٦٠"
+   "ar": "١٩٦٠",
+   "pic": "Dubai International Airport"
   },
   {
    "q": "What did Etihad Rail Stage One carry from Shah and Habshan to Ruwais?",
@@ -474,13 +507,15 @@
    "q": "In which year did the Dubai Water Canal open?",
    "a": "2016",
    "p": 400,
-   "ar": "٢٠١٦"
+   "ar": "٢٠١٦",
+   "pic": "Dubai Water Canal"
   },
   {
    "q": "In which year did the Palm Monorail open?",
    "a": "2009",
    "p": 400,
-   "ar": "٢٠٠٩"
+   "ar": "٢٠٠٩",
+   "pic": "Palm Jumeirah Monorail"
   },
   {
    "q": "Which colour Nol card is the personalised one that offers discounts for students and seniors?",
@@ -531,13 +566,15 @@
    "q": "Which Gulf port does Hafeet Rail plan to link to the UAE network?",
    "a": "Sohar",
    "p": 600,
-   "ar": "صحار"
+   "ar": "صحار",
+   "apic": "Sohar"
   },
   {
    "q": "Through which UAE city will Hafeet Rail pass on its way to Oman?",
    "a": "Al Ain",
    "p": 600,
-   "ar": "العين"
+   "ar": "العين",
+   "apic": "Al Ain"
   },
   {
    "q": "Which border crossing marks the western end of the E11 at Saudi Arabia?",
@@ -553,7 +590,8 @@
    "q": "In which year did Dubai World Central's Al Maktoum airport first open (for cargo)?",
    "a": "2010",
    "p": 600,
-   "ar": "٢٠١٠"
+   "ar": "٢٠١٠",
+   "pic": "Al Maktoum International Airport"
   },
   {
    "q": "In which year was Abu Dhabi's airport renamed Zayed International?",
@@ -597,7 +635,8 @@
    "alt": [
     "Al Bateen",
     "Bateen Airport"
-   ]
+   ],
+   "apic": "Al Bateen Executive Airport"
   },
   {
    "q": "Which Omani area cuts the E44 between Dubai and Hatta?",
@@ -639,7 +678,8 @@
    "q": "In which year did Sheikh Zayed Bridge open?",
    "a": "2010",
    "p": 600,
-   "ar": "٢٠١٠"
+   "ar": "٢٠١٠",
+   "pic": "Sheikh Zayed Bridge"
   },
   {
    "q": "In which year did the Shindagha Tunnel open?",
@@ -664,7 +704,8 @@
    "ar": "ميناء جبل علي",
    "alt": [
     "Jebel Ali"
-   ]
+   ],
+   "apic": "Jebel Ali Port"
   },
   {
    "q": "Which DXB concourse, opened in 2013, was built with every gate able to handle the A380?",
@@ -700,25 +741,31 @@
    "ar": "الاتحاد للطيران",
    "alt": [
     "Etihad"
-   ]
+   ],
+   "pic": "Zayed International Airport",
+   "apic": "Etihad Airways"
   },
   {
    "q": "Which low-cost airline has its main hub at Sharjah International Airport?",
    "a": "Air Arabia",
    "p": 200,
-   "ar": "العربية للطيران"
+   "ar": "العربية للطيران",
+   "pic": "Sharjah International Airport",
+   "apic": "Air Arabia"
   },
   {
    "q": "The E11 links Dubai with which capital city?",
    "a": "Abu Dhabi",
    "p": 200,
-   "ar": "أبوظبي"
+   "ar": "أبوظبي",
+   "apic": "Abu Dhabi"
   },
   {
    "q": "Hafeet Rail is planned to link the UAE's railway with which neighbouring country?",
    "a": "Oman",
    "p": 200,
-   "ar": "عُمان"
+   "ar": "عُمان",
+   "apic": "Oman"
   },
   {
    "q": "What colour is the body of a typical Dubai taxi?",
@@ -734,13 +781,16 @@
    "q": "Which is the only emirate with a metro system?",
    "a": "Dubai",
    "p": 200,
-   "ar": "دبي"
+   "ar": "دبي",
+   "pic": "Dubai Metro",
+   "apic": "Dubai"
   },
   {
    "q": "In which emirate is the Gulf's first airport, opened in 1932?",
    "a": "Sharjah",
    "p": 200,
-   "ar": "الشارقة"
+   "ar": "الشارقة",
+   "apic": "Emirate of Sharjah"
   },
   {
    "q": "What sticker on a car's windscreen is read at Dubai's toll gates?",
@@ -759,7 +809,9 @@
    "ar": "نخلة جميرا",
    "alt": [
     "The Palm"
-   ]
+   ],
+   "pic": "Palm Jumeirah Monorail",
+   "apic": "Palm Jumeirah"
   },
   {
    "q": "What are the numbered junctions along Sheikh Zayed Road called?",
@@ -786,7 +838,8 @@
    "ar": "الملكة إليزابيث 2",
    "alt": [
     "QE2"
-   ]
+   ],
+   "apic": "Queen Elizabeth 2"
   },
   {
    "q": "Which Abu Dhabi island, home to the F1 circuit, is a short drive from Zayed International Airport?",
@@ -795,7 +848,8 @@
    "ar": "جزيرة ياس",
    "alt": [
     "Yas"
-   ]
+   ],
+   "apic": "Yas Island"
   },
   {
    "q": "In which Dubai district does DXB airport stand?",
@@ -804,7 +858,8 @@
    "ar": "القرهود",
    "alt": [
     "Garhoud"
-   ]
+   ],
+   "apic": "Al Garhoud"
   },
   {
    "q": "Which old Deira landmark roundabout welcomed drivers heading from the airport into town?",
@@ -814,7 +869,8 @@
    "alt": [
     "Deira Clock Tower",
     "Clock Tower Roundabout"
-   ]
+   ],
+   "apic": "Deira Clock Tower"
   },
   {
    "q": "How many cars made up each of Dubai Metro's original trains?",
@@ -833,7 +889,9 @@
    "alt": [
     "Sheikh Mohammed",
     "Mohammed bin Rashid"
-   ]
+   ],
+   "pic": "Dubai Metro",
+   "apic": "Mohammed bin Rashid Al Maktoum"
   },
   {
    "q": "Which road continues the E11 from Dubai into Sharjah?",
@@ -851,7 +909,8 @@
    "ar": "خورفكان",
    "alt": [
     "Khorfakkan"
-   ]
+   ],
+   "apic": "Khor Fakkan"
   },
   {
    "q": "Which Abu Dhabi port, named after the founding President, sits on the main island?",
@@ -861,13 +920,15 @@
    "alt": [
     "Zayed Port",
     "Port Zayed"
-   ]
+   ],
+   "apic": "Mina Zayed"
   },
   {
    "q": "Which emirate's east-coast port is a major ship-refuelling hub outside the Strait of Hormuz?",
    "a": "Fujairah",
    "p": 400,
-   "ar": "الفجيرة"
+   "ar": "الفجيرة",
+   "apic": "Fujairah"
   },
   {
    "q": "What does DWC stand for?",
@@ -882,7 +943,8 @@
    "ar": "دبي الجنوب",
    "alt": [
     "Dubai World Central"
-   ]
+   ],
+   "apic": "Dubai South"
   },
   {
    "q": "Darb toll gates sit on the bridges leading onto which island?",
@@ -931,7 +993,8 @@
    "q": "In which year did Terminal 3 at DXB open?",
    "a": "2008",
    "p": 400,
-   "ar": "٢٠٠٨"
+   "ar": "٢٠٠٨",
+   "pic": "Dubai International Airport"
   },
   {
    "q": "What was the original runway at Dubai's 1960 airport made of?",
@@ -958,7 +1021,9 @@
    "ar": "جزيرة السعديات",
    "alt": [
     "Saadiyat"
-   ]
+   ],
+   "pic": "Louvre Abu Dhabi",
+   "apic": "Saadiyat Island"
   },
   {
    "q": "What is the name of Sharjah's historic 1932 airfield, now a museum?",
@@ -968,13 +1033,15 @@
    "alt": [
     "Al Mahatta Museum",
     "Mahatta"
-   ]
+   ],
+   "apic": "Al Mahatta Museum"
   },
   {
    "q": "Which British airline's flights to India first used Sharjah's 1932 airfield?",
    "a": "Imperial Airways",
    "p": 600,
-   "ar": "الخطوط الجوية الإمبراطورية"
+   "ar": "الخطوط الجوية الإمبراطورية",
+   "apic": "Imperial Airways"
   },
   {
    "q": "Dubai Tram draws power from where, instead of overhead wires?",
@@ -1020,7 +1087,9 @@
    "q": "Which British company first operated the Dubai Metro?",
    "a": "Serco",
    "p": 600,
-   "ar": "سيركو"
+   "ar": "سيركو",
+   "pic": "Dubai Metro",
+   "apic": "Serco"
   },
   {
    "q": "Interchange 1 on Sheikh Zayed Road was historically known as which roundabout?",
@@ -1110,7 +1179,9 @@
    "q": "Which French company supplied the newer Dubai Metro trains introduced in 2018?",
    "a": "Alstom",
    "p": 600,
-   "ar": "ألستوم"
+   "ar": "ألستوم",
+   "pic": "Dubai Metro",
+   "apic": "Alstom"
   },
   {
    "q": "How long is the first phase of the Dubai Tram, in kilometres?",
@@ -1140,18 +1211,21 @@
    "alt": [
     "Jabal Hafeet",
     "Jebel Hafit"
-   ]
+   ],
+   "apic": "Jebel Hafeet"
   },
   {
    "q": "Which Dubai mountain exclave near the Oman border is known for its dam and kayaking?",
    "a": "Hatta",
    "p": 200,
-   "ar": "حتا"
+   "ar": "حتا",
+   "apic": "Hatta"
   },
   {
    "q": "What is the three-letter code for Dubai International Airport?",
    "a": "DXB",
-   "p": 200
+   "p": 200,
+   "apic": "Dubai International Airport"
   },
   {
    "q": "Which famous Dubai highway does the Museum of the Future stand beside?",
@@ -1161,7 +1235,9 @@
    "alt": [
     "SZR",
     "E11"
-   ]
+   ],
+   "pic": "Museum of the Future",
+   "apic": "Sheikh Zayed Road"
   },
   {
    "q": "Which Dubai seaside road runs past the Burj Al Arab?",
@@ -1171,7 +1247,8 @@
    "alt": [
     "Jumeirah Street",
     "Jumeirah Road"
-   ]
+   ],
+   "pic": "Burj Al Arab"
   },
   {
    "q": "Which waterfront road runs along Abu Dhabi's city beaches?",
@@ -1197,7 +1274,8 @@
    "alt": [
     "Fujairah",
     "FJR"
-   ]
+   ],
+   "apic": "Fujairah International Airport"
   },
   {
    "q": "Which Dubai airport hosts the Dubai Airshow?",
@@ -1208,7 +1286,9 @@
     "DWC",
     "Dubai World Central",
     "Al Maktoum"
-   ]
+   ],
+   "pic": "Dubai Airshow",
+   "apic": "Al Maktoum International Airport"
   },
   {
    "q": "What is the name of the RTA ferry service linking Dubai Marina with the old Creek area?",
@@ -1254,7 +1334,9 @@
    "ar": "كاف",
    "alt": [
     "Construcciones y Auxiliar de Ferrocarriles"
-   ]
+   ],
+   "pic": "Etihad Rail",
+   "apic": "Construcciones y Auxiliar de Ferrocarriles"
   },
   {
    "q": "Which Bur Dubai station is the Creek-side terminus of the Dubai Ferry?",

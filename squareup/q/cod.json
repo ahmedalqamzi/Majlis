@@ -5,17 +5,20 @@
   {
    "q": "Which studio developed the original Call of Duty in 2003?",
    "a": "Infinity Ward",
-   "p": 200
+   "p": 200,
+   "apic": "Infinity Ward"
   },
   {
    "q": "Which company publishes the Call of Duty series?",
    "a": "Activision",
-   "p": 200
+   "p": 200,
+   "apic": "Activision"
   },
   {
    "q": "In which year was the first Call of Duty released?",
    "a": "2003",
-   "p": 200
+   "p": 200,
+   "pic": "Call of Duty (video game)"
   },
   {
    "q": "Which war was the setting of the original Call of Duty?",
@@ -25,7 +28,8 @@
     "WWII",
     "WW2",
     "Second World War"
-   ]
+   ],
+   "apic": "World War II"
   },
   {
    "q": "Which free-to-play battle royale launched in March 2020?",
@@ -33,7 +37,8 @@
    "p": 200,
    "alt": [
     "Call of Duty: Warzone"
-   ]
+   ],
+   "apic": "Call of Duty: Warzone"
   },
   {
    "q": "What was the name of the first Warzone map?",
@@ -56,7 +61,8 @@
   {
    "q": "Which studio created the Black Ops series?",
    "a": "Treyarch",
-   "p": 200
+   "p": 200,
+   "apic": "Treyarch"
   },
   {
    "q": "What is Captain Price's first name?",
@@ -66,7 +72,8 @@
   {
    "q": "What is Soap's surname?",
    "a": "MacTavish",
-   "p": 200
+   "p": 200,
+   "apic": "Soap MacTavish"
   },
   {
    "q": "Which sci-fi pistol is the most famous weapon in Zombies?",
@@ -100,7 +107,8 @@
   {
    "q": "What is the name of the mask-wearing character with a skull face?",
    "a": "Ghost",
-   "p": 200
+   "p": 200,
+   "apic": "Ghost (Call of Duty)"
   },
   {
    "q": "Which Warzone mechanic lets defeated players fight 1v1 for a second chance?",
@@ -115,7 +123,8 @@
   {
    "q": "Which Call of Duty game from 2016 takes place in outer space?",
    "a": "Infinite Warfare",
-   "p": 200
+   "p": 200,
+   "apic": "Call of Duty: Infinite Warfare"
   },
   {
    "q": "Which Call of Duty from 2017 returned to the Second World War?",
@@ -123,17 +132,20 @@
    "p": 200,
    "alt": [
     "Call of Duty: WWII"
-   ]
+   ],
+   "apic": "Call of Duty: WWII"
   },
   {
    "q": "In which year was Black Ops first released?",
    "a": "2010",
-   "p": 200
+   "p": 200,
+   "pic": "Call of Duty: Black Ops"
   },
   {
    "q": "Which war era is the setting of the Black Ops series?",
    "a": "Cold War",
-   "p": 200
+   "p": 200,
+   "apic": "Cold War"
   },
   {
    "q": "What does TDM stand for in multiplayer?",
@@ -148,7 +160,8 @@
     "Call of Duty 4",
     "Modern Warfare",
     "CoD4"
-   ]
+   ],
+   "apic": "Call of Duty 4: Modern Warfare"
   },
   {
    "q": "Which free mobile Call of Duty released in 2019?",
@@ -157,7 +170,8 @@
    "alt": [
     "Call of Duty Mobile",
     "CoD Mobile"
-   ]
+   ],
+   "apic": "Call of Duty: Mobile"
   },
   {
    "q": "Which Zombies perk revives you faster?",
@@ -167,7 +181,8 @@
   {
    "q": "Which tech company completed its Activision purchase in 2023?",
    "a": "Microsoft",
-   "p": 200
+   "p": 200,
+   "apic": "Microsoft"
   },
   {
    "q": "Which shipping-yard map from CoD4 is famous for very fast matches?",
@@ -191,12 +206,14 @@
   {
    "q": "Which Call of Duty from 2014 introduced the Exo Suit?",
    "a": "Advanced Warfare",
-   "p": 200
+   "p": 200,
+   "apic": "Call of Duty: Advanced Warfare"
   },
   {
    "q": "Which weapon type is the AK-47?",
    "a": "Assault rifle",
-   "p": 200
+   "p": 200,
+   "apic": "Assault rifle"
   },
   {
    "q": "Which studio developed Advanced Warfare and Call of Duty: WWII?",
@@ -204,7 +221,8 @@
    "p": 400,
    "alt": [
     "Sledgehammer"
-   ]
+   ],
+   "apic": "Sledgehammer Games"
   },
   {
    "q": "Who is the main antagonist of Call of Duty 4: Modern Warfare?",
@@ -270,7 +288,8 @@
    "p": 400,
    "alt": [
     "MW3"
-   ]
+   ],
+   "apic": "Call of Duty: Modern Warfare 3"
   },
   {
    "q": "Which cooperative mode in Modern Warfare 2 offered side missions?",
@@ -291,7 +310,8 @@
    "p": 400,
    "alt": [
     "Call of Duty: Ghosts"
-   ]
+   ],
+   "apic": "Call of Duty: Ghosts"
   },
   {
    "q": "Which alien cooperative mode appears in Ghosts?",
@@ -304,12 +324,14 @@
    "p": 400,
    "alt": [
     "Black Ops 2"
-   ]
+   ],
+   "apic": "Call of Duty: Black Ops II"
   },
   {
    "q": "Which 2021 Call of Duty from Sledgehammer returned to WWII?",
    "a": "Vanguard",
-   "p": 400
+   "p": 400,
+   "apic": "Call of Duty: Vanguard"
   },
   {
    "q": "Which 2020 Black Ops title was set in the early 1980s?",
@@ -317,7 +339,8 @@
    "p": 400,
    "alt": [
     "Cold War"
-   ]
+   ],
+   "apic": "Call of Duty: Black Ops Cold War"
   },
   {
    "q": "Which villain is the main antagonist of Black Ops Cold War?",
@@ -331,22 +354,26 @@
    "alt": [
     "Washington DC",
     "Washington"
-   ]
+   ],
+   "apic": "Washington, D.C."
   },
   {
    "q": "Which mission in CoD4 involves sniping in Pripyat?",
    "a": "All Ghillied Up",
-   "p": 400
+   "p": 400,
+   "pic": "Pripyat"
   },
   {
    "q": "Which console was the launch title for Call of Duty 2?",
    "a": "Xbox 360",
-   "p": 400
+   "p": 400,
+   "apic": "Xbox 360"
   },
   {
    "q": "What year was Modern Warfare II released?",
    "a": "2022",
-   "p": 400
+   "p": 400,
+   "pic": "Call of Duty: Modern Warfare II (2022 video game)"
   },
   {
    "q": "Which map from Modern Warfare 2 is a desert oil rig?",
@@ -366,17 +393,20 @@
   {
    "q": "Which Treyarch game introduced Wager Matches?",
    "a": "Black Ops",
-   "p": 400
+   "p": 400,
+   "apic": "Call of Duty: Black Ops"
   },
   {
    "q": "Which 2024 Call of Duty is set in 1991?",
    "a": "Black Ops 6",
-   "p": 400
+   "p": 400,
+   "apic": "Call of Duty: Black Ops 6"
   },
   {
    "q": "Which Zombies map is set on Alcatraz island?",
    "a": "Mob of the Dead",
-   "p": 400
+   "p": 400,
+   "pic": "Alcatraz Island"
   },
   {
    "q": "How many kills for MW2 Tactical Nuke?",
@@ -410,7 +440,8 @@
    "p": 400,
    "alt": [
     "Raven"
-   ]
+   ],
+   "apic": "Raven Software"
   },
   {
    "q": "Which World at War Zombies map name means The Giant in German?",
@@ -439,7 +470,8 @@
    "p": 400,
    "alt": [
     "Black Ops 3"
-   ]
+   ],
+   "apic": "Call of Duty: Black Ops III"
   },
   {
    "q": "Which two Infinity Ward founders later formed Respawn Entertainment?",
@@ -467,27 +499,32 @@
   {
    "q": "Which actor voiced Viktor Reznov in World at War?",
    "a": "Gary Oldman",
-   "p": 600
+   "p": 600,
+   "apic": "Gary Oldman"
   },
   {
    "q": "Which Game of Thrones actor played Admiral Salen Kotch in Infinite Warfare?",
    "a": "Kit Harington",
-   "p": 600
+   "p": 600,
+   "apic": "Kit Harington"
   },
   {
    "q": "Which actor voiced Captain Price in the 2019 Modern Warfare?",
    "a": "Barry Sloane",
-   "p": 600
+   "p": 600,
+   "apic": "Barry Sloane"
   },
   {
    "q": "Who originally voiced Captain Price in Call of Duty 4?",
    "a": "Billy Murray",
-   "p": 600
+   "p": 600,
+   "apic": "Billy Murray (actor)"
   },
   {
    "q": "Which actor voiced Soap MacTavish in Call of Duty 4?",
    "a": "Kevin McKidd",
-   "p": 600
+   "p": 600,
+   "apic": "Kevin McKidd"
   },
   {
    "q": "What is Ghost's real name?",
@@ -495,7 +532,8 @@
    "p": 600,
    "alt": [
     "Simon"
-   ]
+   ],
+   "apic": "Ghost (Call of Duty)"
   },
   {
    "q": "Which Scottish mentor trains Soap in CoD4's Pripyat mission?",
@@ -508,7 +546,8 @@
   {
    "q": "What was the name of the first Call of Duty expansion in 2004?",
    "a": "United Offensive",
-   "p": 600
+   "p": 600,
+   "apic": "Call of Duty: United Offensive"
   },
   {
    "q": "Which Black Ops II Zombies map is set during the First World War?",
@@ -536,7 +575,8 @@
    "p": 600,
    "alt": [
     "Call of Duty: 3"
-   ]
+   ],
+   "apic": "Call of Duty 3"
   },
   {
    "q": "On what date was the first Call of Duty released in North America?",
@@ -550,7 +590,8 @@
   {
    "q": "Which actor voiced Hudson in Black Ops?",
    "a": "Ed Harris",
-   "p": 600
+   "p": 600,
+   "apic": "Ed Harris"
   },
   {
    "q": "Which zombie-film director appears as a character in Black Ops' Call of the Dead?",
@@ -559,7 +600,8 @@
    "alt": [
     "George Romero",
     "Romero"
-   ]
+   ],
+   "apic": "George A. Romero"
   },
   {
    "q": "Which CoD4 mission depicts a nuclear detonation?",
@@ -625,7 +667,8 @@
    "p": 200,
    "alt": [
     "Spy plane"
-   ]
+   ],
+   "apic": "Unmanned aerial vehicle"
   },
   {
    "q": "Which killstreak drops a crate of random rewards from the sky?",
@@ -722,12 +765,14 @@
   {
    "q": "Which EA shooter series is Call of Duty's long-time rival?",
    "a": "Battlefield",
-   "p": 200
+   "p": 200,
+   "apic": "Battlefield (video game series)"
   },
   {
    "q": "What is Soap MacTavish's first name?",
    "a": "John",
-   "p": 200
+   "p": 200,
+   "apic": "Soap MacTavish"
   },
   {
    "q": "Which Treyarch game took the series to the Pacific and Eastern Front of WWII?",
@@ -736,7 +781,8 @@
    "alt": [
     "Call of Duty: World at War",
     "WaW"
-   ]
+   ],
+   "apic": "Call of Duty: World at War"
   },
   {
    "q": "Which throwable toy attracts zombies before it explodes?",
@@ -758,7 +804,8 @@
   {
    "q": "Which battle royale mode was the headline of Black Ops 4?",
    "a": "Blackout",
-   "p": 200
+   "p": 200,
+   "apic": "Call of Duty: Black Ops 4"
   },
   {
    "q": "What type of hat does Captain Price famously wear?",
@@ -767,7 +814,8 @@
    "alt": [
     "Bucket hat",
     "Boonie"
-   ]
+   ],
+   "apic": "Boonie hat"
   },
   {
    "q": "In which mode do eliminated players join the team hunting everyone else?",
@@ -798,7 +846,8 @@
    "p": 400,
    "alt": [
     "AC130"
-   ]
+   ],
+   "apic": "Lockheed AC-130"
   },
   {
    "q": "Which British special forces regiment does Captain Price belong to in CoD4?",
@@ -806,7 +855,8 @@
    "p": 400,
    "alt": [
     "Special Air Service"
-   ]
+   ],
+   "apic": "Special Air Service"
   },
   {
    "q": "Which Zombies power-up kills every zombie on screen?",
@@ -911,7 +961,8 @@
    "alt": [
     "Call of Duty 4: Modern Warfare Remastered",
     "MWR"
-   ]
+   ],
+   "apic": "Call of Duty: Modern Warfare Remastered"
   },
   {
    "q": "Which mode has teams fight to hold a zone that moves around the map?",
@@ -957,7 +1008,8 @@
    "p": 400,
    "alt": [
     "CDL"
-   ]
+   ],
+   "apic": "Call of Duty League"
   },
   {
    "q": "Which green-branded esports organisation is famous for Call of Duty?",
@@ -965,7 +1017,8 @@
    "p": 400,
    "alt": [
     "OpTic"
-   ]
+   ],
+   "apic": "OpTic Gaming"
   },
   {
    "q": "Which Modern Warfare 2 map is set on a skyscraper rooftop?",
@@ -995,7 +1048,8 @@
   {
    "q": "Which mech shooter was the first game by Respawn Entertainment?",
    "a": "Titanfall",
-   "p": 400
+   "p": 400,
+   "apic": "Titanfall"
   },
   {
    "q": "Which studio led development of Modern Warfare III in 2023?",
@@ -1003,7 +1057,8 @@
    "p": 400,
    "alt": [
     "Sledgehammer"
-   ]
+   ],
+   "apic": "Sledgehammer Games"
   },
   {
    "q": "Which Modern Warfare (2019) feature lets players customise guns with many attachments?",
@@ -1013,7 +1068,8 @@
   {
    "q": "In which year was World at War released?",
    "a": "2008",
-   "p": 400
+   "p": 400,
+   "pic": "Call of Duty: World at War"
   },
   {
    "q": "Which CoD4 mission puts the player in an AC-130 gunship?",
@@ -1095,27 +1151,32 @@
   {
    "q": "Which actor voiced Sergeant Roebuck in World at War?",
    "a": "Kiefer Sutherland",
-   "p": 600
+   "p": 600,
+   "apic": "Kiefer Sutherland"
   },
   {
    "q": "Which Nine Inch Nails frontman composed the Black Ops II main theme?",
    "a": "Trent Reznor",
-   "p": 600
+   "p": 600,
+   "apic": "Trent Reznor"
   },
   {
    "q": "Which Hollywood composer wrote the main theme of Modern Warfare 2 (2009)?",
    "a": "Hans Zimmer",
-   "p": 600
+   "p": 600,
+   "apic": "Hans Zimmer"
   },
   {
    "q": "Which Goodfellas actor voiced a character in the Zombies map Mob of the Dead?",
    "a": "Ray Liotta",
-   "p": 600
+   "p": 600,
+   "apic": "Ray Liotta"
   },
   {
    "q": "Which actor voiced Tank Dempsey in Zombies?",
    "a": "Steve Blum",
-   "p": 600
+   "p": 600,
+   "apic": "Steve Blum"
   },
   {
    "q": "What is Takeo's surname in the original Zombies crew?",
@@ -1157,7 +1218,8 @@
    "p": 600,
    "alt": [
     "Call of Duty 2: Big Red One"
-   ]
+   ],
+   "apic": "Call of Duty 2: Big Red One"
   },
   {
    "q": "Which 2004 console-only Call of Duty preceded Call of Duty 2?",
@@ -1165,7 +1227,8 @@
    "p": 600,
    "alt": [
     "Call of Duty: Finest Hour"
-   ]
+   ],
+   "apic": "Call of Duty: Finest Hour"
   },
   {
    "q": "Which id Software game's engine powered the original Call of Duty?",
@@ -1175,7 +1238,8 @@
     "Quake III",
     "Quake 3",
     "id Tech 3"
-   ]
+   ],
+   "apic": "Quake III Arena"
   },
   {
    "q": "At which studio did Infinity Ward's founders make Medal of Honor: Allied Assault?",
@@ -1184,7 +1248,8 @@
    "alt": [
     "2015",
     "2015 Inc"
-   ]
+   ],
+   "apic": "2015, Inc."
   },
   {
    "q": "Which Mexican special forces colonel fights alongside Task Force 141 in Modern Warfare II (2022)?",
@@ -1231,7 +1296,8 @@
    "p": 600,
    "alt": [
     "Kotick"
-   ]
+   ],
+   "apic": "Bobby Kotick"
   },
   {
    "q": "Which remaster of the 2009 campaign released in 2020?",
@@ -1257,7 +1323,8 @@
    "alt": [
     "Flash grenade",
     "Flash"
-   ]
+   ],
+   "apic": "Stun grenade"
   },
   {
    "q": "What is the slang for staying hidden in one spot waiting for enemies?",

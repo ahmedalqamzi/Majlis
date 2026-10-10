@@ -21,7 +21,8 @@
    "p": 200,
    "alt": [
     "Dwayne Johnson"
-   ]
+   ],
+   "apic": "Dwayne Johnson"
   },
   {
    "q": "What is Stone Cold Steve Austin's finishing move?",
@@ -29,7 +30,8 @@
    "p": 200,
    "alt": [
     "Stunner"
-   ]
+   ],
+   "pic": "Stone Cold Steve Austin"
   },
   {
    "q": "Which wrestler's signature finisher is the Tombstone Piledriver?",
@@ -37,7 +39,8 @@
    "p": 200,
    "alt": [
     "Undertaker"
-   ]
+   ],
+   "apic": "The Undertaker"
   },
   {
    "q": "What is John Cena's best-known finishing move?",
@@ -46,12 +49,14 @@
    "alt": [
     "AA",
     "FU"
-   ]
+   ],
+   "pic": "John Cena"
   },
   {
    "q": "What is Randy Orton's three-letter finishing move?",
    "a": "RKO",
-   "p": 200
+   "p": 200,
+   "pic": "Randy Orton"
   },
   {
    "q": "What was The Rock's flashy elbow drop finisher called?",
@@ -59,17 +64,20 @@
    "p": 200,
    "alt": [
     "People's Elbow"
-   ]
+   ],
+   "pic": "Dwayne Johnson"
   },
   {
    "q": "What was The Rock's other famous finisher, a side slam?",
    "a": "Rock Bottom",
-   "p": 200
+   "p": 200,
+   "pic": "Dwayne Johnson"
   },
   {
    "q": "Which wrestler famously finished matches with a running leg drop and tore his shirt in the ring?",
    "a": "Hulk Hogan",
-   "p": 200
+   "p": 200,
+   "apic": "Hulk Hogan"
   },
   {
    "q": "Which giant did Hulk Hogan bodyslam at WrestleMania III?",
@@ -77,17 +85,20 @@
    "p": 200,
    "alt": [
     "Andre the Giant"
-   ]
+   ],
+   "apic": "André the Giant"
   },
   {
    "q": "Who ended The Undertaker's WrestleMania winning streak in 2014?",
    "a": "Brock Lesnar",
-   "p": 200
+   "p": 200,
+   "apic": "Brock Lesnar"
   },
   {
    "q": "Who was The Undertaker's storyline half-brother, who wore a red mask?",
    "a": "Kane",
-   "p": 200
+   "p": 200,
+   "apic": "Kane (wrestler)"
   },
   {
    "q": "Which duo were called the Brothers of Destruction?",
@@ -96,7 +107,8 @@
    "alt": [
     "Undertaker and Kane",
     "Kane and Undertaker"
-   ]
+   ],
+   "apic": "Brothers of Destruction"
   },
   {
    "q": "Which rebellious faction did Triple H and Shawn Michaels lead?",
@@ -104,7 +116,8 @@
    "p": 200,
    "alt": [
     "DX"
-   ]
+   ],
+   "apic": "D-Generation X"
   },
   {
    "q": "What do the initials nWo stand for?",
@@ -117,7 +130,8 @@
    "p": 200,
    "alt": [
     "Shield"
-   ]
+   ],
+   "apic": "The Shield (professional wrestling)"
   },
   {
    "q": "Which Samoan faction did Roman Reigns lead from 2020?",
@@ -133,7 +147,8 @@
    "p": 200,
    "alt": [
     "Usos"
-   ]
+   ],
+   "apic": "The Usos"
   },
   {
    "q": "Which trio of Kofi Kingston, Big E and Xavier Woods won many tag titles?",
@@ -141,7 +156,8 @@
    "p": 200,
    "alt": [
     "New Day"
-   ]
+   ],
+   "apic": "The New Day (professional wrestling)"
   },
   {
    "q": "What do the letters TLC stand for in a TLC match?",
@@ -155,7 +171,8 @@
    "alt": [
     "Hardy Boyz",
     "The Hardys"
-   ]
+   ],
+   "apic": "The Hardy Boyz"
   },
   {
    "q": "Which WWE event, every January, is a 30-person over-the-top-rope battle?",
@@ -197,7 +214,8 @@
   {
    "q": "Which streaming service began airing Monday Night Raw weekly in January 2025?",
    "a": "Netflix",
-   "p": 200
+   "p": 200,
+   "apic": "Netflix"
   },
   {
    "q": "Which wrestling company was founded in 2019 by Tony Khan?",
@@ -205,12 +223,14 @@
    "p": 200,
    "alt": [
     "All Elite Wrestling"
-   ]
+   ],
+   "apic": "All Elite Wrestling"
   },
   {
    "q": "What is the Spanish term for Mexican professional wrestling?",
    "a": "Lucha libre",
-   "p": 200
+   "p": 200,
+   "apic": "Lucha libre"
   },
   {
    "q": "What do traditional luchadores wear to hide their identity?",
@@ -223,7 +243,8 @@
   {
    "q": "Which masked luchador's finishing move is the 619?",
    "a": "Rey Mysterio",
-   "p": 200
+   "p": 200,
+   "apic": "Rey Mysterio"
   },
   {
    "q": "What is the name of WWE's annual Saudi event first held in Riyadh in 2018?",
@@ -236,7 +257,8 @@
    "p": 200,
    "alt": [
     "Batista"
-   ]
+   ],
+   "apic": "Dave Bautista"
   },
   {
    "q": "Which wrestler played Luke Hobbs in the Fast & Furious films?",
@@ -244,22 +266,26 @@
    "p": 200,
    "alt": [
     "The Rock"
-   ]
+   ],
+   "apic": "Dwayne Johnson"
   },
   {
    "q": "Which wrestler starred as the superhero Peacemaker?",
    "a": "John Cena",
-   "p": 200
+   "p": 200,
+   "apic": "John Cena"
   },
   {
    "q": "Which wrestler was nicknamed 'The Nature Boy'?",
    "a": "Ric Flair",
-   "p": 200
+   "p": 200,
+   "apic": "Ric Flair"
   },
   {
    "q": "Which wrestler, daughter of Ric Flair, is nicknamed 'The Queen'?",
    "a": "Charlotte Flair",
-   "p": 200
+   "p": 200,
+   "apic": "Charlotte Flair"
   },
   {
    "q": "Which wrestler was nicknamed 'Macho Man'?",
@@ -267,7 +293,8 @@
    "p": 200,
    "alt": [
     "Macho Man Randy Savage"
-   ]
+   ],
+   "apic": "Randy Savage"
   },
   {
    "q": "What do the initials HBK stand for?",
@@ -280,7 +307,8 @@
   {
    "q": "Which wrestler is nicknamed 'The Game'?",
    "a": "Triple H",
-   "p": 200
+   "p": 200,
+   "apic": "Triple H"
   },
   {
    "q": "What is a villain wrestler called?",
@@ -315,7 +343,8 @@
   {
    "q": "Which promoter turned the family business WWF into a global giant in the 1980s?",
    "a": "Vince McMahon",
-   "p": 200
+   "p": 200,
+   "apic": "Vince McMahon"
   },
   {
    "q": "Which era of edgy late-1990s WWF programming starred Stone Cold and The Rock?",
@@ -331,7 +360,8 @@
    "p": 200,
    "alt": [
     "Undertaker"
-   ]
+   ],
+   "apic": "The Undertaker"
   },
   {
    "q": "Which WWE weekly show airs on Monday nights?",
@@ -352,7 +382,8 @@
   {
    "q": "Which Mexican-American wrestler's son is Dominik?",
    "a": "Rey Mysterio",
-   "p": 200
+   "p": 200,
+   "apic": "Rey Mysterio"
   },
   {
    "q": "What is the padded corner of a wrestling ring called?",
@@ -374,12 +405,14 @@
    "alt": [
     "Bellas",
     "Bella Twins"
-   ]
+   ],
+   "apic": "The Bella Twins"
   },
   {
    "q": "Which wrestler's finisher is the F-5?",
    "a": "Brock Lesnar",
-   "p": 200
+   "p": 200,
+   "apic": "Brock Lesnar"
   },
   {
    "q": "Which wrestler's finisher is Sweet Chin Music?",
@@ -387,12 +420,14 @@
    "p": 200,
    "alt": [
     "HBK"
-   ]
+   ],
+   "apic": "Shawn Michaels"
   },
   {
    "q": "Which wrestler's finisher is the Pedigree?",
    "a": "Triple H",
-   "p": 200
+   "p": 200,
+   "apic": "Triple H"
   },
   {
    "q": "What sound famously starts Stone Cold Steve Austin's entrance music?",
@@ -410,7 +445,8 @@
    "alt": [
     "Gong",
     "Bell toll"
-   ]
+   ],
+   "apic": "Gong"
   },
   {
    "q": "Which faction did Hulk Hogan lead in WCW after his 1996 heel turn?",
@@ -431,7 +467,8 @@
   {
    "q": "Which wrestler is nicknamed 'The Viper'?",
    "a": "Randy Orton",
-   "p": 200
+   "p": 200,
+   "apic": "Randy Orton"
   },
   {
    "q": "Which conservation charity's lawsuit forced the WWF to become WWE in 2002?",
@@ -440,7 +477,8 @@
    "alt": [
     "World Wildlife Fund",
     "WWF"
-   ]
+   ],
+   "apic": "World Wide Fund for Nature"
   },
   {
    "q": "Which New York arena hosted the first WrestleMania in 1985?",
@@ -448,12 +486,14 @@
    "p": 400,
    "alt": [
     "MSG"
-   ]
+   ],
+   "apic": "Madison Square Garden"
   },
   {
    "q": "Which A-Team actor teamed with Hulk Hogan in the main event of the first WrestleMania?",
    "a": "Mr. T",
-   "p": 400
+   "p": 400,
+   "apic": "Mr. T"
   },
   {
    "q": "Which Michigan stadium hosted WrestleMania III in 1987?",
@@ -461,17 +501,20 @@
    "p": 600,
    "alt": [
     "Silverdome"
-   ]
+   ],
+   "apic": "Pontiac Silverdome"
   },
   {
    "q": "Which boxing legend was the special enforcer for Austin versus Shawn Michaels at WrestleMania XIV?",
    "a": "Mike Tyson",
-   "p": 400
+   "p": 400,
+   "apic": "Mike Tyson"
   },
   {
    "q": "Which Canadian city hosted WrestleMania VI and WrestleMania X8?",
    "a": "Toronto",
-   "p": 600
+   "p": 600,
+   "apic": "Toronto"
   },
   {
    "q": "Which London stadium hosted SummerSlam in 1992?",
@@ -479,7 +522,8 @@
    "p": 400,
    "alt": [
     "Wembley"
-   ]
+   ],
+   "apic": "Wembley Stadium (1923)"
   },
   {
    "q": "How many wins did The Undertaker's WrestleMania streak reach before it ended?",
@@ -495,7 +539,8 @@
    "p": 400,
    "alt": [
     "Steve Austin"
-   ]
+   ],
+   "apic": "Stone Cold Steve Austin"
   },
   {
    "q": "At which 1997 event did the 'Montreal Screwjob' take place?",
@@ -505,7 +550,8 @@
   {
    "q": "Which Canadian, 'The Hitman', was the victim of the Montreal Screwjob?",
    "a": "Bret Hart",
-   "p": 400
+   "p": 400,
+   "apic": "Bret Hart"
   },
   {
    "q": "What is Bret Hart's submission finisher?",
@@ -513,7 +559,8 @@
    "p": 400,
    "alt": [
     "The Sharpshooter"
-   ]
+   ],
+   "pic": "Bret Hart"
   },
   {
    "q": "In which year did Monday Night Raw first air?",
@@ -545,12 +592,14 @@
    "p": 400,
    "alt": [
     "Extreme Championship Wrestling"
-   ]
+   ],
+   "apic": "Extreme Championship Wrestling"
   },
   {
    "q": "Which advocate famously spoke for Brock Lesnar?",
    "a": "Paul Heyman",
-   "p": 400
+   "p": 400,
+   "apic": "Paul Heyman"
   },
   {
    "q": "Which stable included Triple H, Ric Flair, Randy Orton and Batista?",
@@ -568,12 +617,14 @@
   {
    "q": "Which wrestler wrestled as Mankind, Dude Love and Cactus Jack?",
    "a": "Mick Foley",
-   "p": 400
+   "p": 400,
+   "apic": "Mick Foley"
   },
   {
    "q": "In the 1998 Hell in a Cell, under which persona was Mick Foley thrown off the cell roof?",
    "a": "Mankind",
-   "p": 400
+   "p": 400,
+   "apic": "Mick Foley"
   },
   {
    "q": "What was the name of Mankind's sock puppet?",
@@ -589,7 +640,8 @@
    "p": 400,
    "alt": [
     "Bill Goldberg"
-   ]
+   ],
+   "apic": "Bill Goldberg"
   },
   {
    "q": "Under what name did Paul Wight wrestle in WWE?",
@@ -597,27 +649,32 @@
    "p": 200,
    "alt": [
     "The Big Show"
-   ]
+   ],
+   "apic": "Big Show"
   },
   {
    "q": "Which wrestler is known as 'The Rated-R Superstar'?",
    "a": "Edge",
-   "p": 400
+   "p": 400,
+   "apic": "Edge (wrestler)"
   },
   {
    "q": "Which wrestler debuted in WWF in 1999 with a millennium countdown clock and was called Y2J?",
    "a": "Chris Jericho",
-   "p": 400
+   "p": 400,
+   "apic": "Chris Jericho"
   },
   {
    "q": "Which WWE star won Olympic freestyle wrestling gold at Atlanta 1996?",
    "a": "Kurt Angle",
-   "p": 400
+   "p": 400,
+   "apic": "Kurt Angle"
   },
   {
    "q": "Which Japanese wrestler won the first women's Royal Rumble in 2018?",
    "a": "Asuka",
-   "p": 400
+   "p": 400,
+   "apic": "Asuka (wrestler)"
   },
   {
    "q": "What was The Rock's raised-eyebrow expression called?",
@@ -643,7 +700,8 @@
    "p": 400,
    "alt": [
     "Iron Sheik"
-   ]
+   ],
+   "apic": "The Iron Sheik"
   },
   {
    "q": "What is the name of the Iron Sheik's back-bending submission hold?",
@@ -659,12 +717,14 @@
    "p": 400,
    "alt": [
     "Rowdy Roddy Piper"
-   ]
+   ],
+   "apic": "Roddy Piper"
   },
   {
    "q": "What was Jake 'The Snake' Roberts' finishing move?",
    "a": "DDT",
-   "p": 400
+   "p": 400,
+   "pic": "Jake Roberts"
   },
   {
    "q": "In which 1987 fantasy film did André the Giant play Fezzik?",
@@ -672,7 +732,9 @@
    "p": 400,
    "alt": [
     "Princess Bride"
-   ]
+   ],
+   "pic": "André the Giant",
+   "apic": "The Princess Bride (film)"
   },
   {
    "q": "Which wrestler was known as 'The Million Dollar Man'?",
@@ -680,12 +742,14 @@
    "p": 400,
    "alt": [
     "Ted DiBiase Sr."
-   ]
+   ],
+   "apic": "Ted DiBiase"
   },
   {
    "q": "Which Hulk Hogan character fights Rocky in Rocky III?",
    "a": "Thunderlips",
-   "p": 400
+   "p": 400,
+   "pic": "Hulk Hogan"
   },
   {
    "q": "What was Ric Flair's leg submission finisher?",
@@ -694,17 +758,20 @@
    "alt": [
     "Figure four",
     "Figure-four"
-   ]
+   ],
+   "pic": "Ric Flair"
   },
   {
    "q": "Who was Macho Man Randy Savage's famous valet and wife?",
    "a": "Miss Elizabeth",
-   "p": 400
+   "p": 400,
+   "apic": "Miss Elizabeth"
   },
   {
    "q": "Which Undertaker manager carried a mysterious urn?",
    "a": "Paul Bearer",
-   "p": 400
+   "p": 400,
+   "apic": "Paul Bearer"
   },
   {
    "q": "Which tag team is known for the 3D finisher and putting opponents through tables?",
@@ -713,38 +780,45 @@
    "alt": [
     "Dudley Boyz",
     "Dudleys"
-   ]
+   ],
+   "apic": "The Dudley Boyz"
   },
   {
    "q": "Which Saudi city hosted the 50-man Greatest Royal Rumble in 2018?",
    "a": "Jeddah",
    "p": 400,
-   "ar": "جدة"
+   "ar": "جدة",
+   "apic": "Jeddah"
   },
   {
    "q": "Which British boxer beat Braun Strowman at Crown Jewel 2019?",
    "a": "Tyson Fury",
-   "p": 400
+   "p": 400,
+   "apic": "Tyson Fury"
   },
   {
    "q": "Which YouTuber challenged Roman Reigns at Crown Jewel 2022 in Riyadh?",
    "a": "Logan Paul",
-   "p": 200
+   "p": 200,
+   "apic": "Logan Paul"
   },
   {
    "q": "Which Puerto Rican music star wrestled at WrestleMania 37?",
    "a": "Bad Bunny",
-   "p": 200
+   "p": 200,
+   "apic": "Bad Bunny"
   },
   {
    "q": "Which former UFC champion wrestled in the first women's WrestleMania main event in 2019?",
    "a": "Ronda Rousey",
-   "p": 200
+   "p": 200,
+   "apic": "Ronda Rousey"
   },
   {
    "q": "Which Irish wrestler is nicknamed 'The Man'?",
    "a": "Becky Lynch",
-   "p": 400
+   "p": 400,
+   "apic": "Becky Lynch"
   },
   {
    "q": "What were Charlotte, Becky Lynch, Sasha Banks and Bayley collectively called in NXT?",
@@ -757,22 +831,26 @@
   {
    "q": "Which Canadian Attitude Era women's star won the Women's Championship seven times?",
    "a": "Trish Stratus",
-   "p": 400
+   "p": 400,
+   "apic": "Trish Stratus"
   },
   {
    "q": "Which wrestler was billed as 'The Ninth Wonder of the World'?",
    "a": "Chyna",
-   "p": 400
+   "p": 400,
+   "apic": "Chyna"
   },
   {
    "q": "Which Scottish wrestler won the WWE Championship from Brock Lesnar at WrestleMania 36?",
    "a": "Drew McIntyre",
-   "p": 400
+   "p": 400,
+   "apic": "Drew McIntyre"
   },
   {
    "q": "Which wrestler, 'The Celtic Warrior', comes from Ireland?",
    "a": "Sheamus",
-   "p": 400
+   "p": 400,
+   "apic": "Sheamus"
   },
   {
    "q": "Which Indian giant won the World Heavyweight Championship in 2007?",
@@ -781,7 +859,8 @@
    "alt": [
     "Great Khali",
     "Khali"
-   ]
+   ],
+   "apic": "The Great Khali"
   },
   {
    "q": "Which bearded underdog won the world title in WrestleMania XXX's main event?",
@@ -789,12 +868,15 @@
    "p": 400,
    "alt": [
     "Bryan Danielson"
-   ]
+   ],
+   "apic": "Bryan Danielson"
   },
   {
    "q": "Which home city is CM Punk famous for, where crowds roar for him?",
    "a": "Chicago",
-   "p": 400
+   "p": 400,
+   "pic": "CM Punk",
+   "apic": "Chicago"
   },
   {
    "q": "Which wrestler is nicknamed 'The Phenomenal One'?",
@@ -802,17 +884,21 @@
    "p": 400,
    "alt": [
     "A.J. Styles"
-   ]
+   ],
+   "apic": "AJ Styles"
   },
   {
    "q": "Which African country does Kofi Kingston come from?",
    "a": "Ghana",
-   "p": 400
+   "p": 400,
+   "pic": "Kofi Kingston",
+   "apic": "Ghana"
   },
   {
    "q": "Which 'American Dream' is the father of Cody Rhodes?",
    "a": "Dusty Rhodes",
-   "p": 400
+   "p": 400,
+   "apic": "Dusty Rhodes"
   },
   {
    "q": "What is Cody Rhodes' nickname?",
@@ -820,7 +906,8 @@
    "p": 400,
    "alt": [
     "American Nightmare"
-   ]
+   ],
+   "pic": "Cody Rhodes"
   },
   {
    "q": "At which WrestleMania did Cody Rhodes finally beat Roman Reigns for the title?",
@@ -834,7 +921,8 @@
    "q": "Which Canadian wrestler of Syrian descent became an 'Honorary Uce' of The Bloodline?",
    "a": "Sami Zayn",
    "p": 400,
-   "ar": "سامي زين"
+   "ar": "سامي زين",
+   "apic": "Sami Zayn"
   },
   {
    "q": "Which faction, formed by Edge in 2022, came to include Rhea Ripley and Dominik Mysterio?",
@@ -847,32 +935,39 @@
   {
    "q": "Which country does Rhea Ripley come from?",
    "a": "Australia",
-   "p": 400
+   "p": 400,
+   "pic": "Rhea Ripley",
+   "apic": "Australia"
   },
   {
    "q": "Which wrestler, 'The EST of WWE', uses her long braid as a weapon?",
    "a": "Bianca Belair",
-   "p": 400
+   "p": 400,
+   "apic": "Bianca Belair"
   },
   {
    "q": "Which tool is Triple H famous for bringing to the ring as a weapon?",
    "a": "Sledgehammer",
-   "p": 200
+   "p": 200,
+   "apic": "Sledgehammer"
   },
   {
    "q": "Which wrestler did The Rock face at both WrestleMania XXVIII and 29?",
    "a": "John Cena",
-   "p": 400
+   "p": 400,
+   "apic": "John Cena"
   },
   {
    "q": "Which wrestler's high-flying finisher is the Swanton Bomb?",
    "a": "Jeff Hardy",
-   "p": 400
+   "p": 400,
+   "apic": "Jeff Hardy"
   },
   {
    "q": "Which wrestler beat Ric Flair in an emotional 'retirement' match at WrestleMania XXIV?",
    "a": "Shawn Michaels",
-   "p": 400
+   "p": 400,
+   "apic": "Shawn Michaels"
   },
   {
    "q": "Which boxing champion beat Big Show at WrestleMania XXIV?",
@@ -881,7 +976,8 @@
    "alt": [
     "Floyd Mayweather Jr.",
     "Mayweather"
-   ]
+   ],
+   "apic": "Floyd Mayweather Jr."
   },
   {
    "q": "Under what name did Dean Ambrose become a star in AEW?",
@@ -889,7 +985,8 @@
    "p": 400,
    "alt": [
     "Moxley"
-   ]
+   ],
+   "apic": "Jon Moxley"
   },
   {
    "q": "What does NJPW stand for?",
@@ -897,7 +994,8 @@
    "p": 400,
    "alt": [
     "New Japan Pro Wrestling"
-   ]
+   ],
+   "apic": "New Japan Pro-Wrestling"
   },
   {
    "q": "What is the term for presenting staged wrestling storylines as real?",
@@ -967,7 +1065,8 @@
   {
    "q": "Which wrestler won the first Money in the Bank ladder match, at WrestleMania 21?",
    "a": "Edge",
-   "p": 600
+   "p": 600,
+   "apic": "Edge (wrestler)"
   },
   {
    "q": "Which tag team, Road Warriors, was also known as the Legion of what?",
@@ -980,12 +1079,14 @@
   {
    "q": "Which Oklahoma commentator, known as JR, called the Attitude Era?",
    "a": "Jim Ross",
-   "p": 400
+   "p": 400,
+   "apic": "Jim Ross"
   },
   {
    "q": "In which Connecticut city was WWE headquartered for decades?",
    "a": "Stamford",
-   "p": 600
+   "p": 600,
+   "apic": "Stamford, Connecticut"
   },
   {
    "q": "Which 2010 invading stable was made up of NXT season one rookies?",
@@ -1009,22 +1110,26 @@
    "p": 400,
    "alt": [
     "Undertaker"
-   ]
+   ],
+   "apic": "The Undertaker"
   },
   {
    "q": "Which wrestler's real name is Terry Bollea?",
    "a": "Hulk Hogan",
-   "p": 400
+   "p": 400,
+   "apic": "Hulk Hogan"
   },
   {
    "q": "Which wrestler's real name is Paul Levesque?",
    "a": "Triple H",
-   "p": 400
+   "p": 400,
+   "apic": "Triple H"
   },
   {
    "q": "Which wrestler adopted a Crow-inspired look with white face paint in WCW?",
    "a": "Sting",
-   "p": 400
+   "p": 400,
+   "apic": "Sting (wrestler)"
   },
   {
    "q": "Which Japanese star's finishing knee strike is called the Kinshasa?",
@@ -1032,7 +1137,8 @@
    "p": 400,
    "alt": [
     "Nakamura"
-   ]
+   ],
+   "apic": "Shinsuke Nakamura"
   },
   {
    "q": "At which WrestleMania did The Undertaker's streak end?",
@@ -1045,7 +1151,8 @@
   {
    "q": "Which boxing legend was a guest referee at the first WrestleMania?",
    "a": "Muhammad Ali",
-   "p": 600
+   "p": 600,
+   "apic": "Muhammad Ali"
   },
   {
    "q": "Which Houston stadium hosted WrestleMania X-Seven in 2001?",
@@ -1053,22 +1160,26 @@
    "p": 600,
    "alt": [
     "Reliant Astrodome"
-   ]
+   ],
+   "apic": "Astrodome"
   },
   {
    "q": "Which Texas stadium hosted WrestleMania 38 in 2022?",
    "a": "AT&T Stadium",
-   "p": 600
+   "p": 600,
+   "apic": "AT&T Stadium"
   },
   {
    "q": "Which Los Angeles-area stadium hosted WrestleMania 39?",
    "a": "SoFi Stadium",
-   "p": 600
+   "p": 600,
+   "apic": "SoFi Stadium"
   },
   {
    "q": "Which Philadelphia stadium hosted WrestleMania XL in 2024?",
    "a": "Lincoln Financial Field",
-   "p": 600
+   "p": 600,
+   "apic": "Lincoln Financial Field"
   },
   {
    "q": "Which Miami stadium hosted WrestleMania XXVIII, The Rock versus Cena?",
@@ -1076,7 +1187,8 @@
    "p": 600,
    "alt": [
     "Hard Rock Stadium"
-   ]
+   ],
+   "apic": "Hard Rock Stadium"
   },
   {
    "q": "Where was WrestleMania 36 held, without fans, in 2020?",
@@ -1084,7 +1196,8 @@
    "p": 600,
    "alt": [
     "Performance Center"
-   ]
+   ],
+   "apic": "WWE Performance Center"
   },
   {
    "q": "What kind of cinematic match did The Undertaker beat AJ Styles in at WrestleMania 36?",
@@ -1105,7 +1218,8 @@
    "p": 600,
    "alt": [
     "The American Badass"
-   ]
+   ],
+   "pic": "The Undertaker"
   },
   {
    "q": "Who faced Shawn Michaels in the famous ladder match at WrestleMania X?",
@@ -1113,12 +1227,14 @@
    "p": 600,
    "alt": [
     "Scott Hall"
-   ]
+   ],
+   "apic": "Scott Hall"
   },
   {
    "q": "Under what name did Kevin Nash wrestle in mid-1990s WWF?",
    "a": "Diesel",
-   "p": 600
+   "p": 600,
+   "apic": "Kevin Nash"
   },
   {
    "q": "Which two 'Outsiders' formed the nWo with Hulk Hogan in 1996?",
@@ -1137,7 +1253,8 @@
   {
    "q": "Who was the first Intercontinental Champion, in 1979?",
    "a": "Pat Patterson",
-   "p": 600
+   "p": 600,
+   "apic": "Pat Patterson (wrestler)"
   },
   {
    "q": "What colour was the WWE Universal Championship belt introduced in 2016?",
@@ -1147,12 +1264,14 @@
   {
    "q": "Who won the 50-man Greatest Royal Rumble in Jeddah in 2018?",
    "a": "Braun Strowman",
-   "p": 600
+   "p": 600,
+   "apic": "Braun Strowman"
   },
   {
    "q": "Which McMahon won the WWE World Cup tournament at Crown Jewel 2018?",
    "a": "Shane McMahon",
-   "p": 600
+   "p": 600,
+   "apic": "Shane McMahon"
   },
   {
    "q": "Which Saudi wrestler won a 50-man battle royal at Super ShowDown in Jeddah in 2019?",
@@ -1161,7 +1280,8 @@
    "ar": "منصور",
    "alt": [
     "Mansoor Al-Shehail"
-   ]
+   ],
+   "apic": "Mansoor (wrestler)"
   },
   {
    "q": "Which Italian-American held the WWWF title for almost eight years from 1963?",
@@ -1169,7 +1289,8 @@
    "p": 600,
    "alt": [
     "Sammartino"
-   ]
+   ],
+   "apic": "Bruno Sammartino"
   },
   {
    "q": "Which woman held the WWF Women's title for decades from 1956?",
@@ -1178,22 +1299,28 @@
    "alt": [
     "Fabulous Moolah",
     "Moolah"
-   ]
+   ],
+   "apic": "The Fabulous Moolah"
   },
   {
    "q": "Which giant wrestler with a sumo gimmick was actually of Samoan heritage?",
    "a": "Yokozuna",
-   "p": 600
+   "p": 600,
+   "apic": "Yokozuna (wrestler)"
   },
   {
    "q": "In which sport did Mark Henry compete at the 1992 and 1996 Olympics?",
    "a": "Weightlifting",
-   "p": 600
+   "p": 600,
+   "pic": "Mark Henry",
+   "apic": "Olympic weightlifting"
   },
   {
    "q": "For which NFL team did Bill Goldberg play before wrestling?",
    "a": "Atlanta Falcons",
-   "p": 600
+   "p": 600,
+   "pic": "Bill Goldberg",
+   "apic": "Atlanta Falcons"
   },
   {
    "q": "Which MTV reality show did The Miz appear on before WWE?",
@@ -1201,12 +1328,14 @@
    "p": 600,
    "alt": [
     "Real World"
-   ]
+   ],
+   "pic": "The Miz"
   },
   {
    "q": "Which comedian feuded with Jerry 'The King' Lawler in Memphis in the early 1980s?",
    "a": "Andy Kaufman",
-   "p": 600
+   "p": 600,
+   "apic": "Andy Kaufman"
   },
   {
    "q": "The backstage area at the curtain is called the 'position' of which late announcer?",
@@ -1214,37 +1343,47 @@
    "p": 600,
    "alt": [
     "Gorilla position"
-   ]
+   ],
+   "apic": "Gorilla Monsoon"
   },
   {
    "q": "Rey Mysterio's 619 is named after the telephone area code of which city?",
    "a": "San Diego",
-   "p": 600
+   "p": 600,
+   "pic": "Rey Mysterio",
+   "apic": "San Diego"
   },
   {
    "q": "Which wrestler was famous for the Frog Splash and the nickname 'Latino Heat'?",
    "a": "Eddie Guerrero",
-   "p": 600
+   "p": 600,
+   "apic": "Eddie Guerrero"
   },
   {
    "q": "What was the name of Jake 'The Snake' Roberts' python?",
    "a": "Damien",
-   "p": 600
+   "p": 600,
+   "pic": "Jake Roberts"
   },
   {
    "q": "In which 1988 sci-fi film did Roddy Piper star?",
    "a": "They Live",
-   "p": 600
+   "p": 600,
+   "pic": "Roddy Piper",
+   "apic": "They Live"
   },
   {
    "q": "What was The Rock's first ring name in WWF?",
    "a": "Rocky Maivia",
-   "p": 600
+   "p": 600,
+   "pic": "Dwayne Johnson"
   },
   {
    "q": "Which wrestler was The Rock's father?",
    "a": "Rocky Johnson",
-   "p": 600
+   "p": 600,
+   "pic": "Dwayne Johnson",
+   "apic": "Rocky Johnson"
   },
   {
    "q": "Which stable did The Undertaker lead in 1998 and 1999?",
@@ -1257,17 +1396,20 @@
   {
    "q": "Which wrestler's real name is Glenn Jacobs?",
    "a": "Kane",
-   "p": 600
+   "p": 600,
+   "apic": "Kane (wrestler)"
   },
   {
    "q": "Which wrestler's real name is Adam Copeland?",
    "a": "Edge",
-   "p": 600
+   "p": 600,
+   "apic": "Edge (wrestler)"
   },
   {
    "q": "Which wrestler's real name is Steve Borden?",
    "a": "Sting",
-   "p": 600
+   "p": 600,
+   "apic": "Sting (wrestler)"
   },
   {
    "q": "Which wrestler's real name was Randy Poffo?",
@@ -1275,7 +1417,8 @@
    "p": 600,
    "alt": [
     "Macho Man"
-   ]
+   ],
+   "apic": "Randy Savage"
   },
   {
    "q": "Which wrestler's real name is Michael Hickenbottom?",
@@ -1283,32 +1426,38 @@
    "p": 600,
    "alt": [
     "HBK"
-   ]
+   ],
+   "apic": "Shawn Michaels"
   },
   {
    "q": "Which wrestler's real name is Rebecca Quin?",
    "a": "Becky Lynch",
-   "p": 600
+   "p": 600,
+   "apic": "Becky Lynch"
   },
   {
    "q": "Which wrestler's real name is Phil Brooks?",
    "a": "CM Punk",
-   "p": 600
+   "p": 600,
+   "apic": "CM Punk"
   },
   {
    "q": "Which wrestler's real name is Óscar Gutiérrez?",
    "a": "Rey Mysterio",
-   "p": 600
+   "p": 600,
+   "apic": "Rey Mysterio"
   },
   {
    "q": "What was André the Giant's surname?",
    "a": "Roussimoff",
-   "p": 600
+   "p": 600,
+   "apic": "André the Giant"
   },
   {
    "q": "Which wrestler's real name is Colby Lopez?",
    "a": "Seth Rollins",
-   "p": 600
+   "p": 600,
+   "apic": "Seth Rollins"
   },
   {
    "q": "What was Edge and Christian's double chair shot finisher called?",
@@ -1322,7 +1471,8 @@
    "alt": [
     "Curb Stomp",
     "Stomp"
-   ]
+   ],
+   "pic": "Seth Rollins"
   },
   {
    "q": "Which wrestler used the Five Knuckle Shuffle?",
@@ -1335,7 +1485,8 @@
    "p": 600,
    "alt": [
     "Angle lock"
-   ]
+   ],
+   "pic": "Kurt Angle"
   },
   {
    "q": "What is the Mexican match where the loser must unmask or shave their head called?",
@@ -1362,7 +1513,8 @@
   {
    "q": "Which NFL team does AEW founder Tony Khan's father own?",
    "a": "Jacksonville Jaguars",
-   "p": 600
+   "p": 600,
+   "apic": "Jacksonville Jaguars"
   },
   {
    "q": "Which wrestler was the first ever WWE Universal Champion, in 2016?",
@@ -1370,7 +1522,8 @@
    "p": 600,
    "alt": [
     "Finn Balor"
-   ]
+   ],
+   "apic": "Finn Bálor"
   },
   {
    "q": "Which face-painted star beat Hulk Hogan for the WWF title at WrestleMania VI?",
@@ -1379,7 +1532,8 @@
    "alt": [
     "The Ultimate Warrior",
     "Warrior"
-   ]
+   ],
+   "apic": "The Ultimate Warrior"
   },
   {
    "q": "Which two wrestlers' 'Icon versus Icon' match headlined WrestleMania X8?",
@@ -1396,12 +1550,14 @@
    "p": 600,
    "alt": [
     "Jim 'The Anvil' Neidhart"
-   ]
+   ],
+   "apic": "Jim Neidhart"
   },
   {
    "q": "Which ring announcer famously introduced WWF stars for decades and coined many intros?",
    "a": "Howard Finkel",
-   "p": 600
+   "p": 600,
+   "apic": "Howard Finkel"
   },
   {
    "q": "Which Saudi stadium in Riyadh hosted the first Crown Jewel in 2018?",
@@ -1410,7 +1566,8 @@
    "alt": [
     "Mrsool Park",
     "KSU Stadium"
-   ]
+   ],
+   "apic": "King Saud University Stadium"
   },
   {
    "q": "Which on-screen WWF boss did Stone Cold Steve Austin famously feud with?",
@@ -1418,7 +1575,8 @@
    "p": 200,
    "alt": [
     "Vince McMahon"
-   ]
+   ],
+   "apic": "Vince McMahon"
   },
   {
    "q": "What is a wrestler's walk to the ring with music and pyro called?",
@@ -1458,7 +1616,8 @@
   {
    "q": "Which wrestler was known as 'The Tribal Chief'?",
    "a": "Roman Reigns",
-   "p": 200
+   "p": 200,
+   "apic": "Roman Reigns"
   },
   {
    "q": "What two-word term does WWE use to describe its product instead of just wrestling?",
@@ -1472,7 +1631,8 @@
    "alt": [
     "Macho Man Randy Savage",
     "Macho Man"
-   ]
+   ],
+   "apic": "Randy Savage"
   },
   {
    "q": "What term did WWE use for its female wrestlers and title until 2016?",

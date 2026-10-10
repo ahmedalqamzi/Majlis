@@ -8,7 +8,8 @@
    "p": 200,
    "alt": [
     "Graham Bell"
-   ]
+   ],
+   "apic": "Alexander Graham Bell"
   },
   {
    "q": "Which American inventor developed a long-lasting practical light bulb in 1879?",
@@ -16,7 +17,8 @@
    "p": 200,
    "alt": [
     "Edison"
-   ]
+   ],
+   "apic": "Thomas Edison"
   },
   {
    "q": "Which pair of brothers made the first powered aeroplane flight in 1903?",
@@ -25,22 +27,26 @@
    "alt": [
     "Wright brothers",
     "Orville and Wilbur Wright"
-   ]
+   ],
+   "apic": "Wright brothers"
   },
   {
    "q": "Which Swedish chemist invented dynamite and later founded famous prizes?",
    "a": "Alfred Nobel",
-   "p": 200
+   "p": 200,
+   "apic": "Alfred Nobel"
   },
   {
    "q": "Who unveiled the first iPhone on stage in 2007?",
    "a": "Steve Jobs",
-   "p": 200
+   "p": 200,
+   "apic": "Steve Jobs"
   },
   {
    "q": "Which American inventor gave his name to a code of dots and dashes?",
    "a": "Samuel Morse",
-   "p": 200
+   "p": 200,
+   "apic": "Samuel Morse"
   },
   {
    "q": "Which car maker's Model T was built on the first moving assembly line for cars?",
@@ -48,13 +54,15 @@
    "p": 200,
    "alt": [
     "Henry Ford"
-   ]
+   ],
+   "apic": "Ford Model T"
   },
   {
    "q": "In which country were paper and porcelain first invented?",
    "a": "China",
    "p": 200,
-   "ar": "الصين"
+   "ar": "الصين",
+   "apic": "China"
   },
   {
    "q": "Which Hungarian architect invented a famous colourful cube puzzle in 1974?",
@@ -62,12 +70,14 @@
    "p": 200,
    "alt": [
     "Rubik"
-   ]
+   ],
+   "apic": "Ernő Rubik"
   },
   {
    "q": "In which country was LEGO invented?",
    "a": "Denmark",
-   "p": 200
+   "p": 200,
+   "apic": "Denmark"
   },
   {
    "q": "Which kitchen appliance was invented after an engineer's chocolate bar melted near a radar device?",
@@ -75,7 +85,8 @@
    "p": 200,
    "alt": [
     "Microwave"
-   ]
+   ],
+   "apic": "Microwave oven"
   },
   {
    "q": "Which French scientist developed a heating process to kill germs in milk that is named after him?",
@@ -83,7 +94,8 @@
    "p": 200,
    "alt": [
     "Pasteur"
-   ]
+   ],
+   "apic": "Louis Pasteur"
   },
   {
    "q": "Which Renaissance artist sketched designs for a parachute and a helicopter-like 'aerial screw'?",
@@ -92,12 +104,14 @@
    "alt": [
     "Da Vinci",
     "Leonardo"
-   ]
+   ],
+   "apic": "Leonardo da Vinci"
   },
   {
    "q": "Which ancient Greek inventor supposedly shouted 'Eureka!' in his bath?",
    "a": "Archimedes",
-   "p": 200
+   "p": 200,
+   "apic": "Archimedes"
   },
   {
    "q": "Which American statesman invented the lightning rod?",
@@ -105,7 +119,8 @@
    "p": 200,
    "alt": [
     "Franklin"
-   ]
+   ],
+   "apic": "Benjamin Franklin"
   },
   {
    "q": "What legal document gives an inventor the exclusive right to make and sell an invention for a period?",
@@ -121,22 +136,26 @@
    "p": 200,
    "alt": [
     "Sputnik"
-   ]
+   ],
+   "apic": "Sputnik 1"
   },
   {
    "q": "Which company launched the iPod in 2001?",
    "a": "Apple",
-   "p": 200
+   "p": 200,
+   "apic": "iPod"
   },
   {
    "q": "Who launched Facebook from his Harvard dorm room in 2004?",
    "a": "Mark Zuckerberg",
-   "p": 200
+   "p": 200,
+   "apic": "Mark Zuckerberg"
   },
   {
    "q": "Who founded Amazon in 1994, originally as an online bookstore?",
    "a": "Jeff Bezos",
-   "p": 200
+   "p": 200,
+   "apic": "Jeff Bezos"
   },
   {
    "q": "Which British scientist invented the World Wide Web?",
@@ -144,17 +163,20 @@
    "p": 200,
    "alt": [
     "Sir Tim Berners-Lee"
-   ]
+   ],
+   "apic": "Tim Berners-Lee"
   },
   {
    "q": "Which Japanese company launched the Walkman portable cassette player in 1979?",
    "a": "Sony",
-   "p": 200
+   "p": 200,
+   "apic": "Walkman"
   },
   {
    "q": "Which Scottish engineer improved the steam engine so much that a unit of power is named after him?",
    "a": "James Watt",
-   "p": 200
+   "p": 200,
+   "apic": "James Watt"
   },
   {
    "q": "Which Italian scientist built the first electric battery, the voltaic pile, in 1800?",
@@ -162,7 +184,8 @@
    "p": 200,
    "alt": [
     "Volta"
-   ]
+   ],
+   "apic": "Alessandro Volta"
   },
   {
    "q": "Which Serbian-American inventor is famous for alternating current motors and a high-voltage coil?",
@@ -170,7 +193,8 @@
    "p": 200,
    "alt": [
     "Tesla"
-   ]
+   ],
+   "apic": "Nikola Tesla"
   },
   {
    "q": "Who invented the raised-dot reading system for blind people when he was a teenager?",
@@ -178,7 +202,8 @@
    "p": 200,
    "alt": [
     "Braille"
-   ]
+   ],
+   "apic": "Louis Braille"
   },
   {
    "q": "What does the 'www' at the start of many web addresses stand for?",
@@ -191,7 +216,8 @@
    "p": 200,
    "alt": [
     "Wheel"
-   ]
+   ],
+   "apic": "Wheel"
   },
   {
    "q": "Which branch of mathematics takes its name from the Arabic word 'al-jabr'?",
@@ -214,12 +240,14 @@
    "p": 400,
    "alt": [
     "Eastman"
-   ]
+   ],
+   "apic": "George Eastman"
   },
   {
    "q": "Which Swedish car maker gave away its patent for the three-point seat belt, introduced in 1959?",
    "a": "Volvo",
-   "p": 200
+   "p": 200,
+   "apic": "Volvo Cars"
   },
   {
    "q": "Which British inventor created a bagless vacuum cleaner using cyclone technology?",
@@ -227,7 +255,8 @@
    "p": 200,
    "alt": [
     "Dyson"
-   ]
+   ],
+   "apic": "James Dyson"
   },
   {
    "q": "Which American invented the modern air conditioner in 1902?",
@@ -235,7 +264,8 @@
    "p": 400,
    "alt": [
     "Carrier"
-   ]
+   ],
+   "apic": "Willis Carrier"
   },
   {
    "q": "Who invented the safety elevator brake that made skyscrapers practical?",
@@ -243,7 +273,8 @@
    "p": 400,
    "alt": [
     "Otis"
-   ]
+   ],
+   "apic": "Elisha Otis"
   },
   {
    "q": "Which German inventor built the Benz Patent-Motorwagen, often called the first true car, in 1886?",
@@ -251,12 +282,14 @@
    "p": 200,
    "alt": [
     "Carl Benz"
-   ]
+   ],
+   "apic": "Carl Benz"
   },
   {
    "q": "Which British codebreaker described a theoretical 'universal machine' that underpins modern computers?",
    "a": "Alan Turing",
-   "p": 200
+   "p": 200,
+   "apic": "Alan Turing"
   },
   {
    "q": "Which Hungarian-born journalist patented a ballpoint pen whose name became British slang for any such pen?",
@@ -264,12 +297,14 @@
    "p": 200,
    "alt": [
     "Biro"
-   ]
+   ],
+   "apic": "László Bíró"
   },
   {
    "q": "Which Canadian-American invented basketball in 1891?",
    "a": "James Naismith",
-   "p": 400
+   "p": 400,
+   "apic": "James Naismith"
   },
   {
    "q": "Which drink, invented by pharmacist John Pemberton in 1886, became a worldwide soft drink brand?",
@@ -277,7 +312,8 @@
    "p": 200,
    "alt": [
     "Coke"
-   ]
+   ],
+   "apic": "Coca-Cola"
   },
   {
    "q": "Which yellow sticky notes were developed by 3M using a 'weak' glue?",
@@ -286,27 +322,32 @@
    "alt": [
     "Post-its",
     "Sticky notes"
-   ]
+   ],
+   "apic": "Post-it Note"
   },
   {
    "q": "Which hook-and-loop fastener was inspired by burrs sticking to a dog's fur?",
    "a": "Velcro",
-   "p": 200
+   "p": 200,
+   "apic": "Velcro"
   },
   {
    "q": "Which English doctor developed the first vaccine, against smallpox, in 1796?",
    "a": "Edward Jenner",
-   "p": 200
+   "p": 200,
+   "apic": "Edward Jenner"
   },
   {
    "q": "What name is given to the first general-purpose electronic computer, completed in the USA in 1945?",
    "a": "ENIAC",
-   "p": 400
+   "p": 400,
+   "apic": "ENIAC"
   },
   {
    "q": "Which Scottish inventor first demonstrated a working television in 1926?",
    "a": "John Logie Baird",
-   "p": 400
+   "p": 400,
+   "apic": "John Logie Baird"
   },
   {
    "q": "Which Italian inventor sent the first radio signals across the Atlantic in 1901?",
@@ -314,12 +355,14 @@
    "p": 200,
    "alt": [
     "Marconi"
-   ]
+   ],
+   "apic": "Guglielmo Marconi"
   },
   {
    "q": "Which wireless technology is named after a 10th-century Danish king?",
    "a": "Bluetooth",
-   "p": 200
+   "p": 200,
+   "apic": "Harald Bluetooth"
   },
   {
    "q": "Which two Stanford students founded Google in 1998?",
@@ -327,7 +370,8 @@
    "p": 200,
    "alt": [
     "Page and Brin"
-   ]
+   ],
+   "apic": "Google"
   },
   {
    "q": "Which pseudonymous person or group created Bitcoin in 2008?",
@@ -337,7 +381,8 @@
   {
    "q": "Which Finnish software engineer created the Linux operating system kernel in 1991?",
    "a": "Linus Torvalds",
-   "p": 400
+   "p": 400,
+   "apic": "Linus Torvalds"
   },
   {
    "q": "Which famous French brothers held one of the first public film screenings in Paris in 1895?",
@@ -346,12 +391,14 @@
    "alt": [
     "Lumiere brothers",
     "Auguste and Louis Lumiere"
-   ]
+   ],
+   "apic": "Auguste and Louis Lumière"
   },
   {
    "q": "Which Japanese inventor created instant noodles in 1958?",
    "a": "Momofuku Ando",
-   "p": 400
+   "p": 400,
+   "apic": "Momofuku Ando"
   },
   {
    "q": "Which pair co-founded Apple in 1976, along with Ronald Wayne?",
@@ -359,7 +406,8 @@
    "p": 200,
    "alt": [
     "Jobs and Wozniak"
-   ]
+   ],
+   "apic": "Apple Inc."
   },
   {
    "q": "Which English mathematician is often called the first computer programmer for her notes on Babbage's engine?",
@@ -367,12 +415,14 @@
    "p": 200,
    "alt": [
     "Augusta Ada King"
-   ]
+   ],
+   "apic": "Ada Lovelace"
   },
   {
    "q": "Which English mathematician designed the Difference Engine and Analytical Engine?",
    "a": "Charles Babbage",
-   "p": 200
+   "p": 200,
+   "apic": "Charles Babbage"
   },
   {
    "q": "Which English engineer, with his son Robert, built the famous 1829 locomotive Rocket?",
@@ -380,22 +430,26 @@
    "p": 400,
    "alt": [
     "Stephenson"
-   ]
+   ],
+   "apic": "George Stephenson"
   },
   {
    "q": "What is the name of the online encyclopedia launched in 2001 by Jimmy Wales and Larry Sanger?",
    "a": "Wikipedia",
-   "p": 200
+   "p": 200,
+   "apic": "Wikipedia"
   },
   {
    "q": "Which company introduced the first Windows operating system in 1985?",
    "a": "Microsoft",
-   "p": 200
+   "p": 200,
+   "apic": "Microsoft Windows"
   },
   {
    "q": "Which household cleaning device did Hubert Cecil Booth power with a motor in 1901, nicknamed 'Puffing Billy'?",
    "a": "Vacuum cleaner",
-   "p": 200
+   "p": 200,
+   "apic": "Vacuum cleaner"
   },
   {
    "q": "What did Levi Strauss and Jacob Davis patent in 1873 by adding copper rivets to work trousers?",
@@ -404,12 +458,14 @@
    "alt": [
     "Jeans",
     "Denim jeans"
-   ]
+   ],
+   "apic": "Jeans"
   },
   {
    "q": "Which children's modelling clay was originally sold as a wallpaper cleaner?",
    "a": "Play-Doh",
-   "p": 200
+   "p": 200,
+   "apic": "Play-Doh"
   },
   {
    "q": "Which sweet treat was co-invented by a dentist, William Morrison, in 1897 as 'fairy floss'?",
@@ -418,7 +474,8 @@
    "alt": [
     "Candy floss",
     "Fairy floss"
-   ]
+   ],
+   "apic": "Cotton candy"
   },
   {
    "q": "What frozen treat did 11-year-old Frank Epperson invent by accident in 1905?",
@@ -426,7 +483,8 @@
    "p": 200,
    "alt": [
     "Ice lolly"
-   ]
+   ],
+   "apic": "Popsicle"
   },
   {
    "q": "Which non-stick coating was discovered by accident by chemist Roy Plunkett in 1938?",
@@ -434,17 +492,20 @@
    "p": 200,
    "alt": [
     "PTFE"
-   ]
+   ],
+   "apic": "Polytetrafluoroethylene"
   },
   {
    "q": "What device, invented by Rene Laennec in 1816, do doctors use to listen to the heart?",
    "a": "Stethoscope",
-   "p": 200
+   "p": 200,
+   "apic": "Stethoscope"
   },
   {
    "q": "Which strong fibre used in bulletproof vests was invented by Stephanie Kwolek?",
    "a": "Kevlar",
-   "p": 200
+   "p": 200,
+   "apic": "Stephanie Kwolek"
   },
   {
    "q": "What is the chemical name of the fast-bonding adhesive sold as Super Glue?",
@@ -454,17 +515,20 @@
   {
    "q": "Which device used by astronomers did Galileo improve and turn to the sky in 1609?",
    "a": "Telescope",
-   "p": 200
+   "p": 200,
+   "apic": "Telescope"
   },
   {
    "q": "Which Dutch spectacle maker applied for the first patent for a telescope in 1608?",
    "a": "Hans Lippershey",
-   "p": 400
+   "p": 400,
+   "apic": "Hans Lipperhey"
   },
   {
    "q": "Which electronic device, invented at Bell Labs in 1947, is the building block of modern chips?",
    "a": "Transistor",
-   "p": 400
+   "p": 400,
+   "apic": "Transistor"
   },
   {
    "q": "What do we call the small device used to move a pointer on a computer screen, invented by Douglas Engelbart?",
@@ -472,7 +536,8 @@
    "p": 200,
    "alt": [
     "Mouse"
-   ]
+   ],
+   "apic": "Computer mouse"
   },
   {
    "q": "Which symbol did Ray Tomlinson choose in 1971 to separate a user's name from the computer in email addresses?",
@@ -489,7 +554,8 @@
    "p": 200,
    "alt": [
     "Global Positioning System"
-   ]
+   ],
+   "apic": "Global Positioning System"
   },
   {
    "q": "Which Swiss engineer invented Velcro?",
@@ -497,22 +563,26 @@
    "p": 400,
    "alt": [
     "De Mestral"
-   ]
+   ],
+   "apic": "George de Mestral"
   },
   {
    "q": "At which beach near Kitty Hawk, North Carolina, did the Wright brothers make their first powered flight?",
    "a": "Kill Devil Hills",
-   "p": 400
+   "p": 400,
+   "apic": "Kill Devil Hills, North Carolina"
   },
   {
    "q": "In which year did the Wright brothers make their first powered flight?",
    "a": "1903",
-   "p": 400
+   "p": 400,
+   "pic": "Wright Flyer"
   },
   {
    "q": "In which German city did Johannes Gutenberg set up his printing press?",
    "a": "Mainz",
-   "p": 400
+   "p": 400,
+   "apic": "Mainz"
   },
   {
    "q": "Which Scottish-born inventor of the pneumatic bicycle tyre was a vet in Belfast?",
@@ -520,52 +590,62 @@
    "p": 400,
    "alt": [
     "Dunlop"
-   ]
+   ],
+   "apic": "John Boyd Dunlop"
   },
   {
    "q": "Which Scottish chemist invented a waterproof fabric that gave its name to a raincoat?",
    "a": "Charles Macintosh",
-   "p": 400
+   "p": 400,
+   "apic": "Charles Macintosh"
   },
   {
    "q": "Which English engineer invented the hovercraft in the 1950s?",
    "a": "Christopher Cockerell",
-   "p": 400
+   "p": 400,
+   "apic": "Christopher Cockerell"
   },
   {
    "q": "Which Scottish chemist invented the vacuum flask in 1892?",
    "a": "James Dewar",
-   "p": 400
+   "p": 400,
+   "apic": "James Dewar"
   },
   {
    "q": "Which English engineer invented 'cat's eyes' road reflectors in 1934?",
    "a": "Percy Shaw",
-   "p": 400
+   "p": 400,
+   "apic": "Percy Shaw"
   },
   {
    "q": "Which Belgian instrument maker invented the saxophone in the 1840s?",
    "a": "Adolphe Sax",
-   "p": 400
+   "p": 400,
+   "apic": "Adolphe Sax"
   },
   {
    "q": "Which Italian instrument maker invented the piano around 1700?",
    "a": "Bartolomeo Cristofori",
-   "p": 400
+   "p": 400,
+   "apic": "Bartolomeo Cristofori"
   },
   {
    "q": "Which German engineer patented a compression-ignition engine in 1892?",
    "a": "Rudolf Diesel",
-   "p": 400
+   "p": 400,
+   "apic": "Rudolf Diesel"
   },
   {
    "q": "In which year did a Montgolfier brothers' balloon first carry people into the air?",
    "a": "1783",
-   "p": 600
+   "p": 600,
+   "pic": "Montgolfier brothers"
   },
   {
    "q": "Which Russian-American engineer built the first practical single-rotor helicopter, the VS-300, in 1939?",
    "a": "Igor Sikorsky",
-   "p": 400
+   "p": 400,
+   "apic": "Igor Sikorsky"
   },
   {
    "q": "Which English RAF engineer patented the turbojet engine in 1930?",
@@ -573,22 +653,26 @@
    "p": 400,
    "alt": [
     "Sir Frank Whittle"
-   ]
+   ],
+   "apic": "Frank Whittle"
   },
   {
    "q": "Which English scientist built the first electric motor in 1821 and discovered electromagnetic induction?",
    "a": "Michael Faraday",
-   "p": 400
+   "p": 400,
+   "apic": "Michael Faraday"
   },
   {
    "q": "Which American physicist built the first working laser in 1960?",
    "a": "Theodore Maiman",
-   "p": 400
+   "p": 400,
+   "apic": "Theodore Maiman"
   },
   {
    "q": "Which American rocket pioneer launched the first liquid-fuelled rocket in 1926?",
    "a": "Robert Goddard",
-   "p": 400
+   "p": 400,
+   "apic": "Robert H. Goddard"
   },
   {
    "q": "Which two American engineers independently invented the integrated circuit in 1958-59?",
@@ -601,22 +685,27 @@
   {
    "q": "In which Scottish city was Alexander Graham Bell born?",
    "a": "Edinburgh",
-   "p": 400
+   "p": 400,
+   "pic": "Alexander Graham Bell",
+   "apic": "Edinburgh"
   },
   {
    "q": "Where was the first website hosted, at the European research centre where the web was invented?",
    "a": "CERN",
-   "p": 400
+   "p": 400,
+   "apic": "CERN"
   },
   {
    "q": "In which year did Tim Berners-Lee first propose the World Wide Web?",
    "a": "1989",
-   "p": 400
+   "p": 400,
+   "pic": "Tim Berners-Lee"
   },
   {
    "q": "Which US defence-funded computer network, first linked in 1969, was the forerunner of the internet?",
    "a": "ARPANET",
-   "p": 400
+   "p": 400,
+   "apic": "ARPANET"
   },
   {
    "q": "Which two American computer scientists designed the TCP/IP protocols, earning the title 'fathers of the internet'?",
@@ -629,12 +718,14 @@
   {
    "q": "Who posted the first tweet on Twitter in March 2006?",
    "a": "Jack Dorsey",
-   "p": 400
+   "p": 400,
+   "apic": "Jack Dorsey"
   },
   {
    "q": "What was the title of the first video uploaded to YouTube, in April 2005?",
    "a": "Me at the zoo",
-   "p": 400
+   "p": 400,
+   "apic": "Me at the zoo"
   },
   {
    "q": "What was the festive message in the first ever SMS text message, sent in 1992?",
@@ -644,12 +735,14 @@
   {
    "q": "Which Dutch programmer created the Python programming language?",
    "a": "Guido van Rossum",
-   "p": 400
+   "p": 400,
+   "apic": "Guido van Rossum"
   },
   {
    "q": "Which Canadian computer scientist created the Java programming language?",
    "a": "James Gosling",
-   "p": 400
+   "p": 400,
+   "apic": "James Gosling"
   },
   {
    "q": "Which Japanese designer created the first popular set of emoji for mobile phones in 1999?",
@@ -659,7 +752,8 @@
   {
    "q": "Which computer scientist proposed the first smiley emoticon :-) in 1982?",
    "a": "Scott Fahlman",
-   "p": 400
+   "p": 400,
+   "apic": "Scott Fahlman"
   },
   {
    "q": "Which Kodak engineer built the first digital camera in 1975?",
@@ -667,12 +761,14 @@
    "p": 400,
    "alt": [
     "Steven Sasson"
-   ]
+   ],
+   "apic": "Steven Sasson"
   },
   {
    "q": "Which Alabama woman patented the windshield wiper in 1903?",
    "a": "Mary Anderson",
-   "p": 400
+   "p": 400,
+   "apic": "Mary Anderson (inventor)"
   },
   {
    "q": "Which American socialite invented the first commercially successful dishwasher in 1886?",
@@ -680,27 +776,32 @@
    "p": 400,
    "alt": [
     "Josephine Cochran"
-   ]
+   ],
+   "apic": "Josephine Cochrane"
   },
   {
    "q": "Which English metallurgist invented stainless steel in Sheffield in 1913?",
    "a": "Harry Brearley",
-   "p": 400
+   "p": 400,
+   "apic": "Harry Brearley"
   },
   {
    "q": "Which Belgian-American chemist invented Bakelite, an early plastic, in 1907?",
    "a": "Leo Baekeland",
-   "p": 400
+   "p": 400,
+   "apic": "Leo Baekeland"
   },
   {
    "q": "Which American chemist at DuPont invented nylon in the 1930s?",
    "a": "Wallace Carothers",
-   "p": 400
+   "p": 400,
+   "apic": "Wallace Carothers"
   },
   {
    "q": "Which inventor is credited with the cash machine installed at a Barclays branch in Enfield in 1967?",
    "a": "John Shepherd-Barron",
-   "p": 400
+   "p": 400,
+   "apic": "John Shepherd-Barron"
   },
   {
    "q": "Which product was the first item ever scanned with a barcode, in an Ohio supermarket in 1974?",
@@ -729,22 +830,26 @@
   {
    "q": "Which brand's saddle-shaped crisp can was designed by Fred Baur, whose ashes were buried in one?",
    "a": "Pringles",
-   "p": 400
+   "p": 400,
+   "apic": "Pringles"
   },
   {
    "q": "Which American saloon owner invented the mechanical cash register in 1879?",
    "a": "James Ritty",
-   "p": 600
+   "p": 600,
+   "apic": "James Ritty"
   },
   {
    "q": "Which American woman created the Barbie doll in 1959?",
    "a": "Ruth Handler",
-   "p": 400
+   "p": 400,
+   "apic": "Ruth Handler"
   },
   {
    "q": "Which Danish carpenter founded the LEGO company?",
    "a": "Ole Kirk Christiansen",
-   "p": 400
+   "p": 400,
+   "apic": "Ole Kirk Christiansen"
   },
   {
    "q": "Which American game designer created The Landlord's Game, the forerunner of Monopoly?",
@@ -752,7 +857,8 @@
    "p": 600,
    "alt": [
     "Elizabeth Magie"
-   ]
+   ],
+   "apic": "Lizzie Magie"
   },
   {
    "q": "Which American physical education teacher invented volleyball in 1895?",
@@ -760,7 +866,8 @@
    "p": 400,
    "alt": [
     "William Morgan"
-   ]
+   ],
+   "apic": "William G. Morgan"
   },
   {
    "q": "Which French inventor made the first known photograph, around 1826?",
@@ -768,7 +875,8 @@
    "p": 400,
    "alt": [
     "Niepce"
-   ]
+   ],
+   "apic": "Nicéphore Niépce"
   },
   {
    "q": "Which French artist gave his name to an early photographic process announced in 1839?",
@@ -776,17 +884,20 @@
    "p": 400,
    "alt": [
     "Daguerre"
-   ]
+   ],
+   "apic": "Louis Daguerre"
   },
   {
    "q": "Which American scientist invented the Polaroid instant camera?",
    "a": "Edwin Land",
-   "p": 400
+   "p": 400,
+   "apic": "Edwin H. Land"
   },
   {
    "q": "Which German-American inventor patented the gramophone, which played flat discs?",
    "a": "Emile Berliner",
-   "p": 600
+   "p": 600,
+   "apic": "Emile Berliner"
   },
   {
    "q": "Which two companies jointly developed the compact disc, launched in 1982?",
@@ -799,17 +910,20 @@
   {
    "q": "Which Italian physicist built the first nuclear reactor, Chicago Pile-1, in 1942?",
    "a": "Enrico Fermi",
-   "p": 400
+   "p": 400,
+   "apic": "Enrico Fermi"
   },
   {
    "q": "Which Scottish physicist led the development of radar in Britain in the 1930s?",
    "a": "Robert Watson-Watt",
-   "p": 600
+   "p": 600,
+   "apic": "Robert Watson-Watt"
   },
   {
    "q": "Which French inventor created a method of preserving food in sealed glass jars in 1809?",
    "a": "Nicolas Appert",
-   "p": 600
+   "p": 600,
+   "apic": "Nicolas Appert"
   },
   {
    "q": "Which English inventor of the friction match first sold them in 1827?",
@@ -819,22 +933,26 @@
   {
    "q": "Which Dutch scientist invented the pendulum clock in 1656?",
    "a": "Christiaan Huygens",
-   "p": 400
+   "p": 400,
+   "apic": "Christiaan Huygens"
   },
   {
    "q": "Which Italian physicist invented the mercury barometer in 1643?",
    "a": "Evangelista Torricelli",
-   "p": 400
+   "p": 400,
+   "apic": "Evangelista Torricelli"
   },
   {
    "q": "Which French mathematician built a mechanical calculator called the Pascaline?",
    "a": "Blaise Pascal",
-   "p": 400
+   "p": 400,
+   "apic": "Blaise Pascal"
   },
   {
    "q": "Which Scottish mathematician introduced logarithms in 1614?",
    "a": "John Napier",
-   "p": 400
+   "p": 400,
+   "apic": "John Napier"
   },
   {
    "q": "Which Greek engineer of Alexandria built the aeolipile, a simple steam-powered spinning device?",
@@ -842,12 +960,14 @@
    "p": 600,
    "alt": [
     "Heron of Alexandria"
-   ]
+   ],
+   "apic": "Hero of Alexandria"
   },
   {
    "q": "What is the name of the ancient Greek bronze 'computer' found in a shipwreck in 1901?",
    "a": "Antikythera mechanism",
-   "p": 400
+   "p": 400,
+   "apic": "Antikythera mechanism"
   },
   {
    "q": "Which Chinese court official is traditionally credited with inventing paper around 105 AD?",
@@ -855,7 +975,8 @@
    "p": 400,
    "alt": [
     "Ts'ai Lun"
-   ]
+   ],
+   "apic": "Cai Lun"
   },
   {
    "q": "Which Chinese inventor created movable clay type around 1040, centuries before Gutenberg?",
@@ -869,13 +990,15 @@
    "q": "Which country did our everyday digits 0 to 9 originally come from, before Arab scholars spread them?",
    "a": "India",
    "p": 400,
-   "ar": "الهند"
+   "ar": "الهند",
+   "apic": "India"
   },
   {
    "q": "What is the famous water clock designed by al-Jazari, featuring an elephant, a mahout and a dragon?",
    "a": "Elephant clock",
    "p": 400,
-   "ar": "ساعة الفيل"
+   "ar": "ساعة الفيل",
+   "apic": "Elephant clock"
   },
   {
    "q": "In which Baghdad academy did al-Khwarizmi work under the Abbasid caliphs?",
@@ -884,7 +1007,8 @@
    "alt": [
     "Bayt al-Hikma"
    ],
-   "ar": "بيت الحكمة"
+   "ar": "بيت الحكمة",
+   "pic": "Baghdad"
   },
   {
    "q": "Which three Baghdad brothers wrote 'The Book of Ingenious Devices' in the 9th century?",
@@ -902,28 +1026,33 @@
    "alt": [
     "Muhammad al-Idrisi"
    ],
-   "ar": "الإدريسي"
+   "ar": "الإدريسي",
+   "apic": "Tabula Rogeriana"
   },
   {
    "q": "Which optical device, a darkened room with a small hole projecting an image, did Ibn al-Haytham study in detail?",
    "a": "Camera obscura",
-   "p": 400
+   "p": 400,
+   "apic": "Camera obscura"
   },
   {
    "q": "In which country did coffee drinking first take hold, among Sufis in the 15th century?",
    "a": "Yemen",
    "p": 400,
-   "ar": "اليمن"
+   "ar": "اليمن",
+   "apic": "Yemen"
   },
   {
    "q": "Which American founding father invented bifocal glasses?",
    "a": "Benjamin Franklin",
-   "p": 400
+   "p": 400,
+   "apic": "Benjamin Franklin"
   },
   {
    "q": "Which English engineer built the first full-scale working railway steam locomotive in 1804?",
    "a": "Richard Trevithick",
-   "p": 600
+   "p": 600,
+   "apic": "Richard Trevithick"
   },
   {
    "q": "Which German baron invented the 'Laufmaschine', or running machine, in 1817?",
@@ -931,47 +1060,57 @@
    "p": 400,
    "alt": [
     "Karl von Drais"
-   ]
+   ],
+   "pic": "Dandy horse",
+   "apic": "Karl Drais"
   },
   {
    "q": "Which English inventor of the spinning jenny named it, according to legend, after his daughter?",
    "a": "James Hargreaves",
-   "p": 400
+   "p": 400,
+   "apic": "James Hargreaves"
   },
   {
    "q": "Which American inventor's cotton gin of 1793 transformed cotton production?",
    "a": "Eli Whitney",
-   "p": 400
+   "p": 400,
+   "apic": "Eli Whitney"
   },
   {
    "q": "Which English inventor's 'flying shuttle' of 1733 sped up weaving?",
    "a": "John Kay",
-   "p": 600
+   "p": 600,
+   "apic": "John Kay (flying shuttle)"
   },
   {
    "q": "Which Canadian scientist co-discovered insulin with Charles Best in 1921?",
    "a": "Frederick Banting",
-   "p": 400
+   "p": 400,
+   "apic": "Frederick Banting"
   },
   {
    "q": "In which country did eyeglasses first appear, around 1290?",
    "a": "Italy",
-   "p": 400
+   "p": 400,
+   "apic": "Italy"
   },
   {
    "q": "Which American engineer invented the computer mouse in the 1960s?",
    "a": "Douglas Engelbart",
-   "p": 400
+   "p": 400,
+   "apic": "Douglas Engelbart"
   },
   {
    "q": "Which American programmer sent the first network email in 1971?",
    "a": "Ray Tomlinson",
-   "p": 400
+   "p": 400,
+   "apic": "Ray Tomlinson"
   },
   {
    "q": "Which Motorola engineer made the first handheld mobile phone call in 1973?",
    "a": "Martin Cooper",
-   "p": 400
+   "p": 400,
+   "apic": "Martin Cooper (inventor)"
   },
   {
    "q": "Which IBM device of 1994 is widely called the first smartphone?",
@@ -979,17 +1118,20 @@
    "p": 400,
    "alt": [
     "Simon Personal Communicator"
-   ]
+   ],
+   "apic": "IBM Simon"
   },
   {
    "q": "Which British engineer built Colossus, the first programmable electronic digital computer, in 1943?",
    "a": "Tommy Flowers",
-   "p": 600
+   "p": 600,
+   "apic": "Tommy Flowers"
   },
   {
    "q": "Which software developer co-created the first spreadsheet program, VisiCalc, in 1979?",
    "a": "Dan Bricklin",
-   "p": 400
+   "p": 400,
+   "apic": "Dan Bricklin"
   },
   {
    "q": "Which web browser, released in 1993 by Marc Andreessen and Eric Bina, made the web popular?",
@@ -997,7 +1139,8 @@
    "p": 400,
    "alt": [
     "NCSA Mosaic"
-   ]
+   ],
+   "apic": "Mosaic (web browser)"
   },
   {
    "q": "Which two American inventors patented the barcode in 1952?",
@@ -1010,22 +1153,26 @@
   {
    "q": "Which club issued the first multipurpose charge card in 1950?",
    "a": "Diners Club",
-   "p": 400
+   "p": 400,
+   "apic": "Diners Club International"
   },
   {
    "q": "Which US city installed the world's first parking meter in 1935?",
    "a": "Oklahoma City",
-   "p": 400
+   "p": 400,
+   "apic": "Oklahoma City"
   },
   {
    "q": "Which American inventor patented the safety pin in 1849?",
    "a": "Walter Hunt",
-   "p": 600
+   "p": 600,
+   "apic": "Walter Hunt (inventor)"
   },
   {
    "q": "Which Swedish-American engineer perfected the modern zip fastener in 1913?",
    "a": "Gideon Sundback",
-   "p": 600
+   "p": 600,
+   "apic": "Gideon Sundback"
   },
   {
    "q": "Which Elizabethan courtier designed an early flushing toilet for Queen Elizabeth I?",
@@ -1033,7 +1180,8 @@
    "p": 600,
    "alt": [
     "Sir John Harington"
-   ]
+   ],
+   "apic": "John Harington (writer)"
   },
   {
    "q": "What was the name of the first commercial jet airliner, built by de Havilland and flown in 1949?",
@@ -1041,12 +1189,14 @@
    "p": 400,
    "alt": [
     "Comet"
-   ]
+   ],
+   "apic": "de Havilland Comet"
   },
   {
    "q": "Which supersonic airliner, built by Britain and France, first flew in 1969?",
    "a": "Concorde",
-   "p": 400
+   "p": 400,
+   "apic": "Concorde"
   },
   {
    "q": "Which three Bell Labs scientists shared the 1956 Nobel Prize for inventing the transistor?",
@@ -1059,7 +1209,8 @@
   {
    "q": "Which tea-time snack shares its name with an English earl who supposedly asked for meat between bread?",
    "a": "Sandwich",
-   "p": 400
+   "p": 400,
+   "apic": "Sandwich"
   },
   {
    "q": "Which German physicist built the first practical mercury thermometer and gave his name to a temperature scale?",
@@ -1067,7 +1218,8 @@
    "p": 400,
    "alt": [
     "Fahrenheit"
-   ]
+   ],
+   "apic": "Daniel Gabriel Fahrenheit"
   },
   {
    "q": "Which Swedish astronomer devised the 100-degree temperature scale in 1742?",
@@ -1075,12 +1227,14 @@
    "p": 400,
    "alt": [
     "Celsius"
-   ]
+   ],
+   "apic": "Anders Celsius"
   },
   {
    "q": "Who is credited with inventing the electronic television system, transmitting his first image in 1927?",
    "a": "Philo Farnsworth",
-   "p": 600
+   "p": 600,
+   "apic": "Philo Farnsworth"
   },
   {
    "q": "For which Turkish dynasty did al-Jazari work as chief engineer in Diyarbakir?",
@@ -1103,7 +1257,8 @@
   {
    "q": "Which Timurid ruler and astronomer built a great observatory in Samarkand in the 1420s?",
    "a": "Ulugh Beg",
-   "p": 600
+   "p": 600,
+   "apic": "Ulugh Beg Observatory"
   },
   {
    "q": "Which 10th-century woman from Aleppo was famous for making astrolabes?",
@@ -1118,13 +1273,15 @@
   {
    "q": "Which Indian mathematician first wrote rules for using zero in arithmetic, in 628?",
    "a": "Brahmagupta",
-   "p": 600
+   "p": 600,
+   "apic": "Brahmagupta"
   },
   {
    "q": "Which instrument, used to measure the position of stars and tell time, was perfected by Muslim astronomers?",
    "a": "Astrolabe",
    "p": 600,
-   "ar": "الأسطرلاب"
+   "ar": "الأسطرلاب",
+   "apic": "Astrolabe"
   },
   {
    "q": "What is the Latin name by which Ibn al-Haytham was known in medieval Europe?",
@@ -1138,7 +1295,8 @@
    "q": "In which Iraqi city was Ibn al-Haytham born around 965?",
    "a": "Basra",
    "p": 600,
-   "ar": "البصرة"
+   "ar": "البصرة",
+   "apic": "Basra"
   },
   {
    "q": "Which Egyptian ruler is said to have placed Ibn al-Haytham under house arrest after his Nile dam plan failed?",
@@ -1163,18 +1321,21 @@
    "p": 400,
    "alt": [
     "Turkiye"
-   ]
+   ],
+   "apic": "Turkey"
   },
   {
    "q": "Which Andalusian city was home to both Abbas ibn Firnas and al-Zahrawi?",
    "a": "Cordoba",
    "p": 600,
-   "ar": "قرطبة"
+   "ar": "قرطبة",
+   "apic": "Córdoba, Spain"
   },
   {
    "q": "Which American held over 1,000 US patents, the most famous of them for the phonograph?",
    "a": "Thomas Edison",
-   "p": 600
+   "p": 600,
+   "apic": "Thomas Edison"
   },
   {
    "q": "What was granted on 31 July 1790 to Samuel Hopkins, for a method of making potash?",
@@ -1195,57 +1356,68 @@
   {
    "q": "Which German engineer, along with Frank Whittle, independently developed the jet engine?",
    "a": "Hans von Ohain",
-   "p": 600
+   "p": 600,
+   "apic": "Hans von Ohain"
   },
   {
    "q": "Which German engineer built the Z3, the first working programmable computer, in 1941?",
    "a": "Konrad Zuse",
-   "p": 600
+   "p": 600,
+   "apic": "Konrad Zuse"
   },
   {
    "q": "Which American woman engineer coined the term 'software engineering' while working on Apollo?",
    "a": "Margaret Hamilton",
-   "p": 600
+   "p": 600,
+   "apic": "Margaret Hamilton (software engineer)"
   },
   {
    "q": "Which US Navy computer scientist developed one of the first compilers and helped create COBOL?",
    "a": "Grace Hopper",
-   "p": 600
+   "p": 600,
+   "apic": "Grace Hopper"
   },
   {
    "q": "Which American inventor patented the first practical typewriter with the QWERTY layout in 1868?",
    "a": "Christopher Latham Sholes",
-   "p": 600
+   "p": 600,
+   "apic": "Christopher Latham Sholes"
   },
   {
    "q": "Which American inventor patented the first practical sewing machine with a lockstitch in 1846?",
    "a": "Elias Howe",
-   "p": 600
+   "p": 600,
+   "apic": "Elias Howe"
   },
   {
    "q": "Which Scottish inventor patented the electric clock and an early fax-like 'printing telegraph' in the 1840s?",
    "a": "Alexander Bain",
-   "p": 600
+   "p": 600,
+   "apic": "Alexander Bain (inventor)"
   },
   {
    "q": "Which English engineer invented the first commercially successful steam engine in 1712, used to pump water from mines?",
    "a": "Thomas Newcomen",
-   "p": 600
+   "p": 600,
+   "apic": "Thomas Newcomen"
   },
   {
    "q": "Which English military engineer patented the first steam-powered water pump, 'The Miner's Friend', in 1698?",
    "a": "Thomas Savery",
-   "p": 600
+   "p": 600,
+   "apic": "Thomas Savery"
   },
   {
    "q": "Which French inventor built the first self-propelled steam vehicle in 1769?",
    "a": "Nicolas-Joseph Cugnot",
-   "p": 600
+   "p": 600,
+   "apic": "Nicolas-Joseph Cugnot"
   },
   {
    "q": "Which Hungarian-born physician pioneered handwashing in hospitals in the 1840s?",
    "a": "Ignaz Semmelweis",
-   "p": 600
+   "p": 600,
+   "apic": "Ignaz Semmelweis"
   },
   {
    "q": "Which English chemist discovered the first synthetic dye, mauveine, in 1856?",
@@ -1253,22 +1425,26 @@
    "p": 600,
    "alt": [
     "William Henry Perkin"
-   ]
+   ],
+   "apic": "William Henry Perkin"
   },
   {
    "q": "Which American engineer invented the first air brake for trains in 1869?",
    "a": "George Westinghouse",
-   "p": 600
+   "p": 600,
+   "apic": "George Westinghouse"
   },
   {
    "q": "Which Swedish engineer invented the three-point seat belt for Volvo?",
    "a": "Nils Bohlin",
-   "p": 600
+   "p": 600,
+   "apic": "Nils Bohlin"
   },
   {
    "q": "Which Japanese engineer created the Game Boy and the Game & Watch?",
    "a": "Gunpei Yokoi",
-   "p": 600
+   "p": 600,
+   "apic": "Gunpei Yokoi"
   },
   {
    "q": "Which American computer engineer led the team that created Ethernet at Xerox PARC in 1973?",
@@ -1276,7 +1452,8 @@
    "p": 600,
    "alt": [
     "Bob Metcalfe"
-   ]
+   ],
+   "apic": "Robert Metcalfe"
   },
   {
    "q": "Which Xerox research centre developed the graphical user interface that inspired the Apple Macintosh?",
@@ -1285,17 +1462,20 @@
    "alt": [
     "PARC",
     "Palo Alto Research Center"
-   ]
+   ],
+   "apic": "PARC (company)"
   },
   {
    "q": "Thomas Edison was nicknamed 'The Wizard of' which New Jersey place, where his laboratory stood?",
    "a": "Menlo Park",
-   "p": 600
+   "p": 600,
+   "apic": "Menlo Park, New Jersey"
   },
   {
    "q": "Which American inventor patented a 'tin can' for food preservation in Britain in 1810?",
    "a": "Peter Durand",
-   "p": 600
+   "p": 600,
+   "apic": "Peter Durand"
   },
   {
    "q": "What was the name of the first printed book with movable metal type in Europe, a two-volume Latin work?",
@@ -1303,32 +1483,38 @@
    "p": 600,
    "alt": [
     "42-line Bible"
-   ]
+   ],
+   "apic": "Gutenberg Bible"
   },
   {
    "q": "Which English inventor built the first workable reflecting telescope in 1668?",
    "a": "Isaac Newton",
-   "p": 600
+   "p": 600,
+   "apic": "Isaac Newton"
   },
   {
    "q": "Which American engineer at Raytheon invented the microwave oven?",
    "a": "Percy Spencer",
-   "p": 600
+   "p": 600,
+   "apic": "Percy Spencer"
   },
   {
    "q": "Which American chemist accidentally discovered the formula for Super Glue while working on gun sights in 1942?",
    "a": "Harry Coover",
-   "p": 600
+   "p": 600,
+   "apic": "Harry Coover"
   },
   {
    "q": "Which 3M scientist invented the weak adhesive later used on Post-it Notes?",
    "a": "Spencer Silver",
-   "p": 600
+   "p": 600,
+   "apic": "Spencer Silver"
   },
   {
    "q": "Which 3M colleague of Spencer Silver came up with the idea of using the glue on bookmarks, creating the Post-it?",
    "a": "Art Fry",
-   "p": 600
+   "p": 600,
+   "apic": "Art Fry"
   },
   {
    "q": "Which American inventor created the Slinky in the 1940s?",
@@ -1338,7 +1524,8 @@
   {
    "q": "Which Swiss-born chemist invented cellophane in 1908?",
    "a": "Jacques Brandenberger",
-   "p": 600
+   "p": 600,
+   "apic": "Jacques E. Brandenberger"
   },
   {
    "q": "What were Bubble Wrap's inventors originally trying to make in 1957?",
@@ -1351,7 +1538,8 @@
   {
    "q": "Which British engineer patented a lawnmower in 1830?",
    "a": "Edwin Budding",
-   "p": 600
+   "p": 600,
+   "apic": "Edwin Beard Budding"
   },
   {
    "q": "Which English scientist devised the safety lamp for coal miners in 1815?",
@@ -1359,7 +1547,8 @@
    "p": 600,
    "alt": [
     "Sir Humphry Davy"
-   ]
+   ],
+   "apic": "Humphry Davy"
   },
   {
    "q": "Which Belgian engineer built the first commercially successful internal combustion engine in 1860?",
@@ -1367,27 +1556,32 @@
    "p": 600,
    "alt": [
     "Jean Joseph Etienne Lenoir"
-   ]
+   ],
+   "apic": "Étienne Lenoir"
   },
   {
    "q": "Which German engineer built the first four-stroke engine in 1876?",
    "a": "Nikolaus Otto",
-   "p": 600
+   "p": 600,
+   "apic": "Nicolaus Otto"
   },
   {
    "q": "Which German engineer, working with Wilhelm Maybach, built the first motorcycle in 1885?",
    "a": "Gottlieb Daimler",
-   "p": 600
+   "p": 600,
+   "apic": "Gottlieb Daimler"
   },
   {
    "q": "Which Dutch inventor built the first navigable submarine, rowed under the Thames in the 1620s?",
    "a": "Cornelis Drebbel",
-   "p": 600
+   "p": 600,
+   "apic": "Cornelis Drebbel"
   },
   {
    "q": "Which Scottish surgeon introduced antiseptic surgery using carbolic acid in 1867?",
    "a": "Joseph Lister",
-   "p": 600
+   "p": 600,
+   "apic": "Joseph Lister"
   },
   {
    "q": "Which American dentist publicly demonstrated ether anaesthesia in 1846?",
@@ -1395,12 +1589,14 @@
    "p": 600,
    "alt": [
     "William T. G. Morton"
-   ]
+   ],
+   "apic": "William T. G. Morton"
   },
   {
    "q": "Which Dutch physician invented the electrocardiogram (ECG) in 1903?",
    "a": "Willem Einthoven",
-   "p": 600
+   "p": 600,
+   "apic": "Willem Einthoven"
   },
   {
    "q": "Which Swedish engineer developed the first implantable pacemaker in 1958?",
@@ -1410,27 +1606,33 @@
   {
    "q": "Which British engineer invented the CT scanner, sharing the 1979 Nobel Prize?",
    "a": "Godfrey Hounsfield",
-   "p": 600
+   "p": 600,
+   "apic": "Godfrey Hounsfield"
   },
   {
    "q": "Which American engineer created the first commercial 3D printing process, stereolithography, in the 1980s?",
    "a": "Chuck Hull",
-   "p": 600
+   "p": 600,
+   "apic": "Chuck Hull"
   },
   {
    "q": "Which American engineer and Intel co-founder gave his name to a 'law' about the doubling of transistors?",
    "a": "Gordon Moore",
-   "p": 600
+   "p": 600,
+   "apic": "Gordon Moore"
   },
   {
    "q": "Which American company released the first commercial microprocessor, the 4004, in 1971?",
    "a": "Intel",
-   "p": 600
+   "p": 600,
+   "apic": "Intel"
   },
   {
    "q": "Which inventor's 'Difference Engine No. 2' was finally built by London's Science Museum in 1991?",
    "a": "Charles Babbage",
-   "p": 600
+   "p": 600,
+   "pic": "Science Museum, London",
+   "apic": "Charles Babbage"
   },
   {
    "q": "Which Scottish engineer invented the macadam road surface?",
@@ -1438,7 +1640,8 @@
    "p": 600,
    "alt": [
     "McAdam"
-   ]
+   ],
+   "apic": "John Loudon McAdam"
   },
   {
    "q": "Which ancient civilisation invented the 365-day calendar and papyrus paper?",
@@ -1460,7 +1663,8 @@
   {
    "q": "Which Japanese company released the Game Boy handheld console in 1989?",
    "a": "Nintendo",
-   "p": 200
+   "p": 200,
+   "apic": "Nintendo"
   },
   {
    "q": "Which navigation instrument, first used in China, has a magnetised needle that points north?",
@@ -1469,7 +1673,8 @@
    "alt": [
     "Compass",
     "Magnetic compass"
-   ]
+   ],
+   "apic": "Compass"
   },
   {
    "q": "Which explosive black powder, invented in China, is used to make fireworks?",
@@ -1477,7 +1682,8 @@
    "p": 200,
    "alt": [
     "Black powder"
-   ]
+   ],
+   "apic": "Gunpowder"
   },
   {
    "q": "Which simple timer uses sand flowing between two glass bulbs?",
@@ -1486,27 +1692,32 @@
    "alt": [
     "Sand timer",
     "Sandglass"
-   ]
+   ],
+   "apic": "Hourglass"
   },
   {
    "q": "Which ancient time-telling device uses the shadow cast by the Sun?",
    "a": "Sundial",
-   "p": 200
+   "p": 200,
+   "apic": "Sundial"
   },
   {
    "q": "Which video-sharing website was founded in 2005 by three former PayPal employees?",
    "a": "YouTube",
-   "p": 200
+   "p": 200,
+   "apic": "YouTube"
   },
   {
    "q": "Which messaging app, founded in 2009, was bought by Facebook in 2014?",
    "a": "WhatsApp",
-   "p": 200
+   "p": 200,
+   "apic": "WhatsApp"
   },
   {
    "q": "Which company's name comes from 'googol', the number 1 followed by 100 zeros?",
    "a": "Google",
-   "p": 200
+   "p": 200,
+   "apic": "Google"
   },
   {
    "q": "Which unit of electrical potential is named after the inventor of the battery?",
@@ -1519,22 +1730,26 @@
    "p": 200,
    "alt": [
     "Kite"
-   ]
+   ],
+   "apic": "Kite"
   },
   {
    "q": "Which machine, invented by Thomas Edison in 1877, could record and play back sound?",
    "a": "Phonograph",
-   "p": 200
+   "p": 200,
+   "apic": "Phonograph"
   },
   {
    "q": "Which keyboard layout, used on most English keyboards, is named after its first six letters?",
    "a": "QWERTY",
-   "p": 200
+   "p": 200,
+   "apic": "QWERTY"
   },
   {
    "q": "Which machine, developed in the 1800s, stitches fabric using a needle and thread?",
    "a": "Sewing machine",
-   "p": 200
+   "p": 200,
+   "apic": "Sewing machine"
   },
   {
    "q": "Which kitchen appliance replaced the icebox for keeping food cold in 20th-century homes?",
@@ -1542,12 +1757,14 @@
    "p": 200,
    "alt": [
     "Fridge"
-   ]
+   ],
+   "apic": "Refrigerator"
   },
   {
    "q": "Which aircraft uses spinning rotor blades to take off straight up?",
    "a": "Helicopter",
-   "p": 200
+   "p": 200,
+   "apic": "Helicopter"
   },
   {
    "q": "What kind of flying craft did the Montgolfier brothers invent?",
@@ -1555,7 +1772,8 @@
    "p": 200,
    "alt": [
     "Balloon"
-   ]
+   ],
+   "apic": "Hot air balloon"
   },
   {
    "q": "What does the 'e' in 'email' stand for?",
@@ -1570,7 +1788,8 @@
   {
    "q": "What type of engine powered the first railway locomotives?",
    "a": "Steam engine",
-   "p": 200
+   "p": 200,
+   "apic": "Steam engine"
   },
   {
    "q": "Karl Drais's 1817 'running machine' was an early version of which vehicle?",
@@ -1578,12 +1797,14 @@
    "p": 200,
    "alt": [
     "Bike"
-   ]
+   ],
+   "apic": "Bicycle"
   },
   {
    "q": "Which ancient material, made by melting sand, was first produced in Mesopotamia and Egypt?",
    "a": "Glass",
-   "p": 400
+   "p": 400,
+   "apic": "Glass"
   },
   {
    "q": "Which American businessman popularised the safety razor with disposable blades in the early 1900s?",
@@ -1592,13 +1813,15 @@
    "alt": [
     "King Gillette",
     "Gillette"
-   ]
+   ],
+   "apic": "King C. Gillette"
   },
   {
    "q": "In which city, then the Fatimid capital, did Ibn al-Haytham do much of his later scientific work?",
    "a": "Cairo",
    "p": 400,
-   "ar": "القاهرة"
+   "ar": "القاهرة",
+   "apic": "Cairo"
   },
   {
    "q": "Besides his flight attempt, Abbas ibn Firnas is credited with a method for cutting which clear mineral?",
@@ -1606,7 +1829,8 @@
    "p": 600,
    "alt": [
     "Quartz"
-   ]
+   ],
+   "apic": "Rock crystal"
   }
  ]
 }

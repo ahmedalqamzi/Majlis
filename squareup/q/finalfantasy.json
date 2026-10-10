@@ -5,7 +5,8 @@
   {
    "q": "Which silver-haired swordsman is the main villain of Final Fantasy VII?",
    "a": "Sephiroth",
-   "p": 200
+   "p": 200,
+   "apic": "Sephiroth"
   },
   {
    "q": "What are the large yellow riding birds of Final Fantasy called?",
@@ -13,7 +14,8 @@
    "p": 200,
    "alt": [
     "Chocobo"
-   ]
+   ],
+   "apic": "Chocobo"
   },
   {
    "q": "What are the small white creatures with red pompoms who often say \"kupo\"?",
@@ -21,7 +23,8 @@
    "p": 200,
    "alt": [
     "Moogle"
-   ]
+   ],
+   "apic": "Moogle"
   },
   {
    "q": "Which character name appears in almost every Final Fantasy, often linked to airships?",
@@ -35,7 +38,9 @@
    "alt": [
     "Aerith",
     "Aeris"
-   ]
+   ],
+   "pic": "Sephiroth",
+   "apic": "Aerith Gainsborough"
   },
   {
    "q": "Which martial artist is Cloud's childhood friend in Final Fantasy VII?",
@@ -43,7 +48,9 @@
    "p": 200,
    "alt": [
     "Tifa"
-   ]
+   ],
+   "pic": "Cloud Strife",
+   "apic": "Tifa Lockhart"
   },
   {
    "q": "Which gun-armed fighter leads the group AVALANCHE in Final Fantasy VII?",
@@ -51,7 +58,8 @@
    "p": 200,
    "alt": [
     "Barret"
-   ]
+   ],
+   "apic": "Barret Wallace"
   },
   {
    "q": "What is the name of the giant power company in Final Fantasy VII?",
@@ -70,7 +78,8 @@
   {
    "q": "What is the name of Cloud's enormous sword?",
    "a": "Buster Sword",
-   "p": 200
+   "p": 200,
+   "pic": "Cloud Strife"
   },
   {
    "q": "What are the coloured orbs equipped for magic in Final Fantasy VII called?",
@@ -83,17 +92,21 @@
    "p": 200,
    "alt": [
     "Final Fantasy VII Rebirth"
-   ]
+   ],
+   "apic": "Final Fantasy VII Rebirth"
   },
   {
    "q": "Which summoner does Tidus protect on her pilgrimage in Final Fantasy X?",
    "a": "Yuna",
-   "p": 200
+   "p": 200,
+   "pic": "Tidus",
+   "apic": "Yuna (Final Fantasy)"
   },
   {
    "q": "What underwater ball sport does Tidus play in Final Fantasy X?",
    "a": "Blitzball",
-   "p": 200
+   "p": 200,
+   "pic": "Tidus"
   },
   {
    "q": "Who is the gunblade-wielding hero of Final Fantasy VIII?",
@@ -101,7 +114,8 @@
    "p": 200,
    "alt": [
     "Squall"
-   ]
+   ],
+   "apic": "Squall Leonhart"
   },
   {
    "q": "Which prince is the hero of Final Fantasy XV?",
@@ -109,7 +123,8 @@
    "p": 200,
    "alt": [
     "Noctis"
-   ]
+   ],
+   "apic": "Noctis Lucis Caelum"
   },
   {
    "q": "Who is the hero of Final Fantasy XVI?",
@@ -117,7 +132,8 @@
    "p": 200,
    "alt": [
     "Clive"
-   ]
+   ],
+   "apic": "Clive Rosfield"
   },
   {
    "q": "Which tailed thief is the hero of Final Fantasy IX?",
@@ -125,7 +141,8 @@
    "p": 200,
    "alt": [
     "Zidane"
-   ]
+   ],
+   "apic": "Zidane Tribal"
   },
   {
    "q": "Which shy black mage in a pointed hat travels with Zidane?",
@@ -133,7 +150,9 @@
    "p": 200,
    "alt": [
     "Vivi"
-   ]
+   ],
+   "pic": "Zidane Tribal",
+   "apic": "Vivi Ornitier"
   },
   {
    "q": "Which clown-like madman is the villain of Final Fantasy VI?",
@@ -141,7 +160,8 @@
    "p": 200,
    "alt": [
     "Kefka"
-   ]
+   ],
+   "apic": "Kefka Palazzo"
   },
   {
    "q": "Which numbered Final Fantasy is an online MMORPG relaunched as A Realm Reborn?",
@@ -151,22 +171,26 @@
     "FFXIV",
     "XIV",
     "14"
-   ]
+   ],
+   "apic": "Final Fantasy XIV"
   },
   {
    "q": "Which fiery summon appears in most Final Fantasy games?",
    "a": "Ifrit",
-   "p": 200
+   "p": 200,
+   "apic": "Ifrit"
   },
   {
    "q": "Which ice summon usually appears as a blue-skinned woman?",
    "a": "Shiva",
-   "p": 200
+   "p": 200,
+   "apic": "Shiva"
   },
   {
    "q": "Which mighty dragon is one of the most powerful recurring summons?",
    "a": "Bahamut",
-   "p": 200
+   "p": 200,
+   "apic": "Bahamut"
   },
   {
    "q": "What is the main currency in Final Fantasy games?",
@@ -181,12 +205,14 @@
   {
    "q": "Which company was formed when Square merged with Enix in 2003?",
    "a": "Square Enix",
-   "p": 200
+   "p": 200,
+   "apic": "Square Enix"
   },
   {
    "q": "Which Kingdom Hearts hero wields the Keyblade?",
    "a": "Sora",
-   "p": 200
+   "p": 200,
+   "apic": "Sora (Kingdom Hearts)"
   },
   {
    "q": "What key-shaped weapon does Sora wield?",
@@ -194,7 +220,8 @@
    "p": 200,
    "alt": [
     "The Keyblade"
-   ]
+   ],
+   "pic": "Sora (Kingdom Hearts)"
   },
   {
    "q": "Which two Disney characters travel with Sora in Kingdom Hearts?",
@@ -203,7 +230,9 @@
    "alt": [
     "Donald and Goofy",
     "Goofy and Donald"
-   ]
+   ],
+   "pic": "Sora (Kingdom Hearts)",
+   "apic": "Donald Duck"
   },
   {
    "q": "Which pink-haired soldier is the heroine of Final Fantasy XIII?",
@@ -211,7 +240,8 @@
    "p": 200,
    "alt": [
     "Claire Farron"
-   ]
+   ],
+   "apic": "Lightning (Final Fantasy)"
   },
   {
    "q": "Which FFVII character is a talking red lion-like beast with a flaming tail?",
@@ -220,7 +250,8 @@
    "alt": [
     "Nanaki",
     "Red 13"
-   ]
+   ],
+   "apic": "Red XIII"
   },
   {
    "q": "Which ninja girl from Wutai steals Materia in Final Fantasy VII?",
@@ -228,7 +259,8 @@
    "p": 200,
    "alt": [
     "Yuffie"
-   ]
+   ],
+   "apic": "Yuffie Kisaragi"
   },
   {
    "q": "Which caped gunman sleeps in a coffin in Final Fantasy VII?",
@@ -236,7 +268,8 @@
    "p": 200,
    "alt": [
     "Vincent"
-   ]
+   ],
+   "apic": "Vincent Valentine"
   },
   {
    "q": "What is the name of the special attack that fills up as characters take damage in FFVII?",
@@ -252,7 +285,9 @@
    "p": 200,
    "alt": [
     "Rinoa"
-   ]
+   ],
+   "pic": "Squall Leonhart",
+   "apic": "Rinoa Heartilly"
   },
   {
    "q": "What is the name of the car the heroes drive in Final Fantasy XV?",
@@ -289,7 +324,9 @@
    "p": 200,
    "alt": [
     "Nomura"
-   ]
+   ],
+   "pic": "Cloud Strife",
+   "apic": "Tetsuya Nomura"
   },
   {
    "q": "What colossal monster terrorises Spira in Final Fantasy X?",
@@ -302,12 +339,14 @@
    "p": 200,
    "alt": [
     "Advent Children"
-   ]
+   ],
+   "apic": "Final Fantasy VII: Advent Children"
   },
   {
    "q": "Which Final Fantasy VII character joined Super Smash Bros. as a DLC fighter in 2020, after Cloud?",
    "a": "Sephiroth",
-   "p": 200
+   "p": 200,
+   "apic": "Sephiroth"
   },
   {
    "q": "Which Final Fantasy series of fighting games pits heroes against villains from across the franchise?",
@@ -315,12 +354,14 @@
    "p": 200,
    "alt": [
     "Dissidia Final Fantasy"
-   ]
+   ],
+   "apic": "Dissidia Final Fantasy"
   },
   {
    "q": "Which Final Fantasy summon is a one-eyed knight on a six-legged horse?",
    "a": "Odin",
-   "p": 200
+   "p": 200,
+   "apic": "Odin"
   },
   {
    "q": "What does the ATB in Final Fantasy's ATB system stand for?",
@@ -330,12 +371,14 @@
   {
    "q": "Which FFX guardian is a grizzled swordsman in a red coat?",
    "a": "Auron",
-   "p": 200
+   "p": 200,
+   "pic": "Yuna (Final Fantasy)"
   },
   {
    "q": "Which blitzball player with a ginger quiff is one of Yuna's guardians?",
    "a": "Wakka",
-   "p": 200
+   "p": 200,
+   "pic": "Yuna (Final Fantasy)"
   },
   {
    "q": "What is the name of Final Fantasy XV's camera-loving friend of Noctis?",
@@ -343,22 +386,27 @@
    "p": 200,
    "alt": [
     "Prompto"
-   ]
+   ],
+   "pic": "Noctis Lucis Caelum"
   },
   {
    "q": "What is the name of Sephiroth's choral boss theme in Final Fantasy VII?",
    "a": "One-Winged Angel",
-   "p": 200
+   "p": 200,
+   "pic": "Sephiroth"
   },
   {
    "q": "Which Kingdom Hearts character is Sora's silver-haired best friend?",
    "a": "Riku",
-   "p": 200
+   "p": 200,
+   "pic": "Sora (Kingdom Hearts)",
+   "apic": "Riku (Kingdom Hearts)"
   },
   {
    "q": "Which blue-skinned, water-serpent summon floods the field?",
    "a": "Leviathan",
-   "p": 200
+   "p": 200,
+   "apic": "Leviathan"
   },
   {
    "q": "What job class wears a pointed hat and casts offensive spells like Fire and Blizzard?",
@@ -384,7 +432,8 @@
    "p": 200,
    "alt": [
     "Zack"
-   ]
+   ],
+   "apic": "Zack Fair"
   },
   {
    "q": "What is the name of Shinra's elite warrior unit that Sephiroth belonged to?",
@@ -397,17 +446,21 @@
   {
    "q": "What gun-and-sword hybrid weapon do Squall and Seifer use?",
    "a": "Gunblade",
-   "p": 200
+   "p": 200,
+   "pic": "Squall Leonhart",
+   "apic": "Gunblade"
   },
   {
    "q": "In which year was Final Fantasy XVI released?",
    "a": "2023",
-   "p": 200
+   "p": 200,
+   "pic": "Final Fantasy XVI"
   },
   {
    "q": "Which earth giant summon smashes the ground?",
    "a": "Titan",
-   "p": 200
+   "p": 200,
+   "apic": "Titan (mythology)"
   },
   {
    "q": "Which Disney king sends Donald and Goofy on their quest in Kingdom Hearts?",
@@ -416,7 +469,9 @@
    "alt": [
     "Mickey Mouse",
     "Mickey"
-   ]
+   ],
+   "pic": "Donald Duck",
+   "apic": "Mickey Mouse"
   },
   {
    "q": "What is the name of the shadowy creatures Sora fights in Kingdom Hearts?",
@@ -429,7 +484,9 @@
   {
    "q": "Which Kingdom Hearts heroine is Sora's red-haired friend?",
    "a": "Kairi",
-   "p": 200
+   "p": 200,
+   "pic": "Sora (Kingdom Hearts)",
+   "apic": "Kairi"
   },
   {
    "q": "Which numbered Final Fantasy was the first released on PlayStation 2?",
@@ -439,7 +496,8 @@
     "X",
     "FFX",
     "10"
-   ]
+   ],
+   "apic": "Final Fantasy X"
   },
   {
    "q": "Which numbered Final Fantasy was the first on the original PlayStation?",
@@ -449,7 +507,8 @@
     "VII",
     "FF7",
     "7"
-   ]
+   ],
+   "apic": "Final Fantasy VII"
   },
   {
    "q": "Which mainline Final Fantasy was released in 2016?",
@@ -459,7 +518,8 @@
     "XV",
     "FF15",
     "15"
-   ]
+   ],
+   "apic": "Final Fantasy XV"
   },
   {
    "q": "Which Final Fantasy X Al Bhed girl is Yuna's cousin?",
@@ -473,12 +533,14 @@
    "alt": [
     "KH3",
     "Kingdom Hearts 3"
-   ]
+   ],
+   "apic": "Kingdom Hearts III"
   },
   {
    "q": "What colour are chocobos usually?",
    "a": "Yellow",
-   "p": 200
+   "p": 200,
+   "pic": "Chocobo"
   },
   {
    "q": "What is the most basic healing item in Final Fantasy?",
@@ -514,7 +576,9 @@
    "p": 200,
    "alt": [
     "PS4"
-   ]
+   ],
+   "pic": "Final Fantasy VII Remake",
+   "apic": "PlayStation 4"
   },
   {
    "q": "On which console was Final Fantasy XVI a timed exclusive?",
@@ -522,7 +586,9 @@
    "p": 200,
    "alt": [
     "PS5"
-   ]
+   ],
+   "pic": "Final Fantasy XVI",
+   "apic": "PlayStation 5"
   },
   {
    "q": "What colour is Cloud Strife's spiky hair?",
@@ -530,12 +596,14 @@
    "p": 200,
    "alt": [
     "Blonde"
-   ]
+   ],
+   "pic": "Cloud Strife"
   },
   {
    "q": "Which giant horned purple beast is a recurring tough Final Fantasy monster?",
    "a": "Behemoth",
-   "p": 200
+   "p": 200,
+   "apic": "Behemoth"
   },
   {
    "q": "In Final Fantasy, which colour of mage specialises in healing?",
@@ -548,7 +616,8 @@
   {
    "q": "What does Aerith sell on the streets of Midgar?",
    "a": "Flowers",
-   "p": 200
+   "p": 200,
+   "pic": "Aerith Gainsborough"
   },
   {
    "q": "Which basic lightning spell upgrades to Thundara and Thundaga?",
@@ -573,7 +642,9 @@
     "XIII",
     "FF13",
     "13"
-   ]
+   ],
+   "pic": "Lightning (Final Fantasy)",
+   "apic": "Final Fantasy XIII"
   },
   {
    "q": "In which numbered Final Fantasy is Zidane the hero?",
@@ -583,12 +654,15 @@
     "IX",
     "FF9",
     "9"
-   ]
+   ],
+   "pic": "Zidane Tribal",
+   "apic": "Final Fantasy IX"
   },
   {
    "q": "Which reborn firebird is a recurring healing summon?",
    "a": "Phoenix",
-   "p": 200
+   "p": 200,
+   "apic": "Phoenix (mythology)"
   },
   {
    "q": "What does Tifa mainly fight with?",
@@ -598,7 +672,8 @@
     "Fists",
     "Gloves",
     "Martial arts"
-   ]
+   ],
+   "pic": "Tifa Lockhart"
   },
   {
    "q": "Which Final Fantasy VII hero appears in Kingdom Hearts at the Olympus Coliseum?",
@@ -606,7 +681,8 @@
    "p": 200,
    "alt": [
     "Cloud"
-   ]
+   ],
+   "apic": "Cloud Strife"
   },
   {
    "q": "What genre is the mainline Final Fantasy series?",
@@ -623,7 +699,8 @@
    "p": 200,
    "alt": [
     "Airships"
-   ]
+   ],
+   "apic": "Airship"
   },
   {
    "q": "Besides white magic, what colour of magic is used for attack spells?",
@@ -698,7 +775,8 @@
   {
    "q": "What is the name of the world of Final Fantasy X?",
    "a": "Spira",
-   "p": 400
+   "p": 400,
+   "pic": "Final Fantasy X"
   },
   {
    "q": "What is the name of the hero of Final Fantasy XVI's younger brother?",
@@ -711,7 +789,8 @@
   {
    "q": "What is the name of Sephiroth's long katana?",
    "a": "Masamune",
-   "p": 400
+   "p": 400,
+   "pic": "Sephiroth"
   },
   {
    "q": "What are the four elemental objects the Warriors of Light seek to restore in the first Final Fantasy?",
@@ -771,7 +850,8 @@
   {
    "q": "What is Red XIII's real name?",
    "a": "Nanaki",
-   "p": 400
+   "p": 400,
+   "pic": "Red XIII"
   },
   {
    "q": "Which ancient race is Aerith the last surviving member of?",
@@ -785,7 +865,8 @@
   {
    "q": "What is the name of Yuffie's homeland?",
    "a": "Wutai",
-   "p": 400
+   "p": 400,
+   "pic": "Yuffie Kisaragi"
   },
   {
    "q": "Who is Squall's scarred rival in Final Fantasy VIII?",
@@ -793,7 +874,8 @@
    "p": 400,
    "alt": [
     "Seifer"
-   ]
+   ],
+   "pic": "Squall Leonhart"
   },
   {
    "q": "Which collectible card game is a hugely popular minigame in Final Fantasy VIII?",
@@ -873,7 +955,8 @@
    "alt": [
     "X-2",
     "FFX-2"
-   ]
+   ],
+   "apic": "Final Fantasy X-2"
   },
   {
    "q": "Which treasure-hunting people speak their own language in Final Fantasy X?",
@@ -1010,7 +1093,8 @@
     "IV",
     "FF4",
     "4"
-   ]
+   ],
+   "apic": "Final Fantasy IV"
   },
   {
    "q": "Which numbered Final Fantasy was the first released online as an MMORPG?",
@@ -1020,7 +1104,8 @@
     "XI",
     "FF11",
     "11"
-   ]
+   ],
+   "apic": "Final Fantasy XI"
   },
   {
    "q": "Which artist painted the series' logos and early character designs?",
@@ -1028,7 +1113,8 @@
    "p": 400,
    "alt": [
     "Amano"
-   ]
+   ],
+   "apic": "Yoshitaka Amano"
   },
   {
    "q": "Which 2001 CGI film was Square's first Final Fantasy movie?",
@@ -1036,7 +1122,8 @@
    "p": 400,
    "alt": [
     "The Spirits Within"
-   ]
+   ],
+   "apic": "Final Fantasy: The Spirits Within"
   },
   {
    "q": "Which 1997 strategy RPG stars Ramza Beoulve?",
@@ -1044,7 +1131,8 @@
    "p": 400,
    "alt": [
     "Tactics"
-   ]
+   ],
+   "apic": "Final Fantasy Tactics"
   },
   {
    "q": "Which elderly lightning summon has a long white beard?",
@@ -1054,7 +1142,8 @@
   {
    "q": "Which three-headed dog summon appears in Final Fantasy VIII?",
    "a": "Cerberus",
-   "p": 400
+   "p": 400,
+   "apic": "Cerberus"
   },
   {
    "q": "Which foul-breathed plant monster inflicts many status ailments?",
@@ -1078,7 +1167,8 @@
    "p": 400,
    "alt": [
     "Destiny Island"
-   ]
+   ],
+   "pic": "Sora (Kingdom Hearts)"
   },
   {
    "q": "Which Final Fantasy VII city slum is home to Aerith's church?",
@@ -1128,7 +1218,8 @@
    "p": 400,
    "alt": [
     "Theatrhythm Final Fantasy"
-   ]
+   ],
+   "apic": "Theatrhythm Final Fantasy"
   },
   {
    "q": "Which mainline Final Fantasy launched on PS3 and Xbox 360 in 2010 in the West?",
@@ -1138,7 +1229,8 @@
     "XIII",
     "FF13",
     "13"
-   ]
+   ],
+   "apic": "Final Fantasy XIII"
   },
   {
    "q": "Who is Lightning's younger sister in Final Fantasy XIII?",
@@ -1146,7 +1238,8 @@
    "p": 400,
    "alt": [
     "Serah"
-   ]
+   ],
+   "pic": "Lightning (Final Fantasy)"
   },
   {
    "q": "Who produces and directs Final Fantasy XIV and produced Final Fantasy XVI?",
@@ -1155,7 +1248,8 @@
    "alt": [
     "Yoshi-P",
     "Yoshida"
-   ]
+   ],
+   "apic": "Naoki Yoshida"
   },
   {
    "q": "What is the name of Squall's teacher at Balamb Garden?",
@@ -1273,7 +1367,9 @@
   {
    "q": "Which Kingdom Hearts character is Sora's Nobody?",
    "a": "Roxas",
-   "p": 400
+   "p": 400,
+   "pic": "Sora (Kingdom Hearts)",
+   "apic": "Roxas (Kingdom Hearts)"
   },
   {
    "q": "How many wings does Sephiroth sprout in his iconic later appearances?",
@@ -1281,7 +1377,8 @@
    "p": 400,
    "alt": [
     "1"
-   ]
+   ],
+   "pic": "Sephiroth"
   },
   {
    "q": "Which Japanese singer performed Kingdom Hearts' theme \"Simple and Clean\"?",
@@ -1290,7 +1387,9 @@
    "alt": [
     "Utada Hikaru",
     "Utada"
-   ]
+   ],
+   "pic": "Kingdom Hearts (video game)",
+   "apic": "Hikaru Utada"
   },
   {
    "q": "Which spell typically revives a fallen ally in Final Fantasy, alongside the Phoenix Down?",
@@ -1326,7 +1425,9 @@
   {
    "q": "Which Chinese pop star sang Final Fantasy VIII's ballad \"Eyes on Me\"?",
    "a": "Faye Wong",
-   "p": 400
+   "p": 400,
+   "pic": "Final Fantasy VIII",
+   "apic": "Faye Wong"
   },
   {
    "q": "In Final Fantasy VII, which colour of Materia holds magic spells?",
@@ -1375,7 +1476,8 @@
     "Wizard",
     "Royal magician",
     "Court magician"
-   ]
+   ],
+   "pic": "Donald Duck"
   },
   {
    "q": "Which Disney cricket keeps Sora's journal in Kingdom Hearts?",
@@ -1383,7 +1485,8 @@
    "p": 400,
    "alt": [
     "Jiminy"
-   ]
+   ],
+   "apic": "Jiminy Cricket"
   },
   {
    "q": "Which harp arpeggio piece opens many Final Fantasy games?",
@@ -1445,7 +1548,8 @@
    "p": 400,
    "alt": [
     "Hope"
-   ]
+   ],
+   "pic": "Final Fantasy XIII"
   },
   {
    "q": "Which mechanic runs the garage at Hammerhead in Final Fantasy XV?",
@@ -1466,7 +1570,8 @@
    "p": 400,
    "alt": [
     "Lightning Returns"
-   ]
+   ],
+   "apic": "Lightning Returns: Final Fantasy XIII"
   },
   {
    "q": "Who is the main villain of the first Final Fantasy?",
@@ -1550,7 +1655,8 @@
    "p": 600,
    "alt": [
     "Kingsglaive: Final Fantasy XV"
-   ]
+   ],
+   "apic": "Kingsglaive: Final Fantasy XV"
   },
   {
    "q": "Who directed Final Fantasy XVI?",
@@ -1574,7 +1680,8 @@
    "p": 600,
    "alt": [
     "Crystal Chronicles"
-   ]
+   ],
+   "apic": "Final Fantasy Crystal Chronicles"
   },
   {
    "q": "Who composed the music of Final Fantasy XVI?",
@@ -1582,7 +1689,8 @@
    "p": 600,
    "alt": [
     "Soken"
-   ]
+   ],
+   "apic": "Masayoshi Soken"
   },
   {
    "q": "Which company released the Kingdom Hearts series in partnership with Square?",
@@ -1590,7 +1698,8 @@
    "p": 600,
    "alt": [
     "The Walt Disney Company"
-   ]
+   ],
+   "apic": "The Walt Disney Company"
   },
   {
    "q": "Which numbered Final Fantasy introduced the job system?",
@@ -1600,7 +1709,8 @@
     "III",
     "FF3",
     "3"
-   ]
+   ],
+   "apic": "Final Fantasy III"
   },
   {
    "q": "Which numbered Final Fantasy was the first to feature chocobos?",
@@ -1610,7 +1720,8 @@
     "II",
     "FF2",
     "2"
-   ]
+   ],
+   "apic": "Final Fantasy II"
   },
   {
    "q": "In which island village does Cloud wash up with Mako poisoning in Final Fantasy VII?",
@@ -1736,17 +1847,20 @@
   {
    "q": "Which FFXIV expansion released in 2019 is set in the First?",
    "a": "Shadowbringers",
-   "p": 600
+   "p": 600,
+   "apic": "Final Fantasy XIV: Shadowbringers"
   },
   {
    "q": "Which FFXIV expansion concluded the original Hydaelyn and Zodiark saga in 2021?",
    "a": "Endwalker",
-   "p": 600
+   "p": 600,
+   "apic": "Final Fantasy XIV: Endwalker"
   },
   {
    "q": "What was the name of Final Fantasy XIV's 2013 relaunch?",
    "a": "A Realm Reborn",
-   "p": 600
+   "p": 600,
+   "apic": "Final Fantasy XIV"
   },
   {
    "q": "Who is the emperor of the magic-draining Empire in Final Fantasy VI?",
@@ -1811,7 +1925,8 @@
    "p": 600,
    "alt": [
     "FF3"
-   ]
+   ],
+   "apic": "Final Fantasy III"
   },
   {
    "q": "Which three silver-haired Remnants of Sephiroth appear in Advent Children?",
@@ -1827,7 +1942,8 @@
    "p": 600,
    "alt": [
     "Stranger of Paradise"
-   ]
+   ],
+   "apic": "Stranger of Paradise: Final Fantasy Origin"
   },
   {
    "q": "Which Final Fantasy spin-off follows the students of Class Zero?",
@@ -1835,7 +1951,8 @@
    "p": 600,
    "alt": [
     "Type-0"
-   ]
+   ],
+   "apic": "Final Fantasy Type-0"
   },
   {
    "q": "Which GBA Tactics game stars the boy Marche?",
@@ -1843,7 +1960,8 @@
    "p": 600,
    "alt": [
     "Tactics Advance"
-   ]
+   ],
+   "apic": "Final Fantasy Tactics Advance"
   },
   {
    "q": "Under what name was Square's Game Boy RPG SaGa first released in the West?",
@@ -1851,7 +1969,8 @@
    "p": 600,
    "alt": [
     "Final Fantasy Legend"
-   ]
+   ],
+   "apic": "The Final Fantasy Legend"
   },
   {
    "q": "Which card-based Kingdom Hearts game came out on Game Boy Advance?",
@@ -1859,7 +1978,8 @@
    "p": 600,
    "alt": [
     "Chain of Memories"
-   ]
+   ],
+   "apic": "Kingdom Hearts: Chain of Memories"
   },
   {
    "q": "Which Kingdom Hearts prequel stars Terra, Aqua and Ventus?",
@@ -1867,7 +1987,8 @@
    "p": 600,
    "alt": [
     "Birth by Sleep"
-   ]
+   ],
+   "apic": "Kingdom Hearts Birth by Sleep"
   },
   {
    "q": "What is the name of Sora's default starting Keyblade?",
@@ -1877,12 +1998,15 @@
   {
    "q": "Which studio did Hironobu Sakaguchi found after leaving Square?",
    "a": "Mistwalker",
-   "p": 600
+   "p": 600,
+   "pic": "Hironobu Sakaguchi",
+   "apic": "Mistwalker"
   },
   {
    "q": "Which 2007 Xbox 360 RPG by Mistwalker features immortal hero Kaim?",
    "a": "Lost Odyssey",
-   "p": 600
+   "p": 600,
+   "apic": "Lost Odyssey"
   },
   {
    "q": "Which rock band did Nobuo Uematsu form to play Final Fantasy music?",
@@ -1890,7 +2014,9 @@
    "p": 600,
    "alt": [
     "Black Mages"
-   ]
+   ],
+   "pic": "Nobuo Uematsu",
+   "apic": "The Black Mages"
   },
   {
    "q": "Which Square designer is credited with creating the Active Time Battle system?",
@@ -1906,7 +2032,8 @@
    "p": 600,
    "alt": [
     "Kitase"
-   ]
+   ],
+   "apic": "Yoshinori Kitase"
   },
   {
    "q": "Who is the final boss of Final Fantasy IV, lurking on the moon?",
@@ -2115,7 +2242,8 @@
   {
    "q": "Which Final Fantasy XIV expansion released in 2024 is set in Tural?",
    "a": "Dawntrail",
-   "p": 600
+   "p": 600,
+   "apic": "Final Fantasy XIV: Dawntrail"
   },
   {
    "q": "What is the name of the world of Final Fantasy XI?",
@@ -2128,7 +2256,9 @@
   {
    "q": "What is the name of Odin's six-legged horse?",
    "a": "Sleipnir",
-   "p": 600
+   "p": 600,
+   "pic": "Odin",
+   "apic": "Sleipnir"
   },
   {
    "q": "Which floating eye monster recurs throughout Final Fantasy?",

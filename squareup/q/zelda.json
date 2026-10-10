@@ -5,7 +5,8 @@
   {
    "q": "Who is the main playable hero of the series?",
    "a": "Link",
-   "p": 200
+   "p": 200,
+   "apic": "Link (The Legend of Zelda)"
   },
   {
    "q": "Which princess gives the series its name?",
@@ -13,7 +14,8 @@
    "p": 200,
    "alt": [
     "Princess Zelda"
-   ]
+   ],
+   "apic": "Princess Zelda"
   },
   {
    "q": "Which Gerudo king is the series' main villain?",
@@ -21,12 +23,14 @@
    "p": 200,
    "alt": [
     "Ganon"
-   ]
+   ],
+   "apic": "Ganon"
   },
   {
    "q": "What is the name of the kingdom where most games are set?",
    "a": "Hyrule",
-   "p": 200
+   "p": 200,
+   "apic": "Hyrule"
   },
   {
    "q": "What golden relic made of three triangles grants wishes?",
@@ -34,7 +38,8 @@
    "p": 200,
    "alt": [
     "The Triforce"
-   ]
+   ],
+   "apic": "Triforce"
   },
   {
    "q": "What legendary blade is known as the 'Blade of Evil's Bane'?",
@@ -42,12 +47,14 @@
    "p": 200,
    "alt": [
     "The Master Sword"
-   ]
+   ],
+   "apic": "Master Sword"
   },
   {
    "q": "Which company makes the Zelda games?",
    "a": "Nintendo",
-   "p": 200
+   "p": 200,
+   "apic": "Nintendo"
   },
   {
    "q": "Which 2017 open-world Zelda launched alongside the Nintendo Switch?",
@@ -56,7 +63,8 @@
    "alt": [
     "BOTW",
     "The Legend of Zelda: Breath of the Wild"
-   ]
+   ],
+   "apic": "The Legend of Zelda: Breath of the Wild"
   },
   {
    "q": "Which 2023 game is the direct sequel to Breath of the Wild?",
@@ -64,12 +72,14 @@
    "p": 200,
    "alt": [
     "TOTK"
-   ]
+   ],
+   "apic": "The Legend of Zelda: Tears of the Kingdom"
   },
   {
    "q": "What is the name of the fairy who guides Link in Ocarina of Time?",
    "a": "Navi",
-   "p": 200
+   "p": 200,
+   "apic": "Navi (The Legend of Zelda)"
   },
   {
    "q": "What is the name of Link's trusty horse?",
@@ -100,7 +110,8 @@
    "p": 200,
    "alt": [
     "Miyamoto"
-   ]
+   ],
+   "apic": "Shigeru Miyamoto"
   },
   {
    "q": "Which GameCube Zelda used a cel-shaded cartoon look and lots of sailing?",
@@ -108,7 +119,8 @@
    "p": 200,
    "alt": [
     "Wind Waker"
-   ]
+   ],
+   "apic": "The Legend of Zelda: The Wind Waker"
   },
   {
    "q": "In which game does Link transform into a wolf?",
@@ -116,7 +128,8 @@
    "p": 200,
    "alt": [
     "The Twilight Princess"
-   ]
+   ],
+   "apic": "The Legend of Zelda: Twilight Princess"
   },
   {
    "q": "Which N64 sequel has a moon about to crash down in three days?",
@@ -124,7 +137,8 @@
    "p": 200,
    "alt": [
     "The Legend of Zelda: Majora's Mask"
-   ]
+   ],
+   "apic": "The Legend of Zelda: Majora's Mask"
   },
   {
    "q": "Which chickens attack Link in swarms if he keeps hitting them?",
@@ -154,7 +168,8 @@
   {
    "q": "Which virtue is represented by Link's piece of the Triforce?",
    "a": "Courage",
-   "p": 200
+   "p": 200,
+   "pic": "Triforce"
   },
   {
    "q": "Which N64 Zelda game lets Link travel between childhood and adulthood?",
@@ -162,7 +177,8 @@
    "p": 200,
    "alt": [
     "OoT"
-   ]
+   ],
+   "apic": "The Legend of Zelda: Ocarina of Time"
   },
   {
    "q": "What ranged weapon does Link use to fire arrows?",
@@ -170,7 +186,8 @@
    "p": 200,
    "alt": [
     "Bow and arrow"
-   ]
+   ],
+   "apic": "Bow and arrow"
   },
   {
    "q": "Which small winged helpers can revive Link when he falls?",
@@ -183,7 +200,8 @@
   {
    "q": "Which wind instrument does Link play to learn songs like Zelda's Lullaby?",
    "a": "Ocarina",
-   "p": 200
+   "p": 200,
+   "apic": "Ocarina"
   },
   {
    "q": "On which Nintendo home console did the very first Zelda game appear?",
@@ -192,7 +210,8 @@
    "alt": [
     "Nintendo Entertainment System",
     "Famicom"
-   ]
+   ],
+   "apic": "Nintendo Entertainment System"
   },
   {
    "q": "Which explosive items does Link use to open cracked cave walls?",
@@ -200,7 +219,8 @@
    "p": 200,
    "alt": [
     "Bomb"
-   ]
+   ],
+   "apic": "Bomb"
   },
   {
    "q": "What do you smash to find hearts and rupees in many Zelda games?",
@@ -225,7 +245,8 @@
    "p": 200,
    "alt": [
     "N64"
-   ]
+   ],
+   "apic": "Nintendo 64"
   },
   {
    "q": "Miyamoto also created which plumber-hero franchise?",
@@ -233,7 +254,8 @@
    "p": 200,
    "alt": [
     "Mario"
-   ]
+   ],
+   "apic": "Super Mario"
   },
   {
    "q": "What do you do at campfires in Breath of the Wild to make meals that restore hearts?",
@@ -246,27 +268,32 @@
   {
    "q": "What does Link raise to block incoming attacks?",
    "a": "Shield",
-   "p": 200
+   "p": 200,
+   "apic": "Shield"
   },
   {
    "q": "What is Link's main weapon, alongside his shield?",
    "a": "Sword",
-   "p": 200
+   "p": 200,
+   "apic": "Sword"
   },
   {
    "q": "Which curved weapon returns to Link's hand after he throws it?",
    "a": "Boomerang",
-   "p": 200
+   "p": 200,
+   "apic": "Boomerang"
   },
   {
    "q": "In which year was Ocarina of Time released?",
    "a": "1998",
-   "p": 400
+   "p": 400,
+   "pic": "The Legend of Zelda: Ocarina of Time"
   },
   {
    "q": "In which year did the original Legend of Zelda debut in Japan?",
    "a": "1986",
-   "p": 400
+   "p": 400,
+   "pic": "The Legend of Zelda (video game)"
   },
   {
    "q": "Which composer wrote the series' main theme?",
@@ -274,7 +301,8 @@
    "p": 400,
    "alt": [
     "Kondo"
-   ]
+   ],
+   "apic": "Koji Kondo"
   },
   {
    "q": "What is the name of the spirit companion who guides Link in Skyward Sword?",
@@ -284,7 +312,8 @@
   {
    "q": "Who is the imp-like companion who rides with Link in Twilight Princess?",
    "a": "Midna",
-   "p": 400
+   "p": 400,
+   "apic": "Midna"
   },
   {
    "q": "What tablet-like device does Link use in Breath of the Wild to scan and map?",
@@ -302,7 +331,8 @@
     "SNES",
     "Super NES",
     "Super Famicom"
-   ]
+   ],
+   "apic": "Super Nintendo Entertainment System"
   },
   {
    "q": "Which handheld hosted the original Link's Awakening in 1993?",
@@ -310,7 +340,8 @@
    "p": 400,
    "alt": [
     "Gameboy"
-   ]
+   ],
+   "apic": "Game Boy"
   },
   {
    "q": "On which island does Link's Awakening take place?",
@@ -318,12 +349,15 @@
    "p": 400,
    "alt": [
     "Koholint"
-   ]
+   ],
+   "pic": "The Legend of Zelda: Link's Awakening"
   },
   {
    "q": "Which virtue does Princess Zelda's Triforce piece represent?",
    "a": "Wisdom",
-   "p": 400
+   "p": 400,
+   "pic": "Triforce",
+   "apic": "Princess Zelda"
   },
   {
    "q": "Which desert-dwelling tribe is Ganondorf born into?",
@@ -349,7 +383,8 @@
   {
    "q": "Which eccentric map seller in green tights dreams of being a fairy?",
    "a": "Tingle",
-   "p": 400
+   "p": 400,
+   "apic": "Tingle (character)"
   },
   {
    "q": "What is the name of Zelda's disguise in Ocarina of Time?",
@@ -371,7 +406,8 @@
    "alt": [
     "Fitzgerald",
     "Scott Fitzgerald"
-   ]
+   ],
+   "apic": "F. Scott Fitzgerald"
   },
   {
    "q": "Which village in Ocarina of Time contains a graveyard and Impa's house?",
@@ -434,7 +470,8 @@
    "p": 400,
    "alt": [
     "Zelda: Echoes of Wisdom"
-   ]
+   ],
+   "apic": "The Legend of Zelda: Echoes of Wisdom"
   },
   {
    "q": "Which Nintendo console hosted The Wind Waker?",
@@ -442,7 +479,8 @@
    "p": 400,
    "alt": [
     "Nintendo GameCube"
-   ]
+   ],
+   "apic": "GameCube"
   },
   {
    "q": "What title is given to the Link of Ocarina of Time?",
@@ -466,7 +504,8 @@
    "p": 400,
    "alt": [
     "Nintendo Wii"
-   ]
+   ],
+   "apic": "Wii"
   },
   {
    "q": "What is the name of the vast ocean explored in The Wind Waker?",
@@ -484,7 +523,8 @@
     "Zelda II",
     "The Adventure of Link",
     "Adventure of Link"
-   ]
+   ],
+   "apic": "Zelda II: The Adventure of Link"
   },
   {
    "q": "Which Triforce piece does Ganondorf bear?",
@@ -492,7 +532,9 @@
    "p": 400,
    "alt": [
     "Triforce of Power"
-   ]
+   ],
+   "pic": "Triforce",
+   "apic": "Ganon"
   },
   {
    "q": "What is the name of the town at the centre of Majora's Mask?",
@@ -510,7 +552,8 @@
    "p": 400,
    "alt": [
     "The Dark World"
-   ]
+   ],
+   "pic": "The Legend of Zelda: A Link to the Past"
   },
   {
    "q": "Alongside Miyamoto, which designer co-created the original Zelda?",
@@ -518,7 +561,8 @@
    "p": 600,
    "alt": [
     "Tezuka"
-   ]
+   ],
+   "apic": "Takashi Tezuka"
   },
   {
    "q": "Which mask-trading salesman appears in Majora's Mask?",
@@ -552,12 +596,14 @@
   {
    "q": "Hyrule Warriors blends Zelda with which Koei Tecmo action series?",
    "a": "Dynasty Warriors",
-   "p": 600
+   "p": 600,
+   "apic": "Dynasty Warriors"
   },
   {
    "q": "Which Japanese publisher's Flagship studio made Oracle of Seasons and Oracle of Ages?",
    "a": "Capcom",
-   "p": 600
+   "p": 600,
+   "apic": "Capcom"
   },
   {
    "q": "What is the talking hat in The Minish Cap called?",
@@ -595,7 +641,8 @@
   {
    "q": "What is the name of the land in Majora's Mask?",
    "a": "Termina",
-   "p": 600
+   "p": 600,
+   "pic": "The Legend of Zelda: Majora's Mask"
   },
   {
    "q": "Which company's CD-i console hosted Zelda games in the early 1990s?",
@@ -604,7 +651,8 @@
    "alt": [
     "Philips CD-i",
     "CD-i"
-   ]
+   ],
+   "apic": "Philips"
   },
   {
    "q": "Which producer, who co-directed Majora's Mask, has long led the Zelda series?",
@@ -612,7 +660,8 @@
    "p": 600,
    "alt": [
     "Aonuma"
-   ]
+   ],
+   "apic": "Eiji Aonuma"
   },
   {
    "q": "What are the giant flying birds ridden in Skyward Sword called?",
@@ -659,12 +708,14 @@
    "p": 600,
    "alt": [
     "Nintendo Wii U"
-   ]
+   ],
+   "apic": "Wii U"
   },
   {
    "q": "In which year was Majora's Mask released?",
    "a": "2000",
-   "p": 600
+   "p": 600,
+   "pic": "The Legend of Zelda: Majora's Mask"
   },
   {
    "q": "Which Nintendo DS Zelda sees Link travelling by train?",
@@ -672,7 +723,8 @@
    "p": 600,
    "alt": [
     "The Legend of Zelda: Spirit Tracks"
-   ]
+   ],
+   "apic": "The Legend of Zelda: Spirit Tracks"
   },
   {
    "q": "Which shield-eating enemy is a staple of Zelda dungeons?",
@@ -693,12 +745,14 @@
    "p": 600,
    "alt": [
     "Fujibayashi"
-   ]
+   ],
+   "apic": "Hidemaro Fujibayashi"
   },
   {
    "q": "Which studio developed the 2019 Link's Awakening remake?",
    "a": "Grezzo",
-   "p": 600
+   "p": 600,
+   "apic": "Grezzo"
   },
   {
    "q": "Who is the final villain of Skyward Sword, the origin of Ganon's hatred?",
@@ -724,7 +778,8 @@
    "p": 200,
    "alt": [
     "Legend of Zelda"
-   ]
+   ],
+   "apic": "The Legend of Zelda (video game)"
   },
   {
    "q": "Which hand has Link traditionally used to hold his sword?",
@@ -738,7 +793,8 @@
   {
    "q": "What is the name of Ganondorf's giant boar-like beast form?",
    "a": "Ganon",
-   "p": 200
+   "p": 200,
+   "apic": "Ganon"
   },
   {
    "q": "Which small horned goblin enemies are the most common foes in Breath of the Wild?",
@@ -801,7 +857,8 @@
    "p": 200,
    "alt": [
     "Switch"
-   ]
+   ],
+   "apic": "Nintendo Switch"
   },
   {
    "q": "What container does Link use to carry potions and fairies?",
@@ -810,7 +867,8 @@
    "alt": [
     "Bottles",
     "Empty Bottle"
-   ]
+   ],
+   "apic": "Bottle"
   },
   {
    "q": "What is Link's whirling sword move called?",
@@ -835,7 +893,8 @@
    "p": 200,
    "alt": [
     "The Skull Kid"
-   ]
+   ],
+   "apic": "Skull Kid"
   },
   {
    "q": "Which Zelda game lets Link turn into a painting and move along walls?",
@@ -843,7 +902,8 @@
    "p": 200,
    "alt": [
     "Link Between Worlds"
-   ]
+   ],
+   "apic": "The Legend of Zelda: A Link Between Worlds"
   },
   {
    "q": "Which Nintendo racing game added Link as a driver in a DLC pack?",
@@ -852,7 +912,8 @@
    "alt": [
     "Mario Kart 8 Deluxe",
     "Mario Kart"
-   ]
+   ],
+   "apic": "Mario Kart 8"
   },
   {
    "q": "What do you call the stone giant enemies that rise from rock piles in Breath of the Wild?",
@@ -870,7 +931,8 @@
    "alt": [
     "One hundred",
     "A hundred"
-   ]
+   ],
+   "pic": "The Legend of Zelda: Breath of the Wild"
   },
   {
    "q": "Which deadly centaur-like monsters are among the toughest foes in Breath of the Wild?",
@@ -946,12 +1008,14 @@
   {
    "q": "Which DS Zelda game, a sequel to The Wind Waker, is controlled with the stylus?",
    "a": "Phantom Hourglass",
-   "p": 200
+   "p": 200,
+   "apic": "The Legend of Zelda: Phantom Hourglass"
   },
   {
    "q": "Which Wii Zelda game used Wii MotionPlus for one-to-one sword swings?",
    "a": "Skyward Sword",
-   "p": 200
+   "p": 200,
+   "apic": "The Legend of Zelda: Skyward Sword"
   },
   {
    "q": "Which pig-faced spear-wielding brutes are larger cousins of Bokoblins?",
@@ -1126,7 +1190,8 @@
    "p": 200,
    "alt": [
     "3DS"
-   ]
+   ],
+   "apic": "Nintendo 3DS"
   },
   {
    "q": "Which 2020 Koei Tecmo spin-off is a prequel to Breath of the Wild?",
@@ -1134,7 +1199,8 @@
    "p": 400,
    "alt": [
     "Age of Calamity"
-   ]
+   ],
+   "apic": "Hyrule Warriors: Age of Calamity"
   },
   {
    "q": "Which Zelda multiplayer game splits Link into four coloured copies?",
@@ -1142,7 +1208,8 @@
    "p": 400,
    "alt": [
     "Four Swords Adventures"
-   ]
+   ],
+   "apic": "The Legend of Zelda: Four Swords Adventures"
   },
   {
    "q": "Which song, taught by Malon, calls Link's horse in Ocarina of Time?",
@@ -1242,7 +1309,8 @@
    "p": 400,
    "alt": [
     "DX"
-   ]
+   ],
+   "apic": "The Legend of Zelda: Link's Awakening"
   },
   {
    "q": "Besides the Switch, which Nintendo console also got Breath of the Wild?",
@@ -1250,7 +1318,8 @@
    "p": 400,
    "alt": [
     "Nintendo Wii U"
-   ]
+   ],
+   "apic": "Wii U"
   },
   {
    "q": "Besides the Wii, which console also got Twilight Princess in 2006?",
@@ -1258,7 +1327,8 @@
    "p": 400,
    "alt": [
     "Nintendo GameCube"
-   ]
+   ],
+   "apic": "GameCube"
   },
   {
    "q": "What colour is Ganondorf's hair?",
@@ -1300,7 +1370,8 @@
   {
    "q": "In which year was Skyward Sword first released?",
    "a": "2011",
-   "p": 400
+   "p": 400,
+   "pic": "The Legend of Zelda: Skyward Sword"
   },
   {
    "q": "Which young Rito, son of Teba, becomes the Sage of Wind in Tears of the Kingdom?",
@@ -1544,17 +1615,20 @@
   {
    "q": "In which year was A Link to the Past first released in Japan?",
    "a": "1991",
-   "p": 600
+   "p": 600,
+   "pic": "The Legend of Zelda: A Link to the Past"
   },
   {
    "q": "In which year was The Wind Waker first released in Japan?",
    "a": "2002",
-   "p": 600
+   "p": 600,
+   "pic": "The Legend of Zelda: The Wind Waker"
   },
   {
    "q": "In which year was Twilight Princess released?",
    "a": "2006",
-   "p": 600
+   "p": 600,
+   "pic": "The Legend of Zelda: Twilight Princess"
   },
   {
    "q": "What feature let the original Legend of Zelda save progress, rare for cartridges of its time?",
@@ -1572,12 +1646,14 @@
    "p": 600,
    "alt": [
     "Triforce Heroes"
-   ]
+   ],
+   "apic": "The Legend of Zelda: Tri Force Heroes"
   },
   {
    "q": "Which 2019 rhythm crossover with Crypt of the NecroDancer is set in Hyrule?",
    "a": "Cadence of Hyrule",
-   "p": 600
+   "p": 600,
+   "apic": "Cadence of Hyrule"
   },
   {
    "q": "Which director was hired to make the live-action Legend of Zelda film?",
@@ -1585,7 +1661,8 @@
    "p": 600,
    "alt": [
     "Ball"
-   ]
+   ],
+   "apic": "Wes Ball"
   },
   {
    "q": "Twilight Princess HD was released in 2016 for which console?",
@@ -1593,7 +1670,8 @@
    "p": 600,
    "alt": [
     "Nintendo Wii U"
-   ]
+   ],
+   "apic": "Wii U"
   },
   {
    "q": "Which Game Boy classic was remade for Switch in 2019 with a toy-like art style?",
@@ -1601,7 +1679,8 @@
    "p": 200,
    "alt": [
     "Links Awakening"
-   ]
+   ],
+   "apic": "The Legend of Zelda: Link's Awakening (2019 video game)"
   },
   {
    "q": "What item opens locked doors inside Zelda dungeons, used up once used?",

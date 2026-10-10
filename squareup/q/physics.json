@@ -33,22 +33,26 @@
   {
    "q": "Which instrument measures electric current?",
    "a": "Ammeter",
-   "p": 200
+   "p": 200,
+   "apic": "Ammeter"
   },
   {
    "q": "Which instrument measures voltage?",
    "a": "Voltmeter",
-   "p": 200
+   "p": 200,
+   "apic": "Voltmeter"
   },
   {
    "q": "Which instrument measures air pressure to help forecast the weather?",
    "a": "Barometer",
-   "p": 200
+   "p": 200,
+   "apic": "Barometer"
   },
   {
    "q": "Which device converts sound into electrical signals?",
    "a": "Microphone",
-   "p": 200
+   "p": 200,
+   "apic": "Microphone"
   },
   {
    "q": "What does a glass prism split white light into?",
@@ -57,7 +61,8 @@
    "alt": [
     "Colours of the rainbow",
     "Colours"
-   ]
+   ],
+   "apic": "Visible spectrum"
   },
   {
    "q": "Which colour of visible light has the longest wavelength?",
@@ -70,7 +75,8 @@
    "p": 200,
    "alt": [
     "Converging lens"
-   ]
+   ],
+   "apic": "Lens"
   },
   {
    "q": "What is the bending of light as it passes from air into water called?",
@@ -85,7 +91,8 @@
   {
    "q": "What loud bang is heard when an aircraft breaks the sound barrier?",
    "a": "Sonic boom",
-   "p": 200
+   "p": 200,
+   "apic": "Sonic boom"
   },
   {
    "q": "Mach 1 is equal to the speed of what?",
@@ -147,22 +154,29 @@
    "p": 200,
    "alt": [
     "Pisa"
-   ]
+   ],
+   "pic": "Galileo Galilei",
+   "apic": "Leaning Tower of Pisa"
   },
   {
    "q": "James Watt made major improvements to which type of engine?",
    "a": "Steam engine",
-   "p": 200
+   "p": 200,
+   "pic": "James Watt",
+   "apic": "Steam engine"
   },
   {
    "q": "Which American inventor developed the phonograph in 1877?",
    "a": "Thomas Edison",
-   "p": 200
+   "p": 200,
+   "pic": "Phonograph",
+   "apic": "Thomas Edison"
   },
   {
    "q": "Which Serbian-American inventor championed alternating current and has a car brand named after him?",
    "a": "Nikola Tesla",
-   "p": 200
+   "p": 200,
+   "apic": "Nikola Tesla"
   },
   {
    "q": "What does AC stand for in electricity?",
@@ -182,17 +196,20 @@
   {
    "q": "Which American statesman is famous for flying a kite in a thunderstorm to study electricity?",
    "a": "Benjamin Franklin",
-   "p": 200
+   "p": 200,
+   "apic": "Benjamin Franklin"
   },
   {
    "q": "Which safety device in a plug melts to break a circuit if too much current flows?",
    "a": "Fuse",
-   "p": 200
+   "p": 200,
+   "apic": "Fuse (electrical)"
   },
   {
    "q": "What does LED stand for?",
    "a": "Light-emitting diode",
-   "p": 200
+   "p": 200,
+   "apic": "Light-emitting diode"
   },
   {
    "q": "Do like poles of two magnets attract or repel?",
@@ -202,17 +219,20 @@
   {
    "q": "Which common metal is strongly attracted to a magnet?",
    "a": "Iron",
-   "p": 200
+   "p": 200,
+   "apic": "Iron"
   },
   {
    "q": "Which navigation tool, first developed in China, uses a magnetised needle?",
    "a": "Compass",
-   "p": 200
+   "p": 200,
+   "apic": "Compass"
   },
   {
    "q": "What is a magnet made by passing electric current through a coil of wire called?",
    "a": "Electromagnet",
-   "p": 200
+   "p": 200,
+   "apic": "Electromagnet"
   },
   {
    "q": "What is the name of Schrodinger's famous thought-experiment animal?",
@@ -220,12 +240,16 @@
    "p": 200,
    "alt": [
     "Cat"
-   ]
+   ],
+   "pic": "Erwin Schrödinger",
+   "apic": "Cat"
   },
   {
    "q": "Which particle, nicknamed the 'God particle', was discovered at CERN in 2012?",
    "a": "Higgs boson",
-   "p": 200
+   "p": 200,
+   "pic": "CERN",
+   "apic": "Higgs boson"
   },
   {
    "q": "What is the splitting of a heavy atomic nucleus, used in nuclear power stations, called?",
@@ -241,12 +265,14 @@
    "p": 200,
    "alt": [
     "Oppenheimer"
-   ]
+   ],
+   "apic": "J. Robert Oppenheimer"
   },
   {
    "q": "Which clicking instrument detects radiation?",
    "a": "Geiger counter",
-   "p": 200
+   "p": 200,
+   "apic": "Geiger counter"
   },
   {
    "q": "What is the time taken for half of a radioactive sample to decay called?",
@@ -264,12 +290,15 @@
    "p": 200,
    "alt": [
     "Upthrust"
-   ]
+   ],
+   "apic": "Buoyancy"
   },
   {
    "q": "A see-saw is an example of which simple machine?",
    "a": "Lever",
-   "p": 200
+   "p": 200,
+   "pic": "Seesaw",
+   "apic": "Lever"
   },
   {
    "q": "How does heat travel along a metal spoon left in hot soup?",
@@ -284,7 +313,8 @@
   {
    "q": "What optical illusion makes a hot desert road look as if it is covered in water?",
    "a": "Mirage",
-   "p": 200
+   "p": 200,
+   "apic": "Mirage"
   },
   {
    "q": "What are the three primary colours of light?",
@@ -312,12 +342,15 @@
   {
    "q": "Which animals famously use echolocation to fly and hunt in the dark?",
    "a": "Bats",
-   "p": 200
+   "p": 200,
+   "apic": "Bat"
   },
   {
    "q": "What system do submarines use to detect objects with pulses of sound?",
    "a": "Sonar",
-   "p": 200
+   "p": 200,
+   "pic": "Submarine",
+   "apic": "Sonar"
   },
   {
    "q": "Which particles flow through a metal wire to make an electric current?",
@@ -335,7 +368,8 @@
    "p": 200,
    "alt": [
     "Dynamo"
-   ]
+   ],
+   "apic": "Electric generator"
   },
   {
    "q": "What device converts electrical energy into movement?",
@@ -343,12 +377,15 @@
    "p": 200,
    "alt": [
     "Motor"
-   ]
+   ],
+   "apic": "Electric motor"
   },
   {
    "q": "What type of power station is Barakah in Abu Dhabi's Al Dhafra region?",
    "a": "Nuclear",
-   "p": 200
+   "p": 200,
+   "pic": "Barakah nuclear power plant",
+   "apic": "Nuclear power plant"
   },
   {
    "q": "What is the distance from one wave crest to the next called?",
@@ -371,7 +408,9 @@
   {
    "q": "Which electromagnetic waves are used in hospitals to see broken bones?",
    "a": "X-rays",
-   "p": 200
+   "p": 200,
+   "pic": "Radiography",
+   "apic": "X-ray"
   },
   {
    "q": "Does water boil at a higher or lower temperature on top of a high mountain?",
@@ -394,7 +433,9 @@
   {
    "q": "Which British physicist wrote 'A Brief History of Time'?",
    "a": "Stephen Hawking",
-   "p": 200
+   "p": 200,
+   "pic": "A Brief History of Time",
+   "apic": "Stephen Hawking"
   },
   {
    "q": "Which Italian scientist was put on trial in 1633 for supporting the idea that Earth orbits the Sun?",
@@ -402,12 +443,14 @@
    "p": 200,
    "alt": [
     "Galileo"
-   ]
+   ],
+   "apic": "Galileo Galilei"
   },
   {
    "q": "Which scientist wrote the 'Principia', setting out the laws of motion in 1687?",
    "a": "Isaac Newton",
-   "p": 200
+   "p": 200,
+   "apic": "Isaac Newton"
   },
   {
    "q": "What is the name of the theory Einstein published in 1905 about space, time and motion?",
@@ -415,7 +458,8 @@
    "p": 200,
    "alt": [
     "Special theory of relativity"
-   ]
+   ],
+   "pic": "Albert Einstein"
   },
   {
    "q": "What is the scientific word for how fast an object's velocity changes?",
@@ -435,7 +479,8 @@
   {
    "q": "What does a thermometer measure?",
    "a": "Temperature",
-   "p": 200
+   "p": 200,
+   "apic": "Thermometer"
   },
   {
    "q": "What is a quantum, or packet, of light called?",
@@ -458,7 +503,8 @@
    "p": 200,
    "alt": [
     "Solar power"
-   ]
+   ],
+   "apic": "Solar panel"
   },
   {
    "q": "Which renewable energy source uses tall turbines with spinning blades?",
@@ -467,12 +513,14 @@
    "alt": [
     "Wind energy",
     "Wind"
-   ]
+   ],
+   "apic": "Wind turbine"
   },
   {
    "q": "Which type of mirror, curving outward, is used on car wing mirrors to give a wide view?",
    "a": "Convex mirror",
-   "p": 200
+   "p": 200,
+   "apic": "Wing mirror"
   },
   {
    "q": "In a circuit, what is the general name for a material that lets electricity flow easily?",
@@ -506,12 +554,15 @@
   {
    "q": "Which American physicist gave his name to diagrams showing particle interactions?",
    "a": "Richard Feynman",
-   "p": 200
+   "p": 200,
+   "pic": "Feynman diagram",
+   "apic": "Richard Feynman"
   },
   {
    "q": "Which part of the electromagnetic spectrum is used to heat food quickly in a kitchen appliance?",
    "a": "Microwaves",
-   "p": 200
+   "p": 200,
+   "apic": "Microwave oven"
   },
   {
    "q": "What is the name for a complete loop that electricity flows around?",
@@ -543,12 +594,14 @@
   {
    "q": "Which circuit component is used to limit the flow of current?",
    "a": "Resistor",
-   "p": 200
+   "p": 200,
+   "apic": "Resistor"
   },
   {
    "q": "Which device switches heating or cooling on and off to keep a set temperature?",
    "a": "Thermostat",
-   "p": 200
+   "p": 200,
+   "apic": "Thermostat"
   },
   {
    "q": "What word describes a material, like clear glass, that lets light pass straight through?",
@@ -591,7 +644,8 @@
    "p": 400,
    "alt": [
     "Seismograph"
-   ]
+   ],
+   "apic": "Seismometer"
   },
   {
    "q": "Which colour of visible light has the shortest wavelength?",
@@ -624,7 +678,8 @@
   {
    "q": "What effect causes an ambulance siren to change pitch as it passes you?",
    "a": "Doppler effect",
-   "p": 400
+   "p": 400,
+   "pic": "Ambulance"
   },
   {
    "q": "Newton's first law of motion is also known as the law of what?",
@@ -653,22 +708,27 @@
   {
    "q": "For which discovery did Einstein receive his Nobel Prize?",
    "a": "Photoelectric effect",
-   "p": 400
+   "p": 400,
+   "pic": "Albert Einstein",
+   "apic": "Photoelectric effect"
   },
   {
    "q": "Which German physicist is considered the father of quantum theory, from his work in 1900?",
    "a": "Max Planck",
-   "p": 400
+   "p": 400,
+   "apic": "Max Planck"
   },
   {
    "q": "Which Danish physicist proposed in 1913 that electrons orbit the nucleus in fixed shells?",
    "a": "Niels Bohr",
-   "p": 400
+   "p": 400,
+   "apic": "Niels Bohr"
   },
   {
    "q": "Which New Zealand-born physicist discovered the atomic nucleus with his gold foil experiment?",
    "a": "Ernest Rutherford",
-   "p": 400
+   "p": 400,
+   "apic": "Ernest Rutherford"
   },
   {
    "q": "How many types, or 'flavours', of quark are there?",
@@ -681,7 +741,9 @@
   {
    "q": "Near which Swiss city is the Large Hadron Collider?",
    "a": "Geneva",
-   "p": 400
+   "p": 400,
+   "pic": "Large Hadron Collider",
+   "apic": "Geneva"
   },
   {
    "q": "What is the antimatter partner of the electron called?",
@@ -708,22 +770,27 @@
    "alt": [
     "Wilhelm Röntgen",
     "Roentgen"
-   ]
+   ],
+   "apic": "Wilhelm Röntgen"
   },
   {
    "q": "Which Italian inventor is credited with pioneering long-distance radio transmission?",
    "a": "Guglielmo Marconi",
-   "p": 400
+   "p": 400,
+   "apic": "Guglielmo Marconi"
   },
   {
    "q": "Which Italian physicist invented the first electric battery, the voltaic pile, in 1800?",
    "a": "Alessandro Volta",
-   "p": 400
+   "p": 400,
+   "pic": "Voltaic pile",
+   "apic": "Alessandro Volta"
   },
   {
    "q": "Which English scientist discovered electromagnetic induction in 1831?",
    "a": "Michael Faraday",
-   "p": 400
+   "p": 400,
+   "apic": "Michael Faraday"
   },
   {
    "q": "By what Latinised name was Ibn al-Haytham known in medieval Europe?",
@@ -763,7 +830,8 @@
    "q": "Which Pakistani physicist shared the 1979 Nobel Prize in Physics for unifying two fundamental forces?",
    "a": "Abdus Salam",
    "p": 400,
-   "ar": "عبد السلام"
+   "ar": "عبد السلام",
+   "apic": "Abdus Salam"
   },
   {
    "q": "In which year did Einstein publish special relativity, his 'miracle year'?",
@@ -803,7 +871,9 @@
   {
    "q": "The Celsius temperature scale is named after an astronomer from which country?",
    "a": "Sweden",
-   "p": 400
+   "p": 400,
+   "pic": "Anders Celsius",
+   "apic": "Sweden"
   },
   {
    "q": "How does heat from the Sun reach Earth across empty space?",
@@ -890,7 +960,8 @@
   {
    "q": "Which desk toy of swinging steel balls demonstrates conservation of momentum?",
    "a": "Newton's cradle",
-   "p": 400
+   "p": 400,
+   "apic": "Newton's cradle"
   },
   {
    "q": "Which colour is on the outside edge of a primary rainbow?",
@@ -900,7 +971,8 @@
   {
    "q": "Which effect lets optical fibres carry light around bends?",
    "a": "Total internal reflection",
-   "p": 400
+   "p": 400,
+   "apic": "Optical fiber"
   },
   {
    "q": "What is the spreading of waves as they pass through a gap or around an obstacle called?",
@@ -933,7 +1005,8 @@
   {
    "q": "What does a transformer change in an alternating current supply?",
    "a": "Voltage",
-   "p": 400
+   "p": 400,
+   "apic": "Transformer"
   },
   {
    "q": "Electrical power equals current multiplied by what?",
@@ -946,7 +1019,8 @@
   {
    "q": "Which effect do solar panels use to turn sunlight directly into electricity?",
    "a": "Photovoltaic effect",
-   "p": 400
+   "p": 400,
+   "apic": "Solar cell"
   },
   {
    "q": "What do we call materials that have zero electrical resistance when cooled enough?",
@@ -972,7 +1046,9 @@
    "p": 400,
    "alt": [
     "Feather"
-   ]
+   ],
+   "pic": "Apollo 15",
+   "apic": "Feather"
   },
   {
    "q": "Raising the pressure in a pressure cooker raises the water's what?",
@@ -1016,22 +1092,27 @@
   {
    "q": "What is the name of the giant particle physics laboratory on the French-Swiss border?",
    "a": "CERN",
-   "p": 400
+   "p": 400,
+   "apic": "CERN"
   },
   {
    "q": "What is the name for an object so dense that not even light can escape its gravity?",
    "a": "Black hole",
-   "p": 200
+   "p": 200,
+   "apic": "Black hole"
   },
   {
    "q": "Which British astronomer led the 1919 eclipse expedition that confirmed Einstein's prediction that starlight bends around the Sun?",
    "a": "Arthur Eddington",
-   "p": 600
+   "p": 600,
+   "apic": "Arthur Eddington"
   },
   {
    "q": "Which Italian physicist built the world's first nuclear reactor in Chicago in 1942?",
    "a": "Enrico Fermi",
-   "p": 400
+   "p": 400,
+   "pic": "Chicago Pile-1",
+   "apic": "Enrico Fermi"
   },
   {
    "q": "What is the scattering of sunlight by air molecules, which makes the sky blue, called?",
@@ -1041,12 +1122,14 @@
   {
    "q": "In which year did Einstein publish his general theory of relativity?",
    "a": "1915",
-   "p": 400
+   "p": 400,
+   "pic": "Albert Einstein"
   },
   {
    "q": "Which British physicist predicted antimatter with his equation for the electron in 1928?",
    "a": "Paul Dirac",
-   "p": 400
+   "p": 400,
+   "apic": "Paul Dirac"
   },
   {
    "q": "In which unit is the energy content of food often given, besides kilojoules?",
@@ -1089,7 +1172,8 @@
    "alt": [
     "Schrödinger",
     "Schrodinger"
-   ]
+   ],
+   "apic": "Erwin Schrödinger"
   },
   {
    "q": "Which American physicist won a Nobel Prize for showing that X-rays lose energy when they scatter off electrons?",
@@ -1097,7 +1181,8 @@
    "p": 600,
    "alt": [
     "Compton"
-   ]
+   ],
+   "apic": "Arthur Compton"
   },
   {
    "q": "What do we call the amount of force acting per unit area?",
@@ -1107,7 +1192,8 @@
   {
    "q": "Which British scientist, in a 1798 experiment, first measured the strength of gravity between lead spheres?",
    "a": "Henry Cavendish",
-   "p": 400
+   "p": 400,
+   "apic": "Henry Cavendish"
   },
   {
    "q": "What do you call the point where light rays meet after passing through a convex lens?",
@@ -1121,12 +1207,14 @@
   {
    "q": "Which German physicist gave his name to the unit of electrical resistance?",
    "a": "Georg Ohm",
-   "p": 400
+   "p": 400,
+   "apic": "Georg Ohm"
   },
   {
    "q": "Which English scientist showed with a prism that white light is a mixture of colours?",
    "a": "Isaac Newton",
-   "p": 400
+   "p": 400,
+   "apic": "Isaac Newton"
   },
   {
    "q": "What is the unit of electrical energy that electricity bills in the UAE are charged in?",
@@ -1147,7 +1235,8 @@
    "p": 400,
    "alt": [
     "Avogadro"
-   ]
+   ],
+   "apic": "Amedeo Avogadro"
   },
   {
    "q": "Which type of curved mirror is used in make-up and shaving mirrors to magnify your face?",
@@ -1166,7 +1255,8 @@
   {
    "q": "Which instrument measures wind speed?",
    "a": "Anemometer",
-   "p": 400
+   "p": 400,
+   "apic": "Anemometer"
   },
   {
    "q": "What is the name for an object's mass per unit volume?",
@@ -1189,7 +1279,9 @@
   {
    "q": "Which metal was used for the glowing filament in old incandescent light bulbs?",
    "a": "Tungsten",
-   "p": 400
+   "p": 400,
+   "pic": "Incandescent light bulb",
+   "apic": "Tungsten"
   },
   {
    "q": "What is the voltage of a standard AA battery?",
@@ -1331,17 +1423,20 @@
   {
    "q": "Which Austrian physicist formulated the exclusion principle for electrons in 1925?",
    "a": "Wolfgang Pauli",
-   "p": 600
+   "p": 600,
+   "apic": "Wolfgang Pauli"
   },
   {
    "q": "Which Scottish physicist unified electricity, magnetism and light in a set of equations in the 1860s?",
    "a": "James Clerk Maxwell",
-   "p": 600
+   "p": 600,
+   "apic": "James Clerk Maxwell"
   },
   {
    "q": "Which German physicist first proved the existence of radio waves in the 1880s?",
    "a": "Heinrich Hertz",
-   "p": 600
+   "p": 600,
+   "apic": "Heinrich Hertz"
   },
   {
    "q": "Which Danish physicist discovered in 1820 that an electric current deflects a compass needle?",
@@ -1350,7 +1445,8 @@
    "alt": [
     "Ørsted",
     "Oersted"
-   ]
+   ],
+   "apic": "Hans Christian Ørsted"
   },
   {
    "q": "Which Swiss scientist's principle links faster-moving fluid to lower pressure, helping explain lift?",
@@ -1358,7 +1454,8 @@
    "p": 600,
    "alt": [
     "Bernoulli"
-   ]
+   ],
+   "apic": "Daniel Bernoulli"
   },
   {
    "q": "Which French physicist used a giant pendulum in Paris in 1851 to show that Earth rotates?",
@@ -1367,32 +1464,41 @@
    "alt": [
     "Léon Foucault",
     "Foucault"
-   ]
+   ],
+   "pic": "Foucault pendulum",
+   "apic": "Léon Foucault"
   },
   {
    "q": "Which Dutch scientist invented the pendulum clock in 1656?",
    "a": "Christiaan Huygens",
-   "p": 600
+   "p": 600,
+   "pic": "Pendulum clock",
+   "apic": "Christiaan Huygens"
   },
   {
    "q": "Which Italian student of Galileo invented the mercury barometer in 1643?",
    "a": "Evangelista Torricelli",
-   "p": 600
+   "p": 600,
+   "apic": "Evangelista Torricelli"
   },
   {
    "q": "Which English physicist's double-slit experiment around 1801 showed that light behaves as a wave?",
    "a": "Thomas Young",
-   "p": 600
+   "p": 600,
+   "apic": "Thomas Young (scientist)"
   },
   {
    "q": "The Doppler effect is named after a physicist from which country?",
    "a": "Austria",
-   "p": 600
+   "p": 600,
+   "pic": "Christian Doppler",
+   "apic": "Austria"
   },
   {
    "q": "Which scientist, later Lord Kelvin, proposed the absolute temperature scale?",
    "a": "William Thomson",
-   "p": 600
+   "p": 600,
+   "apic": "Lord Kelvin"
   },
   {
    "q": "Which 11th-century scholar estimated Earth's radius by measuring the dip of the horizon from a mountain?",
@@ -1434,7 +1540,8 @@
    "alt": [
     "Chandrasekhara Venkata Raman",
     "Raman"
-   ]
+   ],
+   "apic": "C. V. Raman"
   },
   {
    "q": "Which Indian-American astrophysicist gave his name to the maximum mass of a white dwarf star?",
@@ -1442,12 +1549,15 @@
    "p": 600,
    "alt": [
     "Chandrasekhar"
-   ]
+   ],
+   "apic": "Subrahmanyan Chandrasekhar"
   },
   {
    "q": "Which physicist co-discovered nuclear fission with Otto Hahn but was left out of the Nobel Prize?",
    "a": "Lise Meitner",
-   "p": 600
+   "p": 600,
+   "pic": "Otto Hahn",
+   "apic": "Lise Meitner"
   },
   {
    "q": "GPS satellite clocks must be corrected for the effects of which famous set of theories?",
@@ -1455,7 +1565,8 @@
    "p": 600,
    "alt": [
     "Special and general relativity"
-   ]
+   ],
+   "pic": "Global Positioning System"
   },
   {
    "q": "What name is given to the tiny, almost massless particles that pass through Earth by the trillions every second?",
@@ -1535,12 +1646,14 @@
   {
    "q": "Which Bell Labs physicist, who later founded a Silicon Valley semiconductor company, shared the 1956 Nobel Prize for the transistor?",
    "a": "William Shockley",
-   "p": 600
+   "p": 600,
+   "apic": "William Shockley"
   },
   {
    "q": "Which Hungarian-American physicist is often called the 'father of the hydrogen bomb'?",
    "a": "Edward Teller",
-   "p": 600
+   "p": 600,
+   "apic": "Edward Teller"
   },
   {
    "q": "Which state of matter, formed near absolute zero, was predicted by Satyendra Nath Bose and Einstein?",
@@ -1553,7 +1666,8 @@
    "p": 600,
    "alt": [
     "de Broglie"
-   ]
+   ],
+   "apic": "Louis de Broglie"
   },
   {
    "q": "Which Dutch physicist first liquefied helium and discovered superconductivity in 1911?",
@@ -1561,22 +1675,26 @@
    "p": 600,
    "alt": [
     "Kamerlingh Onnes"
-   ]
+   ],
+   "apic": "Heike Kamerlingh Onnes"
   },
   {
    "q": "Max Born won a Nobel Prize for showing that the square of a quantum wave function gives what?",
    "a": "Probability",
-   "p": 600
+   "p": 600,
+   "pic": "Max Born"
   },
   {
    "q": "What is the name for the bending of light by gravity, used to see distant galaxies?",
    "a": "Gravitational lensing",
-   "p": 600
+   "p": 600,
+   "apic": "Gravitational lens"
   },
   {
    "q": "Which American physicist measured the charge of the electron with his oil-drop experiment?",
    "a": "Robert Millikan",
-   "p": 600
+   "p": 600,
+   "apic": "Robert Andrews Millikan"
   },
   {
    "q": "Which French physicist's laws describe the force between electric charges?",
@@ -1584,7 +1702,8 @@
    "p": 600,
    "alt": [
     "Coulomb"
-   ]
+   ],
+   "apic": "Charles-Augustin de Coulomb"
   },
   {
    "q": "Which German physicist gave his name to two laws for electric circuits about currents and voltages?",
@@ -1592,12 +1711,15 @@
    "p": 600,
    "alt": [
     "Kirchhoff"
-   ]
+   ],
+   "apic": "Gustav Kirchhoff"
   },
   {
    "q": "The SI unit of current is named after a scientist from which country?",
    "a": "France",
-   "p": 600
+   "p": 600,
+   "pic": "André-Marie Ampère",
+   "apic": "France"
   },
   {
    "q": "Which physicist first showed that heat and mechanical work are equivalent, giving his name to the unit of energy?",
@@ -1606,7 +1728,8 @@
    "alt": [
     "James Joule",
     "Joule"
-   ]
+   ],
+   "apic": "James Prescott Joule"
   },
   {
    "q": "Which element is used to make the timing standard in atomic clocks that define the second?",
@@ -1614,7 +1737,9 @@
    "p": 600,
    "alt": [
     "Cesium"
-   ]
+   ],
+   "pic": "Atomic clock",
+   "apic": "Caesium"
   },
   {
    "q": "What name is given to the temperature at which a material loses its permanent magnetism?",
@@ -1627,7 +1752,8 @@
   {
    "q": "Which rule uses the thumb and first two fingers of one hand to find the direction of force on a wire in an electric motor?",
    "a": "Fleming's left-hand rule",
-   "p": 600
+   "p": 600,
+   "pic": "Electric motor"
   },
   {
    "q": "What is the name for the spreading of white light into colours by a prism?",
@@ -1637,12 +1763,15 @@
   {
    "q": "Which ancient Greek mathematician stated the principle that a submerged object is pushed up by a force equal to the weight of fluid it displaces?",
    "a": "Archimedes",
-   "p": 600
+   "p": 600,
+   "apic": "Archimedes"
   },
   {
    "q": "Which ancient Greek thinker taught that heavier objects fall faster, an idea Galileo later challenged?",
    "a": "Aristotle",
-   "p": 600
+   "p": 600,
+   "pic": "Galileo Galilei",
+   "apic": "Aristotle"
   },
   {
    "q": "Which 12th-century scholar from Merv wrote 'The Book of the Balance of Wisdom' on density and weighing?",
@@ -1676,12 +1805,14 @@
   {
    "q": "Which particle accelerator laboratory near Chicago discovered the top quark in 1995?",
    "a": "Fermilab",
-   "p": 600
+   "p": 600,
+   "apic": "Fermilab"
   },
   {
    "q": "Which Scottish engineer's demonstration in London in 1926 is often called the first working television?",
    "a": "John Logie Baird",
-   "p": 600
+   "p": 600,
+   "apic": "John Logie Baird"
   },
   {
    "q": "What happens to the resistance of a typical metal wire as it gets hotter?",
@@ -1700,7 +1831,9 @@
   {
    "q": "What do physicists call a material that conducts electricity better than an insulator but worse than a metal, like silicon?",
    "a": "Semiconductor",
-   "p": 600
+   "p": 600,
+   "pic": "Silicon",
+   "apic": "Semiconductor"
   },
   {
    "q": "What is the SI unit of equivalent radiation dose, which takes biological harm into account?",
@@ -1710,7 +1843,8 @@
   {
    "q": "Which instrument measures humidity?",
    "a": "Hygrometer",
-   "p": 600
+   "p": 600,
+   "apic": "Hygrometer"
   },
   {
    "q": "What is the energy absorbed or released when a substance changes state without changing temperature called?",
@@ -1731,7 +1865,8 @@
    "p": 600,
    "alt": [
     "Boltzmann"
-   ]
+   ],
+   "apic": "Ludwig Boltzmann"
   },
   {
    "q": "Which French engineer's cycle describes the most efficient possible heat engine?",
@@ -1739,7 +1874,8 @@
    "p": 600,
    "alt": [
     "Carnot"
-   ]
+   ],
+   "apic": "Nicolas Léonard Sadi Carnot"
   },
   {
    "q": "Which unit of pressure equals exactly 100,000 pascals?",
@@ -1754,12 +1890,15 @@
   {
    "q": "Which American physicist invented the cyclotron particle accelerator?",
    "a": "Ernest Lawrence",
-   "p": 600
+   "p": 600,
+   "pic": "Cyclotron",
+   "apic": "Ernest Lawrence"
   },
   {
    "q": "Which Japanese physicist predicted the meson and became Japan's first Nobel laureate in 1949?",
    "a": "Hideki Yukawa",
-   "p": 600
+   "p": 600,
+   "apic": "Hideki Yukawa"
   }
  ]
 }

@@ -5,57 +5,72 @@
   {
    "q": "What species is Chewbacca?",
    "a": "Wookiee",
-   "p": 200
+   "p": 200,
+   "pic": "Chewbacca",
+   "apic": "Wookiee"
   },
   {
    "q": "Who created Star Wars?",
    "a": "George Lucas",
-   "p": 200
+   "p": 200,
+   "pic": "Star Wars (film)",
+   "apic": "George Lucas"
   },
   {
    "q": "Which actor played Han Solo in the original trilogy?",
    "a": "Harrison Ford",
-   "p": 200
+   "p": 200,
+   "apic": "Harrison Ford"
   },
   {
    "q": "Which actress played Princess Leia?",
    "a": "Carrie Fisher",
-   "p": 200
+   "p": 200,
+   "apic": "Carrie Fisher"
   },
   {
    "q": "Which actor played Luke Skywalker?",
    "a": "Mark Hamill",
-   "p": 200
+   "p": 200,
+   "apic": "Mark Hamill"
   },
   {
    "q": "What is the name of Han Solo's ship?",
    "a": "Millennium Falcon",
-   "p": 200
+   "p": 200,
+   "pic": "Han Solo",
+   "apic": "Millennium Falcon"
   },
   {
    "q": "Which small green Jedi Master trains Luke on Dagobah?",
    "a": "Yoda",
-   "p": 200
+   "p": 200,
+   "apic": "Yoda"
   },
   {
    "q": "What is the name of the golden protocol droid?",
    "a": "C-3PO",
-   "p": 200
+   "p": 200,
+   "apic": "C-3PO"
   },
   {
    "q": "What is the name of the blue and white astromech droid?",
    "a": "R2-D2",
-   "p": 200
+   "p": 200,
+   "apic": "R2-D2"
   },
   {
    "q": "What is the name of Luke's desert home planet?",
    "a": "Tatooine",
-   "p": 200
+   "p": 200,
+   "pic": "Luke Skywalker",
+   "apic": "Tatooine"
   },
   {
    "q": "What is the name of the Empire's moon-sized battle station?",
    "a": "Death Star",
-   "p": 200
+   "p": 200,
+   "apic": "Death Star"
   },
   {
    "q": "What colour is Darth Vader's lightsaber?",
@@ -68,7 +83,9 @@
    "p": 200,
    "alt": [
     "Ben Kenobi"
-   ]
+   ],
+   "pic": "Alec Guinness",
+   "apic": "Obi-Wan Kenobi"
   },
   {
    "q": "What is the real name of the child fans nicknamed Baby Yoda?",
@@ -76,32 +93,39 @@
    "p": 200,
    "alt": [
     "Din Grogu"
-   ]
+   ],
+   "apic": "Grogu"
   },
   {
    "q": "Which actor plays the title role in The Mandalorian?",
    "a": "Pedro Pascal",
-   "p": 200
+   "p": 200,
+   "pic": "The Mandalorian",
+   "apic": "Pedro Pascal"
   },
   {
    "q": "What was Darth Vader's name before he turned to the dark side?",
    "a": "Anakin Skywalker",
-   "p": 200
+   "p": 200,
+   "apic": "Darth Vader"
   },
   {
    "q": "Which actor played Anakin in Attack of the Clones and Revenge of the Sith?",
    "a": "Hayden Christensen",
-   "p": 200
+   "p": 200,
+   "apic": "Hayden Christensen"
   },
   {
    "q": "Which actor played Obi-Wan Kenobi in the prequel trilogy?",
    "a": "Ewan McGregor",
-   "p": 200
+   "p": 200,
+   "apic": "Ewan McGregor"
   },
   {
    "q": "What are the Empire's white-armoured soldiers called?",
    "a": "Stormtroopers",
-   "p": 200
+   "p": 200,
+   "apic": "Stormtrooper (Star Wars)"
   },
   {
    "q": "What is the name of the energy field that gives the Jedi their power?",
@@ -111,12 +135,15 @@
   {
    "q": "Which small furry creatures live on the forest moon of Endor?",
    "a": "Ewoks",
-   "p": 200
+   "p": 200,
+   "apic": "Ewok"
   },
   {
    "q": "Which bounty hunter takes Han Solo, frozen in carbonite, to Jabba?",
    "a": "Boba Fett",
-   "p": 200
+   "p": 200,
+   "pic": "Han Solo",
+   "apic": "Boba Fett"
   },
   {
    "q": "Which giant slug-like gangster rules Tatooine's underworld?",
@@ -124,17 +151,20 @@
    "p": 200,
    "alt": [
     "Jabba"
-   ]
+   ],
+   "apic": "Jabba the Hutt"
   },
   {
    "q": "Which ball-shaped droid debuted in The Force Awakens?",
    "a": "BB-8",
-   "p": 200
+   "p": 200,
+   "apic": "BB-8"
   },
   {
    "q": "Who is the heroine of the sequel trilogy, played by Daisy Ridley?",
    "a": "Rey",
-   "p": 200
+   "p": 200,
+   "apic": "Rey (Star Wars)"
   },
   {
    "q": "Which sequel trilogy villain is the son of Han and Leia?",
@@ -142,17 +172,20 @@
    "p": 200,
    "alt": [
     "Ben Solo"
-   ]
+   ],
+   "apic": "Kylo Ren"
   },
   {
    "q": "Which actor plays Kylo Ren?",
    "a": "Adam Driver",
-   "p": 200
+   "p": 200,
+   "apic": "Adam Driver"
   },
   {
    "q": "What is the name of the ice planet in The Empire Strikes Back?",
    "a": "Hoth",
-   "p": 200
+   "p": 200,
+   "apic": "Hoth"
   },
   {
    "q": "What colour is Yoda's lightsaber?",
@@ -162,7 +195,8 @@
   {
    "q": "What are the dark side enemies of the Jedi called?",
    "a": "Sith",
-   "p": 200
+   "p": 200,
+   "apic": "Sith"
   },
   {
    "q": "Which company bought Lucasfilm in 2012?",
@@ -170,27 +204,34 @@
    "p": 200,
    "alt": [
     "The Walt Disney Company"
-   ]
+   ],
+   "pic": "Lucasfilm",
+   "apic": "The Walt Disney Company"
   },
   {
    "q": "In which year was the first Star Wars film released?",
    "a": "1977",
-   "p": 200
+   "p": 200,
+   "pic": "Star Wars (film)"
   },
   {
    "q": "What is the surname of the Emperor who rules the Galactic Empire?",
    "a": "Palpatine",
-   "p": 200
+   "p": 200,
+   "apic": "Palpatine"
   },
   {
    "q": "Which Star Wars film is Episode V?",
    "a": "The Empire Strikes Back",
-   "p": 200
+   "p": 200,
+   "apic": "The Empire Strikes Back"
   },
   {
    "q": "Which Jedi Master did Liam Neeson play in The Phantom Menace?",
    "a": "Qui-Gon Jinn",
-   "p": 200
+   "p": 200,
+   "pic": "Liam Neeson",
+   "apic": "Qui-Gon Jinn"
   },
   {
    "q": "What is a Jedi apprentice called?",
@@ -200,7 +241,8 @@
   {
    "q": "What weapon is the signature of the Jedi?",
    "a": "Lightsaber",
-   "p": 200
+   "p": 200,
+   "apic": "Lightsaber"
   },
   {
    "q": "What colour is Luke's lightsaber in Return of the Jedi?",
@@ -218,7 +260,9 @@
    "p": 200,
    "alt": [
     "Ben Solo"
-   ]
+   ],
+   "pic": "Han Solo",
+   "apic": "Kylo Ren"
   },
   {
    "q": "Who is Luke Skywalker's twin sister?",
@@ -227,7 +271,9 @@
    "alt": [
     "Leia Organa",
     "Leia"
-   ]
+   ],
+   "pic": "Luke Skywalker",
+   "apic": "Princess Leia"
   },
   {
    "q": "Which Star Wars film is Episode IV?",
@@ -235,47 +281,57 @@
    "p": 200,
    "alt": [
     "Star Wars"
-   ]
+   ],
+   "apic": "Star Wars (film)"
   },
   {
    "q": "Which Star Wars film is Episode I?",
    "a": "The Phantom Menace",
-   "p": 200
+   "p": 200,
+   "apic": "Star Wars: Episode I – The Phantom Menace"
   },
   {
    "q": "Which Star Wars film is Episode VI?",
    "a": "Return of the Jedi",
-   "p": 200
+   "p": 200,
+   "apic": "Return of the Jedi"
   },
   {
    "q": "Which Star Wars film is Episode III?",
    "a": "Revenge of the Sith",
-   "p": 200
+   "p": 200,
+   "apic": "Star Wars: Episode III – Revenge of the Sith"
   },
   {
    "q": "Which Star Wars film is Episode II?",
    "a": "Attack of the Clones",
-   "p": 200
+   "p": 200,
+   "apic": "Star Wars: Episode II – Attack of the Clones"
   },
   {
    "q": "Which Star Wars film is Episode VII?",
    "a": "The Force Awakens",
-   "p": 200
+   "p": 200,
+   "apic": "Star Wars: The Force Awakens"
   },
   {
    "q": "Which Star Wars film is Episode VIII?",
    "a": "The Last Jedi",
-   "p": 200
+   "p": 200,
+   "apic": "Star Wars: The Last Jedi"
   },
   {
    "q": "Which Star Wars film is Episode IX?",
    "a": "The Rise of Skywalker",
-   "p": 200
+   "p": 200,
+   "apic": "Star Wars: The Rise of Skywalker"
   },
   {
    "q": "Which Resistance pilot is played by Oscar Isaac?",
    "a": "Poe Dameron",
-   "p": 200
+   "p": 200,
+   "pic": "Oscar Isaac",
+   "apic": "Poe Dameron"
   },
   {
    "q": "Which former stormtrooper is played by John Boyega?",
@@ -283,7 +339,9 @@
    "p": 200,
    "alt": [
     "FN-2187"
-   ]
+   ],
+   "pic": "John Boyega",
+   "apic": "Finn (Star Wars)"
   },
   {
    "q": "Who is Han Solo's Wookiee co-pilot?",
@@ -291,12 +349,16 @@
    "p": 200,
    "alt": [
     "Chewie"
-   ]
+   ],
+   "pic": "Han Solo",
+   "apic": "Chewbacca"
   },
   {
    "q": "Which 2022 Disney+ series sees Ewan McGregor return as a Jedi in exile?",
    "a": "Obi-Wan Kenobi",
-   "p": 200
+   "p": 200,
+   "pic": "Ewan McGregor",
+   "apic": "Obi-Wan Kenobi (TV series)"
   },
   {
    "q": "What does Darth Vader cut off Luke in The Empire Strikes Back?",
@@ -318,7 +380,9 @@
    "p": 200,
    "alt": [
     "Anakin Skywalker"
-   ]
+   ],
+   "pic": "Palpatine",
+   "apic": "Darth Vader"
   },
   {
    "q": "Who was Queen of Naboo in The Phantom Menace?",
@@ -327,7 +391,8 @@
    "alt": [
     "Padme",
     "Queen Amidala"
-   ]
+   ],
+   "apic": "Padmé Amidala"
   },
   {
    "q": "Whom does Anakin secretly marry?",
@@ -335,7 +400,9 @@
    "p": 200,
    "alt": [
     "Padme"
-   ]
+   ],
+   "pic": "Darth Vader",
+   "apic": "Padmé Amidala"
   },
   {
    "q": "In what substance is Han Solo frozen?",
@@ -345,12 +412,15 @@
   {
    "q": "Who strikes down Obi-Wan Kenobi aboard the Death Star in A New Hope?",
    "a": "Darth Vader",
-   "p": 200
+   "p": 200,
+   "pic": "Obi-Wan Kenobi",
+   "apic": "Darth Vader"
   },
   {
    "q": "In which country were the original Tatooine desert scenes filmed?",
    "a": "Tunisia",
-   "p": 200
+   "p": 200,
+   "apic": "Tunisia"
   },
   {
    "q": "Which streaming service is home to The Mandalorian?",
@@ -358,7 +428,9 @@
    "p": 200,
    "alt": [
     "Disney Plus"
-   ]
+   ],
+   "pic": "The Mandalorian",
+   "apic": "Disney+"
   },
   {
    "q": "What is the name of the Rebel group fighting the Empire?",
@@ -375,7 +447,8 @@
    "p": 200,
    "alt": [
     "The First Order"
-   ]
+   ],
+   "pic": "Kylo Ren"
   },
   {
    "q": "What is the name of the group that fights the First Order?",
@@ -388,12 +461,14 @@
   {
    "q": "Which city-covered planet is the capital of the Republic and the Empire?",
    "a": "Coruscant",
-   "p": 400
+   "p": 400,
+   "apic": "Coruscant"
   },
   {
    "q": "Which horned Sith with a double-bladed lightsaber appears in The Phantom Menace?",
    "a": "Darth Maul",
-   "p": 400
+   "p": 400,
+   "apic": "Darth Maul"
   },
   {
    "q": "What colour is Mace Windu's lightsaber?",
@@ -403,17 +478,21 @@
   {
    "q": "Which actor played Mace Windu?",
    "a": "Samuel L. Jackson",
-   "p": 400
+   "p": 400,
+   "apic": "Samuel L. Jackson"
   },
   {
    "q": "Which planet is Padmé Amidala's home world?",
    "a": "Naboo",
-   "p": 400
+   "p": 400,
+   "pic": "Padmé Amidala",
+   "apic": "Naboo"
   },
   {
    "q": "Which actress played Padmé Amidala?",
    "a": "Natalie Portman",
-   "p": 400
+   "p": 400,
+   "apic": "Natalie Portman"
   },
   {
    "q": "What is the Wookiee home planet called?",
@@ -423,7 +502,8 @@
   {
    "q": "On which volcanic planet do Obi-Wan and Anakin duel in Revenge of the Sith?",
    "a": "Mustafar",
-   "p": 400
+   "p": 400,
+   "apic": "Mustafar"
   },
   {
    "q": "Which order turned the clone troopers against the Jedi?",
@@ -433,17 +513,20 @@
   {
    "q": "On which ocean planet was the clone army grown?",
    "a": "Kamino",
-   "p": 400
+   "p": 400,
+   "apic": "Kamino"
   },
   {
    "q": "Which bounty hunter was the genetic template for the clone army?",
    "a": "Jango Fett",
-   "p": 400
+   "p": 400,
+   "apic": "Jango Fett"
   },
   {
    "q": "Which planet is destroyed by the Death Star in A New Hope?",
    "a": "Alderaan",
-   "p": 400
+   "p": 400,
+   "apic": "Alderaan"
   },
   {
    "q": "Which Togruta is Anakin's Padawan in The Clone Wars?",
@@ -451,12 +534,14 @@
    "p": 400,
    "alt": [
     "Ahsoka"
-   ]
+   ],
+   "apic": "Ahsoka Tano"
   },
   {
    "q": "Which actress plays Ahsoka Tano in live action?",
    "a": "Rosario Dawson",
-   "p": 400
+   "p": 400,
+   "apic": "Rosario Dawson"
   },
   {
    "q": "Which 2016 film tells how the Rebels stole the Death Star plans?",
@@ -464,12 +549,14 @@
    "p": 400,
    "alt": [
     "Rogue One: A Star Wars Story"
-   ]
+   ],
+   "apic": "Rogue One"
   },
   {
    "q": "Which actor plays Cassian Andor?",
    "a": "Diego Luna",
-   "p": 400
+   "p": 400,
+   "apic": "Diego Luna"
   },
   {
    "q": "Who directed The Force Awakens?",
@@ -477,12 +564,14 @@
    "p": 400,
    "alt": [
     "JJ Abrams"
-   ]
+   ],
+   "apic": "J. J. Abrams"
   },
   {
    "q": "Who directed The Last Jedi?",
    "a": "Rian Johnson",
-   "p": 400
+   "p": 400,
+   "apic": "Rian Johnson"
   },
   {
    "q": "What is the name of the floating city Lando runs on Bespin?",
@@ -492,17 +581,21 @@
   {
    "q": "Which actor played Lando Calrissian in the original trilogy?",
    "a": "Billy Dee Williams",
-   "p": 400
+   "p": 400,
+   "apic": "Billy Dee Williams"
   },
   {
    "q": "What species is Jar Jar Binks?",
    "a": "Gungan",
-   "p": 400
+   "p": 400,
+   "pic": "Jar Jar Binks",
+   "apic": "Gungan"
   },
   {
    "q": "Which actor played Count Dooku?",
    "a": "Christopher Lee",
-   "p": 400
+   "p": 400,
+   "apic": "Christopher Lee"
   },
   {
    "q": "Which cyborg Separatist general wields stolen Jedi lightsabers?",
@@ -510,12 +603,14 @@
    "p": 400,
    "alt": [
     "Grievous"
-   ]
+   ],
+   "apic": "General Grievous"
   },
   {
    "q": "At the end of the sequel trilogy, which family name does Rey take?",
    "a": "Skywalker",
-   "p": 400
+   "p": 400,
+   "pic": "Rey (Star Wars)"
   },
   {
    "q": "Which monster does Luke fight beneath Jabba's palace?",
@@ -530,7 +625,8 @@
   {
    "q": "What is the Mandalorian's real name?",
    "a": "Din Djarin",
-   "p": 400
+   "p": 400,
+   "apic": "The Mandalorian (character)"
   },
   {
    "q": "What is the name of the Mandalorian's gunship in seasons one and two?",
@@ -545,7 +641,9 @@
   {
    "q": "Which Imperial warlord, played by Giancarlo Esposito, hunts Grogu?",
    "a": "Moff Gideon",
-   "p": 400
+   "p": 400,
+   "pic": "Giancarlo Esposito",
+   "apic": "Moff Gideon"
   },
   {
    "q": "What is the name of the black-bladed Mandalorian lightsaber?",
@@ -555,7 +653,9 @@
   {
    "q": "Which actor provided the voice of Darth Vader in the original trilogy?",
    "a": "James Earl Jones",
-   "p": 400
+   "p": 400,
+   "pic": "Darth Vader",
+   "apic": "James Earl Jones"
   },
   {
    "q": "Which starfighter does Luke fly in the attack on the first Death Star?",
@@ -563,7 +663,9 @@
    "p": 400,
    "alt": [
     "T-65 X-wing"
-   ]
+   ],
+   "pic": "Luke Skywalker",
+   "apic": "X-wing fighter"
   },
   {
    "q": "Which 2018 spin-off film stars Alden Ehrenreich?",
@@ -571,7 +673,9 @@
    "p": 400,
    "alt": [
     "Solo"
-   ]
+   ],
+   "pic": "Alden Ehrenreich",
+   "apic": "Solo: A Star Wars Story"
   },
   {
    "q": "Who is Supreme Leader of the First Order before Kylo Ren?",
@@ -579,7 +683,8 @@
    "p": 400,
    "alt": [
     "Supreme Leader Snoke"
-   ]
+   ],
+   "apic": "Snoke"
   },
   {
    "q": "Which Imperial walkers attack the Rebel base on Hoth?",
@@ -596,7 +701,8 @@
    "p": 400,
    "alt": [
     "TIE fighters"
-   ]
+   ],
+   "apic": "TIE fighter"
   },
   {
    "q": "How old is Yoda when he dies?",
@@ -609,7 +715,8 @@
   {
    "q": "Which hooded scavengers sell R2-D2 and C-3PO to Luke's uncle?",
    "a": "Jawas",
-   "p": 400
+   "p": 400,
+   "apic": "Jawa (Star Wars)"
   },
   {
    "q": "What is the name of Luke's uncle on Tatooine?",
@@ -617,12 +724,14 @@
    "p": 400,
    "alt": [
     "Uncle Owen"
-   ]
+   ],
+   "pic": "Luke Skywalker"
   },
   {
    "q": "What is another name for the Tusken Raiders?",
    "a": "Sand People",
-   "p": 400
+   "p": 400,
+   "apic": "Tusken Raiders"
   },
   {
    "q": "Which ice creature captures Luke on Hoth?",
@@ -645,12 +754,16 @@
    "p": 400,
    "alt": [
     "Phasma"
-   ]
+   ],
+   "pic": "Gwendoline Christie",
+   "apic": "Captain Phasma"
   },
   {
    "q": "Who adopted Leia and raised her on Alderaan?",
    "a": "Bail Organa",
-   "p": 400
+   "p": 400,
+   "pic": "Princess Leia",
+   "apic": "Bail Organa"
   },
   {
    "q": "What is the name of Anakin's mother?",
@@ -658,7 +771,8 @@
    "p": 400,
    "alt": [
     "Shmi"
-   ]
+   ],
+   "pic": "Anakin Skywalker"
   },
   {
    "q": "Which junk dealer owned Anakin as a slave on Tatooine?",
@@ -668,17 +782,22 @@
   {
    "q": "Who kills Qui-Gon Jinn?",
    "a": "Darth Maul",
-   "p": 400
+   "p": 400,
+   "pic": "Qui-Gon Jinn",
+   "apic": "Darth Maul"
   },
   {
    "q": "Which Jedi rescues Grogu in the second season finale of The Mandalorian?",
    "a": "Luke Skywalker",
-   "p": 400
+   "p": 400,
+   "pic": "Grogu",
+   "apic": "Luke Skywalker"
   },
   {
    "q": "Which senator secretly funds the Rebellion in Andor?",
    "a": "Mon Mothma",
-   "p": 400
+   "p": 400,
+   "apic": "Mon Mothma"
   },
   {
    "q": "Which 2016 film directly follows the events of Andor's second season?",
@@ -686,7 +805,9 @@
    "p": 400,
    "alt": [
     "Rogue One: A Star Wars Story"
-   ]
+   ],
+   "pic": "Andor (TV series)",
+   "apic": "Rogue One"
   },
   {
    "q": "Which blue-skinned Chiss Grand Admiral is the villain of the Ahsoka series?",
@@ -694,12 +815,14 @@
    "p": 400,
    "alt": [
     "Grand Admiral Thrawn"
-   ]
+   ],
+   "apic": "Thrawn"
   },
   {
    "q": "Which 2021 series follows Boba Fett taking over Jabba's territory?",
    "a": "The Book of Boba Fett",
-   "p": 400
+   "p": 400,
+   "apic": "The Book of Boba Fett"
   },
   {
    "q": "Which animated series follows the clone unit Clone Force 99?",
@@ -707,7 +830,8 @@
    "p": 400,
    "alt": [
     "Star Wars: The Bad Batch"
-   ]
+   ],
+   "apic": "Star Wars: The Bad Batch"
   },
   {
    "q": "Which young Jedi is the main hero of Star Wars Rebels?",
@@ -715,22 +839,29 @@
    "p": 400,
    "alt": [
     "Ezra"
-   ]
+   ],
+   "apic": "Ezra Bridger"
   },
   {
    "q": "Which puppeteer originally performed and voiced Yoda?",
    "a": "Frank Oz",
-   "p": 400
+   "p": 400,
+   "pic": "Yoda",
+   "apic": "Frank Oz"
   },
   {
    "q": "Desert scenes for Jakku in The Force Awakens were filmed in which UAE emirate?",
    "a": "Abu Dhabi",
-   "p": 400
+   "p": 400,
+   "pic": "Star Wars: The Force Awakens",
+   "apic": "Emirate of Abu Dhabi"
   },
   {
    "q": "Rogue One's desert moon Jedha was filmed in which Middle Eastern country?",
    "a": "Jordan",
-   "p": 400
+   "p": 400,
+   "pic": "Rogue One",
+   "apic": "Jordan"
   },
   {
    "q": "Who is the heroine of Rogue One?",
@@ -738,7 +869,8 @@
    "p": 400,
    "alt": [
     "Jyn"
-   ]
+   ],
+   "apic": "Jyn Erso"
   },
   {
    "q": "What blue lightning does Palpatine shoot from his fingers?",
@@ -751,7 +883,9 @@
    "p": 400,
    "alt": [
     "Anakin"
-   ]
+   ],
+   "pic": "Count Dooku",
+   "apic": "Darth Vader"
   },
   {
    "q": "Who kills General Grievous?",
@@ -759,7 +893,9 @@
    "p": 400,
    "alt": [
     "Obi-Wan"
-   ]
+   ],
+   "pic": "General Grievous",
+   "apic": "Obi-Wan Kenobi"
   },
   {
    "q": "Who betrays Han to Darth Vader on Cloud City?",
@@ -767,7 +903,9 @@
    "p": 400,
    "alt": [
     "Lando"
-   ]
+   ],
+   "pic": "Han Solo",
+   "apic": "Lando Calrissian"
   },
   {
    "q": "Which Mon Calamari admiral leads the Rebel fleet at the Battle of Endor?",
@@ -775,17 +913,20 @@
    "p": 400,
    "alt": [
     "Ackbar"
-   ]
+   ],
+   "apic": "Admiral Ackbar"
   },
   {
    "q": "Which small bird-like creatures live on Ahch-To?",
    "a": "Porgs",
-   "p": 400
+   "p": 400,
+   "apic": "Porg"
   },
   {
    "q": "Which actor plays Emperor Palpatine?",
    "a": "Ian McDiarmid",
-   "p": 400
+   "p": 400,
+   "apic": "Ian McDiarmid"
   },
   {
    "q": "What colour was Luke's first lightsaber, inherited from his father?",
@@ -795,12 +936,15 @@
   {
    "q": "Which Ugnaught helps the Mandalorian in season one, played by Nick Nolte?",
    "a": "Kuiil",
-   "p": 400
+   "p": 400,
+   "pic": "The Mandalorian"
   },
   {
    "q": "Which Jedi trains Rey in The Last Jedi?",
    "a": "Luke Skywalker",
-   "p": 400
+   "p": 400,
+   "pic": "Rey (Star Wars)",
+   "apic": "Luke Skywalker"
   },
   {
    "q": "Which purple-haired Resistance vice admiral, played by Laura Dern, sacrifices herself in The Last Jedi?",
@@ -814,7 +958,8 @@
   {
    "q": "Who directed The Empire Strikes Back?",
    "a": "Irvin Kershner",
-   "p": 600
+   "p": 600,
+   "apic": "Irvin Kershner"
   },
   {
    "q": "What type of crystal powers a lightsaber?",
@@ -827,7 +972,8 @@
   {
    "q": "Who directed Return of the Jedi?",
    "a": "Richard Marquand",
-   "p": 600
+   "p": 600,
+   "apic": "Richard Marquand"
   },
   {
    "q": "What was Boba Fett's ship originally called?",
@@ -861,17 +1007,21 @@
    "p": 600,
    "alt": [
     "Sidious"
-   ]
+   ],
+   "apic": "Palpatine"
   },
   {
    "q": "Who was the supervising director of The Clone Wars animated series?",
    "a": "Dave Filoni",
-   "p": 600
+   "p": 600,
+   "pic": "Star Wars: The Clone Wars (2008 TV series)",
+   "apic": "Dave Filoni"
   },
   {
    "q": "Who created the series Andor?",
    "a": "Tony Gilroy",
-   "p": 600
+   "p": 600,
+   "apic": "Tony Gilroy"
   },
   {
    "q": "On which planet is the prison factory where Cassian is held in Andor?",
@@ -894,7 +1044,8 @@
    "p": 600,
    "alt": [
     "Krennic"
-   ]
+   ],
+   "apic": "Orson Krennic"
   },
   {
    "q": "On which moon was the Rebel base in A New Hope?",
@@ -902,7 +1053,8 @@
    "p": 600,
    "alt": [
     "Yavin IV"
-   ]
+   ],
+   "pic": "Star Wars (film)"
   },
   {
    "q": "Which Sith Lord was Palpatine's master?",
@@ -918,37 +1070,49 @@
    "p": 600,
    "alt": [
     "ILM"
-   ]
+   ],
+   "pic": "George Lucas",
+   "apic": "Industrial Light & Magic"
   },
   {
    "q": "Which actor played Grand Moff Tarkin in A New Hope?",
    "a": "Peter Cushing",
-   "p": 600
+   "p": 600,
+   "apic": "Peter Cushing"
   },
   {
    "q": "Which actor played Chewbacca in the original trilogy?",
    "a": "Peter Mayhew",
-   "p": 600
+   "p": 600,
+   "pic": "Chewbacca",
+   "apic": "Peter Mayhew"
   },
   {
    "q": "Which actor was inside R2-D2 in the original trilogy?",
    "a": "Kenny Baker",
-   "p": 600
+   "p": 600,
+   "pic": "R2-D2",
+   "apic": "Kenny Baker (English actor)"
   },
   {
    "q": "Which actor has played C-3PO since 1977?",
    "a": "Anthony Daniels",
-   "p": 600
+   "p": 600,
+   "pic": "C-3PO",
+   "apic": "Anthony Daniels"
   },
   {
    "q": "Who created The Mandalorian?",
    "a": "Jon Favreau",
-   "p": 600
+   "p": 600,
+   "pic": "The Mandalorian",
+   "apic": "Jon Favreau"
   },
   {
    "q": "Which assassin droid is voiced by Taika Waititi in The Mandalorian?",
    "a": "IG-11",
-   "p": 600
+   "p": 600,
+   "pic": "Taika Waititi"
   },
   {
    "q": "Which smuggling route did Han Solo boast of completing in record time?",
@@ -973,7 +1137,8 @@
   {
    "q": "Which reprogrammed Imperial droid is voiced by Alan Tudyk in Rogue One?",
    "a": "K-2SO",
-   "p": 600
+   "p": 600,
+   "apic": "K-2SO"
   },
   {
    "q": "Which animated series follows the crew of the ship Ghost?",
@@ -981,7 +1146,8 @@
    "p": 600,
    "alt": [
     "Rebels"
-   ]
+   ],
+   "apic": "Star Wars Rebels"
   },
   {
    "q": "Which 1978 television special did George Lucas famously disown?",
@@ -989,7 +1155,8 @@
    "p": 600,
    "alt": [
     "The Holiday Special"
-   ]
+   ],
+   "apic": "Star Wars Holiday Special"
   },
   {
    "q": "Which tentacled creature lurks in the Death Star trash compactor?",
@@ -1021,7 +1188,8 @@
   {
    "q": "Which actress plays Bo-Katan Kryze in live action?",
    "a": "Katee Sackhoff",
-   "p": 600
+   "p": 600,
+   "apic": "Katee Sackhoff"
   },
   {
    "q": "Which Rebel spymaster in Andor is played by Stellan Skarsgård?",
@@ -1029,7 +1197,8 @@
    "p": 600,
    "alt": [
     "Luthen"
-   ]
+   ],
+   "pic": "Stellan Skarsgård"
   },
   {
    "q": "On which planet does a massacre take place in Andor's second season?",
@@ -1039,7 +1208,8 @@
   {
    "q": "Which actress plays Mon Mothma in Andor and Rogue One?",
    "a": "Genevieve O'Reilly",
-   "p": 600
+   "p": 600,
+   "apic": "Genevieve O'Reilly"
   },
   {
    "q": "What is the name of the old household droid in Andor?",
@@ -1057,12 +1227,15 @@
   {
    "q": "Which actor played Jango Fett in Attack of the Clones?",
    "a": "Temuera Morrison",
-   "p": 600
+   "p": 600,
+   "pic": "Jango Fett",
+   "apic": "Temuera Morrison"
   },
   {
    "q": "Which 2024 series set in the High Republic era features Jedi Master Sol?",
    "a": "The Acolyte",
-   "p": 600
+   "p": 600,
+   "apic": "The Acolyte (TV series)"
   },
   {
    "q": "Which 2024 series follows children lost in space alongside Jude Law?",
@@ -1070,7 +1243,9 @@
    "p": 600,
    "alt": [
     "Star Wars: Skeleton Crew"
-   ]
+   ],
+   "pic": "Jude Law",
+   "apic": "Star Wars: Skeleton Crew"
   },
   {
    "q": "What is the name of the grumpy astromech droid aboard the Ghost?",
@@ -1086,7 +1261,8 @@
    "p": 600,
    "alt": [
     "Kanan"
-   ]
+   ],
+   "apic": "Kanan Jarrus"
   },
   {
    "q": "Which Twi'lek pilots the Ghost in Star Wars Rebels?",
@@ -1094,7 +1270,8 @@
    "p": 600,
    "alt": [
     "Hera"
-   ]
+   ],
+   "apic": "Hera Syndulla"
   },
   {
    "q": "Which bodybuilder physically played Darth Vader in the original trilogy?",
@@ -1102,47 +1279,60 @@
    "p": 600,
    "alt": [
     "Dave Prowse"
-   ]
+   ],
+   "pic": "Darth Vader",
+   "apic": "David Prowse"
   },
   {
    "q": "Which actor played young Lando in Solo: A Star Wars Story?",
    "a": "Donald Glover",
-   "p": 600
+   "p": 600,
+   "apic": "Donald Glover"
   },
   {
    "q": "Who directed Rogue One?",
    "a": "Gareth Edwards",
-   "p": 600
+   "p": 600,
+   "apic": "Gareth Edwards"
   },
   {
    "q": "Who directed Solo: A Star Wars Story?",
    "a": "Ron Howard",
-   "p": 600
+   "p": 600,
+   "apic": "Ron Howard"
   },
   {
    "q": "Who became president of Lucasfilm in 2012?",
    "a": "Kathleen Kennedy",
-   "p": 600
+   "p": 600,
+   "pic": "Lucasfilm",
+   "apic": "Kathleen Kennedy (producer)"
   },
   {
    "q": "Tatooine was named after which town in Tunisia?",
    "a": "Tataouine",
-   "p": 600
+   "p": 600,
+   "pic": "Tatooine",
+   "apic": "Tataouine"
   },
   {
    "q": "In which Tunisian town is the hotel used for Luke's childhood home?",
    "a": "Matmata",
-   "p": 600
+   "p": 600,
+   "apic": "Matmata"
   },
   {
    "q": "Which Akira Kurosawa film was a major influence on A New Hope?",
    "a": "The Hidden Fortress",
-   "p": 600
+   "p": 600,
+   "pic": "Akira Kurosawa",
+   "apic": "The Hidden Fortress"
   },
   {
    "q": "Which actress plays Jyn Erso?",
    "a": "Felicity Jones",
-   "p": 600
+   "p": 600,
+   "apic": "Felicity Jones"
   },
   {
    "q": "On which sinkhole planet does Obi-Wan kill General Grievous?",
@@ -1162,22 +1352,28 @@
   {
    "q": "Which actor played young Anakin in The Phantom Menace?",
    "a": "Jake Lloyd",
-   "p": 600
+   "p": 600,
+   "pic": "Anakin Skywalker",
+   "apic": "Jake Lloyd"
   },
   {
    "q": "Which actor played Jar Jar Binks?",
    "a": "Ahmed Best",
-   "p": 600
+   "p": 600,
+   "pic": "Jar Jar Binks",
+   "apic": "Ahmed Best"
   },
   {
    "q": "Which actor played Greef Karga in The Mandalorian?",
    "a": "Carl Weathers",
-   "p": 600
+   "p": 600,
+   "apic": "Carl Weathers"
   },
   {
    "q": "Which actor plays General Hux?",
    "a": "Domhnall Gleeson",
-   "p": 600
+   "p": 600,
+   "apic": "Domhnall Gleeson"
   },
   {
    "q": "In which London-area studio was much of the original Star Wars filmed?",
@@ -1185,7 +1381,8 @@
    "p": 600,
    "alt": [
     "Elstree"
-   ]
+   ],
+   "apic": "Elstree Studios"
   },
   {
    "q": "What was the name of Vader's personal starfighter at the Battle of Yavin?",

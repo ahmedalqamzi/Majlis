@@ -5,12 +5,14 @@
   {
    "q": "Which planet is third from the Sun?",
    "a": "Earth",
-   "p": 200
+   "p": 200,
+   "apic": "Earth"
   },
   {
    "q": "Which former ninth planet was reclassified as a dwarf planet in 2006?",
    "a": "Pluto",
-   "p": 200
+   "p": 200,
+   "apic": "Pluto"
   },
   {
    "q": "Who was the second person to walk on the Moon?",
@@ -18,7 +20,8 @@
    "p": 200,
    "alt": [
     "Edwin Aldrin"
-   ]
+   ],
+   "apic": "Buzz Aldrin"
   },
   {
    "q": "What was the name of the first artificial satellite, launched in 1957?",
@@ -26,32 +29,38 @@
    "p": 200,
    "alt": [
     "Sputnik"
-   ]
+   ],
+   "apic": "Sputnik 1"
   },
   {
    "q": "Which planet is named after the Roman god of the sea?",
    "a": "Neptune",
-   "p": 200
+   "p": 200,
+   "apic": "Neptune"
   },
   {
    "q": "Which planet is named after the Roman goddess of love and beauty?",
    "a": "Venus",
-   "p": 200
+   "p": 200,
+   "apic": "Venus"
   },
   {
    "q": "What is the scientific name for a 'shooting star'?",
    "a": "Meteor",
-   "p": 200
+   "p": 200,
+   "apic": "Meteoroid"
   },
   {
    "q": "What do we call a named pattern of stars in the night sky?",
    "a": "Constellation",
-   "p": 200
+   "p": 200,
+   "apic": "Constellation"
   },
   {
    "q": "Which constellation is known as the Hunter and has a famous belt of three stars?",
    "a": "Orion",
-   "p": 200
+   "p": 200,
+   "apic": "Orion (constellation)"
   },
   {
    "q": "Who became the first Emirati in space in 2019?",
@@ -60,7 +69,8 @@
    "ar": "هزاع المنصوري",
    "alt": [
     "Hazza Al Mansoori"
-   ]
+   ],
+   "apic": "Hazza Al Mansouri"
   },
   {
    "q": "What is the name of the UAE's Mars mission that reached orbit around Mars in 2021?",
@@ -70,18 +80,21 @@
    "alt": [
     "Al Amal",
     "Hope"
-   ]
+   ],
+   "apic": "Emirates Mars Mission"
   },
   {
    "q": "Which Emirati astronaut spent about six months on the International Space Station in 2023?",
    "a": "Sultan Al Neyadi",
    "p": 200,
-   "ar": "سلطان النيادي"
+   "ar": "سلطان النيادي",
+   "apic": "Sultan Al Neyadi"
   },
   {
    "q": "What is the name for an icy body that grows a glowing tail when it nears the Sun?",
    "a": "Comet",
-   "p": 200
+   "p": 200,
+   "apic": "Comet"
   },
   {
    "q": "What is the region of rocky bodies between Mars and Jupiter called?",
@@ -89,7 +102,8 @@
    "p": 200,
    "alt": [
     "The asteroid belt"
-   ]
+   ],
+   "apic": "Asteroid belt"
   },
   {
    "q": "Which orbiting laboratory, whose first module launched in 1998, is shared by the US, Russia, Europe, Japan and Canada?",
@@ -97,17 +111,20 @@
    "p": 200,
    "alt": [
     "ISS"
-   ]
+   ],
+   "apic": "International Space Station"
   },
   {
    "q": "What is it called when the Moon passes between the Sun and Earth and blocks the Sun's light?",
    "a": "Solar eclipse",
-   "p": 200
+   "p": 200,
+   "apic": "Solar eclipse"
   },
   {
    "q": "What is it called when Earth's shadow falls across the Moon?",
    "a": "Lunar eclipse",
-   "p": 200
+   "p": 200,
+   "apic": "Lunar eclipse"
   },
   {
    "q": "Roughly how many days does Earth take to orbit the Sun once?",
@@ -124,7 +141,8 @@
    "p": 200,
    "alt": [
     "Star"
-   ]
+   ],
+   "apic": "Sun"
   },
   {
    "q": "What is the name for the distance light travels in one year?",
@@ -140,17 +158,20 @@
    "p": 200,
    "alt": [
     "Andromeda Galaxy"
-   ]
+   ],
+   "apic": "Andromeda Galaxy"
   },
   {
    "q": "Which Apollo mission suffered an oxygen tank explosion in 1970 but brought its crew home safely?",
    "a": "Apollo 13",
-   "p": 200
+   "p": 200,
+   "apic": "Apollo 13"
   },
   {
    "q": "What is the scientific name for the Northern Lights?",
    "a": "Aurora borealis",
-   "p": 200
+   "p": 200,
+   "apic": "Aurora"
   },
   {
    "q": "What is the name of the theory that the universe began from an extremely hot, dense state?",
@@ -163,12 +184,15 @@
   {
    "q": "What are the darker, cooler patches on the Sun's surface called?",
    "a": "Sunspots",
-   "p": 200
+   "p": 200,
+   "apic": "Sunspot"
   },
   {
    "q": "In which US state is NASA's Kennedy Space Center?",
    "a": "Florida",
-   "p": 200
+   "p": 200,
+   "pic": "Kennedy Space Center",
+   "apic": "Florida"
   },
   {
    "q": "What do we call the path a planet follows around the Sun?",
@@ -178,12 +202,14 @@
   {
    "q": "Which is the smallest planet in our solar system?",
    "a": "Mercury",
-   "p": 200
+   "p": 200,
+   "apic": "Mercury (planet)"
   },
   {
    "q": "Which planet is named after the Greek god of the sky?",
    "a": "Uranus",
-   "p": 200
+   "p": 200,
+   "apic": "Uranus"
   },
   {
    "q": "What is the name of the thin curved phase of the Moon whose sighting marks the start of Islamic months?",
@@ -197,7 +223,8 @@
   {
    "q": "What instrument do astronomers use to see distant objects in the sky?",
    "a": "Telescope",
-   "p": 200
+   "p": 200,
+   "apic": "Telescope"
   },
   {
    "q": "What is a Russian or Soviet astronaut called?",
@@ -207,12 +234,14 @@
   {
    "q": "What do we call a huge system of stars, gas and dust held together by gravity?",
    "a": "Galaxy",
-   "p": 200
+   "p": 200,
+   "apic": "Galaxy"
   },
   {
    "q": "What is a space rock that survives its fall and lands on Earth called?",
    "a": "Meteorite",
-   "p": 200
+   "p": 200,
+   "apic": "Meteorite"
   },
   {
    "q": "What imaginary line does Earth spin around?",
@@ -225,7 +254,8 @@
   {
    "q": "Which planet lies between Earth and Jupiter?",
    "a": "Mars",
-   "p": 200
+   "p": 200,
+   "apic": "Mars"
   },
   {
    "q": "What was the name of NASA's programme that landed astronauts on the Moon between 1969 and 1972?",
@@ -233,12 +263,14 @@
    "p": 200,
    "alt": [
     "Apollo programme"
-   ]
+   ],
+   "apic": "Apollo program"
   },
   {
    "q": "What name is given to the Sun together with all the planets, moons and other bodies that orbit it?",
    "a": "Solar system",
-   "p": 200
+   "p": 200,
+   "apic": "Solar System"
   },
   {
    "q": "How many natural moons does Earth have?",
@@ -246,22 +278,26 @@
    "p": 200,
    "alt": [
     "1"
-   ]
+   ],
+   "apic": "Moon"
   },
   {
    "q": "Who founded the rocket company SpaceX in 2002?",
    "a": "Elon Musk",
-   "p": 200
+   "p": 200,
+   "apic": "Elon Musk"
   },
   {
    "q": "What are the bowl-shaped dents covering the Moon's surface, made by impacts, called?",
    "a": "Craters",
-   "p": 200
+   "p": 200,
+   "apic": "Impact crater"
   },
   {
    "q": "What name is given to a full moon that looks bigger because it is near its closest point to Earth?",
    "a": "Supermoon",
-   "p": 200
+   "p": 200,
+   "apic": "Supermoon"
   },
   {
    "q": "What name is given to a second full moon in a single calendar month?",
@@ -276,12 +312,14 @@
   {
    "q": "Which constellation of the zodiac is represented by a lion?",
    "a": "Leo",
-   "p": 200
+   "p": 200,
+   "apic": "Leo (constellation)"
   },
   {
    "q": "Which Russian dog became the first animal to orbit Earth, in 1957?",
    "a": "Laika",
-   "p": 200
+   "p": 200,
+   "apic": "Laika"
   },
   {
    "q": "What is the name of China's lunar exploration programme, named after a Moon goddess?",
@@ -291,7 +329,8 @@
   {
    "q": "What is the name for the huge explosion of a dying massive star?",
    "a": "Supernova",
-   "p": 400
+   "p": 400,
+   "apic": "Supernova"
   },
   {
    "q": "Which famous comet returns to the inner solar system about every 76 years?",
@@ -299,7 +338,8 @@
    "p": 400,
    "alt": [
     "Halley"
-   ]
+   ],
+   "apic": "Halley's Comet"
   },
   {
    "q": "What is the boundary around a black hole beyond which nothing can escape?",
@@ -312,12 +352,14 @@
    "p": 400,
    "alt": [
     "Great Bear"
-   ]
+   ],
+   "apic": "Ursa Major"
   },
   {
    "q": "Which NASA rover landed in Jezero Crater on Mars in 2021?",
    "a": "Perseverance",
-   "p": 400
+   "p": 400,
+   "apic": "Perseverance (rover)"
   },
   {
    "q": "About how long does sunlight take to reach Earth?",
@@ -331,17 +373,20 @@
   {
    "q": "What is the proper name of the North Star?",
    "a": "Polaris",
-   "p": 400
+   "p": 400,
+   "apic": "Polaris"
   },
   {
    "q": "Which space shuttle broke apart shortly after launch in January 1986?",
    "a": "Challenger",
-   "p": 400
+   "p": 400,
+   "apic": "Space Shuttle Challenger"
   },
   {
    "q": "What was the name of the Soviet and Russian space station that orbited from 1986 to 2001?",
    "a": "Mir",
-   "p": 400
+   "p": 400,
+   "apic": "Mir"
   },
   {
    "q": "What term is often used for a Chinese astronaut?",
@@ -351,7 +396,8 @@
   {
    "q": "Which country's Chandrayaan-3 mission landed near the Moon's south pole in 2023?",
    "a": "India",
-   "p": 400
+   "p": 400,
+   "apic": "India"
   },
   {
    "q": "What is the name of Japan's national space agency?",
@@ -359,7 +405,8 @@
    "p": 400,
    "alt": [
     "Japan Aerospace Exploration Agency"
-   ]
+   ],
+   "apic": "JAXA"
   },
   {
    "q": "What does NASA stand for?",
@@ -373,36 +420,42 @@
    "ar": "سلطان بن سلمان",
    "alt": [
     "Prince Sultan bin Salman Al Saud"
-   ]
+   ],
+   "apic": "Sultan bin Salman Al Saud"
   },
   {
    "q": "Who became the first Saudi woman in space in 2023?",
    "a": "Rayyanah Barnawi",
    "p": 400,
-   "ar": "ريانة برناوي"
+   "ar": "ريانة برناوي",
+   "apic": "Rayyanah Barnawi"
   },
   {
    "q": "Which bright orange star, whose Arabic name means 'the follower', follows the Pleiades across the sky?",
    "a": "Aldebaran",
    "p": 400,
-   "ar": "الدبران"
+   "ar": "الدبران",
+   "apic": "Aldebaran"
   },
   {
    "q": "Which red supergiant marks Orion's shoulder, its name coming from the Arabic for 'hand of al-Jawza'?",
    "a": "Betelgeuse",
    "p": 400,
-   "ar": "يد الجوزاء"
+   "ar": "يد الجوزاء",
+   "apic": "Betelgeuse"
   },
   {
    "q": "Which bright blue-white star marks Orion's foot, its name coming from the Arabic word for 'foot'?",
    "a": "Rigel",
    "p": 400,
-   "ar": "رجل الجبار"
+   "ar": "رجل الجبار",
+   "apic": "Rigel"
   },
   {
    "q": "Which star, nicknamed the Dog Star, is the brightest star in the night sky?",
    "a": "Sirius",
-   "p": 400
+   "p": 400,
+   "apic": "Sirius"
   },
   {
    "q": "Which star cluster, also called the Seven Sisters, is known in Arabic as al-Thurayya?",
@@ -412,7 +465,8 @@
    "alt": [
     "Thurayya",
     "Seven Sisters"
-   ]
+   ],
+   "apic": "Pleiades"
   },
   {
    "q": "Which bright southern star is called Suhail in Arabic, its rising said to mark the end of summer heat in the Gulf?",
@@ -422,13 +476,15 @@
    "alt": [
     "Suhail",
     "Suhayl"
-   ]
+   ],
+   "apic": "Canopus"
   },
   {
    "q": "What hand-held instrument, perfected by Islamic-era astronomers, was used to measure the positions of stars?",
    "a": "Astrolabe",
    "p": 400,
-   "ar": "الأسطرلاب"
+   "ar": "الأسطرلاب",
+   "apic": "Astrolabe"
   },
   {
    "q": "What are the names of the two moons of Mars?",
@@ -438,22 +494,26 @@
   {
    "q": "What is the largest moon in our solar system?",
    "a": "Ganymede",
-   "p": 400
+   "p": 400,
+   "apic": "Ganymede (moon)"
   },
   {
    "q": "Which icy moon of Jupiter is thought to hide a salty ocean under its frozen crust?",
    "a": "Europa",
-   "p": 400
+   "p": 400,
+   "apic": "Europa (moon)"
   },
   {
    "q": "What is the name of the giant shield volcano on Mars, the tallest known in the solar system?",
    "a": "Olympus Mons",
-   "p": 400
+   "p": 400,
+   "apic": "Olympus Mons"
   },
   {
    "q": "Which NASA probe made the first flyby of Pluto, in 2015?",
    "a": "New Horizons",
-   "p": 400
+   "p": 400,
+   "apic": "New Horizons"
   },
   {
    "q": "Which NASA-ESA spacecraft orbited Saturn from 2004 until it dived into the planet in 2017?",
@@ -461,7 +521,8 @@
    "p": 400,
    "alt": [
     "Cassini-Huygens"
-   ]
+   ],
+   "apic": "Cassini–Huygens"
   },
   {
    "q": "What gold-plated disc of sounds and images was carried by both Voyager probes?",
@@ -469,27 +530,32 @@
    "p": 400,
    "alt": [
     "Voyager Golden Record"
-   ]
+   ],
+   "apic": "Voyager Golden Record"
   },
   {
    "q": "What is the name of the famous 1990 photo of Earth taken by Voyager 1 from about 6 billion km away?",
    "a": "Pale Blue Dot",
-   "p": 400
+   "p": 400,
+   "apic": "Pale Blue Dot"
   },
   {
    "q": "Which astronomer presented the 1980 TV series Cosmos?",
    "a": "Carl Sagan",
-   "p": 400
+   "p": 400,
+   "apic": "Carl Sagan"
   },
   {
    "q": "Which American astronomer showed in the 1920s that distant galaxies are moving away from us?",
    "a": "Edwin Hubble",
-   "p": 400
+   "p": 400,
+   "apic": "Edwin Hubble"
   },
   {
    "q": "Which Apollo 11 astronaut stayed in lunar orbit while the other two landed?",
    "a": "Michael Collins",
-   "p": 400
+   "p": 400,
+   "apic": "Michael Collins (astronaut)"
   },
   {
    "q": "How many astronauts walked on the Moon during the Apollo programme?",
@@ -505,17 +571,20 @@
    "p": 400,
    "alt": [
     "Saturn 5"
-   ]
+   ],
+   "apic": "Saturn V"
   },
   {
    "q": "NASA's programme to return humans to the Moon is named after which twin sister of Apollo?",
    "a": "Artemis",
-   "p": 400
+   "p": 400,
+   "apic": "Artemis program"
   },
   {
    "q": "What is the Sun's outer atmosphere, visible during a total solar eclipse, called?",
    "a": "Corona",
-   "p": 400
+   "p": 400,
+   "apic": "Stellar corona"
   },
   {
    "q": "What is the name for the two days each year when day and night are roughly equal in length?",
@@ -523,12 +592,14 @@
    "p": 400,
    "alt": [
     "Equinoxes"
-   ]
+   ],
+   "apic": "Equinox"
   },
   {
    "q": "What is the nearest star to the Sun?",
    "a": "Proxima Centauri",
-   "p": 400
+   "p": 400,
+   "apic": "Proxima Centauri"
   },
   {
    "q": "Which two planets are known as the ice giants?",
@@ -538,12 +609,14 @@
   {
    "q": "Which astronomer discovered Uranus in 1781?",
    "a": "William Herschel",
-   "p": 400
+   "p": 400,
+   "apic": "William Herschel"
   },
   {
    "q": "Who became the first American woman in space in 1983?",
    "a": "Sally Ride",
-   "p": 400
+   "p": 400,
+   "apic": "Sally Ride"
   },
   {
    "q": "Which constellation of the zodiac is the Scorpion, containing the red star Antares?",
@@ -551,7 +624,8 @@
    "p": 400,
    "alt": [
     "Scorpio"
-   ]
+   ],
+   "apic": "Scorpius"
   },
   {
    "q": "What was the name of the Apollo 11 lunar module that landed on the Moon?",
@@ -561,7 +635,8 @@
   {
    "q": "In which Texas city is NASA's Mission Control at the Johnson Space Center?",
    "a": "Houston",
-   "p": 400
+   "p": 400,
+   "apic": "Houston"
   },
   {
    "q": "Which compound in its soil gives Mars its red colour?",
@@ -569,7 +644,9 @@
    "p": 400,
    "alt": [
     "Rust"
-   ]
+   ],
+   "pic": "Mars",
+   "apic": "Iron(III) oxide"
   },
   {
    "q": "Which meteor shower peaks every year in mid-August?",
@@ -577,7 +654,8 @@
    "p": 400,
    "alt": [
     "Perseid meteor shower"
-   ]
+   ],
+   "apic": "Perseids"
   },
   {
    "q": "What is the name of SpaceX's capsule that carries crews to the ISS?",
@@ -585,22 +663,26 @@
    "p": 400,
    "alt": [
     "Dragon"
-   ]
+   ],
+   "apic": "SpaceX Dragon 2"
   },
   {
    "q": "What is the incredibly dense collapsed core left after some supernovae, made almost entirely of neutrons?",
    "a": "Neutron star",
-   "p": 400
+   "p": 400,
+   "apic": "Neutron star"
   },
   {
    "q": "What type of star will the Sun swell into near the end of its life?",
    "a": "Red giant",
-   "p": 400
+   "p": 400,
+   "apic": "Red giant"
   },
   {
    "q": "Which country landed the first spacecraft on the far side of the Moon, in 2019?",
    "a": "China",
-   "p": 400
+   "p": 400,
+   "apic": "China"
   },
   {
    "q": "About how many days is the cycle from one new moon to the next?",
@@ -627,17 +709,20 @@
    "alt": [
     "Water ice",
     "Ice and rock"
-   ]
+   ],
+   "pic": "Rings of Saturn"
   },
   {
    "q": "Which planet takes longer to spin once on its axis than to orbit the Sun?",
    "a": "Venus",
-   "p": 400
+   "p": 400,
+   "apic": "Venus"
   },
   {
    "q": "Which dwarf planet is the largest object in the asteroid belt?",
    "a": "Ceres",
-   "p": 400
+   "p": 400,
+   "apic": "Ceres (dwarf planet)"
   },
   {
    "q": "What do we call a planet that orbits a star other than the Sun?",
@@ -645,7 +730,8 @@
    "p": 400,
    "alt": [
     "Extrasolar planet"
-   ]
+   ],
+   "apic": "Exoplanet"
   },
   {
    "q": "What was the name of Yuri Gagarin's spacecraft?",
@@ -653,22 +739,27 @@
    "p": 400,
    "alt": [
     "Vostok"
-   ]
+   ],
+   "pic": "Yuri Gagarin",
+   "apic": "Vostok 1"
   },
   {
    "q": "Who became the first American in space in 1961?",
    "a": "Alan Shepard",
-   "p": 400
+   "p": 400,
+   "apic": "Alan Shepard"
   },
   {
    "q": "Who became the first American to orbit Earth, in 1962?",
    "a": "John Glenn",
-   "p": 400
+   "p": 400,
+   "apic": "John Glenn"
   },
   {
    "q": "Who made the first ever spacewalk, in 1965?",
    "a": "Alexei Leonov",
-   "p": 400
+   "p": 400,
+   "apic": "Alexei Leonov"
   },
   {
    "q": "Which twin NASA rovers landed on Mars in January 2004?",
@@ -681,12 +772,14 @@
    "p": 400,
    "alt": [
     "Original Seven"
-   ]
+   ],
+   "apic": "Mercury Seven"
   },
   {
    "q": "Which Russian crew spacecraft family first flew in 1967?",
    "a": "Soyuz",
-   "p": 400
+   "p": 400,
+   "apic": "Soyuz (spacecraft)"
   },
   {
    "q": "In which lunar 'sea' did Apollo 11 land?",
@@ -694,12 +787,14 @@
    "p": 400,
    "alt": [
     "Mare Tranquillitatis"
-   ]
+   ],
+   "apic": "Mare Tranquillitatis"
   },
   {
    "q": "Which British physicist predicted that black holes should give off radiation?",
    "a": "Stephen Hawking",
-   "p": 400
+   "p": 400,
+   "apic": "Stephen Hawking"
   },
   {
    "q": "What colour are the hottest stars?",
@@ -712,27 +807,32 @@
   {
    "q": "Which planet is less dense than water?",
    "a": "Saturn",
-   "p": 400
+   "p": 400,
+   "apic": "Saturn"
   },
   {
    "q": "What is the name of a rapidly spinning neutron star that sends out beams of radiation like a lighthouse?",
    "a": "Pulsar",
-   "p": 400
+   "p": 400,
+   "apic": "Pulsar"
   },
   {
    "q": "Which W-shaped constellation is named after a vain queen of Greek myth?",
    "a": "Cassiopeia",
-   "p": 400
+   "p": 400,
+   "apic": "Cassiopeia (constellation)"
   },
   {
    "q": "Which constellation of the zodiac is the Bull?",
    "a": "Taurus",
-   "p": 400
+   "p": 400,
+   "apic": "Taurus (constellation)"
   },
   {
    "q": "What is the second most abundant element in the Sun?",
    "a": "Helium",
-   "p": 400
+   "p": 400,
+   "apic": "Helium"
   },
   {
    "q": "Roughly how many sunrises do astronauts on the ISS see each day?",
@@ -754,12 +854,14 @@
   {
    "q": "Which Chinese astronaut became the country's first person in space in 2003?",
    "a": "Yang Liwei",
-   "p": 600
+   "p": 600,
+   "apic": "Yang Liwei"
   },
   {
    "q": "What was the name of the small helicopter that made the first powered flight on another planet, in 2021?",
    "a": "Ingenuity",
-   "p": 600
+   "p": 600,
+   "apic": "Ingenuity (helicopter)"
   },
   {
    "q": "What was the name of the UAE's first lunar rover, lost in a landing attempt in 2023?",
@@ -768,12 +870,15 @@
    "ar": "راشد",
    "alt": [
     "Rashid rover"
-   ]
+   ],
+   "apic": "Rashid (rover)"
   },
   {
    "q": "From which country was the UAE's Hope Probe launched in 2020?",
    "a": "Japan",
-   "p": 600
+   "p": 600,
+   "pic": "Emirates Mars Mission",
+   "apic": "Japan"
   },
   {
    "q": "Which Dubai space centre built KhalifaSat, the first satellite made entirely in the UAE?",
@@ -782,7 +887,8 @@
    "ar": "مركز محمد بن راشد للفضاء",
    "alt": [
     "MBRSC"
-   ]
+   ],
+   "apic": "Mohammed bin Rashid Space Centre"
   },
   {
    "q": "In which year was the UAE Space Agency established?",
@@ -793,37 +899,43 @@
    "q": "Which brightest star of Aquila takes its name from the Arabic for 'the flying eagle'?",
    "a": "Altair",
    "p": 600,
-   "ar": "النسر الطائر"
+   "ar": "النسر الطائر",
+   "apic": "Altair"
   },
   {
    "q": "Which brightest star of Lyra takes its name from the Arabic for 'the swooping eagle'?",
    "a": "Vega",
    "p": 600,
-   "ar": "النسر الواقع"
+   "ar": "النسر الواقع",
+   "apic": "Vega"
   },
   {
    "q": "Which brightest star of Cygnus takes its name from the Arabic for 'tail'?",
    "a": "Deneb",
    "p": 600,
-   "ar": "ذنب الدجاجة"
+   "ar": "ذنب الدجاجة",
+   "apic": "Deneb"
   },
   {
    "q": "Which variable star in Perseus is nicknamed the Demon Star, from the Arabic 'ra's al-ghul'?",
    "a": "Algol",
    "p": 600,
-   "ar": "رأس الغول"
+   "ar": "رأس الغول",
+   "apic": "Algol"
   },
   {
    "q": "Which bright southern star's name comes from the Arabic for 'mouth of the fish'?",
    "a": "Fomalhaut",
    "p": 600,
-   "ar": "فم الحوت"
+   "ar": "فم الحوت",
+   "apic": "Fomalhaut"
   },
   {
    "q": "Which star in the Big Dipper's handle forms a famous naked-eye pair with Alcor?",
    "a": "Mizar",
    "p": 600,
-   "ar": "المئزر"
+   "ar": "المئزر",
+   "apic": "Mizar"
   },
   {
    "q": "Which Timurid ruler built a great observatory in Samarkand in the 1420s?",
@@ -871,7 +983,8 @@
    "p": 600,
    "alt": [
     "Claudius Ptolemy"
-   ]
+   ],
+   "apic": "Ptolemy"
   },
   {
    "q": "Which Syrian cosmonaut flew to the Mir space station in 1987?",
@@ -880,47 +993,56 @@
    "ar": "محمد فارس",
    "alt": [
     "Mohammed Faris"
-   ]
+   ],
+   "apic": "Muhammed Faris"
   },
   {
    "q": "Which moon of Jupiter is the most volcanically active body in the solar system?",
    "a": "Io",
-   "p": 600
+   "p": 600,
+   "apic": "Io (moon)"
   },
   {
    "q": "Which large moon of Neptune orbits in the opposite direction to the planet's spin?",
    "a": "Triton",
-   "p": 600
+   "p": 600,
+   "apic": "Triton (moon)"
   },
   {
    "q": "Which moon of Saturn shoots geysers of water ice from its south pole?",
    "a": "Enceladus",
-   "p": 600
+   "p": 600,
+   "apic": "Enceladus"
   },
   {
    "q": "What is the largest moon of Pluto?",
    "a": "Charon",
-   "p": 600
+   "p": 600,
+   "apic": "Charon (moon)"
   },
   {
    "q": "What is the name of the vast canyon system on Mars?",
    "a": "Valles Marineris",
-   "p": 600
+   "p": 600,
+   "apic": "Valles Marineris"
   },
   {
    "q": "Which NASA probe arrived in orbit around Jupiter in 2016?",
    "a": "Juno",
-   "p": 600
+   "p": 600,
+   "apic": "Juno (spacecraft)"
   },
   {
    "q": "What was the name of the lander that Rosetta dropped onto a comet in 2014?",
    "a": "Philae",
-   "p": 600
+   "p": 600,
+   "apic": "Philae (spacecraft)"
   },
   {
    "q": "Which Japanese probe was the first to bring back samples from an asteroid?",
    "a": "Hayabusa",
-   "p": 600
+   "p": 600,
+   "apic": "Hayabusa"
   },
   {
    "q": "Who was the last person to walk on the Moon, in 1972?",
@@ -928,22 +1050,26 @@
    "p": 600,
    "alt": [
     "Gene Cernan"
-   ]
+   ],
+   "apic": "Eugene Cernan"
   },
   {
    "q": "Who became the first woman to make a spacewalk, in 1984?",
    "a": "Svetlana Savitskaya",
-   "p": 600
+   "p": 600,
+   "apic": "Svetlana Savitskaya"
   },
   {
    "q": "What is the name of China's space station, meaning 'Heavenly Palace'?",
    "a": "Tiangong",
-   "p": 600
+   "p": 600,
+   "apic": "Tiangong space station"
   },
   {
    "q": "Which constellation is known as the Southern Cross?",
    "a": "Crux",
-   "p": 600
+   "p": 600,
+   "apic": "Crux"
   },
   {
    "q": "What was the name of Apollo 11's command module?",
@@ -956,17 +1082,21 @@
    "p": 600,
    "alt": [
     "Baikonur Cosmodrome"
-   ]
+   ],
+   "pic": "Yuri Gagarin",
+   "apic": "Baikonur Cosmodrome"
   },
   {
    "q": "What is the name of the belt of icy bodies beyond Neptune that includes Pluto?",
    "a": "Kuiper Belt",
-   "p": 600
+   "p": 600,
+   "apic": "Kuiper belt"
   },
   {
    "q": "What is the name of the distant spherical shell of icy bodies thought to surround the solar system?",
    "a": "Oort Cloud",
-   "p": 600
+   "p": 600,
+   "apic": "Oort cloud"
   },
   {
    "q": "What type of galaxy is the Milky Way?",
@@ -974,12 +1104,14 @@
    "p": 600,
    "alt": [
     "Barred spiral galaxy"
-   ]
+   ],
+   "apic": "Milky Way"
   },
   {
    "q": "Which Dutch spectacle maker applied for the first telescope patent in 1608?",
    "a": "Hans Lippershey",
-   "p": 600
+   "p": 600,
+   "apic": "Hans Lipperhey"
   },
   {
    "q": "Which French mathematician predicted the position of Neptune before it was observed in 1846?",
@@ -987,17 +1119,20 @@
    "p": 600,
    "alt": [
     "Le Verrier"
-   ]
+   ],
+   "apic": "Urbain Le Verrier"
   },
   {
    "q": "Who discovered Pluto in 1930?",
    "a": "Clyde Tombaugh",
-   "p": 600
+   "p": 600,
+   "apic": "Clyde Tombaugh"
   },
   {
    "q": "Which dwarf planet, discovered in 2005, led to the debate that demoted Pluto?",
    "a": "Eris",
-   "p": 600
+   "p": 600,
+   "apic": "Eris (dwarf planet)"
   },
   {
    "q": "Which NASA space telescope, launched in 2009, discovered thousands of exoplanets?",
@@ -1005,27 +1140,32 @@
    "p": 600,
    "alt": [
     "Kepler Space Telescope"
-   ]
+   ],
+   "apic": "Kepler space telescope"
   },
   {
    "q": "Which Soviet spacecraft made the first soft landing on the Moon, in 1966?",
    "a": "Luna 9",
-   "p": 600
+   "p": 600,
+   "apic": "Luna 9"
   },
   {
    "q": "Which spacecraft is the only one to have visited Uranus and Neptune?",
    "a": "Voyager 2",
-   "p": 600
+   "p": 600,
+   "apic": "Voyager 2"
   },
   {
    "q": "Which probe made the first flyby of Jupiter, in 1973?",
    "a": "Pioneer 10",
-   "p": 600
+   "p": 600,
+   "apic": "Pioneer 10"
   },
   {
    "q": "What was the name of NASA's first space station, launched in 1973?",
    "a": "Skylab",
-   "p": 600
+   "p": 600,
+   "apic": "Skylab"
   },
   {
    "q": "What was the name of the world's first space station, launched by the Soviet Union in 1971?",
@@ -1033,42 +1173,50 @@
    "p": 600,
    "alt": [
     "Salyut"
-   ]
+   ],
+   "apic": "Salyut 1"
   },
   {
    "q": "What was the name of the chimpanzee NASA launched into space in 1961?",
    "a": "Ham",
-   "p": 600
+   "p": 600,
+   "apic": "Ham (chimpanzee)"
   },
   {
    "q": "What were the names of the two Soviet dogs who orbited Earth and returned safely in 1960?",
    "a": "Belka and Strelka",
-   "p": 600
+   "p": 600,
+   "apic": "Belka and Strelka"
   },
   {
    "q": "Who became the first African American woman in space in 1992?",
    "a": "Mae Jemison",
-   "p": 600
+   "p": 600,
+   "apic": "Mae Jemison"
   },
   {
    "q": "Which German-born engineer led the development of the Saturn V rocket?",
    "a": "Wernher von Braun",
-   "p": 600
+   "p": 600,
+   "apic": "Wernher von Braun"
   },
   {
    "q": "Which chief designer led the early Soviet space programme?",
    "a": "Sergei Korolev",
-   "p": 600
+   "p": 600,
+   "apic": "Sergei Korolev"
   },
   {
    "q": "Which American launched the world's first liquid-fuelled rocket in 1926?",
    "a": "Robert Goddard",
-   "p": 600
+   "p": 600,
+   "apic": "Robert H. Goddard"
   },
   {
    "q": "Which Danish astronomer's precise observations allowed Kepler to work out planetary orbits?",
    "a": "Tycho Brahe",
-   "p": 600
+   "p": 600,
+   "apic": "Tycho Brahe"
   },
   {
    "q": "Which Belgian priest and physicist first proposed what became the Big Bang theory?",
@@ -1084,7 +1232,8 @@
    "p": 600,
    "alt": [
     "Jocelyn Bell"
-   ]
+   ],
+   "apic": "Jocelyn Bell Burnell"
   },
   {
    "q": "What is the name of the supermassive black hole at the centre of the Milky Way?",
@@ -1093,7 +1242,8 @@
    "alt": [
     "Sagittarius A Star",
     "Sgr A*"
-   ]
+   ],
+   "apic": "Sagittarius A*"
   },
   {
    "q": "Which telescope network produced the first image of a black hole, released in 2019?",
@@ -1101,27 +1251,32 @@
    "p": 600,
    "alt": [
     "EHT"
-   ]
+   ],
+   "apic": "Event Horizon Telescope"
   },
   {
    "q": "Which observatory first directly detected gravitational waves, in 2015?",
    "a": "LIGO",
-   "p": 600
+   "p": 600,
+   "apic": "LIGO"
   },
   {
    "q": "Which zodiac constellation contains the twin stars Castor and Pollux?",
    "a": "Gemini",
-   "p": 600
+   "p": 600,
+   "apic": "Gemini (constellation)"
   },
   {
    "q": "Which constellation is the Swan, also called the Northern Cross?",
    "a": "Cygnus",
-   "p": 600
+   "p": 600,
+   "apic": "Cygnus (constellation)"
   },
   {
    "q": "What is the name of the Sun's visible surface layer?",
    "a": "Photosphere",
-   "p": 600
+   "p": 600,
+   "apic": "Photosphere"
   },
   {
    "q": "What is the average distance from Earth to the Moon, to the nearest thousand km?",
@@ -1143,7 +1298,8 @@
    "p": 600,
    "alt": [
     "88 days"
-   ]
+   ],
+   "pic": "Mercury (planet)"
   },
   {
    "q": "What Latin word, meaning 'seas', names the dark plains on the Moon?",
@@ -1164,12 +1320,14 @@
   {
    "q": "Which space shuttle carried the Hubble Space Telescope into orbit in 1990?",
    "a": "Discovery",
-   "p": 600
+   "p": 600,
+   "apic": "Space Shuttle Discovery"
   },
   {
    "q": "Which space shuttle flew the final mission of the shuttle programme in 2011?",
    "a": "Atlantis",
-   "p": 600
+   "p": 600,
+   "apic": "Space Shuttle Atlantis"
   },
   {
    "q": "At which Lagrange point does the James Webb Space Telescope operate?",
@@ -1177,7 +1335,8 @@
    "p": 600,
    "alt": [
     "Second Lagrange point"
-   ]
+   ],
+   "pic": "James Webb Space Telescope"
   },
   {
    "q": "How many hexagonal segments make up the James Webb Space Telescope's main mirror?",
@@ -1185,12 +1344,14 @@
    "p": 600,
    "alt": [
     "Eighteen"
-   ]
+   ],
+   "pic": "James Webb Space Telescope"
   },
   {
    "q": "Which Apollo mission was the first to use the Lunar Roving Vehicle?",
    "a": "Apollo 15",
-   "p": 600
+   "p": 600,
+   "apic": "Apollo 15"
   },
   {
    "q": "What does the word 'astronaut' mean in Greek?",
@@ -1200,7 +1361,8 @@
   {
    "q": "Which NASA rover landed on Mars in 1997 as part of the Pathfinder mission?",
    "a": "Sojourner",
-   "p": 600
+   "p": 600,
+   "apic": "Sojourner (rover)"
   },
   {
    "q": "What is the boundary where the Sun's solar wind meets interstellar space called?",
@@ -1210,17 +1372,20 @@
   {
    "q": "What do we call an object, natural or man-made, that orbits a planet, such as those used for GPS?",
    "a": "Satellite",
-   "p": 200
+   "p": 200,
+   "apic": "Satellite"
   },
   {
    "q": "What is the Moon's phase called when its whole face is lit?",
    "a": "Full moon",
-   "p": 200
+   "p": 200,
+   "apic": "Full moon"
   },
   {
    "q": "What is the Moon's phase called when its lit side faces away from us and it is almost invisible?",
    "a": "New moon",
-   "p": 200
+   "p": 200,
+   "apic": "New moon"
   },
   {
    "q": "When the lit part of the Moon grows night by night, the Moon is said to be doing what?",
@@ -1233,12 +1398,14 @@
    "p": 200,
    "alt": [
     "Gas giant"
-   ]
+   ],
+   "apic": "Gas giant"
   },
   {
    "q": "What was the name of NASA's reusable winged spacecraft that flew from 1981 to 2011?",
    "a": "Space Shuttle",
-   "p": 200
+   "p": 200,
+   "apic": "Space Shuttle"
   },
   {
    "q": "What do we call the time a planet takes to orbit the Sun once?",
@@ -1251,7 +1418,8 @@
   {
    "q": "From which Florida cape are many NASA and SpaceX rockets launched?",
    "a": "Cape Canaveral",
-   "p": 200
+   "p": 200,
+   "apic": "Cape Canaveral"
   },
   {
    "q": "In which year did humans first land on the Moon?",
@@ -1278,17 +1446,20 @@
   {
    "q": "What do we call the giant cloud of gas and dust where new stars are born?",
    "a": "Nebula",
-   "p": 200
+   "p": 200,
+   "apic": "Nebula"
   },
   {
    "q": "In which year did the first human fly into space?",
    "a": "1961",
-   "p": 400
+   "p": 400,
+   "pic": "Yuri Gagarin"
   },
   {
    "q": "Which SpaceX rocket is famous for landing its first-stage boosters upright?",
    "a": "Falcon 9",
-   "p": 400
+   "p": 400,
+   "apic": "Falcon 9"
   },
   {
    "q": "What name is given to the model of the solar system with the Sun at its centre?",
@@ -1331,7 +1502,8 @@
   {
    "q": "Which planet spins the fastest, with a day of under 10 hours?",
    "a": "Jupiter",
-   "p": 400
+   "p": 400,
+   "apic": "Jupiter"
   },
   {
    "q": "Roughly what fraction of Earth's gravity is felt on the Moon?",
@@ -1362,7 +1534,8 @@
   {
    "q": "Which planet had a 'Great Dark Spot' storm photographed by Voyager 2 in 1989?",
    "a": "Neptune",
-   "p": 600
+   "p": 600,
+   "apic": "Neptune"
   },
   {
    "q": "What is the name for the southern counterpart of the aurora borealis?",
@@ -1370,7 +1543,8 @@
    "p": 400,
    "alt": [
     "Southern Lights"
-   ]
+   ],
+   "apic": "Aurora"
   }
  ]
 }

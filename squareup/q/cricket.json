@@ -127,7 +127,8 @@
    "p": 200,
    "alt": [
     "Lords"
-   ]
+   ],
+   "apic": "Lord's"
   },
   {
    "q": "Which Melbourne ground hosts the famous Boxing Day Test?",
@@ -135,7 +136,8 @@
    "p": 200,
    "alt": [
     "Melbourne Cricket Ground"
-   ]
+   ],
+   "apic": "Melbourne Cricket Ground"
   },
   {
    "q": "What colour is the traditional ball used in Test cricket?",
@@ -155,12 +157,14 @@
   {
    "q": "Who captained India to the 1983 World Cup title?",
    "a": "Kapil Dev",
-   "p": 200
+   "p": 200,
+   "apic": "Kapil Dev"
   },
   {
    "q": "Who captained Pakistan to the 1992 World Cup title?",
    "a": "Imran Khan",
-   "p": 200
+   "p": 200,
+   "apic": "Imran Khan"
   },
   {
    "q": "Which country won three men's World Cups in a row from 1999?",
@@ -174,7 +178,8 @@
    "alt": [
     "Mahendra Singh Dhoni",
     "Dhoni"
-   ]
+   ],
+   "apic": "MS Dhoni"
   },
   {
    "q": "Which country won its first men's World Cup in 2019 at Lord's?",
@@ -192,7 +197,8 @@
    "p": 200,
    "alt": [
     "Tendulkar"
-   ]
+   ],
+   "apic": "Sachin Tendulkar"
   },
   {
    "q": "Which Australian batter finished with a Test average of 99.94?",
@@ -201,12 +207,14 @@
    "alt": [
     "Sir Donald Bradman",
     "Bradman"
-   ]
+   ],
+   "apic": "Don Bradman"
   },
   {
    "q": "By what two-word title was Don Bradman popularly known?",
    "a": "The Don",
-   "p": 200
+   "p": 200,
+   "apic": "Don Bradman"
   },
   {
    "q": "Which Sri Lankan off-spinner took 800 Test wickets?",
@@ -215,7 +223,8 @@
    "alt": [
     "Muralitharan",
     "Murali"
-   ]
+   ],
+   "apic": "Muttiah Muralitharan"
   },
   {
    "q": "Which IPL team did MS Dhoni captain to multiple titles?",
@@ -223,7 +232,9 @@
    "p": 200,
    "alt": [
     "CSK"
-   ]
+   ],
+   "pic": "MS Dhoni",
+   "apic": "Chennai Super Kings"
   },
   {
    "q": "Which Bollywood superstar co-owns Kolkata Knight Riders?",
@@ -231,7 +242,8 @@
    "p": 200,
    "alt": [
     "SRK"
-   ]
+   ],
+   "apic": "Shah Rukh Khan"
   },
   {
    "q": "Which IPL team has Virat Kohli played for throughout his career?",
@@ -240,7 +252,9 @@
    "alt": [
     "RCB",
     "Royal Challengers Bangalore"
-   ]
+   ],
+   "pic": "Virat Kohli",
+   "apic": "Royal Challengers Bengaluru"
   },
   {
    "q": "What colour cap is worn by the IPL season's leading run-scorer?",
@@ -288,12 +302,14 @@
   {
    "q": "Which Pakistani fast bowler was nicknamed the 'Rawalpindi Express'?",
    "a": "Shoaib Akhtar",
-   "p": 200
+   "p": 200,
+   "apic": "Shoaib Akhtar"
   },
   {
    "q": "Which Jamaican opener calls himself the 'Universe Boss'?",
    "a": "Chris Gayle",
-   "p": 200
+   "p": 200,
+   "apic": "Chris Gayle"
   },
   {
    "q": "Which South African batter was nicknamed 'Mr. 360'?",
@@ -302,7 +318,8 @@
    "alt": [
     "De Villiers",
     "ABD"
-   ]
+   ],
+   "apic": "AB de Villiers"
   },
   {
    "q": "Which Indian opener is nicknamed 'The Wall'?",
@@ -310,7 +327,8 @@
    "p": 200,
    "alt": [
     "Dravid"
-   ]
+   ],
+   "apic": "Rahul Dravid"
   },
   {
    "q": "Which cool-headed Indian captain is famous for the helicopter shot?",
@@ -318,12 +336,14 @@
    "p": 200,
    "alt": [
     "Dhoni"
-   ]
+   ],
+   "apic": "MS Dhoni"
   },
   {
    "q": "In which year did Sachin Tendulkar retire from international cricket?",
    "a": "2013",
-   "p": 200
+   "p": 200,
+   "pic": "Sachin Tendulkar"
   },
   {
    "q": "Which Pakistani left-armer was nicknamed the 'Sultan of Swing'?",
@@ -331,7 +351,8 @@
    "p": 200,
    "alt": [
     "Akram"
-   ]
+   ],
+   "apic": "Wasim Akram"
   },
   {
    "q": "Which country won the 2023 men's ODI World Cup in Ahmedabad?",
@@ -359,7 +380,8 @@
    "p": 200,
    "alt": [
     "Ashes"
-   ]
+   ],
+   "apic": "The Ashes"
   },
   {
    "q": "What is it called when a team ends its innings early, choosing to bat no further, in a Test?",
@@ -404,7 +426,8 @@
    "p": 200,
    "alt": [
     "Bail"
-   ]
+   ],
+   "apic": "Bail (cricket)"
   },
   {
    "q": "What is the lead batter facing the bowler called?",
@@ -417,7 +440,8 @@
    "p": 200,
    "alt": [
     "Kohli"
-   ]
+   ],
+   "apic": "Virat Kohli"
   },
   {
    "q": "Who was the Australian captain who lifted the 2023 World Cup?",
@@ -425,7 +449,8 @@
    "p": 200,
    "alt": [
     "Cummins"
-   ]
+   ],
+   "apic": "Pat Cummins"
   },
   {
    "q": "Who captained India to the 2024 T20 World Cup title?",
@@ -433,12 +458,15 @@
    "p": 200,
    "alt": [
     "Rohit"
-   ]
+   ],
+   "apic": "Rohit Sharma"
   },
   {
    "q": "Which Indian star married the actress Anushka Sharma?",
    "a": "Virat Kohli",
-   "p": 200
+   "p": 200,
+   "pic": "Anushka Sharma",
+   "apic": "Virat Kohli"
   },
   {
    "q": "Who captained England to the 2019 World Cup?",
@@ -446,7 +474,8 @@
    "p": 200,
    "alt": [
     "Morgan"
-   ]
+   ],
+   "apic": "Eoin Morgan"
   },
   {
    "q": "Which England all-rounder starred in the 2019 World Cup final super over?",
@@ -454,12 +483,14 @@
    "p": 200,
    "alt": [
     "Stokes"
-   ]
+   ],
+   "apic": "Ben Stokes"
   },
   {
    "q": "Which Afghan leg-spinner became a worldwide T20 star in the late 2010s?",
    "a": "Rashid Khan",
-   "p": 200
+   "p": 200,
+   "apic": "Rashid Khan (cricketer)"
   },
   {
    "q": "Which country won the 2025 Women's Cricket World Cup, their first?",
@@ -486,7 +517,8 @@
    "p": 400,
    "alt": [
     "Tendulkar"
-   ]
+   ],
+   "apic": "Sachin Tendulkar"
   },
   {
    "q": "Which country's players wear a cap called the 'baggy green'?",
@@ -505,7 +537,8 @@
    "q": "Which Dubai development is home to the ICC headquarters?",
    "a": "Dubai Sports City",
    "p": 400,
-   "ar": "مدينة دبي الرياضية"
+   "ar": "مدينة دبي الرياضية",
+   "apic": "Dubai Sports City"
   },
   {
    "q": "What colour ball is used for day-night Test matches?",
@@ -523,7 +556,9 @@
    "p": 200,
    "alt": [
     "RR"
-   ]
+   ],
+   "pic": "Shane Warne",
+   "apic": "Rajasthan Royals"
   },
   {
    "q": "What is the IPL franchise based in Kolkata?",
@@ -531,12 +566,14 @@
    "p": 200,
    "alt": [
     "KKR"
-   ]
+   ],
+   "apic": "Kolkata Knight Riders"
   },
   {
    "q": "In which year did Sachin Tendulkar make his Test debut, aged 16?",
    "a": "1989",
-   "p": 400
+   "p": 400,
+   "pic": "Sachin Tendulkar"
   },
   {
    "q": "How many international centuries did Sachin Tendulkar score?",
@@ -544,7 +581,8 @@
    "p": 400,
    "alt": [
     "One hundred"
-   ]
+   ],
+   "pic": "Sachin Tendulkar"
   },
   {
    "q": "Which leg-spinner bowled the 'Ball of the Century' in 1993?",
@@ -552,7 +590,8 @@
    "p": 200,
    "alt": [
     "Warne"
-   ]
+   ],
+   "apic": "Shane Warne"
   },
   {
    "q": "Which English batter was bowled by the 'Ball of the Century'?",
@@ -560,7 +599,9 @@
    "p": 400,
    "alt": [
     "Gatting"
-   ]
+   ],
+   "pic": "Shane Warne",
+   "apic": "Mike Gatting"
   },
   {
    "q": "Which Indian leg-spinner took all 10 wickets in a Test innings against Pakistan in 1999?",
@@ -568,7 +609,8 @@
    "p": 400,
    "alt": [
     "Kumble"
-   ]
+   ],
+   "apic": "Anil Kumble"
   },
   {
    "q": "Which West Indian legend hit six sixes in an over in 1968?",
@@ -578,7 +620,8 @@
     "Sir Garfield Sobers",
     "Garry Sobers",
     "Sobers"
-   ]
+   ],
+   "apic": "Garfield Sobers"
   },
   {
    "q": "Which Indian hit six sixes in an over off Stuart Broad at the 2007 T20 World Cup?",
@@ -586,7 +629,9 @@
    "p": 400,
    "alt": [
     "Yuvraj"
-   ]
+   ],
+   "pic": "Stuart Broad",
+   "apic": "Yuvraj Singh"
   },
   {
    "q": "Which Indian opener scored 264 in an ODI against Sri Lanka in 2014?",
@@ -594,7 +639,8 @@
    "p": 400,
    "alt": [
     "Rohit"
-   ]
+   ],
+   "apic": "Rohit Sharma"
   },
   {
    "q": "Which Indian batter captained India to the 2008 Under-19 World Cup title?",
@@ -602,7 +648,8 @@
    "p": 400,
    "alt": [
     "Kohli"
-   ]
+   ],
+   "apic": "Virat Kohli"
   },
   {
    "q": "Which West Indian, knighted in 1999, was nicknamed 'King Viv'?",
@@ -611,7 +658,8 @@
    "alt": [
     "Sir Vivian Richards",
     "Vivian Richards"
-   ]
+   ],
+   "apic": "Viv Richards"
   },
   {
    "q": "Which England all-rounder's 149 not out turned the 1981 Headingley Ashes Test?",
@@ -619,7 +667,8 @@
    "p": 400,
    "alt": [
     "Botham"
-   ]
+   ],
+   "apic": "Ian Botham"
   },
   {
    "q": "Which bearded Victorian doctor was cricket's first superstar?",
@@ -628,7 +677,8 @@
    "alt": [
     "WG Grace",
     "Grace"
-   ]
+   ],
+   "apic": "W. G. Grace"
   },
   {
    "q": "Which England all-rounder nicknamed 'Freddie' starred in the 2005 Ashes?",
@@ -636,7 +686,8 @@
    "p": 400,
    "alt": [
     "Flintoff"
-   ]
+   ],
+   "apic": "Andrew Flintoff"
   },
   {
    "q": "Which England fast bowler retired in 2024 after taking 704 Test wickets?",
@@ -645,17 +696,20 @@
    "alt": [
     "Jimmy Anderson",
     "Anderson"
-   ]
+   ],
+   "apic": "James Anderson (cricketer)"
   },
   {
    "q": "Who hit 135 not out to win the 2019 Headingley Ashes Test with one wicket left?",
    "a": "Ben Stokes",
-   "p": 400
+   "p": 400,
+   "apic": "Ben Stokes"
   },
   {
    "q": "Which Pakistani was player of the match in the 1992 World Cup final?",
    "a": "Wasim Akram",
-   "p": 400
+   "p": 400,
+   "apic": "Wasim Akram"
   },
   {
    "q": "Which Pakistani fast bowler formed the feared 'Two Ws' with Wasim Akram?",
@@ -663,7 +717,9 @@
    "p": 400,
    "alt": [
     "Waqar"
-   ]
+   ],
+   "pic": "Wasim Akram",
+   "apic": "Waqar Younis"
   },
   {
    "q": "Which Pakistani all-rounder was nicknamed 'Boom Boom'?",
@@ -671,7 +727,8 @@
    "p": 400,
    "alt": [
     "Afridi"
-   ]
+   ],
+   "apic": "Shahid Afridi"
   },
   {
    "q": "Which Indian captain was nicknamed 'Dada' and the 'Prince of Kolkata'?",
@@ -679,7 +736,8 @@
    "p": 400,
    "alt": [
     "Ganguly"
-   ]
+   ],
+   "apic": "Sourav Ganguly"
   },
   {
    "q": "Which Sri Lankan slinger took four wickets in four balls against South Africa at the 2007 World Cup?",
@@ -687,7 +745,8 @@
    "p": 400,
    "alt": [
     "Malinga"
-   ]
+   ],
+   "apic": "Lasith Malinga"
   },
   {
    "q": "Which Australian captained his country to the 2003 and 2007 World Cups?",
@@ -695,7 +754,8 @@
    "p": 400,
    "alt": [
     "Ponting"
-   ]
+   ],
+   "apic": "Ricky Ponting"
   },
   {
    "q": "Which Australian captain lifted the 1999 World Cup?",
@@ -703,7 +763,8 @@
    "p": 400,
    "alt": [
     "Waugh"
-   ]
+   ],
+   "apic": "Steve Waugh"
   },
   {
    "q": "Which Sri Lankan captain lifted the 1996 World Cup?",
@@ -711,7 +772,8 @@
    "p": 400,
    "alt": [
     "Ranatunga"
-   ]
+   ],
+   "apic": "Arjuna Ranatunga"
   },
   {
    "q": "Which country won the 1996 World Cup?",
@@ -724,7 +786,8 @@
    "p": 400,
    "alt": [
     "Clarke"
-   ]
+   ],
+   "apic": "Michael Clarke (cricketer)"
   },
   {
    "q": "Which West Indies captain lifted the first two World Cups?",
@@ -732,7 +795,8 @@
    "p": 400,
    "alt": [
     "Lloyd"
-   ]
+   ],
+   "apic": "Clive Lloyd"
   },
   {
    "q": "Which country did India beat in the 1983 World Cup final?",
@@ -750,12 +814,14 @@
    "p": 400,
    "alt": [
     "Wankhede"
-   ]
+   ],
+   "apic": "Wankhede Stadium"
   },
   {
    "q": "In which city was the 1992 World Cup final played?",
    "a": "Melbourne",
-   "p": 400
+   "p": 400,
+   "apic": "Melbourne"
   },
   {
    "q": "Which two countries co-hosted both the 1992 and 2015 World Cups?",
@@ -782,7 +848,8 @@
    "p": 400,
    "alt": [
     "Head"
-   ]
+   ],
+   "apic": "Travis Head"
   },
   {
    "q": "Which Australian hit 201 not out against Afghanistan while battling cramp at the 2023 World Cup?",
@@ -790,12 +857,14 @@
    "p": 400,
    "alt": [
     "Maxwell"
-   ]
+   ],
+   "apic": "Glenn Maxwell"
   },
   {
    "q": "In which Indian city's huge stadium was the 2023 World Cup final played?",
    "a": "Ahmedabad",
-   "p": 400
+   "p": 400,
+   "apic": "Ahmedabad"
   },
   {
    "q": "Which country did India beat in the 2007 T20 World Cup final?",
@@ -818,7 +887,8 @@
    "p": 400,
    "alt": [
     "Brathwaite"
-   ]
+   ],
+   "apic": "Carlos Brathwaite"
   },
   {
    "q": "Which country did India beat in the 2024 T20 World Cup final?",
@@ -831,7 +901,8 @@
    "p": 400,
    "alt": [
     "Buttler"
-   ]
+   ],
+   "apic": "Jos Buttler"
   },
   {
    "q": "Which two countries co-hosted the 2024 T20 World Cup?",
@@ -857,7 +928,8 @@
    "p": 400,
    "alt": [
     "Harmanpreet"
-   ]
+   ],
+   "apic": "Harmanpreet Kaur"
   },
   {
    "q": "In which country was the 2009 IPL played?",
@@ -870,7 +942,8 @@
    "p": 400,
    "alt": [
     "GT"
-   ]
+   ],
+   "apic": "Gujarat Titans"
   },
   {
    "q": "Which team won its first IPL title in 2025?",
@@ -879,7 +952,8 @@
    "alt": [
     "RCB",
     "Royal Challengers Bangalore"
-   ]
+   ],
+   "apic": "Royal Challengers Bengaluru"
   },
   {
    "q": "Which colour cap is worn by the IPL season's leading wicket-taker?",
@@ -983,12 +1057,14 @@
    "p": 400,
    "alt": [
     "Wisden Cricketers' Almanack"
-   ]
+   ],
+   "apic": "Wisden Cricketers' Almanack"
   },
   {
    "q": "What does MCC, the guardian of cricket's Laws, stand for?",
    "a": "Marylebone Cricket Club",
-   "p": 400
+   "p": 400,
+   "apic": "Marylebone Cricket Club"
   },
   {
    "q": "What does BCCI stand for?",
@@ -1007,7 +1083,8 @@
    "alt": [
     "Ashes of a burnt bail",
     "A burnt bail"
-   ]
+   ],
+   "pic": "The Ashes"
   },
   {
    "q": "What was England's short-pitched tactic against Bradman in the 1932-33 Ashes called?",
@@ -1017,7 +1094,8 @@
   {
    "q": "Which Kolkata ground is India's oldest and most famous Test venue?",
    "a": "Eden Gardens",
-   "p": 400
+   "p": 400,
+   "apic": "Eden Gardens"
   },
   {
    "q": "In which English competition does each innings last 100 balls?",
@@ -1025,7 +1103,8 @@
    "p": 400,
    "alt": [
     "Hundred"
-   ]
+   ],
+   "apic": "The Hundred (cricket)"
   },
   {
    "q": "Which tournament was first held in Sharjah in 1984?",
@@ -1068,7 +1147,8 @@
    "p": 400,
    "alt": [
     "Finch"
-   ]
+   ],
+   "apic": "Aaron Finch"
   },
   {
    "q": "Which Indian off-spinner took India's first Test hat-trick, against Australia in 2001?",
@@ -1077,7 +1157,8 @@
    "alt": [
     "Harbhajan",
     "Bhajji"
-   ]
+   ],
+   "apic": "Harbhajan Singh"
   },
   {
    "q": "What object was used in Australia's 2018 ball-tampering scandal in Cape Town?",
@@ -1090,7 +1171,8 @@
    "p": 400,
    "alt": [
     "Packer"
-   ]
+   ],
+   "apic": "Kerry Packer"
   },
   {
    "q": "Which Australian opener hit 149 in the 2007 World Cup final?",
@@ -1098,7 +1180,8 @@
    "p": 400,
    "alt": [
     "Gilchrist"
-   ]
+   ],
+   "apic": "Adam Gilchrist"
   },
   {
    "q": "Which Sri Lankan opener's pinch-hitting lit up the 1996 World Cup?",
@@ -1106,7 +1189,8 @@
    "p": 400,
    "alt": [
     "Jayasuriya"
-   ]
+   ],
+   "apic": "Sanath Jayasuriya"
   },
   {
    "q": "Which South African all-rounder took over 290 Test wickets and scored 13,000 Test runs?",
@@ -1114,7 +1198,8 @@
    "p": 400,
    "alt": [
     "Kallis"
-   ]
+   ],
+   "apic": "Jacques Kallis"
   },
   {
    "q": "Which Australian fast bowler, nicknamed 'Pigeon', took 563 Test wickets?",
@@ -1122,7 +1207,8 @@
    "p": 400,
    "alt": [
     "McGrath"
-   ]
+   ],
+   "apic": "Glenn McGrath"
   },
   {
    "q": "Which captain led Gujarat Titans to the 2022 IPL title?",
@@ -1130,12 +1216,14 @@
    "p": 400,
    "alt": [
     "Hardik"
-   ]
+   ],
+   "apic": "Hardik Pandya"
   },
   {
    "q": "What childhood nickname of Virat Kohli is often heard on stump microphones?",
    "a": "Chiku",
-   "p": 400
+   "p": 400,
+   "pic": "Virat Kohli"
   },
   {
    "q": "Which Indian opener was nicknamed 'Multan ka Sultan' after a 2004 triple century?",
@@ -1143,7 +1231,8 @@
    "p": 400,
    "alt": [
     "Sehwag"
-   ]
+   ],
+   "apic": "Virender Sehwag"
   },
   {
    "q": "Which English leg-spinner bowled Don Bradman for a duck in his final Test innings?",
@@ -1151,7 +1240,9 @@
    "p": 600,
    "alt": [
     "Hollies"
-   ]
+   ],
+   "pic": "Don Bradman",
+   "apic": "Eric Hollies"
   },
   {
    "q": "Which English off-spinner took 19 wickets in a Test against Australia at Old Trafford in 1956?",
@@ -1159,7 +1250,8 @@
    "p": 600,
    "alt": [
     "Laker"
-   ]
+   ],
+   "apic": "Jim Laker"
   },
   {
    "q": "Which Mumbai-born New Zealand spinner took all 10 wickets in an innings against India in 2021?",
@@ -1167,7 +1259,8 @@
    "p": 600,
    "alt": [
     "Patel"
-   ]
+   ],
+   "apic": "Ajaz Patel"
   },
   {
    "q": "Which Welsh-based bowler was hit for six sixes in an over by Garfield Sobers?",
@@ -1175,7 +1268,9 @@
    "p": 600,
    "alt": [
     "Nash"
-   ]
+   ],
+   "pic": "Garfield Sobers",
+   "apic": "Malcolm Nash"
   },
   {
    "q": "Which South African hit six sixes in an over against the Netherlands at the 2007 World Cup?",
@@ -1183,7 +1278,8 @@
    "p": 600,
    "alt": [
     "Gibbs"
-   ]
+   ],
+   "apic": "Herschelle Gibbs"
   },
   {
    "q": "Which West Indian hit six sixes in an over off Akila Dananjaya in a 2021 T20I?",
@@ -1191,7 +1287,8 @@
    "p": 600,
    "alt": [
     "Pollard"
-   ]
+   ],
+   "apic": "Kieron Pollard"
   },
   {
    "q": "What was Brian Lara's record first-class score for Warwickshire in 1994?",
@@ -1200,17 +1297,22 @@
    "alt": [
     "501",
     "501*"
-   ]
+   ],
+   "pic": "Brian Lara"
   },
   {
    "q": "In which city did Sachin Tendulkar make his Test debut in 1989?",
    "a": "Karachi",
-   "p": 600
+   "p": 600,
+   "pic": "Sachin Tendulkar",
+   "apic": "Karachi"
   },
   {
    "q": "Which Indian civilian award did Sachin Tendulkar become the first sportsperson to receive?",
    "a": "Bharat Ratna",
-   "p": 600
+   "p": 600,
+   "pic": "Sachin Tendulkar",
+   "apic": "Bharat Ratna"
   },
   {
    "q": "Who was the first batter to reach 10,000 Test runs, in 1987?",
@@ -1218,7 +1320,8 @@
    "p": 600,
    "alt": [
     "Gavaskar"
-   ]
+   ],
+   "apic": "Sunil Gavaskar"
   },
   {
    "q": "Whose 281 at Eden Gardens in 2001 sparked India's famous win after following on?",
@@ -1226,7 +1329,8 @@
    "p": 600,
    "alt": [
     "Laxman"
-   ]
+   ],
+   "apic": "VVS Laxman"
   },
   {
    "q": "Which New Zealander became the first bowler to 400 Test wickets in 1990?",
@@ -1235,7 +1339,8 @@
    "alt": [
     "Sir Richard Hadlee",
     "Hadlee"
-   ]
+   ],
+   "apic": "Richard Hadlee"
   },
   {
    "q": "Which West Indian became the first bowler to 500 Test wickets, in 2001?",
@@ -1243,7 +1348,8 @@
    "p": 600,
    "alt": [
     "Walsh"
-   ]
+   ],
+   "apic": "Courtney Walsh"
   },
   {
    "q": "Which West Indian fast bowler was nicknamed 'Whispering Death'?",
@@ -1251,7 +1357,8 @@
    "p": 600,
    "alt": [
     "Holding"
-   ]
+   ],
+   "apic": "Michael Holding"
   },
   {
    "q": "Which tall West Indian fast bowler was nicknamed 'Big Bird'?",
@@ -1259,7 +1366,8 @@
    "p": 600,
    "alt": [
     "Garner"
-   ]
+   ],
+   "apic": "Joel Garner"
   },
   {
    "q": "Which Australian fast bowler briefly used an aluminium bat in a 1979 Test?",
@@ -1267,7 +1375,8 @@
    "p": 600,
    "alt": [
     "Lillee"
-   ]
+   ],
+   "apic": "Dennis Lillee"
   },
   {
    "q": "Which English captain devised the Bodyline tactic?",
@@ -1275,7 +1384,8 @@
    "p": 600,
    "alt": [
     "Jardine"
-   ]
+   ],
+   "apic": "Douglas Jardine"
   },
   {
    "q": "Which English fast bowler was the spearhead of Bodyline?",
@@ -1283,7 +1393,8 @@
    "p": 600,
    "alt": [
     "Larwood"
-   ]
+   ],
+   "apic": "Harold Larwood"
   },
   {
    "q": "In which year was the first Test match played?",
@@ -1303,7 +1414,8 @@
   {
    "q": "Which city hosted the first day-night Test match in 2015?",
    "a": "Adelaide",
-   "p": 600
+   "p": 600,
+   "apic": "Adelaide"
   },
   {
    "q": "Which two countries played the first men's T20 international in 2005?",
@@ -1324,7 +1436,8 @@
    "p": 600,
    "alt": [
     "Perry"
-   ]
+   ],
+   "apic": "Ellyse Perry"
   },
   {
    "q": "Which Indian batter captained India women in both the 2005 and 2017 World Cup finals?",
@@ -1332,12 +1445,14 @@
    "p": 600,
    "alt": [
     "Mithali"
-   ]
+   ],
+   "apic": "Mithali Raj"
   },
   {
    "q": "In which city was the 1996 World Cup final played?",
    "a": "Lahore",
-   "p": 600
+   "p": 600,
+   "apic": "Lahore"
   },
   {
    "q": "Which Sri Lankan scored a century in the 1996 World Cup final?",
@@ -1346,7 +1461,8 @@
    "alt": [
     "De Silva",
     "Aravinda"
-   ]
+   ],
+   "apic": "Aravinda de Silva"
   },
   {
    "q": "Who captained Australia to the 1987 World Cup title?",
@@ -1354,7 +1470,8 @@
    "p": 600,
    "alt": [
     "Border"
-   ]
+   ],
+   "apic": "Allan Border"
   },
   {
    "q": "Which country did Australia beat in the 1987 World Cup final?",
@@ -1364,7 +1481,8 @@
   {
    "q": "In which city was the 2003 World Cup final played?",
    "a": "Johannesburg",
-   "p": 600
+   "p": 600,
+   "apic": "Johannesburg"
   },
   {
    "q": "What did Adam Gilchrist put inside his glove when scoring 149 in the 2007 World Cup final?",
@@ -1372,7 +1490,8 @@
    "p": 600,
    "alt": [
     "Squash ball"
-   ]
+   ],
+   "pic": "Adam Gilchrist"
   },
   {
    "q": "Which South African was run out in the famous tied 1999 World Cup semi-final?",
@@ -1380,17 +1499,20 @@
    "p": 600,
    "alt": [
     "Donald"
-   ]
+   ],
+   "apic": "Allan Donald"
   },
   {
    "q": "Which Indian scored 175 not out against Zimbabwe at Tunbridge Wells in 1983?",
    "a": "Kapil Dev",
-   "p": 600
+   "p": 600,
+   "apic": "Kapil Dev"
   },
   {
    "q": "In which country was England's 2019 World Cup-winning captain Eoin Morgan born?",
    "a": "Ireland",
-   "p": 600
+   "p": 600,
+   "pic": "Eoin Morgan"
   },
   {
    "q": "Which Irish batter hit a 50-ball century to beat England at the 2011 World Cup?",
@@ -1398,7 +1520,8 @@
    "p": 600,
    "alt": [
     "O'Brien"
-   ]
+   ],
+   "apic": "Kevin O'Brien (cricketer)"
   },
   {
    "q": "Who captained Pakistan to the 2009 T20 World Cup title?",
@@ -1406,7 +1529,8 @@
    "p": 600,
    "alt": [
     "Younis"
-   ]
+   ],
+   "apic": "Younis Khan"
   },
   {
    "q": "Who captained England to the 2010 T20 World Cup title?",
@@ -1414,7 +1538,8 @@
    "p": 600,
    "alt": [
     "Collingwood"
-   ]
+   ],
+   "apic": "Paul Collingwood"
   },
   {
    "q": "Which team won the 2014 T20 World Cup in Dhaka?",
@@ -1427,7 +1552,8 @@
    "p": 600,
    "alt": [
     "Sammy"
-   ]
+   ],
+   "apic": "Darren Sammy"
   },
   {
    "q": "Which host nation beat Pakistan in a super over at the 2024 T20 World Cup?",
@@ -1440,7 +1566,8 @@
   {
    "q": "In which Barbados ground did India win the 2024 T20 World Cup final?",
    "a": "Kensington Oval",
-   "p": 600
+   "p": 600,
+   "apic": "Kensington Oval"
   },
   {
    "q": "Who captained South Africa to the 2025 World Test Championship title?",
@@ -1448,7 +1575,8 @@
    "p": 600,
    "alt": [
     "Bavuma"
-   ]
+   ],
+   "apic": "Temba Bavuma"
   },
   {
    "q": "Which team beat India in the 2017 Champions Trophy final at The Oval?",
@@ -1458,7 +1586,8 @@
   {
    "q": "Which team won the IPL in 2009?",
    "a": "Deccan Chargers",
-   "p": 600
+   "p": 600,
+   "apic": "Deccan Chargers"
   },
   {
    "q": "Which team won the IPL in 2016, led by David Warner?",
@@ -1466,7 +1595,9 @@
    "p": 600,
    "alt": [
     "SRH"
-   ]
+   ],
+   "pic": "David Warner",
+   "apic": "Sunrisers Hyderabad"
   },
   {
    "q": "Which team did RCB beat in the 2025 IPL final?",
@@ -1475,7 +1606,8 @@
    "alt": [
     "PBKS",
     "Kings XI Punjab"
-   ]
+   ],
+   "apic": "Punjab Kings"
   },
   {
    "q": "Which New Zealander hit 158 not out in the very first IPL match in 2008?",
@@ -1483,7 +1615,8 @@
    "p": 600,
    "alt": [
     "McCullum"
-   ]
+   ],
+   "apic": "Brendon McCullum"
   },
   {
    "q": "Which two IPL franchises were suspended for the 2016 and 2017 seasons?",
@@ -1505,7 +1638,8 @@
   {
    "q": "Which team won the first PSL title, with the final played in Dubai in 2016?",
    "a": "Islamabad United",
-   "p": 600
+   "p": 600,
+   "apic": "Islamabad United"
   },
   {
    "q": "Which team did India beat in the last-ball 2018 Asia Cup final in Dubai?",
@@ -1531,7 +1665,9 @@
    "p": 600,
    "alt": [
     "Wade"
-   ]
+   ],
+   "pic": "Shaheen Afridi",
+   "apic": "Matthew Wade"
   },
   {
    "q": "Which Australian opener was player of the tournament at the 2021 T20 World Cup?",
@@ -1539,7 +1675,8 @@
    "p": 600,
    "alt": [
     "Warner"
-   ]
+   ],
+   "apic": "David Warner"
   },
   {
    "q": "Which Irish bowler took four wickets in four balls against the Netherlands in Abu Dhabi in 2021?",
@@ -1547,12 +1684,14 @@
    "p": 600,
    "alt": [
     "Campher"
-   ]
+   ],
+   "apic": "Curtis Campher"
   },
   {
    "q": "Which UAE batter scored his country's first Cricket World Cup century, against Ireland in 2015?",
    "a": "Shaiman Anwar",
-   "p": 600
+   "p": 600,
+   "apic": "Shaiman Anwar"
   },
   {
    "q": "Which Sri Lankan became the first international batter given out 'timed out', in 2023?",
@@ -1560,7 +1699,8 @@
    "p": 600,
    "alt": [
     "Mathews"
-   ]
+   ],
+   "apic": "Angelo Mathews"
   },
   {
    "q": "What informal name was long given to running out a non-striker backing up too far?",
@@ -1576,7 +1716,8 @@
    "p": 600,
    "alt": [
     "Saqlain"
-   ]
+   ],
+   "apic": "Saqlain Mushtaq"
   },
   {
    "q": "Which Indian batter was Muralitharan's 800th and final Test wicket in 2010?",
@@ -1584,7 +1725,9 @@
    "p": 600,
    "alt": [
     "Ojha"
-   ]
+   ],
+   "pic": "Muttiah Muralitharan",
+   "apic": "Pragyan Ojha"
   },
   {
    "q": "Which Sri Lankan scored four consecutive centuries at the 2015 World Cup?",
@@ -1592,7 +1735,8 @@
    "p": 600,
    "alt": [
     "Sangakkara"
-   ]
+   ],
+   "apic": "Kumar Sangakkara"
   },
   {
    "q": "Which England batter, born in South Africa, scored 158 to clinch the 2005 Ashes at The Oval?",
@@ -1601,7 +1745,8 @@
    "alt": [
     "Pietersen",
     "KP"
-   ]
+   ],
+   "apic": "Kevin Pietersen"
   },
   {
    "q": "Which spinner was Ben Stokes' last-wicket partner at Headingley in 2019?",
@@ -1609,7 +1754,9 @@
    "p": 600,
    "alt": [
     "Leach"
-   ]
+   ],
+   "pic": "Ben Stokes",
+   "apic": "Jack Leach"
   },
   {
    "q": "What is the fielding position for deep mid-wicket, where slogs often go, informally called?",
@@ -1637,7 +1784,8 @@
    "alt": [
     "161.3",
     "161"
-   ]
+   ],
+   "pic": "Shoaib Akhtar"
   },
   {
    "q": "In which year did Ireland and Afghanistan become Test nations?",

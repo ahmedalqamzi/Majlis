@@ -5,7 +5,9 @@
   {
    "q": "In which country is Rovio, the maker of Angry Birds, based?",
    "a": "Finland",
-   "p": 200
+   "p": 200,
+   "pic": "Angry Birds",
+   "apic": "Finland"
   },
   {
    "q": "Which company makes Candy Crush Saga?",
@@ -13,12 +15,14 @@
    "p": 200,
    "alt": [
     "King Digital Entertainment"
-   ]
+   ],
+   "apic": "King (company)"
   },
   {
    "q": "Which Finnish company makes Clash of Clans and Clash Royale?",
    "a": "Supercell",
-   "p": 200
+   "p": 200,
+   "apic": "Supercell (video game company)"
   },
   {
    "q": "What is the central building of a Clash of Clans village called?",
@@ -68,7 +72,8 @@
   {
    "q": "Which company developed Pokémon GO?",
    "a": "Niantic",
-   "p": 200
+   "p": 200,
+   "apic": "Niantic, Inc."
   },
   {
    "q": "In what year was Pokémon GO released?",
@@ -86,7 +91,8 @@
   {
    "q": "Which studio developed Among Us?",
    "a": "Innersloth",
-   "p": 200
+   "p": 200,
+   "apic": "Innersloth"
   },
   {
    "q": "In Among Us, what are the innocent players called?",
@@ -112,7 +118,8 @@
    "p": 200,
    "alt": [
     "HoYoverse"
-   ]
+   ],
+   "apic": "MiHoYo"
   },
   {
    "q": "What is the name of the small floating companion who guides the Traveler in Genshin Impact?",
@@ -130,7 +137,8 @@
   {
    "q": "Who created Flappy Bird?",
    "a": "Dong Nguyen",
-   "p": 200
+   "p": 200,
+   "apic": "Dong Nguyen"
   },
   {
    "q": "What obstacles does the bird fly between in Flappy Bird?",
@@ -146,12 +154,14 @@
    "p": 200,
    "alt": [
     "PopCap Games"
-   ]
+   ],
+   "apic": "PopCap Games"
   },
   {
    "q": "Which plant produces the sun used to plant others in Plants vs. Zombies?",
    "a": "Sunflower",
-   "p": 200
+   "p": 200,
+   "apic": "Helianthus annuus"
   },
   {
    "q": "What is the name of the basic pea-shooting plant in Plants vs. Zombies?",
@@ -179,7 +189,8 @@
   {
    "q": "Which game was famously preinstalled on Nokia phones from 1997?",
    "a": "Snake",
-   "p": 200
+   "p": 200,
+   "apic": "Snake (video game genre)"
   },
   {
    "q": "Which talking cat app by Outfit7 repeats what you say?",
@@ -187,17 +198,20 @@
    "p": 200,
    "alt": [
     "My Talking Tom"
-   ]
+   ],
+   "apic": "Talking Tom and Friends"
   },
   {
    "q": "Which Supercell farming game launched in 2012 with a dog, a scarecrow and crops?",
    "a": "Hay Day",
-   "p": 200
+   "p": 200,
+   "apic": "Hay Day"
   },
   {
    "q": "Which 2018 Supercell game features 3v3 battles with characters called Brawlers?",
    "a": "Brawl Stars",
-   "p": 200
+   "p": 200,
+   "apic": "Brawl Stars"
   },
   {
    "q": "What is the premium green currency in Clash of Clans called?",
@@ -207,7 +221,8 @@
   {
    "q": "Which country is Flappy Bird's creator from?",
    "a": "Vietnam",
-   "p": 200
+   "p": 200,
+   "apic": "Vietnam"
   },
   {
    "q": "In Pokémon GO, where do players battle to claim territory for their team?",
@@ -242,7 +257,8 @@
   {
    "q": "Which 2012 Angry Birds spin-off featured zero-gravity planets?",
    "a": "Angry Birds Space",
-   "p": 400
+   "p": 400,
+   "apic": "Angry Birds Space"
   },
   {
    "q": "In what year was Candy Crush Saga released on mobile?",
@@ -271,12 +287,14 @@
    "p": 400,
    "alt": [
     "Soda Saga"
-   ]
+   ],
+   "apic": "Candy Crush Soda Saga"
   },
   {
    "q": "In which city is Supercell headquartered?",
    "a": "Helsinki",
-   "p": 400
+   "p": 400,
+   "apic": "Helsinki"
   },
   {
    "q": "In what year was Clash of Clans released?",
@@ -321,7 +339,8 @@
    "alt": [
     "SYBO",
     "Kiloo"
-   ]
+   ],
+   "apic": "SYBO Games"
   },
   {
    "q": "Who chases Jake in Subway Surfers along with his dog?",
@@ -342,7 +361,8 @@
    "p": 400,
    "alt": [
     "Imangi"
-   ]
+   ],
+   "apic": "Imangi Studios"
   },
   {
    "q": "In what year was Temple Run released?",
@@ -355,17 +375,21 @@
    "p": 400,
    "alt": [
     "Halfbrick"
-   ]
+   ],
+   "apic": "Halfbrick Studios"
   },
   {
    "q": "In which country is Halfbrick based?",
    "a": "Australia",
-   "p": 400
+   "p": 400,
+   "pic": "Fruit Ninja",
+   "apic": "Australia"
   },
   {
    "q": "Which Niantic game was the location-based predecessor to Pokémon GO?",
    "a": "Ingress",
-   "p": 400
+   "p": 400,
+   "apic": "Ingress (video game)"
   },
   {
    "q": "What colour represents Team Mystic in Pokémon GO?",
@@ -394,7 +418,8 @@
    "p": 400,
    "alt": [
     "Tencent Games"
-   ]
+   ],
+   "apic": "Tencent"
   },
   {
    "q": "What is the name of the original island map in PUBG?",
@@ -412,7 +437,8 @@
    "p": 400,
    "alt": [
     "Pan"
-   ]
+   ],
+   "apic": "Frying pan"
   },
   {
    "q": "How many players drop into a standard Free Fire match?",
@@ -456,7 +482,8 @@
   {
    "q": "Which company bought King in 2016?",
    "a": "Activision Blizzard",
-   "p": 600
+   "p": 600,
+   "apic": "Activision Blizzard"
   },
   {
    "q": "What is the name of the explorer hero of the original Temple Run?",
@@ -469,7 +496,8 @@
    "p": 600,
    "alt": [
     "Temple Run: Brave"
-   ]
+   ],
+   "apic": "Brave (2012 film)"
   },
   {
    "q": "In what year was Fruit Ninja released?",
@@ -487,7 +515,8 @@
   {
    "q": "Who founded Niantic?",
    "a": "John Hanke",
-   "p": 600
+   "p": 600,
+   "apic": "John Hanke"
   },
   {
    "q": "Who is the leader of Team Valor in Pokémon GO?",
@@ -502,7 +531,8 @@
   {
    "q": "To which company did Niantic sell its games business, including Pokémon GO, in 2025?",
    "a": "Scopely",
-   "p": 600
+   "p": 600,
+   "apic": "Scopely"
   },
   {
    "q": "What is the name of the Indian version of PUBG Mobile launched in 2021?",
@@ -510,7 +540,8 @@
    "p": 600,
    "alt": [
     "BGMI"
-   ]
+   ],
+   "apic": "Battlegrounds Mobile India"
   },
   {
    "q": "Which snowy map was added to PUBG in 2018?",
@@ -520,7 +551,8 @@
   {
    "q": "Which famous Brazilian DJ is a playable character in Free Fire?",
    "a": "Alok",
-   "p": 600
+   "p": 600,
+   "apic": "Alok (DJ)"
   },
   {
    "q": "In what year was Free Fire first released?",
@@ -583,7 +615,8 @@
    "p": 600,
    "alt": [
     "Electronic Arts"
-   ]
+   ],
+   "apic": "Electronic Arts"
   },
   {
    "q": "Who is the lead designer and creator of Plants vs. Zombies?",
@@ -593,7 +626,8 @@
   {
    "q": "Which company developed Cut the Rope?",
    "a": "ZeptoLab",
-   "p": 600
+   "p": 600,
+   "apic": "ZeptoLab"
   },
   {
    "q": "In what year was Cut the Rope released?",
@@ -615,42 +649,50 @@
    "p": 600,
    "alt": [
     "Star Rail"
-   ]
+   ],
+   "apic": "Honkai: Star Rail"
   },
   {
    "q": "Which Hipster Whale arcade game has a chicken crossing endless roads?",
    "a": "Crossy Road",
-   "p": 200
+   "p": 200,
+   "apic": "Crossy Road"
   },
   {
    "q": "Which mobile game has a little creature called the Doodler bouncing up platforms?",
    "a": "Doodle Jump",
-   "p": 200
+   "p": 200,
+   "apic": "Doodle Jump"
   },
   {
    "q": "Which Miniclip mobile game is a popular online billiards game?",
    "a": "8 Ball Pool",
-   "p": 200
+   "p": 200,
+   "apic": "8 Ball Pool"
   },
   {
    "q": "Which RobTop game has a cube jumping over spikes in time to music?",
    "a": "Geometry Dash",
-   "p": 200
+   "p": 200,
+   "apic": "Geometry Dash"
   },
   {
    "q": "Which Halfbrick game has Barry Steakfries fly through a lab on a jetpack?",
    "a": "Jetpack Joyride",
-   "p": 200
+   "p": 200,
+   "apic": "Jetpack Joyride"
   },
   {
    "q": "Which physics driving game has Newton Bill driving a jeep over hills?",
    "a": "Hill Climb Racing",
-   "p": 200
+   "p": 200,
+   "apic": "Hill Climb Racing"
   },
   {
    "q": "Which 2016 game was Nintendo's first big Mario title for smartphones?",
    "a": "Super Mario Run",
-   "p": 200
+   "p": 200,
+   "apic": "Super Mario Run"
   },
   {
    "q": "Which Activision shooter got a free mobile version in 2019?",
@@ -658,7 +700,8 @@
    "p": 200,
    "alt": [
     "COD Mobile"
-   ]
+   ],
+   "apic": "Call of Duty: Mobile"
   },
   {
    "q": "What is the basic mustached melee troop in Clash of Clans?",
@@ -711,7 +754,8 @@
   {
    "q": "Which company publishes Free Fire?",
    "a": "Garena",
-   "p": 200
+   "p": 200,
+   "apic": "Garena"
   },
   {
    "q": "How many stars can a player earn on each level of Cut the Rope?",
@@ -732,17 +776,20 @@
   {
    "q": "Which virtual pet app features a brown blob you feed and bathe?",
    "a": "Pou",
-   "p": 200
+   "p": 200,
+   "apic": "Pou (video game)"
   },
   {
    "q": "Which 2021 mobile party game had 32 players race through obstacle courses, like Fall Guys?",
    "a": "Stumble Guys",
-   "p": 200
+   "p": 200,
+   "apic": "Stumble Guys"
   },
   {
    "q": "Which Rovio spin-off has players build vehicles for the pigs?",
    "a": "Bad Piggies",
-   "p": 200
+   "p": 200,
+   "apic": "Bad Piggies"
   },
   {
    "q": "Which Pokémon card-collecting app launched for phones in 2024?",
@@ -750,22 +797,26 @@
    "p": 200,
    "alt": [
     "TCG Pocket"
-   ]
+   ],
+   "apic": "Pokémon TCG Pocket"
   },
   {
    "q": "Which Pokémon MOBA came to mobile in 2021?",
    "a": "Pokémon Unite",
-   "p": 200
+   "p": 200,
+   "apic": "Pokémon Unite"
   },
   {
    "q": "Which Pokémon GO starter can be found by walking away from the first three choices?",
    "a": "Pikachu",
-   "p": 200
+   "p": 200,
+   "apic": "Pikachu"
   },
   {
    "q": "On which social network did Candy Crush Saga first launch?",
    "a": "Facebook",
-   "p": 400
+   "p": 400,
+   "apic": "Facebook"
   },
   {
    "q": "Which special candy is made by matching candies in an L or T shape in Candy Crush?",
@@ -778,7 +829,8 @@
   {
    "q": "Which King game has players shoot bubbles as a witch?",
    "a": "Bubble Witch Saga",
-   "p": 400
+   "p": 400,
+   "apic": "Bubble Witch Saga"
   },
   {
    "q": "What black resource is used to train heroes and dark troops in Clash of Clans?",
@@ -788,7 +840,8 @@
   {
    "q": "Which 2014 Supercell game has players attack islands held by Lieutenant Hammerman?",
    "a": "Boom Beach",
-   "p": 400
+   "p": 400,
+   "apic": "Boom Beach"
   },
   {
    "q": "What is Clash Royale's progression path of arenas and rewards called?",
@@ -834,12 +887,14 @@
    "p": 400,
    "alt": [
     "Bluehole"
-   ]
+   ],
+   "apic": "Krafton"
   },
   {
    "q": "Which Irish designer, known as PlayerUnknown, created PUBG's battle royale?",
    "a": "Brendan Greene",
-   "p": 400
+   "p": 400,
+   "apic": "Brendan Greene"
   },
   {
    "q": "What is the name of Free Fire's original island map?",
@@ -883,7 +938,8 @@
   {
    "q": "In which Chinese city is miHoYo headquartered?",
    "a": "Shanghai",
-   "p": 400
+   "p": 400,
+   "apic": "Shanghai"
   },
   {
    "q": "In what year was Genshin Impact released?",
@@ -896,7 +952,9 @@
    "p": 400,
    "alt": [
     "Mario"
-   ]
+   ],
+   "pic": "Flappy Bird",
+   "apic": "Super Mario"
   },
   {
    "q": "Which explosive red Plants vs. Zombies plant destroys zombies in a small area?",
@@ -925,7 +983,8 @@
    "p": 400,
    "alt": [
     "Garden Warfare"
-   ]
+   ],
+   "apic": "Plants vs. Zombies: Garden Warfare"
   },
   {
    "q": "In what year did Apple's App Store open?",
@@ -935,17 +994,20 @@
   {
    "q": "Which ustwo puzzle game follows Princess Ida through impossible architecture?",
    "a": "Monument Valley",
-   "p": 400
+   "p": 400,
+   "apic": "Monument Valley (video game)"
   },
   {
    "q": "Which Rovio game tied in with a 2011 film about macaws?",
    "a": "Angry Birds Rio",
-   "p": 400
+   "p": 400,
+   "apic": "Angry Birds Rio"
   },
   {
    "q": "Which 2012 Angry Birds game was themed on a famous sci-fi film saga?",
    "a": "Angry Birds Star Wars",
-   "p": 400
+   "p": 400,
+   "apic": "Angry Birds Star Wars"
   },
   {
    "q": "Which Ndemic Creations game has players spread a disease around the world?",
@@ -953,17 +1015,20 @@
    "p": 400,
    "alt": [
     "Plague Inc"
-   ]
+   ],
+   "apic": "Plague Inc."
   },
   {
    "q": "Which actor voiced Red in The Angry Birds Movie?",
    "a": "Jason Sudeikis",
-   "p": 600
+   "p": 600,
+   "apic": "Jason Sudeikis"
   },
   {
    "q": "Which actor voiced Chuck in The Angry Birds Movie?",
    "a": "Josh Gad",
-   "p": 600
+   "p": 600,
+   "apic": "Josh Gad"
   },
   {
    "q": "Which white Angry Bird drops egg bombs?",
@@ -993,12 +1058,14 @@
   {
    "q": "What was Supercell's 2024 game combining characters from its other games into squads?",
    "a": "Squad Busters",
-   "p": 600
+   "p": 600,
+   "apic": "Squad Busters"
   },
   {
    "q": "Which Chinese company became Supercell's majority owner in 2016?",
    "a": "Tencent",
-   "p": 600
+   "p": 600,
+   "apic": "Tencent"
   },
   {
    "q": "In what year was Temple Run 2 released?",
@@ -1011,7 +1078,8 @@
    "p": 600,
    "alt": [
     "Wizards Unite"
-   ]
+   ],
+   "apic": "Harry Potter: Wizards Unite"
   },
   {
    "q": "Which jungle map was added to PUBG in 2018?",
@@ -1037,7 +1105,8 @@
    "p": 600,
    "alt": [
     "TiMi"
-   ]
+   ],
+   "apic": "TiMi Studio Group"
   },
   {
    "q": "Which footballer is the Free Fire character Chrono based on?",
@@ -1045,7 +1114,8 @@
    "p": 600,
    "alt": [
     "Ronaldo"
-   ]
+   ],
+   "apic": "Cristiano Ronaldo"
   },
   {
    "q": "What is the name of the fungi-filled jungle map added to Among Us in 2023?",
@@ -1058,7 +1128,8 @@
   {
    "q": "Which game engine was Among Us built with?",
    "a": "Unity",
-   "p": 600
+   "p": 600,
+   "apic": "Unity (game engine)"
   },
   {
    "q": "Which Genshin Impact nation is ruled by the Hydro Archon?",
@@ -1076,7 +1147,8 @@
    "p": 600,
    "alt": [
     "ZZZ"
-   ]
+   ],
+   "apic": "Zenless Zone Zero"
   },
   {
    "q": "What was the subtitle of Plants vs. Zombies 2?",
@@ -1099,12 +1171,15 @@
   {
    "q": "Who created the 2014 sliding-tile number game 2048?",
    "a": "Gabriele Cirulli",
-   "p": 600
+   "p": 600,
+   "pic": "2048 (video game)",
+   "apic": "Gabriele Cirulli"
   },
   {
    "q": "Which 2022 Marvel card game was developed by Second Dinner?",
    "a": "Marvel Snap",
-   "p": 600
+   "p": 600,
+   "apic": "Marvel Snap"
   },
   {
    "q": "Which Nokia game designer created the original Snake for mobile phones?",
@@ -1114,7 +1189,8 @@
   {
    "q": "Which Gameloft series is famous for high-speed mobile street racing?",
    "a": "Asphalt",
-   "p": 200
+   "p": 200,
+   "apic": "Asphalt (series)"
   },
   {
    "q": "What do Subway Surfers players collect along the tracks?",
@@ -1130,22 +1206,26 @@
    "p": 200,
    "alt": [
     "Catapult"
-   ]
+   ],
+   "apic": "Slingshot"
   },
   {
    "q": "Which 2010 game has players slice flying fruit with finger swipes?",
    "a": "Fruit Ninja",
-   "p": 200
+   "p": 200,
+   "apic": "Fruit Ninja"
   },
   {
    "q": "Which 2011 endless runner has an explorer fleeing an ancient temple?",
    "a": "Temple Run",
-   "p": 200
+   "p": 200,
+   "apic": "Temple Run"
   },
   {
    "q": "Which 2012 endless runner is set on subway train tracks?",
    "a": "Subway Surfers",
-   "p": 200
+   "p": 200,
+   "apic": "Subway Surfers"
   },
   {
    "q": "Which Supercell game has players build a village and join clans to wage war?",
@@ -1153,7 +1233,8 @@
    "p": 200,
    "alt": [
     "CoC"
-   ]
+   ],
+   "apic": "Clash of Clans"
   }
  ]
 }

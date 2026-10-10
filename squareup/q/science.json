@@ -5,7 +5,8 @@
   {
    "q": "Which planet is closest to the Sun?",
    "a": "Mercury",
-   "p": 200
+   "p": 200,
+   "apic": "Mercury (planet)"
   },
   {
    "q": "What is the chemical formula for water?",
@@ -15,7 +16,8 @@
   {
    "q": "Which planet is known as the Red Planet?",
    "a": "Mars",
-   "p": 200
+   "p": 200,
+   "apic": "Mars"
   },
   {
    "q": "Which gas do plants take in from the air to make their food?",
@@ -25,7 +27,8 @@
   {
    "q": "What is the largest planet in our solar system?",
    "a": "Jupiter",
-   "p": 200
+   "p": 200,
+   "apic": "Jupiter"
   },
   {
    "q": "How many bones are in the adult human body?",
@@ -35,12 +38,14 @@
   {
    "q": "Which planet is famous for its bright rings?",
    "a": "Saturn",
-   "p": 200
+   "p": 200,
+   "apic": "Saturn"
   },
   {
    "q": "What is the name of Earth's natural satellite?",
    "a": "The Moon",
-   "p": 200
+   "p": 200,
+   "apic": "Moon"
   },
   {
    "q": "What is the chemical symbol for oxygen?",
@@ -55,12 +60,14 @@
   {
    "q": "What is the closest star to Earth?",
    "a": "The Sun",
-   "p": 200
+   "p": 200,
+   "apic": "Sun"
   },
   {
    "q": "Which organ pumps blood around the body?",
    "a": "The heart",
-   "p": 200
+   "p": 200,
+   "apic": "Heart"
   },
   {
    "q": "At what temperature in degrees Celsius does water freeze?",
@@ -75,7 +82,8 @@
   {
    "q": "Who was the first person to walk on the Moon?",
    "a": "Neil Armstrong",
-   "p": 200
+   "p": 200,
+   "apic": "Neil Armstrong"
   },
   {
    "q": "What force pulls objects toward the centre of the Earth?",
@@ -85,27 +93,32 @@
   {
    "q": "What is the name of the galaxy that contains our solar system?",
    "a": "The Milky Way",
-   "p": 200
+   "p": 200,
+   "apic": "Milky Way"
   },
   {
    "q": "Which organs do humans use to breathe?",
    "a": "Lungs",
-   "p": 200
+   "p": 200,
+   "apic": "Lung"
   },
   {
    "q": "What is the hardest naturally occurring material?",
    "a": "Diamond",
-   "p": 200
+   "p": 200,
+   "apic": "Diamond"
   },
   {
    "q": "Which scientist developed the theory of relativity?",
    "a": "Albert Einstein",
-   "p": 200
+   "p": 200,
+   "apic": "Albert Einstein"
   },
   {
    "q": "Which scientist is famously linked to a falling apple and the law of gravity?",
    "a": "Isaac Newton",
-   "p": 200
+   "p": 200,
+   "apic": "Isaac Newton"
   },
   {
    "q": "What is the process by which plants make food using sunlight?",
@@ -115,12 +128,14 @@
   {
    "q": "What is the largest animal on Earth?",
    "a": "Blue whale",
-   "p": 200
+   "p": 200,
+   "apic": "Blue whale"
   },
   {
    "q": "What is the fastest land animal?",
    "a": "Cheetah",
-   "p": 200
+   "p": 200,
+   "apic": "Cheetah"
   },
   {
    "q": "What is the central part of an atom called?",
@@ -135,7 +150,8 @@
   {
    "q": "Which blood cells carry oxygen around the body?",
    "a": "Red blood cells",
-   "p": 200
+   "p": 200,
+   "apic": "Red blood cell"
   },
   {
    "q": "What is a scientist who studies stars and planets called?",
@@ -155,22 +171,26 @@
   {
    "q": "What is the largest organ of the human body?",
    "a": "Skin",
-   "p": 200
+   "p": 200,
+   "apic": "Skin"
   },
   {
    "q": "What is the solid form of water called?",
    "a": "Ice",
-   "p": 200
+   "p": 200,
+   "apic": "Ice"
   },
   {
    "q": "Is a dolphin a fish or a mammal?",
    "a": "Mammal",
-   "p": 200
+   "p": 200,
+   "apic": "Dolphin"
   },
   {
    "q": "Which scientific instrument is used to magnify tiny objects such as cells?",
    "a": "Microscope",
-   "p": 200
+   "p": 200,
+   "apic": "Microscope"
   },
   {
    "q": "How many legs does an insect have?",
@@ -180,7 +200,8 @@
   {
    "q": "What is the chemical symbol for gold?",
    "a": "Au",
-   "p": 400
+   "p": 400,
+   "apic": "Gold"
   },
   {
    "q": "Approximately how fast does light travel, in kilometres per second?",
@@ -190,12 +211,14 @@
   {
    "q": "Who was the first human to travel into space?",
    "a": "Yuri Gagarin",
-   "p": 400
+   "p": 400,
+   "apic": "Yuri Gagarin"
   },
   {
    "q": "Which part of a cell is known as its powerhouse?",
    "a": "Mitochondria",
-   "p": 200
+   "p": 200,
+   "apic": "Mitochondrion"
   },
   {
    "q": "What is the chemical symbol for sodium?",
@@ -205,17 +228,20 @@
   {
    "q": "Which Dutch scientist first observed bacteria using a microscope he built himself?",
    "a": "Antonie van Leeuwenhoek",
-   "p": 600
+   "p": 600,
+   "apic": "Antonie van Leeuwenhoek"
   },
   {
    "q": "Which is the hottest planet in our solar system?",
    "a": "Venus",
-   "p": 400
+   "p": 400,
+   "apic": "Venus"
   },
   {
    "q": "The Great Red Spot is a giant storm on which planet?",
    "a": "Jupiter",
-   "p": 400
+   "p": 400,
+   "apic": "Jupiter"
   },
   {
    "q": "What is the SI unit of temperature?",
@@ -230,27 +256,32 @@
   {
    "q": "Who discovered penicillin in 1928?",
    "a": "Alexander Fleming",
-   "p": 400
+   "p": 400,
+   "apic": "Alexander Fleming"
   },
   {
    "q": "Which monk is known as the father of genetics for his pea plant experiments?",
    "a": "Gregor Mendel",
-   "p": 400
+   "p": 400,
+   "apic": "Gregor Mendel"
   },
   {
    "q": "What shape is the DNA molecule?",
    "a": "Double helix",
-   "p": 200
+   "p": 200,
+   "apic": "Nucleic acid double helix"
   },
   {
    "q": "Which Apollo mission first landed humans on the Moon?",
    "a": "Apollo 11",
-   "p": 400
+   "p": 400,
+   "apic": "Apollo 11"
   },
   {
    "q": "Who was the first woman in space?",
    "a": "Valentina Tereshkova",
-   "p": 400
+   "p": 400,
+   "apic": "Valentina Tereshkova"
   },
   {
    "q": "Which element is the most abundant in Earth's crust by mass?",
@@ -260,7 +291,8 @@
   {
    "q": "What is the largest internal organ in the human body?",
    "a": "Liver",
-   "p": 400
+   "p": 400,
+   "apic": "Liver"
   },
   {
    "q": "What is the pH of pure water at 25 degrees Celsius?",
@@ -270,37 +302,44 @@
   {
    "q": "Which element has the chemical symbol Sb?",
    "a": "Antimony",
-   "p": 600
+   "p": 600,
+   "apic": "Antimony"
   },
   {
    "q": "Which scientist formulated the three laws of planetary motion?",
    "a": "Johannes Kepler",
-   "p": 600
+   "p": 600,
+   "apic": "Johannes Kepler"
   },
   {
    "q": "Which planet spins on its side, tilted about 98 degrees?",
    "a": "Uranus",
-   "p": 400
+   "p": 400,
+   "apic": "Uranus"
   },
   {
    "q": "Which spacecraft, launched in 1977, was the first to reach interstellar space?",
    "a": "Voyager 1",
-   "p": 600
+   "p": 600,
+   "apic": "Voyager 1"
   },
   {
    "q": "Which scientist was the first woman to win a Nobel Prize?",
    "a": "Marie Curie",
-   "p": 400
+   "p": 400,
+   "apic": "Marie Curie"
   },
   {
    "q": "What is the chemical symbol for lead?",
    "a": "Pb",
-   "p": 600
+   "p": 600,
+   "apic": "Lead"
   },
   {
    "q": "Which French physicist discovered radioactivity in uranium salts in 1896?",
    "a": "Henri Becquerel",
-   "p": 600
+   "p": 600,
+   "apic": "Henri Becquerel"
   },
   {
    "q": "What is the most abundant gas in Earth's atmosphere?",
@@ -320,7 +359,8 @@
   {
    "q": "Which organ produces insulin?",
    "a": "Pancreas",
-   "p": 400
+   "p": 400,
+   "apic": "Pancreas"
   },
   {
    "q": "Which green pigment in plants absorbs sunlight?",
@@ -330,12 +370,14 @@
   {
    "q": "Which Swedish botanist created the modern two-part system of naming species?",
    "a": "Carl Linnaeus",
-   "p": 600
+   "p": 600,
+   "apic": "Carl Linnaeus"
   },
   {
    "q": "Which Russian chemist created the periodic table?",
    "a": "Dmitri Mendeleev",
-   "p": 400
+   "p": 400,
+   "apic": "Dmitri Mendeleev"
   },
   {
    "q": "Which Persian scholar wrote The Canon of Medicine?",
@@ -350,27 +392,33 @@
   {
    "q": "Which astronomer proposed in 1543 that the Earth orbits the Sun?",
    "a": "Nicolaus Copernicus",
-   "p": 400
+   "p": 400,
+   "apic": "Nicolaus Copernicus"
   },
   {
    "q": "Which element has the atomic number 26?",
    "a": "Iron",
-   "p": 600
+   "p": 600,
+   "apic": "Iron"
   },
   {
    "q": "What is the largest moon of Saturn?",
    "a": "Titan",
-   "p": 400
+   "p": 400,
+   "pic": "Saturn",
+   "apic": "Titan (moon)"
   },
   {
    "q": "Which scientist discovered the neutron in 1932?",
    "a": "James Chadwick",
-   "p": 600
+   "p": 600,
+   "apic": "James Chadwick"
   },
   {
    "q": "Which space telescope, launched in December 2021, observes mainly in infrared?",
    "a": "James Webb Space Telescope",
-   "p": 400
+   "p": 400,
+   "apic": "James Webb Space Telescope"
   },
   {
    "q": "Which scholar of the Islamic golden age wrote the Book of Optics?",
@@ -380,7 +428,8 @@
   {
    "q": "Who discovered Jupiter's four largest moons in 1610?",
    "a": "Galileo Galilei",
-   "p": 400
+   "p": 400,
+   "apic": "Galileo Galilei"
   },
   {
    "q": "Which Persian physician distinguished smallpox from measles?",
@@ -415,37 +464,44 @@
   {
    "q": "Which element has the chemical symbol W?",
    "a": "Tungsten",
-   "p": 600
+   "p": 600,
+   "apic": "Tungsten"
   },
   {
    "q": "Which element has the chemical symbol Sn?",
    "a": "Tin",
-   "p": 600
+   "p": 600,
+   "apic": "Tin"
   },
   {
    "q": "Which element has the atomic number 92?",
    "a": "Uranium",
-   "p": 600
+   "p": 600,
+   "apic": "Uranium"
   },
   {
    "q": "Which metal is the least dense?",
    "a": "Lithium",
-   "p": 600
+   "p": 600,
+   "apic": "Lithium"
   },
   {
    "q": "Which physicist proposed the uncertainty principle?",
    "a": "Werner Heisenberg",
-   "p": 600
+   "p": 600,
+   "apic": "Werner Heisenberg"
   },
   {
    "q": "Who discovered X-rays in 1895?",
    "a": "Wilhelm Rontgen",
-   "p": 600
+   "p": 600,
+   "apic": "Wilhelm Röntgen"
   },
   {
    "q": "Who discovered the electron in 1897?",
    "a": "J.J. Thomson",
-   "p": 600
+   "p": 600,
+   "apic": "J. J. Thomson"
   },
   {
    "q": "Which two scientists described the structure of DNA in 1953?",
@@ -455,22 +511,29 @@
   {
    "q": "Which Apollo mission first carried humans around the Moon?",
    "a": "Apollo 8",
-   "p": 600
+   "p": 600,
+   "pic": "Moon",
+   "apic": "Apollo 8"
   },
   {
    "q": "Which NASA rover landed in Gale Crater in 2012?",
    "a": "Curiosity",
-   "p": 400
+   "p": 400,
+   "pic": "Mars",
+   "apic": "Curiosity (rover)"
   },
   {
    "q": "Which probe landed on Saturn's moon Titan in 2005?",
    "a": "Huygens",
-   "p": 600
+   "p": 600,
+   "pic": "Titan (moon)",
+   "apic": "Huygens (spacecraft)"
   },
   {
    "q": "Which space telescope was launched in 1990 and named after an astronomer?",
    "a": "Hubble Space Telescope",
-   "p": 400
+   "p": 400,
+   "apic": "Hubble Space Telescope"
   },
   {
    "q": "What is the SI unit of frequency?",
@@ -485,12 +548,14 @@
   {
    "q": "Which cell organelle contains digestive enzymes?",
    "a": "Lysosome",
-   "p": 600
+   "p": 600,
+   "apic": "Lysosome"
   },
   {
    "q": "What is the longest bone in the human body?",
    "a": "Femur",
-   "p": 400
+   "p": 400,
+   "apic": "Femur"
   },
   {
    "q": "In which layer of the atmosphere is the ozone layer mainly found?",
@@ -500,17 +565,20 @@
   {
    "q": "Which part of the brain mainly controls balance and coordination?",
    "a": "Cerebellum",
-   "p": 400
+   "p": 400,
+   "apic": "Cerebellum"
   },
   {
    "q": "What is molten rock called while it is still beneath Earth's surface?",
    "a": "Magma",
-   "p": 200
+   "p": 200,
+   "apic": "Magma"
   },
   {
    "q": "What is molten rock called once it erupts onto Earth's surface?",
    "a": "Lava",
-   "p": 200
+   "p": 200,
+   "apic": "Lava"
   },
   {
    "q": "What is a scientist who studies rocks and the structure of the Earth called?",
@@ -525,7 +593,8 @@
   {
    "q": "What is the thick layer of hot rock between Earth's crust and core called?",
    "a": "Mantle",
-   "p": 200
+   "p": 200,
+   "apic": "Mantle (geology)"
   },
   {
    "q": "What are the giant moving slabs that make up Earth's outer shell called?",
@@ -533,22 +602,26 @@
    "p": 200,
    "alt": [
     "Plates"
-   ]
+   ],
+   "apic": "Plate tectonics"
   },
   {
    "q": "What simple instrument is used to measure how much rain has fallen?",
    "a": "Rain gauge",
-   "p": 200
+   "p": 200,
+   "apic": "Rain gauge"
   },
   {
    "q": "What is a violently rotating column of air reaching down from a storm cloud to the ground called?",
    "a": "Tornado",
-   "p": 200
+   "p": 200,
+   "apic": "Tornado"
   },
   {
    "q": "What is the calm centre of a hurricane called?",
    "a": "The eye",
-   "p": 200
+   "p": 200,
+   "apic": "Eye (cyclone)"
   },
   {
    "q": "What is the scientific study of weather and the atmosphere called?",
@@ -568,7 +641,8 @@
   {
    "q": "What is the transfer of pollen from one flower to another called?",
    "a": "Pollination",
-   "p": 200
+   "p": 200,
+   "apic": "Pollination"
   },
   {
    "q": "What word describes trees that shed their leaves every autumn?",
@@ -578,7 +652,8 @@
   {
    "q": "What are cone-bearing trees such as pines and firs called?",
    "a": "Conifers",
-   "p": 200
+   "p": 200,
+   "apic": "Pinophyta"
   },
   {
    "q": "In a food chain, what are organisms that make their own food, such as plants, called?",
@@ -603,12 +678,14 @@
   {
    "q": "What process did Charles Darwin propose as the main driver of evolution?",
    "a": "Natural selection",
-   "p": 200
+   "p": 200,
+   "apic": "Natural selection"
   },
   {
    "q": "What are the thread-like structures in a cell's nucleus that carry genes called?",
    "a": "Chromosomes",
-   "p": 200
+   "p": 200,
+   "apic": "Chromosome"
   },
   {
    "q": "What is the basic unit of heredity, a section of DNA, called?",
@@ -618,7 +695,8 @@
   {
    "q": "What was the name of the sheep that in 1996 became the first mammal cloned from an adult cell?",
    "a": "Dolly",
-   "p": 200
+   "p": 200,
+   "apic": "Dolly (sheep)"
   },
   {
    "q": "What tiny infectious agents can only reproduce inside the cells of a living host?",
@@ -626,17 +704,20 @@
    "p": 200,
    "alt": [
     "Virus"
-   ]
+   ],
+   "apic": "Virus"
   },
   {
    "q": "Which single-celled fungus is used to make bread rise?",
    "a": "Yeast",
-   "p": 200
+   "p": 200,
+   "apic": "Yeast"
   },
   {
    "q": "Mushrooms belong to which kingdom of living things?",
    "a": "Fungi",
-   "p": 200
+   "p": 200,
+   "apic": "Fungus"
   },
   {
    "q": "What is the scientific study of plants called?",
@@ -672,12 +753,14 @@
   {
    "q": "Which black fossil fuel formed from ancient swamp plants?",
    "a": "Coal",
-   "p": 200
+   "p": 200,
+   "apic": "Coal"
   },
   {
    "q": "What is the large-scale clearing of forests called?",
    "a": "Deforestation",
-   "p": 200
+   "p": 200,
+   "apic": "Deforestation"
   },
   {
    "q": "Which disease, spread by mosquitoes, is caused by the Plasmodium parasite?",
@@ -700,7 +783,8 @@
    "p": 200,
    "alt": [
     "Carnivorous"
-   ]
+   ],
+   "apic": "Venus flytrap"
   },
   {
    "q": "What is the process of a seed beginning to sprout and grow called?",
@@ -715,12 +799,14 @@
   {
    "q": "What are the icicle-like mineral formations hanging from cave ceilings called?",
    "a": "Stalactites",
-   "p": 200
+   "p": 200,
+   "apic": "Stalactite"
   },
   {
    "q": "What is a hot spring that periodically shoots water and steam into the air called?",
    "a": "Geyser",
-   "p": 200
+   "p": 200,
+   "apic": "Geyser"
   },
   {
    "q": "What is the amount of water vapour in the air called?",
@@ -733,7 +819,8 @@
    "p": 200,
    "alt": [
     "Wind vane"
-   ]
+   ],
+   "apic": "Weather vane"
   },
   {
    "q": "What are balls or lumps of ice that fall from thunderstorms called?",
@@ -741,7 +828,8 @@
    "p": 200,
    "alt": [
     "Hailstones"
-   ]
+   ],
+   "apic": "Hail"
   },
   {
    "q": "What is the process of removing salt from seawater to make drinking water called?",
@@ -751,7 +839,8 @@
   {
    "q": "What is the gem that forms inside oysters called?",
    "a": "Pearl",
-   "p": 200
+   "p": 200,
+   "apic": "Pearl"
   },
   {
    "q": "Which type of rock, such as marble, forms when other rock is changed by heat and pressure?",
@@ -759,7 +848,8 @@
    "p": 400,
    "alt": [
     "Metamorphic"
-   ]
+   ],
+   "apic": "Metamorphic rock"
   },
   {
    "q": "What is the theory, proposed in the early 20th century, that the continents slowly move across the globe?",
@@ -777,17 +867,20 @@
   {
    "q": "Which puffy white clouds with flat bases often appear on fair days?",
    "a": "Cumulus",
-   "p": 400
+   "p": 400,
+   "apic": "Cumulus cloud"
   },
   {
    "q": "Which thin, wispy clouds form high in the sky from ice crystals?",
    "a": "Cirrus",
-   "p": 400
+   "p": 400,
+   "apic": "Cirrus cloud"
   },
   {
    "q": "Which towering clouds produce thunderstorms?",
    "a": "Cumulonimbus",
-   "p": 400
+   "p": 400,
+   "apic": "Cumulonimbus cloud"
   },
   {
    "q": "What is the lowest layer of Earth's atmosphere, where weather happens, called?",
@@ -800,12 +893,14 @@
    "p": 400,
    "alt": [
     "Anther"
-   ]
+   ],
+   "apic": "Stamen"
   },
   {
    "q": "What is the title of Charles Darwin's 1859 book on evolution?",
    "a": "On the Origin of Species",
-   "p": 400
+   "p": 400,
+   "apic": "On the Origin of Species"
   },
   {
    "q": "What pair of sex chromosomes do males normally have?",
@@ -820,7 +915,8 @@
   {
    "q": "What tough substance makes up plant cell walls?",
    "a": "Cellulose",
-   "p": 400
+   "p": 400,
+   "apic": "Cellulose"
   },
   {
    "q": "What is the jelly-like fluid that fills a cell called?",
@@ -871,7 +967,8 @@
    "p": 400,
    "alt": [
     "Rafflesia arnoldii"
-   ]
+   ],
+   "apic": "Rafflesia arnoldii"
   },
   {
    "q": "Which tree species, native to California, is the tallest in the world?",
@@ -879,12 +976,14 @@
    "p": 400,
    "alt": [
     "Redwood"
-   ]
+   ],
+   "apic": "Sequoia sempervirens"
   },
   {
    "q": "What are the microscopic plant-like organisms drifting in the oceans called?",
    "a": "Phytoplankton",
-   "p": 400
+   "p": 400,
+   "apic": "Phytoplankton"
   },
   {
    "q": "Which simple sugar do plants produce during photosynthesis?",
@@ -894,7 +993,8 @@
   {
    "q": "What is a close long-term relationship between two different species, such as clownfish and sea anemones, called?",
    "a": "Symbiosis",
-   "p": 400
+   "p": 400,
+   "apic": "Symbiosis"
   },
   {
    "q": "What property of minerals does the Mohs scale measure?",
@@ -907,27 +1007,32 @@
   {
    "q": "Which mineral is the main ingredient of most sand?",
    "a": "Quartz",
-   "p": 400
+   "p": 400,
+   "apic": "Quartz"
   },
   {
    "q": "Which red gemstone is a variety of corundum?",
    "a": "Ruby",
-   "p": 400
+   "p": 400,
+   "apic": "Ruby"
   },
   {
    "q": "Which green gemstone is a variety of beryl?",
    "a": "Emerald",
-   "p": 400
+   "p": 400,
+   "apic": "Emerald"
   },
   {
    "q": "Which purple gemstone is a variety of quartz?",
    "a": "Amethyst",
-   "p": 400
+   "p": 400,
+   "apic": "Amethyst"
   },
   {
    "q": "Which English scientist coined the word 'cell' after looking at cork under a microscope in 1665?",
    "a": "Robert Hooke",
-   "p": 400
+   "p": 400,
+   "apic": "Robert Hooke"
   },
   {
    "q": "What word describes a volcano that has not erupted for a long time but could erupt again?",
@@ -959,12 +1064,14 @@
   {
    "q": "What is the production of light by living things, such as fireflies and some deep-sea fish, called?",
    "a": "Bioluminescence",
-   "p": 400
+   "p": 400,
+   "apic": "Bioluminescence"
   },
   {
    "q": "Which German scientist proposed the theory of continental drift in 1912?",
    "a": "Alfred Wegener",
-   "p": 600
+   "p": 600,
+   "apic": "Alfred Wegener"
   },
   {
    "q": "Which layer of the atmosphere, above the stratosphere, is where most meteors burn up?",
@@ -982,7 +1089,8 @@
   {
    "q": "Who independently proposed natural selection alongside Charles Darwin?",
    "a": "Alfred Russel Wallace",
-   "p": 600
+   "p": 600,
+   "apic": "Alfred Russel Wallace"
   },
   {
    "q": "In RNA, which base replaces the thymine found in DNA?",
@@ -1008,7 +1116,8 @@
    "p": 600,
    "alt": [
     "Ribosome"
-   ]
+   ],
+   "apic": "Ribosome"
   },
   {
    "q": "What name is given to single-celled organisms, like bacteria, whose cells have no nucleus?",
@@ -1031,7 +1140,8 @@
   {
    "q": "Which planet is the densest in the solar system?",
    "a": "Earth",
-   "p": 600
+   "p": 600,
+   "apic": "Earth"
   },
   {
    "q": "Which 1987 international agreement was signed to protect the ozone layer?",
@@ -1050,12 +1160,14 @@
    "alt": [
     "Algae",
     "Cyanobacteria"
-   ]
+   ],
+   "apic": "Alga"
   },
   {
    "q": "Which American biologist's 1962 book Silent Spring warned of the dangers of pesticides?",
    "a": "Rachel Carson",
-   "p": 600
+   "p": 600,
+   "apic": "Rachel Carson"
   },
   {
    "q": "Which French naturalist proposed that characteristics acquired in life could be inherited?",
@@ -1063,7 +1175,8 @@
    "p": 600,
    "alt": [
     "Lamarck"
-   ]
+   ],
+   "apic": "Jean-Baptiste Lamarck"
   },
   {
    "q": "What is the temperature at which air becomes saturated and dew begins to form called?",
@@ -1086,7 +1199,8 @@
   {
    "q": "What is the large cauldron-shaped hollow formed when a volcano collapses after an eruption called?",
    "a": "Caldera",
-   "p": 600
+   "p": 600,
+   "apic": "Caldera"
   },
   {
    "q": "What are the fast-moving avalanches of hot gas, ash and rock from a volcano called?",
@@ -1094,7 +1208,8 @@
    "p": 600,
    "alt": [
     "Pyroclastic flow"
-   ]
+   ],
+   "apic": "Pyroclastic flow"
   },
   {
    "q": "Roughly what percentage of Earth's water is fresh water?",
@@ -1137,12 +1252,14 @@
   {
    "q": "Which domain of single-celled life, distinct from bacteria, includes many microbes that thrive in extreme places like hot springs?",
    "a": "Archaea",
-   "p": 600
+   "p": 600,
+   "apic": "Archaea"
   },
   {
    "q": "What is the hardest mineral on the Mohs scale after diamond?",
    "a": "Corundum",
-   "p": 600
+   "p": 600,
+   "apic": "Corundum"
   },
   {
    "q": "Which scale rates tornadoes by the damage they cause?",
@@ -1156,7 +1273,8 @@
   {
    "q": "What is the name of the line around the Earth where tectonic plates pull apart under the Atlantic?",
    "a": "Mid-Atlantic Ridge",
-   "p": 600
+   "p": 600,
+   "apic": "Mid-Atlantic Ridge"
   },
   {
    "q": "Which organelle in plant cells stores water and keeps the cell rigid?",
@@ -1184,7 +1302,8 @@
   {
    "q": "What is the haze of fog mixed with smoke and air pollution called?",
    "a": "Smog",
-   "p": 200
+   "p": 200,
+   "apic": "Smog"
   },
   {
    "q": "What is rain made acidic by air pollution called?",
@@ -1286,7 +1405,8 @@
   {
    "q": "Which plant tissue carries sugars from the leaves to the rest of the plant?",
    "a": "Phloem",
-   "p": 600
+   "p": 600,
+   "apic": "Phloem"
   },
   {
    "q": "Which atmospheric layer lies above the mesosphere and contains the orbit of the International Space Station?",
@@ -1296,12 +1416,14 @@
   {
    "q": "What is a weather system of high atmospheric pressure called?",
    "a": "Anticyclone",
-   "p": 600
+   "p": 600,
+   "apic": "Anticyclone"
   },
   {
    "q": "What is the science of dating events by studying tree rings called?",
    "a": "Dendrochronology",
-   "p": 600
+   "p": 600,
+   "apic": "Dendrochronology"
   },
   {
    "q": "Which gas, given off by ripening fruit, acts as a plant hormone that speeds up ripening?",
@@ -1314,7 +1436,8 @@
   {
    "q": "Which scientist developed the oral polio vaccine?",
    "a": "Albert Sabin",
-   "p": 600
+   "p": 600,
+   "apic": "Albert Sabin"
   }
  ]
 }

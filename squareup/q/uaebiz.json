@@ -10,13 +10,15 @@
    "alt": [
     "Emirates Airline",
     "Fly Emirates"
-   ]
+   ],
+   "apic": "Emirates (airline)"
   },
   {
    "q": "In which emirate is Etihad Airways headquartered?",
    "a": "Abu Dhabi",
    "p": 200,
-   "ar": "أبوظبي"
+   "ar": "أبوظبي",
+   "apic": "Abu Dhabi"
   },
   {
    "q": "Which low-cost airline, launched in 2009, is owned by the Government of Dubai?",
@@ -25,7 +27,8 @@
    "ar": "فلاي دبي",
    "alt": [
     "Fly Dubai"
-   ]
+   ],
+   "apic": "Flydubai"
   },
   {
    "q": "In which emirate is Air Arabia based?",
@@ -34,13 +37,15 @@
    "ar": "الشارقة",
    "alt": [
     "Sharjah Airport"
-   ]
+   ],
+   "apic": "Sharjah (city)"
   },
   {
    "q": "What does ADNOC stand for?",
    "a": "Abu Dhabi National Oil Company",
    "p": 200,
-   "ar": "شركة بترول أبوظبي الوطنية"
+   "ar": "شركة بترول أبوظبي الوطنية",
+   "apic": "ADNOC"
   },
   {
    "q": "Which Dubai developer built the Burj Khalifa?",
@@ -49,7 +54,8 @@
    "ar": "إعمار",
    "alt": [
     "Emaar Properties"
-   ]
+   ],
+   "apic": "Emaar Properties"
   },
   {
    "q": "Which green-branded ride-hailing app, founded in Dubai in 2012, was bought by Uber?",
@@ -58,7 +64,8 @@
    "ar": "كريم",
    "alt": [
     "Kareem"
-   ]
+   ],
+   "apic": "Careem"
   },
   {
    "q": "Which yellow-branded online shopping site launched in the UAE in 2017?",
@@ -67,7 +74,8 @@
    "ar": "نون",
    "alt": [
     "noon.com"
-   ]
+   ],
+   "apic": "Noon (company)"
   },
   {
    "q": "Etisalat rebranded its group under which two-character name?",
@@ -98,7 +106,8 @@
    "alt": [
     "LuLu Hypermarket",
     "Lulu Hypermarket"
-   ]
+   ],
+   "apic": "LuLu Group International"
   },
   {
    "q": "Which company built and owns Mall of the Emirates?",
@@ -108,7 +117,8 @@
    "alt": [
     "MAF",
     "Majid Al Futtaim Group"
-   ]
+   ],
+   "apic": "Majid Al Futtaim"
   },
   {
    "q": "Which airport retailer runs the 'Millennium Millionaire' draw?",
@@ -117,7 +127,8 @@
    "ar": "سوق دبي الحرة",
    "alt": [
     "DDF"
-   ]
+   ],
+   "apic": "Dubai Duty Free"
   },
   {
    "q": "Which UAE bottled water brand is named after the 'Garden City'?",
@@ -136,13 +147,16 @@
    "alt": [
     "Jumeirah Group",
     "Jumeirah Hotels"
-   ]
+   ],
+   "pic": "Burj Al Arab",
+   "apic": "Jumeirah (hotel chain)"
   },
   {
    "q": "Which red-branded courier company, founded in 1982, is headquartered in Dubai?",
    "a": "Aramex",
    "p": 200,
-   "ar": "أرامكس"
+   "ar": "أرامكس",
+   "apic": "Aramex"
   },
   {
    "q": "Which Dubai company operates Jebel Ali Port?",
@@ -151,13 +165,16 @@
    "ar": "موانئ دبي العالمية",
    "alt": [
     "Dubai Ports World"
-   ]
+   ],
+   "pic": "Port of Jebel Ali",
+   "apic": "DP World"
   },
   {
    "q": "Which London football club plays at the Emirates Stadium?",
    "a": "Arsenal",
    "p": 200,
-   "ar": "آرسنال"
+   "ar": "آرسنال",
+   "apic": "Arsenal F.C."
   },
   {
    "q": "Which English club plays at the Etihad Stadium?",
@@ -167,7 +184,8 @@
    "alt": [
     "Man City",
     "City"
-   ]
+   ],
+   "apic": "Manchester City F.C."
   },
   {
    "q": "What is the name of Emirates' frequent-flyer programme?",
@@ -191,13 +209,15 @@
    "ar": "نخيل",
    "alt": [
     "Nakheel Properties"
-   ]
+   ],
+   "apic": "Nakheel Properties"
   },
   {
    "q": "Which French hypermarket brand is run in the UAE by Majid Al Futtaim?",
    "a": "Carrefour",
    "p": 200,
-   "ar": "كارفور"
+   "ar": "كارفور",
+   "apic": "Carrefour"
   },
   {
    "q": "Which cinema chain is owned by Majid Al Futtaim?",
@@ -206,13 +226,16 @@
    "ar": "ڤوكس سينما",
    "alt": [
     "VOX"
-   ]
+   ],
+   "apic": "Vox Cinemas"
   },
   {
    "q": "Which indoor ski slope is inside Mall of the Emirates?",
    "a": "Ski Dubai",
    "p": 200,
-   "ar": "سكي دبي"
+   "ar": "سكي دبي",
+   "pic": "Mall of the Emirates",
+   "apic": "Ski Dubai"
   },
   {
    "q": "Which UAE telecom company's towers are topped with giant 'golf ball' spheres?",
@@ -227,7 +250,8 @@
    "q": "Which UAE bottled water brand is named after a mountain town on the Fujairah-Ras Al Khaimah border?",
    "a": "Masafi",
    "p": 200,
-   "ar": "مسافي"
+   "ar": "مسافي",
+   "apic": "Masafi"
   },
   {
    "q": "Which developer built The Dubai Mall?",
@@ -237,7 +261,8 @@
    "alt": [
     "Emaar Properties",
     "Emaar Malls"
-   ]
+   ],
+   "apic": "Emaar Properties"
   },
   {
    "q": "Which Abu Dhabi airline's name means 'union' in Arabic?",
@@ -246,7 +271,8 @@
    "ar": "الاتحاد",
    "alt": [
     "Etihad Airways"
-   ]
+   ],
+   "apic": "Etihad Airways"
   },
   {
    "q": "Which two-word Emirates slogan replaced 'Hello Tomorrow' in 2015?",
@@ -273,7 +299,8 @@
    "ar": "أدنوك",
    "alt": [
     "Abu Dhabi National Oil Company"
-   ]
+   ],
+   "apic": "ADNOC"
   },
   {
    "q": "Which UAE airline is based at Sharjah International Airport and flies a red-tailed fleet?",
@@ -282,7 +309,8 @@
    "ar": "العربية للطيران",
    "alt": [
     "Air Arabia Sharjah"
-   ]
+   ],
+   "apic": "Air Arabia"
   },
   {
    "q": "Which Emirates Group company handles ground services and catering at Dubai airport?",
@@ -291,7 +319,8 @@
    "ar": "دناتا",
    "alt": [
     "Dnata"
-   ]
+   ],
+   "apic": "Dnata"
   },
   {
    "q": "Which Dubai Duty Free promotion offers luxury cars and motorbikes as raffle prizes?",
@@ -305,19 +334,22 @@
    "q": "In which year did Emirates operate its first flight?",
    "a": "1985",
    "p": 400,
-   "ar": "١٩٨٥"
+   "ar": "١٩٨٥",
+   "pic": "Emirates (airline)"
   },
   {
    "q": "In which year was Etihad Airways founded?",
    "a": "2003",
    "p": 400,
-   "ar": "٢٠٠٣"
+   "ar": "٢٠٠٣",
+   "pic": "Etihad Airways"
   },
   {
    "q": "In which year did Careem launch?",
    "a": "2012",
    "p": 400,
-   "ar": "٢٠١٢"
+   "ar": "٢٠١٢",
+   "pic": "Careem"
   },
   {
    "q": "Which Emirati businessman founded both Emaar and Noon?",
@@ -328,7 +360,8 @@
     "Mohammed Alabbar",
     "Mohamed Ali Alabbar",
     "Alabbar"
-   ]
+   ],
+   "apic": "Mohamed Alabbar"
   },
   {
    "q": "Which Indian-born businessman founded the LuLu Group?",
@@ -339,7 +372,8 @@
     "Yusuff Ali",
     "Yusuf Ali",
     "MA Yusuff Ali"
-   ]
+   ],
+   "apic": "M. A. Yusuff Ali"
   },
   {
    "q": "What does Careem's name mean in Arabic?",
@@ -383,7 +417,8 @@
    "ar": "الدار",
    "alt": [
     "Aldar Properties"
-   ]
+   ],
+   "apic": "Aldar Headquarters building"
   },
   {
    "q": "Which Abu Dhabi sovereign investor's name means 'exchange' in Arabic?",
@@ -392,7 +427,8 @@
    "ar": "مبادلة",
    "alt": [
     "Mubadala Investment Company"
-   ]
+   ],
+   "apic": "Mubadala Investment Company"
   },
   {
    "q": "What is the name of Etihad's frequent-flyer programme?",
@@ -420,13 +456,15 @@
    "ar": "طيران الإمارات",
    "alt": [
     "Emirates Airline"
-   ]
+   ],
+   "apic": "Emirates (airline)"
   },
   {
    "q": "Which Hollywood actress starred in Emirates' 2015 TV adverts?",
    "a": "Jennifer Aniston",
    "p": 400,
-   "ar": "جينيفر أنيستون"
+   "ar": "جينيفر أنيستون",
+   "apic": "Jennifer Aniston"
   },
   {
    "q": "Which UAE family business distributes Toyota and Lexus in the UAE?",
@@ -437,7 +475,8 @@
     "Al Futtaim",
     "Al-Futtaim Motors",
     "Al Futtaim Group"
-   ]
+   ],
+   "apic": "Al-Futtaim Group"
   },
   {
    "q": "Which UAE group runs IKEA stores in the UAE?",
@@ -447,7 +486,8 @@
    "alt": [
     "Al Futtaim",
     "Al-Futtaim Group"
-   ]
+   ],
+   "apic": "Al-Futtaim Group"
   },
   {
    "q": "Which Deira mall, opened in 1981 by a Dubai business family, is one of the Gulf's oldest malls?",
@@ -457,7 +497,8 @@
    "alt": [
     "Al Ghurair Center",
     "Al Ghurair Mall"
-   ]
+   ],
+   "apic": "Al Ghurair Centre"
   },
   {
    "q": "Which children's indoor entertainment brand is found in Majid Al Futtaim malls?",
@@ -472,7 +513,8 @@
    "ar": "فندق جميرا بيتش",
    "alt": [
     "Jumeirah Beach"
-   ]
+   ],
+   "apic": "Jumeirah Beach Hotel"
   },
   {
    "q": "Which Jumeirah resort is built around waterways and the Souk Madinat?",
@@ -481,7 +523,8 @@
    "ar": "مدينة جميرا",
    "alt": [
     "Madinat"
-   ]
+   ],
+   "apic": "Madinat Jumeirah"
   },
   {
    "q": "Which golf tour was renamed after DP World in 2022?",
@@ -491,7 +534,8 @@
    "alt": [
     "European Tour golf",
     "DP World Tour"
-   ]
+   ],
+   "apic": "European Tour"
   },
   {
    "q": "What does ENOC stand for?",
@@ -506,7 +550,8 @@
    "ar": "مصدر",
    "alt": [
     "Masdar City"
-   ]
+   ],
+   "apic": "Masdar"
   },
   {
    "q": "Which metal is smelted at the giant Jebel Ali and Al Taweelah plants?",
@@ -515,7 +560,8 @@
    "ar": "ألمنيوم",
    "alt": [
     "Aluminum"
-   ]
+   ],
+   "apic": "Aluminium"
   },
   {
    "q": "Which Emirates division flies freight?",
@@ -524,7 +570,8 @@
    "ar": "الإمارات للشحن الجوي",
    "alt": [
     "SkyCargo"
-   ]
+   ],
+   "apic": "Emirates SkyCargo"
   },
   {
    "q": "Which Emaar luxury hotel brand has 'Downtown' and 'Sky View' properties?",
@@ -543,13 +590,15 @@
    "ar": "الأردن",
    "alt": [
     "Amman"
-   ]
+   ],
+   "apic": "Jordan"
   },
   {
    "q": "In which year did Air Arabia start flying?",
    "a": "2003",
    "p": 400,
-   "ar": "٢٠٠٣"
+   "ar": "٢٠٠٣",
+   "pic": "Air Arabia"
   },
   {
    "q": "Which Dubai brand makes chocolate from camel milk?",
@@ -586,7 +635,8 @@
    "ar": "دبي فستيفال سيتي",
    "alt": [
     "Festival City"
-   ]
+   ],
+   "apic": "Dubai Festival City"
   },
   {
    "q": "Which Dubai government-owned conglomerate is the parent of Jumeirah Group?",
@@ -595,7 +645,8 @@
    "ar": "دبي القابضة",
    "alt": [
     "Dubai Holding LLC"
-   ]
+   ],
+   "apic": "Dubai Holding"
   },
   {
    "q": "The Emirates logo is written in which script?",
@@ -611,7 +662,8 @@
    "q": "To which city did Emirates operate its first flight in 1985?",
    "a": "Karachi",
    "p": 600,
-   "ar": "كراتشي"
+   "ar": "كراتشي",
+   "apic": "Karachi"
   },
   {
    "q": "Which airline provided Emirates with its first two aircraft?",
@@ -621,19 +673,22 @@
    "alt": [
     "PIA",
     "Pakistan International"
-   ]
+   ],
+   "apic": "Pakistan International Airlines"
   },
   {
    "q": "To which city did Etihad operate its first commercial flight in November 2003?",
    "a": "Beirut",
    "p": 600,
-   "ar": "بيروت"
+   "ar": "بيروت",
+   "apic": "Beirut"
   },
   {
    "q": "Which Hollywood actress starred in Etihad's 2014 global advertising campaign?",
    "a": "Nicole Kidman",
    "p": 600,
-   "ar": "نيكول كيدمان"
+   "ar": "نيكول كيدمان",
+   "apic": "Nicole Kidman"
   },
   {
    "q": "Who was Emirates' founding chairman?",
@@ -643,7 +698,8 @@
    "alt": [
     "Ahmed bin Saeed Al Maktoum",
     "Sheikh Ahmed bin Saeed"
-   ]
+   ],
+   "apic": "Ahmed bin Saeed Al Maktoum"
   },
   {
    "q": "Which Jordanian entrepreneur co-founded Aramex?",
@@ -652,7 +708,8 @@
    "ar": "فادي غندور",
    "alt": [
     "Fadi Ghandoor"
-   ]
+   ],
+   "apic": "Fadi Ghandour"
   },
   {
    "q": "In 1997, Aramex became the first Arab-based company listed on which US stock exchange?",
@@ -661,7 +718,8 @@
    "ar": "ناسداك",
    "alt": [
     "Nasdaq Stock Market"
-   ]
+   ],
+   "apic": "Nasdaq"
   },
   {
    "q": "In which year was ADNOC founded?",
@@ -697,13 +755,15 @@
    "q": "In which year did Dubai Duty Free open?",
    "a": "1983",
    "p": 600,
-   "ar": "١٩٨٣"
+   "ar": "١٩٨٣",
+   "pic": "Dubai Duty Free"
   },
   {
    "q": "In which year did Mall of the Emirates open?",
    "a": "2005",
    "p": 600,
-   "ar": "٢٠٠٥"
+   "ar": "٢٠٠٥",
+   "pic": "Mall of the Emirates"
   },
   {
    "q": "In which year was Mubadala established?",
@@ -724,7 +784,8 @@
    "ar": "أغذية",
    "alt": [
     "Agthia Group"
-   ]
+   ],
+   "apic": "Agthia"
   },
   {
    "q": "Which two Dubai banks merged in 2007 to form Emirates NBD?",
@@ -734,7 +795,8 @@
    "alt": [
     "Emirates Bank and National Bank of Dubai",
     "Emirates Bank International and NBD"
-   ]
+   ],
+   "apic": "Emirates NBD"
   },
   {
    "q": "Which two banks merged to create First Abu Dhabi Bank?",
@@ -744,7 +806,8 @@
    "alt": [
     "National Bank of Abu Dhabi and First Gulf Bank",
     "First Gulf Bank and NBAD"
-   ]
+   ],
+   "apic": "First Abu Dhabi Bank"
   },
   {
    "q": "Which three-room suite was launched on Etihad's A380s?",
@@ -763,7 +826,8 @@
    "alt": [
     "Team New Zealand",
     "ETNZ"
-   ]
+   ],
+   "apic": "Emirates Team New Zealand"
   },
   {
    "q": "Which Jumeirah Golf Estates event is the season finale of the DP World Tour?",
@@ -779,7 +843,8 @@
    "q": "From which Indian state does LuLu Group founder M.A. Yusuff Ali come?",
    "a": "Kerala",
    "p": 600,
-   "ar": "كيرلا"
+   "ar": "كيرلا",
+   "apic": "Kerala"
   },
   {
    "q": "What does 'Aldar' mean in Arabic?",
@@ -799,7 +864,8 @@
    "ar": "وايلد وادي",
    "alt": [
     "Wild Wadi Waterpark"
-   ]
+   ],
+   "apic": "Wild Wadi Water Park"
   },
   {
    "q": "Which Emirates slogan, used in its early-2010s global campaign, came before 'Fly Better'?",
@@ -820,13 +886,15 @@
    "q": "Which Majid Al Futtaim mall with an indoor ski slope opened near Cairo in 2017?",
    "a": "Mall of Egypt",
    "p": 600,
-   "ar": "مول مصر"
+   "ar": "مول مصر",
+   "apic": "Mall of Egypt"
   },
   {
    "q": "In which year did Emirates receive its first Airbus A380?",
    "a": "2008",
    "p": 600,
-   "ar": "٢٠٠٨"
+   "ar": "٢٠٠٨",
+   "pic": "Airbus A380"
   },
   {
    "q": "Which giant Abu Dhabi refinery and industrial town belongs to ADNOC on the western coast?",
@@ -835,7 +903,8 @@
    "ar": "الرويس",
    "alt": [
     "Al Ruwais"
-   ]
+   ],
+   "apic": "Ruwais"
   },
   {
    "q": "Which classifieds website, founded in Dubai in 2005, is where many UAE residents sell used cars and furniture?",
@@ -844,7 +913,8 @@
    "ar": "دوبيزل",
    "alt": [
     "Dubizzle"
-   ]
+   ],
+   "apic": "Dubizzle"
   },
   {
    "q": "What does DIFC stand for?",
@@ -853,13 +923,15 @@
    "ar": "مركز دبي المالي العالمي",
    "alt": [
     "Dubai International Financial Center"
-   ]
+   ],
+   "apic": "Dubai International Financial Centre"
   },
   {
    "q": "Which Abu Dhabi indoor arena on Yas Island carries an airline's name?",
    "a": "Etihad Arena",
    "p": 200,
-   "ar": "الاتحاد أرينا"
+   "ar": "الاتحاد أرينا",
+   "apic": "Etihad Arena"
   },
   {
    "q": "Which Dubai-based online marketplace did Amazon buy in 2017?",
@@ -868,7 +940,8 @@
    "ar": "سوق.كوم",
    "alt": [
     "Souq"
-   ]
+   ],
+   "apic": "Souq.com"
   },
   {
    "q": "Which Abu Dhabi-headquartered hotel chain also runs the Centro and Arjaan brands?",
@@ -877,7 +950,8 @@
    "ar": "روتانا",
    "alt": [
     "Rotana Hotels"
-   ]
+   ],
+   "apic": "Rotana Hotels"
   },
   {
    "q": "Which Ras Al Khaimah company is famous worldwide for tiles and bathroom ware?",
@@ -886,7 +960,8 @@
    "ar": "رأس الخيمة للسيراميك",
    "alt": [
     "RAK"
-   ]
+   ],
+   "apic": "RAK Ceramics"
   },
   {
    "q": "Which Arab TV group moved its headquarters from London to Dubai Media City in 2002?",
@@ -896,7 +971,8 @@
    "alt": [
     "MBC Group",
     "Middle East Broadcasting Center"
-   ]
+   ],
+   "apic": "MBC Group"
   },
   {
    "q": "Which English-language newspaper was launched in Abu Dhabi in 2008?",
@@ -905,7 +981,8 @@
    "ar": "ذا ناشيونال",
    "alt": [
     "National"
-   ]
+   ],
+   "apic": "The National (Abu Dhabi)"
   },
   {
    "q": "Which Dubai bank, founded in 1975, was the world's first full-service Islamic commercial bank?",
@@ -914,7 +991,8 @@
    "ar": "بنك دبي الإسلامي",
    "alt": [
     "DIB"
-   ]
+   ],
+   "apic": "Dubai Islamic Bank"
   },
   {
    "q": "Which Dubai camel milk brand's name blends 'camel' and 'delicious'?",
@@ -930,7 +1008,8 @@
    "alt": [
     "The FA Cup",
     "Emirates FA Cup"
-   ]
+   ],
+   "apic": "FA Cup"
   },
   {
    "q": "Which American hardware store brand does Al-Futtaim run in the UAE?",
@@ -939,7 +1018,8 @@
    "ar": "إيس",
    "alt": [
     "Ace Hardware"
-   ]
+   ],
+   "apic": "Ace Hardware"
   },
   {
    "q": "Which petrol station brand is owned by the UAE federal government?",
@@ -948,25 +1028,29 @@
    "ar": "إمارات",
    "alt": [
     "Emirates General Petroleum"
-   ]
+   ],
+   "apic": "Emarat"
   },
   {
    "q": "Which Dubai developer created The Dubai Fountain beside Burj Khalifa?",
    "a": "Emaar",
    "p": 200,
-   "ar": "إعمار"
+   "ar": "إعمار",
+   "apic": "Dubai Fountain"
   },
   {
    "q": "Which Dubai developer built Palm Jebel Ali and The World islands?",
    "a": "Nakheel",
    "p": 200,
-   "ar": "نخيل"
+   "ar": "نخيل",
+   "apic": "Nakheel Properties"
   },
   {
    "q": "What does ADGM stand for?",
    "a": "Abu Dhabi Global Market",
    "p": 200,
-   "ar": "سوق أبوظبي العالمي"
+   "ar": "سوق أبوظبي العالمي",
+   "apic": "Abu Dhabi Global Market"
   },
   {
    "q": "In which year did Amazon buy Souq.com?",
@@ -987,13 +1071,15 @@
    "ar": "الاتحاد للطيران",
    "alt": [
     "Etihad"
-   ]
+   ],
+   "apic": "Etihad Airways"
   },
   {
    "q": "Which Dubai developer's name means 'palm trees' in Arabic?",
    "a": "Nakheel",
    "p": 400,
-   "ar": "نخيل"
+   "ar": "نخيل",
+   "apic": "Nakheel Properties"
   },
   {
    "q": "What does JAFZA stand for?",
@@ -1002,7 +1088,8 @@
    "ar": "المنطقة الحرة لجبل علي",
    "alt": [
     "Jebel Ali Free Zone"
-   ]
+   ],
+   "apic": "Jebel Ali Free Zone"
   },
   {
    "q": "Which Abu Dhabi company runs Yas Island attractions such as Ferrari World and Yas Waterworld?",
@@ -1020,7 +1107,8 @@
    "ar": "الثريا",
    "alt": [
     "Thuraya Telecommunications"
-   ]
+   ],
+   "apic": "Thuraya"
   },
   {
    "q": "Which group operates Khalifa Port and other Abu Dhabi ports?",
@@ -1030,19 +1118,22 @@
    "alt": [
     "Abu Dhabi Ports",
     "AD Ports"
-   ]
+   ],
+   "apic": "AD Ports Group"
   },
   {
    "q": "In which emirate is the LuLu Group headquartered?",
    "a": "Abu Dhabi",
    "p": 400,
-   "ar": "أبوظبي"
+   "ar": "أبوظبي",
+   "apic": "Abu Dhabi"
   },
   {
    "q": "In which year did the Emirates Stadium open?",
    "a": "2006",
    "p": 400,
-   "ar": "٢٠٠٦"
+   "ar": "٢٠٠٦",
+   "pic": "Emirates Stadium"
   },
   {
    "q": "In which year did Etihad begin sponsoring Manchester City's shirts?",
@@ -1054,25 +1145,29 @@
    "q": "In which year did Ski Dubai open?",
    "a": "2005",
    "p": 400,
-   "ar": "٢٠٠٥"
+   "ar": "٢٠٠٥",
+   "pic": "Ski Dubai"
   },
   {
    "q": "In which year did the Burj Al Arab open?",
    "a": "1999",
    "p": 400,
-   "ar": "١٩٩٩"
+   "ar": "١٩٩٩",
+   "pic": "Burj Al Arab"
   },
   {
    "q": "Which Emaar villa community on Dubai's desert edge is named after horse ranches?",
    "a": "Arabian Ranches",
    "p": 400,
-   "ar": "المرابع العربية"
+   "ar": "المرابع العربية",
+   "apic": "Arabian Ranches"
   },
   {
    "q": "Which Dubai developer built Bluewaters Island and City Walk?",
    "a": "Meraas",
    "p": 400,
-   "ar": "مراس"
+   "ar": "مراس",
+   "apic": "Meraas"
   },
   {
    "q": "Which Dubai Multi Commodities Centre free zone district is famous for its lakes and towers?",
@@ -1081,7 +1176,8 @@
    "ar": "أبراج بحيرات جميرا",
    "alt": [
     "JLT"
-   ]
+   ],
+   "apic": "Jumeirah Lakes Towers"
   },
   {
    "q": "Which UAE retail brand's loyalty programme is called SHARE?",
@@ -1100,13 +1196,15 @@
    "alt": [
     "M&S",
     "Marks and Spencer"
-   ]
+   ],
+   "apic": "Marks & Spencer"
   },
   {
    "q": "Which Emirates Group company name, written in lowercase, originally stood for Dubai National Air Travel Agency?",
    "a": "dnata",
    "p": 400,
-   "ar": "دناتا"
+   "ar": "دناتا",
+   "apic": "Dnata"
   },
   {
    "q": "Which Dubai tennis tournament, held each February, carries an airport retailer's name?",
@@ -1116,7 +1214,8 @@
    "alt": [
     "Dubai Tennis Championships",
     "Dubai Duty Free Tennis"
-   ]
+   ],
+   "apic": "Dubai Tennis Championships"
   },
   {
    "q": "Which Dubai bank was founded in 1967 as the Bank of Oman?",
@@ -1126,7 +1225,8 @@
    "alt": [
     "Mashreq Bank",
     "Mashreqbank"
-   ]
+   ],
+   "apic": "Mashreq (bank)"
   },
   {
    "q": "Which Abu Dhabi joint venture with Etihad launched a low-cost airline in 2020?",
@@ -1135,7 +1235,8 @@
    "ar": "العربية للطيران أبوظبي",
    "alt": [
     "Air Arabia"
-   ]
+   ],
+   "apic": "Air Arabia Abu Dhabi"
   },
   {
    "q": "Which state-owned Dubai investment company is the sole owner of the Emirates Group?",
@@ -1144,7 +1245,8 @@
    "ar": "مؤسسة دبي للاستثمارات الحكومية",
    "alt": [
     "ICD"
-   ]
+   ],
+   "apic": "Investment Corporation of Dubai"
   },
   {
    "q": "Which British ports and ferries company did DP World buy in 2006?",
@@ -1155,7 +1257,8 @@
     "P&O Ports",
     "Peninsular and Oriental",
     "P&O Steam Navigation Company"
-   ]
+   ],
+   "apic": "P&O (company)"
   },
   {
    "q": "Which Ras Al Khaimah pharmaceutical company's name comes from the old name of the emirate's port town?",
@@ -1164,7 +1267,8 @@
    "ar": "جلفار",
    "alt": [
     "Gulf Pharmaceutical Industries"
-   ]
+   ],
+   "apic": "Julphar"
   },
   {
    "q": "Which Dubai stock exchange opened in 2000?",
@@ -1173,7 +1277,8 @@
    "ar": "سوق دبي المالي",
    "alt": [
     "DFM"
-   ]
+   ],
+   "apic": "Dubai Financial Market"
   },
   {
    "q": "Which consultancy did Careem's co-founders Mudassir Sheikha and Magnus Olsson both work at?",
@@ -1182,7 +1287,8 @@
    "ar": "ماكنزي",
    "alt": [
     "McKinsey & Company"
-   ]
+   ],
+   "apic": "McKinsey & Company"
   },
   {
    "q": "Name either co-founder of Careem.",
@@ -1201,7 +1307,8 @@
    "ar": "رونالدو مشحور",
    "alt": [
     "Ronaldo Mushawar"
-   ]
+   ],
+   "apic": "Ronaldo Mouchawar"
   },
   {
    "q": "In which year did du launch commercial services?",
@@ -1222,7 +1329,9 @@
    "q": "Which British architect designed the Burj Al Arab?",
    "a": "Tom Wright",
    "p": 600,
-   "ar": "توم رايت"
+   "ar": "توم رايت",
+   "pic": "Burj Al Arab",
+   "apic": "Tom Wright (architect)"
   },
   {
    "q": "Which London cable car across the Thames carried the Emirates name from 2012?",
@@ -1232,7 +1341,8 @@
    "alt": [
     "Emirates Air Line cable car",
     "Air Line"
-   ]
+   ],
+   "apic": "London cable car"
   },
   {
    "q": "Which Melbourne Docklands stadium carried the Etihad name until 2018?",
@@ -1241,13 +1351,15 @@
    "ar": "استاد الاتحاد",
    "alt": [
     "Docklands Stadium"
-   ]
+   ],
+   "apic": "Docklands Stadium"
   },
   {
    "q": "Which London football club wore 'Fly Emirates' shirts from 2001 to 2005?",
    "a": "Chelsea",
    "p": 600,
-   "ar": "تشيلسي"
+   "ar": "تشيلسي",
+   "apic": "Chelsea F.C."
   },
   {
    "q": "To which city did Emirates fly its first A380 service in 2008?",
@@ -1257,7 +1369,8 @@
    "alt": [
     "New York JFK",
     "JFK"
-   ]
+   ],
+   "apic": "New York City"
   },
   {
    "q": "Which UAE president's decree founded Etihad Airways in 2003?",
@@ -1267,7 +1380,8 @@
    "alt": [
     "Sheikh Khalifa",
     "Khalifa bin Zayed"
-   ]
+   ],
+   "apic": "Khalifa bin Zayed Al Nahyan"
   },
   {
    "q": "Which ruler's decree founded Air Arabia in 2003?",
@@ -1277,7 +1391,8 @@
    "alt": [
     "Sultan Al Qasimi",
     "Sheikh Sultan"
-   ]
+   ],
+   "apic": "Sultan bin Muhammad Al-Qasimi"
   },
   {
    "q": "In which year was JAFZA, the Jebel Ali Free Zone, established?",
@@ -1289,13 +1404,15 @@
    "q": "Which US chipmaker did Mubadala create in 2009 from AMD's factories?",
    "a": "GlobalFoundries",
    "p": 600,
-   "ar": "غلوبال فاوندريز"
+   "ar": "غلوبال فاوندريز",
+   "apic": "GlobalFoundries"
   },
   {
    "q": "Which Abu Dhabi company pipes natural gas from Qatar to the UAE?",
    "a": "Dolphin Energy",
    "p": 600,
-   "ar": "دولفين للطاقة"
+   "ar": "دولفين للطاقة",
+   "apic": "Dolphin Energy"
   },
   {
    "q": "Which UAE defence and technology group was founded in Abu Dhabi in 2019?",
@@ -1304,7 +1421,8 @@
    "ar": "إيدج",
    "alt": [
     "EDGE Group"
-   ]
+   ],
+   "apic": "EDGE Group"
   },
   {
    "q": "What was the Dubai International Financial Exchange (DIFX) renamed in 2008?",
@@ -1313,7 +1431,8 @@
    "ar": "ناسداك دبي",
    "alt": [
     "DIFX"
-   ]
+   ],
+   "apic": "Nasdaq Dubai"
   },
   {
    "q": "Which Dubai Holding business park company runs Dubai Internet City and Dubai Media City?",
@@ -1322,7 +1441,8 @@
    "ar": "تيكوم",
    "alt": [
     "TECOM Group"
-   ]
+   ],
+   "apic": "TECOM Group"
   },
   {
    "q": "Roughly how much start-up money, in US dollars, did the Dubai government give Emirates in 1985?",
@@ -1350,7 +1470,8 @@
    "ar": "لندن",
    "alt": [
     "London Heathrow"
-   ]
+   ],
+   "apic": "London"
   },
   {
    "q": "Which Dubai Duty Free raffle, launched in 1999, offers a 1 million US dollar prize?",

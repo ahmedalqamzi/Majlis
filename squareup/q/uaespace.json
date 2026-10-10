@@ -11,7 +11,8 @@
     "Hope Probe",
     "Hope Mars Mission",
     "Emirates Mars Mission"
-   ]
+   ],
+   "apic": "Emirates Mars Mission"
   },
   {
    "q": "Which planet did the Hope Probe travel to?",
@@ -20,7 +21,8 @@
    "ar": "المريخ",
    "alt": [
     "The Red Planet"
-   ]
+   ],
+   "apic": "Mars"
   },
   {
    "q": "Who became the first Emirati in space?",
@@ -31,7 +33,8 @@
     "Hazzaa AlMansoori",
     "Hazza AlMansoori",
     "Al Mansoori"
-   ]
+   ],
+   "apic": "Hazza Al Mansouri"
   },
   {
    "q": "Which Emirati astronaut became the first Arab to perform a spacewalk?",
@@ -42,7 +45,8 @@
     "Sultan AlNeyadi",
     "Al Neyadi",
     "Sultan Al Nayadi"
-   ]
+   ],
+   "apic": "Sultan Al Neyadi"
   },
   {
    "q": "Which orbiting laboratory did both of the first two Emirati astronauts live aboard?",
@@ -52,17 +56,20 @@
    "alt": [
     "ISS",
     "The Space Station"
-   ]
+   ],
+   "apic": "International Space Station"
   },
   {
    "q": "In which year did the Hope Probe enter orbit around Mars?",
    "a": "2021",
-   "p": 200
+   "p": 200,
+   "pic": "Emirates Mars Mission"
   },
   {
    "q": "In which year was the Hope Probe launched?",
    "a": "2020",
-   "p": 200
+   "p": 200,
+   "pic": "Emirates Mars Mission"
   },
   {
    "q": "What does the Dubai space agency abbreviation MBRSC stand for?",
@@ -71,7 +78,8 @@
    "ar": "مركز محمد بن راشد للفضاء",
    "alt": [
     "Mohammed bin Rashid Space Center"
-   ]
+   ],
+   "apic": "Mohammed bin Rashid Space Centre"
   },
   {
    "q": "What name was given to the UAE's first lunar rover?",
@@ -81,7 +89,8 @@
    "alt": [
     "Rashid rover",
     "Rashid 1"
-   ]
+   ],
+   "apic": "Rashid (rover)"
   },
   {
    "q": "Which celestial body was the Rashid rover sent to explore?",
@@ -90,13 +99,15 @@
    "ar": "القمر",
    "alt": [
     "Moon"
-   ]
+   ],
+   "apic": "Moon"
   },
   {
    "q": "From which country was the Hope Probe launched?",
    "a": "Japan",
    "p": 200,
-   "ar": "اليابان"
+   "ar": "اليابان",
+   "apic": "Japan"
   },
   {
    "q": "Which long-term UAE project aims to build a human settlement on Mars within a century?",
@@ -117,7 +128,8 @@
     "Nora AlMatrooshi",
     "Noura Al Matrooshi",
     "Al Matrooshi"
-   ]
+   ],
+   "apic": "Nora Al Matrooshi"
   },
   {
    "q": "Which satellite, the first built entirely by Emirati engineers in the UAE, is named after a UAE President?",
@@ -127,7 +139,8 @@
    "alt": [
     "Khalifa Sat",
     "Khalifa Satellite"
-   ]
+   ],
+   "apic": "KhalifaSat"
   },
   {
    "q": "Which US company's rocket and capsule carried Sultan Al Neyadi to space?",
@@ -135,7 +148,8 @@
    "p": 200,
    "alt": [
     "Space X"
-   ]
+   ],
+   "apic": "SpaceX"
   },
   {
    "q": "Hazza Al Mansoori launched on which Russian spacecraft type?",
@@ -144,17 +158,20 @@
    "ar": "سويوز",
    "alt": [
     "Soyuz MS-15"
-   ]
+   ],
+   "apic": "Soyuz (spacecraft)"
   },
   {
    "q": "In which year did Hazza Al Mansoori fly to space?",
    "a": "2019",
-   "p": 200
+   "p": 200,
+   "pic": "Hazza Al Mansouri"
   },
   {
    "q": "In which year did Sultan Al Neyadi launch on his long ISS mission?",
    "a": "2023",
-   "p": 200
+   "p": 200,
+   "pic": "Sultan Al Neyadi"
   },
   {
    "q": "Roughly how many months did Sultan Al Neyadi spend on the ISS?",
@@ -175,7 +192,8 @@
     "DubaiSat-1",
     "DubaiSat-2",
     "Dubai Sat"
-   ]
+   ],
+   "apic": "DubaiSat-1"
   },
   {
    "q": "The Hope Probe made the UAE the first country from which region to reach Mars?",
@@ -186,7 +204,8 @@
     "Arab",
     "Arab region",
     "The Arab world"
-   ]
+   ],
+   "apic": "Arab world"
   },
   {
    "q": "Which federal body, created in 2014, oversees the UAE's space sector?",
@@ -196,7 +215,8 @@
    "alt": [
     "Space Agency",
     "United Arab Emirates Space Agency"
-   ]
+   ],
+   "apic": "UAE Space Agency"
   },
   {
    "q": "Hope studies what part of Mars, including its weather?",
@@ -207,7 +227,8 @@
     "Weather",
     "Climate",
     "The atmosphere"
-   ]
+   ],
+   "apic": "Atmosphere of Mars"
   },
   {
    "q": "What was Hazza Al Mansoori's job before becoming an astronaut?",
@@ -218,7 +239,8 @@
     "F-16 pilot",
     "Pilot",
     "Air Force pilot"
-   ]
+   ],
+   "pic": "Hazza Al Mansouri"
   },
   {
    "q": "The Rashid rover is named after which late Ruler of Dubai?",
@@ -228,7 +250,8 @@
    "alt": [
     "Rashid bin Saeed",
     "Sheikh Rashid"
-   ]
+   ],
+   "apic": "Rashid bin Saeed Al Maktoum"
   },
   {
    "q": "Which Emirati scientist led the Hope Probe's science team?",
@@ -238,13 +261,15 @@
    "alt": [
     "Sarah AlAmiri",
     "Sarah bint Yousif Al Amiri"
-   ]
+   ],
+   "apic": "Sarah Al Amiri"
   },
   {
    "q": "In which emirate is the Mohammed bin Rashid Space Centre?",
    "a": "Dubai",
    "p": 200,
-   "ar": "دبي"
+   "ar": "دبي",
+   "apic": "Dubai"
   },
   {
    "q": "Hope reached Mars during which national UAE milestone year?",
@@ -261,13 +286,15 @@
    "q": "Which US space agency trained the UAE's second batch of astronauts?",
    "a": "NASA",
    "p": 200,
-   "ar": "ناسا"
+   "ar": "ناسا",
+   "apic": "NASA"
   },
   {
    "q": "In which emirate is the UAE Space Agency headquartered?",
    "a": "Abu Dhabi",
    "p": 200,
-   "ar": "أبوظبي"
+   "ar": "أبوظبي",
+   "apic": "Abu Dhabi"
   },
   {
    "q": "Hazza Al Mansoori's 2019 mission was named 'Zayed's Ambition' after which leader?",
@@ -277,13 +304,15 @@
    "alt": [
     "Zayed bin Sultan Al Nahyan",
     "Zayed"
-   ]
+   ],
+   "apic": "Zayed bin Sultan Al Nahyan"
   },
   {
    "q": "In which language did Hazza Al Mansoori give his famous guided tour of the ISS?",
    "a": "Arabic",
    "p": 200,
-   "ar": "العربية"
+   "ar": "العربية",
+   "apic": "Arabic"
   },
   {
    "q": "From which US state did Sultan Al Neyadi blast off to the ISS?",
@@ -292,7 +321,8 @@
    "alt": [
     "Cape Canaveral",
     "Kennedy Space Center"
-   ]
+   ],
+   "apic": "Florida"
   },
   {
    "q": "About how many days did Hazza Al Mansoori spend in space?",
@@ -302,7 +332,8 @@
     "8",
     "8 days",
     "About a week"
-   ]
+   ],
+   "pic": "Hazza Al Mansouri"
   },
   {
    "q": "Which Ruler of Dubai announced the Mars 2117 project in 2017?",
@@ -312,7 +343,8 @@
    "alt": [
     "Mohammed bin Rashid",
     "Sheikh Mohammed"
-   ]
+   ],
+   "apic": "Mohammed bin Rashid Al Maktoum"
   },
   {
    "q": "Mars, Hope's destination, is popularly nicknamed the what?",
@@ -321,7 +353,8 @@
    "ar": "الكوكب الأحمر",
    "alt": [
     "The Red Planet"
-   ]
+   ],
+   "apic": "Mars"
   },
   {
    "q": "Sultan Al Neyadi became the first person to wear a gi in space, the uniform of which martial art?",
@@ -332,7 +365,8 @@
     "Brazilian jiu-jitsu",
     "BJJ",
     "Jujitsu"
-   ]
+   ],
+   "apic": "Brazilian jiu-jitsu"
   },
   {
    "q": "The Hope Probe is roughly the size of what everyday vehicle?",
@@ -347,7 +381,8 @@
    "q": "In which country is Star City, where Hazza Al Mansoori trained for his Soyuz flight?",
    "a": "Russia",
    "p": 200,
-   "ar": "روسيا"
+   "ar": "روسيا",
+   "apic": "Russia"
   },
   {
    "q": "Suhail, the MBRSC astronaut mascot, is a toy version of which bird?",
@@ -356,7 +391,8 @@
    "ar": "صقر",
    "alt": [
     "Saqr"
-   ]
+   ],
+   "apic": "Falcon"
   },
   {
    "q": "How many moons does Mars, studied by Hope, have?",
@@ -365,7 +401,8 @@
    "alt": [
     "2",
     "Phobos and Deimos"
-   ]
+   ],
+   "pic": "Mars"
   },
   {
    "q": "What do the letters MBR in the asteroid mission name 'MBR Explorer' stand for?",
@@ -390,7 +427,8 @@
    "q": "From which country's Baikonur Cosmodrome did Hazza Al Mansoori launch?",
    "a": "Kazakhstan",
    "p": 400,
-   "ar": "كازاخستان"
+   "ar": "كازاخستان",
+   "apic": "Kazakhstan"
   },
   {
    "q": "What was the name of the MBRSC mascot toy that flew as Crew-6's zero-g indicator?",
@@ -418,7 +456,8 @@
    "alt": [
     "i-space",
     "ispace inc"
-   ]
+   ],
+   "apic": "Ispace (Japanese company)"
   },
   {
    "q": "How many science instruments does the Hope Probe carry?",
@@ -426,13 +465,15 @@
    "p": 400,
    "alt": [
     "3"
-   ]
+   ],
+   "pic": "Emirates Mars Mission"
   },
   {
    "q": "Hope captured close-up images of which small Martian moon in 2023?",
    "a": "Deimos",
    "p": 400,
-   "ar": "ديموس"
+   "ar": "ديموس",
+   "apic": "Deimos (moon)"
   },
   {
    "q": "Sultan Al Neyadi flew on which SpaceX crew mission?",
@@ -441,13 +482,15 @@
    "alt": [
     "SpaceX Crew-6",
     "Crew 6"
-   ]
+   ],
+   "apic": "SpaceX Crew-6"
   },
   {
    "q": "Which country's PSLV rocket launched Nayif-1, the first Emirati nanosatellite, in 2017?",
    "a": "India",
    "p": 400,
-   "ar": "الهند"
+   "ar": "الهند",
+   "apic": "India"
   },
   {
    "q": "Which Emirati astronaut was selected alongside Nora Al Matrooshi in the UAE's second batch?",
@@ -458,7 +501,8 @@
     "Mohammed AlMulla",
     "Mohammad AlMulla",
     "Al Mulla"
-   ]
+   ],
+   "apic": "Mohammad Al Mulla"
   },
   {
    "q": "In which year was the UAE Space Agency established?",
@@ -483,7 +527,8 @@
    "alt": [
     "Tanegashima",
     "Tanegashima Space Centre"
-   ]
+   ],
+   "apic": "Tanegashima Space Center"
   },
   {
    "q": "Hope reached Mars orbit one day before which Chinese Mars mission?",
@@ -492,7 +537,8 @@
    "alt": [
     "Tianwen 1",
     "Tianwen"
-   ]
+   ],
+   "apic": "Tianwen-1"
   },
   {
    "q": "Counting space agencies, the UAE became the ___ to reach Mars. Fill in the number.",
@@ -506,7 +552,8 @@
   {
    "q": "In which year was KhalifaSat launched?",
    "a": "2018",
-   "p": 400
+   "p": 400,
+   "pic": "KhalifaSat"
   },
   {
    "q": "In which year was the Mohammed bin Rashid Space Centre established?",
@@ -520,7 +567,8 @@
    "alt": [
     "Steve Bowen",
     "Bowen"
-   ]
+   ],
+   "apic": "Stephen Bowen"
   },
   {
    "q": "Which part of NASA's lunar Gateway station has the UAE agreed to provide?",
@@ -529,7 +577,8 @@
    "alt": [
     "The airlock",
     "Crew and science airlock"
-   ]
+   ],
+   "apic": "Lunar Gateway"
   },
   {
    "q": "Which UAE company's satellites provide mobile satellite phone services?",
@@ -538,7 +587,8 @@
    "ar": "الثريا",
    "alt": [
     "Thuraya Telecommunications"
-   ]
+   ],
+   "apic": "Thuraya"
   },
   {
    "q": "Which Abu Dhabi satellite operator's satellites are named Al Yah?",
@@ -548,7 +598,8 @@
    "alt": [
     "Al Yah Satellite Communications",
     "Al Yah Satellite"
-   ]
+   ],
+   "apic": "Yahsat"
   },
   {
    "q": "What is the name of the UAE's planned mission to the asteroid belt?",
@@ -568,7 +619,8 @@
    "alt": [
     "Prince Sultan bin Salman",
     "Sultan bin Salman Al Saud"
-   ]
+   ],
+   "apic": "Sultan bin Salman Al Saud"
   },
   {
    "q": "Nora Al Matrooshi trained in which branch of engineering?",
@@ -577,7 +629,8 @@
    "alt": [
     "Mechanical",
     "Mechanical engineer"
-   ]
+   ],
+   "pic": "Nora Al Matrooshi"
   },
   {
    "q": "In which year was the UAE Astronaut Programme launched?",
@@ -590,7 +643,8 @@
    "p": 400,
    "alt": [
     "SpaceX Falcon 9"
-   ]
+   ],
+   "apic": "Falcon 9"
   },
   {
    "q": "In which year was the Rashid rover launched?",
@@ -615,12 +669,14 @@
    "alt": [
     "Dragon",
     "Dragon capsule"
-   ]
+   ],
+   "apic": "SpaceX Dragon 2"
   },
   {
    "q": "Hope's first image of Mars showed which giant volcano at sunrise?",
    "a": "Olympus Mons",
-   "p": 400
+   "p": 400,
+   "apic": "Olympus Mons"
   },
   {
    "q": "In which year were Nora Al Matrooshi and Mohammad Al Mulla selected as astronauts?",
@@ -643,7 +699,8 @@
    "alt": [
     "Mitsubishi",
     "MHI"
-   ]
+   ],
+   "apic": "Mitsubishi Heavy Industries"
   },
   {
    "q": "Which Emirati engineer was project director of the Hope Probe?",
@@ -667,7 +724,8 @@
    "alt": [
     "Endeavor",
     "Dragon Endeavour"
-   ]
+   ],
+   "apic": "Crew Dragon Endeavour"
   },
   {
    "q": "Which Emirati university's National Space Science and Technology Center is in Al Ain?",
@@ -677,7 +735,8 @@
    "alt": [
     "UAEU",
     "United Arab Emirates University"
-   ]
+   ],
+   "apic": "United Arab Emirates University"
   },
   {
    "q": "Which UAE President announced the Emirates Mars Mission in July 2014?",
@@ -687,7 +746,8 @@
    "alt": [
     "Khalifa bin Zayed",
     "Sheikh Khalifa"
-   ]
+   ],
+   "apic": "Khalifa bin Zayed Al Nahyan"
   },
   {
    "q": "Roughly how many days did Hope's cruise from Earth to Mars take?",
@@ -698,7 +758,8 @@
     "200 days",
     "About seven months",
     "Seven months"
-   ]
+   ],
+   "pic": "Emirates Mars Mission"
   },
   {
    "q": "Yahsat and Bayanat merged in 2024 to form which company?",
@@ -725,7 +786,8 @@
    "alt": [
     "UAEU",
     "United Arab Emirates University"
-   ]
+   ],
+   "apic": "United Arab Emirates University"
   },
   {
    "q": "Before joining the astronaut corps, Nora Al Matrooshi worked on projects for which national oil company?",
@@ -734,7 +796,8 @@
    "ar": "أدنوك",
    "alt": [
     "Abu Dhabi National Oil Company"
-   ]
+   ],
+   "apic": "Abu Dhabi National Oil Company"
   },
   {
    "q": "In which US state was the Hope Probe assembled?",
@@ -742,7 +805,8 @@
    "p": 400,
    "alt": [
     "Boulder, Colorado"
-   ]
+   ],
+   "apic": "Colorado"
   },
   {
    "q": "Hazza Al Mansoori's 15 ISS experiments were designed by whom?",
@@ -762,7 +826,8 @@
     "F-16 Fighting Falcon",
     "F-16 Block 60",
     "Fighting Falcon"
-   ]
+   ],
+   "apic": "General Dynamics F-16 Fighting Falcon"
   },
   {
    "q": "What personal milestone did Sultan Al Neyadi celebrate aboard the ISS in May 2023?",
@@ -770,7 +835,8 @@
    "p": 400,
    "alt": [
     "Birthday"
-   ]
+   ],
+   "pic": "Sultan Al Neyadi"
   },
   {
    "q": "Roughly what was the Rashid rover's mass?",
@@ -793,7 +859,8 @@
    "alt": [
     "DSN",
     "NASA Deep Space Network"
-   ]
+   ],
+   "apic": "NASA Deep Space Network"
   },
   {
    "q": "In which ocean did Crew-6 splash down to bring Sultan Al Neyadi home?",
@@ -801,7 +868,8 @@
    "p": 400,
    "alt": [
     "Atlantic"
-   ]
+   ],
+   "apic": "Atlantic Ocean"
   },
   {
    "q": "In which month of 2023 did Sultan Al Neyadi launch to the ISS?",
@@ -816,7 +884,8 @@
     "Auroras",
     "Sinuous aurora",
     "Discrete aurora"
-   ]
+   ],
+   "apic": "Aurora"
   },
   {
    "q": "Before becoming an astronaut, Mohammad Al Mulla was a pilot with which Dubai organisation?",
@@ -825,12 +894,14 @@
    "ar": "شرطة دبي",
    "alt": [
     "Dubai Police Air Wing"
-   ]
+   ],
+   "apic": "Dubai Police"
   },
   {
    "q": "In which city did an Emirati analog astronaut spend eight months in isolation for SIRIUS-21?",
    "a": "Moscow",
-   "p": 400
+   "p": 400,
+   "apic": "Moscow"
   },
   {
    "q": "Which rocket launched the Hope Probe?",
@@ -840,7 +911,8 @@
     "H2A",
     "H-2A",
     "H-IIA rocket"
-   ]
+   ],
+   "apic": "H-IIA"
   },
   {
    "q": "What was the name of the ispace lander that carried Rashid to the Moon?",
@@ -849,7 +921,8 @@
    "alt": [
     "Hakuto-R Mission 1",
     "Hakuto"
-   ]
+   ],
+   "apic": "Hakuto-R Mission 1"
   },
   {
    "q": "In which lunar crater was the Rashid rover meant to land?",
@@ -871,7 +944,8 @@
    "alt": [
     "Korea",
     "Republic of Korea"
-   ]
+   ],
+   "apic": "South Korea"
   },
   {
    "q": "What did the initials EIAST, MBRSC's 2006 forerunner, stand for?",
@@ -897,7 +971,8 @@
    "p": 600,
    "alt": [
     "MS-15"
-   ]
+   ],
+   "apic": "Soyuz MS-15"
   },
   {
    "q": "Which NASA astronaut launched alongside Hazza Al Mansoori on his Soyuz?",
@@ -905,7 +980,8 @@
    "p": 600,
    "alt": [
     "Meir"
-   ]
+   ],
+   "apic": "Jessica Meir"
   },
   {
    "q": "Sultan Al Neyadi earned his PhD in which country?",
@@ -913,7 +989,8 @@
    "p": 600,
    "alt": [
     "Griffith University"
-   ]
+   ],
+   "apic": "Australia"
   },
   {
    "q": "Which UAE military imaging satellite was lost in a 2019 Vega rocket failure?",
@@ -933,7 +1010,8 @@
    "alt": [
     "Seven Sisters",
     "The Pleiades"
-   ]
+   ],
+   "apic": "Pleiades"
   },
   {
    "q": "Which Emirati CubeSat, whose name refers to rain clouds, was built by Khalifa University and AURAK students?",
@@ -953,7 +1031,8 @@
    "alt": [
     "Sharjah-Sat-1",
     "University of Sharjah"
-   ]
+   ],
+   "apic": "Sharjah"
   },
   {
    "q": "On which asteroid is the MBR Explorer mission planned to finish with a landing?",
@@ -961,7 +1040,8 @@
    "p": 600,
    "alt": [
     "269 Justitia"
-   ]
+   ],
+   "apic": "269 Justitia"
   },
   {
    "q": "Counting its final landing target, how many asteroids is the MBR Explorer mission planned to visit?",
@@ -978,7 +1058,8 @@
    "alt": [
     "55 hours",
     "About 55 hours"
-   ]
+   ],
+   "pic": "Emirates Mars Mission"
   },
   {
    "q": "What was the Hope Probe's approximate launch mass, fuel included?",
@@ -1024,7 +1105,8 @@
    "q": "Suhail, the Arabic name of the Crew-6 mascot, is also the name of which bright star?",
    "a": "Canopus",
    "p": 600,
-   "ar": "سهيل"
+   "ar": "سهيل",
+   "apic": "Canopus"
   },
   {
    "q": "On what date did Hope enter Mars orbit?",
@@ -1053,7 +1135,8 @@
    "alt": [
     "CU Boulder",
     "University of Colorado"
-   ]
+   ],
+   "apic": "University of Colorado Boulder"
   },
   {
    "q": "Which Soyuz flight brought Hazza Al Mansoori home in October 2019?",
@@ -1061,7 +1144,8 @@
    "p": 600,
    "alt": [
     "MS-12"
-   ]
+   ],
+   "apic": "Soyuz MS-12"
   },
   {
    "q": "Which Hope instrument studies Mars in infrared light?",
@@ -1088,7 +1172,8 @@
    "alt": [
     "T-38 Talon",
     "Northrop T-38"
-   ]
+   ],
+   "apic": "Northrop T-38 Talon"
   },
   {
    "q": "Hazza Al Mansoori's flight made the UAE the how-manyeth country to send someone to the ISS?",
@@ -1105,7 +1190,8 @@
    "p": 600,
    "alt": [
     "Brighton"
-   ]
+   ],
+   "apic": "University of Brighton"
   },
   {
    "q": "To the nearest hour, how long did Sultan Al Neyadi's 2023 spacewalk last?",
@@ -1122,12 +1208,14 @@
    "p": 600,
    "alt": [
     "Axiom"
-   ]
+   ],
+   "apic": "Axiom Space"
   },
   {
    "q": "Which floating launch company put Thuraya 1, 2 and 3 into orbit?",
    "a": "Sea Launch",
-   "p": 600
+   "p": 600,
+   "apic": "Sea Launch"
   },
   {
    "q": "Yahsat's first satellite, Al Yah 1, launched in 2011 from Kourou in which territory?",
@@ -1136,7 +1224,8 @@
    "alt": [
     "Guiana",
     "Kourou"
-   ]
+   ],
+   "apic": "French Guiana"
   },
   {
    "q": "The UAE's first SAR satellites study Earth with radar. What does SAR stand for?",
@@ -1160,7 +1249,8 @@
    "alt": [
     "Vandenberg Space Force Base",
     "Vandenberg Air Force Base"
-   ]
+   ],
+   "apic": "Vandenberg Space Force Base"
   },
   {
    "q": "Which instrument on the Rashid rover was meant to study the Moon's plasma and sticky dust?",
@@ -1176,7 +1266,8 @@
    "p": 600,
    "alt": [
     "Firefly"
-   ]
+   ],
+   "apic": "Firefly Aerospace"
   },
   {
    "q": "To the nearest minute, how long was Hope's Mars orbit insertion burn?",
@@ -1210,7 +1301,8 @@
    "alt": [
     "Hague",
     "Tyler Nicklaus Hague"
-   ]
+   ],
+   "apic": "Nick Hague"
   },
   {
    "q": "What brand did Yahsat and SES use for their satellite TV joint venture?",
@@ -1227,7 +1319,8 @@
    "alt": [
     "ASU",
     "Arizona State"
-   ]
+   ],
+   "apic": "Arizona State University"
   },
   {
    "q": "Which Emirati analog astronaut took part in the eight-month SIRIUS-21 isolation study?",
@@ -1241,7 +1334,8 @@
   {
    "q": "In 2025 Mohammad Al Mulla joined ESA's CAVES underground training in which country?",
    "a": "Italy",
-   "p": 600
+   "p": 600,
+   "apic": "Italy"
   }
  ]
 }

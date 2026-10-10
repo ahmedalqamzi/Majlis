@@ -10,17 +10,20 @@
     "T. rex",
     "T-Rex",
     "Tyrannosaurus"
-   ]
+   ],
+   "apic": "Tyrannosaurus"
   },
   {
    "q": "Which plant-eating dinosaur had three horns on its face?",
    "a": "Triceratops",
-   "p": 200
+   "p": 200,
+   "apic": "Triceratops"
   },
   {
    "q": "Which dinosaur had two rows of tall bony plates along its back and spikes on its tail?",
    "a": "Stegosaurus",
-   "p": 200
+   "p": 200,
+   "apic": "Stegosaurus"
   },
   {
    "q": "What is a scientist who studies fossils called?",
@@ -41,7 +44,8 @@
   {
    "q": "Which 1993 Steven Spielberg film is set in a theme park full of cloned dinosaurs?",
    "a": "Jurassic Park",
-   "p": 200
+   "p": 200,
+   "apic": "Jurassic Park (film)"
   },
   {
    "q": "What kind of space object is thought to have hit Earth about 66 million years ago, wiping out the dinosaurs?",
@@ -52,12 +56,15 @@
     "Meteorite",
     "Comet",
     "Impactor"
-   ]
+   ],
+   "pic": "Chicxulub crater",
+   "apic": "Asteroid"
   },
   {
    "q": "Which group of living animals are the direct descendants of dinosaurs?",
    "a": "Birds",
-   "p": 200
+   "p": 200,
+   "apic": "Bird"
   },
   {
    "q": "Which hairy, elephant-like animal with long curved tusks roamed the Ice Age tundra?",
@@ -65,7 +72,8 @@
    "p": 200,
    "alt": [
     "Mammoth"
-   ]
+   ],
+   "apic": "Woolly mammoth"
   },
   {
    "q": "What were the famous big cats of the Ice Age with very long upper fangs commonly called?",
@@ -75,12 +83,14 @@
     "Sabre-toothed tiger",
     "Saber-toothed cat",
     "Smilodon"
-   ]
+   ],
+   "apic": "Saber-toothed cat"
   },
   {
    "q": "What is the name of the fossilised tree resin that sometimes traps ancient insects?",
    "a": "Amber",
-   "p": 200
+   "p": 200,
+   "apic": "Amber"
   },
   {
    "q": "Which giant prehistoric shark, with teeth up to about 18 cm long, gave its name to a 2018 film?",
@@ -88,17 +98,20 @@
    "p": 200,
    "alt": [
     "The Meg"
-   ]
+   ],
+   "apic": "Megalodon"
   },
   {
    "q": "Which armoured dinosaur had a heavy bony club at the end of its tail?",
    "a": "Ankylosaurus",
-   "p": 200
+   "p": 200,
+   "apic": "Ankylosaurus"
   },
   {
    "q": "Which huge meat-eating dinosaur had a tall sail on its back and hunted fish?",
    "a": "Spinosaurus",
-   "p": 200
+   "p": 200,
+   "apic": "Spinosaurus"
   },
   {
    "q": "Which small, fast dinosaur was shown hunting in packs in Jurassic Park, though in reality it was only turkey-sized?",
@@ -106,12 +119,14 @@
    "p": 200,
    "alt": [
     "Raptor"
-   ]
+   ],
+   "apic": "Velociraptor"
   },
   {
    "q": "Which long-necked giant dinosaur, often called Dippy in museums, had a very long whip-like tail?",
    "a": "Diplodocus",
-   "p": 200
+   "p": 200,
+   "apic": "Diplodocus"
   },
   {
    "q": "In the Ice Age films, what kind of animal is Manny?",
@@ -119,7 +134,8 @@
    "p": 200,
    "alt": [
     "Mammoth"
-   ]
+   ],
+   "apic": "Woolly mammoth"
   },
   {
    "q": "In the Ice Age films, what kind of animal is Sid?",
@@ -127,12 +143,14 @@
    "p": 200,
    "alt": [
     "Sloth"
-   ]
+   ],
+   "apic": "Ground sloth"
   },
   {
    "q": "Which 2015 film, the fourth in its series, features a genetically engineered dinosaur called Indominus rex?",
    "a": "Jurassic World",
-   "p": 200
+   "p": 200,
+   "apic": "Jurassic World"
   },
   {
    "q": "What do we call an animal's remains or traces preserved in rock for millions of years?",
@@ -140,7 +158,8 @@
    "p": 200,
    "alt": [
     "Fossils"
-   ]
+   ],
+   "apic": "Fossil"
   },
   {
    "q": "What were the long-necked marine reptiles, often linked to the Loch Ness Monster legend, called?",
@@ -148,7 +167,8 @@
    "p": 200,
    "alt": [
     "Plesiosaur"
-   ]
+   ],
+   "apic": "Plesiosaur"
   },
   {
    "q": "What name is given to the flying reptiles that lived alongside the dinosaurs?",
@@ -157,7 +177,8 @@
    "alt": [
     "Pterosaur",
     "Pterodactyls"
-   ]
+   ],
+   "apic": "Pterosaur"
   },
   {
    "q": "What were the huge dinosaurs that walked on four legs and had very long necks, like Brachiosaurus, called?",
@@ -166,7 +187,8 @@
    "alt": [
     "Sauropod",
     "Long-necks"
-   ]
+   ],
+   "apic": "Sauropoda"
   },
   {
    "q": "What was the name of the single giant supercontinent at the start of the age of dinosaurs?",
@@ -174,17 +196,20 @@
    "p": 200,
    "alt": [
     "Pangea"
-   ]
+   ],
+   "apic": "Pangaea"
   },
   {
    "q": "Which dinosaur had a thick, dome-shaped skull up to 25 cm thick?",
    "a": "Pachycephalosaurus",
-   "p": 400
+   "p": 400,
+   "apic": "Pachycephalosaurus"
   },
   {
    "q": "What is the name of the American author whose 1990 novel Jurassic Park became a hit film?",
    "a": "Michael Crichton",
-   "p": 400
+   "p": 400,
+   "apic": "Michael Crichton"
   },
   {
    "q": "Which spiral-shelled sea creatures, relatives of squid, are among the most common fossils?",
@@ -192,12 +217,14 @@
    "p": 200,
    "alt": [
     "Ammonite"
-   ]
+   ],
+   "apic": "Ammonoidea"
   },
   {
    "q": "Which dinosaur with a long, hollow, backward-pointing head crest may have used it to make trumpeting sounds?",
    "a": "Parasaurolophus",
-   "p": 400
+   "p": 400,
+   "apic": "Parasaurolophus"
   },
   {
    "q": "Which three-lobed sea creatures with hard exoskeletons were among the earliest arthropods and are common fossils?",
@@ -205,12 +232,14 @@
    "p": 200,
    "alt": [
     "Trilobite"
-   ]
+   ],
+   "apic": "Trilobite"
   },
   {
    "q": "Which early bird-like dinosaur with feathers and teeth was found in German limestone in the 1860s?",
    "a": "Archaeopteryx",
-   "p": 400
+   "p": 400,
+   "apic": "Archaeopteryx"
   },
   {
    "q": "What were the dolphin-shaped marine reptiles of the age of dinosaurs called?",
@@ -218,7 +247,8 @@
    "p": 400,
    "alt": [
     "Ichthyosaur"
-   ]
+   ],
+   "apic": "Ichthyosaur"
   },
   {
    "q": "What is the name of the huge Jurassic World sea reptile that leaps from its pool to eat a shark?",
@@ -226,7 +256,8 @@
    "p": 200,
    "alt": [
     "Mosasaur"
-   ]
+   ],
+   "apic": "Mosasaurus"
   },
   {
    "q": "What is the era of the dinosaurs, made up of the Triassic, Jurassic and Cretaceous, called?",
@@ -234,7 +265,8 @@
    "p": 200,
    "alt": [
     "Mesozoic"
-   ]
+   ],
+   "apic": "Mesozoic"
   },
   {
    "q": "Which period of the age of dinosaurs gave its name to Spielberg's 1993 film?",
@@ -247,12 +279,15 @@
    "p": 200,
    "alt": [
     "Late Cretaceous"
-   ]
+   ],
+   "pic": "Tyrannosaurus",
+   "apic": "Cretaceous"
   },
   {
    "q": "Which famous T. rex skeleton, bought for a reported 31.8 million US dollars, is displayed at the Natural History Museum Abu Dhabi?",
    "a": "Stan",
-   "p": 200
+   "p": 200,
+   "apic": "Stan (dinosaur)"
   },
   {
    "q": "What term describes a species that has died out completely?",
@@ -268,12 +303,14 @@
    "p": 400,
    "alt": [
     "Coprolites"
-   ]
+   ],
+   "apic": "Coprolite"
   },
   {
    "q": "What is the earliest of the three periods in the age of dinosaurs?",
    "a": "Triassic",
-   "p": 400
+   "p": 400,
+   "apic": "Triassic"
   },
   {
    "q": "Which kind of dinosaurs, like T. rex, walked on two legs and mostly ate meat?",
@@ -281,7 +318,8 @@
    "p": 400,
    "alt": [
     "Theropod"
-   ]
+   ],
+   "apic": "Theropoda"
   },
   {
    "q": "Which long-necked dinosaur, star of The Land Before Time, is Littlefoot?",
@@ -290,7 +328,8 @@
    "alt": [
     "Brontosaurus",
     "Longneck"
-   ]
+   ],
+   "apic": "Apatosaurus"
   },
   {
    "q": "Which famous fossil skeleton of an early human relative, found in Ethiopia in 1974, is nicknamed after a Beatles song?",
@@ -298,7 +337,8 @@
    "p": 200,
    "alt": [
     "Dinkinesh"
-   ]
+   ],
+   "apic": "Lucy (Australopithecus)"
   },
   {
    "q": "Which extinct species of human, named after a German valley, lived in Europe during the Ice Age?",
@@ -307,7 +347,8 @@
    "alt": [
     "Neanderthal",
     "Homo neanderthalensis"
-   ]
+   ],
+   "apic": "Neanderthal"
   },
   {
    "q": "Which ancient woolly animal with a horn on its nose lived alongside mammoths?",
@@ -315,12 +356,14 @@
    "p": 200,
    "alt": [
     "Woolly rhino"
-   ]
+   ],
+   "apic": "Woolly rhinoceros"
   },
   {
    "q": "Which long-necked dinosaur's name means 'arm lizard', because its front legs were longer than its back legs?",
    "a": "Brachiosaurus",
-   "p": 200
+   "p": 200,
+   "apic": "Brachiosaurus"
   },
   {
    "q": "What is the 'Ice Age' period of Earth's history, from about 2.6 million to 11,700 years ago, called?",
@@ -328,7 +371,8 @@
    "p": 400,
    "alt": [
     "Pleistocene Epoch"
-   ]
+   ],
+   "apic": "Pleistocene"
   },
   {
    "q": "What is the name of the famous Los Angeles site where Ice Age animals got trapped in sticky asphalt?",
@@ -336,7 +380,8 @@
    "p": 400,
    "alt": [
     "La Brea"
-   ]
+   ],
+   "apic": "La Brea Tar Pits"
   },
   {
    "q": "What was the name of Fred Flintstone's pet dinosaur?",
@@ -346,12 +391,14 @@
   {
    "q": "Which purple dinosaur starred in a 1990s children's TV show with his friends?",
    "a": "Barney",
-   "p": 200
+   "p": 200,
+   "apic": "Barney & Friends"
   },
   {
    "q": "Which T. rex in Toy Story is famously nervous?",
    "a": "Rex",
-   "p": 200
+   "p": 200,
+   "apic": "Rex (Toy Story)"
   },
   {
    "q": "What name do we give to the time before written records, when dinosaurs and early humans lived?",
@@ -367,22 +414,26 @@
    "p": 400,
    "alt": [
     "American mastodon"
-   ]
+   ],
+   "apic": "Mastodon"
   },
   {
    "q": "Which dinosaur's name means 'swift thief'?",
    "a": "Velociraptor",
-   "p": 400
+   "p": 400,
+   "apic": "Velociraptor"
   },
   {
    "q": "Which Jurassic predator, a large three-fingered theropod, lived about 150 million years ago in North America and was a top hunter before T. rex?",
    "a": "Allosaurus",
-   "p": 400
+   "p": 400,
+   "apic": "Allosaurus"
   },
   {
    "q": "Which dinosaur, shown spitting venom in Jurassic Park, had two thin crests on its head?",
    "a": "Dilophosaurus",
-   "p": 200
+   "p": 200,
+   "apic": "Dilophosaurus"
   },
   {
    "q": "What is the scientific name for the family of 'duck-billed' dinosaurs?",
@@ -391,7 +442,8 @@
    "alt": [
     "Hadrosaurids",
     "Hadrosauridae"
-   ]
+   ],
+   "apic": "Hadrosauridae"
   },
   {
    "q": "About how many million years ago did the non-bird dinosaurs die out?",
@@ -409,7 +461,8 @@
    "p": 400,
    "alt": [
     "Sir Richard Owen"
-   ]
+   ],
+   "apic": "Richard Owen"
   },
   {
    "q": "What is the name of the impact crater on Mexico's Yucatan Peninsula linked to the dinosaur extinction?",
@@ -417,32 +470,38 @@
    "p": 400,
    "alt": [
     "Chicxulub"
-   ]
+   ],
+   "apic": "Chicxulub crater"
   },
   {
    "q": "Which pioneering fossil hunter from Lyme Regis uncovered an ichthyosaur skeleton when she was about 12?",
    "a": "Mary Anning",
-   "p": 400
+   "p": 400,
+   "apic": "Mary Anning"
   },
   {
    "q": "Which dinosaur had a large cone-shaped thumb spike and was one of the first dinosaurs ever named?",
    "a": "Iguanodon",
-   "p": 400
+   "p": 400,
+   "apic": "Iguanodon"
   },
   {
    "q": "Which was the first dinosaur to be scientifically named, in 1824?",
    "a": "Megalosaurus",
-   "p": 400
+   "p": 400,
+   "apic": "Megalosaurus"
   },
   {
    "q": "Which famous T. rex skeleton, found in South Dakota in 1990, stands in Chicago's Field Museum?",
    "a": "Sue",
-   "p": 400
+   "p": 400,
+   "apic": "Sue (dinosaur)"
   },
   {
    "q": "Which theropod dinosaur, found in Mongolia, was named 'egg thief' because it was found on a nest of eggs?",
    "a": "Oviraptor",
-   "p": 400
+   "p": 400,
+   "apic": "Oviraptor"
   },
   {
    "q": "Which group of dinosaurs includes all the horned and frilled plant eaters like Triceratops?",
@@ -451,7 +510,8 @@
    "alt": [
     "Ceratopsia",
     "Ceratopsids"
-   ]
+   ],
+   "apic": "Ceratopsia"
   },
   {
    "q": "Which group of extinct sea reptiles, some longer than 12 m, included Tylosaurus and lived in the Late Cretaceous?",
@@ -459,18 +519,23 @@
    "p": 400,
    "alt": [
     "Mosasaur"
-   ]
+   ],
+   "apic": "Mosasaur"
   },
   {
    "q": "In which country were the first Spinosaurus fossils discovered in 1912?",
    "a": "Egypt",
    "p": 400,
-   "ar": "مصر"
+   "ar": "مصر",
+   "pic": "Spinosaurus",
+   "apic": "Egypt"
   },
   {
    "q": "Which German palaeontologist described Spinosaurus in 1915?",
    "a": "Ernst Stromer",
-   "p": 600
+   "p": 600,
+   "pic": "Spinosaurus",
+   "apic": "Ernst Stromer"
   },
   {
    "q": "How were the original Spinosaurus fossils in Munich destroyed in 1944?",
@@ -485,17 +550,20 @@
   {
    "q": "Which giant pterosaur, possibly the size of a giraffe when standing, is named after an Aztec feathered-serpent god?",
    "a": "Quetzalcoatlus",
-   "p": 400
+   "p": 400,
+   "apic": "Quetzalcoatlus"
   },
   {
    "q": "Which pterosaur, whose name means 'toothless wing', had a long backward-pointing crest?",
    "a": "Pteranodon",
-   "p": 400
+   "p": 400,
+   "apic": "Pteranodon"
   },
   {
    "q": "Which American palaeontologist led expeditions to Mongolia's Gobi Desert in the 1920s and found nests of dinosaur eggs?",
    "a": "Roy Chapman Andrews",
-   "p": 400
+   "p": 400,
+   "apic": "Roy Chapman Andrews"
   },
   {
    "q": "In which desert were the famous 'Fighting Dinosaurs' fossil of a Velociraptor and Protoceratops found?",
@@ -503,7 +571,9 @@
    "p": 400,
    "alt": [
     "Gobi"
-   ]
+   ],
+   "pic": "Fighting Dinosaurs",
+   "apic": "Gobi Desert"
   },
   {
    "q": "What was the famous 19th-century rivalry between Othniel Marsh and Edward Drinker Cope called?",
@@ -512,7 +582,8 @@
    "alt": [
     "Bone Wars",
     "Great Dinosaur Rush"
-   ]
+   ],
+   "apic": "Bone Wars"
   },
   {
    "q": "Which mass extinction about 252 million years ago, at the end of the Permian, is called 'the Great Dying'?",
@@ -522,7 +593,8 @@
     "End-Permian extinction",
     "Great Dying",
     "Permian extinction"
-   ]
+   ],
+   "apic": "Permian–Triassic extinction event"
   },
   {
    "q": "In which period did life suddenly diversify in the so-called 'explosion' about 540 million years ago?",
@@ -530,17 +602,20 @@
    "p": 400,
    "alt": [
     "Cambrian Period"
-   ]
+   ],
+   "apic": "Cambrian"
   },
   {
    "q": "Which period, about 419 to 359 million years ago, is called the Age of Fishes?",
    "a": "Devonian",
-   "p": 400
+   "p": 400,
+   "apic": "Devonian"
   },
   {
    "q": "Which period's name comes from the coal formed from its vast swamp forests?",
    "a": "Carboniferous",
-   "p": 400
+   "p": 400,
+   "apic": "Carboniferous"
   },
   {
    "q": "Which era, following the dinosaurs, is called the Age of Mammals?",
@@ -548,47 +623,56 @@
    "p": 400,
    "alt": [
     "Cenozoic Era"
-   ]
+   ],
+   "apic": "Cenozoic"
   },
   {
    "q": "Which giant armoured fish of the Devonian had bony blades instead of teeth?",
    "a": "Dunkleosteus",
-   "p": 400
+   "p": 400,
+   "apic": "Dunkleosteus"
   },
   {
    "q": "Which giant snake, found in a Colombian coal mine, grew to about 13 m long after the dinosaurs died out?",
    "a": "Titanoboa",
-   "p": 400
+   "p": 400,
+   "apic": "Titanoboa"
   },
   {
    "q": "Which 'living fossil' fish, thought extinct with the dinosaurs, was found alive off South Africa in 1938?",
    "a": "Coelacanth",
-   "p": 400
+   "p": 400,
+   "apic": "Coelacanth"
   },
   {
    "q": "Which giant sauropod is named after the South American country where it was found in 1987?",
    "a": "Argentinosaurus",
-   "p": 400
+   "p": 400,
+   "apic": "Argentinosaurus"
   },
   {
    "q": "Which giant meat-eating dinosaur from Argentina has a name meaning 'giant southern lizard'?",
    "a": "Giganotosaurus",
-   "p": 400
+   "p": 400,
+   "apic": "Giganotosaurus"
   },
   {
    "q": "Which Argentine predator had two short bull-like horns above its eyes and tiny arms?",
    "a": "Carnotaurus",
-   "p": 400
+   "p": 400,
+   "apic": "Carnotaurus"
   },
   {
    "q": "Which small Jurassic theropod, about the size of a chicken, appears in The Lost World: Jurassic Park?",
    "a": "Compsognathus",
-   "p": 400
+   "p": 400,
+   "apic": "Compsognathus"
   },
   {
    "q": "What were the tail spikes of Stegosaurus nicknamed in a 1982 Far Side cartoon, a term palaeontologists now use?",
    "a": "Thagomizer",
-   "p": 400
+   "p": 400,
+   "apic": "Thagomizer"
   },
   {
    "q": "On which toe of the foot did Velociraptor have its famous large sickle-shaped claw?",
@@ -602,32 +686,39 @@
   {
    "q": "Which duck-billed dinosaur's name means 'good mother lizard', after nests found in Montana?",
    "a": "Maiasaura",
-   "p": 400
+   "p": 400,
+   "apic": "Maiasaura"
   },
   {
    "q": "Which American palaeontologist was the scientific adviser on Jurassic Park and found Maiasaura nests?",
    "a": "Jack Horner",
-   "p": 400
+   "p": 400,
+   "apic": "Jack Horner (paleontologist)"
   },
   {
    "q": "Which dinosaur's 1964 discovery by John Ostrom showed raptors were active, bird-like hunters?",
    "a": "Deinonychus",
-   "p": 400
+   "p": 400,
+   "apic": "Deinonychus"
   },
   {
    "q": "What does the name Deinonychus mean?",
    "a": "Terrible claw",
-   "p": 600
+   "p": 600,
+   "pic": "Deinonychus"
   },
   {
    "q": "Which famous English coastline in Dorset and East Devon is a UNESCO site for its fossils?",
    "a": "Jurassic Coast",
-   "p": 400
+   "p": 400,
+   "apic": "Jurassic Coast"
   },
   {
    "q": "In which Canadian province is the famous Royal Tyrrell Museum of Palaeontology?",
    "a": "Alberta",
-   "p": 400
+   "p": 400,
+   "pic": "Royal Tyrrell Museum of Palaeontology",
+   "apic": "Alberta"
   },
   {
    "q": "Which Ice Age deer, with antlers up to about 3.6 m across, is misleadingly named after Ireland?",
@@ -636,27 +727,32 @@
    "alt": [
     "Megaloceros",
     "Giant deer"
-   ]
+   ],
+   "apic": "Irish elk"
   },
   {
    "q": "Which giant Ice Age ground sloth of South America could stand on its hind legs to reach leaves?",
    "a": "Megatherium",
-   "p": 400
+   "p": 400,
+   "apic": "Megatherium"
   },
   {
    "q": "Which car-sized Ice Age relative of the armadillo had a domed shell of bony plates?",
    "a": "Glyptodon",
-   "p": 400
+   "p": 400,
+   "apic": "Glyptodon"
   },
   {
    "q": "On which Arctic island did a population of woolly mammoths survive until about 4,000 years ago?",
    "a": "Wrangel Island",
-   "p": 400
+   "p": 400,
+   "apic": "Wrangel Island"
   },
   {
    "q": "What is the scientific genus name of the sabre-toothed cat found in great numbers at La Brea?",
    "a": "Smilodon",
-   "p": 400
+   "p": 400,
+   "apic": "Smilodon"
   },
   {
    "q": "Which father-and-son team proposed the asteroid impact theory for the dinosaurs' extinction in 1980?",
@@ -665,17 +761,20 @@
    "alt": [
     "The Alvarezes",
     "Alvarez"
-   ]
+   ],
+   "apic": "Luis Walter Alvarez"
   },
   {
    "q": "Which rare element, common in asteroids, was found in a thin clay layer at the end of the Cretaceous?",
    "a": "Iridium",
-   "p": 400
+   "p": 400,
+   "apic": "Iridium"
   },
   {
    "q": "Which huge volcanic region in India erupted around the time of the dinosaur extinction?",
    "a": "Deccan Traps",
-   "p": 400
+   "p": 400,
+   "apic": "Deccan Traps"
   },
   {
    "q": "Which mountain range on the French-Swiss border gave its name to the Jurassic period?",
@@ -683,12 +782,14 @@
    "p": 400,
    "alt": [
     "Jura"
-   ]
+   ],
+   "apic": "Jura Mountains"
   },
   {
    "q": "The name 'Cretaceous' comes from the Latin word for which soft white rock?",
    "a": "Chalk",
-   "p": 400
+   "p": 400,
+   "apic": "Chalk"
   },
   {
    "q": "What is the name of the boundary layer marking the end of the dinosaurs, often abbreviated K-Pg?",
@@ -697,32 +798,38 @@
    "alt": [
     "K-Pg boundary",
     "K-T boundary"
-   ]
+   ],
+   "apic": "Cretaceous–Paleogene boundary"
   },
   {
    "q": "Which sauropod name was revived as a separate genus from Apatosaurus in a 2015 study?",
    "a": "Brontosaurus",
-   "p": 400
+   "p": 400,
+   "apic": "Brontosaurus"
   },
   {
    "q": "Which giant Jurassic sauropod from Tanzania, once thought to be a Brachiosaurus, stands mounted in Berlin's museum?",
    "a": "Giraffatitan",
-   "p": 600
+   "p": 600,
+   "apic": "Giraffatitan"
   },
   {
    "q": "Which Ice Age baby mammoth, found frozen in Siberia in 2007, is one of the best-preserved ever found?",
    "a": "Lyuba",
-   "p": 600
+   "p": 600,
+   "apic": "Lyuba (mammoth)"
   },
   {
    "q": "Which tiny feathered dinosaur from China, described in 2003, had long feathers on both its arms and legs, like four wings?",
    "a": "Microraptor",
-   "p": 600
+   "p": 600,
+   "apic": "Microraptor"
   },
   {
    "q": "Which Chinese dinosaur, described in 1996, was the first non-bird dinosaur found with feather-like structures?",
    "a": "Sinosauropteryx",
-   "p": 600
+   "p": 600,
+   "apic": "Sinosauropteryx"
   },
   {
    "q": "Which group of armoured dinosaurs includes Ankylosaurus?",
@@ -731,17 +838,20 @@
    "alt": [
     "Ankylosaurids",
     "Thyreophora"
-   ]
+   ],
+   "apic": "Ankylosauria"
   },
   {
    "q": "Which dinosaur, found in Surrey in 1983 by an amateur fossil hunter, had crocodile-like jaws and a big thumb claw?",
    "a": "Baryonyx",
-   "p": 400
+   "p": 400,
+   "apic": "Baryonyx"
   },
   {
    "q": "What does the name Baryonyx mean?",
    "a": "Heavy claw",
-   "p": 400
+   "p": 400,
+   "pic": "Baryonyx"
   },
   {
    "q": "Which hominin species, whose name means 'southern ape', does the fossil Lucy belong to?",
@@ -749,27 +859,32 @@
    "p": 400,
    "alt": [
     "Australopithecus"
-   ]
+   ],
+   "apic": "Australopithecus afarensis"
   },
   {
    "q": "Which prehistoric cave in France is famous for its Ice Age paintings of horses, aurochs and deer?",
    "a": "Lascaux",
-   "p": 400
+   "p": 400,
+   "apic": "Lascaux"
   },
   {
    "q": "Which extinct wild cattle, painted on Ice Age cave walls, survived in Poland until 1627?",
    "a": "Aurochs",
-   "p": 400
+   "p": 400,
+   "apic": "Aurochs"
   },
   {
    "q": "Which hippo-sized Ice Age marsupial from Australia was a giant relative of the wombat?",
    "a": "Diprotodon",
-   "p": 600
+   "p": 600,
+   "apic": "Diprotodon"
   },
   {
    "q": "Which giant crocodile relative from Niger, nicknamed 'SuperCroc', was described by Paul Sereno in 2001?",
    "a": "Sarcosuchus",
-   "p": 600
+   "p": 600,
+   "apic": "Sarcosuchus"
   },
   {
    "q": "What does the name Stegosaurus mean?",
@@ -778,7 +893,8 @@
    "alt": [
     "Covered lizard",
     "Roofed lizard"
-   ]
+   ],
+   "pic": "Stegosaurus"
   },
   {
    "q": "What does the name Pachycephalosaurus mean?",
@@ -786,12 +902,14 @@
    "p": 400,
    "alt": [
     "Thick-head lizard"
-   ]
+   ],
+   "pic": "Pachycephalosaurus"
   },
   {
    "q": "Which early whale's fossils in Egypt's Wadi Al-Hitan show it still had tiny hind legs?",
    "a": "Basilosaurus",
-   "p": 400
+   "p": 400,
+   "apic": "Basilosaurus"
   },
   {
    "q": "What is the name of the Egyptian desert valley, a UNESCO site, famous for fossil skeletons of early whales?",
@@ -801,7 +919,8 @@
     "Whale Valley",
     "Wadi El Hitan"
    ],
-   "ar": "وادي الحيتان"
+   "ar": "وادي الحيتان",
+   "apic": "Wadi Al-Hitan"
   },
   {
    "q": "In which Egyptian governorate is Wadi Al-Hitan, the Valley of the Whales?",
@@ -811,19 +930,23 @@
     "Fayoum",
     "Fayum"
    ],
-   "ar": "الفيوم"
+   "ar": "الفيوم",
+   "pic": "Wadi Al-Hitan",
+   "apic": "Faiyum Governorate"
   },
   {
    "q": "In which emirate's Al Dhafra region are the Mleisa fossil elephant trackways?",
    "a": "Abu Dhabi",
    "p": 400,
-   "ar": "أبوظبي"
+   "ar": "أبوظبي",
+   "apic": "Abu Dhabi"
   },
   {
    "q": "Which Gulf country's first known dinosaur fossils, a titanosaur and an abelisaur, were reported from rocks near Al Khuraybah?",
    "a": "Saudi Arabia",
    "p": 400,
-   "ar": "المملكة العربية السعودية"
+   "ar": "المملكة العربية السعودية",
+   "apic": "Saudi Arabia"
   },
   {
    "q": "Roughly how many million years old are the Mleisa elephant trackways in Abu Dhabi?",
@@ -843,7 +966,8 @@
     "An Nafud",
     "Great Nafud"
    ],
-   "ar": "صحراء النفود"
+   "ar": "صحراء النفود",
+   "apic": "Nefud"
   },
   {
    "q": "Which group of extinct sea reptiles did Mary Anning's 1823 complete skeleton belong to, a long-necked find?",
@@ -851,12 +975,14 @@
    "p": 400,
    "alt": [
     "Plesiosaur"
-   ]
+   ],
+   "apic": "Plesiosaur"
   },
   {
    "q": "Which large Late Cretaceous duck-billed dinosaur has been found as 'mummies' with fossilised skin?",
    "a": "Edmontosaurus",
-   "p": 600
+   "p": 600,
+   "apic": "Edmontosaurus"
   },
   {
    "q": "What is the common name for fossilised footprints, burrows and nests, as opposed to body fossils?",
@@ -864,7 +990,8 @@
    "p": 400,
    "alt": [
     "Ichnofossils"
-   ]
+   ],
+   "apic": "Trace fossil"
   },
   {
    "q": "What do we call the process of determining a fossil's age from the decay of radioactive elements in nearby rock?",
@@ -885,7 +1012,8 @@
   {
    "q": "Which giant shark-toothed Cretaceous predator of North Africa, named in 1931, rivalled Spinosaurus in size?",
    "a": "Carcharodontosaurus",
-   "p": 600
+   "p": 600,
+   "apic": "Carcharodontosaurus"
   },
   {
    "q": "Which Moroccan fossil beds in the Sahara have yielded many Spinosaurus remains?",
@@ -893,17 +1021,20 @@
    "p": 600,
    "alt": [
     "Kem Kem"
-   ]
+   ],
+   "apic": "Kem Kem Group (Morocco)"
   },
   {
    "q": "Which Jurassic marine predator from the BBC's Walking with Dinosaurs was shown as a monstrous short-necked pliosaur?",
    "a": "Liopleurodon",
-   "p": 400
+   "p": 400,
+   "apic": "Liopleurodon"
   },
   {
    "q": "What was the 1999 BBC documentary series that used CGI to show dinosaurs as wildlife?",
    "a": "Walking with Dinosaurs",
-   "p": 400
+   "p": 400,
+   "apic": "Walking with Dinosaurs"
   },
   {
    "q": "Which giant sea scorpions of the Palaeozoic could grow over 2 m long?",
@@ -912,82 +1043,100 @@
    "alt": [
     "Sea scorpions",
     "Jaekelopterus"
-   ]
+   ],
+   "apic": "Eurypterid"
   },
   {
    "q": "Which English geologist described Megalosaurus, the first dinosaur to be named, in 1824?",
    "a": "William Buckland",
-   "p": 600
+   "p": 600,
+   "apic": "William Buckland"
   },
   {
    "q": "Which English doctor and his wife Mary are credited with finding the first Iguanodon teeth?",
    "a": "Gideon Mantell",
-   "p": 600
+   "p": 600,
+   "apic": "Gideon Mantell"
   },
   {
    "q": "Which American fossil hunter found the T. rex 'Sue', named after her?",
    "a": "Sue Hendrickson",
-   "p": 600
+   "p": 600,
+   "pic": "Sue (dinosaur)",
+   "apic": "Sue Hendrickson"
   },
   {
    "q": "Which French naturalist coined the name 'Ptero-dactyle' and established that extinction was real?",
    "a": "Georges Cuvier",
-   "p": 600
+   "p": 600,
+   "apic": "Georges Cuvier"
   },
   {
    "q": "Which long-necked plesiosaur did Edward Drinker Cope famously reconstruct with its head on the tip of its tail?",
    "a": "Elasmosaurus",
-   "p": 600
+   "p": 600,
+   "apic": "Elasmosaurus"
   },
   {
    "q": "Which German-Moroccan palaeontologist led the 2014 and 2020 studies showing Spinosaurus was semi-aquatic?",
    "a": "Nizar Ibrahim",
-   "p": 600
+   "p": 600,
+   "pic": "Spinosaurus",
+   "apic": "Nizar Ibrahim"
   },
   {
    "q": "Which fossil 'fishapod' with fins that had wrist-like bones was found in Arctic Canada in 2004?",
    "a": "Tiktaalik",
-   "p": 600
+   "p": 600,
+   "apic": "Tiktaalik"
   },
   {
    "q": "Which giant dragonfly-like insect of the Carboniferous had a wingspan of about 70 cm?",
    "a": "Meganeura",
-   "p": 600
+   "p": 600,
+   "apic": "Meganeura"
   },
   {
    "q": "Which Cambrian predator with grasping front appendages was once thought to be several different animals?",
    "a": "Anomalocaris",
-   "p": 600
+   "p": 600,
+   "apic": "Anomalocaris"
   },
   {
    "q": "Which Canadian fossil site in the Rocky Mountains is famous for soft-bodied Cambrian animals?",
    "a": "Burgess Shale",
-   "p": 600
+   "p": 600,
+   "apic": "Burgess Shale"
   },
   {
    "q": "Which strange Cambrian worm-like animal, with spines and legs, was first reconstructed upside down?",
    "a": "Hallucigenia",
-   "p": 600
+   "p": 600,
+   "apic": "Hallucigenia"
   },
   {
    "q": "Which prehistoric shark-like fish had a spiral 'tooth whorl' like a buzz saw?",
    "a": "Helicoprion",
-   "p": 600
+   "p": 600,
+   "apic": "Helicoprion"
   },
   {
    "q": "Which pig-sized plant eater with tusks survived the Permian extinction and spread across Pangaea?",
    "a": "Lystrosaurus",
-   "p": 600
+   "p": 600,
+   "apic": "Lystrosaurus"
   },
   {
    "q": "Which giant millipede-like arthropod of the Carboniferous could exceed 2 m long?",
    "a": "Arthropleura",
-   "p": 600
+   "p": 600,
+   "apic": "Arthropleura"
   },
   {
    "q": "Which sail-backed Permian animal, often mistaken for a dinosaur, was actually a synapsid?",
    "a": "Dimetrodon",
-   "p": 600
+   "p": 600,
+   "apic": "Dimetrodon"
   },
   {
    "q": "What does the dinosaur group name Ornithischia mean?",
@@ -1002,12 +1151,14 @@
   {
    "q": "Which early dinosaur, whose name means 'dawn thief', was found in Argentina's Ischigualasto Formation?",
    "a": "Eoraptor",
-   "p": 600
+   "p": 600,
+   "apic": "Eoraptor"
   },
   {
    "q": "Which New Mexico ranch is famous for a mass grave of the early dinosaur Coelophysis?",
    "a": "Ghost Ranch",
-   "p": 600
+   "p": 600,
+   "apic": "Ghost Ranch"
   },
   {
    "q": "Which Montana formation is famous for T. rex and Triceratops fossils from the very end of the Cretaceous?",
@@ -1015,32 +1166,38 @@
    "p": 600,
    "alt": [
     "Hell Creek"
-   ]
+   ],
+   "apic": "Hell Creek Formation"
   },
   {
    "q": "Which crested Antarctic theropod was nicknamed 'Elvisaurus' because of its quiff-like crest?",
    "a": "Cryolophosaurus",
-   "p": 600
+   "p": 600,
+   "apic": "Cryolophosaurus"
   },
   {
    "q": "Which Mongolian dinosaur had huge scythe-like claws up to about 1 m long and was probably a plant eater?",
    "a": "Therizinosaurus",
-   "p": 600
+   "p": 600,
+   "apic": "Therizinosaurus"
   },
   {
    "q": "Which large feathered tyrannosaur from China, described in 2012, has a name meaning 'beautiful feathered tyrant'?",
    "a": "Yutyrannus",
-   "p": 600
+   "p": 600,
+   "apic": "Yutyrannus"
   },
   {
    "q": "Which beautifully preserved armoured nodosaur 'mummy' was found by a mine worker in Alberta in 2011?",
    "a": "Borealopelta",
-   "p": 600
+   "p": 600,
+   "apic": "Borealopelta"
   },
   {
    "q": "What extinct four-tusked elephant relative left fossils and footprints in Abu Dhabi's Al Dhafra region?",
    "a": "Stegotetrabelodon",
-   "p": 600
+   "p": 600,
+   "apic": "Stegotetrabelodon"
   },
   {
    "q": "What is the name of the geological formation in western Abu Dhabi famous for 6-to-8-million-year-old fossils?",
@@ -1049,7 +1206,8 @@
    "alt": [
     "Baynunah"
    ],
-   "ar": "تكوين بينونة"
+   "ar": "تكوين بينونة",
+   "apic": "Baynunah Formation"
   },
   {
    "q": "What is the name of the ancient lake bed in Saudi Arabia's Nafud Desert where 120,000-year-old human footprints were found?",
@@ -1080,7 +1238,8 @@
   {
    "q": "Which smaller early whale, about 5 m long, is found alongside Basilosaurus in Egypt's Wadi Al-Hitan?",
    "a": "Dorudon",
-   "p": 600
+   "p": 600,
+   "apic": "Dorudon"
   },
   {
    "q": "In which year did Egypt's Wadi Al-Hitan become a UNESCO World Heritage Site?",
@@ -1090,7 +1249,8 @@
   {
    "q": "Which titanosaur from Egypt's Western Desert, described in 2018, is named after an Egyptian university?",
    "a": "Mansourasaurus",
-   "p": 600
+   "p": 600,
+   "apic": "Mansourasaurus"
   },
   {
    "q": "Which Uppsala-based palaeontologist led the team that reported Saudi Arabia's first dinosaur fossils?",
@@ -1100,27 +1260,32 @@
   {
    "q": "Which Cretaceous mammal from China, described in 2005, was found with a baby dinosaur in its stomach?",
    "a": "Repenomamus",
-   "p": 600
+   "p": 600,
+   "apic": "Repenomamus"
   },
   {
    "q": "Which American palaeontologist described 'SuperCroc' and many dinosaurs from Niger, including Nigersaurus?",
    "a": "Paul Sereno",
-   "p": 600
+   "p": 600,
+   "apic": "Paul Sereno"
   },
   {
    "q": "Which strange Niger sauropod had a wide, vacuum-cleaner-like mouth with hundreds of teeth?",
    "a": "Nigersaurus",
-   "p": 600
+   "p": 600,
+   "apic": "Nigersaurus"
   },
   {
    "q": "Which Tanzanian fossil site, dug by German expeditions from 1909, produced Giraffatitan and Kentrosaurus?",
    "a": "Tendaguru",
-   "p": 600
+   "p": 600,
+   "apic": "Tendaguru Formation"
   },
   {
    "q": "Which spiky African relative of Stegosaurus was found at Tendaguru?",
    "a": "Kentrosaurus",
-   "p": 600
+   "p": 600,
+   "apic": "Kentrosaurus"
   },
   {
    "q": "Which Russian region's frozen ground has yielded most woolly mammoth carcasses?",
@@ -1128,22 +1293,28 @@
    "p": 600,
    "alt": [
     "Yakutia"
-   ]
+   ],
+   "apic": "Siberia"
   },
   {
    "q": "Which British naturalist's descriptions of Megatherium and other fossils from the Beagle voyage helped shape his theories?",
    "a": "Charles Darwin",
-   "p": 600
+   "p": 600,
+   "pic": "Megatherium",
+   "apic": "Charles Darwin"
   },
   {
    "q": "Which small horned dinosaur from Mongolia may have inspired the griffin legend, according to historian Adrienne Mayor?",
    "a": "Protoceratops",
-   "p": 600
+   "p": 600,
+   "apic": "Protoceratops"
   },
   {
    "q": "Which Beatles song gave the fossil Lucy her nickname?",
    "a": "Lucy in the Sky with Diamonds",
-   "p": 600
+   "p": 600,
+   "pic": "Lucy (Australopithecus)",
+   "apic": "Lucy in the Sky with Diamonds"
   },
   {
    "q": "In which German valley was the first recognised Neanderthal fossil found in 1856?",
@@ -1152,7 +1323,8 @@
    "alt": [
     "Neandertal",
     "Neanderthal"
-   ]
+   ],
+   "apic": "Neandertal (valley)"
   },
   {
    "q": "Which American palaeontologist, a pioneer of the 1970s 'Dinosaur Renaissance', argued dinosaurs were warm-blooded?",
@@ -1160,7 +1332,8 @@
    "p": 600,
    "alt": [
     "Bob Bakker"
-   ]
+   ],
+   "apic": "Robert T. Bakker"
   },
   {
    "q": "Which ancient supercontinent split from Pangaea in the south and included Africa, South America and Antarctica?",
@@ -1168,12 +1341,14 @@
    "p": 600,
    "alt": [
     "Gondwanaland"
-   ]
+   ],
+   "apic": "Gondwana"
   },
   {
    "q": "Which northern supercontinent formed when Pangaea split, including North America, Europe and Asia?",
    "a": "Laurasia",
-   "p": 600
+   "p": 600,
+   "apic": "Laurasia"
   },
   {
    "q": "Which ocean separated Laurasia from Gondwana during the age of dinosaurs?",
@@ -1182,12 +1357,14 @@
    "alt": [
     "Tethys",
     "Tethys Sea"
-   ]
+   ],
+   "apic": "Tethys Ocean"
   },
   {
    "q": "Which Cretaceous seaway split North America in two during the age of dinosaurs?",
    "a": "Western Interior Seaway",
-   "p": 600
+   "p": 600,
+   "apic": "Western Interior Seaway"
   },
   {
    "q": "What is the scientific name for the process where minerals fill the pores of buried bone, turning it to stone?",
@@ -1201,27 +1378,33 @@
   {
    "q": "Which pterosaur with a long tail ending in a diamond-shaped vane is common in Germany's Solnhofen limestone?",
    "a": "Rhamphorhynchus",
-   "p": 600
+   "p": 600,
+   "apic": "Rhamphorhynchus"
   },
   {
    "q": "In which Bavarian limestone area were most Archaeopteryx fossils found?",
    "a": "Solnhofen",
-   "p": 600
+   "p": 600,
+   "pic": "Archaeopteryx",
+   "apic": "Solnhofen Limestone"
   },
   {
    "q": "Which American fossil hunter, nicknamed 'Mr Bones', found the skeleton that became the first named T. rex in 1902?",
    "a": "Barnum Brown",
-   "p": 600
+   "p": 600,
+   "apic": "Barnum Brown"
   },
   {
    "q": "Which American palaeontologist named Tyrannosaurus rex in 1905?",
    "a": "Henry Fairfield Osborn",
-   "p": 600
+   "p": 600,
+   "apic": "Henry Fairfield Osborn"
   },
   {
    "q": "In which US state did Barnum Brown find the first named Tyrannosaurus rex skeleton in 1902?",
    "a": "Montana",
-   "p": 600
+   "p": 600,
+   "apic": "Montana"
   },
   {
    "q": "Which South Dakota institute excavated the T. rex Stan in 1992?",
@@ -1229,12 +1412,16 @@
    "p": 600,
    "alt": [
     "Black Hills Institute of Geological Research"
-   ]
+   ],
+   "pic": "Stan (dinosaur)",
+   "apic": "Black Hills Institute of Geological Research"
   },
   {
    "q": "Which American auction house sold Stan the T. rex in October 2020?",
    "a": "Christie's",
-   "p": 600
+   "p": 600,
+   "pic": "Stan (dinosaur)",
+   "apic": "Christie's"
   },
   {
    "q": "Which 1854 London park sculptures were the first life-size dinosaur models ever made?",
@@ -1242,12 +1429,15 @@
    "p": 600,
    "alt": [
     "Crystal Palace"
-   ]
+   ],
+   "apic": "Crystal Palace Dinosaurs"
   },
   {
    "q": "Which sculptor made the Crystal Palace dinosaur models under Richard Owen's guidance?",
    "a": "Benjamin Waterhouse Hawkins",
-   "p": 600
+   "p": 600,
+   "pic": "Crystal Palace Dinosaurs",
+   "apic": "Benjamin Waterhouse Hawkins"
   },
   {
    "q": "Which sea reptile group, similar to plesiosaurs but with short necks and huge heads, included Kronosaurus?",
@@ -1255,12 +1445,14 @@
    "p": 600,
    "alt": [
     "Pliosaur"
-   ]
+   ],
+   "apic": "Pliosauroidea"
   },
   {
    "q": "Which giant Cretaceous pterosaur from Romania, with a massive skull, was named after the Hateg Basin?",
    "a": "Hatzegopteryx",
-   "p": 600
+   "p": 600,
+   "apic": "Hatzegopteryx"
   },
   {
    "q": "Which era, called 'the age of ancient life', came before the Mesozoic?",
@@ -1268,7 +1460,8 @@
    "p": 600,
    "alt": [
     "Palaeozoic"
-   ]
+   ],
+   "apic": "Paleozoic"
   },
   {
    "q": "Which epoch, meaning 'entirely recent', followed the Pleistocene about 11,700 years ago?",
@@ -1278,7 +1471,8 @@
   {
    "q": "Which long-necked, camel-like Ice Age mammal of South America puzzled Charles Darwin when he found its bones?",
    "a": "Macrauchenia",
-   "p": 600
+   "p": 600,
+   "apic": "Macrauchenia"
   },
   {
    "q": "Which ancient human relative, known from fossil finger bones in a Siberian cave, was identified from DNA in 2010?",
@@ -1286,12 +1480,14 @@
    "p": 600,
    "alt": [
     "Denisovan"
-   ]
+   ],
+   "apic": "Denisovan"
   },
   {
    "q": "Which feathered dinosaur found in Mongolia, related to Oviraptor, was found sitting on its nest like a brooding bird?",
    "a": "Citipati",
-   "p": 600
+   "p": 600,
+   "apic": "Citipati"
   },
   {
    "q": "Which 'killer whale' of the Miocene, named after Moby-Dick's author, was a raptorial sperm whale?",
@@ -1299,7 +1495,8 @@
    "p": 600,
    "alt": [
     "Livyatan melvillei"
-   ]
+   ],
+   "apic": "Livyatan"
   },
   {
    "q": "Which early horse ancestor of the Eocene was only about the size of a fox?",
@@ -1307,27 +1504,32 @@
    "p": 600,
    "alt": [
     "Hyracotherium"
-   ]
+   ],
+   "apic": "Eohippus"
   },
   {
    "q": "Which beaked, horned Cretaceous dinosaur from North America had a frill with long spikes, and a name meaning 'spiked lizard'?",
    "a": "Styracosaurus",
-   "p": 600
+   "p": 600,
+   "apic": "Styracosaurus"
   },
   {
    "q": "Which duck-billed dinosaur from Alberta had a tall hollow crest shaped like a helmet?",
    "a": "Corythosaurus",
-   "p": 600
+   "p": 600,
+   "apic": "Corythosaurus"
   },
   {
    "q": "Which Canadian park in Alberta is a UNESCO World Heritage Site for its wealth of Late Cretaceous dinosaurs?",
    "a": "Dinosaur Provincial Park",
-   "p": 600
+   "p": 600,
+   "apic": "Dinosaur Provincial Park"
   },
   {
    "q": "Which American monument on the Utah-Colorado border has a quarry wall with about 1,500 exposed dinosaur bones?",
    "a": "Dinosaur National Monument",
-   "p": 600
+   "p": 600,
+   "apic": "Dinosaur National Monument"
   },
   {
    "q": "Which Argentine rock formation, called the Valley of the Moon, preserves some of the oldest dinosaurs?",
@@ -1335,12 +1537,14 @@
    "p": 600,
    "alt": [
     "Ischigualasto Formation"
-   ]
+   ],
+   "apic": "Ischigualasto Formation"
   },
   {
    "q": "Which Late Triassic predator from Argentina, named after the goatherd who found it, is one of the earliest dinosaurs?",
    "a": "Herrerasaurus",
-   "p": 600
+   "p": 600,
+   "apic": "Herrerasaurus"
   },
   {
    "q": "What word describes a meat-eating animal like Tyrannosaurus rex?",
@@ -1355,17 +1559,20 @@
   {
    "q": "Which actor played Owen Grady, the raptor trainer, in Jurassic World?",
    "a": "Chris Pratt",
-   "p": 200
+   "p": 200,
+   "apic": "Chris Pratt"
   },
   {
    "q": "Which animated film series follows a mammoth, a sloth and a sabre-toothed cat?",
    "a": "Ice Age",
-   "p": 200
+   "p": 200,
+   "apic": "Ice Age (franchise)"
   },
   {
    "q": "What is the name of the acorn-obsessed prehistoric squirrel in the Ice Age films?",
    "a": "Scrat",
-   "p": 200
+   "p": 200,
+   "apic": "Scrat"
   },
   {
    "q": "During an ice age, large parts of the Earth are covered by thick sheets of what?",
@@ -1383,7 +1590,8 @@
    "alt": [
     "Crocodiles",
     "Crocodylians"
-   ]
+   ],
+   "apic": "Crocodilia"
   },
   {
    "q": "Which body parts of Tyrannosaurus rex were famously tiny compared with its huge head?",
@@ -1400,7 +1608,8 @@
    "p": 200,
    "alt": [
     "Neck frill"
-   ]
+   ],
+   "apic": "Triceratops"
   },
   {
    "q": "What simple tool do palaeontologists use to gently sweep dust and sand away from fossils?",
@@ -1422,7 +1631,8 @@
    "p": 200,
    "alt": [
     "Sedimentary"
-   ]
+   ],
+   "apic": "Sedimentary rock"
   },
   {
    "q": "What is the term for an event when huge numbers of species die out in a short time?",
@@ -1432,7 +1642,8 @@
   {
    "q": "Which Japanese film monster, first seen in 1954, was inspired by dinosaurs?",
    "a": "Godzilla",
-   "p": 200
+   "p": 200,
+   "apic": "Godzilla"
   },
   {
    "q": "Which London museum has a famous dinosaur gallery and a blue whale skeleton hanging in its main hall?",
@@ -1440,7 +1651,8 @@
    "p": 200,
    "alt": [
     "Natural History Museum, London"
-   ]
+   ],
+   "apic": "Natural History Museum, London"
   },
   {
    "q": "What does the ending '-saurus' in dinosaur names mean?",
@@ -1450,7 +1662,8 @@
   {
    "q": "In Jurassic Park, which blood-sucking insect trapped in amber was the source of dinosaur DNA?",
    "a": "Mosquito",
-   "p": 200
+   "p": 200,
+   "apic": "Mosquito"
   },
   {
    "q": "What helped woolly mammoths survive the cold that modern elephants lack?",
@@ -1460,7 +1673,8 @@
     "Shaggy hair",
     "Fur",
     "Woolly coat"
-   ]
+   ],
+   "apic": "Woolly mammoth"
   },
   {
    "q": "What is the prehistoric period when humans mainly made tools from stone called?",
@@ -1473,7 +1687,8 @@
    "p": 200,
    "alt": [
     "The Lost World"
-   ]
+   ],
+   "apic": "The Lost World: Jurassic Park"
   },
   {
    "q": "On which fictional island off Costa Rica is the original Jurassic Park built?",
@@ -1483,7 +1698,8 @@
   {
    "q": "Which actor played palaeontologist Dr Alan Grant in Jurassic Park?",
    "a": "Sam Neill",
-   "p": 400
+   "p": 400,
+   "apic": "Sam Neill"
   },
   {
    "q": "What is the name of the lead Velociraptor raised by Owen Grady in Jurassic World?",
@@ -1493,17 +1709,21 @@
   {
    "q": "Which 2015 Pixar film imagines the asteroid missed Earth and follows an Apatosaurus named Arlo?",
    "a": "The Good Dinosaur",
-   "p": 400
+   "p": 400,
+   "apic": "The Good Dinosaur"
   },
   {
    "q": "Which living animal is the woolly mammoth's closest relative?",
    "a": "Asian elephant",
-   "p": 200
+   "p": 200,
+   "apic": "Asian elephant"
   },
   {
    "q": "Proteins taken from a T. rex bone in 2007 most closely matched those of which farmyard bird?",
    "a": "Chicken",
-   "p": 400
+   "p": 400,
+   "pic": "Tyrannosaurus",
+   "apic": "Chicken"
   },
   {
    "q": "Which New York museum, setting of the film Night at the Museum, has a famous T. rex skeleton?",
@@ -1511,12 +1731,14 @@
    "p": 400,
    "alt": [
     "AMNH"
-   ]
+   ],
+   "apic": "American Museum of Natural History"
   },
   {
    "q": "Dinosaur fossils have been found on every continent, including which icy one?",
    "a": "Antarctica",
-   "p": 200
+   "p": 200,
+   "apic": "Antarctica"
   },
   {
    "q": "What does the ending '-ceratops' in dinosaur names mean?",
@@ -1529,7 +1751,8 @@
    "p": 400,
    "alt": [
     "Dr Ian Malcolm"
-   ]
+   ],
+   "apic": "Ian Malcolm (Jurassic Park)"
   },
   {
    "q": "What is the first name of the billionaire Hammond who builds Jurassic Park?",
@@ -1542,7 +1765,8 @@
    "p": 400,
    "alt": [
     "Dominion"
-   ]
+   ],
+   "apic": "Jurassic World Dominion"
   },
   {
    "q": "What are the bony plates embedded in the skin of armoured dinosaurs like Ankylosaurus called?",
@@ -1559,12 +1783,14 @@
    "alt": [
     "Dromaeosaurids",
     "Dromaeosauridae"
-   ]
+   ],
+   "apic": "Dromaeosauridae"
   },
   {
    "q": "Which British actor narrated the original 1999 BBC series Walking with Dinosaurs?",
    "a": "Kenneth Branagh",
-   "p": 600
+   "p": 600,
+   "apic": "Kenneth Branagh"
   },
   {
    "q": "What do we call a baby dinosaur that has just come out of its egg?",
@@ -1574,7 +1800,8 @@
   {
    "q": "Which long-necked giant is the first dinosaur the visitors see up close in Jurassic Park?",
    "a": "Brachiosaurus",
-   "p": 200
+   "p": 200,
+   "apic": "Brachiosaurus"
   },
   {
    "q": "What did Stegosaurus most likely use the spikes on its tail for?",
@@ -1592,12 +1819,15 @@
    "p": 200,
    "alt": [
     "Flintstones"
-   ]
+   ],
+   "apic": "The Flintstones"
   },
   {
    "q": "What are the long, curved front teeth of a mammoth called?",
    "a": "Tusks",
-   "p": 200
+   "p": 200,
+   "pic": "Woolly mammoth",
+   "apic": "Tusk"
   },
   {
    "q": "Fossils show that Velociraptor's body was covered in what?",
@@ -1607,7 +1837,8 @@
   {
    "q": "What name is given to fuels like coal, oil and gas that formed from ancient living things?",
    "a": "Fossil fuels",
-   "p": 200
+   "p": 200,
+   "apic": "Fossil fuel"
   },
   {
    "q": "Coal formed mainly from the buried remains of ancient what?",
@@ -1626,7 +1857,8 @@
     "Dig",
     "Excavation",
     "Dig site"
-   ]
+   ],
+   "apic": "Excavation (archaeology)"
   },
   {
    "q": "What do we call scientists who study ancient human remains, tools and buildings?",
@@ -1635,7 +1867,8 @@
    "alt": [
     "Archaeologist",
     "Archeologist"
-   ]
+   ],
+   "apic": "Archaeology"
   },
   {
    "q": "Which 2018 Jurassic World film introduced the Indoraptor?",
@@ -1643,17 +1876,21 @@
    "p": 400,
    "alt": [
     "Fallen Kingdom"
-   ]
+   ],
+   "apic": "Jurassic World: Fallen Kingdom"
   },
   {
    "q": "In which country is the Gobi Desert's famous Flaming Cliffs dinosaur site?",
    "a": "Mongolia",
-   "p": 400
+   "p": 400,
+   "pic": "Flaming Cliffs",
+   "apic": "Mongolia"
   },
   {
    "q": "Which country's Liaoning Province is famous for fossils of feathered dinosaurs?",
    "a": "China",
-   "p": 400
+   "p": 400,
+   "apic": "China"
   },
   {
    "q": "Which Jurassic Park palaeobotanist was played by Laura Dern?",
@@ -1661,7 +1898,8 @@
    "p": 400,
    "alt": [
     "Dr Ellie Sattler"
-   ]
+   ],
+   "apic": "Ellie Sattler"
   },
   {
    "q": "In Ice Age: The Meltdown, what is the name of the female mammoth who thinks she is a possum?",
@@ -1671,12 +1909,14 @@
   {
    "q": "Which 2000 Disney animated film follows an Iguanodon named Aladar?",
    "a": "Dinosaur",
-   "p": 400
+   "p": 400,
+   "apic": "Dinosaur (2000 film)"
   },
   {
    "q": "Which sea animal, often called a living fossil, has blue blood and has changed little in over 400 million years?",
    "a": "Horseshoe crab",
-   "p": 400
+   "p": 400,
+   "apic": "Horseshoe crab"
   },
   {
    "q": "Pterosaur wings were made of what, rather than feathers?",
@@ -1695,12 +1935,14 @@
     "Saadiyat",
     "Saadiyat Island"
    ],
-   "ar": "المنطقة الثقافية في السعديات"
+   "ar": "المنطقة الثقافية في السعديات",
+   "apic": "Saadiyat Island"
   },
   {
    "q": "Which long-necked dinosaur's name means 'thunder lizard'?",
    "a": "Brontosaurus",
-   "p": 200
+   "p": 200,
+   "apic": "Brontosaurus"
   },
   {
    "q": "On how many legs did Tyrannosaurus rex walk?",
@@ -1716,7 +1958,8 @@
    "p": 200,
    "alt": [
     "Chrome"
-   ]
+   ],
+   "apic": "Google Chrome"
   },
   {
    "q": "Which hard parts of an animal's body are most likely to become fossils?",
@@ -1736,7 +1979,8 @@
   {
    "q": "Which giant Indonesian lizard is sometimes nicknamed a 'living dinosaur'?",
    "a": "Komodo dragon",
-   "p": 200
+   "p": 200,
+   "apic": "Komodo dragon"
   },
   {
    "q": "Over millions of years, buried dinosaur bones are slowly turned into what?",
@@ -1753,12 +1997,15 @@
    "alt": [
     "Large tooth",
     "Giant tooth"
-   ]
+   ],
+   "pic": "Megalodon"
   },
   {
    "q": "On which continent did Tyrannosaurus rex live?",
    "a": "North America",
-   "p": 400
+   "p": 400,
+   "pic": "Tyrannosaurus",
+   "apic": "North America"
   },
   {
    "q": "Roughly how many million years ago did the first dinosaurs appear?",
@@ -1777,22 +2024,27 @@
    "p": 400,
    "alt": [
     "Sir David Attenborough"
-   ]
+   ],
+   "apic": "David Attenborough"
   },
   {
    "q": "Stegosaurus's famously small brain is often compared in size to which nut?",
    "a": "Walnut",
-   "p": 400
+   "p": 400,
+   "pic": "Stegosaurus",
+   "apic": "Walnut"
   },
   {
    "q": "Who directed the 2015 film Jurassic World?",
    "a": "Colin Trevorrow",
-   "p": 600
+   "p": 600,
+   "apic": "Colin Trevorrow"
   },
   {
    "q": "What does the name 'pterodactyl' mean?",
    "a": "Wing finger",
-   "p": 600
+   "p": 600,
+   "pic": "Pterodactylus"
   },
   {
    "q": "What were the giant flightless predatory birds of South America, after the dinosaurs, nicknamed?",
@@ -1800,7 +2052,8 @@
    "p": 600,
    "alt": [
     "Phorusrhacids"
-   ]
+   ],
+   "apic": "Phorusrhacidae"
   }
  ]
 }

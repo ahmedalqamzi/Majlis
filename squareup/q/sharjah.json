@@ -16,7 +16,8 @@
    "q": "Which low-cost airline has its main hub at Sharjah International Airport?",
    "a": "Air Arabia",
    "p": 200,
-   "ar": "العربية للطيران"
+   "ar": "العربية للطيران",
+   "apic": "Air Arabia"
   },
   {
    "q": "Which annual event at Expo Centre Sharjah gathers authors, publishers and readers from around the world?",
@@ -26,7 +27,8 @@
    "alt": [
     "Sharjah Book Fair",
     "SIBF"
-   ]
+   ],
+   "apic": "Sharjah International Book Fair"
   },
   {
    "q": "Which island in Khalid Lagoon is home to a Butterfly House?",
@@ -45,7 +47,8 @@
    "alt": [
     "Khorfakkan",
     "Khor Fakan"
-   ]
+   ],
+   "apic": "Khor Fakkan"
   },
   {
    "q": "Which Sharjah enclave on the east coast is famous for its mangroves?",
@@ -54,12 +57,14 @@
    "ar": "كلباء",
    "alt": [
     "Khor Kalba"
-   ]
+   ],
+   "apic": "Kalba"
   },
   {
    "q": "Which sport made Sharjah's stadium famous worldwide in the 1980s and 1990s?",
    "a": "Cricket",
-   "p": 200
+   "p": 200,
+   "apic": "Cricket"
   },
   {
    "q": "What colour gives Sharjah's Central Souq its nickname?",
@@ -70,13 +75,15 @@
    "q": "Which neighbouring emirate shares Sharjah's south-western border?",
    "a": "Dubai",
    "p": 200,
-   "ar": "دبي"
+   "ar": "دبي",
+   "apic": "Dubai"
   },
   {
    "q": "Which small emirate lies directly north-east of Sharjah city?",
    "a": "Ajman",
    "p": 200,
-   "ar": "عجمان"
+   "ar": "عجمان",
+   "apic": "Ajman"
   },
   {
    "q": "Which annual Sharjah festival lights up buildings with projection shows?",
@@ -114,7 +121,8 @@
    "ar": "الجامعة الأمريكية في الشارقة",
    "alt": [
     "AUS"
-   ]
+   ],
+   "apic": "American University of Sharjah"
   },
   {
    "q": "In which year did Sharjah become part of the newly formed United Arab Emirates?",
@@ -139,7 +147,8 @@
    "alt": [
     "Sultan Al Qasimi",
     "Sultan bin Muhammad"
-   ]
+   ],
+   "apic": "Sultan bin Muhammad Al-Qasimi"
   },
   {
    "q": "Which Indian batter scored two famous centuries against Australia at Sharjah in 1998, known as the 'Desert Storm' innings?",
@@ -147,13 +156,15 @@
    "p": 200,
    "alt": [
     "Tendulkar"
-   ]
+   ],
+   "apic": "Sachin Tendulkar"
   },
   {
    "q": "Which UAE city is the third most populous, after Dubai and Abu Dhabi?",
    "a": "Sharjah",
    "p": 200,
-   "ar": "الشارقة"
+   "ar": "الشارقة",
+   "apic": "Sharjah"
   },
   {
    "q": "Which desert archaeological site in Sharjah has Iron Age tombs, fossils and a visitor centre?",
@@ -163,7 +174,8 @@
    "alt": [
     "Mleiha Archaeological Site",
     "Maleiha"
-   ]
+   ],
+   "apic": "Mleiha"
   },
   {
    "q": "Which traditional wooden sailing vessel is a highlight of Sharjah's maritime heritage displays?",
@@ -173,7 +185,8 @@
    "alt": [
     "Dow",
     "Dhau"
-   ]
+   ],
+   "apic": "Dhow"
   },
   {
    "q": "What Arabic word for 'island' appears in the Arabic name of Al Noor Island?",
@@ -202,7 +215,8 @@
    "alt": [
     "Hajar",
     "Al Hajar"
-   ]
+   ],
+   "apic": "Hajar Mountains"
   },
   {
    "q": "What does 'khor' mean in the name Khor Fakkan?",
@@ -285,7 +299,8 @@
    "alt": [
     "Sea of Oman",
     "Oman Sea"
-   ]
+   ],
+   "apic": "Gulf of Oman"
   },
   {
    "q": "What is the Arabic word for 'book', the theme of Sharjah's best-known annual fair?",
@@ -349,7 +364,8 @@
    "q": "Which UN agency named Sharjah World Book Capital?",
    "a": "UNESCO",
    "p": 400,
-   "ar": "اليونسكو"
+   "ar": "اليونسكو",
+   "apic": "UNESCO"
   },
   {
    "q": "Which 1970s brutalist Sharjah building, nicknamed after a spacecraft, reopened as an arts venue in 2020?",
@@ -375,7 +391,8 @@
    "p": 400,
    "alt": [
     "Miandad"
-   ]
+   ],
+   "apic": "Javed Miandad"
   },
   {
    "q": "Which central Sharjah oasis town is known for farming and fruit growing?",
@@ -385,13 +402,15 @@
    "alt": [
     "Dhaid",
     "Dhaid"
-   ]
+   ],
+   "apic": "Al Dhaid"
   },
   {
    "q": "Which neighbouring emirate surrounds the Sharjah enclave of Khor Fakkan?",
    "a": "Fujairah",
    "p": 400,
-   "ar": "الفجيرة"
+   "ar": "الفجيرة",
+   "apic": "Fujairah"
   },
   {
    "q": "Which Sharjah museum in the desert park explores the UAE's wildlife and plants?",
@@ -449,7 +468,8 @@
    "alt": [
     "Trucial Coast",
     "Trucial Oman"
-   ]
+   ],
+   "apic": "Trucial States"
   },
   {
    "q": "Which Sharjah site was added to the UNESCO World Heritage List in 2025?",
@@ -607,7 +627,8 @@
    "p": 600,
    "alt": [
     "Imperial"
-   ]
+   ],
+   "apic": "Imperial Airways"
   },
   {
    "q": "Which Sharjah enclave on the east coast is the northernmost of the three, near the Musandam border?",
@@ -617,7 +638,8 @@
    "alt": [
     "Dibba Al-Hisn",
     "Dibba"
-   ]
+   ],
+   "apic": "Dibba Al-Hisn"
   },
   {
    "q": "Which permanent artwork by Sharjah Art Foundation lets visitors walk through falling water without getting wet?",
@@ -650,7 +672,8 @@
    "q": "Which cricket-playing nation used Sharjah as its home ground from 2010 to 2016?",
    "a": "Afghanistan",
    "p": 600,
-   "ar": "أفغانستان"
+   "ar": "أفغانستان",
+   "apic": "Afghanistan"
   },
   {
    "q": "What does the Arabic name Khor Fakkan translate to?",
@@ -777,7 +800,8 @@
    "ar": "البرتغاليون",
    "alt": [
     "Portugal"
-   ]
+   ],
+   "apic": "Portuguese Empire"
   },
   {
    "q": "Which World Health Organization title has Sharjah been officially given?",
@@ -806,7 +830,8 @@
    "alt": [
     "Avicennia marina",
     "Qurm"
-   ]
+   ],
+   "apic": "Avicennia marina"
   },
   {
    "q": "In which month of 1932 did the first international flight land at Sharjah's Mahatta Fort?",
@@ -821,7 +846,8 @@
    "q": "Which is the only emirate with coastlines on both the Arabian Gulf and the Gulf of Oman?",
    "a": "Sharjah",
    "p": 200,
-   "ar": "الشارقة"
+   "ar": "الشارقة",
+   "apic": "Sharjah"
   },
   {
    "q": "Which public university, known as UoS, sits in Sharjah's University City?",
@@ -830,7 +856,8 @@
    "ar": "جامعة الشارقة",
    "alt": [
     "UoS"
-   ]
+   ],
+   "apic": "University of Sharjah"
   },
   {
    "q": "Which Arabic art form of beautiful writing has its own museum in the Heart of Sharjah?",
@@ -868,7 +895,8 @@
   {
    "q": "Sharjah Safari in Al Dhaid takes visitors through habitats from which continent?",
    "a": "Africa",
-   "p": 200
+   "p": 200,
+   "apic": "Africa"
   },
   {
    "q": "In which year did Sharjah Safari open?",
@@ -883,7 +911,8 @@
    "alt": [
     "Al Sharjah",
     "Sharjah"
-   ]
+   ],
+   "apic": "Sharjah FC"
   },
   {
    "q": "What is the nickname of Sharjah FC, used by its supporters?",
@@ -900,7 +929,8 @@
    "ar": "خورفكان",
    "alt": [
     "Khorfakkan"
-   ]
+   ],
+   "apic": "Khor Fakkan"
   },
   {
    "q": "What colour is the border around the red rectangle on Sharjah's emirate flag?",
@@ -914,7 +944,8 @@
    "ar": "النمر العربي",
    "alt": [
     "Leopard"
-   ]
+   ],
+   "apic": "Arabian leopard"
   },
   {
    "q": "Which Sharjah amusement and water park complex includes Pearls Kingdom?",
@@ -946,7 +977,8 @@
    "p": 400,
    "alt": [
     "Sultan Ahmed Mosque"
-   ]
+   ],
+   "apic": "Sultan Ahmed Mosque"
   },
   {
    "q": "In which area of Sharjah are the American University of Sharjah and University of Sharjah?",
@@ -969,7 +1001,8 @@
    "ar": "رأس الخيمة",
    "alt": [
     "RAK"
-   ]
+   ],
+   "apic": "Ras Al Khaimah"
   },
   {
    "q": "Which body runs most of Sharjah's museums?",
@@ -1022,7 +1055,9 @@
    "q": "Which Cairo university did Sheikh Sultan bin Muhammad graduate from in agriculture in 1971?",
    "a": "Cairo University",
    "p": 400,
-   "ar": "جامعة القاهرة"
+   "ar": "جامعة القاهرة",
+   "pic": "Sultan bin Muhammad Al-Qasimi",
+   "apic": "Cairo University"
   },
   {
    "q": "Which Sharjah ruler is Khalid Lagoon named after?",
@@ -1040,7 +1075,8 @@
    "ar": "عبدالرحمن بوخاطر",
    "alt": [
     "Bukhatir"
-   ]
+   ],
+   "apic": "Abdul Rahman Bukhatir"
   },
   {
    "q": "Which conservation centre in Kalba houses Arabian tahr and other Hajar mountain wildlife?",
@@ -1054,7 +1090,8 @@
   {
    "q": "Which Singapore club did Sharjah FC beat in the 2025 AFC Champions League Two final?",
    "a": "Lion City Sailors",
-   "p": 600
+   "p": 600,
+   "apic": "Lion City Sailors FC"
   },
   {
    "q": "In which Sharjah area is Expo Centre Sharjah?",
@@ -1077,13 +1114,15 @@
    "ar": "الذيد",
    "alt": [
     "Dhaid"
-   ]
+   ],
+   "apic": "Al Dhaid"
   },
   {
    "q": "Which mangrove-lined Sharjah town on the east coast lies closest to Oman's border?",
    "a": "Kalba",
    "p": 200,
-   "ar": "كلباء"
+   "ar": "كلباء",
+   "apic": "Kalba"
   },
   {
    "q": "From which British university did Sharjah's ruler earn a PhD in history in 1985?",
@@ -1091,7 +1130,9 @@
    "p": 600,
    "alt": [
     "Exeter"
-   ]
+   ],
+   "pic": "Sultan bin Muhammad Al-Qasimi",
+   "apic": "University of Exeter"
   },
   {
    "q": "From which British university did Sharjah's ruler earn a second PhD, in Gulf political geography?",
@@ -1099,7 +1140,9 @@
    "p": 600,
    "alt": [
     "Durham"
-   ]
+   ],
+   "pic": "Sultan bin Muhammad Al-Qasimi",
+   "apic": "Durham University"
   },
   {
    "q": "Which federal post did Sheikh Sultan bin Muhammad hold as the UAE's first holder, before becoming ruler?",
@@ -1107,7 +1150,8 @@
    "p": 600,
    "alt": [
     "Education Minister"
-   ]
+   ],
+   "pic": "Sultan bin Muhammad Al-Qasimi"
   },
   {
    "q": "Which 1986 book by Sharjah's ruler challenged British accounts of piracy in the Gulf?",
@@ -1117,7 +1161,8 @@
   {
    "q": "In which year did Sheikh Sultan bin Muhammad become Ruler of Sharjah?",
    "a": "1972",
-   "p": 600
+   "p": 600,
+   "pic": "Sultan bin Muhammad Al-Qasimi"
   },
   {
    "q": "In which year was Sharjah FC first founded, under the name Al Oruba?",
@@ -1154,7 +1199,8 @@
   {
    "q": "Which cricket tournament held its very first edition in Sharjah in 1984?",
    "a": "Asia Cup",
-   "p": 200
+   "p": 200,
+   "apic": "Asia Cup"
   },
   {
    "q": "Which giant open-book monument stands on a roundabout at Sharjah's Cultural Square?",
@@ -1177,7 +1223,8 @@
   {
    "q": "Sharjah's Jebel Faya stone tools are evidence of early humans leaving which continent?",
    "a": "Africa",
-   "p": 200
+   "p": 200,
+   "apic": "Africa"
   },
   {
    "q": "Sharjah's Rolla area is named after which kind of giant tree that once stood there?",
@@ -1185,7 +1232,8 @@
    "p": 400,
    "alt": [
     "Banyan tree"
-   ]
+   ],
+   "apic": "Ficus benghalensis"
   },
   {
    "q": "In 2022, Sharjah's government became the first in the Gulf to adopt a working week of how many days?",
@@ -1207,7 +1255,8 @@
   {
    "q": "Which country won the first Asia Cup, played in Sharjah in 1984?",
    "a": "India",
-   "p": 400
+   "p": 400,
+   "apic": "India"
   },
   {
    "q": "Which Sharjah free zone lies on the coast near the borders with Ajman and Umm Al Quwain?",

@@ -9,12 +9,14 @@
    "alt": [
     "Sony Computer Entertainment",
     "Sony Interactive Entertainment"
-   ]
+   ],
+   "apic": "Sony"
   },
   {
    "q": "In which year was the PlayStation 5 released?",
    "a": "2020",
-   "p": 200
+   "p": 200,
+   "pic": "PlayStation 5"
   },
   {
    "q": "Which four shapes appear on the face buttons of a PlayStation controller?",
@@ -28,7 +30,8 @@
   {
    "q": "Which Spartan warrior is the hero of the God of War series?",
    "a": "Kratos",
-   "p": 200
+   "p": 200,
+   "apic": "Kratos (God of War)"
   },
   {
    "q": "Which two characters travel together in The Last of Us?",
@@ -45,12 +48,14 @@
    "alt": [
     "Nate Drake",
     "Drake"
-   ]
+   ],
+   "apic": "Nathan Drake"
   },
   {
    "q": "What does PSP stand for?",
    "a": "PlayStation Portable",
-   "p": 200
+   "p": 200,
+   "apic": "PlayStation Portable"
   },
   {
    "q": "Which Sony handheld released in 2011 succeeded the PSP?",
@@ -59,7 +64,8 @@
    "alt": [
     "PS Vita",
     "Vita"
-   ]
+   ],
+   "apic": "PlayStation Vita"
   },
   {
    "q": "Which paid subscription gives PlayStation players online play and monthly games?",
@@ -68,7 +74,8 @@
    "alt": [
     "PS Plus",
     "PS+"
-   ]
+   ],
+   "apic": "PlayStation Plus"
   },
   {
    "q": "Which Marvel hero stars in Insomniac's 2018 PlayStation 4 game?",
@@ -77,7 +84,8 @@
    "alt": [
     "Spiderman",
     "Peter Parker"
-   ]
+   ],
+   "apic": "Spider-Man"
   },
   {
    "q": "Who is the red-haired hunter heroine of Horizon Zero Dawn?",
@@ -90,7 +98,8 @@
    "p": 200,
    "alt": [
     "GT"
-   ]
+   ],
+   "apic": "Gran Turismo (series)"
   },
   {
    "q": "Which orange marsupial was the mascot of the original PlayStation?",
@@ -98,12 +107,14 @@
    "p": 200,
    "alt": [
     "Crash"
-   ]
+   ],
+   "apic": "Crash Bandicoot (character)"
   },
   {
    "q": "What is the name of the PlayStation 5's controller?",
    "a": "DualSense",
-   "p": 200
+   "p": 200,
+   "apic": "DualSense"
   },
   {
    "q": "In which month of 2020 did the PlayStation 5 launch?",
@@ -111,7 +122,8 @@
    "p": 200,
    "alt": [
     "Nov"
-   ]
+   ],
+   "pic": "PlayStation 5"
   },
   {
    "q": "Which PlayStation console introduced Blu-ray discs?",
@@ -119,7 +131,8 @@
    "p": 200,
    "alt": [
     "PS3"
-   ]
+   ],
+   "apic": "PlayStation 3"
   },
   {
    "q": "In which country is Sony headquartered?",
@@ -132,7 +145,8 @@
    "p": 200,
    "alt": [
     "Cloud"
-   ]
+   ],
+   "apic": "Cloud Strife"
   },
   {
    "q": "Which stealth hero is the star of Metal Gear Solid?",
@@ -140,7 +154,8 @@
    "p": 200,
    "alt": [
     "Snake"
-   ]
+   ],
+   "apic": "Solid Snake"
   },
   {
    "q": "Which Capcom survival horror series debuted on the original PlayStation in 1996?",
@@ -148,7 +163,8 @@
    "p": 200,
    "alt": [
     "Biohazard"
-   ]
+   ],
+   "apic": "Resident Evil"
   },
   {
    "q": "Which adventurer is the star of Tomb Raider?",
@@ -156,7 +172,8 @@
    "p": 200,
    "alt": [
     "Lara"
-   ]
+   ],
+   "apic": "Lara Croft"
   },
   {
    "q": "What is the name of Sony's virtual reality headset launched for PlayStation 4 in 2016?",
@@ -165,7 +182,8 @@
    "alt": [
     "PS VR",
     "PSVR"
-   ]
+   ],
+   "apic": "PlayStation VR"
   },
   {
    "q": "Which PlayStation 5 model has no disc drive?",
@@ -186,7 +204,8 @@
   {
    "q": "What does PSN stand for?",
    "a": "PlayStation Network",
-   "p": 200
+   "p": 200,
+   "apic": "PlayStation Network"
   },
   {
    "q": "Which purple dragon starred in Insomniac's 1998 PlayStation platformer?",
@@ -202,7 +221,8 @@
    "p": 200,
    "alt": [
     "PS4"
-   ]
+   ],
+   "apic": "PlayStation 4"
   },
   {
    "q": "Which PlayStation console, released in 2000, could also play DVDs?",
@@ -210,7 +230,8 @@
    "p": 200,
    "alt": [
     "PS2"
-   ]
+   ],
+   "apic": "PlayStation 2"
   },
   {
    "q": "Which lombax and robot duo star in Insomniac's long-running series?",
@@ -218,12 +239,14 @@
    "p": 200,
    "alt": [
     "Ratchet & Clank"
-   ]
+   ],
+   "apic": "Ratchet & Clank"
   },
   {
    "q": "Which studio created Crash Bandicoot, Jak and Daxter, and The Last of Us?",
    "a": "Naughty Dog",
-   "p": 200
+   "p": 200,
+   "apic": "Naughty Dog"
   },
   {
    "q": "What is the name of Kratos's son in the 2018 God of War?",
@@ -233,22 +256,26 @@
   {
    "q": "Which Namco fighting series was an original PlayStation hit featuring Paul Phoenix and Nina Williams?",
    "a": "Tekken",
-   "p": 200
+   "p": 200,
+   "apic": "Tekken"
   },
   {
    "q": "In which year did the original PlayStation launch in Japan?",
    "a": "1994",
-   "p": 400
+   "p": 400,
+   "pic": "PlayStation (console)"
   },
   {
    "q": "In which year did the PlayStation 3 launch?",
    "a": "2006",
-   "p": 400
+   "p": 400,
+   "pic": "PlayStation 3"
   },
   {
    "q": "In which year did the PS Vita launch in Japan?",
    "a": "2011",
-   "p": 400
+   "p": 400,
+   "pic": "PlayStation Vita"
   },
   {
    "q": "In which year did PlayStation Plus launch?",
@@ -261,7 +288,8 @@
    "p": 400,
    "alt": [
     "Kutaragi"
-   ]
+   ],
+   "apic": "Ken Kutaragi"
   },
   {
    "q": "PlayStation began as a CD add-on project for which Nintendo console?",
@@ -270,12 +298,14 @@
    "alt": [
     "SNES",
     "Super NES"
-   ]
+   ],
+   "apic": "Super Nintendo Entertainment System"
   },
   {
    "q": "Which controller, introduced in 1997, added vibration to PlayStation pads?",
    "a": "DualShock",
-   "p": 400
+   "p": 400,
+   "apic": "DualShock"
   },
   {
    "q": "Which reward system did the PlayStation 3 gain via a 2008 update?",
@@ -291,7 +321,8 @@
    "p": 400,
    "alt": [
     "SMS"
-   ]
+   ],
+   "apic": "Santa Monica Studio"
   },
   {
    "q": "Which Dutch studio developed Horizon Zero Dawn?",
@@ -299,7 +330,8 @@
    "p": 400,
    "alt": [
     "Guerrilla"
-   ]
+   ],
+   "apic": "Guerrilla Games"
   },
   {
    "q": "Which studio developed Ghost of Tsushima?",
@@ -307,32 +339,40 @@
    "p": 400,
    "alt": [
     "Sucker Punch"
-   ]
+   ],
+   "apic": "Sucker Punch Productions"
   },
   {
    "q": "Which game won Game of the Year at The Game Awards 2024?",
    "a": "Astro Bot",
-   "p": 400
+   "p": 400,
+   "apic": "Astro Bot (video game)"
   },
   {
    "q": "Which actor plays Joel in HBO's The Last of Us?",
    "a": "Pedro Pascal",
-   "p": 400
+   "p": 400,
+   "pic": "The Last of Us (TV series)",
+   "apic": "Pedro Pascal"
   },
   {
    "q": "Which 2019 PS4 game by Hideo Kojima stars Norman Reedus?",
    "a": "Death Stranding",
-   "p": 400
+   "p": 400,
+   "pic": "Norman Reedus",
+   "apic": "Death Stranding"
   },
   {
    "q": "Which FromSoftware gothic action game was a 2015 PS4 exclusive?",
    "a": "Bloodborne",
-   "p": 400
+   "p": 400,
+   "apic": "Bloodborne"
   },
   {
    "q": "In which year was Final Fantasy VII released on the original PlayStation?",
    "a": "1997",
-   "p": 400
+   "p": 400,
+   "pic": "Final Fantasy VII"
   },
   {
    "q": "Which Japanese designer created Metal Gear Solid?",
@@ -340,12 +380,15 @@
    "p": 400,
    "alt": [
     "Kojima"
-   ]
+   ],
+   "pic": "Metal Gear Solid (1998 video game)",
+   "apic": "Hideo Kojima"
   },
   {
    "q": "In which year was Metal Gear Solid released on PlayStation?",
    "a": "1998",
-   "p": 400
+   "p": 400,
+   "pic": "Metal Gear Solid (1998 video game)"
   },
   {
    "q": "What is the name of the disc format used by the PSP?",
@@ -353,7 +396,8 @@
    "p": 400,
    "alt": [
     "Universal Media Disc"
-   ]
+   ],
+   "apic": "Universal Media Disc"
   },
   {
    "q": "Besides its front touchscreen, which control did the PS Vita have on its back?",
@@ -372,7 +416,8 @@
   {
    "q": "Which PS2 camera accessory allowed players to see themselves on screen?",
    "a": "EyeToy",
-   "p": 400
+   "p": 400,
+   "apic": "EyeToy"
   },
   {
    "q": "Which glowing feature on the DualShock 4 shows player colours?",
@@ -395,7 +440,8 @@
   {
    "q": "Which sack-shaped hero stars in LittleBigPlanet?",
    "a": "Sackboy",
-   "p": 400
+   "p": 400,
+   "apic": "Sackboy"
   },
   {
    "q": "Which studio created the PS3 game Journey?",
@@ -403,42 +449,50 @@
    "p": 400,
    "alt": [
     "That Game Company"
-   ]
+   ],
+   "apic": "Thatgamecompany"
   },
   {
    "q": "Which raccoon thief stars in Sucker Punch's PS2 series?",
    "a": "Sly Cooper",
-   "p": 400
+   "p": 400,
+   "apic": "Sly Cooper"
   },
   {
    "q": "Which Disney-and-Square crossover RPG debuted on the PS2 in 2002?",
    "a": "Kingdom Hearts",
-   "p": 400
+   "p": 400,
+   "apic": "Kingdom Hearts (video game)"
   },
   {
    "q": "In which year was Horizon Zero Dawn released?",
    "a": "2017",
-   "p": 400
+   "p": 400,
+   "pic": "Horizon Zero Dawn"
   },
   {
    "q": "In which year was The Last of Us Part II released?",
    "a": "2020",
-   "p": 400
+   "p": 400,
+   "pic": "The Last of Us Part II"
   },
   {
    "q": "In which year was the first God of War released on PS2?",
    "a": "2005",
-   "p": 400
+   "p": 400,
+   "pic": "God of War (2005 video game)"
   },
   {
    "q": "In which year was God of War Ragnarok released?",
    "a": "2022",
-   "p": 400
+   "p": 400,
+   "pic": "God of War Ragnarök"
   },
   {
    "q": "In which year was the PS2 launched in Japan?",
    "a": "2000",
-   "p": 400
+   "p": 400,
+   "pic": "PlayStation 2"
   },
   {
    "q": "Who created the original PlayStation startup sound?",
@@ -461,17 +515,20 @@
   {
    "q": "Which studio did Sony complete acquiring in 2022 for about 3.6 billion US dollars?",
    "a": "Bungie",
-   "p": 600
+   "p": 600,
+   "apic": "Bungie"
   },
   {
    "q": "Who is the head of Polyphony Digital and creator of Gran Turismo?",
    "a": "Kazunori Yamauchi",
-   "p": 600
+   "p": 600,
+   "apic": "Kazunori Yamauchi"
   },
   {
    "q": "Who directed the 2018 God of War?",
    "a": "Cory Barlog",
-   "p": 600
+   "p": 600,
+   "apic": "Cory Barlog"
   },
   {
    "q": "What are the three PlayStation Plus tiers introduced in 2022?",
@@ -484,7 +541,8 @@
   {
    "q": "What was the PS2's main processor called?",
    "a": "Emotion Engine",
-   "p": 600
+   "p": 600,
+   "apic": "Emotion Engine"
   },
   {
    "q": "Which processor did the PS3 use, developed with IBM and Toshiba?",
@@ -492,7 +550,8 @@
    "p": 600,
    "alt": [
     "Cell Broadband Engine"
-   ]
+   ],
+   "apic": "Cell (processor)"
   },
   {
    "q": "What was the PS3 and PSP menu interface called, abbreviated XMB?",
@@ -500,22 +559,26 @@
    "p": 600,
    "alt": [
     "Cross Media Bar"
-   ]
+   ],
+   "apic": "XrossMediaBar"
   },
   {
    "q": "Which Sony designer led the architecture of both the PS4 and PS5?",
    "a": "Mark Cerny",
-   "p": 600
+   "p": 600,
+   "apic": "Mark Cerny"
   },
   {
    "q": "Which Finnish studio, creator of Returnal, did Sony acquire in 2021?",
    "a": "Housemarque",
-   "p": 600
+   "p": 600,
+   "apic": "Housemarque"
   },
   {
    "q": "Which French studio created Heavy Rain?",
    "a": "Quantic Dream",
-   "p": 600
+   "p": 600,
+   "apic": "Quantic Dream"
   },
   {
    "q": "Which FromSoftware game released in 2009 for PS3 began the Souls series?",
@@ -523,17 +586,20 @@
    "p": 600,
    "alt": [
     "Demons Souls"
-   ]
+   ],
+   "apic": "Demon's Souls"
   },
   {
    "q": "Which PS4 game by Media Molecule lets players create their own content?",
    "a": "Dreams",
-   "p": 600
+   "p": 600,
+   "apic": "Dreams (video game)"
   },
   {
    "q": "Which boy named Wander is the hero of a 2005 PS2 game?",
    "a": "Shadow of the Colossus",
-   "p": 600
+   "p": 600,
+   "apic": "Shadow of the Colossus"
   },
   {
    "q": "Which rapping dog stars in a 1996 PlayStation rhythm game?",
@@ -541,27 +607,32 @@
    "p": 600,
    "alt": [
     "PaRappa the Rapper"
-   ]
+   ],
+   "apic": "PaRappa the Rapper"
   },
   {
    "q": "Which blond hero of Final Fantasy X was released on PS2 in 2001?",
    "a": "Tidus",
-   "p": 600
+   "p": 600,
+   "apic": "Tidus"
   },
   {
    "q": "In which year was the first Gran Turismo released?",
    "a": "1997",
-   "p": 600
+   "p": 600,
+   "pic": "Gran Turismo (1997 video game)"
   },
   {
    "q": "Which man co-founded Sony with Masaru Ibuka?",
    "a": "Akio Morita",
-   "p": 600
+   "p": 600,
+   "apic": "Akio Morita"
   },
   {
    "q": "Which Japanese company makes the Switch, a rival of the PlayStation?",
    "a": "Nintendo",
-   "p": 200
+   "p": 200,
+   "apic": "Nintendo"
   },
   {
    "q": "What is the name of the PlayStation digital shop where games can be bought?",
@@ -569,7 +640,8 @@
    "p": 200,
    "alt": [
     "PS Store"
-   ]
+   ],
+   "apic": "PlayStation Store"
   },
   {
    "q": "Which PlayStation console succeeded the PlayStation 4?",
@@ -577,22 +649,26 @@
    "p": 200,
    "alt": [
     "PS5"
-   ]
+   ],
+   "apic": "PlayStation 5"
   },
   {
    "q": "In which year did the PSP launch in Japan?",
    "a": "2004",
-   "p": 400
+   "p": 400,
+   "pic": "PlayStation Portable"
   },
   {
    "q": "Which Naughty Dog co-founder, with Jason Rubin, created Crash Bandicoot?",
    "a": "Andy Gavin",
-   "p": 600
+   "p": 600,
+   "apic": "Andy Gavin"
   },
   {
    "q": "In which year did the first Jak and Daxter game launch on PS2?",
    "a": "2001",
-   "p": 600
+   "p": 600,
+   "pic": "Jak and Daxter: The Precursor Legacy"
   },
   {
    "q": "Which Insomniac alien-invasion shooter was a PS3 launch title in 2006?",
@@ -600,22 +676,27 @@
    "p": 600,
    "alt": [
     "Resistance"
-   ]
+   ],
+   "apic": "Resistance: Fall of Man"
   },
   {
    "q": "In which year was the first Uncharted game released?",
    "a": "2007",
-   "p": 600
+   "p": 600,
+   "pic": "Uncharted: Drake's Fortune"
   },
   {
    "q": "Who directed Shadow of the Colossus?",
    "a": "Fumito Ueda",
-   "p": 600
+   "p": 600,
+   "pic": "Shadow of the Colossus",
+   "apic": "Fumito Ueda"
   },
   {
    "q": "Which biker hero Deacon St. John stars in a 2019 PS4 exclusive?",
    "a": "Days Gone",
-   "p": 600
+   "p": 600,
+   "apic": "Days Gone"
   },
   {
    "q": "In which year did the PlayStation Network launch?",
@@ -625,7 +706,8 @@
   {
    "q": "What was the motion-sensing PS3 controller of 2006 called?",
    "a": "Sixaxis",
-   "p": 600
+   "p": 600,
+   "apic": "Sixaxis"
   },
   {
    "q": "Which futuristic anti-gravity racing series by Psygnosis launched with the PlayStation?",
@@ -635,7 +717,8 @@
   {
    "q": "In which year did the original PlayStation launch in North America?",
    "a": "1995",
-   "p": 600
+   "p": 600,
+   "pic": "PlayStation (console)"
   },
   {
    "q": "Which button with the PlayStation logo sits in the centre of the controller and turns the console on?",
@@ -652,7 +735,8 @@
    "p": 200,
    "alt": [
     "Miles"
-   ]
+   ],
+   "apic": "Miles Morales"
   },
   {
    "q": "In which city are Insomniac's Spider-Man games set?",
@@ -662,12 +746,14 @@
     "New York City",
     "NYC",
     "Manhattan"
-   ]
+   ],
+   "apic": "New York City"
   },
   {
    "q": "Which Norse god of thunder is an enemy in God of War Ragnarok?",
    "a": "Thor",
-   "p": 200
+   "p": 200,
+   "apic": "Thor"
   },
   {
    "q": "What are the blind, fungus-headed infected that hunt by sound in The Last of Us called?",
@@ -680,7 +766,8 @@
   {
    "q": "Which actor played Nathan Drake in the 2022 Uncharted film?",
    "a": "Tom Holland",
-   "p": 200
+   "p": 200,
+   "apic": "Tom Holland"
   },
   {
    "q": "Which invaders attack the island in Ghost of Tsushima?",
@@ -689,7 +776,8 @@
    "alt": [
     "Mongols",
     "Mongol Empire"
-   ]
+   ],
+   "apic": "Mongol invasions of Japan"
   },
   {
    "q": "In Horizon Zero Dawn, what kind of creatures roam the world as animals?",
@@ -731,7 +819,8 @@
   {
    "q": "Which Konami horror series, set in a foggy town, began on the original PlayStation in 1999?",
    "a": "Silent Hill",
-   "p": 200
+   "p": 200,
+   "apic": "Silent Hill"
   },
   {
    "q": "Who is Crash Bandicoot's mad scientist nemesis?",
@@ -741,12 +830,15 @@
     "Neo Cortex",
     "Cortex",
     "Dr. Neo Cortex"
-   ]
+   ],
+   "apic": "Doctor Neo Cortex"
   },
   {
    "q": "Which actress plays Ellie in HBO's The Last of Us?",
    "a": "Bella Ramsey",
-   "p": 200
+   "p": 200,
+   "pic": "The Last of Us (TV series)",
+   "apic": "Bella Ramsey"
   },
   {
    "q": "Which button symbol is used to confirm on a PS5 in all regions?",
@@ -762,7 +854,8 @@
    "p": 200,
    "alt": [
     "Helldivers"
-   ]
+   ],
+   "apic": "Helldivers 2"
   },
   {
    "q": "Which weapons on chains are Kratos's signature blades in the Greek God of War games?",
@@ -780,12 +873,14 @@
    "alt": [
     "PS Portal",
     "Portal"
-   ]
+   ],
+   "apic": "PlayStation Portal"
   },
   {
    "q": "Which Greek god of war did Kratos kill and replace in the first God of War?",
    "a": "Ares",
-   "p": 400
+   "p": 400,
+   "apic": "Ares"
   },
   {
    "q": "What is the name of Kratos's frost axe in the 2018 God of War?",
@@ -807,7 +902,8 @@
   {
    "q": "Which talking severed head accompanies Kratos in the 2018 God of War?",
    "a": "Mimir",
-   "p": 400
+   "p": 400,
+   "apic": "Mímir"
   },
   {
    "q": "Which two dwarf brothers are blacksmiths in the Norse God of War games?",
@@ -820,7 +916,8 @@
   {
    "q": "Which fungus causes the outbreak in The Last of Us?",
    "a": "Cordyceps",
-   "p": 400
+   "p": 400,
+   "apic": "Cordyceps"
   },
   {
    "q": "Which young woman with a revenge story is the second playable lead of The Last of Us Part II?",
@@ -833,7 +930,9 @@
   {
    "q": "In which US city is most of The Last of Us Part II set?",
    "a": "Seattle",
-   "p": 400
+   "p": 400,
+   "pic": "The Last of Us Part II",
+   "apic": "Seattle"
   },
   {
    "q": "Which Naughty Dog writer and director co-created The Last of Us?",
@@ -841,7 +940,9 @@
    "p": 400,
    "alt": [
     "Druckmann"
-   ]
+   ],
+   "pic": "The Last of Us",
+   "apic": "Neil Druckmann"
   },
   {
    "q": "What is the nickname of Victor Sullivan, Nathan Drake's mentor?",
@@ -879,7 +980,8 @@
    "p": 400,
    "alt": [
     "Ghost of Yōtei"
-   ]
+   ],
+   "apic": "Ghost of Yōtei"
   },
   {
    "q": "What is the subtitle of the 2022 sequel to Horizon Zero Dawn?",
@@ -887,12 +989,14 @@
    "p": 400,
    "alt": [
     "Horizon Forbidden West"
-   ]
+   ],
+   "apic": "Horizon Forbidden West"
   },
   {
    "q": "Which villain stars alongside Kraven in Insomniac's 2023 Spider-Man 2?",
    "a": "Venom",
-   "p": 400
+   "p": 400,
+   "apic": "Venom (character)"
   },
   {
    "q": "Which game came pre-installed on every PS5 to show off the DualSense?",
@@ -900,7 +1004,8 @@
    "p": 400,
    "alt": [
     "Astros Playroom"
-   ]
+   ],
+   "apic": "Astro's Playroom"
   },
   {
    "q": "Which Sony studio in Japan makes the Astro Bot games?",
@@ -908,7 +1013,8 @@
    "p": 400,
    "alt": [
     "Asobi"
-   ]
+   ],
+   "apic": "Team Asobi"
   },
   {
    "q": "Which button replaced the Share button on the DualSense?",
@@ -941,7 +1047,8 @@
    "alt": [
     "Solid state drive",
     "Solid-state drive"
-   ]
+   ],
+   "apic": "Solid-state drive"
   },
   {
    "q": "Which PlayStation console's controller introduced the Share button?",
@@ -959,7 +1066,9 @@
   {
    "q": "Which studio did Hideo Kojima re-found as an independent studio in 2015?",
    "a": "Kojima Productions",
-   "p": 400
+   "p": 400,
+   "pic": "Hideo Kojima",
+   "apic": "Kojima Productions"
   },
   {
    "q": "Which character does Norman Reedus play in Death Stranding?",
@@ -976,17 +1085,20 @@
    "p": 400,
    "alt": [
     "Detroit"
-   ]
+   ],
+   "apic": "Detroit: Become Human"
   },
   {
    "q": "Which 2015 PS4 horror game has teenagers stalked on a snowy mountain?",
    "a": "Until Dawn",
-   "p": 400
+   "p": 400,
+   "apic": "Until Dawn"
   },
   {
    "q": "Which Guerrilla shooter series pits the ISA against the Helghast?",
    "a": "Killzone",
-   "p": 400
+   "p": 400,
+   "apic": "Killzone"
   },
   {
    "q": "Which Sucker Punch series stars Cole MacGrath, a courier with electric powers?",
@@ -1004,7 +1116,8 @@
     "FF8",
     "Final Fantasy 8",
     "FFVIII"
-   ]
+   ],
+   "apic": "Final Fantasy VIII"
   },
   {
    "q": "What is the name of Spyro's dragonfly companion?",
@@ -1017,12 +1130,14 @@
    "p": 400,
    "alt": [
     "The Show"
-   ]
+   ],
+   "apic": "MLB The Show"
   },
   {
    "q": "Which Sony karaoke series came with microphones for the PS2?",
    "a": "SingStar",
-   "p": 400
+   "p": 400,
+   "apic": "SingStar"
   },
   {
    "q": "Which PS2 quiz series used special buzzer controllers?",
@@ -1030,7 +1145,8 @@
    "p": 400,
    "alt": [
     "Buzz"
-   ]
+   ],
+   "apic": "Buzz!"
   },
   {
    "q": "Which Sony boss of the 2000s is remembered for shouting Riiiidge Racer at E3 2006?",
@@ -1038,7 +1154,8 @@
    "p": 400,
    "alt": [
     "Kazuo Hirai"
-   ]
+   ],
+   "apic": "Kazuo Hirai"
   },
   {
    "q": "Which huge T-rex-like machine is one of the toughest enemies in Horizon Zero Dawn?",
@@ -1082,7 +1199,8 @@
    "p": 600,
    "alt": [
     "Ezo"
-   ]
+   ],
+   "apic": "Hokkaido"
   },
   {
    "q": "Which female Lombax joins Ratchet in Rift Apart?",
@@ -1092,12 +1210,14 @@
   {
    "q": "Which Sony hero shooter was shut down about two weeks after its 2024 launch?",
    "a": "Concord",
-   "p": 600
+   "p": 600,
+   "apic": "Concord (video game)"
   },
   {
    "q": "What is the name of the 2024 PS5 action game by Shift Up starring Eve?",
    "a": "Stellar Blade",
-   "p": 600
+   "p": 600,
+   "apic": "Stellar Blade"
   },
   {
    "q": "What is the name of the 2023 PS VR2 launch game set in the Horizon world?",
@@ -1105,7 +1225,8 @@
    "p": 600,
    "alt": [
     "Call of the Mountain"
-   ]
+   ],
+   "apic": "Horizon Call of the Mountain"
   },
   {
    "q": "The 2023 Gran Turismo film tells the true story of which British driver?",
@@ -1113,32 +1234,41 @@
    "p": 600,
    "alt": [
     "Mardenborough"
-   ]
+   ],
+   "pic": "Gran Turismo (film)",
+   "apic": "Jann Mardenborough"
   },
   {
    "q": "Which car-combat PlayStation series was adapted into a 2023 Peacock comedy series?",
    "a": "Twisted Metal",
-   "p": 600
+   "p": 600,
+   "apic": "Twisted Metal"
   },
   {
    "q": "Who voices Nathan Drake in the Uncharted games?",
    "a": "Nolan North",
-   "p": 600
+   "p": 600,
+   "pic": "Nathan Drake",
+   "apic": "Nolan North"
   },
   {
    "q": "Who voiced Joel in The Last of Us games?",
    "a": "Troy Baker",
-   "p": 600
+   "p": 600,
+   "apic": "Troy Baker"
   },
   {
    "q": "Who voiced Ellie in The Last of Us games?",
    "a": "Ashley Johnson",
-   "p": 600
+   "p": 600,
+   "apic": "Ashley Johnson"
   },
   {
    "q": "Who voices Kratos in the Norse God of War games?",
    "a": "Christopher Judge",
-   "p": 600
+   "p": 600,
+   "pic": "Kratos (God of War)",
+   "apic": "Christopher Judge"
   },
   {
    "q": "Who directed Astro Bot?",
@@ -1161,12 +1291,14 @@
   {
    "q": "Which 1999 monkey-catching game was the first to require the analogue DualShock?",
    "a": "Ape Escape",
-   "p": 600
+   "p": 600,
+   "apic": "Ape Escape (video game)"
   },
   {
    "q": "Which 2006 PSP game has players tilt the world to roll singing blobs along?",
    "a": "LocoRoco",
-   "p": 600
+   "p": 600,
+   "apic": "LocoRoco"
   },
   {
    "q": "What animal hybrid is Daxter?",
@@ -1184,12 +1316,14 @@
   {
    "q": "Which 2001 PS2 game by Team Ico stars a horned boy?",
    "a": "Ico",
-   "p": 600
+   "p": 600,
+   "apic": "Ico"
   },
   {
    "q": "Which character made of ancient relics starred in a 2013 PS4 launch title?",
    "a": "Knack",
-   "p": 600
+   "p": 600,
+   "apic": "Knack (video game)"
   },
   {
    "q": "What is the PS5's 3D audio engine called?",
@@ -1211,7 +1345,8 @@
    "p": 600,
    "alt": [
     "PSP-N1000"
-   ]
+   ],
+   "apic": "PSP Go"
   },
   {
    "q": "What was the small redesigned original PlayStation of 2000 called?",
@@ -1236,7 +1371,8 @@
    "p": 600,
    "alt": [
     "Yoshida"
-   ]
+   ],
+   "apic": "Shuhei Yoshida"
   },
   {
    "q": "What was the name of the PS3's virtual social world launched in 2008?",
@@ -1244,7 +1380,8 @@
    "p": 600,
    "alt": [
     "Home"
-   ]
+   ],
+   "apic": "PlayStation Home"
   },
   {
    "q": "Which accessibility controller did Sony release for the PS5 in 2023?",
@@ -1265,7 +1402,8 @@
    "p": 200,
    "alt": [
     "God of War 2018"
-   ]
+   ],
+   "apic": "God of War (2018 video game)"
   },
   {
    "q": "Which Naughty Dog series is set after a fungal pandemic?",
@@ -1274,7 +1412,8 @@
    "alt": [
     "Last of Us",
     "TLOU"
-   ]
+   ],
+   "apic": "The Last of Us"
   },
   {
    "q": "Which Media Molecule series stars Sackboy?",
@@ -1283,7 +1422,8 @@
    "alt": [
     "Little Big Planet",
     "LBP"
-   ]
+   ],
+   "apic": "LittleBigPlanet"
   },
   {
    "q": "Which letters label the shoulder buttons on a PlayStation controller?",
@@ -1325,7 +1465,8 @@
    "alt": [
     "Jörmungandr",
     "The World Serpent"
-   ]
+   ],
+   "apic": "Jörmungandr"
   },
   {
    "q": "Which multi-armed scientist is the final villain of Insomniac's 2018 Spider-Man?",
@@ -1334,7 +1475,8 @@
    "alt": [
     "Doc Ock",
     "Otto Octavius"
-   ]
+   ],
+   "apic": "Doctor Octopus"
   }
  ]
 }

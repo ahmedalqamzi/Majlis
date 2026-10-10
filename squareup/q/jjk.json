@@ -5,17 +5,20 @@
   {
    "q": "What is the name of the main protagonist of Jujutsu Kaisen?",
    "a": "Yuji Itadori",
-   "p": 200
+   "p": 200,
+   "apic": "Yuji Itadori"
   },
   {
    "q": "Which white-haired teacher is known as the strongest jujutsu sorcerer?",
    "a": "Satoru Gojo",
-   "p": 200
+   "p": 200,
+   "apic": "Satoru Gojo"
   },
   {
    "q": "Who is the King of Curses whose fingers Yuji swallows?",
    "a": "Ryomen Sukuna",
-   "p": 200
+   "p": 200,
+   "apic": "Ryomen Sukuna"
   },
   {
    "q": "What does Yuji eat to become Sukuna's vessel?",
@@ -25,12 +28,14 @@
   {
    "q": "What is Megumi's family name?",
    "a": "Fushiguro",
-   "p": 200
+   "p": 200,
+   "apic": "Megumi Fushiguro"
   },
   {
    "q": "What is Nobara's family name?",
    "a": "Kugisaki",
-   "p": 200
+   "p": 200,
+   "apic": "Nobara Kugisaki"
   },
   {
    "q": "Which tools does Nobara use to fight curses?",
@@ -55,12 +60,14 @@
   {
    "q": "Who is the creator and author of the Jujutsu Kaisen manga?",
    "a": "Gege Akutami",
-   "p": 200
+   "p": 200,
+   "apic": "Gege Akutami"
   },
   {
    "q": "Which animation studio produces the Jujutsu Kaisen anime?",
    "a": "MAPPA",
-   "p": 200
+   "p": 200,
+   "apic": "MAPPA"
   },
   {
    "q": "At which school do Yuji, Megumi and Nobara study?",
@@ -130,12 +137,14 @@
   {
    "q": "Which curse user is Gojo's former best friend?",
    "a": "Suguru Geto",
-   "p": 200
+   "p": 200,
+   "apic": "Suguru Geto"
   },
   {
    "q": "Who is the main protagonist of Jujutsu Kaisen 0?",
    "a": "Yuta Okkotsu",
-   "p": 200
+   "p": 200,
+   "apic": "Yuta Okkotsu"
   },
   {
    "q": "Which cursed spirit is Yuta's childhood friend who haunts him?",
@@ -238,12 +247,14 @@
   {
    "q": "Whose body does Kenjaku occupy during the Shibuya Incident?",
    "a": "Suguru Geto's",
-   "p": 400
+   "p": 400,
+   "apic": "Suguru Geto"
   },
   {
    "q": "On which holiday does the Shibuya Incident begin?",
    "a": "Halloween",
-   "p": 400
+   "p": 400,
+   "apic": "Halloween"
   },
   {
    "q": "What is the name of Toji Fushiguro's cursed tool that cancels Cursed Techniques?",
@@ -333,7 +344,8 @@
   {
    "q": "Which artist performs the Season 1 opening Kaikai Kitan?",
    "a": "Eve",
-   "p": 400
+   "p": 400,
+   "apic": "Eve (Japanese singer)"
   },
   {
    "q": "What ratio does Nanami's Ratio Technique use to create a weak point?",
@@ -570,7 +582,8 @@
    "p": 200,
    "alt": [
     "Megumi"
-   ]
+   ],
+   "apic": "Megumi Fushiguro"
   },
   {
    "q": "What sentence do the jujutsu higher-ups pass on Yuji for becoming Sukuna's vessel?",
@@ -587,7 +600,8 @@
    "p": 200,
    "alt": [
     "Nobara"
-   ]
+   ],
+   "apic": "Nobara Kugisaki"
   },
   {
    "q": "Which student speaks only in rice ball ingredients?",
@@ -651,7 +665,9 @@
    "p": 400,
    "alt": [
     "Ryomen Sukuna"
-   ]
+   ],
+   "pic": "Satoru Gojo",
+   "apic": "Ryomen Sukuna"
   },
   {
    "q": "Whose body does Sukuna take over after leaving Yuji?",
@@ -659,7 +675,8 @@
    "p": 400,
    "alt": [
     "Megumi"
-   ]
+   ],
+   "apic": "Megumi Fushiguro"
   },
   {
    "q": "Which Special Grade curse kills Nanami in Shibuya?",
@@ -672,7 +689,8 @@
    "p": 200,
    "alt": [
     "Gojo"
-   ]
+   ],
+   "apic": "Satoru Gojo"
   },
   {
    "q": "What is the name of Gojo's red repelling technique?",
@@ -696,12 +714,14 @@
    "p": 200,
    "alt": [
     "JJK 0"
-   ]
+   ],
+   "apic": "Jujutsu Kaisen 0 (film)"
   },
   {
    "q": "In which Japanese city is the Shibuya Incident set?",
    "a": "Tokyo",
-   "p": 200
+   "p": 200,
+   "apic": "Tokyo"
   },
   {
    "q": "Which tool does Maki use to see curses, since she lacks cursed energy?",
@@ -854,7 +874,8 @@
    "alt": [
     "Heian period",
     "Heian"
-   ]
+   ],
+   "apic": "Heian period"
   },
   {
    "q": "What English title was used for Jujutsu Kaisen in some early translations?",
@@ -873,7 +894,8 @@
    "alt": [
     "Shonen Jump",
     "Jump"
-   ]
+   ],
+   "apic": "Weekly Shōnen Jump"
   },
   {
    "q": "In which year did the Jujutsu Kaisen anime first air?",
@@ -888,7 +910,8 @@
   {
    "q": "Which band performs the Season 2 opening Specialz?",
    "a": "King Gnu",
-   "p": 400
+   "p": 400,
+   "apic": "King Gnu"
   },
   {
    "q": "Which bespectacled assistant manager drives the Tokyo sorcerers to missions?",
@@ -1034,7 +1057,8 @@
    "p": 600,
    "alt": [
     "Michizane"
-   ]
+   ],
+   "apic": "Sugawara no Michizane"
   },
   {
    "q": "What is the name of Geto's technique that compresses his curses into one blast?",
@@ -1063,7 +1087,8 @@
   {
    "q": "Which type of gambling machine inspired Hakari's Domain Expansion?",
    "a": "Pachinko",
-   "p": 600
+   "p": 600,
+   "apic": "Pachinko"
   },
   {
    "q": "What did Toji keep his weapons inside?",
@@ -1087,17 +1112,20 @@
   {
    "q": "Who is the Japanese voice of Yuji Itadori?",
    "a": "Junya Enoki",
-   "p": 600
+   "p": 600,
+   "apic": "Junya Enoki"
   },
   {
    "q": "Who is the Japanese voice of Satoru Gojo?",
    "a": "Yuichi Nakamura",
-   "p": 600
+   "p": 600,
+   "apic": "Yuichi Nakamura (voice actor)"
   },
   {
    "q": "Who is the Japanese voice of Sukuna?",
    "a": "Junichi Suwabe",
-   "p": 600
+   "p": 600,
+   "apic": "Junichi Suwabe"
   },
   {
    "q": "Who directed the first season of the Jujutsu Kaisen anime?",
@@ -1105,12 +1133,14 @@
    "p": 600,
    "alt": [
     "Park Sung-hoo"
-   ]
+   ],
+   "apic": "Sunghoo Park"
   },
   {
    "q": "Which artist performs Ao no Sumika, the opening of the Hidden Inventory arc?",
    "a": "Tatsuya Kitani",
-   "p": 600
+   "p": 600,
+   "apic": "Tatsuya Kitani"
   },
   {
    "q": "Which artist performs the Season 1 second opening Vivid Vice?",
@@ -1120,7 +1150,8 @@
   {
    "q": "Which band performs Ichizu, the theme of Jujutsu Kaisen 0?",
    "a": "King Gnu",
-   "p": 600
+   "p": 600,
+   "apic": "King Gnu"
   },
   {
    "q": "How many volumes does the main Jujutsu Kaisen manga have?",
@@ -1228,7 +1259,8 @@
    "alt": [
     "Edo",
     "Edo era"
-   ]
+   ],
+   "apic": "Edo period"
   },
   {
    "q": "Which Special Grade curse has a stitched, patchwork face?",
