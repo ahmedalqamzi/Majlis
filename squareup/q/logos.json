@@ -1,0 +1,653 @@
+{
+ "id": "logos",
+ "name": "Name That Logo",
+ "questions": [
+  {
+   "q": "Which brand or product uses this logo?",
+   "a": "Apple",
+   "p": 200,
+   "img": "img/logos/6ebb6aba43.svg"
+  },
+  {
+   "q": "Which sportswear brand uses this logo?",
+   "a": "Nike",
+   "p": 200,
+   "img": "img/logos/ad61f6ce6b.svg"
+  },
+  {
+   "q": "Which sportswear brand uses this logo?",
+   "a": "Adidas",
+   "p": 200,
+   "img": "img/logos/da420ba4a9.svg"
+  },
+  {
+   "q": "Which sportswear brand uses this logo?",
+   "a": "Puma",
+   "p": 200,
+   "img": "img/logos/e01e2e17e2.svg"
+  },
+  {
+   "q": "Which sportswear brand uses this logo?",
+   "a": "Jordan",
+   "p": 200,
+   "img": "img/logos/6ca195d196.svg",
+   "alt": [
+    "Air Jordan",
+    "Jumpman"
+   ]
+  },
+  {
+   "q": "Which sportswear brand uses this logo?",
+   "a": "Under Armour",
+   "p": 400,
+   "img": "img/logos/8802559bd8.svg"
+  },
+  {
+   "q": "Which sportswear brand uses this logo?",
+   "a": "New Balance",
+   "p": 400,
+   "img": "img/logos/c212e485c3.svg"
+  },
+  {
+   "q": "Which sportswear brand uses this logo?",
+   "a": "Reebok",
+   "p": 600,
+   "img": "img/logos/c93a11d761.svg"
+  },
+  {
+   "q": "Name the carmaker behind this logo.",
+   "a": "Audi",
+   "p": 200,
+   "img": "img/logos/ba72736a92.svg"
+  },
+  {
+   "q": "Which car brand uses this badge?",
+   "a": "Volkswagen",
+   "p": 200,
+   "img": "img/logos/00158c5367.svg",
+   "alt": [
+    "VW"
+   ]
+  },
+  {
+   "q": "Name the carmaker behind this logo.",
+   "a": "Toyota",
+   "p": 200,
+   "img": "img/logos/8d16f35e27.svg"
+  },
+  {
+   "q": "Which car brand uses this badge?",
+   "a": "Honda",
+   "p": 200,
+   "img": "img/logos/7bea8a9ae8.svg"
+  },
+  {
+   "q": "Name the carmaker behind this logo.",
+   "a": "Hyundai",
+   "p": 200,
+   "img": "img/logos/7ff46446a4.svg"
+  },
+  {
+   "q": "Which car brand uses this badge?",
+   "a": "Kia",
+   "p": 400,
+   "img": "img/logos/42ae2a46cf.svg"
+  },
+  {
+   "q": "Name the carmaker behind this logo.",
+   "a": "Mazda",
+   "p": 400,
+   "img": "img/logos/36d5afe96f.svg"
+  },
+  {
+   "q": "Which car brand uses this badge?",
+   "a": "Subaru",
+   "p": 400,
+   "img": "img/logos/bd4c014dab.svg"
+  },
+  {
+   "q": "Name the carmaker behind this logo.",
+   "a": "Mitsubishi",
+   "p": 200,
+   "img": "img/logos/6dd8ae3c69.svg"
+  },
+  {
+   "q": "Which car brand uses this badge?",
+   "a": "Ferrari",
+   "p": 200,
+   "img": "img/logos/9954ed356f.svg"
+  },
+  {
+   "q": "Name the carmaker behind this logo.",
+   "a": "Lamborghini",
+   "p": 200,
+   "img": "img/logos/43e270f971.svg"
+  },
+  {
+   "q": "Which car brand uses this badge?",
+   "a": "Tesla",
+   "p": 200,
+   "img": "img/logos/d29b95b6de.svg"
+  },
+  {
+   "q": "Name the carmaker behind this logo.",
+   "a": "Chevrolet",
+   "p": 200,
+   "img": "img/logos/9da51099f5.svg",
+   "alt": [
+    "Chevy"
+   ]
+  },
+  {
+   "q": "Which car brand uses this badge?",
+   "a": "Renault",
+   "p": 200,
+   "img": "img/logos/6284a6c362.svg"
+  },
+  {
+   "q": "Name the carmaker behind this logo.",
+   "a": "Citroën",
+   "p": 400,
+   "img": "img/logos/280cc631d3.svg",
+   "alt": [
+    "Citroen"
+   ]
+  },
+  {
+   "q": "Which car brand uses this badge?",
+   "a": "Opel",
+   "p": 400,
+   "img": "img/logos/381295dd99.svg",
+   "alt": [
+    "Vauxhall"
+   ]
+  },
+  {
+   "q": "Name the carmaker behind this logo.",
+   "a": "Škoda",
+   "p": 600,
+   "img": "img/logos/076f99d5db.svg",
+   "alt": [
+    "Skoda"
+   ]
+  },
+  {
+   "q": "Which car brand uses this badge?",
+   "a": "SEAT",
+   "p": 600,
+   "img": "img/logos/823f498022.svg",
+   "alt": [
+    "Seat"
+   ]
+  },
+  {
+   "q": "Name the carmaker behind this logo.",
+   "a": "Maserati",
+   "p": 400,
+   "img": "img/logos/d22775ebae.svg"
+  },
+  {
+   "q": "Which car brand uses this badge?",
+   "a": "Bugatti",
+   "p": 600,
+   "img": "img/logos/6817d9ea89.svg"
+  },
+  {
+   "q": "Name the carmaker behind this logo.",
+   "a": "Infiniti",
+   "p": 400,
+   "img": "img/logos/c7f64d6694.svg"
+  },
+  {
+   "q": "Which car brand uses this badge?",
+   "a": "Cadillac",
+   "p": 400,
+   "img": "img/logos/3b47712db7.svg"
+  },
+  {
+   "q": "Name the carmaker behind this logo.",
+   "a": "Suzuki",
+   "p": 400,
+   "img": "img/logos/eaabbdeeff.svg"
+  },
+  {
+   "q": "Which car brand uses this badge?",
+   "a": "Dacia",
+   "p": 600,
+   "img": "img/logos/711102545d.svg"
+  },
+  {
+   "q": "Name the carmaker behind this logo.",
+   "a": "Bentley",
+   "p": 400,
+   "img": "img/logos/ef928856b9.svg"
+  },
+  {
+   "q": "Which car brand uses this badge?",
+   "a": "Rolls-Royce",
+   "p": 400,
+   "img": "img/logos/054a995f17.svg",
+   "alt": [
+    "Rolls Royce"
+   ]
+  },
+  {
+   "q": "Name the carmaker behind this logo.",
+   "a": "Polestar",
+   "p": 600,
+   "img": "img/logos/9ee34570df.svg"
+  },
+  {
+   "q": "Which food or drink brand uses this logo?",
+   "a": "McDonald's",
+   "p": 200,
+   "img": "img/logos/ac836cc720.svg",
+   "alt": [
+    "McDonalds"
+   ]
+  },
+  {
+   "q": "Which food or drink brand uses this logo?",
+   "a": "Starbucks",
+   "p": 200,
+   "img": "img/logos/c48f6a0c80.svg"
+  },
+  {
+   "q": "Which food or drink brand uses this logo?",
+   "a": "Taco Bell",
+   "p": 400,
+   "img": "img/logos/e2cf8e04fe.svg"
+  },
+  {
+   "q": "Which food or drink brand uses this logo?",
+   "a": "Red Bull",
+   "p": 400,
+   "img": "img/logos/e8d4714b4d.svg"
+  },
+  {
+   "q": "Name the app from its icon.",
+   "a": "X",
+   "p": 200,
+   "img": "img/logos/eb79d2cf9f.svg",
+   "alt": [
+    "Twitter"
+   ]
+  },
+  {
+   "q": "Which app uses this logo?",
+   "a": "Instagram",
+   "p": 200,
+   "img": "img/logos/9d94fea1d7.svg"
+  },
+  {
+   "q": "Name the app from its icon.",
+   "a": "Facebook",
+   "p": 200,
+   "img": "img/logos/4c5deb06be.svg"
+  },
+  {
+   "q": "Which app uses this logo?",
+   "a": "WhatsApp",
+   "p": 200,
+   "img": "img/logos/439cd62629.svg"
+  },
+  {
+   "q": "Name the app from its icon.",
+   "a": "Snapchat",
+   "p": 200,
+   "img": "img/logos/affdeec1cf.svg"
+  },
+  {
+   "q": "Which app uses this logo?",
+   "a": "TikTok",
+   "p": 200,
+   "img": "img/logos/ea796227c5.svg"
+  },
+  {
+   "q": "Name the app from its icon.",
+   "a": "YouTube",
+   "p": 200,
+   "img": "img/logos/a59a570963.svg"
+  },
+  {
+   "q": "Which app uses this logo?",
+   "a": "Netflix",
+   "p": 200,
+   "img": "img/logos/93c21194cc.svg"
+  },
+  {
+   "q": "Name the app from its icon.",
+   "a": "Spotify",
+   "p": 200,
+   "img": "img/logos/29c7d47d02.svg"
+  },
+  {
+   "q": "Which app uses this logo?",
+   "a": "Telegram",
+   "p": 400,
+   "img": "img/logos/2dd1744991.svg"
+  },
+  {
+   "q": "Name the app from its icon.",
+   "a": "Discord",
+   "p": 400,
+   "img": "img/logos/e14d7555d6.svg"
+  },
+  {
+   "q": "Which app uses this logo?",
+   "a": "Reddit",
+   "p": 400,
+   "img": "img/logos/87beae4903.svg"
+  },
+  {
+   "q": "Name the app from its icon.",
+   "a": "Pinterest",
+   "p": 400,
+   "img": "img/logos/eadfe0a96e.svg"
+  },
+  {
+   "q": "Which app uses this logo?",
+   "a": "Twitch",
+   "p": 400,
+   "img": "img/logos/b0f714a93b.svg"
+  },
+  {
+   "q": "Name the app from its icon.",
+   "a": "Threads",
+   "p": 400,
+   "img": "img/logos/05b22a25f3.svg"
+  },
+  {
+   "q": "Which app uses this logo?",
+   "a": "Messenger",
+   "p": 400,
+   "img": "img/logos/53562e72b7.svg",
+   "alt": [
+    "Facebook Messenger"
+   ]
+  },
+  {
+   "q": "Name the app from its icon.",
+   "a": "Signal",
+   "p": 600,
+   "img": "img/logos/0f54286bcd.svg"
+  },
+  {
+   "q": "Which app uses this logo?",
+   "a": "Tinder",
+   "p": 400,
+   "img": "img/logos/cef813b140.svg"
+  },
+  {
+   "q": "Name the app from its icon.",
+   "a": "Mastodon",
+   "p": 600,
+   "img": "img/logos/7ede2b7044.svg"
+  },
+  {
+   "q": "Which brand or product uses this logo?",
+   "a": "Google",
+   "p": 200,
+   "img": "img/logos/726bb064d4.svg"
+  },
+  {
+   "q": "Which brand or product uses this logo?",
+   "a": "Android",
+   "p": 200,
+   "img": "img/logos/72890f3d64.svg"
+  },
+  {
+   "q": "Which brand or product uses this logo?",
+   "a": "PayPal",
+   "p": 400,
+   "img": "img/logos/2682f42a2f.svg"
+  },
+  {
+   "q": "Which brand or product uses this logo?",
+   "a": "Mastercard",
+   "p": 200,
+   "img": "img/logos/1bfc560750.svg"
+  },
+  {
+   "q": "Which brand or product uses this logo?",
+   "a": "Airbnb",
+   "p": 400,
+   "img": "img/logos/2dfd52e441.svg"
+  },
+  {
+   "q": "Which app uses this logo?",
+   "a": "Shazam",
+   "p": 400,
+   "img": "img/logos/d514b838f2.svg"
+  },
+  {
+   "q": "Which brand or product uses this logo?",
+   "a": "Dropbox",
+   "p": 400,
+   "img": "img/logos/ca06c07a96.svg"
+  },
+  {
+   "q": "Which brand or product uses this logo?",
+   "a": "Wikipedia",
+   "p": 200,
+   "img": "img/logos/5d196d2722.svg"
+  },
+  {
+   "q": "Which brand or product uses this logo?",
+   "a": "Firefox",
+   "p": 400,
+   "img": "img/logos/e9b9cfa5d5.svg",
+   "alt": [
+    "Mozilla Firefox"
+   ]
+  },
+  {
+   "q": "Which brand or product uses this logo?",
+   "a": "Google Chrome",
+   "p": 200,
+   "img": "img/logos/e596fc56a5.svg",
+   "alt": [
+    "Chrome"
+   ]
+  },
+  {
+   "q": "Which brand or product uses this logo?",
+   "a": "Opera",
+   "p": 400,
+   "img": "img/logos/00f5865297.svg"
+  },
+  {
+   "q": "Which brand or product uses this logo?",
+   "a": "Safari",
+   "p": 400,
+   "img": "img/logos/b006dcea3e.svg"
+  },
+  {
+   "q": "Which brand or product uses this logo?",
+   "a": "Huawei",
+   "p": 200,
+   "img": "img/logos/9d02bbbcb6.svg"
+  },
+  {
+   "q": "Which brand or product uses this logo?",
+   "a": "Xiaomi",
+   "p": 400,
+   "img": "img/logos/fd2bb46940.svg"
+  },
+  {
+   "q": "Which brand or product uses this logo?",
+   "a": "OnePlus",
+   "p": 600,
+   "img": "img/logos/d663c5dc62.svg"
+  },
+  {
+   "q": "Which brand or product uses this logo?",
+   "a": "Nvidia",
+   "p": 400,
+   "img": "img/logos/b9a0c6e73d.svg"
+  },
+  {
+   "q": "Which brand or product uses this logo?",
+   "a": "Beats",
+   "p": 400,
+   "img": "img/logos/f5f41a3277.svg",
+   "alt": [
+    "Beats by Dre"
+   ]
+  },
+  {
+   "q": "Which gaming brand or game uses this logo?",
+   "a": "PlayStation",
+   "p": 200,
+   "img": "img/logos/a92a843dce.svg"
+  },
+  {
+   "q": "Which gaming brand or game uses this logo?",
+   "a": "Steam",
+   "p": 400,
+   "img": "img/logos/3934871574.svg"
+  },
+  {
+   "q": "Which gaming brand or game uses this logo?",
+   "a": "Ubisoft",
+   "p": 400,
+   "img": "img/logos/18db6d6bc0.svg"
+  },
+  {
+   "q": "Which gaming brand or game uses this logo?",
+   "a": "Riot Games",
+   "p": 600,
+   "img": "img/logos/61dc588e98.svg"
+  },
+  {
+   "q": "Which gaming brand or game uses this logo?",
+   "a": "Sega",
+   "p": 600,
+   "img": "img/logos/1c989e65f4.svg"
+  },
+  {
+   "q": "Which gaming brand or game uses this logo?",
+   "a": "Rockstar Games",
+   "p": 400,
+   "img": "img/logos/5611cf4365.svg",
+   "alt": [
+    "Rockstar"
+   ]
+  },
+  {
+   "q": "Which gaming brand or game uses this logo?",
+   "a": "Roblox",
+   "p": 400,
+   "img": "img/logos/a97cf71748.svg"
+  },
+  {
+   "q": "Which gaming brand or game uses this logo?",
+   "a": "Fortnite",
+   "p": 400,
+   "img": "img/logos/7a2b012126.svg"
+  },
+  {
+   "q": "Which gaming brand or game uses this logo?",
+   "a": "League of Legends",
+   "p": 600,
+   "img": "img/logos/4d40ab3a06.svg",
+   "alt": [
+    "LoL"
+   ]
+  },
+  {
+   "q": "Which brand uses this logo?",
+   "a": "Shell",
+   "p": 200,
+   "img": "img/logos/311fae753e.svg"
+  },
+  {
+   "q": "Which airline uses this logo?",
+   "a": "Emirates",
+   "p": 400,
+   "img": "img/logos/24ef9a75ca.svg",
+   "alt": [
+    "Emirates Airline"
+   ]
+  },
+  {
+   "q": "Which airline uses this logo?",
+   "a": "Qatar Airways",
+   "p": 400,
+   "img": "img/logos/cf4e519e8e.svg"
+  },
+  {
+   "q": "Which airline uses this logo?",
+   "a": "Lufthansa",
+   "p": 400,
+   "img": "img/logos/db42ca76c0.svg"
+  },
+  {
+   "q": "Which airline uses this logo?",
+   "a": "Air France",
+   "p": 600,
+   "img": "img/logos/798bea0642.svg"
+  },
+  {
+   "q": "Which airline uses this logo?",
+   "a": "British Airways",
+   "p": 600,
+   "img": "img/logos/a676fb97c1.svg"
+  },
+  {
+   "q": "Which airline uses this logo?",
+   "a": "Turkish Airlines",
+   "p": 400,
+   "img": "img/logos/92bbd2787d.svg"
+  },
+  {
+   "q": "Which airline uses this logo?",
+   "a": "Ryanair",
+   "p": 600,
+   "img": "img/logos/c3e058afd5.svg"
+  },
+  {
+   "q": "Which sports organisation uses this logo?",
+   "a": "Premier League",
+   "p": 400,
+   "img": "img/logos/204e287425.svg",
+   "alt": [
+    "EPL",
+    "English Premier League"
+   ]
+  },
+  {
+   "q": "Which sports organisation uses this logo?",
+   "a": "NBA",
+   "p": 400,
+   "img": "img/logos/6d979e56b1.svg"
+  },
+  {
+   "q": "Which sports organisation uses this logo?",
+   "a": "MLB",
+   "p": 600,
+   "img": "img/logos/4647215d7b.svg",
+   "alt": [
+    "Major League Baseball"
+   ]
+  },
+  {
+   "q": "Which sports organisation uses this logo?",
+   "a": "WWE",
+   "p": 400,
+   "img": "img/logos/914ffb70f9.svg"
+  },
+  {
+   "q": "Which brand uses this logo?",
+   "a": "Bitcoin",
+   "p": 200,
+   "img": "img/logos/182c17bd16.svg"
+  },
+  {
+   "q": "Which brand uses this logo?",
+   "a": "Ethereum",
+   "p": 400,
+   "img": "img/logos/1b3b7f20e7.svg"
+  }
+ ]
+}
