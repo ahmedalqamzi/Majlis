@@ -169,7 +169,7 @@
    ]
   },
   {
-   "q": "Egypt's oldest international film festival, founded in 1976, is held in which city?",
+   "q": "Egypt's oldest international film festival is held in which city?",
    "a": "Cairo",
    "p": 200,
    "ar": "القاهرة"
@@ -213,21 +213,12 @@
    ]
   },
   {
-   "q": "Translate the title of the thriller 'Al Feel Al Azraq'.",
-   "a": "The Blue Elephant",
+   "q": "Which Egyptian actor played Che Guevara in the 1969 Hollywood film 'Che!'?",
+   "a": "Omar Sharif",
    "p": 200,
-   "ar": "الفيل الأزرق",
+   "ar": "عمر الشريف",
    "alt": [
-    "Blue Elephant"
-   ]
-  },
-  {
-   "q": "In which city is 'The Yacoubian Building' set?",
-   "a": "Cairo",
-   "p": 200,
-   "ar": "القاهرة",
-   "alt": [
-    "Downtown Cairo"
+    "Omar El Sharif"
    ]
   },
   {
@@ -279,18 +270,9 @@
    ]
   },
   {
-   "q": "Which Egyptian actor played Che Guevara in the 1969 Hollywood film 'Che!'?",
-   "a": "Omar Sharif",
-   "p": 400,
-   "ar": "عمر الشريف",
-   "alt": [
-    "Omar El Sharif"
-   ]
-  },
-  {
    "q": "Which comedian starred in 'H Dabbour' (2008), based on his TV character?",
    "a": "Ahmed Mekky",
-   "p": 400,
+   "p": 200,
    "ar": "أحمد مكي",
    "alt": [
     "Ahmed Makki",
@@ -300,10 +282,201 @@
   {
    "q": "Which actor stars as the psychiatrist Yehia in 'The Blue Elephant' (2014)?",
    "a": "Karim Abdel Aziz",
-   "p": 400,
+   "p": 200,
    "ar": "كريم عبد العزيز",
    "alt": [
     "Karim Abdelaziz"
+   ]
+  },
+  {
+   "q": "Which novelist wrote the book that 'The Yacoubian Building' (2006) was adapted from?",
+   "a": "Alaa Al Aswany",
+   "p": 200,
+   "ar": "علاء الأسواني",
+   "alt": [
+    "Alaa Al-Aswany",
+    "Alaa El Aswany"
+   ]
+  },
+  {
+   "q": "In which 1994 film does Adel Imam play a militant who ends up hiding with a middle-class family?",
+   "a": "Al Irhabi",
+   "p": 200,
+   "ar": "الإرهابي",
+   "alt": [
+    "The Terrorist",
+    "Al-Irhabi"
+   ]
+  },
+  {
+   "q": "Youssef Chahine's 1963 epic 'Al Nasser Salah Al Din' is about which sultan?",
+   "a": "Saladin",
+   "p": 200,
+   "ar": "صلاح الدين",
+   "alt": [
+    "Salah Al Din",
+    "Salahuddin",
+    "Salah ad-Din"
+   ]
+  },
+  {
+   "q": "Which actor played Gamal Abdel Nasser in the 1996 film 'Nasser 56'?",
+   "a": "Ahmed Zaki",
+   "p": 200,
+   "ar": "أحمد زكي",
+   "alt": [
+    "Ahmad Zaki"
+   ]
+  },
+  {
+   "q": "In which 2011 film does Ahmed Helmy play an overweight cartoonist?",
+   "a": "X-Large",
+   "p": 200,
+   "ar": "إكس لارج",
+   "alt": [
+    "XL",
+    "X Large"
+   ]
+  },
+  {
+   "q": "Which Red Sea resort town has hosted an international film festival since 2017?",
+   "a": "El Gouna",
+   "p": 200,
+   "ar": "الجونة",
+   "alt": [
+    "Gouna",
+    "Al Gouna"
+   ]
+  },
+  {
+   "q": "What was Omar Sharif's birth name?",
+   "a": "Michel Chalhoub",
+   "p": 200,
+   "ar": "ميشيل شلهوب",
+   "alt": [
+    "Michel Shalhoub",
+    "Michel Demitri Chalhoub"
+   ]
+  },
+  {
+   "q": "In which Egyptian city was Omar Sharif born?",
+   "a": "Alexandria",
+   "p": 200,
+   "ar": "الإسكندرية",
+   "alt": [
+    "Iskandariya"
+   ]
+  },
+  {
+   "q": "Which 2008 film paired Adel Imam and Omar Sharif as a Christian and a Muslim who swap identities?",
+   "a": "Hassan wa Morcos",
+   "p": 200,
+   "ar": "حسن ومرقص",
+   "alt": [
+    "Hassan and Marcus",
+    "Hassan & Morcos"
+   ]
+  },
+  {
+   "q": "Which actress was nicknamed 'the Marilyn Monroe of the East'?",
+   "a": "Hind Rostom",
+   "p": 200,
+   "ar": "هند رستم",
+   "alt": [
+    "Hend Rostom",
+    "Hind Rustum"
+   ]
+  },
+  {
+   "q": "Which singer-actress was nicknamed 'Dalou'at Al Cinema' (the Darling of the Cinema)?",
+   "a": "Shadia",
+   "p": 200,
+   "ar": "شادية",
+   "alt": [
+    "Shadya"
+   ]
+  },
+  {
+   "q": "Which comedian plays a timid school headmaster in the hit 'Al Nazer' (2000)?",
+   "a": "Alaa Wali El Din",
+   "p": 200,
+   "ar": "علاء ولي الدين",
+   "alt": [
+    "Alaa Waly El Din",
+    "Alaa Wali Eldin"
+   ]
+  },
+  {
+   "q": "Which action star led the films 'Mafia' (2002) and 'Tito' (2004)?",
+   "a": "Ahmed El Sakka",
+   "p": 200,
+   "ar": "أحمد السقا",
+   "alt": [
+    "Ahmed Al Sakka",
+    "El Sakka"
+   ]
+  },
+  {
+   "q": "Which Egyptian comedy star's son, Mohamed, is also a film actor?",
+   "a": "Adel Imam",
+   "p": 200,
+   "ar": "عادل إمام",
+   "alt": [
+    "Adel Emam"
+   ]
+  },
+  {
+   "q": "Which comedian starred in the 2008 hit 'Ramadan Mabrouk Abul Alamein Hamouda' as a strict teacher?",
+   "a": "Mohamed Henedy",
+   "p": 200,
+   "ar": "محمد هنيدي",
+   "alt": [
+    "Henedy"
+   ]
+  },
+  {
+   "q": "Which Egyptian star appeared with Viggo Mortensen in the 2004 horse-race adventure 'Hidalgo'?",
+   "a": "Omar Sharif",
+   "p": 200,
+   "ar": "عمر الشريف",
+   "alt": [
+    "Omar El Sharif"
+   ]
+  },
+  {
+   "q": "Which country has the oldest and biggest film industry in the Arab world?",
+   "a": "Egypt",
+   "p": 200,
+   "ar": "مصر"
+  },
+  {
+   "q": "Which 2006 film, based on a bestselling novel, follows the residents of a downtown Cairo apartment block?",
+   "a": "The Yacoubian Building",
+   "p": 200,
+   "ar": "عمارة يعقوبيان",
+   "alt": [
+    "Omaret Yacoubian",
+    "Yacoubian Building",
+    "Imarat Yacoubian"
+   ]
+  },
+  {
+   "q": "Which singer-actor is nicknamed 'Nigm El Geel' (Star of the Generation)?",
+   "a": "Tamer Hosny",
+   "p": 200,
+   "ar": "تامر حسني",
+   "alt": [
+    "Tamer Hosni"
+   ]
+  },
+  {
+   "q": "Which actress co-starred with Adel Imam in 'Terrorism and Kebab'?",
+   "a": "Yousra",
+   "p": 200,
+   "ar": "يسرا",
+   "alt": [
+    "Yusra",
+    "Youssra"
    ]
   },
   {
@@ -317,13 +490,14 @@
    ]
   },
   {
-   "q": "In 'Cairo Station', which famous director also played the lead role of Qinawi, the newspaper seller?",
-   "a": "Youssef Chahine",
+   "q": "In 'Cairo Station', what is the name of the lame newspaper seller played by the director himself?",
+   "a": "Qinawi",
    "p": 400,
-   "ar": "يوسف شاهين",
+   "ar": "قناوي",
    "alt": [
-    "Chahine",
-    "Yousef Chahine"
+    "Kenawi",
+    "Qenawi",
+    "Qinawy"
    ]
   },
   {
@@ -345,26 +519,6 @@
     "Al Mummia",
     "Mummy",
     "Al-Mumiya"
-   ]
-  },
-  {
-   "q": "Which novelist wrote the book that 'The Yacoubian Building' (2006) was adapted from?",
-   "a": "Alaa Al Aswany",
-   "p": 400,
-   "ar": "علاء الأسواني",
-   "alt": [
-    "Alaa Al-Aswany",
-    "Alaa El Aswany"
-   ]
-  },
-  {
-   "q": "In which 1994 film does Adel Imam play a militant who ends up hiding with a middle-class family?",
-   "a": "Al Irhabi",
-   "p": 400,
-   "ar": "الإرهابي",
-   "alt": [
-    "The Terrorist",
-    "Al-Irhabi"
    ]
   },
   {
@@ -400,17 +554,6 @@
    ]
   },
   {
-   "q": "Youssef Chahine's 1963 epic 'Al Nasser Salah Al Din' is about which sultan?",
-   "a": "Saladin",
-   "p": 400,
-   "ar": "صلاح الدين",
-   "alt": [
-    "Salah Al Din",
-    "Salahuddin",
-    "Salah ad-Din"
-   ]
-  },
-  {
    "q": "In which 1984 film does Ahmed Zaki play an Egyptian worker who makes his fortune in Germany?",
    "a": "Al Nimr Al Aswad",
    "p": 400,
@@ -419,15 +562,6 @@
     "The Black Tiger",
     "Black Panther",
     "El Nemr El Aswad"
-   ]
-  },
-  {
-   "q": "Which actor played Gamal Abdel Nasser in the 1996 film 'Nasser 56'?",
-   "a": "Ahmed Zaki",
-   "p": 400,
-   "ar": "أحمد زكي",
-   "alt": [
-    "Ahmad Zaki"
    ]
   },
   {
@@ -461,42 +595,12 @@
    ]
   },
   {
-   "q": "In which 2011 film does Ahmed Helmy play an overweight cartoonist?",
-   "a": "X-Large",
-   "p": 400,
-   "ar": "إكس لارج",
-   "alt": [
-    "XL",
-    "X Large"
-   ]
-  },
-  {
    "q": "What is the name of the Cairo International Film Festival's top prize?",
    "a": "Golden Pyramid",
    "p": 400,
    "ar": "الهرم الذهبي",
    "alt": [
     "The Golden Pyramid Award"
-   ]
-  },
-  {
-   "q": "Which Red Sea resort town has hosted an international film festival since 2017?",
-   "a": "El Gouna",
-   "p": 400,
-   "ar": "الجونة",
-   "alt": [
-    "Gouna",
-    "Al Gouna"
-   ]
-  },
-  {
-   "q": "What was Omar Sharif's birth name?",
-   "a": "Michel Chalhoub",
-   "p": 400,
-   "ar": "ميشيل شلهوب",
-   "alt": [
-    "Michel Shalhoub",
-    "Michel Demitri Chalhoub"
    ]
   },
   {
@@ -507,44 +611,6 @@
    "alt": [
     "Sherif Ali ibn el Kharish",
     "Ali"
-   ]
-  },
-  {
-   "q": "In which Egyptian city was Omar Sharif born?",
-   "a": "Alexandria",
-   "p": 400,
-   "ar": "الإسكندرية",
-   "alt": [
-    "Iskandariya"
-   ]
-  },
-  {
-   "q": "Which 2008 film paired Adel Imam and Omar Sharif as a Christian and a Muslim who swap identities?",
-   "a": "Hassan wa Morcos",
-   "p": 400,
-   "ar": "حسن ومرقص",
-   "alt": [
-    "Hassan and Marcus",
-    "Hassan & Morcos"
-   ]
-  },
-  {
-   "q": "Which actress was nicknamed 'the Marilyn Monroe of the East'?",
-   "a": "Hind Rostom",
-   "p": 400,
-   "ar": "هند رستم",
-   "alt": [
-    "Hend Rostom",
-    "Hind Rustum"
-   ]
-  },
-  {
-   "q": "Which singer-actress was nicknamed 'Dalou'at Al Cinema' (the Darling of the Cinema)?",
-   "a": "Shadia",
-   "p": 400,
-   "ar": "شادية",
-   "alt": [
-    "Shadya"
    ]
   },
   {
@@ -568,26 +634,6 @@
    ]
   },
   {
-   "q": "Which comedian plays a timid school headmaster in the hit 'Al Nazer' (2000)?",
-   "a": "Alaa Wali El Din",
-   "p": 400,
-   "ar": "علاء ولي الدين",
-   "alt": [
-    "Alaa Waly El Din",
-    "Alaa Wali Eldin"
-   ]
-  },
-  {
-   "q": "Which action star led the films 'Mafia' (2002) and 'Tito' (2004)?",
-   "a": "Ahmed El Sakka",
-   "p": 400,
-   "ar": "أحمد السقا",
-   "alt": [
-    "Ahmed Al Sakka",
-    "El Sakka"
-   ]
-  },
-  {
    "q": "Who directed 'The Yacoubian Building', 'The Blue Elephant' and 'Kira & El Gin'?",
    "a": "Marwan Hamed",
    "p": 400,
@@ -595,12 +641,6 @@
    "alt": [
     "Marwan Hamid"
    ]
-  },
-  {
-   "q": "Youssef Chahine was born in which city, the subject of his autobiographical trilogy?",
-   "a": "Alexandria",
-   "p": 400,
-   "ar": "الإسكندرية"
   },
   {
    "q": "In which 1954 Youssef Chahine film did Omar Sharif make his screen debut opposite Faten Hamama?",
@@ -643,9 +683,34 @@
    ]
   },
   {
+   "q": "Which singer appears in Chahine's 'Al Maseer' and performs its famous song 'Ali Sotak'?",
+   "a": "Mohamed Mounir",
+   "p": 400,
+   "ar": "محمد منير",
+   "alt": [
+    "Mohammed Mounir",
+    "Mounir"
+   ]
+  },
+  {
+   "q": "Actress Hend Sabry, star of many Egyptian films, is originally from which country?",
+   "a": "Tunisia",
+   "p": 400,
+   "ar": "تونس"
+  },
+  {
+   "q": "Which 1950s and 60s heartthrob was nicknamed 'Al Wad Al Shaqi' (the naughty boy)?",
+   "a": "Ahmed Ramzy",
+   "p": 400,
+   "ar": "أحمد رمزي",
+   "alt": [
+    "Ahmed Ramzi"
+   ]
+  },
+  {
    "q": "In 1997, which Egyptian director received the 50th Anniversary Prize at Cannes for his life's work?",
    "a": "Youssef Chahine",
-   "p": 600,
+   "p": 400,
    "ar": "يوسف شاهين",
    "alt": [
     "Chahine"
@@ -654,12 +719,381 @@
   {
    "q": "Which Youssef Chahine film, the first of his Alexandria trilogy, won the Silver Bear in Berlin in 1979?",
    "a": "Alexandria... Why?",
-   "p": 600,
+   "p": 400,
    "ar": "إسكندرية ليه",
    "alt": [
     "Iskanderija Leh",
     "Alexandria Why",
     "Eskendereya Leh"
+   ]
+  },
+  {
+   "q": "Which actress played Hanouma, the lemonade seller, in 'Cairo Station'?",
+   "a": "Hind Rostom",
+   "p": 400,
+   "ar": "هند رستم",
+   "alt": [
+    "Hend Rostom"
+   ]
+  },
+  {
+   "q": "What is the name of Adel Imam's ageing aristocrat character in 'The Yacoubian Building'?",
+   "a": "Zaki Bey",
+   "p": 400,
+   "ar": "زكي بيه",
+   "alt": [
+    "Zaki El Dessouki",
+    "Zaki Bey El Dessouki",
+    "Zaki"
+   ]
+  },
+  {
+   "q": "Who directed 'Terrorism and Kebab' and 'Al Mansi'?",
+   "a": "Sherif Arafa",
+   "p": 400,
+   "ar": "شريف عرفة",
+   "alt": [
+    "Sherif Arafah"
+   ]
+  },
+  {
+   "q": "Which 1991 film stars Mahmoud Abdel Aziz as Sheikh Hosny, a blind man who insists he can see?",
+   "a": "Al Kit Kat",
+   "p": 400,
+   "ar": "الكيت كات",
+   "alt": [
+    "El Kit Kat",
+    "Kit Kat"
+   ]
+  },
+  {
+   "q": "'Doa Al Karawan' (The Nightingale's Prayer, 1959) is based on a novel by which writer, called 'the Dean of Arabic Literature'?",
+   "a": "Taha Hussein",
+   "p": 400,
+   "ar": "طه حسين",
+   "alt": [
+    "Taha Husayn"
+   ]
+  },
+  {
+   "q": "In which 2003 French film did Omar Sharif win the César for Best Actor?",
+   "a": "Monsieur Ibrahim",
+   "p": 400,
+   "alt": [
+    "Monsieur Ibrahim and the Flowers of the Koran",
+    "Monsieur Ibrahim et les fleurs du Coran"
+   ]
+  },
+  {
+   "q": "Which 1955 film starred Faten Hamama alongside both Omar Sharif and Abdel Halim Hafez?",
+   "a": "Ayamna El Helwa",
+   "p": 400,
+   "ar": "أيامنا الحلوة",
+   "alt": [
+    "Our Beautiful Days",
+    "Ayyamuna al-Helwa",
+    "Our Sweet Days"
+   ]
+  },
+  {
+   "q": "Which 2021 Egyptian film, about a man turned into a chicken by a magician, won the Critics' Week Grand Prize at Cannes?",
+   "a": "Feathers",
+   "p": 400,
+   "ar": "ريش",
+   "alt": [
+    "Rish",
+    "Reesh"
+   ]
+  },
+  {
+   "q": "In which 1991 Adel Imam film, inspired by 'The Magnificent Seven', does he play a hired fighter defending a village?",
+   "a": "Shams El Zanaty",
+   "p": 400,
+   "ar": "شمس الزناتي",
+   "alt": [
+    "Shams Al Zanati"
+   ]
+  },
+  {
+   "q": "Which 1999 Hollywood action film starring Antonio Banderas features Omar Sharif as Melchisidek?",
+   "a": "The 13th Warrior",
+   "p": 400,
+   "alt": [
+    "13th Warrior",
+    "The Thirteenth Warrior"
+   ]
+  },
+  {
+   "q": "Which 2017 Amr Salama film follows an imam who was obsessed with Michael Jackson as a teenager?",
+   "a": "Sheikh Jackson",
+   "p": 400,
+   "ar": "شيخ جاكسون"
+  },
+  {
+   "q": "Which Egyptian actor appeared in 'Syriana' and 'Salmon Fishing in the Yemen'?",
+   "a": "Amr Waked",
+   "p": 400,
+   "ar": "عمرو واكد",
+   "alt": [
+    "Amr Wakid"
+   ]
+  },
+  {
+   "q": "Which Egyptian actor played the Mullah in Ridley Scott's 'Kingdom of Heaven'?",
+   "a": "Khaled El Nabawy",
+   "p": 400,
+   "ar": "خالد النبوي",
+   "alt": [
+    "Khaled Al Nabawy",
+    "Khalid El Nabawi"
+   ]
+  },
+  {
+   "q": "Which Egyptian director, known for 'Clash' and 'Cairo 678', directed episodes of Marvel's 'Moon Knight'?",
+   "a": "Mohamed Diab",
+   "p": 400,
+   "ar": "محمد دياب",
+   "alt": [
+    "Mohammed Diab"
+   ]
+  },
+  {
+   "q": "Which actor plays the young Abdel Halim in 'Halim', alongside his famous father?",
+   "a": "Haitham Ahmed Zaki",
+   "p": 400,
+   "ar": "هيثم أحمد زكي",
+   "alt": [
+    "Haitham Zaki"
+   ]
+  },
+  {
+   "q": "Which 2007 Ahmed El Sakka film is a crime saga set among Upper Egyptian clans?",
+   "a": "El Gezira",
+   "p": 400,
+   "ar": "الجزيرة",
+   "alt": [
+    "The Island",
+    "Al Gezira",
+    "Al Jazira"
+   ]
+  },
+  {
+   "q": "Which 2015 heist film stars Ahmed Ezz as the eldest of four brothers?",
+   "a": "Welad Rizk",
+   "p": 400,
+   "ar": "ولاد رزق",
+   "alt": [
+    "Sons of Rizk",
+    "Awlad Rizk"
+   ]
+  },
+  {
+   "q": "Which 2022 epic, set during the 1919 revolution, pairs Karim Abdel Aziz and Ahmed Ezz?",
+   "a": "Kira & El Gin",
+   "p": 400,
+   "ar": "كيرة والجن",
+   "alt": [
+    "Kira and El Gin",
+    "Kira w El Gin"
+   ]
+  },
+  {
+   "q": "Which Egyptian actress joined Karim Abdel Aziz in 'The Blue Elephant 2' (2019)?",
+   "a": "Hend Sabry",
+   "p": 400,
+   "ar": "هند صبري",
+   "alt": [
+    "Hind Sabri"
+   ]
+  },
+  {
+   "q": "Which director made 'Ismail Yassin in the Army' and 'Al Zawga 13'?",
+   "a": "Fatin Abdel Wahab",
+   "p": 400,
+   "ar": "فطين عبد الوهاب",
+   "alt": [
+    "Fateen Abdel Wahab"
+   ]
+  },
+  {
+   "q": "Which actor-director, Laila Murad's husband, starred alongside her in 'Ghazal Al Banat'?",
+   "a": "Anwar Wagdi",
+   "p": 400,
+   "ar": "أنور وجدي",
+   "alt": [
+    "Anwar Wagdy"
+   ]
+  },
+  {
+   "q": "Which actor played Shadia's husband in the 1966 comedy where she becomes his boss at work?",
+   "a": "Salah Zulfikar",
+   "p": 400,
+   "ar": "صلاح ذو الفقار",
+   "alt": [
+    "Salah Zulficar",
+    "Salah Zulfiqar"
+   ]
+  },
+  {
+   "q": "Which 1970s heartthrob later served as president of the Cairo International Film Festival?",
+   "a": "Hussein Fahmy",
+   "p": 400,
+   "ar": "حسين فهمي",
+   "alt": [
+    "Hussein Fahmi",
+    "Hussain Fahmy"
+   ]
+  },
+  {
+   "q": "Which 1949 musical comedy has Samia Gamal as a genie who helps Farid al-Atrash?",
+   "a": "Afrita Hanem",
+   "p": 400,
+   "ar": "عفريتة هانم",
+   "alt": [
+    "Madame Genie",
+    "Little Miss Devil",
+    "Afreeta Hanem"
+   ]
+  },
+  {
+   "q": "In which city is Egypt's huge Media Production City, with its outdoor film sets?",
+   "a": "6th of October City",
+   "p": 400,
+   "ar": "مدينة 6 أكتوبر",
+   "alt": [
+    "Sixth of October",
+    "6 October City",
+    "October City"
+   ]
+  },
+  {
+   "q": "Which 2004 Chahine film continues his Alexandria series and is set partly in the United States?",
+   "a": "Alexandria... New York",
+   "p": 400,
+   "ar": "إسكندرية نيويورك",
+   "alt": [
+    "Alexandria New York",
+    "Iskandariya New York"
+   ]
+  },
+  {
+   "q": "Which son of Omar Sharif and Faten Hamama played the young Yuri in 'Doctor Zhivago'?",
+   "a": "Tarek Sharif",
+   "p": 400,
+   "ar": "طارق الشريف",
+   "alt": [
+    "Tarek El Sharif",
+    "Tarek Omar Sharif"
+   ]
+  },
+  {
+   "q": "Which future action star co-starred with Henedy in 'Saidi fil Gamaa El Amrikia'?",
+   "a": "Ahmed El Sakka",
+   "p": 400,
+   "ar": "أحمد السقا",
+   "alt": [
+    "Ahmed Al Sakka"
+   ]
+  },
+  {
+   "q": "Which singer, known as 'the Little Najat', was Soad Hosny's half-sister?",
+   "a": "Najat Al Saghira",
+   "p": 400,
+   "ar": "نجاة الصغيرة",
+   "alt": [
+    "Najat",
+    "Nagat El Saghira"
+   ]
+  },
+  {
+   "q": "Adel Imam's nickname 'Al Zaeem' comes from a 1993 work of what kind?",
+   "a": "A stage play",
+   "p": 400,
+   "ar": "مسرحية",
+   "alt": [
+    "Play",
+    "Theatre play",
+    "Stage play"
+   ]
+  },
+  {
+   "q": "Which 1975 Faten Hamama film about a wife fighting for a divorce has a title meaning 'I Want a Solution'?",
+   "a": "Oreed Hallan",
+   "p": 600,
+   "ar": "أريد حلاً",
+   "alt": [
+    "Urid Hallan",
+    "I Want a Solution",
+    "Uridu Hallan"
+   ]
+  },
+  {
+   "q": "Which 1993 Daoud Abdel Sayed film was Faten Hamama's last?",
+   "a": "Ard El Ahlam",
+   "p": 600,
+   "ar": "أرض الأحلام",
+   "alt": [
+    "Land of Dreams",
+    "Ard Al Ahlam"
+   ]
+  },
+  {
+   "q": "Who directed the 1994 Adel Imam film 'Al Irhabi'?",
+   "a": "Nader Galal",
+   "p": 600,
+   "ar": "نادر جلال",
+   "alt": [
+    "Nader Jalal"
+   ]
+  },
+  {
+   "q": "Which playwright wrote the screenplay of 'Al Irhabi' (1994)?",
+   "a": "Lenin El-Ramly",
+   "p": 600,
+   "ar": "لينين الرملي",
+   "alt": [
+    "Lenin El Ramly",
+    "Lenin Al Ramli"
+   ]
+  },
+  {
+   "q": "Which 1986 Atef El Tayeb film stars Ahmed Zaki as a young clerk too poor to find a flat for his bride?",
+   "a": "Al Hob Fawq Hadabat Al Haram",
+   "p": 600,
+   "ar": "الحب فوق هضبة الهرم",
+   "alt": [
+    "Love on the Pyramids Plateau",
+    "Love on the Pyramids' Plateau"
+   ]
+  },
+  {
+   "q": "Which 1952 Henry Barakat musical paired Farid al-Atrash with Faten Hamama?",
+   "a": "Lahn Al Kholood",
+   "p": 600,
+   "ar": "لحن الخلود",
+   "alt": [
+    "Melody of Eternity",
+    "Lahn El Kholoud"
+   ]
+  },
+  {
+   "q": "Which 1957 Fatin Abdel Wahab comedy has Ismail Yassin and Ahmed Ramzy as policemen working undercover among fishermen?",
+   "a": "Ibn Hamido",
+   "p": 600,
+   "ar": "ابن حميدو",
+   "alt": [
+    "Ebn Hamido",
+    "Son of Hamido"
+   ]
+  },
+  {
+   "q": "Which 2019 Egyptian animated feature, years in the making, tells the story of the young hero Mohammed bin Al Qasim?",
+   "a": "The Knight and the Princess",
+   "p": 600,
+   "ar": "الفارس والأميرة",
+   "alt": [
+    "Al Fares wal Amira",
+    "El Fares wel Amira"
    ]
   },
   {
@@ -693,15 +1127,6 @@
    ]
   },
   {
-   "q": "Which actress played Hanouma, the lemonade seller, in 'Cairo Station'?",
-   "a": "Hind Rostom",
-   "p": 600,
-   "ar": "هند رستم",
-   "alt": [
-    "Hend Rostom"
-   ]
-  },
-  {
    "q": "'The Night of Counting the Years' is based on the 1881 discovery of a cache of royal mummies near which Luxor site?",
    "a": "Deir el-Bahari",
    "p": 600,
@@ -710,26 +1135,6 @@
     "Deir Al Bahari",
     "Deir el Bahri",
     "Dayr al-Bahri"
-   ]
-  },
-  {
-   "q": "What is the name of Adel Imam's ageing aristocrat character in 'The Yacoubian Building'?",
-   "a": "Zaki Bey",
-   "p": 600,
-   "ar": "زكي بيه",
-   "alt": [
-    "Zaki El Dessouki",
-    "Zaki Bey El Dessouki",
-    "Zaki"
-   ]
-  },
-  {
-   "q": "Who directed 'Terrorism and Kebab' and 'Al Mansi'?",
-   "a": "Sherif Arafa",
-   "p": 600,
-   "ar": "شريف عرفة",
-   "alt": [
-    "Sherif Arafah"
    ]
   },
   {
@@ -763,16 +1168,6 @@
    ]
   },
   {
-   "q": "Which 1991 film stars Mahmoud Abdel Aziz as Sheikh Hosny, a blind man who insists he can see?",
-   "a": "Al Kit Kat",
-   "p": 600,
-   "ar": "الكيت كات",
-   "alt": [
-    "El Kit Kat",
-    "Kit Kat"
-   ]
-  },
-  {
    "q": "Who directed 'Al Kit Kat' (1991)?",
    "a": "Daoud Abdel Sayed",
    "p": 600,
@@ -793,15 +1188,6 @@
    ]
   },
   {
-   "q": "'Doa Al Karawan' (The Nightingale's Prayer, 1959) is based on a novel by which writer, called 'the Dean of Arabic Literature'?",
-   "a": "Taha Hussein",
-   "p": 600,
-   "ar": "طه حسين",
-   "alt": [
-    "Taha Husayn"
-   ]
-  },
-  {
    "q": "Which director made 'The Nightingale's Prayer' (1959) starring Faten Hamama?",
    "a": "Henry Barakat",
    "p": 600,
@@ -810,11 +1196,6 @@
     "Henri Barakat",
     "Barakat"
    ]
-  },
-  {
-   "q": "In which year was the Cairo International Film Festival first held?",
-   "a": "1976",
-   "p": 600
   },
   {
    "q": "At which Cairo venue is the Cairo International Film Festival mainly held?",
@@ -847,26 +1228,6 @@
    ]
   },
   {
-   "q": "In which 2003 French film did Omar Sharif win the César for Best Actor?",
-   "a": "Monsieur Ibrahim",
-   "p": 600,
-   "alt": [
-    "Monsieur Ibrahim and the Flowers of the Koran",
-    "Monsieur Ibrahim et les fleurs du Coran"
-   ]
-  },
-  {
-   "q": "Which 1955 film starred Faten Hamama alongside both Omar Sharif and Abdel Halim Hafez?",
-   "a": "Ayamna El Helwa",
-   "p": 600,
-   "ar": "أيامنا الحلوة",
-   "alt": [
-    "Our Beautiful Days",
-    "Ayyamuna al-Helwa",
-    "Our Sweet Days"
-   ]
-  },
-  {
    "q": "Which 1957 Abdel Halim Hafez romance has a title meaning 'The Empty Pillow'?",
    "a": "Al Wessada Al Khalia",
    "p": 600,
@@ -887,7 +1248,7 @@
    ]
   },
   {
-   "q": "Which dancer was Farid al-Atrash's most famous on-screen partner, including in 'Afrita Hanem'?",
+   "q": "Which dancer-actress was Farid al-Atrash's most famous on-screen partner?",
    "a": "Samia Gamal",
    "p": 600,
    "ar": "سامية جمال",
@@ -906,40 +1267,12 @@
    ]
   },
   {
-   "q": "Which 2021 Egyptian film, about a man turned into a chicken by a magician, won the Critics' Week Grand Prize at Cannes?",
-   "a": "Feathers",
-   "p": 600,
-   "ar": "ريش",
-   "alt": [
-    "Rish",
-    "Reesh"
-   ]
-  },
-  {
    "q": "Which 2018 film by A.B. Shawky, about a man cured of leprosy on a road trip, competed for the Palme d'Or?",
    "a": "Yomeddine",
    "p": 600,
    "ar": "يوم الدين",
    "alt": [
     "Yom El Din"
-   ]
-  },
-  {
-   "q": "In which 1991 Adel Imam film, inspired by 'The Magnificent Seven', does he play a hired fighter defending a village?",
-   "a": "Shams El Zanaty",
-   "p": 600,
-   "ar": "شمس الزناتي",
-   "alt": [
-    "Shams Al Zanati"
-   ]
-  },
-  {
-   "q": "Which 1999 Hollywood action film starring Antonio Banderas features Omar Sharif as Melchisidek?",
-   "a": "The 13th Warrior",
-   "p": 600,
-   "alt": [
-    "13th Warrior",
-    "The Thirteenth Warrior"
    ]
   },
   {
@@ -973,10 +1306,173 @@
    ]
   },
   {
-   "q": "Which 2017 Amr Salama film follows an imam who was obsessed with Michael Jackson as a teenager?",
-   "a": "Sheikh Jackson",
+   "q": "Which 1962 Kamal El Sheikh film adapts a Naguib Mahfouz novel about a released thief seeking revenge?",
+   "a": "The Thief and the Dogs",
    "p": 600,
-   "ar": "شيخ جاكسون"
+   "ar": "اللص والكلاب",
+   "alt": [
+    "Al Liss wal Kilab",
+    "El Less wel Kelab"
+   ]
+  },
+  {
+   "q": "Which 1965 Henry Barakat film starring Faten Hamama, about a poor rural labourer, competed at Cannes?",
+   "a": "Al Haram",
+   "p": 600,
+   "ar": "الحرام",
+   "alt": [
+    "The Sin",
+    "El Haram"
+   ]
+  },
+  {
+   "q": "In which 1956 Chahine drama set in Alexandria's port did Faten Hamama and Omar Sharif star together?",
+   "a": "Sira' fil Mina",
+   "p": 600,
+   "ar": "صراع في الميناء",
+   "alt": [
+    "Dark Waters",
+    "Struggle in the Pier",
+    "Seraa Fil Mina"
+   ]
+  },
+  {
+   "q": "Which actor played Abu Serih, the porters' leader, in 'Cairo Station'?",
+   "a": "Farid Shawqi",
+   "p": 600,
+   "ar": "فريد شوقي",
+   "alt": [
+    "Farid Shawky"
+   ]
+  },
+  {
+   "q": "Which 1990 Ahmed Zaki gangster film is an Egyptian take on 'Scarface'?",
+   "a": "Al Imbrator",
+   "p": 600,
+   "ar": "الإمبراطور",
+   "alt": [
+    "The Emperor",
+    "El Embrator"
+   ]
+  },
+  {
+   "q": "Which 1990 Khairy Beshara film stars Ahmed Zaki as a young boxer from a poor Cairo district?",
+   "a": "Kaboria",
+   "p": 600,
+   "ar": "كابوريا",
+   "alt": [
+    "Kabouria"
+   ]
+  },
+  {
+   "q": "Which 2000 Daoud Abdel Sayed film stars Ahmed Zaki as an undercover policeman who loses himself in the drug world?",
+   "a": "Ard El Khof",
+   "p": 600,
+   "ar": "أرض الخوف",
+   "alt": [
+    "Land of Fear",
+    "Ard Al Khawf"
+   ]
+  },
+  {
+   "q": "Which 1978 film stars Soad Hosny as a village woman, with Ahmed Zaki as her brother sent to dig the Suez Canal?",
+   "a": "Shafika wa Metwally",
+   "p": 600,
+   "ar": "شفيقة ومتولي",
+   "alt": [
+    "Shafika and Metwalli",
+    "Shafiqa wa Metwalli"
+   ]
+  },
+  {
+   "q": "Which journalist founded the Cairo International Film Festival?",
+   "a": "Kamal El Mallakh",
+   "p": 600,
+   "ar": "كمال الملاخ",
+   "alt": [
+    "Kamal Al Mallakh"
+   ]
+  },
+  {
+   "q": "In which city did Egypt's first film screening take place, in 1896?",
+   "a": "Alexandria",
+   "p": 600,
+   "ar": "الإسكندرية"
+  },
+  {
+   "q": "Which 1930 silent film by Mohammed Karim was adapted from the novel by Mohamed Hussein Heikal?",
+   "a": "Zeinab",
+   "p": 600,
+   "ar": "زينب",
+   "alt": [
+    "Zaynab"
+   ]
+  },
+  {
+   "q": "Which 2016 romantic drama by Hadi El Bagoury is framed by a professor's last lecture on love?",
+   "a": "Hepta",
+   "p": 600,
+   "ar": "هيبتا",
+   "alt": [
+    "Hepta: The Last Lecture"
+   ]
+  },
+  {
+   "q": "Which 2009 Ahmed El Sakka film, set in a Cairo slum, is named after its hero?",
+   "a": "Ibrahim Labyad",
+   "p": 600,
+   "ar": "إبراهيم الأبيض",
+   "alt": [
+    "Ibrahim El Abyad"
+   ]
+  },
+  {
+   "q": "Which actress played the mother of El Limby in the 2002 hit?",
+   "a": "Abla Kamel",
+   "p": 600,
+   "ar": "عبلة كامل",
+   "alt": [
+    "Abla Kamal"
+   ]
+  },
+  {
+   "q": "Who directed the 1992 Amr Diab film 'Ice Cream fi Gleem'?",
+   "a": "Khairy Beshara",
+   "p": 600,
+   "ar": "خيري بشارة",
+   "alt": [
+    "Khairy Bishara"
+   ]
+  },
+  {
+   "q": "Which actress played Salma opposite Tamer Hosny in 'Omar wa Salma'?",
+   "a": "Mai Ezz Eldin",
+   "p": 600,
+   "ar": "مي عز الدين",
+   "alt": [
+    "Mai Ezz El Din",
+    "May Ezz Eldin"
+   ]
+  },
+  {
+   "q": "Which actor played Averroes (Ibn Rushd) in Chahine's 'Al Maseer'?",
+   "a": "Nour El Sherif",
+   "p": 600,
+   "ar": "نور الشريف",
+   "alt": [
+    "Nour Al Sharif",
+    "Nour el-Sherif"
+   ]
+  },
+  {
+   "q": "Which 2005 thriller stars Ahmed Ezz as a lawyer, with a title meaning 'Alexandria Private'?",
+   "a": "Malaki Iskandariya",
+   "p": 600,
+   "ar": "ملاكي إسكندرية",
+   "alt": [
+    "Malaki Eskandaria",
+    "Alexandria Private"
+   ]
   }
  ]
 }

@@ -1,0 +1,1442 @@
+{
+ "id": "animals",
+ "name": "Animals",
+ "questions": [
+  {
+   "q": "Which white antelope with long straight horns, once extinct in the wild, was brought back to Arabia through breeding programmes?",
+   "a": "Arabian oryx",
+   "p": 200,
+   "ar": "المها العربي",
+   "alt": [
+    "Oryx",
+    "Maha"
+   ]
+  },
+  {
+   "q": "Which bird of prey is the national bird of the UAE?",
+   "a": "Falcon",
+   "p": 200,
+   "ar": "الصقر",
+   "alt": [
+    "Saqr"
+   ]
+  },
+  {
+   "q": "What does a camel's hump mainly store?",
+   "a": "Fat",
+   "p": 200
+  },
+  {
+   "q": "Which mammal is the only one capable of true flight?",
+   "a": "Bat",
+   "p": 200
+  },
+  {
+   "q": "Which Australian animal feeds almost only on eucalyptus leaves?",
+   "a": "Koala",
+   "p": 200
+  },
+  {
+   "q": "What does the giant panda mainly eat?",
+   "a": "Bamboo",
+   "p": 200
+  },
+  {
+   "q": "Which bird lays the largest eggs of any living bird?",
+   "a": "Ostrich",
+   "p": 200
+  },
+  {
+   "q": "Which flightless bird is a national symbol of New Zealand?",
+   "a": "Kiwi",
+   "p": 200
+  },
+  {
+   "q": "Which tiny bird can hover in place and even fly backwards?",
+   "a": "Hummingbird",
+   "p": 200
+  },
+  {
+   "q": "Which bird drums on tree trunks with its beak to find insects?",
+   "a": "Woodpecker",
+   "p": 200
+  },
+  {
+   "q": "Which lizard is famous for changing colour and moving its eyes independently?",
+   "a": "Chameleon",
+   "p": 200
+  },
+  {
+   "q": "Which snake spreads a hood when threatened?",
+   "a": "Cobra",
+   "p": 200
+  },
+  {
+   "q": "Which sea creature has five arms and can regrow lost ones?",
+   "a": "Starfish",
+   "p": 200,
+   "alt": [
+    "Sea star"
+   ]
+  },
+  {
+   "q": "In which sea creature does the male carry the eggs and give birth to the young?",
+   "a": "Seahorse",
+   "p": 200
+  },
+  {
+   "q": "Which orange-and-white fish lives among the stinging tentacles of sea anemones?",
+   "a": "Clownfish",
+   "p": 200,
+   "alt": [
+    "Anemonefish"
+   ]
+  },
+  {
+   "q": "Which fish puffs itself up into a spiky ball when threatened?",
+   "a": "Pufferfish",
+   "p": 200,
+   "alt": [
+    "Blowfish"
+   ]
+  },
+  {
+   "q": "Which shellfish produces natural pearls, once the basis of the Gulf's pearl-diving trade?",
+   "a": "Oyster",
+   "p": 200,
+   "ar": "محار",
+   "alt": [
+    "Pearl oyster"
+   ]
+  },
+  {
+   "q": "Which crab lives inside empty shells, moving to bigger ones as it grows?",
+   "a": "Hermit crab",
+   "p": 200
+  },
+  {
+   "q": "How many legs does a spider have?",
+   "a": "Eight",
+   "p": 200,
+   "alt": [
+    "8"
+   ]
+  },
+  {
+   "q": "Which caterpillar spins the cocoon used to make silk?",
+   "a": "Silkworm",
+   "p": 200
+  },
+  {
+   "q": "What is a baby goat called?",
+   "a": "Kid",
+   "p": 200
+  },
+  {
+   "q": "What is a baby horse called?",
+   "a": "Foal",
+   "p": 200
+  },
+  {
+   "q": "What is a baby deer called?",
+   "a": "Fawn",
+   "p": 200
+  },
+  {
+   "q": "What is a baby frog called before it grows legs?",
+   "a": "Tadpole",
+   "p": 200
+  },
+  {
+   "q": "What is a baby dog called?",
+   "a": "Puppy",
+   "p": 200,
+   "alt": [
+    "Pup"
+   ]
+  },
+  {
+   "q": "What is a baby cat called?",
+   "a": "Kitten",
+   "p": 200
+  },
+  {
+   "q": "What is a baby bear or lion called?",
+   "a": "Cub",
+   "p": 200
+  },
+  {
+   "q": "What is a group of wolves called?",
+   "a": "Pack",
+   "p": 200
+  },
+  {
+   "q": "What is a group of dolphins or whales called?",
+   "a": "Pod",
+   "p": 200
+  },
+  {
+   "q": "What is a group of fish swimming together called?",
+   "a": "School",
+   "p": 200,
+   "alt": [
+    "Shoal"
+   ]
+  },
+  {
+   "q": "What is a group of cows or elephants called?",
+   "a": "Herd",
+   "p": 200
+  },
+  {
+   "q": "What is the name for an animal that eats both plants and meat?",
+   "a": "Omnivore",
+   "p": 200
+  },
+  {
+   "q": "What is the name for an animal that eats only plants?",
+   "a": "Herbivore",
+   "p": 200
+  },
+  {
+   "q": "What is the name for an animal that is active at night and sleeps during the day?",
+   "a": "Nocturnal",
+   "p": 200
+  },
+  {
+   "q": "What is the deep winter sleep of animals like bears called?",
+   "a": "Hibernation",
+   "p": 200
+  },
+  {
+   "q": "What do we call an animal with a backbone?",
+   "a": "Vertebrate",
+   "p": 200
+  },
+  {
+   "q": "What is the largest fish in the world?",
+   "a": "Whale shark",
+   "p": 200
+  },
+  {
+   "q": "Which insect starts life as a caterpillar?",
+   "a": "Butterfly",
+   "p": 200,
+   "alt": [
+    "Moth"
+   ]
+  },
+  {
+   "q": "Which striped African animal is closely related to the horse?",
+   "a": "Zebra",
+   "p": 200
+  },
+  {
+   "q": "Which animal is known as the 'ship of the desert'?",
+   "a": "Camel",
+   "p": 200,
+   "ar": "الجمل",
+   "alt": [
+    "Jamal"
+   ]
+  },
+  {
+   "q": "Which small desert fox has huge ears that help it lose heat?",
+   "a": "Fennec fox",
+   "p": 200,
+   "alt": [
+    "Fennec"
+   ]
+  },
+  {
+   "q": "Which African animal's name comes from the Greek for 'river horse'?",
+   "a": "Hippopotamus",
+   "p": 200,
+   "alt": [
+    "Hippo"
+   ]
+  },
+  {
+   "q": "Which large ape has orange-red hair and lives in Borneo and Sumatra?",
+   "a": "Orangutan",
+   "p": 200
+  },
+  {
+   "q": "Which marsupial from Tasmania is known for its loud screech and powerful bite?",
+   "a": "Tasmanian devil",
+   "p": 400
+  },
+  {
+   "q": "What do bees collect from flowers to make honey?",
+   "a": "Nectar",
+   "p": 200
+  },
+  {
+   "q": "Which bird's male has a huge fan of colourful tail feathers with 'eyes'?",
+   "a": "Peacock",
+   "p": 200,
+   "alt": [
+    "Peafowl"
+   ]
+  },
+  {
+   "q": "What hard material are rhino horns made of, the same as human hair and nails?",
+   "a": "Keratin",
+   "p": 400
+  },
+  {
+   "q": "Which large bustard, famously hunted with falcons, is protected by breeding programmes in the UAE?",
+   "a": "Houbara bustard",
+   "p": 400,
+   "ar": "الحبارى",
+   "alt": [
+    "Houbara",
+    "Hubara"
+   ]
+  },
+  {
+   "q": "Which large marine mammal, sometimes called a 'sea cow', grazes on seagrass in the waters off Abu Dhabi?",
+   "a": "Dugong",
+   "p": 400,
+   "ar": "الأطوم",
+   "alt": [
+    "Sea cow"
+   ]
+  },
+  {
+   "q": "Which critically endangered big cat survives in the mountains of Oman and Yemen?",
+   "a": "Arabian leopard",
+   "p": 400,
+   "ar": "النمر العربي"
+  },
+  {
+   "q": "Which ancient hunting dog breed of the Arabian desert is prized for its speed?",
+   "a": "Saluki",
+   "p": 400,
+   "ar": "السلوقي"
+  },
+  {
+   "q": "What is the one-humped camel called?",
+   "a": "Dromedary",
+   "p": 400,
+   "alt": [
+    "Arabian camel"
+   ]
+  },
+  {
+   "q": "What is the two-humped camel of Central Asia called?",
+   "a": "Bactrian camel",
+   "p": 400,
+   "alt": [
+    "Bactrian"
+   ]
+  },
+  {
+   "q": "Which pink wading birds gather at Dubai's Ras Al Khor wildlife sanctuary?",
+   "a": "Flamingos",
+   "p": 400,
+   "alt": [
+    "Greater flamingo",
+    "Flamingo"
+   ]
+  },
+  {
+   "q": "Which spiny-tailed desert lizard is known in Arabic as the dhub?",
+   "a": "Spiny-tailed lizard",
+   "p": 400,
+   "ar": "الضب",
+   "alt": [
+    "Dhub",
+    "Dhab",
+    "Uromastyx"
+   ]
+  },
+  {
+   "q": "Which spotted grouper is one of the Gulf's favourite fish to eat?",
+   "a": "Hammour",
+   "p": 400,
+   "ar": "هامور",
+   "alt": [
+    "Orange-spotted grouper"
+   ]
+  },
+  {
+   "q": "What is the name for a group of crows?",
+   "a": "Murder",
+   "p": 400,
+   "alt": [
+    "A murder"
+   ]
+  },
+  {
+   "q": "What is the name for a group of owls?",
+   "a": "Parliament",
+   "p": 400,
+   "alt": [
+    "A parliament"
+   ]
+  },
+  {
+   "q": "What is the name for a group of geese on the ground?",
+   "a": "Gaggle",
+   "p": 400
+  },
+  {
+   "q": "What is a baby swan called?",
+   "a": "Cygnet",
+   "p": 400
+  },
+  {
+   "q": "What is a baby goose called?",
+   "a": "Gosling",
+   "p": 400
+  },
+  {
+   "q": "What is a baby owl called?",
+   "a": "Owlet",
+   "p": 400
+  },
+  {
+   "q": "Which Arctic whale is called the 'unicorn of the sea' for its long spiral tusk?",
+   "a": "Narwhal",
+   "p": 400
+  },
+  {
+   "q": "About how long is an African elephant's pregnancy?",
+   "a": "About 22 months",
+   "p": 400,
+   "alt": [
+    "22 months",
+    "Nearly two years"
+   ]
+  },
+  {
+   "q": "What do we call mammals like kangaroos that carry their young in a pouch?",
+   "a": "Marsupials",
+   "p": 400
+  },
+  {
+   "q": "What is the name for the way bats and dolphins find things using sound echoes?",
+   "a": "Echolocation",
+   "p": 400
+  },
+  {
+   "q": "Which large black-and-white 'whale' is actually the biggest member of the dolphin family?",
+   "a": "Orca",
+   "p": 400,
+   "alt": [
+    "Killer whale"
+   ]
+  },
+  {
+   "q": "On which island country do all wild lemurs live?",
+   "a": "Madagascar",
+   "p": 400
+  },
+  {
+   "q": "What is the largest rodent in the world, from South America?",
+   "a": "Capybara",
+   "p": 400
+  },
+  {
+   "q": "Which egg-laying mammal from Australia has a duck-like bill?",
+   "a": "Platypus",
+   "p": 400,
+   "alt": [
+    "Duck-billed platypus"
+   ]
+  },
+  {
+   "q": "What colour is a polar bear's skin under its fur?",
+   "a": "Black",
+   "p": 400
+  },
+  {
+   "q": "About how far can an owl turn its head?",
+   "a": "About 270 degrees",
+   "p": 400,
+   "alt": [
+    "270 degrees",
+    "Three-quarters of a circle"
+   ]
+  },
+  {
+   "q": "What gives flamingos their pink colour?",
+   "a": "Their food",
+   "p": 400,
+   "alt": [
+    "Shrimp and algae",
+    "Carotenoids in their diet"
+   ]
+  },
+  {
+   "q": "What is a female peacock called?",
+   "a": "Peahen",
+   "p": 400
+  },
+  {
+   "q": "Which flightless bird was last seen on Mauritius in the 17th century?",
+   "a": "Dodo",
+   "p": 400
+  },
+  {
+   "q": "Which bird is famous for laying its eggs in other birds' nests?",
+   "a": "Cuckoo",
+   "p": 400
+  },
+  {
+   "q": "Which crested bird is called the hudhud in Arabic?",
+   "a": "Hoopoe",
+   "p": 400,
+   "ar": "الهدهد",
+   "alt": [
+    "Hudhud"
+   ]
+  },
+  {
+   "q": "Which giant lizard lives on Komodo and nearby Indonesian islands?",
+   "a": "Komodo dragon",
+   "p": 400
+  },
+  {
+   "q": "Which reptile can climb glass thanks to millions of tiny hairs on its toes?",
+   "a": "Gecko",
+   "p": 400
+  },
+  {
+   "q": "Which islands are famous for their giant tortoises studied by Darwin?",
+   "a": "Galapagos Islands",
+   "p": 400,
+   "alt": [
+    "Galápagos"
+   ]
+  },
+  {
+   "q": "Which Mexican salamander keeps its feathery gills its whole life and can regrow limbs?",
+   "a": "Axolotl",
+   "p": 400
+  },
+  {
+   "q": "Which tiny, brightly coloured frogs of South American rainforests have toxic skin?",
+   "a": "Poison dart frogs",
+   "p": 400,
+   "alt": [
+    "Poison frogs",
+    "Dart frogs"
+   ]
+  },
+  {
+   "q": "What is the change from tadpole to frog or caterpillar to butterfly called?",
+   "a": "Metamorphosis",
+   "p": 400
+  },
+  {
+   "q": "What is a shark's skeleton made of instead of bone?",
+   "a": "Cartilage",
+   "p": 400
+  },
+  {
+   "q": "What colour is an octopus's blood?",
+   "a": "Blue",
+   "p": 400
+  },
+  {
+   "q": "What animals build coral reefs?",
+   "a": "Coral polyps",
+   "p": 400,
+   "alt": [
+    "Corals",
+    "Polyps"
+   ]
+  },
+  {
+   "q": "Which deep-sea fish uses a glowing lure on its head to attract prey?",
+   "a": "Anglerfish",
+   "p": 400
+  },
+  {
+   "q": "Which whale is famous for its long, complex songs?",
+   "a": "Humpback whale",
+   "p": 400,
+   "alt": [
+    "Humpback"
+   ]
+  },
+  {
+   "q": "Which marine mammal often floats on its back and uses stones to crack open shellfish?",
+   "a": "Sea otter",
+   "p": 400
+  },
+  {
+   "q": "With which body part do butterflies taste?",
+   "a": "Their feet",
+   "p": 400,
+   "alt": [
+    "Feet"
+   ]
+  },
+  {
+   "q": "Which beetles produce light from their abdomen to attract mates?",
+   "a": "Fireflies",
+   "p": 400,
+   "alt": [
+    "Firefly",
+    "Lightning bugs"
+   ]
+  },
+  {
+   "q": "Which orange butterfly migrates thousands of kilometres between Canada and Mexico?",
+   "a": "Monarch butterfly",
+   "p": 400,
+   "alt": [
+    "Monarch"
+   ]
+  },
+  {
+   "q": "In mosquitoes, which sex bites to drink blood?",
+   "a": "Female",
+   "p": 400,
+   "alt": [
+    "Females"
+   ]
+  },
+  {
+   "q": "Which insect forms huge swarms that can destroy crops across Africa and Arabia?",
+   "a": "Desert locust",
+   "p": 400,
+   "ar": "الجراد",
+   "alt": [
+    "Locust"
+   ]
+  },
+  {
+   "q": "Which beetle was sacred in ancient Egypt?",
+   "a": "Scarab",
+   "p": 400,
+   "alt": [
+    "Dung beetle",
+    "Scarab beetle"
+   ]
+  },
+  {
+   "q": "What is the hard case a caterpillar forms before becoming a butterfly?",
+   "a": "Chrysalis",
+   "p": 400,
+   "alt": [
+    "Pupa"
+   ]
+  },
+  {
+   "q": "What do we call an animal's ability to blend into its surroundings?",
+   "a": "Camouflage",
+   "p": 200
+  },
+  {
+   "q": "What do we call an animal whose body temperature depends on its surroundings, like a lizard?",
+   "a": "Cold-blooded",
+   "p": 400,
+   "alt": [
+    "Ectotherm",
+    "Ectothermic"
+   ]
+  },
+  {
+   "q": "What is the name for the place where bees live?",
+   "a": "Hive",
+   "p": 200,
+   "alt": [
+    "Beehive"
+   ]
+  },
+  {
+   "q": "Which bird of prey reaches the highest speeds of any animal when diving onto prey?",
+   "a": "Peregrine falcon",
+   "p": 400,
+   "alt": [
+    "Peregrine"
+   ]
+  },
+  {
+   "q": "Which Arabian desert cat, with tufted black ears, can leap high to catch birds?",
+   "a": "Caracal",
+   "p": 400
+  },
+  {
+   "q": "Which sea turtle, with a beak-like mouth, nests on beaches in the UAE and is critically endangered?",
+   "a": "Hawksbill turtle",
+   "p": 600,
+   "alt": [
+    "Hawksbill"
+   ]
+  },
+  {
+   "q": "Which wild goat of the Hajar Mountains is found only in Oman and the UAE?",
+   "a": "Arabian tahr",
+   "p": 600,
+   "ar": "الطهر العربي"
+  },
+  {
+   "q": "Which slender gazelle of the Arabian sands is called reem in Arabic?",
+   "a": "Arabian sand gazelle",
+   "p": 600,
+   "ar": "الريم",
+   "alt": [
+    "Reem",
+    "Rhim gazelle",
+    "Sand gazelle"
+   ]
+  },
+  {
+   "q": "What is the name of the Gulf's traditional rope-and-cage fish trap?",
+   "a": "Gargoor",
+   "p": 600,
+   "ar": "قرقور",
+   "alt": [
+    "Gargour",
+    "Qarqur"
+   ]
+  },
+  {
+   "q": "Which arachnid of Arabian deserts, often called a camel spider, is not a true spider?",
+   "a": "Solifuge",
+   "p": 600,
+   "alt": [
+    "Sun spider",
+    "Wind scorpion",
+    "Solifugid"
+   ]
+  },
+  {
+   "q": "What is the name for a group of flamingos?",
+   "a": "Flamboyance",
+   "p": 600
+  },
+  {
+   "q": "What is the name for a group of rhinos?",
+   "a": "Crash",
+   "p": 600
+  },
+  {
+   "q": "What is the name for a group of standing giraffes?",
+   "a": "Tower",
+   "p": 600
+  },
+  {
+   "q": "What is the name for a huge swirling flock of starlings?",
+   "a": "Murmuration",
+   "p": 600
+  },
+  {
+   "q": "What is the name for a group of hyenas?",
+   "a": "Cackle",
+   "p": 600
+  },
+  {
+   "q": "What is the name for a group of jellyfish?",
+   "a": "Smack",
+   "p": 600,
+   "alt": [
+    "Bloom"
+   ]
+  },
+  {
+   "q": "What is a baby hare called?",
+   "a": "Leveret",
+   "p": 600
+  },
+  {
+   "q": "What is a young eel called?",
+   "a": "Elver",
+   "p": 600,
+   "alt": [
+    "Glass eel"
+   ]
+  },
+  {
+   "q": "What is a baby echidna or platypus called?",
+   "a": "Puggle",
+   "p": 600
+  },
+  {
+   "q": "Which two kinds of mammals lay eggs?",
+   "a": "Platypus and echidna",
+   "p": 600,
+   "alt": [
+    "Monotremes"
+   ]
+  },
+  {
+   "q": "Which Australian marsupial produces cube-shaped droppings?",
+   "a": "Wombat",
+   "p": 600
+  },
+  {
+   "q": "Which forest animal of Central Africa looks like a zebra-legged horse but is the giraffe's closest relative?",
+   "a": "Okapi",
+   "p": 600
+  },
+  {
+   "q": "Which scaly mammal rolls into a ball and is covered in keratin plates?",
+   "a": "Pangolin",
+   "p": 600
+  },
+  {
+   "q": "Which bird has the largest wingspan of any living bird?",
+   "a": "Wandering albatross",
+   "p": 600,
+   "alt": [
+    "Albatross"
+   ]
+  },
+  {
+   "q": "Which ancient reptile of New Zealand looks like a lizard but belongs to its own separate order?",
+   "a": "Tuatara",
+   "p": 600
+  },
+  {
+   "q": "What is the scientific word for a snake or lizard shedding its skin?",
+   "a": "Ecdysis",
+   "p": 600,
+   "alt": [
+    "Moulting",
+    "Molting"
+   ]
+  },
+  {
+   "q": "What sense organ in the roof of a snake's mouth analyses the scents its tongue collects?",
+   "a": "Jacobson's organ",
+   "p": 600,
+   "alt": [
+    "Vomeronasal organ"
+   ]
+  },
+  {
+   "q": "Which venomous lizard of the south-western USA is named after a river in Arizona?",
+   "a": "Gila monster",
+   "p": 600
+  },
+  {
+   "q": "Which snake eats mostly other snakes and is the longest venomous snake?",
+   "a": "King cobra",
+   "p": 600
+  },
+  {
+   "q": "Which fish that gives off powerful electric shocks is actually a knifefish, not a true eel?",
+   "a": "Electric eel",
+   "p": 600
+  },
+  {
+   "q": "Which insects navigate at night using the light of the Milky Way?",
+   "a": "Dung beetles",
+   "p": 600,
+   "alt": [
+    "Dung beetle"
+   ]
+  },
+  {
+   "q": "What is the name of the dance honeybees use to tell others where food is?",
+   "a": "Waggle dance",
+   "p": 600
+  },
+  {
+   "q": "How many eyes does a honeybee have?",
+   "a": "Five",
+   "p": 600,
+   "alt": [
+    "5"
+   ]
+  },
+  {
+   "q": "Which North American insects emerge in huge numbers every 13 or 17 years?",
+   "a": "Periodical cicadas",
+   "p": 600,
+   "alt": [
+    "Cicadas"
+   ]
+  },
+  {
+   "q": "Which insects build huge mud mounds with built-in air-conditioning tunnels in Africa?",
+   "a": "Termites",
+   "p": 600
+  },
+  {
+   "q": "What is the name for the summer equivalent of hibernation, used by some desert animals?",
+   "a": "Aestivation",
+   "p": 600,
+   "alt": [
+    "Estivation"
+   ]
+  },
+  {
+   "q": "What is the name for an animal that mimics a dangerous species to avoid being eaten?",
+   "a": "Batesian mimicry",
+   "p": 600,
+   "alt": [
+    "Mimicry"
+   ]
+  },
+  {
+   "q": "Which part of a cat's eye reflects light, making its eyes glow at night?",
+   "a": "Tapetum lucidum",
+   "p": 600
+  },
+  {
+   "q": "Which sea creature has existed for over 400 million years and has blue blood used in medical tests?",
+   "a": "Horseshoe crab",
+   "p": 600
+  },
+  {
+   "q": "Which Central American lizard can run across water on its hind legs?",
+   "a": "Basilisk",
+   "p": 600,
+   "alt": [
+    "Basilisk lizard"
+   ]
+  },
+  {
+   "q": "Which kind of shark can swim into rivers and freshwater lakes?",
+   "a": "Bull shark",
+   "p": 600
+  },
+  {
+   "q": "What is the name for the tiny shrimp-like creatures that are the main food of many whales?",
+   "a": "Krill",
+   "p": 400
+  },
+  {
+   "q": "What are the comb-like plates in some whales' mouths that filter food called?",
+   "a": "Baleen",
+   "p": 600
+  },
+  {
+   "q": "What is the name of a male duck?",
+   "a": "Drake",
+   "p": 400
+  },
+  {
+   "q": "What is a male deer called?",
+   "a": "Stag",
+   "p": 400,
+   "alt": [
+    "Buck",
+    "Hart"
+   ]
+  },
+  {
+   "q": "What is a female horse called?",
+   "a": "Mare",
+   "p": 400
+  },
+  {
+   "q": "What is a male bee called?",
+   "a": "Drone",
+   "p": 400
+  },
+  {
+   "q": "What is a female fox called?",
+   "a": "Vixen",
+   "p": 400
+  },
+  {
+   "q": "What is a male swan called?",
+   "a": "Cob",
+   "p": 600
+  },
+  {
+   "q": "What is a female swan called?",
+   "a": "Pen",
+   "p": 600
+  },
+  {
+   "q": "What is a female camel called in Arabic?",
+   "a": "Naqa",
+   "p": 600,
+   "ar": "ناقة",
+   "alt": [
+    "Naga"
+   ]
+  },
+  {
+   "q": "What is a baby camel called in English?",
+   "a": "Calf",
+   "p": 400
+  },
+  {
+   "q": "What is the home of a beaver called?",
+   "a": "Lodge",
+   "p": 400
+  },
+  {
+   "q": "What is the home of a badger called?",
+   "a": "Sett",
+   "p": 600,
+   "alt": [
+    "Set"
+   ]
+  },
+  {
+   "q": "What is the nest of a squirrel called?",
+   "a": "Drey",
+   "p": 600
+  },
+  {
+   "q": "What is an eagle's nest called?",
+   "a": "Eyrie",
+   "p": 600,
+   "alt": [
+    "Aerie"
+   ]
+  },
+  {
+   "q": "What is the home of an otter called?",
+   "a": "Holt",
+   "p": 600
+  },
+  {
+   "q": "What is a rabbit's underground home called?",
+   "a": "Burrow",
+   "p": 200,
+   "alt": [
+    "Warren"
+   ]
+  },
+  {
+   "q": "What is the study of insects called?",
+   "a": "Entomology",
+   "p": 400
+  },
+  {
+   "q": "What is the study of fish called?",
+   "a": "Ichthyology",
+   "p": 600
+  },
+  {
+   "q": "What is the study of reptiles and amphibians called?",
+   "a": "Herpetology",
+   "p": 600
+  },
+  {
+   "q": "Which naturalist sailed on HMS Beagle and later wrote On the Origin of Species?",
+   "a": "Charles Darwin",
+   "p": 400
+  },
+  {
+   "q": "Which British primatologist became famous for studying chimpanzees in Tanzania?",
+   "a": "Jane Goodall",
+   "p": 400
+  },
+  {
+   "q": "Which American zoologist studied mountain gorillas in Rwanda?",
+   "a": "Dian Fossey",
+   "p": 600
+  },
+  {
+   "q": "Which group of animals are frogs, toads and salamanders?",
+   "a": "Amphibians",
+   "p": 200
+  },
+  {
+   "q": "Which group of animals has feathers and lays hard-shelled eggs?",
+   "a": "Birds",
+   "p": 200
+  },
+  {
+   "q": "Which group of animals has scales, lays eggs on land and includes snakes and lizards?",
+   "a": "Reptiles",
+   "p": 200
+  },
+  {
+   "q": "Which group of animals feeds its young on milk?",
+   "a": "Mammals",
+   "p": 200
+  },
+  {
+   "q": "How many legs does a typical crab have, including claws?",
+   "a": "Ten",
+   "p": 400,
+   "alt": [
+    "10"
+   ]
+  },
+  {
+   "q": "What is the term for animals without a backbone?",
+   "a": "Invertebrates",
+   "p": 200
+  },
+  {
+   "q": "Which big cat is the largest of all wild cats?",
+   "a": "Tiger",
+   "p": 400
+  },
+  {
+   "q": "Which big cat of the Americas has rosette spots and a powerful bite?",
+   "a": "Jaguar",
+   "p": 400
+  },
+  {
+   "q": "Which big cat lives high in the Himalayas and has a thick, long tail?",
+   "a": "Snow leopard",
+   "p": 400
+  },
+  {
+   "q": "What are the spots on a leopard's coat called?",
+   "a": "Rosettes",
+   "p": 400
+  },
+  {
+   "q": "Which primate is the closest living relative of humans, along with the bonobo?",
+   "a": "Chimpanzee",
+   "p": 400
+  },
+  {
+   "q": "Which ape, closely related to the chimpanzee, lives only south of the Congo River?",
+   "a": "Bonobo",
+   "p": 600
+  },
+  {
+   "q": "Which is the largest living primate?",
+   "a": "Gorilla",
+   "p": 400
+  },
+  {
+   "q": "Which slow-moving animal hangs upside down in trees and has algae growing in its fur?",
+   "a": "Sloth",
+   "p": 200
+  },
+  {
+   "q": "Which insect-eating African mammal has a long snout and its name means 'earth pig' in Afrikaans?",
+   "a": "Aardvark",
+   "p": 600
+  },
+  {
+   "q": "Which small, social African mammal stands upright as a lookout?",
+   "a": "Meerkat",
+   "p": 200
+  },
+  {
+   "q": "Which spiny mammal rolls into a ball for protection?",
+   "a": "Hedgehog",
+   "p": 200
+  },
+  {
+   "q": "Which animal has quills that come loose when touched?",
+   "a": "Porcupine",
+   "p": 200
+  },
+  {
+   "q": "Which black-and-white mammal sprays a foul-smelling liquid?",
+   "a": "Skunk",
+   "p": 200
+  },
+  {
+   "q": "Which nocturnal bird hoots and can see well in the dark?",
+   "a": "Owl",
+   "p": 200
+  },
+  {
+   "q": "Which large flightless bird of Australia appears on its coat of arms with the kangaroo?",
+   "a": "Emu",
+   "p": 200
+  },
+  {
+   "q": "Which bird is famous for copying human speech?",
+   "a": "Parrot",
+   "p": 200
+  },
+  {
+   "q": "Which seabird with a colourful beak is called the 'sea parrot'?",
+   "a": "Puffin",
+   "p": 400
+  },
+  {
+   "q": "Which bird is the symbol of peace?",
+   "a": "Dove",
+   "p": 200
+  },
+  {
+   "q": "Which rodent builds dams across rivers?",
+   "a": "Beaver",
+   "p": 200
+  },
+  {
+   "q": "Which marine mammal has tusks and whiskers and lives in the Arctic?",
+   "a": "Walrus",
+   "p": 200
+  },
+  {
+   "q": "Which big mammal is a symbol of the Arctic and hunts seals on the sea ice?",
+   "a": "Polar bear",
+   "p": 200
+  },
+  {
+   "q": "Which venomous creatures of Arabian deserts carry a stinger at the tip of their tail?",
+   "a": "Scorpions",
+   "p": 200,
+   "ar": "عقرب",
+   "alt": [
+    "Scorpion"
+   ]
+  },
+  {
+   "q": "What has replaced child jockeys in UAE camel racing since the 2000s?",
+   "a": "Robot jockeys",
+   "p": 400,
+   "alt": [
+    "Robots"
+   ]
+  },
+  {
+   "q": "What is the hood placed over a falcon's head to keep it calm called?",
+   "a": "Burqa",
+   "p": 600,
+   "ar": "برقع",
+   "alt": [
+    "Hood",
+    "Burqu"
+   ]
+  },
+  {
+   "q": "Which falcon species is known to Gulf falconers as al-hurr?",
+   "a": "Saker falcon",
+   "p": 600,
+   "ar": "الصقر الحر",
+   "alt": [
+    "Saker",
+    "Hurr"
+   ]
+  },
+  {
+   "q": "Which reptile has a shell and lives only on land, unlike a turtle?",
+   "a": "Tortoise",
+   "p": 200
+  },
+  {
+   "q": "Which reptile has a broader, U-shaped snout: an alligator or a crocodile?",
+   "a": "Alligator",
+   "p": 400
+  },
+  {
+   "q": "Which crocodile is the largest living reptile?",
+   "a": "Saltwater crocodile",
+   "p": 600,
+   "alt": [
+    "Saltie",
+    "Estuarine crocodile"
+   ]
+  },
+  {
+   "q": "Which sea creature has no brain, no heart and no bones, and can sting?",
+   "a": "Jellyfish",
+   "p": 200
+  },
+  {
+   "q": "Which giant ray can have a 'wingspan' of several metres and filter-feeds on plankton?",
+   "a": "Manta ray",
+   "p": 400
+  },
+  {
+   "q": "What is the term for animals that live and hunt at dawn and dusk?",
+   "a": "Crepuscular",
+   "p": 600
+  },
+  {
+   "q": "Which body part do fish use to breathe underwater?",
+   "a": "Gills",
+   "p": 200
+  },
+  {
+   "q": "What is the name of a fish's flat side organ that senses movement in water?",
+   "a": "Lateral line",
+   "p": 600
+  },
+  {
+   "q": "Which insect has a 'praying' posture and the female sometimes eats the male?",
+   "a": "Praying mantis",
+   "p": 400,
+   "alt": [
+    "Mantis"
+   ]
+  },
+  {
+   "q": "Which insect can carry many times its own body weight and lives in colonies with a queen?",
+   "a": "Ant",
+   "p": 200,
+   "alt": [
+    "Ants"
+   ]
+  },
+  {
+   "q": "Which insect with two pairs of see-through wings catches other insects in mid-air and starts life as an underwater nymph?",
+   "a": "Dragonfly",
+   "p": 400
+  },
+  {
+   "q": "Which insect is famous for its chirping at night by rubbing its wings together?",
+   "a": "Cricket",
+   "p": 200
+  },
+  {
+   "q": "Which venomous spider is named for the female's habit of sometimes eating the male after mating?",
+   "a": "Black widow",
+   "p": 400
+  },
+  {
+   "q": "Which spider species is named after the Italian city of Taranto?",
+   "a": "Tarantula",
+   "p": 600
+  },
+  {
+   "q": "Which falcon breeds on Gulf islands in summer and migrates to Madagascar for winter?",
+   "a": "Sooty falcon",
+   "p": 600
+  },
+  {
+   "q": "Which cormorant, named after a Yemeni island, breeds in large colonies on islands off the UAE?",
+   "a": "Socotra cormorant",
+   "p": 600
+  },
+  {
+   "q": "What does a chameleon shoot out at high speed to catch insects?",
+   "a": "Its tongue",
+   "p": 200,
+   "alt": [
+    "Tongue"
+   ]
+  },
+  {
+   "q": "Which North American lizard can squirt blood from its eyes to scare off predators?",
+   "a": "Horned lizard",
+   "p": 600,
+   "alt": [
+    "Horned toad"
+   ]
+  },
+  {
+   "q": "Which microscopic 'water bears' can survive extreme conditions, even exposure to space?",
+   "a": "Tardigrades",
+   "p": 600,
+   "alt": [
+    "Tardigrade",
+    "Water bears"
+   ]
+  },
+  {
+   "q": "Which tiny jellyfish species can turn back into its young polyp stage, earning it an 'immortal' nickname?",
+   "a": "Turritopsis dohrnii",
+   "p": 600,
+   "alt": [
+    "Immortal jellyfish",
+    "Turritopsis"
+   ]
+  },
+  {
+   "q": "Which farm animal has horizontal, rectangular pupils?",
+   "a": "Goat",
+   "p": 600,
+   "alt": [
+    "Sheep"
+   ]
+  },
+  {
+   "q": "What is the term for an animal that mainly eats insects?",
+   "a": "Insectivore",
+   "p": 400
+  },
+  {
+   "q": "What is the term for an animal that feeds on the bodies of dead animals?",
+   "a": "Scavenger",
+   "p": 200
+  },
+  {
+   "q": "What is the term for an animal that is active during the day?",
+   "a": "Diurnal",
+   "p": 400
+  },
+  {
+   "q": "What is an adult male horse called?",
+   "a": "Stallion",
+   "p": 200
+  },
+  {
+   "q": "What is a group of camels travelling together called?",
+   "a": "Caravan",
+   "p": 400,
+   "alt": [
+    "Train",
+    "Flock"
+   ]
+  },
+  {
+   "q": "What is a baby rabbit called?",
+   "a": "Kit",
+   "p": 400,
+   "alt": [
+    "Kitten",
+    "Bunny"
+   ]
+  },
+  {
+   "q": "What is a young falcon taken from the nest for training called?",
+   "a": "Eyas",
+   "p": 600
+  },
+  {
+   "q": "What is a baby oyster called?",
+   "a": "Spat",
+   "p": 600
+  },
+  {
+   "q": "What is the name for a group of ravens?",
+   "a": "Unkindness",
+   "p": 600
+  },
+  {
+   "q": "What is the name for a group of zebras?",
+   "a": "Dazzle",
+   "p": 600
+  },
+  {
+   "q": "What is the name for a group of porcupines?",
+   "a": "Prickle",
+   "p": 600
+  },
+  {
+   "q": "What is the name for a group of ferrets?",
+   "a": "Business",
+   "p": 600
+  },
+  {
+   "q": "Which big seabird with a huge throat pouch scoops up fish?",
+   "a": "Pelican",
+   "p": 200
+  },
+  {
+   "q": "Which large waterbird with a long neck is a symbol of grace, and mates for life?",
+   "a": "Swan",
+   "p": 200
+  },
+  {
+   "q": "Which black-and-white bird of the crow family is known for collecting shiny objects?",
+   "a": "Magpie",
+   "p": 400
+  },
+  {
+   "q": "Which large scavenging bird has a bald head so it stays clean while feeding on carcasses?",
+   "a": "Vulture",
+   "p": 200
+  },
+  {
+   "q": "Which bird has a huge, colourful beak and lives in South American rainforests?",
+   "a": "Toucan",
+   "p": 200
+  },
+  {
+   "q": "Which fast-flying bird spends almost its whole life in the air and is often mistaken for a swallow?",
+   "a": "Swift",
+   "p": 600,
+   "alt": [
+    "Common swift"
+   ]
+  }
+ ]
+}

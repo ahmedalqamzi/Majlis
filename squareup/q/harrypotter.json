@@ -161,7 +161,9 @@
    "q": "How many books are in the main Harry Potter series?",
    "a": "Seven",
    "p": 200,
-   "alt": "7"
+   "alt": [
+    "7"
+   ]
   },
   {
    "q": "Which Hogwarts house has a badger as its symbol?",
@@ -210,6 +212,321 @@
    "q": "What is the name of the three-headed dog guarding the Philosopher's Stone?",
    "a": "Fluffy",
    "p": 200
+  },
+  {
+   "q": "Who is Harry's red-haired best friend?",
+   "a": "Ron Weasley",
+   "p": 200,
+   "alt": [
+    "Ron"
+   ]
+  },
+  {
+   "q": "What are the first names of Harry's parents?",
+   "a": "James and Lily",
+   "p": 200
+  },
+  {
+   "q": "What are the names of the Weasley twins?",
+   "a": "Fred and George",
+   "p": 200
+  },
+  {
+   "q": "Which Head of Gryffindor teaches Transfiguration?",
+   "a": "Minerva McGonagall",
+   "p": 200,
+   "alt": [
+    "Professor McGonagall",
+    "McGonagall"
+   ]
+  },
+  {
+   "q": "What broomstick does Harry receive in his first year?",
+   "a": "Nimbus 2000",
+   "p": 200
+  },
+  {
+   "q": "Where does Harry sleep at the Dursleys' before he goes to Hogwarts?",
+   "a": "Cupboard under the stairs",
+   "p": 200
+  },
+  {
+   "q": "What is the name of Harry's spoiled cousin?",
+   "a": "Dudley Dursley",
+   "p": 200,
+   "alt": [
+    "Dudley"
+   ]
+  },
+  {
+   "q": "On which street do the Dursleys live?",
+   "a": "Privet Drive",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the woods next to Hogwarts that students are banned from?",
+   "a": "Forbidden Forest",
+   "p": 200,
+   "alt": [
+    "Dark Forest"
+   ]
+  },
+  {
+   "q": "What are Voldemort's followers called?",
+   "a": "Death Eaters",
+   "p": 200
+  },
+  {
+   "q": "What is the secret society founded by Dumbledore to fight Voldemort?",
+   "a": "Order of the Phoenix",
+   "p": 200
+  },
+  {
+   "q": "What is the name of Dumbledore's phoenix?",
+   "a": "Fawkes",
+   "p": 200
+  },
+  {
+   "q": "What are Gryffindor's house colours?",
+   "a": "Red and gold",
+   "p": 200,
+   "alt": [
+    "Scarlet and gold"
+   ]
+  },
+  {
+   "q": "What are Slytherin's house colours?",
+   "a": "Green and silver",
+   "p": 200
+  },
+  {
+   "q": "Which animal is the symbol of Slytherin?",
+   "a": "Serpent",
+   "p": 200,
+   "alt": [
+    "Snake"
+   ]
+  },
+  {
+   "q": "Which animal is the symbol of Gryffindor?",
+   "a": "Lion",
+   "p": 200
+  },
+  {
+   "q": "Who is Draco Malfoy's father?",
+   "a": "Lucius Malfoy",
+   "p": 200,
+   "alt": [
+    "Lucius"
+   ]
+  },
+  {
+   "q": "Which actor plays Draco Malfoy?",
+   "a": "Tom Felton",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the grumpy Hogwarts caretaker?",
+   "a": "Argus Filch",
+   "p": 200,
+   "alt": [
+    "Filch"
+   ]
+  },
+  {
+   "q": "What is the name of the wizarding government in Britain?",
+   "a": "Ministry of Magic",
+   "p": 200
+  },
+  {
+   "q": "What is the title of the seventh Harry Potter book?",
+   "a": "Harry Potter and the Deathly Hallows",
+   "p": 200,
+   "alt": [
+    "Deathly Hallows"
+   ]
+  },
+  {
+   "q": "What is the title of the fourth Harry Potter book?",
+   "a": "Harry Potter and the Goblet of Fire",
+   "p": 200,
+   "alt": [
+    "Goblet of Fire"
+   ]
+  },
+  {
+   "q": "What is the title of the second Harry Potter book?",
+   "a": "Harry Potter and the Chamber of Secrets",
+   "p": 200,
+   "alt": [
+    "Chamber of Secrets"
+   ]
+  },
+  {
+   "q": "What is the title of the sixth Harry Potter book?",
+   "a": "Harry Potter and the Half-Blood Prince",
+   "p": 200,
+   "alt": [
+    "Half-Blood Prince"
+   ]
+  },
+  {
+   "q": "In which book does Harry first meet Sirius Black?",
+   "a": "Harry Potter and the Prisoner of Azkaban",
+   "p": 200,
+   "alt": [
+    "Prisoner of Azkaban"
+   ]
+  },
+  {
+   "q": "Which spell makes objects levitate?",
+   "a": "Wingardium Leviosa",
+   "p": 200
+  },
+  {
+   "q": "Which spell lights the tip of a wand?",
+   "a": "Lumos",
+   "p": 200
+  },
+  {
+   "q": "Who kills Albus Dumbledore?",
+   "a": "Severus Snape",
+   "p": 200,
+   "alt": [
+    "Snape"
+   ]
+  },
+  {
+   "q": "Whom does Ron Weasley marry?",
+   "a": "Hermione Granger",
+   "p": 200,
+   "alt": [
+    "Hermione"
+   ]
+  },
+  {
+   "q": "Which jelly beans come in every flavour, including earwax?",
+   "a": "Bertie Bott's Every Flavour Beans",
+   "p": 200,
+   "alt": [
+    "Bertie Bott's"
+   ]
+  },
+  {
+   "q": "Which professor at Hogwarts is secretly a werewolf?",
+   "a": "Remus Lupin",
+   "p": 200,
+   "alt": [
+    "Lupin",
+    "Professor Lupin"
+   ]
+  },
+  {
+   "q": "Which wizarding pub in London is the entrance to Diagon Alley?",
+   "a": "Leaky Cauldron",
+   "p": 200,
+   "alt": [
+    "The Leaky Cauldron"
+   ]
+  },
+  {
+   "q": "Who is Ron's mother?",
+   "a": "Molly Weasley",
+   "p": 200,
+   "alt": [
+    "Molly",
+    "Mrs Weasley"
+   ]
+  },
+  {
+   "q": "Which dreamy Ravenclaw wears radish earrings?",
+   "a": "Luna Lovegood",
+   "p": 200,
+   "alt": [
+    "Luna"
+   ]
+  },
+  {
+   "q": "Which actor played Hagrid?",
+   "a": "Robbie Coltrane",
+   "p": 200
+  },
+  {
+   "q": "Which actress played Professor McGonagall?",
+   "a": "Maggie Smith",
+   "p": 200
+  },
+  {
+   "q": "Which device does Hermione use to attend extra classes in her third year?",
+   "a": "Time-Turner",
+   "p": 200
+  },
+  {
+   "q": "Which violent tree does the flying car crash into?",
+   "a": "Whomping Willow",
+   "p": 200
+  },
+  {
+   "q": "How many players are on a Quidditch team?",
+   "a": "Seven",
+   "p": 200,
+   "alt": [
+    "7"
+   ]
+  },
+  {
+   "q": "What is the student group Harry leads in Order of the Phoenix called?",
+   "a": "Dumbledore's Army",
+   "p": 200,
+   "alt": [
+    "DA"
+   ]
+  },
+  {
+   "q": "What is the name of Hagrid's boarhound?",
+   "a": "Fang",
+   "p": 200
+  },
+  {
+   "q": "What is Hermione's surname?",
+   "a": "Granger",
+   "p": 200
+  },
+  {
+   "q": "What kind of magical creature is Dobby?",
+   "a": "House-elf",
+   "p": 200
+  },
+  {
+   "q": "Which train carries students to school from King's Cross?",
+   "a": "Hogwarts Express",
+   "p": 200
+  },
+  {
+   "q": "Which subject does Snape teach in Harry's first year?",
+   "a": "Potions",
+   "p": 200
+  },
+  {
+   "q": "Which facial feature is Voldemort missing in the films?",
+   "a": "Nose",
+   "p": 200,
+   "alt": [
+    "His nose"
+   ]
+  },
+  {
+   "q": "Which birds deliver wizarding mail?",
+   "a": "Owls",
+   "p": 200
+  },
+  {
+   "q": "What colour is the hair of every Weasley child?",
+   "a": "Red",
+   "p": 200,
+   "alt": [
+    "Ginger"
+   ]
   },
   {
    "q": "Which spell disarms an opponent?",
@@ -266,7 +583,9 @@
    "q": "How many Horcruxes did Voldemort deliberately create?",
    "a": "Six",
    "p": 400,
-   "alt": "6"
+   "alt": [
+    "6"
+   ]
   },
   {
    "q": "Which Deathly Hallow did Dumbledore own until his death?",
@@ -403,6 +722,353 @@
   {
    "q": "Which actor plays Newt Scamander in Fantastic Beasts?",
    "a": "Eddie Redmayne",
+   "p": 400
+  },
+  {
+   "q": "Which clumsy Gryffindor destroys Nagini?",
+   "a": "Neville Longbottom",
+   "p": 400,
+   "alt": [
+    "Neville"
+   ]
+  },
+  {
+   "q": "Which top-class broom does Sirius give Harry?",
+   "a": "Firebolt",
+   "p": 400
+  },
+  {
+   "q": "What is the name of Filch's cat?",
+   "a": "Mrs Norris",
+   "p": 400,
+   "alt": [
+    "Mrs. Norris"
+   ]
+  },
+  {
+   "q": "Who is Minister for Magic for most of the first five books?",
+   "a": "Cornelius Fudge",
+   "p": 400,
+   "alt": [
+    "Fudge"
+   ]
+  },
+  {
+   "q": "Which skeletal winged horses can only be seen by those who have seen death?",
+   "a": "Thestrals",
+   "p": 400
+  },
+  {
+   "q": "On what date is Harry Potter's birthday?",
+   "a": "31 July",
+   "p": 400,
+   "alt": [
+    "July 31"
+   ]
+  },
+  {
+   "q": "Which purple triple-decker bus rescues stranded witches and wizards?",
+   "a": "Knight Bus",
+   "p": 400
+  },
+  {
+   "q": "Which Hogsmeade pub is run by Madam Rosmerta?",
+   "a": "Three Broomsticks",
+   "p": 400,
+   "alt": [
+    "The Three Broomsticks"
+   ]
+  },
+  {
+   "q": "Which Hogsmeade shop is famous for its sweets?",
+   "a": "Honeydukes",
+   "p": 400
+  },
+  {
+   "q": "What is said to be the most haunted building in Britain, near Hogsmeade?",
+   "a": "Shrieking Shack",
+   "p": 400
+  },
+  {
+   "q": "What is a person with non-magical parents who has magical powers called?",
+   "a": "Muggle-born",
+   "p": 400
+  },
+  {
+   "q": "What is a non-magical person born to a wizarding family called?",
+   "a": "Squib",
+   "p": 400
+  },
+  {
+   "q": "Which Unforgivable Curse causes unbearable pain?",
+   "a": "Cruciatus Curse",
+   "p": 400,
+   "alt": [
+    "Crucio"
+   ]
+  },
+  {
+   "q": "Which Unforgivable Curse controls a person's actions?",
+   "a": "Imperius Curse",
+   "p": 400,
+   "alt": [
+    "Imperio"
+   ]
+  },
+  {
+   "q": "Which spell wipes a person's memory?",
+   "a": "Obliviate",
+   "p": 400
+  },
+  {
+   "q": "Which charm summons an object to the caster?",
+   "a": "Accio",
+   "p": 400
+  },
+  {
+   "q": "Which spell stuns an opponent?",
+   "a": "Stupefy",
+   "p": 400
+  },
+  {
+   "q": "Which actor plays Sirius Black?",
+   "a": "Gary Oldman",
+   "p": 400
+  },
+  {
+   "q": "Who is Scabbers really?",
+   "a": "Peter Pettigrew",
+   "p": 400,
+   "alt": [
+    "Wormtail"
+   ]
+  },
+  {
+   "q": "What is a witch or wizard who can turn into an animal called?",
+   "a": "Animagus",
+   "p": 400
+  },
+  {
+   "q": "Which animal can Professor McGonagall turn into?",
+   "a": "Cat",
+   "p": 400,
+   "alt": [
+    "Tabby cat"
+   ]
+  },
+  {
+   "q": "Which animal can Sirius Black turn into?",
+   "a": "Black dog",
+   "p": 400,
+   "alt": [
+    "Dog"
+   ]
+  },
+  {
+   "q": "Who founded Slytherin house?",
+   "a": "Salazar Slytherin",
+   "p": 400
+  },
+  {
+   "q": "Who founded Ravenclaw house?",
+   "a": "Rowena Ravenclaw",
+   "p": 400
+  },
+  {
+   "q": "Who founded Hufflepuff house?",
+   "a": "Helga Hufflepuff",
+   "p": 400
+  },
+  {
+   "q": "Which Horcrux does Harry destroy with a basilisk fang in Chamber of Secrets?",
+   "a": "Tom Riddle's diary",
+   "p": 400,
+   "alt": [
+    "The diary",
+    "Diary"
+   ]
+  },
+  {
+   "q": "Which Weasley destroys Slytherin's locket?",
+   "a": "Ron Weasley",
+   "p": 400,
+   "alt": [
+    "Ron"
+   ]
+  },
+  {
+   "q": "Which sword can destroy Horcruxes?",
+   "a": "Sword of Gryffindor",
+   "p": 400
+  },
+  {
+   "q": "In which village were Harry's parents killed?",
+   "a": "Godric's Hollow",
+   "p": 400
+  },
+  {
+   "q": "Who teaches Charms at Hogwarts?",
+   "a": "Filius Flitwick",
+   "p": 400,
+   "alt": [
+    "Professor Flitwick",
+    "Flitwick"
+   ]
+  },
+  {
+   "q": "Who teaches Divination at Hogwarts?",
+   "a": "Sybill Trelawney",
+   "p": 400,
+   "alt": [
+    "Professor Trelawney",
+    "Trelawney"
+   ]
+  },
+  {
+   "q": "Which Defence teacher had Voldemort on the back of his head?",
+   "a": "Quirinus Quirrell",
+   "p": 400,
+   "alt": [
+    "Quirrell",
+    "Professor Quirrell"
+   ]
+  },
+  {
+   "q": "Which vain celebrity wizard teaches Defence in Harry's second year?",
+   "a": "Gilderoy Lockhart",
+   "p": 400,
+   "alt": [
+    "Lockhart"
+   ]
+  },
+  {
+   "q": "Which collector of students returns to teach Potions in Half-Blood Prince?",
+   "a": "Horace Slughorn",
+   "p": 400,
+   "alt": [
+    "Slughorn"
+   ]
+  },
+  {
+   "q": "Which rule-loving Weasley brother becomes a Prefect and Head Boy?",
+   "a": "Percy Weasley",
+   "p": 400,
+   "alt": [
+    "Percy"
+   ]
+  },
+  {
+   "q": "What is the title of the 2016 stage play set 19 years after Deathly Hallows?",
+   "a": "Harry Potter and the Cursed Child",
+   "p": 400,
+   "alt": [
+    "The Cursed Child"
+   ]
+  },
+  {
+   "q": "Which Triwizard champion does Bill Weasley marry?",
+   "a": "Fleur Delacour",
+   "p": 400,
+   "alt": [
+    "Fleur"
+   ]
+  },
+  {
+   "q": "Which dragon breed does Harry face in the first task of the Triwizard Tournament?",
+   "a": "Hungarian Horntail",
+   "p": 400
+  },
+  {
+   "q": "What are the exams Hogwarts students take in fifth year called?",
+   "a": "O.W.L.s",
+   "p": 400,
+   "alt": [
+    "OWLs",
+    "Ordinary Wizarding Levels"
+   ]
+  },
+  {
+   "q": "Which game does Ron play on a giant board to protect the Philosopher's Stone?",
+   "a": "Wizard's chess",
+   "p": 400,
+   "alt": [
+    "Wizard chess"
+   ]
+  },
+  {
+   "q": "Which hidden room at Hogwarts appears only when someone truly needs it?",
+   "a": "Room of Requirement",
+   "p": 400
+  },
+  {
+   "q": "Who is Gryffindor's Quidditch captain in Harry's first three years?",
+   "a": "Oliver Wood",
+   "p": 400,
+   "alt": [
+    "Wood"
+   ]
+  },
+  {
+   "q": "Which Ravenclaw Seeker is Harry's first girlfriend?",
+   "a": "Cho Chang",
+   "p": 400,
+   "alt": [
+    "Cho"
+   ]
+  },
+  {
+   "q": "Who is Hermione's date at the Yule Ball?",
+   "a": "Viktor Krum",
+   "p": 400,
+   "alt": [
+    "Krum"
+   ]
+  },
+  {
+   "q": "What is Harry Potter's middle name?",
+   "a": "James",
+   "p": 400
+  },
+  {
+   "q": "What model of flying car do Harry and Ron crash at Hogwarts?",
+   "a": "Ford Anglia",
+   "p": 400
+  },
+  {
+   "q": "Who is Draco Malfoy's mother?",
+   "a": "Narcissa Malfoy",
+   "p": 400,
+   "alt": [
+    "Narcissa"
+   ]
+  },
+  {
+   "q": "What does Newt Scamander keep his creatures in?",
+   "a": "A suitcase",
+   "p": 400,
+   "alt": [
+    "Suitcase",
+    "Case"
+   ]
+  },
+  {
+   "q": "What is the subtitle of the third Fantastic Beasts film?",
+   "a": "The Secrets of Dumbledore",
+   "p": 400
+  },
+  {
+   "q": "Which actor plays young Albus Dumbledore in Fantastic Beasts?",
+   "a": "Jude Law",
+   "p": 400
+  },
+  {
+   "q": "Who composed Hedwig's Theme for the first film?",
+   "a": "John Williams",
+   "p": 400
+  },
+  {
+   "q": "What is a shouting red letter in the wizarding world called?",
+   "a": "Howler",
    "p": 400
   },
   {
@@ -578,6 +1244,289 @@
    "alt": [
     "Daily Prophet"
    ]
+  },
+  {
+   "q": "Which spell repairs broken objects?",
+   "a": "Reparo",
+   "p": 600
+  },
+  {
+   "q": "Which cutting curse did Snape invent as a student?",
+   "a": "Sectumsempra",
+   "p": 600
+  },
+  {
+   "q": "What form does Snape's Patronus take?",
+   "a": "Doe",
+   "p": 600
+  },
+  {
+   "q": "What form does Hermione's Patronus take?",
+   "a": "Otter",
+   "p": 600
+  },
+  {
+   "q": "What form does Ron's Patronus take?",
+   "a": "Jack Russell terrier",
+   "p": 600,
+   "alt": [
+    "Terrier",
+    "Dog"
+   ]
+  },
+  {
+   "q": "Which actor plays Remus Lupin?",
+   "a": "David Thewlis",
+   "p": 600
+  },
+  {
+   "q": "Into which insect can Rita Skeeter transform?",
+   "a": "Beetle",
+   "p": 600
+  },
+  {
+   "q": "What was Remus Lupin's Marauder nickname?",
+   "a": "Moony",
+   "p": 600
+  },
+  {
+   "q": "What was Sirius Black's Marauder nickname?",
+   "a": "Padfoot",
+   "p": 600
+  },
+  {
+   "q": "What was James Potter's Marauder nickname?",
+   "a": "Prongs",
+   "p": 600
+  },
+  {
+   "q": "Which Ravenclaw heirloom did Voldemort turn into a Horcrux?",
+   "a": "Diadem",
+   "p": 600,
+   "alt": [
+    "Ravenclaw's diadem",
+    "Ravenclaw's lost diadem"
+   ]
+  },
+  {
+   "q": "Which Hufflepuff heirloom did Voldemort turn into a Horcrux?",
+   "a": "Cup",
+   "p": 600,
+   "alt": [
+    "Hufflepuff's cup"
+   ]
+  },
+  {
+   "q": "What is the name of the wizarding hospital in London?",
+   "a": "St Mungo's",
+   "p": 600,
+   "alt": [
+    "St Mungo's Hospital for Magical Maladies and Injuries"
+   ]
+  },
+  {
+   "q": "What is the name of the Hogwarts school nurse?",
+   "a": "Madam Pomfrey",
+   "p": 600,
+   "alt": [
+    "Poppy Pomfrey"
+   ]
+  },
+  {
+   "q": "Who teaches Herbology at Hogwarts?",
+   "a": "Pomona Sprout",
+   "p": 600,
+   "alt": [
+    "Professor Sprout"
+   ]
+  },
+  {
+   "q": "Which ghost teaches History of Magic?",
+   "a": "Professor Binns",
+   "p": 600,
+   "alt": [
+    "Binns"
+   ]
+  },
+  {
+   "q": "Which actor plays Gilderoy Lockhart?",
+   "a": "Kenneth Branagh",
+   "p": 600
+  },
+  {
+   "q": "Who disguises himself as Mad-Eye Moody in Goblet of Fire?",
+   "a": "Barty Crouch Jr.",
+   "p": 600,
+   "alt": [
+    "Bartemius Crouch Junior"
+   ]
+  },
+  {
+   "q": "Which actor plays Mad-Eye Moody?",
+   "a": "Brendan Gleeson",
+   "p": 600
+  },
+  {
+   "q": "Which actor plays Horace Slughorn?",
+   "a": "Jim Broadbent",
+   "p": 600
+  },
+  {
+   "q": "Which Weasley brother works with dragons in Romania?",
+   "a": "Charlie Weasley",
+   "p": 600,
+   "alt": [
+    "Charlie"
+   ]
+  },
+  {
+   "q": "What is the name of Harry's younger son?",
+   "a": "Albus Severus Potter",
+   "p": 600,
+   "alt": [
+    "Albus"
+   ]
+  },
+  {
+   "q": "Which exams do Hogwarts students take in seventh year?",
+   "a": "N.E.W.T.s",
+   "p": 600,
+   "alt": [
+    "NEWTs",
+    "Nastily Exhausting Wizarding Tests"
+   ]
+  },
+  {
+   "q": "What is the name of Hermione's society for house-elf rights?",
+   "a": "S.P.E.W.",
+   "p": 600,
+   "alt": [
+    "SPEW",
+    "Society for the Promotion of Elfish Welfare"
+   ]
+  },
+  {
+   "q": "Which goblin helps the trio break into Gringotts?",
+   "a": "Griphook",
+   "p": 600
+  },
+  {
+   "q": "In whose Gringotts vault was Hufflepuff's cup hidden?",
+   "a": "Bellatrix Lestrange",
+   "p": 600,
+   "alt": [
+    "The Lestranges",
+    "Lestrange vault"
+   ]
+  },
+  {
+   "q": "Which half-giant is headmistress of Beauxbatons?",
+   "a": "Madame Maxime",
+   "p": 600,
+   "alt": [
+    "Olympe Maxime"
+   ]
+  },
+  {
+   "q": "Who is headmaster of Durmstrang in Goblet of Fire?",
+   "a": "Igor Karkaroff",
+   "p": 600,
+   "alt": [
+    "Karkaroff"
+   ]
+  },
+  {
+   "q": "Which nation wins the Quidditch World Cup final in Goblet of Fire?",
+   "a": "Ireland",
+   "p": 600
+  },
+  {
+   "q": "Which No-Maj baker befriends Newt Scamander?",
+   "a": "Jacob Kowalski",
+   "p": 600,
+   "alt": [
+    "Jacob"
+   ]
+  },
+  {
+   "q": "What is the dark parasitic force that lives inside Credence?",
+   "a": "Obscurus",
+   "p": 600,
+   "alt": [
+    "Obscurial"
+   ]
+  },
+  {
+   "q": "Which Scottish viaduct does the Hogwarts Express cross in the films?",
+   "a": "Glenfinnan Viaduct",
+   "p": 600,
+   "alt": [
+    "Glenfinnan"
+   ]
+  },
+  {
+   "q": "Under which pen name does J.K. Rowling write crime novels?",
+   "a": "Robert Galbraith",
+   "p": 600
+  },
+  {
+   "q": "Which spell conjures the Dark Mark?",
+   "a": "Morsmordre",
+   "p": 600
+  },
+  {
+   "q": "What is Tonks's first name?",
+   "a": "Nymphadora",
+   "p": 600
+  },
+  {
+   "q": "Which mysterious Ministry department holds the Hall of Prophecy?",
+   "a": "Department of Mysteries",
+   "p": 600
+  },
+  {
+   "q": "What is Ron Weasley's middle name?",
+   "a": "Bilius",
+   "p": 600
+  },
+  {
+   "q": "What is the name of Ravenclaw's house ghost?",
+   "a": "The Grey Lady",
+   "p": 600,
+   "alt": [
+    "Grey Lady",
+    "Helena Ravenclaw"
+   ]
+  },
+  {
+   "q": "Which magical cabinet lets Death Eaters into Hogwarts in Half-Blood Prince?",
+   "a": "Vanishing Cabinet",
+   "p": 600
+  },
+  {
+   "q": "Which actress plays Luna Lovegood?",
+   "a": "Evanna Lynch",
+   "p": 600
+  },
+  {
+   "q": "Which actor plays Neville Longbottom?",
+   "a": "Matthew Lewis",
+   "p": 600
+  },
+  {
+   "q": "Which actress plays Ginny Weasley?",
+   "a": "Bonnie Wright",
+   "p": 600
+  },
+  {
+   "q": "Which actress plays Dolores Umbridge?",
+   "a": "Imelda Staunton",
+   "p": 600
+  },
+  {
+   "q": "Which actor plays Lucius Malfoy?",
+   "a": "Jason Isaacs",
+   "p": 600
   }
  ]
 }

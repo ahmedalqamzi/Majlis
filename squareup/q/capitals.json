@@ -304,6 +304,19 @@
    "p": 200
   },
   {
+   "q": "On which continent are the capitals Havana, Kingston and Ottawa?",
+   "a": "North America",
+   "p": 200
+  },
+  {
+   "q": "On which continent, or region, are the capitals Suva and Port Moresby?",
+   "a": "Oceania",
+   "p": 400,
+   "alt": [
+    "Australia and Oceania"
+   ]
+  },
+  {
    "q": "Which capital city of a Gulf state is home to the Bab Al Bahrain gateway?",
    "a": "Manama",
    "p": 400,
@@ -328,11 +341,6 @@
   {
    "q": "Which country has three capital cities: Pretoria, Cape Town and Bloemfontein?",
    "a": "South Africa",
-   "p": 200
-  },
-  {
-   "q": "Which capital city hosted the 2024 Summer Olympics?",
-   "a": "Paris",
    "p": 200
   },
   {
@@ -708,49 +716,39 @@
    "p": 400
   },
   {
-   "q": "Which capital city hosted the 2006 Asian Games?",
-   "a": "Doha",
-   "p": 600
-  },
-  {
-   "q": "Which East African capital's name comes from a Maasai phrase meaning 'cool water'?",
-   "a": "Nairobi",
-   "p": 600
-  },
-  {
    "q": "What is the capital city of Laos?",
    "a": "Vientiane",
-   "p": 400
+   "p": 600
   },
   {
    "q": "What is the capital city of Mozambique?",
    "a": "Maputo",
-   "p": 400
+   "p": 600
   },
   {
    "q": "What is the capital city of Angola?",
    "a": "Luanda",
-   "p": 400
+   "p": 600
   },
   {
    "q": "What is the capital city of Madagascar?",
    "a": "Antananarivo",
-   "p": 400
+   "p": 600
   },
   {
    "q": "What is the capital city of Fiji?",
    "a": "Suva",
-   "p": 400
+   "p": 600
   },
   {
    "q": "What is the capital city of Papua New Guinea?",
    "a": "Port Moresby",
-   "p": 400
+   "p": 600
   },
   {
    "q": "What is the capital city of Cameroon?",
    "a": "Yaounde",
-   "p": 400,
+   "p": 600,
    "alt": [
     "Yaoundé"
    ]
@@ -758,27 +756,27 @@
   {
    "q": "What is the capital city of Mali?",
    "a": "Bamako",
-   "p": 400
+   "p": 600
   },
   {
    "q": "What is the capital city of Trinidad and Tobago?",
    "a": "Port of Spain",
-   "p": 400
+   "p": 600
   },
   {
    "q": "What is the capital city of Honduras?",
    "a": "Tegucigalpa",
-   "p": 400
+   "p": 600
   },
   {
    "q": "What is the capital city of Nicaragua?",
    "a": "Managua",
-   "p": 400
+   "p": 600
   },
   {
    "q": "What is the capital city of Botswana?",
    "a": "Gaborone",
-   "p": 400
+   "p": 600
   },
   {
    "q": "Which planned city replaced Belize City as the capital of Belize in 1970?",
@@ -919,23 +917,8 @@
    "ar": "موروني"
   },
   {
-   "q": "What is the capital city of Timor-Leste?",
-   "a": "Dili",
-   "p": 600
-  },
-  {
-   "q": "What is the capital city of Cape Verde?",
-   "a": "Praia",
-   "p": 600
-  },
-  {
    "q": "What is the capital city of Barbados?",
    "a": "Bridgetown",
-   "p": 600
-  },
-  {
-   "q": "What is the capital city of Saint Lucia?",
-   "a": "Castries",
    "p": 600
   },
   {
@@ -946,21 +929,6 @@
   {
    "q": "What is the capital city of Tonga?",
    "a": "Nuku'alofa",
-   "p": 600
-  },
-  {
-   "q": "What is the capital city of Vanuatu?",
-   "a": "Port Vila",
-   "p": 600
-  },
-  {
-   "q": "What is the capital city of the Solomon Islands?",
-   "a": "Honiara",
-   "p": 600
-  },
-  {
-   "q": "What is the capital city of the Marshall Islands?",
-   "a": "Majuro",
    "p": 600
   },
   {
