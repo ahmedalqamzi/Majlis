@@ -11,7 +11,13 @@
     "Oman Gulf",
     "Sea of Oman"
    ],
-   "apic": "Gulf of Oman"
+   "apic": "Gulf of Oman",
+   "qar": [
+    [
+     "Khor Fakkan",
+     "خورفكان"
+    ]
+   ]
   },
   {
    "q": "Which emirate lies entirely on the UAE's east coast, away from the Arabian Gulf?",
@@ -60,7 +66,6 @@
    "q": "Fujairah is known for a traditional contest in which two bulls lock horns and push each other. What is it called?",
    "a": "Bull butting",
    "p": 200,
-   "ar": "مصارعة الثيران",
    "alt": [
     "Bullfighting",
     "Bull fighting",
@@ -73,9 +78,14 @@
    "q": "Al Bidya in Fujairah is believed to be the oldest example of what type of building in the UAE?",
    "a": "Mosque",
    "p": 200,
-   "ar": "مسجد",
    "alt": [
     "Masjid"
+   ],
+   "qar": [
+    [
+     "Al Bidya",
+     "البدية"
+    ]
    ]
   },
   {
@@ -87,7 +97,13 @@
     "Mineral water",
     "Drinking water"
    ],
-   "apic": "Bottled water"
+   "apic": "Bottled water",
+   "qar": [
+    [
+     "Masafi",
+     "مسافي"
+    ]
+   ]
   },
   {
    "q": "Khor Fakkan and Kalba lie on the east coast but belong to which emirate?",
@@ -98,7 +114,17 @@
     "Al Sharjah"
    ],
    "pic": "Khor Fakkan",
-   "apic": "Sharjah (emirate)"
+   "apic": "Sharjah (emirate)",
+   "qar": [
+    [
+     "Khor Fakkan",
+     "خورفكان"
+    ],
+    [
+     "Kalba",
+     "كلباء"
+    ]
+   ]
   },
   {
    "q": "The town of Dibba is partly in the UAE and partly in which neighbouring country?",
@@ -109,7 +135,13 @@
     "Sultanate of Oman"
    ],
    "pic": "Dibba",
-   "apic": "Oman"
+   "apic": "Oman",
+   "qar": [
+    [
+     "Dibba",
+     "دبا"
+    ]
+   ]
   },
   {
    "q": "In the Hajar Mountains, what is the name for a valley or dry riverbed that floods after heavy rain?",
@@ -119,16 +151,27 @@
    "alt": [
     "Wady"
    ],
-   "apic": "Wadi"
+   "apic": "Wadi",
+   "qar": [
+    [
+     "Hajar Mountains",
+     "جبال الحجر"
+    ]
+   ]
   },
   {
    "q": "What does 'Jebel', as in Jebel Hafeet, mean in Arabic?",
    "a": "Mountain",
    "p": 200,
-   "ar": "جبل",
    "alt": [
     "Mount",
     "Hill"
+   ],
+   "qar": [
+    [
+     "Jebel",
+     "جبل"
+    ]
    ]
   },
   {
@@ -192,16 +235,31 @@
     "Mangroves",
     "Mangrove trees"
    ],
-   "apic": "Mangrove"
+   "apic": "Mangrove",
+   "qar": [
+    [
+     "Kalba",
+     "كلباء"
+    ]
+   ]
   },
   {
    "q": "Dibba and Khor Fakkan are known for fish markets, reflecting which traditional east coast livelihood?",
    "a": "Fishing",
    "p": 200,
-   "ar": "صيد الأسماك",
    "alt": [
     "Fish",
     "Fisheries"
+   ],
+   "qar": [
+    [
+     "Dibba",
+     "دبا"
+    ],
+    [
+     "Khor Fakkan",
+     "خورفكان"
+    ]
    ]
   },
   {
@@ -216,7 +274,6 @@
    "q": "What is the name for a seaside promenade like the one in Fujairah, a word borrowed from French?",
    "a": "Corniche",
    "p": 200,
-   "ar": "كورنيش",
    "alt": [
     "Cornish"
    ],
@@ -247,7 +304,6 @@
    "q": "Fujairah is on the Gulf of Oman. Which gulf lies along the UAE's western coast?",
    "a": "Arabian Gulf",
    "p": 200,
-   "ar": "الخليج العربي",
    "alt": [
     "Persian Gulf",
     "The Gulf",
@@ -259,7 +315,6 @@
    "q": "On which day of the week are Fujairah's traditional animal contests usually held?",
    "a": "Friday",
    "p": 200,
-   "ar": "الجمعة",
    "alt": [
     "Fridays",
     "Juma'a",
@@ -270,21 +325,31 @@
    "q": "What does the Arabic word 'Jazira' mean?",
    "a": "Island",
    "p": 200,
-   "ar": "جزيرة",
    "alt": [
     "Jazirah",
     "Isle"
+   ],
+   "qar": [
+    [
+     "Jazira",
+     "جزيرة"
+    ]
    ]
   },
   {
    "q": "In Arabic, what is a 'mina'?",
    "a": "Port",
    "p": 200,
-   "ar": "ميناء",
    "alt": [
     "Harbour",
     "Harbor",
     "Seaport"
+   ],
+   "qar": [
+    [
+     "mina",
+     "ميناء"
+    ]
    ]
   },
   {
@@ -296,13 +361,18 @@
     "Ghaf tree",
     "Prosopis cineraria"
    ],
-   "apic": "Prosopis cineraria"
+   "apic": "Prosopis cineraria",
+   "qar": [
+    [
+     "Hajar Mountains",
+     "جبال الحجر"
+    ]
+   ]
   },
   {
    "q": "Which fruit-bearing tree is the symbol of traditional farming in east coast oases?",
    "a": "Date palm",
    "p": 200,
-   "ar": "النخلة",
    "alt": [
     "Palm",
     "Date palm tree",
@@ -329,7 +399,13 @@
    "alt": [
     "Hatta village"
    ],
-   "apic": "Hatta"
+   "apic": "Hatta",
+   "qar": [
+    [
+     "Hajar Mountains",
+     "جبال الحجر"
+    ]
+   ]
   },
   {
    "q": "Jebel Hafeet, an outlier of the Hajar range, towers over which city?",
@@ -340,7 +416,13 @@
     "Al-Ain"
    ],
    "pic": "Jebel Hafeet",
-   "apic": "Al Ain"
+   "apic": "Al Ain",
+   "qar": [
+    [
+     "Jebel Hafeet",
+     "جبل حفيت"
+    ]
+   ]
   },
   {
    "q": "What do you call off-road driving over dunes and rocky wadis, a popular UAE outdoor activity?",
@@ -358,7 +440,6 @@
    "q": "What type of traditional wooden sailing boat is a symbol of Gulf maritime heritage?",
    "a": "Dhow",
    "p": 200,
-   "ar": "داو",
    "alt": [
     "Dhau",
     "Dhaw"
@@ -369,7 +450,6 @@
    "q": "Which bird of prey, central to Emirati heritage, is the UAE's national bird?",
    "a": "Falcon",
    "p": 200,
-   "ar": "الصقر",
    "alt": [
     "Saker falcon",
     "Peregrine falcon"
@@ -393,7 +473,13 @@
    "alt": [
     "Portuguese"
    ],
-   "apic": "Portuguese Empire"
+   "apic": "Portuguese Empire",
+   "qar": [
+    [
+     "Khor Fakkan",
+     "خورفكان"
+    ]
+   ]
   },
   {
    "q": "What is the term for supplying fuel to ships, a business for which Fujairah's port is famous?",
@@ -409,13 +495,18 @@
    "a": "Abu Dhabi",
    "p": 400,
    "ar": "أبوظبي",
-   "apic": "Abu Dhabi"
+   "apic": "Abu Dhabi",
+   "qar": [
+    [
+     "Habshan",
+     "حبشان"
+    ]
+   ]
   },
   {
    "q": "Which wild mountain goat relative roams the Hajar range?",
    "a": "Arabian tahr",
    "p": 400,
-   "ar": "الطهر العربي",
    "alt": [
     "Tahr"
    ],
@@ -431,13 +522,26 @@
     "Wadi Al Wurayah",
     "Wadi Wuraya"
    ],
-   "apic": "Wadi Wurayah"
+   "apic": "Wadi Wurayah",
+   "qar": [
+    [
+     "Masafi",
+     "مسافي"
+    ],
+    [
+     "Khor Fakkan",
+     "خورفكان"
+    ],
+    [
+     "Al Bidya",
+     "البدية"
+    ]
+   ]
   },
   {
    "q": "Fujairah's mountain reserve is home to the UAE's only permanent natural what?",
    "a": "Waterfall",
    "p": 400,
-   "ar": "شلال",
    "alt": [
     "Falls"
    ],
@@ -483,27 +587,47 @@
    "alt": [
     "RAK"
    ],
-   "apic": "Ras Al Khaimah"
+   "apic": "Ras Al Khaimah",
+   "qar": [
+    [
+     "Masafi",
+     "مسافي"
+    ]
+   ]
   },
   {
    "q": "What does the Arabic word 'khor', as in Khor Kalba, mean?",
    "a": "Creek",
    "p": 400,
-   "ar": "خور",
    "alt": [
     "Inlet",
     "Bay",
     "Lagoon"
+   ],
+   "qar": [
+    [
+     "khor",
+     "خور"
+    ],
+    [
+     "Khor Kalba",
+     "خور كلباء"
+    ]
    ]
   },
   {
    "q": "In the name Dibba Al Hisn, what does 'Hisn' mean?",
    "a": "Fort",
    "p": 400,
-   "ar": "حصن",
    "alt": [
     "Fortress",
     "Castle"
+   ],
+   "qar": [
+    [
+     "Dibba Al Hisn",
+     "دبا الحصن"
+    ]
    ]
   },
   {
@@ -534,6 +658,12 @@
    "p": 400,
    "alt": [
     "4"
+   ],
+   "qar": [
+    [
+     "Al Bidya",
+     "البدية"
+    ]
    ]
   },
   {
@@ -555,7 +685,13 @@
     "Musandam Peninsula"
    ],
    "pic": "Dibba",
-   "apic": "Musandam Peninsula"
+   "apic": "Musandam Peninsula",
+   "qar": [
+    [
+     "Dibba",
+     "دبا"
+    ]
+   ]
   },
   {
    "q": "Before 1971, the emirates were known collectively as the what States?",
@@ -582,11 +718,16 @@
    "q": "What does the name 'Hajar' mean in English?",
    "a": "Rock",
    "p": 400,
-   "ar": "حجر",
    "alt": [
     "Stone",
     "Rocks",
     "Stones"
+   ],
+   "qar": [
+    [
+     "Hajar",
+     "الحجر"
+    ]
    ]
   },
   {
@@ -604,7 +745,6 @@
    "q": "Which critically endangered big cat is native to the Hajar Mountains region?",
    "a": "Arabian leopard",
    "p": 400,
-   "ar": "النمر العربي",
    "alt": [
     "Leopard"
    ],
@@ -618,17 +758,32 @@
    "alt": [
     "Qasimi",
     "Al Qasimi family"
+   ],
+   "qar": [
+    [
+     "Khor Fakkan",
+     "خورفكان"
+    ],
+    [
+     "Kalba",
+     "كلباء"
+    ]
    ]
   },
   {
    "q": "In Arabic, 'ain' means both 'eye' and what natural water source?",
    "a": "Spring",
    "p": 400,
-   "ar": "عين",
    "alt": [
     "Water spring"
    ],
-   "apic": "Spring (hydrology)"
+   "apic": "Spring (hydrology)",
+   "qar": [
+    [
+     "ain",
+     "عين"
+    ]
+   ]
   },
   {
    "q": "Which Omani port city on the Batinah coast lies south of Fujairah?",
@@ -638,7 +793,13 @@
    "alt": [
     "Suhar"
    ],
-   "apic": "Sohar"
+   "apic": "Sohar",
+   "qar": [
+    [
+     "Batinah",
+     "الباطنة"
+    ]
+   ]
   },
   {
    "q": "Which thorny tree with edible 'nabk' fruit grows in the Hajar wadis?",
@@ -650,24 +811,34 @@
     "Jujube",
     "Ziziphus"
    ],
-   "apic": "Ziziphus spina-christi"
+   "apic": "Ziziphus spina-christi",
+   "qar": [
+    [
+     "nabk",
+     "نبق"
+    ]
+   ]
   },
   {
    "q": "Which prized fish, a favourite on UAE seafood menus, is known by the Arabic name 'hammour'?",
    "a": "Grouper",
    "p": 400,
-   "ar": "هامور",
    "alt": [
     "Hammour",
     "Hamour"
    ],
-   "apic": "Grouper"
+   "apic": "Grouper",
+   "qar": [
+    [
+     "hammour",
+     "هامور"
+    ]
+   ]
   },
   {
    "q": "Which wild canine of the Arabian Peninsula, smaller than its European cousin, lives in the Hajar?",
    "a": "Arabian wolf",
    "p": 400,
-   "ar": "الذئب العربي",
    "alt": [
     "Wolf"
    ],
@@ -681,28 +852,48 @@
    "alt": [
     "Dibba Al-Hisn",
     "Dibba Hisn"
+   ],
+   "qar": [
+    [
+     "Khor Fakkan",
+     "خورفكان"
+    ],
+    [
+     "Kalba",
+     "كلباء"
+    ]
    ]
   },
   {
    "q": "In Arabic, what does 'Khaleej' mean?",
    "a": "Gulf",
    "p": 400,
-   "ar": "خليج",
    "alt": [
     "Bay"
+   ],
+   "qar": [
+    [
+     "Khaleej",
+     "خليج"
+    ]
    ]
   },
   {
    "q": "What is a 'falaj' in the UAE?",
    "a": "Irrigation channel",
    "p": 400,
-   "ar": "فلج",
    "alt": [
     "Aflaj",
     "Water channel",
     "Irrigation system"
    ],
-   "apic": "Falaj"
+   "apic": "Falaj",
+   "qar": [
+    [
+     "falaj",
+     "فلج"
+    ]
+   ]
   },
   {
    "q": "What is the Arabic word for beach?",
@@ -719,7 +910,13 @@
    "a": "Limestone",
    "p": 400,
    "pic": "Jebel Hafeet",
-   "apic": "Limestone"
+   "apic": "Limestone",
+   "qar": [
+    [
+     "Jebel Hafeet",
+     "جبل حفيت"
+    ]
+   ]
   },
   {
    "q": "Which Arabic word, meaning 'north', names the strong wind that sweeps the Gulf region?",
@@ -739,6 +936,12 @@
     "Corfacão",
     "Corfação",
     "Corfaçao"
+   ],
+   "qar": [
+    [
+     "Khor Fakkan",
+     "خورفكان"
+    ]
    ]
   },
   {
@@ -748,12 +951,24 @@
    "alt": [
     "Two Jaws",
     "Creek of Two Jaws"
+   ],
+   "qar": [
+    [
+     "Khor Fakkan",
+     "خورفكان"
+    ]
    ]
   },
   {
    "q": "In which year did Britain recognise Kalba as a separate Trucial State?",
    "a": "1936",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Kalba",
+     "كلباء"
+    ]
+   ]
   },
   {
    "q": "In which year did Britain recognise Fujairah as a Trucial State, the last of them to be recognised?",
@@ -764,7 +979,7 @@
    "q": "Who ruled Fujairah when it joined the UAE in 1971?",
    "a": "Sheikh Mohammed bin Hamad Al Sharqi",
    "p": 600,
-   "ar": "محمد بن حمد الشرقي",
+   "ar": "الشيخ محمد بن حمد الشرقي",
    "alt": [
     "Mohammed bin Hamad Al Sharqi",
     "Mohammed bin Hamad"
@@ -778,13 +993,18 @@
    "alt": [
     "Sharqiyeen",
     "Al Sharqiyin"
+   ],
+   "qar": [
+    [
+     "Al Sharqi",
+     "الشرقي"
+    ]
    ]
   },
   {
    "q": "Besides dried grass, spiced ghee and dried fish, which sweet mountain product is fed to some prized Fujairah bulls?",
    "a": "Honey",
    "p": 600,
-   "ar": "العسل",
    "alt": [
     "Mountain honey"
    ]
@@ -808,6 +1028,12 @@
     "Pillar",
     "Column",
     "Central column"
+   ],
+   "qar": [
+    [
+     "Al Bidya",
+     "البدية"
+    ]
    ]
   },
   {
@@ -818,7 +1044,13 @@
    "alt": [
     "Jabal Shams"
    ],
-   "apic": "Jebel Shams"
+   "apic": "Jebel Shams",
+   "qar": [
+    [
+     "Hajar Mountains",
+     "جبال الحجر"
+    ]
+   ]
   },
   {
    "q": "Geologists prize the Hajar Mountains for exposing a rare slice of ancient oceanic crust. What is this rock formation called?",
@@ -828,13 +1060,18 @@
     "Semail Ophiolite",
     "Samail Ophiolite"
    ],
-   "apic": "Ophiolite"
+   "apic": "Ophiolite",
+   "qar": [
+    [
+     "Hajar Mountains",
+     "جبال الحجر"
+    ]
+   ]
   },
   {
    "q": "What is the common name of Avicennia marina, the only mangrove species native to the UAE?",
    "a": "Grey mangrove",
    "p": 600,
-   "ar": "القرم",
    "alt": [
     "Gray mangrove",
     "White mangrove",
@@ -851,7 +1088,13 @@
     "Arabian collared kingfisher",
     "Kingfisher"
    ],
-   "apic": "Collared kingfisher"
+   "apic": "Collared kingfisher",
+   "qar": [
+    [
+     "Kalba",
+     "كلباء"
+    ]
+   ]
   },
   {
    "q": "UNESCO recognised Wadi Wurayah as which type of protected area, linked to people and nature?",
@@ -861,7 +1104,13 @@
     "Biosphere"
    ],
    "pic": "Wadi Wurayah",
-   "apic": "Biosphere reserve"
+   "apic": "Biosphere reserve",
+   "qar": [
+    [
+     "Wadi Wurayah",
+     "وادي الوريعة"
+    ]
+   ]
   },
   {
    "q": "Masafi lies at the inland entrance of which wadi that leads towards the east coast?",
@@ -875,7 +1124,13 @@
   {
    "q": "In which year did Wadi Wurayah become the UAE's first protected mountain area?",
    "a": "2009",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Wadi Wurayah",
+     "وادي الوريعة"
+    ]
+   ]
   },
   {
    "q": "What is the Gulf Arabic name for kingfish, a popular catch on the east coast?",
@@ -898,7 +1153,17 @@
    "alt": [
     "Khasab town"
    ],
-   "apic": "Khasab"
+   "apic": "Khasab",
+   "qar": [
+    [
+     "Musandam",
+     "مسندم"
+    ],
+    [
+     "Dibba",
+     "دبا"
+    ]
+   ]
   },
   {
    "q": "Beehive-shaped tombs found on Jebel Hafeet and in the Hajar gave their name to which Early Bronze Age period?",
@@ -910,12 +1175,24 @@
     "Hafeet"
    ],
    "pic": "Jebel Hafeet",
-   "apic": "Hafit period"
+   "apic": "Hafit period",
+   "qar": [
+    [
+     "Jebel Hafeet",
+     "جبل حفيت"
+    ]
+   ]
   },
   {
    "q": "In which year did the Khor Fakkan Container Terminal open?",
    "a": "1979",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Khor Fakkan",
+     "خورفكان"
+    ]
+   ]
   },
   {
    "q": "The restored Kalba Fort is thought to stand on foundations laid by which European power?",
@@ -923,6 +1200,12 @@
    "p": 600,
    "alt": [
     "Portuguese"
+   ],
+   "qar": [
+    [
+     "Kalba",
+     "كلباء"
+    ]
    ]
   },
   {
@@ -931,12 +1214,24 @@
    "p": 600,
    "alt": [
     "6"
+   ],
+   "qar": [
+    [
+     "Sheikh Zayed Mosque",
+     "مسجد الشيخ زايد"
+    ]
    ]
   },
   {
    "q": "In which year did the Habshan-Fujairah oil pipeline begin operating?",
    "a": "2012",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Habshan",
+     "حبشان"
+    ]
+   ]
   },
   {
    "q": "Under which international wetlands convention is Wadi Wurayah listed as a site of international importance?",
@@ -945,6 +1240,12 @@
    "alt": [
     "Ramsar Convention",
     "Ramsar site"
+   ],
+   "qar": [
+    [
+     "Wadi Wurayah",
+     "وادي الوريعة"
+    ]
    ]
   },
   {
@@ -961,7 +1262,13 @@
     "World Wildlife Fund"
    ],
    "pic": "Wadi Wurayah",
-   "apic": "World Wide Fund for Nature"
+   "apic": "World Wide Fund for Nature",
+   "qar": [
+    [
+     "Wadi Wurayah",
+     "وادي الوريعة"
+    ]
+   ]
   },
   {
    "q": "Which Portuguese commander captured Khor Fakkan in the early 1500s?",
@@ -972,7 +1279,13 @@
     "Alfonso de Albuquerque"
    ],
    "pic": "Khor Fakkan",
-   "apic": "Afonso de Albuquerque"
+   "apic": "Afonso de Albuquerque",
+   "qar": [
+    [
+     "Khor Fakkan",
+     "خورفكان"
+    ]
+   ]
   },
   {
    "q": "How many rowers, not counting the coxswain, crew a racing version of Fujairah's palm-frond fishing boat?",
@@ -1005,7 +1318,13 @@
   {
    "q": "Which small island off Khor Fakkan is named after a predatory fish?",
    "a": "Shark Island",
-   "p": 200
+   "p": 200,
+   "qar": [
+    [
+     "Khor Fakkan",
+     "خورفكان"
+    ]
+   ]
   },
   {
    "q": "Which compass direction does Fujairah's coastline face?",
@@ -1018,6 +1337,12 @@
    "p": 200,
    "alt": [
     "Canoeing"
+   ],
+   "qar": [
+    [
+     "Hatta",
+     "حتا"
+    ]
    ]
   },
   {
@@ -1028,14 +1353,16 @@
   {
    "q": "Which mountain adventure park in Hatta offers mountain biking, zip lines and wall climbing?",
    "a": "Hatta Wadi Hub",
-   "p": 200
+   "p": 200,
+   "ar": "حتا وادي هب"
   },
   {
    "q": "Which country does the exclave of Madha, surrounded by UAE territory near Fujairah, belong to?",
    "a": "Oman",
    "p": 200,
    "pic": "Madha",
-   "apic": "Oman"
+   "apic": "Oman",
+   "ar": "عُمان"
   },
   {
    "q": "Which big flightless bird's decorated egg, about 4,500 years old, is a star exhibit of Fujairah Museum?",
@@ -1060,13 +1387,19 @@
    "alt": [
     "Of the east",
     "East"
+   ],
+   "qar": [
+    [
+     "sharqi",
+     "شرقي"
+    ]
    ]
   },
   {
    "q": "Who became Ruler of Fujairah in 1974?",
    "a": "Sheikh Hamad bin Mohammed Al Sharqi",
    "p": 400,
-   "ar": "حمد بن محمد الشرقي",
+   "ar": "الشيخ حمد بن محمد الشرقي",
    "alt": [
     "Hamad bin Mohammed"
    ],
@@ -1079,6 +1412,12 @@
    "ar": "دبا البيعة",
    "alt": [
     "Daba Al Bayah"
+   ],
+   "qar": [
+    [
+     "Dibba",
+     "دبا"
+    ]
    ]
   },
   {
@@ -1089,7 +1428,14 @@
     "Fjords",
     "Khor"
    ],
-   "pic": "Musandam Peninsula"
+   "pic": "Musandam Peninsula",
+   "ar": "أخوار",
+   "qar": [
+    [
+     "Musandam",
+     "مسندم"
+    ]
+   ]
   },
   {
    "q": "Which Fujairah park is known for natural mineral springs fed from the mountains?",
@@ -1106,7 +1452,13 @@
    "p": 400,
    "ar": "نحوة",
    "pic": "Madha",
-   "apic": "Nahwa"
+   "apic": "Nahwa",
+   "qar": [
+    [
+     "Madha",
+     "مدحاء"
+    ]
+   ]
   },
   {
    "q": "What is the Emirati name for small sardines, dried on east-coast beaches and used as feed and fertiliser?",
@@ -1130,19 +1482,37 @@
    "p": 400,
    "alt": [
     "About 28,000"
+   ],
+   "qar": [
+    [
+     "Sheikh Zayed Mosque",
+     "مسجد الشيخ زايد"
+    ]
    ]
   },
   {
    "q": "Al Bidya Mosque is popularly known by which other name, linked to an empire?",
    "a": "Ottoman Mosque",
    "p": 400,
-   "pic": "Al Bidya Mosque"
+   "pic": "Al Bidya Mosque",
+   "qar": [
+    [
+     "Al Bidya",
+     "البدية"
+    ]
+   ]
   },
   {
    "q": "Which year did Fujairah's heritage department settle on for the building of Al Bidya Mosque?",
    "a": "1446",
    "p": 600,
-   "pic": "Al Bidya Mosque"
+   "pic": "Al Bidya Mosque",
+   "qar": [
+    [
+     "Al Bidya",
+     "البدية"
+    ]
+   ]
   },
   {
    "q": "Which navy bombarded Fujairah Fort in 1925, destroying three of its towers?",
@@ -1157,7 +1527,13 @@
   {
    "q": "In which year was the border settled that made Madha an Omani exclave?",
    "a": "1969",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Madha",
+     "مدحاء"
+    ]
+   ]
   },
   {
    "q": "Which Fujairah media free zone was founded in 2007?",
@@ -1192,6 +1568,16 @@
    "alt": [
     "Shihhi",
     "Al Shehhi"
+   ],
+   "qar": [
+    [
+     "Musandam",
+     "مسندم"
+    ],
+    [
+     "Dibba",
+     "دبا"
+    ]
    ]
   },
   {
@@ -1199,7 +1585,13 @@
    "a": "Kumzar",
    "p": 600,
    "ar": "كمزار",
-   "apic": "Kumzar"
+   "apic": "Kumzar",
+   "qar": [
+    [
+     "Musandam",
+     "مسندم"
+    ]
+   ]
   },
   {
    "q": "Which Fujairah fort guards the Wadi Ham pass through the mountains?",
@@ -1209,7 +1601,13 @@
    "alt": [
     "Bithnah"
    ],
-   "apic": "Bithnah Fort"
+   "apic": "Bithnah Fort",
+   "qar": [
+    [
+     "Wadi Ham",
+     "وادي حام"
+    ]
+   ]
   },
   {
    "q": "Which hilltop watchtower overlooks the town and bay of Khor Fakkan?",
@@ -1218,6 +1616,12 @@
    "ar": "برج الربيع",
    "alt": [
     "Rabi Tower"
+   ],
+   "qar": [
+    [
+     "Khor Fakkan",
+     "خورفكان"
+    ]
    ]
   },
   {
@@ -1227,15 +1631,31 @@
    "alt": [
     "Sydney University"
    ],
-   "apic": "University of Sydney"
+   "apic": "University of Sydney",
+   "qar": [
+    [
+     "Al Bidya",
+     "البدية"
+    ]
+   ]
   },
   {
    "q": "In 1884, which Al Sharqi sheikh took Bithnah Fort, helping establish Fujairah's independence?",
    "a": "Sheikh Hamad bin Abdullah Al Sharqi",
    "p": 600,
-   "ar": "حمد بن عبدالله الشرقي",
+   "ar": "الشيخ حمد بن عبدالله الشرقي",
    "alt": [
     "Hamad bin Abdullah"
+   ],
+   "qar": [
+    [
+     "Al Sharqi",
+     "الشرقي"
+    ],
+    [
+     "Bithnah",
+     "البثنة"
+    ]
    ]
   },
   {
@@ -1245,6 +1665,12 @@
    "ar": "مدبسة",
    "alt": [
     "Madbassa"
+   ],
+   "qar": [
+    [
+     "Bithnah",
+     "البثنة"
+    ]
    ]
   }
  ]

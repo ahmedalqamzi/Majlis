@@ -49,7 +49,13 @@
    "alt": [
     "Marrakesh"
    ],
-   "apic": "Marrakesh"
+   "apic": "Marrakesh",
+   "qar": [
+    [
+     "Jemaa el-Fnaa",
+     "جامع الفنا"
+    ]
+   ]
   },
   {
    "q": "Which Moroccan mountain town is famous for its blue-painted streets?",
@@ -66,7 +72,6 @@
    "q": "Which mountain range stretches across Morocco, Algeria and Tunisia?",
    "a": "Atlas Mountains",
    "p": 200,
-   "ar": "جبال الأطلس",
    "alt": [
     "Atlas"
    ],
@@ -81,7 +86,13 @@
     "Kuskus",
     "Seksu"
    ],
-   "apic": "Couscous"
+   "apic": "Couscous",
+   "qar": [
+    [
+     "Maghreb",
+     "المغرب العربي"
+    ]
+   ]
   },
   {
    "q": "Which dish takes its name from the conical clay pot in which it is slow-cooked?",
@@ -99,13 +110,18 @@
    "a": "Carthage",
    "p": 200,
    "ar": "قرطاج",
-   "apic": "Carthage"
+   "apic": "Carthage",
+   "qar": [
+    [
+     "Tunis",
+     "تونس"
+    ]
+   ]
   },
   {
    "q": "In 2022, Morocco became the first African nation to reach which stage of the World Cup?",
    "a": "Semi-final",
    "p": 200,
-   "ar": "نصف النهائي",
    "alt": [
     "Semi-finals",
     "Last four",
@@ -116,13 +132,18 @@
    "q": "Which Moroccan explorer from Tangier travelled across much of the known world in the 14th century?",
    "a": "Ibn Battuta",
    "p": 200,
-   "ar": "ابن بطوطة"
+   "ar": "ابن بطوطة",
+   "qar": [
+    [
+     "Tangier",
+     "طنجة"
+    ]
+   ]
   },
   {
    "q": "By what nickname is the Moroccan national football team known?",
    "a": "Atlas Lions",
    "p": 200,
-   "ar": "أسود الأطلس",
    "alt": [
     "The Atlas Lions",
     "Lions of the Atlas"
@@ -133,7 +154,6 @@
    "q": "Which green tea with fresh mint is a symbol of Moroccan hospitality?",
    "a": "Moroccan mint tea",
    "p": 200,
-   "ar": "الشاي المغربي",
    "alt": [
     "Mint tea",
     "Maghrebi tea",
@@ -166,7 +186,6 @@
    "q": "Which narrow strait separates Morocco from Spain?",
    "a": "Strait of Gibraltar",
    "p": 200,
-   "ar": "مضيق جبل طارق",
    "alt": [
     "Gibraltar Strait"
    ],
@@ -217,7 +236,13 @@
    "a": "Harira",
    "p": 200,
    "ar": "حريرة",
-   "apic": "Harira"
+   "apic": "Harira",
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
+   ]
   },
   {
    "q": "Which French footballer of Algerian descent scored twice with his head in the 1998 World Cup final?",
@@ -233,14 +258,12 @@
    "q": "Which Carthaginian general famously crossed the Alps with war elephants?",
    "a": "Hannibal",
    "p": 200,
-   "ar": "حنبعل",
    "apic": "Hannibal"
   },
   {
    "q": "Which ocean forms Morocco's western coastline?",
    "a": "Atlantic Ocean",
    "p": 200,
-   "ar": "المحيط الأطلسي",
    "alt": [
     "Atlantic"
    ],
@@ -250,7 +273,6 @@
    "q": "Besides Arabic and Berber, which European language is widely spoken across the Maghreb?",
    "a": "French",
    "p": 200,
-   "ar": "الفرنسية",
    "apic": "French language"
   },
   {
@@ -264,7 +286,6 @@
    "q": "Which citrus fruit is a major agricultural export of Morocco?",
    "a": "Oranges",
    "p": 200,
-   "ar": "البرتقال",
    "alt": [
     "Orange"
    ],
@@ -301,13 +322,18 @@
     "Chakchouka",
     "Shakshouka"
    ],
-   "apic": "Shakshouka"
+   "apic": "Shakshouka",
+   "qar": [
+    [
+     "Maghreb",
+     "المغرب العربي"
+    ]
+   ]
   },
   {
    "q": "Which tree's fruit is pressed for Tunisia's famous oil?",
    "a": "Olive",
    "p": 200,
-   "ar": "الزيتون",
    "alt": [
     "Olives",
     "Olive tree"
@@ -318,17 +344,25 @@
    "q": "Which animal carries tourists on treks across the Saharan dunes of Merzouga?",
    "a": "Camel",
    "p": 200,
-   "ar": "الجمل",
    "alt": [
     "Dromedary"
    ],
-   "apic": "Dromedary"
+   "apic": "Dromedary",
+   "qar": [
+    [
+     "Merzouga",
+     "مرزوكة"
+    ],
+    [
+     "Sahara",
+     "الصحراء"
+    ]
+   ]
   },
   {
    "q": "Which sea lies off the northern coasts of Libya, Tunisia and Algeria?",
    "a": "Mediterranean Sea",
    "p": 200,
-   "ar": "البحر المتوسط",
    "alt": [
     "Mediterranean"
    ],
@@ -338,10 +372,15 @@
    "q": "What does the Arabic word 'Maghreb' mean?",
    "a": "The West",
    "p": 400,
-   "ar": "المغرب",
    "alt": [
     "West",
     "Place of sunset"
+   ],
+   "qar": [
+    [
+     "Maghreb",
+     "المغرب"
+    ]
    ]
   },
   {
@@ -385,7 +424,13 @@
     "Merguez sausage",
     "Mergaz"
    ],
-   "apic": "Merguez"
+   "apic": "Merguez",
+   "qar": [
+    [
+     "Maghrebi",
+     "مغاربي"
+    ]
+   ]
   },
   {
    "q": "Which Tunisian fried pastry is filled with egg, tuna or parsley?",
@@ -453,7 +498,13 @@
    "a": "Essaouira",
    "p": 400,
    "ar": "الصويرة",
-   "apic": "Essaouira"
+   "apic": "Essaouira",
+   "qar": [
+    [
+     "Gnawa",
+     "كناوة"
+    ]
+   ]
   },
   {
    "q": "Which blue-and-white clifftop village near Tunis is a popular tourist spot?",
@@ -463,7 +514,13 @@
    "alt": [
     "Sidi Bousaid"
    ],
-   "apic": "Sidi Bou Said"
+   "apic": "Sidi Bou Said",
+   "qar": [
+    [
+     "Tunis",
+     "تونس"
+    ]
+   ]
   },
   {
    "q": "Which Tunisian island is known for its beaches and historic synagogue and mosques?",
@@ -509,13 +566,18 @@
    "alt": [
     "Khaled"
    ],
-   "apic": "Khaled (musician)"
+   "apic": "Khaled (musician)",
+   "qar": [
+    [
+     "Rai",
+     "الراي"
+    ]
+   ]
   },
   {
    "q": "Which Algerian-born writer won the 1957 Nobel Prize in Literature and wrote The Stranger?",
    "a": "Albert Camus",
    "p": 400,
-   "ar": "ألبير كامو",
    "alt": [
     "Camus"
    ],
@@ -525,13 +587,18 @@
    "q": "Which Tunisian-born scholar of the 14th century wrote the Muqaddimah?",
    "a": "Ibn Khaldun",
    "p": 400,
-   "ar": "ابن خلدون"
+   "ar": "ابن خلدون",
+   "qar": [
+    [
+     "Muqaddimah",
+     "المقدمة"
+    ]
+   ]
   },
   {
    "q": "What name is given to the wars Rome fought against Carthage?",
    "a": "Punic Wars",
    "p": 400,
-   "ar": "الحروب البونية",
    "alt": [
     "Punic War"
    ],
@@ -572,21 +639,18 @@
    "q": "Which European team did Morocco knock out on penalties in the 2022 World Cup round of 16?",
    "a": "Spain",
    "p": 400,
-   "ar": "إسبانيا",
    "apic": "Spain national football team"
   },
   {
    "q": "Which European team did Morocco beat 1-0 in the 2022 World Cup quarter-final?",
    "a": "Portugal",
    "p": 400,
-   "ar": "البرتغال",
    "apic": "Portugal national football team"
   },
   {
    "q": "Which team beat Morocco in the 2022 World Cup semi-final?",
    "a": "France",
    "p": 400,
-   "ar": "فرنسا",
    "apic": "France national football team"
   },
   {
@@ -597,6 +661,12 @@
    "alt": [
     "The Rihla",
     "Rihlat Ibn Battuta"
+   ],
+   "qar": [
+    [
+     "Ibn Battuta",
+     "ابن بطوطة"
+    ]
    ]
   },
   {
@@ -608,7 +678,13 @@
     "Koutoubia",
     "Kutubiyya Mosque"
    ],
-   "apic": "Koutoubia Mosque"
+   "apic": "Koutoubia Mosque",
+   "qar": [
+    [
+     "Marrakech",
+     "مراكش"
+    ]
+   ]
   },
   {
    "q": "Which Marrakech square fills each evening with storytellers, musicians and food stalls?",
@@ -620,14 +696,26 @@
     "Jemaa el-Fna",
     "Jemaa el Fnaa"
    ],
-   "apic": "Jemaa el-Fnaa"
+   "apic": "Jemaa el-Fnaa",
+   "qar": [
+    [
+     "Marrakech",
+     "مراكش"
+    ]
+   ]
   },
   {
    "q": "Which Roman ruins near Meknes are a UNESCO site known for their mosaics?",
    "a": "Volubilis",
    "p": 400,
    "ar": "وليلي",
-   "apic": "Volubilis"
+   "apic": "Volubilis",
+   "qar": [
+    [
+     "Meknes",
+     "مكناس"
+    ]
+   ]
   },
   {
    "q": "Which Moroccan city, nicknamed the 'Hollywood of Morocco', hosts major film studios?",
@@ -644,7 +732,17 @@
    "alt": [
     "Touareg"
    ],
-   "apic": "Tuareg people"
+   "apic": "Tuareg people",
+   "qar": [
+    [
+     "Maghreb",
+     "المغرب العربي"
+    ],
+    [
+     "Sahara",
+     "الصحراء"
+    ]
+   ]
   },
   {
    "q": "Which Tunisian city is home to one of the oldest mosques in North Africa, founded in 670 CE?",
@@ -673,7 +771,6 @@
    "q": "Which team did Morocco face in the 2022 World Cup third-place match?",
    "a": "Croatia",
    "p": 600,
-   "ar": "كرواتيا",
    "apic": "Croatia national football team"
   },
   {
@@ -690,7 +787,6 @@
    "q": "Which European team did Morocco beat 2-0 in the 2022 World Cup group stage?",
    "a": "Belgium",
    "p": 600,
-   "ar": "بلجيكا",
    "apic": "Belgium national football team"
   },
   {
@@ -749,7 +845,6 @@
    "q": "Whom did Algeria beat 2-1 at the 1982 World Cup?",
    "a": "West Germany",
    "p": 600,
-   "ar": "ألمانيا الغربية",
    "alt": [
     "Germany"
    ],
@@ -759,18 +854,33 @@
    "q": "Which woman founded the Al-Qarawiyyin institution in Fes in 859?",
    "a": "Fatima al-Fihri",
    "p": 600,
-   "ar": "فاطمة الفهرية"
+   "ar": "فاطمة الفهرية",
+   "qar": [
+    [
+     "Al-Qarawiyyin",
+     "القرويين"
+    ],
+    [
+     "Fes",
+     "فاس"
+    ]
+   ]
   },
   {
    "q": "Which fashion designer bought and restored the Majorelle Garden in Marrakech in 1980?",
    "a": "Yves Saint Laurent",
    "p": 600,
-   "ar": "إيف سان لوران",
    "alt": [
     "YSL"
    ],
    "pic": "Majorelle Garden",
-   "apic": "Yves Saint Laurent (designer)"
+   "apic": "Yves Saint Laurent (designer)",
+   "qar": [
+    [
+     "Marrakech",
+     "مراكش"
+    ]
+   ]
   },
   {
    "q": "Which unfinished 12th-century minaret towers over Rabat?",
@@ -780,20 +890,41 @@
    "alt": [
     "Tour Hassan"
    ],
-   "apic": "Hassan Tower"
+   "apic": "Hassan Tower",
+   "qar": [
+    [
+     "Rabat",
+     "الرباط"
+    ]
+   ]
   },
   {
    "q": "For which pilgrimage did Ibn Battuta set out from Tangier in 1325?",
    "a": "Hajj",
    "p": 600,
-   "ar": "الحج"
+   "ar": "الحج",
+   "qar": [
+    [
+     "Ibn Battuta",
+     "ابن بطوطة"
+    ],
+    [
+     "Tangier",
+     "طنجة"
+    ]
+   ]
   },
   {
    "q": "In which Indian city did Ibn Battuta serve as a judge?",
    "a": "Delhi",
    "p": 600,
-   "ar": "دلهي",
-   "apic": "Delhi"
+   "apic": "Delhi",
+   "qar": [
+    [
+     "Ibn Battuta",
+     "ابن بطوطة"
+    ]
+   ]
   },
   {
    "q": "Which ancient Greek colony in eastern Libya is a UNESCO site on the Green Mountain?",
@@ -838,13 +969,18 @@
     "Mzab",
     "M'zab"
    ],
-   "apic": "M'zab"
+   "apic": "M'zab",
+   "qar": [
+    [
+     "Ghardaia",
+     "غرداية"
+    ]
+   ]
   },
   {
    "q": "Which Tyrian princess is said to have founded Carthage?",
    "a": "Dido",
    "p": 600,
-   "ar": "عليسة",
    "alt": [
     "Elissa"
    ],
@@ -854,7 +990,6 @@
    "q": "In which year was Carthage destroyed by Rome?",
    "a": "146 BC",
    "p": 600,
-   "ar": "146 ق.م",
    "alt": [
     "146 BCE",
     "146"
@@ -875,7 +1010,13 @@
    "alt": [
     "Chott el-Djerid"
    ],
-   "apic": "Chott el Djerid"
+   "apic": "Chott el Djerid",
+   "qar": [
+    [
+     "Sahara",
+     "الصحراء"
+    ]
+   ]
   },
   {
    "q": "Which Libyan resistance leader was nicknamed the 'Lion of the Desert'?",
@@ -920,7 +1061,13 @@
     "Tangia",
     "Tanjia Marrakchia"
    ],
-   "apic": "Tanjia"
+   "apic": "Tanjia",
+   "qar": [
+    [
+     "Marrakech",
+     "مراكش"
+    ]
+   ]
   },
   {
    "q": "Which North African country's flag is red with a green five-pointed star in the centre?",
@@ -951,7 +1098,17 @@
    "alt": [
     "Dar el Beida"
    ],
-   "apic": "Casablanca"
+   "apic": "Casablanca",
+   "qar": [
+    [
+     "Raja",
+     "الرجاء"
+    ],
+    [
+     "Wydad",
+     "الوداد"
+    ]
+   ]
   },
   {
    "q": "Which Moroccan right-back, born in Madrid, joined Paris Saint-Germain in 2021?",
@@ -1003,7 +1160,6 @@
    "q": "Which European country colonised Algeria from 1830?",
    "a": "France",
    "p": 200,
-   "ar": "فرنسا",
    "apic": "France"
   },
   {
@@ -1076,35 +1232,50 @@
    "alt": [
     "Raï"
    ],
-   "apic": "Raï"
+   "apic": "Raï",
+   "qar": [
+    [
+     "Oran",
+     "وهران"
+    ]
+   ]
   },
   {
    "q": "Couscous grains are traditionally made by rolling what wheat product?",
    "a": "Semolina",
    "p": 200,
-   "ar": "سميد",
    "alt": [
     "Durum wheat semolina",
     "Durum wheat"
    ],
-   "apic": "Semolina"
+   "apic": "Semolina",
+   "qar": [
+    [
+     "Couscous",
+     "كسكس"
+    ]
+   ]
   },
   {
    "q": "Deglet Nour is a famous variety of which fruit grown in Tunisian and Algerian oases?",
    "a": "Dates",
    "p": 200,
-   "ar": "تمر",
    "alt": [
     "Date",
     "Date palm"
    ],
-   "apic": "Date palm"
+   "apic": "Date palm",
+   "qar": [
+    [
+     "Deglet Nour",
+     "دقلة نور"
+    ]
+   ]
   },
   {
    "q": "Which animals are famous for climbing argan trees in south-west Morocco?",
    "a": "Goats",
    "p": 200,
-   "ar": "الماعز",
    "alt": [
     "Goat"
    ],
@@ -1114,10 +1285,15 @@
    "q": "Kaab el ghazal, crescent-shaped Moroccan almond pastries, are named after which part of a gazelle?",
    "a": "Horns",
    "p": 200,
-   "ar": "قرون",
    "alt": [
     "Horn",
     "Gazelle horns"
+   ],
+   "qar": [
+    [
+     "Kaab el ghazal",
+     "كعب الغزال"
+    ]
    ]
   },
   {
@@ -1129,7 +1305,13 @@
     "Souq",
     "Suq"
    ],
-   "apic": "Souk"
+   "apic": "Souk",
+   "qar": [
+    [
+     "medina",
+     "المدينة"
+    ]
+   ]
   },
   {
    "q": "In which country are the Roman ruins of Leptis Magna and Sabratha?",
@@ -1137,13 +1319,18 @@
    "p": 200,
    "ar": "ليبيا",
    "pic": "Leptis Magna",
-   "apic": "Libya"
+   "apic": "Libya",
+   "qar": [
+    [
+     "Sabratha",
+     "صبراتة"
+    ]
+   ]
   },
   {
    "q": "Which Carthaginian general's father, Hamilcar Barca, led Carthage in the First Punic War?",
    "a": "Hannibal",
    "p": 200,
-   "ar": "حنبعل",
    "alt": [
     "Hannibal Barca"
    ],
@@ -1153,26 +1340,29 @@
    "q": "Which European country lies just across the Strait of Gibraltar from Morocco?",
    "a": "Spain",
    "p": 200,
-   "ar": "إسبانيا",
    "apic": "Spain"
   },
   {
    "q": "Which ancient empire built Leptis Magna, El Jem's amphitheatre and Volubilis?",
    "a": "Roman Empire",
    "p": 200,
-   "ar": "الإمبراطورية الرومانية",
    "alt": [
     "Romans",
     "Rome",
     "The Romans"
    ],
-   "apic": "Roman Empire"
+   "apic": "Roman Empire",
+   "qar": [
+    [
+     "El Jem",
+     "الجم"
+    ]
+   ]
   },
   {
    "q": "Which ancient seafaring people from the Levant founded Carthage?",
    "a": "Phoenicians",
    "p": 200,
-   "ar": "الفينيقيون",
    "alt": [
     "Phoenician",
     "Tyrians"
@@ -1188,31 +1378,47 @@
     "Kofta",
     "Kafta"
    ],
-   "apic": "Kofta"
+   "apic": "Kofta",
+   "qar": [
+    [
+     "tagine",
+     "طاجين"
+    ]
+   ]
   },
   {
    "q": "Which preserved citrus fruit flavours the classic Moroccan chicken tagine with olives?",
    "a": "Lemon",
    "p": 200,
-   "ar": "الليمون",
    "alt": [
     "Preserved lemon",
     "Lemons"
    ],
-   "apic": "Preserved lemon"
+   "apic": "Preserved lemon",
+   "qar": [
+    [
+     "tagine",
+     "طاجين"
+    ]
+   ]
   },
   {
    "q": "Harissa paste gets its heat and red colour mainly from which ingredient?",
    "a": "Chilli peppers",
    "p": 200,
-   "ar": "الفلفل الحار",
    "alt": [
     "Chillies",
     "Chili",
     "Red peppers",
     "Hot peppers"
    ],
-   "apic": "Chili pepper"
+   "apic": "Chili pepper",
+   "qar": [
+    [
+     "Harissa",
+     "هريسة"
+    ]
+   ]
   },
   {
    "q": "Which Moroccan city names a 1969 Crosby, Stills & Nash song about a train ride?",
@@ -1238,25 +1444,35 @@
    "q": "The old medina of Fes, Fes el Bali, is famous as a huge urban area free of what?",
    "a": "Cars",
    "p": 200,
-   "ar": "السيارات",
    "alt": [
     "Cars and traffic",
     "Motor vehicles",
     "Traffic"
+   ],
+   "qar": [
+    [
+     "Fes el Bali",
+     "فاس البالي"
+    ]
    ]
   },
   {
    "q": "What colour is the home shirt of Morocco's national football team?",
    "a": "Red",
-   "p": 200,
-   "ar": "أحمر"
+   "p": 200
   },
   {
    "q": "Couscous was added to UNESCO's heritage list in 2020 in a joint bid by Algeria, Mauritania, Morocco and which country?",
    "a": "Tunisia",
    "p": 400,
    "ar": "تونس",
-   "apic": "Tunisia"
+   "apic": "Tunisia",
+   "qar": [
+    [
+     "Couscous",
+     "كسكس"
+    ]
+   ]
   },
   {
    "q": "Which village north of Agadir is Morocco's most famous surfing spot?",
@@ -1266,7 +1482,13 @@
    "alt": [
     "Taghazoute"
    ],
-   "apic": "Taghazout"
+   "apic": "Taghazout",
+   "qar": [
+    [
+     "Agadir",
+     "أكادير"
+    ]
+   ]
   },
   {
    "q": "Which small triangular or cigar-shaped Moroccan pastries are filled with meat, cheese or almonds?",
@@ -1283,7 +1505,6 @@
    "q": "Moroccan café 'nous-nous' is half coffee and half what?",
    "a": "Milk",
    "p": 200,
-   "ar": "حليب",
    "alt": [
     "Steamed milk",
     "Hot milk"
@@ -1305,29 +1526,38 @@
    "q": "Which hot, dusty south wind blows from the Sahara across the Mediterranean to southern Europe?",
    "a": "Sirocco",
    "p": 400,
-   "ar": "الشهيلي",
    "alt": [
     "Scirocco",
     "Ghibli",
     "Chergui"
    ],
-   "apic": "Sirocco"
+   "apic": "Sirocco",
+   "qar": [
+    [
+     "Sahara",
+     "الصحراء"
+    ]
+   ]
   },
   {
    "q": "Which French actor, star of 'Léon: The Professional', was born in Casablanca?",
    "a": "Jean Reno",
    "p": 400,
-   "ar": "جان رينو",
    "alt": [
     "Reno"
    ],
-   "apic": "Jean Reno"
+   "apic": "Jean Reno",
+   "qar": [
+    [
+     "Casablanca",
+     "الدار البيضاء"
+    ]
+   ]
   },
   {
    "q": "Which Italian island lies only about 150 km from Tunisia's Cap Bon?",
    "a": "Sicily",
    "p": 200,
-   "ar": "صقلية",
    "alt": [
     "Sicilia"
    ],
@@ -1376,14 +1606,12 @@
    "q": "Which European country ruled Libya as a colony from 1911?",
    "a": "Italy",
    "p": 200,
-   "ar": "إيطاليا",
    "apic": "Italy"
   },
   {
    "q": "Which Roman general defeated Hannibal at the Battle of Zama in 202 BC?",
    "a": "Scipio Africanus",
    "p": 400,
-   "ar": "سكيبيو الإفريقي",
    "alt": [
     "Scipio"
    ],
@@ -1393,10 +1621,15 @@
    "q": "Which Christian theologian, author of 'Confessions', was bishop of Hippo, now Annaba in Algeria?",
    "a": "Saint Augustine",
    "p": 400,
-   "ar": "القديس أوغسطين",
    "alt": [
     "Augustine",
     "Augustine of Hippo"
+   ],
+   "qar": [
+    [
+     "Annaba",
+     "عنابة"
+    ]
    ]
   },
   {
@@ -1417,7 +1650,13 @@
    "alt": [
     "Qacentina"
    ],
-   "apic": "Constantine, Algeria"
+   "apic": "Constantine, Algeria",
+   "qar": [
+    [
+     "Rhumel",
+     "الرمال"
+    ]
+   ]
   },
   {
    "q": "Which Moroccan Atlantic resort city was rebuilt after a devastating earthquake in 1960?",
@@ -1434,7 +1673,13 @@
    "alt": [
     "Meknès"
    ],
-   "apic": "Meknes"
+   "apic": "Meknes",
+   "qar": [
+    [
+     "Moulay Ismail",
+     "مولاي إسماعيل"
+    ]
+   ]
   },
   {
    "q": "Which dynasty has ruled Morocco since the 17th century?",
@@ -1462,7 +1707,6 @@
    "q": "In which year did Morocco gain independence from France?",
    "a": "1956",
    "p": 400,
-   "ar": "1956",
    "pic": "Morocco"
   },
   {
@@ -1508,7 +1752,6 @@
    "q": "Which monkey, the only macaque found in Africa, lives in the cedar forests of the Atlas?",
    "a": "Barbary macaque",
    "p": 400,
-   "ar": "المكاك البربري",
    "alt": [
     "Barbary ape",
     "Magot"
@@ -1530,7 +1773,13 @@
    "alt": [
     "Tifinag"
    ],
-   "apic": "Tifinagh"
+   "apic": "Tifinagh",
+   "qar": [
+    [
+     "Amazigh",
+     "الأمازيغ"
+    ]
+   ]
   },
   {
    "q": "What is the Amazigh New Year, celebrated in mid-January, called?",
@@ -1541,7 +1790,13 @@
     "Yenayer",
     "Ennayer"
    ],
-   "apic": "Yennayer"
+   "apic": "Yennayer",
+   "qar": [
+    [
+     "Amazigh",
+     "الأمازيغ"
+    ]
+   ]
   },
   {
    "q": "Which mountainous region of northern Algeria is the homeland of the Kabyle people?",
@@ -1583,7 +1838,13 @@
     "Shebakia",
     "Mkharka"
    ],
-   "apic": "Chebakia"
+   "apic": "Chebakia",
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
+   ]
   },
   {
    "q": "Which spongy Moroccan pancake is nicknamed the 'thousand-hole pancake'?",
@@ -1615,7 +1876,13 @@
     "Makroud",
     "Maqrud"
    ],
-   "apic": "Makroudh"
+   "apic": "Makroudh",
+   "qar": [
+    [
+     "Kairouan",
+     "القيروان"
+    ]
+   ]
   },
   {
    "q": "Which Algerian soup made with cracked green wheat is a Ramadan favourite?",
@@ -1625,6 +1892,12 @@
    "alt": [
     "Jari frik",
     "Chorba"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -1635,7 +1908,13 @@
    "alt": [
     "Méchoui"
    ],
-   "apic": "Mechoui"
+   "apic": "Mechoui",
+   "qar": [
+    [
+     "Maghrebi",
+     "مغاربي"
+    ]
+   ]
   },
   {
    "q": "Which wide, hooded woollen cloak is worn by men across the Maghreb?",
@@ -1647,7 +1926,13 @@
     "Selham",
     "Bernous"
    ],
-   "apic": "Burnous"
+   "apic": "Burnous",
+   "qar": [
+    [
+     "Maghreb",
+     "المغرب العربي"
+    ]
+   ]
   },
   {
    "q": "Which Algerian singer, known as the 'Prince of Rai', sang on Sting's 'Desert Rose'?",
@@ -1657,7 +1942,13 @@
    "alt": [
     "Mami"
    ],
-   "apic": "Cheb Mami"
+   "apic": "Cheb Mami",
+   "qar": [
+    [
+     "Rai",
+     "الراي"
+    ]
+   ]
   },
   {
    "q": "Which Algerian-born singer, nicknamed 'the Algerian Rose', became a star of Arabic music in Cairo?",
@@ -1668,7 +1959,13 @@
     "Warda Al-Jazairia",
     "Warda al-Djazairia"
    ],
-   "apic": "Warda Al-Jazairia"
+   "apic": "Warda Al-Jazairia",
+   "qar": [
+    [
+     "Cairo",
+     "القاهرة"
+    ]
+   ]
   },
   {
    "q": "Which Moroccan winger joined Chelsea from Ajax in 2020?",
@@ -1701,7 +1998,12 @@
    "q": "In which year did Tariq ibn Ziyad lead Muslim forces across the strait into Spain?",
    "a": "711",
    "p": 400,
-   "ar": "711"
+   "qar": [
+    [
+     "Tariq ibn Ziyad",
+     "طارق بن زياد"
+    ]
+   ]
   },
   {
    "q": "In which Tunisian town stands a huge Roman amphitheatre, a UNESCO World Heritage site?",
@@ -1723,17 +2025,32 @@
     "Bardo Museum",
     "Bardo"
    ],
-   "apic": "Bardo National Museum (Tunis)"
+   "apic": "Bardo National Museum (Tunis)",
+   "qar": [
+    [
+     "Tunis",
+     "تونس"
+    ]
+   ]
   },
   {
    "q": "Tunis's great Zitouna Mosque is named after which tree?",
    "a": "Olive",
    "p": 400,
-   "ar": "الزيتون",
    "alt": [
     "Olive tree"
    ],
-   "apic": "Olive"
+   "apic": "Olive",
+   "qar": [
+    [
+     "Zitouna Mosque",
+     "جامع الزيتونة"
+    ],
+    [
+     "Tunis",
+     "تونس"
+    ]
+   ]
   },
   {
    "q": "Which Tunisian city is the country's second largest and a major olive-oil port?",
@@ -1747,7 +2064,13 @@
    "a": "Sousse",
    "p": 400,
    "ar": "سوسة",
-   "apic": "Sousse"
+   "apic": "Sousse",
+   "qar": [
+    [
+     "Sahel",
+     "الساحل"
+    ]
+   ]
   },
   {
    "q": "Which gulf on Libya's coast takes its name from a city also known as Sirte?",
@@ -1758,7 +2081,13 @@
     "Gulf of Sirte",
     "Gulf of Sirt"
    ],
-   "apic": "Gulf of Sidra"
+   "apic": "Gulf of Sidra",
+   "qar": [
+    [
+     "Sirte",
+     "سرت"
+    ]
+   ]
   },
   {
    "q": "Which regional union, founded in Marrakech in 1989, groups five North African states?",
@@ -1769,7 +2098,13 @@
     "AMU",
     "UMA"
    ],
-   "apic": "Arab Maghreb Union"
+   "apic": "Arab Maghreb Union",
+   "qar": [
+    [
+     "Marrakech",
+     "مراكش"
+    ]
+   ]
   },
   {
    "q": "Which equestrian tradition sees riders charge in line and fire their muskets in one volley?",
@@ -1786,39 +2121,61 @@
    "q": "Which precious spice, harvested from crocus flowers, is the pride of Taliouine in Morocco?",
    "a": "Saffron",
    "p": 200,
-   "ar": "الزعفران",
    "alt": [
     "Zafran"
    ],
-   "apic": "Saffron"
+   "apic": "Saffron",
+   "qar": [
+    [
+     "Taliouine",
+     "تالوين"
+    ]
+   ]
   },
   {
    "q": "In Moroccan Darija, what does 'bezzaf' mean?",
    "a": "A lot",
    "p": 400,
-   "ar": "بزاف",
    "alt": [
     "Much",
     "Very",
     "Many"
+   ],
+   "qar": [
+    [
+     "Darija",
+     "الدارجة"
+    ],
+    [
+     "bezzaf",
+     "بزاف"
+    ]
    ]
   },
   {
    "q": "In Moroccan Darija, what does 'wakha' mean?",
    "a": "OK",
    "p": 400,
-   "ar": "واخا",
    "alt": [
     "Okay",
     "Alright",
     "Fine"
+   ],
+   "qar": [
+    [
+     "Darija",
+     "الدارجة"
+    ],
+    [
+     "wakha",
+     "واخا"
+    ]
    ]
   },
   {
    "q": "Which Moroccan-born rapper had a 2017 hit with 'Unforgettable'?",
    "a": "French Montana",
    "p": 400,
-   "ar": "فرنش مونتانا",
    "alt": [
     "Karim Kharbouch"
    ],
@@ -1829,13 +2186,22 @@
    "a": "Erfoud",
    "p": 400,
    "ar": "أرفود",
-   "apic": "Erfoud"
+   "apic": "Erfoud",
+   "qar": [
+    [
+     "Merzouga",
+     "مرزوكة"
+    ],
+    [
+     "Sahara",
+     "الصحراء"
+    ]
+   ]
   },
   {
    "q": "Which 1966 film by Gillo Pontecorvo depicts the struggle for Algerian independence in the capital?",
    "a": "The Battle of Algiers",
    "p": 600,
-   "ar": "معركة الجزائر",
    "alt": [
     "Battle of Algiers"
    ],
@@ -1866,7 +2232,6 @@
    "q": "Which 1912 treaty made most of Morocco a French protectorate?",
    "a": "Treaty of Fez",
    "p": 400,
-   "ar": "معاهدة فاس",
    "alt": [
     "Treaty of Fes",
     "Fez Convention"
@@ -1876,7 +2241,6 @@
    "q": "Which group of four Tunisian organisations won the 2015 Nobel Peace Prize?",
    "a": "Tunisian National Dialogue Quartet",
    "p": 600,
-   "ar": "الرباعي الراعي للحوار الوطني",
    "alt": [
     "National Dialogue Quartet",
     "Dialogue Quartet",
@@ -1910,12 +2274,17 @@
    "q": "By what nickname were the Ottoman corsair brothers Oruç and Hayreddin, who made Algiers their base, known?",
    "a": "Barbarossa",
    "p": 400,
-   "ar": "بربروس",
    "alt": [
     "Barbarossa brothers",
     "Redbeard"
    ],
-   "apic": "Hayreddin Barbarossa"
+   "apic": "Hayreddin Barbarossa",
+   "qar": [
+    [
+     "Algiers",
+     "الجزائر"
+    ]
+   ]
   },
   {
    "q": "Which Arab general founded Kairouan in 670?",
@@ -1925,6 +2294,12 @@
    "alt": [
     "Oqba ibn Nafi",
     "Okba ibn Nafi"
+   ],
+   "qar": [
+    [
+     "Kairouan",
+     "القيروان"
+    ]
    ]
   },
   {
@@ -1932,13 +2307,18 @@
    "a": "Mahdia",
    "p": 600,
    "ar": "المهدية",
-   "apic": "Mahdia"
+   "apic": "Mahdia",
+   "qar": [
+    [
+     "Fatimids",
+     "الفاطميين"
+    ]
+   ]
   },
   {
    "q": "At which battle in southern Italy in 216 BC did Hannibal crush a much larger Roman army?",
    "a": "Cannae",
    "p": 400,
-   "ar": "كاناي",
    "alt": [
     "Battle of Cannae"
    ],
@@ -1948,7 +2328,6 @@
    "q": "Which ancient Berber kingdom, ruled by Massinissa, covered much of modern Algeria?",
    "a": "Numidia",
    "p": 400,
-   "ar": "نوميديا",
    "apic": "Numidia"
   },
   {
@@ -1961,7 +2340,13 @@
     "Saadi",
     "Saadian dynasty"
    ],
-   "apic": "Saadian Tombs"
+   "apic": "Saadian Tombs",
+   "qar": [
+    [
+     "Marrakech",
+     "مراكش"
+    ]
+   ]
   },
   {
    "q": "Which 19th-century Marrakech palace has a name meaning 'the brilliant'?",
@@ -1972,7 +2357,13 @@
     "Bahia",
     "El Bahia"
    ],
-   "apic": "Bahia Palace"
+   "apic": "Bahia Palace",
+   "qar": [
+    [
+     "Marrakech",
+     "مراكش"
+    ]
+   ]
   },
   {
    "q": "Which Marrakech Islamic college, once the largest in Morocco, is named after an Almoravid sultan?",
@@ -1983,7 +2374,17 @@
     "Ben Youssef",
     "Medersa Ben Youssef"
    ],
-   "apic": "Ben Youssef Madrasa"
+   "apic": "Ben Youssef Madrasa",
+   "qar": [
+    [
+     "Marrakech",
+     "مراكش"
+    ],
+    [
+     "Almoravid",
+     "المرابطين"
+    ]
+   ]
   },
   {
    "q": "Which Fes gate, the main entrance to the old medina, is famous for its blue tiles on the outside?",
@@ -1994,7 +2395,13 @@
     "Bab Bou Jeloud",
     "Blue Gate"
    ],
-   "apic": "Bab Bou Jeloud"
+   "apic": "Bab Bou Jeloud",
+   "qar": [
+    [
+     "Fes",
+     "فاس"
+    ]
+   ]
   },
   {
    "q": "Which Rabat kasbah, with blue-and-white lanes, overlooks the mouth of the Bou Regreg river?",
@@ -2005,7 +2412,17 @@
     "Kasbah des Oudaias",
     "Oudayas"
    ],
-   "apic": "Kasbah of the Udayas"
+   "apic": "Kasbah of the Udayas",
+   "qar": [
+    [
+     "Rabat",
+     "الرباط"
+    ],
+    [
+     "Bou Regreg",
+     "أبي رقراق"
+    ]
+   ]
   },
   {
    "q": "Which city faces Rabat across the Bou Regreg river?",
@@ -2016,7 +2433,17 @@
     "Sale",
     "Sla"
    ],
-   "apic": "Salé"
+   "apic": "Salé",
+   "qar": [
+    [
+     "Rabat",
+     "الرباط"
+    ],
+    [
+     "Bou Regreg",
+     "أبي رقراق"
+    ]
+   ]
   },
   {
    "q": "Which waterfalls near Azilal in the Middle Atlas are among Morocco's highest and most visited?",
@@ -2027,7 +2454,13 @@
     "Ouzoud",
     "Cascades d'Ouzoud"
    ],
-   "apic": "Ouzoud Falls"
+   "apic": "Ouzoud Falls",
+   "qar": [
+    [
+     "Azilal",
+     "أزيلال"
+    ]
+   ]
   },
   {
    "q": "Which narrow High Atlas canyon near Tinghir has towering cliffs popular with climbers?",
@@ -2038,14 +2471,26 @@
     "Todgha Gorge",
     "Todra"
    ],
-   "apic": "Todra Gorge"
+   "apic": "Todra Gorge",
+   "qar": [
+    [
+     "Tinghir",
+     "تنغير"
+    ]
+   ]
   },
   {
    "q": "What is the great sea of sand dunes beside the Moroccan village of Merzouga called?",
    "a": "Erg Chebbi",
    "p": 400,
    "ar": "عرق الشبي",
-   "apic": "Erg Chebbi"
+   "apic": "Erg Chebbi",
+   "qar": [
+    [
+     "Merzouga",
+     "مرزوكة"
+    ]
+   ]
   },
   {
    "q": "Which Moroccan town in the Dades valley hosts an annual Rose Festival?",
@@ -2056,14 +2501,26 @@
     "Kalaat Mgouna",
     "El Kelaa M'Gouna"
    ],
-   "apic": "Kelaat M'Gouna"
+   "apic": "Kelaat M'Gouna",
+   "qar": [
+    [
+     "Dades",
+     "دادس"
+    ]
+   ]
   },
   {
    "q": "Which High Atlas village is famed for its annual marriage festival, or moussem?",
    "a": "Imilchil",
    "p": 600,
    "ar": "إملشيل",
-   "apic": "Imilchil"
+   "apic": "Imilchil",
+   "qar": [
+    [
+     "moussem",
+     "موسم"
+    ]
+   ]
   },
   {
    "q": "Which Mediterranean city, nicknamed 'the White Dove', was the capital of Spanish-ruled northern Morocco?",
@@ -2155,7 +2612,13 @@
    "a": "Tlemcen",
    "p": 600,
    "ar": "تلمسان",
-   "apic": "Tlemcen"
+   "apic": "Tlemcen",
+   "qar": [
+    [
+     "Zayyanid",
+     "الزيانية"
+    ]
+   ]
   },
   {
    "q": "Which concrete monument of three giant palm leaves overlooks Algiers?",
@@ -2166,7 +2629,13 @@
     "Martyrs' Memorial",
     "Martyrs Memorial"
    ],
-   "apic": "Maqam Echahid"
+   "apic": "Maqam Echahid",
+   "qar": [
+    [
+     "Algiers",
+     "الجزائر"
+    ]
+   ]
   },
   {
    "q": "Which Roman town in northern Tunisia, a UNESCO site, is famed for its well-preserved Capitol?",
@@ -2190,14 +2659,26 @@
    "a": "Monastir",
    "p": 600,
    "ar": "المنستير",
-   "apic": "Monastir, Tunisia"
+   "apic": "Monastir, Tunisia",
+   "qar": [
+    [
+     "Ribat",
+     "رباط"
+    ]
+   ]
   },
   {
    "q": "Which Tunisian oasis town is the gateway to the Chott el Djerid salt lake?",
    "a": "Tozeur",
    "p": 600,
    "ar": "توزر",
-   "apic": "Tozeur"
+   "apic": "Tozeur",
+   "qar": [
+    [
+     "Chott el Djerid",
+     "شط الجريد"
+    ]
+   ]
   },
   {
    "q": "Which Tunisian archipelago lies off the coast of Sfax?",
@@ -2207,7 +2688,13 @@
    "alt": [
     "Kerkennah Islands"
    ],
-   "apic": "Kerkennah Islands"
+   "apic": "Kerkennah Islands",
+   "qar": [
+    [
+     "Sfax",
+     "صفاقس"
+    ]
+   ]
   },
   {
    "q": "Which peninsula in north-east Tunisia, home to Nabeul and Hammamet, points towards Sicily?",
@@ -2217,7 +2704,17 @@
    "alt": [
     "Cape Bon"
    ],
-   "apic": "Cap Bon"
+   "apic": "Cap Bon",
+   "qar": [
+    [
+     "Nabeul",
+     "نابل"
+    ],
+    [
+     "Hammamet",
+     "الحمامات"
+    ]
+   ]
   },
   {
    "q": "Which river is Tunisia's longest, flowing from Algeria to the Gulf of Tunis?",
@@ -2228,7 +2725,13 @@
     "Majardah",
     "Mejerda"
    ],
-   "apic": "Medjerda River"
+   "apic": "Medjerda River",
+   "qar": [
+    [
+     "Gulf of Tunis",
+     "خليج تونس"
+    ]
+   ]
   },
   {
    "q": "Besides Tripolitania and Cyrenaica, what is the third historic region of Libya, in the south-west?",
@@ -2255,12 +2758,17 @@
    "q": "Which vast Libyan pipeline project carries fossil water from the Sahara to the coast?",
    "a": "Great Man-Made River",
    "p": 600,
-   "ar": "النهر الصناعي العظيم",
    "alt": [
     "Man-Made River",
     "GMMR"
    ],
-   "apic": "Great Man-Made River"
+   "apic": "Great Man-Made River",
+   "qar": [
+    [
+     "Sahara",
+     "الصحراء"
+    ]
+   ]
   },
   {
    "q": "Which Moroccan sweet-salty spread is made from argan oil, roasted almonds and honey?",
@@ -2312,7 +2820,13 @@
    "alt": [
     "Leblebi"
    ],
-   "apic": "Lablabi"
+   "apic": "Lablabi",
+   "qar": [
+    [
+     "harissa",
+     "هريسة"
+    ]
+   ]
   },
   {
    "q": "Which Tunisian egg dish cooked with tomato, harissa and often merguez shares its name with an omelette?",
@@ -2321,6 +2835,16 @@
    "ar": "عجة",
    "alt": [
     "Ojja merguez"
+   ],
+   "qar": [
+    [
+     "harissa",
+     "هريسة"
+    ],
+    [
+     "merguez",
+     "مرقاز"
+    ]
    ]
   },
   {
@@ -2341,6 +2865,12 @@
    "ar": "بمبالوني",
    "alt": [
     "Bambaloni"
+   ],
+   "qar": [
+    [
+     "Sidi Bou Said",
+     "سيدي بو سعيد"
+    ]
    ]
   },
   {
@@ -2353,14 +2883,30 @@
     "Calentica",
     "Karantita"
    ],
-   "apic": "Karantika"
+   "apic": "Karantika",
+   "qar": [
+    [
+     "Oran",
+     "وهران"
+    ],
+    [
+     "Algiers",
+     "الجزائر"
+    ]
+   ]
   },
   {
    "q": "Which Algerian dish of thin handmade noodles in a white chicken sauce is popular in Algiers?",
    "a": "Rechta",
    "p": 600,
    "ar": "رشتة",
-   "apic": "Rechta"
+   "apic": "Rechta",
+   "qar": [
+    [
+     "Algiers",
+     "الجزائر"
+    ]
+   ]
   },
   {
    "q": "Which red felt skullcap is a traditional Tunisian men's hat?",
@@ -2382,7 +2928,13 @@
     "Cheche",
     "Shash"
    ],
-   "apic": "Tagelmust"
+   "apic": "Tagelmust",
+   "qar": [
+    [
+     "Tuareg",
+     "الطوارق"
+    ]
+   ]
   },
   {
    "q": "Which polished, waterproof lime plaster lines the walls of Moroccan riads and hammams?",
@@ -2401,7 +2953,13 @@
     "Sintir",
     "Hajhouj"
    ],
-   "apic": "Sintir"
+   "apic": "Sintir",
+   "qar": [
+    [
+     "Gnawa",
+     "كناوة"
+    ]
+   ]
   },
   {
    "q": "Which Andalusian classical music tradition is regarded as Tunisia's national music?",
@@ -2429,7 +2987,13 @@
    "alt": [
     "Taha"
    ],
-   "apic": "Rachid Taha"
+   "apic": "Rachid Taha",
+   "qar": [
+    [
+     "Ya Rayah",
+     "يا الرايح"
+    ]
+   ]
   },
   {
    "q": "Which Algerian striker scored with a famous backheel for Porto in the 1987 European Cup final?",
@@ -2444,14 +3008,12 @@
   {
    "q": "In which year did Tunisia win the Africa Cup of Nations for the first time, as hosts?",
    "a": "2004",
-   "p": 600,
-   "ar": "2004"
+   "p": 600
   },
   {
    "q": "In which year did Morocco win the Africa Cup of Nations for the first time?",
    "a": "1976",
-   "p": 600,
-   "ar": "1976"
+   "p": 600
   },
   {
    "q": "Which Tunis football club, founded in 1919, plays in red and yellow stripes?",
@@ -2562,17 +3124,21 @@
    "q": "Which American author of 'The Sheltering Sky' lived in Tangier for over 50 years?",
    "a": "Paul Bowles",
    "p": 600,
-   "ar": "بول بولز",
    "alt": [
     "Bowles"
    ],
-   "apic": "Paul Bowles"
+   "apic": "Paul Bowles",
+   "qar": [
+    [
+     "Tangier",
+     "طنجة"
+    ]
+   ]
   },
   {
    "q": "Which French Romantic painter's 1832 trip to Morocco inspired many of his later works?",
    "a": "Eugène Delacroix",
    "p": 400,
-   "ar": "أوجين دولاكروا",
    "alt": [
     "Delacroix"
    ],
@@ -2582,11 +3148,16 @@
    "q": "Which French philosopher, founder of deconstruction, was born near Algiers in 1930?",
    "a": "Jacques Derrida",
    "p": 600,
-   "ar": "جاك دريدا",
    "alt": [
     "Derrida"
    ],
-   "apic": "Jacques Derrida"
+   "apic": "Jacques Derrida",
+   "qar": [
+    [
+     "Algiers",
+     "الجزائر"
+    ]
+   ]
   }
  ]
 }

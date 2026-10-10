@@ -37,7 +37,13 @@
     "Iqal",
     "Igal"
    ],
-   "apic": "Agal"
+   "apic": "Agal",
+   "qar": [
+    [
+     "ghutra",
+     "الغترة"
+    ]
+   ]
   },
   {
    "q": "What is the black outer cloak worn by Emirati women called?",
@@ -88,14 +94,12 @@
    "q": "Which traditional sport uses trained birds of prey to hunt?",
    "a": "Falconry",
    "p": 200,
-   "ar": "الصقارة",
    "apic": "Falconry"
   },
   {
    "q": "What is the traditional wooden sailing boat of the Gulf called?",
    "a": "Dhow",
    "p": 200,
-   "ar": "الداو",
    "alt": [
     "Dau",
     "Dhau"
@@ -235,7 +239,13 @@
     "Qasr Al Hisn",
     "White Fort"
    ],
-   "apic": "Qasr Al Hosn"
+   "apic": "Qasr Al Hosn",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "What is the traditional Emirati house made from palm fronds called?",
@@ -280,7 +290,13 @@
   {
    "q": "What does the common word 'habibi' mean?",
    "a": "My dear or beloved",
-   "p": 200
+   "p": 200,
+   "qar": [
+    [
+     "habibi",
+     "حبيبي"
+    ]
+   ]
   },
   {
    "q": "What is the lightweight scarf worn by Emirati women over the hair called?",
@@ -317,7 +333,6 @@
    "q": "Which fruit of the date palm is traditionally served alongside Arabic coffee?",
    "a": "Dates",
    "p": 200,
-   "ar": "التمر",
    "alt": [
     "Tamr",
     "Tamar"
@@ -338,7 +353,6 @@
    "q": "In which traditional Emirati sport do camels race with robot jockeys?",
    "a": "Camel racing",
    "p": 200,
-   "ar": "سباق الهجن",
    "apic": "Camel racing"
   },
   {
@@ -359,7 +373,13 @@
     "Mishlah",
     "Besht"
    ],
-   "apic": "Bisht (clothing)"
+   "apic": "Bisht (clothing)",
+   "qar": [
+    [
+     "kandura",
+     "الكندورة"
+    ]
+   ]
   },
   {
    "q": "What is the Emirati craft of braided gold or silver thread trim on clothing called?",
@@ -416,15 +436,26 @@
   {
    "q": "In majlis etiquette, how does a guest signal they want no more coffee?",
    "a": "Shake the cup gently",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "majlis",
+     "المجلس"
+    ]
+   ]
   },
   {
    "q": "Which two spices traditionally flavour Emirati gahwa?",
    "a": "Cardamom and saffron",
    "p": 400,
-   "ar": "الهيل والزعفران",
    "alt": [
     "Hail and Zafran"
+   ],
+   "qar": [
+    [
+     "gahwa",
+     "القهوة"
+    ]
    ]
   },
   {
@@ -485,7 +516,6 @@
    "q": "Which falcon species is most widely used in Emirati falconry?",
    "a": "Saker falcon",
    "p": 400,
-   "ar": "الصقر الحر",
    "alt": [
     "Hurr"
    ],
@@ -511,7 +541,6 @@
    "q": "Which tree was inscribed on UNESCO's intangible heritage list in 2019 with UAE participation?",
    "a": "Date palm",
    "p": 400,
-   "ar": "النخلة",
    "alt": [
     "Nakhla"
    ],
@@ -527,37 +556,79 @@
   {
    "q": "What does the Emirati word 'wayed' mean?",
    "a": "Very or a lot",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "wayed",
+     "وايد"
+    ]
+   ]
   },
   {
    "q": "What does the Emirati word 'zain' mean?",
    "a": "Good or fine",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "zain",
+     "زين"
+    ]
+   ]
   },
   {
    "q": "What does the Emirati word 'khalas' mean?",
    "a": "Finished or enough",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "khalas",
+     "خلاص"
+    ]
+   ]
   },
   {
    "q": "What does the Emirati greeting 'shlonak' mean?",
    "a": "How are you",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "shlonak",
+     "شلونك"
+    ]
+   ]
   },
   {
    "q": "What does the Emirati phrase 'Hayyak Allah' mean?",
    "a": "Welcome",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "Hayyak Allah",
+     "حياك الله"
+    ]
+   ]
   },
   {
    "q": "What does the Emirati word 'yamma' mean?",
    "a": "Mother",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "yamma",
+     "يمه"
+    ]
+   ]
   },
   {
    "q": "What do Al Ayyala performers hold and sway?",
    "a": "Thin canes",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "Al Ayyala",
+     "العيالة"
+    ]
+   ]
   },
   {
    "q": "Which historic Dubai district is known for its restored wind-tower houses?",
@@ -598,6 +669,12 @@
    "alt": [
     "Finjal",
     "Fenjan"
+   ],
+   "qar": [
+    [
+     "gahwa",
+     "القهوة"
+    ]
    ]
   },
   {
@@ -619,6 +696,12 @@
    "alt": [
     "Tarboosha",
     "Tarbosha"
+   ],
+   "qar": [
+    [
+     "kandura",
+     "الكندورة"
+    ]
    ]
   },
   {
@@ -640,7 +723,13 @@
    "q": "Al Sadu weavers traditionally use wool from sheep, camels and which other animal?",
    "a": "Goats",
    "p": 400,
-   "apic": "Goat"
+   "apic": "Goat",
+   "qar": [
+    [
+     "Al Sadu",
+     "السدو"
+    ]
+   ]
   },
   {
    "q": "What is the person who pulls the diver up on a pearling boat called?",
@@ -764,13 +853,19 @@
     "Thob Al Nashal",
     "Thawb Al Nashal",
     "Nashal"
+   ],
+   "qar": [
+    [
+     "talli",
+     "التلي"
+    ]
    ]
   },
   {
    "q": "What is the traditional Gulf bagpipe used in Emirati folk music called?",
    "a": "Habban",
    "p": 600,
-   "ar": "الحبان"
+   "ar": "الهبان"
   },
   {
    "q": "Which Afro-Arab music and dance tradition is performed with mizmar and drums in coastal UAE?",
@@ -780,6 +875,12 @@
    "alt": [
     "Leiwa",
     "Lewa"
+   ],
+   "qar": [
+    [
+     "mizmar",
+     "المزمار"
+    ]
    ]
   },
   {
@@ -790,7 +891,13 @@
    "alt": [
     "Mohammed Harib"
    ],
-   "apic": "Mohammed Saeed Harib"
+   "apic": "Mohammed Saeed Harib",
+   "qar": [
+    [
+     "Freej",
+     "فريج"
+    ]
+   ]
   },
   {
    "q": "In which Islamic month is Hag Al Leila celebrated?",
@@ -800,6 +907,12 @@
    "alt": [
     "Shaaban",
     "Sha'ban"
+   ],
+   "qar": [
+    [
+     "Hag Al Leila",
+     "حق الليلة"
+    ]
    ]
   },
   {
@@ -810,6 +923,12 @@
    "alt": [
     "Barastee",
     "Arish"
+   ],
+   "qar": [
+    [
+     "arish",
+     "العريش"
+    ]
    ]
   },
   {
@@ -831,12 +950,24 @@
   {
    "q": "In which year was Al Sadu inscribed on UNESCO's intangible heritage list?",
    "a": "2011",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Al Sadu",
+     "السدو"
+    ]
+   ]
   },
   {
    "q": "In which year was Al Ayyala inscribed on UNESCO's intangible heritage list?",
    "a": "2014",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Al Ayyala",
+     "العيالة"
+    ]
+   ]
   },
   {
    "q": "In which year was Arabic coffee inscribed on UNESCO's intangible heritage list?",
@@ -867,17 +998,35 @@
   {
    "q": "What does the Emirati word 'inzain' mean?",
    "a": "Okay or alright",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "inzain",
+     "انزين"
+    ]
+   ]
   },
   {
    "q": "What does the Emirati word 'chithi' mean?",
    "a": "Like this",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "chithi",
+     "جذي"
+    ]
+   ]
   },
   {
    "q": "What does the Emirati word 'shakhbarak' literally ask about?",
    "a": "Your news",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "shakhbarak",
+     "شخبارك"
+    ]
+   ]
   },
   {
    "q": "What is the Emirati dish of coarsely crushed wheat and meat, similar to harees, called?",
@@ -887,12 +1036,24 @@
    "alt": [
     "Jarish",
     "Jareesh"
+   ],
+   "qar": [
+    [
+     "harees",
+     "الهريس"
+    ]
    ]
   },
   {
    "q": "In which decade was the original Qasr Al Hosn watchtower built?",
    "a": "1790s",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Qasr Al Hosn",
+     "قصر الحصن"
+    ]
+   ]
   },
   {
    "q": "Which prized resinous wood is burned as incense or made into perfume in Emirati homes?",
@@ -943,7 +1104,6 @@
    "q": "Which breed of horse, known for its dished face and high tail, is prized in Arabian heritage?",
    "a": "Arabian horse",
    "p": 200,
-   "ar": "الخيل العربية",
    "alt": [
     "Arabian",
     "Arab horse"
@@ -954,7 +1114,6 @@
    "q": "Which part of the face do Emiratis traditionally touch together in a respectful greeting?",
    "a": "The nose",
    "p": 200,
-   "ar": "الخشم",
    "alt": [
     "Nose",
     "Noses"
@@ -963,14 +1122,12 @@
   {
    "q": "What colour is the traditional Emirati men's kandura most commonly?",
    "a": "White",
-   "p": 200,
-   "ar": "أبيض"
+   "p": 200
   },
   {
    "q": "What colour is the traditional Emirati abaya?",
    "a": "Black",
-   "p": 200,
-   "ar": "أسود"
+   "p": 200
   },
   {
    "q": "How many humps does the Arabian camel have?",
@@ -1006,14 +1163,12 @@
   {
    "q": "In which season does the traditional falconry hunting season take place in the UAE?",
    "a": "Winter",
-   "p": 200,
-   "ar": "الشتاء"
+   "p": 200
   },
   {
    "q": "Which fragrant resin, from Oman and Yemen, is also burned to scent Emirati homes?",
    "a": "Frankincense",
    "p": 200,
-   "ar": "اللبان",
    "alt": [
     "Luban",
     "Loban"
@@ -1024,10 +1179,15 @@
    "q": "What do Emiratis traditionally take off before entering a home or majlis?",
    "a": "Shoes",
    "p": 200,
-   "ar": "الأحذية",
    "alt": [
     "Footwear",
     "Sandals"
+   ],
+   "qar": [
+    [
+     "majlis",
+     "المجلس"
+    ]
    ]
   },
   {
@@ -1052,7 +1212,6 @@
    "q": "Which hard wood, imported from India, was prized for building dhows?",
    "a": "Teak",
    "p": 400,
-   "ar": "الساج",
    "alt": [
     "Indian teak"
    ],
@@ -1062,7 +1221,6 @@
    "q": "What type of triangular sail is used on traditional dhows?",
    "a": "Lateen sail",
    "p": 400,
-   "ar": "الشراع اللاتيني",
    "alt": [
     "Lateen"
    ],
@@ -1072,7 +1230,6 @@
    "q": "Which Indian city was the main market for Gulf pearls?",
    "a": "Mumbai",
    "p": 400,
-   "ar": "مومباي",
    "alt": [
     "Bombay"
    ],
@@ -1082,7 +1239,6 @@
    "q": "Which sea material was used with gypsum and mud to build old coastal houses?",
    "a": "Coral stone",
    "p": 400,
-   "ar": "الحجر المرجاني",
    "alt": [
     "Coral",
     "Coral rock"
@@ -1162,6 +1318,12 @@
     "Taqiyah",
     "Kufiya",
     "Ghafiya"
+   ],
+   "qar": [
+    [
+     "ghutra",
+     "الغترة"
+    ]
    ]
   },
   {
@@ -1184,7 +1346,17 @@
     "Shaer Al Milyoon",
     "Shaa'er Al Million"
    ],
-   "apic": "Million's Poet"
+   "apic": "Million's Poet",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ],
+    [
+     "Nabati",
+     "النبطي"
+    ]
+   ]
   },
   {
    "q": "Which Abu Dhabi TV competition is for poets writing in classical Arabic?",
@@ -1194,6 +1366,12 @@
    "alt": [
     "Ameer Al Shuara",
     "Amir Al Shuara"
+   ],
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
    ]
   },
   {
@@ -1203,6 +1381,16 @@
    "ar": "مهرجان الشيخ زايد",
    "alt": [
     "Sheikh Zayed Heritage Festival"
+   ],
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ],
+    [
+     "Al Wathba",
+     "الوثبة"
+    ]
    ]
   },
   {
@@ -1213,7 +1401,13 @@
    "alt": [
     "Liwa Oasis"
    ],
-   "apic": "Liwa Oasis"
+   "apic": "Liwa Oasis",
+   "qar": [
+    [
+     "Al Dhafra",
+     "الظفرة"
+    ]
+   ]
   },
   {
    "q": "Which emirate hosts the annual Heritage Days festival?",
@@ -1226,7 +1420,6 @@
    "q": "Which East African island traded spices and mangrove poles with Gulf dhows?",
    "a": "Zanzibar",
    "p": 400,
-   "ar": "زنجبار",
    "apic": "Zanzibar"
   },
   {
@@ -1260,7 +1453,6 @@
    "q": "Which art of beautiful handwriting was UNESCO-listed in 2021, with the UAE among 16 Arab nominating states?",
    "a": "Arabic calligraphy",
    "p": 200,
-   "ar": "الخط العربي",
    "alt": [
     "Calligraphy"
    ],
@@ -1271,7 +1463,17 @@
    "a": "Oman",
    "p": 400,
    "ar": "عُمان",
-   "apic": "Oman"
+   "apic": "Oman",
+   "qar": [
+    [
+     "Al Ayyala",
+     "العيالة"
+    ],
+    [
+     "Al Taghrooda",
+     "التغرودة"
+    ]
+   ]
   },
   {
    "q": "What is a falconer called in Arabic?",
@@ -1390,12 +1592,24 @@
   {
    "q": "In which year was Al Talli embroidery inscribed by UNESCO?",
    "a": "2022",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Al Talli",
+     "التلي"
+    ]
+   ]
   },
   {
    "q": "In which year was the majlis inscribed on UNESCO's intangible heritage list?",
    "a": "2015",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "majlis",
+     "المجلس"
+    ]
+   ]
   },
   {
    "q": "In which year were henna rituals inscribed by UNESCO, with the UAE among the nominating states?",
@@ -1405,7 +1619,13 @@
   {
    "q": "In which year was the bisht inscribed on UNESCO's intangible heritage list?",
    "a": "2025",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "bisht",
+     "البشت"
+    ]
+   ]
   },
   {
    "q": "What is the traditional Emirati calendar that counts the year in 10-day cycles called?",
@@ -1426,6 +1646,20 @@
    "alt": [
     "Al Majidi ibn Dhaher",
     "Majidi bin Dhaher"
+   ],
+   "qar": [
+    [
+     "Nabati",
+     "النبطي"
+    ],
+    [
+     "Al Kharran",
+     "الخران"
+    ],
+    [
+     "Ras Al Khaimah",
+     "رأس الخيمة"
+    ]
    ]
   },
   {
@@ -1444,6 +1678,12 @@
    "ar": "الزري",
    "alt": [
     "Zarri"
+   ],
+   "qar": [
+    [
+     "bisht",
+     "البشت"
+    ]
    ]
   },
   {

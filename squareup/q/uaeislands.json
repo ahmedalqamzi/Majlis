@@ -10,7 +10,13 @@
    "alt": [
     "Yas"
    ],
-   "apic": "Yas Island"
+   "apic": "Yas Island",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "The Louvre Abu Dhabi stands on which island?",
@@ -21,7 +27,13 @@
     "Saadiyat",
     "Saadiyat Island"
    ],
-   "apic": "Saadiyat Island"
+   "apic": "Saadiyat Island",
+   "qar": [
+    [
+     "Louvre Abu Dhabi",
+     "اللوفر أبوظبي"
+    ]
+   ]
   },
   {
    "q": "Atlantis The Palm stands at the crescent tip of which man-made island?",
@@ -49,11 +61,16 @@
    "q": "Which Dubai island, off JBR, is home to the Ain Dubai wheel?",
    "a": "Bluewaters Island",
    "p": 200,
-   "ar": "جزيرة بلوواترز",
    "alt": [
     "Bluewaters"
    ],
-   "apic": "Bluewaters Island"
+   "apic": "Bluewaters Island",
+   "qar": [
+    [
+     "Ain Dubai",
+     "عين دبي"
+    ]
+   ]
   },
   {
    "q": "Which Ras Al Khaimah resort island has a name meaning 'coral'?",
@@ -64,7 +81,13 @@
     "Marjan Island",
     "Al Marjan"
    ],
-   "apic": "Al Marjan Island"
+   "apic": "Al Marjan Island",
+   "qar": [
+    [
+     "Ras Al Khaimah",
+     "رأس الخيمة"
+    ]
+   ]
   },
   {
    "q": "Which Warner Bros. indoor theme park opened on Yas Island in 2018?",
@@ -74,7 +97,13 @@
     "Warner Bros World",
     "Warner Bros. World"
    ],
-   "apic": "Warner Bros. World Abu Dhabi"
+   "apic": "Warner Bros. World Abu Dhabi",
+   "qar": [
+    [
+     "Yas Island",
+     "جزيرة ياس"
+    ]
+   ]
   },
   {
    "q": "What is the name of the big water park on Yas Island?",
@@ -84,7 +113,13 @@
    "alt": [
     "Yas Water World"
    ],
-   "apic": "Yas Waterworld"
+   "apic": "Yas Waterworld",
+   "qar": [
+    [
+     "Yas Island",
+     "جزيرة ياس"
+    ]
+   ]
   },
   {
    "q": "Which marine-life theme park opened on Yas Island in 2023?",
@@ -94,14 +129,25 @@
     "SeaWorld Abu Dhabi",
     "SeaWorld"
    ],
-   "apic": "SeaWorld Abu Dhabi"
+   "apic": "SeaWorld Abu Dhabi",
+   "qar": [
+    [
+     "Yas Island",
+     "جزيرة ياس"
+    ]
+   ]
   },
   {
    "q": "What colour is the huge roof of Ferrari World Abu Dhabi?",
    "a": "Red",
    "p": 200,
-   "ar": "أحمر",
-   "pic": "Ferrari World"
+   "pic": "Ferrari World",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "Which Formula 1 race is held at Yas Marina Circuit?",
@@ -111,7 +157,13 @@
    "alt": [
     "Abu Dhabi GP"
    ],
-   "apic": "Abu Dhabi Grand Prix"
+   "apic": "Abu Dhabi Grand Prix",
+   "qar": [
+    [
+     "Yas Marina Circuit",
+     "حلبة مرسى ياس"
+    ]
+   ]
   },
   {
    "q": "Which water park sits beside Atlantis The Palm?",
@@ -126,8 +178,7 @@
   {
    "q": "Which Dubai beach is named after the board sport popular in its windy waters?",
    "a": "Kite Beach",
-   "p": 200,
-   "ar": "شاطئ الكايت"
+   "p": 200
   },
   {
    "q": "Which beachfront Dubai district, with The Walk, sits beside Dubai Marina?",
@@ -138,24 +189,40 @@
     "Jumeirah Beach Residence",
     "The Beach JBR"
    ],
-   "apic": "Jumeirah Beach Residence"
+   "apic": "Jumeirah Beach Residence",
+   "qar": [
+    [
+     "Dubai Marina",
+     "مرسى دبي"
+    ]
+   ]
   },
   {
    "q": "Which Jumeirah beachfront destination's name is French for 'the sea'?",
    "a": "La Mer",
    "p": 200,
-   "ar": "لامير"
+   "qar": [
+    [
+     "Jumeirah",
+     "جميرا"
+    ]
+   ]
   },
   {
    "q": "The Burj Al Arab was designed to look like the sail of what kind of boat?",
    "a": "Dhow",
    "p": 200,
-   "ar": "داو",
    "alt": [
     "Arabian dhow"
    ],
    "pic": "Burj Al Arab",
-   "apic": "Dhow"
+   "apic": "Dhow",
+   "qar": [
+    [
+     "Burj Al Arab",
+     "برج العرب"
+    ]
+   ]
   },
   {
    "q": "What are the salt-tolerant coastal trees of the Eastern Mangroves called in Arabic?",
@@ -165,36 +232,51 @@
    "alt": [
     "Qurum",
     "Gurm"
+   ],
+   "qar": [
+    [
+     "Eastern Mangroves",
+     "القرم الشرقي"
+    ]
    ]
   },
   {
    "q": "Which plant-eating marine mammal, sometimes called a sea cow, lives in Abu Dhabi's waters?",
    "a": "Dugong",
    "p": 200,
-   "ar": "الأطوم",
    "alt": [
     "Sea cow",
     "Atoom"
    ],
-   "apic": "Dugong"
+   "apic": "Dugong",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "What is the largest fish in the sea, sometimes spotted off the UAE coast?",
    "a": "Whale shark",
    "p": 200,
-   "ar": "القرش الحوتي",
    "apic": "Whale shark"
   },
   {
    "q": "Which pink wading birds gather in large flocks at Dubai's Ras Al Khor sanctuary?",
    "a": "Flamingos",
    "p": 200,
-   "ar": "الفلامنغو",
    "alt": [
     "Greater flamingo",
     "Flamingo"
    ],
-   "apic": "Flamingo"
+   "apic": "Flamingo",
+   "qar": [
+    [
+     "Ras Al Khor",
+     "رأس الخور"
+    ]
+   ]
   },
   {
    "q": "Which body of water does Fujairah's coast face?",
@@ -204,7 +286,13 @@
    "alt": [
     "Sea of Oman"
    ],
-   "apic": "Gulf of Oman"
+   "apic": "Gulf of Oman",
+   "qar": [
+    [
+     "Fujairah",
+     "الفجيرة"
+    ]
+   ]
   },
   {
    "q": "Which emirate lies almost entirely on the east coast, facing the Gulf of Oman?",
@@ -214,28 +302,49 @@
    "alt": [
     "Al Fujairah"
    ],
-   "apic": "Fujairah"
+   "apic": "Fujairah",
+   "qar": [
+    [
+     "Gulf of Oman",
+     "خليج عمان"
+    ]
+   ]
   },
   {
    "q": "Which tiny rocky island off Al Aqah beach is named after a cartoon dog it resembles?",
    "a": "Snoopy Island",
    "p": 200,
-   "ar": "جزيرة سنوبي",
-   "pic": "Fujairah"
+   "pic": "Fujairah",
+   "qar": [
+    [
+     "Al Aqah",
+     "العقة"
+    ]
+   ]
   },
   {
    "q": "What does the Arabic word 'jazeera' mean in English?",
    "a": "Island",
    "p": 200,
-   "ar": "جزيرة"
+   "qar": [
+    [
+     "jazeera",
+     "جزيرة"
+    ]
+   ]
   },
   {
    "q": "Abu Dhabi city's downtown is built on what kind of landform?",
    "a": "An island",
    "p": 200,
-   "ar": "جزيرة",
    "alt": [
     "Island"
+   ],
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
    ]
   },
   {
@@ -246,7 +355,13 @@
    "alt": [
     "RAK"
    ],
-   "apic": "Ras Al Khaimah"
+   "apic": "Ras Al Khaimah",
+   "qar": [
+    [
+     "Al Marjan Island",
+     "جزيرة المرجان"
+    ]
+   ]
   },
   {
    "q": "Which popular grouper fish is a favourite catch in UAE waters?",
@@ -268,6 +383,12 @@
    "alt": [
     "Corniche",
     "Abu Dhabi Corniche"
+   ],
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
    ]
   },
   {
@@ -287,13 +408,18 @@
    "alt": [
     "The Royal"
    ],
-   "apic": "Atlantis The Royal"
+   "apic": "Atlantis The Royal",
+   "qar": [
+    [
+     "Palm Jumeirah",
+     "نخلة جميرا"
+    ]
+   ]
   },
   {
    "q": "What traditional job involved diving to the seabed for oysters off the UAE coast?",
    "a": "Pearl diving",
    "p": 200,
-   "ar": "الغوص",
    "alt": [
     "Pearling",
     "Pearl diver"
@@ -308,6 +434,12 @@
    "alt": [
     "Lulu Island",
     "Loulou"
+   ],
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
    ]
   },
   {
@@ -317,6 +449,12 @@
    "ar": "السعديات",
    "alt": [
     "Saadiyat Island"
+   ],
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
    ]
   },
   {
@@ -324,13 +462,18 @@
    "a": "Sharjah",
    "p": 200,
    "ar": "الشارقة",
-   "apic": "Sharjah (emirate)"
+   "apic": "Sharjah (emirate)",
+   "qar": [
+    [
+     "Khor Fakkan",
+     "خورفكان"
+    ]
+   ]
   },
   {
    "q": "What small sea creatures build the reefs that divers explore off Fujairah?",
    "a": "Corals",
    "p": 200,
-   "ar": "المرجان",
    "alt": [
     "Coral"
    ],
@@ -345,18 +488,33 @@
     "Sir Bani Yas Island",
     "Sir Baniyas"
    ],
-   "apic": "Sir Bani Yas"
+   "apic": "Sir Bani Yas",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ],
+    [
+     "Sheikh Zayed",
+     "الشيخ زايد"
+    ]
+   ]
   },
   {
    "q": "Which Arabian antelope, reintroduced from near-extinction, roams Sir Bani Yas in large numbers?",
    "a": "Arabian oryx",
    "p": 400,
-   "ar": "المها العربي",
    "alt": [
     "Oryx",
     "Al Maha"
    ],
-   "apic": "Arabian oryx"
+   "apic": "Arabian oryx",
+   "qar": [
+    [
+     "Sir Bani Yas",
+     "صير بني ياس"
+    ]
+   ]
   },
   {
    "q": "Sir Bani Yas Island is named after which tribal confederation?",
@@ -365,6 +523,12 @@
    "ar": "بني ياس",
    "alt": [
     "Baniyas"
+   ],
+   "qar": [
+    [
+     "Sir Bani Yas",
+     "صير بني ياس"
+    ]
    ]
   },
   {
@@ -377,7 +541,13 @@
     "Al Maryah",
     "Sowwah Island"
    ],
-   "apic": "Al Maryah Island"
+   "apic": "Al Maryah Island",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "Which Abu Dhabi island, home to the Sun and Sky Towers, is a big residential hub next to Al Maryah?",
@@ -388,20 +558,42 @@
     "Reem Island",
     "Al Reem"
    ],
-   "apic": "Al Reem Island"
+   "apic": "Al Reem Island",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ],
+    [
+     "Al Maryah",
+     "الماريه"
+    ]
+   ]
   },
   {
    "q": "Which French architect designed the Louvre Abu Dhabi and its huge lattice dome?",
    "a": "Jean Nouvel",
    "p": 400,
-   "apic": "Jean Nouvel"
+   "apic": "Jean Nouvel",
+   "qar": [
+    [
+     "Louvre Abu Dhabi",
+     "اللوفر أبوظبي"
+    ]
+   ]
   },
   {
    "q": "Which Saadiyat landmark, opened in 2023, brings a mosque, a church and a synagogue together?",
    "a": "Abrahamic Family House",
    "p": 400,
    "ar": "بيت العائلة الإبراهيمية",
-   "apic": "Abrahamic Family House"
+   "apic": "Abrahamic Family House",
+   "qar": [
+    [
+     "Saadiyat",
+     "السعديات"
+    ]
+   ]
   },
   {
    "q": "Which Ferrari World roller coaster launches riders to about 240 km/h?",
@@ -417,7 +609,13 @@
    "alt": [
     "Yas"
    ],
-   "apic": "Yas Island"
+   "apic": "Yas Island",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "Which arena on Yas Bay hosted UFC 257 when it opened in 2021?",
@@ -432,49 +630,87 @@
    "p": 400,
    "ar": "زها حديد",
    "pic": "Sheikh Zayed Bridge",
-   "apic": "Zaha Hadid"
+   "apic": "Zaha Hadid",
+   "qar": [
+    [
+     "Sheikh Zayed Bridge",
+     "جسر الشيخ زايد"
+    ],
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "Which Dubai developer built Palm Jumeirah and The World?",
    "a": "Nakheel",
    "p": 400,
    "ar": "نخيل",
-   "apic": "Nakheel Properties"
+   "apic": "Nakheel Properties",
+   "qar": [
+    [
+     "Palm Jumeirah",
+     "نخلة جميرا"
+    ]
+   ]
   },
   {
    "q": "Which second Dubai palm island, larger than Palm Jumeirah, restarted development in 2023?",
    "a": "Palm Jebel Ali",
    "p": 400,
    "ar": "نخلة جبل علي",
-   "apic": "Palm Jebel Ali"
+   "apic": "Palm Jebel Ali",
+   "qar": [
+    [
+     "Palm Jumeirah",
+     "نخلة جميرا"
+    ]
+   ]
   },
   {
    "q": "Which elevated transit line runs along the trunk of Palm Jumeirah?",
    "a": "Palm Monorail",
    "p": 400,
-   "ar": "مونوريل النخلة",
    "alt": [
     "The Palm Monorail",
     "Monorail"
    ],
-   "apic": "Palm Jumeirah Monorail"
+   "apic": "Palm Jumeirah Monorail",
+   "qar": [
+    [
+     "Palm Jumeirah",
+     "نخلة جميرا"
+    ]
+   ]
   },
   {
    "q": "What is the breakwater ring that encircles Palm Jumeirah's fronds called?",
    "a": "The Crescent",
    "p": 400,
-   "ar": "الهلال",
    "alt": [
     "Crescent"
    ],
-   "pic": "Palm Jumeirah"
+   "pic": "Palm Jumeirah",
+   "qar": [
+    [
+     "Palm Jumeirah",
+     "نخلة جميرا"
+    ]
+   ]
   },
   {
    "q": "Which wave-shaped hotel stands beside the Burj Al Arab?",
    "a": "Jumeirah Beach Hotel",
    "p": 400,
    "ar": "فندق جميرا بيتش",
-   "apic": "Jumeirah Beach Hotel"
+   "apic": "Jumeirah Beach Hotel",
+   "qar": [
+    [
+     "Burj Al Arab",
+     "برج العرب"
+    ]
+   ]
   },
   {
    "q": "Roughly how many islands make up The World archipelago off Dubai?",
@@ -494,7 +730,17 @@
    "alt": [
     "Dubai Canal"
    ],
-   "apic": "Dubai Water Canal"
+   "apic": "Dubai Water Canal",
+   "qar": [
+    [
+     "Business Bay",
+     "الخليج التجاري"
+    ],
+    [
+     "Jumeirah",
+     "جميرا"
+    ]
+   ]
   },
   {
    "q": "Which Dubai beach park lies by a lagoon near the border with Sharjah?",
@@ -504,6 +750,12 @@
    "alt": [
     "Mamzar",
     "Al Mamzar"
+   ],
+   "qar": [
+    [
+     "Sharjah",
+     "الشارقة"
+    ]
    ]
   },
   {
@@ -514,24 +766,41 @@
    "alt": [
     "Ras Al Khor Wildlife Sanctuary"
    ],
-   "apic": "Ras Al Khor Wildlife Sanctuary"
+   "apic": "Ras Al Khor Wildlife Sanctuary",
+   "qar": [
+    [
+     "Dubai Creek",
+     "خور دبي"
+    ]
+   ]
   },
   {
    "q": "Which critically endangered sea turtle nests on Saadiyat's beaches?",
    "a": "Hawksbill turtle",
    "p": 400,
-   "ar": "السلحفاة صقرية المنقار",
    "alt": [
     "Hawksbill"
    ],
-   "apic": "Hawksbill sea turtle"
+   "apic": "Hawksbill sea turtle",
+   "qar": [
+    [
+     "Saadiyat",
+     "السعديات"
+    ]
+   ]
   },
   {
    "q": "Which emirate does the mangrove-rich town of Khor Kalba belong to?",
    "a": "Sharjah",
    "p": 400,
    "ar": "الشارقة",
-   "apic": "Sharjah (emirate)"
+   "apic": "Sharjah (emirate)",
+   "qar": [
+    [
+     "Khor Kalba",
+     "خور كلباء"
+    ]
+   ]
   },
   {
    "q": "Khor Kalba lies close to the UAE's border with which country?",
@@ -541,7 +810,13 @@
    "alt": [
     "Sultanate of Oman"
    ],
-   "apic": "Oman"
+   "apic": "Oman",
+   "qar": [
+    [
+     "Khor Kalba",
+     "خور كلباء"
+    ]
+   ]
   },
   {
    "q": "Which Sharjah east-coast town has a famous corniche, a waterfall and an amphitheatre?",
@@ -552,7 +827,13 @@
     "Khorfakkan",
     "Khawr Fakkan"
    ],
-   "apic": "Khor Fakkan"
+   "apic": "Khor Fakkan",
+   "qar": [
+    [
+     "Sharjah",
+     "الشارقة"
+    ]
+   ]
   },
   {
    "q": "Which small island in Sharjah's Khalid Lagoon has a butterfly house?",
@@ -561,6 +842,16 @@
    "ar": "جزيرة النور",
    "alt": [
     "Noor Island"
+   ],
+   "qar": [
+    [
+     "Sharjah",
+     "الشارقة"
+    ],
+    [
+     "Khalid Lagoon",
+     "بحيرة خالد"
+    ]
    ]
   },
   {
@@ -571,6 +862,12 @@
    "alt": [
     "Eastern Mangroves",
     "Abu Dhabi Mangroves"
+   ],
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
    ]
   },
   {
@@ -598,16 +895,27 @@
    "q": "Which waterfront dining strip at the tip of Palm Jumeirah faces Atlantis?",
    "a": "The Pointe",
    "p": 400,
-   "ar": "ذا بوينت",
    "alt": [
     "Pointe"
+   ],
+   "qar": [
+    [
+     "Palm Jumeirah",
+     "نخلة جميرا"
+    ]
    ]
   },
   {
    "q": "Before 2022, the Dubai Islands development was known by what name?",
    "a": "Deira Islands",
    "p": 400,
-   "ar": "جزر ديرة"
+   "ar": "جزر ديرة",
+   "qar": [
+    [
+     "Dubai Islands",
+     "جزر دبي"
+    ]
+   ]
   },
   {
    "q": "Which Abu Dhabi island, next to Saadiyat, has a mangrove park with wooden boardwalks?",
@@ -617,6 +925,16 @@
    "alt": [
     "Jubail Island",
     "Jubail"
+   ],
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ],
+    [
+     "Saadiyat",
+     "السعديات"
+    ]
    ]
   },
   {
@@ -638,7 +956,13 @@
   {
    "q": "Which wave pool, designed with Kelly Slater, opened in Abu Dhabi in 2024?",
    "a": "Surf Abu Dhabi",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "Which Al Dhafra island was a historic pearl-trading hub, with a museum in the 1930s house of merchant Al Muraykhi?",
@@ -649,7 +973,17 @@
     "Dalma",
     "Delma Island"
    ],
-   "apic": "Dalma (island)"
+   "apic": "Dalma (island)",
+   "qar": [
+    [
+     "Al Dhafra",
+     "الظفرة"
+    ],
+    [
+     "Al Muraykhi",
+     "المريخي"
+    ]
+   ]
   },
   {
    "q": "On which Abu Dhabi island was a roughly 8,000-year-old natural pearl, among the oldest known, found?",
@@ -659,6 +993,12 @@
    "alt": [
     "Merawah",
     "Marawah Island"
+   ],
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
    ]
   },
   {
@@ -668,6 +1008,12 @@
    "ar": "أبو الأبيض",
    "alt": [
     "Abu al Abyadh"
+   ],
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
    ]
   },
   {
@@ -688,6 +1034,16 @@
    "alt": [
     "Western Region",
     "Al Gharbia"
+   ],
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ],
+    [
+     "Sir Bani Yas",
+     "صير بني ياس"
+    ]
    ]
   },
   {
@@ -698,30 +1054,47 @@
    "alt": [
     "Hudayriyat",
     "Al Hudayriyat"
+   ],
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
    ]
   },
   {
    "q": "Which Umm Al Quwain island hosts one of the largest colonies of Socotra cormorants?",
    "a": "Al Siniyah",
    "p": 600,
-   "ar": "جزيرة السينية",
+   "ar": "السينية",
    "alt": [
     "Siniyah",
     "Sinniyah",
     "Al Sinniyah"
+   ],
+   "qar": [
+    [
+     "Umm Al Quwain",
+     "أم القيوين"
+    ]
    ]
   },
   {
    "q": "Which rare kingfisher subspecies lives almost only in the mangroves of Khor Kalba?",
    "a": "Collared kingfisher",
    "p": 600,
-   "ar": "الرفراف أبيض الطوق",
    "alt": [
     "Kalba kingfisher",
     "White-collared kingfisher",
     "Arabian collared kingfisher"
    ],
-   "apic": "Collared kingfisher"
+   "apic": "Collared kingfisher",
+   "qar": [
+    [
+     "Khor Kalba",
+     "خور كلباء"
+    ]
+   ]
   },
   {
    "q": "What is the genus of the grey mangrove, the UAE's only native mangrove?",
@@ -741,7 +1114,13 @@
     "Daba",
     "Dibba Al Hisn"
    ],
-   "apic": "Dibba Al-Fujairah"
+   "apic": "Dibba Al-Fujairah",
+   "qar": [
+    [
+     "Ridda Wars",
+     "حروب الردة"
+    ]
+   ]
   },
   {
    "q": "Which Dubai island, home to a Bulgari resort, is shaped like a seahorse?",
@@ -789,6 +1168,12 @@
     "Yas Viceroy",
     "Yas Hotel",
     "W Abu Dhabi"
+   ],
+   "qar": [
+    [
+     "Yas Marina Circuit",
+     "حلبة مرسى ياس"
+    ]
    ]
   },
   {
@@ -797,13 +1182,25 @@
    "p": 600,
    "alt": [
     "Phenomena"
+   ],
+   "qar": [
+    [
+     "Saadiyat Island",
+     "جزيرة السعديات"
+    ]
    ]
   },
   {
    "q": "What is the name of the Louvre Abu Dhabi dome's effect of light falling through its pattern?",
    "a": "Rain of light",
    "p": 600,
-   "pic": "Louvre Abu Dhabi"
+   "pic": "Louvre Abu Dhabi",
+   "qar": [
+    [
+     "Louvre Abu Dhabi",
+     "اللوفر أبوظبي"
+    ]
+   ]
   },
   {
    "q": "Which Ajman nature reserve has mangroves, flamingos and a golf course?",
@@ -812,6 +1209,12 @@
    "ar": "الزوراء",
    "alt": [
     "Al Zorah Nature Reserve"
+   ],
+   "qar": [
+    [
+     "Ajman",
+     "عجمان"
+    ]
    ]
   },
   {
@@ -821,13 +1224,18 @@
    "ar": "لؤلؤ السويدي",
    "alt": [
     "Suwaidi Pearl Farm"
+   ],
+   "qar": [
+    [
+     "Al Rams",
+     "الرمس"
+    ]
    ]
   },
   {
    "q": "What is the sea turtle most commonly found grazing on seagrass in UAE waters?",
    "a": "Green turtle",
    "p": 600,
-   "ar": "السلحفاة الخضراء",
    "alt": [
     "Green sea turtle"
    ],
@@ -839,6 +1247,12 @@
    "p": 600,
    "alt": [
     "Turtle Rehabilitation Project"
+   ],
+   "qar": [
+    [
+     "Burj Al Arab",
+     "برج العرب"
+    ]
    ]
   },
   {
@@ -849,13 +1263,25 @@
    "alt": [
     "Al Ruwais"
    ],
-   "apic": "Ruwais"
+   "apic": "Ruwais",
+   "qar": [
+    [
+     "Al Dhafra",
+     "الظفرة"
+    ]
+   ]
   },
   {
    "q": "Which waterfront destination in Abu Dhabi is home to the National Aquarium?",
    "a": "Al Qana",
    "p": 600,
-   "ar": "القانة"
+   "ar": "القانة",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "Which bridge, opened in 1968, was the first to link Abu Dhabi island to the mainland?",
@@ -864,6 +1290,12 @@
    "ar": "جسر المقطع",
    "alt": [
     "Maqta Bridge"
+   ],
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
    ]
   },
   {
@@ -872,6 +1304,12 @@
    "p": 400,
    "alt": [
     "The View"
+   ],
+   "qar": [
+    [
+     "Palm Jumeirah",
+     "نخلة جميرا"
+    ]
    ]
   },
   {
@@ -880,6 +1318,16 @@
    "p": 400,
    "alt": [
     "Umm Suqeim Beach"
+   ],
+   "qar": [
+    [
+     "Umm Suqeim",
+     "أم سقيم"
+    ],
+    [
+     "Burj Al Arab",
+     "برج العرب"
+    ]
    ]
   },
   {
@@ -904,6 +1352,12 @@
    "alt": [
     "Zaya Nurai Island",
     "Nurai"
+   ],
+   "qar": [
+    [
+     "Saadiyat",
+     "السعديات"
+    ]
    ]
   },
   {
@@ -914,13 +1368,25 @@
    "alt": [
     "Jazirat Al Hamra",
     "Al Jazeera Al Hamra"
+   ],
+   "qar": [
+    [
+     "Ras Al Khaimah",
+     "رأس الخيمة"
+    ]
    ]
   },
   {
    "q": "In which year did construction of Palm Jumeirah begin?",
    "a": "2001",
    "p": 600,
-   "pic": "Palm Jumeirah"
+   "pic": "Palm Jumeirah",
+   "qar": [
+    [
+     "Palm Jumeirah",
+     "نخلة جميرا"
+    ]
+   ]
   },
   {
    "q": "Which grand palace hotel with a long private beach stands at the western end of Abu Dhabi's Corniche?",
@@ -930,13 +1396,18 @@
    "alt": [
     "Emirates Palace Mandarin Oriental"
    ],
-   "apic": "Emirates Palace"
+   "apic": "Emirates Palace",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "Which pale crab scuttles sideways into burrows on UAE beaches at night?",
    "a": "Ghost crab",
    "p": 200,
-   "ar": "السرطان الشبح",
    "alt": [
     "Sand crab"
    ],
@@ -946,7 +1417,6 @@
    "q": "Which stinging sea creatures sometimes drift onto UAE beaches in large blooms?",
    "a": "Jellyfish",
    "p": 200,
-   "ar": "قناديل البحر",
    "alt": [
     "Jelly fish"
    ],
@@ -956,7 +1426,6 @@
    "q": "Which playful marine mammals, such as bottlenose and humpback species, are often seen off the UAE coast?",
    "a": "Dolphins",
    "p": 200,
-   "ar": "الدلافين",
    "alt": [
     "Dolphin"
    ],
@@ -966,14 +1435,12 @@
    "q": "Which crab protects itself by living inside empty sea shells?",
    "a": "Hermit crab",
    "p": 200,
-   "ar": "السلطعون الناسك",
    "apic": "Hermit crab"
   },
   {
    "q": "What underwater plants form meadows that dugongs graze on?",
    "a": "Seagrass",
    "p": 200,
-   "ar": "الأعشاب البحرية",
    "alt": [
     "Sea grass"
    ],
@@ -983,11 +1450,20 @@
    "q": "What does the Arabic word 'khor' mean in place names like Khor Fakkan?",
    "a": "Creek",
    "p": 200,
-   "ar": "خور",
    "alt": [
     "Inlet",
     "Bay",
     "Lagoon"
+   ],
+   "qar": [
+    [
+     "khor",
+     "خور"
+    ],
+    [
+     "Khor Fakkan",
+     "خورفكان"
+    ]
    ]
   },
   {
@@ -998,14 +1474,30 @@
    "alt": [
     "UAQ"
    ],
-   "apic": "Umm Al Quwain"
+   "apic": "Umm Al Quwain",
+   "qar": [
+    [
+     "Sharjah",
+     "الشارقة"
+    ],
+    [
+     "Ras Al Khaimah",
+     "رأس الخيمة"
+    ]
+   ]
   },
   {
    "q": "Which is the smallest emirate, with a beachfront corniche next to Sharjah?",
    "a": "Ajman",
    "p": 200,
    "ar": "عجمان",
-   "apic": "Ajman"
+   "apic": "Ajman",
+   "qar": [
+    [
+     "Sharjah",
+     "الشارقة"
+    ]
+   ]
   },
   {
    "q": "Which retired ocean liner is now a floating hotel at Dubai's Mina Rashid?",
@@ -1015,7 +1507,13 @@
     "Queen Elizabeth 2",
     "Queen Elizabeth II"
    ],
-   "apic": "Queen Elizabeth 2"
+   "apic": "Queen Elizabeth 2",
+   "qar": [
+    [
+     "Mina Rashid",
+     "ميناء راشد"
+    ]
+   ]
   },
   {
    "q": "Which Dubai neighbourhood gave its name to the hotel group behind Burj Al Arab?",
@@ -1024,19 +1522,23 @@
    "ar": "جميرا",
    "alt": [
     "Jumeira"
+   ],
+   "qar": [
+    [
+     "Burj Al Arab",
+     "برج العرب"
+    ]
    ]
   },
   {
    "q": "What is the international eco-label flown over certified clean beaches in the UAE?",
    "a": "Blue Flag",
-   "p": 200,
-   "ar": "العلم الأزرق"
+   "p": 200
   },
   {
    "q": "What colour do corals turn when the sea gets too warm and they lose their algae?",
    "a": "White",
    "p": 200,
-   "ar": "أبيض",
    "alt": [
     "Bleached"
    ]
@@ -1045,7 +1547,6 @@
    "q": "Which wooden boats carry tourists on dinner cruises along Dubai Marina and the Creek?",
    "a": "Dhows",
    "p": 200,
-   "ar": "سفن شراعية",
    "alt": [
     "Dhow"
    ],
@@ -1055,7 +1556,6 @@
    "q": "Which fragile gem from Gulf oysters made coastal towns rich before oil?",
    "a": "Pearls",
    "p": 200,
-   "ar": "لؤلؤ",
    "alt": [
     "Pearl",
     "Natural pearls"
@@ -1070,7 +1570,17 @@
    "alt": [
     "Yas"
    ],
-   "apic": "Yas Island"
+   "apic": "Yas Island",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ],
+    [
+     "Yas Marina",
+     "مرسى ياس"
+    ]
+   ]
   },
   {
    "q": "Which emirate's coast is home to Al Hamra and Al Marjan beach resorts?",
@@ -1080,14 +1590,34 @@
    "alt": [
     "RAK"
    ],
-   "apic": "Ras Al Khaimah"
+   "apic": "Ras Al Khaimah",
+   "qar": [
+    [
+     "Al Hamra",
+     "الحمرا"
+    ],
+    [
+     "Al Marjan",
+     "المرجان"
+    ]
+   ]
   },
   {
    "q": "Which emirate is home to Sir Bani Yas, Yas and Saadiyat islands?",
    "a": "Abu Dhabi",
    "p": 200,
    "ar": "أبوظبي",
-   "apic": "Abu Dhabi"
+   "apic": "Abu Dhabi",
+   "qar": [
+    [
+     "Sir Bani Yas",
+     "صير بني ياس"
+    ],
+    [
+     "Saadiyat",
+     "السعديات"
+    ]
+   ]
   },
   {
    "q": "Which Dubai area by the sea has the marina full of skyscrapers and yachts?",
@@ -1103,7 +1633,6 @@
    "q": "Which island off Dubai is home to Caesars Palace Dubai beach resort?",
    "a": "Bluewaters",
    "p": 400,
-   "ar": "بلوواترز",
    "alt": [
     "Bluewaters Island"
    ],
@@ -1117,28 +1646,56 @@
    "alt": [
     "Umm Suqaim"
    ],
-   "apic": "Umm Suqeim"
+   "apic": "Umm Suqeim",
+   "qar": [
+    [
+     "Burj Al Arab",
+     "برج العرب"
+    ]
+   ]
   },
   {
    "q": "What does 'ras' mean in coastal names like Ras Al Khaimah and Ras Al Khor?",
    "a": "Headland",
    "p": 400,
-   "ar": "رأس",
    "alt": [
     "Cape",
     "Head",
     "Point"
+   ],
+   "qar": [
+    [
+     "ras",
+     "رأس"
+    ],
+    [
+     "Ras Al Khaimah",
+     "رأس الخيمة"
+    ],
+    [
+     "Ras Al Khor",
+     "رأس الخور"
+    ]
    ]
   },
   {
    "q": "Which Umm Al Quwain water park sits by the coast on the road to Ras Al Khaimah?",
    "a": "Dreamland Aqua Park",
    "p": 400,
-   "ar": "دريم لاند",
    "alt": [
     "Dreamland"
    ],
-   "apic": "Dreamland Aqua Park"
+   "apic": "Dreamland Aqua Park",
+   "qar": [
+    [
+     "Umm Al Quwain",
+     "أم القيوين"
+    ],
+    [
+     "Ras Al Khaimah",
+     "رأس الخيمة"
+    ]
+   ]
   },
   {
    "q": "Which Dubai port, near the Creek, now hosts the cruise terminal and the QE2?",
@@ -1167,20 +1724,24 @@
    "ar": "ميناء زايد",
    "alt": [
     "Port Zayed"
+   ],
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
    ]
   },
   {
    "q": "Which fish-eating bird of prey nests on UAE islands and dives feet-first into the sea?",
    "a": "Osprey",
    "p": 400,
-   "ar": "العقاب النساري",
    "apic": "Osprey"
   },
   {
    "q": "Which venomous, well-camouflaged reef fish can hurt swimmers who step on it?",
    "a": "Stonefish",
    "p": 400,
-   "ar": "سمكة الحجر",
    "alt": [
     "Stone fish"
    ],
@@ -1190,14 +1751,12 @@
    "q": "Which fish can 'walk' and breathe out of water on mangrove mud?",
    "a": "Mudskipper",
    "p": 400,
-   "ar": "نطاط الطين",
    "apic": "Mudskipper"
   },
   {
    "q": "Which wading bird with a flat, spoon-shaped bill feeds in UAE lagoons?",
    "a": "Spoonbill",
    "p": 400,
-   "ar": "أبو ملعقة",
    "alt": [
     "Eurasian spoonbill"
    ],
@@ -1207,12 +1766,17 @@
    "q": "Which popular fish is called 'kanaad' in the Gulf?",
    "a": "Kingfish",
    "p": 400,
-   "ar": "كنعد",
    "alt": [
     "Spanish mackerel",
     "Narrow-barred Spanish mackerel"
    ],
-   "apic": "Narrow-barred Spanish mackerel"
+   "apic": "Narrow-barred Spanish mackerel",
+   "qar": [
+    [
+     "kanaad",
+     "كنعد"
+    ]
+   ]
   },
   {
    "q": "What is salted preserved fish, a traditional Emirati coastal staple, called?",
@@ -1232,7 +1796,13 @@
     "Sabkhah",
     "Sebkha"
    ],
-   "apic": "Sabkha"
+   "apic": "Sabkha",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "Which historic Dubai district at the mouth of the Creek has Sheikh Saeed's House?",
@@ -1242,13 +1812,25 @@
    "alt": [
     "Shindagha"
    ],
-   "apic": "Al Shindagha"
+   "apic": "Al Shindagha",
+   "qar": [
+    [
+     "Sheikh Saeed",
+     "الشيخ سعيد"
+    ]
+   ]
   },
   {
    "q": "In which year did the Louvre Abu Dhabi open?",
    "a": "2017",
    "p": 400,
-   "pic": "Louvre Abu Dhabi"
+   "pic": "Louvre Abu Dhabi",
+   "qar": [
+    [
+     "Louvre Abu Dhabi",
+     "اللوفر أبوظبي"
+    ]
+   ]
   },
   {
    "q": "Which Frank Gehry-designed museum is planned for Saadiyat's Cultural District?",
@@ -1258,7 +1840,13 @@
    "alt": [
     "Guggenheim"
    ],
-   "apic": "Guggenheim Abu Dhabi"
+   "apic": "Guggenheim Abu Dhabi",
+   "qar": [
+    [
+     "Saadiyat",
+     "السعديات"
+    ]
+   ]
   },
   {
    "q": "Which university's Abu Dhabi campus is on Saadiyat Island?",
@@ -1269,7 +1857,13 @@
     "New York University",
     "NYU"
    ],
-   "apic": "New York University Abu Dhabi"
+   "apic": "New York University Abu Dhabi",
+   "qar": [
+    [
+     "Saadiyat Island",
+     "جزيرة السعديات"
+    ]
+   ]
   },
   {
    "q": "Which open-air shopping strip faces the sea at JBR?",
@@ -1286,6 +1880,16 @@
    "ar": "القرية التراثية",
    "alt": [
     "Abu Dhabi Heritage Village"
+   ],
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ],
+    [
+     "Marina Mall",
+     "مارينا مول"
+    ]
    ]
   },
   {
@@ -1295,6 +1899,12 @@
    "ar": "العقة",
    "alt": [
     "Aqah"
+   ],
+   "qar": [
+    [
+     "Fujairah",
+     "الفجيرة"
+    ]
    ]
   },
   {
@@ -1302,7 +1912,13 @@
    "a": "Eastern Mangroves",
    "p": 400,
    "ar": "القرم الشرقي",
-   "apic": "Eastern Mangroves"
+   "apic": "Eastern Mangroves",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "Which Dubai waterfront development on the Creek includes the Dubai Creek Tower site?",
@@ -1312,7 +1928,13 @@
    "alt": [
     "Creek Harbour"
    ],
-   "apic": "Dubai Creek Harbour"
+   "apic": "Dubai Creek Harbour",
+   "qar": [
+    [
+     "Dubai Creek Tower",
+     "برج خور دبي"
+    ]
+   ]
   },
   {
    "q": "Which roughly 250-metre-tall attraction stands on Bluewaters Island?",
@@ -1332,6 +1954,12 @@
    "alt": [
     "Bu Tinah Shoals",
     "Bu Tinah Island"
+   ],
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
    ]
   },
   {
@@ -1342,6 +1970,12 @@
    "alt": [
     "Umm Al Nar",
     "Umm al-Nar"
+   ],
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
    ]
   },
   {
@@ -1358,10 +1992,15 @@
    "q": "Which fish is called 'sheri' in the UAE?",
    "a": "Emperor",
    "p": 600,
-   "ar": "شعري",
    "alt": [
     "Emperor fish",
     "Spangled emperor"
+   ],
+   "qar": [
+    [
+     "sheri",
+     "شعري"
+    ]
    ]
   },
   {
@@ -1391,13 +2030,25 @@
    "alt": [
     "Gaffal",
     "Al Qaffal"
+   ],
+   "qar": [
+    [
+     "Sir Bu Nair",
+     "صير بونعير"
+    ]
    ]
   },
   {
    "q": "Which planned third Dubai palm island was scaled down and became Deira Islands?",
    "a": "Palm Deira",
    "p": 600,
-   "ar": "نخلة ديرة"
+   "ar": "نخلة ديرة",
+   "qar": [
+    [
+     "Deira Islands",
+     "جزر ديرة"
+    ]
+   ]
   },
   {
    "q": "Which sunken wrecks off Fujairah, numbered 1 and 2, are popular dive sites?",
@@ -1406,6 +2057,12 @@
    "alt": [
     "Inchcape 1",
     "Inchcape 2"
+   ],
+   "qar": [
+    [
+     "Fujairah",
+     "الفجيرة"
+    ]
    ]
   },
   {
@@ -1416,7 +2073,13 @@
    "alt": [
     "Maktoum Bridge"
    ],
-   "apic": "Al Maktoum Bridge"
+   "apic": "Al Maktoum Bridge",
+   "qar": [
+    [
+     "Dubai Creek",
+     "خور دبي"
+    ]
+   ]
   },
   {
    "q": "Which hidden Dubai beach near Al Sufouh is named after the royal palaces beside it?",
@@ -1424,20 +2087,37 @@
    "p": 600,
    "alt": [
     "Palace Beach"
+   ],
+   "qar": [
+    [
+     "Al Sufouh",
+     "الصفوح"
+    ]
    ]
   },
   {
    "q": "Which Saadiyat exhibition centre hosts art shows near the Louvre?",
    "a": "Manarat Al Saadiyat",
    "p": 600,
-   "ar": "منارة السعديات"
+   "ar": "منارة السعديات",
+   "qar": [
+    [
+     "Saadiyat",
+     "السعديات"
+    ]
+   ]
   },
   {
    "q": "Which hotel brand runs the Desert Islands resort on Sir Bani Yas?",
    "a": "Anantara",
    "p": 600,
-   "ar": "أنانتارا",
-   "apic": "Anantara Hotels, Resorts & Spas"
+   "apic": "Anantara Hotels, Resorts & Spas",
+   "qar": [
+    [
+     "Sir Bani Yas",
+     "صير بني ياس"
+    ]
+   ]
   },
   {
    "q": "Which Al Dhafra island revealed buildings around 8,500 years old, announced in 2022 as among the UAE's oldest?",
@@ -1446,6 +2126,12 @@
    "ar": "غاغا",
    "alt": [
     "Ghagha Island"
+   ],
+   "qar": [
+    [
+     "Al Dhafra",
+     "الظفرة"
+    ]
    ]
   },
   {
@@ -1453,7 +2139,13 @@
    "a": "Julfar",
    "p": 600,
    "ar": "جلفار",
-   "apic": "Julfar"
+   "apic": "Julfar",
+   "qar": [
+    [
+     "Ras Al Khaimah",
+     "رأس الخيمة"
+    ]
+   ]
   },
   {
    "q": "Which famous 15th-century Arab navigator was born in the Ras Al Khaimah area?",
@@ -1462,6 +2154,12 @@
    "ar": "أحمد بن ماجد",
    "alt": [
     "Ibn Majid"
+   ],
+   "qar": [
+    [
+     "Ras Al Khaimah",
+     "رأس الخيمة"
+    ]
    ]
   },
   {
@@ -1473,7 +2171,13 @@
     "Al Dur",
     "Ad Dur"
    ],
-   "apic": "Ed-Dur"
+   "apic": "Ed-Dur",
+   "qar": [
+    [
+     "Umm Al Quwain",
+     "أم القيوين"
+    ]
+   ]
   },
   {
    "q": "Which Dubai site near the beach revealed a settlement from the Abbasid era?",
@@ -1488,13 +2192,29 @@
    "ar": "المرفأ",
    "alt": [
     "Al Mirfa"
+   ],
+   "qar": [
+    [
+     "Al Dhafra",
+     "الظفرة"
+    ],
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
    ]
   },
   {
    "q": "Which black-and-white wader nests in sand burrows on Abu Dhabi's islands?",
    "a": "Crab plover",
    "p": 600,
-   "apic": "Crab-plover"
+   "apic": "Crab-plover",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "What was Al Maryah Island called before it was renamed?",
@@ -1503,25 +2223,49 @@
    "ar": "جزيرة الصوة",
    "alt": [
     "Sowwah"
+   ],
+   "qar": [
+    [
+     "Al Maryah Island",
+     "جزيرة الماريه"
+    ]
    ]
   },
   {
    "q": "In which year did Ferrari World Abu Dhabi open?",
    "a": "2010",
    "p": 600,
-   "pic": "Ferrari World"
+   "pic": "Ferrari World",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "In which year did Ain Dubai open to the public?",
    "a": "2021",
    "p": 600,
-   "pic": "Ain Dubai"
+   "pic": "Ain Dubai",
+   "qar": [
+    [
+     "Ain Dubai",
+     "عين دبي"
+    ]
+   ]
   },
   {
    "q": "In which year did the Jumeirah Beach Hotel open?",
    "a": "1997",
    "p": 600,
-   "pic": "Jumeirah Beach Hotel"
+   "pic": "Jumeirah Beach Hotel",
+   "qar": [
+    [
+     "Jumeirah Beach Hotel",
+     "فندق جميرا بيتش"
+    ]
+   ]
   },
   {
    "q": "In which year did the QE2 open as a hotel in Dubai?",
@@ -1533,29 +2277,45 @@
    "q": "In which year did Yas Marina Circuit host its first Formula 1 race?",
    "a": "2009",
    "p": 400,
-   "pic": "Yas Marina Circuit"
+   "pic": "Yas Marina Circuit",
+   "qar": [
+    [
+     "Yas Marina Circuit",
+     "حلبة مرسى ياس"
+    ]
+   ]
   },
   {
    "q": "In which year did the Burj Al Arab open?",
    "a": "1999",
    "p": 400,
-   "pic": "Burj Al Arab"
+   "pic": "Burj Al Arab",
+   "qar": [
+    [
+     "Burj Al Arab",
+     "برج العرب"
+    ]
+   ]
   },
   {
    "q": "Which big cat, the fastest land animal, was introduced to Sir Bani Yas?",
    "a": "Cheetah",
    "p": 400,
-   "ar": "الفهد",
    "alt": [
     "Cheetahs"
    ],
-   "apic": "Cheetah"
+   "apic": "Cheetah",
+   "qar": [
+    [
+     "Sir Bani Yas",
+     "صير بني ياس"
+    ]
+   ]
   },
   {
    "q": "What is the process of building new land from dredged sand, used for the palm islands, called?",
    "a": "Land reclamation",
    "p": 200,
-   "ar": "ردم البحر",
    "alt": [
     "Reclamation"
    ],
@@ -1574,8 +2334,7 @@
   {
    "q": "What colour flag on a UAE beach means swimming is not allowed?",
    "a": "Red",
-   "p": 200,
-   "ar": "أحمر"
+   "p": 200
   },
   {
    "q": "What is the traditional wooden water taxi that crosses Dubai Creek?",
@@ -1585,7 +2344,13 @@
    "alt": [
     "Abras"
    ],
-   "apic": "Abra (boat)"
+   "apic": "Abra (boat)",
+   "qar": [
+    [
+     "Dubai Creek",
+     "خور دبي"
+    ]
+   ]
   },
   {
    "q": "Which reef shark, named for its dark fin tips, cruises the shallows off UAE beaches?",

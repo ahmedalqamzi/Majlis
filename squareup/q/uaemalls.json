@@ -11,7 +11,17 @@
     "MOE"
    ],
    "pic": "Ski Dubai",
-   "apic": "Mall of the Emirates"
+   "apic": "Mall of the Emirates",
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ],
+    [
+     "Al Barsha",
+     "البرشاء"
+    ]
+   ]
   },
   {
    "q": "What is the indoor snow resort inside Mall of the Emirates called?",
@@ -19,18 +29,29 @@
    "p": 200,
    "ar": "سكي دبي",
    "pic": "Mall of the Emirates",
-   "apic": "Ski Dubai"
+   "apic": "Ski Dubai",
+   "qar": [
+    [
+     "Mall of the Emirates",
+     "مول الإمارات"
+    ]
+   ]
   },
   {
    "q": "Which flightless birds can visitors meet in the snow at Ski Dubai?",
    "a": "Penguins",
    "p": 200,
-   "ar": "البطاريق",
    "alt": [
     "Penguin"
    ],
    "pic": "Ski Dubai",
-   "apic": "Penguin"
+   "apic": "Penguin",
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
+   ]
   },
   {
    "q": "Which huge aquarium with a walk-through tunnel is inside The Dubai Mall?",
@@ -40,7 +61,13 @@
    "alt": [
     "Dubai Aquarium"
    ],
-   "apic": "Dubai Aquarium & Underwater Zoo"
+   "apic": "Dubai Aquarium & Underwater Zoo",
+   "qar": [
+    [
+     "Dubai Mall",
+     "دبي مول"
+    ]
+   ]
   },
   {
    "q": "Which Dubai mall is named after a 14th-century Moroccan traveller?",
@@ -50,7 +77,13 @@
    "alt": [
     "Ibn Battuta"
    ],
-   "apic": "Ibn Battuta Mall"
+   "apic": "Ibn Battuta Mall",
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
+   ]
   },
   {
    "q": "What does the festival abbreviation DSF stand for?",
@@ -64,17 +97,32 @@
    "a": "Deira",
    "p": 200,
    "ar": "ديرة",
-   "apic": "Deira"
+   "apic": "Deira",
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ],
+    [
+     "Gold Souk",
+     "سوق الذهب"
+    ]
+   ]
   },
   {
    "q": "Which Dubai mall, shaped like a long dragon, specialises in Chinese goods?",
    "a": "Dragon Mart",
    "p": 200,
-   "ar": "دراجون مارت",
    "alt": [
     "Dragon Mart Dubai"
    ],
-   "apic": "Dragon Mart"
+   "apic": "Dragon Mart",
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
+   ]
   },
   {
    "q": "Which choreographed water show performs on the lake beside The Dubai Mall?",
@@ -85,7 +133,13 @@
     "Dubai Fountain"
    ],
    "pic": "The Dubai Mall",
-   "apic": "The Dubai Fountain"
+   "apic": "The Dubai Fountain",
+   "qar": [
+    [
+     "Dubai Mall",
+     "دبي مول"
+    ]
+   ]
   },
   {
    "q": "Yas Mall is on which Abu Dhabi island?",
@@ -96,14 +150,30 @@
     "Yas"
    ],
    "pic": "Yas Mall",
-   "apic": "Yas Island"
+   "apic": "Yas Island",
+   "qar": [
+    [
+     "Yas Mall",
+     "ياس مول"
+    ],
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "Which emirate is home to the Blue Souk with its wind-tower-topped buildings?",
    "a": "Sharjah",
    "p": 200,
    "ar": "الشارقة",
-   "apic": "Sharjah"
+   "apic": "Sharjah",
+   "qar": [
+    [
+     "Blue Souk",
+     "السوق الأزرق"
+    ]
+   ]
   },
   {
    "q": "Which Deira souk is known for sacks of saffron, cardamom and dried lemons?",
@@ -113,6 +183,12 @@
    "alt": [
     "Spice Market",
     "Souk Al Bahar Spice"
+   ],
+   "qar": [
+    [
+     "Deira",
+     "ديرة"
+    ]
    ]
   },
   {
@@ -121,20 +197,37 @@
    "p": 200,
    "alt": [
     "VR Park Dubai"
+   ],
+   "qar": [
+    [
+     "Dubai Mall",
+     "دبي مول"
+    ]
    ]
   },
   {
    "q": "Which kids' role-play city, where children try real jobs, is inside The Dubai Mall?",
    "a": "KidZania",
    "p": 200,
-   "ar": "كيدزانيا",
-   "apic": "KidZania"
+   "apic": "KidZania",
+   "qar": [
+    [
+     "Dubai Mall",
+     "دبي مول"
+    ]
+   ]
   },
   {
    "q": "Which ice rink inside The Dubai Mall hosts public skating and disco nights?",
    "a": "Dubai Ice Rink",
    "p": 200,
-   "ar": "دبي آيس رينك"
+   "ar": "دبي آيس رينك",
+   "qar": [
+    [
+     "Dubai Mall",
+     "دبي مول"
+    ]
+   ]
   },
   {
    "q": "The ticket entrance to Burj Khalifa's 'At the Top' deck is inside which mall?",
@@ -145,14 +238,26 @@
     "Dubai Mall"
    ],
    "pic": "Burj Khalifa",
-   "apic": "The Dubai Mall"
+   "apic": "The Dubai Mall",
+   "qar": [
+    [
+     "Burj Khalifa",
+     "برج خليفة"
+    ]
+   ]
   },
   {
    "q": "Which seasonal Dubai attraction has country pavilions, rides and street food each winter?",
    "a": "Global Village",
    "p": 200,
    "ar": "القرية العالمية",
-   "apic": "Global Village (Dubai)"
+   "apic": "Global Village (Dubai)",
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
+   ]
   },
   {
    "q": "What is the Arabic word for a traditional market?",
@@ -168,22 +273,32 @@
    "q": "Which red spice, made from crocus stigmas, is sold by the gram in the Spice Souk?",
    "a": "Saffron",
    "p": 200,
-   "ar": "زعفران",
    "alt": [
     "Zafaran"
    ],
-   "apic": "Saffron"
+   "apic": "Saffron",
+   "qar": [
+    [
+     "Spice Souk",
+     "سوق التوابل"
+    ]
+   ]
   },
   {
    "q": "Which fragrant resin, burned as incense, is sold in chunks at the souks?",
    "a": "Frankincense",
    "p": 200,
-   "ar": "لبان",
    "alt": [
     "Luban",
     "Loban"
    ],
-   "apic": "Frankincense"
+   "apic": "Frankincense",
+   "qar": [
+    [
+     "souks",
+     "أسواق"
+    ]
+   ]
   },
   {
    "q": "Which precious fragrant wood is burned at home and sold in perfume shops across UAE malls?",
@@ -200,8 +315,17 @@
    "q": "Which metal gives Deira's most famous souk its name?",
    "a": "Gold",
    "p": 200,
-   "ar": "ذهب",
-   "apic": "Gold"
+   "apic": "Gold",
+   "qar": [
+    [
+     "Deira",
+     "ديرة"
+    ],
+    [
+     "souk",
+     "سوق"
+    ]
+   ]
   },
   {
    "q": "Which theme park is directly connected to Yas Mall?",
@@ -212,7 +336,13 @@
     "Ferrari World Abu Dhabi"
    ],
    "pic": "Yas Mall",
-   "apic": "Ferrari World"
+   "apic": "Ferrari World",
+   "qar": [
+    [
+     "Yas Mall",
+     "ياس مول"
+    ]
+   ]
   },
   {
    "q": "Which shopping festival brand runs every summer in Dubai, known as DSS?",
@@ -224,9 +354,22 @@
    "q": "What is the name of the Majid Al Futtaim mall chain found in Deira, Mirdif and Sharjah?",
    "a": "City Centre",
    "p": 200,
-   "ar": "سيتي سنتر",
    "alt": [
     "City Center"
+   ],
+   "qar": [
+    [
+     "Majid Al Futtaim",
+     "ماجد الفطيم"
+    ],
+    [
+     "Mirdif",
+     "مردف"
+    ],
+    [
+     "Sharjah",
+     "الشارقة"
+    ]
    ]
   },
   {
@@ -237,7 +380,13 @@
    "alt": [
     "Festival City"
    ],
-   "apic": "Dubai Festival City"
+   "apic": "Dubai Festival City",
+   "qar": [
+    [
+     "Dubai Creek",
+     "خور دبي"
+    ]
+   ]
   },
   {
    "q": "Which Dubai mall district has an Arabian-style souk with canals and abra rides near Burj Al Arab?",
@@ -246,6 +395,20 @@
    "ar": "سوق مدينة جميرا",
    "alt": [
     "Madinat Jumeirah"
+   ],
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ],
+    [
+     "abra",
+     "عبرة"
+    ],
+    [
+     "Burj Al Arab",
+     "برج العرب"
+    ]
    ]
   },
   {
@@ -264,6 +427,12 @@
    "alt": [
     "Wafi",
     "Wafi City"
+   ],
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
    ]
   },
   {
@@ -276,9 +445,14 @@
    "q": "Which Abu Dhabi mall sits on the Breakwater beside the Corniche?",
    "a": "Marina Mall",
    "p": 200,
-   "ar": "مارينا مول",
    "alt": [
     "Marina Mall Abu Dhabi"
+   ],
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
    ]
   },
   {
@@ -289,7 +463,13 @@
    "alt": [
     "Dalla"
    ],
-   "apic": "Dallah (coffee pot)"
+   "apic": "Dallah (coffee pot)",
+   "qar": [
+    [
+     "souks",
+     "أسواق"
+    ]
+   ]
   },
   {
    "q": "Which Dubai mall area, across the lake from Dubai Mall, has a name meaning 'market of the sea'?",
@@ -299,7 +479,17 @@
    "alt": [
     "Souq Al Bahar"
    ],
-   "apic": "Souk Al Bahar"
+   "apic": "Souk Al Bahar",
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ],
+    [
+     "Dubai Mall",
+     "دبي مول"
+    ]
+   ]
   },
   {
    "q": "What is the incense burner sold in every souk called?",
@@ -309,6 +499,12 @@
    "alt": [
     "Mabkhar",
     "Mibkhara"
+   ],
+   "qar": [
+    [
+     "souk",
+     "سوق"
+    ]
    ]
   },
   {
@@ -326,7 +522,13 @@
     "Emaar Properties"
    ],
    "pic": "The Dubai Mall",
-   "apic": "Emaar Properties"
+   "apic": "Emaar Properties",
+   "qar": [
+    [
+     "Dubai Mall",
+     "دبي مول"
+    ]
+   ]
   },
   {
    "q": "Which retail group built Mall of the Emirates and Ski Dubai?",
@@ -337,17 +539,43 @@
     "MAF"
    ],
    "pic": "Ski Dubai",
-   "apic": "Majid Al Futtaim"
+   "apic": "Majid Al Futtaim",
+   "qar": [
+    [
+     "Mall of the Emirates",
+     "مول الإمارات"
+    ],
+    [
+     "Dubai",
+     "دبي"
+    ]
+   ]
   },
   {
    "q": "In which year did The Dubai Mall open?",
    "a": "2008",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "Dubai Mall",
+     "دبي مول"
+    ]
+   ]
   },
   {
    "q": "In which year did Mall of the Emirates and Ski Dubai open?",
    "a": "2005",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "Mall of the Emirates",
+     "مول الإمارات"
+    ],
+    [
+     "Dubai",
+     "دبي"
+    ]
+   ]
   },
   {
    "q": "How many themed courts does Ibn Battuta Mall have?",
@@ -355,6 +583,12 @@
    "p": 400,
    "alt": [
     "6"
+   ],
+   "qar": [
+    [
+     "Ibn Battuta",
+     "ابن بطوطة"
+    ]
    ]
   },
   {
@@ -363,6 +597,12 @@
    "p": 400,
    "alt": [
     "Persia"
+   ],
+   "qar": [
+    [
+     "Ibn Battuta",
+     "ابن بطوطة"
+    ]
    ]
   },
   {
@@ -371,6 +611,12 @@
    "p": 400,
    "alt": [
     "Andalusia"
+   ],
+   "qar": [
+    [
+     "Ibn Battuta",
+     "ابن بطوطة"
+    ]
    ]
   },
   {
@@ -382,35 +628,68 @@
     "Tanger"
    ],
    "pic": "Ibn Battuta Mall",
-   "apic": "Tangier"
+   "apic": "Tangier",
+   "qar": [
+    [
+     "Ibn Battuta",
+     "ابن بطوطة"
+    ],
+    [
+     "Dubai",
+     "دبي"
+    ]
+   ]
   },
   {
    "q": "Which kind of dinosaur skeleton went on show in The Dubai Mall in 2014?",
    "a": "Diplodocus",
    "p": 400,
    "pic": "The Dubai Mall",
-   "apic": "Diplodocus"
+   "apic": "Diplodocus",
+   "qar": [
+    [
+     "Dubai Mall",
+     "دبي مول"
+    ]
+   ]
   },
   {
    "q": "Which feature of The Dubai Mall has sculptures of men diving down its walls?",
    "a": "The Waterfall",
    "p": 400,
-   "ar": "الشلال",
    "alt": [
     "Waterfall"
+   ],
+   "qar": [
+    [
+     "Dubai Mall",
+     "دبي مول"
+    ]
    ]
   },
   {
    "q": "Which luxury wing of The Dubai Mall houses designer flagship stores?",
    "a": "Fashion Avenue",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "Dubai Mall",
+     "دبي مول"
+    ]
+   ]
   },
   {
    "q": "Which Parisian department store has a branch in The Dubai Mall?",
    "a": "Galeries Lafayette",
    "p": 400,
    "pic": "The Dubai Mall",
-   "apic": "Galeries Lafayette"
+   "apic": "Galeries Lafayette",
+   "qar": [
+    [
+     "Dubai Mall",
+     "دبي مول"
+    ]
+   ]
   },
   {
    "q": "What is the Dubai Metro station that serves The Dubai Mall called?",
@@ -433,13 +712,25 @@
   {
    "q": "In which year was the first Dubai Shopping Festival held?",
    "a": "1996",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "Dubai Shopping Festival",
+     "مهرجان دبي للتسوق"
+    ]
+   ]
   },
   {
    "q": "What is the name of the yellow mascot of Dubai's summer festival?",
    "a": "Modhesh",
    "p": 400,
-   "ar": "مدهش"
+   "ar": "مدهش",
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
+   ]
   },
   {
    "q": "What is the Gold Souk called in Arabic?",
@@ -459,6 +750,16 @@
    "alt": [
     "Old Souk",
     "Bur Dubai Souk"
+   ],
+   "qar": [
+    [
+     "Bur Dubai",
+     "بر دبي"
+    ],
+    [
+     "Spice Souk",
+     "سوق التوابل"
+    ]
    ]
   },
   {
@@ -468,6 +769,12 @@
    "ar": "الكرامة",
    "alt": [
     "Karama Market"
+   ],
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
    ]
   },
   {
@@ -477,6 +784,12 @@
    "ar": "مينا بازار",
    "alt": [
     "Meena Bazar"
+   ],
+   "qar": [
+    [
+     "Bur Dubai",
+     "بر دبي"
+    ]
    ]
   },
   {
@@ -489,15 +802,30 @@
     "Dried lime",
     "Noomi basra"
    ],
-   "apic": "Dried lime"
+   "apic": "Dried lime",
+   "qar": [
+    [
+     "Spice Souk",
+     "سوق التوابل"
+    ],
+    [
+     "machboos",
+     "مكبوس"
+    ]
+   ]
   },
   {
    "q": "In which Dubai area is Dragon Mart located?",
    "a": "International City",
    "p": 400,
-   "ar": "المدينة العالمية",
    "pic": "Dragon Mart",
-   "apic": "International City"
+   "apic": "International City",
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
+   ]
   },
   {
    "q": "Which Dubai outlet mall, styled like a Tuscan village, lies near Dubai Parks and Resorts?",
@@ -505,6 +833,12 @@
    "p": 400,
    "alt": [
     "Outlet Village"
+   ],
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
    ]
   },
   {
@@ -515,16 +849,31 @@
    "alt": [
     "Central Souk",
     "Souq Al Markazi"
+   ],
+   "qar": [
+    [
+     "Sharjah",
+     "الشارقة"
+    ],
+    [
+     "Central Souk",
+     "السوق المركزي"
+    ]
    ]
   },
   {
    "q": "Which Italian-Renaissance-styled mall stands on Jumeirah Beach Road?",
    "a": "Mercato",
    "p": 400,
-   "ar": "مركاتو",
    "alt": [
     "Mercato Mall",
     "Mercato Shopping Mall"
+   ],
+   "qar": [
+    [
+     "Jumeirah",
+     "جميرا"
+    ]
    ]
   },
   {
@@ -535,13 +884,25 @@
    "alt": [
     "Burjuman Centre"
    ],
-   "apic": "BurJuman"
+   "apic": "BurJuman",
+   "qar": [
+    [
+     "Bur Dubai",
+     "بر دبي"
+    ]
+   ]
   },
   {
    "q": "Which indoor snow park is inside Abu Dhabi's Reem Mall?",
    "a": "Snow Abu Dhabi",
    "p": 400,
-   "ar": "سنو أبوظبي"
+   "ar": "سنو أبوظبي",
+   "qar": [
+    [
+     "Reem Mall",
+     "ريم مول"
+    ]
+   ]
   },
   {
    "q": "The Galleria mall in Abu Dhabi stands on which island?",
@@ -552,14 +913,26 @@
     "Al Maryah",
     "Maryah Island"
    ],
-   "apic": "Al Maryah Island"
+   "apic": "Al Maryah Island",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "Al Jimi Mall is in which UAE city?",
    "a": "Al Ain",
    "p": 400,
    "ar": "العين",
-   "apic": "Al Ain"
+   "apic": "Al Ain",
+   "qar": [
+    [
+     "Al Jimi Mall",
+     "الجيمي مول"
+    ]
+   ]
   },
   {
    "q": "In which year did the UAE introduce VAT on most shopping?",
@@ -570,26 +943,57 @@
    "q": "Which Dubai Metro line stations directly serve Mall of the Emirates and Ibn Battuta Mall?",
    "a": "Red Line",
    "p": 400,
-   "ar": "الخط الأحمر",
    "alt": [
     "Red"
    ],
-   "apic": "Red Line (Dubai Metro)"
+   "apic": "Red Line (Dubai Metro)",
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ],
+    [
+     "Mall of the Emirates",
+     "مول الإمارات"
+    ],
+    [
+     "Ibn Battuta",
+     "ابن بطوطة"
+    ]
+   ]
   },
   {
    "q": "Which Deira market replaced the old Deira Fish Market on the waterfront in 2017?",
    "a": "Waterfront Market",
    "p": 400,
-   "ar": "سوق الوترفرونت"
+   "qar": [
+    [
+     "Deira",
+     "ديرة"
+    ],
+    [
+     "Deira Fish Market",
+     "سوق ديرة للسمك"
+    ]
+   ]
   },
   {
    "q": "Which Abu Dhabi traditional market, also called the World Trade Center Souk, stands on the old central souk site?",
    "a": "Central Market",
    "p": 400,
-   "ar": "السوق المركزي",
    "alt": [
     "World Trade Center Souk",
     "WTC Souk"
+   ],
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ],
+    [
+     "souk",
+     "سوق"
+    ]
    ]
   },
   {
@@ -600,7 +1004,13 @@
     "Warner Bros World"
    ],
    "pic": "Yas Mall",
-   "apic": "Warner Bros. World Abu Dhabi"
+   "apic": "Warner Bros. World Abu Dhabi",
+   "qar": [
+    [
+     "Yas Mall",
+     "ياس مول"
+    ]
+   ]
   },
   {
    "q": "Which City Centre mall in Dubai is home to iFLY indoor skydiving?",
@@ -610,12 +1020,24 @@
    "alt": [
     "Mirdif City Centre"
    ],
-   "apic": "City Centre Mirdif"
+   "apic": "City Centre Mirdif",
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
+   ]
   },
   {
    "q": "In which year did City Centre Deira open?",
    "a": "1995",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Deira",
+     "ديرة"
+    ]
+   ]
   },
   {
    "q": "Which Deira mall, opened in 1981, is often called one of Dubai's first modern malls?",
@@ -626,18 +1048,44 @@
     "Al Ghurair Center",
     "Al Ghurair Mall"
    ],
-   "apic": "Al Ghurair Centre"
+   "apic": "Al Ghurair Centre",
+   "qar": [
+    [
+     "Deira",
+     "ديرة"
+    ],
+    [
+     "Dubai",
+     "دبي"
+    ]
+   ]
   },
   {
    "q": "Which underground souk at Wafi was modelled on a 14th-century Baghdad market?",
    "a": "Khan Murjan",
    "p": 600,
-   "ar": "خان مرجان"
+   "ar": "خان مرجان",
+   "qar": [
+    [
+     "souk",
+     "سوق"
+    ],
+    [
+     "Wafi",
+     "وافي"
+    ]
+   ]
   },
   {
    "q": "What is the water, laser and fire show at Dubai Festival City Mall called?",
    "a": "IMAGINE",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
+   ]
   },
   {
    "q": "Which arts centre with a theatre is inside Mall of the Emirates?",
@@ -645,15 +1093,30 @@
    "p": 600,
    "alt": [
     "Dubai Community Theatre and Arts Centre"
+   ],
+   "qar": [
+    [
+     "Mall of the Emirates",
+     "مول الإمارات"
+    ]
    ]
   },
   {
    "q": "Which hotel brand runs the Mall of the Emirates hotel with chalets overlooking Ski Dubai?",
    "a": "Kempinski",
    "p": 600,
-   "ar": "كمبنسكي",
    "pic": "Ski Dubai",
-   "apic": "Kempinski"
+   "apic": "Kempinski",
+   "qar": [
+    [
+     "Mall of the Emirates",
+     "مول الإمارات"
+    ],
+    [
+     "Dubai",
+     "دبي"
+    ]
+   ]
   },
   {
    "q": "Which Sharjah souk in the Heart of Sharjah is one of the oldest in the UAE?",
@@ -663,12 +1126,28 @@
    "alt": [
     "Souk Al Arsa",
     "Al Arsah"
+   ],
+   "qar": [
+    [
+     "Sharjah",
+     "الشارقة"
+    ],
+    [
+     "souk",
+     "سوق"
+    ]
    ]
   },
   {
    "q": "In which year did Yas Mall open?",
    "a": "2014",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Yas Mall",
+     "ياس مول"
+    ]
+   ]
   },
   {
    "q": "In which year did Dragon Mart open?",
@@ -679,7 +1158,13 @@
    "q": "Which Dubai outlet mall stands on the Dubai–Al Ain Road?",
    "a": "Dubai Outlet Mall",
    "p": 600,
-   "ar": "دبي أوتلت مول"
+   "ar": "دبي أوتلت مول",
+   "qar": [
+    [
+     "Al Ain",
+     "العين"
+    ]
+   ]
   },
   {
    "q": "Which government body organises the Dubai Shopping Festival?",
@@ -688,6 +1173,12 @@
    "ar": "مؤسسة دبي للمهرجانات والتجزئة",
    "alt": [
     "DFRE"
+   ],
+   "qar": [
+    [
+     "Dubai Shopping Festival",
+     "مهرجان دبي للتسوق"
+    ]
    ]
   },
   {
@@ -697,12 +1188,24 @@
    "alt": [
     "Foster and Partners",
     "Norman Foster"
+   ],
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
    ]
   },
   {
    "q": "In which year did Dubai Duty Free start trading at Dubai International Airport?",
    "a": "1983",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
+   ]
   },
   {
    "q": "Which Sharjah mall near Al Nahda has the Adventure Zone indoor park?",
@@ -711,6 +1214,16 @@
    "ar": "صحارى سنتر",
    "alt": [
     "Sahara Center"
+   ],
+   "qar": [
+    [
+     "Sharjah",
+     "الشارقة"
+    ],
+    [
+     "Al Nahda",
+     "النهدة"
+    ]
    ]
   },
   {
@@ -719,6 +1232,20 @@
    "p": 600,
    "alt": [
     "Gold and Diamond Park"
+   ],
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ],
+    [
+     "Sheikh Zayed Road",
+     "شارع الشيخ زايد"
+    ],
+    [
+     "souks",
+     "أسواق"
+    ]
    ]
   },
   {
@@ -729,6 +1256,12 @@
    "alt": [
     "Naif Market",
     "Souq Naif"
+   ],
+   "qar": [
+    [
+     "Deira",
+     "ديرة"
+    ]
    ]
   },
   {
@@ -738,6 +1271,12 @@
    "alt": [
     "About 10 million litres",
     "10 million litres"
+   ],
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
    ]
   },
   {
@@ -746,6 +1285,20 @@
    "p": 600,
    "alt": [
     "1979"
+   ],
+   "qar": [
+    [
+     "Sharjah",
+     "الشارقة"
+    ],
+    [
+     "Central Souk",
+     "السوق المركزي"
+    ],
+    [
+     "Blue Souk",
+     "السوق الأزرق"
+    ]
    ]
   },
   {
@@ -754,6 +1307,12 @@
    "p": 600,
    "alt": [
     "China"
+   ],
+   "qar": [
+    [
+     "Ibn Battuta",
+     "ابن بطوطة"
+    ]
    ]
   },
   {
@@ -764,19 +1323,34 @@
     "22",
     "22k",
     "22 carat"
+   ],
+   "qar": [
+    [
+     "Gold Souk",
+     "سوق الذهب"
+    ]
    ]
   },
   {
    "q": "Which Bur Dubai heritage waterfront by the Creek has souk-style shops and restaurants?",
    "a": "Al Seef",
    "p": 600,
-   "ar": "السيف"
+   "ar": "السيف",
+   "qar": [
+    [
+     "Bur Dubai",
+     "بر دبي"
+    ],
+    [
+     "souk",
+     "سوق"
+    ]
+   ]
   },
   {
    "q": "Which brand of electronic gaming arcade run by MAF is found in City Centre malls?",
    "a": "Magic Planet",
-   "p": 600,
-   "ar": "ماجك بلانت"
+   "p": 600
   },
   {
    "q": "Which Abu Dhabi-based hypermarket chain shares its name with the Arabic word for pearl?",
@@ -786,23 +1360,40 @@
    "alt": [
     "LuLu",
     "Lulu"
+   ],
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
    ]
   },
   {
    "q": "Which green spice pods, sold by the sack in the Spice Souk, flavour Arabic coffee?",
    "a": "Cardamom",
    "p": 200,
-   "ar": "هيل",
    "alt": [
     "Hail",
     "Heel"
    ],
-   "apic": "Cardamom"
+   "apic": "Cardamom",
+   "qar": [
+    [
+     "Spice Souk",
+     "سوق التوابل"
+    ]
+   ]
   },
   {
    "q": "In which year did Ibn Battuta Mall open?",
    "a": "2005",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Ibn Battuta",
+     "ابن بطوطة"
+    ]
+   ]
   },
   {
    "q": "Which American company, also behind the Bellagio fountains, designed The Dubai Fountain?",
@@ -812,7 +1403,13 @@
     "WET"
    ],
    "pic": "The Dubai Fountain",
-   "apic": "WET Design"
+   "apic": "WET Design",
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
+   ]
   },
   {
    "q": "Which Deira souk, near the Gold Souk, is lined with shops selling attars and bukhoor?",
@@ -821,6 +1418,20 @@
    "ar": "سوق العطور",
    "alt": [
     "Perfume Souq"
+   ],
+   "qar": [
+    [
+     "Gold Souk",
+     "سوق الذهب"
+    ],
+    [
+     "attars",
+     "عطور"
+    ],
+    [
+     "bukhoor",
+     "بخور"
+    ]
    ]
   },
   {
@@ -829,6 +1440,12 @@
    "p": 600,
    "alt": [
     "Dubai Duty Free Millennium Millionaire"
+   ],
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
    ]
   },
   {
@@ -841,7 +1458,13 @@
     "Ittar",
     "Dehn"
    ],
-   "apic": "Attar"
+   "apic": "Attar",
+   "qar": [
+    [
+     "souks",
+     "أسواق"
+    ]
+   ]
   },
   {
    "q": "Which Satwa shopping street was renamed after the date the UAE was founded?",
@@ -851,6 +1474,12 @@
    "alt": [
     "2 December Street",
     "Al Dhiyafa Road"
+   ],
+   "qar": [
+    [
+     "Satwa",
+     "السطوة"
+    ]
    ]
   },
   {
@@ -861,33 +1490,62 @@
    "alt": [
     "Abras"
    ],
-   "apic": "Abra (boat)"
+   "apic": "Abra (boat)",
+   "qar": [
+    [
+     "Textile Souk",
+     "سوق الأقمشة"
+    ],
+    [
+     "Spice Souk",
+     "سوق التوابل"
+    ]
+   ]
   },
   {
    "q": "Which Majid Al Futtaim cinema chain is found in most City Centre malls?",
    "a": "VOX Cinemas",
    "p": 200,
-   "ar": "فوكس سينما",
    "alt": [
     "VOX"
    ],
-   "apic": "VOX Cinemas"
+   "apic": "VOX Cinemas",
+   "qar": [
+    [
+     "Majid Al Futtaim",
+     "ماجد الفطيم"
+    ]
+   ]
   },
   {
    "q": "Which nickname does Dubai use for itself as a gold-trading hub?",
    "a": "City of Gold",
    "p": 200,
-   "ar": "مدينة الذهب"
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
+   ]
   },
   {
    "q": "Which yellow root powder, called 'kurkum' in Arabic, is piled high in the Spice Souk?",
    "a": "Turmeric",
    "p": 200,
-   "ar": "كركم",
    "alt": [
     "Kurkum"
    ],
-   "apic": "Turmeric"
+   "apic": "Turmeric",
+   "qar": [
+    [
+     "kurkum",
+     "كركم"
+    ],
+    [
+     "Spice Souk",
+     "سوق التوابل"
+    ]
+   ]
   },
   {
    "q": "Which herb and sesame blend, eaten on manakish, is sold in the souks?",
@@ -898,7 +1556,17 @@
     "Zaatar",
     "Zatar"
    ],
-   "apic": "Za'atar"
+   "apic": "Za'atar",
+   "qar": [
+    [
+     "manakish",
+     "مناقيش"
+    ],
+    [
+     "souks",
+     "أسواق"
+    ]
+   ]
   },
   {
    "q": "What are the incense chips soaked in perfume oils, burned in a mabkhara, called?",
@@ -909,22 +1577,32 @@
     "Bakhoor",
     "Bakhour"
    ],
-   "apic": "Bakhoor"
+   "apic": "Bakhoor",
+   "qar": [
+    [
+     "mabkhara",
+     "مبخرة"
+    ]
+   ]
   },
   {
    "q": "What do shoppers call negotiating a lower price with souk traders?",
    "a": "Haggling",
    "p": 200,
-   "ar": "المساومة",
    "alt": [
     "Bargaining"
+   ],
+   "qar": [
+    [
+     "souk",
+     "سوق"
+    ]
    ]
   },
   {
    "q": "What do UAE retailers often call their Black Friday sales?",
    "a": "White Friday",
-   "p": 200,
-   "ar": "الجمعة البيضاء"
+   "p": 200
   },
   {
    "q": "Which online shopping platform, with a yellow logo, was launched by Mohamed Alabbar in 2017?",
@@ -933,19 +1611,30 @@
    "ar": "نون",
    "alt": [
     "noon.com"
+   ],
+   "qar": [
+    [
+     "Mohamed Alabbar",
+     "محمد العبار"
+    ]
    ]
   },
   {
    "q": "Which Lebanese chocolate brand is a popular gift from UAE mall boutiques?",
    "a": "Patchi",
    "p": 200,
-   "ar": "باتشي",
    "apic": "Patchi"
   },
   {
    "q": "Which Dubai Mall shop is a huge sweet store packed with candy?",
    "a": "Candylicious",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "Dubai Mall",
+     "دبي مول"
+    ]
+   ]
   },
   {
    "q": "Which Japanese bookstore has a huge branch inside The Dubai Mall?",
@@ -955,28 +1644,58 @@
     "Books Kinokuniya"
    ],
    "pic": "The Dubai Mall",
-   "apic": "Kinokuniya"
+   "apic": "Kinokuniya",
+   "qar": [
+    [
+     "Dubai Mall",
+     "دبي مول"
+    ]
+   ]
   },
   {
    "q": "Which open-air Dubai shopping district near Al Wasl has The Green Planet biodome?",
    "a": "City Walk",
    "p": 200,
-   "ar": "سيتي ووك"
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ],
+    [
+     "Al Wasl",
+     "الوصل"
+    ]
+   ]
   },
   {
    "q": "Which Dubai mall sits at the base of Palm Jumeirah's trunk?",
    "a": "Nakheel Mall",
    "p": 200,
-   "ar": "نخيل مول"
+   "ar": "نخيل مول",
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ],
+    [
+     "Palm Jumeirah",
+     "نخلة جميرا"
+    ]
+   ]
   },
   {
    "q": "Which roadside market near Masafi sells carpets, fruit and pottery?",
    "a": "Friday Market",
    "p": 200,
-   "ar": "سوق الجمعة",
    "alt": [
     "Souq Al Jumaa",
     "Masafi Friday Market"
+   ],
+   "qar": [
+    [
+     "Masafi",
+     "مسافي"
+    ]
    ]
   },
   {
@@ -985,6 +1704,12 @@
    "p": 400,
    "alt": [
     "BoxPark"
+   ],
+   "qar": [
+    [
+     "Al Wasl",
+     "الوصل"
+    ]
    ]
   },
   {
@@ -993,6 +1718,12 @@
    "p": 400,
    "alt": [
     "CLYMB"
+   ],
+   "qar": [
+    [
+     "Yas Mall",
+     "ياس مول"
+    ]
    ]
   },
   {
@@ -1003,7 +1734,13 @@
     "Bloomingdales"
    ],
    "pic": "The Dubai Mall",
-   "apic": "Bloomingdale's"
+   "apic": "Bloomingdale's",
+   "qar": [
+    [
+     "Dubai Mall",
+     "دبي مول"
+    ]
+   ]
   },
   {
    "q": "Which Dubai metro station serves the Deira souks near the gold market?",
@@ -1012,6 +1749,20 @@
    "ar": "سوق الذهب",
    "alt": [
     "Gold Souk station"
+   ],
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ],
+    [
+     "Deira",
+     "ديرة"
+    ],
+    [
+     "souks",
+     "أسواق"
+    ]
    ]
   },
   {
@@ -1019,35 +1770,61 @@
    "a": "Harvey Nichols",
    "p": 400,
    "pic": "Mall of the Emirates",
-   "apic": "Harvey Nichols"
+   "apic": "Harvey Nichols",
+   "qar": [
+    [
+     "Mall of the Emirates",
+     "مول الإمارات"
+    ]
+   ]
   },
   {
    "q": "Which giant shoe department, with hundreds of brands, is inside The Dubai Mall?",
    "a": "Level Shoes",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "Dubai Mall",
+     "دبي مول"
+    ]
+   ]
   },
   {
    "q": "Which red dried flower, sold in the Spice Souk, is brewed into a sour tea?",
    "a": "Hibiscus",
    "p": 200,
-   "ar": "كركديه",
    "alt": [
     "Karkade",
     "Karkadeh"
    ],
-   "apic": "Roselle (plant)"
+   "apic": "Roselle (plant)",
+   "qar": [
+    [
+     "Spice Souk",
+     "سوق التوابل"
+    ]
+   ]
   },
   {
    "q": "Which small black seeds, called 'habbat al barakah', are sold in the souks?",
    "a": "Black seed",
    "p": 400,
-   "ar": "حبة البركة",
    "alt": [
     "Nigella",
     "Black cumin",
     "Nigella sativa"
    ],
-   "apic": "Nigella sativa"
+   "apic": "Nigella sativa",
+   "qar": [
+    [
+     "habbat al barakah",
+     "حبة البركة"
+    ],
+    [
+     "souks",
+     "أسواق"
+    ]
+   ]
   },
   {
    "q": "What is the play money children earn at KidZania called?",
@@ -1066,17 +1843,28 @@
     "Al Futtaim Group"
    ],
    "pic": "Dubai Festival City",
-   "apic": "Al-Futtaim Group"
+   "apic": "Al-Futtaim Group",
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
+   ]
   },
   {
    "q": "Which Dubai-based retail group owns Centrepoint, Babyshop and Home Centre?",
    "a": "Landmark Group",
    "p": 400,
-   "ar": "مجموعة لاندمارك",
    "alt": [
     "Landmark"
    ],
-   "apic": "Landmark Group"
+   "apic": "Landmark Group",
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
+   ]
   },
   {
    "q": "Which Abu Dhabi developer built Yas Mall?",
@@ -1087,7 +1875,17 @@
     "Aldar Properties"
    ],
    "pic": "Yas Mall",
-   "apic": "Aldar Properties"
+   "apic": "Aldar Properties",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ],
+    [
+     "Yas Mall",
+     "ياس مول"
+    ]
+   ]
   },
   {
    "q": "Which type of shark, with ragged-looking teeth, is a star of the Dubai Aquarium tank?",
@@ -1098,7 +1896,13 @@
     "Ragged-tooth shark"
    ],
    "pic": "Dubai Aquarium & Underwater Zoo",
-   "apic": "Sand tiger shark"
+   "apic": "Sand tiger shark",
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
+   ]
   },
   {
    "q": "Roughly how many years did Ibn Battuta spend travelling?",
@@ -1108,16 +1912,31 @@
     "30",
     "Around 30",
     "29"
+   ],
+   "qar": [
+    [
+     "Ibn Battuta",
+     "ابن بطوطة"
+    ]
    ]
   },
   {
    "q": "Which upstairs goods is Sharjah's Blue Souk best known for?",
    "a": "Carpets",
    "p": 400,
-   "ar": "سجاد",
    "alt": [
     "Rugs",
     "Persian carpets"
+   ],
+   "qar": [
+    [
+     "Sharjah",
+     "الشارقة"
+    ],
+    [
+     "Blue Souk",
+     "السوق الأزرق"
+    ]
    ]
   },
   {
@@ -1127,6 +1946,16 @@
    "ar": "بحيرة خالد",
    "alt": [
     "Khaled Lagoon"
+   ],
+   "qar": [
+    [
+     "Sharjah",
+     "الشارقة"
+    ],
+    [
+     "Blue Souk",
+     "السوق الأزرق"
+    ]
    ]
   },
   {
@@ -1144,17 +1973,28 @@
    "alt": [
     "Raffles"
    ],
-   "apic": "Raffles Dubai"
+   "apic": "Raffles Dubai",
+   "qar": [
+    [
+     "Wafi",
+     "وافي"
+    ]
+   ]
   },
   {
    "q": "Which date palm fruit is the most common gift sold in Global Village and souk stalls?",
    "a": "Dates",
    "p": 200,
-   "ar": "تمر",
    "alt": [
     "Tamr"
    ],
-   "apic": "Date palm"
+   "apic": "Date palm",
+   "qar": [
+    [
+     "souk",
+     "سوق"
+    ]
+   ]
   },
   {
    "q": "Which mall sits at the heart of Dubai Marina?",
@@ -1170,14 +2010,18 @@
    "q": "Which French hypermarket brand does Majid Al Futtaim run across the UAE?",
    "a": "Carrefour",
    "p": 200,
-   "ar": "كارفور",
-   "apic": "Carrefour"
+   "apic": "Carrefour",
+   "qar": [
+    [
+     "Majid Al Futtaim",
+     "ماجد الفطيم"
+    ]
+   ]
   },
   {
    "q": "Which spice comes as dried flower buds shaped like little nails?",
    "a": "Cloves",
    "p": 200,
-   "ar": "قرنفل",
    "alt": [
     "Clove",
     "Gronfol"
@@ -1188,22 +2032,32 @@
    "q": "Which spice is the rolled bark sold as quills in the Spice Souk?",
    "a": "Cinnamon",
    "p": 200,
-   "ar": "قرفة",
    "alt": [
     "Darseen",
     "Darsin"
    ],
-   "apic": "Cinnamon"
+   "apic": "Cinnamon",
+   "qar": [
+    [
+     "Spice Souk",
+     "سوق التوابل"
+    ]
+   ]
   },
   {
    "q": "Which fragrant water distilled from petals is sold in the souks for sweets and welcomes?",
    "a": "Rose water",
    "p": 200,
-   "ar": "ماء الورد",
    "alt": [
     "Rosewater"
    ],
-   "apic": "Rose water"
+   "apic": "Rose water",
+   "qar": [
+    [
+     "souks",
+     "أسواق"
+    ]
+   ]
   },
   {
    "q": "Which jelly-like Emirati sweet, flavoured with saffron and rose water, is sold in the souks?",
@@ -1213,13 +2067,18 @@
    "alt": [
     "Halwa Emaratiya",
     "Halwa Omani"
+   ],
+   "qar": [
+    [
+     "souks",
+     "أسواق"
+    ]
    ]
   },
   {
    "q": "Which country's Global Village vendors are famous for teasing customers while serving stretchy ice cream?",
    "a": "Turkey",
    "p": 200,
-   "ar": "تركيا",
    "alt": [
     "Türkiye"
    ],
@@ -1230,9 +2089,14 @@
    "q": "Which Dubai cooperative supermarket chain is owned by Emirati shareholders?",
    "a": "Union Coop",
    "p": 400,
-   "ar": "تعاونية الاتحاد",
    "alt": [
     "Union Co-op"
+   ],
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
    ]
   },
   {
@@ -1243,14 +2107,25 @@
    "alt": [
     "Madinat Zayed Shopping Centre",
     "Madinat Zayed Shopping & Gold Centre"
+   ],
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
    ]
   },
   {
    "q": "Which US giant bought the UAE's Souq.com in 2017?",
    "a": "Amazon",
    "p": 400,
-   "ar": "أمازون",
-   "apic": "Amazon (company)"
+   "apic": "Amazon (company)",
+   "qar": [
+    [
+     "Souq",
+     "سوق"
+    ]
+   ]
   },
   {
    "q": "What is the popular weekend second-hand market held in Dubai parks called?",
@@ -1279,7 +2154,13 @@
     "Rihla",
     "The Travels"
    ],
-   "apic": "The Travels of Ibn Battuta"
+   "apic": "The Travels of Ibn Battuta",
+   "qar": [
+    [
+     "Ibn Battuta",
+     "ابن بطوطة"
+    ]
+   ]
   },
   {
    "q": "Which traditional South Asian gold weight, about 11.66 grams, is still quoted in the Gold Souk?",
@@ -1289,7 +2170,13 @@
    "alt": [
     "Tolah"
    ],
-   "apic": "Tola (unit)"
+   "apic": "Tola (unit)",
+   "qar": [
+    [
+     "Gold Souk",
+     "سوق الذهب"
+    ]
+   ]
   },
   {
    "q": "Which Abu Dhabi port area has the city's fish market and a dates market?",
@@ -1299,7 +2186,13 @@
    "alt": [
     "Port Zayed"
    ],
-   "apic": "Mina Zayed"
+   "apic": "Mina Zayed",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "On which boulevard does The Dubai Mall stand?",
@@ -1309,6 +2202,12 @@
    "alt": [
     "Mohammed bin Rashid Boulevard",
     "The Boulevard"
+   ],
+   "qar": [
+    [
+     "Dubai Mall",
+     "دبي مول"
+    ]
    ]
   },
   {
@@ -1318,6 +2217,12 @@
    "ar": "بحيرة برج خليفة",
    "alt": [
     "Burj Khalifa Lake"
+   ],
+   "qar": [
+    [
+     "Dubai Mall",
+     "دبي مول"
+    ]
    ]
   },
   {
@@ -1327,6 +2232,12 @@
    "ar": "سوق ديرة المغطى",
    "alt": [
     "Covered Souk"
+   ],
+   "qar": [
+    [
+     "Al Sabkha",
+     "السبخة"
+    ]
    ]
   },
   {
@@ -1335,6 +2246,16 @@
    "p": 600,
    "alt": [
     "2"
+   ],
+   "qar": [
+    [
+     "Sharjah",
+     "الشارقة"
+    ],
+    [
+     "Blue Souk",
+     "السوق الأزرق"
+    ]
    ]
   },
   {
@@ -1345,6 +2266,12 @@
    "alt": [
     "Al Jubail Market",
     "Jubail Souk"
+   ],
+   "qar": [
+    [
+     "Sharjah",
+     "الشارقة"
+    ]
    ]
   },
   {
@@ -1353,6 +2280,12 @@
    "p": 600,
    "alt": [
     "Ripe"
+   ],
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
    ]
   },
   {
@@ -1363,6 +2296,12 @@
    "alt": [
     "Al Aweer Market",
     "Aweer Market"
+   ],
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
    ]
   },
   {
@@ -1372,12 +2311,24 @@
    "alt": [
     "400 m",
     "About 400 metres"
+   ],
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
    ]
   },
   {
    "q": "Which Sega indoor theme park once operated inside The Dubai Mall?",
    "a": "Sega Republic",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Dubai Mall",
+     "دبي مول"
+    ]
+   ]
   },
   {
    "q": "Which Venetian-Arabian souk with canals sits beside the Shangri-La near Abu Dhabi's Maqta creek?",
@@ -1386,6 +2337,16 @@
    "ar": "سوق قرية البري",
    "alt": [
     "Qaryat Al Beri"
+   ],
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ],
+    [
+     "Maqta",
+     "المقطع"
+    ]
    ]
   }
  ]

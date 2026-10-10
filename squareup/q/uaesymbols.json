@@ -14,7 +14,6 @@
    "q": "Which colour is the vertical band on the flagpole side of the UAE flag?",
    "a": "Red",
    "p": 200,
-   "ar": "أحمر",
    "alt": [
     "Ahmar"
    ]
@@ -23,7 +22,6 @@
    "q": "Which colour forms the middle horizontal stripe of the UAE flag?",
    "a": "White",
    "p": 200,
-   "ar": "أبيض",
    "alt": [
     "Abyad"
    ]
@@ -32,7 +30,6 @@
    "q": "Which colour forms the bottom horizontal stripe of the UAE flag?",
    "a": "Black",
    "p": 200,
-   "ar": "أسود",
    "alt": [
     "Aswad"
    ]
@@ -41,7 +38,6 @@
    "q": "Which colour of the UAE flag stands for growth and prosperity?",
    "a": "Green",
    "p": 200,
-   "ar": "أخضر",
    "alt": [
     "Akhdar"
    ]
@@ -77,7 +73,6 @@
    "q": "Which bird is the national bird of the UAE?",
    "a": "Falcon",
    "p": 200,
-   "ar": "الصقر",
    "alt": [
     "Saqr",
     "Saker falcon",
@@ -90,7 +85,6 @@
    "q": "Which long-horned desert antelope is the UAE's national animal?",
    "a": "Arabian oryx",
    "p": 200,
-   "ar": "المها",
    "alt": [
     "Oryx",
     "Al Maha",
@@ -148,10 +142,19 @@
    "q": "How many fils make one dirham?",
    "a": "100",
    "p": 200,
-   "ar": "مئة",
    "alt": [
     "One hundred",
     "Hundred"
+   ],
+   "qar": [
+    [
+     "fils",
+     "فلس"
+    ],
+    [
+     "dirham",
+     "درهم"
+    ]
    ]
   },
   {
@@ -163,7 +166,6 @@
    "q": "Which foreign currency is the dirham pegged to?",
    "a": "US dollar",
    "p": 200,
-   "ar": "الدولار الأمريكي",
    "alt": [
     "USD",
     "Dollar",
@@ -188,7 +190,6 @@
    "q": "How many emirates make up the UAE?",
    "a": "Seven",
    "p": 200,
-   "ar": "سبعة",
    "alt": [
     "7"
    ]
@@ -205,7 +206,6 @@
    "q": "How many stars appear on the UAE emblem?",
    "a": "Seven",
    "p": 200,
-   "ar": "سبعة",
    "alt": [
     "7"
    ]
@@ -225,7 +225,6 @@
    "q": "In which language is the UAE national anthem sung?",
    "a": "Arabic",
    "p": 200,
-   "ar": "العربية",
    "alt": [
     "Al Arabiya"
    ]
@@ -239,7 +238,6 @@
    "q": "What is the lowest-value UAE banknote?",
    "a": "5 dirhams",
    "p": 200,
-   "ar": "خمسة دراهم",
    "alt": [
     "Dh5",
     "5 dirham",
@@ -251,7 +249,6 @@
    "q": "What is the highest-value UAE banknote?",
    "a": "1,000 dirhams",
    "p": 200,
-   "ar": "ألف درهم",
    "alt": [
     "Dh1000",
     "1000 dirham",
@@ -371,7 +368,6 @@
    "q": "The UAE flag's red, green, white and black are known collectively as which family of colours?",
    "a": "Pan-Arab colours",
    "p": 400,
-   "ar": "ألوان الوحدة العربية",
    "alt": [
     "Pan Arab colours",
     "Pan-Arab colors",
@@ -384,7 +380,6 @@
    "q": "Which colour of the UAE flag is commonly said to stand for peace and purity?",
    "a": "White",
    "p": 400,
-   "ar": "أبيض",
    "alt": [
     "Abyad"
    ]
@@ -451,7 +446,6 @@
    "q": "Before the 2008 redesign, which traditional boat appeared on the red disc of the UAE emblem?",
    "a": "Dhow",
    "p": 400,
-   "ar": "داو",
    "alt": [
     "Sailing boat",
     "Arab sailboat",
@@ -479,13 +473,18 @@
    "ar": "مصر",
    "alt": [
     "Misr"
+   ],
+   "qar": [
+    [
+     "Ishy Bilady",
+     "عيشي بلادي"
+    ]
    ]
   },
   {
    "q": "At which building in Dubai did the UAE's founding leaders gather on 2 December 1971?",
    "a": "Union House",
    "p": 400,
-   "ar": "دار الاتحاد",
    "alt": [
     "Dar Al Etihad",
     "Dar Al Ittihad",
@@ -521,7 +520,6 @@
    "q": "How many emirates formed the UAE on 2 December 1971?",
    "a": "Six",
    "p": 400,
-   "ar": "ستة",
    "alt": [
     "6"
    ]
@@ -541,7 +539,6 @@
    "q": "What was Commemoration Day originally called when it was introduced in 2015?",
    "a": "Martyrs' Day",
    "p": 400,
-   "ar": "يوم الشهيد",
    "alt": [
     "Martyr's Day",
     "Martyrs Day",
@@ -553,7 +550,6 @@
    "q": "Which denomination was the UAE's first polymer banknote, introduced in 2021?",
    "a": "50 dirhams",
    "p": 400,
-   "ar": "خمسون درهما",
    "alt": [
     "Dh50",
     "50 dirham",
@@ -587,7 +583,6 @@
    "q": "The 50 dirham banknote is mainly which colour?",
    "a": "Purple",
    "p": 400,
-   "ar": "بنفسجي",
    "alt": [
     "Violet",
     "Banafsaji"
@@ -597,7 +592,6 @@
    "q": "The 10 dirham banknote is mainly which colour?",
    "a": "Green",
    "p": 400,
-   "ar": "أخضر",
    "alt": [
     "Akhdar"
    ]
@@ -666,7 +660,13 @@
   {
    "q": "In which year did Sheikh Khalifa bin Zayed become UAE President, the event Flag Day commemorates?",
    "a": "2004",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "Sheikh Khalifa bin Zayed",
+     "الشيخ خليفة بن زايد"
+    ]
+   ]
   },
   {
    "q": "Which two rulers agreed in 1968 to form a union of their emirates, paving the way for the UAE?",
@@ -682,7 +682,6 @@
    "q": "The 5 dirham banknote is mainly which colour?",
    "a": "Brown",
    "p": 400,
-   "ar": "بني",
    "alt": [
     "Bunni"
    ]
@@ -691,7 +690,6 @@
    "q": "The 100 dirham banknote is mainly which colour?",
    "a": "Pink",
    "p": 400,
-   "ar": "وردي",
    "alt": [
     "Red",
     "Pinkish red",
@@ -715,7 +713,6 @@
    "q": "The anthem is played at schools during which daily morning ritual?",
    "a": "Flag raising",
    "p": 400,
-   "ar": "رفع العلم",
    "alt": [
     "Raising the flag",
     "Flag hoisting",
@@ -781,7 +778,6 @@
    "q": "In December 1971 the UAE flag was raised for the first time at the headquarters of which international organisation?",
    "a": "United Nations",
    "p": 600,
-   "ar": "الأمم المتحدة",
    "alt": [
     "UN",
     "The United Nations"
@@ -813,22 +809,32 @@
    "q": "The Etihad Museum building is designed in the shape of which type of document?",
    "a": "Manuscript",
    "p": 600,
-   "ar": "مخطوطة",
    "alt": [
     "Scroll",
     "Document",
     "Parchment"
+   ],
+   "qar": [
+    [
+     "Etihad",
+     "الاتحاد"
+    ]
    ]
   },
   {
    "q": "The Etihad Museum has seven columns resembling what writing tools used to sign the union declaration?",
    "a": "Pens",
    "p": 600,
-   "ar": "أقلام",
    "alt": [
     "Pen",
     "Quills",
     "Aqlam"
+   ],
+   "qar": [
+    [
+     "Etihad",
+     "الاتحاد"
+    ]
    ]
   },
   {
@@ -839,13 +845,18 @@
     "Moriyama and Teshima",
     "Moriyama & Teshima Architects",
     "Moriyama Teshima"
+   ],
+   "qar": [
+    [
+     "Etihad",
+     "الاتحاد"
+    ]
    ]
   },
   {
    "q": "Union House in Dubai was originally what type of residence for visiting guests?",
    "a": "Guest house",
    "p": 600,
-   "ar": "بيت الضيافة",
    "alt": [
     "Guesthouse",
     "Palace guesthouse",
@@ -862,13 +873,25 @@
     "Oasis of Dignity",
     "Wahat Alkarama"
    ],
-   "apic": "Wahat Al Karama"
+   "apic": "Wahat Al Karama",
+   "qar": [
+    [
+     "Sheikh Zayed Grand Mosque",
+     "جامع الشيخ زايد الكبير"
+    ]
+   ]
   },
   {
    "q": "Which British artist created the leaning pillars of the Wahat Al Karama memorial?",
    "a": "Idris Khan",
    "p": 600,
-   "apic": "Idris Khan"
+   "apic": "Idris Khan",
+   "qar": [
+    [
+     "Wahat Al Karama",
+     "واحة الكرامة"
+    ]
+   ]
   },
   {
    "q": "Wahat Al Karama covers roughly how many square metres?",
@@ -878,6 +901,12 @@
     "46000",
     "46,000 square metres",
     "46000 sqm"
+   ],
+   "qar": [
+    [
+     "Wahat Al Karama",
+     "واحة الكرامة"
+    ]
    ]
   },
   {
@@ -894,7 +923,13 @@
   {
    "q": "In which year did President Sheikh Khalifa declare Commemoration Day?",
    "a": "2015",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Sheikh Khalifa",
+     "الشيخ خليفة"
+    ]
+   ]
   },
   {
    "q": "The word 'dirham' ultimately comes from which ancient Greek coin?",
@@ -970,7 +1005,13 @@
    "alt": [
     "Prosopis Cineraria"
    ],
-   "apic": "Prosopis cineraria"
+   "apic": "Prosopis cineraria",
+   "qar": [
+    [
+     "ghaf",
+     "الغاف"
+    ]
+   ]
   },
   {
    "q": "In which year did the UAE's provisional constitution become permanent?",
@@ -981,7 +1022,6 @@
    "q": "Ras Al Khaimah joined the UAE in 1972; in which month?",
    "a": "February",
    "p": 600,
-   "ar": "فبراير",
    "alt": [
     "Feb"
    ]
@@ -990,7 +1030,6 @@
    "q": "In which month of 2025 did the Central Bank of the UAE unveil the new dirham symbol?",
    "a": "March",
    "p": 600,
-   "ar": "مارس",
    "alt": [
     "Mar"
    ]
@@ -1005,7 +1044,6 @@
    "q": "Which bird appears on the UAE national emblem?",
    "a": "Falcon",
    "p": 200,
-   "ar": "الصقر",
    "alt": [
     "Golden falcon",
     "Saqr"
@@ -1016,7 +1054,6 @@
    "q": "What colour is the falcon on the UAE national emblem?",
    "a": "Gold",
    "p": 200,
-   "ar": "ذهبي",
    "alt": [
     "Golden"
    ]
@@ -1043,10 +1080,15 @@
    "q": "What does the Arabic word 'Etihad', as in Eid Al Etihad, mean?",
    "a": "Union",
    "p": 200,
-   "ar": "الاتحاد",
    "alt": [
     "Unity",
     "Federation"
+   ],
+   "qar": [
+    [
+     "Eid Al Etihad",
+     "عيد الاتحاد"
+    ]
    ]
   },
   {
@@ -1072,7 +1114,6 @@
    "q": "Which space mission appears on the polymer 1,000 dirham banknote?",
    "a": "Hope Probe",
    "p": 200,
-   "ar": "مسبار الأمل",
    "alt": [
     "Hope",
     "Emirates Mars Mission",
@@ -1112,7 +1153,6 @@
    "q": "What did the UAE call the year 2021, marking five decades since its founding?",
    "a": "Year of the 50th",
    "p": 200,
-   "ar": "عام الخمسين",
    "alt": [
     "The Year of the Fiftieth"
    ]
@@ -1132,7 +1172,6 @@
    "q": "Which colour forms the top horizontal stripe of the UAE flag?",
    "a": "Green",
    "p": 200,
-   "ar": "أخضر",
    "alt": [
     "Akhdar"
    ]
@@ -1149,7 +1188,6 @@
    "q": "Which antelope-like animal appears on the 25 fils coin?",
    "a": "Arabian gazelle",
    "p": 400,
-   "ar": "الغزال العربي",
    "alt": [
     "Gazelle",
     "Ghazal"
@@ -1160,7 +1198,6 @@
    "q": "What appears on the UAE 50 fils coin?",
    "a": "Oil derricks",
    "p": 400,
-   "ar": "أبراج النفط",
    "alt": [
     "Oil rigs",
     "Three oil derricks"
@@ -1179,7 +1216,6 @@
    "q": "Which traditional boat appears on the UAE 10 fils coin?",
    "a": "Dhow",
    "p": 400,
-   "ar": "داو",
    "alt": [
     "Sailing boat",
     "Dau"
@@ -1201,7 +1237,6 @@
    "q": "Which Dubai museum with Arabic calligraphy on its facade appears on the polymer 500 dirham note?",
    "a": "Museum of the Future",
    "p": 400,
-   "ar": "متحف المستقبل",
    "apic": "Museum of the Future"
   },
   {
@@ -1215,7 +1250,6 @@
    "q": "Who are shown together on the front of the polymer 50 dirham note?",
    "a": "The founding fathers",
    "p": 400,
-   "ar": "الآباء المؤسسون",
    "alt": [
     "Founding fathers of the UAE",
     "The seven founding rulers"
@@ -1225,7 +1259,6 @@
    "q": "The two horizontal lines in the 2025 dirham symbol are inspired by what?",
    "a": "The UAE flag",
    "p": 400,
-   "ar": "علم الإمارات",
    "alt": [
     "Flag",
     "National flag"
@@ -1243,12 +1276,17 @@
    "q": "Which Abu Dhabi memorial features The Constellation, a suspended portrait of Sheikh Zayed?",
    "a": "The Founder's Memorial",
    "p": 400,
-   "ar": "صرح المؤسس",
    "alt": [
     "Founder's Memorial",
     "Founders Memorial"
    ],
-   "apic": "Founder's Memorial"
+   "apic": "Founder's Memorial",
+   "qar": [
+    [
+     "Sheikh Zayed",
+     "الشيخ زايد"
+    ]
+   ]
   },
   {
    "q": "What is the two-letter ISO country code for the UAE?",
@@ -1268,8 +1306,7 @@
   {
    "q": "What colour is the 500 dirham banknote?",
    "a": "Blue",
-   "p": 400,
-   "ar": "أزرق"
+   "p": 400
   },
   {
    "q": "In 2011 the Arabian oryx became the first animal to move from 'Extinct in the Wild' back to which IUCN category?",
@@ -1296,7 +1333,6 @@
    "q": "Which bird appears on the front of the older 500 dirham banknote?",
    "a": "Saker falcon",
    "p": 600,
-   "ar": "الصقر الحر",
    "alt": [
     "Falcon",
     "Saker"
@@ -1350,7 +1386,6 @@
    "q": "Which Expo 2020 sustainability pavilion appears on the front of the polymer 500 dirham note?",
    "a": "Terra",
    "p": 600,
-   "ar": "تيرا",
    "alt": [
     "Terra Pavilion",
     "Terra - The Sustainability Pavilion"
@@ -1390,7 +1425,6 @@
    "q": "Which fish appears on the UAE 5 fils coin?",
    "a": "Spangled emperor",
    "p": 600,
-   "ar": "الشعري",
    "alt": [
     "Sha'ri",
     "Shaari",
@@ -1401,8 +1435,7 @@
   {
    "q": "What colour is the scroll held in the talons of the falcon on the UAE emblem?",
    "a": "Red",
-   "p": 600,
-   "ar": "أحمر"
+   "p": 600
   },
   {
    "q": "In which style of Arabic script is the country's name written on the emblem's scroll?",
@@ -1434,7 +1467,6 @@
    "q": "What is the UAE nation brand logo, chosen by a public vote in 2019, called?",
    "a": "Seven Lines",
    "p": 600,
-   "ar": "الخطوط السبعة",
    "alt": [
     "The Seven Lines"
    ]

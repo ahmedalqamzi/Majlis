@@ -10,7 +10,21 @@
    "alt": [
     "Tash"
    ],
-   "apic": "Tash Ma Tash"
+   "apic": "Tash Ma Tash",
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ],
+    [
+     "Nasser Al Qasabi",
+     "ناصر القصبي"
+    ],
+    [
+     "Abdullah Al Sadhan",
+     "عبدالله السدحان"
+    ]
+   ]
   },
   {
    "q": "Which Saudi actor is the best-known star of 'Tash Ma Tash', alongside Abdullah Al Sadhan?",
@@ -22,7 +36,17 @@
     "Nasser Al Gasabi",
     "Al Qasabi"
    ],
-   "apic": "Nasser Al Qasabi"
+   "apic": "Nasser Al Qasabi",
+   "qar": [
+    [
+     "Tash Ma Tash",
+     "طاش ما طاش"
+    ],
+    [
+     "Abdullah Al Sadhan",
+     "عبدالله السدحان"
+    ]
+   ]
   },
   {
    "q": "Which animated series follows feisty Gulf grandmothers coping with modern city life?",
@@ -89,6 +113,12 @@
    "alt": [
     "Shabab El Bomb",
     "Shabab Al-Bomb"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -101,7 +131,13 @@
     "Abdul Hussain Abdul Redha",
     "Abo Adnan"
    ],
-   "apic": "Abdulhussain Abdulredha"
+   "apic": "Abdulhussain Abdulredha",
+   "qar": [
+    [
+     "Darb Al Zalaq",
+     "درب الزلق"
+    ]
+   ]
   },
   {
    "q": "Which Kuwaiti actress is known as 'the Lady of the Gulf Screen'?",
@@ -127,11 +163,16 @@
    "q": "The Emirati word 'freej' means what in English?",
    "a": "Neighbourhood",
    "p": 200,
-   "ar": "فريج",
    "alt": [
     "Neighborhood",
     "District",
     "Quarter"
+   ],
+   "qar": [
+    [
+     "freej",
+     "فريج"
+    ]
    ]
   },
   {
@@ -139,7 +180,13 @@
    "a": "Dubai",
    "p": 200,
    "ar": "دبي",
-   "apic": "Dubai"
+   "apic": "Dubai",
+   "qar": [
+    [
+     "Freej",
+     "فريج"
+    ]
+   ]
   },
   {
    "q": "What is the Arabic word for a TV drama series?",
@@ -159,6 +206,12 @@
    "alt": [
     "Futoor",
     "Fatoor"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -173,16 +226,20 @@
    "q": "Which broadcaster runs the streaming service Shahid?",
    "a": "MBC",
    "p": 200,
-   "ar": "إم بي سي",
    "alt": [
     "MBC Group"
+   ],
+   "qar": [
+    [
+     "Shahid",
+     "شاهد"
+    ]
    ]
   },
   {
    "q": "Which MBC channel is aimed at children?",
    "a": "MBC 3",
    "p": 200,
-   "ar": "إم بي سي 3",
    "alt": [
     "MBC3"
    ]
@@ -200,23 +257,44 @@
    "p": 200,
    "alt": [
     "4"
+   ],
+   "qar": [
+    [
+     "Freej",
+     "فريج"
+    ]
    ]
   },
   {
    "q": "Ka'aki in the Gulf's Iftah Ya Simsim is the local version of which Sesame Street Muppet?",
    "a": "Cookie Monster",
    "p": 200,
-   "apic": "Cookie Monster"
+   "apic": "Cookie Monster",
+   "qar": [
+    [
+     "Ka'aki",
+     "كعكي"
+    ],
+    [
+     "Iftah Ya Simsim",
+     "افتح يا سمسم"
+    ]
+   ]
   },
   {
    "q": "On which MBC talent show did Nasser Al Qasabi sit as a judge from 2012 to 2015?",
    "a": "Arabs Got Talent",
    "p": 200,
-   "ar": "أراب جوت تالنت",
    "alt": [
     "Arab's Got Talent"
    ],
-   "pic": "Nasser Al Qasabi"
+   "pic": "Nasser Al Qasabi",
+   "qar": [
+    [
+     "Nasser Al Qasabi",
+     "ناصر القصبي"
+    ]
+   ]
   },
   {
    "q": "What traditional face mask do the Freej grandmothers wear?",
@@ -227,32 +305,58 @@
     "Battoulah",
     "Burga",
     "Burqu'"
+   ],
+   "qar": [
+    [
+     "Freej",
+     "فريج"
+    ]
    ]
   },
   {
    "q": "The Freej grandmothers' names all start with 'Um'. What does 'Um' mean?",
    "a": "Mother",
    "p": 200,
-   "ar": "أم",
    "alt": [
     "Mother of",
     "Mum"
+   ],
+   "qar": [
+    [
+     "Freej",
+     "فريج"
+    ],
+    [
+     "Um",
+     "أم"
+    ]
    ]
   },
   {
    "q": "'Iftah Ya Simsim' means 'Open...' what?",
    "a": "Sesame",
    "p": 200,
-   "ar": "سمسم",
    "alt": [
     "Simsim"
+   ],
+   "qar": [
+    [
+     "Iftah Ya Simsim",
+     "افتح يا سمسم"
+    ]
    ]
   },
   {
    "q": "Which furry red Muppet joined the revived Iftah Ya Simsim in its second season?",
    "a": "Elmo",
    "p": 200,
-   "apic": "Elmo"
+   "apic": "Elmo",
+   "qar": [
+    [
+     "Iftah Ya Simsim",
+     "افتح يا سمسم"
+    ]
+   ]
   },
   {
    "q": "In which Arabic dialect do the Freej grandmothers speak?",
@@ -263,6 +367,12 @@
     "Emirati Arabic",
     "UAE dialect",
     "Khaleeji"
+   ],
+   "qar": [
+    [
+     "Freej",
+     "فريج"
+    ]
    ]
   },
   {
@@ -274,7 +384,13 @@
     "Mohammed Harib",
     "Mohamed Saeed Harib"
    ],
-   "apic": "Mohammed Saeed Harib"
+   "apic": "Mohammed Saeed Harib",
+   "qar": [
+    [
+     "Freej",
+     "فريج"
+    ]
+   ]
   },
   {
    "q": "Which Freej grandmother is the eldest, loves old sayings and is addicted to coffee?",
@@ -284,6 +400,12 @@
    "alt": [
     "Umm Saeed",
     "Om Saeed"
+   ],
+   "qar": [
+    [
+     "Freej",
+     "فريج"
+    ]
    ]
   },
   {
@@ -293,13 +415,28 @@
    "ar": "باي باي لندن",
    "alt": [
     "Bye-Bye London"
+   ],
+   "qar": [
+    [
+     "Abdulhussain Abdulredha",
+     "عبدالحسين عبدالرضا"
+    ]
    ]
   },
   {
    "q": "Which 2015 Ramadan comedy starring Nasser Al Qasabi has a title named after a phone photo?",
    "a": "Selfie",
    "p": 200,
-   "ar": "سيلفي"
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ],
+    [
+     "Nasser Al Qasabi",
+     "ناصر القصبي"
+    ]
+   ]
   },
   {
    "q": "Which 2018 Saudi drama starring Nasser Al Qasabi follows a Riyadh family from the 1970s onwards?",
@@ -310,16 +447,31 @@
     "Al-Asouf",
     "Al Aassouf",
     "Al Asoof"
+   ],
+   "qar": [
+    [
+     "Nasser Al Qasabi",
+     "ناصر القصبي"
+    ],
+    [
+     "Riyadh",
+     "الرياض"
+    ]
    ]
   },
   {
    "q": "Which network began airing Tash Ma Tash in 2005?",
    "a": "MBC",
    "p": 200,
-   "ar": "إم بي سي",
    "alt": [
     "MBC1",
     "MBC 1"
+   ],
+   "qar": [
+    [
+     "Tash Ma Tash",
+     "طاش ما طاش"
+    ]
    ]
   },
   {
@@ -330,6 +482,20 @@
    "alt": [
     "Masameer County",
     "Masameer The Movie"
+   ],
+   "qar": [
+    [
+     "Saad",
+     "سعد"
+    ],
+    [
+     "Saltooh",
+     "سلطوح"
+    ],
+    [
+     "Trad",
+     "طراد"
+    ]
    ]
   },
   {
@@ -340,6 +506,12 @@
    "alt": [
     "Fawazir",
     "Fawazeer Ramadan"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -361,6 +533,16 @@
    "alt": [
     "Bab El Hara",
     "Bab al-Hara"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ],
+    [
+     "Damascus",
+     "دمشق"
+    ]
    ]
   },
   {
@@ -376,8 +558,7 @@
   {
    "q": "Which MBC channel focuses on action films, series and sport?",
    "a": "MBC Action",
-   "p": 200,
-   "ar": "إم بي سي أكشن"
+   "p": 200
   },
   {
    "q": "Which Abu Dhabi TV competition crowns the best Nabati poet?",
@@ -388,13 +569,22 @@
     "Shaer Al Million",
     "Shaaer Al Million"
    ],
-   "apic": "Million's Poet"
+   "apic": "Million's Poet",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ],
+    [
+     "Nabati",
+     "النبطي"
+    ]
+   ]
   },
   {
    "q": "Which MBC singing contest has coaches who spin their chairs round when they like a voice?",
    "a": "The Voice",
    "p": 200,
-   "ar": "ذا فويس",
    "alt": [
     "The Voice Arabia",
     "MBC The Voice"
@@ -404,17 +594,25 @@
    "q": "Which Dubai airline featured the Freej grandmothers in its in-flight safety video?",
    "a": "flydubai",
    "p": 200,
-   "ar": "فلاي دبي",
    "alt": [
     "Fly Dubai"
    ],
-   "apic": "Flydubai"
+   "apic": "Flydubai",
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ],
+    [
+     "Freej",
+     "فريج"
+    ]
+   ]
   },
   {
    "q": "Which MBC channel is dedicated to Indian films?",
    "a": "MBC Bollywood",
-   "p": 200,
-   "ar": "إم بي سي بوليوود"
+   "p": 200
   },
   {
    "q": "Which Arabic news channel did MBC launch in 2003?",
@@ -430,18 +628,22 @@
    "q": "What does the word 'Khaleeji' mean?",
    "a": "From the Gulf",
    "p": 200,
-   "ar": "خليجي",
    "alt": [
     "Gulf",
     "Of the Gulf",
     "Gulf Arab"
+   ],
+   "qar": [
+    [
+     "Khaleeji",
+     "خليجي"
+    ]
    ]
   },
   {
    "q": "Which MBC talent show, launched in 2011, searched for the Arab world's next pop star?",
    "a": "Arab Idol",
    "p": 200,
-   "ar": "أراب أيدول",
    "alt": [
     "Arab Idol MBC"
    ]
@@ -471,6 +673,16 @@
     "Hussainoh",
     "Husseinouh",
     "Hussain bin Aqool"
+   ],
+   "qar": [
+    [
+     "Darb Al Zalaq",
+     "درب الزلق"
+    ],
+    [
+     "Abdulhussain Abdulredha",
+     "عبدالحسين عبدالرضا"
+    ]
    ]
   },
   {
@@ -481,12 +693,32 @@
    "alt": [
     "Saad Al-Faraj",
     "Saad Alfaraj"
+   ],
+   "qar": [
+    [
+     "Saad",
+     "سعد"
+    ],
+    [
+     "Hussainouh",
+     "حسينوه"
+    ],
+    [
+     "Darb Al Zalaq",
+     "درب الزلق"
+    ]
    ]
   },
   {
    "q": "In which year did Darb Al Zalaq first air?",
    "a": "1977",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "Darb Al Zalaq",
+     "درب الزلق"
+    ]
+   ]
   },
   {
    "q": "Which 1983 Kuwaiti comedy stars Hayat Al Fahd as a domineering mother-in-law who spies on her sons' rooms?",
@@ -497,6 +729,12 @@
     "Khalti Gmasha",
     "Khalti Qmasha",
     "Khalti Gumasha"
+   ],
+   "qar": [
+    [
+     "Hayat Al Fahd",
+     "حياة الفهد"
+    ]
    ]
   },
   {
@@ -506,6 +744,20 @@
    "ar": "سعاد عبدالله",
    "alt": [
     "Suad Abdullah"
+   ],
+   "qar": [
+    [
+     "Hayat Al Fahd",
+     "حياة الفهد"
+    ],
+    [
+     "Khalti Qumasha",
+     "خالتي قماشة"
+    ],
+    [
+     "Ruqayya wa Sabika",
+     "رقية وسبيكة"
+    ]
    ]
   },
   {
@@ -516,6 +768,12 @@
     "1993",
     "The 90s",
     "Nineties"
+   ],
+   "qar": [
+    [
+     "Tash Ma Tash",
+     "طاش ما طاش"
+    ]
    ]
   },
   {
@@ -526,6 +784,12 @@
    "alt": [
     "Aamer",
     "Amir"
+   ],
+   "qar": [
+    [
+     "Shabab Al Bomb",
+     "شباب البومب"
+    ]
    ]
   },
   {
@@ -537,17 +801,28 @@
     "Faisal Al-Essa",
     "Faisal Al Issa",
     "Faisal Alessa"
+   ],
+   "qar": [
+    [
+     "Shabab Al Bomb",
+     "شباب البومب"
+    ]
    ]
   },
   {
    "q": "In 2024, Shabab Al Bomb was turned into what?",
    "a": "A feature film",
    "p": 400,
-   "ar": "فيلم",
    "alt": [
     "Movie",
     "Film",
     "Shabab Al Bomb movie"
+   ],
+   "qar": [
+    [
+     "Shabab Al Bomb",
+     "شباب البومب"
+    ]
    ]
   },
   {
@@ -558,26 +833,53 @@
    "alt": [
     "Sha'abiat Al Cartoon",
     "Shabiat Al Cartoon"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
    "q": "In the original Iftah Ya Simsim, what kind of animal is the big character Nu'man?",
    "a": "Camel",
    "p": 400,
-   "ar": "جمل",
-   "apic": "Camel"
+   "apic": "Camel",
+   "qar": [
+    [
+     "Iftah Ya Simsim",
+     "افتح يا سمسم"
+    ],
+    [
+     "Nu'man",
+     "نعمان"
+    ]
+   ]
   },
   {
    "q": "In which year did Iftah Ya Simsim first air?",
    "a": "1979",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "Iftah Ya Simsim",
+     "افتح يا سمسم"
+    ]
+   ]
   },
   {
    "q": "When Iftah Ya Simsim returned in 2015, in which emirate was it produced?",
    "a": "Abu Dhabi",
    "p": 400,
    "ar": "أبوظبي",
-   "apic": "Abu Dhabi"
+   "apic": "Abu Dhabi",
+   "qar": [
+    [
+     "Iftah Ya Simsim",
+     "افتح يا سمسم"
+    ]
+   ]
   },
   {
    "q": "Which Iftah Ya Simsim Muppet is the Arabic version of Grover?",
@@ -587,6 +889,12 @@
    "alt": [
     "Gargur",
     "Qarqour"
+   ],
+   "qar": [
+    [
+     "Iftah Ya Simsim",
+     "افتح يا سمسم"
+    ]
    ]
   },
   {
@@ -594,13 +902,18 @@
    "a": "Kuwait",
    "p": 400,
    "ar": "الكويت",
-   "apic": "Kuwait"
+   "apic": "Kuwait",
+   "qar": [
+    [
+     "Iftah Ya Simsim",
+     "افتح يا سمسم"
+    ]
+   ]
   },
   {
    "q": "In which city was MBC founded in 1991?",
    "a": "London",
    "p": 400,
-   "ar": "لندن",
    "apic": "London"
   },
   {
@@ -612,16 +925,31 @@
     "UAE",
     "Emirates"
    ],
-   "apic": "United Arab Emirates"
+   "apic": "United Arab Emirates",
+   "qar": [
+    [
+     "Ahmed Al Jasmi",
+     "أحمد الجسمي"
+    ]
+   ]
   },
   {
    "q": "Which MBC Ramadan sketch shows of 2012 to 2014 starring Nasser Al Qasabi share their name with wireless internet?",
    "a": "Wi-Fi",
    "p": 400,
-   "ar": "واي فاي",
    "alt": [
     "WiFi",
     "Wi Fi"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ],
+    [
+     "Nasser Al Qasabi",
+     "ناصر القصبي"
+    ]
    ]
   },
   {
@@ -643,6 +971,16 @@
    "alt": [
     "DMI",
     "Dubai Media"
+   ],
+   "qar": [
+    [
+     "Dubai TV",
+     "تلفزيون دبي"
+    ],
+    [
+     "Sama Dubai",
+     "سما دبي"
+    ]
    ]
   },
   {
@@ -653,6 +991,12 @@
    "alt": [
     "Umm Allawi",
     "Om Allawi"
+   ],
+   "qar": [
+    [
+     "Freej",
+     "فريج"
+    ]
    ]
   },
   {
@@ -663,6 +1007,12 @@
    "alt": [
     "Umm Khammas",
     "Om Khammas"
+   ],
+   "qar": [
+    [
+     "Freej",
+     "فريج"
+    ]
    ]
   },
   {
@@ -673,21 +1023,42 @@
    "alt": [
     "Umm Saloom",
     "Om Saloom"
+   ],
+   "qar": [
+    [
+     "Freej",
+     "فريج"
+    ]
    ]
   },
   {
    "q": "On which Dubai channel did Freej premiere in 2006?",
    "a": "Sama Dubai",
    "p": 400,
-   "ar": "سما دبي"
+   "ar": "سما دبي",
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ],
+    [
+     "Freej",
+     "فريج"
+    ]
+   ]
   },
   {
    "q": "In which city did Abdulhussain Abdulredha die in 2017?",
    "a": "London",
    "p": 400,
-   "ar": "لندن",
    "pic": "Abdulhussain Abdulredha",
-   "apic": "London"
+   "apic": "London",
+   "qar": [
+    [
+     "Abdulhussain Abdulredha",
+     "عبدالحسين عبدالرضا"
+    ]
+   ]
   },
   {
    "q": "What was Abdulhussain Abdulredha's popular nickname, after his eldest son?",
@@ -696,35 +1067,67 @@
    "ar": "أبو عدنان",
    "alt": [
     "Abu Adnan"
+   ],
+   "qar": [
+    [
+     "Abdulhussain Abdulredha",
+     "عبدالحسين عبدالرضا"
+    ]
    ]
   },
   {
    "q": "In which year did Shabab Al Bomb first air?",
    "a": "2012",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "Shabab Al Bomb",
+     "شباب البومب"
+    ]
+   ]
   },
   {
    "q": "What kind of animal is Trad in Masameer?",
    "a": "Dog",
    "p": 400,
-   "ar": "كلب",
    "alt": [
     "Wolf-dog"
    ],
-   "apic": "Dog"
+   "apic": "Dog",
+   "qar": [
+    [
+     "Trad",
+     "طراد"
+    ],
+    [
+     "Masameer",
+     "مسامير"
+    ]
+   ]
   },
   {
    "q": "Masameer started in 2011 on which platform?",
    "a": "YouTube",
    "p": 400,
-   "ar": "يوتيوب",
-   "apic": "YouTube"
+   "apic": "YouTube",
+   "qar": [
+    [
+     "Masameer",
+     "مسامير"
+    ]
+   ]
   },
   {
    "q": "What is the name of the yellow girl monster introduced in the 2015 Iftah Ya Simsim?",
    "a": "Shams",
    "p": 400,
-   "ar": "شمس"
+   "ar": "شمس",
+   "qar": [
+    [
+     "Iftah Ya Simsim",
+     "افتح يا سمسم"
+    ]
+   ]
   },
   {
    "q": "For how many years was Iftah Ya Simsim off the air before its 2015 revival?",
@@ -733,35 +1136,57 @@
    "alt": [
     "25 years",
     "Twenty-five"
+   ],
+   "qar": [
+    [
+     "Iftah Ya Simsim",
+     "افتح يا سمسم"
+    ]
    ]
   },
   {
    "q": "Turkish series dubbed for MBC, like Noor, were voiced in which Arabic dialect?",
    "a": "Syrian",
    "p": 400,
-   "ar": "سوري",
    "alt": [
     "Syrian Arabic",
     "Levantine",
     "Shami"
+   ],
+   "qar": [
+    [
+     "Noor",
+     "نور"
+    ]
    ]
   },
   {
    "q": "Which 2021 Saudi crime drama on Shahid is based on a notorious 1980s outlaw?",
    "a": "Rashash",
    "p": 400,
-   "ar": "رشاش"
+   "ar": "رشاش",
+   "qar": [
+    [
+     "Shahid",
+     "شاهد"
+    ]
+   ]
   },
   {
    "q": "In which year did Tash Ma Tash return with the season 'Tash The Comeback'?",
    "a": "2023",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "Tash Ma Tash",
+     "طاش ما طاش"
+    ]
+   ]
   },
   {
    "q": "Which MBC channel was launched in 2003 to show Hollywood and international films?",
    "a": "MBC 2",
    "p": 400,
-   "ar": "إم بي سي 2",
    "alt": [
     "MBC2"
    ]
@@ -783,6 +1208,16 @@
    "alt": [
     "Ameer Al Shuara",
     "Amir Al Shu'ara"
+   ],
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ],
+    [
+     "Million's Poet",
+     "شاعر المليون"
+    ]
    ]
   },
   {
@@ -803,6 +1238,16 @@
    "alt": [
     "Khawatir",
     "Khawater Shab"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ],
+    [
+     "Ahmad Al Shugairi",
+     "أحمد الشقيري"
+    ]
    ]
   },
   {
@@ -812,6 +1257,16 @@
    "ar": "فريج فولكلور",
    "alt": [
     "Freej Folklore show"
+   ],
+   "qar": [
+    [
+     "Mohammed Saeed Harib",
+     "محمد سعيد حارب"
+    ],
+    [
+     "Freej",
+     "فريج"
+    ]
    ]
   },
   {
@@ -821,13 +1276,18 @@
    "ar": "مسامير كاونتي",
    "alt": [
     "Masameer Country"
+   ],
+   "qar": [
+    [
+     "Masameer",
+     "مسامير"
+    ]
    ]
   },
   {
    "q": "Which Kuwaiti state channel broadcasts in English?",
    "a": "KTV2",
    "p": 400,
-   "ar": "تلفزيون الكويت القناة الثانية",
    "alt": [
     "KTV 2",
     "Kuwait TV 2",
@@ -843,6 +1303,12 @@
     "Saudi 1",
     "Al Saudiya",
     "Channel 1"
+   ],
+   "qar": [
+    [
+     "Tash Ma Tash",
+     "طاش ما طاش"
+    ]
    ]
   },
   {
@@ -863,8 +1329,7 @@
   {
    "q": "Which MBC channel, launched in 2010, shows Arabic drama around the clock?",
    "a": "MBC Drama",
-   "p": 400,
-   "ar": "إم بي سي دراما"
+   "p": 400
   },
   {
    "q": "Which Saudi prince and businessman owns the Rotana media group?",
@@ -875,13 +1340,18 @@
     "Prince Alwaleed",
     "Al Waleed bin Talal"
    ],
-   "apic": "Al-Waleed bin Talal"
+   "apic": "Al-Waleed bin Talal",
+   "qar": [
+    [
+     "Rotana",
+     "روتانا"
+    ]
+   ]
   },
   {
    "q": "Which MBC channel, launched in 2019, is aimed at Iraqi viewers?",
    "a": "MBC Iraq",
-   "p": 400,
-   "ar": "إم بي سي عراق"
+   "p": 400
   },
   {
    "q": "Which actor co-starred with Hayat Al Fahd and Souad Abdullah in both 'Khalti Qumasha' and 'Ruqayya wa Sabika'?",
@@ -891,6 +1361,20 @@
    "alt": [
     "Ghanim Al Saleh",
     "Ghanem Al-Saleh"
+   ],
+   "qar": [
+    [
+     "Hayat Al Fahd",
+     "حياة الفهد"
+    ],
+    [
+     "Souad Abdullah",
+     "سعاد عبدالله"
+    ],
+    [
+     "Khalti Qumasha",
+     "خالتي قماشة"
+    ]
    ]
   },
   {
@@ -900,6 +1384,16 @@
    "ar": "سالم جاسم",
    "alt": [
     "Salem Jasim"
+   ],
+   "qar": [
+    [
+     "Um Khammas",
+     "أم خماس"
+    ],
+    [
+     "Freej",
+     "فريج"
+    ]
    ]
   },
   {
@@ -910,6 +1404,20 @@
    "alt": [
     "Abdulkhaleq Al Ghanem",
     "Abdul Khaliq Al-Ghanim"
+   ],
+   "qar": [
+    [
+     "Tash Ma Tash",
+     "طاش ما طاش"
+    ],
+    [
+     "Al Qasabi",
+     "القصبي"
+    ],
+    [
+     "Al Sadhan",
+     "السدحان"
+    ]
    ]
   },
   {
@@ -919,15 +1427,30 @@
    "ar": "ماجد الفلاسي",
    "alt": [
     "Majed Al Falasi"
+   ],
+   "qar": [
+    [
+     "Um Saeed",
+     "أم سعيد"
+    ],
+    [
+     "Freej",
+     "فريج"
+    ]
    ]
   },
   {
    "q": "Which international kids' channel began airing Freej in 2010?",
    "a": "Cartoon Network Arabic",
    "p": 600,
-   "ar": "كرتون نتورك بالعربية",
    "alt": [
     "Cartoon Network"
+   ],
+   "qar": [
+    [
+     "Freej",
+     "فريج"
+    ]
    ]
   },
   {
@@ -937,6 +1460,12 @@
    "ar": "حمدي فريد",
    "alt": [
     "Hamdi Fareed"
+   ],
+   "qar": [
+    [
+     "Darb Al Zalaq",
+     "درب الزلق"
+    ]
    ]
   },
   {
@@ -947,6 +1476,16 @@
    "alt": [
     "Ali Al-Mufidi",
     "Ali Almufidi"
+   ],
+   "qar": [
+    [
+     "Qahta",
+     "قحطة"
+    ],
+    [
+     "Darb Al Zalaq",
+     "درب الزلق"
+    ]
    ]
   },
   {
@@ -957,6 +1496,16 @@
    "alt": [
     "Ala Al-Donya Al-Salam",
     "Ala Eddunya Essalam"
+   ],
+   "qar": [
+    [
+     "Hayat Al Fahd",
+     "حياة الفهد"
+    ],
+    [
+     "Souad Abdullah",
+     "سعاد عبدالله"
+    ]
    ]
   },
   {
@@ -967,6 +1516,12 @@
    "alt": [
     "Jurh Al Zaman",
     "Wound of Time"
+   ],
+   "qar": [
+    [
+     "Hayat Al Fahd",
+     "حياة الفهد"
+    ]
    ]
   },
   {
@@ -976,6 +1531,12 @@
    "ar": "سنوات الجريش",
    "alt": [
     "Sanawat Al-Jireesh"
+   ],
+   "qar": [
+    [
+     "Hayat Al Fahd",
+     "حياة الفهد"
+    ]
    ]
   },
   {
@@ -986,6 +1547,12 @@
    "alt": [
     "The Cruel Sea",
     "Bas Ya Bahr"
+   ],
+   "qar": [
+    [
+     "Hayat Al Fahd",
+     "حياة الفهد"
+    ]
    ]
   },
   {
@@ -996,6 +1563,16 @@
    "alt": [
     "Anisa Jafar",
     "Mama Anisa"
+   ],
+   "qar": [
+    [
+     "Kuwait Television",
+     "تلفزيون الكويت"
+    ],
+    [
+     "Mama Anisa",
+     "ماما أنيسة"
+    ]
    ]
   },
   {
@@ -1012,6 +1589,12 @@
     "Rotana Khaleejia",
     "Rotana Khalijia",
     "Rotana"
+   ],
+   "qar": [
+    [
+     "Shabab Al Bomb",
+     "شباب البومب"
+    ]
    ]
   },
   {
@@ -1021,6 +1604,16 @@
    "ar": "ميركوت",
    "alt": [
     "Myrkott Animation Studio"
+   ],
+   "qar": [
+    [
+     "Riyadh",
+     "الرياض"
+    ],
+    [
+     "Masameer",
+     "مسامير"
+    ]
    ]
   },
   {
@@ -1030,6 +1623,16 @@
    "ar": "خورفكان",
    "alt": [
     "Khor Fakkan"
+   ],
+   "qar": [
+    [
+     "Sharjah",
+     "الشارقة"
+    ],
+    [
+     "Ahmed Al Jasmi",
+     "أحمد الجسمي"
+    ]
    ]
   },
   {
@@ -1039,19 +1642,30 @@
    "ar": "منصور",
    "alt": [
     "Mansour's Adventures"
+   ],
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
    ]
   },
   {
    "q": "In the original Iftah Ya Simsim, what kind of bird is Malsoun?",
    "a": "Parrot",
    "p": 600,
-   "ar": "ببغاء",
    "apic": "Parrot"
   },
   {
    "q": "In which year did MBC move its headquarters to Dubai Media City?",
    "a": "2002",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Dubai Media City",
+     "مدينة دبي للإعلام"
+    ]
+   ]
   },
   {
    "q": "What is Tash Ma Tash's title usually translated as in English?",
@@ -1078,12 +1692,24 @@
    "ar": "سلامتك",
    "alt": [
     "Salamtek"
+   ],
+   "qar": [
+    [
+     "Iftah Ya Simsim",
+     "افتح يا سمسم"
+    ]
    ]
   },
   {
    "q": "In which year did Dubai TV launch, replacing Emirates Dubai Television?",
    "a": "2004",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Dubai TV",
+     "تلفزيون دبي"
+    ]
+   ]
   },
   {
    "q": "At which Boston university did Freej creator Mohammed Saeed Harib study?",
@@ -1093,12 +1719,32 @@
     "Northeastern"
    ],
    "pic": "Mohammed Saeed Harib",
-   "apic": "Northeastern University"
+   "apic": "Northeastern University",
+   "qar": [
+    [
+     "Freej",
+     "فريج"
+    ],
+    [
+     "Mohammed Saeed Harib",
+     "محمد سعيد حارب"
+    ]
+   ]
   },
   {
    "q": "In which year did the Freej characters first appear in Mohammed Saeed Harib's sketchbook?",
    "a": "1998",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Freej",
+     "فريج"
+    ],
+    [
+     "Mohammed Saeed Harib",
+     "محمد سعيد حارب"
+    ]
+   ]
   },
   {
    "q": "Which Kuwaiti series of 2016 was adapted from Saud Alsanousi's prize-winning novel 'The Bamboo Stalk'?",
@@ -1108,6 +1754,12 @@
    "alt": [
     "The Bamboo Stalk",
     "Saaq Al Bambu"
+   ],
+   "qar": [
+    [
+     "Saud Alsanousi",
+     "سعود السنعوسي"
+    ]
    ]
   },
   {
@@ -1123,7 +1775,13 @@
   {
    "q": "In which year did Kuwait Television begin broadcasting in colour?",
    "a": "1974",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Kuwait Television",
+     "تلفزيون الكويت"
+    ]
+   ]
   },
   {
    "q": "Kuwait TV's first colour broadcasts in 1974 covered which football tournament held in Bahrain?",
@@ -1133,6 +1791,16 @@
    "alt": [
     "Gulf Cup",
     "Khaleeji Cup"
+   ],
+   "qar": [
+    [
+     "Kuwait TV",
+     "تلفزيون الكويت"
+    ],
+    [
+     "Bahrain",
+     "البحرين"
+    ]
    ]
   },
   {
@@ -1148,11 +1816,20 @@
    "q": "Before he gets rich in Darb Al Zalaq, what is Hussainouh's humble job?",
    "a": "Teaboy",
    "p": 600,
-   "ar": "فرّاش",
    "alt": [
     "Tea boy",
     "Janitor",
     "Office boy"
+   ],
+   "qar": [
+    [
+     "Darb Al Zalaq",
+     "درب الزلق"
+    ],
+    [
+     "Hussainouh",
+     "حسينوه"
+    ]
    ]
   },
   {
@@ -1163,6 +1840,20 @@
    "alt": [
     "Abdul Ameer Al Turki",
     "Abdulamir Al-Turki"
+   ],
+   "qar": [
+    [
+     "Abdulhussain Abdulredha",
+     "عبدالحسين عبدالرضا"
+    ],
+    [
+     "Saad Al Faraj",
+     "سعد الفرج"
+    ],
+    [
+     "Darb Al Zalaq",
+     "درب الزلق"
+    ]
    ]
   },
   {
@@ -1173,6 +1864,16 @@
    "alt": [
     "Mabrooka",
     "Mabruka"
+   ],
+   "qar": [
+    [
+     "Ala Al Dunya Al Salam",
+     "على الدنيا السلام"
+    ],
+    [
+     "Mahdhoudha",
+     "محظوظة"
+    ]
    ]
   },
   {
@@ -1184,7 +1885,13 @@
     "Makhraj Sab'a",
     "Exit 7"
    ],
-   "pic": "Nasser Al Qasabi"
+   "pic": "Nasser Al Qasabi",
+   "qar": [
+    [
+     "Nasser Al Qasabi",
+     "ناصر القصبي"
+    ]
+   ]
   },
   {
    "q": "Which Abu Dhabi investment company backed the 2015 revival of Iftah Ya Simsim?",
@@ -1194,17 +1901,36 @@
    "alt": [
     "Mubadala Development Company"
    ],
-   "apic": "Mubadala Investment Company"
+   "apic": "Mubadala Investment Company",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ],
+    [
+     "Iftah Ya Simsim",
+     "افتح يا سمسم"
+    ]
+   ]
   },
   {
    "q": "In the original Iftah Ya Simsim, what colour was the female monster Yaqut?",
    "a": "Lavender",
    "p": 600,
-   "ar": "بنفسجي",
    "alt": [
     "Purple",
     "Lilac",
     "Violet"
+   ],
+   "qar": [
+    [
+     "Iftah Ya Simsim",
+     "افتح يا سمسم"
+    ],
+    [
+     "Yaqut",
+     "ياقوت"
+    ]
    ]
   },
   {
@@ -1215,15 +1941,30 @@
    "alt": [
     "Haider Mohammed",
     "Haidar Muhammad"
+   ],
+   "qar": [
+    [
+     "Shaabiat Al Cartoon",
+     "شعبيات الكرتون"
+    ]
    ]
   },
   {
    "q": "Freej creator Mohammed Saeed Harib worked on the animated film of which Kahlil Gibran book, released in 2014?",
    "a": "The Prophet",
    "p": 600,
-   "ar": "النبي",
    "alt": [
     "Kahlil Gibran's The Prophet"
+   ],
+   "qar": [
+    [
+     "Freej",
+     "فريج"
+    ],
+    [
+     "Mohammed Saeed Harib",
+     "محمد سعيد حارب"
+    ]
    ]
   },
   {
@@ -1234,12 +1975,24 @@
    "alt": [
     "Amer Al-Hamoud",
     "Amer Alhamood"
+   ],
+   "qar": [
+    [
+     "Tash Ma Tash",
+     "طاش ما طاش"
+    ]
    ]
   },
   {
    "q": "After which year's season did Tash Ma Tash go off air, before its 2023 comeback?",
    "a": "2011",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Tash Ma Tash",
+     "طاش ما طاش"
+    ]
+   ]
   },
   {
    "q": "Which nickname, meaning 'father of Rakan', is Nasser Al Qasabi known by?",
@@ -1249,7 +2002,17 @@
    "alt": [
     "Abo Rakan"
    ],
-   "pic": "Nasser Al Qasabi"
+   "pic": "Nasser Al Qasabi",
+   "qar": [
+    [
+     "Rakan",
+     "راكان"
+    ],
+    [
+     "Nasser Al Qasabi",
+     "ناصر القصبي"
+    ]
+   ]
   }
  ]
 }

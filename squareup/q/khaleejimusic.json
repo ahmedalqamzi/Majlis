@@ -34,7 +34,13 @@
     "Hussein Al Jassmi",
     "Hussain Al Jasmi"
    ],
-   "apic": "Hussain Al Jassmi"
+   "apic": "Hussain Al Jassmi",
+   "qar": [
+    [
+     "Boshret Kheir",
+     "بشرة خير"
+    ]
+   ]
   },
   {
    "q": "Mohammed Abdu, one of the best-loved voices in Gulf music, comes from which country?",
@@ -47,7 +53,13 @@
     "Kingdom of Saudi Arabia"
    ],
    "pic": "Mohammed Abdu",
-   "apic": "Saudi Arabia"
+   "apic": "Saudi Arabia",
+   "qar": [
+    [
+     "Mohammed Abdu",
+     "محمد عبده"
+    ]
+   ]
   },
   {
    "q": "Abdul Majeed Abdullah, a major star of Gulf pop, is from which country?",
@@ -60,7 +72,13 @@
     "Kingdom of Saudi Arabia"
    ],
    "pic": "Abdul Majeed Abdullah",
-   "apic": "Saudi Arabia"
+   "apic": "Saudi Arabia",
+   "qar": [
+    [
+     "Abdul Majeed Abdullah",
+     "عبدالمجيد عبدالله"
+    ]
+   ]
   },
   {
    "q": "Which Gulf country does the singer Abdullah Al Ruwaished come from?",
@@ -70,28 +88,44 @@
    "alt": [
     "Kuwaiti",
     "State of Kuwait"
+   ],
+   "qar": [
+    [
+     "Abdullah Al Ruwaished",
+     "عبدالله الرويشد"
+    ]
    ]
   },
   {
    "q": "The oud player and singer Mehad Hamad is from which country?",
    "a": "UAE",
    "p": 200,
-   "ar": "الإمارات",
    "alt": [
     "United Arab Emirates",
     "Emirates",
     "Emirati"
+   ],
+   "qar": [
+    [
+     "Mehad Hamad",
+     "ميحد حمد"
+    ]
    ]
   },
   {
    "q": "The poet-singer Eida Al Menhali is from which country?",
    "a": "UAE",
    "p": 200,
-   "ar": "الإمارات",
    "alt": [
     "United Arab Emirates",
     "Emirates",
     "Emirati"
+   ],
+   "qar": [
+    [
+     "Eida Al Menhali",
+     "عيضة المنهالي"
+    ]
    ]
   },
   {
@@ -105,7 +139,13 @@
     "Kingdom of Saudi Arabia"
    ],
    "pic": "Talal Maddah",
-   "apic": "Saudi Arabia"
+   "apic": "Saudi Arabia",
+   "qar": [
+    [
+     "Talal Maddah",
+     "طلال مداح"
+    ]
+   ]
   },
   {
    "q": "Which Abu Dhabi TV show is a poetry contest for vernacular poets with a huge cash prize?",
@@ -117,17 +157,28 @@
     "Shair Al Million",
     "Millions Poet",
     "Million Poet"
+   ],
+   "qar": [
+    [
+     "Abu Dhabi TV",
+     "تلفزيون أبوظبي"
+    ]
    ]
   },
   {
    "q": "What does the word 'Khaleeji' refer to?",
    "a": "The Gulf",
    "p": 200,
-   "ar": "الخليج",
    "alt": [
     "Gulf",
     "Arabian Gulf",
     "Gulf region"
+   ],
+   "qar": [
+    [
+     "Khaleeji",
+     "خليجي"
+    ]
    ]
   },
   {
@@ -140,13 +191,18 @@
     "Sheikh Hamdan",
     "Hamdan"
    ],
-   "apic": "Hamdan bin Mohammed Al Maktoum"
+   "apic": "Hamdan bin Mohammed Al Maktoum",
+   "qar": [
+    [
+     "Fazza",
+     "فزاع"
+    ]
+   ]
   },
   {
    "q": "Arab Idol is broadcast on which TV network, known by three initials?",
    "a": "MBC",
    "p": 200,
-   "ar": "إم بي سي",
    "alt": [
     "Middle East Broadcasting Center",
     "MBC1",
@@ -162,7 +218,17 @@
     "Yas"
    ],
    "pic": "Etihad Arena",
-   "apic": "Yas Island"
+   "apic": "Yas Island",
+   "qar": [
+    [
+     "Etihad Arena",
+     "الاتحاد أرينا"
+    ],
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "Which Dubai venue shaped like a traditional dhow opened in 2016 for opera, concerts and theatre?",
@@ -178,25 +244,35 @@
    "q": "In Arabic, 'tabl' is the everyday word for which percussion instrument?",
    "a": "Drum",
    "p": 200,
-   "ar": "طبل",
    "alt": [
     "Drums",
     "The drum"
    ],
-   "apic": "Drum"
+   "apic": "Drum",
+   "qar": [
+    [
+     "tabl",
+     "طبل"
+    ]
+   ]
   },
   {
    "q": "Fijiri songs were traditionally sung by workers in which now-celebrated heritage trade?",
    "a": "Pearl diving",
    "p": 200,
-   "ar": "الغوص",
    "alt": [
     "Pearling",
     "Pearl fishing",
     "Pearl hunting",
     "Diving for pearls"
    ],
-   "apic": "Pearl hunting"
+   "apic": "Pearl hunting",
+   "qar": [
+    [
+     "Fijiri",
+     "الفجيري"
+    ]
+   ]
   },
   {
    "q": "Which big annual entertainment season, launched in 2019 in the Saudi capital, hosts Arab music nights?",
@@ -212,33 +288,48 @@
    "q": "Gulf festivals often use 'Hala' in their names. What does this friendly greeting mean?",
    "a": "Welcome",
    "p": 200,
-   "ar": "هلا",
    "alt": [
     "Hello",
     "Hi",
     "Hey"
+   ],
+   "qar": [
+    [
+     "Hala",
+     "هلا"
+    ]
    ]
   },
   {
    "q": "In Gulf love songs, what does 'Habibi' mean in English?",
    "a": "My beloved",
    "p": 200,
-   "ar": "حبيبي",
    "alt": [
     "My love",
     "My dear",
     "Beloved",
     "Darling"
+   ],
+   "qar": [
+    [
+     "Habibi",
+     "حبيبي"
+    ]
    ]
   },
   {
    "q": "What does the Arabic word 'ughniya' mean?",
    "a": "Song",
    "p": 200,
-   "ar": "أغنية",
    "alt": [
     "A song",
     "Songs"
+   ],
+   "qar": [
+    [
+     "ughniya",
+     "أغنية"
+    ]
    ]
   },
   {
@@ -256,14 +347,19 @@
    "q": "Hussain Al Jassmi performed at the 2021 opening ceremony of which world fair in Dubai?",
    "a": "Expo 2020",
    "p": 200,
-   "ar": "إكسبو 2020",
    "alt": [
     "Expo 2020 Dubai",
     "Expo Dubai",
     "Expo"
    ],
    "pic": "Hussain Al Jassmi",
-   "apic": "Expo 2020"
+   "apic": "Expo 2020",
+   "qar": [
+    [
+     "Hussain Al Jassmi",
+     "حسين الجسمي"
+    ]
+   ]
   },
   {
    "q": "What is the round Arabic frame drum, similar to a tambourine, played at weddings and celebrations?",
@@ -309,44 +405,68 @@
    "q": "Besides the instrument, 'oud' is the name of a prized Gulf perfume ingredient. What is this resinous wood called in English?",
    "a": "Agarwood",
    "p": 200,
-   "ar": "العود",
    "alt": [
     "Agar wood",
     "Aloeswood",
     "Eaglewood"
    ],
-   "apic": "Agarwood"
+   "apic": "Agarwood",
+   "qar": [
+    [
+     "oud",
+     "عود"
+    ]
+   ]
   },
   {
    "q": "Mohammed Abdu is known by which English nickname?",
    "a": "Artist of the Arabs",
    "p": 200,
-   "ar": "فنان العرب",
    "alt": [
     "Fannan Al Arab",
     "Fanan Al Arab",
     "The Artist of the Arabs"
+   ],
+   "qar": [
+    [
+     "Mohammed Abdu",
+     "محمد عبده"
+    ]
    ]
   },
   {
    "q": "Rashed Al Majed, famous for the album 'Al Musafir', holds which nationality?",
    "a": "Saudi",
    "p": 200,
-   "ar": "سعودي",
    "alt": [
     "Saudi Arabia",
     "Saudi Arabian",
     "KSA"
+   ],
+   "qar": [
+    [
+     "Rashed Al Majed",
+     "راشد الماجد"
+    ],
+    [
+     "Al Musafir",
+     "المسافر"
+    ]
    ]
   },
   {
    "q": "What does the Arabic word 'mughanni' mean?",
    "a": "Singer",
    "p": 200,
-   "ar": "مغنٍّ",
    "alt": [
     "A singer",
     "Vocalist"
+   ],
+   "qar": [
+    [
+     "mughanni",
+     "مغني"
+    ]
    ]
   },
   {
@@ -356,6 +476,12 @@
    "ar": "الكويت",
    "alt": [
     "Kuwaiti"
+   ],
+   "qar": [
+    [
+     "Hala February",
+     "هلا فبراير"
+    ]
    ]
   },
   {
@@ -366,6 +492,16 @@
    "alt": [
     "Saudi",
     "KSA"
+   ],
+   "qar": [
+    [
+     "Rabeh Saqer",
+     "رابح صقر"
+    ],
+    [
+     "Rotana",
+     "روتانا"
+    ]
    ]
   },
   {
@@ -383,23 +519,37 @@
    "q": "The English word 'lute' comes from the Arabic 'al-ud'. What does 'oud' literally mean in Arabic?",
    "a": "Wood",
    "p": 400,
-   "ar": "عود",
    "alt": [
     "Wooden stick",
     "A stick",
     "Branch",
     "Piece of wood"
+   ],
+   "qar": [
+    [
+     "al-ud",
+     "العود"
+    ],
+    [
+     "oud",
+     "عود"
+    ]
    ]
   },
   {
    "q": "Talal Maddah is remembered by which English nickname?",
    "a": "The Earth's Voice",
    "p": 400,
-   "ar": "صوت الأرض",
    "alt": [
     "Voice of the Earth",
     "Sawt Al Ard",
     "Earth's Voice"
+   ],
+   "qar": [
+    [
+     "Talal Maddah",
+     "طلال مداح"
+    ]
    ]
   },
   {
@@ -412,7 +562,13 @@
     "Makkah Al Mukarramah"
    ],
    "pic": "Talal Maddah",
-   "apic": "Mecca"
+   "apic": "Mecca",
+   "qar": [
+    [
+     "Talal Maddah",
+     "طلال مداح"
+    ]
+   ]
   },
   {
    "q": "Which bowed, spike-fiddle instrument traditionally accompanies Bedouin poetry in the Gulf?",
@@ -455,6 +611,12 @@
    "alt": [
     "Musafir",
     "Al-Musafir"
+   ],
+   "qar": [
+    [
+     "Rashed Al Majed",
+     "راشد الماجد"
+    ]
    ]
   },
   {
@@ -467,6 +629,12 @@
     "Mirwaas",
     "Merwas",
     "Mirwass"
+   ],
+   "qar": [
+    [
+     "fijiri",
+     "الفجيري"
+    ]
    ]
   },
   {
@@ -477,18 +645,30 @@
    "alt": [
     "Sultanate of Oman"
    ],
-   "apic": "Oman"
+   "apic": "Oman",
+   "qar": [
+    [
+     "Al Ayyala",
+     "العيالة"
+    ]
+   ]
   },
   {
    "q": "Which Saudi national dance of drums, poetry and swords, from the Najd region, was UNESCO-listed in 2015?",
    "a": "Al Ardah",
    "p": 400,
-   "ar": "العرضة النجدية",
+   "ar": "العرضة",
    "alt": [
     "Ardah",
     "Arda",
     "Najdi Ardah",
     "Al Ardah Al Najdiyah"
+   ],
+   "qar": [
+    [
+     "Najd",
+     "نجد"
+    ]
    ]
   },
   {
@@ -527,65 +707,100 @@
    "q": "Singer Balqees, whose father was a Yemeni musician, was born in which UAE city?",
    "a": "Abu Dhabi",
    "p": 200,
-   "ar": "أبوظبي"
+   "ar": "أبوظبي",
+   "qar": [
+    [
+     "Balqees",
+     "بلقيس"
+    ]
+   ]
   },
   {
    "q": "Balqees was among the singers of 'Light the Sky', an official song of which 2022 tournament?",
    "a": "FIFA World Cup",
    "p": 400,
-   "ar": "كأس العالم",
    "alt": [
     "World Cup",
     "Qatar World Cup",
     "FIFA World Cup 2022"
    ],
-   "apic": "2022 FIFA World Cup"
+   "apic": "2022 FIFA World Cup",
+   "qar": [
+    [
+     "Balqees",
+     "بلقيس"
+    ]
+   ]
   },
   {
    "q": "In Arabic song credits, what does 'alhan' credit?",
    "a": "Melody",
    "p": 400,
-   "ar": "ألحان",
    "alt": [
     "Music",
     "Composition",
     "Composer",
     "The composer"
+   ],
+   "qar": [
+    [
+     "alhan",
+     "ألحان"
+    ]
    ]
   },
   {
    "q": "In Arabic song credits, 'kalimat' credits the writer of what?",
    "a": "Lyrics",
    "p": 400,
-   "ar": "كلمات",
    "alt": [
     "The lyrics",
     "Words",
     "The words"
+   ],
+   "qar": [
+    [
+     "kalimat",
+     "كلمات"
+    ]
    ]
   },
   {
    "q": "What does the Arabic word 'kaman' name, a staple of Gulf sawt ensembles?",
    "a": "Violin",
    "p": 400,
-   "ar": "كمان",
    "alt": [
     "Kaman",
     "Fiddle",
     "Kamanja"
    ],
-   "apic": "Violin"
+   "apic": "Violin",
+   "qar": [
+    [
+     "kaman",
+     "كمان"
+    ],
+    [
+     "sawt",
+     "صوت"
+    ]
+   ]
   },
   {
    "q": "What does the Arabic word 'firqa' mean when talking about music?",
    "a": "Band",
    "p": 400,
-   "ar": "فرقة",
    "alt": [
     "Troupe",
     "Ensemble",
     "Music band",
     "Group"
+   ],
+   "qar": [
+    [
+     "firqa",
+     "فرقة"
+    ]
    ]
   },
   {
@@ -597,18 +812,33 @@
     "Qatari",
     "State of Qatar"
    ],
-   "apic": "Qatar"
+   "apic": "Qatar",
+   "qar": [
+    [
+     "Fahad Al Kubaisi",
+     "فهد الكبيسي"
+    ],
+    [
+     "Khaleeji",
+     "خليجي"
+    ]
+   ]
   },
   {
    "q": "What is a 'qasida' in Arabic literature?",
    "a": "A long poem",
    "p": 400,
-   "ar": "قصيدة",
    "alt": [
     "Ode",
     "Poem",
     "Classical poem",
     "Long poem"
+   ],
+   "qar": [
+    [
+     "qasida",
+     "قصيدة"
+    ]
    ]
   },
   {
@@ -620,7 +850,13 @@
     "Kuwait"
    ],
    "pic": "Sheikh Jaber Al-Ahmad Cultural Centre",
-   "apic": "Kuwait City"
+   "apic": "Kuwait City",
+   "qar": [
+    [
+     "Sheikh Jaber Al-Ahmad Cultural Centre",
+     "مركز الشيخ جابر الأحمد الثقافي"
+    ]
+   ]
   },
   {
    "q": "In which Dubai district is Dubai Opera?",
@@ -639,12 +875,17 @@
    "q": "Hussain Al Jassmi also composes and plays which keyboard instrument?",
    "a": "Piano",
    "p": 400,
-   "ar": "بيانو",
    "alt": [
     "The piano"
    ],
    "pic": "Hussain Al Jassmi",
-   "apic": "Piano"
+   "apic": "Piano",
+   "qar": [
+    [
+     "Hussain Al Jassmi",
+     "حسين الجسمي"
+    ]
+   ]
   },
   {
    "q": "Balqees's debut album 'Majnoun' came out on which major Arab label?",
@@ -653,13 +894,22 @@
    "ar": "روتانا",
    "alt": [
     "Rotana Records"
+   ],
+   "qar": [
+    [
+     "Balqees",
+     "بلقيس"
+    ],
+    [
+     "Majnoun",
+     "مجنون"
+    ]
    ]
   },
   {
    "q": "In which Dubai district is Coca-Cola Arena?",
    "a": "City Walk",
    "p": 400,
-   "ar": "سيتي ووك",
    "alt": [
     "Al Wasl"
    ]
@@ -679,7 +929,7 @@
    "q": "Which bagpipe-type instrument is part of Kuwaiti and wider Gulf folk music?",
    "a": "Habban",
    "p": 600,
-   "ar": "هبان",
+   "ar": "الهبان",
    "alt": [
     "Hibban",
     "Hobban",
@@ -690,11 +940,17 @@
    "q": "In fijiri, which clay pot is played with both hands as a percussion instrument?",
    "a": "Jahla",
    "p": 600,
-   "ar": "الجاهلة",
+   "ar": "الجحلة",
    "alt": [
     "Jahlah",
     "Jahleh",
     "Galah"
+   ],
+   "qar": [
+    [
+     "fijiri",
+     "الفجيري"
+    ]
    ]
   },
   {
@@ -711,7 +967,7 @@
    "q": "Which Gulf music and dance tradition with East African roots is found in Oman, Bahrain and the UAE?",
    "a": "Liwa",
    "p": 600,
-   "ar": "ليوا",
+   "ar": "الليوا",
    "alt": [
     "Leiwah",
     "Leywah",
@@ -726,6 +982,12 @@
    "alt": [
     "Samiri",
     "Al Samri"
+   ],
+   "qar": [
+    [
+     "Najd",
+     "نجد"
+    ]
    ]
   },
   {
@@ -747,7 +1009,17 @@
   {
    "q": "Al Razfa, the Majlis and Arabic coffee were all inscribed by UNESCO in which year?",
    "a": "2015",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Al Razfa",
+     "الرزفة"
+    ],
+    [
+     "Majlis",
+     "المجلس"
+    ]
+   ]
   },
   {
    "q": "What is the Arabic name for the plectrum used to play the oud?",
@@ -758,6 +1030,12 @@
     "Reesha",
     "Rishe",
     "Risheh"
+   ],
+   "qar": [
+    [
+     "oud",
+     "العود"
+    ]
    ]
   },
   {
@@ -770,17 +1048,28 @@
     "Aawad",
     "Oudist",
     "Awaad"
+   ],
+   "qar": [
+    [
+     "oud",
+     "العود"
+    ]
    ]
   },
   {
    "q": "Which animal's skin traditionally covers the wooden mirwas drum?",
    "a": "Goat",
    "p": 600,
-   "ar": "الماعز",
    "alt": [
     "Goatskin"
    ],
-   "apic": "Goat"
+   "apic": "Goat",
+   "qar": [
+    [
+     "mirwas",
+     "المرواس"
+    ]
+   ]
   },
   {
    "q": "Sawt music is centred in which two Gulf countries?",
@@ -789,6 +1078,12 @@
    "ar": "الكويت والبحرين",
    "alt": [
     "Bahrain and Kuwait"
+   ],
+   "qar": [
+    [
+     "Sawt",
+     "الصوت"
+    ]
    ]
   },
   {
@@ -799,6 +1094,16 @@
    "alt": [
     "Abu Nora",
     "Abunoura"
+   ],
+   "qar": [
+    [
+     "Mohammed Abdu",
+     "محمد عبده"
+    ],
+    [
+     "Noura",
+     "نورة"
+    ]
    ]
   },
   {
@@ -808,6 +1113,12 @@
    "ar": "جازان",
    "alt": [
     "Jizan"
+   ],
+   "qar": [
+    [
+     "Mohammed Abdu",
+     "محمد عبده"
+    ]
    ]
   },
   {
@@ -819,6 +1130,12 @@
     "Al Janadriyah",
     "Janadriya",
     "Al Janadriyah Festival"
+   ],
+   "qar": [
+    [
+     "Mohammed Abdu",
+     "محمد عبده"
+    ]
    ]
   },
   {
@@ -827,7 +1144,13 @@
    "p": 600,
    "ar": "أبها",
    "pic": "Talal Maddah",
-   "apic": "Abha"
+   "apic": "Abha",
+   "qar": [
+    [
+     "Talal Maddah",
+     "طلال مداح"
+    ]
+   ]
   },
   {
    "q": "Talal Maddah's first pan-Arab hit, in 1976, was which song?",
@@ -838,6 +1161,12 @@
     "Muqadir",
     "Maqadeer",
     "Maqadeir"
+   ],
+   "qar": [
+    [
+     "Talal Maddah",
+     "طلال مداح"
+    ]
    ]
   },
   {
@@ -849,6 +1178,12 @@
     "Ahebbak Moot",
     "Ahbak Mout",
     "Ahbak Mot"
+   ],
+   "qar": [
+    [
+     "Ahlam",
+     "أحلام"
+    ]
    ]
   },
   {
@@ -860,7 +1195,13 @@
     "Ragheb Allama",
     "Ragheb Alameh"
    ],
-   "apic": "Ragheb Alama"
+   "apic": "Ragheb Alama",
+   "qar": [
+    [
+     "Ahlam",
+     "أحلام"
+    ]
+   ]
   },
   {
    "q": "Which Egyptian singer won the first season of Arab Idol?",
@@ -877,7 +1218,13 @@
    "q": "Which Saudi poet became the first woman to reach the Million's Poet final, in 2010?",
    "a": "Hissa Hilal",
    "p": 600,
-   "ar": "حصة هلال"
+   "ar": "حصة هلال",
+   "qar": [
+    [
+     "Million's Poet",
+     "شاعر المليون"
+    ]
+   ]
   },
   {
    "q": "Hussain Al Jassmi was born in which UAE east-coast town?",
@@ -889,31 +1236,51 @@
     "Khorfakan"
    ],
    "pic": "Hussain Al Jassmi",
-   "apic": "Khor Fakkan"
+   "apic": "Khor Fakkan",
+   "qar": [
+    [
+     "Hussain Al Jassmi",
+     "حسين الجسمي"
+    ]
+   ]
   },
   {
    "q": "Hussain Al Jassmi was the first Arab singer at the annual Christmas concert in which city-state?",
    "a": "Vatican City",
    "p": 600,
-   "ar": "مدينة الفاتيكان",
    "alt": [
     "Vatican",
     "The Vatican"
    ],
    "pic": "Hussain Al Jassmi",
-   "apic": "Vatican City"
+   "apic": "Vatican City",
+   "qar": [
+    [
+     "Hussain Al Jassmi",
+     "حسين الجسمي"
+    ]
+   ]
   },
   {
    "q": "Hussain Al Jassmi sang the official song of which 2019 sporting event held in Abu Dhabi?",
    "a": "Special Olympics World Games",
    "p": 600,
-   "ar": "الألعاب العالمية للأولمبياد الخاص",
    "alt": [
     "Special Olympics",
     "Special Olympics Abu Dhabi 2019"
    ],
    "pic": "Hussain Al Jassmi",
-   "apic": "2019 Special Olympics World Summer Games"
+   "apic": "2019 Special Olympics World Summer Games",
+   "qar": [
+    [
+     "Hussain Al Jassmi",
+     "حسين الجسمي"
+    ],
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "Which Saudi singer-poet first published poems under the pen name 'Mukhawi Al Layl'?",
@@ -924,19 +1291,37 @@
     "Khalid Abdulrahman",
     "Khaled Abdulrahman",
     "Khalid Abd Alrahman"
+   ],
+   "qar": [
+    [
+     "Mukhawi Al Layl",
+     "مخاوي الليل"
+    ]
    ]
   },
   {
    "q": "Which Emirati singer-guitarist, an Arabs Got Talent finalist in 2012, blends Khaleeji with flamenco and rock?",
    "a": "Shamma Hamdan",
    "p": 600,
-   "ar": "شمة حمدان"
+   "ar": "شمة حمدان",
+   "qar": [
+    [
+     "Khaleeji",
+     "خليجي"
+    ]
+   ]
   },
   {
    "q": "Which Bahraini singer, leader of the band Al Ekhwa, was nicknamed the 'Bob Marley of the Gulf'?",
    "a": "Ali Bahar",
    "p": 600,
-   "ar": "علي بحر"
+   "ar": "علي بحر",
+   "qar": [
+    [
+     "Al Ekhwa",
+     "الإخوة"
+    ]
+   ]
   },
   {
    "q": "Mehad Hamad comes from which UAE east-coast town?",
@@ -946,6 +1331,12 @@
    "alt": [
     "Kalbaa",
     "Kalba city"
+   ],
+   "qar": [
+    [
+     "Mehad Hamad",
+     "ميحد حمد"
+    ]
    ]
   },
   {
@@ -956,7 +1347,17 @@
    "alt": [
     "Yemeni"
    ],
-   "apic": "Yemen"
+   "apic": "Yemen",
+   "qar": [
+    [
+     "Balqees",
+     "بلقيس"
+    ],
+    [
+     "Ahmed Fathi",
+     "أحمد فتحي"
+    ]
+   ]
   },
   {
    "q": "Mohammed bin Faris, an early master of sawt, was from which Gulf country?",
@@ -966,7 +1367,17 @@
    "alt": [
     "Bahraini"
    ],
-   "apic": "Bahrain"
+   "apic": "Bahrain",
+   "qar": [
+    [
+     "Mohammed bin Faris",
+     "محمد بن فارس"
+    ],
+    [
+     "sawt",
+     "صوت"
+    ]
+   ]
   },
   {
    "q": "Which end-blown reed flute is a key melodic instrument in Arabic music?",
@@ -990,7 +1401,13 @@
     "Zayed bin Sultan",
     "Zayed"
    ],
-   "apic": "Zayed bin Sultan Al Nahyan"
+   "apic": "Zayed bin Sultan Al Nahyan",
+   "qar": [
+    [
+     "Nabati",
+     "نبطي"
+    ]
+   ]
   },
   {
    "q": "In which year did the first season of Arab Idol premiere?",
@@ -1001,11 +1418,20 @@
    "q": "Hussain Al Jassmi and Ahlam have both won which Lebanese award named after a sea snail?",
    "a": "Murex d'Or",
    "p": 400,
-   "ar": "موريكس دور",
    "alt": [
     "Murex dOr",
     "Murex d Or",
     "Golden Murex"
+   ],
+   "qar": [
+    [
+     "Hussain Al Jassmi",
+     "حسين الجسمي"
+    ],
+    [
+     "Ahlam",
+     "أحلام"
+    ]
    ]
   },
   {
@@ -1016,6 +1442,12 @@
    "alt": [
     "Tabbaal",
     "Tabal"
+   ],
+   "qar": [
+    [
+     "tabl",
+     "طبل"
+    ]
    ]
   },
   {
@@ -1026,7 +1458,13 @@
    "alt": [
     "Kuwaiti"
    ],
-   "apic": "Kuwait"
+   "apic": "Kuwait",
+   "qar": [
+    [
+     "Nabeel Shuail",
+     "نبيل شعيل"
+    ]
+   ]
   },
   {
    "q": "Majid Al Mohandis, a favourite of Khaleeji audiences, is from which country?",
@@ -1037,13 +1475,22 @@
     "Iraqi"
    ],
    "pic": "Majid Al Mohandis",
-   "apic": "Iraq"
+   "apic": "Iraq",
+   "qar": [
+    [
+     "Majid Al Mohandis",
+     "ماجد المهندس"
+    ],
+    [
+     "Khaleeji",
+     "خليجي"
+    ]
+   ]
   },
   {
    "q": "Arab Idol is simulcast on MBC1 and which Lebanese channel?",
    "a": "LBC",
    "p": 400,
-   "ar": "إل بي سي",
    "alt": [
     "Lebanese Broadcasting Corporation",
     "LBCI"
@@ -1052,24 +1499,52 @@
   {
    "q": "In which year was Hussain Al Jassmi's hit 'Boshret Kheir' released?",
    "a": "2014",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "Hussain Al Jassmi",
+     "حسين الجسمي"
+    ],
+    [
+     "Boshret Kheir",
+     "بشرة خير"
+    ]
+   ]
   },
   {
    "q": "What does the stage name 'Al Mohandis', used by Majid Al Mohandis, mean in English?",
    "a": "The Engineer",
    "p": 200,
-   "ar": "المهندس",
    "alt": [
     "Engineer"
+   ],
+   "qar": [
+    [
+     "Al Mohandis",
+     "المهندس"
+    ]
    ]
   },
   {
    "q": "Which 2022 talent show had Majid Al Mohandis, Ahlam, Aseel Abu Bakr and Assala on its judging panel?",
    "a": "Saudi Idol",
    "p": 400,
-   "ar": "سعودي أيدول",
    "alt": [
     "Saudi Idol 2022"
+   ],
+   "qar": [
+    [
+     "Majid Al Mohandis",
+     "ماجد المهندس"
+    ],
+    [
+     "Ahlam",
+     "أحلام"
+    ],
+    [
+     "Aseel Abu Bakr",
+     "أصيل أبو بكر"
+    ]
    ]
   },
   {
@@ -1080,7 +1555,13 @@
    "alt": [
     "Manama, Bahrain"
    ],
-   "apic": "Manama"
+   "apic": "Manama",
+   "qar": [
+    [
+     "Rashed Al Majed",
+     "راشد الماجد"
+    ]
+   ]
   },
   {
    "q": "Which singer joined Rashed Al Majed on the 2015 duet 'Ash Salman'?",
@@ -1090,7 +1571,17 @@
    "alt": [
     "Abdul Majid Abdullah"
    ],
-   "apic": "Abdul Majeed Abdullah"
+   "apic": "Abdul Majeed Abdullah",
+   "qar": [
+    [
+     "Rashed Al Majed",
+     "راشد الماجد"
+    ],
+    [
+     "Ash Salman",
+     "عاش سلمان"
+    ]
+   ]
   },
   {
    "q": "Which 2003 Rashed Al Majed single, with an Iraqi flavour, topped many Arab charts?",
@@ -1100,6 +1591,12 @@
    "alt": [
     "Oyoun",
     "Uyoon"
+   ],
+   "qar": [
+    [
+     "Rashed Al Majed",
+     "راشد الماجد"
+    ]
    ]
   },
   {
@@ -1110,6 +1607,16 @@
    "alt": [
     "Jizan",
     "Jizan Province"
+   ],
+   "qar": [
+    [
+     "Abdul Majeed Abdullah",
+     "عبدالمجيد عبدالله"
+    ],
+    [
+     "Mohammed Abdu",
+     "محمد عبده"
+    ]
    ]
   },
   {
@@ -1120,6 +1627,12 @@
    "alt": [
     "Abdullah Al Ruwaished",
     "Al Ruwaished"
+   ],
+   "qar": [
+    [
+     "Nawal",
+     "نوال"
+    ]
    ]
   },
   {
@@ -1140,23 +1653,44 @@
    "alt": [
     "Amaneeh",
     "Amanih"
+   ],
+   "qar": [
+    [
+     "Diana Haddad",
+     "ديانا حداد"
+    ]
    ]
   },
   {
    "q": "What royal title is Ahlam's best-known nickname?",
    "a": "The Queen",
    "p": 200,
-   "ar": "الملكة",
    "alt": [
     "Queen",
     "Al Malika"
+   ],
+   "qar": [
+    [
+     "Ahlam",
+     "أحلام"
+    ]
    ]
   },
   {
    "q": "Ahlam was born in Abu Dhabi but raised in which Gulf country?",
    "a": "Bahrain",
    "p": 400,
-   "ar": "البحرين"
+   "ar": "البحرين",
+   "qar": [
+    [
+     "Ahlam",
+     "أحلام"
+    ],
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "Ahlam's husband Mubarak Al Hajri comes from which Gulf country?",
@@ -1166,7 +1700,17 @@
    "alt": [
     "Qatari"
    ],
-   "apic": "Qatar"
+   "apic": "Qatar",
+   "qar": [
+    [
+     "Ahlam",
+     "أحلام"
+    ],
+    [
+     "Mubarak Al Hajri",
+     "مبارك الهاجري"
+    ]
+   ]
   },
   {
    "q": "Which Egyptian songwriter wrote and composed Hussain Al Jassmi's 'Boshret Kheir'?",
@@ -1176,6 +1720,16 @@
    "alt": [
     "Amr Moustafa",
     "Amr Mustafa"
+   ],
+   "qar": [
+    [
+     "Hussain Al Jassmi",
+     "حسين الجسمي"
+    ],
+    [
+     "Boshret Kheir",
+     "بشرة خير"
+    ]
    ]
   },
   {
@@ -1183,7 +1737,13 @@
    "a": "Avril Lavigne",
    "p": 600,
    "pic": "Hussain Al Jassmi",
-   "apic": "Avril Lavigne"
+   "apic": "Avril Lavigne",
+   "qar": [
+    [
+     "Hussain Al Jassmi",
+     "حسين الجسمي"
+    ]
+   ]
   },
   {
    "q": "Abu Bakr Salem, a giant of Gulf song, was born in 1939 in which Yemeni town?",
@@ -1192,6 +1752,12 @@
    "ar": "تريم",
    "alt": [
     "Tarim, Hadramaut"
+   ],
+   "qar": [
+    [
+     "Abu Bakr Salem",
+     "أبو بكر سالم"
+    ]
    ]
   },
   {
@@ -1204,6 +1770,12 @@
     "Gulf music",
     "Khaleeji song",
     "Gulf song"
+   ],
+   "qar": [
+    [
+     "Abu Bakr Salem",
+     "أبو بكر سالم"
+    ]
    ]
   },
   {
@@ -1213,6 +1785,12 @@
    "ar": "عبادي الجوهر",
    "alt": [
     "Abadi Al Jawhar"
+   ],
+   "qar": [
+    [
+     "Talal Maddah",
+     "طلال مداح"
+    ]
    ]
   },
   {
@@ -1222,6 +1800,12 @@
    "ar": "الأماكن",
    "alt": [
     "Al Amakin"
+   ],
+   "qar": [
+    [
+     "Mohammed Abdu",
+     "محمد عبده"
+    ]
    ]
   },
   {
@@ -1233,7 +1817,13 @@
     "Kidjo"
    ],
    "pic": "Mohammed Abdu",
-   "apic": "Angélique Kidjo"
+   "apic": "Angélique Kidjo",
+   "qar": [
+    [
+     "Mohammed Abdu",
+     "محمد عبده"
+    ]
+   ]
   },
   {
    "q": "Which Hussain Al Jassmi hit in Egyptian dialect has a title meaning 'I Love You, I Missed You'?",
@@ -1243,6 +1833,12 @@
    "alt": [
     "Bahebak Wahashtini",
     "Ahebbak Wahashteeni"
+   ],
+   "qar": [
+    [
+     "Hussain Al Jassmi",
+     "حسين الجسمي"
+    ]
    ]
   },
   {
@@ -1253,6 +1849,12 @@
    "alt": [
     "Mohamed Al Muhairi",
     "Mohammed Hamad Al Muhairi"
+   ],
+   "qar": [
+    [
+     "Mehad Hamad",
+     "ميحد حمد"
+    ]
    ]
   },
   {
@@ -1273,6 +1875,16 @@
    "alt": [
     "Bar'ah",
     "Al Baraa"
+   ],
+   "qar": [
+    [
+     "Dhofari",
+     "ظفاري"
+    ],
+    [
+     "khanjar",
+     "خنجر"
+    ]
    ]
   },
   {
@@ -1352,6 +1964,12 @@
    "ar": "العود",
    "alt": [
     "Ud"
+   ],
+   "qar": [
+    [
+     "Mohammed Abdu",
+     "محمد عبده"
+    ]
    ]
   },
   {
@@ -1364,7 +1982,17 @@
     "Egyptian Arabic"
    ],
    "pic": "Hussain Al Jassmi",
-   "apic": "Egypt"
+   "apic": "Egypt",
+   "qar": [
+    [
+     "Hussain Al Jassmi",
+     "حسين الجسمي"
+    ],
+    [
+     "Boshret Kheir",
+     "بشرة خير"
+    ]
+   ]
   },
   {
    "q": "What is the Arabic word for 'music'?",

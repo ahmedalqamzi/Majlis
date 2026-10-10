@@ -12,7 +12,13 @@
     "Fitoor",
     "Iftaar"
    ],
-   "apic": "Iftar"
+   "apic": "Iftar",
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
+   ]
   },
   {
    "q": "What is the pre-dawn meal eaten before a day of fasting called?",
@@ -30,7 +36,6 @@
    "q": "Which fruit is traditionally eaten first to break the fast?",
    "a": "Dates",
    "p": 200,
-   "ar": "تمر",
    "alt": [
     "Date",
     "Tamr"
@@ -46,6 +51,12 @@
     "Eidi",
     "Eidiyah",
     "Aidiya"
+   ],
+   "qar": [
+    [
+     "Eid",
+     "العيد"
+    ]
    ]
   },
   {
@@ -64,7 +75,13 @@
     "Luqaymat",
     "Lugaimat"
    ],
-   "apic": "Lokma"
+   "apic": "Lokma",
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
+   ]
   },
   {
    "q": "What is the Arabic word for the decorative Ramadan lantern?",
@@ -75,6 +92,12 @@
     "Fanous",
     "Fanus",
     "Fawanees"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -87,14 +110,25 @@
     "Hareesa",
     "Haris"
    ],
-   "apic": "Harees"
+   "apic": "Harees",
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
+   ]
   },
   {
    "q": "Which purple fruit cordial, invented in England, is a must-have at Gulf iftar tables?",
    "a": "Vimto",
    "p": 200,
-   "ar": "فيمتو",
-   "apic": "Vimto"
+   "apic": "Vimto",
+   "qar": [
+    [
+     "iftar",
+     "الإفطار"
+    ]
+   ]
   },
   {
    "q": "Eid al-Fitr falls on the first day of which Islamic month?",
@@ -103,6 +137,12 @@
    "ar": "شوال",
    "alt": [
     "Shawal"
+   ],
+   "qar": [
+    [
+     "Eid al-Fitr",
+     "عيد الفطر"
+    ]
    ]
   },
   {
@@ -114,16 +154,27 @@
     "Eid ul-Fitr",
     "Eid Al Fitr"
    ],
-   "apic": "Eid al-Fitr"
+   "apic": "Eid al-Fitr",
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
+   ]
   },
   {
    "q": "Ramadan is which numbered month of the Islamic calendar?",
    "a": "Ninth",
    "p": 200,
-   "ar": "التاسع",
    "alt": [
     "9",
     "9th"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -135,6 +186,12 @@
     "Haq Al Laila",
     "Hag Al Laila",
     "Haq Al Leila"
+   ],
+   "qar": [
+    [
+     "Sha'ban",
+     "شعبان"
+    ]
    ]
   },
   {
@@ -146,6 +203,12 @@
     "Musaharati",
     "Musahharati",
     "Al Musahhar"
+   ],
+   "qar": [
+    [
+     "suhoor",
+     "السحور"
+    ]
    ]
   },
   {
@@ -157,6 +220,12 @@
     "Iftar cannon",
     "Midfa Al Iftar",
     "Cannon"
+   ],
+   "qar": [
+    [
+     "iftar",
+     "الإفطار"
+    ]
    ]
   },
   {
@@ -188,17 +257,28 @@
    "alt": [
     "Shaban",
     "Shaaban"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
    "q": "Sighting which shape of moon marks the start of Ramadan?",
    "a": "Crescent",
    "p": 200,
-   "ar": "هلال",
    "alt": [
     "Hilal",
     "New crescent",
     "Crescent moon"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -209,6 +289,12 @@
    "alt": [
     "Tarawih",
     "Taraweeh prayers"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -221,7 +307,13 @@
     "Kunafeh",
     "Kanafeh"
    ],
-   "apic": "Knafeh"
+   "apic": "Knafeh",
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
+   ]
   },
   {
    "q": "Which triangular fried pastries filled with meat or cheese are a classic iftar snack in the Gulf?",
@@ -233,15 +325,26 @@
     "Samosa",
     "Sambosa"
    ],
-   "apic": "Samosa"
+   "apic": "Samosa",
+   "qar": [
+    [
+     "iftar",
+     "الإفطار"
+    ]
+   ]
   },
   {
    "q": "How many days can a Ramadan month last?",
    "a": "29 or 30",
    "p": 200,
-   "ar": "٢٩ أو ٣٠",
    "alt": [
     "29 to 30"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -253,7 +356,13 @@
     "Frij",
     "Fareej"
    ],
-   "apic": "Freej"
+   "apic": "Freej",
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
+   ]
   },
   {
    "q": "Which Syrian TV drama set in an old neighbourhood became a Ramadan phenomenon from 2006?",
@@ -263,6 +372,12 @@
    "alt": [
     "Bab El Hara",
     "Bab al-Hara"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -274,7 +389,13 @@
     "Ma'amoul",
     "Mamoul"
    ],
-   "apic": "Maamoul"
+   "apic": "Maamoul",
+   "qar": [
+    [
+     "Eid",
+     "العيد"
+    ]
+   ]
   },
   {
    "q": "Which Eid is known as the 'Festival of Sacrifice'?",
@@ -292,7 +413,6 @@
    "q": "How many months are in the Islamic calendar?",
    "a": "12",
    "p": 200,
-   "ar": "اثنا عشر",
    "alt": [
     "Twelve"
    ]
@@ -301,50 +421,73 @@
    "q": "What plant-based dye do women and girls traditionally use to decorate their hands before Eid?",
    "a": "Henna",
    "p": 200,
-   "ar": "حناء",
    "alt": [
     "Hinna",
     "Mehndi"
    ],
-   "apic": "Henna"
+   "apic": "Henna",
+   "qar": [
+    [
+     "Eid",
+     "العيد"
+    ]
+   ]
   },
   {
    "q": "Which animal is most commonly sacrificed at Eid al-Adha in the Gulf?",
    "a": "Sheep",
    "p": 200,
-   "ar": "خروف",
    "alt": [
     "Lamb",
     "Kharoof"
    ],
-   "apic": "Sheep"
+   "apic": "Sheep",
+   "qar": [
+    [
+     "Eid al-Adha",
+     "عيد الأضحى"
+    ]
+   ]
   },
   {
    "q": "What are the temporary marquees that hotels set up for iftar and suhoor called?",
    "a": "Ramadan tents",
    "p": 200,
-   "ar": "خيمة رمضانية",
    "alt": [
     "Ramadan tent",
     "Iftar tent"
+   ],
+   "qar": [
+    [
+     "iftar",
+     "الإفطار"
+    ],
+    [
+     "suhoor",
+     "السحور"
+    ]
    ]
   },
   {
    "q": "The Hijri calendar follows the cycles of which celestial body?",
    "a": "The Moon",
    "p": 200,
-   "ar": "القمر",
    "alt": [
     "Moon",
     "Lunar"
    ],
-   "apic": "Moon"
+   "apic": "Moon",
+   "qar": [
+    [
+     "Hijri",
+     "الهجري"
+    ]
+   ]
   },
   {
    "q": "Besides dates, what drink is traditionally taken first to break the fast?",
    "a": "Water",
    "p": 200,
-   "ar": "ماء",
    "alt": [
     "Maa"
    ]
@@ -370,7 +513,13 @@
     "Arabic coffee",
     "Gahwa Arabiya"
    ],
-   "apic": "Arabic coffee"
+   "apic": "Arabic coffee",
+   "qar": [
+    [
+     "iftar",
+     "الإفطار"
+    ]
+   ]
   },
   {
    "q": "Which drink made from grape molasses, date syrup and rose water is topped with pine nuts and raisins?",
@@ -393,7 +542,13 @@
     "Qamaruddin",
     "Amardeen"
    ],
-   "apic": "Qamar al-Din"
+   "apic": "Qamar al-Din",
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
+   ]
   },
   {
    "q": "Which small folded pancakes stuffed with nuts or cheese are made almost only during Ramadan?",
@@ -405,7 +560,13 @@
     "Katayef",
     "Gatayef"
    ],
-   "apic": "Qatayef"
+   "apic": "Qatayef",
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
+   ]
   },
   {
    "q": "Which sweet-sour Ramadan drink is made from tamarind?",
@@ -415,6 +576,12 @@
    "alt": [
     "Tamr Hindi",
     "Tamarind juice"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -426,6 +593,20 @@
     "Ghabqa",
     "Gabga",
     "Ghabgah"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ],
+    [
+     "iftar",
+     "الإفطار"
+    ],
+    [
+     "suhoor",
+     "السحور"
+    ]
    ]
   },
   {
@@ -437,6 +618,12 @@
     "Qaranqasho",
     "Garangaou",
     "Gerangaoh"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -448,6 +635,12 @@
     "Kul Am Wa Antum Bikhair",
     "Kol Sana Wenta Tayeb",
     "Kul Sana Wa Inta Tayeb"
+   ],
+   "qar": [
+    [
+     "Eid",
+     "العيد"
+    ]
    ]
   },
   {
@@ -460,7 +653,13 @@
     "Ka'ak",
     "Kahk el Eid"
    ],
-   "apic": "Kahk"
+   "apic": "Kahk",
+   "qar": [
+    [
+     "Eid",
+     "العيد"
+    ]
+   ]
   },
   {
    "q": "Which Emirati breakfast of sweet saffron vermicelli topped with an omelette is served on Eid morning?",
@@ -470,6 +669,12 @@
    "alt": [
     "Balalit",
     "Bilaleet"
+   ],
+   "qar": [
+    [
+     "Eid",
+     "العيد"
+    ]
    ]
   },
   {
@@ -481,16 +686,27 @@
     "Ragag",
     "Rqaq",
     "Khubz Regag"
+   ],
+   "qar": [
+    [
+     "thareed",
+     "ثريد"
+    ]
    ]
   },
   {
    "q": "What grain is the base of harees?",
    "a": "Wheat",
    "p": 400,
-   "ar": "قمح",
    "alt": [
     "Whole wheat",
     "Burr"
+   ],
+   "qar": [
+    [
+     "harees",
+     "هريس"
+    ]
    ]
   },
   {
@@ -513,19 +729,30 @@
     "Laban Ayran",
     "Ayran",
     "Buttermilk"
+   ],
+   "qar": [
+    [
+     "iftar",
+     "الإفطار"
+    ]
    ]
   },
   {
    "q": "Which pulse is used in 'shorbat adas', the soup that starts many iftars?",
    "a": "Lentils",
    "p": 400,
-   "ar": "عدس",
    "alt": [
     "Adas",
     "Red lentils",
     "Lentil"
    ],
-   "apic": "Lentil"
+   "apic": "Lentil",
+   "qar": [
+    [
+     "shorbat adas",
+     "شوربة عدس"
+    ]
+   ]
   },
   {
    "q": "In Egypt, what is the customary reply to 'Ramadan Kareem'?",
@@ -535,6 +762,12 @@
    "alt": [
     "Allah Akram",
     "Allahu Akram ya Rab"
+   ],
+   "qar": [
+    [
+     "Ramadan Kareem",
+     "رمضان كريم"
+    ]
    ]
   },
   {
@@ -546,7 +779,21 @@
     "Tash Ma Tash series",
     "Tash ma tash"
    ],
-   "apic": "Tash Ma Tash"
+   "apic": "Tash Ma Tash",
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ],
+    [
+     "Nasser Al Qasabi",
+     "ناصر القصبي"
+    ],
+    [
+     "Abdullah Al Sadhan",
+     "عبدالله السدحان"
+    ]
+   ]
   },
   {
    "q": "Which Egyptian cartoon about a Nubian boy and his goat Rashida was a Ramadan favourite from 1998?",
@@ -555,6 +802,16 @@
    "ar": "بكار",
    "alt": [
     "Bakar"
+   ],
+   "qar": [
+    [
+     "Rashida",
+     "رشيدة"
+    ],
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -565,6 +822,12 @@
    "alt": [
     "Fawazir",
     "Fawazeer Ramadan"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -577,7 +840,17 @@
     "Sham",
     "Al Sham"
    ],
-   "apic": "Damascus"
+   "apic": "Damascus",
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ],
+    [
+     "Bab Al Hara",
+     "باب الحارة"
+    ]
+   ]
   },
   {
    "q": "Which month is the first of the Islamic calendar?",
@@ -603,6 +876,12 @@
     "Dhul Hijjah",
     "Zul Hijjah",
     "Thul Hijja"
+   ],
+   "qar": [
+    [
+     "Eid al-Adha",
+     "عيد الأضحى"
+    ]
    ]
   },
   {
@@ -620,11 +899,16 @@
    "q": "By roughly how many days does Ramadan move earlier each Gregorian year?",
    "a": "11",
    "p": 400,
-   "ar": "أحد عشر",
    "alt": [
     "About 11",
     "Eleven",
     "10 to 12"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -640,21 +924,35 @@
    "q": "What instrument does the mesaharati traditionally beat?",
    "a": "Drum",
    "p": 400,
-   "ar": "طبل",
    "alt": [
     "Tabla",
     "Small drum",
     "Tabl"
+   ],
+   "qar": [
+    [
+     "mesaharati",
+     "المسحراتي"
+    ]
    ]
   },
   {
    "q": "What lit a traditional Ramadan fanoos before electric bulbs?",
    "a": "Candle",
    "p": 400,
-   "ar": "شمعة",
    "alt": [
     "Candles",
     "Sham'a"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ],
+    [
+     "fanoos",
+     "فانوس"
+    ]
    ]
   },
   {
@@ -666,16 +964,31 @@
     "Eid Al Sagheer",
     "Small Eid",
     "Eid Al Saghir"
+   ],
+   "qar": [
+    [
+     "Eid al-Fitr",
+     "عيد الفطر"
+    ]
    ]
   },
   {
    "q": "On which day of Dhu al-Hijjah does Eid al-Adha begin?",
    "a": "10th",
    "p": 400,
-   "ar": "العاشر",
    "alt": [
     "10",
     "Tenth"
+   ],
+   "qar": [
+    [
+     "Dhu al-Hijjah",
+     "ذو الحجة"
+    ],
+    [
+     "Eid al-Adha",
+     "عيد الأضحى"
+    ]
    ]
   },
   {
@@ -687,13 +1000,18 @@
     "Nabulus"
    ],
    "pic": "Knafeh",
-   "apic": "Nablus"
+   "apic": "Nablus",
+   "qar": [
+    [
+     "Kunafa Nabulsieh",
+     "كنافة نابلسية"
+    ]
+   ]
   },
   {
    "q": "In which country was Vimto created?",
    "a": "England",
    "p": 400,
-   "ar": "إنجلترا",
    "alt": [
     "UK",
     "United Kingdom",
@@ -710,17 +1028,28 @@
     "Ayyala",
     "Al Ayala",
     "Ayala"
+   ],
+   "qar": [
+    [
+     "Eid",
+     "العيد"
+    ]
    ]
   },
   {
    "q": "What sweet syrup is traditionally drizzled over luqaimat?",
    "a": "Date syrup",
    "p": 400,
-   "ar": "دبس",
    "alt": [
     "Dibs",
     "Dibis",
     "Date molasses"
+   ],
+   "qar": [
+    [
+     "luqaimat",
+     "لقيمات"
+    ]
    ]
   },
   {
@@ -732,6 +1061,12 @@
     "Zakat ul-Fitr",
     "Fitrana",
     "Fitra"
+   ],
+   "qar": [
+    [
+     "Eid al-Fitr",
+     "عيد الفطر"
+    ]
    ]
   },
   {
@@ -743,6 +1078,16 @@
     "Arafah",
     "Arafat Day",
     "Yawm Arafah"
+   ],
+   "qar": [
+    [
+     "Mecca",
+     "مكة"
+    ],
+    [
+     "Eid al-Adha",
+     "عيد الأضحى"
+    ]
    ]
   },
   {
@@ -754,6 +1099,16 @@
     "Gergee'an",
     "Qarqee'an",
     "Gergean"
+   ],
+   "qar": [
+    [
+     "Kuwait",
+     "الكويت"
+    ],
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -764,6 +1119,16 @@
    "alt": [
     "Al Hajja Fatma",
     "Hajja Fatima"
+   ],
+   "qar": [
+    [
+     "Cairo",
+     "القاهرة"
+    ],
+    [
+     "iftar",
+     "الإفطار"
+    ]
    ]
   },
   {
@@ -774,6 +1139,20 @@
    "alt": [
     "Khosh Qadam",
     "Sayf ad-Din Khushqadam"
+   ],
+   "qar": [
+    [
+     "iftar",
+     "الإفطار"
+    ],
+    [
+     "Mamluk",
+     "المملوكي"
+    ],
+    [
+     "Cairo",
+     "القاهرة"
+    ]
    ]
   },
   {
@@ -785,6 +1164,16 @@
     "Al-Muizz li-Din Allah",
     "Al Moez",
     "Al-Muizz"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ],
+    [
+     "Fatimid",
+     "الفاطمي"
+    ]
    ]
   },
   {
@@ -795,6 +1184,12 @@
    "alt": [
     "Sobya",
     "Sobiya"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -806,6 +1201,12 @@
     "Kharroub",
     "Carob juice",
     "Kharrub"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -817,13 +1218,18 @@
     "Erk Sous",
     "Irq Sus",
     "Sous"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
    "q": "Which red rose-flavoured syrup is a staple of South Asian iftars in the UAE?",
    "a": "Rooh Afza",
    "p": 600,
-   "ar": "روح أفزا",
    "alt": [
     "Rooh Afzah",
     "Rooafza"
@@ -833,7 +1239,6 @@
    "q": "In which English city was Vimto first made?",
    "a": "Manchester",
    "p": 600,
-   "ar": "مانشستر",
    "pic": "Vimto",
    "apic": "Manchester"
   },
@@ -844,6 +1249,16 @@
    "ar": "خواطر",
    "alt": [
     "Khawatir"
+   ],
+   "qar": [
+    [
+     "Ahmad Al Shugairi",
+     "أحمد الشقيري"
+    ],
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -854,6 +1269,16 @@
    "alt": [
     "Shabiat Al Cartoon",
     "Sha'biyat Al Cartoon"
+   ],
+   "qar": [
+    [
+     "Haider Mohammed",
+     "حيدر محمد"
+    ],
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -865,7 +1290,13 @@
     "Nasser Al Gasabi",
     "Nasser Alqasabi"
    ],
-   "apic": "Nasser Al Qasabi"
+   "apic": "Nasser Al Qasabi",
+   "qar": [
+    [
+     "Tash Ma Tash",
+     "طاش ما طاش"
+    ]
+   ]
   },
   {
    "q": "Which Emirati animator created 'Freej'?",
@@ -876,7 +1307,13 @@
     "Mohammed Harib",
     "Mohamed Saeed Harib"
    ],
-   "apic": "Mohammed Saeed Harib"
+   "apic": "Mohammed Saeed Harib",
+   "qar": [
+    [
+     "Freej",
+     "فريج"
+    ]
+   ]
   },
   {
    "q": "What are the free public iftar tables set up on Egyptian streets called?",
@@ -887,17 +1324,28 @@
     "Mawa'ed El Rahman",
     "Mawaed Al Rahman",
     "Tables of the Merciful"
+   ],
+   "qar": [
+    [
+     "iftar",
+     "الإفطار"
+    ]
    ]
   },
   {
    "q": "In Turkey, Eid al-Fitr is popularly called the festival of what?",
    "a": "Sugar",
    "p": 600,
-   "ar": "السكر",
    "alt": [
     "Şeker Bayramı",
     "Seker Bayrami",
     "Sweets"
+   ],
+   "qar": [
+    [
+     "Eid al-Fitr",
+     "عيد الفطر"
+    ]
    ]
   },
   {
@@ -907,6 +1355,12 @@
    "alt": [
     "Hari Raya Aidilfitri",
     "Hari Raya Puasa"
+   ],
+   "qar": [
+    [
+     "Eid al-Fitr",
+     "عيد الفطر"
+    ]
    ]
   },
   {
@@ -915,6 +1369,12 @@
    "p": 600,
    "alt": [
     "Idul Fitri"
+   ],
+   "qar": [
+    [
+     "Eid al-Fitr",
+     "عيد الفطر"
+    ]
    ]
   },
   {
@@ -923,6 +1383,12 @@
    "p": 600,
    "alt": [
     "Pulang kampung"
+   ],
+   "qar": [
+    [
+     "Eid",
+     "العيد"
+    ]
    ]
   },
   {
@@ -934,6 +1400,16 @@
     "Dhul Qadah",
     "Zul Qaida",
     "Thul Qi'dah"
+   ],
+   "qar": [
+    [
+     "Shawwal",
+     "شوال"
+    ],
+    [
+     "Dhu al-Hijjah",
+     "ذو الحجة"
+    ]
    ]
   },
   {
@@ -967,21 +1443,31 @@
    "q": "In which year CE does the Hijri calendar begin?",
    "a": "622",
    "p": 600,
-   "ar": "٦٢٢",
    "alt": [
     "622 CE",
     "622 AD"
+   ],
+   "qar": [
+    [
+     "Hijri",
+     "الهجري"
+    ]
    ]
   },
   {
    "q": "The name 'Ramadan' comes from an Arabic root meaning what?",
    "a": "Scorching heat",
    "p": 600,
-   "ar": "رمض",
    "alt": [
     "Intense heat",
     "Burning heat",
     "Heat"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -994,7 +1480,13 @@
     "Chbakia",
     "Mkharka"
    ],
-   "apic": "Chebakia"
+   "apic": "Chebakia",
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
+   ]
   },
   {
    "q": "Which Algerian iftar soup is made with green cracked wheat?",
@@ -1005,6 +1497,12 @@
     "Chorba freek",
     "Jari frik",
     "Frik soup"
+   ],
+   "qar": [
+    [
+     "iftar",
+     "الإفطار"
+    ]
    ]
   },
   {
@@ -1017,14 +1515,26 @@
     "Kulicha",
     "Klecha"
    ],
-   "apic": "Kleicha"
+   "apic": "Kleicha",
+   "qar": [
+    [
+     "Eid",
+     "العيد"
+    ]
+   ]
   },
   {
    "q": "In which emirate is the animated series 'Freej' set?",
    "a": "Dubai",
    "p": 600,
    "ar": "دبي",
-   "apic": "Dubai"
+   "apic": "Dubai",
+   "qar": [
+    [
+     "Freej",
+     "فريج"
+    ]
+   ]
   },
   {
    "q": "What is the soft round Turkish bread baked only during Ramadan called?",
@@ -1034,6 +1544,12 @@
     "Ramadan pide",
     "Pide",
     "Ramazan pide"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -1044,6 +1560,12 @@
    "alt": [
     "Khoshaaf",
     "Khushaf"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -1054,6 +1576,12 @@
    "alt": [
     "Karak chai",
     "Chai karak"
+   ],
+   "qar": [
+    [
+     "iftar",
+     "الإفطار"
+    ]
    ]
   },
   {
@@ -1073,6 +1601,12 @@
    "ar": "الفجر",
    "alt": [
     "Dawn prayer"
+   ],
+   "qar": [
+    [
+     "suhoor",
+     "السحور"
+    ]
    ]
   },
   {
@@ -1083,6 +1617,12 @@
    "alt": [
     "Majboos",
     "Kabsa"
+   ],
+   "qar": [
+    [
+     "iftar",
+     "الإفطار"
+    ]
    ]
   },
   {
@@ -1095,7 +1635,13 @@
     "Dishdasha",
     "Thobe"
    ],
-   "apic": "Thawb"
+   "apic": "Thawb",
+   "qar": [
+    [
+     "Eid",
+     "العيد"
+    ]
+   ]
   },
   {
    "q": "What fragrant wood chips are burned to perfume homes for Eid guests?",
@@ -1107,7 +1653,13 @@
     "Bakhour",
     "Oud"
    ],
-   "apic": "Bukhoor"
+   "apic": "Bukhoor",
+   "qar": [
+    [
+     "Eid",
+     "العيد"
+    ]
+   ]
   },
   {
    "q": "What is the Arabic word for fasting?",
@@ -1124,12 +1676,17 @@
    "q": "Which green nut is sprinkled on top of kunafa?",
    "a": "Pistachio",
    "p": 200,
-   "ar": "فستق",
    "alt": [
     "Pistachios",
     "Fustuq"
    ],
-   "apic": "Pistachio"
+   "apic": "Pistachio",
+   "qar": [
+    [
+     "kunafa",
+     "كنافة"
+    ]
+   ]
   },
   {
    "q": "Which semolina cake soaked in syrup is a favourite Ramadan dessert in Egypt?",
@@ -1141,7 +1698,13 @@
     "Namoura",
     "Basbusa"
    ],
-   "apic": "Basbousa"
+   "apic": "Basbousa",
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
+   ]
   },
   {
    "q": "Which Egyptian bread pudding with milk and nuts translates as 'Ali's mother'?",
@@ -1162,7 +1725,17 @@
     "Grand Mosque",
     "Sheikh Zayed Mosque"
    ],
-   "apic": "Sheikh Zayed Grand Mosque"
+   "apic": "Sheikh Zayed Grand Mosque",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ],
+    [
+     "Ramadan",
+     "رمضان"
+    ]
+   ]
   },
   {
    "q": "Who fires the Ramadan cannons in Dubai each evening?",
@@ -1171,6 +1744,16 @@
    "ar": "شرطة دبي",
    "alt": [
     "Police"
+   ],
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ],
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -1182,6 +1765,12 @@
     "Eid Al Kabeer",
     "Big Eid",
     "Eid Al Kabir"
+   ],
+   "qar": [
+    [
+     "Eid al-Adha",
+     "عيد الأضحى"
+    ]
    ]
   },
   {
@@ -1192,6 +1781,12 @@
     "Bakrid",
     "Bakri Eid",
     "Bakra Id"
+   ],
+   "qar": [
+    [
+     "Eid al-Adha",
+     "عيد الأضحى"
+    ]
    ]
   },
   {
@@ -1203,6 +1798,12 @@
     "Imsakiyah",
     "Imsakia",
     "Ramadan timetable"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -1214,7 +1815,13 @@
     "Bhajia",
     "Pakoda"
    ],
-   "apic": "Pakora"
+   "apic": "Pakora",
+   "qar": [
+    [
+     "iftar",
+     "الإفطار"
+    ]
+   ]
   },
   {
    "q": "Which meat and wheat stew from Hyderabad is famous during Ramadan?",
@@ -1224,7 +1831,13 @@
    "alt": [
     "Hyderabadi haleem"
    ],
-   "apic": "Haleem"
+   "apic": "Haleem",
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
+   ]
   },
   {
    "q": "What popular Gulf sweet made with saffron and rosewater is served with gahwa on Eid?",
@@ -1234,6 +1847,16 @@
    "alt": [
     "Omani halwa",
     "Halwa Omani"
+   ],
+   "qar": [
+    [
+     "gahwa",
+     "قهوة"
+    ],
+    [
+     "Eid",
+     "العيد"
+    ]
    ]
   },
   {
@@ -1244,6 +1867,16 @@
    "alt": [
     "Takbir",
     "Takbeerat"
+   ],
+   "qar": [
+    [
+     "Allahu Akbar",
+     "الله أكبر"
+    ],
+    [
+     "Eid",
+     "العيد"
+    ]
    ]
   },
   {
@@ -1260,11 +1893,16 @@
    "q": "Which yellow spice gives balaleet its colour?",
    "a": "Saffron",
    "p": 200,
-   "ar": "زعفران",
    "alt": [
     "Zafaran"
    ],
-   "apic": "Saffron"
+   "apic": "Saffron",
+   "qar": [
+    [
+     "balaleet",
+     "بلاليط"
+    ]
+   ]
   },
   {
    "q": "Which slow-cooked fava bean dish is Egypt's classic suhoor meal?",
@@ -1276,7 +1914,13 @@
     "Foul",
     "Foul medames"
    ],
-   "apic": "Ful medames"
+   "apic": "Ful medames",
+   "qar": [
+    [
+     "suhoor",
+     "السحور"
+    ]
+   ]
   },
   {
    "q": "What is Egypt's name for falafel, often eaten at suhoor?",
@@ -1287,7 +1931,13 @@
     "Taamiya",
     "Tameya"
    ],
-   "apic": "Falafel"
+   "apic": "Falafel",
+   "qar": [
+    [
+     "suhoor",
+     "السحور"
+    ]
+   ]
   },
   {
    "q": "Which bread salad with sumac and crispy pitta is a Levantine iftar staple?",
@@ -1297,7 +1947,13 @@
    "alt": [
     "Fattush"
    ],
-   "apic": "Fattoush"
+   "apic": "Fattoush",
+   "qar": [
+    [
+     "iftar",
+     "الإفطار"
+    ]
+   ]
   },
   {
    "q": "Which Egyptian Ramadan drink is made from hibiscus flowers?",
@@ -1308,7 +1964,13 @@
     "Karkadeh",
     "Hibiscus tea"
    ],
-   "apic": "Hibiscus tea"
+   "apic": "Hibiscus tea",
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
+   ]
   },
   {
    "q": "Which Levantine fried dough balls in syrup are cousins of luqaimat?",
@@ -1318,6 +1980,12 @@
    "alt": [
     "Awwameh",
     "Zalabia"
+   ],
+   "qar": [
+    [
+     "luqaimat",
+     "لقيمات"
+    ]
    ]
   },
   {
@@ -1329,7 +1997,13 @@
     "Muhallebi",
     "Mahalabiya"
    ],
-   "apic": "Muhallebi"
+   "apic": "Muhallebi",
+   "qar": [
+    [
+     "iftar",
+     "الإفطار"
+    ]
+   ]
   },
   {
    "q": "Which Emirati sweet pancakes flavoured with cardamom are a suhoor favourite?",
@@ -1339,6 +2013,12 @@
    "alt": [
     "Chebab",
     "Jabab"
+   ],
+   "qar": [
+    [
+     "suhoor",
+     "السحور"
+    ]
    ]
   },
   {
@@ -1348,6 +2028,12 @@
    "ar": "خمير",
    "alt": [
     "Khamir"
+   ],
+   "qar": [
+    [
+     "suhoor",
+     "السحور"
+    ]
    ]
   },
   {
@@ -1358,6 +2044,12 @@
    "alt": [
     "Salona",
     "Saluna"
+   ],
+   "qar": [
+    [
+     "iftar",
+     "الإفطار"
+    ]
    ]
   },
   {
@@ -1368,6 +2060,12 @@
    "alt": [
     "Ajameya",
     "Agamiya"
+   ],
+   "qar": [
+    [
+     "kahk",
+     "كعك"
+    ]
    ]
   },
   {
@@ -1378,22 +2076,39 @@
    "alt": [
     "Minal Aidin wal Faizin",
     "Min el Aydeen"
+   ],
+   "qar": [
+    [
+     "Eid",
+     "العيد"
+    ]
    ]
   },
   {
    "q": "Which Hijri month contains the day of Ashura?",
    "a": "Muharram",
    "p": 400,
-   "ar": "محرم"
+   "ar": "محرم",
+   "qar": [
+    [
+     "Ashura",
+     "عاشوراء"
+    ]
+   ]
   },
   {
    "q": "Roughly how many days are in a Hijri year?",
    "a": "354",
    "p": 400,
-   "ar": "٣٥٤",
    "alt": [
     "354 or 355",
     "355"
+   ],
+   "qar": [
+    [
+     "Hijri",
+     "الهجري"
+    ]
    ]
   },
   {
@@ -1403,29 +2118,49 @@
    "ar": "غزوة بدر",
    "alt": [
     "Badr"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
    "q": "On which night of Sha'ban is Hag Al Leila celebrated?",
    "a": "15th",
    "p": 400,
-   "ar": "الخامس عشر",
    "alt": [
     "Fifteenth",
     "Mid-Sha'ban",
     "15"
+   ],
+   "qar": [
+    [
+     "Sha'ban",
+     "شعبان"
+    ],
+    [
+     "Hag Al Leila",
+     "حق الليلة"
+    ]
    ]
   },
   {
    "q": "Which South Asian sweet vermicelli dish with dates and milk is served on Eid morning?",
    "a": "Sheer khurma",
    "p": 400,
-   "ar": "شير خرما",
    "alt": [
     "Sheer khorma",
     "Sheer kurma"
    ],
-   "apic": "Sheer khurma"
+   "apic": "Sheer khurma",
+   "qar": [
+    [
+     "Eid",
+     "العيد"
+    ]
+   ]
   },
   {
    "q": "What is Oman's name for the mid-Ramadan children's sweet night?",
@@ -1435,6 +2170,12 @@
    "alt": [
     "Garangesho",
     "Garangasho"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -1445,6 +2186,12 @@
    "alt": [
     "Gergaon",
     "Qarqaoon"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -1455,16 +2202,31 @@
    "alt": [
     "Neffar",
     "Naffar"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ],
+    [
+     "suhoor",
+     "السحور"
+    ]
    ]
   },
   {
    "q": "Traditional Egyptian fanoos are made from tin and what?",
    "a": "Coloured glass",
    "p": 400,
-   "ar": "زجاج ملون",
    "alt": [
     "Glass",
     "Stained glass"
+   ],
+   "qar": [
+    [
+     "fanoos",
+     "فانوس"
+    ]
    ]
   },
   {
@@ -1475,6 +2237,16 @@
    "alt": [
     "Khatm",
     "Khatam"
+   ],
+   "qar": [
+    [
+     "Quran",
+     "القرآن"
+    ],
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -1485,19 +2257,34 @@
    "alt": [
     "Itikaf",
     "Etikaf"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
    "q": "In which Cairo landmark does the historic iftar cannon stand?",
    "a": "The Citadel",
    "p": 400,
-   "ar": "القلعة",
    "alt": [
     "Citadel of Saladin",
     "Saladin Citadel",
     "Salah El Din Citadel"
    ],
-   "apic": "Cairo Citadel"
+   "apic": "Cairo Citadel",
+   "qar": [
+    [
+     "Cairo",
+     "القاهرة"
+    ],
+    [
+     "iftar",
+     "الإفطار"
+    ]
+   ]
   },
   {
    "q": "Which Turkish name is given to Eid al-Adha?",
@@ -1506,6 +2293,12 @@
    "alt": [
     "Kurban Bayrami",
     "Kurban Bayram"
+   ],
+   "qar": [
+    [
+     "Eid al-Adha",
+     "عيد الأضحى"
+    ]
    ]
   },
   {
@@ -1517,7 +2310,13 @@
     "Sayed Makkawi",
     "Sayyid Makkawi"
    ],
-   "apic": "Sayed Mekkawy"
+   "apic": "Sayed Mekkawy",
+   "qar": [
+    [
+     "El Mesaharati",
+     "المسحراتي"
+    ]
+   ]
   },
   {
    "q": "Which Egyptian singer recorded the Ramadan classic 'Ramadan Gana'?",
@@ -1527,6 +2326,12 @@
    "alt": [
     "Abdel Muttalib",
     "Mohamed Abdel Motaleb"
+   ],
+   "qar": [
+    [
+     "Ramadan Gana",
+     "رمضان جانا"
+    ]
    ]
   },
   {
@@ -1536,6 +2341,16 @@
    "ar": "أحمد عبد القادر",
    "alt": [
     "Ahmad Abdel Qader"
+   ],
+   "qar": [
+    [
+     "Wahawi Ya Wahawi",
+     "وحوي يا وحوي"
+    ],
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -1545,6 +2360,12 @@
    "ar": "ياميش",
    "alt": [
     "Yamish Ramadan"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -1556,6 +2377,12 @@
     "Ghraybe",
     "Ghorayeba",
     "Ghoriba"
+   ],
+   "qar": [
+    [
+     "Eid",
+     "العيد"
+    ]
    ]
   },
   {
@@ -1566,6 +2393,12 @@
    "alt": [
     "Atayef Asafiri",
     "Asafiri"
+   ],
+   "qar": [
+    [
+     "qatayef",
+     "قطايف"
+    ]
    ]
   },
   {
@@ -1576,6 +2409,12 @@
    "alt": [
     "Musalla al-Eid",
     "Eidgah"
+   ],
+   "qar": [
+    [
+     "Eid",
+     "العيد"
+    ]
    ]
   },
   {
@@ -1584,12 +2423,24 @@
    "p": 600,
    "alt": [
     "Korite"
+   ],
+   "qar": [
+    [
+     "Eid al-Fitr",
+     "عيد الفطر"
+    ]
    ]
   },
   {
    "q": "What is Eid al-Adha called in Senegal and much of West Africa?",
    "a": "Tabaski",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Eid al-Adha",
+     "عيد الأضحى"
+    ]
+   ]
   },
   {
    "q": "Which Moroccan Ramadan treat is made from toasted flour, sesame and almonds?",
@@ -1599,6 +2450,12 @@
    "alt": [
     "Sfouf",
     "Slilou"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -1609,6 +2466,12 @@
    "alt": [
     "Kalb el louz",
     "Qalb elouz"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -1620,6 +2483,12 @@
     "Muhaibis",
     "Mhaibes",
     "Al Mheibes"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -1630,6 +2499,12 @@
    "alt": [
     "Maarouk",
     "Maarook"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -1640,6 +2515,12 @@
    "alt": [
     "Taht El Rabaa",
     "Taht al-Rab"
+   ],
+   "qar": [
+    [
+     "Cairo",
+     "القاهرة"
+    ]
    ]
   },
   {
@@ -1648,6 +2529,16 @@
    "p": 600,
    "alt": [
     "Ramazan davulcusu"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ],
+    [
+     "suhoor",
+     "السحور"
+    ]
    ]
   },
   {
@@ -1656,6 +2547,12 @@
    "p": 600,
    "alt": [
     "Mahyalar"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -1665,7 +2562,13 @@
    "alt": [
     "Gullac"
    ],
-   "apic": "Güllaç"
+   "apic": "Güllaç",
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
+   ]
   },
   {
    "q": "Which children's Fawazeer show starred Fouad El-Mohandes?",
@@ -1675,6 +2578,16 @@
    "alt": [
     "Amo Fouad",
     "Fawazeer Ammo Fouad"
+   ],
+   "qar": [
+    [
+     "Fawazeer",
+     "فوازير"
+    ],
+    [
+     "Fouad El-Mohandes",
+     "فؤاد المهندس"
+    ]
    ]
   },
   {
@@ -1684,6 +2597,12 @@
    "ar": "منى أبو النصر",
    "alt": [
     "Mona Abou El Nasr"
+   ],
+   "qar": [
+    [
+     "Bakkar",
+     "بكار"
+    ]
    ]
   },
   {
@@ -1693,6 +2612,16 @@
    "ar": "الهيبة",
    "alt": [
     "El Hayba"
+   ],
+   "qar": [
+    [
+     "Taim Hasan",
+     "تيم حسن"
+    ],
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -1708,17 +2637,21 @@
    "q": "In which year was Vimto created?",
    "a": "1908",
    "p": 600,
-   "ar": "١٩٠٨",
    "pic": "Vimto"
   },
   {
    "q": "Jallab's name comes from a Persian word meaning what?",
    "a": "Rose water",
    "p": 600,
-   "ar": "ماء الورد",
    "alt": [
     "Rosewater",
     "Gulab"
+   ],
+   "qar": [
+    [
+     "Jallab",
+     "جلاب"
+    ]
    ]
   },
   {
@@ -1727,6 +2660,12 @@
    "p": 600,
    "alt": [
     "Chaat"
+   ],
+   "qar": [
+    [
+     "iftar",
+     "الإفطار"
+    ]
    ]
   },
   {
@@ -1747,6 +2686,12 @@
    "alt": [
     "Madrouba",
     "Madhrooba"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -1756,6 +2701,16 @@
    "ar": "خنفروش",
    "alt": [
     "Khanfaroush"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ],
+    [
+     "Eid",
+     "العيد"
+    ]
    ]
   },
   {
@@ -1766,7 +2721,13 @@
    "alt": [
     "Barazeq"
    ],
-   "apic": "Barazek"
+   "apic": "Barazek",
+   "qar": [
+    [
+     "Damascus",
+     "دمشق"
+    ]
+   ]
   },
   {
    "q": "What is the Arabic phrase for the Islamic New Year?",
@@ -1792,23 +2753,48 @@
    "q": "Who wrote the poetry for Sayed Mekkawy's 'El Mesaharati'?",
    "a": "Fouad Haddad",
    "p": 600,
-   "ar": "فؤاد حداد"
+   "ar": "فؤاد حداد",
+   "qar": [
+    [
+     "Sayed Mekkawy",
+     "سيد مكاوي"
+    ],
+    [
+     "El Mesaharati",
+     "المسحراتي"
+    ]
+   ]
   },
   {
    "q": "In Qatar, on which night of Ramadan is Garangao celebrated?",
    "a": "14th",
    "p": 600,
-   "ar": "الرابع عشر",
    "alt": [
     "Fourteenth",
     "14"
+   ],
+   "qar": [
+    [
+     "Garangao",
+     "قرنقعوه"
+    ],
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
    "q": "Which Indonesian dish of rice cooked in woven palm-leaf pouches is a must at Eid?",
    "a": "Ketupat",
    "p": 600,
-   "apic": "Ketupat"
+   "apic": "Ketupat",
+   "qar": [
+    [
+     "Eid",
+     "العيد"
+    ]
+   ]
   },
   {
    "q": "Which Tunisian Ramadan pastry is a thin crispy turnover often filled with egg and tuna?",
@@ -1819,7 +2805,13 @@
     "Brick",
     "Briq"
    ],
-   "apic": "Brik"
+   "apic": "Brik",
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
+   ]
   },
   {
    "q": "Which large, soft date variety is often called the 'king of dates'?",
@@ -1847,10 +2839,15 @@
    "q": "What do families traditionally buy children to wear on Eid morning?",
    "a": "New clothes",
    "p": 200,
-   "ar": "ملابس جديدة",
    "alt": [
     "Clothes",
     "Eid clothes"
+   ],
+   "qar": [
+    [
+     "Eid",
+     "العيد"
+    ]
    ]
   },
   {
@@ -1860,16 +2857,27 @@
    "ar": "دلة",
    "alt": [
     "Dalla"
+   ],
+   "qar": [
+    [
+     "iftar",
+     "الإفطار"
+    ]
    ]
   },
   {
    "q": "Fasting in Ramadan lasts from dawn until when?",
    "a": "Sunset",
    "p": 200,
-   "ar": "غروب الشمس",
    "alt": [
     "Maghrib",
     "Dusk"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -1880,27 +2888,43 @@
    "alt": [
     "Mosalsal",
     "Musalsalat"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
    "q": "What does 'luqaimat' literally mean?",
    "a": "Little bites",
    "p": 400,
-   "ar": "لقيمات",
    "alt": [
     "Small bites",
     "Morsels",
     "Little mouthfuls"
+   ],
+   "qar": [
+    [
+     "luqaimat",
+     "لقيمات"
+    ]
    ]
   },
   {
    "q": "What does the word 'iftar' literally mean?",
    "a": "Breaking the fast",
    "p": 400,
-   "ar": "إفطار",
    "alt": [
     "Breaking fast",
     "Breakfast"
+   ],
+   "qar": [
+    [
+     "iftar",
+     "إفطار"
+    ]
    ]
   },
   {

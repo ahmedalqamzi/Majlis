@@ -108,12 +108,17 @@
    "q": "Which detective anime is known in Arabic as Al-Muhaqqiq Conan?",
    "a": "Detective Conan",
    "p": 200,
-   "ar": "المحقق كونان",
    "alt": [
     "Case Closed",
     "Meitantei Conan"
    ],
-   "apic": "Case Closed"
+   "apic": "Case Closed",
+   "qar": [
+    [
+     "Al-Muhaqqiq Conan",
+     "المحقق كونان"
+    ]
+   ]
   },
   {
    "q": "Which basketball anime follows the red-haired delinquent Hanamichi Sakuragi?",
@@ -194,7 +199,6 @@
    "q": "Which giant robot, known in France as Goldorak, is the hero of a 1970s anime?",
    "a": "Grendizer",
    "p": 200,
-   "ar": "غرندايزر",
    "alt": [
     "UFO Robo Grendizer",
     "Goldorak",
@@ -306,12 +310,17 @@
    "q": "Which anime is known in Arabic as Adnan wa Lina?",
    "a": "Future Boy Conan",
    "p": 400,
-   "ar": "عدنان ولينا",
    "alt": [
     "Mirai Shonen Conan",
     "Conan the Boy in Future"
    ],
-   "apic": "Future Boy Conan"
+   "apic": "Future Boy Conan",
+   "qar": [
+    [
+     "Adnan wa Lina",
+     "عدنان ولينا"
+    ]
+   ]
   },
   {
    "q": "Which famous Japanese director led Adnan wa Lina as his first TV series?",
@@ -320,7 +329,13 @@
    "alt": [
     "Miyazaki"
    ],
-   "apic": "Hayao Miyazaki"
+   "apic": "Hayao Miyazaki",
+   "qar": [
+    [
+     "Adnan wa Lina",
+     "عدنان ولينا"
+    ]
+   ]
   },
   {
    "q": "What is the name of the girl called Lina in the Arabic title Adnan wa Lina, in the original Japanese?",
@@ -328,6 +343,12 @@
    "p": 400,
    "alt": [
     "Lana"
+   ],
+   "qar": [
+    [
+     "Adnan wa Lina",
+     "عدنان ولينا"
+    ]
    ]
   },
   {
@@ -551,7 +572,6 @@
    "q": "What is the original Japanese full title of Grendizer?",
    "a": "UFO Robo Grendizer",
    "p": 600,
-   "ar": "غرندايزر",
    "alt": [
     "UFO Robot Grendizer",
     "UFO Robo Gurendaizā"
@@ -591,7 +611,13 @@
    "alt": [
     "Nihon Animation"
    ],
-   "apic": "Nippon Animation"
+   "apic": "Nippon Animation",
+   "qar": [
+    [
+     "Adnan wa Lina",
+     "عدنان ولينا"
+    ]
+   ]
   },
   {
    "q": "Which novel by Alexander Key is Future Boy Conan based on?",
@@ -759,14 +785,12 @@
    "q": "Which long-running anime features a blue robot cat from the future?",
    "a": "Doraemon",
    "p": 200,
-   "ar": "دورايمون",
    "apic": "Doraemon"
   },
   {
    "q": "Which anime franchise is short for 'Digital Monsters'?",
    "a": "Digimon",
    "p": 200,
-   "ar": "ديجيمون",
    "alt": [
     "Digimon Adventure"
    ],
@@ -776,7 +800,6 @@
    "q": "Which anime follows Tyson and his battling spinning tops?",
    "a": "Beyblade",
    "p": 200,
-   "ar": "بي بليد",
    "alt": [
     "Bakuten Shoot Beyblade",
     "Beyblade"
@@ -787,7 +810,6 @@
    "q": "Which anime franchise features Pikachu and the Poke Ball?",
    "a": "Pokemon",
    "p": 200,
-   "ar": "بوكيمون",
    "alt": [
     "Pokémon"
    ],
@@ -797,7 +819,6 @@
    "q": "Which anime follows Goku's search for seven magic orbs?",
    "a": "Dragon Ball",
    "p": 200,
-   "ar": "دراغون بول",
    "alt": [
     "Dragon Ball Z",
     "Dragonball"
@@ -808,7 +829,6 @@
    "q": "Which anime follows an orphan girl sent to live with her grandfather in the mountains?",
    "a": "Heidi",
    "p": 400,
-   "ar": "هايدي",
    "alt": [
     "Heidi, Girl of the Alps",
     "Alps no Shojo Heidi"
@@ -819,7 +839,6 @@
    "q": "Which anime follows a boy sold to a travelling musician with a dog and a monkey?",
    "a": "Remi",
    "p": 400,
-   "ar": "ريمي",
    "alt": [
     "Nobody's Boy: Remi",
     "Remi, Nobody's Boy",
@@ -839,28 +858,44 @@
    "q": "In which year did Spacetoon begin broadcasting?",
    "a": "2000",
    "p": 400,
-   "pic": "Spacetoon"
+   "pic": "Spacetoon",
+   "qar": [
+    [
+     "Spacetoon",
+     "سبيستون"
+    ]
+   ]
   },
   {
    "q": "Spacetoon sorts its shows into themed zones. What are these zones called?",
    "a": "Planets",
    "p": 200,
-   "ar": "كواكب",
    "alt": [
     "Planet",
     "Kawakib"
    ],
-   "pic": "Spacetoon"
+   "pic": "Spacetoon",
+   "qar": [
+    [
+     "Spacetoon",
+     "سبيستون"
+    ]
+   ]
   },
   {
    "q": "Which Spacetoon 'planet' grouped football and other sports anime?",
    "a": "Sports",
    "p": 200,
-   "ar": "رياضة",
    "alt": [
     "Planet Sports",
     "Riyada",
     "Sport"
+   ],
+   "qar": [
+    [
+     "Spacetoon",
+     "سبيستون"
+    ]
    ]
   },
   {
@@ -873,36 +908,57 @@
     "Zumurrud",
     "Emerald",
     "Planet Zumurruda"
+   ],
+   "qar": [
+    [
+     "Spacetoon",
+     "سبيستون"
+    ]
    ]
   },
   {
    "q": "Which Spacetoon 'planet' showed comedy cartoons?",
    "a": "Comedy",
    "p": 200,
-   "ar": "كوميديا",
    "alt": [
     "Planet Comedy"
+   ],
+   "qar": [
+    [
+     "Spacetoon",
+     "سبيستون"
+    ]
    ]
   },
   {
    "q": "Which Spacetoon 'planet' was home to fighting and hero shows?",
    "a": "Action",
    "p": 200,
-   "ar": "أكشن",
    "alt": [
     "Planet Action"
+   ],
+   "qar": [
+    [
+     "Spacetoon",
+     "سبيستون"
+    ]
    ]
   },
   {
    "q": "Spacetoon's famous slogan calls it the channel of the youth of the what?",
    "a": "Future",
    "p": 400,
-   "ar": "المستقبل",
    "alt": [
     "The future",
     "Al-Mustaqbal"
    ],
-   "pic": "Spacetoon"
+   "pic": "Spacetoon",
+   "qar": [
+    [
+     "Spacetoon",
+     "سبيستون"
+    ]
+   ]
   },
   {
    "q": "Besides Dubai, in which Arab capital does Spacetoon have its other main base?",
@@ -913,7 +969,17 @@
     "Dimashq"
    ],
    "pic": "Spacetoon",
-   "apic": "Damascus"
+   "apic": "Damascus",
+   "qar": [
+    [
+     "Spacetoon",
+     "سبيستون"
+    ],
+    [
+     "Dubai",
+     "دبي"
+    ]
+   ]
   },
   {
    "q": "Which Damascus dubbing studio, whose name is Arabic for Venus, voiced many Spacetoon classics?",
@@ -924,6 +990,16 @@
     "Venus Center",
     "Zahra Center",
     "Markaz al-Zahra"
+   ],
+   "qar": [
+    [
+     "Damascus",
+     "دمشق"
+    ],
+    [
+     "Spacetoon",
+     "سبيستون"
+    ]
    ]
   },
   {
@@ -935,7 +1011,13 @@
     "Rasha Rezk",
     "Rasha Rizq"
    ],
-   "apic": "Rasha Rizk"
+   "apic": "Rasha Rizk",
+   "qar": [
+    [
+     "Spacetoon",
+     "سبيستون"
+    ]
+   ]
   },
   {
    "q": "What is Kojiro Hyuga called in the Arabic dub of Captain Majid?",
@@ -944,6 +1026,12 @@
    "ar": "بسام",
    "alt": [
     "Basam"
+   ],
+   "qar": [
+    [
+     "Captain Majid",
+     "كابتن ماجد"
+    ]
    ]
   },
   {
@@ -953,6 +1041,12 @@
    "ar": "وليد",
    "alt": [
     "Walid"
+   ],
+   "qar": [
+    [
+     "Captain Majid",
+     "كابتن ماجد"
+    ]
    ]
   },
   {
@@ -963,6 +1057,12 @@
    "alt": [
     "Yasin",
     "Yaseen"
+   ],
+   "qar": [
+    [
+     "Captain Majid",
+     "كابتن ماجد"
+    ]
    ]
   },
   {
@@ -972,6 +1072,12 @@
    "ar": "مازن",
    "alt": [
     "Mazin"
+   ],
+   "qar": [
+    [
+     "Captain Majid",
+     "كابتن ماجد"
+    ]
    ]
   },
   {
@@ -982,6 +1088,12 @@
    "alt": [
     "Ra'd",
     "Rad"
+   ],
+   "qar": [
+    [
+     "Captain Majid",
+     "كابتن ماجد"
+    ]
    ]
   },
   {
@@ -991,6 +1103,12 @@
    "alt": [
     "Ten",
     "Number 10"
+   ],
+   "qar": [
+    [
+     "Captain Majid",
+     "كابتن ماجد"
+    ]
    ]
   },
   {
@@ -1150,11 +1268,16 @@
    "q": "Which Nippon Animation series about Sara Crewe was dubbed in Arabic as 'Sally'?",
    "a": "A Little Princess Sara",
    "p": 400,
-   "ar": "سالي",
    "alt": [
     "Princess Sarah",
     "A Little Princess",
     "Shokojo Sara"
+   ],
+   "qar": [
+    [
+     "Sally",
+     "سالي"
+    ]
    ]
   },
   {
@@ -1165,7 +1288,13 @@
     "Hodgson Burnett",
     "Burnett"
    ],
-   "apic": "Frances Hodgson Burnett"
+   "apic": "Frances Hodgson Burnett",
+   "qar": [
+    [
+     "Sally",
+     "سالي"
+    ]
+   ]
   },
   {
    "q": "What is the name of the strict headmistress who mistreats Sally?",
@@ -1174,6 +1303,12 @@
    "alt": [
     "Minchin",
     "Maria Minchin"
+   ],
+   "qar": [
+    [
+     "Sally",
+     "سالي"
+    ]
    ]
   },
   {
@@ -1183,18 +1318,36 @@
    "alt": [
     "London, England"
    ],
-   "apic": "London"
+   "apic": "London",
+   "qar": [
+    [
+     "Sally",
+     "سالي"
+    ]
+   ]
   },
   {
    "q": "From which country does Sally come to her boarding school?",
    "a": "India",
    "p": 400,
-   "apic": "India"
+   "apic": "India",
+   "qar": [
+    [
+     "Sally",
+     "سالي"
+    ]
+   ]
   },
   {
    "q": "What is the name of the kind scullery maid who becomes Sally's best friend?",
    "a": "Becky",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "Sally",
+     "سالي"
+    ]
+   ]
   },
   {
    "q": "What is the name of the spoiled rival pupil who bullies Sally?",
@@ -1202,6 +1355,12 @@
    "p": 600,
    "alt": [
     "Lavinia Herbert"
+   ],
+   "qar": [
+    [
+     "Sally",
+     "سالي"
+    ]
    ]
   },
   {
@@ -1225,9 +1384,14 @@
    "q": "What is the name of Maya's lazy drone friend, called Nahoul in Arabic?",
    "a": "Willy",
    "p": 400,
-   "ar": "نحول",
    "alt": [
     "Willi"
+   ],
+   "qar": [
+    [
+     "Nahoul",
+     "نحول"
+    ]
    ]
   },
   {
@@ -1321,8 +1485,13 @@
    "q": "Which wrestling anime is known in Arabic as 'Al-Nimr Al-Muqanna'?",
    "a": "Tiger Mask",
    "p": 400,
-   "ar": "النمر المقنع",
-   "apic": "Tiger Mask"
+   "apic": "Tiger Mask",
+   "qar": [
+    [
+     "Al-Nimr Al-Muqanna",
+     "النمر المقنع"
+    ]
+   ]
   },
   {
    "q": "Which sport does the hero of Tiger Mask compete in?",
@@ -1345,11 +1514,16 @@
    "q": "Which anime is known in Arabic as 'Al-Qannas'?",
    "a": "Hunter x Hunter",
    "p": 400,
-   "ar": "القناص",
    "alt": [
     "HxH"
    ],
-   "apic": "Hunter × Hunter"
+   "apic": "Hunter × Hunter",
+   "qar": [
+    [
+     "Al-Qannas",
+     "القناص"
+    ]
+   ]
   },
   {
    "q": "What is the Arabic title of Digimon Adventure on Spacetoon?",

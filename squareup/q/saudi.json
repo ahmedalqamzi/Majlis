@@ -22,7 +22,13 @@
     "Mekka"
    ],
    "pic": "Kaaba",
-   "apic": "Mecca"
+   "apic": "Mecca",
+   "qar": [
+    [
+     "Kaaba",
+     "الكعبة"
+    ]
+   ]
   },
   {
    "q": "In which city is the Prophet's Mosque located?",
@@ -78,7 +84,17 @@
     "Al-Hilal",
     "Hilal"
    ],
-   "apic": "Al Hilal SFC"
+   "apic": "Al Hilal SFC",
+   "qar": [
+    [
+     "Riyadh",
+     "الرياض"
+    ],
+    [
+     "Al-Za'eem",
+     "الزعيم"
+    ]
+   ]
   },
   {
    "q": "Which Portuguese football superstar joined Al Nassr in December 2022?",
@@ -89,13 +105,18 @@
     "CR7"
    ],
    "pic": "Al Nassr FC",
-   "apic": "Cristiano Ronaldo"
+   "apic": "Cristiano Ronaldo",
+   "qar": [
+    [
+     "Al Nassr",
+     "النصر"
+    ]
+   ]
   },
   {
    "q": "Which fruit is traditionally served with Arabic coffee?",
    "a": "Dates",
    "p": 200,
-   "ar": "تمر",
    "alt": [
     "Tamr",
     "Date"
@@ -117,7 +138,6 @@
    "q": "Which sea forms Saudi Arabia's western coastline?",
    "a": "Red Sea",
    "p": 200,
-   "ar": "البحر الأحمر",
    "apic": "Red Sea"
   },
   {
@@ -128,7 +148,13 @@
    "alt": [
     "Haj"
    ],
-   "apic": "Hajj"
+   "apic": "Hajj",
+   "qar": [
+    [
+     "Mecca",
+     "مكة"
+    ]
+   ]
   },
   {
    "q": "On which date is Saudi National Day marked each year?",
@@ -146,7 +172,17 @@
    "alt": [
     "Opener"
    ],
-   "pic": "Kingdom Centre"
+   "pic": "Kingdom Centre",
+   "qar": [
+    [
+     "Riyadh",
+     "الرياض"
+    ],
+    [
+     "Kingdom Centre",
+     "برج المملكة"
+    ]
+   ]
   },
   {
    "q": "The dramatic cliff known as the Edge of the World lies close to which Saudi capital city?",
@@ -160,13 +196,18 @@
    "a": "Riyadh Season",
    "p": 200,
    "ar": "موسم الرياض",
-   "apic": "Riyadh Season"
+   "apic": "Riyadh Season",
+   "qar": [
+    [
+     "Riyadh",
+     "الرياض"
+    ]
+   ]
   },
   {
    "q": "By what colourful nickname is the Saudi national football team known?",
    "a": "Green Falcons",
    "p": 200,
-   "ar": "الصقور الخضراء",
    "alt": [
     "The Green Falcons",
     "Falcons"
@@ -201,7 +242,13 @@
     "Keffiyeh",
     "Gutra"
    ],
-   "apic": "Keffiyeh"
+   "apic": "Keffiyeh",
+   "qar": [
+    [
+     "agal",
+     "عقال"
+    ]
+   ]
   },
   {
    "q": "Which sacred well near the Kaaba is known for its water?",
@@ -212,7 +259,13 @@
     "Zam Zam",
     "Zamzam well"
    ],
-   "apic": "Zamzam Well"
+   "apic": "Zamzam Well",
+   "qar": [
+    [
+     "Kaaba",
+     "الكعبة"
+    ]
+   ]
   },
   {
    "q": "What is the name of the Great Mosque in Mecca that surrounds the Kaaba?",
@@ -224,13 +277,22 @@
     "Al-Haram Mosque",
     "Sacred Mosque"
    ],
-   "apic": "Great Mosque of Mecca"
+   "apic": "Great Mosque of Mecca",
+   "qar": [
+    [
+     "Mecca",
+     "مكة"
+    ],
+    [
+     "Kaaba",
+     "الكعبة"
+    ]
+   ]
   },
   {
    "q": "What colour is the background of the Saudi flag?",
    "a": "Green",
    "p": 200,
-   "ar": "أخضر",
    "alt": [
     "Green background"
    ]
@@ -243,13 +305,18 @@
    "alt": [
     "Aramco"
    ],
-   "apic": "Saudi Aramco"
+   "apic": "Saudi Aramco",
+   "qar": [
+    [
+     "Dhahran",
+     "الظهران"
+    ]
+   ]
   },
   {
    "q": "Which green pod spice is traditionally added to Saudi coffee?",
    "a": "Cardamom",
    "p": 200,
-   "ar": "هيل",
    "alt": [
     "Hail",
     "Heel",
@@ -278,7 +345,13 @@
    "alt": [
     "Ramadhan"
    ],
-   "apic": "Ramadan"
+   "apic": "Ramadan",
+   "qar": [
+    [
+     "iftar",
+     "إفطار"
+    ]
+   ]
   },
   {
    "q": "Which historic district on the edge of Riyadh served as the capital of the first Saudi state?",
@@ -290,7 +363,13 @@
     "Ad Diriyah",
     "Diriya"
    ],
-   "apic": "Diriyah"
+   "apic": "Diriyah",
+   "qar": [
+    [
+     "Riyadh",
+     "الرياض"
+    ]
+   ]
   },
   {
    "q": "Which Dakar-famous motorsport event moved to Saudi Arabia in 2020?",
@@ -310,13 +389,18 @@
     "Formula One"
    ],
    "pic": "Jeddah Corniche Circuit",
-   "apic": "Formula One"
+   "apic": "Formula One",
+   "qar": [
+    [
+     "Jeddah Corniche Circuit",
+     "حلبة كورنيش جدة"
+    ]
+   ]
   },
   {
    "q": "Which weapon appears beneath the Arabic inscription on the Saudi flag?",
    "a": "Sword",
    "p": 200,
-   "ar": "سيف",
    "alt": [
     "A sword"
    ]
@@ -336,7 +420,6 @@
    "q": "Saudi Arabia occupies most of which large peninsula?",
    "a": "Arabian Peninsula",
    "p": 200,
-   "ar": "شبه الجزيرة العربية",
    "alt": [
     "Arabia",
     "The Arabian Peninsula"
@@ -353,13 +436,18 @@
     "Kaabah",
     "Kaba"
    ],
-   "apic": "Kaaba"
+   "apic": "Kaaba",
+   "qar": [
+    [
+     "Mecca",
+     "مكة"
+    ]
+   ]
   },
   {
    "q": "Which animal, nicknamed the 'ship of the desert', has long been central to Bedouin life in Arabia?",
    "a": "Camel",
    "p": 200,
-   "ar": "جمل",
    "alt": [
     "Dromedary",
     "Jamal"
@@ -370,7 +458,17 @@
    "q": "In which year was Hegra, near AlUla, inscribed as Saudi Arabia's first UNESCO World Heritage Site?",
    "a": "2008",
    "p": 400,
-   "pic": "Hegra (Mada'in Salih)"
+   "pic": "Hegra (Mada'in Salih)",
+   "qar": [
+    [
+     "Hegra",
+     "الحجر"
+    ],
+    [
+     "AlUla",
+     "العلا"
+    ]
+   ]
   },
   {
    "q": "Which ancient civilization carved the monumental tombs of Hegra, also known for building Petra?",
@@ -382,7 +480,17 @@
     "Nabatean"
    ],
    "pic": "Hegra (Mada'in Salih)",
-   "apic": "Nabataeans"
+   "apic": "Nabataeans",
+   "qar": [
+    [
+     "Hegra",
+     "الحجر"
+    ],
+    [
+     "Petra",
+     "البتراء"
+    ]
+   ]
   },
   {
    "q": "Which isolated tomb at Hegra has a name meaning 'Lonely Castle'?",
@@ -393,7 +501,13 @@
     "Qasr Al Farid",
     "Qasr alFarid"
    ],
-   "apic": "Qasr al-Farid"
+   "apic": "Qasr al-Farid",
+   "qar": [
+    [
+     "Hegra",
+     "الحجر"
+    ]
+   ]
   },
   {
    "q": "What is the English name of the AlUla sandstone formation called Jabal AlFil?",
@@ -404,7 +518,17 @@
     "Jabal AlFil",
     "Jabal Al Fil"
    ],
-   "apic": "Elephant Rock (Saudi Arabia)"
+   "apic": "Elephant Rock (Saudi Arabia)",
+   "qar": [
+    [
+     "AlUla",
+     "العلا"
+    ],
+    [
+     "Jabal AlFil",
+     "جبل الفيل"
+    ]
+   ]
   },
   {
    "q": "What is the name of the mirror-clad concert hall in the AlUla desert?",
@@ -414,7 +538,13 @@
    "alt": [
     "Maraya Hall"
    ],
-   "apic": "Maraya (building)"
+   "apic": "Maraya (building)",
+   "qar": [
+    [
+     "AlUla",
+     "العلا"
+    ]
+   ]
   },
   {
    "q": "Roughly how tall is Riyadh's Kingdom Centre, in metres?",
@@ -424,7 +554,17 @@
     "302",
     "302 m"
    ],
-   "pic": "Kingdom Centre"
+   "pic": "Kingdom Centre",
+   "qar": [
+    [
+     "Riyadh",
+     "الرياض"
+    ],
+    [
+     "Kingdom Centre",
+     "برج المملكة"
+    ]
+   ]
   },
   {
    "q": "Which Diriyah district, a UNESCO World Heritage Site, preserves the mud-brick heart of the first Saudi state?",
@@ -436,17 +576,35 @@
     "At Turaif",
     "Al Turaif"
    ],
-   "apic": "At-Turaif"
+   "apic": "At-Turaif",
+   "qar": [
+    [
+     "Diriyah",
+     "الدرعية"
+    ]
+   ]
   },
   {
    "q": "In which year was Al Hilal founded?",
    "a": "1957",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "Al Hilal",
+     "الهلال"
+    ]
+   ]
   },
   {
    "q": "In which year was Al Nassr founded?",
    "a": "1955",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "Al Nassr",
+     "النصر"
+    ]
+   ]
   },
   {
    "q": "Which Al Hilal striker played at the 1994, 1998, 2002 and 2006 World Cups?",
@@ -457,7 +615,13 @@
     "Sami Al Jaber",
     "Al-Jaber"
    ],
-   "apic": "Sami Al-Jaber"
+   "apic": "Sami Al-Jaber",
+   "qar": [
+    [
+     "Al Hilal",
+     "الهلال"
+    ]
+   ]
   },
   {
    "q": "Which Saudi forward scored a famous solo goal against Belgium at the 1994 World Cup?",
@@ -490,7 +654,13 @@
    "alt": [
     "Talal Madah"
    ],
-   "apic": "Talal Maddah"
+   "apic": "Talal Maddah",
+   "qar": [
+    [
+     "Sawt Al Ard",
+     "صوت الأرض"
+    ]
+   ]
   },
   {
    "q": "Which Saudi singer is widely known as 'Fannan al-Arab' (Artist of the Arabs)?",
@@ -501,7 +671,13 @@
     "Mohammad Abdo",
     "Mohammed Abdo"
    ],
-   "apic": "Mohammed Abdu"
+   "apic": "Mohammed Abdu",
+   "qar": [
+    [
+     "Fannan al-Arab",
+     "فنان العرب"
+    ]
+   ]
   },
   {
    "q": "Which Hijazi dish of rice cooked with chicken and milk or broth, creamy and mild, is popular in Jeddah and Mecca?",
@@ -511,6 +687,20 @@
    "alt": [
     "Salig",
     "Saliq"
+   ],
+   "qar": [
+    [
+     "Hijazi",
+     "حجازي"
+    ],
+    [
+     "Jeddah",
+     "جدة"
+    ],
+    [
+     "Mecca",
+     "مكة"
+    ]
    ]
   },
   {
@@ -533,12 +723,32 @@
     "Haramain High Speed Railway",
     "Haramain Express"
    ],
-   "apic": "Haramain High-Speed Railway"
+   "apic": "Haramain High-Speed Railway",
+   "qar": [
+    [
+     "Mecca",
+     "مكة"
+    ],
+    [
+     "Medina",
+     "المدينة المنورة"
+    ],
+    [
+     "Jeddah",
+     "جدة"
+    ]
+   ]
   },
   {
    "q": "In which year did Riyadh Season begin?",
    "a": "2019",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "Riyadh Season",
+     "موسم الرياض"
+    ]
+   ]
   },
   {
    "q": "Which sport is the Saudi Cup, held at King Abdulaziz Racecourse in Riyadh since 2020?",
@@ -548,7 +758,17 @@
     "Horse race"
    ],
    "pic": "Saudi Cup",
-   "apic": "Horse racing"
+   "apic": "Horse racing",
+   "qar": [
+    [
+     "King Abdulaziz Racecourse",
+     "ميدان الملك عبدالعزيز"
+    ],
+    [
+     "Riyadh",
+     "الرياض"
+    ]
+   ]
   },
   {
    "q": "What is the name of the traditional Saudi sword dance?",
@@ -583,21 +803,43 @@
   {
    "q": "In which year was oil discovered in commercial quantities at Dammam Well No. 7?",
    "a": "1938",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "Dammam",
+     "الدمام"
+    ]
+   ]
   },
   {
    "q": "Which tent city near Mecca hosts pilgrims during the Hajj?",
    "a": "Mina",
    "p": 400,
    "ar": "منى",
-   "apic": "Mina, Saudi Arabia"
+   "apic": "Mina, Saudi Arabia",
+   "qar": [
+    [
+     "Mecca",
+     "مكة"
+    ],
+    [
+     "Hajj",
+     "الحج"
+    ]
+   ]
   },
   {
    "q": "Which mountain city is the capital of Saudi Arabia's Asir region?",
    "a": "Abha",
    "p": 400,
    "ar": "أبها",
-   "apic": "Abha"
+   "apic": "Abha",
+   "qar": [
+    [
+     "Asir",
+     "عسير"
+    ]
+   ]
   },
   {
    "q": "Which cool highland city near Mecca is famous for its roses?",
@@ -608,7 +850,13 @@
     "At-Taif",
     "Ta'if"
    ],
-   "apic": "Taif"
+   "apic": "Taif",
+   "qar": [
+    [
+     "Mecca",
+     "مكة"
+    ]
+   ]
   },
   {
    "q": "Who scored Saudi Arabia's winning goal against Argentina at the 2022 World Cup?",
@@ -630,7 +878,21 @@
     "Hijaz",
     "Al Hijaz"
    ],
-   "apic": "Hejaz"
+   "apic": "Hejaz",
+   "qar": [
+    [
+     "Mecca",
+     "مكة"
+    ],
+    [
+     "Medina",
+     "المدينة المنورة"
+    ],
+    [
+     "Jeddah",
+     "جدة"
+    ]
+   ]
   },
   {
    "q": "Which eastern oasis, a UNESCO site since 2018, is among the world's largest date-palm oases?",
@@ -653,7 +915,13 @@
     "Al Balad",
     "Historic Jeddah"
    ],
-   "apic": "Al-Balad, Jeddah"
+   "apic": "Al-Balad, Jeddah",
+   "qar": [
+    [
+     "Jeddah",
+     "جدة"
+    ]
+   ]
   },
   {
    "q": "What is the name of the ritual of circling the Kaaba seven times?",
@@ -664,7 +932,13 @@
     "Tawaaf"
    ],
    "pic": "Kaaba",
-   "apic": "Tawaf"
+   "apic": "Tawaf",
+   "qar": [
+    [
+     "Kaaba",
+     "الكعبة"
+    ]
+   ]
   },
   {
    "q": "On which hill or mountain do pilgrims stand on the ninth day of the Hajj?",
@@ -676,7 +950,13 @@
     "Jabal Arafat",
     "Arafah"
    ],
-   "apic": "Mount Arafat"
+   "apic": "Mount Arafat",
+   "qar": [
+    [
+     "Hajj",
+     "الحج"
+    ]
+   ]
   },
   {
    "q": "What is the name of Saudi Arabia's national flag carrier airline?",
@@ -692,12 +972,17 @@
    "q": "Which ancient trade route carrying frankincense and myrrh passed through AlUla?",
    "a": "Incense Route",
    "p": 400,
-   "ar": "طريق البخور",
    "alt": [
     "Incense Road",
     "Incense Trail"
    ],
-   "apic": "Incense Route"
+   "apic": "Incense Route",
+   "qar": [
+    [
+     "AlUla",
+     "العلا"
+    ]
+   ]
   },
   {
    "q": "What is the local Arabic name of the Tuwaiq escarpment cliff popularly called the Edge of the World?",
@@ -707,6 +992,12 @@
    "alt": [
     "Jabal Fihrayn",
     "Jebel Fihrain"
+   ],
+   "qar": [
+    [
+     "Tuwaiq",
+     "طويق"
+    ]
    ]
   },
   {
@@ -716,6 +1007,16 @@
    "ar": "دادان",
    "alt": [
     "Dedan"
+   ],
+   "qar": [
+    [
+     "Lihyanite",
+     "اللحيانية"
+    ],
+    [
+     "AlUla",
+     "العلا"
+    ]
    ]
   },
   {
@@ -726,6 +1027,12 @@
    "alt": [
     "Dhu Ghabat",
     "Dhu-Gabat"
+   ],
+   "qar": [
+    [
+     "Lihyanites",
+     "اللحيانيون"
+    ]
    ]
   },
   {
@@ -744,12 +1051,24 @@
    "alt": [
     "Salwa",
     "Qasr Salwa"
+   ],
+   "qar": [
+    [
+     "At-Turaif",
+     "الطريف"
+    ]
    ]
   },
   {
    "q": "In which year did Al Hilal win its first Asian club championship?",
    "a": "1991",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Al Hilal",
+     "الهلال"
+    ]
+   ]
   },
   {
    "q": "Which Al Nassr striker, nicknamed 'The Sniper' (Al-Qannas), is among Saudi football's greatest?",
@@ -760,7 +1079,17 @@
     "Majed Abdulla",
     "Majid Abdullah"
    ],
-   "apic": "Majed Abdullah"
+   "apic": "Majed Abdullah",
+   "qar": [
+    [
+     "Al Nassr",
+     "النصر"
+    ],
+    [
+     "Al-Qannas",
+     "القناص"
+    ]
+   ]
   },
   {
    "q": "Which date-filled cookie from the Qassim region is a traditional Saudi treat, especially around Eid?",
@@ -771,6 +1100,16 @@
     "Klaija",
     "Kleeja",
     "Kliecha"
+   ],
+   "qar": [
+    [
+     "Qassim",
+     "القصيم"
+    ],
+    [
+     "Eid",
+     "العيد"
+    ]
    ]
   },
   {
@@ -782,6 +1121,12 @@
     "Margoog",
     "Marqouq",
     "Margooq"
+   ],
+   "qar": [
+    [
+     "Najdi",
+     "نجدي"
+    ]
    ]
   },
   {
@@ -790,13 +1135,25 @@
    "p": 600,
    "ar": "البحرين",
    "pic": "King Fahd Causeway",
-   "apic": "Bahrain"
+   "apic": "Bahrain",
+   "qar": [
+    [
+     "King Fahd Causeway",
+     "جسر الملك فهد"
+    ]
+   ]
   },
   {
    "q": "In which year was the King Fahd Causeway opened?",
    "a": "1986",
    "p": 600,
-   "pic": "King Fahd Causeway"
+   "pic": "King Fahd Causeway",
+   "qar": [
+    [
+     "King Fahd Causeway",
+     "جسر الملك فهد"
+    ]
+   ]
   },
   {
    "q": "Which US company signed the 1933 oil concession with Saudi Arabia?",
@@ -818,7 +1175,17 @@
     "Hijaz Railway",
     "Hedjaz Railway"
    ],
-   "apic": "Hejaz Railway"
+   "apic": "Hejaz Railway",
+   "qar": [
+    [
+     "Damascus",
+     "دمشق"
+    ],
+    [
+     "Medina",
+     "المدينة المنورة"
+    ]
+   ]
   },
   {
    "q": "Prince Sultan bin Salman became the first Arab in space in 1985 aboard which space shuttle?",
@@ -828,7 +1195,13 @@
     "Space Shuttle Discovery"
    ],
    "pic": "Sultan bin Salman Al Saud",
-   "apic": "Space Shuttle Discovery"
+   "apic": "Space Shuttle Discovery",
+   "qar": [
+    [
+     "Prince Sultan bin Salman",
+     "الأمير سلطان بن سلمان"
+    ]
+   ]
   },
   {
    "q": "Which Saudi athlete won silver in the 400 metres hurdles at the 2000 Sydney Olympics?",
@@ -849,7 +1222,17 @@
    "alt": [
     "King Abdulaziz Center for World Culture"
    ],
-   "apic": "King Abdulaziz Center for World Culture"
+   "apic": "King Abdulaziz Center for World Culture",
+   "qar": [
+    [
+     "Aramco",
+     "أرامكو"
+    ],
+    [
+     "Dhahran",
+     "الظهران"
+    ]
+   ]
   },
   {
    "q": "Which clay-brick fortress in Riyadh was the site of the 1902 recapture of the city?",
@@ -861,7 +1244,13 @@
     "Masmak Fort",
     "Masmak"
    ],
-   "apic": "Masmak fort"
+   "apic": "Masmak fort",
+   "qar": [
+    [
+     "Riyadh",
+     "الرياض"
+    ]
+   ]
   },
   {
    "q": "Rock art at Jubbah is part of the UNESCO listing for which northern Saudi region?",
@@ -872,7 +1261,13 @@
     "Ha'il"
    ],
    "pic": "Rock Art in the Hail Region",
-   "apic": "Ha'il Province"
+   "apic": "Ha'il Province",
+   "qar": [
+    [
+     "Jubbah",
+     "جبة"
+    ]
+   ]
   },
   {
    "q": "Which Red Sea archipelago off Jazan is known for its marine life and Ottoman-era buildings?",
@@ -882,7 +1277,13 @@
    "alt": [
     "Farasan"
    ],
-   "apic": "Farasan Islands"
+   "apic": "Farasan Islands",
+   "qar": [
+    [
+     "Jazan",
+     "جازان"
+    ]
+   ]
   },
   {
    "q": "What is the Hejazi name for the carved wooden bay windows on the old houses of Jeddah's Al-Balad?",
@@ -893,6 +1294,20 @@
     "Roshan",
     "Rowshan",
     "Rawasheen"
+   ],
+   "qar": [
+    [
+     "Hejazi",
+     "حجازي"
+    ],
+    [
+     "Jeddah",
+     "جدة"
+    ],
+    [
+     "Al-Balad",
+     "البلد"
+    ]
    ]
   },
   {
@@ -905,7 +1320,13 @@
     "Ukaz",
     "Souk Okaz"
    ],
-   "apic": "Souq Okaz"
+   "apic": "Souq Okaz",
+   "qar": [
+    [
+     "Taif",
+     "الطائف"
+    ]
+   ]
   },
   {
    "q": "Which valley runs through Riyadh and is a well-known green corridor in the city?",
@@ -915,7 +1336,13 @@
    "alt": [
     "Wadi Hanifah"
    ],
-   "apic": "Wadi Hanifa"
+   "apic": "Wadi Hanifa",
+   "qar": [
+    [
+     "Riyadh",
+     "الرياض"
+    ]
+   ]
   },
   {
    "q": "Under what combined name was the kingdom known before being renamed Saudi Arabia in 1932?",
@@ -947,13 +1374,18 @@
    "alt": [
     "Al Janadriyah",
     "Janadriyah Festival"
+   ],
+   "qar": [
+    [
+     "Riyadh",
+     "الرياض"
+    ]
    ]
   },
   {
    "q": "Which critically endangered big cat native to the Arabian Peninsula is protected in Saudi nature reserves?",
    "a": "Arabian leopard",
    "p": 600,
-   "ar": "النمر العربي",
    "alt": [
     "Arabian Leopard"
    ],
@@ -969,7 +1401,13 @@
     "Jabal Souda",
     "Sawda"
    ],
-   "apic": "Jabal Sawda"
+   "apic": "Jabal Sawda",
+   "qar": [
+    [
+     "Abha",
+     "أبها"
+    ]
+   ]
   },
   {
    "q": "Which host country did Saudi Arabia defeat on penalties in the 1996 Asian Cup final?",
@@ -1000,14 +1438,26 @@
     "Makkah Royal Clock Tower",
     "Royal Clock Tower"
    ],
-   "apic": "Abraj Al Bait"
+   "apic": "Abraj Al Bait",
+   "qar": [
+    [
+     "Mecca",
+     "مكة"
+    ]
+   ]
   },
   {
    "q": "What is the name of the planned linear city in Saudi Arabia's NEOM region?",
    "a": "The Line",
    "p": 200,
    "ar": "ذا لاين",
-   "apic": "The Line, Saudi Arabia"
+   "apic": "The Line, Saudi Arabia",
+   "qar": [
+    [
+     "NEOM",
+     "نيوم"
+    ]
+   ]
   },
   {
    "q": "Which mega-project region in north-west Saudi Arabia includes The Line?",
@@ -1027,14 +1477,26 @@
    "a": "Neymar",
    "p": 200,
    "pic": "Al Hilal SFC",
-   "apic": "Neymar"
+   "apic": "Neymar",
+   "qar": [
+    [
+     "Al Hilal",
+     "الهلال"
+    ]
+   ]
   },
   {
    "q": "Which French Ballon d'Or winner joined Al-Ittihad in 2023?",
    "a": "Karim Benzema",
    "p": 200,
    "pic": "Ittihad FC",
-   "apic": "Karim Benzema"
+   "apic": "Karim Benzema",
+   "qar": [
+    [
+     "Al-Ittihad",
+     "الاتحاد"
+    ]
+   ]
   },
   {
    "q": "Which Riyadh tower, the city's first skyscraper, has a golden glass globe near its top?",
@@ -1045,7 +1507,13 @@
     "Al Faisaliah",
     "Faisaliah Center"
    ],
-   "apic": "Al Faisaliah Tower"
+   "apic": "Al Faisaliah Tower",
+   "qar": [
+    [
+     "Riyadh",
+     "الرياض"
+    ]
+   ]
   },
   {
    "q": "What is the name of Saudi Arabia's top-flight football league?",
@@ -1086,7 +1554,13 @@
     "King Khalid bin Abdulaziz"
    ],
    "pic": "King Khalid International Airport",
-   "apic": "Khalid of Saudi Arabia"
+   "apic": "Khalid of Saudi Arabia",
+   "qar": [
+    [
+     "Riyadh",
+     "الرياض"
+    ]
+   ]
   },
   {
    "q": "Jeddah's main international airport is named after which king?",
@@ -1097,7 +1571,13 @@
     "Ibn Saud"
    ],
    "pic": "King Abdulaziz International Airport",
-   "apic": "Ibn Saud"
+   "apic": "Ibn Saud",
+   "qar": [
+    [
+     "Jeddah",
+     "جدة"
+    ]
+   ]
   },
   {
    "q": "Which long escarpment runs through central Saudi Arabia past Riyadh?",
@@ -1108,7 +1588,13 @@
     "Jabal Tuwaiq",
     "Tuwaiq Escarpment"
    ],
-   "apic": "Tuwaiq Escarpment"
+   "apic": "Tuwaiq Escarpment",
+   "qar": [
+    [
+     "Riyadh",
+     "الرياض"
+    ]
+   ]
   },
   {
    "q": "On which date is Saudi Founding Day celebrated each year?",
@@ -1128,14 +1614,30 @@
     "Al Qassim"
    ],
    "pic": "Buraidah",
-   "apic": "Al-Qassim Province"
+   "apic": "Al-Qassim Province",
+   "qar": [
+    [
+     "Buraydah",
+     "بريدة"
+    ],
+    [
+     "Sukkari",
+     "السكري"
+    ]
+   ]
   },
   {
    "q": "Which soft, dark date from Medina is among the most prized in the Muslim world?",
    "a": "Ajwa",
    "p": 400,
    "ar": "عجوة",
-   "apic": "Ajwa"
+   "apic": "Ajwa",
+   "qar": [
+    [
+     "Medina",
+     "المدينة المنورة"
+    ]
+   ]
   },
   {
    "q": "Which Jeddah football club, founded in 1927, is nicknamed 'The Tigers'?",
@@ -1146,7 +1648,13 @@
     "Ittihad",
     "Al Ittihad"
    ],
-   "apic": "Ittihad FC"
+   "apic": "Ittihad FC",
+   "qar": [
+    [
+     "Jeddah",
+     "جدة"
+    ]
+   ]
   },
   {
    "q": "Which Jeddah club in green and white is Al-Ittihad's great city rival?",
@@ -1157,7 +1665,17 @@
     "Al Ahli",
     "Ahli"
    ],
-   "apic": "Al-Ahli Saudi FC"
+   "apic": "Al-Ahli Saudi FC",
+   "qar": [
+    [
+     "Jeddah",
+     "جدة"
+    ],
+    [
+     "Al-Ittihad",
+     "الاتحاد"
+    ]
+   ]
   },
   {
    "q": "Which Senegalese forward joined Al Nassr from Bayern Munich in 2023?",
@@ -1167,7 +1685,13 @@
     "Sadio Mane"
    ],
    "pic": "Al Nassr FC",
-   "apic": "Sadio Mané"
+   "apic": "Sadio Mané",
+   "qar": [
+    [
+     "Al Nassr",
+     "النصر"
+    ]
+   ]
   },
   {
    "q": "Saudi Arabia was awarded which year's AFC Asian Cup, its first time as host?",
@@ -1178,14 +1702,30 @@
    "q": "Which annual video-gaming tournament has been held in Riyadh every summer since 2024?",
    "a": "Esports World Cup",
    "p": 400,
-   "apic": "Esports World Cup"
+   "apic": "Esports World Cup",
+   "qar": [
+    [
+     "Riyadh",
+     "الرياض"
+    ]
+   ]
   },
   {
    "q": "Which entertainment and sports mega-project is being built near Riyadh, on the Tuwaiq cliffs?",
    "a": "Qiddiya",
    "p": 400,
    "ar": "القدية",
-   "apic": "Qiddiya"
+   "apic": "Qiddiya",
+   "qar": [
+    [
+     "Riyadh",
+     "الرياض"
+    ],
+    [
+     "Tuwaiq",
+     "طويق"
+    ]
+   ]
   },
   {
    "q": "Which Jeddah mosque, built on stilts over the Red Sea, is nicknamed the Floating Mosque?",
@@ -1196,7 +1736,13 @@
     "Al Rahmah Mosque",
     "Fatima Al-Zahra Mosque"
    ],
-   "apic": "Al-Rahma Mosque"
+   "apic": "Al-Rahma Mosque",
+   "qar": [
+    [
+     "Jeddah",
+     "جدة"
+    ]
+   ]
   },
   {
    "q": "Which giant Jeddah water jet, shooting up to about 260 m, is named after a Saudi king?",
@@ -1207,15 +1753,26 @@
     "King Fahd Fountain",
     "Jeddah Fountain"
    ],
-   "apic": "King Fahd's Fountain"
+   "apic": "King Fahd's Fountain",
+   "qar": [
+    [
+     "Jeddah",
+     "جدة"
+    ]
+   ]
   },
   {
    "q": "Jeddah's name is popularly linked to the Arabic word for which family member?",
    "a": "Grandmother",
    "p": 400,
-   "ar": "جدة",
    "alt": [
     "Grandma"
+   ],
+   "qar": [
+    [
+     "Jeddah",
+     "جدة"
+    ]
    ]
   },
   {
@@ -1237,7 +1794,17 @@
    "alt": [
     "Nejd"
    ],
-   "apic": "Najd"
+   "apic": "Najd",
+   "qar": [
+    [
+     "Riyadh",
+     "الرياض"
+    ],
+    [
+     "Al Saud",
+     "آل سعود"
+    ]
+   ]
   },
   {
    "q": "Which Saudi field is the largest conventional oilfield in the world?",
@@ -1259,7 +1826,13 @@
    "q": "Which Saudi petrochemicals giant is known by the acronym SABIC?",
    "a": "Saudi Basic Industries Corporation",
    "p": 400,
-   "apic": "SABIC"
+   "apic": "SABIC",
+   "qar": [
+    [
+     "SABIC",
+     "سابك"
+    ]
+   ]
   },
   {
    "q": "What does PIF, Saudi Arabia's sovereign wealth fund, stand for?",
@@ -1275,6 +1848,12 @@
    "ar": "هللة",
    "alt": [
     "Halalah"
+   ],
+   "qar": [
+    [
+     "riyal",
+     "ريال"
+    ]
    ]
   },
   {
@@ -1285,7 +1864,13 @@
    "alt": [
     "King Abdullah University of Science and Technology"
    ],
-   "apic": "King Abdullah University of Science and Technology"
+   "apic": "King Abdullah University of Science and Technology",
+   "qar": [
+    [
+     "Thuwal",
+     "ثول"
+    ]
+   ]
   },
   {
    "q": "Which Saudi film by Haifaa al-Mansour, about a girl who wants a bicycle, was the first feature shot entirely in the kingdom?",
@@ -1293,7 +1878,13 @@
    "p": 400,
    "ar": "وجدة",
    "pic": "Haifaa al-Mansour",
-   "apic": "Wadjda"
+   "apic": "Wadjda",
+   "qar": [
+    [
+     "Haifaa al-Mansour",
+     "هيفاء المنصور"
+    ]
+   ]
   },
   {
    "q": "Who scored Saudi Arabia's equaliser against Argentina at the 2022 World Cup?",
@@ -1325,7 +1916,13 @@
    "alt": [
     "Yanbu al-Bahr"
    ],
-   "apic": "Yanbu"
+   "apic": "Yanbu",
+   "qar": [
+    [
+     "Medina",
+     "المدينة المنورة"
+    ]
+   ]
   },
   {
    "q": "Which Gulf coast city is Saudi Arabia's largest industrial hub, twinned with Yanbu?",
@@ -1335,7 +1932,13 @@
    "alt": [
     "Al Jubail"
    ],
-   "apic": "Jubail"
+   "apic": "Jubail",
+   "qar": [
+    [
+     "Yanbu",
+     "ينبع"
+    ]
+   ]
   },
   {
    "q": "Which son of King Abdulaziz became the second king of Saudi Arabia in 1953?",
@@ -1345,7 +1948,13 @@
    "alt": [
     "Saud bin Abdulaziz"
    ],
-   "apic": "Saud of Saudi Arabia"
+   "apic": "Saud of Saudi Arabia",
+   "qar": [
+    [
+     "King Abdulaziz",
+     "الملك عبدالعزيز"
+    ]
+   ]
   },
   {
    "q": "The Saudi Founding Day commemorates the founding of the first Saudi state in which year?",
@@ -1356,7 +1965,6 @@
    "q": "Saudi Arabia declared 2022 the Year of which drink?",
    "a": "Saudi Coffee",
    "p": 600,
-   "ar": "القهوة السعودية",
    "alt": [
     "Coffee"
    ],
@@ -1371,7 +1979,13 @@
     "Jizan",
     "Gizan"
    ],
-   "apic": "Jizan Province"
+   "apic": "Jizan Province",
+   "qar": [
+    [
+     "Khawlani",
+     "الخولاني"
+    ]
+   ]
   },
   {
    "q": "Which AlUla mountain is called an 'open library' for its hundreds of ancient inscriptions?",
@@ -1380,6 +1994,12 @@
    "ar": "جبل عكمة",
    "alt": [
     "Ikmah"
+   ],
+   "qar": [
+    [
+     "AlUla",
+     "العلا"
+    ]
    ]
   },
   {
@@ -1390,7 +2010,13 @@
    "alt": [
     "Tantora"
    ],
-   "apic": "Winter at Tantora"
+   "apic": "Winter at Tantora",
+   "qar": [
+    [
+     "AlUla",
+     "العلا"
+    ]
+   ]
   },
   {
    "q": "Which narrow red-sand desert links the Nafud with the Empty Quarter?",
@@ -1400,12 +2026,24 @@
    "alt": [
     "Dahna"
    ],
-   "apic": "Ad-Dahna desert"
+   "apic": "Ad-Dahna desert",
+   "qar": [
+    [
+     "Nafud",
+     "النفود"
+    ]
+   ]
   },
   {
    "q": "Which American geologist is credited with the 1938 oil strike at Dammam No. 7?",
    "a": "Max Steineke",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Dammam",
+     "الدمام"
+    ]
+   ]
   },
   {
    "q": "What nickname was given to Dammam Well No. 7 after its 1938 discovery?",
@@ -1415,12 +2053,24 @@
    "alt": [
     "Bir Al-Khair",
     "Well of Prosperity"
+   ],
+   "qar": [
+    [
+     "Dammam",
+     "الدمام"
+    ]
    ]
   },
   {
    "q": "In which year was Aramco renamed Saudi Aramco?",
    "a": "1988",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Aramco",
+     "أرامكو"
+    ]
+   ]
   },
   {
    "q": "At what fixed rate, in riyals, has the Saudi riyal been pegged to one US dollar since 1986?",
@@ -1428,6 +2078,12 @@
    "p": 600,
    "alt": [
     "3.75 riyals"
+   ],
+   "qar": [
+    [
+     "Saudi riyal",
+     "الريال السعودي"
+    ]
    ]
   },
   {
@@ -1454,6 +2110,12 @@
    "p": 600,
    "alt": [
     "Clash on the Dunes"
+   ],
+   "qar": [
+    [
+     "Diriyah",
+     "الدرعية"
+    ]
    ]
   },
   {
@@ -1470,7 +2132,13 @@
    "p": 600,
    "ar": "الظهران",
    "pic": "King Fahd University of Petroleum and Minerals",
-   "apic": "Dhahran"
+   "apic": "Dhahran",
+   "qar": [
+    [
+     "King Fahd University of Petroleum and Minerals",
+     "جامعة الملك فهد للبترول والمعادن"
+    ]
+   ]
   },
   {
    "q": "Which English Premier League club was bought by a Saudi-led consortium in 2021?",
@@ -1512,7 +2180,13 @@
    "a": "flyadeal",
    "p": 600,
    "ar": "طيران أديل",
-   "apic": "Flyadeal"
+   "apic": "Flyadeal",
+   "qar": [
+    [
+     "Saudia",
+     "السعودية"
+    ]
+   ]
   },
   {
    "q": "Which traditional wall painting by the women of Asir was inscribed by UNESCO in 2017?",
@@ -1522,6 +2196,12 @@
    "alt": [
     "Al Qatt",
     "Qatt Asiri"
+   ],
+   "qar": [
+    [
+     "Asir",
+     "عسير"
+    ]
    ]
   },
   {
@@ -1533,7 +2213,13 @@
     "Rijal Alma",
     "Rijal Almaa village"
    ],
-   "apic": "Rijal Almaa"
+   "apic": "Rijal Almaa",
+   "qar": [
+    [
+     "Asir",
+     "عسير"
+    ]
+   ]
   },
   {
    "q": "Which Hejazi breakfast mixes mashed bread with banana, honey and cream?",
@@ -1543,6 +2229,12 @@
    "alt": [
     "Ma'soub",
     "Maasoub"
+   ],
+   "qar": [
+    [
+     "Hejazi",
+     "حجازي"
+    ]
    ]
   },
   {
@@ -1553,7 +2245,17 @@
    "alt": [
     "Al Murabba Palace"
    ],
-   "apic": "Murabba Palace"
+   "apic": "Murabba Palace",
+   "qar": [
+    [
+     "Riyadh",
+     "الرياض"
+    ],
+    [
+     "King Abdulaziz",
+     "الملك عبدالعزيز"
+    ]
+   ]
   },
   {
    "q": "Saudi Arabia's Formula E race is the ePrix of which historic district?",
@@ -1570,7 +2272,13 @@
    "q": "Which Egyptian-Ottoman commander destroyed Diriyah in 1818, ending the first Saudi state?",
    "a": "Ibrahim Pasha",
    "p": 600,
-   "ar": "إبراهيم باشا"
+   "ar": "إبراهيم باشا",
+   "qar": [
+    [
+     "Diriyah",
+     "الدرعية"
+    ]
+   ]
   },
   {
    "q": "Which volcanic crater in western Saudi Arabia, about 2 km across, has a white salt-covered floor?",
@@ -1631,7 +2339,13 @@
     "Ali Al-Qarni"
    ],
    "pic": "Rayyanah Barnawi",
-   "apic": "Ali AlQarni"
+   "apic": "Ali AlQarni",
+   "qar": [
+    [
+     "Rayyanah Barnawi",
+     "ريانة برناوي"
+    ]
+   ]
   },
   {
    "q": "In which equestrian discipline did Saudi Arabia win a team bronze at London 2012?",
@@ -1652,7 +2366,13 @@
     "Saudi Exchange",
     "Saudi Stock Exchange"
    ],
-   "apic": "Saudi Exchange"
+   "apic": "Saudi Exchange",
+   "qar": [
+    [
+     "Saudi Aramco",
+     "أرامكو السعودية"
+    ]
+   ]
   },
   {
    "q": "Which Saudi bank is one of the world's largest Islamic banks?",

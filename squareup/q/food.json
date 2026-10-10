@@ -151,7 +151,6 @@
    "q": "What is the round Arabic flatbread with a pocket called?",
    "a": "Pita",
    "p": 200,
-   "ar": "خبز عربي",
    "alt": [
     "Pitta",
     "Khubz",
@@ -200,7 +199,6 @@
    "q": "Which sweet fruit is traditionally served with Arabic coffee in the Gulf?",
    "a": "Dates",
    "p": 200,
-   "ar": "التمر",
    "alt": [
     "Tamr",
     "Tamar"
@@ -430,7 +428,6 @@
    "q": "Which spice is known as the queen of spices?",
    "a": "Cardamom",
    "p": 400,
-   "ar": "هيل",
    "alt": [
     "Hail",
     "Heil",
@@ -508,14 +505,19 @@
    "q": "Which tangy dark red spice from dried berries is sprinkled on fattoush?",
    "a": "Sumac",
    "p": 400,
-   "ar": "سماق",
    "alt": [
     "Sumak",
     "Sumaq",
     "Summaq",
     "Sumach"
    ],
-   "apic": "Sumac"
+   "apic": "Sumac",
+   "qar": [
+    [
+     "fattoush",
+     "فتوش"
+    ]
+   ]
   },
   {
    "q": "What is the cone-lidded clay pot used in Moroccan cooking called?",
@@ -562,13 +564,19 @@
    "a": "Fava beans",
    "p": 600,
    "pic": "Falafel",
-   "apic": "Vicia faba"
+   "apic": "Vicia faba",
+   "qar": [
+    [
+     "ta'ameya",
+     "طعمية"
+    ]
+   ]
   },
   {
    "q": "Which Emirati pancake-like bread is flavoured with saffron and cardamom?",
    "a": "Chabab",
    "p": 600,
-   "ar": "شباب",
+   "ar": "جباب",
    "alt": [
     "Chebab",
     "Shabab"
@@ -668,7 +676,8 @@
    "q": "Which Moroccan spice blend has a name meaning 'head of the shop'?",
    "a": "Ras el hanout",
    "p": 600,
-   "apic": "Ras el hanout"
+   "apic": "Ras el hanout",
+   "ar": "راس الحانوت"
   },
   {
    "q": "Which cured Italian pork cheek is traditionally used in spaghetti carbonara?",
@@ -699,7 +708,6 @@
    "q": "Which tangy syrup made from reduced pomegranate juice is used in Levantine and Persian cooking?",
    "a": "Pomegranate molasses",
    "p": 600,
-   "ar": "دبس الرمان",
    "alt": [
     "Dibs Rumman"
    ],
@@ -829,7 +837,13 @@
     "Eggplant"
    ],
    "pic": "Baba ghanoush",
-   "apic": "Eggplant"
+   "apic": "Eggplant",
+   "qar": [
+    [
+     "Baba ganoush",
+     "بابا غنوج"
+    ]
+   ]
   },
   {
    "q": "Which leafy vegetable is the base of a Caesar salad?",
@@ -1735,7 +1749,13 @@
     "Baba ghanoush",
     "Mutabbal"
    ],
-   "apic": "Baba ghanoush"
+   "apic": "Baba ghanoush",
+   "qar": [
+    [
+     "moutabal",
+     "متبل"
+    ]
+   ]
   },
   {
    "q": "Nachos were first created in which country?",
@@ -1926,7 +1946,6 @@
    "q": "Which slow-cooked South Asian beef or lamb stew is traditionally eaten for breakfast?",
    "a": "Nihari",
    "p": 600,
-   "ar": "نهاري",
    "apic": "Nihari"
   },
   {
@@ -1934,7 +1953,13 @@
    "a": "Jameed",
    "p": 600,
    "ar": "جميد",
-   "pic": "Mansaf"
+   "pic": "Mansaf",
+   "qar": [
+    [
+     "mansaf",
+     "منسف"
+    ]
+   ]
   },
   {
    "q": "Which hot, thick winter drink in Turkey and the Levant is made with orchid-root flour?",
@@ -2064,7 +2089,6 @@
    "q": "Which flavouring essence is distilled from orange blossoms and used in Middle Eastern sweets?",
    "a": "Orange blossom water",
    "p": 600,
-   "ar": "ماء الزهر",
    "alt": [
     "Mazaher",
     "Orange flower water"

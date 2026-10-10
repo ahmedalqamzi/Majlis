@@ -9,6 +9,12 @@
    "alt": [
     "622 CE",
     "AD 622"
+   ],
+   "qar": [
+    [
+     "Hijra",
+     "الهجرة"
+    ]
    ]
   },
   {
@@ -22,7 +28,17 @@
     "Yathrib",
     "Al Madina"
    ],
-   "apic": "Medina"
+   "apic": "Medina",
+   "qar": [
+    [
+     "Hijra",
+     "الهجرة"
+    ],
+    [
+     "Yathrib",
+     "يثرب"
+    ]
+   ]
   },
   {
    "q": "How many months are in the Islamic calendar?",
@@ -36,7 +52,6 @@
    "q": "Which celestial body does the Islamic calendar follow?",
    "a": "The Moon",
    "p": 200,
-   "ar": "القمر",
    "alt": [
     "Moon",
     "Lunar"
@@ -62,6 +77,12 @@
     "Eid ul-Fitr",
     "Eid",
     "Eid al Fitr"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -73,13 +94,18 @@
     "Iftaar",
     "Futoor"
    ],
-   "apic": "Iftar"
+   "apic": "Iftar",
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
+   ]
   },
   {
    "q": "Which tall, slender tower is a familiar feature of mosques?",
    "a": "Minaret",
    "p": 200,
-   "ar": "مئذنة",
    "alt": [
     "Manara",
     "Manarah",
@@ -91,7 +117,6 @@
    "q": "Which rounded roof structure tops many mosques and historic Islamic buildings?",
    "a": "Dome",
    "p": 200,
-   "ar": "قبة",
    "alt": [
     "Qubba",
     "Cupola",
@@ -109,7 +134,13 @@
     "Grand Mosque",
     "Sheikh Zayed Grand Mosque Abu Dhabi"
    ],
-   "apic": "Sheikh Zayed Grand Mosque"
+   "apic": "Sheikh Zayed Grand Mosque",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "Sheikh Zayed Grand Mosque stands in which UAE city?",
@@ -120,7 +151,13 @@
     "Abu Dhabi city"
    ],
    "pic": "Sheikh Zayed Grand Mosque",
-   "apic": "Abu Dhabi"
+   "apic": "Abu Dhabi",
+   "qar": [
+    [
+     "Sheikh Zayed Grand Mosque",
+     "جامع الشيخ زايد الكبير"
+    ]
+   ]
   },
   {
    "q": "The Sheikh Zayed Grand Mosque is named after which founding father of the UAE?",
@@ -133,7 +170,13 @@
     "Zayed"
    ],
    "pic": "Sheikh Zayed Grand Mosque",
-   "apic": "Zayed bin Sultan Al Nahyan"
+   "apic": "Zayed bin Sultan Al Nahyan",
+   "qar": [
+    [
+     "Sheikh Zayed Grand Mosque",
+     "جامع الشيخ زايد الكبير"
+    ]
+   ]
   },
   {
    "q": "In which city is Al-Masjid al-Haram, the Grand Mosque?",
@@ -146,7 +189,13 @@
     "Mecca"
    ],
    "pic": "Masjid al-Haram",
-   "apic": "Mecca"
+   "apic": "Mecca",
+   "qar": [
+    [
+     "Al-Masjid al-Haram",
+     "المسجد الحرام"
+    ]
+   ]
   },
   {
    "q": "Mecca and Medina are located in which country?",
@@ -157,7 +206,17 @@
     "KSA",
     "Saudi"
    ],
-   "apic": "Saudi Arabia"
+   "apic": "Saudi Arabia",
+   "qar": [
+    [
+     "Mecca",
+     "مكة المكرمة"
+    ],
+    [
+     "Medina",
+     "المدينة المنورة"
+    ]
+   ]
   },
   {
    "q": "Which city was the capital of the Umayyad Caliphate?",
@@ -167,7 +226,13 @@
    "alt": [
     "Dimashq"
    ],
-   "apic": "Damascus"
+   "apic": "Damascus",
+   "qar": [
+    [
+     "Umayyad Caliphate",
+     "الخلافة الأموية"
+    ]
+   ]
   },
   {
    "q": "Which city was the capital of the Abbasid Caliphate?",
@@ -177,13 +242,18 @@
    "alt": [
     "Bagdad"
    ],
-   "apic": "Baghdad"
+   "apic": "Baghdad",
+   "qar": [
+    [
+     "Abbasid Caliphate",
+     "الخلافة العباسية"
+    ]
+   ]
   },
   {
    "q": "Which city was the capital of the Ottoman Empire after 1453?",
    "a": "Istanbul",
    "p": 200,
-   "ar": "إسطنبول",
    "alt": [
     "Constantinople",
     "Istanbul, Turkey"
@@ -194,7 +264,6 @@
    "q": "By what name was Istanbul known before the Ottoman conquest of 1453?",
    "a": "Constantinople",
    "p": 200,
-   "ar": "القسطنطينية",
    "alt": [
     "Konstantiniyye"
    ],
@@ -252,7 +321,13 @@
     "Haj",
     "Hadj"
    ],
-   "apic": "Hajj"
+   "apic": "Hajj",
+   "qar": [
+    [
+     "Mecca",
+     "مكة المكرمة"
+    ]
+   ]
   },
   {
    "q": "Which of the two main Eids is celebrated at the end of the Hajj season?",
@@ -263,6 +338,12 @@
     "Eid ul-Adha",
     "Eid al Adha",
     "Eid Al Adha"
+   ],
+   "qar": [
+    [
+     "Hajj",
+     "الحج"
+    ]
    ]
   },
   {
@@ -296,13 +377,18 @@
    "alt": [
     "Blessing",
     "Blessed one"
+   ],
+   "qar": [
+    [
+     "Mubarak",
+     "مبارك"
+    ]
    ]
   },
   {
    "q": "Which art of beautiful writing is central to Islamic art?",
    "a": "Calligraphy",
    "p": 200,
-   "ar": "الخط العربي",
    "alt": [
     "Arabic calligraphy",
     "Khatt"
@@ -319,7 +405,13 @@
     "Casa"
    ],
    "pic": "Hassan II Mosque",
-   "apic": "Casablanca"
+   "apic": "Casablanca",
+   "qar": [
+    [
+     "Hassan II Mosque",
+     "مسجد الحسن الثاني"
+    ]
+   ]
   },
   {
    "q": "What is the Muslim call to prayer called?",
@@ -348,7 +440,6 @@
    "q": "On which day of the week is the Muslim congregational midday prayer held?",
    "a": "Friday",
    "p": 200,
-   "ar": "الجمعة",
    "alt": [
     "Jumu'ah",
     "Al-Jumu'a",
@@ -359,13 +450,18 @@
    "q": "Which fruit is traditionally eaten first to break the fast during Ramadan?",
    "a": "Dates",
    "p": 200,
-   "ar": "تمر",
    "alt": [
     "Date",
     "Tamr",
     "Tamar"
    ],
-   "apic": "Date palm"
+   "apic": "Date palm",
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
+   ]
   },
   {
    "q": "The Alhambra is a palace complex in which country?",
@@ -381,7 +477,6 @@
    "q": "Which kind of decoration, built from repeating stars and polygons, is typical of Islamic art?",
    "a": "Geometric patterns",
    "p": 200,
-   "ar": "الزخارف الهندسية",
    "alt": [
     "Geometric designs",
     "Geometry",
@@ -408,6 +503,12 @@
    "alt": [
     "Shawal",
     "Shawwaal"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -420,6 +521,12 @@
     "Dhu'l-Hijjah",
     "Zul Hijjah",
     "Dhul-Hijja"
+   ],
+   "qar": [
+    [
+     "Hajj",
+     "الحج"
+    ]
    ]
   },
   {
@@ -440,6 +547,12 @@
     "Shaban",
     "Shaaban",
     "Sha'aban"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -492,7 +605,6 @@
    "q": "What is a roadside inn that hosted traders and their caravans called?",
    "a": "Caravanserai",
    "p": 400,
-   "ar": "خان",
    "alt": [
     "Khan",
     "Han",
@@ -525,7 +637,6 @@
    "q": "What term describes the flowing, repeating plant-like decoration common in Islamic art?",
    "a": "Arabesque",
    "p": 400,
-   "ar": "أرابيسك",
    "alt": [
     "Arabesques",
     "Tawriq"
@@ -580,7 +691,13 @@
     "Al Azhar",
     "Azhar"
    ],
-   "apic": "Al-Azhar Mosque"
+   "apic": "Al-Azhar Mosque",
+   "qar": [
+    [
+     "Cairo",
+     "القاهرة"
+    ]
+   ]
   },
   {
    "q": "Which Dubai mosque, known for its Fatimid-inspired design, welcomes visitors on guided tours?",
@@ -591,7 +708,17 @@
     "Jumeirah Mosque Dubai",
     "Jumeirah Grand Mosque"
    ],
-   "apic": "Jumeirah Mosque"
+   "apic": "Jumeirah Mosque",
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ],
+    [
+     "Fatimid",
+     "الفاطمي"
+    ]
+   ]
   },
   {
    "q": "Which large Istanbul mosque, completed in 1557, overlooks the Golden Horn?",
@@ -614,7 +741,13 @@
     "Masqat"
    ],
    "pic": "Sultan Qaboos Grand Mosque",
-   "apic": "Muscat"
+   "apic": "Muscat",
+   "qar": [
+    [
+     "Sultan Qaboos Grand Mosque",
+     "جامع السلطان قابوس الأكبر"
+    ]
+   ]
   },
   {
    "q": "Which capital city is nicknamed the 'City of a Thousand Minarets'?",
@@ -645,6 +778,16 @@
     "Salah ad-Din",
     "Salahuddin",
     "Saladin Ayyubi"
+   ],
+   "qar": [
+    [
+     "Ayyubid",
+     "الأيوبية"
+    ],
+    [
+     "Cairo",
+     "القاهرة"
+    ]
    ]
   },
   {
@@ -678,6 +821,12 @@
     "Mansa Moussa",
     "Musa I of Mali",
     "Kankan Musa"
+   ],
+   "qar": [
+    [
+     "Mecca",
+     "مكة المكرمة"
+    ]
    ]
   },
   {
@@ -690,7 +839,13 @@
     "Tarik ibn Ziyad",
     "Tariq bin Ziyad"
    ],
-   "pic": "Rock of Gibraltar"
+   "pic": "Rock of Gibraltar",
+   "qar": [
+    [
+     "Jabal Tariq",
+     "جبل طارق"
+    ]
+   ]
   },
   {
    "q": "In which year did Granada, the last Muslim kingdom in Iberia, fall?",
@@ -698,6 +853,12 @@
    "p": 400,
    "alt": [
     "1492 CE"
+   ],
+   "qar": [
+    [
+     "Granada",
+     "غرناطة"
+    ]
    ]
   },
   {
@@ -724,23 +885,33 @@
    "q": "The name Alhambra comes from the Arabic 'al-hamra', meaning which colour?",
    "a": "Red",
    "p": 400,
-   "ar": "الحمراء",
    "alt": [
     "The red one",
     "The Red"
+   ],
+   "qar": [
+    [
+     "al-hamra",
+     "الحمراء"
+    ]
    ]
   },
   {
    "q": "What curved arch type, often in two-tier red-and-white stripes, defines Cordoba's Great Mosque?",
    "a": "Horseshoe arch",
    "p": 400,
-   "ar": "قوس حدوة الحصان",
    "alt": [
     "Moorish arch",
     "Horseshoe arches"
    ],
    "pic": "Mosque–Cathedral of Córdoba",
-   "apic": "Horseshoe arch"
+   "apic": "Horseshoe arch",
+   "qar": [
+    [
+     "Cordoba",
+     "قرطبة"
+    ]
+   ]
   },
   {
    "q": "What is the pre-dawn meal eaten before a day of fasting called?",
@@ -757,7 +928,6 @@
    "q": "Which West African city, home to Sankore, was a famed centre of Islamic scholarship?",
    "a": "Timbuktu",
    "p": 400,
-   "ar": "تمبكتو",
    "alt": [
     "Tombouctou",
     "Timbouctou"
@@ -895,7 +1065,17 @@
     "Kutubiyya",
     "Kutubiyya Mosque"
    ],
-   "apic": "Koutoubia Mosque"
+   "apic": "Koutoubia Mosque",
+   "qar": [
+    [
+     "Marrakesh",
+     "مراكش"
+    ],
+    [
+     "Almohads",
+     "الموحدون"
+    ]
+   ]
   },
   {
    "q": "Which Spanish city's cathedral bell tower, the Giralda, was originally a mosque minaret?",
@@ -918,7 +1098,13 @@
     "Great Mosque of Samarra",
     "Malwiya Minaret"
    ],
-   "apic": "Great Mosque of Samarra"
+   "apic": "Great Mosque of Samarra",
+   "qar": [
+    [
+     "Samarra",
+     "سامراء"
+    ]
+   ]
   },
   {
    "q": "Which Cairo mosque, completed in 879, has a spiral minaret and a vast open courtyard?",
@@ -929,7 +1115,13 @@
     "Mosque of Ibn Tulun",
     "Ibn Tulun"
    ],
-   "apic": "Mosque of Ibn Tulun"
+   "apic": "Mosque of Ibn Tulun",
+   "qar": [
+    [
+     "Cairo",
+     "القاهرة"
+    ]
+   ]
   },
   {
    "q": "Which Umayyad caliph built the Umayyad Mosque in Damascus in the early 8th century?",
@@ -941,7 +1133,17 @@
     "Walid I",
     "Al-Walid ibn Abd al-Malik"
    ],
-   "pic": "Umayyad Mosque"
+   "pic": "Umayyad Mosque",
+   "qar": [
+    [
+     "Umayyad Mosque",
+     "الجامع الأموي"
+    ],
+    [
+     "Damascus",
+     "دمشق"
+    ]
+   ]
   },
   {
    "q": "Which Umayyad ruler began building the Great Mosque of Cordoba in the 780s?",
@@ -953,7 +1155,13 @@
     "Abdul Rahman I",
     "Abd al-Rahman the Immigrant"
    ],
-   "pic": "Mosque–Cathedral of Córdoba"
+   "pic": "Mosque–Cathedral of Córdoba",
+   "qar": [
+    [
+     "Great Mosque of Cordoba",
+     "جامع قرطبة الكبير"
+    ]
+   ]
   },
   {
    "q": "In which West African country is the Great Mosque of Djenne, famed as the largest mud-brick building?",
@@ -975,7 +1183,13 @@
     "Nasrid dynasty",
     "Banu Nasr"
    ],
-   "pic": "Alhambra"
+   "pic": "Alhambra",
+   "qar": [
+    [
+     "Alhambra",
+     "قصر الحمراء"
+    ]
+   ]
   },
   {
    "q": "Which dynasty defeated the Mongols at Ain Jalut in 1260?",
@@ -985,6 +1199,12 @@
    "alt": [
     "Mamluk",
     "Mamluk Sultanate"
+   ],
+   "qar": [
+    [
+     "Ain Jalut",
+     "عين جالوت"
+    ]
    ]
   },
   {
@@ -996,13 +1216,18 @@
     "Almoravid",
     "Al-Murabitun",
     "Murabitun"
+   ],
+   "qar": [
+    [
+     "Marrakesh",
+     "مراكش"
+    ]
    ]
   },
   {
    "q": "Which Turkish city, once called Adrianople, was the Ottoman capital before 1453?",
    "a": "Edirne",
    "p": 600,
-   "ar": "أدرنة",
    "alt": [
     "Edirne, Turkey"
    ],
@@ -1020,7 +1245,6 @@
    "q": "Which Turkish town gave its name to colourful Ottoman ceramic tiles?",
    "a": "Iznik",
    "p": 600,
-   "ar": "إزنيق",
    "alt": [
     "Nicaea",
     "Isnik"
@@ -1043,6 +1267,12 @@
    "alt": [
     "Al-Fustat",
     "Fostat"
+   ],
+   "qar": [
+    [
+     "Cairo",
+     "القاهرة"
+    ]
    ]
   },
   {
@@ -1054,6 +1284,16 @@
     "Mu'awiya",
     "Muawiya I",
     "Muawiyah"
+   ],
+   "qar": [
+    [
+     "Umayyad Caliphate",
+     "الخلافة الأموية"
+    ],
+    [
+     "Damascus",
+     "دمشق"
+    ]
    ]
   },
   {
@@ -1064,7 +1304,17 @@
    "alt": [
     "Samarrah"
    ],
-   "apic": "Samarra"
+   "apic": "Samarra",
+   "qar": [
+    [
+     "Abbasid",
+     "العباسية"
+    ],
+    [
+     "Baghdad",
+     "بغداد"
+    ]
+   ]
   },
   {
    "q": "In which year did the Abbasids overthrow the Umayyad Caliphate?",
@@ -1072,13 +1322,22 @@
    "p": 600,
    "alt": [
     "750 CE"
+   ],
+   "qar": [
+    [
+     "Abbasids",
+     "العباسيون"
+    ],
+    [
+     "Umayyad Caliphate",
+     "الخلافة الأموية"
+    ]
    ]
   },
   {
    "q": "What is the term for the tiny, detailed painting style of Persian and Mughal manuscripts?",
    "a": "Miniature painting",
    "p": 600,
-   "ar": "المنمنمات",
    "alt": [
     "Miniature",
     "Persian miniature",
@@ -1095,7 +1354,13 @@
     "Qubbat al-Sakhra",
     "Qubbat as-Sakhrah"
    ],
-   "apic": "Dome of the Rock"
+   "apic": "Dome of the Rock",
+   "qar": [
+    [
+     "Umayyads",
+     "الأمويون"
+    ]
+   ]
   },
   {
    "q": "Which modern country was the heartland of the Mughal Empire?",
@@ -1121,7 +1386,6 @@
    "q": "Which modern country was the heartland of the Ottoman Empire?",
    "a": "Turkey",
    "p": 200,
-   "ar": "تركيا",
    "alt": [
     "Türkiye",
     "Turkiye"
@@ -1132,7 +1396,6 @@
    "q": "Which great Byzantine church in Istanbul was converted into a mosque after the conquest of 1453?",
    "a": "Hagia Sophia",
    "p": 200,
-   "ar": "آيا صوفيا",
    "alt": [
     "Ayasofya",
     "Aya Sofya",
@@ -1144,7 +1407,6 @@
    "q": "Which strait runs through Istanbul, dividing Europe from Asia?",
    "a": "Bosphorus",
    "p": 200,
-   "ar": "مضيق البوسفور",
    "alt": [
     "Bosporus",
     "Istanbul Strait"
@@ -1155,7 +1417,6 @@
    "q": "Which huge covered market in Istanbul, begun in the 1450s, is one of the oldest in the world?",
    "a": "Grand Bazaar",
    "p": 200,
-   "ar": "البازار الكبير",
    "alt": [
     "Kapalıçarşı",
     "Kapali Carsi",
@@ -1172,7 +1433,13 @@
     "Andalucia",
     "Andalucía"
    ],
-   "apic": "Andalusia"
+   "apic": "Andalusia",
+   "qar": [
+    [
+     "Al-Andalus",
+     "الأندلس"
+    ]
+   ]
   },
   {
    "q": "Which Spanish city's former Great Mosque is famous for its 'forest' of hundreds of columns and arches?",
@@ -1188,10 +1455,15 @@
    "q": "What name did medieval Europeans give to the Muslims of Al-Andalus and North Africa?",
    "a": "Moors",
    "p": 200,
-   "ar": "المور",
    "alt": [
     "Moor",
     "The Moors"
+   ],
+   "qar": [
+    [
+     "Al-Andalus",
+     "الأندلس"
+    ]
    ]
   },
   {
@@ -1203,7 +1475,13 @@
     "Gibraltar",
     "Straits of Gibraltar"
    ],
-   "apic": "Strait of Gibraltar"
+   "apic": "Strait of Gibraltar",
+   "qar": [
+    [
+     "Tariq ibn Ziyad",
+     "طارق بن زياد"
+    ]
+   ]
   },
   {
    "q": "What is the Arabic word for a mosque?",
@@ -1241,7 +1519,6 @@
    "q": "What royal title did the rulers of Safavid Persia use?",
    "a": "Shah",
    "p": 200,
-   "ar": "شاه",
    "alt": [
     "Shahanshah"
    ]
@@ -1270,7 +1547,6 @@
    "q": "What were the medieval wars fought between European Christian armies and Muslim powers over the Holy Land called?",
    "a": "Crusades",
    "p": 200,
-   "ar": "الحروب الصليبية",
    "alt": [
     "The Crusades",
     "Crusade"
@@ -1281,12 +1557,17 @@
    "q": "Which Mongol conqueror was the grandfather of Hulagu, who sacked Baghdad in 1258?",
    "a": "Genghis Khan",
    "p": 200,
-   "ar": "جنكيز خان",
    "alt": [
     "Chinggis Khan",
     "Temujin"
    ],
-   "apic": "Genghis Khan"
+   "apic": "Genghis Khan",
+   "qar": [
+    [
+     "Baghdad",
+     "بغداد"
+    ]
+   ]
   },
   {
    "q": "In which modern country is the historic city of Fez?",
@@ -1296,6 +1577,12 @@
    "alt": [
     "Maroc",
     "Al-Maghrib"
+   ],
+   "qar": [
+    [
+     "Fez",
+     "فاس"
+    ]
    ]
   },
   {
@@ -1323,7 +1610,6 @@
    "q": "Which Pakistani city is home to the Badshahi Mosque and a great Mughal fort?",
    "a": "Lahore",
    "p": 200,
-   "ar": "لاهور",
    "pic": "Badshahi Mosque",
    "apic": "Lahore"
   },
@@ -1336,7 +1622,13 @@
     "Richard Lionheart",
     "Richard Coeur de Lion"
    ],
-   "apic": "Richard I of England"
+   "apic": "Richard I of England",
+   "qar": [
+    [
+     "Saladin",
+     "صلاح الدين"
+    ]
+   ]
   },
   {
    "q": "Which Ottoman sultan gave his name to the Ottoman Empire?",
@@ -1391,7 +1683,6 @@
    "q": "Which language was the official court language of the Mughal Empire?",
    "a": "Persian",
    "p": 400,
-   "ar": "الفارسية",
    "alt": [
     "Farsi"
    ]
@@ -1421,7 +1712,6 @@
    "q": "Which Turco-Mongol conqueror, known in Europe as Tamerlane, made Samarkand his capital?",
    "a": "Timur",
    "p": 400,
-   "ar": "تيمورلنك",
    "alt": [
     "Tamerlane",
     "Timur Lenk",
@@ -1432,7 +1722,6 @@
    "q": "What were the elite infantry soldiers of the Ottoman sultans called?",
    "a": "Janissaries",
    "p": 400,
-   "ar": "الإنكشارية",
    "alt": [
     "Janissary",
     "Yeniçeri",
@@ -1444,7 +1733,6 @@
    "q": "What was the title of the chief minister of the Ottoman Empire?",
    "a": "Grand Vizier",
    "p": 200,
-   "ar": "الصدر الأعظم",
    "alt": [
     "Vizier",
     "Sadrazam",
@@ -1455,7 +1743,6 @@
    "q": "Which European capital did the Ottomans besiege unsuccessfully in 1529 and 1683?",
    "a": "Vienna",
    "p": 400,
-   "ar": "فيينا",
    "alt": [
     "Wien"
    ],
@@ -1465,7 +1752,6 @@
    "q": "Which flower gave its name to an Ottoman era of luxury and art in the early 18th century?",
    "a": "Tulip",
    "p": 400,
-   "ar": "زهرة التوليب",
    "alt": [
     "Tulips",
     "Lale"
@@ -1508,11 +1794,16 @@
    "q": "The word 'sultan' comes from an Arabic word meaning what?",
    "a": "Power",
    "p": 400,
-   "ar": "سلطة",
    "alt": [
     "Authority",
     "Strength",
     "Rule"
+   ],
+   "qar": [
+    [
+     "sultan",
+     "سلطان"
+    ]
    ]
   },
   {
@@ -1535,7 +1826,13 @@
     "Catholic Monarchs",
     "Ferdinand II and Isabella I"
    ],
-   "apic": "Catholic Monarchs"
+   "apic": "Catholic Monarchs",
+   "qar": [
+    [
+     "Granada",
+     "غرناطة"
+    ]
+   ]
   },
   {
    "q": "Which Portuguese region's name comes from the Arabic 'al-gharb', meaning 'the west'?",
@@ -1545,13 +1842,18 @@
    "alt": [
     "The Algarve"
    ],
-   "apic": "Algarve"
+   "apic": "Algarve",
+   "qar": [
+    [
+     "al-gharb",
+     "الغرب"
+    ]
+   ]
   },
   {
    "q": "Which Mediterranean island was a Muslim emirate from the 9th to the 11th century?",
    "a": "Sicily",
    "p": 400,
-   "ar": "صقلية",
    "alt": [
     "Siqilliya",
     "Sicilia"
@@ -1566,6 +1868,12 @@
     "Cathedral",
     "Church",
     "Mosque-Cathedral"
+   ],
+   "qar": [
+    [
+     "Cordoba",
+     "قرطبة"
+    ]
    ]
   },
   {
@@ -1588,6 +1896,12 @@
     "Khandaq",
     "Battle of Khandaq",
     "Battle of the Confederates"
+   ],
+   "qar": [
+    [
+     "Medina",
+     "المدينة المنورة"
+    ]
    ]
   },
   {
@@ -1599,7 +1913,13 @@
     "Masjid Quba",
     "Quba"
    ],
-   "apic": "Quba Mosque"
+   "apic": "Quba Mosque",
+   "qar": [
+    [
+     "Medina",
+     "المدينة المنورة"
+    ]
+   ]
   },
   {
    "q": "Which Indian city is home to the Charminar, built in 1591 by the Qutb Shahi dynasty?",
@@ -1641,7 +1961,13 @@
     "Tunis city"
    ],
    "pic": "Al-Zaytuna Mosque",
-   "apic": "Tunis"
+   "apic": "Tunis",
+   "qar": [
+    [
+     "Zaytuna Mosque",
+     "جامع الزيتونة"
+    ]
+   ]
   },
   {
    "q": "Which Yemeni capital's old city is famous for decorated multi-storey tower houses of mud brick?",
@@ -1661,13 +1987,22 @@
    "alt": [
     "Bagdad"
    ],
-   "apic": "Baghdad"
+   "apic": "Baghdad",
+   "qar": [
+    [
+     "Madinat al-Salam",
+     "مدينة السلام"
+    ],
+    [
+     "Abbasid",
+     "العباسية"
+    ]
+   ]
   },
   {
    "q": "Which Turkish city was the capital of the Seljuk Sultanate of Rum?",
    "a": "Konya",
    "p": 400,
-   "ar": "قونية",
    "alt": [
     "Iconium",
     "Konia"
@@ -1678,7 +2013,6 @@
    "q": "Which Turkic dynasty built many caravanserais across 13th-century Anatolia, such as the Sultan Han?",
    "a": "Seljuks",
    "p": 400,
-   "ar": "السلاجقة",
    "alt": [
     "Seljuk",
     "Seljuq",
@@ -1694,6 +2028,16 @@
     "Al-Zahir Baybars",
     "Baibars",
     "Baybars I"
+   ],
+   "qar": [
+    [
+     "Mamluk",
+     "المملوكي"
+    ],
+    [
+     "Ain Jalut",
+     "عين جالوت"
+    ]
    ]
   },
   {
@@ -1704,13 +2048,18 @@
    "alt": [
     "Hattin",
     "Horns of Hattin"
+   ],
+   "qar": [
+    [
+     "Saladin",
+     "صلاح الدين"
+    ]
    ]
   },
   {
    "q": "Which Seljuk sultan defeated the Byzantine emperor at Manzikert in 1071?",
    "a": "Alp Arslan",
    "p": 600,
-   "ar": "ألب أرسلان",
    "alt": [
     "Alp Arsalan"
    ]
@@ -1728,7 +2077,6 @@
    "q": "Which Ottoman sultan was captured by Timur at the Battle of Ankara in 1402?",
    "a": "Bayezid I",
    "p": 600,
-   "ar": "بايزيد الأول",
    "alt": [
     "Bayezid",
     "Beyazit I",
@@ -1748,7 +2096,6 @@
    "q": "Which Mediterranean island held out against a great Ottoman siege in 1565?",
    "a": "Malta",
    "p": 400,
-   "ar": "مالطا",
    "apic": "Malta"
   },
   {
@@ -1768,6 +2115,12 @@
     "Battle of Las Navas de Tolosa",
     "Navas de Tolosa",
     "Al-Uqab"
+   ],
+   "qar": [
+    [
+     "Almohads",
+     "الموحدين"
+    ]
    ]
   },
   {
@@ -1789,6 +2142,16 @@
     "Taifa kingdoms",
     "Taifa",
     "Muluk al-Tawa'if"
+   ],
+   "qar": [
+    [
+     "Al-Andalus",
+     "الأندلس"
+    ],
+    [
+     "Caliphate of Cordoba",
+     "خلافة قرطبة"
+    ]
    ]
   },
   {
@@ -1800,6 +2163,20 @@
     "Abu Abdallah",
     "Muhammad XII",
     "Boabdil el Chico"
+   ],
+   "qar": [
+    [
+     "Muhammad XII",
+     "محمد الثاني عشر"
+    ],
+    [
+     "Nasrid",
+     "النصري"
+    ],
+    [
+     "Granada",
+     "غرناطة"
+    ]
    ]
   },
   {
@@ -1811,7 +2188,17 @@
     "Jannat al-Arif",
     "Palacio del Generalife"
    ],
-   "apic": "Generalife"
+   "apic": "Generalife",
+   "qar": [
+    [
+     "Alhambra",
+     "قصر الحمراء"
+    ],
+    [
+     "Nasrid",
+     "النصريين"
+    ]
+   ]
   },
   {
    "q": "What name is given to the Islamic-influenced architecture built for Christian rulers in Spain after the reconquest?",
@@ -1827,12 +2214,17 @@
    "q": "The Spanish river name Guadalquivir comes from Arabic 'al-wadi al-kabir'. What does that mean?",
    "a": "The great river",
    "p": 600,
-   "ar": "الوادي الكبير",
    "alt": [
     "Great river",
     "The big river",
     "Big river",
     "Great valley"
+   ],
+   "qar": [
+    [
+     "al-wadi al-kabir",
+     "الوادي الكبير"
+    ]
    ]
   },
   {
@@ -1843,6 +2235,12 @@
    "alt": [
     "Idrisid",
     "Idrisid dynasty"
+   ],
+   "qar": [
+    [
+     "Fez",
+     "فاس"
+    ]
    ]
   },
   {
@@ -1854,6 +2252,16 @@
     "Marinid",
     "Banu Marin",
     "Merinids"
+   ],
+   "qar": [
+    [
+     "Bou Inania",
+     "البوعنانية"
+    ],
+    [
+     "Fez",
+     "فاس"
+    ]
    ]
   },
   {
@@ -1865,7 +2273,17 @@
     "Bab Zuweila",
     "Bab Zuwaila"
    ],
-   "apic": "Bab Zuwayla"
+   "apic": "Bab Zuwayla",
+   "qar": [
+    [
+     "Fatimid",
+     "الفاطمي"
+    ],
+    [
+     "Cairo",
+     "القاهرة"
+    ]
+   ]
   },
   {
    "q": "Which Cairo mosque, Egypt's first, was founded in Fustat in 641?",
@@ -1877,7 +2295,17 @@
     "Amr Mosque",
     "Mosque of Amr"
    ],
-   "apic": "Mosque of Amr ibn al-As"
+   "apic": "Mosque of Amr ibn al-As",
+   "qar": [
+    [
+     "Cairo",
+     "القاهرة"
+    ],
+    [
+     "Fustat",
+     "الفسطاط"
+    ]
+   ]
   },
   {
    "q": "After 1258, the Abbasid caliphs lived on as figureheads under the Mamluks in which city?",
@@ -1887,7 +2315,17 @@
    "alt": [
     "Al-Qahira"
    ],
-   "apic": "Cairo"
+   "apic": "Cairo",
+   "qar": [
+    [
+     "Abbasid",
+     "العباسيون"
+    ],
+    [
+     "Mamluks",
+     "المماليك"
+    ]
+   ]
   },
   {
    "q": "Which last Abbasid caliph of Baghdad was killed when the Mongols took the city in 1258?",
@@ -1896,6 +2334,16 @@
    "ar": "المستعصم بالله",
    "alt": [
     "Mustasim"
+   ],
+   "qar": [
+    [
+     "Abbasid",
+     "العباسية"
+    ],
+    [
+     "Baghdad",
+     "بغداد"
+    ]
    ]
   },
   {
@@ -1908,7 +2356,17 @@
     "Al-Mustansiriyya",
     "Mustansiriyah"
    ],
-   "apic": "Al-Mustansiriya"
+   "apic": "Al-Mustansiriya",
+   "qar": [
+    [
+     "Baghdad",
+     "بغداد"
+    ],
+    [
+     "al-Mustansir",
+     "المستنصر"
+    ]
+   ]
   },
   {
    "q": "Which Ottoman palace on the Bosphorus replaced Topkapi as the sultans' main residence in the 1850s?",
@@ -1925,7 +2383,6 @@
    "q": "Which Turkish city was the first major Ottoman capital, from 1326?",
    "a": "Bursa",
    "p": 600,
-   "ar": "بورصة",
    "alt": [
     "Prusa",
     "Brusa"
@@ -2069,6 +2526,12 @@
     "Shajarat al-Durr",
     "Shajar ad-Durr",
     "Shagaret El Dor"
+   ],
+   "qar": [
+    [
+     "Mamluk",
+     "المملوكي"
+    ]
    ]
   },
   {
@@ -2104,7 +2567,6 @@
    "q": "Which West African empire, centred on Gao, rose to power after the Mali Empire?",
    "a": "Songhai",
    "p": 600,
-   "ar": "سنغاي",
    "alt": [
     "Songhay",
     "Songhai Empire"
@@ -2115,7 +2577,6 @@
    "q": "Which Malay sultanate controlled a key trading strait until the Portuguese captured it in 1511?",
    "a": "Malacca",
    "p": 400,
-   "ar": "ملقا",
    "alt": [
     "Melaka",
     "Malacca Sultanate",
@@ -2150,6 +2611,12 @@
    "ar": "ابن جبير",
    "alt": [
     "Ibn Jubair"
+   ],
+   "qar": [
+    [
+     "Mecca",
+     "مكة المكرمة"
+    ]
    ]
   },
   {
@@ -2188,13 +2655,18 @@
    "q": "In which city is the Al-Aqsa Mosque?",
    "a": "Jerusalem",
    "p": 200,
-   "ar": "القدس",
    "alt": [
     "Al-Quds",
     "Al Quds"
    ],
    "pic": "Al-Aqsa Mosque",
-   "apic": "Jerusalem"
+   "apic": "Jerusalem",
+   "qar": [
+    [
+     "Al-Aqsa Mosque",
+     "المسجد الأقصى"
+    ]
+   ]
   },
   {
    "q": "What is the Arabic name for the city of Jerusalem?",
@@ -2210,27 +2682,36 @@
    "q": "The Mamluk Sultanate was centred on which modern country?",
    "a": "Egypt",
    "p": 200,
-   "ar": "مصر",
    "alt": [
     "Misr"
    ],
-   "apic": "Egypt"
+   "apic": "Egypt",
+   "qar": [
+    [
+     "Mamluk Sultanate",
+     "السلطنة المملوكية"
+    ]
+   ]
   },
   {
    "q": "The Umayyad Caliphate's capital lies in which modern country?",
    "a": "Syria",
    "p": 200,
-   "ar": "سوريا",
    "alt": [
     "Syrian Arab Republic"
    ],
-   "apic": "Syria"
+   "apic": "Syria",
+   "qar": [
+    [
+     "Umayyad Caliphate",
+     "الخلافة الأموية"
+    ]
+   ]
   },
   {
    "q": "Persia is world-famous for which hand-knotted floor coverings?",
    "a": "Carpets",
    "p": 200,
-   "ar": "السجاد",
    "alt": [
     "Rugs",
     "Persian carpets",
@@ -2243,18 +2724,22 @@
    "q": "What does the Arabic word 'Hijra' mean in English?",
    "a": "Migration",
    "p": 200,
-   "ar": "هجرة",
    "alt": [
     "Emigration",
     "Departure",
     "Journey"
+   ],
+   "qar": [
+    [
+     "Hijra",
+     "هجرة"
+    ]
    ]
   },
   {
    "q": "Which symbol, together with a star, appeared on the Ottoman flag?",
    "a": "Crescent",
    "p": 200,
-   "ar": "هلال",
    "alt": [
     "Crescent moon",
     "Hilal"
@@ -2264,14 +2749,12 @@
    "q": "Which precious metal made the medieval Mali Empire famously rich?",
    "a": "Gold",
    "p": 200,
-   "ar": "ذهب",
    "apic": "Gold"
   },
   {
    "q": "Which strong, unfiltered coffee, brewed in a small pot, became a symbol of Ottoman Istanbul?",
    "a": "Turkish coffee",
    "p": 200,
-   "ar": "قهوة تركية",
    "alt": [
     "Turkish kahve"
    ],
@@ -2284,24 +2767,38 @@
    "alt": [
     "Kurd",
     "Kurds"
+   ],
+   "qar": [
+    [
+     "Saladin",
+     "صلاح الدين"
+    ],
+    [
+     "Ayyubid",
+     "الأيوبية"
+    ]
    ]
   },
   {
    "q": "What does the Arabic name of Cairo, 'Al-Qahira', mean?",
    "a": "The Victorious",
    "p": 400,
-   "ar": "القاهرة",
    "alt": [
     "Victorious",
     "The Conqueror",
     "The Vanquisher"
+   ],
+   "qar": [
+    [
+     "Al-Qahira",
+     "القاهرة"
+    ]
    ]
   },
   {
    "q": "The word 'Mughal' comes from the Persian word for which people?",
    "a": "Mongols",
    "p": 400,
-   "ar": "المغول",
    "alt": [
     "Mongol",
     "Mongolian"
@@ -2321,7 +2818,6 @@
    "q": "Which commodity was traded across the Sahara in exchange for West African gold?",
    "a": "Salt",
    "p": 400,
-   "ar": "ملح",
    "alt": [
     "Rock salt"
    ],

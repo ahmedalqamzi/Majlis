@@ -49,20 +49,24 @@
     "BIC",
     "Sakhir"
    ],
-   "apic": "Bahrain International Circuit"
+   "apic": "Bahrain International Circuit",
+   "qar": [
+    [
+     "Sakhir",
+     "الصخير"
+    ]
+   ]
   },
   {
    "q": "Which lone tree, said to survive in the desert with no visible water, is a famous Bahraini landmark?",
    "a": "Tree of Life",
    "p": 200,
-   "ar": "شجرة الحياة",
    "apic": "Tree of Life (Bahrain)"
   },
   {
    "q": "Before oil, which gems harvested from oysters were the backbone of Bahrain's economy?",
    "a": "Pearls",
    "p": 200,
-   "ar": "اللؤلؤ",
    "alt": [
     "Pearl",
     "Natural pearls"
@@ -87,7 +91,6 @@
    "q": "Which two colours appear on the flag of Bahrain?",
    "a": "Red and white",
    "p": 200,
-   "ar": "الأحمر والأبيض",
    "alt": [
     "White and red"
    ]
@@ -95,14 +98,12 @@
   {
    "q": "What is the official language of Bahrain?",
    "a": "Arabic",
-   "p": 200,
-   "ar": "العربية"
+   "p": 200
   },
   {
    "q": "Which fragrant spice is added to traditional Gulf Arabic coffee?",
    "a": "Cardamom",
    "p": 200,
-   "ar": "الهيل",
    "alt": [
     "Hail",
     "Heel",
@@ -114,7 +115,6 @@
    "q": "Which sweet fruit of the palm tree is a staple of Gulf hospitality?",
    "a": "Dates",
    "p": 200,
-   "ar": "التمر",
    "alt": [
     "Tamr",
     "Tamar"
@@ -152,7 +152,13 @@
     "Hareis",
     "Haleem"
    ],
-   "apic": "Harees"
+   "apic": "Harees",
+   "qar": [
+    [
+     "Eid",
+     "العيد"
+    ]
+   ]
   },
   {
    "q": "Which triangular fried pastry stuffed with meat or cheese is a classic Ramadan snack in the Gulf?",
@@ -170,7 +176,7 @@
    "q": "Which translucent, jelly-like sweet flavoured with saffron, cardamom and nuts is Bahrain's most famous treat?",
    "a": "Halwa",
    "p": 200,
-   "ar": "حلوى بحرينية",
+   "ar": "حلوى",
    "alt": [
     "Halva",
     "Bahraini halwa",
@@ -181,7 +187,6 @@
    "q": "What is the name of the traditional wooden sailing vessel of the Gulf used by pearl divers and traders?",
    "a": "Dhow",
    "p": 200,
-   "ar": "الداو",
    "alt": [
     "Boom",
     "Jalibut"
@@ -192,7 +197,6 @@
    "q": "Bahrain is an island nation in which gulf?",
    "a": "Arabian Gulf",
    "p": 200,
-   "ar": "الخليج العربي",
    "alt": [
     "Persian Gulf",
     "The Gulf"
@@ -209,7 +213,6 @@
    "q": "Bahrain is a founding member of which six-nation Gulf bloc, abbreviated GCC?",
    "a": "Gulf Cooperation Council",
    "p": 200,
-   "ar": "مجلس التعاون الخليجي",
    "alt": [
     "Cooperation Council for the Arab States of the Gulf"
    ],
@@ -230,7 +233,6 @@
    "q": "Which sport is the most popular in Bahrain and across the Gulf?",
    "a": "Football",
    "p": 200,
-   "ar": "كرة القدم",
    "alt": [
     "Soccer"
    ]
@@ -239,14 +241,12 @@
    "q": "Which animal is nicknamed the 'ship of the desert'?",
    "a": "Camel",
    "p": 200,
-   "ar": "الجمل",
    "apic": "Dromedary"
   },
   {
    "q": "Which bird of prey is traditionally trained for hunting in the Gulf?",
    "a": "Falcon",
    "p": 200,
-   "ar": "الصقر",
    "alt": [
     "Saker falcon"
    ],
@@ -300,7 +300,13 @@
    "q": "Which holy month of fasting precedes Eid al-Fitr?",
    "a": "Ramadan",
    "p": 200,
-   "ar": "رمضان"
+   "ar": "رمضان",
+   "qar": [
+    [
+     "Eid al-Fitr",
+     "عيد الفطر"
+    ]
+   ]
   },
   {
    "q": "Which sweet fried dumplings drizzled with date syrup are a Gulf favourite?",
@@ -318,12 +324,17 @@
    "q": "Which expensive spice, from crocus flowers, gives Bahraini halwa its golden colour?",
    "a": "Saffron",
    "p": 200,
-   "ar": "الزعفران",
    "alt": [
     "Zafran",
     "Zaafaran"
    ],
-   "apic": "Saffron"
+   "apic": "Saffron",
+   "qar": [
+    [
+     "halwa",
+     "الحلوى"
+    ]
+   ]
   },
   {
    "q": "Which spiced milky tea, popular across the Gulf, is brewed with cardamom?",
@@ -365,7 +376,6 @@
    "q": "Which German driver won the inaugural Bahrain Grand Prix for Ferrari?",
    "a": "Michael Schumacher",
    "p": 400,
-   "ar": "ميخائيل شوماخر",
    "alt": [
     "Schumacher"
    ],
@@ -376,11 +386,16 @@
    "q": "Which European nation's name is attached to the old fort at Qal'at al-Bahrain, expanded in the 16th century?",
    "a": "Portugal",
    "p": 400,
-   "ar": "البرتغال",
    "alt": [
     "Portuguese"
    ],
-   "pic": "Qal'at al-Bahrain"
+   "pic": "Qal'at al-Bahrain",
+   "qar": [
+    [
+     "Qal'at al-Bahrain",
+     "قلعة البحرين"
+    ]
+   ]
   },
   {
    "q": "Which Manama landmark has three giant wind turbines suspended between its twin towers?",
@@ -391,7 +406,13 @@
     "BWTC",
     "World Trade Center"
    ],
-   "apic": "Bahrain World Trade Center"
+   "apic": "Bahrain World Trade Center",
+   "qar": [
+    [
+     "Manama",
+     "المنامة"
+    ]
+   ]
   },
   {
    "q": "Which monumental gateway stands at the entrance to the Manama Souq?",
@@ -402,7 +423,13 @@
     "Bab al-Bahrain",
     "Gateway of Bahrain"
    ],
-   "apic": "Bab Al Bahrain"
+   "apic": "Bab Al Bahrain",
+   "qar": [
+    [
+     "Manama",
+     "المنامة"
+    ]
+   ]
   },
   {
    "q": "Which large Manama mosque is named after the ruler who took Bahrain in 1783?",
@@ -424,7 +451,6 @@
    "q": "On which date is Bahrain's National Day celebrated?",
    "a": "16 December",
    "p": 400,
-   "ar": "16 ديسمبر",
    "alt": [
     "December 16",
     "16th December"
@@ -439,7 +465,6 @@
    "q": "How many white triangular points divide the red and white on Bahrain's flag?",
    "a": "Five",
    "p": 400,
-   "ar": "خمسة",
    "alt": [
     "5"
    ]
@@ -523,13 +548,18 @@
    "alt": [
     "Bahrain Pearling Path",
     "Pearling, Testimony of an Island Economy"
+   ],
+   "qar": [
+    [
+     "Muharraq",
+     "المحرق"
+    ]
    ]
   },
   {
    "q": "The name Bahrain comes from Arabic words meaning what?",
    "a": "Two seas",
    "p": 400,
-   "ar": "البحرين",
    "alt": [
     "The two seas",
     "Two sea"
@@ -539,7 +569,13 @@
    "q": "In which year was Qal'at al-Bahrain inscribed on the UNESCO World Heritage List?",
    "a": "2005",
    "p": 400,
-   "pic": "Qal'at al-Bahrain"
+   "pic": "Qal'at al-Bahrain",
+   "qar": [
+    [
+     "Qal'at al-Bahrain",
+     "قلعة البحرين"
+    ]
+   ]
   },
   {
    "q": "What is the name of Bahrain's highest natural point, whose name means Mountain of Smoke?",
@@ -557,7 +593,6 @@
    "q": "Roughly how many years old is Bahrain's Tree of Life said to be?",
    "a": "About 400",
    "p": 400,
-   "ar": "حوالي 400",
    "alt": [
     "400",
     "Over 400",
@@ -607,13 +642,18 @@
     "Iqal",
     "Aqal"
    ],
-   "apic": "Agal"
+   "apic": "Agal",
+   "qar": [
+    [
+     "ghutra",
+     "الغترة"
+    ]
+   ]
   },
   {
    "q": "Which Kenyan-born athlete won Olympic 3000 m steeplechase gold for Bahrain in 2016?",
    "a": "Ruth Jebet",
    "p": 400,
-   "ar": "روث جيبت",
    "alt": [
     "Jebet"
    ],
@@ -628,7 +668,13 @@
     "Bharat",
     "Baharaat"
    ],
-   "apic": "Baharat"
+   "apic": "Baharat",
+   "qar": [
+    [
+     "machboos",
+     "المجبوس"
+    ]
+   ]
   },
   {
    "q": "Which salted yoghurt drink is often served with Gulf meals?",
@@ -701,7 +747,6 @@
    "q": "Who won the 2020 Sakhir Grand Prix for his first Formula 1 victory?",
    "a": "Sergio Perez",
    "p": 600,
-   "ar": "سيرجيو بيريز",
    "alt": [
     "Checo Perez",
     "Perez"
@@ -713,7 +758,6 @@
    "q": "Which Spanish driver won the Bahrain Grand Prix in 2005, 2006 and 2010?",
    "a": "Fernando Alonso",
    "p": 600,
-   "ar": "فرناندو ألونسو",
    "alt": [
     "Alonso"
    ],
@@ -723,7 +767,6 @@
    "q": "Which German architect designed the Bahrain International Circuit?",
    "a": "Hermann Tilke",
    "p": 600,
-   "ar": "هيرمان تيلكه",
    "alt": [
     "Tilke"
    ],
@@ -734,7 +777,6 @@
    "q": "By what name did the ancient Greeks call Bahrain?",
    "a": "Tylos",
    "p": 600,
-   "ar": "تايلوس",
    "alt": [
     "Tylus"
    ]
@@ -762,8 +804,7 @@
   {
    "q": "Which 1969 book by Geoffrey Bibby tells the story of the Danish search for an ancient Gulf civilisation?",
    "a": "Looking for Dilmun",
-   "p": 600,
-   "ar": "البحث عن دلمون"
+   "p": 600
   },
   {
    "q": "Which Manama museum is dedicated to Quranic manuscripts and Islamic art?",
@@ -774,7 +815,13 @@
     "Bayt al-Quran",
     "House of the Quran"
    ],
-   "apic": "Beit Al Quran"
+   "apic": "Beit Al Quran",
+   "qar": [
+    [
+     "Manama",
+     "المنامة"
+    ]
+   ]
   },
   {
    "q": "Which mosque in Bahrain is said to be among the oldest in the Gulf, with origins in the 7th century?",
@@ -790,18 +837,23 @@
    "q": "Which ruler of the Al Khalifa family took control of Bahrain in 1783?",
    "a": "Ahmed bin Muhammad Al Khalifa",
    "p": 600,
-   "ar": "أحمد الفاتح",
+   "ar": "أحمد بن محمد آل خليفة",
    "alt": [
     "Ahmed Al Fateh",
     "Ahmed al-Fateh",
     "Ahmed bin Mohammed Al Khalifa"
+   ],
+   "qar": [
+    [
+     "Al Khalifa",
+     "آل خليفة"
+    ]
    ]
   },
   {
    "q": "Which Bahrain-representing athlete won the 3000 m steeplechase at the 2024 Paris Olympics?",
    "a": "Winfred Yavi",
    "p": 600,
-   "ar": "وينفريد يافي",
    "alt": [
     "Yavi"
    ],
@@ -867,13 +919,22 @@
    "alt": [
     "Al Sawt",
     "Sawt music"
+   ],
+   "qar": [
+    [
+     "oud",
+     "العود"
+    ],
+    [
+     "mirwas",
+     "المرواس"
+    ]
    ]
   },
   {
    "q": "Roughly how long is the Bahrain International Circuit lap, in kilometres?",
    "a": "5.4 km",
    "p": 600,
-   "ar": "5.4 كم",
    "alt": [
     "5.4",
     "5.412",
@@ -884,30 +945,46 @@
    "q": "In which year did the King Fahd Causeway open?",
    "a": "1986",
    "p": 600,
-   "pic": "King Fahd Causeway"
+   "pic": "King Fahd Causeway",
+   "qar": [
+    [
+     "King Fahd Causeway",
+     "جسر الملك فهد"
+    ]
+   ]
   },
   {
    "q": "Approximately how long is the King Fahd Causeway, in kilometres?",
    "a": "25 km",
    "p": 600,
-   "ar": "25 كم",
    "alt": [
     "25",
     "About 25"
    ],
-   "pic": "King Fahd Causeway"
+   "pic": "King Fahd Causeway",
+   "qar": [
+    [
+     "King Fahd Causeway",
+     "جسر الملك فهد"
+    ]
+   ]
   },
   {
    "q": "In which year were the Dilmun Burial Mounds inscribed on the UNESCO World Heritage List?",
    "a": "2019",
    "p": 600,
-   "pic": "Dilmun Burial Mounds"
+   "pic": "Dilmun Burial Mounds",
+   "qar": [
+    [
+     "Dilmun",
+     "دلمون"
+    ]
+   ]
   },
   {
    "q": "Which country's cultured pearls hit Bahrain's natural pearl trade hard in the 1930s?",
    "a": "Japan",
    "p": 600,
-   "ar": "اليابان",
    "alt": [
     "Japanese"
    ]
@@ -932,7 +1009,6 @@
    "q": "Which country's archaeological expedition began excavating Bahrain in 1953, helping rediscover Dilmun?",
    "a": "Denmark",
    "p": 600,
-   "ar": "الدنمارك",
    "alt": [
     "Danish",
     "Danish expedition"
@@ -966,13 +1042,18 @@
    "ar": "مجان",
    "alt": [
     "Makan"
+   ],
+   "qar": [
+    [
+     "Dilmun",
+     "دلمون"
+    ]
    ]
   },
   {
    "q": "Which Brazilian Ferrari driver finished second behind Schumacher in the 2004 Bahrain Grand Prix?",
    "a": "Rubens Barrichello",
    "p": 600,
-   "ar": "روبنز باريكيلو",
    "alt": [
     "Barrichello"
    ],
@@ -982,7 +1063,8 @@
    "q": "Which is the smallest Arab country by land area?",
    "a": "Bahrain",
    "p": 200,
-   "apic": "Bahrain"
+   "apic": "Bahrain",
+   "ar": "البحرين"
   },
   {
    "q": "Which ruling family has governed Bahrain since the 18th century?",
@@ -998,7 +1080,6 @@
    "q": "What title has Bahrain's head of state held since 2002?",
    "a": "King",
    "p": 200,
-   "ar": "ملك",
    "alt": [
     "Malik"
    ]
@@ -1010,7 +1091,8 @@
    "alt": [
     "Bahrain"
    ],
-   "apic": "Bahrain Island"
+   "apic": "Bahrain Island",
+   "ar": "جزيرة البحرين"
   },
   {
    "q": "Since 2014, the Bahrain Grand Prix has been held at what time of day?",
@@ -1028,6 +1110,16 @@
    "ar": "شويطر",
    "alt": [
     "Halwa Showaiter"
+   ],
+   "qar": [
+    [
+     "Muharraq",
+     "المحرق"
+    ],
+    [
+     "halwa",
+     "الحلوى"
+    ]
    ]
   },
   {
@@ -1038,7 +1130,13 @@
    "alt": [
     "Al Khobar"
    ],
-   "apic": "Khobar"
+   "apic": "Khobar",
+   "qar": [
+    [
+     "King Fahd Causeway",
+     "جسر الملك فهد"
+    ]
+   ]
   },
   {
    "q": "Which racing sport's Middle East debut took place at Sakhir in 2004?",
@@ -1072,13 +1170,18 @@
    "alt": [
     "Aluminum"
    ],
-   "apic": "Aluminium"
+   "apic": "Aluminium",
+   "qar": [
+    [
+     "Alba",
+     "ألبا"
+    ]
+   ]
   },
   {
    "q": "What kind of gem did Bahrain's divers bring up from oyster beds?",
    "a": "Pearls",
    "p": 200,
-   "ar": "لؤلؤ",
    "alt": [
     "Pearl"
    ],
@@ -1153,7 +1256,13 @@
    "alt": [
     "Amwaj"
    ],
-   "apic": "Amwaj Islands"
+   "apic": "Amwaj Islands",
+   "qar": [
+    [
+     "Muharraq",
+     "المحرق"
+    ]
+   ]
   },
   {
    "q": "Which coastal fort on Muharraq Island was built in the early 19th century in classic Islamic style?",
@@ -1163,17 +1272,25 @@
    "alt": [
     "Qal'at Arad"
    ],
-   "apic": "Arad Fort"
+   "apic": "Arad Fort",
+   "qar": [
+    [
+     "Muharraq",
+     "المحرق"
+    ]
+   ]
   },
   {
    "q": "Which team did Bahrain beat in the final of the 26th Gulf Cup in January 2025?",
    "a": "Oman",
-   "p": 600
+   "p": 600,
+   "ar": "عُمان"
   },
   {
    "q": "Which team did Bahrain beat 1-0 in the 2019 Gulf Cup final?",
    "a": "Saudi Arabia",
-   "p": 600
+   "p": 600,
+   "ar": "السعودية"
   },
   {
    "q": "Which Brazilian driver won the Bahrain Grand Prix in 2007 and 2008?",
@@ -1188,7 +1305,13 @@
    "q": "Bahrain's sovereign wealth fund Mumtalakat became a major shareholder in which British F1 team in 2007?",
    "a": "McLaren",
    "p": 400,
-   "apic": "McLaren"
+   "apic": "McLaren",
+   "qar": [
+    [
+     "Mumtalakat",
+     "ممتلكات"
+    ]
+   ]
   },
   {
    "q": "Which Bahraini sprinter won the women's 400 m world title in 2019?",
@@ -1231,6 +1354,12 @@
    "p": 600,
    "alt": [
     "Middle Island"
+   ],
+   "qar": [
+    [
+     "King Fahd Causeway",
+     "جسر الملك فهد"
+    ]
    ]
   },
   {
@@ -1242,7 +1371,13 @@
     "Umm Al Naasan",
     "Umm Nasan"
    ],
-   "apic": "Umm an Nasan"
+   "apic": "Umm an Nasan",
+   "qar": [
+    [
+     "King Fahd Causeway",
+     "جسر الملك فهد"
+    ]
+   ]
   },
   {
    "q": "Which famous freshwater spring in Bahrain was long a popular park and swimming spot?",
@@ -1263,7 +1398,13 @@
    "q": "In which decade was the Bab Al Bahrain gateway built?",
    "a": "1940s",
    "p": 600,
-   "pic": "Bab Al Bahrain"
+   "pic": "Bab Al Bahrain",
+   "qar": [
+    [
+     "Bab Al Bahrain",
+     "باب البحرين"
+    ]
+   ]
   },
   {
    "q": "Which Bahraini striker was joint top scorer at the 2004 AFC Asian Cup with five goals?",
@@ -1293,7 +1434,13 @@
    "alt": [
     "Al Riffa"
    ],
-   "apic": "Riffa"
+   "apic": "Riffa",
+   "qar": [
+    [
+     "Sheikh Salman bin Ahmed",
+     "الشيخ سلمان بن أحمد"
+    ]
+   ]
   },
   {
    "q": "Which seagrass-grazing marine mammal has one of its largest populations in the waters between Bahrain and Qatar?",
@@ -1321,6 +1468,12 @@
    "alt": [
     "Qal'at Bu Mahir",
     "Bu Mahir Fort"
+   ],
+   "qar": [
+    [
+     "Muharraq",
+     "المحرق"
+    ]
    ]
   },
   {
@@ -1330,6 +1483,12 @@
    "ar": "بيت الشيخ عيسى بن علي",
    "alt": [
     "Shaikh Isa bin Ali House"
+   ],
+   "qar": [
+    [
+     "Muharraq",
+     "المحرق"
+    ]
    ]
   },
   {
@@ -1339,6 +1498,12 @@
    "ar": "سار",
    "alt": [
     "Sar"
+   ],
+   "qar": [
+    [
+     "Dilmun",
+     "دلمون"
+    ]
    ]
   },
   {
@@ -1355,13 +1520,25 @@
    "q": "In Sumerian myth, Dilmun was the paradise home of which god of fresh water?",
    "a": "Enki",
    "p": 600,
-   "apic": "Enki"
+   "apic": "Enki",
+   "qar": [
+    [
+     "Dilmun",
+     "دلمون"
+    ]
+   ]
   },
   {
    "q": "Which Mesopotamian hero sought a plant of immortality in the waters linked to Dilmun?",
    "a": "Gilgamesh",
    "p": 600,
-   "apic": "Gilgamesh"
+   "apic": "Gilgamesh",
+   "qar": [
+    [
+     "Dilmun",
+     "دلمون"
+    ]
+   ]
   },
   {
    "q": "Which oil company, known as Bapco, struck Bahrain's first oil?",
@@ -1369,6 +1546,12 @@
    "p": 400,
    "alt": [
     "Bapco"
+   ],
+   "qar": [
+    [
+     "Bapco",
+     "بابكو"
+    ]
    ]
   },
   {
@@ -1378,6 +1561,12 @@
    "alt": [
     "Well No. 1",
     "Well Number One"
+   ],
+   "qar": [
+    [
+     "Jabal ad Dukhan",
+     "جبل الدخان"
+    ]
    ]
   },
   {
@@ -1440,6 +1629,12 @@
    "ar": "بيت سيادي",
    "alt": [
     "Bait Siyadi"
+   ],
+   "qar": [
+    [
+     "Muharraq",
+     "المحرق"
+    ]
    ]
   },
   {
@@ -1449,6 +1644,12 @@
    "alt": [
     "1000",
     "A thousand"
+   ],
+   "qar": [
+    [
+     "fils",
+     "فلس"
+    ]
    ]
   },
   {
@@ -1467,7 +1668,13 @@
    "alt": [
     "Adliyah"
    ],
-   "apic": "Adliya"
+   "apic": "Adliya",
+   "qar": [
+    [
+     "Manama",
+     "المنامة"
+    ]
+   ]
   },
   {
    "q": "Which British adviser to Bahrain's rulers from 1926 to 1957 oversaw the building of Bab Al Bahrain?",
@@ -1476,24 +1683,42 @@
    "alt": [
     "Belgrave"
    ],
-   "apic": "Charles Belgrave"
+   "apic": "Charles Belgrave",
+   "qar": [
+    [
+     "Bab Al Bahrain",
+     "باب البحرين"
+    ]
+   ]
   },
   {
    "q": "Which popular Gulf eating fish is called 'safi' in Bahrain?",
    "a": "Rabbitfish",
    "p": 400,
-   "ar": "صافي",
    "alt": [
     "Safi"
    ],
-   "apic": "Rabbitfish"
+   "apic": "Rabbitfish",
+   "qar": [
+    [
+     "safi",
+     "صافي"
+    ]
+   ]
   },
   {
    "q": "The King Fahd Causeway is named after a king of which country?",
    "a": "Saudi Arabia",
    "p": 200,
    "pic": "King Fahd Causeway",
-   "apic": "Saudi Arabia"
+   "apic": "Saudi Arabia",
+   "ar": "السعودية",
+   "qar": [
+    [
+     "King Fahd Causeway",
+     "جسر الملك فهد"
+    ]
+   ]
   }
  ]
 }

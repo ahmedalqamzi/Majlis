@@ -59,7 +59,6 @@
    "q": "By what name were the emirates collectively known under British protection before 1971?",
    "a": "Trucial States",
    "p": 400,
-   "ar": "الإمارات المتصالحة",
    "alt": [
     "Trucial Coast",
     "Trucial Oman"
@@ -70,7 +69,6 @@
    "q": "Before oil, which diving-based industry was the main source of income on the Gulf coast?",
    "a": "Pearling (pearl diving)",
    "p": 200,
-   "ar": "الغوص على اللؤلؤ",
    "alt": [
     "Pearl diving",
     "Ghaws"
@@ -86,7 +84,13 @@
     "Sheikh Rashid",
     "Rashid bin Saeed"
    ],
-   "apic": "Rashid bin Saeed Al Maktoum"
+   "apic": "Rashid bin Saeed Al Maktoum",
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
+   ]
   },
   {
    "q": "What are the four colours of the UAE flag?",
@@ -108,7 +112,17 @@
   {
    "q": "In which year did Sheikh Zayed become Ruler of Abu Dhabi?",
    "a": "1966",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Sheikh Zayed",
+     "الشيخ زايد"
+    ],
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "Whom did Sheikh Zayed succeed as Ruler of Abu Dhabi?",
@@ -120,18 +134,33 @@
     "Shakhbut bin Sultan"
    ],
    "pic": "Zayed bin Sultan Al Nahyan",
-   "apic": "Shakhbut bin Sultan Al Nahyan"
+   "apic": "Shakhbut bin Sultan Al Nahyan",
+   "qar": [
+    [
+     "Sheikh Zayed",
+     "الشيخ زايد"
+    ],
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "In which year did Abu Dhabi first export crude oil commercially?",
    "a": "1962",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "What 1853 agreement between Britain and coastal sheikhs gave the Trucial States their name?",
    "a": "Perpetual Maritime Truce",
    "p": 600,
-   "ar": "الهدنة البحرية الدائمة",
    "alt": [
     "Perpetual Truce"
    ]
@@ -152,7 +181,13 @@
     "Al Wasl Dome",
     "Al Wasl"
    ],
-   "apic": "Al Wasl Plaza"
+   "apic": "Al Wasl Plaza",
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
+   ]
   },
   {
    "q": "Which is the largest emirate of the UAE by area?",
@@ -198,19 +233,30 @@
    "q": "Which art museum on Saadiyat Island opened in 2017 in partnership with France?",
    "a": "Louvre Abu Dhabi",
    "p": 200,
-   "apic": "Louvre Abu Dhabi"
+   "apic": "Louvre Abu Dhabi",
+   "qar": [
+    [
+     "Saadiyat Island",
+     "جزيرة السعديات"
+    ]
+   ]
   },
   {
    "q": "In which year did the Burj Khalifa officially open?",
    "a": "2010",
    "p": 400,
-   "pic": "Burj Khalifa"
+   "pic": "Burj Khalifa",
+   "qar": [
+    [
+     "Burj Khalifa",
+     "برج خليفة"
+    ]
+   ]
   },
   {
    "q": "What is the name of the traditional wooden sailing vessel of the Gulf?",
    "a": "Dhow",
    "p": 200,
-   "ar": "الداو",
    "alt": [
     "Dau",
     "Dhau"
@@ -221,7 +267,6 @@
    "q": "Which bird is the national bird of the UAE?",
    "a": "Falcon",
    "p": 200,
-   "ar": "الصقر",
    "alt": [
     "Saqr"
    ],
@@ -258,7 +303,13 @@
     "Jebel Hafit",
     "Jabal Hafit"
    ],
-   "apic": "Jebel Hafeet"
+   "apic": "Jebel Hafeet",
+   "qar": [
+    [
+     "Al Ain",
+     "العين"
+    ]
+   ]
   },
   {
    "q": "Al Ain is part of which emirate?",
@@ -266,7 +317,13 @@
    "p": 200,
    "ar": "أبوظبي",
    "pic": "Al Ain",
-   "apic": "Emirate of Abu Dhabi"
+   "apic": "Emirate of Abu Dhabi",
+   "qar": [
+    [
+     "Al Ain",
+     "العين"
+    ]
+   ]
   },
   {
    "q": "Which landmark Abu Dhabi mosque, with 82 domes, is the UAE's largest?",
@@ -278,7 +335,13 @@
     "Sheikh Zayed Mosque",
     "Zayed Grand Mosque"
    ],
-   "apic": "Sheikh Zayed Grand Mosque"
+   "apic": "Sheikh Zayed Grand Mosque",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "What is the title of the UAE national anthem?",
@@ -300,6 +363,12 @@
    "alt": [
     "The Palm",
     "Palm Jumeira"
+   ],
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
    ]
   },
   {
@@ -309,6 +378,12 @@
    "ar": "طيران الإمارات",
    "alt": [
     "Emirates Airline"
+   ],
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
    ]
   },
   {
@@ -326,7 +401,13 @@
    "p": 200,
    "ar": "دبي",
    "pic": "Mohammed bin Rashid Space Centre",
-   "apic": "Emirate of Dubai"
+   "apic": "Emirate of Dubai",
+   "qar": [
+    [
+     "Mohammed bin Rashid Space Centre",
+     "مركز محمد بن راشد للفضاء"
+    ]
+   ]
   },
   {
    "q": "What is the traditional Arabic coffee pot called?",
@@ -366,12 +447,24 @@
     "Qasr Al Hisn",
     "White Fort"
    ],
-   "apic": "Qasr Al Hosn"
+   "apic": "Qasr Al Hosn",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "What does the Arabic word 'burj' mean in English?",
    "a": "Tower",
-   "p": 200
+   "p": 200,
+   "qar": [
+    [
+     "burj",
+     "برج"
+    ]
+   ]
   },
   {
    "q": "What is the name of the waterway that separates Deira and Bur Dubai?",
@@ -382,7 +475,17 @@
     "Khor Dubai",
     "The Creek"
    ],
-   "apic": "Dubai Creek"
+   "apic": "Dubai Creek",
+   "qar": [
+    [
+     "Deira",
+     "ديرة"
+    ],
+    [
+     "Bur Dubai",
+     "بر دبي"
+    ]
+   ]
   },
   {
    "q": "Which colour is the vertical band on the left of the UAE flag?",
@@ -393,7 +496,6 @@
    "q": "Which antelope is the UAE's national animal?",
    "a": "Arabian oryx",
    "p": 200,
-   "ar": "المها العربي",
    "alt": [
     "Maha",
     "Al Maha"
@@ -426,12 +528,24 @@
    "q": "In which year did the Sheikh Zayed Grand Mosque open to the public?",
    "a": "2007",
    "p": 400,
-   "pic": "Sheikh Zayed Grand Mosque"
+   "pic": "Sheikh Zayed Grand Mosque",
+   "qar": [
+    [
+     "Sheikh Zayed Grand Mosque",
+     "جامع الشيخ زايد الكبير"
+    ]
+   ]
   },
   {
    "q": "In which year was the UAE dirham introduced?",
    "a": "1973",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "dirham",
+     "درهم"
+    ]
+   ]
   },
   {
    "q": "On what date is UAE Flag Day marked each year?",
@@ -452,34 +566,71 @@
    "q": "In which year did the Dubai Metro open?",
    "a": "2009",
    "p": 400,
-   "pic": "Dubai Metro"
+   "pic": "Dubai Metro",
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
+   ]
   },
   {
    "q": "How tall is the Burj Khalifa, in metres?",
    "a": "828 metres",
    "p": 400,
-   "apic": "Burj Khalifa"
+   "apic": "Burj Khalifa",
+   "qar": [
+    [
+     "Burj Khalifa",
+     "برج خليفة"
+    ]
+   ]
   },
   {
    "q": "What was the Burj Khalifa called during construction?",
    "a": "Burj Dubai",
    "p": 400,
    "ar": "برج دبي",
-   "apic": "Burj Khalifa"
+   "apic": "Burj Khalifa",
+   "qar": [
+    [
+     "Burj Khalifa",
+     "برج خليفة"
+    ]
+   ]
   },
   {
    "q": "Which Dubai building, where the UAE flag was first raised in 1971, stands beside the Etihad Museum?",
    "a": "Union House",
    "p": 400,
-   "ar": "بيت الاتحاد",
    "pic": "Etihad Museum",
-   "apic": "Union House"
+   "apic": "Union House",
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ],
+    [
+     "Etihad Museum",
+     "متحف الاتحاد"
+    ]
+   ]
   },
   {
    "q": "In which year did the Etihad Museum open in Dubai?",
    "a": "2016",
    "p": 400,
-   "pic": "Etihad Museum"
+   "pic": "Etihad Museum",
+   "qar": [
+    [
+     "Etihad Museum",
+     "متحف الاتحاد"
+    ],
+    [
+     "Dubai",
+     "دبي"
+    ]
+   ]
   },
   {
    "q": "What is the Arabic name of the Hope Probe, meaning 'Hope'?",
@@ -501,25 +652,49 @@
    "a": "Kazakhstan",
    "p": 400,
    "pic": "Hazza Al Mansouri",
-   "apic": "Kazakhstan"
+   "apic": "Kazakhstan",
+   "qar": [
+    [
+     "Hazza Al Mansouri",
+     "هزاع المنصوري"
+    ]
+   ]
   },
   {
    "q": "What first for an Arab did Sultan Al Neyadi achieve outside the ISS in 2023?",
    "a": "A spacewalk",
    "p": 400,
    "pic": "Sultan Al Neyadi",
-   "apic": "Spacewalk"
+   "apic": "Spacewalk",
+   "qar": [
+    [
+     "Sultan Al Neyadi",
+     "سلطان النيادي"
+    ]
+   ]
   },
   {
    "q": "In which year was Dubai chosen to host Expo 2020?",
    "a": "2013",
    "p": 600,
-   "pic": "Expo 2020"
+   "pic": "Expo 2020",
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
+   ]
   },
   {
    "q": "What was the theme of Expo 2020 Dubai?",
    "a": "Connecting Minds, Creating the Future",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
+   ]
   },
   {
    "q": "Which family rules the emirate of Dubai?",
@@ -528,6 +703,12 @@
    "ar": "آل مكتوم",
    "alt": [
     "Maktoum"
+   ],
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
    ]
   },
   {
@@ -538,6 +719,12 @@
    "alt": [
     "Qasimi",
     "Al Qassimi"
+   ],
+   "qar": [
+    [
+     "Sharjah",
+     "الشارقة"
+    ]
    ]
   },
   {
@@ -547,6 +734,12 @@
    "ar": "الشرقي",
    "alt": [
     "Sharqi"
+   ],
+   "qar": [
+    [
+     "Fujairah",
+     "الفجيرة"
+    ]
    ]
   },
   {
@@ -609,7 +802,13 @@
   {
    "q": "In which year were the Cultural Sites of Al Ain added to UNESCO's World Heritage List?",
    "a": "2011",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Al Ain",
+     "العين"
+    ]
+   ]
   },
   {
    "q": "What is the highest mountain in the UAE?",
@@ -632,7 +831,13 @@
    "a": "South Korea",
    "p": 400,
    "pic": "Barakah nuclear power plant",
-   "apic": "South Korea"
+   "apic": "South Korea",
+   "qar": [
+    [
+     "Barakah",
+     "براكة"
+    ]
+   ]
   },
   {
    "q": "In which year was the UAE's constitution made permanent?",
@@ -642,7 +847,17 @@
   {
    "q": "In which year did Sheikh Shakhbut grant the first onshore oil concession in Abu Dhabi?",
    "a": "1939",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Sheikh Shakhbut",
+     "الشيخ شخبوط"
+    ],
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "Which Dubai fort, built around 1787, is the city's oldest existing building?",
@@ -653,28 +868,66 @@
     "Fahidi Fort",
     "Al Fahidi Fortress"
    ],
-   "apic": "Al Fahidi Fort"
+   "apic": "Al Fahidi Fort",
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
+   ]
   },
   {
    "q": "In which year was Dubai's Fateh oil field discovered?",
    "a": "1966",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ],
+    [
+     "Fateh",
+     "فاتح"
+    ]
+   ]
   },
   {
    "q": "In which year did Dubai begin exporting oil?",
    "a": "1969",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
+   ]
   },
   {
    "q": "In which year was oil discovered at the offshore Umm Shaif field of Abu Dhabi?",
    "a": "1958",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Umm Shaif",
+     "أم الشيف"
+    ],
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "In which year was the Abu Dhabi National Oil Company (ADNOC) founded?",
    "a": "1971",
    "p": 600,
-   "pic": "Abu Dhabi National Oil Company"
+   "pic": "Abu Dhabi National Oil Company",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "The first Emirati martyr, honoured on Commemoration Day, died in 1971 defending which island?",
@@ -704,13 +957,25 @@
   {
    "q": "In which year was Fujairah recognised by Britain as a Trucial State?",
    "a": "1952",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Fujairah",
+     "الفجيرة"
+    ]
+   ]
   },
   {
    "q": "Which two emirates agreed to form a union in 1968 at Al Sameeh?",
    "a": "Abu Dhabi and Dubai",
    "p": 600,
-   "ar": "أبوظبي ودبي"
+   "ar": "أبوظبي ودبي",
+   "qar": [
+    [
+     "Al Sameeh",
+     "السميح"
+    ]
+   ]
   },
   {
    "q": "Who became the UAE's first female federal minister in 2004?",
@@ -730,12 +995,24 @@
    "ar": "المنطقة الشرقية",
    "alt": [
     "Al Ain"
+   ],
+   "qar": [
+    [
+     "Sheikh Zayed",
+     "الشيخ زايد"
+    ]
    ]
   },
   {
    "q": "In which year did Sheikh Zayed pass away?",
    "a": "2004",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "Sheikh Zayed",
+     "الشيخ زايد"
+    ]
+   ]
   },
   {
    "q": "Which Bronze Age culture is named after an island near Abu Dhabi?",
@@ -748,7 +1025,13 @@
     "Umm al-Nar"
    ],
    "pic": "Umm an-Nar culture",
-   "apic": "Umm an-Nar Island"
+   "apic": "Umm an-Nar Island",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "Which Abu Dhabi island has the remains of a 7th to 8th century Christian monastery?",
@@ -758,19 +1041,45 @@
    "alt": [
     "Sir Bani Yas Island"
    ],
-   "apic": "Sir Bani Yas"
+   "apic": "Sir Bani Yas",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "Which island, subject to a 1971 memorandum of understanding between Sharjah and Iran, remains disputed?",
    "a": "Abu Musa",
    "p": 600,
    "ar": "أبو موسى",
-   "apic": "Abu Musa"
+   "apic": "Abu Musa",
+   "qar": [
+    [
+     "Sharjah",
+     "الشارقة"
+    ]
+   ]
   },
   {
    "q": "In which year did the Al Bu Falasah branch of the Bani Yas leave Abu Dhabi and settle at Dubai Creek?",
    "a": "1833",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Al Bu Falasah",
+     "آل بو فلاسة"
+    ],
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ],
+    [
+     "Dubai Creek",
+     "خور دبي"
+    ]
+   ]
   },
   {
    "q": "What is the captain of a traditional pearling boat called?",
@@ -833,7 +1142,13 @@
     "Sheikh Mohammed bin Rashid",
     "Mohammed bin Rashid"
    ],
-   "apic": "Mohammed bin Rashid Al Maktoum"
+   "apic": "Mohammed bin Rashid Al Maktoum",
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
+   ]
   },
   {
    "q": "Which family rules the emirate of Abu Dhabi?",
@@ -843,6 +1158,12 @@
    "alt": [
     "Nahyan",
     "Al Nahayan"
+   ],
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
    ]
   },
   {
@@ -855,7 +1176,13 @@
     "Khalifa"
    ],
    "pic": "Burj Khalifa",
-   "apic": "Khalifa bin Zayed Al Nahyan"
+   "apic": "Khalifa bin Zayed Al Nahyan",
+   "qar": [
+    [
+     "Burj Khalifa",
+     "برج خليفة"
+    ]
+   ]
   },
   {
    "q": "Which global pandemic caused Expo 2020 Dubai to be postponed by a year?",
@@ -865,6 +1192,12 @@
     "Covid",
     "Coronavirus",
     "Coronavirus pandemic"
+   ],
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
    ]
   },
   {
@@ -874,18 +1207,29 @@
    "alt": [
     "Francis"
    ],
-   "apic": "Pope Francis"
+   "apic": "Pope Francis",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "Which six-member Gulf regional organisation was founded in Abu Dhabi in 1981?",
    "a": "Gulf Cooperation Council",
    "p": 200,
-   "ar": "مجلس التعاون الخليجي",
    "alt": [
     "GCC",
     "Cooperation Council for the Arab States of the Gulf"
    ],
-   "apic": "Gulf Cooperation Council"
+   "apic": "Gulf Cooperation Council",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "Which country borders the UAE to the south and west?",
@@ -906,13 +1250,18 @@
    "alt": [
     "Sultanate of Oman"
    ],
-   "apic": "Oman"
+   "apic": "Oman",
+   "qar": [
+    [
+     "Musandam",
+     "مسندم"
+    ]
+   ]
   },
   {
    "q": "What is the official language of the UAE?",
    "a": "Arabic",
-   "p": 200,
-   "ar": "العربية"
+   "p": 200
   },
   {
    "q": "In which year did the UAE switch its weekend to Saturday and Sunday?",
@@ -968,7 +1317,6 @@
    "q": "What theme did the UAE give the year 2019?",
    "a": "Tolerance",
    "p": 200,
-   "ar": "التسامح",
    "alt": [
     "Year of Tolerance"
    ]
@@ -977,7 +1325,6 @@
    "q": "Inside which sea creatures did Gulf pearl divers find pearls?",
    "a": "Oysters",
    "p": 200,
-   "ar": "المحار",
    "alt": [
     "Pearl oysters",
     "Oyster"
@@ -988,7 +1335,6 @@
    "q": "Which animal, the 'ship of the desert', was the Bedouins' main means of desert travel?",
    "a": "Camel",
    "p": 200,
-   "ar": "الجمل",
    "alt": [
     "Camels",
     "Jamal"
@@ -999,7 +1345,6 @@
    "q": "Which natural resource, found in the late 1950s and 1960s, transformed the UAE's economy?",
    "a": "Oil",
    "p": 200,
-   "ar": "النفط",
    "alt": [
     "Petroleum",
     "Crude oil"
@@ -1010,13 +1355,22 @@
    "q": "Before oil, which fruit was the main crop of oases such as Liwa and Al Ain?",
    "a": "Dates",
    "p": 200,
-   "ar": "التمر",
    "alt": [
     "Date",
     "Tamr"
    ],
    "pic": "Liwa Oasis",
-   "apic": "Phoenix dactylifera"
+   "apic": "Phoenix dactylifera",
+   "qar": [
+    [
+     "Liwa",
+     "ليوا"
+    ],
+    [
+     "Al Ain",
+     "العين"
+    ]
+   ]
   },
   {
    "q": "Which son of Sheikh Rashid became the UAE's first Prime Minister in 1971?",
@@ -1027,7 +1381,13 @@
     "Maktoum bin Rashid",
     "Sheikh Maktoum"
    ],
-   "apic": "Maktoum bin Rashid Al Maktoum"
+   "apic": "Maktoum bin Rashid Al Maktoum",
+   "qar": [
+    [
+     "Sheikh Rashid",
+     "الشيخ راشد"
+    ]
+   ]
   },
   {
    "q": "Which family rules the emirate of Ajman?",
@@ -1037,6 +1397,12 @@
    "alt": [
     "Nuaimi",
     "Al Nuami"
+   ],
+   "qar": [
+    [
+     "Ajman",
+     "عجمان"
+    ]
    ]
   },
   {
@@ -1047,6 +1413,12 @@
    "alt": [
     "Mualla",
     "Al Moalla"
+   ],
+   "qar": [
+    [
+     "Umm Al Quwain",
+     "أم القيوين"
+    ]
    ]
   },
   {
@@ -1057,7 +1429,17 @@
    "alt": [
     "RAK"
    ],
-   "apic": "Emirate of Ras Al Khaimah"
+   "apic": "Emirate of Ras Al Khaimah",
+   "qar": [
+    [
+     "Sharjah",
+     "الشارقة"
+    ],
+    [
+     "Al Qasimi",
+     "القاسمي"
+    ]
+   ]
   },
   {
    "q": "By tradition, the Ruler of which emirate serves as the UAE's Vice President and Prime Minister?",
@@ -1083,8 +1465,7 @@
   {
    "q": "The 'Trucial' in Trucial States comes from which English word?",
    "a": "Truce",
-   "p": 400,
-   "ar": "هدنة"
+   "p": 400
   },
   {
    "q": "Before the 1960s, which country's rupee was the main currency of the Trucial States?",
@@ -1099,18 +1480,29 @@
    "q": "In which year was Sheikh Zayed bin Sultan Al Nahyan born?",
    "a": "1918",
    "p": 400,
-   "pic": "Zayed bin Sultan Al Nahyan"
+   "pic": "Zayed bin Sultan Al Nahyan",
+   "qar": [
+    [
+     "Sheikh Zayed bin Sultan Al Nahyan",
+     "الشيخ زايد بن سلطان آل نهيان"
+    ]
+   ]
   },
   {
    "q": "In which year did Sheikh Khalifa bin Zayed pass away?",
    "a": "2022",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "Sheikh Khalifa bin Zayed",
+     "الشيخ خليفة بن زايد"
+    ]
+   ]
   },
   {
    "q": "What is the UAE's federal consultative parliamentary body called?",
    "a": "Federal National Council",
    "p": 400,
-   "ar": "المجلس الوطني الاتحادي",
    "alt": [
     "FNC"
    ]
@@ -1119,7 +1511,6 @@
    "q": "What is the UAE's highest constitutional authority, made up of the rulers of the seven emirates?",
    "a": "Federal Supreme Council",
    "p": 400,
-   "ar": "المجلس الأعلى للاتحاد",
    "alt": [
     "Supreme Council",
     "Supreme Council of the Union"
@@ -1135,23 +1526,33 @@
     "Dubai Expo"
    ],
    "pic": "Saruq Al Hadid",
-   "apic": "Expo 2020"
+   "apic": "Expo 2020",
+   "qar": [
+    [
+     "Saruq Al Hadid",
+     "ساروق الحديد"
+    ]
+   ]
   },
   {
    "q": "Abu Dhabi hosted which international games for athletes with intellectual disabilities in 2019?",
    "a": "Special Olympics World Games",
    "p": 400,
-   "ar": "الألعاب العالمية للأولمبياد الخاص",
    "alt": [
     "Special Olympics"
    ],
-   "apic": "2019 Special Olympics World Summer Games"
+   "apic": "2019 Special Olympics World Summer Games",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "Which continental football tournament did the UAE host in 1996 and 2019?",
    "a": "AFC Asian Cup",
    "p": 400,
-   "ar": "كأس آسيا",
    "alt": [
     "Asian Cup"
    ],
@@ -1166,7 +1567,13 @@
     "Ma'rib Dam",
     "Marib"
    ],
-   "apic": "Marib Dam"
+   "apic": "Marib Dam",
+   "qar": [
+    [
+     "Sheikh Zayed",
+     "الشيخ زايد"
+    ]
+   ]
   },
   {
    "q": "Which planned eco-city in Abu Dhabi was launched in 2006?",
@@ -1176,7 +1583,13 @@
    "alt": [
     "Masdar"
    ],
-   "apic": "Masdar City"
+   "apic": "Masdar City",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "In which Gulf country was the British Political Residency for the Gulf based from 1946?",
@@ -1193,7 +1606,17 @@
    "alt": [
     "Bahraini dinar"
    ],
-   "apic": "Bahrain"
+   "apic": "Bahrain",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ],
+    [
+     "dirham",
+     "درهم"
+    ]
+   ]
   },
   {
    "q": "Which emirate's name means 'Head of the Tent'?",
@@ -1238,25 +1661,50 @@
    "ar": "مكتوم بن بطي",
    "alt": [
     "Sheikh Maktoum bin Butti"
+   ],
+   "qar": [
+    [
+     "Al Maktoum",
+     "آل مكتوم"
+    ],
+    [
+     "Dubai",
+     "دبي"
+    ]
    ]
   },
   {
    "q": "In which year did Sheikh Rashid bin Saeed become Ruler of Dubai?",
    "a": "1958",
    "p": 600,
-   "pic": "Rashid bin Saeed Al Maktoum"
+   "pic": "Rashid bin Saeed Al Maktoum",
+   "qar": [
+    [
+     "Sheikh Rashid bin Saeed",
+     "الشيخ راشد بن سعيد"
+    ],
+    [
+     "Dubai",
+     "دبي"
+    ]
+   ]
   },
   {
    "q": "In which year did Sheikh Rashid bin Saeed Al Maktoum pass away?",
    "a": "1990",
    "p": 600,
-   "pic": "Rashid bin Saeed Al Maktoum"
+   "pic": "Rashid bin Saeed Al Maktoum",
+   "qar": [
+    [
+     "Sheikh Rashid bin Saeed Al Maktoum",
+     "الشيخ راشد بن سعيد آل مكتوم"
+    ]
+   ]
   },
   {
    "q": "What did Britain rename the Trucial Oman Levies in 1956?",
    "a": "Trucial Oman Scouts",
    "p": 600,
-   "ar": "كشافة ساحل عمان",
    "alt": [
     "Trucial Scouts"
    ]
@@ -1275,16 +1723,27 @@
     "Saqr bin Mohammed",
     "Sheikh Saqr"
    ],
-   "apic": "Saqr bin Mohammed Al Qasimi"
+   "apic": "Saqr bin Mohammed Al Qasimi",
+   "qar": [
+    [
+     "Ras Al Khaimah",
+     "رأس الخيمة"
+    ]
+   ]
   },
   {
    "q": "Which bank opened the first bank branch in the Trucial States, in Dubai in 1946?",
    "a": "Imperial Bank of Iran",
    "p": 600,
-   "ar": "البنك الإمبراطوري الإيراني",
    "alt": [
     "British Bank of the Middle East",
     "HSBC"
+   ],
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
    ]
   },
   {
@@ -1294,6 +1753,12 @@
    "ar": "مستشفى آل مكتوم",
    "alt": [
     "Al Maktoum"
+   ],
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
    ]
   },
   {
@@ -1305,7 +1770,13 @@
     "Al Ahmadiya",
     "Ahmadiya School"
    ],
-   "apic": "Al Ahmadiya School"
+   "apic": "Al Ahmadiya School",
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
+   ]
   },
   {
    "q": "Which Iron Age metalworking site in the Dubai desert was spotted from a helicopter in 2002?",
@@ -1316,7 +1787,13 @@
     "Sarouq Al Hadid",
     "Saruq al-Hadid"
    ],
-   "apic": "Saruq Al Hadid"
+   "apic": "Saruq Al Hadid",
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
+   ]
   },
   {
    "q": "Which Bronze Age period, from about 2000 to 1600 BC, followed the Umm an-Nar period in the UAE?",
@@ -1325,6 +1802,12 @@
    "ar": "وادي سوق",
    "alt": [
     "Wadi Suq period"
+   ],
+   "qar": [
+    [
+     "Umm an-Nar",
+     "أم النار"
+    ]
    ]
   },
   {
@@ -1334,6 +1817,12 @@
    "ar": "حكيم العرب",
    "alt": [
     "Hakim Al Arab"
+   ],
+   "qar": [
+    [
+     "Sheikh Zayed",
+     "الشيخ زايد"
+    ]
    ]
   },
   {
@@ -1344,6 +1833,12 @@
    "alt": [
     "Salama bint Butti",
     "Sheikha Salama"
+   ],
+   "qar": [
+    [
+     "Sheikh Zayed",
+     "الشيخ زايد"
+    ]
    ]
   },
   {
@@ -1354,16 +1849,31 @@
    "alt": [
     "Sultan bin Zayed",
     "Sheikh Sultan"
+   ],
+   "qar": [
+    [
+     "Sheikh Zayed",
+     "الشيخ زايد"
+    ],
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
    ]
   },
   {
    "q": "Which women's organisation did Sheikha Fatima bint Mubarak found in 1975?",
    "a": "General Women's Union",
    "p": 600,
-   "ar": "الاتحاد النسائي العام",
    "alt": [
     "GWU",
     "Women's Union"
+   ],
+   "qar": [
+    [
+     "Sheikha Fatima bint Mubarak",
+     "الشيخة فاطمة بنت مبارك"
+    ]
    ]
   },
   {
@@ -1391,7 +1901,6 @@
    "q": "The UAE named 2016 the Year of what?",
    "a": "Reading",
    "p": 600,
-   "ar": "القراءة",
    "alt": [
     "Year of Reading"
    ]
@@ -1403,12 +1912,24 @@
    "alt": [
     "24 million",
     "24.1 million"
+   ],
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
    ]
   },
   {
    "q": "In which year did the Barakah plant's first reactor connect to the grid?",
    "a": "2020",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Barakah",
+     "براكة"
+    ]
+   ]
   },
   {
    "q": "Which Abu Dhabi island was the base for the emirate's first offshore oil export in 1962?",
@@ -1418,7 +1939,13 @@
    "alt": [
     "Das"
    ],
-   "apic": "Das Island"
+   "apic": "Das Island",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "What is the name of Abu Dhabi's flagship light crude oil grade, named after an onshore field?",
@@ -1427,6 +1954,12 @@
    "ar": "مربان",
    "alt": [
     "Murban crude"
+   ],
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
    ]
   },
   {
@@ -1453,7 +1986,16 @@
    "q": "Which disease outbreak in 1841 drove many Bur Dubai residents across the creek to Deira?",
    "a": "Smallpox",
    "p": 600,
-   "ar": "الجدري"
+   "qar": [
+    [
+     "Bur Dubai",
+     "بر دبي"
+    ],
+    [
+     "Deira",
+     "ديرة"
+    ]
+   ]
   }
  ]
 }

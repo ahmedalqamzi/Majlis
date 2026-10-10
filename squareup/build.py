@@ -8,7 +8,7 @@ for f in sorted(glob.glob('q/*.json')):
     d=json.load(open(f));qs=[]
     for q in d['questions']:
         if q.get('yt') and (q['yt'] in bad or q['yt'] not in chk): continue
-        qs.append({k:q[k] for k in ('q','a','p','ar','alt','yt','start','end','emoji','img','pic','apic','audio') if k in q and q[k] not in (None,"",[])})
+        qs.append({k:q[k] for k in ('q','a','p','ar','alt','yt','start','end','emoji','img','pic','apic','audio','qar') if k in q and q[k] not in (None,"",[])})
     bank[d['id']]={"id":d['id'],"name":d['name'],"questions":qs}
 for f in glob.glob('qimg/*.json'):
     d=json.load(open(f))

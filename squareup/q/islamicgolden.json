@@ -31,6 +31,12 @@
    "ar": "ابن سينا",
    "alt": [
     "Avicena"
+   ],
+   "qar": [
+    [
+     "Ibn Sina",
+     "ابن سينا"
+    ]
    ]
   },
   {
@@ -53,7 +59,13 @@
     "Qurtuba"
    ],
    "pic": "Mosque–Cathedral of Córdoba",
-   "apic": "Córdoba, Spain"
+   "apic": "Córdoba, Spain",
+   "qar": [
+    [
+     "Umayyad",
+     "الأموية"
+    ]
+   ]
   },
   {
    "q": "Which Moroccan traveller wrote the 'Rihla' about journeys across much of the known world in the 14th century?",
@@ -63,6 +75,12 @@
    "alt": [
     "Ibn Battutah",
     "Ibn Batuta"
+   ],
+   "qar": [
+    [
+     "Rihla",
+     "الرحلة"
+    ]
    ]
   },
   {
@@ -74,13 +92,22 @@
     "Harun Al Rashid",
     "Haroun al-Rashid",
     "Haroon Al Rasheed"
+   ],
+   "qar": [
+    [
+     "Abbasid",
+     "العباسي"
+    ],
+    [
+     "Baghdad",
+     "بغداد"
+    ]
    ]
   },
   {
    "q": "Which number system, now used worldwide, reached Europe largely through Arab scholars?",
    "a": "Hindu-Arabic numerals",
    "p": 200,
-   "ar": "الأرقام الهندية العربية",
    "alt": [
     "Arabic numerals",
     "Hindu Arabic numerals",
@@ -99,7 +126,13 @@
     "The Arabian Nights",
     "Thousand and One Nights"
    ],
-   "apic": "One Thousand and One Nights"
+   "apic": "One Thousand and One Nights",
+   "qar": [
+    [
+     "Scheherazade",
+     "شهرزاد"
+    ]
+   ]
   },
   {
    "q": "Which dynasty ruled from Baghdad during most of the Islamic Golden Age?",
@@ -109,6 +142,12 @@
    "alt": [
     "Abbasids",
     "Abbasid Caliphate"
+   ],
+   "qar": [
+    [
+     "Baghdad",
+     "بغداد"
+    ]
    ]
   },
   {
@@ -118,7 +157,13 @@
    "alt": [
     "Physics of light"
    ],
-   "apic": "Optics"
+   "apic": "Optics",
+   "qar": [
+    [
+     "Ibn al-Haytham",
+     "ابن الهيثم"
+    ]
+   ]
   },
   {
    "q": "Al-Khwarizmi is best known for founding which branch of mathematics?",
@@ -127,7 +172,13 @@
    "alt": [
     "Algebra"
    ],
-   "apic": "Algebra"
+   "apic": "Algebra",
+   "qar": [
+    [
+     "Al-Khwarizmi",
+     "الخوارزمي"
+    ]
+   ]
   },
   {
    "q": "What was the Arabic name for the Muslim-ruled parts of the Iberian Peninsula?",
@@ -158,6 +209,12 @@
    "p": 200,
    "alt": [
     "Medical science"
+   ],
+   "qar": [
+    [
+     "Al-Razi",
+     "الرازي"
+    ]
    ]
   },
   {
@@ -166,6 +223,12 @@
    "p": 200,
    "alt": [
     "Surgical science"
+   ],
+   "qar": [
+    [
+     "Al-Zahrawi",
+     "الزهراوي"
+    ]
    ]
   },
   {
@@ -176,6 +239,12 @@
     "Engineering",
     "Mechanical engineer",
     "Inventor"
+   ],
+   "qar": [
+    [
+     "Al-Jazari",
+     "الجزري"
+    ]
    ]
   },
   {
@@ -184,6 +253,16 @@
    "p": 200,
    "alt": [
     "Philosopher"
+   ],
+   "qar": [
+    [
+     "Ibn Rushd",
+     "ابن رشد"
+    ],
+    [
+     "Cordoba",
+     "قرطبة"
+    ]
    ]
   },
   {
@@ -195,6 +274,12 @@
     "Dijla",
     "River Tigris",
     "The Tigris"
+   ],
+   "qar": [
+    [
+     "Baghdad",
+     "بغداد"
+    ]
    ]
   },
   {
@@ -212,7 +297,6 @@
    "q": "Which writing material, spread across the Islamic world, made books cheaper than parchment?",
    "a": "Paper",
    "p": 200,
-   "ar": "ورق",
    "alt": [
     "Waraq"
    ],
@@ -232,17 +316,21 @@
    "q": "Which board game, with the Arabic name 'shatranj', reached Europe through the Islamic world?",
    "a": "Chess",
    "p": 200,
-   "ar": "شطرنج",
    "alt": [
     "Shatranj"
    ],
-   "apic": "Chess"
+   "apic": "Chess",
+   "qar": [
+    [
+     "shatranj",
+     "شطرنج"
+    ]
+   ]
   },
   {
    "q": "Which drink, grown in Yemen by the 15th century, spread through the Islamic world to Europe?",
    "a": "Coffee",
    "p": 200,
-   "ar": "قهوة",
    "alt": [
     "Qahwa",
     "Kahwa"
@@ -253,18 +341,22 @@
    "q": "Which large animal features in Al-Jazari's famous water clock?",
    "a": "Elephant",
    "p": 200,
-   "ar": "فيل",
    "alt": [
     "Fil",
     "The elephant"
    ],
-   "apic": "Elephant"
+   "apic": "Elephant",
+   "qar": [
+    [
+     "Al-Jazari",
+     "الجزري"
+    ]
+   ]
   },
   {
    "q": "Which traditional Arab sailing ship with a triangular sail carried trade across the Indian Ocean?",
    "a": "Dhow",
    "p": 200,
-   "ar": "داو",
    "alt": [
     "Dau",
     "Dhaw"
@@ -284,9 +376,22 @@
    "q": "Star names like Altair, Aldebaran and Betelgeuse come mostly from which language?",
    "a": "Arabic",
    "p": 200,
-   "ar": "العربية",
    "alt": [
     "Arabic language"
+   ],
+   "qar": [
+    [
+     "Altair",
+     "الطائر"
+    ],
+    [
+     "Aldebaran",
+     "الدبران"
+    ],
+    [
+     "Betelgeuse",
+     "يد الجوزاء"
+    ]
    ]
   },
   {
@@ -295,18 +400,41 @@
    "p": 200,
    "alt": [
     "Astronomical science"
+   ],
+   "qar": [
+    [
+     "Al-Battani",
+     "البتاني"
+    ],
+    [
+     "Al-Sufi",
+     "الصوفي"
+    ],
+    [
+     "Al-Biruni",
+     "البيروني"
+    ]
    ]
   },
   {
    "q": "Ibn Battuta's famous travel book is called the 'Rihla'. What does Rihla mean?",
    "a": "Journey",
    "p": 200,
-   "ar": "رحلة",
    "alt": [
     "Travel",
     "Voyage",
     "The journey",
     "Trip"
+   ],
+   "qar": [
+    [
+     "Ibn Battuta",
+     "ابن بطوطة"
+    ],
+    [
+     "Rihla",
+     "رحلة"
+    ]
    ]
   },
   {
@@ -318,13 +446,18 @@
     "Gharnata"
    ],
    "pic": "Alhambra",
-   "apic": "Granada"
+   "apic": "Granada",
+   "qar": [
+    [
+     "Alhambra",
+     "قصر الحمراء"
+    ]
+   ]
   },
   {
    "q": "Arab scholars helped spread the use of which digit, written as a circle, as a placeholder?",
    "a": "Zero",
    "p": 200,
-   "ar": "صفر",
    "alt": [
     "Sifr",
     "0"
@@ -351,7 +484,17 @@
     "Qahira"
    ],
    "pic": "Al-Azhar Mosque",
-   "apic": "Cairo"
+   "apic": "Cairo",
+   "qar": [
+    [
+     "Fatimids",
+     "الفاطميين"
+    ],
+    [
+     "Al-Azhar",
+     "الأزهر"
+    ]
+   ]
   },
   {
    "q": "Which patterned fabric's English name comes from the Syrian city of Damascus?",
@@ -360,7 +503,13 @@
    "alt": [
     "Damask cloth"
    ],
-   "apic": "Damask"
+   "apic": "Damask",
+   "qar": [
+    [
+     "Damascus",
+     "دمشق"
+    ]
+   ]
   },
   {
    "q": "Which fine cotton cloth's English name comes from the Iraqi city of Mosul?",
@@ -369,7 +518,13 @@
    "alt": [
     "Muslin cloth"
    ],
-   "apic": "Muslin"
+   "apic": "Muslin",
+   "qar": [
+    [
+     "Mosul",
+     "الموصل"
+    ]
+   ]
   },
   {
    "q": "In which Sicilian city did Al-Idrisi work at the court of King Roger II?",
@@ -378,7 +533,13 @@
    "alt": [
     "Palermo, Sicily"
    ],
-   "apic": "Palermo"
+   "apic": "Palermo",
+   "qar": [
+    [
+     "Al-Idrisi",
+     "الإدريسي"
+    ]
+   ]
   },
   {
    "q": "Which scholar, called the father of modern optics, wrote the Book of Optics?",
@@ -418,12 +579,17 @@
    "q": "Ibn Rushd wrote famous commentaries on the works of which Greek philosopher?",
    "a": "Aristotle",
    "p": 400,
-   "ar": "أرسطو",
    "alt": [
     "Aristotelis",
     "Aristo"
    ],
-   "apic": "Aristotle"
+   "apic": "Aristotle",
+   "qar": [
+    [
+     "Ibn Rushd",
+     "ابن رشد"
+    ]
+   ]
   },
   {
    "q": "Ibn Rushd was known in medieval Europe by which Latinised name?",
@@ -432,6 +598,12 @@
    "ar": "ابن رشد",
    "alt": [
     "Averroës"
+   ],
+   "qar": [
+    [
+     "Ibn Rushd",
+     "ابن رشد"
+    ]
    ]
   },
   {
@@ -442,6 +614,12 @@
    "alt": [
     "Ibn Khaldoun",
     "Ibn Khaldoon"
+   ],
+   "qar": [
+    [
+     "Muqaddimah",
+     "المقدمة"
+    ]
    ]
   },
   {
@@ -454,6 +632,12 @@
     "Albucasis",
     "Al-Zahravi",
     "Zahrawi"
+   ],
+   "qar": [
+    [
+     "Al-Tasrif",
+     "التصريف"
+    ]
    ]
   },
   {
@@ -476,17 +660,33 @@
     "Fes"
    ],
    "pic": "University of al-Qarawiyyin",
-   "apic": "Fez, Morocco"
+   "apic": "Fez, Morocco",
+   "qar": [
+    [
+     "Al-Qarawiyyin",
+     "القرويين"
+    ]
+   ]
   },
   {
    "q": "Which woman founded the Al-Qarawiyyin institution in Fez in 859?",
    "a": "Fatima al-Fihri",
    "p": 400,
-   "ar": "فاطمة الفهري",
+   "ar": "فاطمة الفهرية",
    "alt": [
     "Fatima Al Fihri",
     "Fatima al Fihriya",
     "Fatima Fihri"
+   ],
+   "qar": [
+    [
+     "Al-Qarawiyyin",
+     "القرويين"
+    ],
+    [
+     "Fez",
+     "فاس"
+    ]
    ]
   },
   {
@@ -508,6 +708,12 @@
    "alt": [
     "Ibn Firnas",
     "Abbas Ibn Firnas"
+   ],
+   "qar": [
+    [
+     "Cordoba",
+     "قرطبة"
+    ]
    ]
   },
   {
@@ -529,6 +735,12 @@
     "Al Mansur",
     "Abu Jafar al-Mansur",
     "Al-Mansour"
+   ],
+   "qar": [
+    [
+     "Baghdad",
+     "بغداد"
+    ]
    ]
   },
   {
@@ -540,6 +752,12 @@
     "Al-Mamun",
     "Al Mamun",
     "Mamun"
+   ],
+   "qar": [
+    [
+     "Harun al-Rashid",
+     "هارون الرشيد"
+    ]
    ]
   },
   {
@@ -551,6 +769,12 @@
     "Bayt al Hikmah",
     "Beit al-Hikma",
     "Bait al-Hikmah"
+   ],
+   "qar": [
+    [
+     "Baghdad",
+     "بغداد"
+    ]
    ]
   },
   {
@@ -561,7 +785,13 @@
     "Pinhole camera",
     "Dark chamber"
    ],
-   "apic": "Camera obscura"
+   "apic": "Camera obscura",
+   "qar": [
+    [
+     "Ibn al-Haytham",
+     "ابن الهيثم"
+    ]
+   ]
   },
   {
    "q": "Which Italian mathematician learned Hindu-Arabic numerals in North Africa and popularised them in his 1202 book Liber Abaci?",
@@ -577,20 +807,34 @@
    "q": "Which English word for the pre-scientific forerunner of chemistry comes from the Arabic 'al-kimiya'?",
    "a": "Alchemy",
    "p": 400,
-   "ar": "الكيمياء",
    "alt": [
     "Alchemy"
+   ],
+   "qar": [
+    [
+     "al-kimiya",
+     "الكيمياء"
+    ]
    ]
   },
   {
    "q": "The Muqaddimah by Ibn Khaldun has a title meaning what in English?",
    "a": "Introduction",
    "p": 400,
-   "ar": "المقدمة",
    "alt": [
     "Prolegomena",
     "The Introduction",
     "Prolegomenon"
+   ],
+   "qar": [
+    [
+     "Muqaddimah",
+     "المقدمة"
+    ],
+    [
+     "Ibn Khaldun",
+     "ابن خلدون"
+    ]
    ]
   },
   {
@@ -601,6 +845,12 @@
    "alt": [
     "Mutanabbi",
     "Al Mutanabbi"
+   ],
+   "qar": [
+    [
+     "Kufa",
+     "الكوفة"
+    ]
    ]
   },
   {
@@ -613,7 +863,13 @@
     "Sindbad",
     "Sinbad al-Bahri"
    ],
-   "apic": "Sinbad the Sailor"
+   "apic": "Sinbad the Sailor",
+   "qar": [
+    [
+     "Basra",
+     "البصرة"
+    ]
+   ]
   },
   {
    "q": "Which storyteller in the Arabian Nights tells tales night after night to delay her fate?",
@@ -634,7 +890,13 @@
     "Hind",
     "The Indian subcontinent"
    ],
-   "apic": "India"
+   "apic": "India",
+   "qar": [
+    [
+     "Al-Biruni",
+     "البيروني"
+    ]
+   ]
   },
   {
    "q": "Which ancient Greek coin gave its name, via Arabic, to the dirham?",
@@ -643,7 +905,13 @@
    "alt": [
     "Drachm"
    ],
-   "apic": "Ancient drachma"
+   "apic": "Ancient drachma",
+   "qar": [
+    [
+     "dirham",
+     "درهم"
+    ]
+   ]
   },
   {
    "q": "In which Silk Road city in Uzbekistan did Ulugh Beg build a great observatory in the 15th century?",
@@ -660,7 +928,6 @@
    "q": "Which Greek mathematician's 'Elements' was translated into Arabic and later reached Europe through Arabic versions?",
    "a": "Euclid",
    "p": 400,
-   "ar": "إقليدس",
    "alt": [
     "Uqlidis",
     "Euclides"
@@ -673,6 +940,12 @@
    "p": 400,
    "alt": [
     "1258 CE"
+   ],
+   "qar": [
+    [
+     "Baghdad",
+     "بغداد"
+    ]
    ]
   },
   {
@@ -694,7 +967,13 @@
    "alt": [
     "Tunisia"
    ],
-   "apic": "Tunis"
+   "apic": "Tunis",
+   "qar": [
+    [
+     "Ibn Khaldun",
+     "ابن خلدون"
+    ]
+   ]
   },
   {
    "q": "In which Moroccan port city was Ibn Battuta born in 1304?",
@@ -705,7 +984,13 @@
     "Tanger",
     "Tangiers"
    ],
-   "apic": "Tangier"
+   "apic": "Tangier",
+   "qar": [
+    [
+     "Ibn Battuta",
+     "ابن بطوطة"
+    ]
+   ]
   },
   {
    "q": "Ibn al-Haytham stressed which approach to testing ideas, a basis of modern science?",
@@ -715,13 +1000,18 @@
     "Experiment",
     "Experiments",
     "Scientific method"
+   ],
+   "qar": [
+    [
+     "Ibn al-Haytham",
+     "ابن الهيثم"
+    ]
    ]
   },
   {
    "q": "Which sweet crop, grown widely across the Islamic world, was brought to Spain and Sicily in the Middle Ages?",
    "a": "Sugarcane",
    "p": 400,
-   "ar": "قصب السكر",
    "alt": [
     "Sugar cane",
     "Sugar"
@@ -736,6 +1026,20 @@
    "alt": [
     "Ziriab",
     "Zaryab"
+   ],
+   "qar": [
+    [
+     "Baghdad",
+     "بغداد"
+    ],
+    [
+     "Cordoba",
+     "قرطبة"
+    ],
+    [
+     "oud",
+     "العود"
+    ]
    ]
   },
   {
@@ -757,6 +1061,12 @@
     "Ibn Majid",
     "Ahmed ibn Majid",
     "Ahmad Ibn Majid"
+   ],
+   "qar": [
+    [
+     "Kitab al-Fawa'id",
+     "كتاب الفوائد"
+    ]
    ]
   },
   {
@@ -799,6 +1109,12 @@
     "Albatenius",
     "Battani",
     "Al Battani"
+   ],
+   "qar": [
+    [
+     "Raqqa",
+     "الرقة"
+    ]
    ]
   },
   {
@@ -810,6 +1126,12 @@
     "Banu Musa brothers",
     "Banu Musa ibn Shakir",
     "Banu Moses"
+   ],
+   "qar": [
+    [
+     "Baghdad",
+     "بغداد"
+    ]
    ]
   },
   {
@@ -821,6 +1143,12 @@
     "Mariam al-Ijliya",
     "Al-Ijliya",
     "Maryam al-Asturlabi"
+   ],
+   "qar": [
+    [
+     "Aleppo",
+     "حلب"
+    ]
    ]
   },
   {
@@ -853,6 +1181,12 @@
    "alt": [
     "Ibn Tufayl",
     "Abubacer"
+   ],
+   "qar": [
+    [
+     "Hayy ibn Yaqzan",
+     "حي بن يقظان"
+    ]
    ]
   },
   {
@@ -864,6 +1198,12 @@
     "Hunain ibn Ishaq",
     "Hunayn",
     "Johannitius"
+   ],
+   "qar": [
+    [
+     "Baghdad",
+     "بغداد"
+    ]
    ]
   },
   {
@@ -873,6 +1213,20 @@
    "ar": "ابن يونس",
    "alt": [
     "Ibn Yunis"
+   ],
+   "qar": [
+    [
+     "Fatimid",
+     "الفاطمي"
+    ],
+    [
+     "Cairo",
+     "القاهرة"
+    ],
+    [
+     "Hakimi Zij",
+     "الزيج الحاكمي"
+    ]
    ]
   },
   {
@@ -894,6 +1248,12 @@
     "Al-Tusi",
     "Tusi",
     "Nasir ad-Din Tusi"
+   ],
+   "qar": [
+    [
+     "Maragha",
+     "مراغة"
+    ]
    ]
   },
   {
@@ -904,6 +1264,12 @@
    "alt": [
     "Ulugbek",
     "Ulugh Bek"
+   ],
+   "qar": [
+    [
+     "Samarkand",
+     "سمرقند"
+    ]
    ]
   },
   {
@@ -914,6 +1280,12 @@
    "alt": [
     "Nizam ul-Mulk",
     "Nizam al Mulk"
+   ],
+   "qar": [
+    [
+     "Nizamiyya",
+     "النظامية"
+    ]
    ]
   },
   {
@@ -925,6 +1297,12 @@
     "Hulagu Khan",
     "Hulegu",
     "Hulaku"
+   ],
+   "qar": [
+    [
+     "Baghdad",
+     "بغداد"
+    ]
    ]
   },
   {
@@ -935,6 +1313,12 @@
    "alt": [
     "Thabit ibn Qurrah",
     "Thabit bin Qurra"
+   ],
+   "qar": [
+    [
+     "Baghdad",
+     "بغداد"
+    ]
    ]
   },
   {
@@ -947,6 +1331,16 @@
     "Healing",
     "Al-Shifa",
     "The Healing"
+   ],
+   "qar": [
+    [
+     "Ibn Sina",
+     "ابن سينا"
+    ],
+    [
+     "Al-Shifa",
+     "الشفاء"
+    ]
    ]
   },
   {
@@ -956,6 +1350,20 @@
    "ar": "تهافت التهافت",
    "alt": [
     "Incoherence of the Incoherence"
+   ],
+   "qar": [
+    [
+     "Ibn Rushd",
+     "ابن رشد"
+    ],
+    [
+     "Al-Ghazali",
+     "الغزالي"
+    ],
+    [
+     "Tahafut al-Tahafut",
+     "تهافت التهافت"
+    ]
    ]
   },
   {
@@ -977,7 +1385,13 @@
     "Bokhara",
     "Buhara"
    ],
-   "apic": "Bukhara"
+   "apic": "Bukhara",
+   "qar": [
+    [
+     "Ibn Sina",
+     "ابن سينا"
+    ]
+   ]
   },
   {
    "q": "Al-Jazari worked at Diyarbakir for rulers of which dynasty?",
@@ -988,6 +1402,16 @@
     "Artuqids",
     "Artukid",
     "Artukids"
+   ],
+   "qar": [
+    [
+     "Al-Jazari",
+     "الجزري"
+    ],
+    [
+     "Diyarbakir",
+     "ديار بكر"
+    ]
    ]
   },
   {
@@ -999,6 +1423,12 @@
     "Round City",
     "Madinat al-Salam",
     "City of Peace"
+   ],
+   "qar": [
+    [
+     "Baghdad",
+     "بغداد"
+    ]
    ]
   },
   {
@@ -1011,7 +1441,17 @@
     "Madinat Al Zahra",
     "Medina Azahara"
    ],
-   "apic": "Madinat al-Zahra"
+   "apic": "Madinat al-Zahra",
+   "qar": [
+    [
+     "Cordoba",
+     "قرطبة"
+    ],
+    [
+     "Abd al-Rahman III",
+     "عبد الرحمن الثالث"
+    ]
+   ]
   },
   {
    "q": "Fibonacci studied Hindu-Arabic numerals in a North African port, today in which Algerian city?",
@@ -1029,9 +1469,14 @@
    "q": "On Al-Idrisi's 1154 world map, which compass direction was placed at the top?",
    "a": "South",
    "p": 600,
-   "ar": "الجنوب",
    "alt": [
     "South at the top"
+   ],
+   "qar": [
+    [
+     "Al-Idrisi",
+     "الإدريسي"
+    ]
    ]
   },
   {
@@ -1053,6 +1498,16 @@
     "Umayyads",
     "Umayyad Caliphate",
     "Omayyad"
+   ],
+   "qar": [
+    [
+     "Damascus",
+     "دمشق"
+    ],
+    [
+     "Abbasids",
+     "العباسيين"
+    ]
    ]
   },
   {
@@ -1063,20 +1518,24 @@
    "alt": [
     "Khalifa",
     "Khalifah"
+   ],
+   "qar": [
+    [
+     "Abbasid",
+     "العباسية"
+    ]
    ]
   },
   {
    "q": "From which country did the art of paper-making reach the Islamic world in the 8th century?",
    "a": "China",
    "p": 200,
-   "ar": "الصين",
    "apic": "China"
   },
   {
    "q": "In which language did most scholars of the Golden Age, from Spain to Central Asia, write their works?",
    "a": "Arabic",
-   "p": 200,
-   "ar": "العربية"
+   "p": 200
   },
   {
    "q": "Which Persian poet and mathematician is famous for the Rubaiyat?",
@@ -1086,6 +1545,12 @@
    "alt": [
     "Khayyam",
     "Omar Khayyám"
+   ],
+   "qar": [
+    [
+     "Rubaiyat",
+     "الرباعيات"
+    ]
    ]
   },
   {
@@ -1103,7 +1568,6 @@
    "q": "The chess term 'checkmate' comes from Persian 'shah mat'. Which chess piece is the 'shah'?",
    "a": "King",
    "p": 200,
-   "ar": "الشاه",
    "alt": [
     "The king"
    ],
@@ -1117,36 +1581,51 @@
    "alt": [
     "Ali Baba"
    ],
-   "apic": "Ali Baba and the Forty Thieves"
+   "apic": "Ali Baba and the Forty Thieves",
+   "qar": [
+    [
+     "Open Sesame",
+     "افتح يا سمسم"
+    ]
+   ]
   },
   {
    "q": "In the Arabian Nights tale, what magical being lives in Aladdin's lamp?",
    "a": "Genie",
    "p": 200,
-   "ar": "جني",
    "alt": [
     "Jinni",
     "Djinn",
     "Jinn"
    ],
-   "apic": "Jinn"
+   "apic": "Jinn",
+   "qar": [
+    [
+     "Aladdin",
+     "علاء الدين"
+    ]
+   ]
   },
   {
    "q": "Which giant mythical bird carries Sinbad away in the Arabian Nights?",
    "a": "Roc",
    "p": 200,
-   "ar": "الرخ",
    "alt": [
     "Rukh",
     "Rukhkh"
    ],
-   "apic": "Roc (mythology)"
+   "apic": "Roc (mythology)",
+   "qar": [
+    [
+     "Sinbad",
+     "السندباد"
+    ]
+   ]
   },
   {
    "q": "What name is given to the famously strong, wavy-patterned sword steel linked to a Syrian city?",
    "a": "Damascus steel",
    "p": 200,
-   "ar": "الفولاذ الدمشقي",
    "alt": [
     "Damascene steel"
    ],
@@ -1156,7 +1635,6 @@
    "q": "Which horseback ball game, played with mallets, was a favourite sport of Persian and Abbasid courts?",
    "a": "Polo",
    "p": 200,
-   "ar": "البولو",
    "alt": [
     "Chovgan",
     "Chogan"
@@ -1167,22 +1645,39 @@
    "q": "Ibn Sina was born near Bukhara, in which modern country?",
    "a": "Uzbekistan",
    "p": 200,
-   "ar": "أوزبكستان",
-   "apic": "Uzbekistan"
+   "apic": "Uzbekistan",
+   "qar": [
+    [
+     "Ibn Sina",
+     "ابن سينا"
+    ],
+    [
+     "Bukhara",
+     "بخارى"
+    ]
+   ]
   },
   {
    "q": "Cordoba, capital of Al-Andalus, is in which modern country?",
    "a": "Spain",
    "p": 200,
-   "ar": "إسبانيا",
    "pic": "Mosque–Cathedral of Córdoba",
-   "apic": "Spain"
+   "apic": "Spain",
+   "qar": [
+    [
+     "Cordoba",
+     "قرطبة"
+    ],
+    [
+     "Al-Andalus",
+     "الأندلس"
+    ]
+   ]
   },
   {
    "q": "Which Greek 'Father of Medicine', famous for his oath, was widely translated into Arabic?",
    "a": "Hippocrates",
    "p": 200,
-   "ar": "أبقراط",
    "alt": [
     "Hippocrates of Kos"
    ],
@@ -1192,7 +1687,6 @@
    "q": "Which fragrant water, distilled from petals, was produced on a large scale in the medieval Islamic world?",
    "a": "Rose water",
    "p": 200,
-   "ar": "ماء الورد",
    "alt": [
     "Rosewater"
    ],
@@ -1202,8 +1696,13 @@
    "q": "Which Greek philosopher, author of 'The Republic', inspired al-Farabi's book on the virtuous city?",
    "a": "Plato",
    "p": 200,
-   "ar": "أفلاطون",
-   "apic": "Plato"
+   "apic": "Plato",
+   "qar": [
+    [
+     "al-Farabi",
+     "الفارابي"
+    ]
+   ]
   },
   {
    "q": "Which Arabian Nights hero, a poor boy of a tailor's family, finds a magic lamp?",
@@ -1231,14 +1730,18 @@
    "q": "Ibn Battuta is often said to have travelled even farther than which earlier Venetian traveller?",
    "a": "Marco Polo",
    "p": 400,
-   "ar": "ماركو بولو",
-   "apic": "Marco Polo"
+   "apic": "Marco Polo",
+   "qar": [
+    [
+     "Ibn Battuta",
+     "ابن بطوطة"
+    ]
+   ]
   },
   {
    "q": "Which astronomical instrument, shaped like a quarter of a circle, was used to measure the altitude of stars?",
    "a": "Quadrant",
    "p": 400,
-   "ar": "الربع",
    "alt": [
     "Mural quadrant",
     "Rub'"
@@ -1252,15 +1755,26 @@
    "ar": "ابن سينا",
    "alt": [
     "Avicenna"
+   ],
+   "qar": [
+    [
+     "al-Biruni",
+     "البيروني"
+    ]
    ]
   },
   {
    "q": "Into how many books is Ibn al-Haytham's Book of Optics divided?",
    "a": "Seven",
    "p": 400,
-   "ar": "7",
    "alt": [
     "7"
+   ],
+   "qar": [
+    [
+     "Ibn al-Haytham",
+     "ابن الهيثم"
+    ]
    ]
   },
   {
@@ -1271,17 +1785,28 @@
    "alt": [
     "Ikhwan al-Safa",
     "Brothers of Purity"
+   ],
+   "qar": [
+    [
+     "Basra",
+     "البصرة"
+    ]
    ]
   },
   {
    "q": "Which Greek physician's medical works were translated into Arabic by Hunayn ibn Ishaq and shaped Islamic medicine?",
    "a": "Galen",
    "p": 400,
-   "ar": "جالينوس",
    "alt": [
     "Galenus"
    ],
-   "apic": "Galen"
+   "apic": "Galen",
+   "qar": [
+    [
+     "Hunayn ibn Ishaq",
+     "حنين بن إسحاق"
+    ]
+   ]
   },
   {
    "q": "Ptolemy's great astronomy book is known in English by which Arabic-derived name?",
@@ -1303,7 +1828,13 @@
     "Firdawsi",
     "Ferdowsi Tusi"
    ],
-   "pic": "Shahnameh"
+   "pic": "Shahnameh",
+   "qar": [
+    [
+     "Shahnameh",
+     "الشاهنامة"
+    ]
+   ]
   },
   {
    "q": "Which 13th-century Persian poet of Shiraz wrote 'The Rose Garden' (Gulistan)?",
@@ -1313,6 +1844,12 @@
    "alt": [
     "Sa'di",
     "Saadi Shirazi"
+   ],
+   "qar": [
+    [
+     "Shiraz",
+     "شيراز"
+    ]
    ]
   },
   {
@@ -1332,26 +1869,42 @@
    "alt": [
     "Ghazali",
     "Algazel"
+   ],
+   "qar": [
+    [
+     "Ibn Rushd",
+     "ابن رشد"
+    ]
    ]
   },
   {
    "q": "Which Jewish philosopher and physician, born in Cordoba in the 12th century, wrote 'The Guide for the Perplexed'?",
    "a": "Maimonides",
    "p": 400,
-   "ar": "موسى بن ميمون",
    "alt": [
     "Musa ibn Maymun",
     "Rambam"
    ],
-   "apic": "Maimonides"
+   "apic": "Maimonides",
+   "qar": [
+    [
+     "Cordoba",
+     "قرطبة"
+    ]
+   ]
   },
   {
    "q": "Into how many books is Ibn Sina's Canon of Medicine divided?",
    "a": "Five",
    "p": 400,
-   "ar": "5",
    "alt": [
     "5"
+   ],
+   "qar": [
+    [
+     "Ibn Sina",
+     "ابن سينا"
+    ]
    ]
   },
   {
@@ -1363,18 +1916,29 @@
     "Al-Qanun",
     "Qanun fi al-Tibb",
     "Al Qanun fil Tib"
+   ],
+   "qar": [
+    [
+     "Ibn Sina",
+     "ابن سينا"
+    ]
    ]
   },
   {
    "q": "Which animal did Harun al-Rashid famously send as a gift to Charlemagne?",
    "a": "Elephant",
    "p": 400,
-   "ar": "فيل",
    "alt": [
     "An elephant"
    ],
    "pic": "Charlemagne",
-   "apic": "Elephant"
+   "apic": "Elephant",
+   "qar": [
+    [
+     "Harun al-Rashid",
+     "هارون الرشيد"
+    ]
+   ]
   },
   {
    "q": "What was Baghdad's official name, meaning 'City of Peace'?",
@@ -1384,13 +1948,24 @@
    "alt": [
     "Madinat as-Salam",
     "City of Peace"
+   ],
+   "qar": [
+    [
+     "Baghdad",
+     "بغداد"
+    ]
    ]
   },
   {
    "q": "What colour were the banners of the Abbasids?",
    "a": "Black",
    "p": 400,
-   "ar": "أسود"
+   "qar": [
+    [
+     "Abbasids",
+     "العباسيين"
+    ]
+   ]
   },
   {
    "q": "Which wife of Harun al-Rashid funded a famous road of wells and cisterns for pilgrims from Iraq to Mecca?",
@@ -1401,7 +1976,17 @@
     "Zubaidah",
     "Zubayda"
    ],
-   "pic": "Darb Zubaydah"
+   "pic": "Darb Zubaydah",
+   "qar": [
+    [
+     "Harun al-Rashid",
+     "هارون الرشيد"
+    ],
+    [
+     "Mecca",
+     "مكة"
+    ]
+   ]
   },
   {
    "q": "In which Iraqi city did the Islamic world's first paper mill open, around 794?",
@@ -1418,6 +2003,12 @@
     "Khorezm",
     "Chorasmia",
     "Khwarezm"
+   ],
+   "qar": [
+    [
+     "Al-Khwarizmi",
+     "الخوارزمي"
+    ]
    ]
   },
   {
@@ -1427,6 +2018,12 @@
    "ar": "ابن فضلان",
    "alt": [
     "Ahmad ibn Fadlan"
+   ],
+   "qar": [
+    [
+     "Abbasid",
+     "العباسي"
+    ]
    ]
   },
   {
@@ -1436,32 +2033,55 @@
    "ar": "أبو نواس",
    "alt": [
     "Abu Nawas"
+   ],
+   "qar": [
+    [
+     "Abbasid",
+     "العباسي"
+    ],
+    [
+     "Harun al-Rashid",
+     "هارون الرشيد"
+    ]
    ]
   },
   {
    "q": "Which West African empire did Ibn Battuta visit in 1352?",
    "a": "Mali Empire",
    "p": 400,
-   "ar": "إمبراطورية مالي",
    "alt": [
     "Mali"
    ],
-   "apic": "Mali Empire"
+   "apic": "Mali Empire",
+   "qar": [
+    [
+     "Ibn Battuta",
+     "ابن بطوطة"
+    ]
+   ]
   },
   {
    "q": "How old was Ibn Battuta when he set out from Tangier in 1325?",
    "a": "21",
    "p": 400,
-   "ar": "21",
    "alt": [
     "Twenty-one"
+   ],
+   "qar": [
+    [
+     "Ibn Battuta",
+     "ابن بطوطة"
+    ],
+    [
+     "Tangier",
+     "طنجة"
+    ]
    ]
   },
   {
    "q": "Which board game, called 'nard' in Persian, was popular across the medieval Islamic world?",
    "a": "Backgammon",
    "p": 400,
-   "ar": "طاولة الزهر",
    "alt": [
     "Nard",
     "Tawla"
@@ -1478,7 +2098,13 @@
     "Falaj",
     "Foggara"
    ],
-   "apic": "Qanat"
+   "apic": "Qanat",
+   "qar": [
+    [
+     "falaj",
+     "فلج"
+    ]
+   ]
   },
   {
    "q": "What is the large water-lifting wheel, still seen at Hama in Syria, called?",
@@ -1489,35 +2115,68 @@
     "Na'ura",
     "Naura"
    ],
-   "apic": "Noria"
+   "apic": "Noria",
+   "qar": [
+    [
+     "Hama",
+     "حماة"
+    ]
+   ]
   },
   {
    "q": "What is a 'zij', as compiled by al-Khwarizmi and al-Battani?",
    "a": "Astronomical tables",
    "p": 400,
-   "ar": "زيج",
    "alt": [
     "Astronomical table",
     "Star tables",
     "Astronomical handbook"
+   ],
+   "qar": [
+    [
+     "zij",
+     "زيج"
+    ],
+    [
+     "al-Khwarizmi",
+     "الخوارزمي"
+    ],
+    [
+     "al-Battani",
+     "البتاني"
+    ]
    ]
   },
   {
    "q": "Kalila and Dimna, the title characters of a famous fable collection, are which kind of animal?",
    "a": "Jackals",
    "p": 400,
-   "ar": "ابن آوى",
    "alt": [
     "Jackal"
    ],
-   "apic": "Golden jackal"
+   "apic": "Golden jackal",
+   "qar": [
+    [
+     "Kalila and Dimna",
+     "كليلة ودمنة"
+    ]
+   ]
   },
   {
    "q": "Ibn Tufail's 'Hayy ibn Yaqzan', about a boy raised alone on an island, is often compared with which English novel?",
    "a": "Robinson Crusoe",
    "p": 400,
-   "ar": "روبنسون كروزو",
-   "apic": "Robinson Crusoe"
+   "apic": "Robinson Crusoe",
+   "qar": [
+    [
+     "Ibn Tufail",
+     "ابن طفيل"
+    ],
+    [
+     "Hayy ibn Yaqzan",
+     "حي بن يقظان"
+    ]
+   ]
   },
   {
    "q": "In the Arabian Nights, what is the name of the king to whom Scheherazade tells her tales?",
@@ -1527,15 +2186,26 @@
    "alt": [
     "Shahriyar",
     "Shahriar"
+   ],
+   "qar": [
+    [
+     "Scheherazade",
+     "شهرزاد"
+    ]
    ]
   },
   {
    "q": "How many thieves are in the tale of Ali Baba?",
    "a": "40",
    "p": 400,
-   "ar": "40",
    "alt": [
     "Forty"
+   ],
+   "qar": [
+    [
+     "Ali Baba",
+     "علي بابا"
+    ]
    ]
   },
   {
@@ -1568,13 +2238,18 @@
    "alt": [
     "Basrah"
    ],
-   "apic": "Basra"
+   "apic": "Basra",
+   "qar": [
+    [
+     "Kufa",
+     "الكوفة"
+    ]
+   ]
   },
   {
    "q": "From which language were many Greek texts translated into Arabic, having first been rendered by Christian scholars of the Levant and Iraq?",
    "a": "Syriac",
    "p": 400,
-   "ar": "السريانية",
    "alt": [
     "Syriac Aramaic",
     "Aramaic"
@@ -1588,6 +2263,12 @@
    "alt": [
     "Abu al-Abbas",
     "Abul Abbas"
+   ],
+   "qar": [
+    [
+     "Harun al-Rashid",
+     "هارون الرشيد"
+    ]
    ]
   },
   {
@@ -1599,6 +2280,12 @@
     "Ray",
     "Rey",
     "Rhages"
+   ],
+   "qar": [
+    [
+     "Al-Razi",
+     "الرازي"
+    ]
    ]
   },
   {
@@ -1610,7 +2297,13 @@
     "Hamedan"
    ],
    "pic": "Avicenna Mausoleum",
-   "apic": "Hamadan"
+   "apic": "Hamadan",
+   "qar": [
+    [
+     "Ibn Sina",
+     "ابن سينا"
+    ]
+   ]
   },
   {
    "q": "In which city did Ibn Rushd die in 1198?",
@@ -1620,7 +2313,13 @@
    "alt": [
     "Marrakesh"
    ],
-   "apic": "Marrakesh"
+   "apic": "Marrakesh",
+   "qar": [
+    [
+     "Ibn Rushd",
+     "ابن رشد"
+    ]
+   ]
   },
   {
    "q": "Which 11th-century astronomer of Toledo, known in Latin as Arzachel, compiled the Toledan Tables?",
@@ -1631,6 +2330,12 @@
     "Arzachel",
     "Azarquiel",
     "Zarqali"
+   ],
+   "qar": [
+    [
+     "Toledo",
+     "طليطلة"
+    ]
    ]
   },
   {
@@ -1640,6 +2345,16 @@
    "ar": "ابن زهر",
    "alt": [
     "Avenzoar"
+   ],
+   "qar": [
+    [
+     "Seville",
+     "إشبيلية"
+    ],
+    [
+     "Ibn Rushd",
+     "ابن رشد"
+    ]
    ]
   },
   {
@@ -1650,6 +2365,12 @@
    "alt": [
     "Avempace",
     "Ibn Bajjah"
+   ],
+   "qar": [
+    [
+     "Ibn Rushd",
+     "ابن رشد"
+    ]
    ]
   },
   {
@@ -1669,6 +2390,12 @@
    "ar": "ابن الشاطر",
    "alt": [
     "Ibn Shatir"
+   ],
+   "qar": [
+    [
+     "Damascus",
+     "دمشق"
+    ]
    ]
   },
   {
@@ -1710,7 +2437,13 @@
     "Kitab Suwar al-Kawakib",
     "Book of the Fixed Stars"
    ],
-   "apic": "Book of Fixed Stars"
+   "apic": "Book of Fixed Stars",
+   "qar": [
+    [
+     "Al-Sufi",
+     "الصوفي"
+    ]
+   ]
   },
   {
    "q": "What term did Ibn Khaldun use for group solidarity, the force he believed built and toppled dynasties?",
@@ -1720,6 +2453,12 @@
    "alt": [
     "Asabiyyah",
     "Asabiya"
+   ],
+   "qar": [
+    [
+     "Ibn Khaldun",
+     "ابن خلدون"
+    ]
    ]
   },
   {
@@ -1729,6 +2468,16 @@
    "ar": "التقويم الجلالي",
    "alt": [
     "Jalali"
+   ],
+   "qar": [
+    [
+     "Omar Khayyam",
+     "عمر الخيام"
+    ],
+    [
+     "Malik-Shah",
+     "ملكشاه"
+    ]
    ]
   },
   {
@@ -1738,6 +2487,12 @@
    "ar": "الجاحظ",
    "alt": [
     "Jahiz"
+   ],
+   "qar": [
+    [
+     "Basra",
+     "البصرة"
+    ]
    ]
   },
   {
@@ -1748,18 +2503,33 @@
    "alt": [
     "Al-warraq",
     "Warraqeen"
+   ],
+   "qar": [
+    [
+     "Abbasid",
+     "العباسية"
+    ],
+    [
+     "Baghdad",
+     "بغداد"
+    ]
    ]
   },
   {
    "q": "The 751 Battle of Talas pitted the Abbasids against the army of which Chinese dynasty?",
    "a": "Tang",
    "p": 600,
-   "ar": "سلالة تانغ",
    "alt": [
     "Tang dynasty"
    ],
    "pic": "Battle of Talas",
-   "apic": "Tang dynasty"
+   "apic": "Tang dynasty",
+   "qar": [
+    [
+     "Abbasids",
+     "العباسيين"
+    ]
+   ]
   },
   {
    "q": "Al-Khwarizmi's book on Hindu numerals survives mainly in Latin, opening with 'Dixit ...' which word?",
@@ -1768,6 +2538,12 @@
    "ar": "الخوارزمي",
    "alt": [
     "Algorizmi"
+   ],
+   "qar": [
+    [
+     "Al-Khwarizmi",
+     "الخوارزمي"
+    ]
    ]
   },
   {
@@ -1777,6 +2553,12 @@
    "ar": "أبو كامل",
    "alt": [
     "Abu Kamil Shuja"
+   ],
+   "qar": [
+    [
+     "al-Khwarizmi",
+     "الخوارزمي"
+    ]
    ]
   },
   {
@@ -1787,6 +2569,12 @@
    "alt": [
     "Al-Isfahani",
     "Abu'l-Faraj"
+   ],
+   "qar": [
+    [
+     "Kitab al-Aghani",
+     "كتاب الأغاني"
+    ]
    ]
   },
   {
@@ -1796,6 +2584,16 @@
    "ar": "ابن النديم",
    "alt": [
     "Ibn Nadim"
+   ],
+   "qar": [
+    [
+     "Baghdad",
+     "بغداد"
+    ],
+    [
+     "Fihrist",
+     "الفهرست"
+    ]
    ]
   },
   {
@@ -1815,6 +2613,12 @@
    "ar": "ياقوت الحموي",
    "alt": [
     "Yaqut"
+   ],
+   "qar": [
+    [
+     "Mu'jam al-Buldan",
+     "معجم البلدان"
+    ]
    ]
   },
   {
@@ -1825,6 +2629,12 @@
    "alt": [
     "Al-Kashgari",
     "Kashgari"
+   ],
+   "qar": [
+    [
+     "Diwan Lughat al-Turk",
+     "ديوان لغات الترك"
+    ]
    ]
   },
   {
@@ -1834,6 +2644,20 @@
    "ar": "ابن جزي",
    "alt": [
     "Ibn Juzai"
+   ],
+   "qar": [
+    [
+     "Ibn Battuta",
+     "ابن بطوطة"
+    ],
+    [
+     "Rihla",
+     "الرحلة"
+    ],
+    [
+     "Fez",
+     "فاس"
+    ]
    ]
   },
   {
@@ -1844,6 +2668,16 @@
    "alt": [
     "Mahmud",
     "Mahmud Ghaznavi"
+   ],
+   "qar": [
+    [
+     "Ghazni",
+     "غزنة"
+    ],
+    [
+     "Al-Biruni",
+     "البيروني"
+    ]
    ]
   },
   {
@@ -1864,13 +2698,22 @@
    "alt": [
     "Al-Suli",
     "Suli"
+   ],
+   "qar": [
+    [
+     "Baghdad",
+     "بغداد"
+    ],
+    [
+     "shatranj",
+     "الشطرنج"
+    ]
    ]
   },
   {
    "q": "Which French scholar, later Pope Sylvester II, helped introduce Arabic numerals to Europe around 1000?",
    "a": "Gerbert of Aurillac",
    "p": 600,
-   "ar": "جربرت",
    "alt": [
     "Gerbert",
     "Sylvester II"
@@ -1881,19 +2724,29 @@
    "q": "Which 12th-century English scholar translated Euclid's Elements and al-Khwarizmi's tables from Arabic into Latin?",
    "a": "Adelard of Bath",
    "p": 600,
-   "ar": "أديلارد",
    "alt": [
     "Adelard"
    ],
-   "apic": "Adelard of Bath"
+   "apic": "Adelard of Bath",
+   "qar": [
+    [
+     "al-Khwarizmi",
+     "الخوارزمي"
+    ]
+   ]
   },
   {
    "q": "Which English scholar made the first Latin translation of al-Khwarizmi's algebra, in Segovia in 1145?",
    "a": "Robert of Chester",
    "p": 600,
-   "ar": "روبرت",
    "alt": [
     "Robert of Ketton"
+   ],
+   "qar": [
+    [
+     "al-Khwarizmi",
+     "الخوارزمي"
+    ]
    ]
   },
   {
@@ -1904,6 +2757,12 @@
    "alt": [
     "Hakam II",
     "Al-Hakam"
+   ],
+   "qar": [
+    [
+     "Cordoba",
+     "قرطبة"
+    ]
    ]
   },
   {
@@ -1922,6 +2781,12 @@
    "ar": "ابن العوام",
    "alt": [
     "Ibn Awwam"
+   ],
+   "qar": [
+    [
+     "Seville",
+     "إشبيلية"
+    ]
    ]
   },
   {
@@ -1931,6 +2796,12 @@
    "ar": "سنجار",
    "alt": [
     "Plain of Sinjar"
+   ],
+   "qar": [
+    [
+     "al-Ma'mun",
+     "المأمون"
+    ]
    ]
   },
   {
@@ -1946,11 +2817,20 @@
    "q": "Which French translator added the tales of Aladdin and Ali Baba to the Arabian Nights in the early 1700s?",
    "a": "Antoine Galland",
    "p": 600,
-   "ar": "أنطوان غالان",
    "alt": [
     "Galland"
    ],
-   "apic": "Antoine Galland"
+   "apic": "Antoine Galland",
+   "qar": [
+    [
+     "Aladdin",
+     "علاء الدين"
+    ],
+    [
+     "Ali Baba",
+     "علي بابا"
+    ]
+   ]
   },
   {
    "q": "In the Arabian Nights, what is the name of Scheherazade's younger sister?",
@@ -1960,6 +2840,12 @@
    "alt": [
     "Dinarzade",
     "Dunyazade"
+   ],
+   "qar": [
+    [
+     "Scheherazade",
+     "شهرزاد"
+    ]
    ]
   },
   {
@@ -1970,6 +2856,12 @@
    "alt": [
     "Marjana",
     "Marjaneh"
+   ],
+   "qar": [
+    [
+     "Ali Baba",
+     "علي بابا"
+    ]
    ]
   }
  ]

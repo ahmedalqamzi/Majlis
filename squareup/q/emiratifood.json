@@ -25,7 +25,13 @@
     "Haris",
     "Hareesa"
    ],
-   "apic": "Harees"
+   "apic": "Harees",
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
+   ]
   },
   {
    "q": "What are the golden fried dough balls drizzled with date syrup called?",
@@ -75,46 +81,67 @@
     "Finjaan",
     "Fenjan",
     "Finjaal"
+   ],
+   "qar": [
+    [
+     "gahwa",
+     "قهوة"
+    ]
    ]
   },
   {
    "q": "Which sweet fruit of the palm tree is traditionally served alongside gahwa?",
    "a": "Dates",
    "p": 200,
-   "ar": "تمر",
    "alt": [
     "Tamr",
     "Date",
     "Tamar",
     "Tamer"
    ],
-   "apic": "Date palm"
+   "apic": "Date palm",
+   "qar": [
+    [
+     "gahwa",
+     "قهوة"
+    ]
+   ]
   },
   {
    "q": "Which fragrant spice, called hail in the Gulf, is boiled with Emirati coffee?",
    "a": "Cardamom",
    "p": 200,
-   "ar": "هيل",
    "alt": [
     "Hail",
     "Heil",
     "Hayl",
     "Cardamon"
    ],
-   "apic": "Cardamom"
+   "apic": "Cardamom",
+   "qar": [
+    [
+     "hail",
+     "هيل"
+    ]
+   ]
   },
   {
    "q": "Which costly golden threads give gahwa and many Emirati sweets their colour and aroma?",
    "a": "Saffron",
    "p": 200,
-   "ar": "زعفران",
    "alt": [
     "Zafran",
     "Zaafaran",
     "Za'faran",
     "Zafaran"
    ],
-   "apic": "Saffron"
+   "apic": "Saffron",
+   "qar": [
+    [
+     "gahwa",
+     "قهوة"
+    ]
+   ]
   },
   {
    "q": "What is date syrup called in Arabic?",
@@ -159,13 +186,22 @@
    "q": "Which clarified butter is used to finish harees and aseeda?",
    "a": "Ghee",
    "p": 200,
-   "ar": "سمن",
    "alt": [
     "Samn",
     "Samneh",
     "Clarified butter"
    ],
-   "apic": "Ghee"
+   "apic": "Ghee",
+   "qar": [
+    [
+     "harees",
+     "هريس"
+    ],
+    [
+     "aseeda",
+     "عصيدة"
+    ]
+   ]
   },
   {
    "q": "Which fragrant long-grain rice is most commonly used for machboos?",
@@ -174,7 +210,13 @@
    "alt": [
     "Basmati rice"
    ],
-   "apic": "Basmati"
+   "apic": "Basmati",
+   "qar": [
+    [
+     "machboos",
+     "مجبوس"
+    ]
+   ]
   },
   {
    "q": "What is the Arabic word for 'fish', the staple protein of coastal Emirati cooking?",
@@ -198,7 +240,13 @@
     "Sambousek",
     "Sambusa"
    ],
-   "apic": "Samosa"
+   "apic": "Samosa",
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
+   ]
   },
   {
    "q": "What do people in the UAE call strong, sweet tea made with evaporated milk and cardamom?",
@@ -221,7 +269,13 @@
     "Majles",
     "Majlas"
    ],
-   "apic": "Majlis"
+   "apic": "Majlis",
+   "qar": [
+    [
+     "gahwa",
+     "قهوة"
+    ]
+   ]
   },
   {
    "q": "What is a date palm called in Arabic?",
@@ -239,14 +293,19 @@
    "q": "Which golden-yellow spice colours the rice in many machboos recipes?",
    "a": "Turmeric",
    "p": 200,
-   "ar": "كركم",
    "alt": [
     "Kurkum",
     "Kurkom",
     "Curcuma",
     "Kerkum"
    ],
-   "apic": "Turmeric"
+   "apic": "Turmeric",
+   "qar": [
+    [
+     "machboos",
+     "مجبوس"
+    ]
+   ]
   },
   {
    "q": "Which meat is traditionally the most favoured in Emirati cooking, ahead of chicken and beef?",
@@ -268,6 +327,12 @@
     "Dajaaj",
     "Dajaj chicken",
     "Dijaj"
+   ],
+   "qar": [
+    [
+     "machboos",
+     "مجبوس"
+    ]
    ]
   },
   {
@@ -292,6 +357,16 @@
     "Helwa",
     "Omani halwa",
     "Halawa"
+   ],
+   "qar": [
+    [
+     "Oman",
+     "عُمان"
+    ],
+    [
+     "gahwa",
+     "قهوة"
+    ]
    ]
   },
   {
@@ -305,7 +380,13 @@
     "Maamool",
     "Maamul"
    ],
-   "apic": "Maamoul"
+   "apic": "Maamoul",
+   "qar": [
+    [
+     "Eid",
+     "العيد"
+    ]
+   ]
   },
   {
    "q": "What is the chilled, salted yoghurt drink often served with meals in the UAE called?",
@@ -328,18 +409,33 @@
     "Qarfa",
     "Kirfa",
     "Qirfah"
+   ],
+   "qar": [
+    [
+     "harees",
+     "هريس"
+    ],
+    [
+     "balaleet",
+     "بلاليط"
+    ]
    ]
   },
   {
    "q": "Besides meat, which grain is the key ingredient of harees?",
    "a": "Wheat",
    "p": 200,
-   "ar": "قمح",
    "alt": [
     "Burr",
     "Bur",
     "Qamh",
     "Cracked wheat"
+   ],
+   "qar": [
+    [
+     "harees",
+     "هريس"
+    ]
    ]
   },
   {
@@ -351,13 +447,18 @@
     "Dumplings",
     "Spheres",
     "Ball"
+   ],
+   "qar": [
+    [
+     "luqaimat",
+     "لقيمات"
+    ]
    ]
   },
   {
    "q": "The milk of which desert animal is a traditional Emirati drink and is now used in chocolate?",
    "a": "Camel",
    "p": 200,
-   "ar": "جمل",
    "alt": [
     "Camels",
     "Naga",
@@ -431,26 +532,40 @@
    "q": "Hamour, a prized fish on Emirati tables, is the Gulf name for which type of fish?",
    "a": "Grouper",
    "p": 400,
-   "ar": "هامور",
    "alt": [
     "Orange-spotted grouper",
     "Hamour",
     "Hammour"
    ],
-   "apic": "Grouper"
+   "apic": "Grouper",
+   "qar": [
+    [
+     "Hamour",
+     "هامور"
+    ]
+   ]
   },
   {
    "q": "Which dried lime, called loomi, gives machboos and many stews their tangy flavour?",
    "a": "Black lime",
    "p": 400,
-   "ar": "لومي",
    "alt": [
     "Loomi",
     "Dried lime",
     "Noomi",
     "Loomy"
    ],
-   "apic": "Dried lime"
+   "apic": "Dried lime",
+   "qar": [
+    [
+     "loomi",
+     "لومي"
+    ],
+    [
+     "machboos",
+     "مجبوس"
+    ]
+   ]
   },
   {
    "q": "In Gulf dialect, which word commonly means cooked rice, as in 'eish mashkhool'?",
@@ -462,6 +577,12 @@
     "Aysh",
     "Eesh",
     "Aeesh"
+   ],
+   "qar": [
+    [
+     "eish mashkhool",
+     "عيش مشخول"
+    ]
    ]
   },
   {
@@ -474,6 +595,12 @@
     "Raqaq",
     "Rgag",
     "Ragag"
+   ],
+   "qar": [
+    [
+     "thareed",
+     "ثريد"
+    ]
    ]
   },
   {
@@ -504,7 +631,7 @@
    "q": "Which spiced tomato-based Emirati stew of fish, meat or vegetables is served over rice?",
    "a": "Saloona",
    "p": 400,
-   "ar": "سالونة",
+   "ar": "صالونة",
    "alt": [
     "Salona",
     "Salooneh",
@@ -645,54 +772,84 @@
     "Jareeshah",
     "Jareesh laham",
     "Jarees"
+   ],
+   "qar": [
+    [
+     "Eid",
+     "العيد"
+    ]
    ]
   },
   {
    "q": "In traditional gahwa etiquette, how does a guest signal that they do not want a refill?",
    "a": "Shake the cup",
    "p": 400,
-   "ar": "يهز الفنجان",
    "alt": [
     "Gently shake the cup",
     "Shake the finjan",
     "Shaking the cup",
     "Shake finjan"
+   ],
+   "qar": [
+    [
+     "gahwa",
+     "قهوة"
+    ]
    ]
   },
   {
    "q": "In gahwa etiquette, who is served first in a majlis?",
    "a": "The eldest or most important guest",
    "p": 400,
-   "ar": "كبير الضيوف",
    "alt": [
     "Eldest guest",
     "Most important guest",
     "The guest of honour",
     "Elder"
+   ],
+   "qar": [
+    [
+     "gahwa",
+     "قهوة"
+    ],
+    [
+     "majlis",
+     "مجلس"
+    ]
    ]
   },
   {
    "q": "Which hand does a guest traditionally use to take and return the gahwa cup?",
    "a": "Right hand",
    "p": 400,
-   "ar": "اليد اليمنى",
    "alt": [
     "Right",
     "The right hand"
+   ],
+   "qar": [
+    [
+     "gahwa",
+     "قهوة"
+    ]
    ]
   },
   {
    "q": "In machboos rubyan, which seafood is the star ingredient?",
    "a": "Shrimp",
    "p": 400,
-   "ar": "ربيان",
    "alt": [
     "Prawns",
     "Rubyan",
     "Robyan",
     "Prawn"
    ],
-   "apic": "Shrimp"
+   "apic": "Shrimp",
+   "qar": [
+    [
+     "machboos rubyan",
+     "مجبوس ربيان"
+    ]
+   ]
   },
   {
    "q": "What is rose water, used in luqaimat and balaleet, called in Arabic?",
@@ -704,33 +861,61 @@
     "Maa Al Ward",
     "Ma Alward",
     "Mawrd"
+   ],
+   "qar": [
+    [
+     "luqaimat",
+     "لقيمات"
+    ],
+    [
+     "balaleet",
+     "بلاليط"
+    ]
    ]
   },
   {
    "q": "Which seeds are sprinkled over khameer bread and luqaimat?",
    "a": "Sesame",
    "p": 400,
-   "ar": "سمسم",
    "alt": [
     "Simsim",
     "Samsam",
     "Sesame seeds",
     "Semsem"
    ],
-   "apic": "Sesame"
+   "apic": "Sesame",
+   "qar": [
+    [
+     "khameer",
+     "خمير"
+    ],
+    [
+     "luqaimat",
+     "لقيمات"
+    ]
+   ]
   },
   {
    "q": "Which fine noodles, called sha'riya, are the base of balaleet?",
    "a": "Vermicelli",
    "p": 400,
-   "ar": "شعيرية",
    "alt": [
     "Shaareeya",
     "Shariya",
     "Sheriya",
     "Shaeria"
    ],
-   "apic": "Vermicelli"
+   "apic": "Vermicelli",
+   "qar": [
+    [
+     "sha'riya",
+     "شعيرية"
+    ],
+    [
+     "balaleet",
+     "بلاليط"
+    ]
+   ]
   },
   {
    "q": "Bezar is the Emirati cousin of which Indian spice blend?",
@@ -740,33 +925,53 @@
     "Garam Masala",
     "Masala"
    ],
-   "apic": "Garam masala"
+   "apic": "Garam masala",
+   "qar": [
+    [
+     "Bezar",
+     "بزار"
+    ]
+   ]
   },
   {
    "q": "Which spice, called kammun in Arabic, is a core ingredient of bezar?",
    "a": "Cumin",
    "p": 400,
-   "ar": "كمون",
    "alt": [
     "Kammun",
     "Cammun",
     "Kamoon",
     "Cumin seeds"
    ],
-   "apic": "Cumin"
+   "apic": "Cumin",
+   "qar": [
+    [
+     "kammun",
+     "كمون"
+    ],
+    [
+     "bezar",
+     "بزار"
+    ]
+   ]
   },
   {
    "q": "Which dried flower-bud spice, called qaranful in Arabic, flavours rice dishes and coffee in the Gulf?",
    "a": "Cloves",
    "p": 400,
-   "ar": "قرنفل",
    "alt": [
     "Clove",
     "Qaranful",
     "Karanfil",
     "Garanfil"
    ],
-   "apic": "Clove"
+   "apic": "Clove",
+   "qar": [
+    [
+     "qaranful",
+     "قرنفل"
+    ]
+   ]
   },
   {
    "q": "Saffron threads come from the dried stigmas of which flower?",
@@ -811,6 +1016,12 @@
     "Sidr",
     "Sidr tree honey",
     "Asal Al Sidr"
+   ],
+   "qar": [
+    [
+     "sidr",
+     "السدر"
+    ]
    ]
   },
   {
@@ -837,32 +1048,56 @@
     "Tom",
     "Thum"
    ],
-   "apic": "Garlic"
+   "apic": "Garlic",
+   "qar": [
+    [
+     "saloona",
+     "صالونة"
+    ]
+   ]
   },
   {
    "q": "Which green nut fills Dubai chocolate bars, alongside tahini and shredded kanafeh pastry?",
    "a": "Pistachio",
    "p": 400,
-   "ar": "فستق",
    "alt": [
     "Pistachios",
     "Fustuq",
     "Fistuk",
     "Fustok"
    ],
-   "apic": "Pistachio"
+   "apic": "Pistachio",
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ],
+    [
+     "tahini",
+     "طحينة"
+    ],
+    [
+     "kanafeh",
+     "كنافة"
+    ]
+   ]
   },
   {
    "q": "Jasheed, a traditional Emirati dish eaten with rice, is made from small specimens of which sea animal?",
    "a": "Shark",
    "p": 600,
-   "ar": "قرش",
    "alt": [
     "Baby shark",
     "Small sharks",
     "Sharks"
    ],
-   "apic": "Shark"
+   "apic": "Shark",
+   "qar": [
+    [
+     "Jasheed",
+     "جشيد"
+    ]
+   ]
   },
   {
    "q": "In which year was Arabic coffee inscribed on UNESCO's intangible heritage list, with the UAE among the nominating states?",
@@ -897,53 +1132,73 @@
    "q": "Kanaad is the Gulf name for which large, prized fish?",
    "a": "Kingfish",
    "p": 600,
-   "ar": "كنعد",
    "alt": [
     "King mackerel",
     "Kanad",
     "Narrow-barred Spanish mackerel",
     "Spanish mackerel"
    ],
-   "apic": "Narrow-barred Spanish mackerel"
+   "apic": "Narrow-barred Spanish mackerel",
+   "qar": [
+    [
+     "Kanaad",
+     "كنعد"
+    ]
+   ]
   },
   {
    "q": "Sheri, a popular Gulf table fish, is the local name for which fish?",
    "a": "Spangled emperor",
    "p": 600,
-   "ar": "شعري",
    "alt": [
     "Emperor",
     "Sheri",
     "Shaari",
     "Emperor fish"
    ],
-   "apic": "Lethrinus nebulosus"
+   "apic": "Lethrinus nebulosus",
+   "qar": [
+    [
+     "Sheri",
+     "شعري"
+    ]
+   ]
   },
   {
    "q": "Safi, a mild Gulf fish usually grilled or fried, is a type of what?",
    "a": "Rabbitfish",
    "p": 600,
-   "ar": "صافي",
    "alt": [
     "Rabbit fish",
     "Spinefoot",
     "Siganus",
     "Safi"
    ],
-   "apic": "Rabbitfish"
+   "apic": "Rabbitfish",
+   "qar": [
+    [
+     "Safi",
+     "صافي"
+    ]
+   ]
   },
   {
    "q": "Zubaidi is the Gulf name for which flat, silvery fish?",
    "a": "Pomfret",
    "p": 600,
-   "ar": "زبيدي",
    "alt": [
     "Silver pomfret",
     "Pomfret fish",
     "Zubaidi",
     "Zubeidi"
    ],
-   "apic": "Pomfret"
+   "apic": "Pomfret",
+   "qar": [
+    [
+     "Zubaidi",
+     "زبيدي"
+    ]
+   ]
   },
   {
    "q": "Which small, round, very sweet dark brown date, popular in the UAE and Oman, has a name meaning 'single'?",
@@ -967,6 +1222,12 @@
     "Barhi date",
     "Barhy",
     "Barhi dates"
+   ],
+   "qar": [
+    [
+     "khalal",
+     "خلال"
+    ]
    ]
   },
   {
@@ -979,6 +1240,16 @@
     "Khinaizi",
     "Khenaizi date",
     "Khanaizi"
+   ],
+   "qar": [
+    [
+     "Khalas",
+     "خلاص"
+    ],
+    [
+     "Lulu",
+     "لولو"
+    ]
    ]
   },
   {
@@ -1004,7 +1275,17 @@
     "Western Region",
     "Al Dhafra region"
    ],
-   "apic": "Al Dhafra Region"
+   "apic": "Al Dhafra Region",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ],
+    [
+     "Liwa Date Festival",
+     "مهرجان ليوا للرطب"
+    ]
+   ]
   },
   {
    "q": "The sweet khanfaroosh is said to have originated in which Gulf country?",
@@ -1014,30 +1295,50 @@
    "alt": [
     "Kingdom of Bahrain"
    ],
-   "apic": "Bahrain"
+   "apic": "Bahrain",
+   "qar": [
+    [
+     "khanfaroosh",
+     "خنفروش"
+    ]
+   ]
   },
   {
    "q": "Medieval Arabic cookbooks called luqaimat-style dumplings 'luqmat al-qadi', meaning morsels of which official?",
    "a": "The judge",
    "p": 600,
-   "ar": "القاضي",
    "alt": [
     "Judge",
     "Qadi",
     "Al Qadi",
     "Cadi"
+   ],
+   "qar": [
+    [
+     "luqaimat",
+     "لقيمات"
+    ],
+    [
+     "luqmat al-qadi",
+     "لقمة القاضي"
+    ]
    ]
   },
   {
    "q": "The word machboos comes from an Arabic root meaning to do what to ingredients in one pot?",
    "a": "Press",
    "p": 600,
-   "ar": "كبس",
    "alt": [
     "Squeeze",
     "Press down",
     "Pressing",
     "Pressed"
+   ],
+   "qar": [
+    [
+     "machboos",
+     "مجبوس"
+    ]
    ]
   },
   {
@@ -1048,6 +1349,16 @@
     "Floater",
     "Floating",
     "The floaters"
+   ],
+   "qar": [
+    [
+     "luqaimat",
+     "لقيمات"
+    ],
+    [
+     "awameh",
+     "عوامة"
+    ]
    ]
   },
   {
@@ -1060,6 +1371,12 @@
     "Daggous",
     "Dakkous",
     "Dagoos"
+   ],
+   "qar": [
+    [
+     "machboos",
+     "مجبوس"
+    ]
    ]
   },
   {
@@ -1072,16 +1389,35 @@
     "Muqahawi",
     "Maqhawi",
     "Gahwaji"
+   ],
+   "qar": [
+    [
+     "gahwa",
+     "قهوة"
+    ],
+    [
+     "majlis",
+     "مجلس"
+    ]
    ]
   },
   {
    "q": "In traditional gahwa service, in which hand does the server hold the dallah?",
    "a": "Left hand",
    "p": 600,
-   "ar": "اليد اليسرى",
    "alt": [
     "Left",
     "The left hand"
+   ],
+   "qar": [
+    [
+     "gahwa",
+     "قهوة"
+    ],
+    [
+     "dallah",
+     "الدلة"
+    ]
    ]
   },
   {
@@ -1106,6 +1442,12 @@
     "Bisr",
     "Khalal stage",
     "Khallal"
+   ],
+   "qar": [
+    [
+     "rutab",
+     "رطب"
+    ]
    ]
   },
   {
@@ -1118,24 +1460,53 @@
     "Tamer",
     "Tamr stage",
     "Tamr dates"
+   ],
+   "qar": [
+    [
+     "kimri",
+     "كمري"
+    ],
+    [
+     "khalal",
+     "خلال"
+    ],
+    [
+     "rutab",
+     "رطب"
+    ]
    ]
   },
   {
    "q": "The finjan is traditionally filled to roughly what fraction with gahwa?",
    "a": "One quarter",
    "p": 600,
-   "ar": "ربع",
    "alt": [
     "A quarter",
     "Quarter",
     "1/4",
     "Quarter full"
+   ],
+   "qar": [
+    [
+     "finjan",
+     "الفنجان"
+    ],
+    [
+     "gahwa",
+     "قهوة"
+    ]
    ]
   },
   {
    "q": "In which year was harees inscribed on UNESCO's intangible heritage list?",
    "a": "2023",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "harees",
+     "هريس"
+    ]
+   ]
   },
   {
    "q": "Harees was inscribed by UNESCO after nomination by the UAE, Oman and which other country?",
@@ -1146,6 +1517,12 @@
     "KSA",
     "Saudi",
     "Kingdom of Saudi Arabia"
+   ],
+   "qar": [
+    [
+     "Harees",
+     "هريس"
+    ]
    ]
   },
   {
@@ -1167,14 +1544,23 @@
    "q": "Which bitter golden seed, called helba in Arabic, features in some bezar blends?",
    "a": "Fenugreek",
    "p": 600,
-   "ar": "حلبة",
    "alt": [
     "Helba",
     "Hulba",
     "Halba",
     "Hilbeh"
    ],
-   "apic": "Fenugreek"
+   "apic": "Fenugreek",
+   "qar": [
+    [
+     "helba",
+     "حلبة"
+    ],
+    [
+     "bezar",
+     "بزار"
+    ]
+   ]
   },
   {
    "q": "Which crumbly Emirati sweet is made by mixing date paste with toasted wheat flour, ghee and cardamom?",
@@ -1246,6 +1632,12 @@
     "Lamb",
     "Laham",
     "Lahm"
+   ],
+   "qar": [
+    [
+     "aish-u-laham",
+     "عيش ولحم"
+    ]
    ]
   },
   {
@@ -1255,6 +1647,12 @@
    "alt": [
     "Supper",
     "Evening meal"
+   ],
+   "qar": [
+    [
+     "asha",
+     "عشاء"
+    ]
    ]
   },
   {
@@ -1263,13 +1661,29 @@
    "p": 200,
    "alt": [
     "Potatoes"
+   ],
+   "qar": [
+    [
+     "batata",
+     "بطاطا"
+    ],
+    [
+     "saloona",
+     "صالونة"
+    ]
    ]
   },
   {
    "q": "Which fresh herb, called na'na' in Arabic, is often added to tea in the UAE?",
    "a": "Mint",
    "p": 200,
-   "apic": "Mentha"
+   "apic": "Mentha",
+   "qar": [
+    [
+     "na'na'",
+     "نعناع"
+    ]
+   ]
   },
   {
    "q": "Which vegetable, called bamya in Arabic, stars in a popular tomato stew served with rice?",
@@ -1279,7 +1693,13 @@
     "Ladies' fingers",
     "Lady's finger"
    ],
-   "apic": "Okra"
+   "apic": "Okra",
+   "qar": [
+    [
+     "bamya",
+     "بامية"
+    ]
+   ]
   },
   {
    "q": "Which Emirati restaurant chain's name means 'the lighthouse' in Arabic?",
@@ -1297,7 +1717,13 @@
    "alt": [
     "Biriyani"
    ],
-   "apic": "Biryani"
+   "apic": "Biryani",
+   "qar": [
+    [
+     "Machboos",
+     "مجبوس"
+    ]
+   ]
   },
   {
    "q": "Which colourful vegetable, called jazar in Arabic, is often grated into salads and rice dishes?",
@@ -1306,19 +1732,37 @@
    "alt": [
     "Carrots"
    ],
-   "apic": "Carrot"
+   "apic": "Carrot",
+   "qar": [
+    [
+     "jazar",
+     "جزر"
+    ]
+   ]
   },
   {
    "q": "Which fruit, called rumman in Arabic, has hundreds of juicy red seeds?",
    "a": "Pomegranate",
    "p": 200,
-   "apic": "Pomegranate"
+   "apic": "Pomegranate",
+   "qar": [
+    [
+     "rumman",
+     "رمان"
+    ]
+   ]
   },
   {
    "q": "Which fruit, called battikh in Arabic, is a summer favourite with red flesh and black seeds?",
    "a": "Watermelon",
    "p": 200,
-   "apic": "Watermelon"
+   "apic": "Watermelon",
+   "qar": [
+    [
+     "battikh",
+     "بطيخ"
+    ]
+   ]
   },
   {
    "q": "Which nut, called lowz in Arabic, is used to decorate many Gulf sweets and rice dishes?",
@@ -1327,12 +1771,24 @@
    "alt": [
     "Almonds"
    ],
-   "apic": "Almond"
+   "apic": "Almond",
+   "qar": [
+    [
+     "lowz",
+     "لوز"
+    ]
+   ]
   },
   {
    "q": "Which Dubai-based dairy brand is known for selling fresh and flavoured camel milk?",
    "a": "Camelicious",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
+   ]
   },
   {
    "q": "Which Emirati dessert of mashed pumpkin cooked with roasted flour, ghee, sugar and saffron is called aseedat what?",
@@ -1364,6 +1820,12 @@
     "Bint al sahn",
     "Sabaya",
     "Bint Al Sahan"
+   ],
+   "qar": [
+    [
+     "mandi",
+     "مندي"
+    ]
    ]
   },
   {
@@ -1373,6 +1835,12 @@
    "alt": [
     "Dish",
     "Platter"
+   ],
+   "qar": [
+    [
+     "bint al-sahn",
+     "بنت الصحن"
+    ]
    ]
   },
   {
@@ -1392,6 +1860,12 @@
    "p": 400,
    "alt": [
     "Midday meal"
+   ],
+   "qar": [
+    [
+     "ghada",
+     "غداء"
+    ]
    ]
   },
   {
@@ -1427,6 +1901,12 @@
    "ar": "بصل",
    "alt": [
     "Bsal"
+   ],
+   "qar": [
+    [
+     "saloona",
+     "صالونة"
+    ]
    ]
   },
   {
@@ -1436,7 +1916,17 @@
    "alt": [
     "Pepper"
    ],
-   "apic": "Black pepper"
+   "apic": "Black pepper",
+   "qar": [
+    [
+     "filfil aswad",
+     "فلفل أسود"
+    ],
+    [
+     "bezar",
+     "بزار"
+    ]
+   ]
   },
   {
    "q": "Which green herb, called kuzbara in Arabic, is used both fresh and as ground seed in Emirati cooking?",
@@ -1445,7 +1935,13 @@
    "alt": [
     "Cilantro"
    ],
-   "apic": "Coriander"
+   "apic": "Coriander",
+   "qar": [
+    [
+     "kuzbara",
+     "كزبرة"
+    ]
+   ]
   },
   {
    "q": "Which fruit, called teen in Arabic, is eaten fresh or dried and often made into jam?",
@@ -1454,7 +1950,13 @@
    "alt": [
     "Figs"
    ],
-   "apic": "Common fig"
+   "apic": "Common fig",
+   "qar": [
+    [
+     "teen",
+     "تين"
+    ]
+   ]
   },
   {
    "q": "In machboos, the rice is cooked in what, which gives it its deep flavour?",
@@ -1464,6 +1966,12 @@
     "Broth",
     "Stock",
     "Meat stock"
+   ],
+   "qar": [
+    [
+     "machboos",
+     "مجبوس"
+    ]
    ]
   },
   {
@@ -1474,7 +1982,13 @@
     "Leaven",
     "Leavening"
    ],
-   "apic": "Yeast"
+   "apic": "Yeast",
+   "qar": [
+    [
+     "Khameer",
+     "خمير"
+    ]
+   ]
   },
   {
    "q": "Regag bread takes its name from an Arabic word meaning what?",
@@ -1483,6 +1997,12 @@
    "alt": [
     "Fine",
     "Delicate"
+   ],
+   "qar": [
+    [
+     "Regag",
+     "رقاق"
+    ]
    ]
   },
   {
@@ -1493,6 +2013,12 @@
     "Crush",
     "Pound",
     "Beat"
+   ],
+   "qar": [
+    [
+     "Harees",
+     "هريس"
+    ]
    ]
   },
   {
@@ -1542,7 +2068,13 @@
    "alt": [
     "Mangoes"
    ],
-   "apic": "Mango"
+   "apic": "Mango",
+   "qar": [
+    [
+     "humeidh",
+     "حميض"
+    ]
+   ]
   },
   {
    "q": "Which thin, soft pancake, similar to chabab but thinner, is eaten at breakfast or with afternoon coffee?",
@@ -1552,17 +2084,32 @@
    "alt": [
     "Muhalla",
     "Mahalla"
+   ],
+   "qar": [
+    [
+     "chabab",
+     "چباب"
+    ]
    ]
   },
   {
    "q": "Mahyawa, a tangy fish sauce eaten with regag bread, is made from which small fish?",
    "a": "Anchovies",
    "p": 600,
-   "ar": "مهياوة",
    "alt": [
     "Anchovy"
    ],
-   "apic": "Anchovy"
+   "apic": "Anchovy",
+   "qar": [
+    [
+     "Mahyawa",
+     "مهياوة"
+    ],
+    [
+     "regag",
+     "رقاق"
+    ]
+   ]
   },
   {
    "q": "Mahyawa fish sauce came to the Gulf coast from the southern coast of which country?",
@@ -1571,7 +2118,13 @@
    "alt": [
     "Persia"
    ],
-   "apic": "Iran"
+   "apic": "Iran",
+   "qar": [
+    [
+     "Mahyawa",
+     "مهياوة"
+    ]
+   ]
   },
   {
    "q": "What is the Emirati name for the spread of sweets, fruit and snacks served to guests with gahwa?",
@@ -1582,24 +2135,44 @@
     "Fuala",
     "Fwala",
     "Fualah"
+   ],
+   "qar": [
+    [
+     "gahwa",
+     "قهوة"
+    ]
    ]
   },
   {
    "q": "The name mandi is said to come from the Arabic word 'nada', meaning what?",
    "a": "Dew",
    "p": 600,
-   "ar": "ندى"
+   "qar": [
+    [
+     "mandi",
+     "مندي"
+    ],
+    [
+     "nada",
+     "ندى"
+    ]
+   ]
   },
   {
    "q": "Samr honey, a prized dark honey of the UAE mountains, comes from which type of tree?",
    "a": "Acacia",
    "p": 600,
-   "ar": "سمر",
    "alt": [
     "Samr tree",
     "Umbrella thorn"
    ],
-   "apic": "Acacia"
+   "apic": "Acacia",
+   "qar": [
+    [
+     "Samr",
+     "سمر"
+    ]
+   ]
   },
   {
    "q": "Sultan Ibrahim, a small reddish fish fried whole in the Gulf and Levant, is better known in English as what?",
@@ -1609,7 +2182,13 @@
     "Goatfish",
     "Mullet"
    ],
-   "apic": "Red mullet"
+   "apic": "Red mullet",
+   "qar": [
+    [
+     "Sultan Ibrahim",
+     "سلطان إبراهيم"
+    ]
+   ]
   },
   {
    "q": "Thareed takes its name from an Arabic verb meaning to do what to bread?",
@@ -1619,6 +2198,12 @@
     "Break up",
     "Crumble it",
     "Tear"
+   ],
+   "qar": [
+    [
+     "Thareed",
+     "ثريد"
+    ]
    ]
   },
   {
@@ -1629,6 +2214,12 @@
    "alt": [
     "Delma",
     "Dalma Island"
+   ],
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
    ]
   },
   {
@@ -1659,7 +2250,13 @@
    "alt": [
     "Sultanas"
    ],
-   "apic": "Raisin"
+   "apic": "Raisin",
+   "qar": [
+    [
+     "Machboos",
+     "مجبوس"
+    ]
+   ]
   },
   {
    "q": "What is the small, narrow-waisted glass used for tea in the Gulf and Iraq called?",
@@ -1678,7 +2275,13 @@
    "alt": [
     "Tomatoes"
    ],
-   "apic": "Tomato"
+   "apic": "Tomato",
+   "qar": [
+    [
+     "Bayd tamat",
+     "بيض طماط"
+    ]
+   ]
   },
   {
    "q": "Besides qirfa, which Persian-origin word do many Gulf cooks use for cinnamon?",
@@ -1688,6 +2291,12 @@
    "alt": [
     "Darsin",
     "Dar seen"
+   ],
+   "qar": [
+    [
+     "qirfa",
+     "قرفة"
+    ]
    ]
   },
   {
@@ -1696,50 +2305,80 @@
    "p": 200,
    "alt": [
     "Sugar and milk"
+   ],
+   "qar": [
+    [
+     "gahwa",
+     "قهوة"
+    ]
    ]
   },
   {
    "q": "Which aromatic tree resin, called mistika in Arabic, flavours some Gulf milk puddings and ice creams?",
    "a": "Mastic",
    "p": 600,
-   "ar": "مستكة",
    "alt": [
     "Mastic gum",
     "Mastiha"
    ],
-   "apic": "Mastic (plant resin)"
+   "apic": "Mastic (plant resin)",
+   "qar": [
+    [
+     "mistika",
+     "مستكة"
+    ]
+   ]
   },
   {
    "q": "Which tiny black seeds, called habbat al-baraka, are sprinkled on breads such as bint al-sahn?",
    "a": "Nigella seeds",
    "p": 400,
-   "ar": "حبة البركة",
    "alt": [
     "Black seed",
     "Nigella",
     "Black cumin"
    ],
-   "apic": "Nigella sativa"
+   "apic": "Nigella sativa",
+   "qar": [
+    [
+     "habbat al-baraka",
+     "حبة البركة"
+    ],
+    [
+     "bint al-sahn",
+     "بنت الصحن"
+    ]
+   ]
   },
   {
    "q": "Which fruit is called mawz in Arabic?",
    "a": "Banana",
    "p": 200,
-   "ar": "موز",
    "alt": [
     "Bananas"
    ],
-   "apic": "Banana"
+   "apic": "Banana",
+   "qar": [
+    [
+     "mawz",
+     "موز"
+    ]
+   ]
   },
   {
    "q": "Which fruit is called inab in Arabic?",
    "a": "Grapes",
    "p": 400,
-   "ar": "عنب",
    "alt": [
     "Grape"
    ],
-   "apic": "Grape"
+   "apic": "Grape",
+   "qar": [
+    [
+     "inab",
+     "عنب"
+    ]
+   ]
   }
  ]
 }

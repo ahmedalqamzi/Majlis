@@ -1,132 +1,147 @@
+<meta charset="utf-8">
 <title>Majlis</title>
-<meta name="theme-color" content="#F3F4F8">
+<meta name="theme-color" content="#1A1210">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="Majlis">
 <link rel="manifest" href="manifest.json">
 <link rel="apple-touch-icon" href="icon-192.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Reem+Kufi:wght@600;700&family=Readex+Pro:wght@400;500;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Reem+Kufi:wght@500;600;700&family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&display=swap">
 <style>
-/* Layout: clean game-show board. Category cards with a 200/400/600 column on each side, score rail at the bottom, full-screen questions. Four skins share one token set. */
+/* Layout: a woven majlis board. Sadu-weave bands frame each screen; categories are woven cushions with a 200/400/600 column each side; scores sit on a bottom bench. Square, stitched edges instead of soft cards. Three skins share one token set; Sadu (night) is the default. */
 :root{
-  --bg:#F3F4F8;--s1:#FFFFFF;--s2:#EEF0F6;--s3:#E2E6F0;--line:#D9DEEA;--ink:#12141C;--muted:#5E6475;
-  --pri:#2F5BFF;--pri-ink:#FFFFFF;--acc:#FF7A1A;--acc-ink:#1C0D00;--shadow:0 6px 18px rgba(20,30,60,.10);--press:rgba(20,30,60,.18);--scrim:rgba(12,16,30,.55);
-  --t1:#2F5BFF;--t2:#F0482A;--t3:#12A862;--t4:#9B4DFF;--on-team:#FFFFFF;--good:#12A862;--bad:#E5383B;
-  --display:"Bricolage Grotesque","Segoe UI",system-ui,sans-serif;--body:"Readex Pro",system-ui,-apple-system,"Segoe UI",sans-serif;
-  color-scheme:light;
+  --bg:#1A1210;--s1:#251915;--s2:#30211B;--s3:#3E2B23;--line:#4E372C;--ink:#F3E8D6;--muted:#BFA58C;
+  --pri:#C7362B;--pri-ink:#FBF3E6;--acc:#E2A53B;--acc-ink:#2A1606;--weave:#F3E8D6;--weave2:#14100F;
+  --press:rgba(0,0,0,.45);--scrim:rgba(12,6,4,.78);--shadow:none;
+  --t1:#E2A53B;--t2:#E0584B;--t3:#6FB283;--t4:#8C9CE0;--on-team:#1A1210;--good:#6FB283;--bad:#E0584B;--img-bg:#2E211B;
+  --display:"Reem Kufi","Trebuchet MS",sans-serif;--body:"IBM Plex Sans Arabic","Segoe UI",system-ui,sans-serif;--num:"Reem Kufi","Trebuchet MS",sans-serif;
+  --r:6px;--r-lg:10px;
+  color-scheme:dark;
 }
-:root[data-skin="midnight"]{--bg:#0D0F14;--s1:#161922;--s2:#1E222D;--s3:#2A2F3C;--line:#2F3543;--ink:#F1F3F8;--muted:#98A0B3;--pri:#5B7CFF;--pri-ink:#FFFFFF;--acc:#FFB224;--acc-ink:#1C1200;--shadow:0 6px 18px rgba(0,0,0,.35);--press:rgba(0,0,0,.5);--scrim:rgba(0,0,0,.65);--t1:#6B8AFF;--t2:#FF6B57;--t3:#2ED18A;--t4:#C29BFF;--on-team:#0B0D12;color-scheme:dark}
-:root[data-skin="gulf"]{--bg:#04262B;--s1:#093840;--s2:#0E4650;--s3:#155663;--line:#1F6573;--ink:#EAF7F5;--muted:#9CC7C2;--pri:#FFC857;--pri-ink:#2A1D00;--acc:#FF8A73;--acc-ink:#2A0A04;--shadow:0 6px 18px rgba(0,0,0,.3);--press:rgba(0,0,0,.45);--scrim:rgba(0,10,12,.7);--t1:#FFC857;--t2:#FF8A73;--t3:#7BE0C3;--t4:#D9CCFF;--on-team:#04262B;color-scheme:dark}
-:root[data-skin="sadu"]{--bg:#1A0F0D;--s1:#26160F;--s2:#342017;--s3:#45291D;--line:#563526;--ink:#F5ECDD;--muted:#C2A992;--pri:#C8352E;--pri-ink:#F5ECDD;--acc:#E6A23C;--acc-ink:#2B1606;--shadow:0 6px 18px rgba(0,0,0,.35);--press:rgba(0,0,0,.5);--scrim:rgba(10,5,4,.75);--t1:#E6A23C;--t2:#E2544B;--t3:#3FB07B;--t4:#F5ECDD;--on-team:#22120A;--display:"Reem Kufi","Trebuchet MS",sans-serif;color-scheme:dark}
+:root[data-skin="khoos"]{--bg:#E8DBBF;--s1:#F4EBD8;--s2:#EDE1C8;--s3:#DDCDAA;--line:#C9B48C;--ink:#23160E;--muted:#6E5A43;--pri:#A3291F;--pri-ink:#FBF3E6;--acc:#2F6B4F;--acc-ink:#F4EBD8;--weave:#23160E;--weave2:#F4EBD8;--press:rgba(60,40,10,.25);--scrim:rgba(35,22,14,.6);--t1:#A3291F;--t2:#2F6B4F;--t3:#B7791F;--t4:#34437A;--on-team:#FBF3E6;--good:#2F6B4F;--bad:#A3291F;--img-bg:#E2D4B4;color-scheme:light}
+:root[data-skin="gulf"]{--bg:#06252A;--s1:#0B343B;--s2:#104049;--s3:#175059;--line:#22616B;--ink:#E7F4F1;--muted:#93C2BC;--pri:#E2A53B;--pri-ink:#1E1404;--acc:#E0745F;--acc-ink:#2A0A04;--weave:#E7F4F1;--weave2:#06252A;--press:rgba(0,0,0,.45);--scrim:rgba(0,12,14,.75);--t1:#E2A53B;--t2:#E0745F;--t3:#79D5BC;--t4:#C9BDF5;--on-team:#06252A;--good:#79D5BC;--bad:#E0745F;--img-bg:#0E3C44;color-scheme:dark}
 html,body{height:100%}
 body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:16px;margin:0;-webkit-tap-highlight-color:transparent}
 button{font:inherit;color:inherit;cursor:pointer;border:0;background:none}
-button:focus-visible,input:focus-visible,a:focus-visible{outline:3px solid var(--pri);outline-offset:2px}
-h1,h2,h3{font-family:var(--display);font-weight:800;margin:0;text-wrap:balance}
+button:focus-visible,input:focus-visible,a:focus-visible{outline:3px solid var(--acc);outline-offset:2px}
+h1,h2,h3{font-family:var(--display);font-weight:700;margin:0;text-wrap:balance;letter-spacing:.2px}
 .screen{min-height:100%;padding-inline:16px;padding-block:0 140px;max-width:1180px;margin:0 auto;box-sizing:border-box}
-.band{height:6px;background:linear-gradient(90deg,var(--t1) 0 25%,var(--t2) 25% 50%,var(--t3) 50% 75%,var(--t4) 75%)}
-:root[data-skin="sadu"] .band{height:12px;background-color:var(--ink);background-image:linear-gradient(135deg,var(--pri) 25%,transparent 25%),linear-gradient(225deg,var(--pri) 25%,transparent 25%),linear-gradient(315deg,var(--bg) 25%,transparent 25%),linear-gradient(45deg,var(--bg) 25%,transparent 25%);background-size:12px 12px;background-position:-6px 0,-6px 0,0 0,0 0}
-.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;padding:14px 22px;border-radius:14px;font-weight:700;font-size:16px;transition:transform .1s}
+/* Sadu weave band: wool ground, a row of red triangles, saffron selvedge lines */
+.band{position:relative;height:22px;background:var(--weave2);border-block:3px solid var(--acc)}
+.band::before{content:"";position:absolute;inset:3px 0;background:var(--pri);-webkit-mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='10'%3E%3Cpath d='M0 10L5 0L10 10L15 0L20 10Z'/%3E%3C/svg%3E") 0 0/20px 10px repeat-x;mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='10'%3E%3Cpath d='M0 10L5 0L10 10L15 0L20 10Z'/%3E%3C/svg%3E") 0 0/20px 10px repeat-x}
+.band::after{content:"";position:absolute;left:0;right:0;top:7px;height:3px;background:var(--weave);-webkit-mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='3'%3E%3Crect x='3' width='4' height='3'/%3E%3C/svg%3E") 0 0/20px 3px repeat-x;mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='3'%3E%3Crect x='3' width='4' height='3'/%3E%3C/svg%3E") 0 0/20px 3px repeat-x}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;padding:14px 22px;border-radius:var(--r);font-weight:700;font-size:16px;transition:transform .1s;letter-spacing:.2px}
 .btn:active{transform:translateY(2px)}
-.btn-pri{background:var(--pri);color:var(--pri-ink);box-shadow:0 4px 0 var(--press)}
-.btn-acc{background:var(--acc);color:var(--acc-ink);box-shadow:0 4px 0 var(--press)}
-.btn-soft{background:var(--s1);color:var(--ink);border:1px solid var(--line);box-shadow:0 3px 0 var(--press)}
-.btn-line{color:var(--muted);border:1px solid var(--line);padding:10px 14px}
+.btn-pri{background:var(--pri);color:var(--pri-ink);box-shadow:0 3px 0 var(--press);outline:1.5px dashed color-mix(in srgb,var(--pri-ink) 35%,transparent);outline-offset:-6px}
+.btn-acc{background:var(--acc);color:var(--acc-ink);box-shadow:0 3px 0 var(--press)}
+.btn-soft{background:var(--s1);color:var(--ink);border:1.5px solid var(--line);box-shadow:0 3px 0 var(--press)}
+.btn-line{color:var(--muted);border:1.5px solid var(--line);padding:10px 14px}
 .btn[disabled]{opacity:.4;pointer-events:none}
-.label{font-size:12px;letter-spacing:1.4px;text-transform:uppercase;color:var(--muted);font-weight:700}
+.label{font-size:12px;letter-spacing:1.6px;text-transform:uppercase;color:var(--muted);font-weight:600}
 .top{display:flex;align-items:center;justify-content:space-between;gap:12px;padding-block:14px}
 .top h2{font-size:26px}
 .ico{width:22px;height:22px;flex:none}
 .skins{display:flex;gap:8px;flex-wrap:wrap;justify-content:center}
-.skins button{display:flex;align-items:center;gap:8px;padding:8px 12px;border-radius:999px;border:1px solid var(--line);background:var(--s1);font-size:14px;font-weight:500}
-.skins button.on{border-color:var(--pri);box-shadow:inset 0 0 0 1px var(--pri)}
-.skins i{width:16px;height:16px;border-radius:50%;display:block}
+.skins button{display:flex;align-items:center;gap:8px;padding:8px 12px;border-radius:var(--r);border:1.5px solid var(--line);background:var(--s1);font-size:14px;font-weight:500}
+.skins button.on{border-color:var(--acc)}
+.skins i{width:16px;height:16px;border-radius:2px;display:block;border:1px solid var(--line)}
 
 /* Home */
-.home{display:flex;flex-direction:column;align-items:center;text-align:center;gap:22px;padding-top:6vh}
-.mark{font-family:var(--display);font-weight:800;font-size:clamp(60px,16vw,112px);line-height:.9;letter-spacing:-1px}
+.home{display:flex;flex-direction:column;align-items:center;text-align:center;gap:24px;padding-top:7vh}
+.mark{display:flex;flex-direction:column;align-items:center;gap:2px;font-family:var(--display);font-weight:700;line-height:1}
+.mark .en{font-size:clamp(64px,17vw,128px);letter-spacing:1px}
+.mark .ar{font-size:clamp(30px,8vw,52px);color:var(--acc);direction:rtl}
 .mark span{color:var(--pri)}
-.tag{color:var(--muted);max-width:38ch;line-height:1.55;margin:0}
-.stats{display:flex;gap:10px;flex-wrap:wrap;justify-content:center}
-.stats div{background:var(--s1);border:1px solid var(--line);border-radius:14px;padding:10px 16px;text-align:left;box-shadow:var(--shadow)}
-.stats b{display:block;font-family:var(--display);font-size:26px;color:var(--pri);font-variant-numeric:tabular-nums}
-.stats small{color:var(--muted);font-size:13px}
+.tag{color:var(--muted);max-width:38ch;line-height:1.6;margin:0}
+.facts{display:flex;gap:6px 18px;flex-wrap:wrap;justify-content:center;font-size:14px;color:var(--muted)}
+.facts b{font-family:var(--num);font-weight:700;color:var(--ink);font-size:18px;margin-right:4px;font-variant-numeric:tabular-nums}
 .acts{display:flex;flex-direction:column;gap:14px;width:min(340px,100%)}
 
 /* Setup */
 .setup{display:flex;flex-direction:column;gap:26px}
 .sec{display:flex;flex-direction:column;gap:12px}
 .teams{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:10px}
-.team-in{display:flex;align-items:center;gap:10px;background:var(--s1);border-radius:14px;padding:8px 12px;border:1px solid var(--line);border-left:6px solid var(--c)}
+.team-in{display:flex;align-items:center;gap:10px;background:var(--s1);border-radius:var(--r);padding:8px 12px;border:1.5px solid var(--line);border-inline-start:8px solid var(--c)}
 .team-in input{flex:1;min-width:0;background:none;border:0;color:var(--ink);font:500 17px var(--body);padding:8px 0}
 .team-in button{color:var(--muted);font-size:24px;line-height:1;padding:4px 8px}
 .seg{display:flex;gap:8px;flex-wrap:wrap}
-.seg button{padding:10px 16px;border-radius:12px;background:var(--s1);border:1px solid var(--line);font-weight:700}
+.seg button{padding:10px 16px;border-radius:var(--r);background:var(--s1);border:1.5px solid var(--line);font-weight:700;font-family:var(--num)}
 .seg button.on{background:var(--pri);color:var(--pri-ink);border-color:var(--pri)}
-.search{display:flex;align-items:center;gap:10px;background:var(--s1);border:1px solid var(--line);border-radius:14px;padding:4px 14px}
+.search{display:flex;align-items:center;gap:10px;background:var(--s1);border:1.5px solid var(--line);border-radius:var(--r);padding:4px 14px}
 .search input{flex:1;min-width:0;border:0;background:none;color:var(--ink);font:400 16px var(--body);padding:10px 0}
 .picked{display:flex;gap:8px;flex-wrap:wrap}
-.picked button{display:flex;align-items:center;gap:6px;padding:8px 10px 8px 8px;border-radius:12px;background:var(--s1);border:1px solid var(--pri);font-weight:500;font-size:14px}
+.picked button{display:flex;align-items:center;gap:6px;padding:8px 10px 8px 8px;border-radius:var(--r);background:var(--s1);border:1.5px solid var(--acc);font-weight:500;font-size:14px}
 .picked button .x{color:var(--muted);font-size:18px;line-height:1}
 .grp{display:flex;flex-direction:column;gap:10px}
-.grp h3{font-size:19px;display:flex;align-items:center;gap:8px}
-.grp h3 small{font-family:var(--body);font-weight:400;font-size:13px;color:var(--muted)}
-.cats{display:grid;grid-template-columns:repeat(auto-fill,minmax(168px,1fr));gap:10px}
-.cat{position:relative;display:flex;align-items:center;background:var(--s1);border:1px solid var(--line);border-radius:14px;min-height:62px;box-shadow:var(--shadow)}
+.grp h3{font-size:21px;display:flex;align-items:baseline;gap:10px;padding-bottom:6px;border-bottom:1.5px dashed var(--line)}
+.grp h3 small{font-family:var(--num);font-weight:600;font-size:14px;color:var(--muted)}
+.cats{display:grid;grid-template-columns:repeat(auto-fill,minmax(168px,1fr));gap:8px}
+.cat{position:relative;display:flex;align-items:center;background:var(--s1);border:1.5px solid var(--line);border-radius:var(--r);min-height:62px}
 .cat .main{display:flex;align-items:center;gap:10px;flex:1;min-width:0;text-align:left;padding:10px 34px 10px 10px}
-.badge{flex:none;width:42px;height:42px;border-radius:12px;display:grid;place-items:center;background:var(--gc);color:#fff}
+.badge{flex:none;width:42px;height:42px;border-radius:var(--r);display:grid;place-items:center;background:var(--gc);color:#FBF3E6;box-shadow:inset 0 0 0 2px color-mix(in srgb,#000 18%,transparent),inset 0 0 0 4px color-mix(in srgb,#fff 22%,transparent)}
 .badge svg{width:24px;height:24px}
 .cat .nm{font-weight:500;font-size:14.5px;line-height:1.2;min-width:0}
 .cat .nm small{display:block;color:var(--muted);font-size:11px;margin-top:3px}
-.cat.on{border-color:var(--pri);box-shadow:inset 0 0 0 2px var(--pri)}
-.cat.on::after{content:attr(data-n);position:absolute;top:-8px;left:-6px;width:24px;height:24px;border-radius:50%;background:var(--pri);color:var(--pri-ink);display:grid;place-items:center;font-weight:700;font-size:13px}
+.cat.on{border-color:var(--acc);background:var(--s2)}
+.cat.on::after{content:attr(data-n);position:absolute;top:-8px;left:-6px;width:24px;height:24px;border-radius:3px;background:var(--acc);color:var(--acc-ink);display:grid;place-items:center;font-weight:700;font-size:13px;font-family:var(--num);transform:rotate(45deg)}
 .cat.ex{opacity:.62}
 .cat.ex .nm small{color:var(--bad)}
-.exbtn{position:absolute;top:50%;right:4px;transform:translateY(-50%);width:30px;height:30px;border-radius:9px;display:grid;place-items:center;color:var(--muted)}
+.exbtn{position:absolute;top:50%;right:4px;transform:translateY(-50%);width:30px;height:30px;border-radius:var(--r);display:grid;place-items:center;color:var(--muted)}
 .exbtn svg{width:19px;height:19px}
 .cat.ex .exbtn{color:var(--bad)}
 .dock{position:fixed;left:0;right:0;bottom:0;padding:14px 16px calc(14px + env(safe-area-inset-bottom,0px));background:linear-gradient(transparent,var(--bg) 35%);display:flex;justify-content:center;z-index:5}
 .dock .btn{width:min(420px,100%)}
 
+/* Steal */
+.steal{display:flex;flex-direction:column;gap:8px}
+.steal-row{display:flex;gap:8px;flex-wrap:wrap}
+.steal-b{flex:1 1 140px;display:flex;flex-direction:column;align-items:flex-start;gap:2px;padding:10px 12px;border-radius:var(--r);border:2px solid var(--c);background:var(--s1);color:var(--ink);font-weight:700;text-align:left;cursor:pointer}
+.steal-b small{font-weight:400;color:var(--muted)}
+.steal-b.on{background:var(--c);color:var(--on-team)}.steal-b.on small{color:var(--on-team)}
+.steal-b:disabled:not(.on){opacity:.45;cursor:default}
+.award button.hl{outline:3px solid var(--ink);outline-offset:3px}
+.arw{font-family:var(--body);unicode-bidi:isolate;white-space:nowrap}
 /* Abilities draft */
 .draft{display:flex;flex-direction:column;gap:22px}
-.dteam{background:var(--s1);border:1px solid var(--line);border-top:6px solid var(--c);border-radius:16px;padding:14px;display:flex;flex-direction:column;gap:12px;box-shadow:var(--shadow)}
+.dteam{background:var(--s1);border:1.5px solid var(--line);border-top:8px solid var(--c);border-radius:var(--r);padding:14px;display:flex;flex-direction:column;gap:12px}
 .dteam header{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap}
-.dteam h3{font-size:20px}
+.dteam h3{font-size:22px}
+.dteam b{font-family:var(--num)}
 .abil{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:8px}
-.ab{display:flex;gap:10px;align-items:flex-start;text-align:left;padding:10px;border-radius:12px;border:1px solid var(--line);background:var(--s2)}
-.ab .ai{flex:none;width:34px;height:34px;border-radius:10px;display:grid;place-items:center;background:var(--s3);color:var(--ink)}
+.ab{display:flex;gap:10px;align-items:flex-start;text-align:left;padding:10px;border-radius:var(--r);border:1.5px solid var(--line);background:var(--s2)}
+.ab .ai{flex:none;width:34px;height:34px;border-radius:var(--r);display:grid;place-items:center;background:var(--s3);color:var(--ink)}
 .ab .ai svg{width:20px;height:20px}
 .ab b{display:block;font-size:14.5px}
-.ab small{display:block;color:var(--muted);font-size:12.5px;line-height:1.35;margin-top:2px}
-.ab.on{border-color:var(--c);background:var(--s1);box-shadow:inset 0 0 0 2px var(--c)}
+.ab small{display:block;color:var(--muted);font-size:12.5px;line-height:1.4;margin-top:2px}
+.ab.on{border-color:var(--c);background:var(--s1);box-shadow:inset 0 0 0 1.5px var(--c)}
 .ab.on .ai{background:var(--c);color:var(--on-team)}
 .ab[disabled]{opacity:.4}
 
 /* Board */
-.turn{display:flex;align-items:center;gap:10px;font-weight:700;background:var(--s1);border:1px solid var(--line);padding:8px 14px;border-radius:999px;min-width:0}
-.turn i{width:12px;height:12px;border-radius:50%;background:var(--c);flex:none}
+.turn{display:flex;align-items:center;gap:10px;font-weight:700;background:var(--s1);border:1.5px solid var(--c);padding:8px 14px;border-radius:var(--r);min-width:0}
+.turn i{width:12px;height:12px;background:var(--c);flex:none;transform:rotate(45deg)}
 .turn span{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+@media (max-width:600px){.fs-btn{display:none}}
 .board{display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:14px}
-.card{display:grid;grid-template-columns:64px 1fr 64px;gap:10px;background:var(--s1);border:1px solid var(--line);border-radius:18px;padding:10px;box-shadow:var(--shadow)}
+.card{position:relative;display:grid;grid-template-columns:64px 1fr 64px;gap:10px;background:var(--s1);border:1.5px solid var(--line);border-top:6px solid var(--gc);border-radius:var(--r);padding:10px}
 .col{display:flex;flex-direction:column;gap:8px}
 .mid{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:8px;text-align:center;padding:6px 2px}
-.mid .badge{width:58px;height:58px;border-radius:16px}
+.mid .badge{width:58px;height:58px}
 .mid .badge svg{width:32px;height:32px}
-.mid h3{font-size:16.5px;line-height:1.15}
-.tile{font-family:var(--display);font-weight:800;font-size:20px;height:46px;border-radius:12px;background:var(--s2);color:var(--pri);border:1px solid var(--line);box-shadow:0 3px 0 var(--press);font-variant-numeric:tabular-nums}
-.tile:active{transform:translateY(2px);box-shadow:none}
-.tile.done{box-shadow:none;pointer-events:none;font-size:11px;font-family:var(--body);font-weight:700;display:grid;place-items:center;color:var(--on-team);background:var(--c);border:0;overflow:hidden;padding:0 4px;text-align:center}
-.tile.miss{background:transparent;border:1px dashed var(--line);color:var(--muted)}
-.rail{position:fixed;left:0;right:0;bottom:0;z-index:6;background:var(--s1);border-top:1px solid var(--line);box-shadow:0 -6px 18px rgba(0,0,0,.08)}
+.mid h3{font-size:17px;line-height:1.15}
+.tile{font-family:var(--num);font-weight:700;font-size:21px;height:46px;border-radius:var(--r);background:var(--s2);color:var(--acc);border:1.5px solid var(--line);border-bottom-width:4px;font-variant-numeric:tabular-nums}
+.tile:active{transform:translateY(2px);border-bottom-width:2px}
+.tile.done{pointer-events:none;font-size:11px;font-family:var(--body);font-weight:700;display:grid;place-items:center;color:var(--on-team);background:var(--c);border:0;overflow:hidden;padding:0 4px;text-align:center}
+.tile.miss{background:transparent;border:1.5px dashed var(--line);color:var(--muted)}
+.rail{position:fixed;left:0;right:0;bottom:0;z-index:6;background:var(--s1);border-top:3px solid var(--acc)}
 .rail-in{display:flex;gap:8px;justify-content:center;padding:10px 12px calc(10px + env(safe-area-inset-bottom,0px))}
-.chip{flex:1;max-width:250px;min-width:0;border-radius:14px;padding:7px 8px;background:var(--s2);border:1px solid var(--line);border-top:4px solid var(--c);display:flex;flex-direction:column;align-items:center;gap:3px}
-.chip.cur{box-shadow:0 0 0 2px var(--c);background:var(--s1)}
+.chip{flex:1;max-width:250px;min-width:0;border-radius:var(--r);padding:7px 8px;background:var(--s2);border:1.5px solid var(--line);border-top:5px solid var(--c);display:flex;flex-direction:column;align-items:center;gap:3px}
+.chip.cur{background:var(--s1);border-color:var(--c)}
 .chip .nm{font-size:13px;font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:100%}
-.chip .sc{font-family:var(--display);font-weight:800;font-size:26px;font-variant-numeric:tabular-nums;line-height:1}
+.chip .sc{font-family:var(--num);font-weight:700;font-size:26px;font-variant-numeric:tabular-nums;line-height:1}
 .chip .row{display:flex;gap:6px;align-items:center}
-.chip .row button{font-size:11px;font-weight:700;color:var(--muted);padding:3px 7px;border-radius:7px;background:var(--s3)}
+.chip .row button{font-size:11px;font-weight:700;color:var(--muted);padding:3px 7px;border-radius:3px;background:var(--s3)}
 .chip .abtn{font-size:11px;font-weight:700;color:var(--c);padding:2px 6px}
 
 /* Question */
@@ -134,84 +149,85 @@ h1,h2,h3{font-family:var(--display);font-weight:800;margin:0;text-wrap:balance}
 .q-in{max-width:900px;width:100%;margin:0 auto;padding:14px 16px calc(20px + env(safe-area-inset-bottom,0px));display:flex;flex-direction:column;gap:16px;flex:1;box-sizing:border-box}
 .q-head{display:flex;justify-content:space-between;align-items:center;gap:12px}
 .q-meta{display:flex;align-items:center;gap:12px;min-width:0}
-.pts{font-family:var(--display);font-weight:800;font-size:28px;color:var(--pri);font-variant-numeric:tabular-nums;line-height:1.1}
+.pts{font-family:var(--num);font-weight:700;font-size:30px;color:var(--acc);font-variant-numeric:tabular-nums;line-height:1.1}
 .pts.hot{color:var(--bad)}
 .ring{position:relative;width:78px;height:78px;flex:none;border-radius:50%}
 .ring svg{transform:rotate(-90deg)}
-.ring b{position:absolute;inset:0;display:grid;place-items:center;font-family:var(--display);font-weight:800;font-size:26px;font-variant-numeric:tabular-nums}
+.ring b{position:absolute;inset:0;display:grid;place-items:center;font-family:var(--num);font-weight:700;font-size:26px;font-variant-numeric:tabular-nums}
 .ring small{position:absolute;bottom:-18px;left:-10px;right:-10px;text-align:center;font-size:11px;color:var(--muted)}
 .ring.low b{color:var(--bad)}
 .tags{display:flex;gap:6px;flex-wrap:wrap;align-items:center;color:var(--muted);font-weight:500}
 .tags b{color:var(--c)}
-.tag-pill{background:var(--s2);border:1px solid var(--line);border-radius:999px;padding:3px 10px;font-size:13px;color:var(--ink)}
+.tag-pill{background:var(--s2);border:1.5px solid var(--line);border-radius:3px;padding:3px 10px;font-size:13px;color:var(--ink)}
 .q-body{flex:1;display:flex;flex-direction:column;justify-content:center;gap:18px}
-.q-text{font-size:clamp(22px,4.6vw,38px);font-weight:700;line-height:1.3;text-wrap:balance}
-.q-img{width:100%;max-width:640px;aspect-ratio:3/2;object-fit:contain;border-radius:16px;border:1px solid var(--line);background:#E9ECF1;align-self:center;display:block}
+.q-text{font-family:var(--body);font-size:clamp(22px,4.6vw,38px);font-weight:600;line-height:1.35;text-wrap:balance}
+.q-img{width:100%;max-width:640px;aspect-ratio:3/2;object-fit:contain;border-radius:var(--r);border:1.5px solid var(--line);background:var(--img-bg);align-self:center;display:block}
 .q-emoji{font-size:clamp(48px,12vw,88px);letter-spacing:6px;text-align:center;line-height:1.2}
-.hint{font-family:ui-monospace,Menlo,monospace;font-size:22px;letter-spacing:4px;background:var(--s1);border:1px dashed var(--line);border-radius:12px;padding:10px 14px;align-self:flex-start}
-.vid{display:flex;flex-direction:column;gap:8px}
-.vid iframe{width:100%;aspect-ratio:16/9;max-width:100%;border:0;border-radius:16px;background:#000}
-.vid a{color:var(--pri);font-weight:700;font-size:14px}
-.vid{position:relative}
+.hint{font-family:ui-monospace,Menlo,monospace;font-size:22px;letter-spacing:4px;background:var(--s1);border:1.5px dashed var(--acc);border-radius:var(--r);padding:10px 14px;align-self:flex-start}
+.vid{position:relative;display:flex;flex-direction:column;gap:8px}
+.vid iframe{width:100%;aspect-ratio:16/9;max-width:100%;border:0;border-radius:var(--r);background:#000}
+.vid a{color:var(--acc);font-weight:700;font-size:14px}
 .aud-mode iframe{position:absolute;left:0;top:0;width:320px;height:200px;opacity:0;pointer-events:none}
 .aud-mode>a{display:none}
 .vid:not(.aud-mode) .aud-card{display:none}
-.aud-card{display:flex;align-items:center;gap:14px;background:var(--s1);border:1px solid var(--line);border-radius:16px;padding:16px;box-shadow:var(--shadow);position:relative;z-index:1}
+.aud-card{display:flex;align-items:center;gap:14px;background:var(--s1);border:1.5px solid var(--line);border-radius:var(--r);padding:16px;position:relative;z-index:1}
 .aud-card b{display:block}.aud-card small{color:var(--muted)}
-.aud-btn{width:58px;height:58px;border-radius:50%;border:0;background:var(--pri);color:#fff;font-size:22px;flex:none;cursor:pointer}
-.aud-re{margin-left:auto;border:1px solid var(--line);background:var(--s2,transparent);color:var(--ink);border-radius:12px;padding:8px 12px;font-weight:700;cursor:pointer}
+.aud-btn{width:58px;height:58px;border-radius:50%;border:0;background:var(--pri);color:var(--pri-ink);font-size:22px;flex:none;cursor:pointer}
+.aud-re{margin-left:auto;border:1.5px solid var(--line);background:var(--s2);color:var(--ink);border-radius:var(--r);padding:8px 12px;font-weight:700;cursor:pointer}
 .wpic:empty{display:none}
 .ans .q-img{max-height:42vh;width:auto;margin-top:12px}
-.vid-open{display:flex;align-items:center;gap:12px;background:var(--s1);border:1px solid var(--line);border-radius:16px;padding:16px;text-decoration:none;color:var(--ink);box-shadow:var(--shadow)}
-.vid-open i{width:46px;height:46px;border-radius:50%;background:var(--bad);display:grid;place-items:center;flex:none}
-.vid-open i::after{content:"";border-left:14px solid #fff;border-block:9px solid transparent;margin-left:4px}
+.vid-open{display:flex;align-items:center;gap:12px;background:var(--s1);border:1.5px solid var(--line);border-radius:var(--r);padding:16px;text-decoration:none;color:var(--ink)}
+.vid-open i{width:46px;height:46px;border-radius:50%;background:var(--pri);display:grid;place-items:center;flex:none}
+.vid-open i::after{content:"";border-left:14px solid var(--pri-ink);border-block:9px solid transparent;margin-left:4px}
 .vid-open small{display:block;color:var(--muted);font-weight:400;margin-top:2px}
-.ans{background:var(--s1);border:2px solid var(--good);border-radius:16px;padding:16px 18px;animation:pop .3s ease;box-shadow:var(--shadow)}
-.ans small{font-size:12px;font-weight:700;letter-spacing:1.4px;text-transform:uppercase;color:var(--good)}
-.ans p{font-family:var(--display);font-weight:800;font-size:clamp(26px,6vw,42px);line-height:1.1;margin:4px 0 0}
-.ans .ar{font-family:"Readex Pro",sans-serif;font-weight:700;font-size:clamp(24px,5.5vw,36px);direction:rtl;margin-top:6px;color:var(--ink)}
+.ans{position:relative;background:var(--s1);border:1.5px solid var(--good);border-inline-start:8px solid var(--good);border-radius:var(--r);padding:16px 18px;animation:pop .3s ease}
+.ans small{font-size:12px;font-weight:600;letter-spacing:1.6px;text-transform:uppercase;color:var(--good)}
+.ans p{font-family:var(--display);font-weight:700;font-size:clamp(26px,6vw,42px);line-height:1.2;margin:4px 0 0}
+.ans .arw{color:var(--acc)}
 .ans .alt{color:var(--muted);font-size:14px;margin-top:8px}
-@keyframes pop{from{transform:scale(.96);opacity:0}to{transform:none;opacity:1}}
+@keyframes pop{from{transform:translateY(6px);opacity:0}to{transform:none;opacity:1}}
 .abrow{display:flex;flex-direction:column;gap:8px}
 .abrow .tm{display:flex;gap:6px;flex-wrap:wrap;align-items:center}
 .abrow .tm>span{font-size:12px;font-weight:700;color:var(--c);min-width:70px}
-.use{display:flex;align-items:center;gap:6px;padding:8px 10px;border-radius:10px;background:var(--s1);border:1px solid var(--line);font-size:13px;font-weight:700}
+.use{display:flex;align-items:center;gap:6px;padding:8px 10px;border-radius:var(--r);background:var(--s1);border:1.5px solid var(--line);font-size:13px;font-weight:700}
 .use svg{width:16px;height:16px}
-.use.active{border-color:var(--c);box-shadow:inset 0 0 0 2px var(--c)}
+.use.active{border-color:var(--c);box-shadow:inset 0 0 0 1.5px var(--c)}
 .use[disabled]{opacity:.35;pointer-events:none;text-decoration:line-through}
 .q-acts{display:flex;gap:10px}
 .q-acts .btn-pri{flex:1}
 .award{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:10px}
-.award button{padding:16px 10px;border-radius:14px;font-weight:700;font-size:16px;background:var(--c);color:var(--on-team);box-shadow:0 4px 0 var(--press);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.award button.none{background:var(--s1);color:var(--ink);border:1px solid var(--line)}
+.award button{padding:16px 10px;border-radius:var(--r);font-weight:700;font-size:16px;background:var(--c);color:var(--on-team);box-shadow:0 3px 0 var(--press);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.award button.none{background:var(--s1);color:var(--ink);border:1.5px solid var(--line)}
 .award small{display:block;font-size:11px;font-weight:500;opacity:.85}
 
 /* End + modal */
 .end{display:flex;flex-direction:column;align-items:center;gap:22px;text-align:center;padding-top:6vh}
-.end h1{font-size:clamp(40px,10vw,72px);color:var(--pri)}
-.rank{width:min(480px,100%);display:flex;flex-direction:column;gap:10px}
-.rank div{display:flex;justify-content:space-between;align-items:center;padding:14px 18px;border-radius:14px;background:var(--s1);border:1px solid var(--line);border-left:6px solid var(--c);font-weight:700}
-.rank div span:last-child{font-family:var(--display);font-size:26px}
+.end h1{font-size:clamp(40px,10vw,72px);color:var(--acc)}
+.rank{width:min(480px,100%);display:flex;flex-direction:column;gap:8px}
+.rank div{display:flex;justify-content:space-between;align-items:center;padding:14px 18px;border-radius:var(--r);background:var(--s1);border:1.5px solid var(--line);border-inline-start:8px solid var(--c);font-weight:700}
+.rank div span:last-child{font-family:var(--num);font-size:26px}
 .confetti{position:fixed;inset:0;pointer-events:none;z-index:30;overflow:hidden}
-.confetti i{position:absolute;top:-20px;width:11px;height:11px;border-radius:2px;animation:fall linear forwards}
-@keyframes fall{to{transform:translateY(110vh) rotate(540deg)}}
+.confetti i{position:absolute;top:-20px;width:10px;height:10px;animation:fall linear forwards;transform:rotate(45deg)}
+@keyframes fall{to{transform:translateY(110vh) rotate(585deg)}}
 .modal{position:fixed;inset:0;background:var(--scrim);z-index:40;display:grid;place-items:center;padding:16px}
-.modal>div{background:var(--s1);border-radius:18px;padding:20px;max-width:420px;width:100%;display:flex;flex-direction:column;gap:14px;border:1px solid var(--line);max-height:85vh;overflow:auto}
+.modal>div{background:var(--s1);border-radius:var(--r-lg);padding:20px;max-width:420px;width:100%;display:flex;flex-direction:column;gap:14px;border:1.5px solid var(--line);border-top:6px solid var(--acc);max-height:85vh;overflow:auto}
 .modal p{margin:0;color:var(--muted)}
 .modal .row{display:flex;gap:10px;justify-content:flex-end;flex-wrap:wrap}
-.toast{position:fixed;left:50%;bottom:120px;transform:translateX(-50%);background:var(--ink);color:var(--bg);padding:10px 16px;border-radius:12px;font-weight:500;z-index:50;animation:pop .2s ease}
+.toast{position:fixed;left:50%;top:calc(16px + env(safe-area-inset-top,0px));transform:translateX(-50%);background:var(--ink);color:var(--bg);padding:10px 16px;border-radius:var(--r);font-weight:600;z-index:50;animation:pop .2s ease;max-width:calc(100% - 32px)}
 /* 16:9 landscape (tablets, unfolded phones, TVs): board fills one screen, question splits into two columns */
 @media (min-width:880px) and (min-aspect-ratio:4/3){
- body[data-view="board"] .screen{max-width:none;height:100dvh;display:flex;flex-direction:column;padding-inline:2vw;padding-block:0 clamp(96px,11vh,130px)}
+ body[data-view="board"] .screen{max-width:none;height:100dvh;display:flex;flex-direction:column;padding-inline:2vw;padding-block:0 clamp(146px,21vh,186px)}
  body[data-view="board"] .top{padding-block:1.2vh}
  body[data-view="board"] .board{flex:1;min-height:0;grid-template-columns:repeat(3,minmax(0,1fr));grid-template-rows:repeat(2,minmax(0,1fr));gap:1.4vw}
- body[data-view="board"] .card{grid-template-columns:22% minmax(0,1fr) 22%;padding:1vw;gap:1vw;min-height:0;border-radius:1.6vw}
+ body[data-view="board"] .card{grid-template-columns:22% minmax(0,1fr) 22%;padding:1vw;gap:1vw;min-height:0}
  body[data-view="board"] .col{gap:.8vw;min-height:0}
- body[data-view="board"] .tile{flex:1;height:auto;min-height:0;font-size:clamp(20px,2.4vw,46px);border-radius:1vw}
+ body[data-view="board"] .tile{flex:1;height:auto;min-height:0;font-size:clamp(20px,2.4vw,46px)}
  body[data-view="board"] .tile.done{font-size:clamp(11px,1vw,17px)}
- body[data-view="board"] .mid .badge{width:clamp(56px,6.5vw,120px);height:clamp(56px,6.5vw,120px);border-radius:1.6vw}
+ body[data-view="board"] .mid .badge{width:clamp(44px,5vw,96px);height:clamp(44px,5vw,96px)}
  body[data-view="board"] .mid .badge svg{width:56%;height:56%}
- body[data-view="board"] .mid h3{font-size:clamp(16px,1.8vw,32px)}
+ body[data-view="board"] .mid h3{font-size:clamp(14px,1.45vw,28px);line-height:1.1}
+ body[data-view="board"] .mid{min-height:0;overflow:hidden;gap:.6vw}
+ body[data-view="board"] .band{height:14px}
  .rail-in{gap:1vw}
  .chip{max-width:360px;padding:1vh 1vw}
  .chip .nm{font-size:clamp(13px,1.1vw,19px)}
@@ -223,7 +239,6 @@ h1,h2,h3{font-family:var(--display);font-weight:800;margin:0;text-wrap:balance}
  .q-emoji{font-size:clamp(60px,7vw,130px);text-align:left}
  .vid iframe{max-height:58vh}
  .ans p{font-size:clamp(30px,3.3vw,62px)}
- .ans .ar{font-size:clamp(26px,2.8vw,52px)}
  .award{grid-template-columns:1fr 1fr}
  .award button{padding:2.2vh 10px;font-size:clamp(16px,1.4vw,24px)}
  .pts{font-size:clamp(28px,2.6vw,48px)}
@@ -303,47 +318,45 @@ movies:"film",oscars:"trophy",sitcoms:"tv",superheroes:"mask",music:"music",rap9
 general:"bulb",geography:"globe",history:"scroll",japan:"torii",science:"atom",math:"pi",gcse:"book",food:"pot",brands:"tag",riddles:"brain",emoji:"star",
 nintendo:"pad",finalfantasy:"crown",assassins:"sword",residentevil:"flame",witcher:"sword",overwatch:"target",roblox:"cube",mobilegames:"pad",fighting:"bolt",retro:"clock",mcu:"mask",starwars:"star",harrypotter:"bolt",disney:"crown",lotr:"orb",got:"crown",breakingbad:"atom",pixar:"bulb",simpsons:"tv",cartoons:"tv",kpop:"mic",kdrama:"tv",bollywood:"film",horror:"mask",netflix:"tv",villains:"mask",hiphop00:"mic",pop00:"music",rock:"music",epl:"ball",nba:"trophy",olympics:"trophy",ufc:"target",laliga:"ball",ucl:"trophy",tennis:"racket",boxing:"target",wwe:"crown",cricket:"racket",uaefootball:"ball",capitals:"globe",space:"rocket",humanbody:"brain",animals:"leaf",landmarks:"tower",dinosaurs:"mountain",inventions:"bulb",chemistry:"atom",physics:"bolt",mythology:"scroll",flags:"flag",logos:"tag",animeost:"music",gameost:"music",screenthemes:"music"};
 const GROUPS=[
- {name:"UAE",color:"#D63B3B",ids:["uaehistory","heritage","emiratidialect","emiratifood","uaesymbols","abudhabi","dubai","sharjah","rak","alain","eastcoast","ajmanuaq","uaenature","uaeislands","uaefastfood","uaetv","uaespace","uaesports","ramadan","uaebiz","uaetransport","uaemalls"]},
- {name:"Arab World",color:"#C07A00",ids:["arabworld","saudi","oman","qatar","kuwait","bahrain","egypt","levant","maghreb","arabic","proverbs","islamicgolden","islamichistory","khaleejimusic","arabicmusic","khaleejitv","egyptiancinema"]},
- {name:"Anime",color:"#D2397E",ids:["anime","onepiece","jjk","naruto","dragonball","aot","demonslayer","deathnote","hxh","mha","bleach","ghibli","fma","chainsawman","sololeveling","conan","spacetoon","manga","animeost"]},
- {name:"Gaming",color:"#13A065",ids:["videogames","gaminghistory","tga","warcraft","pokemon","tcg","minecraft","fortnite","cod","gta","eafc","zelda","mario","fromsoft","lol","esports","playstation","xbox","nintendo","finalfantasy","assassins","residentevil","witcher","overwatch","roblox","mobilegames","fighting","retro","gameost"]},
- {name:"Screen & Music",color:"#5361E8",ids:["movies","oscars","sitcoms","superheroes","music","rap90s","mcu","starwars","harrypotter","disney","lotr","got","breakingbad","pixar","simpsons","cartoons","kpop","kdrama","bollywood","horror","netflix","villains","hiphop00","pop00","rock","screenthemes"]},
- {name:"Sports & Motors",color:"#0E93B5",ids:["soccer","worldcup","f1","padel","sports","cars","epl","nba","olympics","ufc","laliga","ucl","tennis","boxing","wwe","cricket","uaefootball"]},
- {name:"Knowledge",color:"#7A4DE0",ids:["general","geography","history","japan","science","math","gcse","food","brands","riddles","emoji","capitals","space","humanbody","animals","landmarks","dinosaurs","inventions","chemistry","physics","mythology","flags","logos"]}
+ {name:"UAE",color:"#B8372C",ids:["uaehistory","heritage","emiratidialect","emiratifood","uaesymbols","abudhabi","dubai","sharjah","rak","alain","eastcoast","ajmanuaq","uaenature","uaeislands","uaefastfood","uaetv","uaespace","uaesports","ramadan","uaebiz","uaetransport","uaemalls"]},
+ {name:"Arab World",color:"#C0832A",ids:["arabworld","saudi","oman","qatar","kuwait","bahrain","egypt","levant","maghreb","arabic","proverbs","islamicgolden","islamichistory","khaleejimusic","arabicmusic","khaleejitv","egyptiancinema"]},
+ {name:"Anime",color:"#8E3B5E",ids:["anime","onepiece","jjk","naruto","dragonball","aot","demonslayer","deathnote","hxh","mha","bleach","ghibli","fma","chainsawman","sololeveling","conan","spacetoon","manga","animeost"]},
+ {name:"Gaming",color:"#3F7A55",ids:["videogames","gaminghistory","tga","warcraft","pokemon","tcg","minecraft","fortnite","cod","gta","eafc","zelda","mario","fromsoft","lol","esports","playstation","xbox","nintendo","finalfantasy","assassins","residentevil","witcher","overwatch","roblox","mobilegames","fighting","retro","gameost"]},
+ {name:"Screen & Music",color:"#3E4F8F",ids:["movies","oscars","sitcoms","superheroes","music","rap90s","mcu","starwars","harrypotter","disney","lotr","got","breakingbad","pixar","simpsons","cartoons","kpop","kdrama","bollywood","horror","netflix","villains","hiphop00","pop00","rock","screenthemes"]},
+ {name:"Sports & Motors",color:"#1F6F78",ids:["soccer","worldcup","f1","padel","sports","cars","epl","nba","olympics","ufc","laliga","ucl","tennis","boxing","wwe","cricket","uaefootball"]},
+ {name:"Knowledge",color:"#6B4A2E",ids:["general","geography","history","japan","science","math","gcse","food","brands","riddles","emoji","capitals","space","humanbody","animals","landmarks","dinosaurs","inventions","chemistry","physics","mythology","flags","logos"]}
 ];
 const CAT={};BANK.forEach(c=>{CAT[c.id]=c;c.color="#64748B"});
 const inGroup=new Set();GROUPS.forEach(g=>{g.ids=g.ids.filter(id=>CAT[id]);g.ids.forEach(id=>{CAT[id].color=g.color;inGroup.add(id)})});
-const extra=BANK.filter(c=>!inGroup.has(c.id)).map(c=>c.id);if(extra.length)GROUPS.push({name:"More",color:"#64748B",ids:extra});
+const extra=BANK.filter(c=>!inGroup.has(c.id)).map(c=>c.id);if(extra.length)GROUPS.push({name:"More",color:"#6B5B4E",ids:extra});
 const icon=id=>P(IC[ICON[id]]||IC.star);
-const SKINS=[{id:"daylight",name:"Daylight",sw:"#2F5BFF"},{id:"midnight",name:"Midnight",sw:"#161922"},{id:"gulf",name:"Gulf",sw:"#0E4650"},{id:"sadu",name:"Sadu",sw:"#C8352E"}];
+const SKINS=[{id:"sadu",name:"Sadu night",sw:"#C7362B"},{id:"khoos",name:"Khoos day",sw:"#E8DBBF"},{id:"gulf",name:"Gulf",sw:"#104049"}];
 const COLORS=["var(--t1)","var(--t2)","var(--t3)","var(--t4)"];
 const AB=[
- {id:"time",name:"Extra Time",ico:"clock",when:"q",who:"ans",desc:"Adds 30 seconds to the clock."},
- {id:"double",name:"Double Up",ico:"bolt",when:"q",who:"ans",desc:"Double points if you answer correctly."},
- {id:"swap",name:"Swap Question",ico:"cards",when:"q",who:"ans",desc:"Replace this question with a new one of the same value."},
- {id:"ease",name:"Ease It",ico:"leaf",when:"q",who:"ans",desc:"Swap to an easier question but keep the full points."},
- {id:"hint",name:"Hint",ico:"bulb",when:"q",who:"ans",desc:"Shows the first letter of each word and the answer length."},
- {id:"two",name:"Two Guesses",ico:"chat",when:"q",who:"ans",desc:"Your team may give two answers."},
- {id:"turn",name:"Take the Turn",ico:"crown",when:"board",who:"any",desc:"On the board: your team picks the next question now."},
- {id:"first",name:"First Steal",ico:"target",when:"q",who:"other",desc:"If the answering team misses, you answer before anyone else."},
- {id:"pass",name:"Pass It",ico:"plane",when:"q",who:"ans",desc:"Send this question to another team. They must answer it."},
- {id:"block",name:"Block",ico:"wall",when:"q",who:"ans",desc:"Choose a team that cannot steal this question."},
- {id:"risk",name:"Risk It",ico:"flame",when:"q",who:"ans",desc:"Triple points if right. Lose the question's value if wrong."},
- {id:"insure",name:"Insurance",ico:"fort",when:"q",who:"ans",desc:"Get half the points even if you answer wrong."},
- {id:"pick",name:"Pickpocket",ico:"bag",when:"q",who:"ans",desc:"Answer right and also take 200 points from the leading rival."},
- {id:"sabo",name:"Sabotage",ico:"cross",when:"board",who:"any",desc:"On the board: halve a rival team's timer on their next question."},
- {id:"room",name:"Ask the Room",ico:"mic",when:"q",who:"ans",desc:"One non-player may help you for 15 seconds."},
- {id:"freeze",name:"Time Freeze",ico:"spark",when:"q",who:"ans",desc:"Stops the clock for 20 seconds."}
+ {id:"time",g:0,name:"Extra Time",ico:"clock",when:"q",who:"ans",desc:"Adds 45 seconds to the clock."},
+ {id:"hint",g:0,name:"Hint",ico:"bulb",when:"q",who:"ans",desc:"Shows the first letter of each word and the answer length."},
+ {id:"two",g:0,name:"Two Guesses",ico:"chat",when:"q",who:"ans",desc:"Your team may give two answers."},
+ {id:"room",g:0,name:"Ask the Room",ico:"mic",when:"q",who:"ans",desc:"One non-player may help you for 15 seconds."},
+ {id:"swap",g:0,name:"Swap Question",ico:"cards",when:"q",who:"ans",desc:"Replace this question with a new one of the same value."},
+ {id:"double",g:1,name:"Double Up",ico:"bolt",when:"q",who:"ans",desc:"Double points if you answer correctly."},
+ {id:"insure",g:1,name:"Insurance",ico:"fort",when:"q",who:"ans",desc:"Get half the points even if you answer wrong."},
+ {id:"pick",g:1,name:"Pickpocket",ico:"bag",when:"q",who:"ans",desc:"Answer right and also take half the question's points from the leading rival."},
+ {id:"turn",g:2,name:"Take the Turn",ico:"crown",when:"board",who:"any",desc:"On the board: your team picks the next question now."},
+ {id:"sabo",g:2,name:"Sabotage",ico:"cross",when:"board",who:"any",desc:"On the board: halve a rival team's timer on their next question."},
+ {id:"pass",g:2,name:"Pass It",ico:"plane",when:"q",who:"ans",desc:"Send this question to another team. They must answer it."},
+ {id:"first",g:2,name:"First Steal",ico:"target",when:"q",who:"other",desc:"On a rival's question: you get the first chance to steal."},
+ {id:"block",g:2,name:"Block",ico:"wall",when:"q",who:"ans",desc:"Choose a team that cannot steal this question."}
 ];
+const ABG=["Help","Points","Tactics"];
 const ABM={};AB.forEach(a=>ABM[a.id]=a);
 const DICE=P('<rect x="4" y="4" width="16" height="16" rx="3"/><circle cx="9" cy="9" r="1" fill="currentColor"/><circle cx="15" cy="15" r="1" fill="currentColor"/><circle cx="15" cy="9" r="1" fill="currentColor"/><circle cx="9" cy="15" r="1" fill="currentColor"/>');
 const DICE_X=P('<rect x="4" y="4" width="16" height="16" rx="3"/><path d="M3 21L21 3"/>');
 
 const store={get(k,d){try{const v=localStorage.getItem(k);return v?JSON.parse(v):d}catch(e){return d}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
 let setup=store.get("mj2_setup",{teams:["Team Falcon","Team Oryx"],cats:[],timer:60,excl:[],abil:[[],[],[],[]],sound:true});
-setup.cats=(setup.cats||[]).filter(id=>CAT[id]);setup.excl=setup.excl||[];setup.abil=setup.abil||[[],[],[],[]];
-let skin=store.get("mj2_skin","daylight");
-let game=store.get("mj2_game",null);
+setup.cats=(setup.cats||[]).filter(id=>CAT[id]);setup.excl=setup.excl||[];setup.abil=(setup.abil||[[],[],[],[]]).map(m=>{const out=[];(m||[]).forEach(id=>{const a=ABM[id];if(a&&!out.some(o=>ABM[o].g===a.g))out.push(id)});return out});
+let skin=store.get("mj2_skin","sadu");if(!["sadu","khoos","gulf"].includes(skin))skin="sadu";
+let game=store.get("mj2_game",null);if(game)game.teams.forEach(t=>t.abil=(t.abil||[]).filter(id=>ABM[id]));
 let view=game&&!game.over?"board":"home",query="",Q=null,tick=null,actx=null,ytBlocked=false,wake=null;
 const $=s=>document.querySelector(s);
 const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
@@ -360,17 +373,17 @@ function render(){document.body.dataset.view=view;const a=$("#app");a.innerHTML=
 function skinsHTML(){return `<div class="skins">${SKINS.map(s=>`<button class="${skin===s.id?"on":""}" onclick="setSkin('${s.id}')"><i style="background:${s.sw}"></i>${s.name}</button>`).join("")}</div>`}
 
 function homeHTML(){
-  const total=BANK.reduce((n,c)=>n+c.questions.length,0),pics=BANK.reduce((n,c)=>n+c.questions.filter(q=>q.svg||q.emoji).length,0),vids=BANK.reduce((n,c)=>n+c.questions.filter(q=>q.yt).length,0),resume=game&&!game.over;
+  const total=BANK.reduce((n,c)=>n+c.questions.length,0),pics=BANK.reduce((n,c)=>n+c.questions.filter(q=>q.svg||q.emoji||q.img||q.pic||q.apic).length,0),vids=BANK.reduce((n,c)=>n+c.questions.filter(q=>q.yt).length,0),resume=game&&!game.over;
   return `<div class="band"></div><div class="screen"><div class="home">
-   <div class="mark">Maj<span>lis</span></div>
+   <div class="mark"><span class="en">Majlis</span><span class="ar" lang="ar">مجلس</span></div>
    <p class="tag">Team trivia for nights in the majlis. Pick six categories, draft your abilities, and chase the 600s.</p>
-   <div class="stats"><div><b>${BANK.length}</b><small>categories</small></div><div><b>${total.toLocaleString()}</b><small>questions</small></div><div><b>${pics}</b><small>picture questions</small></div><div><b>${vids}</b><small>video clips</small></div></div>
+   <div class="facts"><span><b>${BANK.length}</b>categories</span><span><b>${total.toLocaleString()}</b>questions</span><span><b>${pics.toLocaleString()}</b>with pictures</span><span><b>${vids}</b>clips</span></div>
    <div class="acts">${resume?`<button class="btn btn-acc" onclick="go('board')">Resume game</button>`:""}<button class="btn btn-pri" onclick="go('setup')">New game</button><button class="btn btn-line" onclick="toggleFS()">Full screen</button></div>
    <span class="label">Theme</span>${skinsHTML()}
   </div></div>`;
 }
 
-function catCard(id){const c=CAT[id],idx=setup.cats.indexOf(id),ex=setup.excl.includes(id),pics=c.questions.filter(q=>q.svg||q.emoji||q.yt).length;
+function catCard(id){const c=CAT[id],idx=setup.cats.indexOf(id),ex=setup.excl.includes(id),pics=c.questions.filter(q=>q.svg||q.emoji||q.yt||q.img||q.pic||q.apic).length;
   return `<div class="cat ${idx>-1?"on":""} ${ex?"ex":""}" data-n="${idx+1}" style="--gc:${c.color}"><button class="main" onclick="toggleCat('${id}')"><span class="badge">${icon(id)}</span><span class="nm">${esc(c.name)}<small>${ex?"Left out of Surprise":c.questions.length+" questions"+(pics?` · ${pics} media`:"")}</small></span></button><button class="exbtn" onclick="toggleEx('${id}')" aria-label="${ex?"Include in":"Leave out of"} Surprise">${ex?DICE_X:DICE}</button></div>`}
 function setupHTML(){
   const n=setup.cats.length,pool=BANK.filter(c=>!setup.excl.includes(c.id)).length,ql=query.trim().toLowerCase();
@@ -401,13 +414,13 @@ function draftHTML(){
   const ok=setup.teams.every((t,i)=>(setup.abil[i]||[]).length===3);
   return `<div class="band"></div><div class="screen draft">
    <div class="top"><button class="btn btn-soft" onclick="go('setup')">Back</button><h2>Abilities</h2><span style="width:60px"></span></div>
-   <p style="margin:0;color:var(--muted)">Each team picks 3 of 16 abilities. Each ability works once per game.</p>
+   <p style="margin:0;color:var(--muted)">Each team picks one Help, one Points and one Tactics ability. Each ability works once per game.</p>
    ${setup.teams.map((t,i)=>{const mine=setup.abil[i]||[];return `<section class="dteam" style="--c:${COLORS[i]}"><header><h3>${esc(t||"Team "+(i+1))}</h3><div style="display:flex;gap:8px;align-items:center"><b style="color:var(--c)">${mine.length}/3</b><button class="btn btn-line" onclick="randAb(${i})">Random 3</button></div></header>
-    <div class="abil">${AB.map(a=>{const on=mine.includes(a.id);return `<button class="ab ${on?"on":""}" ${!on&&mine.length>=3?"disabled":""} onclick="togAb(${i},'${a.id}')"><span class="ai">${P(IC[a.ico])}</span><span><b>${a.name}</b><small>${a.desc}</small></span></button>`}).join("")}</div></section>`}).join("")}
+    ${ABG.map((gn,g)=>`<div class="label">${gn}: pick 1</div><div class="abil">${AB.filter(a=>a.g===g).map(a=>{const on=mine.includes(a.id);return `<button class="ab ${on?"on":""}" onclick="togAb(${i},'${a.id}')"><span class="ai">${P(IC[a.ico])}</span><span><b>${a.name}</b><small>${a.desc}</small></span></button>`}).join("")}</div>`).join("")}</section>`}).join("")}
    <div class="dock"><button class="btn btn-pri" ${ok?"":"disabled"} onclick="startGame()">${ok?"Start game":"Each team needs 3 abilities"}</button></div></div>`;
 }
-function togAb(i,id){const m=setup.abil[i]=setup.abil[i]||[];const k=m.indexOf(id);if(k>-1)m.splice(k,1);else if(m.length<3)m.push(id);save();render()}
-function randAb(i){setup.abil[i]=AB.map(a=>a.id).sort(()=>Math.random()-.5).slice(0,3);save();render()}
+function togAb(i,id){const g=ABM[id].g;let m=(setup.abil[i]||[]);if(m.includes(id))m=m.filter(x=>x!==id);else m=m.filter(x=>ABM[x].g!==g).concat(id);setup.abil[i]=m;save();render()}
+function randAb(i){setup.abil[i]=ABG.map((_,g)=>{const l=AB.filter(a=>a.g===g);return l[Math.floor(Math.random()*l.length)].id});save();render()}
 
 function startGame(){
   const used=store.get("mj2_used",{});
@@ -429,7 +442,7 @@ function tileHTML(ci,ti){const x=game.cats[ci].tiles[ti];
 function boardHTML(){
   return `<div class="band"></div><div class="screen">
    <div class="top"><button class="btn btn-soft" onclick="go('home')">Menu</button><div class="turn" style="--c:${COLORS[game.turn]}"><i></i><span>${esc(game.teams[game.turn].name)} picks</span></div>
-    <div style="display:flex;gap:8px"><button class="btn btn-line" onclick="toggleFS()">Full screen</button>${game.hist.length?`<button class="btn btn-line" onclick="undo()">Undo</button>`:""}<button class="btn btn-line" onclick="confirmEnd()">End</button></div></div>
+    <div style="display:flex;gap:8px"><button class="btn btn-line fs-btn" onclick="toggleFS()">Full screen</button>${game.hist.length?`<button class="btn btn-line" onclick="undo()">Undo</button>`:""}<button class="btn btn-line" onclick="confirmEnd()">End</button></div></div>
    <div class="board">${game.cats.map((c,ci)=>`<section class="card" style="--gc:${CAT[c.id].color}"><div class="col">${[0,2,4].map(t=>tileHTML(ci,t)).join("")}</div><div class="mid"><span class="badge">${icon(c.id)}</span><h3>${esc(CAT[c.id].name)}</h3></div><div class="col">${[1,3,5].map(t=>tileHTML(ci,t)).join("")}</div></section>`).join("")}</div>
   </div>
   <div class="rail"><div class="rail-in">${game.teams.map((t,i)=>`<div class="chip ${i===game.turn?"cur":""}" style="--c:${COLORS[i]}"><span class="nm">${esc(t.name)}</span><span class="sc">${t.score}</span><div class="row"><button onclick="adj(${i},-100)" aria-label="Minus 100">-100</button><button class="abtn" onclick="teamSheet(${i})">${t.abil.filter(a=>!t.used[a]).length} abilities</button><button onclick="adj(${i},100)" aria-label="Plus 100">+100</button></div></div>`).join("")}</div></div>`;
@@ -464,18 +477,19 @@ function wpicHTML(t,id){if(!t)return "";if(WURL[t])return `<div class="wpic"><im
   return `<div class="wpic" id="${id}" data-t="${esc(t)}"></div>`}
 function fillPics(){document.querySelectorAll(".wpic[data-t]").forEach(el=>{const t=el.dataset.t;el.removeAttribute("data-t");wikiImg(t).then(u=>{if(u&&el.isConnected)el.innerHTML=`<img class="q-img" alt="" src="${esc(u)}" onerror="this.remove()">`})})}
 function mediaHTML(x){let h="";h+=wpicHTML(x.pic,"qpic");if(x.img)h+=`<img class="q-img" alt="Picture for this question" src="${esc(x.img)}">`;if(x.svg)h+=`<img class="q-img" alt="Picture for this question" src="data:image/svg+xml;charset=utf-8,${encodeURIComponent(x.svg)}">`;if(x.emoji)h+=`<div class="q-emoji">${esc(x.emoji)}</div>`;return h+`<div id="vidbox">${vidHTML(x)}</div>`}
+function qText(x){let h=esc(x.q);(x.qar||[]).forEach(([t,a])=>{const e=esc(t),re=new RegExp("(^|[^\\p{L}\\p{N}])("+e.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")+")(?![\\p{L}\\p{N}])","u"),m=re.exec(h);if(m){const k=m.index+m[1].length;h=h.slice(0,k)+e+` - <bdi class="arw" lang="ar">${esc(a)}</bdi>`+h.slice(k+e.length)}});return h}
 function hintOf(a){return String(a).split(/\s+/).map(w=>w[0]+" _".repeat(Math.max(0,w.length-1))).join("   ")}
 
 function openQ(ci,ti){
   const tt=game.teams[game.turn];let left=game.timer;
   if(tt.sabo){left=Math.ceil(game.timer/2);tt.sabo=false;save()}
-  Q={ci,ti,left,total:left,revealed:false,team:game.turn,picker:game.turn,mult:1,risk:false,insure:false,pick:false,hint:false,two:false,room:false,freeze:0,paused:false,first:null,block:null,active:{}};
+  Q={ci,ti,left,total:left,revealed:false,team:game.turn,picker:game.turn,mult:1,risk:false,insure:false,pick:false,hint:false,two:false,room:false,freeze:0,paused:false,first:null,block:null,stealer:null,tried:[],active:{}};
   const el=document.createElement("div");el.className="q";el.id="qv";document.body.appendChild(el);document.body.style.overflow="hidden";
   buildQ();startTick();beep(660,.08);
 }
 function buildQ(){const c=CAT[game.cats[Q.ci].id],x=cur();
   $("#qv").innerHTML=`<div class="band"></div><div class="q-in"><div class="q-head" id="qhead"></div><div class="tags" id="qtags"></div>
-   <div class="q-body"><div class="q-text">${esc(x.q)}</div>${mediaHTML(x)}<div id="qhint"></div><div id="qans"></div></div><div id="qfoot"></div></div>`;
+   <div class="q-body"><div class="q-text">${qText(x)}</div>${mediaHTML(x)}<div id="qhint"></div><div id="qans"></div></div><div id="qfoot"></div></div>`;
   audOn=false;drawQ();fillPics();if(x.apic)wikiImg(x.apic)}
 function drawQ(){
   const c=CAT[game.cats[Q.ci].id],x=cur(),tile=game.cats[Q.ci].tiles[Q.ti],t=game.teams[Q.team];
@@ -486,18 +500,18 @@ function drawQ(){
   tags.push(`<span style="--c:${COLORS[Q.team]}">Answering: <b>${esc(t.name)}</b></span>`);
   if(Q.two)tags.push(`<span class="tag-pill">Two guesses</span>`);if(Q.room)tags.push(`<span class="tag-pill">Ask the room: 15 sec</span>`);
   if(Q.insure)tags.push(`<span class="tag-pill">Insured</span>`);if(Q.pick)tags.push(`<span class="tag-pill">Pickpocket</span>`);if(Q.risk)tags.push(`<span class="tag-pill">Risk it</span>`);
-  if(Q.first!==null)tags.push(`<span class="tag-pill">${esc(game.teams[Q.first].name)} steals first</span>`);if(Q.block!==null)tags.push(`<span class="tag-pill">${esc(game.teams[Q.block].name)} blocked</span>`);
-  if(!Q.revealed&&Q.left<=0)tags.push(`<span style="color:var(--bad);font-weight:700">Time is up. Others can steal.</span>`);
+  if(Q.stealer!==null)tags.push(`<span class="tag-pill" style="--c:${COLORS[Q.stealer]}">${esc(game.teams[Q.stealer].name)} is stealing</span>`);if(Q.first!==null)tags.push(`<span class="tag-pill">${esc(game.teams[Q.first].name)} steals first</span>`);if(Q.block!==null)tags.push(`<span class="tag-pill">${esc(game.teams[Q.block].name)} blocked</span>`);
+  if(!Q.revealed&&Q.left<=0)tags.push(`<span style="color:var(--bad);font-weight:700">${Q.stealer===null?"Time is up. Others can steal.":"Time is up."}</span>`);
   $("#qtags").innerHTML=tags.join("");
   if(Q.revealed)setTimeout(fillPics);
   $("#qhint").innerHTML=Q.hint&&!Q.revealed?`<div class="hint" aria-label="Hint">${esc(hintOf(x.a))}</div>`:"";
-  $("#qans").innerHTML=Q.revealed?`<div class="ans"><small>Answer</small><p>${esc(x.a)}</p>${x.ar?`<div class="ar" lang="ar">${esc(x.ar)}</div>`:""}${x.alt&&x.alt.length?`<div class="alt">Also accepted: ${x.alt.map(esc).join(", ")}</div>`:""}${wpicHTML(x.apic,"apic")}</div>`:"";
+  $("#qans").innerHTML=Q.revealed?`<div class="ans"><small>Answer</small><p>${esc(x.a)}${x.ar?` - <bdi class="arw" lang="ar">${esc(x.ar)}</bdi>`:""}</p>${x.alt&&x.alt.length?`<div class="alt">Also accepted: ${x.alt.map(esc).join(", ")}</div>`:""}${wpicHTML(x.apic,"apic")}</div>`:"";
   if(!Q.revealed){
     const rows=game.teams.map((tm,i)=>{const list=tm.abil.filter(id=>{const a=ABM[id];if(a.when!=="q")return false;if(a.who==="ans")return i===Q.team;if(a.who==="other")return i!==Q.team;return true});if(!list.length)return "";
       return `<div class="tm" style="--c:${COLORS[i]}"><span>${esc(tm.name)}</span>${list.map(id=>{const a=ABM[id],u=tm.used[id],dis=u||(["double","risk"].includes(id)&&Q.mult>1);return `<button class="use ${Q.active[i+id]?"active":""}" style="--c:${COLORS[i]}" ${dis?"disabled":""} onclick="useAb(${i},'${id}')" title="${esc(a.desc)}">${P(IC[a.ico])}${a.name}</button>`}).join("")}</div>`}).join("");
-    $("#qfoot").innerHTML=`<div style="display:flex;flex-direction:column;gap:12px">${rows?`<div class="abrow">${rows}</div>`:""}<div class="q-acts"><button class="btn btn-soft" onclick="closeQ(false)">Back</button><button class="btn btn-pri" onclick="reveal()">Show answer</button></div></div>`;
+    $("#qfoot").innerHTML=`<div style="display:flex;flex-direction:column;gap:12px">${rows?`<div class="abrow">${rows}</div>`:""}${stealHTML()}<div class="q-acts"><button class="btn btn-soft" onclick="closeQ(false)">Back</button><button class="btn btn-pri" onclick="reveal()">Show answer</button></div></div>`;
   }else{
-    $("#qfoot").innerHTML=`<div><div class="label" style="margin-bottom:10px">Who got it right?</div><div class="award">${game.teams.map((tm,i)=>{const blocked=Q.block===i&&i!==Q.team;return `<button style="--c:${COLORS[i]}" ${blocked?"disabled":""} onclick="award(${i})">${esc(tm.name)}<small>${i===Q.team?"+"+tile.p*Q.mult+(Q.pick?" & pickpocket":""):blocked?"Blocked":"Steal +"+tile.p}</small></button>`}).join("")}<button class="none" onclick="award(null)">No one<small>${Q.risk?"-"+tile.p+" for "+esc(t.name):Q.insure?"+"+tile.p/2+" insurance":"Tile is lost"}</small></button></div></div>`;
+    $("#qfoot").innerHTML=`<div><div class="label" style="margin-bottom:10px">Who got it right?</div><div class="award">${game.teams.map((tm,i)=>{const blocked=Q.block===i&&i!==Q.team;return `<button class="${Q.stealer===i?"hl":""}" style="--c:${COLORS[i]}" ${blocked?"disabled":""} onclick="award(${i})">${esc(tm.name)}<small>${i===Q.team?"+"+tile.p*Q.mult+(Q.pick?" & pickpocket":""):blocked?"Blocked":"Steal +"+tile.p}</small></button>`}).join("")}<button class="none" onclick="award(null)">No one<small>${Q.risk?"-"+tile.p+" for "+esc(t.name):Q.insure?"+"+tile.p/2+" insurance":"Tile is lost"}</small></button></div></div>`;
   }
 }
 function setArc(){const R=33,C=2*Math.PI*R,arc=$("#arc"),s=$("#secs"),sub=$("#tsub");if(arc){arc.setAttribute("stroke-dashoffset",C*(1-Math.max(0,Q.left)/Q.total));if(Q.left<=10){arc.setAttribute("stroke","var(--bad)");$(".ring").classList.add("low")}}if(s)s.textContent=Math.max(0,Q.left);if(sub)sub.textContent=Q.freeze>0?"Frozen "+Q.freeze+"s":Q.paused?"Paused":"Tap to pause"}
@@ -513,7 +527,7 @@ function freshQ(ci,p){const id=game.cats[ci].id,c=CAT[id],inUse=new Set(game.cat
 function useAb(i,id){const tm=game.teams[i];if(tm.used[id])return;const tile=game.cats[Q.ci].tiles[Q.ti];
   const done=()=>{tm.used[id]=true;Q.active[i+id]=true;save();drawQ();beep(1200,.1)};
   switch(id){
-   case"time":Q.left+=30;Q.total+=30;done();break;
+   case"time":Q.left+=45;Q.total+=45;done();break;
    case"double":Q.mult=2;done();break;
    case"risk":Q.mult=3;Q.risk=true;done();break;
    case"swap":case"ease":{const qi=freshQ(Q.ci,id==="ease"?200:tile.p);if(qi===null){toast("No other question available");return}tile.qi=qi;tm.used[id]=true;save();buildQ();toast(id==="ease"?"Easier question, same points":"New question");break}
@@ -527,12 +541,17 @@ function useAb(i,id){const tm=game.teams[i];if(tm.used[id])return;const tile=gam
    case"pass":pickTeam(i,"Pass this question to which team?",j=>{Q.team=j;tm.used.pass=true;save();drawQ();toast(game.teams[j].name+" must answer")});break;
    case"block":pickTeam(i,"Block which team from stealing?",j=>{Q.block=j;tm.used.block=true;save();drawQ()});break;
   }}
+function stealHTML(){if(game.teams.length<2)return "";const others=game.teams.map((t,i)=>i).filter(i=>i!==Q.team);
+  const firstWaiting=Q.first!==null&&Q.first!==Q.team&&!Q.tried.includes(Q.first);
+  return `<div class="steal"><span class="label">${Q.stealer===null?"Missed it? Another team can steal":"Stealing now"}</span><div class="steal-row">${others.map(i=>{const tm=game.teams[i],blocked=Q.block===i,wait=firstWaiting&&i!==Q.first,on=Q.stealer===i;
+    return `<button class="steal-b ${on?"on":""}" style="--c:${COLORS[i]}" ${blocked||wait||on?"disabled":""} onclick="steal(${i})">${esc(tm.name)}<small>${blocked?"Blocked":wait?"Waits for "+esc(game.teams[Q.first].name):on?"Answering now":"Steal for +"+game.cats[Q.ci].tiles[Q.ti].p}</small></button>`}).join("")}</div></div>`}
+function steal(i){Q.stealer=i;if(!Q.tried.includes(i))Q.tried.push(i);Q.left=Math.max(15,Math.min(Q.left,15));Q.total=15;Q.paused=false;Q.freeze=0;startTick();drawQ();beep(880,.12);toast(game.teams[i].name+" is stealing: 15 seconds")}
 function reveal(){Q.revealed=true;const vb=$("#vidbox .aud-mode");if(vb)vb.classList.remove("aud-mode");else if(cur().audio&&ytBlocked)$("#vidbox").innerHTML=vidHTML(cur());clearInterval(tick);drawQ();beep(520,.15)}
 function award(i){
   const tile=game.cats[Q.ci].tiles[Q.ti],ans=game.teams[Q.team];
   game.hist.push({ci:Q.ci,ti:Q.ti,teams:JSON.parse(JSON.stringify(game.teams)),turn:game.turn});if(game.hist.length>20)game.hist.shift();
   if(i===Q.team){ans.score+=tile.p*Q.mult;
-    if(Q.pick){const rivals=game.teams.map((t,j)=>({t,j})).filter(o=>o.j!==i).sort((a,b)=>b.t.score-a.t.score);if(rivals.length){const take=Math.min(200,Math.max(0,rivals[0].t.score));rivals[0].t.score-=take;ans.score+=take}}
+    if(Q.pick){const rivals=game.teams.map((t,j)=>({t,j})).filter(o=>o.j!==i).sort((a,b)=>b.t.score-a.t.score);if(rivals.length){const take=Math.min(tile.p/2,Math.max(0,rivals[0].t.score));rivals[0].t.score-=take;ans.score+=take}}
     beep(1320,.2)}
   else{if(i!==null){game.teams[i].score+=tile.p;beep(1320,.2)}if(Q.risk)ans.score-=tile.p;if(Q.insure)ans.score+=tile.p/2}
   tile.done=true;tile.by=i;game.turn=(Q.picker+1)%game.teams.length;

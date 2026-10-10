@@ -132,7 +132,13 @@
     "Misr"
    ],
    "pic": "Giza pyramid complex",
-   "apic": "Egypt"
+   "apic": "Egypt",
+   "qar": [
+    [
+     "Giza",
+     "الجيزة"
+    ]
+   ]
   },
   {
    "q": "Which river flows through Cairo?",
@@ -208,7 +214,8 @@
    "q": "What is the world's largest hot desert, stretching across North Africa?",
    "a": "Sahara",
    "p": 200,
-   "apic": "Sahara"
+   "apic": "Sahara",
+   "ar": "الصحراء الكبرى"
   },
   {
    "q": "Which Egyptian singer was known as the Star of the East?",
@@ -227,7 +234,6 @@
    "q": "Which sea lies between Egypt and Saudi Arabia?",
    "a": "Red Sea",
    "p": 200,
-   "ar": "البحر الأحمر",
    "apic": "Red Sea"
   },
   {
@@ -240,13 +246,18 @@
     "Makka"
    ],
    "pic": "Kaaba",
-   "apic": "Mecca"
+   "apic": "Mecca",
+   "qar": [
+    [
+     "Kaaba",
+     "الكعبة"
+    ]
+   ]
   },
   {
    "q": "Which sweet fruit of the palm tree is traditionally served with Arabic coffee?",
    "a": "Dates",
    "p": 200,
-   "ar": "التمر",
    "alt": [
     "Tamr"
    ],
@@ -258,7 +269,13 @@
    "p": 200,
    "ar": "دبي",
    "pic": "Burj Khalifa",
-   "apic": "Dubai"
+   "apic": "Dubai",
+   "qar": [
+    [
+     "Burj Khalifa",
+     "برج خليفة"
+    ]
+   ]
   },
   {
    "q": "Which chickpea and tahini dip is a staple of Levantine cuisine?",
@@ -325,7 +342,13 @@
   {
    "q": "What does the Arabic word 'habibi' mean?",
    "a": "My dear",
-   "p": 200
+   "p": 200,
+   "qar": [
+    [
+     "habibi",
+     "حبيبي"
+    ]
+   ]
   },
   {
    "q": "Which animal is nicknamed the 'ship of the desert'?",
@@ -382,7 +405,6 @@
    "q": "What is the currency of Egypt?",
    "a": "Egyptian pound",
    "p": 400,
-   "ar": "الجنيه المصري",
    "alt": [
     "Gineh",
     "EGP"
@@ -415,7 +437,13 @@
    "a": "Zither",
    "p": 600,
    "pic": "Qanun (instrument)",
-   "apic": "Zither"
+   "apic": "Zither",
+   "qar": [
+    [
+     "qanun",
+     "القانون"
+    ]
+   ]
   },
   {
    "q": "Which angular, geometric Arabic calligraphy style is named after an Iraqi city?",
@@ -461,7 +489,13 @@
     "Fairouz",
     "Fayruz"
    ],
-   "apic": "Fairuz"
+   "apic": "Fairuz",
+   "qar": [
+    [
+     "Nouhad Haddad",
+     "نهاد حداد"
+    ]
+   ]
   },
   {
    "q": "Which Egyptian author won the Nobel Prize in Literature in 1988?",
@@ -482,6 +516,12 @@
    "ar": "ابن خلدون",
    "alt": [
     "Ibn Khaldoun"
+   ],
+   "qar": [
+    [
+     "Muqaddimah",
+     "المقدمة"
+    ]
    ]
   },
   {
@@ -510,7 +550,6 @@
    "q": "Which industry was the main pillar of the Gulf economy before oil?",
    "a": "Pearling",
    "p": 400,
-   "ar": "الغوص على اللؤلؤ",
    "alt": [
     "Pearl diving"
    ],
@@ -557,7 +596,13 @@
     "Dar el-Beida"
    ],
    "pic": "Hassan II Mosque",
-   "apic": "Casablanca"
+   "apic": "Casablanca",
+   "qar": [
+    [
+     "Hassan II",
+     "الحسن الثاني"
+    ]
+   ]
   },
   {
    "q": "In which city is the traditional market Souq Waqif?",
@@ -568,7 +613,13 @@
     "Ad Dawhah"
    ],
    "pic": "Souq Waqif",
-   "apic": "Doha"
+   "apic": "Doha",
+   "qar": [
+    [
+     "Souq Waqif",
+     "سوق واقف"
+    ]
+   ]
   },
   {
    "q": "Which Jordanian desert valley is nicknamed the Valley of the Moon?",
@@ -587,13 +638,22 @@
    "ar": "الحج",
    "alt": [
     "Haj"
+   ],
+   "qar": [
+    [
+     "Mecca",
+     "مكة"
+    ],
+    [
+     "Eid al-Adha",
+     "عيد الأضحى"
+    ]
    ]
   },
   {
    "q": "Which tree appears on the flag of Lebanon?",
    "a": "Cedar",
    "p": 400,
-   "ar": "الأرز",
    "alt": [
     "Arz",
     "Cedar of Lebanon"
@@ -732,6 +792,12 @@
     "Al Zahrawi",
     "Zahrawi",
     "Abu al-Qasim al-Zahrawi"
+   ],
+   "qar": [
+    [
+     "Al-Tasrif",
+     "التصريف"
+    ]
    ]
   },
   {
@@ -754,7 +820,17 @@
     "Fes"
    ],
    "pic": "University of al-Qarawiyyin",
-   "apic": "Fez, Morocco"
+   "apic": "Fez, Morocco",
+   "qar": [
+    [
+     "al-Qarawiyyin",
+     "القرويين"
+    ],
+    [
+     "Fatima al-Fihri",
+     "فاطمة الفهرية"
+    ]
+   ]
   },
   {
    "q": "In which city was the Abbasid House of Wisdom located?",
@@ -829,7 +905,13 @@
     "Farid Al Atrash",
     "Farid el-Atrash"
    ],
-   "apic": "Farid al-Atrash"
+   "apic": "Farid al-Atrash",
+   "qar": [
+    [
+     "Asmahan",
+     "أسمهان"
+    ]
+   ]
   },
   {
    "q": "Which Egyptian singer was nicknamed al-Andaleeb al-Asmar?",
@@ -841,7 +923,13 @@
     "Abdelhalim Hafez",
     "Abdel Halim Hafiz"
    ],
-   "apic": "Abdel Halim Hafez"
+   "apic": "Abdel Halim Hafez",
+   "qar": [
+    [
+     "al-Andaleeb al-Asmar",
+     "العندليب الأسمر"
+    ]
+   ]
   },
   {
    "q": "Which Syrian poet and diplomat is famed for love poetry and died in 1998?",
@@ -862,6 +950,12 @@
     "Al Mutanabbi",
     "Mutanabbi",
     "Al-Mutanabi"
+   ],
+   "qar": [
+    [
+     "Kufa",
+     "الكوفة"
+    ]
    ]
   },
   {
@@ -895,7 +989,13 @@
     "Taha Husayn",
     "Taha Hussain"
    ],
-   "apic": "Taha Hussein"
+   "apic": "Taha Hussein",
+   "qar": [
+    [
+     "Al-Ayyam",
+     "الأيام"
+    ]
+   ]
   },
   {
    "q": "Which 13th-century physician described the pulmonary circulation of blood?",
@@ -1014,7 +1114,8 @@
    "alt": [
     "Euphrates and Tigris"
    ],
-   "apic": "Mesopotamia"
+   "apic": "Mesopotamia",
+   "ar": "دجلة والفرات"
   },
   {
    "q": "Which Arab country is an archipelago of about 33 islands in the Gulf?",
@@ -1050,7 +1151,13 @@
     "Argileh",
     "Nargile"
    ],
-   "apic": "Hookah"
+   "apic": "Hookah",
+   "qar": [
+    [
+     "argileh",
+     "أرجيلة"
+    ]
+   ]
   },
   {
    "q": "Which two rivers meet at Khartoum to form the main Nile?",
@@ -1058,6 +1165,13 @@
    "p": 200,
    "alt": [
     "White Nile and Blue Nile"
+   ],
+   "ar": "النيل الأزرق والنيل الأبيض",
+   "qar": [
+    [
+     "Khartoum",
+     "الخرطوم"
+    ]
    ]
   },
   {
@@ -1108,7 +1222,6 @@
    "q": "Which desert of steppe and gravel plain stretches across parts of Syria, Jordan and Iraq?",
    "a": "Syrian Desert",
    "p": 400,
-   "ar": "بادية الشام",
    "alt": [
     "Badiyat al-Sham"
    ],
@@ -1172,13 +1285,20 @@
     "Leila",
     "Laila"
    ],
-   "apic": "Layla and Majnun"
+   "apic": "Layla and Majnun",
+   "qar": [
+    [
+     "Qays",
+     "قيس"
+    ]
+   ]
   },
   {
    "q": "Which Mexican actress, of Lebanese descent, was Oscar-nominated for playing Frida Kahlo?",
    "a": "Salma Hayek",
    "p": 400,
-   "apic": "Salma Hayek"
+   "apic": "Salma Hayek",
+   "ar": "سلمى حايك"
   },
   {
    "q": "Steve Jobs's biological father came from which Arab country?",
@@ -1256,6 +1376,12 @@
     "Grief",
     "Lamentation",
     "Mourning"
+   ],
+   "qar": [
+    [
+     "Bab el-Mandeb",
+     "باب المندب"
+    ]
    ]
   },
   {
@@ -1283,7 +1409,6 @@
    "q": "Which wetlands of southern Iraq, home of the Marsh Arabs, are a UNESCO World Heritage Site?",
    "a": "Mesopotamian Marshes",
    "p": 600,
-   "ar": "الأهوار",
    "alt": [
     "Ahwar",
     "Iraqi Marshes"
@@ -1308,6 +1433,12 @@
    "p": 600,
    "alt": [
     "Jackal"
+   ],
+   "qar": [
+    [
+     "Kalila wa Dimna",
+     "كليلة ودمنة"
+    ]
    ]
   },
   {
@@ -1355,7 +1486,7 @@
    "q": "Which fiery green chilli and coriander sauce comes from Yemen?",
    "a": "Zhug",
    "p": 600,
-   "ar": "سحوق",
+   "ar": "سحاوق",
    "alt": [
     "Sahawiq",
     "Zhoug",
@@ -1411,7 +1542,17 @@
    "a": "Omdurman",
    "p": 400,
    "ar": "أم درمان",
-   "apic": "Omdurman"
+   "apic": "Omdurman",
+   "qar": [
+    [
+     "Khartoum",
+     "الخرطوم"
+    ],
+    [
+     "Mahdi",
+     "المهدي"
+    ]
+   ]
   },
   {
    "q": "What is the main Red Sea port city of Sudan?",
@@ -1459,7 +1600,8 @@
     "Azzedine Alaia",
     "Alaïa"
    ],
-   "apic": "Azzedine Alaïa"
+   "apic": "Azzedine Alaïa",
+   "ar": "عز الدين علية"
   },
   {
    "q": "Which ancient Nubian kingdom from Sudan ruled Egypt as its 25th dynasty?",
@@ -1481,13 +1623,18 @@
     "Himyarite Kingdom",
     "Himyarites"
    ],
-   "apic": "Himyarite Kingdom"
+   "apic": "Himyarite Kingdom",
+   "qar": [
+    [
+     "Zafar",
+     "ظفار"
+    ]
+   ]
   },
   {
    "q": "Who founded the Akkadian Empire in Mesopotamia in the 24th century BC?",
    "a": "Sargon of Akkad",
    "p": 600,
-   "ar": "سرجون الأكدي",
    "alt": [
     "Sargon"
    ],
@@ -1512,7 +1659,13 @@
    "alt": [
     "Gebel Barkal"
    ],
-   "apic": "Jebel Barkal"
+   "apic": "Jebel Barkal",
+   "qar": [
+    [
+     "Karima",
+     "كريمة"
+    ]
+   ]
   },
   {
    "q": "Which five-storey palace near Sanaa is built on top of a rock pinnacle?",
@@ -1522,7 +1675,13 @@
    "alt": [
     "Rock Palace"
    ],
-   "apic": "Dar al-Hajar"
+   "apic": "Dar al-Hajar",
+   "qar": [
+    [
+     "Sanaa",
+     "صنعاء"
+    ]
+   ]
   },
   {
    "q": "Which Egyptian playwright wrote 'Diary of a Country Prosecutor'?",
@@ -1580,7 +1739,13 @@
    "a": "Jordan",
    "p": 600,
    "ar": "الأردن",
-   "apic": "Jordan national football team"
+   "apic": "Jordan national football team",
+   "qar": [
+    [
+     "Al-Nashama",
+     "النشامى"
+    ]
+   ]
   },
   {
    "q": "Which Michigan city near Detroit is famous for its large Arab American community?",
@@ -1627,20 +1792,31 @@
    "a": "Jordan",
    "p": 200,
    "ar": "الأردن",
-   "apic": "Jordan"
+   "apic": "Jordan",
+   "qar": [
+    [
+     "Al-Urdun",
+     "الأردن"
+    ]
+   ]
   },
   {
    "q": "Which Arab country's Arabic name, Al-Jaza'ir, means 'the islands'?",
    "a": "Algeria",
    "p": 400,
    "ar": "الجزائر",
-   "apic": "Algeria"
+   "apic": "Algeria",
+   "qar": [
+    [
+     "Al-Jaza'ir",
+     "الجزائر"
+    ]
+   ]
   },
   {
    "q": "The name Comoros comes from the Arabic word for what?",
    "a": "Moon",
    "p": 400,
-   "ar": "قمر",
    "alt": [
     "Qamar"
    ]
@@ -1660,7 +1836,13 @@
    "a": "Mosul",
    "p": 600,
    "ar": "الموصل",
-   "apic": "Mosul"
+   "apic": "Mosul",
+   "qar": [
+    [
+     "Umm al-Rabi'ayn",
+     "أم الربيعين"
+    ]
+   ]
   },
   {
    "q": "Which Red Sea island port in Sudan, built of coral stone, was once the region's main harbour?",
@@ -1695,7 +1877,6 @@
    "q": "Which Italian staple, called baasto, is often eaten with a banana in Somalia?",
    "a": "Pasta",
    "p": 400,
-   "ar": "باستو",
    "alt": [
     "Spaghetti"
    ],
@@ -1722,7 +1903,8 @@
    "q": "Which Lebanese-American actor won Emmys playing the obsessive detective Adrian Monk?",
    "a": "Tony Shalhoub",
    "p": 400,
-   "apic": "Tony Shalhoub"
+   "apic": "Tony Shalhoub",
+   "ar": "طوني شلهوب"
   },
   {
    "q": "Which Lebanese-American entertainer founded St. Jude Children's Research Hospital?",
@@ -1740,7 +1922,7 @@
    "q": "Which Sudanese-British businessman founded the mobile operator Celtel?",
    "a": "Mo Ibrahim",
    "p": 600,
-   "ar": "محمد إبراهيم",
+   "ar": "مو إبراهيم",
    "alt": [
     "Mohamed Ibrahim"
    ],
@@ -1765,13 +1947,18 @@
    "p": 600,
    "ar": "اليمن",
    "pic": "Jabal an-Nabi Shu'ayb",
-   "apic": "Yemen"
+   "apic": "Yemen",
+   "qar": [
+    [
+     "Jabal an-Nabi Shu'ayb",
+     "جبل النبي شعيب"
+    ]
+   ]
   },
   {
    "q": "Which ocean lies off Somalia's long eastern coast?",
    "a": "Indian Ocean",
    "p": 200,
-   "ar": "المحيط الهندي",
    "apic": "Indian Ocean"
   },
   {

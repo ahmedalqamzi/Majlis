@@ -11,18 +11,33 @@
     "Iraqi"
    ],
    "pic": "Kadim Al Sahir",
-   "apic": "Iraq"
+   "apic": "Iraq",
+   "qar": [
+    [
+     "Kadim Al Sahir",
+     "كاظم الساهر"
+    ],
+    [
+     "Mosul",
+     "الموصل"
+    ]
+   ]
   },
   {
    "q": "Amr Diab, often called the 'King of Arabic Pop', is from which country?",
    "a": "Egypt",
    "p": 200,
-   "ar": "مصر",
    "alt": [
     "Misr"
    ],
    "pic": "Amr Diab",
-   "apic": "Egypt"
+   "apic": "Egypt",
+   "qar": [
+    [
+     "Amr Diab",
+     "عمرو دياب"
+    ]
+   ]
   },
   {
    "q": "Nancy Ajram, famous for 'Akhasmak Ah', is from which country?",
@@ -33,7 +48,17 @@
     "Lebanese"
    ],
    "pic": "Nancy Ajram",
-   "apic": "Lebanon"
+   "apic": "Lebanon",
+   "qar": [
+    [
+     "Nancy Ajram",
+     "نانسي عجرم"
+    ],
+    [
+     "Akhasmak Ah",
+     "أخاصمك آه"
+    ]
+   ]
   },
   {
    "q": "Farid al-Atrash, whose nickname is 'King of the ...', was a master of which instrument?",
@@ -45,33 +70,53 @@
     "Aoud"
    ],
    "pic": "Farid al-Atrash",
-   "apic": "Oud"
+   "apic": "Oud",
+   "qar": [
+    [
+     "Farid al-Atrash",
+     "فريد الأطرش"
+    ]
+   ]
   },
   {
    "q": "Umm Kulthum's 1969 song 'Alf Leila wa Leila' is named after which famous collection of tales?",
    "a": "One Thousand and One Nights",
    "p": 200,
-   "ar": "ألف ليلة وليلة",
    "alt": [
     "Arabian Nights",
     "The Arabian Nights",
     "1001 Nights",
     "Thousand and One Nights"
    ],
-   "apic": "One Thousand and One Nights"
+   "apic": "One Thousand and One Nights",
+   "qar": [
+    [
+     "Umm Kulthum",
+     "أم كلثوم"
+    ],
+    [
+     "Alf Leila wa Leila",
+     "ألف ليلة وليلة"
+    ]
+   ]
   },
   {
    "q": "Umm Kulthum was famous on stage for holding what small cloth item in her hand?",
    "a": "A handkerchief",
    "p": 200,
-   "ar": "منديل",
    "alt": [
     "Handkerchief",
     "Scarf",
     "Hanky",
     "Tissue"
    ],
-   "pic": "Umm Kulthum"
+   "pic": "Umm Kulthum",
+   "qar": [
+    [
+     "Umm Kulthum",
+     "أم كلثوم"
+    ]
+   ]
   },
   {
    "q": "Which 1996 Amr Diab hit and album made him an international star, with a title meaning 'Light of the Eye'?",
@@ -82,6 +127,12 @@
     "Habibi Ya Nour El Ain",
     "Nour Al Ain",
     "Noor El Ain"
+   ],
+   "qar": [
+    [
+     "Amr Diab",
+     "عمرو دياب"
+    ]
    ]
   },
   {
@@ -92,6 +143,12 @@
    "alt": [
     "Akhasmak Aah",
     "Akhasmak"
+   ],
+   "qar": [
+    [
+     "Nancy Ajram",
+     "نانسي عجرم"
+    ]
    ]
   },
   {
@@ -123,22 +180,36 @@
    "q": "Warda, the Arab diva who died in Cairo in 2012, was an icon of which North African country?",
    "a": "Algeria",
    "p": 200,
-   "ar": "الجزائر",
    "alt": [
     "Algerian"
    ],
    "pic": "Warda Al-Jazairia",
-   "apic": "Algeria"
+   "apic": "Algeria",
+   "qar": [
+    [
+     "Warda",
+     "وردة"
+    ],
+    [
+     "Cairo",
+     "القاهرة"
+    ]
+   ]
   },
   {
    "q": "The name 'Fairuz' is the Arabic word for which blue-green gemstone?",
    "a": "Turquoise",
    "p": 200,
-   "ar": "فيروز",
    "alt": [
     "Firuz"
    ],
-   "apic": "Turquoise"
+   "apic": "Turquoise",
+   "qar": [
+    [
+     "Fairuz",
+     "فيروز"
+    ]
+   ]
   },
   {
    "q": "Nancy Ajram became the first female regional spokesperson for which soft-drink brand?",
@@ -149,7 +220,13 @@
     "Coca Cola"
    ],
    "pic": "Nancy Ajram",
-   "apic": "Coca-Cola"
+   "apic": "Coca-Cola",
+   "qar": [
+    [
+     "Nancy Ajram",
+     "نانسي عجرم"
+    ]
+   ]
   },
   {
    "q": "Millions lined Cairo's streets for the 1975 funeral of which legendary singer?",
@@ -162,7 +239,13 @@
     "Om Kolthoum",
     "Oum Kalsoum"
    ],
-   "apic": "Umm Kulthum"
+   "apic": "Umm Kulthum",
+   "qar": [
+    [
+     "Cairo",
+     "القاهرة"
+    ]
+   ]
   },
   {
    "q": "Which 2000 Amr Diab song's title means 'Always with You'?",
@@ -173,6 +256,12 @@
     "Tamally Ma'ak",
     "Tamaly Maak",
     "Tamally Maaak"
+   ],
+   "qar": [
+    [
+     "Amr Diab",
+     "عمرو دياب"
+    ]
    ]
   },
   {
@@ -209,7 +298,13 @@
     "Abdelhalim Hafez",
     "Abd El Halim Hafez"
    ],
-   "apic": "Abdel Halim Hafez"
+   "apic": "Abdel Halim Hafez",
+   "qar": [
+    [
+     "El-Andaleeb el-Asmar",
+     "العندليب الأسمر"
+    ]
+   ]
   },
   {
    "q": "Umm Kulthum is honoured with which title meaning 'Planet of the East'?",
@@ -227,12 +322,17 @@
    "q": "Fairuz is nicknamed 'The Moon's ...' what, in English?",
    "a": "Neighbour",
    "p": 200,
-   "ar": "جارة القمر",
    "alt": [
     "Neighbor",
     "Jarat al-Qamar",
     "Jarat Al Qamar",
     "Neighbour of the Moon"
+   ],
+   "qar": [
+    [
+     "Fairuz",
+     "فيروز"
+    ]
    ]
   },
   {
@@ -245,7 +345,13 @@
     "Assi and Mansour Rahbani",
     "Rahbani Brothers"
    ],
-   "pic": "Fairuz"
+   "pic": "Fairuz",
+   "qar": [
+    [
+     "Fairuz",
+     "فيروز"
+    ]
+   ]
   },
   {
    "q": "Which son of Fairuz and Assi Rahbani became a celebrated composer and playwright?",
@@ -255,7 +361,17 @@
    "alt": [
     "Ziad Al Rahbani"
    ],
-   "apic": "Ziad Rahbani"
+   "apic": "Ziad Rahbani",
+   "qar": [
+    [
+     "Fairuz",
+     "فيروز"
+    ],
+    [
+     "Assi Rahbani",
+     "عاصي الرحباني"
+    ]
+   ]
   },
   {
    "q": "At which ancient Lebanese city's international festival did Fairuz give her first big concert in 1957?",
@@ -267,7 +383,13 @@
     "Baalbak"
    ],
    "pic": "Fairuz",
-   "apic": "Baalbek"
+   "apic": "Baalbek",
+   "qar": [
+    [
+     "Fairuz",
+     "فيروز"
+    ]
+   ]
   },
   {
    "q": "Which husband of Fairuz, one of the Rahbani brothers, wrote many of her songs?",
@@ -278,17 +400,32 @@
     "Assi Al Rahbani",
     "Assi"
    ],
-   "apic": "Assi Rahbani"
+   "apic": "Assi Rahbani",
+   "qar": [
+    [
+     "Fairuz",
+     "فيروز"
+    ],
+    [
+     "Rahbani",
+     "الرحباني"
+    ]
+   ]
   },
   {
    "q": "On which day of the week did Umm Kulthum give her famous monthly radio concerts?",
    "a": "Thursday",
    "p": 200,
-   "ar": "الخميس",
    "alt": [
     "Thursdays"
    ],
-   "pic": "Umm Kulthum"
+   "pic": "Umm Kulthum",
+   "qar": [
+    [
+     "Umm Kulthum",
+     "أم كلثوم"
+    ]
+   ]
   },
   {
    "q": "Which Arabic term describes the melodic modes that form the basis of Arabic music?",
@@ -327,19 +464,30 @@
    "q": "Farid al-Atrash was born in which country before moving to Egypt as a child?",
    "a": "Syria",
    "p": 400,
-   "ar": "سوريا",
    "alt": [
     "Syrian"
    ],
    "pic": "Farid al-Atrash",
-   "apic": "Syria"
+   "apic": "Syria",
+   "qar": [
+    [
+     "Farid al-Atrash",
+     "فريد الأطرش"
+    ]
+   ]
   },
   {
    "q": "Which singer-actress and sister of Farid al-Atrash died in a 1944 car accident?",
    "a": "Asmahan",
    "p": 400,
    "ar": "أسمهان",
-   "apic": "Asmahan"
+   "apic": "Asmahan",
+   "qar": [
+    [
+     "Farid al-Atrash",
+     "فريد الأطرش"
+    ]
+   ]
   },
   {
    "q": "Which Syrian poet wrote the words of Abdel Halim Hafez's 'Qari'at Al Fingan'?",
@@ -350,7 +498,17 @@
     "Nizar Kabbani",
     "Nizar Qabani"
    ],
-   "apic": "Nizar Qabbani"
+   "apic": "Nizar Qabbani",
+   "qar": [
+    [
+     "Abdel Halim Hafez",
+     "عبد الحليم حافظ"
+    ],
+    [
+     "Qari'at Al Fingan",
+     "قارئة الفنجان"
+    ]
+   ]
   },
   {
    "q": "Which Abdel Halim Hafez song was sampled in Jay-Z's 1999 hit 'Big Pimpin''?",
@@ -361,6 +519,12 @@
     "Khusara",
     "Khasara",
     "Khosara Khosara"
+   ],
+   "qar": [
+    [
+     "Abdel Halim Hafez",
+     "عبد الحليم حافظ"
+    ]
    ]
   },
   {
@@ -372,7 +536,13 @@
     "Ahmad Zaki",
     "Ahmed Zaky"
    ],
-   "apic": "Ahmed Zaki"
+   "apic": "Ahmed Zaki",
+   "qar": [
+    [
+     "Abdel Halim Hafez",
+     "عبد الحليم حافظ"
+    ]
+   ]
   },
   {
    "q": "Amr Diab was born in which Egyptian port city?",
@@ -384,16 +554,27 @@
     "Bur Said"
    ],
    "pic": "Amr Diab",
-   "apic": "Port Said"
+   "apic": "Port Said",
+   "qar": [
+    [
+     "Amr Diab",
+     "عمرو دياب"
+    ]
+   ]
   },
   {
    "q": "Amr Diab is known as the 'father of ... music', named after a sea. Which sea?",
    "a": "Mediterranean",
    "p": 400,
-   "ar": "البحر المتوسط",
    "alt": [
     "The Mediterranean",
     "Mediterranean Sea"
+   ],
+   "qar": [
+    [
+     "Amr Diab",
+     "عمرو دياب"
+    ]
    ]
   },
   {
@@ -404,6 +585,12 @@
    "alt": [
     "Shoft Elayam",
     "Shouft El Ayam"
+   ],
+   "qar": [
+    [
+     "Amr Diab",
+     "عمرو دياب"
+    ]
    ]
   },
   {
@@ -414,6 +601,12 @@
    "alt": [
     "Aishalak",
     "Aisha Lak"
+   ],
+   "qar": [
+    [
+     "Elissa",
+     "إليسا"
+    ]
    ]
   },
   {
@@ -425,16 +618,31 @@
     "Saad Lamjarrad"
    ],
    "pic": "Elissa (singer)",
-   "apic": "Saad Lamjarred"
+   "apic": "Saad Lamjarred",
+   "qar": [
+    [
+     "Elissa",
+     "إليسا"
+    ],
+    [
+     "Min Awel Dekika",
+     "من أول دقيقة"
+    ]
+   ]
   },
   {
    "q": "What does Warda's stage name 'Warda Al-Jazairia' mean in English?",
    "a": "The Algerian Rose",
    "p": 400,
-   "ar": "وردة الجزائرية",
    "alt": [
     "Algerian Rose",
     "Rose of Algeria"
+   ],
+   "qar": [
+    [
+     "Warda Al-Jazairia",
+     "وردة الجزائرية"
+    ]
    ]
   },
   {
@@ -446,16 +654,27 @@
     "Batwanes Bik",
     "Batwannes Beek",
     "Batwanes Bek"
+   ],
+   "qar": [
+    [
+     "Warda",
+     "وردة"
+    ]
    ]
   },
   {
    "q": "Umm Kulthum was nicknamed Egypt's 'Fourth ...' alongside the great monuments. What?",
    "a": "Pyramid",
    "p": 400,
-   "ar": "الهرم",
    "alt": [
     "The Fourth Pyramid",
     "Fourth Pyramid"
+   ],
+   "qar": [
+    [
+     "Umm Kulthum",
+     "أم كلثوم"
+    ]
    ]
   },
   {
@@ -467,6 +686,16 @@
     "Enta Omri",
     "Inta Omry",
     "Enta Omry"
+   ],
+   "qar": [
+    [
+     "Umm Kulthum",
+     "أم كلثوم"
+    ],
+    [
+     "Mohammed Abdel Wahab",
+     "محمد عبد الوهاب"
+    ]
    ]
   },
   {
@@ -478,26 +707,50 @@
     "Baligh Hamdy",
     "Baleegh Hamdi"
    ],
-   "apic": "Baligh Hamdi"
+   "apic": "Baligh Hamdi",
+   "qar": [
+    [
+     "Umm Kulthum",
+     "أم كلثوم"
+    ],
+    [
+     "Alf Leila wa Leila",
+     "ألف ليلة وليلة"
+    ]
+   ]
   },
   {
    "q": "Majida El Roumi's 1991 album 'Kalimat' means what in English?",
    "a": "Words",
    "p": 400,
-   "ar": "كلمات",
    "alt": [
     "Lyrics",
     "Word"
+   ],
+   "qar": [
+    [
+     "Majida El Roumi",
+     "ماجدة الرومي"
+    ],
+    [
+     "Kalimat",
+     "كلمات"
+    ]
    ]
   },
   {
    "q": "Nancy Ajram was a judge on which MBC talent show for children, starting in 2016?",
    "a": "The Voice Kids",
    "p": 400,
-   "ar": "ذا فويس كيدز",
    "alt": [
     "Voice Kids",
     "The Voice Kids Arabia"
+   ],
+   "qar": [
+    [
+     "Nancy Ajram",
+     "نانسي عجرم"
+    ]
    ]
   },
   {
@@ -531,6 +784,20 @@
     "Takht ensemble",
     "Takht sharqi",
     "Takht Sharqi"
+   ],
+   "qar": [
+    [
+     "oud",
+     "العود"
+    ],
+    [
+     "qanun",
+     "القانون"
+    ],
+    [
+     "nay",
+     "الناي"
+    ]
    ]
   },
   {
@@ -553,7 +820,13 @@
     "Buzuk",
     "Bouzouki"
    ],
-   "apic": "Buzuq"
+   "apic": "Buzuq",
+   "qar": [
+    [
+     "Rahbani",
+     "الرحباني"
+    ]
+   ]
   },
   {
    "q": "Mohammed Abdel Wahab composed the national anthem of which neighbour of Egypt?",
@@ -564,7 +837,13 @@
     "Libyan"
    ],
    "pic": "Mohammed Abdel Wahab",
-   "apic": "Libya"
+   "apic": "Libya",
+   "qar": [
+    [
+     "Mohammed Abdel Wahab",
+     "محمد عبد الوهاب"
+    ]
+   ]
   },
   {
    "q": "Mohammed Abdel Wahab starred in which record-breaking 1933 film, titled 'The White Rose'?",
@@ -575,6 +854,12 @@
     "The White Rose",
     "Al-Warda al-Bayda",
     "Elwarda Elbayda"
+   ],
+   "qar": [
+    [
+     "Mohammed Abdel Wahab",
+     "محمد عبد الوهاب"
+    ]
    ]
   },
   {
@@ -586,18 +871,29 @@
     "Sayyid Darwish",
     "Sayed Derwish"
    ],
-   "apic": "Sayed Darwish"
+   "apic": "Sayed Darwish",
+   "qar": [
+    [
+     "Bilady, Bilady, Bilady",
+     "بلادي بلادي بلادي"
+    ]
+   ]
   },
   {
    "q": "Sayed Darwish, 'Father of Egyptian popular music', was born in which Egyptian city?",
    "a": "Alexandria",
    "p": 400,
-   "ar": "الإسكندرية",
    "alt": [
     "Iskandariya"
    ],
    "pic": "Sayed Darwish",
-   "apic": "Alexandria"
+   "apic": "Alexandria",
+   "qar": [
+    [
+     "Sayed Darwish",
+     "سيد درويش"
+    ]
+   ]
   },
   {
    "q": "Which poet's verse did Fairuz sing in 'Aatini al-Nay wa Ghanni'?",
@@ -609,7 +905,17 @@
     "Gibran Khalil Gibran",
     "Khalil Jibran"
    ],
-   "apic": "Khalil Gibran"
+   "apic": "Khalil Gibran",
+   "qar": [
+    [
+     "Fairuz",
+     "فيروز"
+    ],
+    [
+     "Aatini al-Nay wa Ghanni",
+     "أعطني الناي وغنِّ"
+    ]
+   ]
   },
   {
    "q": "Fairuz's first major hit, in 1952, written by Assi Rahbani, was called what?",
@@ -620,6 +926,16 @@
     "Etab",
     "Itaab",
     "Ataab"
+   ],
+   "qar": [
+    [
+     "Fairuz",
+     "فيروز"
+    ],
+    [
+     "Assi Rahbani",
+     "عاصي الرحباني"
+    ]
    ]
   },
   {
@@ -630,6 +946,12 @@
    "alt": [
     "Kifak Enta",
     "Kifak Entah"
+   ],
+   "qar": [
+    [
+     "Fairuz",
+     "فيروز"
+    ]
    ]
   },
   {
@@ -642,7 +964,13 @@
     "Dakahlia Governorate",
     "Daqahliyya"
    ],
-   "pic": "Umm Kulthum"
+   "pic": "Umm Kulthum",
+   "qar": [
+    [
+     "Umm Kulthum",
+     "أم كلثوم"
+    ]
+   ]
   },
   {
    "q": "Which Umm Kulthum song of 1966, set to a poem by Ibrahim Nagi, is called 'The Ruins'?",
@@ -653,6 +981,16 @@
     "Al Atlal",
     "El Atlal",
     "Alatlal"
+   ],
+   "qar": [
+    [
+     "Umm Kulthum",
+     "أم كلثوم"
+    ],
+    [
+     "Ibrahim Nagi",
+     "إبراهيم ناجي"
+    ]
    ]
   },
   {
@@ -665,7 +1003,13 @@
     "Riad El Sonbaty",
     "Sunbati"
    ],
-   "apic": "Riad Al Sunbati"
+   "apic": "Riad Al Sunbati",
+   "qar": [
+    [
+     "Umm Kulthum",
+     "أم كلثوم"
+    ]
+   ]
   },
   {
    "q": "Umm Kulthum's first film, made at Studio Misr in 1936, was called what?",
@@ -675,6 +1019,16 @@
    "alt": [
     "Wedad",
     "Widad"
+   ],
+   "qar": [
+    [
+     "Umm Kulthum",
+     "أم كلثوم"
+    ],
+    [
+     "Studio Misr",
+     "ستوديو مصر"
+    ]
    ]
   },
   {
@@ -684,6 +1038,12 @@
    "alt": [
     "L'Olympia",
     "Paris Olympia"
+   ],
+   "qar": [
+    [
+     "Umm Kulthum",
+     "أم كلثوم"
+    ]
    ]
   },
   {
@@ -694,6 +1054,12 @@
    "alt": [
     "Wallahi Zaman Ya Selahi",
     "Wallahi Zaman Ya Silahi"
+   ],
+   "qar": [
+    [
+     "Umm Kulthum",
+     "أم كلثوم"
+    ]
    ]
   },
   {
@@ -704,7 +1070,13 @@
     "London England"
    ],
    "pic": "Abdel Halim Hafez",
-   "apic": "London"
+   "apic": "London",
+   "qar": [
+    [
+     "Abdel Halim Hafez",
+     "عبد الحليم حافظ"
+    ]
+   ]
   },
   {
    "q": "Abdel Halim Hafez's last film (1969), also produced by him, is titled what?",
@@ -715,6 +1087,12 @@
     "My Father Is Up the Tree",
     "Abi Fawq Al Shajara",
     "Abi Fouq El Shagara"
+   ],
+   "qar": [
+    [
+     "Abdel Halim Hafez",
+     "عبد الحليم حافظ"
+    ]
    ]
   },
   {
@@ -726,6 +1104,12 @@
     "Lahn Al Wafa",
     "Lahn El Wafaa",
     "Melody of Fidelity"
+   ],
+   "qar": [
+    [
+     "Abdel Halim Hafez",
+     "عبد الحليم حافظ"
+    ]
    ]
   },
   {
@@ -737,6 +1121,16 @@
     "Al Halawat",
     "Halawat",
     "El Halawat"
+   ],
+   "qar": [
+    [
+     "Abdel Halim Hafez",
+     "عبد الحليم حافظ"
+    ],
+    [
+     "Sharqia",
+     "الشرقية"
+    ]
    ]
   },
   {
@@ -748,15 +1142,34 @@
     "Triumph of Youth",
     "Intisar Al Shabab",
     "The Triumph of Youth"
+   ],
+   "qar": [
+    [
+     "Farid al-Atrash",
+     "فريد الأطرش"
+    ],
+    [
+     "Asmahan",
+     "أسمهان"
+    ]
    ]
   },
   {
    "q": "Farid al-Atrash's famous song 'Rabeeh' has a title meaning which season?",
    "a": "Spring",
    "p": 600,
-   "ar": "ربيع",
    "alt": [
     "The Spring"
+   ],
+   "qar": [
+    [
+     "Farid al-Atrash",
+     "فريد الأطرش"
+    ],
+    [
+     "Rabeeh",
+     "ربيع"
+    ]
    ]
   },
   {
@@ -768,30 +1181,57 @@
     "Awel Hamsa",
     "Awwal Hamsa",
     "Awal Hamsah"
+   ],
+   "qar": [
+    [
+     "Farid al-Atrash",
+     "فريد الأطرش"
+    ]
    ]
   },
   {
    "q": "Kadim Al Sahir's 1987 hit 'Ladghat El-Hayya' means 'The ... Bite'. What animal?",
    "a": "Snake",
    "p": 600,
-   "ar": "الحية",
    "alt": [
     "Snakebite",
     "The Snake",
     "Serpent"
+   ],
+   "qar": [
+    [
+     "Kadim Al Sahir",
+     "كاظم الساهر"
+    ],
+    [
+     "Ladghat El-Hayya",
+     "لدغة الحية"
+    ]
    ]
   },
   {
    "q": "Which British soprano duetted with Kadim Al Sahir on 'The War Is Over' in 2004?",
    "a": "Sarah Brightman",
    "p": 600,
-   "apic": "Sarah Brightman"
+   "apic": "Sarah Brightman",
+   "qar": [
+    [
+     "Kadim Al Sahir",
+     "كاظم الساهر"
+    ]
+   ]
   },
   {
    "q": "Which rock star joined Kadim Al Sahir on the 2004 single 'We Want Peace'?",
    "a": "Lenny Kravitz",
    "p": 600,
-   "apic": "Lenny Kravitz"
+   "apic": "Lenny Kravitz",
+   "qar": [
+    [
+     "Kadim Al Sahir",
+     "كاظم الساهر"
+    ]
+   ]
   },
   {
    "q": "Kadim Al Sahir was born in which Iraqi city?",
@@ -802,7 +1242,13 @@
     "Mosul city"
    ],
    "pic": "Kadim Al Sahir",
-   "apic": "Mosul"
+   "apic": "Mosul",
+   "qar": [
+    [
+     "Kadim Al Sahir",
+     "كاظم الساهر"
+    ]
+   ]
   },
   {
    "q": "George Wassouf's signature 1984 song and album is titled what?",
@@ -812,6 +1258,12 @@
    "alt": [
     "Al Hawa Sultan",
     "El Hawa Soltan"
+   ],
+   "qar": [
+    [
+     "George Wassouf",
+     "جورج وسوف"
+    ]
    ]
   },
   {
@@ -822,7 +1274,13 @@
     "Paris France"
    ],
    "pic": "Warda Al-Jazairia",
-   "apic": "Paris"
+   "apic": "Paris",
+   "qar": [
+    [
+     "Warda Al-Jazairia",
+     "وردة الجزائرية"
+    ]
+   ]
   },
   {
    "q": "Wadih El Safi, who recorded thousands of songs, was born in which Chouf village?",
@@ -832,7 +1290,17 @@
    "alt": [
     "Niha Chouf"
    ],
-   "pic": "Wadih El Safi"
+   "pic": "Wadih El Safi",
+   "qar": [
+    [
+     "Wadih El Safi",
+     "وديع الصافي"
+    ],
+    [
+     "Chouf",
+     "الشوف"
+    ]
+   ]
   },
   {
    "q": "Majida El Roumi sang 'Light the Way' with which Spanish tenor at the 2006 Asian Games opening?",
@@ -843,7 +1311,13 @@
     "Jose Carreres"
    ],
    "pic": "Majida El Roumi",
-   "apic": "José Carreras"
+   "apic": "José Carreras",
+   "qar": [
+    [
+     "Majida El Roumi",
+     "ماجدة الرومي"
+    ]
+   ]
   },
   {
    "q": "Majida El Roumi starred in which Youssef Chahine film, 'The Return of the Prodigal Son'?",
@@ -853,6 +1327,16 @@
    "alt": [
     "Return of the Prodigal Son",
     "Awdat Al Ebn Al Dal"
+   ],
+   "qar": [
+    [
+     "Majida El Roumi",
+     "ماجدة الرومي"
+    ],
+    [
+     "Youssef Chahine",
+     "يوسف شاهين"
+    ]
    ]
   },
   {
@@ -863,7 +1347,13 @@
    "alt": [
     "Kfar Shima"
    ],
-   "pic": "Majida El Roumi"
+   "pic": "Majida El Roumi",
+   "qar": [
+    [
+     "Majida El Roumi",
+     "ماجدة الرومي"
+    ]
+   ]
   },
   {
    "q": "Elissa began her career on which Lebanese talent show in 1992?",
@@ -873,6 +1363,12 @@
    "alt": [
     "Studio Al Fan",
     "Studio el Fann"
+   ],
+   "qar": [
+    [
+     "Elissa",
+     "إليسا"
+    ]
    ]
   },
   {
@@ -880,7 +1376,13 @@
    "a": "Chris de Burgh",
    "p": 600,
    "pic": "Elissa (singer)",
-   "apic": "Chris de Burgh"
+   "apic": "Chris de Burgh",
+   "qar": [
+    [
+     "Elissa",
+     "إليسا"
+    ]
+   ]
   },
   {
    "q": "Elissa was born in which Lebanese village?",
@@ -891,7 +1393,13 @@
     "Deir el Ahmar",
     "Deir Al Ahmar"
    ],
-   "pic": "Elissa (singer)"
+   "pic": "Elissa (singer)",
+   "qar": [
+    [
+     "Elissa",
+     "إليسا"
+    ]
+   ]
   },
   {
    "q": "Nancy Ajram was born in which Beirut district?",
@@ -902,7 +1410,17 @@
     "Ashrafieh",
     "Ashrafiyeh"
    ],
-   "pic": "Nancy Ajram"
+   "pic": "Nancy Ajram",
+   "qar": [
+    [
+     "Nancy Ajram",
+     "نانسي عجرم"
+    ],
+    [
+     "Beirut",
+     "بيروت"
+    ]
+   ]
   },
   {
    "q": "Nancy Ajram's 1998 debut album was titled what?",
@@ -911,6 +1429,12 @@
    "ar": "محتاجالك",
    "alt": [
     "Mehtagalak"
+   ],
+   "qar": [
+    [
+     "Nancy Ajram",
+     "نانسي عجرم"
+    ]
    ]
   },
   {
@@ -922,13 +1446,25 @@
     "Al Gandool",
     "El Gondol",
     "El Gandool"
+   ],
+   "qar": [
+    [
+     "Mohammed Abdel Wahab",
+     "محمد عبد الوهاب"
+    ]
    ]
   },
   {
    "q": "Which Abdel Halim Hafez song of 1957 introduced a rock and roll rhythm?",
    "a": "Ya Albi Ya Khali",
    "p": 600,
-   "ar": "يا قلبي يا خالي"
+   "ar": "يا قلبي يا خالي",
+   "qar": [
+    [
+     "Abdel Halim Hafez",
+     "عبد الحليم حافظ"
+    ]
+   ]
   },
   {
    "q": "Asmahan's birth name, meaning 'hope', was what?",
@@ -937,26 +1473,54 @@
    "ar": "أمل",
    "alt": [
     "Amal al-Atrash"
+   ],
+   "qar": [
+    [
+     "Asmahan",
+     "أسمهان"
+    ]
    ]
   },
   {
    "q": "Mohammed Abdel Wahab gave Fairuz which title, 'Our Ambassador to the ...'?",
    "a": "Stars",
    "p": 600,
-   "ar": "النجوم",
    "alt": [
     "The Stars"
+   ],
+   "qar": [
+    [
+     "Mohammed Abdel Wahab",
+     "محمد عبد الوهاب"
+    ],
+    [
+     "Fairuz",
+     "فيروز"
+    ]
    ]
   },
   {
    "q": "Umm Kulthum, Abdel Halim Hafez and Mohammed Abdel Wahab were all legends from which country?",
    "a": "Egypt",
    "p": 200,
-   "ar": "مصر",
    "alt": [
     "Misr"
    ],
-   "apic": "Egypt"
+   "apic": "Egypt",
+   "qar": [
+    [
+     "Umm Kulthum",
+     "أم كلثوم"
+    ],
+    [
+     "Abdel Halim Hafez",
+     "عبد الحليم حافظ"
+    ],
+    [
+     "Mohammed Abdel Wahab",
+     "محمد عبد الوهاب"
+    ]
+   ]
   },
   {
    "q": "Fairuz, Sabah and Wadih El Safi were all stars from which country?",
@@ -966,7 +1530,21 @@
    "alt": [
     "Lebanese"
    ],
-   "apic": "Lebanon"
+   "apic": "Lebanon",
+   "qar": [
+    [
+     "Fairuz",
+     "فيروز"
+    ],
+    [
+     "Sabah",
+     "صباح"
+    ],
+    [
+     "Wadih El Safi",
+     "وديع الصافي"
+    ]
+   ]
   },
   {
    "q": "Which Fairuz classic has a title meaning 'People Asked Me'?",
@@ -977,6 +1555,12 @@
     "Saalouni El Nas",
     "Saalouni Elnas",
     "Salouni El Nas"
+   ],
+   "qar": [
+    [
+     "Fairuz",
+     "فيروز"
+    ]
    ]
   },
   {
@@ -986,16 +1570,27 @@
    "ar": "يا سلام",
    "alt": [
     "Ya Salaam"
+   ],
+   "qar": [
+    [
+     "Nancy Ajram",
+     "نانسي عجرم"
+    ]
    ]
   },
   {
    "q": "Elissa has won the World Music Award for best-selling artist of which region?",
    "a": "Middle East",
    "p": 400,
-   "ar": "الشرق الأوسط",
    "alt": [
     "Middle Eastern",
     "The Middle East"
+   ],
+   "qar": [
+    [
+     "Elissa",
+     "إليسا"
+    ]
    ]
   },
   {
@@ -1005,6 +1600,16 @@
    "ar": "دنانير",
    "alt": [
     "Dananir"
+   ],
+   "qar": [
+    [
+     "Umm Kulthum",
+     "أم كلثوم"
+    ],
+    [
+     "Ya Laylat al-Eid",
+     "يا ليلة العيد"
+    ]
    ]
   },
   {
@@ -1017,22 +1622,43 @@
     "Mejwiz",
     "Mijwaz"
    ],
-   "apic": "Mijwiz"
+   "apic": "Mijwiz",
+   "qar": [
+    [
+     "dabke",
+     "الدبكة"
+    ]
+   ]
   },
   {
    "q": "Abdel Halim Hafez lived most of his life with which Nile-borne illness, also called bilharzia?",
    "a": "Schistosomiasis",
    "p": 600,
-   "ar": "البلهارسيا",
    "alt": [
     "Bilharzia",
     "Bilharziasis"
+   ],
+   "qar": [
+    [
+     "Abdel Halim Hafez",
+     "عبد الحليم حافظ"
+    ]
    ]
   },
   {
    "q": "Nancy Ajram was a judge on which MBC singing contest, alongside Ahlam?",
    "a": "Arab Idol",
-   "p": 200
+   "p": 200,
+   "qar": [
+    [
+     "Nancy Ajram",
+     "نانسي عجرم"
+    ],
+    [
+     "Ahlam",
+     "أحلام"
+    ]
+   ]
   },
   {
    "q": "Which Kadim Al Sahir hit and 1997 album has a title meaning 'Layla and I'?",
@@ -1043,6 +1669,12 @@
     "Ana W Layla",
     "Ana Wa Laila",
     "Ana Wa Leila"
+   ],
+   "qar": [
+    [
+     "Kadim Al Sahir",
+     "كاظم الساهر"
+    ]
    ]
   },
   {
@@ -1076,7 +1708,13 @@
     "Wahran"
    ],
    "pic": "Rai",
-   "apic": "Oran"
+   "apic": "Oran",
+   "qar": [
+    [
+     "Rai",
+     "الراي"
+    ]
+   ]
   },
   {
    "q": "Who wrote and first recorded the Algerian chaabi classic 'Ya Rayah'?",
@@ -1086,28 +1724,48 @@
    "alt": [
     "El Harrachi"
    ],
-   "apic": "Dahmane El Harrachi"
+   "apic": "Dahmane El Harrachi",
+   "qar": [
+    [
+     "Ya Rayah",
+     "يا الرايح"
+    ],
+    [
+     "chaabi",
+     "الشعبي"
+    ]
+   ]
   },
   {
    "q": "Assala Nasri is a singer from which country?",
    "a": "Syria",
    "p": 200,
-   "ar": "سوريا",
    "alt": [
     "Syrian"
    ],
    "pic": "Assala Nasri",
-   "apic": "Syria"
+   "apic": "Syria",
+   "qar": [
+    [
+     "Assala Nasri",
+     "أصالة نصري"
+    ]
+   ]
   },
   {
    "q": "Latifa, star of hits since the 1980s, is a singer from which country?",
    "a": "Tunisia",
    "p": 200,
-   "ar": "تونس",
    "alt": [
     "Tunisian"
    ],
-   "apic": "Tunisia"
+   "apic": "Tunisia",
+   "qar": [
+    [
+     "Latifa",
+     "لطيفة"
+    ]
+   ]
   },
   {
    "q": "Haifa Wehbe and Wael Kfoury are singers from which country?",
@@ -1118,19 +1776,34 @@
     "Lebanese"
    ],
    "pic": "Haifa Wehbe",
-   "apic": "Lebanon"
+   "apic": "Lebanon",
+   "qar": [
+    [
+     "Haifa Wehbe",
+     "هيفاء وهبي"
+    ],
+    [
+     "Wael Kfoury",
+     "وائل كفوري"
+    ]
+   ]
   },
   {
    "q": "Saad Lamjarred is a pop star from which country?",
    "a": "Morocco",
    "p": 200,
-   "ar": "المغرب",
    "alt": [
     "Moroccan",
     "Al Maghrib"
    ],
    "pic": "Saad Lamjarred",
-   "apic": "Morocco"
+   "apic": "Morocco",
+   "qar": [
+    [
+     "Saad Lamjarred",
+     "سعد لمجرد"
+    ]
+   ]
   },
   {
    "q": "Which Saad Lamjarred hit of 2015 has a title meaning 'The Boss'?",
@@ -1141,6 +1814,12 @@
     "Lmaallem",
     "Al Mo3alem",
     "El Moallem"
+   ],
+   "qar": [
+    [
+     "Saad Lamjarred",
+     "سعد لمجرد"
+    ]
    ]
   },
   {
@@ -1152,7 +1831,13 @@
     "Mohammed Mounir",
     "Mounir"
    ],
-   "apic": "Mohamed Mounir"
+   "apic": "Mohamed Mounir",
+   "qar": [
+    [
+     "Al King",
+     "الكينج"
+    ]
+   ]
   },
   {
    "q": "Which Egyptian singer had a famous hit with 'Ah Ya Leil'?",
@@ -1163,7 +1848,13 @@
     "Sherine Abdel Wahab",
     "Shereen"
    ],
-   "apic": "Sherine"
+   "apic": "Sherine",
+   "qar": [
+    [
+     "Ah Ya Leil",
+     "آه يا ليل"
+    ]
+   ]
   },
   {
    "q": "Which Egyptian singer, called the 'father of shaabi' music, rose to fame in the 1970s?",
@@ -1174,7 +1865,13 @@
     "Adaweya",
     "Ahmed Adawiya"
    ],
-   "apic": "Ahmed Adaweya"
+   "apic": "Ahmed Adaweya",
+   "qar": [
+    [
+     "shaabi",
+     "الشعبي"
+    ]
+   ]
   },
   {
    "q": "Which Libyan-born singer and producer pioneered Egypt's 1980s 'al-jeel' pop sound?",
@@ -1184,7 +1881,13 @@
    "alt": [
     "Hamid Al Shaeri"
    ],
-   "apic": "Hamid El Shaeri"
+   "apic": "Hamid El Shaeri",
+   "qar": [
+    [
+     "al-jeel",
+     "الجيل"
+    ]
+   ]
   },
   {
    "q": "Which loud, electronic Egyptian street-party genre exploded in the 2010s?",
@@ -1214,17 +1917,28 @@
    "ar": "ويجز",
    "alt": [
     "Wegz rapper"
+   ],
+   "qar": [
+    [
+     "El Bakht",
+     "البخت"
+    ]
    ]
   },
   {
    "q": "The Syrian song form 'qudud halabiya' is named after which city?",
    "a": "Aleppo",
    "p": 400,
-   "ar": "حلب",
    "alt": [
     "Halab"
    ],
-   "apic": "Aleppo"
+   "apic": "Aleppo",
+   "qar": [
+    [
+     "qudud halabiya",
+     "القدود الحلبية"
+    ]
+   ]
   },
   {
    "q": "Which Iraqi oud virtuoso, born in Mosul in 1930, became famous for solo oud concerts around the world?",
@@ -1235,14 +1949,34 @@
     "Mounir Bashir"
    ],
    "pic": "Oud",
-   "apic": "Munir Bashir"
+   "apic": "Munir Bashir",
+   "qar": [
+    [
+     "Mosul",
+     "الموصل"
+    ],
+    [
+     "oud",
+     "العود"
+    ]
+   ]
   },
   {
    "q": "Which Iraqi oud master founded the Arab Oud House in Cairo in 1998?",
    "a": "Naseer Shamma",
    "p": 600,
    "ar": "نصير شمة",
-   "apic": "Naseer Shamma"
+   "apic": "Naseer Shamma",
+   "qar": [
+    [
+     "Arab Oud House",
+     "بيت العود العربي"
+    ],
+    [
+     "Cairo",
+     "القاهرة"
+    ]
+   ]
   },
   {
    "q": "Which Tunisian oud player made celebrated jazz-influenced albums for the ECM label?",
@@ -1252,7 +1986,13 @@
    "alt": [
     "Anwar Brahem"
    ],
-   "apic": "Anouar Brahem"
+   "apic": "Anouar Brahem",
+   "qar": [
+    [
+     "oud",
+     "العود"
+    ]
+   ]
   },
   {
    "q": "Which Moroccan band, called 'the Rolling Stones of Africa' by Martin Scorsese, formed in Casablanca?",
@@ -1262,7 +2002,13 @@
    "alt": [
     "Nass al-Ghiwan"
    ],
-   "apic": "Nass El Ghiwane"
+   "apic": "Nass El Ghiwane",
+   "qar": [
+    [
+     "Casablanca",
+     "الدار البيضاء"
+    ]
+   ]
   },
   {
    "q": "Which Moroccan musical tradition uses the guembri and large metal castanets called qraqeb?",
@@ -1272,6 +2018,16 @@
    "alt": [
     "Gnaoua",
     "Gnawa music"
+   ],
+   "qar": [
+    [
+     "guembri",
+     "الكمبري"
+    ],
+    [
+     "qraqeb",
+     "القراقب"
+    ]
    ]
   },
   {
@@ -1281,6 +2037,12 @@
    "ar": "ناظم الغزالي",
    "alt": [
     "Nadhim Al Ghazali"
+   ],
+   "qar": [
+    [
+     "maqam",
+     "المقام"
+    ]
    ]
   },
   {
@@ -1300,17 +2062,40 @@
    "ar": "أمل حياتي",
    "alt": [
     "Amal Hayaty"
+   ],
+   "qar": [
+    [
+     "Umm Kulthum",
+     "أم كلثوم"
+    ],
+    [
+     "Abdel Wahab",
+     "عبد الوهاب"
+    ]
    ]
   },
   {
    "q": "What nickname was given to the first Umm Kulthum and Abdel Wahab collaboration, 'Inta Omri'?",
    "a": "Meeting of the Giants",
    "p": 600,
-   "ar": "لقاء السحاب",
    "alt": [
     "Liqaa Al Sahab",
     "Meeting of the Clouds",
     "Summit meeting"
+   ],
+   "qar": [
+    [
+     "Umm Kulthum",
+     "أم كلثوم"
+    ],
+    [
+     "Abdel Wahab",
+     "عبد الوهاب"
+    ],
+    [
+     "Inta Omri",
+     "إنت عمري"
+    ]
    ]
   },
   {
@@ -1321,6 +2106,16 @@
    "alt": [
     "Sawwah",
     "Sawah Wamashi"
+   ],
+   "qar": [
+    [
+     "Abdel Halim Hafez",
+     "عبد الحليم حافظ"
+    ],
+    [
+     "Baligh Hamdi",
+     "بليغ حمدي"
+    ]
    ]
   },
   {
@@ -1331,7 +2126,17 @@
    "alt": [
     "Baligh Hamdy"
    ],
-   "apic": "Baligh Hamdi"
+   "apic": "Baligh Hamdi",
+   "qar": [
+    [
+     "Abdel Halim",
+     "عبد الحليم"
+    ],
+    [
+     "Warda",
+     "وردة"
+    ]
+   ]
   },
   {
    "q": "Which 1989 song was the last that Mohammed Abdel Wahab composed and sang himself?",
@@ -1341,6 +2146,12 @@
    "alt": [
     "Men Gher Leh",
     "Min Ghair Lih"
+   ],
+   "qar": [
+    [
+     "Mohammed Abdel Wahab",
+     "محمد عبد الوهاب"
+    ]
    ]
   },
   {
@@ -1351,7 +2162,17 @@
     "Aranjuez",
     "Concerto de Aranjuez"
    ],
-   "apic": "Concierto de Aranjuez"
+   "apic": "Concierto de Aranjuez",
+   "qar": [
+    [
+     "Fairuz",
+     "فيروز"
+    ],
+    [
+     "Li Beirut",
+     "لبيروت"
+    ]
+   ]
   },
   {
    "q": "Fairuz's 'Ya Ana Ya Ana' borrows its melody from which composer's Symphony No. 40?",
@@ -1361,7 +2182,17 @@
     "Wolfgang Amadeus Mozart",
     "W. A. Mozart"
    ],
-   "apic": "Wolfgang Amadeus Mozart"
+   "apic": "Wolfgang Amadeus Mozart",
+   "qar": [
+    [
+     "Fairuz",
+     "فيروز"
+    ],
+    [
+     "Ya Ana Ya Ana",
+     "يا أنا يا أنا"
+    ]
+   ]
   },
   {
    "q": "Which Kadim Al Sahir hit, set to a Nizar Qabbani poem, has a title meaning 'Increase My Love'?",
@@ -1372,6 +2203,16 @@
     "Zidini Ishqa",
     "Zedini Eshqan",
     "Zidini"
+   ],
+   "qar": [
+    [
+     "Kadim Al Sahir",
+     "كاظم الساهر"
+    ],
+    [
+     "Nizar Qabbani",
+     "نزار قباني"
+    ]
    ]
   },
   {
@@ -1382,17 +2223,32 @@
    "alt": [
     "Madrasat Al Hubb",
     "Madrasat El Hob"
+   ],
+   "qar": [
+    [
+     "Kadim Al Sahir",
+     "كاظم الساهر"
+    ],
+    [
+     "Qabbani",
+     "قباني"
+    ]
    ]
   },
   {
    "q": "Kadim Al Sahir was a coach on the first season of which MBC singing show in 2012?",
    "a": "The Voice",
    "p": 400,
-   "ar": "ذا فويس",
    "alt": [
     "The Voice Ahla Sawt",
     "The Voice Arabia",
     "Ahla Sawt"
+   ],
+   "qar": [
+    [
+     "Kadim Al Sahir",
+     "كاظم الساهر"
+    ]
    ]
   },
   {
@@ -1403,6 +2259,16 @@
    "alt": [
     "Amarein",
     "Qamarain"
+   ],
+   "qar": [
+    [
+     "Amr Diab",
+     "عمرو دياب"
+    ],
+    [
+     "Cheb Khaled",
+     "الشاب خالد"
+    ]
    ]
   },
   {
@@ -1412,6 +2278,12 @@
    "ar": "آيس كريم في جليم",
    "alt": [
     "Ice Cream in Gleem"
+   ],
+   "qar": [
+    [
+     "Amr Diab",
+     "عمرو دياب"
+    ]
    ]
   },
   {
@@ -1423,6 +2295,12 @@
     "Ah We Nos",
     "Ah Wa Nos",
     "Aah W Nos"
+   ],
+   "qar": [
+    [
+     "Nancy Ajram",
+     "نانسي عجرم"
+    ]
    ]
   },
   {
@@ -1473,6 +2351,12 @@
     "Muwashah",
     "Muwashahat",
     "Muwashshahat"
+   ],
+   "qar": [
+    [
+     "Al-Andalus",
+     "الأندلس"
+    ]
    ]
   },
   {
@@ -1483,6 +2367,16 @@
    "alt": [
     "El Wessada El Khalia",
     "The Empty Pillow"
+   ],
+   "qar": [
+    [
+     "Abdel Halim Hafez",
+     "عبد الحليم حافظ"
+    ],
+    [
+     "Lubna Abdel Aziz",
+     "لبنى عبد العزيز"
+    ]
    ]
   },
   {
@@ -1493,6 +2387,16 @@
    "alt": [
     "Lahn El Kholood",
     "Melody of Immortality"
+   ],
+   "qar": [
+    [
+     "Farid al-Atrash",
+     "فريد الأطرش"
+    ],
+    [
+     "Faten Hamama",
+     "فاتن حمامة"
+    ]
    ]
   },
   {
@@ -1505,7 +2409,13 @@
     "Dhikra",
     "Thekra Mohamed"
    ],
-   "apic": "Thekra"
+   "apic": "Thekra",
+   "qar": [
+    [
+     "Cairo",
+     "القاهرة"
+    ]
+   ]
   },
   {
    "q": "Which Tunisian singer is famed for 'Sidi Mansour'?",
@@ -1516,7 +2426,13 @@
     "Saber Al Robaii",
     "Saber Rebaï"
    ],
-   "apic": "Saber Rebai"
+   "apic": "Saber Rebai",
+   "qar": [
+    [
+     "Sidi Mansour",
+     "سيدي منصور"
+    ]
+   ]
   },
   {
    "q": "Which Arabic word for 'love' appears in countless song titles?",
@@ -1535,6 +2451,13 @@
    "p": 200,
    "alt": [
     "Didi Didi"
+   ],
+   "ar": "ديدي",
+   "qar": [
+    [
+     "Cheb Khaled",
+     "الشاب خالد"
+    ]
    ]
   },
   {
@@ -1545,6 +2468,12 @@
    "alt": [
     "Aïcha",
     "Aisha"
+   ],
+   "qar": [
+    [
+     "Cheb Khaled",
+     "الشاب خالد"
+    ]
    ]
   },
   {
@@ -1558,22 +2487,44 @@
    "q": "Cheb Khaled, Cheb Mami and Souad Massi all come from which country?",
    "a": "Algeria",
    "p": 200,
-   "ar": "الجزائر",
    "alt": [
     "Algerian"
    ],
-   "apic": "Algeria"
+   "apic": "Algeria",
+   "qar": [
+    [
+     "Cheb Khaled",
+     "الشاب خالد"
+    ],
+    [
+     "Cheb Mami",
+     "الشاب مامي"
+    ],
+    [
+     "Souad Massi",
+     "سعاد ماسي"
+    ]
+   ]
   },
   {
    "q": "Tamer Hosny and Sherine are singers from which country?",
    "a": "Egypt",
    "p": 200,
-   "ar": "مصر",
    "alt": [
     "Misr",
     "Egyptian"
    ],
-   "apic": "Egypt"
+   "apic": "Egypt",
+   "qar": [
+    [
+     "Tamer Hosny",
+     "تامر حسني"
+    ],
+    [
+     "Sherine",
+     "شيرين"
+    ]
+   ]
   }
  ]
 }

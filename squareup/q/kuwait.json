@@ -137,7 +137,6 @@
    "q": "Before oil, which sea industry of diving for oysters was Kuwait's main source of wealth?",
    "a": "Pearling",
    "p": 200,
-   "ar": "الغوص على اللؤلؤ",
    "alt": [
     "Pearl diving",
     "Pearl fishing",
@@ -181,6 +180,12 @@
    "alt": [
     "How are you?",
     "How are you doing"
+   ],
+   "qar": [
+    [
+     "Shlonak",
+     "شلونك"
+    ]
    ]
   },
   {
@@ -234,7 +239,6 @@
    "q": "Which resource, discovered in 1938, transformed Kuwait's economy?",
    "a": "Oil",
    "p": 200,
-   "ar": "النفط",
    "alt": [
     "Petroleum",
     "Crude oil"
@@ -250,7 +254,13 @@
     "Avenues",
     "Avenues Mall"
    ],
-   "apic": "The Avenues (Kuwait)"
+   "apic": "The Avenues (Kuwait)",
+   "qar": [
+    [
+     "Al Rai",
+     "الري"
+    ]
+   ]
   },
   {
    "q": "Kuwait lies at the north-western tip of which body of water?",
@@ -283,7 +293,6 @@
    "q": "In 1980, Kuwait became the first Arab nation to win which continental football tournament?",
    "a": "AFC Asian Cup",
    "p": 200,
-   "ar": "كأس آسيا",
    "alt": [
     "Asian Cup",
     "Asia Cup"
@@ -300,7 +309,13 @@
     "Kahwa",
     "Arabic coffee"
    ],
-   "apic": "Arabic coffee"
+   "apic": "Arabic coffee",
+   "qar": [
+    [
+     "diwaniyas",
+     "الدواوين"
+    ]
+   ]
   },
   {
    "q": "Which sweet fried dough balls drizzled with date syrup are a favourite in Kuwait during Ramadan?",
@@ -312,7 +327,13 @@
     "Lgeimat",
     "Luqaymat"
    ],
-   "apic": "Luqaimat"
+   "apic": "Luqaimat",
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
+   ]
   },
   {
    "q": "Which Gulf dialect word, used in Kuwait, means 'good' or 'fine'?",
@@ -328,7 +349,6 @@
    "q": "In which country did Kuwait play its World Cup matches?",
    "a": "Spain",
    "p": 200,
-   "ar": "إسبانيا",
    "apic": "Spain"
   },
   {
@@ -341,6 +361,12 @@
     "Qarqee'an",
     "Gergaan",
     "Gargee'an"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -396,7 +422,13 @@
     "Harris",
     "Hareis"
    ],
-   "apic": "Harees"
+   "apic": "Harees",
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
+   ]
   },
   {
    "q": "Which month-long festival of concerts, shopping and family events is held in Kuwait every February?",
@@ -411,7 +443,6 @@
    "q": "Which bird spreads its wings behind a dhow on Kuwait's coat of arms?",
    "a": "Falcon",
    "p": 200,
-   "ar": "صقر",
    "alt": [
     "Hawk"
    ],
@@ -426,7 +457,13 @@
     "Salmiyah",
     "Al Salmiya"
    ],
-   "apic": "Salmiya"
+   "apic": "Salmiya",
+   "qar": [
+    [
+     "Salem Al Mubarak Street",
+     "شارع سالم المبارك"
+    ]
+   ]
   },
   {
    "q": "Which triangle-shaped fried pastries are a must on Kuwaiti Ramadan tables?",
@@ -438,7 +475,13 @@
     "Samosa",
     "Sambosa"
    ],
-   "apic": "Samosa"
+   "apic": "Samosa",
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
+   ]
   },
   {
    "q": "What Gulf word, used in Kuwait, means 'where'?",
@@ -466,7 +509,6 @@
    "q": "Kuwaiti pearl divers dived to the seabed to collect which shellfish?",
    "a": "Oysters",
    "p": 200,
-   "ar": "محار",
    "alt": [
     "Oyster",
     "Pearl oysters"
@@ -502,7 +544,13 @@
     "Mishlah",
     "Besht"
    ],
-   "apic": "Bisht (clothing)"
+   "apic": "Bisht (clothing)",
+   "qar": [
+    [
+     "dishdasha",
+     "دشداشة"
+    ]
+   ]
   },
   {
    "q": "What is the Kuwaiti name for the long white robe worn by men?",
@@ -549,13 +597,18 @@
     "Gabga",
     "Ghabgah",
     "Ghabqa"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
    "q": "Kuwait's Liberation Day marks the end of which 1991 conflict?",
    "a": "Gulf War",
    "p": 200,
-   "ar": "حرب الخليج",
    "alt": [
     "Operation Desert Storm",
     "First Gulf War",
@@ -586,7 +639,6 @@
    "q": "What is the official language of Kuwait?",
    "a": "Arabic",
    "p": 200,
-   "ar": "العربية",
    "apic": "Arabic"
   },
   {
@@ -746,7 +798,6 @@
    "q": "Besides restaurants and cafés, what do the spheres of the Kuwait Towers hold?",
    "a": "Water",
    "p": 400,
-   "ar": "مياه",
    "alt": [
     "Water tank",
     "Water storage",
@@ -757,7 +808,6 @@
    "q": "Kuwait's name is a diminutive of an Arabic word meaning what?",
    "a": "Fort",
    "p": 400,
-   "ar": "كوت",
    "alt": [
     "Fortress",
     "Little fort",
@@ -775,8 +825,13 @@
    "q": "Against which country did Kuwait play when Sheikh Fahad Al-Ahmad walked onto the pitch to protest a goal at the World Cup?",
    "a": "France",
    "p": 400,
-   "ar": "فرنسا",
-   "apic": "France national football team"
+   "apic": "France national football team",
+   "qar": [
+    [
+     "Sheikh Fahad Al-Ahmad",
+     "الشيخ فهد الأحمد"
+    ]
+   ]
   },
   {
    "q": "Which Kuwaiti comedy legend starred in the hit play 'Bye Bye London'?",
@@ -788,7 +843,13 @@
     "Abdul Hussain Abdul Redha",
     "Abo Adnan"
    ],
-   "apic": "Abdulhussain Abdulredha"
+   "apic": "Abdulhussain Abdulredha",
+   "qar": [
+    [
+     "Bye Bye London",
+     "باي باي لندن"
+    ]
+   ]
   },
   {
    "q": "Which Kuwaiti actress is known as 'the Lady of the Gulf Screen'?",
@@ -839,7 +900,6 @@
    "q": "Kuwaiti dhows traditionally sailed to which country to trade Gulf dates for timber, spices and textiles?",
    "a": "India",
    "p": 400,
-   "ar": "الهند",
    "apic": "India"
   },
   {
@@ -911,7 +971,13 @@
    "alt": [
     "Al Ahmadi"
    ],
-   "apic": "Ahmadi, Kuwait"
+   "apic": "Ahmadi, Kuwait",
+   "qar": [
+    [
+     "Ahmad Al-Jaber",
+     "أحمد الجابر"
+    ]
+   ]
   },
   {
    "q": "Which state company, founded in 1934, runs Kuwait's oil fields?",
@@ -954,6 +1020,12 @@
     "Dakkus",
     "Daqoos",
     "Duggus"
+   ],
+   "qar": [
+    [
+     "machboos",
+     "مجبوس"
+    ]
    ]
   },
   {
@@ -964,6 +1036,12 @@
    "alt": [
     "Thareed",
     "Tashrib"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -1078,7 +1156,13 @@
     "Al Qasr Al Ahmar",
     "Red Palace"
    ],
-   "apic": "Red Fort (Kuwait)"
+   "apic": "Red Fort (Kuwait)",
+   "qar": [
+    [
+     "Jahra",
+     "الجهراء"
+    ]
+   ]
   },
   {
    "q": "Which ridge north-west of Kuwait City is the best-known high ground in the country?",
@@ -1135,6 +1219,12 @@
     "Jareesh",
     "Jerish",
     "Jarish"
+   ],
+   "qar": [
+    [
+     "Ramadan",
+     "رمضان"
+    ]
    ]
   },
   {
@@ -1146,6 +1236,12 @@
     "Bezar",
     "Bizar",
     "Baharat"
+   ],
+   "qar": [
+    [
+     "machboos",
+     "مجبوس"
+    ]
    ]
   },
   {
@@ -1185,7 +1281,6 @@
    "q": "Where does most of Kuwait's drinking water come from?",
    "a": "Desalinated seawater",
    "p": 400,
-   "ar": "تحلية مياه البحر",
    "alt": [
     "Desalination",
     "Desalination plants",
@@ -1213,7 +1308,13 @@
     "Al Utub",
     "Bani Utub"
    ],
-   "apic": "Bani Utbah"
+   "apic": "Bani Utbah",
+   "qar": [
+    [
+     "Al Sabah",
+     "آل صباح"
+    ]
+   ]
   },
   {
    "q": "In which year did Kuwait join the United Nations?",
@@ -1242,7 +1343,6 @@
    "q": "Which hardwood from India did Kuwaiti shipwrights favour for building dhows?",
    "a": "Teak",
    "p": 400,
-   "ar": "ساج",
    "alt": [
     "Saj",
     "Teak wood"
@@ -1411,7 +1511,13 @@
     "Icarus",
     "Ikaros Island"
    ],
-   "pic": "Failaka Island"
+   "pic": "Failaka Island",
+   "qar": [
+    [
+     "Failaka Island",
+     "جزيرة فيلكا"
+    ]
+   ]
   },
   {
    "q": "Kuwait's ruling family takes its name from which first ruler of the mid-18th century?",
@@ -1445,7 +1551,13 @@
     "Ahmad Al-Jaber Al-Sabah",
     "Sheikh Ahmad"
    ],
-   "apic": "Ahmad Al-Jaber Al-Sabah"
+   "apic": "Ahmad Al-Jaber Al-Sabah",
+   "qar": [
+    [
+     "Burgan",
+     "برقان"
+    ]
+   ]
   },
   {
    "q": "In which year did Kuwait export its first shipment of crude oil?",
@@ -1456,7 +1568,6 @@
    "q": "Which team did Kuwait beat 3-0 in the 1980 Asian Cup final?",
    "a": "South Korea",
    "p": 600,
-   "ar": "كوريا الجنوبية",
    "alt": [
     "Korea Republic",
     "Korea"
@@ -1467,14 +1578,12 @@
    "q": "Which team did Kuwait draw 1-1 with in their first World Cup match?",
    "a": "Czechoslovakia",
    "p": 600,
-   "ar": "تشيكوسلوفاكيا",
    "apic": "Czechoslovakia national football team"
   },
   {
    "q": "Which team beat Kuwait 1-0 in their last group game at the World Cup?",
    "a": "England",
    "p": 600,
-   "ar": "إنجلترا",
    "apic": "England national football team"
   },
   {
@@ -1501,7 +1610,13 @@
    "a": "Bahrain",
    "p": 600,
    "ar": "البحرين",
-   "apic": "Bahrain"
+   "apic": "Bahrain",
+   "qar": [
+    [
+     "Arabian Gulf Cup",
+     "كأس الخليج العربي"
+    ]
+   ]
   },
   {
    "q": "Which Kuwaiti shooter won Olympic gold in 2016 while competing under the Olympic flag?",
@@ -1581,7 +1696,13 @@
     "Sheikh Jaber Al-Ahmad Al-Sabah",
     "Sheikh Jaber"
    ],
-   "apic": "Jaber Al-Ahmad Al-Sabah"
+   "apic": "Jaber Al-Ahmad Al-Sabah",
+   "qar": [
+    [
+     "Kuwait Bay",
+     "جون الكويت"
+    ]
+   ]
   },
   {
    "q": "Which Bronze Age Gulf civilisation, centred on Bahrain, left remains on Failaka Island?",
@@ -1592,13 +1713,22 @@
     "Delmon",
     "Tilmun"
    ],
-   "apic": "Dilmun"
+   "apic": "Dilmun",
+   "qar": [
+    [
+     "Bahrain",
+     "البحرين"
+    ],
+    [
+     "Failaka Island",
+     "جزيرة فيلكا"
+    ]
+   ]
   },
   {
    "q": "The engineering firm VBB, which built the Kuwait Towers, came from which country?",
    "a": "Sweden",
    "p": 600,
-   "ar": "السويد",
    "apic": "Sweden"
   },
   {
@@ -1673,7 +1803,13 @@
     "Salim Al-Mubarak Al-Sabah",
     "Sheikh Salim"
    ],
-   "apic": "Salim Al-Mubarak Al-Sabah"
+   "apic": "Salim Al-Mubarak Al-Sabah",
+   "qar": [
+    [
+     "Jahra",
+     "الجهراء"
+    ]
+   ]
   },
   {
    "q": "Which Emir ruled Kuwait from 1965 to 1977?",
@@ -1717,7 +1853,13 @@
     "Mina Al-Ahmadi",
     "Ahmadi Port"
    ],
-   "apic": "Mina Al Ahmadi"
+   "apic": "Mina Al Ahmadi",
+   "qar": [
+    [
+     "Ahmadi",
+     "الأحمدي"
+    ]
+   ]
   },
   {
    "q": "What is the name of Kuwait's opera house complex, opened in 2016?",
@@ -1749,7 +1891,13 @@
     "Sabah Al Ahmad Sea City",
     "Al Khiran Sea City"
    ],
-   "apic": "Sabah Al-Ahmad Sea City"
+   "apic": "Sabah Al-Ahmad Sea City",
+   "qar": [
+    [
+     "Khiran",
+     "الخيران"
+    ]
+   ]
   },
   {
    "q": "Which dry valley forms Kuwait's western border?",
@@ -1790,7 +1938,13 @@
     "Qadsia SC",
     "Al-Qadisiya"
    ],
-   "apic": "Qadsia SC"
+   "apic": "Qadsia SC",
+   "qar": [
+    [
+     "Hawalli",
+     "حولي"
+    ]
+   ]
   },
   {
    "q": "Which southern Kuwaiti area, along with Abdali in the north, is the country's main farming region?",
@@ -1799,6 +1953,12 @@
    "ar": "الوفرة",
    "alt": [
     "Al Wafra"
+   ],
+   "qar": [
+    [
+     "Abdali",
+     "العبدلي"
+    ]
    ]
   },
   {

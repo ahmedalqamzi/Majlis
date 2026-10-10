@@ -39,17 +39,35 @@
   {
    "q": "Which popular hot drink gets its English name from the Arabic word 'qahwa'?",
    "a": "Coffee",
-   "p": 200
+   "p": 200,
+   "qar": [
+    [
+     "qahwa",
+     "قهوة"
+    ]
+   ]
   },
   {
    "q": "The name of which school maths branch comes from the Arabic 'al-jabr'?",
    "a": "Algebra",
-   "p": 200
+   "p": 200,
+   "qar": [
+    [
+     "al-jabr",
+     "الجبر"
+    ]
+   ]
   },
   {
    "q": "The English word for table crystals used to sweeten tea comes from the Arabic 'sukkar'. What is it?",
    "a": "Sugar",
-   "p": 200
+   "p": 200,
+   "qar": [
+    [
+     "sukkar",
+     "سكر"
+    ]
+   ]
   },
   {
    "q": "What does the Arabic word 'shukran' mean?",
@@ -57,6 +75,12 @@
    "p": 200,
    "alt": [
     "Thanks"
+   ],
+   "qar": [
+    [
+     "shukran",
+     "شكراً"
+    ]
    ]
   },
   {
@@ -66,6 +90,12 @@
    "alt": [
     "Welcome",
     "Hi"
+   ],
+   "qar": [
+    [
+     "marhaba",
+     "مرحبا"
+    ]
    ]
   },
   {
@@ -75,6 +105,12 @@
    "alt": [
     "Come on",
     "Hurry up"
+   ],
+   "qar": [
+    [
+     "yalla",
+     "يلا"
+    ]
    ]
   },
   {
@@ -85,6 +121,12 @@
     "My love",
     "Beloved",
     "Darling"
+   ],
+   "qar": [
+    [
+     "habibi",
+     "حبيبي"
+    ]
    ]
   },
   {
@@ -93,6 +135,12 @@
    "p": 200,
    "alt": [
     "A welcome"
+   ],
+   "qar": [
+    [
+     "Ahlan wa sahlan",
+     "أهلاً وسهلاً"
+    ]
    ]
   },
   {
@@ -103,6 +151,12 @@
     "Enough",
     "Done",
     "That's it"
+   ],
+   "qar": [
+    [
+     "khalas",
+     "خلاص"
+    ]
    ]
   },
   {
@@ -112,6 +166,12 @@
    "alt": [
     "Congrats",
     "Mabruk"
+   ],
+   "qar": [
+    [
+     "Mabrook",
+     "مبروك"
+    ]
    ]
   },
   {
@@ -233,10 +293,15 @@
    "q": "What does the Arabic word 'wadi' mean?",
    "a": "Valley",
    "p": 200,
-   "ar": "وادي",
    "alt": [
     "Dry riverbed",
     "Dry river valley"
+   ],
+   "qar": [
+    [
+     "wadi",
+     "وادي"
+    ]
    ]
   },
   {
@@ -257,6 +322,12 @@
     "The spring",
     "Eye",
     "The eye"
+   ],
+   "qar": [
+    [
+     "Al Ain",
+     "العين"
+    ]
    ]
   },
   {
@@ -266,12 +337,28 @@
    "alt": [
     "Two seas",
     "The two seas"
+   ],
+   "qar": [
+    [
+     "Bahrain",
+     "البحرين"
+    ]
    ]
   },
   {
    "q": "What does the Arabic prefix 'Al' mean, as in Al Ain or Al Nahyan?",
    "a": "The",
-   "p": 200
+   "p": 200,
+   "qar": [
+    [
+     "Al Ain",
+     "العين"
+    ],
+    [
+     "Al Nahyan",
+     "آل نهيان"
+    ]
+   ]
   },
   {
    "q": "What is the Arabic word for 'king'?",
@@ -298,6 +385,12 @@
    "p": 200,
    "alt": [
     "Goodness"
+   ],
+   "qar": [
+    [
+     "Sabah al-khair",
+     "صباح الخير"
+    ]
    ]
   },
   {
@@ -372,7 +465,7 @@
    "q": "Arabic is nicknamed 'the language of the ...' after a letter found in no other major language. Which letter?",
    "a": "Dad",
    "p": 400,
-   "ar": "ض",
+   "ar": "ضاد",
    "alt": [
     "Daad",
     "Dhad",
@@ -516,6 +609,12 @@
    "alt": [
     "Kotob",
     "Kutob"
+   ],
+   "qar": [
+    [
+     "kitab",
+     "كتاب"
+    ]
    ]
   },
   {
@@ -527,6 +626,12 @@
     "Biyut",
     "Buyoot",
     "Byoot"
+   ],
+   "qar": [
+    [
+     "bayt",
+     "بيت"
+    ]
    ]
   },
   {
@@ -537,6 +642,12 @@
    "alt": [
     "Moden",
     "Mudon"
+   ],
+   "qar": [
+    [
+     "madina",
+     "مدينة"
+    ]
    ]
   },
   {
@@ -554,27 +665,57 @@
   {
    "q": "Which English word for a periodical, or a store for ammunition, comes from Arabic 'makhazin', meaning storehouses?",
    "a": "Magazine",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "makhazin",
+     "مخازن"
+    ]
+   ]
   },
   {
    "q": "Which English word for an expedition, via Swahili, comes from Arabic 'safar', meaning journey?",
    "a": "Safari",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "safar",
+     "سفر"
+    ]
+   ]
   },
   {
    "q": "Which English word for a long cushioned seat comes from Arabic 'suffa'?",
    "a": "Sofa",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "suffa",
+     "صُفّة"
+    ]
+   ]
   },
   {
    "q": "Which soft plant fibre's English name comes from Arabic 'qutn'?",
    "a": "Cotton",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "qutn",
+     "قطن"
+    ]
+   ]
   },
   {
    "q": "Which tall African animal's English name comes from Arabic 'zarafa'?",
    "a": "Giraffe",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "zarafa",
+     "زرافة"
+    ]
+   ]
   },
   {
    "q": "Which English word for the number of apples left after eating them all comes via Arabic 'sifr'?",
@@ -582,12 +723,24 @@
    "p": 400,
    "alt": [
     "Cipher"
+   ],
+   "qar": [
+    [
+     "sifr",
+     "صفر"
+    ]
    ]
   },
   {
    "q": "Which English word for a step-by-step computing procedure comes from the name Al-Khwarizmi?",
    "a": "Algorithm",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "Al-Khwarizmi",
+     "الخوارزمي"
+    ]
+   ]
   },
   {
    "q": "What does the Arabic word 'majlis' literally mean, from the verb 'to sit'?",
@@ -597,6 +750,12 @@
     "Sitting place",
     "Place to sit",
     "Sitting room"
+   ],
+   "qar": [
+    [
+     "majlis",
+     "مجلس"
+    ]
    ]
   },
   {
@@ -619,6 +778,12 @@
     "The Arabs' Tongue",
     "Language of the Arabs",
     "Tongue of Arabs"
+   ],
+   "qar": [
+    [
+     "Lisan al-Arab",
+     "لسان العرب"
+    ]
    ]
   },
   {
@@ -628,6 +793,12 @@
    "alt": [
     "Cape",
     "Headland"
+   ],
+   "qar": [
+    [
+     "Ras Al Khaimah",
+     "رأس الخيمة"
+    ]
    ]
   },
   {
@@ -638,6 +809,12 @@
    "alt": [
     "Ibn Manzour",
     "Ibn Manzoor"
+   ],
+   "qar": [
+    [
+     "Lisan al-Arab",
+     "لسان العرب"
+    ]
    ]
   },
   {
@@ -648,6 +825,12 @@
    "alt": [
     "Ain",
     "'Ayn"
+   ],
+   "qar": [
+    [
+     "Al-Khalil ibn Ahmad",
+     "الخليل بن أحمد"
+    ]
    ]
   },
   {
@@ -667,6 +850,12 @@
    "alt": [
     "Ibn Bawwab",
     "Ibn al Bawab"
+   ],
+   "qar": [
+    [
+     "Ibn Muqla",
+     "ابن مقلة"
+    ]
    ]
   },
   {
@@ -746,6 +935,12 @@
     "Aamiyya",
     "Amiyya",
     "Ammiya"
+   ],
+   "qar": [
+    [
+     "Fusha",
+     "الفصحى"
+    ]
    ]
   },
   {
@@ -767,6 +962,12 @@
    "alt": [
     "Sibawaih",
     "Sibawayhi"
+   ],
+   "qar": [
+    [
+     "Al-Kitab",
+     "الكتاب"
+    ]
    ]
   },
   {
@@ -798,57 +999,123 @@
   {
    "q": "Which English word for a soft cushioned bed base comes from Arabic 'matrah', meaning something thrown down?",
    "a": "Mattress",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "matrah",
+     "مطرح"
+    ]
+   ]
   },
   {
    "q": "Which English word for a customs duty list comes from Arabic 'ta'rif', meaning notification?",
    "a": "Tariff",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "ta'rif",
+     "تعريف"
+    ]
+   ]
   },
   {
    "q": "Which English astronomy term for the point directly overhead comes from Arabic 'samt'?",
    "a": "Zenith",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "samt",
+     "سمت"
+    ]
+   ]
   },
   {
    "q": "Which English astronomy term for the lowest point, opposite the zenith, comes from Arabic 'nazir'?",
    "a": "Nadir",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "nazir",
+     "نظير"
+    ]
+   ]
   },
   {
    "q": "Which English word for a naval commander comes from Arabic 'amir al-bahr', commander of the sea?",
    "a": "Admiral",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "amir al-bahr",
+     "أمير البحر"
+    ]
+   ]
   },
   {
    "q": "Which English word for a seasonal wind comes from Arabic 'mawsim', meaning season?",
    "a": "Monsoon",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "mawsim",
+     "موسم"
+    ]
+   ]
   },
   {
    "q": "Which English word for a magic potion comes from Arabic 'al-iksir'?",
    "a": "Elixir",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "al-iksir",
+     "الإكسير"
+    ]
+   ]
   },
   {
    "q": "Which English word for a small decorative disc on clothes comes from Arabic 'sikka', a coin die?",
    "a": "Sequin",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "sikka",
+     "سكة"
+    ]
+   ]
   },
   {
    "q": "Which orange fruit's English name traces through Arabic 'al-birquq'?",
    "a": "Apricot",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "al-birquq",
+     "البرقوق"
+    ]
+   ]
   },
   {
    "q": "Which English word for a leafy green vegetable comes from Arabic 'isfanakh' via Persian?",
    "a": "Spinach",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "isfanakh",
+     "إسفاناخ"
+    ]
+   ]
   },
   {
    "q": "Which English word for a sugary sweet traces to Arabic 'qandi', meaning crystallised sugar?",
    "a": "Candy",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "qandi",
+     "قندي"
+    ]
+   ]
   },
   {
    "q": "Which Eastern Arabic numeral digit is written ٤?",
@@ -1116,118 +1383,188 @@
    "q": "What does the Arabic phrase 'Kaif halak?' mean?",
    "a": "How are you?",
    "p": 200,
-   "ar": "كيف حالك",
    "alt": [
     "How are you"
+   ],
+   "qar": [
+    [
+     "Kaif halak",
+     "كيف حالك"
+    ]
    ]
   },
   {
    "q": "What does the Arabic word 'afwan' mean in reply to thanks?",
    "a": "You're welcome",
    "p": 200,
-   "ar": "عفواً",
    "alt": [
     "You are welcome",
     "Don't mention it"
+   ],
+   "qar": [
+    [
+     "afwan",
+     "عفواً"
+    ]
    ]
   },
   {
    "q": "What does the Arabic word 'aasif' mean?",
    "a": "Sorry",
    "p": 200,
-   "ar": "آسف",
    "alt": [
     "I'm sorry",
     "I am sorry"
+   ],
+   "qar": [
+    [
+     "aasif",
+     "آسف"
+    ]
    ]
   },
   {
    "q": "What does the Arabic greeting 'Masa' al-khair' mean?",
    "a": "Good evening",
    "p": 200,
-   "ar": "مساء الخير"
+   "qar": [
+    [
+     "Masa' al-khair",
+     "مساء الخير"
+    ]
+   ]
   },
   {
    "q": "What does the Arabic word 'Ana' mean?",
    "a": "I",
    "p": 200,
-   "ar": "أنا",
    "alt": [
     "Me"
+   ],
+   "qar": [
+    [
+     "Ana",
+     "أنا"
+    ]
    ]
   },
   {
    "q": "The Gulf's dusty seasonal wind, the 'Shamal', takes its name from the Arabic for which direction?",
    "a": "North",
    "p": 200,
-   "ar": "شمال",
    "alt": [
     "Northern"
+   ],
+   "qar": [
+    [
+     "Shamal",
+     "شمال"
+    ]
    ]
   },
   {
    "q": "The English word 'lemon' traces back, through French, to which language's 'laymun'?",
    "a": "Arabic",
    "p": 200,
-   "ar": "العربية"
+   "qar": [
+    [
+     "laymun",
+     "ليمون"
+    ]
+   ]
   },
   {
    "q": "The dip 'hummus' gets its name from the Arabic word for which legume?",
    "a": "Chickpea",
    "p": 200,
-   "ar": "حمص",
    "alt": [
     "Chickpeas",
     "Garbanzo"
+   ],
+   "qar": [
+    [
+     "hummus",
+     "حمص"
+    ]
    ]
   },
   {
    "q": "What does the Arabic name 'Noor' mean?",
    "a": "Light",
    "p": 200,
-   "ar": "نور"
+   "qar": [
+    [
+     "Noor",
+     "نور"
+    ]
+   ]
   },
   {
    "q": "What does the Arabic name 'Amal' mean?",
    "a": "Hope",
    "p": 200,
-   "ar": "أمل"
+   "qar": [
+    [
+     "Amal",
+     "أمل"
+    ]
+   ]
   },
   {
    "q": "What does the Arabic name 'Karim' mean?",
    "a": "Generous",
    "p": 200,
-   "ar": "كريم",
    "alt": [
     "Noble",
     "Kind"
+   ],
+   "qar": [
+    [
+     "Karim",
+     "كريم"
+    ]
    ]
   },
   {
    "q": "What does the Arabic name 'Jamila' mean?",
    "a": "Beautiful",
    "p": 200,
-   "ar": "جميلة",
    "alt": [
     "Pretty",
     "Lovely"
+   ],
+   "qar": [
+    [
+     "Jamila",
+     "جميلة"
+    ]
    ]
   },
   {
    "q": "What does the Arabic title 'Emir' (Amir) mean?",
    "a": "Prince",
    "p": 200,
-   "ar": "أمير",
    "alt": [
     "Commander",
     "Ruler"
+   ],
+   "qar": [
+    [
+     "Emir",
+     "أمير"
+    ]
    ]
   },
   {
    "q": "Which day of the week is 'Al-Jumu'a' in Arabic?",
    "a": "Friday",
    "p": 200,
-   "ar": "الجمعة"
+   "qar": [
+    [
+     "Al-Jumu'a",
+     "الجمعة"
+    ]
+   ]
   },
   {
    "q": "Which letter ends the Arabic alphabet?",
@@ -1473,7 +1810,6 @@
    "q": "How many dots sit above the Arabic letter ث?",
    "a": "Three",
    "p": 400,
-   "ar": "3",
    "alt": [
     "3"
    ]
@@ -1482,7 +1818,6 @@
    "q": "At most, how many different positional shapes can a single Arabic letter take?",
    "a": "Four",
    "p": 400,
-   "ar": "4",
    "alt": [
     "4"
    ]
@@ -1491,7 +1826,6 @@
    "q": "Which Eastern Arabic digit is written as a simple dot (٠)?",
    "a": "0",
    "p": 400,
-   "ar": "0",
    "alt": [
     "Zero"
    ]
@@ -1500,7 +1834,6 @@
    "q": "Which Eastern Arabic digit is written like a small circle (٥)?",
    "a": "5",
    "p": 400,
-   "ar": "5",
    "alt": [
     "Five"
    ]
@@ -1509,7 +1842,6 @@
    "q": "Which Eastern Arabic digit looks like an upside-down V (٨)?",
    "a": "8",
    "p": 400,
-   "ar": "8",
    "alt": [
     "Eight"
    ]
@@ -1518,7 +1850,6 @@
    "q": "In 'Arabizi' chat writing, which digit stands for the letter ع?",
    "a": "3",
    "p": 400,
-   "ar": "3",
    "alt": [
     "Three"
    ]
@@ -1527,7 +1858,6 @@
    "q": "In 'Arabizi' chat writing, which digit stands for the letter ح?",
    "a": "7",
    "p": 400,
-   "ar": "7",
    "alt": [
     "Seven"
    ]
@@ -1544,7 +1874,6 @@
    "q": "Arabic belongs to which language family, along with Hebrew and Amharic?",
    "a": "Semitic",
    "p": 400,
-   "ar": "السامية",
    "alt": [
     "Semitic languages",
     "Afro-Asiatic"
@@ -1554,7 +1883,6 @@
    "q": "Which official language of an EU island nation descends from Arabic and is written in Latin letters?",
    "a": "Maltese",
    "p": 400,
-   "ar": "المالطية",
    "alt": [
     "Malti"
    ]
@@ -1563,7 +1891,6 @@
    "q": "Which European language absorbed thousands of Arabic words during centuries of Moorish rule?",
    "a": "Spanish",
    "p": 400,
-   "ar": "الإسبانية",
    "alt": [
     "Castilian"
    ]
@@ -1601,10 +1928,23 @@
    "q": "Kitab, maktab and katib all share an Arabic root meaning what?",
    "a": "To write",
    "p": 400,
-   "ar": "كتب",
    "alt": [
     "Write",
     "Writing"
+   ],
+   "qar": [
+    [
+     "Kitab",
+     "كتاب"
+    ],
+    [
+     "maktab",
+     "مكتب"
+    ],
+    [
+     "katib",
+     "كاتب"
+    ]
    ]
   },
   {
@@ -1684,111 +2024,172 @@
     "Antara",
     "Antar",
     "Antarah ibn Shaddad"
+   ],
+   "qar": [
+    [
+     "Abla",
+     "عبلة"
+    ]
    ]
   },
   {
    "q": "What does the Arabic word 'Dawla', as in the UAE's official Arabic name, mean?",
    "a": "State",
    "p": 400,
-   "ar": "دولة",
    "alt": [
     "Country",
     "Nation"
+   ],
+   "qar": [
+    [
+     "Dawla",
+     "دولة"
+    ]
    ]
   },
   {
    "q": "What does the title 'Sheikh' literally mean?",
    "a": "Elder",
    "p": 400,
-   "ar": "شيخ",
    "alt": [
     "Old man",
     "Chief"
+   ],
+   "qar": [
+    [
+     "Sheikh",
+     "شيخ"
+    ]
    ]
   },
   {
    "q": "What does the Arabic word 'lulu' mean?",
    "a": "Pearl",
    "p": 400,
-   "ar": "لؤلؤ",
    "alt": [
     "Pearls"
+   ],
+   "qar": [
+    [
+     "lulu",
+     "لؤلؤ"
+    ]
    ]
   },
   {
    "q": "What does the Arabic name 'Fahd' mean?",
    "a": "Leopard",
    "p": 400,
-   "ar": "فهد",
    "alt": [
     "Panther",
     "Cheetah"
+   ],
+   "qar": [
+    [
+     "Fahd",
+     "فهد"
+    ]
    ]
   },
   {
    "q": "What does the Arabic name 'Badr' mean?",
    "a": "Full moon",
    "p": 400,
-   "ar": "بدر"
+   "qar": [
+    [
+     "Badr",
+     "بدر"
+    ]
+   ]
   },
   {
    "q": "What does the Arabic name 'Hilal' mean?",
    "a": "Crescent moon",
    "p": 400,
-   "ar": "هلال",
    "alt": [
     "Crescent",
     "New moon"
+   ],
+   "qar": [
+    [
+     "Hilal",
+     "هلال"
+    ]
    ]
   },
   {
    "q": "What does the Arabic name 'Faris' mean?",
    "a": "Knight",
    "p": 400,
-   "ar": "فارس",
    "alt": [
     "Horseman",
     "Rider"
+   ],
+   "qar": [
+    [
+     "Faris",
+     "فارس"
+    ]
    ]
   },
   {
    "q": "What does the Arabic name 'Reem' mean?",
    "a": "White gazelle",
    "p": 400,
-   "ar": "ريم",
    "alt": [
     "Gazelle"
+   ],
+   "qar": [
+    [
+     "Reem",
+     "ريم"
+    ]
    ]
   },
   {
    "q": "What does the Arabic name 'Layla' mean?",
    "a": "Night",
    "p": 400,
-   "ar": "ليلى",
    "alt": [
     "Of the night",
     "Dark beauty"
+   ],
+   "qar": [
+    [
+     "Layla",
+     "ليلى"
+    ]
    ]
   },
   {
    "q": "The name Riyadh comes from an Arabic word meaning what?",
    "a": "Gardens",
    "p": 400,
-   "ar": "رياض",
    "alt": [
     "Meadows",
     "Garden"
+   ],
+   "qar": [
+    [
+     "Riyadh",
+     "الرياض"
+    ]
    ]
   },
   {
    "q": "The name Sharjah comes from an Arabic word meaning what?",
    "a": "Eastern",
    "p": 400,
-   "ar": "الشارقة",
    "alt": [
     "East",
     "The eastern one",
     "Rising sun"
+   ],
+   "qar": [
+    [
+     "Sharjah",
+     "الشارقة"
+    ]
    ]
   },
   {
@@ -1879,80 +2280,120 @@
    "q": "Which day of the week is 'Al-Sabt' in Arabic?",
    "a": "Saturday",
    "p": 400,
-   "ar": "السبت"
+   "qar": [
+    [
+     "Al-Sabt",
+     "السبت"
+    ]
+   ]
   },
   {
    "q": "Al-Ahad, the Arabic name for Sunday, literally means which number?",
    "a": "One",
    "p": 400,
-   "ar": "أحد",
    "alt": [
     "First",
     "1"
+   ],
+   "qar": [
+    [
+     "Al-Ahad",
+     "الأحد"
+    ]
    ]
   },
   {
    "q": "What does the Arabic word 'mumtaz' mean?",
    "a": "Excellent",
    "p": 400,
-   "ar": "ممتاز",
    "alt": [
     "Great",
     "Superb"
+   ],
+   "qar": [
+    [
+     "mumtaz",
+     "ممتاز"
+    ]
    ]
   },
   {
    "q": "What does the Arabic word 'tafaddal' invite someone to do?",
    "a": "Go ahead",
    "p": 400,
-   "ar": "تفضل",
    "alt": [
     "Please",
     "Help yourself",
     "Come in"
+   ],
+   "qar": [
+    [
+     "tafaddal",
+     "تفضل"
+    ]
    ]
   },
   {
    "q": "What does the Arabic question 'bikam?' ask?",
    "a": "How much?",
    "p": 400,
-   "ar": "بكم",
    "alt": [
     "How much",
     "How much is it",
     "What price"
+   ],
+   "qar": [
+    [
+     "bikam",
+     "بكم"
+    ]
    ]
   },
   {
    "q": "What does the Arabic word 'ba'dain' mean?",
    "a": "Later",
    "p": 400,
-   "ar": "بعدين",
    "alt": [
     "Afterwards",
     "After"
+   ],
+   "qar": [
+    [
+     "ba'dain",
+     "بعدين"
+    ]
    ]
   },
   {
    "q": "In Gulf Arabic, what does 'zain' mean?",
    "a": "Good",
    "p": 400,
-   "ar": "زين",
    "alt": [
     "Fine",
     "Nice",
     "Beautiful"
+   ],
+   "qar": [
+    [
+     "zain",
+     "زين"
+    ]
    ]
   },
   {
    "q": "In Egyptian Arabic, what does 'ma'lesh' mean?",
    "a": "Never mind",
    "p": 400,
-   "ar": "معلش",
    "alt": [
     "Sorry",
     "It's okay",
     "No worries"
+   ],
+   "qar": [
+    [
+     "ma'lesh",
+     "معلش"
+    ]
    ]
   },
   {
@@ -1961,6 +2402,12 @@
    "p": 400,
    "alt": [
     "The lute"
+   ],
+   "qar": [
+    [
+     "al-'ud",
+     "العود"
+    ]
    ]
   },
   {
@@ -1969,31 +2416,57 @@
    "p": 400,
    "alt": [
     "Sorbet"
+   ],
+   "qar": [
+    [
+     "sharba",
+     "شربة"
+    ]
    ]
   },
   {
    "q": "Which sour brown pod fruit's English name comes from Arabic 'tamr hindi', meaning 'Indian date'?",
    "a": "Tamarind",
    "p": 400,
-   "ar": "تمر هندي"
+   "qar": [
+    [
+     "tamr hindi",
+     "تمر هندي"
+    ]
+   ]
   },
   {
    "q": "Which costly red-orange spice's English name comes from Arabic 'za'faran'?",
    "a": "Saffron",
    "p": 400,
-   "ar": "زعفران"
+   "qar": [
+    [
+     "za'faran",
+     "زعفران"
+    ]
+   ]
   },
   {
    "q": "Which graceful antelope's English name comes from Arabic 'ghazal'?",
    "a": "Gazelle",
    "p": 400,
-   "ar": "غزال"
+   "qar": [
+    [
+     "ghazal",
+     "غزال"
+    ]
+   ]
   },
   {
    "q": "Which English word for a grave-robbing monster of folklore comes from Arabic 'ghul'?",
    "a": "Ghoul",
    "p": 400,
-   "ar": "غول"
+   "qar": [
+    [
+     "ghul",
+     "غول"
+    ]
+   ]
   },
   {
    "q": "Which word for the Arabic alphabet comes from the old order of its first four letters?",
@@ -2038,7 +2511,6 @@
    "q": "How many of the 28 Arabic letters are 'sun letters'?",
    "a": "14",
    "p": 600,
-   "ar": "14",
    "alt": [
     "Fourteen"
    ]
@@ -2047,7 +2519,6 @@
    "q": "How many of the 28 Arabic letters are written with dots?",
    "a": "15",
    "p": 600,
-   "ar": "15",
    "alt": [
     "Fifteen"
    ]
@@ -2060,13 +2531,18 @@
    "alt": [
     "Maghribi",
     "Maghrebi script"
+   ],
+   "qar": [
+    [
+     "Al-Andalus",
+     "الأندلس"
+    ]
    ]
   },
   {
    "q": "In which year was Arabic calligraphy inscribed on UNESCO's intangible cultural heritage list?",
    "a": "2021",
-   "p": 600,
-   "ar": "2021"
+   "p": 600
   },
   {
    "q": "What is the Arabic term for the subject of a verbal sentence, the doer of the action?",
@@ -2085,6 +2561,12 @@
    "ar": "خبر",
    "alt": [
     "Khabr"
+   ],
+   "qar": [
+    [
+     "mubtada",
+     "مبتدأ"
+    ]
    ]
   },
   {
@@ -2113,11 +2595,24 @@
    "q": "The words madrasa, dars and mudarris share an Arabic root meaning what?",
    "a": "To study",
    "p": 600,
-   "ar": "درس",
    "alt": [
     "Study",
     "Studying",
     "To learn"
+   ],
+   "qar": [
+    [
+     "madrasa",
+     "مدرسة"
+    ],
+    [
+     "dars",
+     "درس"
+    ],
+    [
+     "mudarris",
+     "مدرس"
+    ]
    ]
   },
   {
@@ -2130,45 +2625,65 @@
    "q": "Which Arabic word for 'office' or 'desk' shares the root of 'kitab'?",
    "a": "Maktab",
    "p": 600,
-   "ar": "مكتب"
+   "ar": "مكتب",
+   "qar": [
+    [
+     "kitab",
+     "كتاب"
+    ]
+   ]
   },
   {
    "q": "Al-Khamis, the Arabic name for Thursday, literally means what?",
    "a": "Fifth",
    "p": 600,
-   "ar": "الخميس",
    "alt": [
     "The fifth",
     "Five"
+   ],
+   "qar": [
+    [
+     "Al-Khamis",
+     "الخميس"
+    ]
    ]
   },
   {
    "q": "The name Umm Al Quwain is usually translated as 'mother of the two' what?",
    "a": "Powers",
    "p": 600,
-   "ar": "أم القيوين",
    "alt": [
     "Two powers",
     "Forces",
     "Strengths"
+   ],
+   "qar": [
+    [
+     "Umm Al Quwain",
+     "أم القيوين"
+    ]
    ]
   },
   {
    "q": "The name Kuwait is a diminutive of an Arabic word meaning what?",
    "a": "Fort",
    "p": 600,
-   "ar": "الكويت",
    "alt": [
     "Fortress",
     "Little fort",
     "Castle"
+   ],
+   "qar": [
+    [
+     "Kuwait",
+     "الكويت"
+    ]
    ]
   },
   {
    "q": "Swahili's name comes from an Arabic word meaning what?",
    "a": "Coasts",
    "p": 600,
-   "ar": "سواحل",
    "alt": [
     "Coast",
     "Shores",
@@ -2178,8 +2693,7 @@
   {
    "q": "In which year did Turkey replace the Arabic script with Latin letters for Turkish?",
    "a": "1928",
-   "p": 600,
-   "ar": "1928"
+   "p": 600
   },
   {
    "q": "Which pre-Islamic poet, called 'the wandering king', wrote the most celebrated of the hanging odes?",
@@ -2201,15 +2715,26 @@
     "Aroud",
     "'Arud",
     "Prosody"
+   ],
+   "qar": [
+    [
+     "Al-Khalil ibn Ahmad",
+     "الخليل بن أحمد"
+    ]
    ]
   },
   {
    "q": "How many poetic metres did Al-Khalil ibn Ahmad identify?",
    "a": "15",
    "p": 600,
-   "ar": "15",
    "alt": [
     "Fifteen"
+   ],
+   "qar": [
+    [
+     "Al-Khalil ibn Ahmad",
+     "الخليل بن أحمد"
+    ]
    ]
   },
   {
@@ -2230,13 +2755,18 @@
    "alt": [
     "Ibn al-Muqaffa'",
     "Ibn Muqaffa"
+   ],
+   "qar": [
+    [
+     "Kalila wa Dimna",
+     "كليلة ودمنة"
+    ]
    ]
   },
   {
    "q": "In 'Arabizi' chat writing, which digit stands for the hamza (ء)?",
    "a": "2",
    "p": 600,
-   "ar": "2",
    "alt": [
     "Two"
    ]
@@ -2245,76 +2775,126 @@
    "q": "Which English word for 500 sheets of paper comes from Arabic 'rizma', meaning a bundle?",
    "a": "Ream",
    "p": 600,
-   "ar": "رزمة"
+   "qar": [
+    [
+     "rizma",
+     "رزمة"
+    ]
+   ]
   },
   {
    "q": "Which English word for a weapons store or naval dockyard comes from Arabic 'dar al-sina'a', house of manufacture?",
    "a": "Arsenal",
    "p": 600,
-   "ar": "دار الصناعة"
+   "qar": [
+    [
+     "dar al-sina'a",
+     "دار الصناعة"
+    ]
+   ]
   },
   {
    "q": "Which English word for a glass bottle for water or wine comes from Arabic 'gharrafa'?",
    "a": "Carafe",
    "p": 600,
-   "ar": "غرافة"
+   "qar": [
+    [
+     "gharrafa",
+     "غرافة"
+    ]
+   ]
   },
   {
    "q": "Which English word for a deep red colour comes from Arabic 'qirmiz'?",
    "a": "Crimson",
    "p": 600,
-   "ar": "قرمز",
    "alt": [
     "Carmine"
+   ],
+   "qar": [
+    [
+     "qirmiz",
+     "قرمز"
+    ]
    ]
   },
   {
    "q": "Which English word for a recess in a room's wall comes from Arabic 'al-qubba', the vault?",
    "a": "Alcove",
    "p": 600,
-   "ar": "القبة"
+   "qar": [
+    [
+     "al-qubba",
+     "القبة"
+    ]
+   ]
   },
   {
    "q": "Which purple vegetable's English name 'aubergine' traces to Arabic 'al-badhinjan'?",
    "a": "Aubergine",
    "p": 600,
-   "ar": "باذنجان",
    "alt": [
     "Eggplant",
     "Brinjal"
+   ],
+   "qar": [
+    [
+     "al-badhinjan",
+     "الباذنجان"
+    ]
    ]
   },
   {
    "q": "Which thistle-like vegetable's English name comes from Arabic 'al-kharshuf'?",
    "a": "Artichoke",
    "p": 600,
-   "ar": "خرشوف",
    "alt": [
     "Globe artichoke"
+   ],
+   "qar": [
+    [
+     "al-kharshuf",
+     "الخرشوف"
+    ]
    ]
   },
   {
    "q": "Which soft goat-hair fabric's English name comes from Arabic 'mukhayyar'?",
    "a": "Mohair",
    "p": 600,
-   "ar": "مخير"
+   "qar": [
+    [
+     "mukhayyar",
+     "مخيّر"
+    ]
+   ]
   },
   {
    "q": "Which English word for the diameter of a gun barrel comes, via Italian, from Arabic 'qalib', a mould?",
    "a": "Calibre",
    "p": 600,
-   "ar": "قالب",
    "alt": [
     "Caliber"
+   ],
+   "qar": [
+    [
+     "qalib",
+     "قالب"
+    ]
    ]
   },
   {
    "q": "Which English word for a thick sweet liquid comes from Arabic 'sharab', a drink?",
    "a": "Syrup",
    "p": 600,
-   "ar": "شراب",
    "alt": [
     "Sirup"
+   ],
+   "qar": [
+    [
+     "sharab",
+     "شراب"
+    ]
    ]
   },
   {

@@ -24,7 +24,13 @@
     "Tum",
     "Garlic sauce"
    ],
-   "apic": "Toum"
+   "apic": "Toum",
+   "qar": [
+    [
+     "shawarma",
+     "شاورما"
+    ]
+   ]
   },
   {
    "q": "Which fried chickpea patties give Operation Falafel its name?",
@@ -54,19 +60,30 @@
    "q": "Which canned dairy product makes karak chai creamy?",
    "a": "Evaporated milk",
    "p": 200,
-   "apic": "Evaporated milk"
+   "apic": "Evaporated milk",
+   "qar": [
+    [
+     "karak chai",
+     "شاي كرك"
+    ]
+   ]
   },
   {
    "q": "Which green-pod spice flavours karak chai?",
    "a": "Cardamom",
    "p": 200,
-   "ar": "هيل",
    "alt": [
     "Hail",
     "Heil",
     "Elaichi"
    ],
-   "apic": "Cardamom"
+   "apic": "Cardamom",
+   "qar": [
+    [
+     "karak chai",
+     "شاي كرك"
+    ]
+   ]
   },
   {
    "q": "Which Emirati dessert is made of sweet fried dough balls?",
@@ -84,13 +101,18 @@
    "q": "Which fruit syrup is drizzled over luqaimat?",
    "a": "Date syrup",
    "p": 200,
-   "ar": "دبس التمر",
    "alt": [
     "Dibs",
     "Dibs al tamr",
     "Date molasses"
    ],
-   "apic": "Date honey"
+   "apic": "Date honey",
+   "qar": [
+    [
+     "luqaimat",
+     "لقيمات"
+    ]
+   ]
   },
   {
    "q": "Which Canadian coffee and doughnut chain sells Timbits?",
@@ -166,7 +188,13 @@
     "Manaqish",
     "Mana'eesh"
    ],
-   "apic": "Manakish"
+   "apic": "Manakish",
+   "qar": [
+    [
+     "za'atar",
+     "زعتر"
+    ]
+   ]
   },
   {
    "q": "Which herb and sesame blend tops manakish?",
@@ -178,12 +206,24 @@
     "Zatar",
     "Zaater"
    ],
-   "apic": "Za'atar"
+   "apic": "Za'atar",
+   "qar": [
+    [
+     "manakish",
+     "مناقيش"
+    ]
+   ]
   },
   {
    "q": "What does Careem call its drivers?",
    "a": "Captains",
-   "p": 200
+   "p": 200,
+   "qar": [
+    [
+     "Careem",
+     "كريم"
+    ]
+   ]
   },
   {
    "q": "Which country's cuisine inspires Operation Falafel?",
@@ -196,7 +236,13 @@
    "q": "A Chips Oman sandwich is built around which snack?",
    "a": "Potato chips",
    "p": 200,
-   "apic": "Potato chip"
+   "apic": "Potato chip",
+   "qar": [
+    [
+     "Chips Oman",
+     "شيبس عمان"
+    ]
+   ]
   },
   {
    "q": "Which sesame paste sauce is served with falafel?",
@@ -215,7 +261,6 @@
    "q": "Which dried fruit is traditionally served with Arabic coffee?",
    "a": "Dates",
    "p": 200,
-   "ar": "التمر",
    "alt": [
     "Tamr",
     "Tamar"
@@ -226,7 +271,13 @@
    "q": "Which flaky South Asian bread is often served with karak?",
    "a": "Paratha",
    "p": 200,
-   "apic": "Paratha"
+   "apic": "Paratha",
+   "qar": [
+    [
+     "karak",
+     "كرك"
+    ]
+   ]
   },
   {
    "q": "Which UAE burger brand is named after a brined cucumber?",
@@ -267,12 +318,24 @@
     "Hommos",
     "Hommus"
    ],
-   "apic": "Hummus"
+   "apic": "Hummus",
+   "qar": [
+    [
+     "shawarma",
+     "شاورما"
+    ]
+   ]
   },
   {
    "q": "What do residents call small, cheap eateries famous for karak?",
    "a": "Cafeterias",
-   "p": 200
+   "p": 200,
+   "qar": [
+    [
+     "karak",
+     "كرك"
+    ]
+   ]
   },
   {
    "q": "Which fried chicken chain is known for the Zinger burger?",
@@ -315,7 +378,13 @@
     "Jedda",
     "Jidda"
    ],
-   "apic": "Jeddah"
+   "apic": "Jeddah",
+   "qar": [
+    [
+     "Al Baik",
+     "البيك"
+    ]
+   ]
   },
   {
    "q": "Which country did Jollibee originate in?",
@@ -394,25 +463,48 @@
    "a": "Kuwait",
    "p": 400,
    "ar": "الكويت",
-   "apic": "Kuwait"
+   "apic": "Kuwait",
+   "qar": [
+    [
+     "Talabat",
+     "طلبات"
+    ]
+   ]
   },
   {
    "q": "Which German company owns Talabat?",
    "a": "Delivery Hero",
    "p": 400,
-   "apic": "Delivery Hero"
+   "apic": "Delivery Hero",
+   "qar": [
+    [
+     "Talabat",
+     "طلبات"
+    ]
+   ]
   },
   {
    "q": "Which company acquired Careem?",
    "a": "Uber",
    "p": 400,
-   "apic": "Uber"
+   "apic": "Uber",
+   "qar": [
+    [
+     "Careem",
+     "كريم"
+    ]
+   ]
   },
   {
    "q": "What does the name Careem mean in Arabic?",
    "a": "Generous",
    "p": 400,
-   "ar": "كريم"
+   "qar": [
+    [
+     "Careem",
+     "كريم"
+    ]
+   ]
   },
   {
    "q": "Which UAE city is Operation Falafel based in?",
@@ -424,13 +516,25 @@
   {
    "q": "What does \"farooj\" mean in Arabic?",
    "a": "Chicken",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "farooj",
+     "فروج"
+    ]
+   ]
   },
   {
    "q": "Al Farooj Fresh is best known for which dish?",
    "a": "Grilled chicken",
    "p": 400,
-   "apic": "Grilled chicken"
+   "apic": "Grilled chicken",
+   "qar": [
+    [
+     "Al Farooj Fresh",
+     "الفروج فريش"
+    ]
+   ]
   },
   {
    "q": "Which Dubai beach hosts the original Salt truck?",
@@ -441,19 +545,37 @@
   {
    "q": "Which dairy topping is classic in a Chips Oman sandwich?",
    "a": "Cheese",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "Chips Oman",
+     "شيبس عمان"
+    ]
+   ]
   },
   {
    "q": "What does the word karak mean?",
    "a": "Strong",
    "p": 400,
-   "pic": "Karak chai"
+   "pic": "Karak chai",
+   "qar": [
+    [
+     "karak",
+     "كرك"
+    ]
+   ]
   },
   {
    "q": "Which kind of tea is the base of karak chai?",
    "a": "Black tea",
    "p": 400,
-   "apic": "Black tea"
+   "apic": "Black tea",
+   "qar": [
+    [
+     "karak chai",
+     "شاي كرك"
+    ]
+   ]
   },
   {
    "q": "Which brined white cheese tops many cheese manakish?",
@@ -465,7 +587,13 @@
     "Ackawi",
     "Akkawi cheese"
    ],
-   "apic": "Akkawi"
+   "apic": "Akkawi",
+   "qar": [
+    [
+     "manakish",
+     "مناقيش"
+    ]
+   ]
   },
   {
    "q": "Egyptian falafel is traditionally made from which bean?",
@@ -477,13 +605,25 @@
    "q": "Luqaimat are often sprinkled with which seed?",
    "a": "Sesame",
    "p": 400,
-   "apic": "Sesame"
+   "apic": "Sesame",
+   "qar": [
+    [
+     "Luqaimat",
+     "لقيمات"
+    ]
+   ]
   },
   {
    "q": "Which pink pickled root is rolled into shawarma?",
    "a": "Turnip",
    "p": 400,
-   "apic": "Turnip"
+   "apic": "Turnip",
+   "qar": [
+    [
+     "shawarma",
+     "شاورما"
+    ]
+   ]
   },
   {
    "q": "Which grocery service is run by Talabat?",
@@ -500,12 +640,24 @@
   {
    "q": "What colour is Talabat's brand?",
    "a": "Orange",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "Talabat",
+     "طلبات"
+    ]
+   ]
   },
   {
    "q": "Which sauce is Al Baik most famous for?",
    "a": "Garlic sauce",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "Al Baik",
+     "البيك"
+    ]
+   ]
   },
   {
    "q": "Which Levantine fried pastry is stuffed with cheese or meat?",
@@ -554,26 +706,50 @@
     "Samoun",
     "Sammoun"
    ],
-   "apic": "Samoon"
+   "apic": "Samoon",
+   "qar": [
+    [
+     "Chips Oman",
+     "شيبس عمان"
+    ]
+   ]
   },
   {
    "q": "Shawarma comes from a Turkish word meaning what?",
    "a": "Turning",
    "p": 600,
-   "pic": "Shawarma"
+   "pic": "Shawarma",
+   "qar": [
+    [
+     "Shawarma",
+     "شاورما"
+    ]
+   ]
   },
   {
    "q": "Which city is Talabat headquartered in?",
    "a": "Dubai",
    "p": 600,
    "ar": "دبي",
-   "apic": "Dubai"
+   "apic": "Dubai",
+   "qar": [
+    [
+     "Talabat",
+     "طلبات"
+    ]
+   ]
   },
   {
    "q": "On which exchange is Talabat listed?",
    "a": "Dubai Financial Market",
    "p": 600,
-   "apic": "Dubai Financial Market"
+   "apic": "Dubai Financial Market",
+   "qar": [
+    [
+     "Talabat",
+     "طلبات"
+    ]
+   ]
   },
   {
    "q": "Who co-founded Careem and served as its CEO?",
@@ -583,12 +759,24 @@
    "alt": [
     "Mudassir Shaikha",
     "Muddassir Sheikha"
+   ],
+   "qar": [
+    [
+     "Careem",
+     "كريم"
+    ]
    ]
   },
   {
    "q": "Which Swedish entrepreneur co-founded Careem?",
    "a": "Magnus Olsson",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Careem",
+     "كريم"
+    ]
+   ]
   },
   {
    "q": "Who founded Pickl?",
@@ -649,6 +837,12 @@
    "alt": [
     "Shakour Abu Ghazaleh",
     "Shakoor Abu Ghazaleh"
+   ],
+   "qar": [
+    [
+     "Al Baik",
+     "البيك"
+    ]
    ]
   },
   {
@@ -661,7 +855,13 @@
    "q": "Karak chai arrived with migrants from which region?",
    "a": "South Asia",
    "p": 600,
-   "apic": "South Asia"
+   "apic": "South Asia",
+   "qar": [
+    [
+     "Karak chai",
+     "شاي كرك"
+    ]
+   ]
   },
   {
    "q": "What is the singular of manakish?",
@@ -673,13 +873,25 @@
     "Manoushe",
     "Manousha"
    ],
-   "pic": "Manakish"
+   "pic": "Manakish",
+   "qar": [
+    [
+     "manakish",
+     "مناقيش"
+    ]
+   ]
   },
   {
    "q": "What does luqaimat mean in Arabic?",
    "a": "Little morsels",
    "p": 600,
-   "pic": "Luqaimat"
+   "pic": "Luqaimat",
+   "qar": [
+    [
+     "luqaimat",
+     "لقيمات"
+    ]
+   ]
   },
   {
    "q": "What is falafel called in Egypt?",
@@ -702,7 +914,13 @@
     "Saj bread",
     "Markook"
    ],
-   "apic": "Saj bread"
+   "apic": "Saj bread",
+   "qar": [
+    [
+     "shawarma",
+     "شاورما"
+    ]
+   ]
   },
   {
    "q": "Which city is Delivery Hero headquartered in?",
@@ -731,7 +949,6 @@
    "q": "Which Gulf group operates Hardee's across the region?",
    "a": "Americana",
    "p": 600,
-   "ar": "أمريكانا",
    "alt": [
     "Americana Group",
     "Americana Restaurants"
@@ -871,7 +1088,7 @@
    "q": "Which Lebanese chain's name means 'thyme and olive oil'?",
    "a": "Zaatar w Zeit",
    "p": 200,
-   "ar": "زعتر و زيت",
+   "ar": "زعتر وزيت",
    "alt": [
     "Zaatar w Zaid",
     "Za'atar w Zeit"
@@ -909,22 +1126,32 @@
    "q": "What are shish tawook skewers made of?",
    "a": "Chicken",
    "p": 200,
-   "ar": "شيش طاووق",
    "alt": [
     "Marinated chicken",
     "Chicken breast"
    ],
-   "apic": "Shish taouk"
+   "apic": "Shish taouk",
+   "qar": [
+    [
+     "shish tawook",
+     "شيش طاووق"
+    ]
+   ]
   },
   {
    "q": "Which spice, besides cardamom, gives 'zafran' tea its golden colour?",
    "a": "Saffron",
    "p": 200,
-   "ar": "زعفران",
    "alt": [
     "Zafran"
    ],
-   "apic": "Saffron"
+   "apic": "Saffron",
+   "qar": [
+    [
+     "zafran",
+     "زعفران"
+    ]
+   ]
   },
   {
    "q": "Which Dubai-made chocolate bar filled with pistachio and kunafa went viral on TikTok in 2024?",
@@ -935,7 +1162,13 @@
     "Dubai chocolate bar",
     "Can't Get Knafeh of It"
    ],
-   "apic": "Dubai chocolate"
+   "apic": "Dubai chocolate",
+   "qar": [
+    [
+     "kunafa",
+     "كنافة"
+    ]
+   ]
   },
   {
    "q": "What is the Burger King mascot, a smiling man in a crown, called?",
@@ -1141,23 +1374,26 @@
    "q": "Which Saudi burger chain shares its name with an African antelope?",
    "a": "Kudu",
    "p": 400,
-   "ar": "كودو",
    "apic": "Kudu (restaurant)"
   },
   {
    "q": "Which McDonald's chicken sandwich in Arabic flatbread was created for the Middle East?",
    "a": "McArabia",
    "p": 400,
-   "ar": "ماك أرابيا",
    "apic": "McArabia"
   },
   {
    "q": "The word tawook comes from the Turkish word for which bird?",
    "a": "Chicken",
    "p": 400,
-   "ar": "طاووق",
    "alt": [
     "Tavuk"
+   ],
+   "qar": [
+    [
+     "tawook",
+     "طاووق"
+    ]
    ]
   },
   {
@@ -1169,16 +1405,27 @@
     "Malak Al Tawouk",
     "Malak Tawook"
    ],
-   "apic": "Malak Al Tawook"
+   "apic": "Malak Al Tawook",
+   "qar": [
+    [
+     "tawook",
+     "طاووق"
+    ]
+   ]
   },
   {
    "q": "Which Pakistani restaurant opened in Satwa in 1978 and became a Dubai institution?",
    "a": "Ravi Restaurant",
    "p": 400,
-   "ar": "مطعم رافي",
    "alt": [
     "Ravi",
     "Ravi's"
+   ],
+   "qar": [
+    [
+     "Satwa",
+     "السطوة"
+    ]
    ]
   },
   {
@@ -1188,6 +1435,12 @@
    "alt": [
     "Filli",
     "FiLLi"
+   ],
+   "qar": [
+    [
+     "Zafran",
+     "زعفران"
+    ]
    ]
   },
   {
@@ -1207,6 +1460,16 @@
    "alt": [
     "Cut into pieces",
     "Sliced and served on a plate"
+   ],
+   "qar": [
+    [
+     "Arabi",
+     "عربي"
+    ],
+    [
+     "shawarma",
+     "شاورما"
+    ]
    ]
   },
   {
@@ -1413,12 +1676,24 @@
    "a": "Herfy",
    "p": 600,
    "ar": "هرفي",
-   "apic": "Herfy"
+   "apic": "Herfy",
+   "qar": [
+    [
+     "Riyadh",
+     "الرياض"
+    ]
+   ]
   },
   {
    "q": "In which year was Talabat founded?",
    "a": "2004",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Talabat",
+     "طلبات"
+    ]
+   ]
   },
   {
    "q": "What was the name of the first Dubai chocolate bar, launched by Fix in 2022?",
@@ -1471,7 +1746,13 @@
     "Doner",
     "Doner kebap"
    ],
-   "apic": "Doner kebab"
+   "apic": "Doner kebab",
+   "qar": [
+    [
+     "shawarma",
+     "شاورما"
+    ]
+   ]
   },
   {
    "q": "Which thin, crispy South Indian rice-and-lentil crepe is a UAE cafeteria staple?",

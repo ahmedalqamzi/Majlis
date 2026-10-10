@@ -24,14 +24,12 @@
   {
    "q": "Ajman's most popular seafront promenade, lined with cafes and hotels, is called the Ajman what?",
    "a": "Corniche",
-   "p": 200,
-   "ar": "كورنيش"
+   "p": 200
   },
   {
    "q": "The Ajman Museum is housed inside which type of historic building?",
    "a": "Fort",
    "p": 200,
-   "ar": "حصن",
    "alt": [
     "Fortress",
     "Castle",
@@ -49,7 +47,6 @@
    "q": "Ajman's old shipyard is famous for building which traditional wooden vessels?",
    "a": "Dhows",
    "p": 200,
-   "ar": "داو",
    "alt": [
     "Dhow",
     "Wooden boats"
@@ -81,7 +78,6 @@
    "q": "Which tall pink wading bird is a winter visitor to the lagoons near Ajman and Umm Al Quwain?",
    "a": "Flamingo",
    "p": 200,
-   "ar": "النحام",
    "alt": [
     "Flamingos",
     "Greater flamingo"
@@ -92,7 +88,6 @@
    "q": "Ajman and Umm Al Quwain both have their coastline on which gulf?",
    "a": "Arabian Gulf",
    "p": 200,
-   "ar": "الخليج العربي",
    "alt": [
     "Persian Gulf",
     "The Gulf",
@@ -120,7 +115,6 @@
    "q": "Which shelled sea creature produced the pearls that once drove the economy of the coastal emirates?",
    "a": "Oyster",
    "p": 200,
-   "ar": "محار",
    "alt": [
     "Pearl oyster",
     "Oysters"
@@ -152,7 +146,6 @@
    "q": "The old fort in Umm Al Quwain now houses what kind of attraction?",
    "a": "Museum",
    "p": 200,
-   "ar": "متحف",
    "alt": [
     "National museum"
    ]
@@ -176,7 +169,13 @@
     "Al Hajar",
     "Hajar range"
    ],
-   "apic": "Hajar Mountains"
+   "apic": "Hajar Mountains",
+   "qar": [
+    [
+     "Masfout",
+     "مصفوت"
+    ]
+   ]
   },
   {
    "q": "Masfout lies close to the border with which neighbouring country?",
@@ -192,17 +191,28 @@
    "q": "Al Zorah, a nature reserve and resort area in Ajman, is home to a championship course for which sport?",
    "a": "Golf",
    "p": 200,
-   "apic": "Golf"
+   "apic": "Golf",
+   "qar": [
+    [
+     "Al Zorah",
+     "الزوراء"
+    ]
+   ]
   },
   {
    "q": "Traditional coastal homes called barasti were built mainly from what material?",
    "a": "Palm fronds",
    "p": 200,
-   "ar": "سعف النخيل",
    "alt": [
     "Palm leaves",
     "Date palm fronds",
     "Palm branches"
+   ],
+   "qar": [
+    [
+     "barasti",
+     "برستي"
+    ]
    ]
   },
   {
@@ -224,7 +234,6 @@
    "q": "What does 'Umm' mean in Arabic, as in Umm Al Quwain?",
    "a": "Mother",
    "p": 200,
-   "ar": "أم",
    "alt": [
     "Mum",
     "Mother of"
@@ -234,22 +243,31 @@
    "q": "What does the Arabic word 'qasr' mean?",
    "a": "Palace",
    "p": 200,
-   "ar": "قصر",
    "alt": [
     "Castle"
+   ],
+   "qar": [
+    [
+     "qasr",
+     "قصر"
+    ]
    ]
   },
   {
    "q": "What does the Arabic word 'burj' mean?",
    "a": "Tower",
    "p": 200,
-   "ar": "برج"
+   "qar": [
+    [
+     "burj",
+     "برج"
+    ]
+   ]
   },
   {
    "q": "Umm Al Quwain is known for its busy waterfront market selling the daily catch. What is it?",
    "a": "Fish market",
    "p": 200,
-   "ar": "سوق السمك",
    "alt": [
     "Fish souq",
     "Fish souk"
@@ -259,7 +277,6 @@
    "q": "The sheltered inlet in Ajman where dhows and boats are moored is called Ajman what?",
    "a": "Creek",
    "p": 200,
-   "ar": "خور",
    "alt": [
     "Ajman Creek"
    ]
@@ -268,7 +285,6 @@
    "q": "Ajman, Umm Al Quwain, Sharjah, Ras Al Khaimah and Fujairah are collectively known as the what Emirates?",
    "a": "Northern Emirates",
    "p": 200,
-   "ar": "الإمارات الشمالية",
    "alt": [
     "Northern",
     "The Northern Emirates"
@@ -278,7 +294,6 @@
    "q": "After the pearl trade collapsed, which underground resource transformed the UAE's economy?",
    "a": "Oil",
    "p": 200,
-   "ar": "النفط",
    "alt": [
     "Petroleum",
     "Crude oil"
@@ -345,7 +360,13 @@
    "alt": [
     "Masfut"
    ],
-   "apic": "Masfout"
+   "apic": "Masfout",
+   "qar": [
+    [
+     "Hatta",
+     "حتا"
+    ]
+   ]
   },
   {
    "q": "Besides Masfout, what is Ajman's other inland exclave?",
@@ -354,6 +375,12 @@
    "ar": "المنامة",
    "alt": [
     "Al Manama"
+   ],
+   "qar": [
+    [
+     "Masfout",
+     "مصفوت"
+    ]
    ]
   },
   {
@@ -394,7 +421,13 @@
     "UAQ",
     "Umm Al Qaiwain"
    ],
-   "apic": "Umm Al Quwain"
+   "apic": "Umm Al Quwain",
+   "qar": [
+    [
+     "Sinniyah",
+     "السينية"
+    ]
+   ]
   },
   {
    "q": "The ancient Ed-Dur archaeological site lies in which emirate?",
@@ -405,7 +438,13 @@
     "UAQ",
     "Umm Al Qaiwain"
    ],
-   "apic": "Umm Al Quwain"
+   "apic": "Umm Al Quwain",
+   "qar": [
+    [
+     "Ed-Dur",
+     "الدور"
+    ]
+   ]
   },
   {
    "q": "What is the Arabic name for the traditional wind tower used to cool buildings?",
@@ -505,11 +544,16 @@
    "q": "Masfout's castle was originally built to guard travellers heading to Oman from whom?",
    "a": "Bandits",
    "p": 400,
-   "ar": "اللصوص",
    "alt": [
     "Robbers",
     "Raiders",
     "Highwaymen"
+   ],
+   "qar": [
+    [
+     "Masfout",
+     "مصفوت"
+    ]
    ]
   },
   {
@@ -521,13 +565,18 @@
     "Na'im",
     "Bani Naim",
     "Al Naim"
+   ],
+   "qar": [
+    [
+     "Al Nuaimi",
+     "النعيمي"
+    ]
    ]
   },
   {
    "q": "Old forts such as Ajman's were built from stone quarried from what, found in the sea?",
    "a": "Coral",
    "p": 400,
-   "ar": "المرجان",
    "alt": [
     "Coral stone",
     "Coral rock"
@@ -570,7 +619,6 @@
    "q": "Ajman Stud, founded in 2002, breeds which famous horse breed?",
    "a": "Arabian",
    "p": 400,
-   "ar": "الخيل العربية",
    "alt": [
     "Arabian horse",
     "Arabian horses"
@@ -609,7 +657,6 @@
    "q": "What heavy object did pearl divers tie to a foot to sink quickly to the sea floor?",
    "a": "Stone",
    "p": 400,
-   "ar": "حجر",
    "alt": [
     "Rock",
     "Weight",
@@ -620,12 +667,17 @@
    "q": "Falaj Al Mualla, Umm Al Quwain's inland oasis, has a fort and a nearby track for which traditional sport?",
    "a": "Camel racing",
    "p": 400,
-   "ar": "سباق الهجن",
    "alt": [
     "Camel races",
     "Camel race"
    ],
-   "apic": "Camel racing"
+   "apic": "Camel racing",
+   "qar": [
+    [
+     "Falaj Al Mualla",
+     "فلج المعلا"
+    ]
+   ]
   },
   {
    "q": "What is the traditional Emirati group performance, listed by UNESCO, in which two rows of men face each other, swaying with canes?",
@@ -656,13 +708,24 @@
     "Nicklaus",
     "Nicklaus Design"
    ],
-   "apic": "Jack Nicklaus"
+   "apic": "Jack Nicklaus",
+   "qar": [
+    [
+     "Al Zorah",
+     "الزوراء"
+    ]
+   ]
   },
   {
    "q": "Which colour gives its name to the historic fort in Ajman's Manama exclave?",
    "a": "Red",
    "p": 400,
-   "ar": "الأحمر"
+   "qar": [
+    [
+     "Manama",
+     "المنامة"
+    ]
+   ]
   },
   {
    "q": "Which emirate is the second smallest by land area, after Ajman?",
@@ -730,7 +793,6 @@
    "q": "A firm from which country designed Dreamland Aqua Park?",
    "a": "Spain",
    "p": 600,
-   "ar": "إسبانيا",
    "alt": [
     "Spanish"
    ],
@@ -740,11 +802,16 @@
    "q": "The dhow type called the baghlah is named after which animal in Arabic?",
    "a": "Mule",
    "p": 600,
-   "ar": "بغلة",
    "alt": [
     "Baghla"
    ],
-   "apic": "Mule"
+   "apic": "Mule",
+   "qar": [
+    [
+     "baghlah",
+     "بغلة"
+    ]
+   ]
   },
   {
    "q": "Which Indian town in Kerala was historically a centre of dhow building?",
@@ -792,11 +859,16 @@
    "q": "Sinniyah Island hosts one of the world's largest colonies of which seabird?",
    "a": "Socotra cormorant",
    "p": 600,
-   "ar": "الغاق السقطري",
    "alt": [
     "Cormorant"
    ],
-   "apic": "Socotra cormorant"
+   "apic": "Socotra cormorant",
+   "qar": [
+    [
+     "Sinniyah",
+     "السينية"
+    ]
+   ]
   },
   {
    "q": "In 2023, officials announced Sinniyah Island held the oldest known what in the Gulf?",
@@ -806,16 +878,32 @@
     "Pearl fishing town",
     "Pearl town",
     "Pearling settlement"
+   ],
+   "qar": [
+    [
+     "Sinniyah",
+     "السينية"
+    ]
    ]
   },
   {
    "q": "The Al Mualla family belongs to which tribe, which originated in Nejd?",
    "a": "Al Ali",
    "p": 600,
-   "ar": "العلي",
+   "ar": "آل علي",
    "alt": [
     "Al Ali tribe",
     "Bani Ali"
+   ],
+   "qar": [
+    [
+     "Al Mualla",
+     "المعلا"
+    ],
+    [
+     "Nejd",
+     "نجد"
+    ]
    ]
   },
   {
@@ -826,6 +914,16 @@
     "Water shortage",
     "Freshwater ran out",
     "No fresh water"
+   ],
+   "qar": [
+    [
+     "Al Mualla",
+     "المعلا"
+    ],
+    [
+     "Sinniyah",
+     "السينية"
+    ]
    ]
   },
   {
@@ -834,6 +932,12 @@
    "p": 600,
    "alt": [
     "Ommana"
+   ],
+   "qar": [
+    [
+     "Ed-Dur",
+     "الدور"
+    ]
    ]
   },
   {
@@ -843,7 +947,13 @@
    "alt": [
     "Shamas"
    ],
-   "apic": "Shamash"
+   "apic": "Shamash",
+   "qar": [
+    [
+     "Ed-Dur",
+     "الدور"
+    ]
+   ]
   },
   {
    "q": "Ed-Dur was closely linked to which inland trading centre in Sharjah?",
@@ -854,7 +964,13 @@
     "Meliha",
     "Mleiha site"
    ],
-   "apic": "Mleiha"
+   "apic": "Mleiha",
+   "qar": [
+    [
+     "Ed-Dur",
+     "الدور"
+    ]
+   ]
   },
   {
    "q": "Ed-Dur overlooks which lagoon wetland, a recognised Important Bird Area?",
@@ -865,6 +981,12 @@
     "Khor Al Beida",
     "Khor Al Bidiyah",
     "Al Beidah lagoon"
+   ],
+   "qar": [
+    [
+     "Ed-Dur",
+     "الدور"
+    ]
    ]
   },
   {
@@ -891,6 +1013,12 @@
    "alt": [
     "Sheikh Rashid bin Majid Al Mualla",
     "Rashid bin Majid Al Mualla"
+   ],
+   "qar": [
+    [
+     "Al Mualla",
+     "المعلا"
+    ]
    ]
   },
   {
@@ -925,6 +1053,12 @@
    "p": 600,
    "alt": [
     "Kenny"
+   ],
+   "qar": [
+    [
+     "Manama",
+     "المنامة"
+    ]
    ]
   },
   {
@@ -936,7 +1070,13 @@
     "Sidra",
     "Ziziphus"
    ],
-   "apic": "Ziziphus spina-christi"
+   "apic": "Ziziphus spina-christi",
+   "qar": [
+    [
+     "Manama",
+     "المنامة"
+    ]
+   ]
   },
   {
    "q": "Ajman Fort was built from coral stone bound with which white mineral plaster?",
@@ -1033,7 +1173,7 @@
    "q": "Who became Ruler of Ajman in 1981?",
    "a": "Sheikh Humaid bin Rashid Al Nuaimi",
    "p": 400,
-   "ar": "حميد بن راشد النعيمي",
+   "ar": "الشيخ حميد بن راشد النعيمي",
    "alt": [
     "Humaid bin Rashid"
    ]
@@ -1042,7 +1182,7 @@
    "q": "Who became Ruler of Umm Al Quwain in January 2009?",
    "a": "Sheikh Saud bin Rashid Al Mualla",
    "p": 400,
-   "ar": "سعود بن راشد المعلا",
+   "ar": "الشيخ سعود بن راشد المعلا",
    "alt": [
     "Saud bin Rashid"
    ]
@@ -1051,7 +1191,7 @@
    "q": "Which Ajman crown prince founded Ajman Stud in 2002?",
    "a": "Sheikh Ammar bin Humaid Al Nuaimi",
    "p": 400,
-   "ar": "عمار بن حميد النعيمي",
+   "ar": "الشيخ عمار بن حميد النعيمي",
    "alt": [
     "Ammar bin Humaid"
    ]
@@ -1114,7 +1254,7 @@
    "q": "Who ruled Umm Al Quwain from 1981 until 2009?",
    "a": "Sheikh Rashid bin Ahmad Al Mualla",
    "p": 600,
-   "ar": "راشد بن أحمد المعلا",
+   "ar": "الشيخ راشد بن أحمد المعلا",
    "alt": [
     "Rashid bin Ahmad"
    ]
@@ -1130,7 +1270,17 @@
   {
    "q": "In which year did the Al Nuaimi family take control of Ajman, under Rashid bin Humaid?",
    "a": "1816",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Al Nuaimi",
+     "النعيمي"
+    ],
+    [
+     "Rashid bin Humaid",
+     "راشد بن حميد"
+    ]
+   ]
   },
   {
    "q": "At which Ras Al Khaimah fort did Ajman's ruler sign the General Maritime Treaty in March 1820?",
@@ -1163,13 +1313,25 @@
    "q": "Archaeologists from which country first identified the Ed-Dur site in 1973?",
    "a": "Iraq",
    "p": 600,
-   "apic": "Iraq"
+   "apic": "Iraq",
+   "qar": [
+    [
+     "Ed-Dur",
+     "الدور"
+    ]
+   ]
   },
   {
    "q": "Ed-Dur has the first recorded use in Arabia of window panes made of which stone?",
    "a": "Alabaster",
    "p": 600,
-   "apic": "Alabaster"
+   "apic": "Alabaster",
+   "qar": [
+    [
+     "Ed-Dur",
+     "الدور"
+    ]
+   ]
   },
   {
    "q": "Coins found at Ed-Dur and Mleiha carry the name of which pre-Islamic local ruler?",
@@ -1177,6 +1339,16 @@
    "p": 600,
    "alt": [
     "Abiel"
+   ],
+   "qar": [
+    [
+     "Ed-Dur",
+     "الدور"
+    ],
+    [
+     "Mleiha",
+     "مليحة"
+    ]
    ]
   },
   {
@@ -1186,7 +1358,13 @@
    "alt": [
     "Hercules"
    ],
-   "apic": "Heracles"
+   "apic": "Heracles",
+   "qar": [
+    [
+     "Ed-Dur",
+     "الدور"
+    ]
+   ]
   },
   {
    "q": "Which emirate borders Umm Al Quwain to the north-east?",

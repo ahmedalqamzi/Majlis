@@ -20,7 +20,6 @@
    "q": "Which country hosted the 2019 AFC Asian Cup?",
    "a": "UAE",
    "p": 200,
-   "ar": "الإمارات",
    "alt": [
     "United Arab Emirates"
    ],
@@ -30,7 +29,6 @@
    "q": "Which regional tournament for Gulf nations did the UAE win in 2007 and 2013?",
    "a": "Gulf Cup",
    "p": 200,
-   "ar": "كأس الخليج",
    "alt": [
     "Arabian Gulf Cup",
     "Gulf Cup of Nations"
@@ -54,7 +52,13 @@
     "Hernan Crespo",
     "Crespo"
    ],
-   "apic": "Hernán Crespo"
+   "apic": "Hernán Crespo",
+   "qar": [
+    [
+     "Al Ain",
+     "العين"
+    ]
+   ]
   },
   {
    "q": "Which Dubai club is nicknamed 'The Emperor'?",
@@ -74,7 +78,13 @@
     "Al Za'eem",
     "Zaeem"
    ],
-   "pic": "Al Ain FC"
+   "pic": "Al Ain FC",
+   "qar": [
+    [
+     "Al Ain FC",
+     "نادي العين"
+    ]
+   ]
   },
   {
    "q": "What is the UAE's main domestic knockout cup competition called?",
@@ -91,7 +101,13 @@
    "p": 200,
    "ar": "أبوظبي",
    "pic": "Al Ain FC",
-   "apic": "Abu Dhabi"
+   "apic": "Abu Dhabi",
+   "qar": [
+    [
+     "Al Ain FC",
+     "نادي العين"
+    ]
+   ]
   },
   {
    "q": "Which Emirati striker won the Golden Boot at the 2015 Asian Cup?",
@@ -134,13 +150,25 @@
    "q": "Which Abu Dhabi club played as the host side at the 2017 FIFA Club World Cup?",
    "a": "Al Jazira",
    "p": 400,
-   "ar": "الجزيرة"
+   "ar": "الجزيرة",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "Which Abu Dhabi club played as the host side at the 2010 FIFA Club World Cup?",
    "a": "Al Wahda",
    "p": 400,
-   "ar": "الوحدة"
+   "ar": "الوحدة",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "Which UAE club reached the 2018 Club World Cup final as the host's champions?",
@@ -156,7 +184,13 @@
    "alt": [
     "Ronaldo"
    ],
-   "apic": "Cristiano Ronaldo"
+   "apic": "Cristiano Ronaldo",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "Who scored Barcelona's extra-time winner in the 2009 Club World Cup final in Abu Dhabi?",
@@ -165,7 +199,13 @@
    "alt": [
     "Messi"
    ],
-   "apic": "Lionel Messi"
+   "apic": "Lionel Messi",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "Which Welsh winger was named the best player of the 2018 Club World Cup in the UAE?",
@@ -190,7 +230,13 @@
    "a": "ADNOC",
    "p": 200,
    "ar": "أدنوك",
-   "apic": "ADNOC"
+   "apic": "ADNOC",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "Which Dubai club has 'Al Fursan', meaning 'The Knights', as its nickname?",
@@ -199,6 +245,12 @@
    "ar": "شباب الأهلي",
    "alt": [
     "Al Ahli"
+   ],
+   "qar": [
+    [
+     "Al Fursan",
+     "الفرسان"
+    ]
    ]
   },
   {
@@ -214,7 +266,14 @@
    "alt": [
     "Rahimi"
    ],
-   "apic": "Soufiane Rahimi"
+   "apic": "Soufiane Rahimi",
+   "ar": "سفيان رحيمي",
+   "qar": [
+    [
+     "Al Ain",
+     "العين"
+    ]
+   ]
   },
   {
    "q": "Which Emirati striker scored the UAE's winner against Australia in the 2019 Asian Cup quarter-final?",
@@ -242,7 +301,13 @@
    "q": "Which English club did Al Ain's hero Asamoah Gyan join the club from, initially on loan?",
    "a": "Sunderland",
    "p": 400,
-   "apic": "Sunderland A.F.C."
+   "apic": "Sunderland A.F.C.",
+   "qar": [
+    [
+     "Al Ain",
+     "العين"
+    ]
+   ]
   },
   {
    "q": "Which Italian coach, a former Japan Asian Cup winner, led the UAE at the 2019 Asian Cup?",
@@ -258,7 +323,21 @@
    "a": "Dubai",
    "p": 200,
    "ar": "دبي",
-   "apic": "Dubai"
+   "apic": "Dubai",
+   "qar": [
+    [
+     "Al Wasl",
+     "الوصل"
+    ],
+    [
+     "Al Nasr",
+     "النصر"
+    ],
+    [
+     "Shabab Al Ahli",
+     "شباب الأهلي"
+    ]
+   ]
   },
   {
    "q": "Which Dutch coach led the UAE in 2022 World Cup qualifying?",
@@ -333,7 +412,13 @@
    "a": "Saudi Arabia",
    "p": 400,
    "ar": "السعودية",
-   "apic": "Saudi Arabia"
+   "apic": "Saudi Arabia",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "Which country knocked the UAE out of the 2023 Asian Cup on penalties in the last 16?",
@@ -344,7 +429,13 @@
   {
    "q": "Which Brazilian scored for Al Jazira against Real Madrid in the 2017 Club World Cup semi-final?",
    "a": "Romarinho",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "Al Jazira",
+     "الجزيرة"
+    ]
+   ]
   },
   {
    "q": "Which Japanese club did Al Jazira beat in the 2017 Club World Cup?",
@@ -354,13 +445,25 @@
     "Urawa Reds",
     "Urawa"
    ],
-   "apic": "Urawa Red Diamonds"
+   "apic": "Urawa Red Diamonds",
+   "qar": [
+    [
+     "Al Jazira",
+     "الجزيرة"
+    ]
+   ]
   },
   {
    "q": "Which New Zealand amateur club beat host side Al Ahli at the 2009 Club World Cup?",
    "a": "Auckland City",
    "p": 400,
-   "apic": "Auckland City FC"
+   "apic": "Auckland City FC",
+   "qar": [
+    [
+     "Al Ahli",
+     "الأهلي"
+    ]
+   ]
   },
   {
    "q": "Which Tunisian club did Al Ain beat at the 2018 Club World Cup?",
@@ -370,12 +473,24 @@
     "Esperance",
     "Espérance"
    ],
-   "apic": "Espérance Sportive de Tunis"
+   "apic": "Espérance Sportive de Tunis",
+   "qar": [
+    [
+     "Al Ain",
+     "العين"
+    ]
+   ]
   },
   {
    "q": "Which New Zealand side did Al Ain beat on penalties in the opening match of the 2018 Club World Cup?",
    "a": "Team Wellington",
-   "p": 400
+   "p": 400,
+   "qar": [
+    [
+     "Al Ain",
+     "العين"
+    ]
+   ]
   },
   {
    "q": "Which German forward scored Chelsea's winning penalty in the 2021 Club World Cup final in Abu Dhabi?",
@@ -384,7 +499,13 @@
    "alt": [
     "Havertz"
    ],
-   "apic": "Kai Havertz"
+   "apic": "Kai Havertz",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "Which country did the UAE lose to in the 2010 Asian Games football final?",
@@ -396,7 +517,13 @@
    "q": "Which Singapore club did Sharjah beat in the 2025 AFC Champions League Two final?",
    "a": "Lion City Sailors",
    "p": 400,
-   "apic": "Lion City Sailors FC"
+   "apic": "Lion City Sailors FC",
+   "qar": [
+    [
+     "Sharjah",
+     "الشارقة"
+    ]
+   ]
   },
   {
    "q": "Which Dubai club did Ahmed Khalil play for when he was named Asian Footballer of the Year in 2015?",
@@ -406,6 +533,12 @@
    "alt": [
     "Shabab Al Ahli",
     "Al Ahli Dubai"
+   ],
+   "qar": [
+    [
+     "Ahmed Khalil",
+     "أحمد خليل"
+    ]
    ]
   },
   {
@@ -421,7 +554,13 @@
    "q": "Which Dubai stadium is home to Shabab Al Ahli?",
    "a": "Rashid Stadium",
    "p": 400,
-   "ar": "استاد راشد"
+   "ar": "استاد راشد",
+   "qar": [
+    [
+     "Shabab Al Ahli",
+     "شباب الأهلي"
+    ]
+   ]
   },
   {
    "q": "What is Al Wahda's Arabic nickname, referring to its maroon colour?",
@@ -432,16 +571,27 @@
     "Annabi",
     "The Maroons",
     "The Clarets"
+   ],
+   "qar": [
+    [
+     "Al Wahda",
+     "الوحدة"
+    ]
    ]
   },
   {
    "q": "What is Al Wasl's second nickname, after a fast big cat?",
    "a": "The Cheetahs",
    "p": 400,
-   "ar": "الفهود",
    "alt": [
     "Al Fohood",
     "Cheetahs"
+   ],
+   "qar": [
+    [
+     "Al Wasl",
+     "الوصل"
+    ]
    ]
   },
   {
@@ -451,13 +601,25 @@
    "ar": "الزمالك",
    "alt": [
     "Zamalek"
+   ],
+   "qar": [
+    [
+     "Al Wasl",
+     "الوصل"
+    ]
    ]
   },
   {
    "q": "What colours did Al Ain FC originally wear when founded in 1968?",
    "a": "Green and white",
    "p": 600,
-   "pic": "Al Ain FC"
+   "pic": "Al Ain FC",
+   "qar": [
+    [
+     "Al Ain FC",
+     "نادي العين"
+    ]
+   ]
   },
   {
    "q": "Which Croatian coach led Al Ain to the 2018 Club World Cup final?",
@@ -467,7 +629,13 @@
     "Zoran Mamic",
     "Mamić"
    ],
-   "pic": "Al Ain FC"
+   "pic": "Al Ain FC",
+   "qar": [
+    [
+     "Al Ain",
+     "العين"
+    ]
+   ]
   },
   {
    "q": "Which Emirati was man of the match in Al Ain's 2018 Club World Cup semi-final win over River Plate?",
@@ -475,6 +643,13 @@
    "p": 400,
    "alt": [
     "Khalid Essa"
+   ],
+   "ar": "خالد عيسى",
+   "qar": [
+    [
+     "Al Ain",
+     "العين"
+    ]
    ]
   },
   {
@@ -484,6 +659,13 @@
    "alt": [
     "El Shahat",
     "Hussein El-Shahat"
+   ],
+   "ar": "حسين الشحات",
+   "qar": [
+    [
+     "Al Ain",
+     "العين"
+    ]
    ]
   },
   {
@@ -505,7 +687,13 @@
   {
    "q": "In which year did the UAE first host the Gulf Cup, in Abu Dhabi?",
    "a": "1982",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "What was the score of the UAE's win over Iraq in the 2015 Asian Cup third-place match?",
@@ -524,6 +712,13 @@
    "p": 600,
    "alt": [
     "Khalfan"
+   ],
+   "ar": "خلفان مبارك",
+   "qar": [
+    [
+     "Al Jazira",
+     "الجزيرة"
+    ]
    ]
   },
   {
@@ -533,7 +728,13 @@
    "alt": [
     "Berg"
    ],
-   "apic": "Marcus Berg"
+   "apic": "Marcus Berg",
+   "qar": [
+    [
+     "Al Ain",
+     "العين"
+    ]
+   ]
   },
   {
    "q": "Which two stadiums hosted the 2018 Club World Cup?",
@@ -541,7 +742,8 @@
    "p": 600,
    "alt": [
     "Zayed Sports City and Hazza bin Zayed"
-   ]
+   ],
+   "ar": "استاد مدينة زايد الرياضية واستاد هزاع بن زايد"
   },
   {
    "q": "Which Argentine scored Estudiantes' goal in the 2009 Club World Cup final?",
@@ -558,6 +760,17 @@
    "p": 600,
    "alt": [
     "Abu Dhabi and Al Emirates"
+   ],
+   "ar": "نادي أبوظبي ونادي الإمارات",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ],
+    [
+     "Al Wahda",
+     "الوحدة"
+    ]
    ]
   },
   {
@@ -566,13 +779,30 @@
    "p": 600,
    "alt": [
     "Al Shoula and Al Oruba"
+   ],
+   "ar": "الشعلة والعروبة",
+   "qar": [
+    [
+     "Al Zamalek",
+     "الزمالك"
+    ],
+    [
+     "Al Wasl",
+     "الوصل"
+    ]
    ]
   },
   {
    "q": "Which club did Sharjah merge with in 1974?",
    "a": "Al Khaleej",
    "p": 600,
-   "ar": "الخليج"
+   "ar": "الخليج",
+   "qar": [
+    [
+     "Sharjah",
+     "الشارقة"
+    ]
+   ]
   },
   {
    "q": "Which UAE club won its first UAE League Cup in 2022-23?",
@@ -584,40 +814,82 @@
   {
    "q": "What was the score of Sharjah's 2025 AFC Champions League Two final win in Singapore?",
    "a": "2-1",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Sharjah",
+     "الشارقة"
+    ]
+   ]
   },
   {
    "q": "In which Singapore stadium did Sharjah win the 2025 AFC Champions League Two final?",
    "a": "Bishan Stadium",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Sharjah",
+     "الشارقة"
+    ]
+   ]
   },
   {
    "q": "Which Dubai club did Al Wasl beat 4-0 in the 2024 President's Cup final?",
    "a": "Al Nasr",
    "p": 600,
-   "ar": "النصر"
+   "ar": "النصر",
+   "qar": [
+    [
+     "Al Wasl",
+     "الوصل"
+    ]
+   ]
   },
   {
    "q": "What was the score when Australia beat the UAE in the 2022 World Cup qualifying play-off in Doha?",
    "a": "2-1",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Doha",
+     "الدوحة"
+    ]
+   ]
   },
   {
    "q": "In which year did Al Wasl adopt its famous yellow colour?",
    "a": "1974",
-   "p": 600
+   "p": 600,
+   "qar": [
+    [
+     "Al Wasl",
+     "الوصل"
+    ]
+   ]
   },
   {
    "q": "Which UAE club did Al Wasl beat 4-1 in the 2007 President's Cup final?",
    "a": "Al Ain",
    "p": 600,
-   "ar": "العين"
+   "ar": "العين",
+   "qar": [
+    [
+     "Al Wasl",
+     "الوصل"
+    ]
+   ]
   },
   {
    "q": "Which country did Brazil beat in the 2003 FIFA World Youth Championship final in Abu Dhabi?",
    "a": "Spain",
    "p": 600,
-   "apic": "Spain"
+   "apic": "Spain",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "Which country did Nigeria beat 3-0 in the 2013 U-17 World Cup final in the UAE?",
@@ -635,14 +907,26 @@
    "a": "Al Hilal",
    "p": 200,
    "ar": "الهلال",
-   "apic": "Al Hilal SFC"
+   "apic": "Al Hilal SFC",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "Which country beat the UAE on penalties in the 2017-18 Gulf Cup final in Kuwait?",
    "a": "Oman",
    "p": 200,
    "ar": "عُمان",
-   "apic": "Oman"
+   "apic": "Oman",
+   "qar": [
+    [
+     "Kuwait",
+     "الكويت"
+    ]
+   ]
   },
   {
    "q": "Which Brazilian club were shocked by TP Mazembe in the 2010 Club World Cup semi-final in Abu Dhabi?",
@@ -652,7 +936,13 @@
     "Inter de Porto Alegre",
     "Internacional de Porto Alegre"
    ],
-   "apic": "Sport Club Internacional"
+   "apic": "Sport Club Internacional",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "Which Portuguese coach took charge of the UAE in 2023 after leading South Korea at the 2022 World Cup?",
@@ -671,7 +961,17 @@
     "Cosmin Olaroiu",
     "Olaroiu"
    ],
-   "apic": "Cosmin Olăroiu"
+   "apic": "Cosmin Olăroiu",
+   "qar": [
+    [
+     "Al Ahli Dubai",
+     "الأهلي دبي"
+    ],
+    [
+     "Sharjah",
+     "الشارقة"
+    ]
+   ]
   },
   {
    "q": "Which Central Asian team did the UAE beat 3-2 after extra time in the 2019 Asian Cup round of 16?",
@@ -687,7 +987,14 @@
     "Wydad",
     "Wydad Casablanca"
    ],
-   "apic": "Wydad AC"
+   "apic": "Wydad AC",
+   "ar": "الوداد",
+   "qar": [
+    [
+     "Al Ain",
+     "العين"
+    ]
+   ]
   },
   {
    "q": "Which Egyptian club won the third-place match at the 2021 Club World Cup in Abu Dhabi?",
@@ -697,7 +1004,13 @@
    "alt": [
     "Al Ahly SC"
    ],
-   "apic": "Al Ahly SC"
+   "apic": "Al Ahly SC",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "Which Brazilian-born striker became a naturalised UAE international while starring for Al Wasl?",
@@ -705,6 +1018,12 @@
    "p": 400,
    "alt": [
     "Fabio Lima"
+   ],
+   "qar": [
+    [
+     "Al Wasl",
+     "الوصل"
+    ]
    ]
   },
   {
@@ -712,7 +1031,13 @@
    "a": "Sharjah",
    "p": 400,
    "ar": "الشارقة",
-   "apic": "Sharjah (emirate)"
+   "apic": "Sharjah (emirate)",
+   "qar": [
+    [
+     "Khor Fakkan Club",
+     "نادي خورفكان"
+    ]
+   ]
   },
   {
    "q": "From which emirate does Emirates Club come?",
@@ -722,7 +1047,13 @@
    "alt": [
     "RAK"
    ],
-   "apic": "Ras Al Khaimah"
+   "apic": "Ras Al Khaimah",
+   "qar": [
+    [
+     "Emirates Club",
+     "نادي الإمارات"
+    ]
+   ]
   },
   {
    "q": "Which country won the 1982 Gulf Cup, the first hosted by the UAE?",
@@ -774,30 +1105,57 @@
    "alt": [
     "Lukaku"
    ],
-   "apic": "Romelu Lukaku"
+   "apic": "Romelu Lukaku",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "Which Mexican club did Barcelona beat in the 2009 Club World Cup semi-final in Abu Dhabi?",
    "a": "Atlante",
    "p": 600,
-   "apic": "Atlante F.C."
+   "apic": "Atlante F.C.",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   },
   {
    "q": "In which Abu Dhabi town is Al Dhafra Club based?",
    "a": "Madinat Zayed",
    "p": 600,
    "ar": "مدينة زايد",
-   "apic": "Madinat Zayed"
+   "apic": "Madinat Zayed",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ],
+    [
+     "Al Dhafra Club",
+     "نادي الظفرة"
+    ]
+   ]
   },
   {
    "q": "Which country finished runner-up to Saudi Arabia at the 1994 Gulf Cup in Abu Dhabi?",
    "a": "UAE",
    "p": 600,
-   "ar": "الإمارات",
    "alt": [
     "United Arab Emirates"
    ],
-   "apic": "United Arab Emirates"
+   "apic": "United Arab Emirates",
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
   }
  ]
 }
