@@ -501,6 +501,937 @@
    "q": "What is the capital of Kyrgyzstan?",
    "a": "Bishkek",
    "p": 600
+  },
+  {
+   "q": "What is a female deer called?",
+   "a": "Doe",
+   "p": 200,
+   "alt": [
+    "Hind"
+   ]
+  },
+  {
+   "q": "What do caterpillars turn into?",
+   "a": "Butterflies",
+   "p": 200,
+   "alt": [
+    "Butterfly",
+    "Moths"
+   ]
+  },
+  {
+   "q": "Which insect lights up at night with a glowing abdomen?",
+   "a": "Firefly",
+   "p": 200,
+   "alt": [
+    "Glow-worm",
+    "Lightning bug"
+   ]
+  },
+  {
+   "q": "How many sides does an octagon have?",
+   "a": "Eight",
+   "p": 200,
+   "alt": [
+    "8"
+   ]
+  },
+  {
+   "q": "How many degrees are in a right angle?",
+   "a": "90",
+   "p": 200,
+   "alt": [
+    "Ninety"
+   ]
+  },
+  {
+   "q": "How many degrees are in a full circle?",
+   "a": "360",
+   "p": 200
+  },
+  {
+   "q": "How many weeks are in a year?",
+   "a": "52",
+   "p": 200,
+   "alt": [
+    "Fifty-two"
+   ]
+  },
+  {
+   "q": "Which month usually has the fewest days?",
+   "a": "February",
+   "p": 200
+  },
+  {
+   "q": "What is a period of ten years called?",
+   "a": "Decade",
+   "p": 200,
+   "alt": [
+    "A decade"
+   ]
+  },
+  {
+   "q": "Which famous passenger liner sank on its maiden voyage in 1912?",
+   "a": "Titanic",
+   "p": 200,
+   "alt": [
+    "RMS Titanic"
+   ]
+  },
+  {
+   "q": "Who painted The Starry Night?",
+   "a": "Vincent van Gogh",
+   "p": 200,
+   "alt": [
+    "Van Gogh"
+   ]
+  },
+  {
+   "q": "Which company makes the iPhone?",
+   "a": "Apple",
+   "p": 200
+  },
+  {
+   "q": "Who co-founded Microsoft with Paul Allen?",
+   "a": "Bill Gates",
+   "p": 200
+  },
+  {
+   "q": "What does GPS stand for?",
+   "a": "Global Positioning System",
+   "p": 200
+  },
+  {
+   "q": "How many squares are on a chessboard?",
+   "a": "64",
+   "p": 200,
+   "alt": [
+    "Sixty-four"
+   ]
+  },
+  {
+   "q": "Which chess piece can only move diagonally?",
+   "a": "Bishop",
+   "p": 200
+  },
+  {
+   "q": "Which chess piece moves in an L shape and can jump over others?",
+   "a": "Knight",
+   "p": 200
+  },
+  {
+   "q": "How many musicians play in a quartet?",
+   "a": "Four",
+   "p": 200,
+   "alt": [
+    "4"
+   ]
+  },
+  {
+   "q": "Which Macedonian king built a vast empire before dying at about 32?",
+   "a": "Alexander the Great",
+   "p": 200,
+   "alt": [
+    "Alexander"
+   ]
+  },
+  {
+   "q": "What do the interior angles of a triangle add up to, in degrees?",
+   "a": "180",
+   "p": 200
+  },
+  {
+   "q": "What is the scientific study of earthquakes called?",
+   "a": "Seismology",
+   "p": 600
+  },
+  {
+   "q": "What is the fear of spiders called?",
+   "a": "Arachnophobia",
+   "p": 200
+  },
+  {
+   "q": "What is the largest species of shark?",
+   "a": "Whale shark",
+   "p": 400
+  },
+  {
+   "q": "What does the 'S' in USB stand for?",
+   "a": "Serial",
+   "p": 600
+  },
+  {
+   "q": "Which Mongol leader founded the largest contiguous land empire in history?",
+   "a": "Genghis Khan",
+   "p": 400,
+   "alt": [
+    "Chinggis Khan"
+   ]
+  },
+  {
+   "q": "What name do historians give the eastern Roman Empire ruled from Constantinople?",
+   "a": "Byzantine Empire",
+   "p": 600,
+   "alt": [
+    "Byzantium",
+    "Eastern Roman Empire"
+   ]
+  },
+  {
+   "q": "Which Norwegian artist painted The Scream?",
+   "a": "Edvard Munch",
+   "p": 400,
+   "alt": [
+    "Munch"
+   ]
+  },
+  {
+   "q": "Which art movement is Claude Monet most associated with?",
+   "a": "Impressionism",
+   "p": 400
+  },
+  {
+   "q": "In which Paris museum does the Mona Lisa hang?",
+   "a": "The Louvre",
+   "p": 200,
+   "alt": [
+    "Louvre"
+   ]
+  },
+  {
+   "q": "Which composer wrote the Moonlight Sonata?",
+   "a": "Ludwig van Beethoven",
+   "p": 400,
+   "alt": [
+    "Beethoven"
+   ]
+  },
+  {
+   "q": "How many strings does a violin have?",
+   "a": "Four",
+   "p": 400,
+   "alt": [
+    "4"
+   ]
+  },
+  {
+   "q": "Who created the detective Sherlock Holmes?",
+   "a": "Arthur Conan Doyle",
+   "p": 400,
+   "alt": [
+    "Conan Doyle"
+   ]
+  },
+  {
+   "q": "Who wrote Alice's Adventures in Wonderland?",
+   "a": "Lewis Carroll",
+   "p": 400
+  },
+  {
+   "q": "Which ancient Greek poet is credited with The Iliad and The Odyssey?",
+   "a": "Homer",
+   "p": 400
+  },
+  {
+   "q": "Who wrote the novel Les Misérables?",
+   "a": "Victor Hugo",
+   "p": 400,
+   "alt": [
+    "Hugo"
+   ]
+  },
+  {
+   "q": "Who wrote the novel To Kill a Mockingbird?",
+   "a": "Harper Lee",
+   "p": 400
+  },
+  {
+   "q": "Which Brazilian author wrote The Alchemist?",
+   "a": "Paulo Coelho",
+   "p": 400,
+   "alt": [
+    "Coelho"
+   ]
+  },
+  {
+   "q": "Who wrote the novel The Old Man and the Sea?",
+   "a": "Ernest Hemingway",
+   "p": 400,
+   "alt": [
+    "Hemingway"
+   ]
+  },
+  {
+   "q": "Tahini is a paste made from which seeds?",
+   "a": "Sesame seeds",
+   "p": 400,
+   "alt": [
+    "Sesame"
+   ]
+  },
+  {
+   "q": "Which IBM computer defeated world chess champion Garry Kasparov in 1997?",
+   "a": "Deep Blue",
+   "p": 600
+  },
+  {
+   "q": "Which American won the 1972 World Chess Championship in Reykjavík?",
+   "a": "Bobby Fischer",
+   "p": 600,
+   "alt": [
+    "Fischer"
+   ]
+  },
+  {
+   "q": "Which Norwegian became world chess champion in 2013?",
+   "a": "Magnus Carlsen",
+   "p": 400,
+   "alt": [
+    "Carlsen"
+   ]
+  },
+  {
+   "q": "What is the chemical symbol for silver?",
+   "a": "Ag",
+   "p": 400
+  },
+  {
+   "q": "What is the SI unit of electric current?",
+   "a": "Ampere",
+   "p": 400,
+   "alt": [
+    "Amp"
+   ]
+  },
+  {
+   "q": "Who composed the music for the ballet The Nutcracker?",
+   "a": "Pyotr Ilyich Tchaikovsky",
+   "p": 400,
+   "alt": [
+    "Tchaikovsky"
+   ]
+  },
+  {
+   "q": "Which musical term means gradually getting louder?",
+   "a": "Crescendo",
+   "p": 400
+  },
+  {
+   "q": "Which two climbers made the first confirmed ascent of Everest in 1953?",
+   "a": "Edmund Hillary and Tenzing Norgay",
+   "p": 400,
+   "alt": [
+    "Hillary and Tenzing",
+    "Hillary and Norgay"
+   ]
+  },
+  {
+   "q": "What is the Japanese art of growing miniature trees in pots?",
+   "a": "Bonsai",
+   "p": 200
+  },
+  {
+   "q": "Which land mammal has the longest pregnancy, about 22 months?",
+   "a": "Elephant",
+   "p": 200,
+   "alt": [
+    "African elephant"
+   ]
+  },
+  {
+   "q": "What is a word formed from initial letters and pronounced as a word, like NATO, called?",
+   "a": "Acronym",
+   "p": 400
+  },
+  {
+   "q": "Which Latin phrase means 'seize the day'?",
+   "a": "Carpe diem",
+   "p": 400
+  },
+  {
+   "q": "Who wrote the novel Things Fall Apart?",
+   "a": "Chinua Achebe",
+   "p": 600,
+   "alt": [
+    "Achebe"
+   ]
+  },
+  {
+   "q": "Who wrote The Little Prince?",
+   "a": "Antoine de Saint-Exupéry",
+   "p": 600,
+   "alt": [
+    "Saint-Exupery",
+    "Antoine de Saint-Exupery"
+   ]
+  },
+  {
+   "q": "Which Andalusian philosopher, famous for commentaries on Aristotle, was known in Europe as Averroes?",
+   "a": "Ibn Rushd",
+   "p": 600,
+   "ar": "ابن رشد"
+  },
+  {
+   "q": "Who wrote the novel The Great Gatsby?",
+   "a": "F. Scott Fitzgerald",
+   "p": 400,
+   "alt": [
+    "Scott Fitzgerald",
+    "Fitzgerald"
+   ]
+  },
+  {
+   "q": "What was the name of the ship on which Charles Darwin sailed around the world?",
+   "a": "HMS Beagle",
+   "p": 600,
+   "alt": [
+    "Beagle",
+    "The Beagle"
+   ]
+  },
+  {
+   "q": "What is the scientific study of fungi called?",
+   "a": "Mycology",
+   "p": 600
+  },
+  {
+   "q": "How many legs does a lobster have?",
+   "a": "Ten",
+   "p": 600,
+   "alt": [
+    "10"
+   ]
+  },
+  {
+   "q": "Which ancient Chinese general is credited with The Art of War?",
+   "a": "Sun Tzu",
+   "p": 600,
+   "alt": [
+    "Sunzi"
+   ]
+  },
+  {
+   "q": "Who painted The Birth of Venus?",
+   "a": "Sandro Botticelli",
+   "p": 600,
+   "alt": [
+    "Botticelli"
+   ]
+  },
+  {
+   "q": "Which Dutch master painted The Night Watch?",
+   "a": "Rembrandt",
+   "p": 400,
+   "alt": [
+    "Rembrandt van Rijn"
+   ]
+  },
+  {
+   "q": "Which Dutch painter created The Garden of Earthly Delights?",
+   "a": "Hieronymus Bosch",
+   "p": 600,
+   "alt": [
+    "Bosch"
+   ]
+  },
+  {
+   "q": "In which year did the French Revolution begin?",
+   "a": "1789",
+   "p": 600
+  },
+  {
+   "q": "Who was the first woman to fly solo across the Atlantic, in 1932?",
+   "a": "Amelia Earhart",
+   "p": 600,
+   "alt": [
+    "Earhart"
+   ]
+  },
+  {
+   "q": "Which university in Fez, founded in 859 by Fatima al-Fihri, is often cited as the oldest still operating?",
+   "a": "Al-Qarawiyyin",
+   "p": 600,
+   "ar": "جامعة القرويين",
+   "alt": [
+    "University of al-Qarawiyyin",
+    "Al Quaraouiyine",
+    "Qarawiyyin"
+   ]
+  },
+  {
+   "q": "What is the study of the origin and history of words called?",
+   "a": "Etymology",
+   "p": 600
+  },
+  {
+   "q": "What is the symbol '&' called?",
+   "a": "Ampersand",
+   "p": 600
+  },
+  {
+   "q": "What does the 'Q' in QR code stand for?",
+   "a": "Quick",
+   "p": 600
+  },
+  {
+   "q": "What Latin phrase does the abbreviation 'e.g.' stand for?",
+   "a": "Exempli gratia",
+   "p": 600
+  },
+  {
+   "q": "How many stars are on the flag of the United States?",
+   "a": "50",
+   "p": 200,
+   "alt": [
+    "Fifty"
+   ]
+  },
+  {
+   "q": "Which property-trading board game features Mayfair and Park Lane in its UK edition?",
+   "a": "Monopoly",
+   "p": 200
+  },
+  {
+   "q": "Which Danish company makes interlocking plastic toy bricks?",
+   "a": "Lego",
+   "p": 200,
+   "alt": [
+    "LEGO"
+   ]
+  },
+  {
+   "q": "Which precious metal traditionally marks a 50th wedding anniversary?",
+   "a": "Gold",
+   "p": 200,
+   "alt": [
+    "Golden"
+   ]
+  },
+  {
+   "q": "Which Shakespeare play is about the Prince of Denmark?",
+   "a": "Hamlet",
+   "p": 200
+  },
+  {
+   "q": "Who wrote Charlie and the Chocolate Factory and Matilda?",
+   "a": "Roald Dahl",
+   "p": 200,
+   "alt": [
+    "Dahl"
+   ]
+  },
+  {
+   "q": "Who wrote and illustrated The Cat in the Hat?",
+   "a": "Dr. Seuss",
+   "p": 200,
+   "alt": [
+    "Dr Seuss",
+    "Theodor Geisel"
+   ]
+  },
+  {
+   "q": "Which German brothers collected fairy tales such as Snow White and Hansel and Gretel?",
+   "a": "Brothers Grimm",
+   "p": 200,
+   "alt": [
+    "The Grimm brothers",
+    "Grimm"
+   ]
+  },
+  {
+   "q": "Whose wartime diary, written while hiding in Amsterdam, became one of the world's most read books?",
+   "a": "Anne Frank",
+   "p": 200
+  },
+  {
+   "q": "Which American civil rights leader gave the 'I Have a Dream' speech in 1963?",
+   "a": "Martin Luther King Jr.",
+   "p": 200,
+   "alt": [
+    "Martin Luther King",
+    "MLK"
+   ]
+  },
+  {
+   "q": "Which South African leader was released in 1990 after 27 years in prison?",
+   "a": "Nelson Mandela",
+   "p": 200,
+   "alt": [
+    "Mandela"
+   ]
+  },
+  {
+   "q": "What colour do you get by mixing red and blue?",
+   "a": "Purple",
+   "p": 200,
+   "alt": [
+    "Violet"
+   ]
+  },
+  {
+   "q": "What are balls of ice that fall from thunderstorms called?",
+   "a": "Hail",
+   "p": 200,
+   "alt": [
+    "Hailstones"
+   ]
+  },
+  {
+   "q": "What is the international Morse code distress signal?",
+   "a": "SOS",
+   "p": 200
+  },
+  {
+   "q": "What is the left side of a ship called when facing forward?",
+   "a": "Port",
+   "p": 200
+  },
+  {
+   "q": "In which Shakespeare play does a Scottish general murder King Duncan?",
+   "a": "Macbeth",
+   "p": 400
+  },
+  {
+   "q": "Which Shakespeare tragedy is subtitled 'The Moor of Venice'?",
+   "a": "Othello",
+   "p": 400
+  },
+  {
+   "q": "What was the name of Shakespeare's theatre on London's Bankside?",
+   "a": "The Globe",
+   "p": 400,
+   "alt": [
+    "Globe Theatre",
+    "Globe"
+   ]
+  },
+  {
+   "q": "Who wrote The Jungle Book?",
+   "a": "Rudyard Kipling",
+   "p": 400,
+   "alt": [
+    "Kipling"
+   ]
+  },
+  {
+   "q": "Who wrote Around the World in Eighty Days?",
+   "a": "Jules Verne",
+   "p": 400,
+   "alt": [
+    "Verne"
+   ]
+  },
+  {
+   "q": "Who created Winnie-the-Pooh?",
+   "a": "A. A. Milne",
+   "p": 400,
+   "alt": [
+    "AA Milne",
+    "Milne"
+   ]
+  },
+  {
+   "q": "Who wrote Peter Pan?",
+   "a": "J. M. Barrie",
+   "p": 400,
+   "alt": [
+    "JM Barrie",
+    "Barrie"
+   ]
+  },
+  {
+   "q": "Who wrote The Hunger Games novels?",
+   "a": "Suzanne Collins",
+   "p": 400,
+   "alt": [
+    "Collins"
+   ]
+  },
+  {
+   "q": "Who wrote The Lion, the Witch and the Wardrobe?",
+   "a": "C. S. Lewis",
+   "p": 400,
+   "alt": [
+    "CS Lewis"
+   ]
+  },
+  {
+   "q": "Who wrote The Da Vinci Code?",
+   "a": "Dan Brown",
+   "p": 400
+  },
+  {
+   "q": "Who wrote The War of the Worlds?",
+   "a": "H. G. Wells",
+   "p": 400,
+   "alt": [
+    "HG Wells"
+   ]
+  },
+  {
+   "q": "Which Danish author wrote The Little Mermaid and The Ugly Duckling?",
+   "a": "Hans Christian Andersen",
+   "p": 400,
+   "alt": [
+    "Andersen"
+   ]
+  },
+  {
+   "q": "Who wrote The Tale of Peter Rabbit?",
+   "a": "Beatrix Potter",
+   "p": 400,
+   "alt": [
+    "Potter"
+   ]
+  },
+  {
+   "q": "Which pop artist painted Campbell's Soup Cans?",
+   "a": "Andy Warhol",
+   "p": 400,
+   "alt": [
+    "Warhol"
+   ]
+  },
+  {
+   "q": "Which Mexican painter is famous for her self-portraits and monobrow?",
+   "a": "Frida Kahlo",
+   "p": 400,
+   "alt": [
+    "Kahlo"
+   ]
+  },
+  {
+   "q": "Which French sculptor created The Thinker?",
+   "a": "Auguste Rodin",
+   "p": 400,
+   "alt": [
+    "Rodin"
+   ]
+  },
+  {
+   "q": "Which month is named after Julius Caesar?",
+   "a": "July",
+   "p": 400
+  },
+  {
+   "q": "What does a barometer measure?",
+   "a": "Air pressure",
+   "p": 400,
+   "alt": [
+    "Atmospheric pressure"
+   ]
+  },
+  {
+   "q": "What is the fear of enclosed spaces called?",
+   "a": "Claustrophobia",
+   "p": 400
+  },
+  {
+   "q": "What is a word with the same meaning as another word called?",
+   "a": "Synonym",
+   "p": 200
+  },
+  {
+   "q": "What is a word that sounds the same as another but differs in meaning called?",
+   "a": "Homophone",
+   "p": 400
+  },
+  {
+   "q": "Which language gave English the word 'kindergarten'?",
+   "a": "German",
+   "p": 400
+  },
+  {
+   "q": "In the NATO phonetic alphabet, what word stands for the letter A?",
+   "a": "Alpha",
+   "p": 200,
+   "alt": [
+    "Alfa"
+   ]
+  },
+  {
+   "q": "Who wrote Robinson Crusoe?",
+   "a": "Daniel Defoe",
+   "p": 400,
+   "alt": [
+    "Defoe"
+   ]
+  },
+  {
+   "q": "Who wrote Gulliver's Travels?",
+   "a": "Jonathan Swift",
+   "p": 400,
+   "alt": [
+    "Swift"
+   ]
+  },
+  {
+   "q": "Who wrote Charlotte's Web?",
+   "a": "E. B. White",
+   "p": 600,
+   "alt": [
+    "EB White"
+   ]
+  },
+  {
+   "q": "Who wrote The Adventures of Pinocchio?",
+   "a": "Carlo Collodi",
+   "p": 600,
+   "alt": [
+    "Collodi"
+   ]
+  },
+  {
+   "q": "Who wrote The Count of Monte Cristo?",
+   "a": "Alexandre Dumas",
+   "p": 600,
+   "alt": [
+    "Dumas"
+   ]
+  },
+  {
+   "q": "Who wrote Madame Bovary?",
+   "a": "Gustave Flaubert",
+   "p": 600,
+   "alt": [
+    "Flaubert"
+   ]
+  },
+  {
+   "q": "Who wrote The Canterbury Tales?",
+   "a": "Geoffrey Chaucer",
+   "p": 600,
+   "alt": [
+    "Chaucer"
+   ]
+  },
+  {
+   "q": "Who wrote the epic poem Paradise Lost?",
+   "a": "John Milton",
+   "p": 600,
+   "alt": [
+    "Milton"
+   ]
+  },
+  {
+   "q": "Who wrote Wuthering Heights?",
+   "a": "Emily Brontë",
+   "p": 600,
+   "alt": [
+    "Emily Bronte"
+   ]
+  },
+  {
+   "q": "Who wrote Jane Eyre?",
+   "a": "Charlotte Brontë",
+   "p": 600,
+   "alt": [
+    "Charlotte Bronte"
+   ]
+  },
+  {
+   "q": "Who wrote The Catcher in the Rye?",
+   "a": "J. D. Salinger",
+   "p": 600,
+   "alt": [
+    "Salinger"
+   ]
+  },
+  {
+   "q": "Who wrote Brave New World?",
+   "a": "Aldous Huxley",
+   "p": 600,
+   "alt": [
+    "Huxley"
+   ]
+  },
+  {
+   "q": "Who wrote The Metamorphosis, about a man who wakes up as an insect?",
+   "a": "Franz Kafka",
+   "p": 600,
+   "alt": [
+    "Kafka"
+   ]
+  },
+  {
+   "q": "Who wrote Little Women?",
+   "a": "Louisa May Alcott",
+   "p": 600,
+   "alt": [
+    "Alcott"
+   ]
+  },
+  {
+   "q": "In which Shakespeare play does the moneylender Shylock appear?",
+   "a": "The Merchant of Venice",
+   "p": 600,
+   "alt": [
+    "Merchant of Venice"
+   ]
+  },
+  {
+   "q": "Which Austrian artist painted The Kiss in 1908?",
+   "a": "Gustav Klimt",
+   "p": 600,
+   "alt": [
+    "Klimt"
+   ]
+  },
+  {
+   "q": "Which American artist painted American Gothic?",
+   "a": "Grant Wood",
+   "p": 600
+  },
+  {
+   "q": "Which Dutch artist is known for 'impossible' drawings such as Relativity?",
+   "a": "M. C. Escher",
+   "p": 600,
+   "alt": [
+    "Escher"
+   ]
+  },
+  {
+   "q": "Which Italian musical term means 'very loud'?",
+   "a": "Fortissimo",
+   "p": 600
+  },
+  {
+   "q": "What does an anemometer measure?",
+   "a": "Wind speed",
+   "p": 600
+  },
+  {
+   "q": "What are lines on a weather map joining places of equal air pressure called?",
+   "a": "Isobars",
+   "p": 600,
+   "alt": [
+    "Isobar"
+   ]
+  },
+  {
+   "q": "Which towering cloud type produces thunderstorms?",
+   "a": "Cumulonimbus",
+   "p": 600
+  },
+  {
+   "q": "What is the fear of heights called?",
+   "a": "Acrophobia",
+   "p": 600
+  },
+  {
+   "q": "From which language does the word 'safari' come into English?",
+   "a": "Swahili",
+   "p": 600
+  },
+  {
+   "q": "In the NATO phonetic alphabet, what word stands for the letter Z?",
+   "a": "Zulu",
+   "p": 600
+  },
+  {
+   "q": "Which precious material traditionally marks a 25th wedding anniversary?",
+   "a": "Silver",
+   "p": 400
   }
  ]
 }

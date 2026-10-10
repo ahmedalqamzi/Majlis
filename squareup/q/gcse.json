@@ -501,6 +501,1055 @@
    "q": "Computer Science: Which CPU register holds the address of the next instruction to be fetched?",
    "a": "The program counter",
    "p": 600
+  },
+  {
+   "q": "Biology: Which blood cells carry oxygen around the body?",
+   "a": "Red blood cells",
+   "p": 200
+  },
+  {
+   "q": "Biology: What is the green pigment in plants that absorbs light?",
+   "a": "Chlorophyll",
+   "p": 200
+  },
+  {
+   "q": "Biology: Which pair of organs exchanges oxygen and carbon dioxide in humans?",
+   "a": "The lungs",
+   "p": 200
+  },
+  {
+   "q": "Biology: What do we call an animal that eats only plants?",
+   "a": "A herbivore",
+   "p": 200
+  },
+  {
+   "q": "Biology: Which part of an animal cell contains the genetic material and controls the cell?",
+   "a": "The nucleus",
+   "p": 200
+  },
+  {
+   "q": "Biology: Which scientist proposed the theory of evolution by natural selection?",
+   "a": "Charles Darwin",
+   "p": 200
+  },
+  {
+   "q": "Biology: Which blood vessels carry blood away from the heart?",
+   "a": "Arteries",
+   "p": 200
+  },
+  {
+   "q": "Chemistry: Which state of matter has a fixed shape and a fixed volume?",
+   "a": "Solid",
+   "p": 200
+  },
+  {
+   "q": "Chemistry: What do we call a mixture of a metal with other elements, such as steel or brass?",
+   "a": "An alloy",
+   "p": 200
+  },
+  {
+   "q": "Physics: Which formula links speed, distance and time?",
+   "a": "Speed = distance / time",
+   "p": 200
+  },
+  {
+   "q": "Maths: What is 3 cubed?",
+   "a": "27",
+   "p": 200
+  },
+  {
+   "q": "Maths: Which average is the value that appears most often?",
+   "a": "The mode",
+   "p": 200
+  },
+  {
+   "q": "Maths: What is the mean of 2, 4, 6, 8 and 10?",
+   "a": "6",
+   "p": 200
+  },
+  {
+   "q": "Maths: What is 0.75 as a fraction in its simplest form?",
+   "a": "3/4",
+   "p": 200
+  },
+  {
+   "q": "Maths: Solve x + 9 = 15.",
+   "a": "x = 6",
+   "p": 200
+  },
+  {
+   "q": "Maths: What is the probability of a fair coin landing on tails?",
+   "a": "1/2",
+   "p": 200
+  },
+  {
+   "q": "Maths: How many lines of symmetry does a square have?",
+   "a": "4",
+   "p": 200
+  },
+  {
+   "q": "Maths: Expand 3(x + 4).",
+   "a": "3x + 12",
+   "p": 200
+  },
+  {
+   "q": "Maths: What do the interior angles of a quadrilateral add up to?",
+   "a": "360 degrees",
+   "p": 200
+  },
+  {
+   "q": "English Literature: Who wrote the play Macbeth?",
+   "a": "William Shakespeare",
+   "p": 200
+  },
+  {
+   "q": "English Literature: Who wrote A Christmas Carol?",
+   "a": "Charles Dickens",
+   "p": 200
+  },
+  {
+   "q": "English Literature: Who wrote Of Mice and Men?",
+   "a": "John Steinbeck",
+   "p": 200
+  },
+  {
+   "q": "English Literature: In which Italian city is Romeo and Juliet set?",
+   "a": "Verona",
+   "p": 200
+  },
+  {
+   "q": "English Literature: Who wrote Strange Case of Dr Jekyll and Mr Hyde?",
+   "a": "Robert Louis Stevenson",
+   "p": 200
+  },
+  {
+   "q": "English Literature: Who wrote Frankenstein?",
+   "a": "Mary Shelley",
+   "p": 200
+  },
+  {
+   "q": "English Literature: Who wrote Pride and Prejudice?",
+   "a": "Jane Austen",
+   "p": 200
+  },
+  {
+   "q": "English Literature: Who wrote Animal Farm?",
+   "a": "George Orwell",
+   "p": 200
+  },
+  {
+   "q": "English Literature: Who wrote Lord of the Flies?",
+   "a": "William Golding",
+   "p": 200
+  },
+  {
+   "q": "English Literature: In Animal Farm, what kind of animal is Napoleon?",
+   "a": "A pig",
+   "p": 200
+  },
+  {
+   "q": "English Literature: In Lord of the Flies, which shell do the boys blow to call meetings?",
+   "a": "The conch",
+   "p": 200
+  },
+  {
+   "q": "History: Which wall divided East and West Berlin from 1961?",
+   "a": "The Berlin Wall",
+   "p": 200
+  },
+  {
+   "q": "History: In which year did the First World War begin?",
+   "a": "1914",
+   "p": 200
+  },
+  {
+   "q": "History: Who was the British Prime Minister for most of the Second World War?",
+   "a": "Winston Churchill",
+   "p": 200
+  },
+  {
+   "q": "History: Which Tudor king had six wives?",
+   "a": "Henry VIII",
+   "p": 200
+  },
+  {
+   "q": "History: Which two superpowers were the main rivals in the Cold War?",
+   "a": "The USA and the Soviet Union",
+   "p": 200,
+   "alt": [
+    "USA and USSR"
+   ]
+  },
+  {
+   "q": "History: Which nurse became famous as 'the Lady with the Lamp' in the Crimean War?",
+   "a": "Florence Nightingale",
+   "p": 200
+  },
+  {
+   "q": "Geography: What is the largest ocean on Earth?",
+   "a": "The Pacific Ocean",
+   "p": 200
+  },
+  {
+   "q": "Geography: What is a huge, slow-moving mass of ice on land called?",
+   "a": "A glacier",
+   "p": 200
+  },
+  {
+   "q": "Geography: What is the bowl-shaped opening at the top of a volcano called?",
+   "a": "A crater",
+   "p": 200
+  },
+  {
+   "q": "Geography: What type of rock forms from layers of compressed sediment?",
+   "a": "Sedimentary rock",
+   "p": 200
+  },
+  {
+   "q": "Geography: What is a tropical storm in the Atlantic Ocean called?",
+   "a": "A hurricane",
+   "p": 200
+  },
+  {
+   "q": "Geography: What is the hottest large desert in the world?",
+   "a": "The Sahara",
+   "p": 200
+  },
+  {
+   "q": "Geography: What is the thin, rocky outer layer of the Earth called?",
+   "a": "The crust",
+   "p": 200
+  },
+  {
+   "q": "Geography: What is the point where a river flows into the sea called?",
+   "a": "The mouth",
+   "p": 200
+  },
+  {
+   "q": "Computer Science: How many bits are in a byte?",
+   "a": "8",
+   "p": 200
+  },
+  {
+   "q": "Computer Science: What does WWW stand for?",
+   "a": "World Wide Web",
+   "p": 200
+  },
+  {
+   "q": "Computer Science: What is a step-by-step set of instructions for solving a problem called?",
+   "a": "An algorithm",
+   "p": 200
+  },
+  {
+   "q": "Computer Science: What is the general name for harmful software such as viruses and spyware?",
+   "a": "Malware",
+   "p": 200
+  },
+  {
+   "q": "Computer Science: What does ROM stand for?",
+   "a": "Read Only Memory",
+   "p": 200
+  },
+  {
+   "q": "French: What is the French word for 'dog'?",
+   "a": "Chien",
+   "p": 200
+  },
+  {
+   "q": "French: What does 'au revoir' mean?",
+   "a": "Goodbye",
+   "p": 200
+  },
+  {
+   "q": "French: What number is 'dix'?",
+   "a": "10",
+   "p": 200
+  },
+  {
+   "q": "French: What is the French word for the colour 'red'?",
+   "a": "Rouge",
+   "p": 200
+  },
+  {
+   "q": "Spanish: What is the Spanish word for 'water'?",
+   "a": "Agua",
+   "p": 200
+  },
+  {
+   "q": "Spanish: What does 'perro' mean?",
+   "a": "Dog",
+   "p": 200
+  },
+  {
+   "q": "Spanish: What number is 'cinco'?",
+   "a": "5",
+   "p": 200
+  },
+  {
+   "q": "German: What does 'danke' mean?",
+   "a": "Thank you",
+   "p": 200
+  },
+  {
+   "q": "German: What is the German word for 'yes'?",
+   "a": "Ja",
+   "p": 200
+  },
+  {
+   "q": "German: What does 'Ich bin' mean?",
+   "a": "I am",
+   "p": 200
+  },
+  {
+   "q": "Biology: Which organ controls the body and is protected by the skull?",
+   "a": "The brain",
+   "p": 200
+  },
+  {
+   "q": "Biology: Which sense organ contains the retina?",
+   "a": "The eye",
+   "p": 200
+  },
+  {
+   "q": "Physics: What is the name for a material that lets electricity flow through it easily, such as copper?",
+   "a": "A conductor",
+   "p": 200
+  },
+  {
+   "q": "Maths: What is the name for a 3D shape with six square faces?",
+   "a": "A cube",
+   "p": 200
+  },
+  {
+   "q": "History: Which ship carried the Pilgrims from England to America in 1620?",
+   "a": "The Mayflower",
+   "p": 200
+  },
+  {
+   "q": "Computer Science: What device is used to move a pointer on screen by hand?",
+   "a": "A mouse",
+   "p": 200
+  },
+  {
+   "q": "Geography: Which line of latitude is at 23.5 degrees north of the Equator?",
+   "a": "The Tropic of Cancer",
+   "p": 200
+  },
+  {
+   "q": "Spanish: What is the Spanish word for 'cat'?",
+   "a": "Gato",
+   "p": 200
+  },
+  {
+   "q": "Biology: What do we call an animal that eats both plants and animals?",
+   "a": "An omnivore",
+   "p": 200
+  },
+  {
+   "q": "Maths: What is 15% of 200?",
+   "a": "30",
+   "p": 200
+  },
+  {
+   "q": "Biology: Which part of a cell controls what enters and leaves it?",
+   "a": "The cell membrane",
+   "p": 400
+  },
+  {
+   "q": "Biology: Which fragments in the blood help it to clot?",
+   "a": "Platelets",
+   "p": 400
+  },
+  {
+   "q": "Biology: Which type of blood vessel has valves to stop blood flowing backwards?",
+   "a": "Veins",
+   "p": 400
+  },
+  {
+   "q": "Biology: Which chamber of the heart pumps blood out to the whole body?",
+   "a": "The left ventricle",
+   "p": 400
+  },
+  {
+   "q": "Biology: Which type of cell division produces gametes with half the chromosomes?",
+   "a": "Meiosis",
+   "p": 400
+  },
+  {
+   "q": "Biology: Which type of cell division produces two identical cells for growth and repair?",
+   "a": "Mitosis",
+   "p": 400
+  },
+  {
+   "q": "Biology: Which organ produces bile?",
+   "a": "The liver",
+   "p": 400
+  },
+  {
+   "q": "Biology: What is the loss of water vapour from a plant's leaves called?",
+   "a": "Transpiration",
+   "p": 400
+  },
+  {
+   "q": "Biology: What are the tiny pores on the underside of leaves called?",
+   "a": "Stomata",
+   "p": 400
+  },
+  {
+   "q": "Biology: Which gland at the base of the brain is often called the 'master gland'?",
+   "a": "The pituitary gland",
+   "p": 400
+  },
+  {
+   "q": "Biology: Which type of medicine kills bacteria but has no effect on viruses?",
+   "a": "Antibiotics",
+   "p": 400
+  },
+  {
+   "q": "Biology: Who discovered penicillin in 1928?",
+   "a": "Alexander Fleming",
+   "p": 200
+  },
+  {
+   "q": "Biology: How many chromosomes are in a normal human body cell?",
+   "a": "46",
+   "p": 400
+  },
+  {
+   "q": "Chemistry: What are the elements in Group 7 of the periodic table called?",
+   "a": "The halogens",
+   "p": 400
+  },
+  {
+   "q": "Chemistry: What is the test for hydrogen gas?",
+   "a": "A lit splint gives a squeaky pop",
+   "p": 400
+  },
+  {
+   "q": "Chemistry: What is the relative formula mass of carbon dioxide, CO2 (C = 12, O = 16)?",
+   "a": "44",
+   "p": 400
+  },
+  {
+   "q": "Chemistry: Which noble gas is used to fill party balloons because it is less dense than air?",
+   "a": "Helium",
+   "p": 200
+  },
+  {
+   "q": "Physics: A device transfers 600 J of energy in 30 seconds. What is its power in watts?",
+   "a": "20 W",
+   "p": 400
+  },
+  {
+   "q": "Physics: What is the potential difference of UK mains electricity?",
+   "a": "230 V",
+   "p": 400
+  },
+  {
+   "q": "Physics: What colour is the earth wire in a UK three-pin plug?",
+   "a": "Green and yellow",
+   "p": 400
+  },
+  {
+   "q": "Physics: What colour is the live wire in a UK three-pin plug?",
+   "a": "Brown",
+   "p": 400
+  },
+  {
+   "q": "Maths: Factorise x² + 7x + 12.",
+   "a": "(x + 3)(x + 4)",
+   "p": 400
+  },
+  {
+   "q": "Maths: Solve 5x - 3 = 2x + 9.",
+   "a": "x = 4",
+   "p": 400
+  },
+  {
+   "q": "Maths: What is the gradient of the line through (0, 1) and (2, 7)?",
+   "a": "3",
+   "p": 400
+  },
+  {
+   "q": "Maths: Write 3.2 x 10³ as an ordinary number.",
+   "a": "3200",
+   "p": 400
+  },
+  {
+   "q": "Maths: A right-angled triangle has shorter sides of 5 cm and 12 cm. How long is the hypotenuse?",
+   "a": "13 cm",
+   "p": 400
+  },
+  {
+   "q": "Maths: Simplify x³ x x⁴.",
+   "a": "x⁷",
+   "p": 400
+  },
+  {
+   "q": "Maths: In SOHCAHTOA, sine equals which side divided by which?",
+   "a": "Opposite over hypotenuse",
+   "p": 400
+  },
+  {
+   "q": "English Literature: In Macbeth, who kills Macbeth at the end of the play?",
+   "a": "Macduff",
+   "p": 400
+  },
+  {
+   "q": "English Literature: In Macbeth, which new title does Macbeth receive early on, fulfilling the witches' first prophecy?",
+   "a": "Thane of Cawdor",
+   "p": 400
+  },
+  {
+   "q": "English Literature: In Romeo and Juliet, which friar secretly marries the lovers?",
+   "a": "Friar Laurence",
+   "p": 400,
+   "alt": [
+    "Friar Lawrence"
+   ]
+  },
+  {
+   "q": "English Literature: In A Christmas Carol, what is the name of Scrooge's dead business partner?",
+   "a": "Jacob Marley",
+   "p": 400
+  },
+  {
+   "q": "English Literature: What is the Inspector's surname in An Inspector Calls?",
+   "a": "Goole",
+   "p": 400
+  },
+  {
+   "q": "English Literature: In An Inspector Calls, who is engaged to Sheila Birling?",
+   "a": "Gerald Croft",
+   "p": 400
+  },
+  {
+   "q": "English Literature: In which year is An Inspector Calls set?",
+   "a": "1912",
+   "p": 400
+  },
+  {
+   "q": "English Literature: In Of Mice and Men, which animals does Lennie dream of looking after?",
+   "a": "Rabbits",
+   "p": 400
+  },
+  {
+   "q": "English Literature: In Jekyll and Hyde, what is the name of the lawyer who investigates?",
+   "a": "Mr Utterson",
+   "p": 400,
+   "alt": [
+    "Gabriel John Utterson"
+   ]
+  },
+  {
+   "q": "English Literature: In Lord of the Flies, who is elected chief at the start?",
+   "a": "Ralph",
+   "p": 400
+  },
+  {
+   "q": "English Literature: In Lord of the Flies, what nickname is given to the boy with glasses?",
+   "a": "Piggy",
+   "p": 200
+  },
+  {
+   "q": "English Literature: In Animal Farm, which hard-working horse is sold to the knacker?",
+   "a": "Boxer",
+   "p": 400
+  },
+  {
+   "q": "English Literature: In Animal Farm, which pig is chased off the farm by Napoleon's dogs?",
+   "a": "Snowball",
+   "p": 400
+  },
+  {
+   "q": "English Literature: What is Frankenstein's first name in Mary Shelley's novel?",
+   "a": "Victor",
+   "p": 200
+  },
+  {
+   "q": "English Literature: What is the narrator's name in Dickens's Great Expectations?",
+   "a": "Pip",
+   "p": 400
+  },
+  {
+   "q": "English Literature: Which Romantic poet wrote 'Ozymandias'?",
+   "a": "Percy Bysshe Shelley",
+   "p": 400
+  },
+  {
+   "q": "English Literature: Which First World War poet wrote 'Exposure' and 'Dulce et Decorum Est'?",
+   "a": "Wilfred Owen",
+   "p": 400
+  },
+  {
+   "q": "English Literature: Who wrote the poem 'The Charge of the Light Brigade'?",
+   "a": "Alfred, Lord Tennyson",
+   "p": 400,
+   "alt": [
+    "Tennyson"
+   ]
+  },
+  {
+   "q": "History: In which year did the Berlin Wall fall?",
+   "a": "1989",
+   "p": 200
+  },
+  {
+   "q": "History: What name is given to the 13-day nuclear standoff of October 1962?",
+   "a": "The Cuban Missile Crisis",
+   "p": 400
+  },
+  {
+   "q": "History: Which US president faced the Soviet Union in the Cuban Missile Crisis?",
+   "a": "John F. Kennedy",
+   "p": 400
+  },
+  {
+   "q": "History: Which 1947 American plan gave economic aid to rebuild Europe?",
+   "a": "The Marshall Plan",
+   "p": 400
+  },
+  {
+   "q": "History: Which 1916 battle saw about 57,000 British casualties on its first day?",
+   "a": "The Battle of the Somme",
+   "p": 400
+  },
+  {
+   "q": "History: Whose assassination in Sarajevo in 1914 helped trigger the First World War?",
+   "a": "Archduke Franz Ferdinand",
+   "p": 400
+  },
+  {
+   "q": "History: Which Spanish fleet did England defeat in 1588?",
+   "a": "The Spanish Armada",
+   "p": 200
+  },
+  {
+   "q": "History: Which English doctor developed the smallpox vaccine in the 1790s?",
+   "a": "Edward Jenner",
+   "p": 400
+  },
+  {
+   "q": "History: Which French scientist's germ theory showed that microbes cause decay and disease?",
+   "a": "Louis Pasteur",
+   "p": 400
+  },
+  {
+   "q": "History: Which Jamaican-born nurse ran the 'British Hotel' for soldiers in the Crimean War?",
+   "a": "Mary Seacole",
+   "p": 400
+  },
+  {
+   "q": "Geography: What is the breakdown of rocks in place, without them moving, called?",
+   "a": "Weathering",
+   "p": 400
+  },
+  {
+   "q": "Geography: What is a large bend in a river called?",
+   "a": "A meander",
+   "p": 400
+  },
+  {
+   "q": "Geography: What horseshoe-shaped lake forms when a meander is cut off?",
+   "a": "An oxbow lake",
+   "p": 400
+  },
+  {
+   "q": "Geography: What is a tropical storm in the western Pacific called?",
+   "a": "A typhoon",
+   "p": 400
+  },
+  {
+   "q": "Geography: Which land biome has the greatest biodiversity?",
+   "a": "Tropical rainforest",
+   "p": 400
+  },
+  {
+   "q": "Computer Science: What does HTML stand for?",
+   "a": "Hypertext Markup Language",
+   "p": 400
+  },
+  {
+   "q": "Computer Science: What is the denary number 10 in binary?",
+   "a": "1010",
+   "p": 400
+  },
+  {
+   "q": "Computer Science: What is the binary number 1111 in denary?",
+   "a": "15",
+   "p": 400
+  },
+  {
+   "q": "Computer Science: Which logic gate outputs 1 only when both inputs are 1?",
+   "a": "AND",
+   "p": 400
+  },
+  {
+   "q": "Computer Science: What is the name for fake emails that trick people into giving away passwords?",
+   "a": "Phishing",
+   "p": 400
+  },
+  {
+   "q": "Computer Science: Which sorting algorithm repeatedly swaps neighbouring items that are in the wrong order?",
+   "a": "Bubble sort",
+   "p": 400
+  },
+  {
+   "q": "Computer Science: Which search algorithm repeatedly halves a sorted list?",
+   "a": "Binary search",
+   "p": 400
+  },
+  {
+   "q": "Computer Science: Who invented the World Wide Web?",
+   "a": "Tim Berners-Lee",
+   "p": 400
+  },
+  {
+   "q": "Spanish: What does 'el fin de semana' mean?",
+   "a": "The weekend",
+   "p": 400
+  },
+  {
+   "q": "French: What does 'J'ai faim' mean?",
+   "a": "I am hungry",
+   "p": 400
+  },
+  {
+   "q": "Spanish: Which day of the week is 'lunes'?",
+   "a": "Monday",
+   "p": 400
+  },
+  {
+   "q": "French: Which meal is 'le petit déjeuner'?",
+   "a": "Breakfast",
+   "p": 400
+  },
+  {
+   "q": "German: What does 'Wie heißt du?' mean?",
+   "a": "What is your name?",
+   "p": 400
+  },
+  {
+   "q": "French: Which French verb means 'to be'?",
+   "a": "Être",
+   "p": 400,
+   "alt": [
+    "Etre"
+   ]
+  },
+  {
+   "q": "Biology: Which blood vessel carries deoxygenated blood from the heart to the lungs?",
+   "a": "The pulmonary artery",
+   "p": 600
+  },
+  {
+   "q": "Biology: Malaria is caused by which type of microorganism?",
+   "a": "A protist",
+   "p": 600
+  },
+  {
+   "q": "Biology: Which substance builds up in muscles during anaerobic respiration?",
+   "a": "Lactic acid",
+   "p": 600
+  },
+  {
+   "q": "Biology: Which hormone, released by the adrenal glands, prepares the body for 'fight or flight'?",
+   "a": "Adrenaline",
+   "p": 600
+  },
+  {
+   "q": "Biology: What is the name of the natural pacemaker region in the wall of the right atrium?",
+   "a": "The sinoatrial node (SAN)",
+   "p": 600
+  },
+  {
+   "q": "Chemistry: In a flame test, which metal ion gives a lilac flame?",
+   "a": "Potassium",
+   "p": 600
+  },
+  {
+   "q": "Chemistry: In a flame test, which metal ion gives a crimson (red) flame?",
+   "a": "Lithium",
+   "p": 600
+  },
+  {
+   "q": "Chemistry: What is the general formula of the alkanes?",
+   "a": "CnH2n+2",
+   "p": 600
+  },
+  {
+   "q": "Chemistry: Using 'OIL RIG', oxidation is the loss of what?",
+   "a": "Electrons",
+   "p": 600
+  },
+  {
+   "q": "Chemistry: What is the mass of one mole of carbon-12 atoms?",
+   "a": "12 g",
+   "p": 600
+  },
+  {
+   "q": "Chemistry: What is the relative formula mass of magnesium oxide, MgO (Mg = 24, O = 16)?",
+   "a": "40",
+   "p": 600
+  },
+  {
+   "q": "Chemistry: What is the name of the reaction in which an ester forms from a carboxylic acid?",
+   "a": "Esterification",
+   "p": 600
+  },
+  {
+   "q": "Physics: What is the kinetic energy of a 2 kg object moving at 3 m/s?",
+   "a": "9 J",
+   "p": 600
+  },
+  {
+   "q": "Physics: A current of 2 A flows for 10 seconds. How much charge flows, in coulombs?",
+   "a": "20 C",
+   "p": 600
+  },
+  {
+   "q": "Physics: A 5 kg object is lifted 2 m. Using g = 10 N/kg, how much gravitational potential energy does it gain?",
+   "a": "100 J",
+   "p": 600
+  },
+  {
+   "q": "Physics: A wave has a frequency of 50 Hz and a wavelength of 4 m. What is its speed?",
+   "a": "200 m/s",
+   "p": 600
+  },
+  {
+   "q": "Physics: A car accelerates from rest to 20 m/s in 5 seconds. What is its acceleration?",
+   "a": "4 m/s²",
+   "p": 600
+  },
+  {
+   "q": "Maths: Write 0.00045 in standard form.",
+   "a": "4.5 x 10⁻⁴",
+   "p": 600
+  },
+  {
+   "q": "Maths: What is the nth term of the sequence 3, 7, 11, 15, ...?",
+   "a": "4n - 1",
+   "p": 600
+  },
+  {
+   "q": "Maths: Simplify (x²)³.",
+   "a": "x⁶",
+   "p": 600
+  },
+  {
+   "q": "Maths: What is the exact value of tan 45 degrees?",
+   "a": "1",
+   "p": 600
+  },
+  {
+   "q": "Maths: What is the exact value of cos 60 degrees?",
+   "a": "1/2",
+   "p": 600
+  },
+  {
+   "q": "Maths: What is the exact value of 27 to the power of 1/3?",
+   "a": "3",
+   "p": 600
+  },
+  {
+   "q": "Maths: What is 2 to the power of -3, as a fraction?",
+   "a": "1/8",
+   "p": 600
+  },
+  {
+   "q": "English Literature: In A Christmas Carol, what is the name of Scrooge's cheerful nephew?",
+   "a": "Fred",
+   "p": 600
+  },
+  {
+   "q": "English Literature: In A Christmas Carol, which kind former employer holds a Christmas party for young Scrooge?",
+   "a": "Mr Fezziwig",
+   "p": 600,
+   "alt": [
+    "Fezziwig"
+   ]
+  },
+  {
+   "q": "English Literature: What are the five chapters of A Christmas Carol called instead of chapters?",
+   "a": "Staves",
+   "p": 600
+  },
+  {
+   "q": "English Literature: In Of Mice and Men, who shoots Candy's old dog?",
+   "a": "Carlson",
+   "p": 600
+  },
+  {
+   "q": "English Literature: In Macbeth, which son of Banquo escapes the murderers?",
+   "a": "Fleance",
+   "p": 600
+  },
+  {
+   "q": "English Literature: In Macbeth, at which castle is King Duncan murdered?",
+   "a": "Inverness",
+   "p": 600,
+   "alt": [
+    "Macbeth's castle at Inverness"
+   ]
+  },
+  {
+   "q": "English Literature: Which prince rules Verona in Romeo and Juliet?",
+   "a": "Prince Escalus",
+   "p": 600
+  },
+  {
+   "q": "English Literature: In Jekyll and Hyde, which MP does Hyde murder?",
+   "a": "Sir Danvers Carew",
+   "p": 600
+  },
+  {
+   "q": "English Literature: What is Mr Darcy's first name in Pride and Prejudice?",
+   "a": "Fitzwilliam",
+   "p": 600
+  },
+  {
+   "q": "English Literature: The title Of Mice and Men comes from a poem by which Scottish poet?",
+   "a": "Robert Burns",
+   "p": 600
+  },
+  {
+   "q": "English Literature: Which poet wrote 'London', about the 'chartered' streets of the city?",
+   "a": "William Blake",
+   "p": 600
+  },
+  {
+   "q": "English Literature: Which Victorian poet wrote the dramatic monologue 'My Last Duchess'?",
+   "a": "Robert Browning",
+   "p": 600
+  },
+  {
+   "q": "English Literature: Which Irish poet wrote 'Storm on the Island'?",
+   "a": "Seamus Heaney",
+   "p": 600
+  },
+  {
+   "q": "History: Which Norwegian king was defeated at the Battle of Stamford Bridge in 1066?",
+   "a": "Harald Hardrada",
+   "p": 600
+  },
+  {
+   "q": "History: In which year did hyperinflation peak in Weimar Germany?",
+   "a": "1923",
+   "p": 600
+  },
+  {
+   "q": "History: In which year did the Night of the Long Knives take place?",
+   "a": "1934",
+   "p": 600
+  },
+  {
+   "q": "History: Which Soviet leader faced the USA during the Cuban Missile Crisis?",
+   "a": "Nikita Khrushchev",
+   "p": 600
+  },
+  {
+   "q": "History: In which year did the Black Death reach England?",
+   "a": "1348",
+   "p": 600
+  },
+  {
+   "q": "History: Who led the Peasants' Revolt of 1381?",
+   "a": "Wat Tyler",
+   "p": 600
+  },
+  {
+   "q": "History: Which English doctor published his discovery of the circulation of the blood in 1628?",
+   "a": "William Harvey",
+   "p": 600
+  },
+  {
+   "q": "History: Which Scottish doctor first used chloroform as an anaesthetic in 1847?",
+   "a": "James Simpson",
+   "p": 600,
+   "alt": [
+    "James Young Simpson"
+   ]
+  },
+  {
+   "q": "History: Which surgeon introduced carbolic acid as an antiseptic in the 1860s?",
+   "a": "Joseph Lister",
+   "p": 600
+  },
+  {
+   "q": "History: In 1854, John Snow linked a cholera outbreak in London to what?",
+   "a": "A water pump (Broad Street pump)",
+   "p": 600
+  },
+  {
+   "q": "History: Which German foreign minister of the 1920s helped Weimar Germany recover and won the Nobel Peace Prize?",
+   "a": "Gustav Stresemann",
+   "p": 600
+  },
+  {
+   "q": "Geography: What is the area of land drained by a river and its tributaries called?",
+   "a": "A drainage basin",
+   "p": 600
+  },
+  {
+   "q": "Geography: What is the point where two rivers meet called?",
+   "a": "A confluence",
+   "p": 600
+  },
+  {
+   "q": "Geography: What does a sea arch become after its roof collapses?",
+   "a": "A stack",
+   "p": 600
+  },
+  {
+   "q": "Geography: Spurn Head in Yorkshire is a famous example of which coastal landform?",
+   "a": "A spit",
+   "p": 600
+  },
+  {
+   "q": "Geography: Which index combines life expectancy, education and income to measure development?",
+   "a": "The Human Development Index (HDI)",
+   "p": 600
+  },
+  {
+   "q": "Computer Science: How many different values can be represented with 8 bits?",
+   "a": "256",
+   "p": 600
+  },
+  {
+   "q": "Computer Science: What is the hexadecimal number FF in denary?",
+   "a": "255",
+   "p": 600
+  },
+  {
+   "q": "Computer Science: Is JPEG image compression lossy or lossless?",
+   "a": "Lossy",
+   "p": 600
+  },
+  {
+   "q": "Computer Science: Which type of translator converts a whole high-level program into machine code before it runs?",
+   "a": "A compiler",
+   "p": 600
+  },
+  {
+   "q": "French: What number is 'quatre-vingt-dix'?",
+   "a": "90",
+   "p": 600
+  },
+  {
+   "q": "French: What does 'la gare' mean?",
+   "a": "The train station",
+   "p": 600
+  },
+  {
+   "q": "Spanish: What does 'ayer' mean?",
+   "a": "Yesterday",
+   "p": 600
+  },
+  {
+   "q": "French: Which day of the week is 'mercredi'?",
+   "a": "Wednesday",
+   "p": 600
   }
  ]
 }
