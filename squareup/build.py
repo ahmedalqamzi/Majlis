@@ -8,7 +8,10 @@ bank={}
 # the web build gets one script pack per category in dist/photos/.
 PHOTODIR=os.path.join('..','majlis-android','app','src','main','assets','photos')
 PHOTOS=json.load(open(os.path.join(PHOTODIR,'index.json'),encoding='utf-8')) if os.path.exists(os.path.join(PHOTODIR,'index.json')) else {}
+# MAJ_SKIP=id1,id2 leaves unreviewed banks out of a build
+SKIP={x for x in os.environ.get('MAJ_SKIP','').split(',') if x}
 for f in sorted(glob.glob('q/*.json')):
+    if os.path.basename(f)[:-5] in SKIP: continue
     d=json.load(open(f));qs=[]
     for q in d['questions']:
         if q.get('yt') and (q['yt'] in bad or q['yt'] not in chk): continue

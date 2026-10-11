@@ -9,7 +9,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=Baloo+Bhaijaan+2:wght@600;700;800&family=Rubik:wght@400;500;600;700&display=swap">
 <style>
-/* Layout: a picture-led game-show board readable from the sofa. Each category is a solid colour card led by a big 3D illustration with white point tiles either side; teams sit on a bottom bench with mascots; questions take the full screen. Night is the default skin, Day the light one. */
+/* Layout: a photo-led game-show board readable from the sofa, styled after newer Jackbox games. Later blocks (Broadcast pass, De-template pass) override earlier ones. */
 :root{
   --bg:#0D2742;--s1:#15365A;--s2:#1C426B;--s3:#25507E;--line:#2C5A8A;--ink:#FFFFFF;--muted:#A8C2DD;
   --pri:#FFC93C;--pri-ink:#2A1C00;--pri-edge:#C9930E;--acc:#FF6B6B;--acc-ink:#2B0606;
@@ -454,6 +454,80 @@ body::after{content:"";position:fixed;inset:0;z-index:60;pointer-events:none;opa
 .rank div:nth-child(2){animation-delay:.15s}.rank div:nth-child(3){animation-delay:.3s}.rank div:nth-child(4){animation-delay:.45s}
 .modal>div{background:var(--s1);border-radius:10px;box-shadow:inset 0 0 0 1px var(--hair),0 30px 80px rgba(0,0,0,.7)}
 .toast{background:var(--glass);color:#fff;box-shadow:inset 0 0 0 1px var(--hair);backdrop-filter:blur(8px);border-radius:6px}
+
+/* De-template pass: square corners, solid fills, no glass, no tracked-out caps, no emoji or stock icons.
+   Type does the work: Anton for names and numbers, Rubik for reading. Accents are one solid colour bar. */
+*,*::before,*::after{border-radius:2px!important}
+:root{--glass:#14151F;--hair:#262838}
+.label{font-family:var(--body);font-weight:700;letter-spacing:0;font-size:14px;color:var(--muted);text-transform:none}
+.btn{letter-spacing:.3px;font-size:21px}
+.btn-pri{background:var(--pri);box-shadow:none}
+.btn-pri::after,.btn-acc::after,.tile::after{display:none}
+.btn-soft,.btn-line{background:#1B1C28;backdrop-filter:none;box-shadow:none}
+.top h2{letter-spacing:0}
+.mark .en{letter-spacing:0;background:none;color:var(--pri);-webkit-background-clip:border-box;background-clip:border-box;text-shadow:6px 6px 0 #A3121F;transform:skewX(-7deg);animation:logoin .9s cubic-bezier(.2,.9,.2,1)}
+@keyframes logoin{from{opacity:0;transform:skewX(-7deg) translateY(30px)}}
+.mark .ar{letter-spacing:0}
+.homebg img{filter:grayscale(.35) contrast(1.1)}
+.mono{display:grid;place-items:center;width:100%;height:100%;min-width:34px;min-height:34px;background:var(--c,#444);color:#fff;font-family:var(--cond);font-size:22px;line-height:1;box-sizing:border-box}
+.turn .mono{width:40px;height:40px;background:#0008;font-size:24px}
+.chip .cav{background:none!important;padding:0!important}
+.chip.cur .mono{background:#0006}
+.team-in .av{background:none!important;padding:0!important}
+.steal-b .mono{width:36px;height:36px;flex:none}
+.dteam .who .mono{width:44px;height:44px;font-size:26px}
+.badge:empty{display:none}
+.turn,.ring,.qc-tag,.qc-pts,.use,.steal-b,.team-in,.search,.seg button,.chip,.dteam,.ab,.toast{backdrop-filter:none!important}
+.turn{letter-spacing:0;box-shadow:none;padding:4px 14px 4px 4px}
+.turn small{letter-spacing:0;text-transform:none;font-weight:600}
+.ring{background:#14151F;box-shadow:inset 0 0 0 2px var(--hair)}
+.ring svg circle:first-child{stroke:#262838}
+.grp h3{letter-spacing:0;font-size:34px}
+.grp h3 i{width:6px;height:28px;align-self:center}
+.cat .nm{letter-spacing:0;font-size:20px}
+.cat:not(.ph){background:var(--gc);box-shadow:none;justify-content:flex-end}
+.cat:not(.ph) .main{justify-content:flex-end;align-items:flex-start;text-align:left;padding:10px 12px}
+.cat:not(.ph) .nm{font-size:24px;line-height:.95;color:#fff}
+.cat.ph::before{background:linear-gradient(180deg,transparent 45%,rgba(8,8,15,.92))}
+.cat.ph{box-shadow:inset 0 -5px 0 var(--gc)}
+.cats .cat:first-child{grid-column:span 2;grid-row:span 2;aspect-ratio:auto}
+.cats .cat:first-child .nm{font-size:30px}
+.cat.on{box-shadow:inset 0 0 0 4px var(--pri)}
+.cat.on::after{font-size:18px}
+.picked button{background:var(--gc);box-shadow:none;font-family:var(--cond);font-size:16px;padding:6px 12px}
+.card,.card.ph{box-shadow:none}
+.card.ph{box-shadow:inset 0 -5px 0 var(--gc)}
+.card:not(.ph) .mid h3{font-size:30px;line-height:.95}
+.mid h3{letter-spacing:0;font-size:24px}
+.tile{background:#0E0F18;box-shadow:inset 0 0 0 2px #2A2C3E;text-shadow:none;font-size:28px}
+.tile.done{box-shadow:none;background:var(--c);color:#fff}
+.rail{backdrop-filter:none;background:#0E0F18}
+.chip{background:#1B1C28;box-shadow:none}
+.chip.cur{box-shadow:none}
+.chip .row button{background:#0006;color:#fff}
+.qbg{animation-duration:60s}
+.qc-media{box-shadow:none;animation:camin .5s cubic-bezier(.2,.8,.2,1) .1s both}
+@keyframes camin{from{transform:translateY(24px);opacity:0}}
+.qc-tag{background:var(--c);box-shadow:none;letter-spacing:0;font-size:17px;padding:4px 12px}
+.qc-pts{box-shadow:none}
+.qc-pts b{letter-spacing:0}
+.qc-artbox{background:var(--c);display:flex;align-items:flex-end;padding:18px}
+.qc-artbox b{font-family:var(--cond);font-weight:400;color:#fff;font-size:clamp(44px,13vw,120px);line-height:.9;text-transform:uppercase;opacity:.95}
+.qc-txt::before{width:40px;height:6px}
+.ans{background:#14B85A;box-shadow:none}
+.ans small,.ans p{letter-spacing:0}
+.ans small{font-family:var(--body);font-weight:700;text-transform:none;font-size:13px}
+.use{background:#1B1C28;box-shadow:none;font-family:var(--cond);font-size:16px;letter-spacing:0;padding:7px 12px}
+.use.active{background:var(--c)}
+.abrow .tm>span{letter-spacing:0}
+.steal-b{background:#1B1C28;box-shadow:inset 4px 0 0 var(--c)}
+.award button{letter-spacing:0;box-shadow:none}
+.award button.none{background:#1B1C28;box-shadow:none}
+.rank div{letter-spacing:0;box-shadow:none}
+.modal>div{box-shadow:0 30px 80px rgba(0,0,0,.7)}
+.toast{background:#fff;color:#08080F;box-shadow:none}
+.end h1{letter-spacing:0;background:none;color:var(--pri);-webkit-background-clip:border-box;background-clip:border-box;text-shadow:6px 6px 0 #A3121F;transform:skewX(-7deg)}
+.skins button{border-radius:2px}
 </style>
 
 <div id="app"></div>
@@ -539,8 +613,9 @@ const CAT={};BANK.forEach(c=>{CAT[c.id]=c;c.color="#64748B"});
 const inGroup=new Set();GROUPS.forEach(g=>{g.ids=g.ids.filter(id=>CAT[id]);g.ids.forEach(id=>{CAT[id].color=g.color;inGroup.add(id)})});
 const extra=BANK.filter(c=>!inGroup.has(c.id)).map(c=>c.id);if(extra.length)GROUPS.push({name:"More",color:"#5C7cfa",ids:extra});
 const ART=__ART__;
-const icon=id=>ART["cat-"+id]?`<img class="art" src="${ART["cat-"+id]}" alt="">`:P(IC[ICON[id]]||IC.star);
-const AVN=16,avImg=k=>`<img class="art" src="${ART["team-"+((k||0)%AVN)]}" alt="">`;
+const icon=id=>"";
+// Teams are marked by a bold initial on their colour, not mascot art
+const AVN=16,ini=n=>{const w=String(n||"").replace(/^team\s+/i,"").trim();return esc((w[0]||"?").toUpperCase())},mono=n=>`<span class="mono">${ini(n)}</span>`,avImg=k=>"";
 const SKINS=[{id:"night",name:"Night",sw:"#0D2742"},{id:"day",name:"Day",sw:"#EAF3FB"}];
 const COLORS=["var(--t1)","var(--t2)","var(--t3)","var(--t4)"];
 const AB=[
@@ -589,7 +664,7 @@ function homeHTML(){
   return `<div class="band"></div><div class="screen"><div class="home">
    ${(()=>{const cv=Object.keys(ART).filter(k=>k.startsWith("cover-")&&!WALL_SKIP.includes(k.slice(6))).sort(()=>Math.random()-.5);return cv.length>=8?`<div class="homebg">${cv.slice(0,8).map((k,i)=>`<img src="${ART[k]}" alt="" style="animation-delay:${i*6}s">`).join("")}</div><div class="hero cine">`:`<div class="hero">${HERO.map((p,k)=>`<img src="${ART["home-"+k]}" alt="" style="left:${p[0]}%;top:${p[1]}%;--rot:${p[2]}deg;animation-delay:${-k*.4}s">`).join("")}`})()}<div class="mark"><span class="en">Majlis</span><span class="ar" lang="ar">مجلس</span></div></div>
    <p class="tag">Team trivia for nights in the majlis. Pick six categories, draft your abilities, and chase the 600s.</p>
-   <div class="facts"><span><b>${BANK.length}</b>categories</span><span><b>${total.toLocaleString()}</b>questions</span><span><b>${pics.toLocaleString()}</b>with photos</span><span><b>${vids}</b>clips</span></div>
+   
    <div class="acts">${resume?`<button class="btn btn-acc" onclick="go('board')">Resume game</button>`:""}<button class="btn btn-pri" onclick="go('setup')">New game</button><button class="btn btn-line" onclick="toggleFS()">Full screen</button></div>
    <span class="label">Theme</span>${skinsHTML()}
   </div></div>`;
@@ -603,7 +678,7 @@ function setupHTML(){
   return `<div class="band"></div><div class="screen setup">
    <div class="top"><button class="btn btn-soft" onclick="go('home')">Back</button><h2>New game</h2><button class="btn btn-line" onclick="setup.sound=!setup.sound;save();render()">${setup.sound?"Sound on":"Sound off"}</button></div>
    <div class="sec"><span class="label">Teams</span>
-    <div class="teams">${setup.teams.map((t,i)=>`<label class="team-in" style="--c:${COLORS[i]}"><button class="av" onclick="event.preventDefault();setup.av[${i}]=((setup.av[${i}]||0)+1)%AVN;save();render()" aria-label="Change team ${i+1} mascot">${avImg(setup.av[i])}</button><input id="team${i}" value="${esc(t)}" maxlength="18" aria-label="Team ${i+1} name" oninput="setup.teams[${i}]=this.value;save()">${setup.teams.length>2?`<button class="x" onclick="setup.teams.splice(${i},1);setup.av.splice(${i},1);setup.av.push(${i});render()" aria-label="Remove team">&times;</button>`:""}</label>`).join("")}</div>
+    <div class="teams">${setup.teams.map((t,i)=>`<label class="team-in" style="--c:${COLORS[i]}"><button class="av" onclick="event.preventDefault();setup.av[${i}]=((setup.av[${i}]||0)+1)%AVN;save();render()" aria-label="Team ${i+1}">${mono(t||"Team "+(i+1))}</button><input id="team${i}" value="${esc(t)}" maxlength="18" aria-label="Team ${i+1} name" oninput="setup.teams[${i}]=this.value;save()">${setup.teams.length>2?`<button class="x" onclick="setup.teams.splice(${i},1);setup.av.splice(${i},1);setup.av.push(${i});render()" aria-label="Remove team">&times;</button>`:""}</label>`).join("")}</div>
     ${setup.teams.length<4?`<div><button class="btn btn-line" onclick="addTeam()">Add team</button></div>`:""}
    </div>
    <div class="sec"><span class="label">Answer timer</span><div class="seg">${[30,45,60,90].map(s=>`<button class="${setup.timer===s?"on":""}" onclick="setup.timer=${s};render()">${s} sec</button>`).join("")}</div></div>
@@ -627,8 +702,8 @@ function draftHTML(){
   return `<div class="band"></div><div class="screen draft">
    <div class="top"><button class="btn btn-soft" onclick="go('setup')">Back</button><h2>Abilities</h2><span style="width:60px"></span></div>
    <p style="margin:0;color:var(--muted)">Each team picks one Help, one Points and one Tactics ability. Each ability works once per game.</p>
-   ${setup.teams.map((t,i)=>{const mine=setup.abil[i]||[];return `<section class="dteam" style="--c:${COLORS[i]}"><header><div class="who"><img src="${ART["team-"+((setup.av[i]||0)%AVN)]}" alt=""><h3>${esc(t||"Team "+(i+1))}</h3></div><div style="display:flex;gap:8px;align-items:center"><b style="color:var(--c)">${mine.length}/3</b><button class="btn btn-line" onclick="randAb(${i})">Random 3</button></div></header>
-    ${ABG.map((gn,g)=>`<div class="label">${gn}: pick 1</div><div class="abil">${AB.filter(a=>a.g===g).map(a=>{const on=mine.includes(a.id);return `<button class="ab ${on?"on":""}" onclick="togAb(${i},'${a.id}')"><span class="ai">${P(IC[a.ico])}</span><span><b>${a.name}</b><small>${a.desc}</small></span></button>`}).join("")}</div>`).join("")}</section>`}).join("")}
+   ${setup.teams.map((t,i)=>{const mine=setup.abil[i]||[];return `<section class="dteam" style="--c:${COLORS[i]}"><header><div class="who">${mono(t||"Team "+(i+1))}<h3>${esc(t||"Team "+(i+1))}</h3></div><div style="display:flex;gap:8px;align-items:center"><b style="color:var(--c)">${mine.length}/3</b><button class="btn btn-line" onclick="randAb(${i})">Random 3</button></div></header>
+    ${ABG.map((gn,g)=>`<div class="label">${gn}: pick 1</div><div class="abil">${AB.filter(a=>a.g===g).map(a=>{const on=mine.includes(a.id);return `<button class="ab ${on?"on":""}" onclick="togAb(${i},'${a.id}')"><span class="ai"></span><span><b>${a.name}</b><small>${a.desc}</small></span></button>`}).join("")}</div>`).join("")}</section>`}).join("")}
    <div class="dock"><button class="btn btn-pri" ${ok?"":"disabled"} onclick="startGame()">${ok?"Start game":"Each team needs 3 abilities"}</button></div></div>`;
 }
 function togAb(i,id){const g=ABM[id].g;let m=(setup.abil[i]||[]);if(m.includes(id))m=m.filter(x=>x!==id);else m=m.filter(x=>ABM[x].g!==g).concat(id);setup.abil[i]=m;save();render()}
@@ -653,17 +728,17 @@ function tileHTML(ci,ti){const x=game.cats[ci].tiles[ti];
   return `<button class="tile" onclick="openQ(${ci},${ti})" aria-label="${esc(CAT[game.cats[ci].id].name)} ${x.p}">${x.p}</button>`}
 function boardHTML(){if(!APK)game.cats.forEach(c=>{if(CAT[c.id]&&CAT[c.id].photos)loadPack(c.id)});
   return `<div class="band"></div><div class="screen">
-   <div class="top"><button class="btn btn-soft" onclick="go('home')">Menu</button><div class="turn" style="--c:${COLORS[game.turn]}">${avImg(game.teams[game.turn].av)}<span>${esc(game.teams[game.turn].name)} picks</span></div>
+   <div class="top"><button class="btn btn-soft" onclick="go('home')">Menu</button><div class="turn" style="--c:${COLORS[game.turn]}">${mono(game.teams[game.turn].name)}<span>${esc(game.teams[game.turn].name)} picks</span></div>
     <div style="display:flex;gap:8px"><button class="btn btn-line fs-btn" onclick="toggleFS()">Full screen</button>${game.hist.length?`<button class="btn btn-line" onclick="undo()">Undo</button>`:""}<button class="btn btn-line" onclick="confirmEnd()">End</button></div></div>
    <div class="board">${game.cats.map((c,ci)=>`<section class="card ${ART["cover-"+c.id]?"ph":""}" style="--gc:${CAT[c.id].color}${ART["cover-"+c.id]?`;--ph:url(${ART["cover-"+c.id]})`:""}"><div class="col">${[0,2,4].map(t=>tileHTML(ci,t)).join("")}</div><div class="mid"><span class="badge">${icon(c.id)}</span><h3>${esc(CAT[c.id].name)}</h3></div><div class="col">${[1,3,5].map(t=>tileHTML(ci,t)).join("")}</div></section>`).join("")}</div>
   </div>
-  <div class="rail"><div class="rail-in">${game.teams.map((t,i)=>`<div class="chip ${i===game.turn?"cur":""}" style="--c:${COLORS[i]}"><span class="cav">${avImg(t.av)}</span><span class="nm">${esc(t.name)}</span><span class="sc">${t.score}</span><div class="row"><button onclick="adj(${i},-100)" aria-label="Minus 100">-100</button><button class="abtn" onclick="teamSheet(${i})">${t.abil.filter(a=>!t.used[a]).length} abilities</button><button onclick="adj(${i},100)" aria-label="Plus 100">+100</button></div></div>`).join("")}</div></div>`;
+  <div class="rail"><div class="rail-in">${game.teams.map((t,i)=>`<div class="chip ${i===game.turn?"cur":""}" style="--c:${COLORS[i]}"><span class="cav">${mono(t.name)}</span><span class="nm">${esc(t.name)}</span><span class="sc">${t.score}</span><div class="row"><button onclick="adj(${i},-100)" aria-label="Minus 100">-100</button><button class="abtn" onclick="teamSheet(${i})">${t.abil.filter(a=>!t.used[a]).length} abilities</button><button onclick="adj(${i},100)" aria-label="Plus 100">+100</button></div></div>`).join("")}</div></div>`;
 }
 function adj(i,v){game.teams[i].score+=v;save();render()}
 function modal(html){const m=document.createElement("div");m.className="modal";m.innerHTML=`<div>${html}</div>`;m.addEventListener("click",e=>{if(e.target===m)m.remove()});document.body.appendChild(m);return m}
 function teamSheet(i){const t=game.teams[i];
   const m=modal(`<h3 style="font-size:22px;color:${COLORS[i]}">${esc(t.name)}</h3><p>Board abilities can be used here. Question abilities appear on the question screen.</p>
-   <div style="display:flex;flex-direction:column;gap:8px">${t.abil.map(id=>{const a=ABM[id],u=t.used[id];return `<button class="ab ${u?"":"on"}" style="--c:${COLORS[i]}" ${u||a.when!=="board"?"disabled":""} data-ab="${id}"><span class="ai">${P(IC[a.ico])}</span><span><b>${a.name}${u?" (used)":a.when==="board"?"":" (on questions)"}</b><small>${a.desc}</small></span></button>`}).join("")}</div>
+   <div style="display:flex;flex-direction:column;gap:8px">${t.abil.map(id=>{const a=ABM[id],u=t.used[id];return `<button class="ab ${u?"":"on"}" style="--c:${COLORS[i]}" ${u||a.when!=="board"?"disabled":""} data-ab="${id}"><span class="ai"></span><span><b>${a.name}${u?" (used)":a.when==="board"?"":" (on questions)"}</b><small>${a.desc}</small></span></button>`}).join("")}</div>
    <div class="row"><button class="btn btn-soft" data-close>Close</button></div>`);
   m.querySelector("[data-close]").onclick=()=>m.remove();
   m.querySelectorAll("[data-ab]").forEach(b=>b.onclick=()=>{const id=b.dataset.ab;m.remove();
@@ -704,7 +779,7 @@ function mediaHTML(x){const id=game.cats[Q.ci].id;let h="";
     if(x.cpic&&x.cpic.startsWith("data:"))h+=`<div class="qc-flat"><img alt="" src="${esc(x.cpic)}"></div>`;
     else if(x.cpic&&!x.pic)h+=wpicHTML(x.cpic,"cpic");
     else if(ART["cover-"+id])h+=`<div class="qc-cover" style="--u:url('${ART["cover-"+id]}')"></div>`;
-    else h+=`<div class="qc-artbox"><img class="q-art" src="${ART["cat-"+id]||""}" alt=""></div>`}
+    else h+=`<div class="qc-artbox"><b>${esc(CAT[id].name)}</b></div>`}
   h+=wpicHTML(x.pic,"qpic");if(x.img)h+=`<div class="qc-flat"><img alt="Picture for this question" src="${esc(x.img)}"></div>`;if(x.svg)h+=`<div class="qc-flat"><img alt="Picture for this question" src="data:image/svg+xml;charset=utf-8,${encodeURIComponent(x.svg)}"></div>`;if(x.emoji)h+=`<div class="q-emoji">${esc(x.emoji)}</div>`;return h+(x.yt?`<div id="vidbox">${vidHTML(x)}</div>`:`<div id="vidbox"></div>`)}
 function qText(x){let h=esc(x.q);(x.qar||[]).forEach(([t,a])=>{const e=esc(t),re=new RegExp("(^|[^\\p{L}\\p{N}])("+e.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")+")(?![\\p{L}\\p{N}])","u"),m=re.exec(h);if(m){const k=m.index+m[1].length;h=h.slice(0,k)+e+` - <bdi class="arw" lang="ar">${esc(a)}</bdi>`+h.slice(k+e.length)}});return h}
 function hintOf(a){return String(a).split(/\s+/).map(w=>w[0]+" _".repeat(Math.max(0,w.length-1))).join("   ")}
@@ -728,7 +803,7 @@ function drawQ(){
   const R=33,C=2*Math.PI*R,frac=Math.max(0,Q.left)/Q.total,low=Q.left<=10;
   $("#qpts").innerHTML=`<b class="${Q.mult>1?"hot":""}">${tile.p*Q.mult}</b>${Q.mult>1?`<small>x${Q.mult}</small>`:""}`;
   const st=Q.stealer!==null?Q.stealer:Q.team,stt=game.teams[st];
-  $("#qhead").innerHTML=`<div class="turn" style="--c:${COLORS[st]}"><img src="${ART["team-"+((stt.av||0)%AVN)]}" alt=""><span><small>${Q.revealed?"Answer time":Q.stealer!==null?"Stealing":"Your turn"}</small>${esc(stt.name)}</span></div>
+  $("#qhead").innerHTML=`<div class="turn" style="--c:${COLORS[st]}">${mono(stt.name)}<span><small>${Q.revealed?"Answer time":Q.stealer!==null?"Stealing":"Your turn"}</small>${esc(stt.name)}</span></div>
    ${Q.revealed?"":`<button class="ring ${low?"low":""}" onclick="pauseT()" aria-label="${Q.paused?"Resume":"Pause"} timer"><svg width="78" height="78" viewBox="0 0 78 78"><circle cx="39" cy="39" r="${R}" stroke="var(--s3)" stroke-width="7" fill="none"/><circle id="arc" cx="39" cy="39" r="${R}" stroke="${low?"var(--bad)":"var(--pri)"}" stroke-width="7" fill="none" stroke-linecap="round" stroke-dasharray="${C}" stroke-dashoffset="${C*(1-frac)}"/></svg><b id="secs">${Math.max(0,Q.left)}</b><small id="tsub">${Q.freeze>0?"Frozen "+Q.freeze+"s":Q.paused?"Paused":"Tap to pause"}</small></button>`}`;
   const tags=[];
 
@@ -744,7 +819,7 @@ function drawQ(){
   if(Q.revealed&&x.apic&&!x.yt&&!Q.apicShown){Q.apicShown=true;const q0=Q;wikiImg(x.apic).then(u=>{const m=$("#qmedia");if(!u||Q!==q0||!m)return;const keep=m.querySelectorAll(".qc-tag,.qc-pts");m.innerHTML=phHTML(u);keep.forEach(k=>m.appendChild(k));m.classList.add("flip")})}
   if(!Q.revealed){
     const rows=game.teams.map((tm,i)=>{const list=tm.abil.filter(id=>{const a=ABM[id];if(a.when!=="q")return false;if(a.who==="ans")return i===Q.team;if(a.who==="other")return i!==Q.team;return true});if(!list.length)return "";
-      return `<div class="tm" style="--c:${COLORS[i]}"><span>${esc(tm.name)}</span>${list.map(id=>{const a=ABM[id],u=tm.used[id],dis=u||(["double","risk"].includes(id)&&Q.mult>1);return `<button class="use ${Q.active[i+id]?"active":""}" style="--c:${COLORS[i]}" ${dis?"disabled":""} onclick="useAb(${i},'${id}')" title="${esc(a.desc)}">${P(IC[a.ico])}${a.name}</button>`}).join("")}</div>`}).join("");
+      return `<div class="tm" style="--c:${COLORS[i]}"><span>${esc(tm.name)}</span>${list.map(id=>{const a=ABM[id],u=tm.used[id],dis=u||(["double","risk"].includes(id)&&Q.mult>1);return `<button class="use ${Q.active[i+id]?"active":""}" style="--c:${COLORS[i]}" ${dis?"disabled":""} onclick="useAb(${i},'${id}')" title="${esc(a.desc)}">${a.name}</button>`}).join("")}</div>`}).join("");
     $("#qfoot").innerHTML=`<div style="display:flex;flex-direction:column;gap:12px">${rows?`<div class="abrow">${rows}</div>`:""}${stealHTML()}<div class="q-acts"><button class="btn btn-soft" onclick="closeQ(false)">Back</button><button class="btn btn-pri" onclick="reveal()">Show answer</button></div></div>`;
   }else{
     $("#qfoot").innerHTML=`<div><div class="label" style="margin-bottom:10px">Who got it right?</div><div class="award">${game.teams.map((tm,i)=>{const blocked=Q.block===i&&i!==Q.team;return `<button class="${Q.stealer===i?"hl":""}" style="--c:${COLORS[i]}" ${blocked?"disabled":""} onclick="award(${i})">${esc(tm.name)}<small>${i===Q.team?"+"+tile.p*Q.mult+(Q.pick?" & pickpocket":""):blocked?"Blocked":"Steal +"+tile.p}</small></button>`}).join("")}<button class="none" onclick="award(null)">No one<small>${Q.risk?"-"+tile.p+" for "+esc(t.name):Q.insure?"+"+tile.p/2+" insurance":"Tile is lost"}</small></button></div></div>`;
@@ -780,7 +855,7 @@ function useAb(i,id){const tm=game.teams[i];if(tm.used[id])return;const tile=gam
 function stealHTML(){if(game.teams.length<2)return "";const others=game.teams.map((t,i)=>i).filter(i=>i!==Q.team);
   const firstWaiting=Q.first!==null&&Q.first!==Q.team&&!Q.tried.includes(Q.first);
   return `<div class="steal"><span class="label">${Q.stealer===null?"Missed it? Another team can steal":"Stealing now"}</span><div class="steal-row">${others.map(i=>{const tm=game.teams[i],blocked=Q.block===i,wait=firstWaiting&&i!==Q.first,on=Q.stealer===i;
-    return `<button class="steal-b ${on?"on":""}" style="--c:${COLORS[i]}" ${blocked||wait||on?"disabled":""} onclick="steal(${i})"><img src="${ART["team-"+((tm.av||0)%AVN)]}" alt=""><span>${esc(tm.name)}<small>${blocked?"Blocked":wait?"Waits for "+esc(game.teams[Q.first].name):on?"Answering now":"Steal for +"+game.cats[Q.ci].tiles[Q.ti].p}</small></span></button>`}).join("")}</div></div>`}
+    return `<button class="steal-b ${on?"on":""}" style="--c:${COLORS[i]}" ${blocked||wait||on?"disabled":""} onclick="steal(${i})">${mono(tm.name)}<span>${esc(tm.name)}<small>${blocked?"Blocked":wait?"Waits for "+esc(game.teams[Q.first].name):on?"Answering now":"Steal for +"+game.cats[Q.ci].tiles[Q.ti].p}</small></span></button>`}).join("")}</div></div>`}
 function steal(i){Q.stealer=i;if(!Q.tried.includes(i))Q.tried.push(i);Q.left=Math.max(15,Math.min(Q.left,15));Q.total=15;Q.paused=false;Q.freeze=0;startTick();drawQ();beep(880,.12);toast(game.teams[i].name+" is stealing: 15 seconds")}
 function reveal(){Q.revealed=true;const vb=$("#vidbox .aud-mode");if(vb)vb.classList.remove("aud-mode");else if(cur().audio&&ytBlocked)$("#vidbox").innerHTML=vidHTML(cur());clearInterval(tick);drawQ();beep(520,.15)}
 function award(i){
