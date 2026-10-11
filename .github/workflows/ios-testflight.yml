@@ -1,0 +1,59 @@
+name: iOS TestFlight
+# Builds majlis-ios on a GitHub Mac and uploads it to TestFlight. Needs these repository secrets:
+#   APPLE_TEAM_ID        10-character Team ID (developer.apple.com > Membership)
+#   ASC_KEY_ID           App Store Connect API key ID
+#   ASC_ISSUER_ID        App Store Connect API issuer ID
+#   ASC_KEY_P8           full text of the AuthKey_XXXX.p8 file (key role: Admin, so Xcode can make the signing certificate)
+on:
+  push:
+    branches: [main]
+    paths: ['majlis-ios/**', '.github/workflows/ios-testflight.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  testflight:
+    runs-on: macos-15
+    env:
+      HAS_KEYS: ${{ secrets.ASC_KEY_P8 != '' && secrets.APPLE_TEAM_ID != '' }}
+    defaults:
+      run:
+        working-directory: majlis-ios
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check secrets
+        if: env.HAS_KEYS != 'true'
+        run: echo "::warning::Apple secrets are not set yet, so the app is built but not signed or uploaded."
+      - name: Generate the Xcode project
+        run: brew install xcodegen && xcodegen generate
+      - name: Build without signing
+        if: env.HAS_KEYS != 'true'
+        run: xcodebuild -project Majlis.xcodeproj -scheme Majlis -destination 'generic/platform=iOS' CODE_SIGNING_ALLOWED=NO build | tail -20
+      - name: Write the API key
+        if: env.HAS_KEYS == 'true'
+        env: { ASC_KEY_P8: '${{ secrets.ASC_KEY_P8 }}', ASC_KEY_ID: '${{ secrets.ASC_KEY_ID }}' }
+        run: |
+          mkdir -p "$RUNNER_TEMP/keys"
+          printf '%s\n' "$ASC_KEY_P8" > "$RUNNER_TEMP/keys/AuthKey_$ASC_KEY_ID.p8"
+      - name: Archive
+        if: env.HAS_KEYS == 'true'
+        run: |
+          xcodebuild -project Majlis.xcodeproj -scheme Majlis -configuration Release \
+            -destination 'generic/platform=iOS' -archivePath "$RUNNER_TEMP/Majlis.xcarchive" \
+            -allowProvisioningUpdates \
+            -authenticationKeyPath "$RUNNER_TEMP/keys/AuthKey_${{ secrets.ASC_KEY_ID }}.p8" \
+            -authenticationKeyID '${{ secrets.ASC_KEY_ID }}' -authenticationKeyIssuerID '${{ secrets.ASC_ISSUER_ID }}' \
+            DEVELOPMENT_TEAM='${{ secrets.APPLE_TEAM_ID }}' CURRENT_PROJECT_VERSION='${{ github.run_number }}' \
+            archive | tail -40
+      - name: Upload to TestFlight
+        if: env.HAS_KEYS == 'true'
+        run: |
+          sed "s/TEAM_ID/${{ secrets.APPLE_TEAM_ID }}/" ExportOptions.plist > "$RUNNER_TEMP/ExportOptions.plist"
+          xcodebuild -exportArchive -archivePath "$RUNNER_TEMP/Majlis.xcarchive" \
+            -exportOptionsPlist "$RUNNER_TEMP/ExportOptions.plist" -exportPath "$RUNNER_TEMP/export" \
+            -allowProvisioningUpdates \
+            -authenticationKeyPath "$RUNNER_TEMP/keys/AuthKey_${{ secrets.ASC_KEY_ID }}.p8" \
+            -authenticationKeyID '${{ secrets.ASC_KEY_ID }}' -authenticationKeyIssuerID '${{ secrets.ASC_ISSUER_ID }}' | tail -40
+      - name: Remove the API key
+        if: always()
+        run: rm -rf "$RUNNER_TEMP/keys"
