@@ -35,13 +35,15 @@
    "q": "In which modern country is Lumbini, the Buddha's birthplace?",
    "a": "Nepal",
    "p": 200,
-   "apic": "Lumbini"
+   "apic": "Lumbini",
+   "cpic": "The Buddha"
   },
   {
    "q": "What is the name of the garden grove regarded as the Buddha's birthplace?",
    "a": "Lumbini",
    "p": 200,
-   "apic": "Lumbini"
+   "apic": "Lumbini",
+   "cpic": "The Buddha"
   },
   {
    "q": "Which Buddhist term, literally 'blowing out', names liberation from suffering and rebirth?",
@@ -65,7 +67,8 @@
    "p": 200,
    "alt": [
     "4"
-   ]
+   ],
+   "cpic": "The Buddha"
   },
   {
    "q": "What is the Buddhist name for the endless cycle of birth, death and rebirth?",
@@ -106,13 +109,15 @@
     "Three Refuges",
     "Triratna"
    ],
-   "apic": "Three Jewels"
+   "apic": "Three Jewels",
+   "cpic": "Sangha (Buddhism)"
   },
   {
    "q": "Which title, often explained as 'Ocean of Wisdom', is held by the leading figure of the Gelug school of Tibetan Buddhism?",
    "a": "Dalai Lama",
    "p": 200,
-   "apic": "Dalai Lama"
+   "apic": "Dalai Lama",
+   "cpic": "Gelug"
   },
   {
    "q": "In which country did Buddhism originate?",
@@ -139,7 +144,8 @@
    "q": "In Mahayana Buddhism, what name is given to a being who seeks enlightenment to help free all others?",
    "a": "Bodhisattva",
    "p": 200,
-   "apic": "Bodhisattva"
+   "apic": "Bodhisattva",
+   "cpic": "Mahayana"
   },
   {
    "q": "What name is given to the Buddha's path between luxury and extreme self-denial?",
@@ -301,7 +307,8 @@
   {
    "q": "Which Buddhist virtue, 'karuna' in Pali and Sanskrit, means wishing others to be free from suffering?",
    "a": "Compassion",
-   "p": 200
+   "p": 200,
+   "cpic": "Sanskrit"
   },
   {
    "q": "What is it called when a person formally commits to the Buddha, the Dharma and the Sangha?",
@@ -310,7 +317,8 @@
    "alt": [
     "Refuge",
     "Going for refuge"
-   ]
+   ],
+   "cpic": "Sangha (Buddhism)"
   },
   {
    "q": "According to the First Noble Truth, life inevitably involves what?",
@@ -345,7 +353,8 @@
    "q": "Besides Pali, in which ancient Indian language were many Mahayana scriptures written?",
    "a": "Sanskrit",
    "p": 200,
-   "apic": "Sanskrit"
+   "apic": "Sanskrit",
+   "cpic": "Mahayana"
   },
   {
    "q": "The Buddha's first sermon is said to have set in motion the wheel of what?",
@@ -401,7 +410,8 @@
    "alt": [
     "Parinibbana",
     "Mahaparinirvana"
-   ]
+   ],
+   "cpic": "Reclining Buddha"
   },
   {
    "q": "According to tradition, at what age did the Buddha pass away?",
@@ -421,7 +431,8 @@
     "Monk",
     "Sramana"
    ],
-   "apic": "Four sights"
+   "apic": "Four sights",
+   "cpic": "Four sights"
   },
   {
    "q": "The Buddhist teaching of anatta, 'anatman' in Sanskrit, is translated as what?",
@@ -431,7 +442,8 @@
     "No-self",
     "Not-self"
    ],
-   "apic": "Anattā"
+   "apic": "Anattā",
+   "cpic": "Sanskrit"
   },
   {
    "q": "What was the name of Siddhartha's wife?",
@@ -499,7 +511,8 @@
     "Metteyya",
     "Miroku"
    ],
-   "apic": "Maitreya"
+   "apic": "Maitreya",
+   "cpic": "Bodhisattva"
   },
   {
    "q": "What is the Chinese name of the bodhisattva of compassion, known in Japan as Kannon?",
@@ -510,7 +523,8 @@
     "Kuan Yin",
     "Guan Yin"
    ],
-   "apic": "Guanyin"
+   "apic": "Guanyin",
+   "cpic": "Bodhisattva"
   },
   {
    "q": "Which 7th-century Chinese monk's pilgrimage to India inspired 'Journey to the West'?",
@@ -548,13 +562,15 @@
    "p": 400,
    "alt": [
     "Greater Vehicle"
-   ]
+   ],
+   "cpic": "Mahayana"
   },
   {
    "q": "Which demon tried to tempt and frighten Siddhartha as he meditated under the Bodhi tree?",
    "a": "Mara",
    "p": 400,
-   "apic": "Mara (demon)"
+   "apic": "Mara (demon)",
+   "cpic": "Bodhi tree"
   },
   {
    "q": "Before Siddhartha's birth, Queen Maya is said to have dreamed of what white animal?",
@@ -562,7 +578,8 @@
    "p": 400,
    "alt": [
     "White elephant"
-   ]
+   ],
+   "cpic": "Maya (mother of the Buddha)"
   },
   {
    "q": "To how many former companions did the Buddha deliver his first sermon?",
@@ -579,7 +596,8 @@
    "alt": [
     "Killing",
     "Harming living beings"
-   ]
+   ],
+   "cpic": "Five precepts"
   },
   {
    "q": "In Theravada Buddhism, what name is given to a person who has reached nirvana?",
@@ -810,7 +828,8 @@
     "Dependent arising",
     "Interdependent origination"
    ],
-   "apic": "Pratītyasamutpāda"
+   "apic": "Pratītyasamutpāda",
+   "cpic": "Pratītyasamutpāda"
   },
   {
    "q": "What Tibetan term names the intermediate state between death and rebirth?",
@@ -822,7 +841,8 @@
    "q": "Which cousin and rival of the Buddha is said to have tried to split the Sangha?",
    "a": "Devadatta",
    "p": 600,
-   "apic": "Devadatta"
+   "apic": "Devadatta",
+   "cpic": "Sangha (Buddhism)"
   },
   {
    "q": "What was the name of the horse Siddhartha rode when he left the palace?",
@@ -906,7 +926,8 @@
     "Dōgen",
     "Eihei Dogen"
    ],
-   "apic": "Dōgen"
+   "apic": "Dōgen",
+   "cpic": "Sōtō"
   },
   {
    "q": "Which monk, who brought Rinzai Zen to Japan, also popularised tea drinking there?",
@@ -973,7 +994,8 @@
     "Sunyata",
     "Śūnyatā"
    ],
-   "apic": "Śūnyatā"
+   "apic": "Śūnyatā",
+   "cpic": "Sanskrit"
   },
   {
    "q": "What title, often translated 'thus-gone one', did the Buddha use for himself?",
@@ -1026,7 +1048,8 @@
     "Manjusri",
     "Monju"
    ],
-   "apic": "Manjushri"
+   "apic": "Manjushri",
+   "cpic": "Bodhisattva"
   },
   {
    "q": "Which Beat Generation author wrote the 1958 novel 'The Dharma Bums'?",
@@ -1058,7 +1081,8 @@
     "Chenrezig",
     "Avalokitesvara"
    ],
-   "apic": "Om mani padme hum"
+   "apic": "Om mani padme hum",
+   "cpic": "Mantra"
   },
   {
    "q": "Who was the Buddha's aunt and stepmother, the first woman ordained as a nun?",
@@ -1103,7 +1127,8 @@
    "alt": [
     "Mustard seeds"
    ],
-   "apic": "Kisa Gotami"
+   "apic": "Kisa Gotami",
+   "cpic": "Kisa Gotami"
   },
   {
    "q": "In a famous parable, the Buddha compares his teaching to what, used to cross a river and then left behind?",
@@ -1151,7 +1176,8 @@
    "alt": [
     "Right understanding"
    ],
-   "apic": "Noble Eightfold Path"
+   "apic": "Noble Eightfold Path",
+   "cpic": "Noble Eightfold Path"
   },
   {
    "q": "Anicca, dukkha and anatta are together known as the Three what?",

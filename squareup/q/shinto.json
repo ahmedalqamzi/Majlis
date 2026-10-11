@@ -323,7 +323,8 @@
   {
    "q": "In which city are both Meiji Shrine and Kanda Myojin located?",
    "a": "Tokyo",
-   "p": 200
+   "p": 200,
+   "cpic": "Meiji Shrine"
   },
   {
    "q": "Which director made Spirited Away and Princess Mononoke, films full of kami and nature spirits?",
@@ -493,7 +494,8 @@
    "alt": [
     "Twenty",
     "20 years"
-   ]
+   ],
+   "cpic": "Ise Grand Shrine"
   },
   {
    "q": "Who is traditionally regarded as the first emperor of Japan, said to descend from the sun goddess?",
@@ -513,7 +515,8 @@
     "Okuninushi-no-Mikoto",
     "Daikoku"
    ],
-   "apic": "Ōkuninushi"
+   "apic": "Ōkuninushi",
+   "cpic": "Izumo-taisha"
   },
   {
    "q": "In the Kojiki, the kami Okuninushi heals which skinned animal from Inaba?",
@@ -524,7 +527,8 @@
     "White hare",
     "Hare of Inaba"
    ],
-   "apic": "Hare of Inaba"
+   "apic": "Hare of Inaba",
+   "cpic": false
   },
   {
    "q": "The old name for the tenth lunar month, Kannazuki, means 'month without gods' because the kami gather at which shrine?",
@@ -695,7 +699,8 @@
    "q": "What is the name of the sacred music and dance performed for the kami, often by miko?",
    "a": "Kagura",
    "p": 400,
-   "apic": "Kagura"
+   "apic": "Kagura",
+   "cpic": "Miko"
   },
   {
    "q": "What are the calligraphed red seal stamps collected in a special book at shrines and temples called?",
@@ -727,7 +732,8 @@
     "Abura-age",
     "Deep-fried tofu"
    ],
-   "apic": "Inarizushi"
+   "apic": "Inarizushi",
+   "cpic": "Inarizushi"
   },
   {
    "q": "Which coin is a popular shrine offering because its name sounds like the word for a good connection?",
@@ -771,7 +777,8 @@
    "q": "Which three-legged crow guided Emperor Jimmu and appears on the emblem of the Japan Football Association?",
    "a": "Yatagarasu",
    "p": 400,
-   "apic": "Yatagarasu"
+   "apic": "Yatagarasu",
+   "cpic": "Emperor Jimmu"
   },
   {
    "q": "Ema plaques developed from offerings of which real animal to shrines?",
@@ -876,7 +883,8 @@
     "Kagu-tsuchi",
     "Homusubi"
    ],
-   "apic": "Kagu-tsuchi"
+   "apic": "Kagu-tsuchi",
+   "cpic": "Izanami"
   },
   {
    "q": "According to the Kojiki, from which part of Izanagi was the storm god Susanoo born?",
@@ -913,7 +921,8 @@
    "alt": [
     "Yata-no-Kagami"
    ],
-   "apic": "Yata no Kagami"
+   "apic": "Yata no Kagami",
+   "cpic": "Ise Grand Shrine"
   },
   {
    "q": "What is the name of the jewel among the Three Sacred Treasures?",
@@ -1195,7 +1204,8 @@
     "Saiō",
     "Saigū"
    ],
-   "apic": "Saiō"
+   "apic": "Saiō",
+   "cpic": "Ise Grand Shrine"
   },
   {
    "q": "Which festival, one of Japan's three great festivals, is held in Osaka in July with a river procession of boats?",
@@ -1258,7 +1268,8 @@
    "p": 600,
    "alt": [
     "Left hand"
-   ]
+   ],
+   "cpic": "Temizuya"
   },
   {
    "q": "Which Shinto-derived religion was founded in 1838 by Nakayama Miki and is based in a city in Nara named after it?",

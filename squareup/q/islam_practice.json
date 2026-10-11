@@ -63,7 +63,8 @@
     "Sadqa",
     "Sadaka"
    ],
-   "apic": "Sadaqah"
+   "apic": "Sadaqah",
+   "cpic": "Zakat"
   },
   {
    "q": "What is the ritual washing performed before prayer called?",
@@ -166,7 +167,8 @@
     "Khutba",
     "Khutbah al-Jumu'ah"
    ],
-   "apic": "Khutbah"
+   "apic": "Khutbah",
+   "cpic": "Friday prayer"
   },
   {
    "q": "What is the person who leads the congregational prayer called?",
@@ -441,7 +443,8 @@
    "alt": [
     "Head",
     "Their hair"
-   ]
+   ],
+   "cpic": "Umrah"
   },
   {
    "q": "In which language is the adhan always called, all over the world?",
@@ -480,7 +483,8 @@
    "p": 200,
    "alt": [
     "Two"
-   ]
+   ],
+   "cpic": "Rak'ah"
   },
   {
    "q": "Zakat is due on savings held for one full lunar what?",
@@ -490,7 +494,8 @@
    "alt": [
     "Hawl",
     "Lunar year"
-   ]
+   ],
+   "cpic": "Zakat"
   },
   {
    "q": "What is the bowing position in prayer called?",
@@ -641,7 +646,8 @@
    "alt": [
     "Hagar",
     "Hajer"
-   ]
+   ],
+   "cpic": "Sa'i"
   },
   {
    "q": "In which valley near Mecca do pilgrims stay in tents and stone the pillars?",
@@ -851,7 +857,8 @@
     "2.5",
     "Two and a half percent",
     "1/40"
-   ]
+   ],
+   "cpic": "Zakat"
   },
   {
    "q": "What does the word 'Kaaba' mean in Arabic?",
@@ -904,7 +911,8 @@
     "Masjid Jami",
     "Congregational mosque"
    ],
-   "apic": "Congregational mosque"
+   "apic": "Congregational mosque",
+   "cpic": "Friday prayer"
   },
   {
    "q": "Which caliph introduced the Hijri calendar?",
@@ -976,7 +984,8 @@
    "alt": [
     "Qasar",
     "Qasr al-Salah"
-   ]
+   ],
+   "cpic": "Rak'ah"
   },
   {
    "q": "What is praying together in a group, rather than alone, called in Arabic?",
@@ -997,7 +1006,8 @@
    "alt": [
     "Stones",
     "Small stones"
-   ]
+   ],
+   "cpic": "Muzdalifah"
   },
   {
    "q": "What are the stations where pilgrims must enter ihram before reaching Mecca called?",
@@ -1008,7 +1018,8 @@
     "Mawaqit",
     "Meeqat"
    ],
-   "apic": "Miqat"
+   "apic": "Miqat",
+   "cpic": "Ihram"
   },
   {
    "q": "How many obligatory rak'ahs are prayed in total each day?",
@@ -1200,7 +1211,8 @@
     "Dhul Hulaifah",
     "Dhul Hulayfah"
    ],
-   "apic": "Dhu al-Hulayfah"
+   "apic": "Dhu al-Hulayfah",
+   "cpic": "Miqat"
   },
   {
    "q": "What is the farewell tawaf performed before leaving Mecca called?",
@@ -1261,7 +1273,8 @@
    "alt": [
     "Hajj al-Tamattu",
     "Tamattu"
-   ]
+   ],
+   "cpic": "Ihram"
   },
   {
    "q": "What is shaving the whole head at the end of the pilgrimage called, as opposed to trimming (taqsir)?",
@@ -1414,7 +1427,8 @@
    "alt": [
     "BSB"
    ],
-   "apic": "Sultan Omar Ali Saifuddien Mosque"
+   "apic": "Sultan Omar Ali Saifuddien Mosque",
+   "cpic": "Sultan Omar Ali Saifuddien Mosque"
   },
   {
    "q": "Which Shiraz mosque is nicknamed the 'Pink Mosque' for its stained glass and tiles?",
@@ -1425,7 +1439,8 @@
     "Nasir ol Molk Mosque",
     "Nasir al-Molk Mosque"
    ],
-   "apic": "Nasir al-Mulk Mosque"
+   "apic": "Nasir al-Mulk Mosque",
+   "cpic": "Stained glass"
   },
   {
    "q": "Which 16th-century mosque in Sarajevo is named after an Ottoman governor of Bosnia?",
@@ -1515,7 +1530,8 @@
    "alt": [
     "The head",
     "Hair"
-   ]
+   ],
+   "cpic": "Wudu"
   },
   {
    "q": "Which city is called 'Umm al-Qura', the 'Mother of Towns'?",
@@ -1606,7 +1622,8 @@
    "alt": [
     "Three",
     "Three times"
-   ]
+   ],
+   "cpic": "Wudu"
   },
   {
    "q": "What is the short sitting between the two prostrations of a rak'ah called?",
@@ -1616,7 +1633,8 @@
    "alt": [
     "Jalsah",
     "Al-Jalsa"
-   ]
+   ],
+   "cpic": "Rak'ah"
   }
  ]
 }

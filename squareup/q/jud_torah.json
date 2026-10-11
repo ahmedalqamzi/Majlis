@@ -10,7 +10,8 @@
     "Pentateuch",
     "Five Books of Moses"
    ],
-   "apic": "Torah"
+   "apic": "Torah",
+   "cpic": "Hebrew Bible"
   },
   {
    "q": "Which prophet led the Israelites out of slavery in Egypt, according to the Hebrew Bible?",
@@ -39,12 +40,14 @@
    "alt": [
     "Yitzhak"
    ],
-   "apic": "Isaac"
+   "apic": "Isaac",
+   "cpic": "Hebrew Bible"
   },
   {
    "q": "In Genesis, Jacob is given a new name after wrestling through the night. What is it?",
    "a": "Israel",
-   "p": 200
+   "p": 200,
+   "cpic": "Jacob"
   },
   {
    "q": "Traditionally, how many tribes of Israel descended from the sons of Jacob?",
@@ -52,7 +55,8 @@
    "p": 200,
    "alt": [
     "Twelve"
-   ]
+   ],
+   "cpic": "Jacob"
   },
   {
    "q": "Which young shepherd, later a king, defeated the giant Goliath with a sling?",
@@ -72,7 +76,8 @@
     "King Solomon",
     "Sulayman"
    ],
-   "apic": "Solomon"
+   "apic": "Solomon",
+   "cpic": "Hebrew Bible"
   },
   {
    "q": "Who built an ark to survive the great flood in Genesis?",
@@ -96,7 +101,8 @@
    "alt": [
     "Bereshit"
    ],
-   "apic": "Book of Genesis"
+   "apic": "Book of Genesis",
+   "cpic": "Torah"
   },
   {
    "q": "How many commandments were given on the stone tablets at Mount Sinai?",
@@ -115,7 +121,8 @@
     "Sinai",
     "Mount Horeb"
    ],
-   "apic": "Mount Sinai"
+   "apic": "Mount Sinai",
+   "cpic": "Torah"
   },
   {
    "q": "How many plagues struck Egypt in the Exodus story?",
@@ -134,7 +141,8 @@
    "alt": [
     "Sea of Reeds"
    ],
-   "apic": "Red Sea"
+   "apic": "Red Sea",
+   "cpic": "The Exodus"
   },
   {
    "q": "Which brother of Moses became the first high priest?",
@@ -162,7 +170,8 @@
     "Yosef",
     "Yusuf"
    ],
-   "apic": "Joseph (Genesis)"
+   "apic": "Joseph (Genesis)",
+   "cpic": "Jacob"
   },
   {
    "q": "Which prophet was swallowed by a great fish after trying to flee his mission?",
@@ -233,7 +242,8 @@
    "alt": [
     "Salt"
    ],
-   "apic": "Lot's wife"
+   "apic": "Lot's wife",
+   "cpic": "Lot's wife"
   },
   {
    "q": "In the Exodus story, from what did God speak to Moses on the mountain?",
@@ -242,7 +252,8 @@
    "alt": [
     "A bush"
    ],
-   "apic": "Burning bush"
+   "apic": "Burning bush",
+   "cpic": "The Exodus"
   },
   {
    "q": "Which bird returned to Noah's ark carrying an olive leaf?",
@@ -265,7 +276,8 @@
    "alt": [
     "Jalut"
    ],
-   "apic": "Goliath"
+   "apic": "Goliath",
+   "cpic": "David"
   },
   {
    "q": "For how many years did the Israelites wander in the wilderness after the Exodus?",
@@ -274,7 +286,8 @@
    "alt": [
     "Forty"
    ],
-   "apic": "The Exodus"
+   "apic": "The Exodus",
+   "cpic": "The Exodus"
   },
   {
    "q": "Into which river was the baby Moses placed in a basket?",
@@ -351,7 +364,8 @@
     "Ismail",
     "Yishmael"
    ],
-   "apic": "Ishmael"
+   "apic": "Ishmael",
+   "cpic": "Hagar"
   },
   {
    "q": "In Genesis, which twin brother of Jacob sold his birthright for a bowl of stew?",
@@ -370,7 +384,8 @@
     "Book of Psalms",
     "Tehillim"
    ],
-   "apic": "Psalms"
+   "apic": "Psalms",
+   "cpic": "David"
   },
   {
    "q": "In which language is most of the Tanakh written?",
@@ -448,7 +463,8 @@
    "alt": [
     "Dawood",
     "Daoud"
-   ]
+   ],
+   "cpic": "David"
   },
   {
    "q": "Which Jewish scholar of the 12th century, also a physician, is known in Arabic as Musa ibn Maymun?",
@@ -468,7 +484,8 @@
    "alt": [
     "Hajar"
    ],
-   "apic": "Hagar"
+   "apic": "Hagar",
+   "cpic": "Ishmael"
   },
   {
    "q": "In Genesis, Noah's ark finally came to rest on which mountains?",
@@ -495,7 +512,8 @@
    "alt": [
     "Shemot"
    ],
-   "apic": "Book of Exodus"
+   "apic": "Book of Exodus",
+   "cpic": "Torah"
   },
   {
    "q": "What is the third book of the Torah, focused largely on priestly laws?",
@@ -528,7 +546,8 @@
    "q": "Who was the sister of Moses and Aaron, known as a prophetess?",
    "a": "Miriam",
    "p": 400,
-   "apic": "Miriam"
+   "apic": "Miriam",
+   "cpic": "Aaron"
   },
   {
    "q": "Which woman was the favoured wife of Jacob and mother of Joseph?",
@@ -547,7 +566,8 @@
     "Rebekah",
     "Rivka"
    ],
-   "apic": "Rebecca"
+   "apic": "Rebecca",
+   "cpic": "Esau"
   },
   {
    "q": "Which daughter of Laban did Jacob marry first?",
@@ -669,7 +689,8 @@
    "alt": [
     "Shmuel"
    ],
-   "apic": "Samuel"
+   "apic": "Samuel",
+   "cpic": "Saul"
   },
   {
    "q": "Which queen travelled to test Solomon with hard questions?",
@@ -709,13 +730,15 @@
    "alt": [
     "Mordechai"
    ],
-   "apic": "Mordecai"
+   "apic": "Mordecai",
+   "cpic": "Esther"
   },
   {
    "q": "Which Persian official is the villain of the Book of Esther?",
    "a": "Haman",
    "p": 400,
-   "apic": "Haman"
+   "apic": "Haman",
+   "cpic": "Esther"
   },
   {
    "q": "Which biblical book tells of a righteous man who loses everything yet keeps his faith?",
@@ -770,7 +793,8 @@
   {
    "q": "How many psalms are in the Book of Psalms?",
    "a": "150",
-   "p": 400
+   "p": 400,
+   "cpic": "Psalms"
   },
   {
    "q": "Who found the baby Moses in the river and raised him?",
@@ -839,7 +863,8 @@
    "q": "What is the main collection of rabbinic law and discussion, made up of the Mishnah and Gemara?",
    "a": "Talmud",
    "p": 400,
-   "apic": "Talmud"
+   "apic": "Talmud",
+   "cpic": "Gemara"
   },
   {
    "q": "Which body of Jewish mystical teaching has the Zohar as its central text?",
@@ -849,13 +874,15 @@
     "Kabbala",
     "Qabalah"
    ],
-   "apic": "Kabbalah"
+   "apic": "Kabbalah",
+   "cpic": "Zohar"
   },
   {
    "q": "In which language, besides Hebrew, are parts of the Book of Daniel and most of the Talmud written?",
    "a": "Aramaic",
    "p": 400,
-   "apic": "Aramaic"
+   "apic": "Aramaic",
+   "cpic": "Talmud"
   },
   {
    "q": "How many letters are in the Hebrew alphabet?",
@@ -882,7 +909,8 @@
    "alt": [
     "Oral Law"
    ],
-   "apic": "Oral Torah"
+   "apic": "Oral Torah",
+   "cpic": "Talmud"
   },
   {
    "q": "What musical instrument did David famously play for King Saul?",
@@ -892,7 +920,8 @@
     "Lyre",
     "Kinnor"
    ],
-   "apic": "Kinnor"
+   "apic": "Kinnor",
+   "cpic": "Saul"
   },
   {
    "q": "Which 11th-century French rabbi wrote the most widely studied commentary on the Torah and Talmud?",
@@ -901,7 +930,8 @@
    "alt": [
     "Shlomo Yitzchaki"
    ],
-   "apic": "Rashi"
+   "apic": "Rashi",
+   "cpic": "Talmud"
   },
   {
    "q": "Which Jewish historian of the 1st century CE wrote 'Antiquities of the Jews'?",
@@ -931,7 +961,8 @@
    "alt": [
     "Yirmiyahu"
    ],
-   "apic": "Jeremiah"
+   "apic": "Jeremiah",
+   "cpic": "Book of Lamentations"
   },
   {
    "q": "Which Persian king is called Ahasuerus in the Book of Esther?",
@@ -940,7 +971,8 @@
    "alt": [
     "Xerxes"
    ],
-   "apic": "Xerxes I"
+   "apic": "Xerxes I",
+   "cpic": "Esther"
   },
   {
    "q": "In the Torah, how many days did God take to create the world before resting on the seventh?",
@@ -1011,7 +1043,8 @@
     "Parsha",
     "Sidra"
    ],
-   "apic": "Weekly Torah portion"
+   "apic": "Weekly Torah portion",
+   "cpic": "Weekly Torah portion"
   },
   {
    "q": "Which part of the Talmud, largely in Aramaic, comments on the Mishnah?",
@@ -1096,7 +1129,8 @@
    "q": "In which French city did the commentator Rashi live and teach?",
    "a": "Troyes",
    "p": 600,
-   "apic": "Troyes"
+   "apic": "Troyes",
+   "cpic": "Rashi"
   },
   {
    "q": "Which 16th-century rabbi wrote the Shulchan Aruch, a standard code of Jewish law?",
@@ -1154,7 +1188,8 @@
    "alt": [
     "The Zohar"
    ],
-   "apic": "Zohar"
+   "apic": "Zohar",
+   "cpic": "Kabbalah"
   },
   {
    "q": "What is the oldest Greek translation of the Hebrew Bible, made in Alexandria?",
@@ -1239,7 +1274,8 @@
    "q": "Who was Ruth's mother-in-law in the Book of Ruth?",
    "a": "Naomi",
    "p": 600,
-   "apic": "Naomi (biblical figure)"
+   "apic": "Naomi (biblical figure)",
+   "cpic": "Book of Ruth"
   },
   {
    "q": "Which son of David led a rebellion against his father?",
@@ -1281,13 +1317,15 @@
    "alt": [
     "Bilam"
    ],
-   "apic": "Balaam"
+   "apic": "Balaam",
+   "cpic": "Book of Numbers"
   },
   {
    "q": "Besides Joshua, which of the twelve spies sent into Canaan brought back a faithful report?",
    "a": "Caleb",
    "p": 600,
-   "apic": "Caleb"
+   "apic": "Caleb",
+   "cpic": "Joshua"
   },
   {
    "q": "What winged figures were set on the cover of the Ark of the Covenant?",
@@ -1297,7 +1335,8 @@
     "Cherubs",
     "Kerubim"
    ],
-   "apic": "Cherub"
+   "apic": "Cherub",
+   "cpic": false
   },
   {
    "q": "What portable sanctuary did the Israelites carry through the wilderness?",
@@ -1358,7 +1397,8 @@
    "alt": [
     "Geniza"
    ],
-   "apic": "Cairo Geniza"
+   "apic": "Cairo Geniza",
+   "cpic": "Ben Ezra Synagogue"
   },
   {
    "q": "Which 17th-century Dutch philosopher of Portuguese-Jewish origin wrote 'Ethics'?",
@@ -1460,7 +1500,8 @@
    "alt": [
     "Haroun",
     "Haroon"
-   ]
+   ],
+   "cpic": "Aaron"
   },
   {
    "q": "According to Genesis, what did God create on the first day?",

@@ -45,7 +45,8 @@
    "alt": [
     "Pesach"
    ],
-   "apic": "Passover"
+   "apic": "Passover",
+   "cpic": "The Exodus"
   },
   {
    "q": "What is the Jewish New Year called?",
@@ -60,7 +61,8 @@
    "q": "What ram's horn instrument is blown on Rosh Hashanah?",
    "a": "Shofar",
    "p": 200,
-   "apic": "Shofar"
+   "apic": "Shofar",
+   "cpic": "Rosh Hashanah"
   },
   {
    "q": "What is the coming-of-age ceremony for a Jewish boy at 13 called?",
@@ -128,7 +130,8 @@
     "Matza",
     "Matzoh"
    ],
-   "apic": "Matzo"
+   "apic": "Matzo",
+   "cpic": "Passover"
   },
   {
    "q": "What is the ritual meal held on the first night of Passover called?",
@@ -152,7 +155,8 @@
    "alt": [
     "Sevivon"
    ],
-   "apic": "Dreidel"
+   "apic": "Dreidel",
+   "cpic": "Hanukkah"
   },
   {
    "q": "What small case containing a parchment scroll is fixed to the doorposts of Jewish homes?",
@@ -190,7 +194,8 @@
    "alt": [
     "Succah"
    ],
-   "apic": "Sukkah"
+   "apic": "Sukkah",
+   "cpic": "Sukkot"
   },
   {
    "q": "What does the Hebrew greeting 'Shalom' mean?",
@@ -209,7 +214,8 @@
     "Latke",
     "Potato latkes"
    ],
-   "apic": "Latke"
+   "apic": "Latke",
+   "cpic": "Hanukkah"
   },
   {
    "q": "What braided bread is eaten at Shabbat meals?",
@@ -219,7 +225,8 @@
     "Hallah",
     "Chollah"
    ],
-   "apic": "Challah"
+   "apic": "Challah",
+   "cpic": "Shabbat"
   },
   {
    "q": "For how many nights is Hanukkah celebrated?",
@@ -227,7 +234,8 @@
    "p": 200,
    "alt": [
     "8"
-   ]
+   ],
+   "cpic": "Hanukkah"
   },
   {
    "q": "What is the canopy under which a Jewish couple stands at their wedding?",
@@ -251,7 +259,8 @@
    "q": "Which language, a blend of German and Hebrew elements, was spoken by Ashkenazi Jews?",
    "a": "Yiddish",
    "p": 200,
-   "apic": "Yiddish"
+   "apic": "Yiddish",
+   "cpic": "Ashkenazi Jews"
   },
   {
    "q": "Which ring-shaped bread roll, boiled before baking, came from Jewish communities in Poland?",
@@ -268,7 +277,8 @@
    "p": 200,
    "alt": [
     "Friday evening to Saturday evening"
-   ]
+   ],
+   "cpic": "Shabbat"
   },
   {
    "q": "In which direction is Hebrew written?",
@@ -278,7 +288,8 @@
   {
    "q": "Into what do people dip apples on Rosh Hashanah for a sweet new year?",
    "a": "Honey",
-   "p": 200
+   "p": 200,
+   "cpic": "Rosh Hashanah"
   },
   {
    "q": "What Hebrew phrase is said to congratulate someone on good news?",
@@ -346,7 +357,8 @@
    "p": 400,
    "alt": [
     "Shool"
-   ]
+   ],
+   "cpic": "Synagogue"
   },
   {
    "q": "At what time of day does Shabbat begin each Friday?",
@@ -356,7 +368,8 @@
     "Sundown",
     "Dusk",
     "Evening"
-   ]
+   ],
+   "cpic": "Shabbat"
   },
   {
    "q": "What miracle is Hanukkah associated with: a one-day supply of what lasting eight days?",
@@ -445,7 +458,8 @@
    "q": "What Ashkenazi dish of poached ground fish patties is often served at Passover and Shabbat?",
    "a": "Gefilte fish",
    "p": 200,
-   "apic": "Gefilte fish"
+   "apic": "Gefilte fish",
+   "cpic": "Passover"
   },
   {
    "q": "What dumplings, a Passover favourite, are traditionally served in chicken soup?",
@@ -455,7 +469,8 @@
     "Matzo balls",
     "Kneidlach"
    ],
-   "apic": "Matzah ball"
+   "apic": "Matzah ball",
+   "cpic": "Passover"
   },
   {
    "q": "Which festival celebrates the giving of the Torah at Mount Sinai, seven weeks after Passover?",
@@ -500,7 +515,8 @@
    "q": "Who is the villain booed with noisemakers whenever his name is read on Purim?",
    "a": "Haman",
    "p": 200,
-   "apic": "Haman"
+   "apic": "Haman",
+   "cpic": "Purim"
   },
   {
    "q": "Which prophet is welcomed with a special cup and an opened door at the Passover Seder?",
@@ -509,7 +525,8 @@
    "alt": [
     "Eliyahu"
    ],
-   "apic": "Elijah"
+   "apic": "Elijah",
+   "cpic": "Passover Seder"
   },
   {
    "q": "Which ultra-traditional movement, founded in 18th-century Eastern Europe, emphasises joy and mysticism in prayer?",
@@ -530,7 +547,8 @@
     "Hagaddah",
     "Haggada"
    ],
-   "apic": "Haggadah"
+   "apic": "Haggadah",
+   "cpic": "Passover Seder"
   },
   {
    "q": "What piece of matzah is hidden during the Seder for children to find?",
@@ -660,7 +678,8 @@
     "Torah ark",
     "Heikhal"
    ],
-   "apic": "Torah ark"
+   "apic": "Torah ark",
+   "cpic": "Synagogue"
   },
   {
    "q": "What triangular filled pastries are eaten at Purim?",
@@ -670,7 +689,8 @@
     "Oznei Haman",
     "Haman's ears"
    ],
-   "apic": "Hamantash"
+   "apic": "Hamantash",
+   "cpic": "Purim"
   },
   {
    "q": "What does the Hebrew word 'Hanukkah' mean?",
@@ -687,7 +707,8 @@
    "alt": [
     "Head of the Year",
     "Beginning of the year"
-   ]
+   ],
+   "cpic": "Rosh Hashanah"
   },
   {
    "q": "Roughly how many hours does the Yom Kippur fast last?",
@@ -696,7 +717,8 @@
    "alt": [
     "About 25 hours",
     "Twenty-five"
-   ]
+   ],
+   "cpic": "Yom Kippur"
   },
   {
    "q": "What name is given to the ten days from Rosh Hashanah to Yom Kippur?",
@@ -707,7 +729,8 @@
     "Yamim Noraim",
     "High Holy Days"
    ],
-   "apic": "High Holy Days"
+   "apic": "High Holy Days",
+   "cpic": "Yom Kippur"
   },
   {
    "q": "Which festival celebrates completing the annual cycle of Torah readings, with dancing around the scrolls?",
@@ -725,7 +748,8 @@
    "alt": [
     "Citron"
    ],
-   "apic": "Etrog"
+   "apic": "Etrog",
+   "cpic": "Sukkot"
   },
   {
    "q": "How many plant species are waved together during Sukkot?",
@@ -734,7 +758,8 @@
    "alt": [
     "4"
    ],
-   "apic": "Four species"
+   "apic": "Four species",
+   "cpic": "Sukkot"
   },
   {
    "q": "What is the bundle of palm, myrtle and willow branches waved on Sukkot called?",
@@ -795,7 +820,8 @@
     "Hazzan",
     "Chazzan"
    ],
-   "apic": "Hazzan"
+   "apic": "Hazzan",
+   "cpic": "Synagogue"
   },
   {
    "q": "What are Jews from the Middle East and North Africa often called, from the Hebrew for 'Eastern'?",
@@ -822,7 +848,8 @@
    "q": "In which year were Jews expelled from Spain by the Alhambra Decree?",
    "a": "1492",
    "p": 400,
-   "apic": "Alhambra Decree"
+   "apic": "Alhambra Decree",
+   "cpic": "Alhambra Decree"
   },
   {
    "q": "Which empire's Sultan Bayezid II welcomed Jews expelled from Spain?",
@@ -845,7 +872,8 @@
    "q": "What Yiddish word meaning 'little town' describes Jewish market towns of Eastern Europe?",
    "a": "Shtetl",
    "p": 400,
-   "apic": "Shtetl"
+   "apic": "Shtetl",
+   "cpic": "Yiddish"
   },
   {
    "q": "What Yiddish word, now common in English, means daring boldness or nerve?",
@@ -854,18 +882,21 @@
    "alt": [
     "Hutzpah"
    ],
-   "apic": "Chutzpah"
+   "apic": "Chutzpah",
+   "cpic": "Yiddish"
   },
   {
    "q": "What Yiddish word, now used in English, describes a clumsy person?",
    "a": "Klutz",
-   "p": 400
+   "p": 400,
+   "cpic": "Yiddish"
   },
   {
    "q": "In Prague legend, what clay creature did Rabbi Judah Loew bring to life?",
    "a": "Golem",
    "p": 400,
-   "apic": "Golem"
+   "apic": "Golem",
+   "cpic": "Rabbi"
   },
   {
    "q": "What slow-cooked stew is traditionally kept warm overnight and eaten at Shabbat lunch?",
@@ -970,7 +1001,8 @@
    "q": "In which month of the Hebrew calendar does Purim fall?",
    "a": "Adar",
    "p": 600,
-   "apic": "Adar"
+   "apic": "Adar",
+   "cpic": "Purim"
   },
   {
    "q": "What is the name of the Moroccan Jewish quarter in cities like Fez and Marrakesh?",
@@ -1000,7 +1032,8 @@
    "alt": [
     "Right side",
     "Right-hand side"
-   ]
+   ],
+   "cpic": "Mezuzah"
   },
   {
    "q": "What does the word 'kosher' literally mean?",
@@ -1019,7 +1052,8 @@
    "alt": [
     "Tishri"
    ],
-   "apic": "Tishrei"
+   "apic": "Tishrei",
+   "cpic": "Yom Kippur"
   },
   {
    "q": "In which month of the Hebrew calendar does Passover begin?",
@@ -1064,7 +1098,8 @@
     "Eicha",
     "Eichah"
    ],
-   "apic": "Book of Lamentations"
+   "apic": "Book of Lamentations",
+   "cpic": "Tisha B'Av"
   },
   {
    "q": "Which book is traditionally read in synagogue on Shavuot?",
@@ -1073,7 +1108,8 @@
    "alt": [
     "Book of Ruth"
    ],
-   "apic": "Book of Ruth"
+   "apic": "Book of Ruth",
+   "cpic": "Shavuot"
   },
   {
    "q": "Which book is read by many communities on Passover?",
@@ -1128,7 +1164,8 @@
    "p": 600,
    "alt": [
     "Forty-nine"
-   ]
+   ],
+   "cpic": "Shavuot"
   },
   {
    "q": "On which day of the Omer count does the minor festival Lag BaOmer fall?",
@@ -1261,7 +1298,8 @@
    "alt": [
     "7",
     "Sheva Brachot"
-   ]
+   ],
+   "cpic": "Chuppah"
   },
   {
    "q": "How many categories of creative work are traditionally prohibited on Shabbat?",
@@ -1311,7 +1349,8 @@
    "alt": [
     "Mahzor"
    ],
-   "apic": "Machzor"
+   "apic": "Machzor",
+   "cpic": "High Holy Days"
   },
   {
    "q": "What is the fur hat worn by many married Hasidic men on Shabbat called?",
@@ -1349,7 +1388,8 @@
     "Israel ben Eliezer",
     "Besht"
    ],
-   "apic": "Baal Shem Tov"
+   "apic": "Baal Shem Tov",
+   "cpic": "Rabbi"
   },
   {
    "q": "Which American rabbi founded Reconstructionist Judaism?",
@@ -1358,7 +1398,8 @@
    "alt": [
     "Mordecai M. Kaplan"
    ],
-   "apic": "Mordecai Kaplan"
+   "apic": "Mordecai Kaplan",
+   "cpic": "Rabbi"
   },
   {
    "q": "What is the Ethiopian Jewish community traditionally called?",
@@ -1400,13 +1441,15 @@
    "alt": [
     "Praha"
    ],
-   "apic": "Old New Synagogue"
+   "apic": "Old New Synagogue",
+   "cpic": "Old New Synagogue"
   },
   {
    "q": "In which city is the Dohány Street Synagogue, the largest synagogue in Europe?",
    "a": "Budapest",
    "p": 600,
-   "apic": "Dohány Street Synagogue"
+   "apic": "Dohány Street Synagogue",
+   "cpic": "Dohány Street Synagogue"
   },
   {
    "q": "In which US state is the Touro Synagogue, the oldest surviving synagogue building in the country?",
@@ -1415,7 +1458,8 @@
    "alt": [
     "Newport"
    ],
-   "apic": "Touro Synagogue"
+   "apic": "Touro Synagogue",
+   "cpic": "Touro Synagogue"
   },
   {
    "q": "Which London synagogue, opened in 1701, is the oldest in Britain in continuous use?",
@@ -1435,7 +1479,8 @@
     "Fustat",
     "Old Cairo"
    ],
-   "apic": "Ben Ezra Synagogue"
+   "apic": "Ben Ezra Synagogue",
+   "cpic": "Ben Ezra Synagogue"
   },
   {
    "q": "What Hebrew phrase means 'repairing the world', used for social action?",

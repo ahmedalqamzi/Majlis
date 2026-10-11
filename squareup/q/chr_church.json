@@ -28,7 +28,8 @@
    "q": "On which day before Easter do Christians commemorate the crucifixion?",
    "a": "Good Friday",
    "p": 200,
-   "apic": "Good Friday"
+   "apic": "Good Friday",
+   "cpic": "Easter"
   },
   {
    "q": "What is the 40-day season of fasting and reflection before Easter called?",
@@ -37,19 +38,22 @@
    "alt": [
     "Great Lent"
    ],
-   "apic": "Lent"
+   "apic": "Lent",
+   "cpic": "Easter"
   },
   {
    "q": "Which day marks the start of Lent in Western churches, when crosses are marked on foreheads?",
    "a": "Ash Wednesday",
    "p": 200,
-   "apic": "Ash Wednesday"
+   "apic": "Ash Wednesday",
+   "cpic": "Lent"
   },
   {
    "q": "Which Sunday before Easter marks Jesus' entry into Jerusalem, with branches waved by crowds?",
    "a": "Palm Sunday",
    "p": 200,
-   "apic": "Palm Sunday"
+   "apic": "Palm Sunday",
+   "cpic": "Easter"
   },
   {
    "q": "Which artist painted The Last Supper on a wall in Milan?",
@@ -76,7 +80,8 @@
     "Bishop of Rome",
     "Holy Father"
    ],
-   "apic": "Pope"
+   "apic": "Pope",
+   "cpic": "Catholic Church"
   },
   {
    "q": "Which tiny independent state is the seat of the Pope?",
@@ -87,7 +92,8 @@
     "Vatican",
     "Holy See"
    ],
-   "apic": "Vatican City"
+   "apic": "Vatican City",
+   "cpic": "Pope"
   },
   {
    "q": "What is the main symbol of Christianity, recalling the crucifixion?",
@@ -102,7 +108,8 @@
    "q": "What is the season of preparation before Christmas called?",
    "a": "Advent",
    "p": 200,
-   "apic": "Advent"
+   "apic": "Advent",
+   "cpic": "Christmas"
   },
   {
    "q": "Which great basilica in the Vatican stands over the traditional tomb of the apostle Peter?",
@@ -143,7 +150,8 @@
     "Ayasofya",
     "Aya Sofya"
    ],
-   "apic": "Hagia Sophia"
+   "apic": "Hagia Sophia",
+   "cpic": "Cathedral"
   },
   {
    "q": "Which German monk launched the Protestant Reformation in 1517?",
@@ -152,7 +160,8 @@
    "alt": [
     "Luther"
    ],
-   "apic": "Martin Luther"
+   "apic": "Martin Luther",
+   "cpic": "Monk"
   },
   {
    "q": "Which branch of Christianity grew out of the 16th-century Reformation?",
@@ -188,7 +197,8 @@
    "alt": [
     "December 25",
     "25th December"
-   ]
+   ],
+   "cpic": "Christmas"
   },
   {
    "q": "Which Christian rite uses water to mark a person's entry into the faith?",
@@ -294,7 +304,8 @@
     "Copts",
     "Coptic"
    ],
-   "apic": "Coptic Orthodox Church"
+   "apic": "Coptic Orthodox Church",
+   "cpic": "Pope"
   },
   {
    "q": "Which Michelangelo fresco shows God's finger almost touching that of the first man?",
@@ -423,7 +434,8 @@
   {
    "q": "What colour of smoke from the Sistine Chapel signals that a new pope has been elected?",
    "a": "White",
-   "p": 200
+   "p": 200,
+   "cpic": "Pope"
   },
   {
    "q": "Citizens of which country make up the Pontifical Guard that protects the Pope?",
@@ -510,7 +522,8 @@
    "alt": [
     "Ninety-five"
    ],
-   "apic": "Ninety-five Theses"
+   "apic": "Ninety-five Theses",
+   "cpic": "Martin Luther"
   },
   {
    "q": "On which date do the Coptic Orthodox Christians of Egypt celebrate Christmas?",
@@ -519,7 +532,8 @@
    "alt": [
     "January 7",
     "7th January"
-   ]
+   ],
+   "cpic": "Christmas"
   },
   {
    "q": "Which Michelangelo sculpture in St. Peter's Basilica shows Mary holding the body of Jesus?",
@@ -536,7 +550,8 @@
    "q": "From which country did the decorated Christmas tree tradition spread, popularised in Britain by Prince Albert?",
    "a": "Germany",
    "p": 400,
-   "apic": "Christmas tree"
+   "apic": "Christmas tree",
+   "cpic": "Christmas tree"
   },
   {
    "q": "Which twin-spired Gothic cathedral on the Rhine is a UNESCO World Heritage Site in western Germany?",
@@ -552,7 +567,8 @@
    "q": "In which language was the carol 'Silent Night' originally written?",
    "a": "German",
    "p": 400,
-   "apic": "Silent Night"
+   "apic": "Silent Night",
+   "cpic": "Silent Night"
   },
   {
    "q": "Which Christian feast, 40 days after Easter, marks Jesus being taken up into heaven?",
@@ -592,7 +608,8 @@
    "alt": [
     "Baptismal font"
    ],
-   "apic": "Baptismal font"
+   "apic": "Baptismal font",
+   "cpic": "Baptism"
   },
   {
    "q": "Which feast on 6 January marks the visit of the Magi in Western churches?",
@@ -639,7 +656,8 @@
     "Mardi Gras",
     "Fat Tuesday"
    ],
-   "apic": "Shrove Tuesday"
+   "apic": "Shrove Tuesday",
+   "cpic": "Ash Wednesday"
   },
   {
    "q": "What is the closed meeting of cardinals that elects a new pope called?",
@@ -833,7 +851,8 @@
     "Karol Wojtyła",
     "Karol Wojtyla"
    ],
-   "apic": "Pope John Paul II"
+   "apic": "Pope John Paul II",
+   "cpic": "Catholic Church"
   },
   {
    "q": "Members of the order founded by Ignatius of Loyola in 1540 are commonly called what?",
@@ -917,7 +936,8 @@
    "alt": [
     "Seven"
    ],
-   "apic": "Sacraments of the Catholic Church"
+   "apic": "Sacraments of the Catholic Church",
+   "cpic": "Catholic Church"
   },
   {
    "q": "Which sacrament, often received in the teen years, completes Christian initiation in the Catholic Church?",
@@ -934,7 +954,8 @@
    "p": 400,
    "alt": [
     "Four"
-   ]
+   ],
+   "cpic": "Advent"
   },
   {
    "q": "How many deadly sins are there in Christian tradition?",
@@ -1015,7 +1036,8 @@
    "alt": [
     "Rose"
    ],
-   "apic": "Rose window"
+   "apic": "Rose window",
+   "cpic": "Stained glass"
   },
   {
    "q": "What is the underground chamber beneath a church, often used for burials, called?",
@@ -1044,7 +1066,8 @@
     "Sir Christopher Wren",
     "Wren"
    ],
-   "apic": "Christopher Wren"
+   "apic": "Christopher Wren",
+   "cpic": "Cathedral"
   },
   {
    "q": "Which Venice cathedral is famed for its golden Byzantine mosaics?",
@@ -1055,7 +1078,8 @@
     "Saint Mark's Basilica",
     "Basilica di San Marco"
    ],
-   "apic": "St Mark's Basilica"
+   "apic": "St Mark's Basilica",
+   "cpic": "Cathedral"
   },
   {
    "q": "Which tidal island in Normandy is crowned by a famous medieval abbey?",
@@ -1119,7 +1143,8 @@
     "Sharbel"
    ],
    "ar": "مار شربل",
-   "apic": "Charbel Makhlouf"
+   "apic": "Charbel Makhlouf",
+   "cpic": "Monk"
   },
   {
    "q": "Which language, the last stage of ancient Egyptian, is still used in the services of Egyptian Christians?",
@@ -1264,7 +1289,8 @@
    "p": 400,
    "alt": [
     "Fridays"
-   ]
+   ],
+   "cpic": "Lent"
   },
   {
    "q": "Which Latin title, meaning 'Lamb of God', is also a prayer sung at Mass?",
@@ -1528,7 +1554,8 @@
    "q": "What is the semicircular recess at the end of a church, usually behind the altar, called?",
    "a": "Apse",
    "p": 600,
-   "apic": "Apse"
+   "apic": "Apse",
+   "cpic": "Altar"
   },
   {
    "q": "What external arched supports allowed Gothic cathedrals to have thin walls and huge windows?",
@@ -1544,7 +1571,8 @@
    "q": "What is the screen of icons separating the sanctuary from the nave in Orthodox churches called?",
    "a": "Iconostasis",
    "p": 600,
-   "apic": "Iconostasis"
+   "apic": "Iconostasis",
+   "cpic": "Nave"
   },
   {
    "q": "What title is held by the Archbishop of Constantinople, 'first among equals' in Eastern Orthodoxy?",
@@ -1714,7 +1742,8 @@
     "Bethany Beyond the Jordan"
    ],
    "ar": "المغطس",
-   "apic": "Al-Maghtas"
+   "apic": "Al-Maghtas",
+   "cpic": "Baptism"
   },
   {
    "q": "On which Umm Al Quwain island was an ancient Christian monastery announced in 2022?",
@@ -1745,7 +1774,8 @@
     "Rublev",
     "Andrey Rublev"
    ],
-   "apic": "Andrei Rublev"
+   "apic": "Andrei Rublev",
+   "cpic": "Trinity"
   },
   {
    "q": "Which Greek phrase meaning 'Lord, have mercy' is sung in the Mass?",
@@ -1784,7 +1814,8 @@
    "alt": [
     "Fourteen"
    ],
-   "apic": "Stations of the Cross"
+   "apic": "Stations of the Cross",
+   "cpic": "Stations of the Cross"
   },
   {
    "q": "Which feast on 2 February, also called the Presentation of Jesus, is known for blessing candles?",
@@ -1806,7 +1837,8 @@
    "q": "Which Catholic doctrine holds that the bread and wine of the Eucharist become the body and blood of Christ?",
    "a": "Transubstantiation",
    "p": 600,
-   "apic": "Transubstantiation"
+   "apic": "Transubstantiation",
+   "cpic": "Eucharist"
   },
   {
    "q": "What is the evening prayer service of the Liturgy of the Hours called?",
@@ -1885,7 +1917,8 @@
    "q": "What is the raised table at the front of a church where the Eucharist is celebrated?",
    "a": "Altar",
    "p": 200,
-   "apic": "Altar"
+   "apic": "Altar",
+   "cpic": "Eucharist"
   },
   {
    "q": "From what raised, enclosed stand in a church is a sermon traditionally preached?",
@@ -1903,7 +1936,8 @@
    "alt": [
     "Clover"
    ],
-   "apic": "Shamrock"
+   "apic": "Shamrock",
+   "cpic": "Trinity"
   },
   {
    "q": "Which Christian holy day on 1 November honours all the saints?",
@@ -1933,7 +1967,8 @@
    "alt": [
     "December 26",
     "Boxing Day"
-   ]
+   ],
+   "cpic": "Saint Stephen"
   }
  ]
 }
