@@ -7,7 +7,8 @@
    "a": "Cairo",
    "p": 200,
    "ar": "القاهرة",
-   "apic": "Cairo"
+   "apic": "Cairo",
+   "cpic": "Egypt"
   },
   {
    "q": "Which river is the lifeline of Egypt?",
@@ -18,7 +19,8 @@
     "Nile",
     "River Nile"
    ],
-   "apic": "Nile"
+   "apic": "Nile",
+   "cpic": "Egypt"
   },
   {
    "q": "On which plateau near Cairo do the Great Pyramid and the Sphinx stand?",
@@ -28,7 +30,8 @@
    "alt": [
     "Giza Plateau"
    ],
-   "apic": "Giza pyramid complex"
+   "apic": "Giza pyramid complex",
+   "cpic": "Cairo"
   },
   {
    "q": "Which boy king's nearly intact tomb was found in 1922?",
@@ -45,7 +48,8 @@
    "q": "Which British archaeologist discovered Tutankhamun's tomb?",
    "a": "Howard Carter",
    "p": 200,
-   "apic": "Howard Carter"
+   "apic": "Howard Carter",
+   "cpic": "Tutankhamun"
   },
   {
    "q": "Which southern Egyptian city is home to Karnak and sits beside the Valley of the Kings?",
@@ -58,7 +62,8 @@
      "Karnak",
      "الكرنك"
     ]
-   ]
+   ],
+   "cpic": "Valley of the Kings"
   },
   {
    "q": "Which pair of giant rock-cut temples, built by Ramesses II, was moved in the 1960s to avoid flooding?",
@@ -68,14 +73,16 @@
    "alt": [
     "Abu Simbel temples"
    ],
-   "apic": "Abu Simbel"
+   "apic": "Abu Simbel",
+   "cpic": "Ramesses II"
   },
   {
    "q": "Which southern city is home to a famous High Dam on the Nile?",
    "a": "Aswan",
    "p": 200,
    "ar": "أسوان",
-   "apic": "Aswan"
+   "apic": "Aswan",
+   "cpic": "Nile"
   },
   {
    "q": "Which conqueror founded the city of Alexandria?",
@@ -90,7 +97,8 @@
      "Alexandria",
      "الإسكندرية"
     ]
-   ]
+   ],
+   "cpic": "Alexandria"
   },
   {
    "q": "Which sea forms Egypt's northern coast?",
@@ -99,13 +107,15 @@
    "alt": [
     "Mediterranean"
    ],
-   "apic": "Mediterranean Sea"
+   "apic": "Mediterranean Sea",
+   "cpic": "Egypt"
   },
   {
    "q": "Egypt's eastern coast faces which sea, famed for coral reef diving?",
    "a": "Red Sea",
    "p": 200,
-   "apic": "Red Sea"
+   "apic": "Red Sea",
+   "cpic": "Coral reef"
   },
   {
    "q": "Which man-made waterway opened in 1869, linking the Mediterranean with the Red Sea?",
@@ -115,7 +125,8 @@
    "alt": [
     "Suez"
    ],
-   "apic": "Suez Canal"
+   "apic": "Suez Canal",
+   "cpic": "Red Sea"
   },
   {
    "q": "Which dish of rice, lentils, pasta and chickpeas topped with tomato sauce and crispy onions is Egypt's national dish?",
@@ -152,7 +163,8 @@
      "Mohamed Salah",
      "محمد صلاح"
     ]
-   ]
+   ],
+   "cpic": "Mohamed Salah"
   },
   {
    "q": "Which legendary Egyptian singer was known as 'Kawkab al-Sharq'?",
@@ -179,7 +191,8 @@
    "alt": [
     "Cleopatra VII"
    ],
-   "apic": "Cleopatra"
+   "apic": "Cleopatra",
+   "cpic": "Julius Caesar"
   },
   {
    "q": "Which statue with a lion's body and a human head guards the Giza plateau?",
@@ -249,7 +262,8 @@
      "Sinai",
      "سيناء"
     ]
-   ]
+   ],
+   "cpic": "Sinai Peninsula"
   },
   {
    "q": "Which of the Seven Wonders of the Ancient World still stands today?",
@@ -271,7 +285,8 @@
     "Ahly",
     "Al-Ahly"
    ],
-   "apic": "Al Ahly SC"
+   "apic": "Al Ahly SC",
+   "cpic": "Africa"
   },
   {
    "q": "By what nickname is the Egyptian national football team known?",
@@ -334,13 +349,15 @@
     "Khan al-Khalili",
     "Khan El Khalili"
    ],
-   "apic": "Khan el-Khalili"
+   "apic": "Khan el-Khalili",
+   "cpic": "Cairo"
   },
   {
    "q": "What title did the rulers of ancient Egypt bear?",
    "a": "Pharaoh",
    "p": 200,
-   "apic": "Pharaoh"
+   "apic": "Pharaoh",
+   "cpic": "Ancient Egypt"
   },
   {
    "q": "Which Red Sea city, popular for diving and beach holidays, lies south of Suez?",
@@ -353,7 +370,8 @@
      "Suez",
      "السويس"
     ]
-   ]
+   ],
+   "cpic": "Red Sea"
   },
   {
    "q": "Which semolina cake soaked in syrup is a popular Egyptian sweet?",
@@ -384,7 +402,8 @@
     "Ta'amiya",
     "Taamiya"
    ],
-   "apic": "Falafel"
+   "apic": "Falafel",
+   "cpic": "Falafel"
   },
   {
    "q": "Which deep-red hibiscus drink is served hot or cold across Egypt?",
@@ -423,7 +442,8 @@
      "Abu Simbel",
      "أبو سمبل"
     ]
-   ]
+   ],
+   "cpic": "Abu Simbel"
   },
   {
    "q": "Which female pharaoh built a famous terraced temple at Deir el-Bahari?",
@@ -458,7 +478,8 @@
      "Luxor",
      "الأقصر"
     ]
-   ]
+   ],
+   "cpic": "Luxor"
   },
   {
    "q": "Which tiered Saqqara pyramid is considered Egypt's earliest large stone pyramid?",
@@ -486,7 +507,8 @@
    "alt": [
     "Bur Said"
    ],
-   "apic": "Port Said"
+   "apic": "Port Said",
+   "cpic": "Suez Canal"
   },
   {
    "q": "Which beetle was sacred to the ancient Egyptians as a symbol of rebirth?",
@@ -512,7 +534,8 @@
     "Al Azhar",
     "Azhar"
    ],
-   "apic": "Al-Azhar Mosque"
+   "apic": "Al-Azhar Mosque",
+   "cpic": "Cairo"
   },
   {
    "q": "Which Cairo football club, nicknamed the White Knights, is Al Ahly's great rival?",
@@ -568,7 +591,8 @@
    "alt": [
     "Mahfouz"
    ],
-   "apic": "Naguib Mahfouz"
+   "apic": "Naguib Mahfouz",
+   "cpic": "Nobel Prize"
   },
   {
    "q": "Egypt lies in which two continents?",
@@ -591,7 +615,8 @@
      "Mohamed Salah",
      "محمد صلاح"
     ]
-   ]
+   ],
+   "cpic": "Mohamed Salah"
   },
   {
    "q": "Which French diplomat led the company that built the Suez Canal?",
@@ -625,7 +650,8 @@
      "Suez",
      "السويس"
     ]
-   ]
+   ],
+   "cpic": "Suez Canal"
   },
   {
    "q": "What is the name of the huge reservoir created by the Aswan High Dam?",
@@ -676,7 +702,8 @@
    "alt": [
     "Salah ad-Din",
     "Salah al-Din"
-   ]
+   ],
+   "cpic": "Cairo Citadel"
   },
   {
    "q": "Which Egyptian actor starred in Lawrence of Arabia and Doctor Zhivago?",
@@ -728,7 +755,8 @@
     "Citadel of Qaitbay",
     "Qaitbey Citadel"
    ],
-   "apic": "Citadel of Qaitbay"
+   "apic": "Citadel of Qaitbay",
+   "cpic": "Alexandria"
   },
   {
    "q": "Which dynasty of Macedonian-Greek kings did Cleopatra belong to?",
@@ -748,7 +776,8 @@
    "alt": [
     "Cartouch"
    ],
-   "apic": "Cartouche"
+   "apic": "Cartouche",
+   "cpic": "Pharaoh"
   },
   {
    "q": "The ankh, an ancient Egyptian symbol, represents what?",
@@ -783,7 +812,8 @@
      "Naguib Mahfouz",
      "نجيب محفوظ"
     ]
-   ]
+   ],
+   "cpic": "Naguib Mahfouz"
   },
   {
    "q": "Which Swiss club did Mohamed Salah join in 2012 before moving to Chelsea?",
@@ -798,7 +828,8 @@
      "Mohamed Salah",
      "محمد صلاح"
     ]
-   ]
+   ],
+   "cpic": "Mohamed Salah"
   },
   {
    "q": "At which Egyptian club did Mohamed Salah begin his professional career?",
@@ -826,7 +857,8 @@
    "alt": [
     "Zewail"
    ],
-   "apic": "Ahmed Zewail"
+   "apic": "Ahmed Zewail",
+   "cpic": "Nobel Prize"
   },
   {
    "q": "Which singer was nicknamed 'Al-Andaleeb al-Asmar', the Dark Nightingale?",
@@ -872,7 +904,8 @@
      "Luxor",
      "الأقصر"
     ]
-   ]
+   ],
+   "cpic": "Luxor"
   },
   {
    "q": "Which pharaoh built the second-largest pyramid at Giza?",
@@ -929,7 +962,8 @@
      "Amarna",
      "العمارنة"
     ]
-   ]
+   ],
+   "cpic": "Pharaoh"
   },
   {
    "q": "Which ruler is traditionally credited with uniting Upper and Lower Egypt around 3100 BC?",
@@ -947,7 +981,8 @@
    "alt": [
     "Kadesh"
    ],
-   "apic": "Battle of Kadesh"
+   "apic": "Battle of Kadesh",
+   "cpic": "Ramesses II"
   },
   {
    "q": "What is the tomb number of Tutankhamun in the Valley of the Kings?",
@@ -956,13 +991,15 @@
    "alt": [
     "KV 62"
    ],
-   "apic": "KV62"
+   "apic": "KV62",
+   "cpic": "Valley of the Kings"
   },
   {
    "q": "Which queen, wife of Ramesses II, has a richly painted tomb in the Valley of the Queens?",
    "a": "Nefertari",
    "p": 600,
-   "apic": "Nefertari"
+   "apic": "Nefertari",
+   "cpic": "Ramesses II"
   },
   {
    "q": "Which temple on the Nile near Aswan was dismantled and rebuilt on Agilkia Island?",
@@ -978,7 +1015,8 @@
      "Aswan",
      "أسوان"
     ]
-   ]
+   ],
+   "cpic": "Aswan"
   },
   {
    "q": "Which crocodile god shared the double temple at Kom Ombo with Horus?",
@@ -993,7 +1031,8 @@
      "Kom Ombo",
      "كوم أمبو"
     ]
-   ]
+   ],
+   "cpic": "Horus"
   },
   {
    "q": "Which Egyptian temple, the best preserved in the country, is dedicated to Horus?",
@@ -1020,7 +1059,8 @@
      "Luxor",
      "الأقصر"
     ]
-   ]
+   ],
+   "cpic": "Obelisk"
   },
   {
    "q": "Which Egyptian board game, played by pharaohs and commoners, is among the oldest known?",
@@ -1076,7 +1116,8 @@
      "Naguib Mahfouz",
      "نجيب محفوظ"
     ]
-   ]
+   ],
+   "cpic": "Naguib Mahfouz"
   },
   {
    "q": "By what Arabic title meaning 'Star of the East' was Umm Kulthum known?",
@@ -1179,7 +1220,8 @@
     "Re",
     "Amun-Ra"
    ],
-   "apic": "Ra"
+   "apic": "Ra",
+   "cpic": "Ancient Egypt"
   },
   {
    "q": "Which eye-shaped symbol of protection is named after a falcon-headed god?",
@@ -1222,7 +1264,8 @@
    "alt": [
     "GEM"
    ],
-   "apic": "Grand Egyptian Museum"
+   "apic": "Grand Egyptian Museum",
+   "cpic": "Tutankhamun"
   },
   {
    "q": "Which golden object covered the head of Tutankhamun's mummy?",
@@ -1233,7 +1276,8 @@
     "Funerary mask",
     "Mask"
    ],
-   "apic": "Mask of Tutankhamun"
+   "apic": "Mask of Tutankhamun",
+   "cpic": "Tutankhamun"
   },
   {
    "q": "Which crop, famous for long fibres used in luxury bed sheets, is a celebrated Egyptian export?",
@@ -1259,14 +1303,16 @@
    "p": 200,
    "alt": [
     "Northwards"
-   ]
+   ],
+   "cpic": "Nile"
   },
   {
    "q": "What is the traditional wooden sailing boat of the Nile called?",
    "a": "Felucca",
    "p": 200,
    "ar": "فلوكة",
-   "apic": "Felucca"
+   "apic": "Felucca",
+   "cpic": "Nile"
   },
   {
    "q": "Which triangular peninsula forms Egypt's land bridge to Asia?",
@@ -1339,7 +1385,8 @@
    "a": "Rami Malek",
    "p": 200,
    "apic": "Rami Malek",
-   "ar": "رامي مالك"
+   "ar": "رامي مالك",
+   "cpic": "Freddie Mercury"
   },
   {
    "q": "Which racket sport have Egyptians such as Ali Farag and Nour El Sherbini dominated?",
@@ -1400,7 +1447,8 @@
    "q": "What is the stone coffin that held a pharaoh's mummy called?",
    "a": "Sarcophagus",
    "p": 200,
-   "apic": "Sarcophagus"
+   "apic": "Sarcophagus",
+   "cpic": "Pharaoh"
   },
   {
    "q": "Which London museum displays the Rosetta Stone?",
@@ -1435,7 +1483,8 @@
    "alt": [
     "Aset"
    ],
-   "apic": "Isis"
+   "apic": "Isis",
+   "cpic": "Osiris"
   },
   {
    "q": "Which cat-headed goddess was worshipped at Bubastis?",
@@ -1453,7 +1502,8 @@
    "alt": [
     "Seth"
    ],
-   "apic": "Set (deity)"
+   "apic": "Set (deity)",
+   "cpic": "Osiris"
   },
   {
    "q": "Which ibis-headed god was the patron of writing and wisdom?",
@@ -1487,7 +1537,8 @@
    "q": "What are the four jars that held a mummy's preserved organs called?",
    "a": "Canopic jars",
    "p": 400,
-   "apic": "Canopic jar"
+   "apic": "Canopic jar",
+   "cpic": "Mummy"
   },
   {
    "q": "Which organ did embalmers usually leave inside the body, believing it was weighed in the afterlife?",
@@ -1503,7 +1554,8 @@
     "Carnarvon",
     "Earl of Carnarvon"
    ],
-   "apic": "George Herbert, 5th Earl of Carnarvon"
+   "apic": "George Herbert, 5th Earl of Carnarvon",
+   "cpic": "Howard Carter"
   },
   {
    "q": "Which Ottoman-Albanian commander took power in 1805 and is called the founder of modern Egypt?",
@@ -1560,7 +1612,8 @@
      "Aswan",
      "أسوان"
     ]
-   ]
+   ],
+   "cpic": "Aswan"
   },
   {
    "q": "What was the structure ancient Egyptians used to measure the Nile's flood levels called?",
@@ -1593,7 +1646,8 @@
      "Samih Sawiris",
      "سميح ساويرس"
     ]
-   ]
+   ],
+   "cpic": "Hurghada"
   },
   {
    "q": "Which Egyptian desert near Farafra is famous for chalk rock formations shaped like mushrooms?",
@@ -1634,7 +1688,8 @@
      "Saqqara",
      "سقارة"
     ]
-   ]
+   ],
+   "cpic": "Ancient Egypt"
   },
   {
    "q": "By what Greek name is the ancient city at modern Luxor known?",
@@ -1649,7 +1704,8 @@
      "Luxor",
      "الأقصر"
     ]
-   ]
+   ],
+   "cpic": "Luxor"
   },
   {
    "q": "What lines the 2.7 km avenue linking the temples of Luxor and Karnak?",
@@ -1668,13 +1724,15 @@
      "Karnak",
      "الكرنك"
     ]
-   ]
+   ],
+   "cpic": "Karnak"
   },
   {
    "q": "What is the granite burial room at the heart of the Great Pyramid called?",
    "a": "King's Chamber",
    "p": 400,
-   "apic": "King's Chamber"
+   "apic": "King's Chamber",
+   "cpic": "Heart"
   },
   {
    "q": "Which period of ancient Egyptian history is called the Age of the Pyramids?",
@@ -1697,7 +1755,8 @@
    "a": "Ismailia",
    "p": 400,
    "ar": "الإسماعيلية",
-   "apic": "Ismailia"
+   "apic": "Ismailia",
+   "cpic": "Suez Canal"
   },
   {
    "q": "What was the name of the giant container ship that blocked the Suez Canal in March 2021?",
@@ -1746,7 +1805,8 @@
      "Sham el-Nessim",
      "شم النسيم"
     ]
-   ]
+   ],
+   "cpic": "Sham el-Nessim"
   },
   {
    "q": "Which spring festival, dating back to pharaonic times, is celebrated in Egypt with coloured eggs and picnics?",
@@ -1772,7 +1832,8 @@
      "Eid al-Fitr",
      "عيد الفطر"
     ]
-   ]
+   ],
+   "cpic": "Eid al-Fitr"
   },
   {
    "q": "Which Egyptian dry dip of crushed nuts, seeds and spices is eaten with bread and olive oil?",
@@ -1814,7 +1875,8 @@
      "hamam mahshi",
      "حمام محشي"
     ]
-   ]
+   ],
+   "cpic": "Mahshi"
   },
   {
    "q": "What is the colourful Egyptian whirling dance with spinning layered skirts called?",
@@ -1843,7 +1905,8 @@
      "Enta Omri",
      "إنت عمري"
     ]
-   ]
+   ],
+   "cpic": "Umm Kulthum"
   },
   {
    "q": "Which French singing star of 'Gigi l'amoroso' was born in Cairo in 1933?",
@@ -1885,7 +1948,8 @@
   {
    "q": "Egypt won three consecutive Africa Cup of Nations titles, from 2006 to which year?",
    "a": "2010",
-   "p": 400
+   "p": 400,
+   "cpic": "Africa"
   },
   {
    "q": "Which Al Ahly playmaker, nicknamed 'the Magician', starred in Egypt's 2006 and 2008 AFCON wins?",
@@ -1921,7 +1985,8 @@
    "p": 400,
    "alt": [
     "One hundred"
-   ]
+   ],
+   "cpic": "Egyptian pound"
   },
   {
    "q": "Which bird appears in gold at the centre of Egypt's flag?",
@@ -1955,7 +2020,8 @@
      "Aswan",
      "أسوان"
     ]
-   ]
+   ],
+   "cpic": "Aswan"
   },
   {
    "q": "Which goddess was worshipped at the temple of Philae?",
@@ -1986,7 +2052,8 @@
    "a": "Egypt",
    "p": 400,
    "apic": "Egypt",
-   "ar": "مصر"
+   "ar": "مصر",
+   "cpic": "Africa"
   },
   {
    "q": "Which two gulfs of the Red Sea frame the southern tip of the Sinai Peninsula?",
@@ -2001,7 +2068,8 @@
      "Sinai",
      "سيناء"
     ]
-   ]
+   ],
+   "cpic": "Sinai Peninsula"
   },
   {
    "q": "Which hippopotamus goddess protected women in childbirth?",
@@ -2073,7 +2141,8 @@
    "alt": [
     "Land of Punt"
    ],
-   "apic": "Land of Punt"
+   "apic": "Land of Punt",
+   "cpic": "Hatshepsut"
   },
   {
    "q": "What was Tutankhamun's original name before the return to the old gods?",
@@ -2088,7 +2157,8 @@
    "alt": [
     "Ramses II"
    ],
-   "apic": "Ramesses II"
+   "apic": "Ramesses II",
+   "cpic": "Mummy"
   },
   {
    "q": "In 2021 a 'Golden Parade' moved 22 royal mummies to which new Cairo museum?",
@@ -2190,7 +2260,8 @@
    "q": "Which city in Upper Egypt was the main cult centre of Osiris?",
    "a": "Abydos",
    "p": 600,
-   "apic": "Abydos, Egypt"
+   "apic": "Abydos, Egypt",
+   "cpic": "Osiris"
   },
   {
    "q": "Whose tomb, KV17, found by Giovanni Belzoni in 1817, is among the longest and most richly decorated in the Valley of the Kings?",
@@ -2199,7 +2270,8 @@
    "alt": [
     "Sety I"
    ],
-   "apic": "Seti I"
+   "apic": "Seti I",
+   "cpic": "Valley of the Kings"
   },
   {
    "q": "On which two dates each year does the sun shine into the inner sanctuary of Abu Simbel?",
@@ -2240,7 +2312,8 @@
    "alt": [
     "Ptolemy XV"
    ],
-   "apic": "Caesarion"
+   "apic": "Caesarion",
+   "cpic": "Julius Caesar"
   },
   {
    "q": "At which 31 BC naval battle were Antony and Cleopatra defeated by Octavian?",
@@ -2259,7 +2332,8 @@
     "Ptolemy I Soter",
     "Ptolemy"
    ],
-   "apic": "Ptolemy I Soter"
+   "apic": "Ptolemy I Soter",
+   "cpic": "Alexander the Great"
   },
   {
    "q": "Which Arab commander founded Fustat, the first capital of Islamic-era Egypt?",
@@ -2296,7 +2370,8 @@
    "q": "Which giant Roman column in Alexandria was wrongly named after a Roman general?",
    "a": "Pompey's Pillar",
    "p": 600,
-   "apic": "Pompey's Pillar (column)"
+   "apic": "Pompey's Pillar (column)",
+   "cpic": "Alexandria"
   },
   {
    "q": "Which Alexandria necropolis, mixing Egyptian and Roman styles, is counted among the Middle Ages' wonders?",
@@ -2397,7 +2472,8 @@
    "alt": [
     "Sir Magdi Yacoub"
    ],
-   "apic": "Magdi Yacoub"
+   "apic": "Magdi Yacoub",
+   "cpic": "Heart"
   },
   {
    "q": "In 2018, which Egyptian goalkeeper became the oldest player ever to appear at a World Cup?",
@@ -2432,7 +2508,8 @@
    "alt": [
     "Ismaily SC"
    ],
-   "apic": "Ismaily SC"
+   "apic": "Ismaily SC",
+   "cpic": "Ismailia"
   },
   {
    "q": "Which Egyptian won Greco-Roman wrestling gold at the 2004 Athens Olympics?",
@@ -2481,7 +2558,8 @@
      "suhoor",
      "السحور"
     ]
-   ]
+   ],
+   "cpic": "The Streets"
   },
   {
    "q": "Which Egyptian stick-fighting dance was added to UNESCO's heritage list in 2016?",
@@ -2553,7 +2631,8 @@
    "q": "Which 1999 Brendan Fraser adventure film sees the priest Imhotep brought back to life?",
    "a": "The Mummy",
    "p": 200,
-   "apic": "The Mummy (1999 film)"
+   "apic": "The Mummy (1999 film)",
+   "cpic": "Brendan Fraser"
   },
   {
    "q": "Which Agatha Christie mystery is set aboard a cruise steamer on Egypt's great river?",
@@ -2631,7 +2710,8 @@
    "alt": [
     "Cat"
    ],
-   "apic": "Cat"
+   "apic": "Cat",
+   "cpic": "Bastet"
   },
   {
    "q": "What is Egypt's second-largest city?",
@@ -2654,7 +2734,8 @@
    "a": "Marsa Alam",
    "p": 400,
    "ar": "مرسى علم",
-   "apic": "Marsa Alam"
+   "apic": "Marsa Alam",
+   "cpic": "Red Sea"
   },
   {
    "q": "What is the hot, dusty spring wind that blows across Egypt from the desert called?",

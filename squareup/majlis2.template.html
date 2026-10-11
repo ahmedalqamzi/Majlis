@@ -281,6 +281,66 @@ h1,h2,h3{font-family:var(--display);font-weight:800;margin:0;text-wrap:balance;l
 }
 @media (max-width:420px){.board{grid-template-columns:1fr}.card{grid-template-columns:58px 1fr 58px}.tile{font-size:18px;height:42px}.chip .sc{font-size:22px}}
 @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+
+/* Question screen v3: a photo-backed stage with one big question card (picture on top, question below), like a TV quiz */
+.q{background:var(--bg);isolation:isolate}
+.qbg{position:fixed;inset:-60px;z-index:-1;background:var(--u,none) center/cover,radial-gradient(circle at 50% 0,color-mix(in srgb,var(--c) 70%,var(--bg)),var(--bg) 70%);filter:blur(28px) saturate(1.4) brightness(.5)}
+.qbg::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,color-mix(in srgb,var(--c) 35%,transparent),color-mix(in srgb,var(--bg) 85%,transparent) 75%)}
+.q-in{gap:12px;padding-top:12px;height:100dvh;min-height:0}
+.q-head{margin-bottom:6px}
+.q-head{min-height:62px}
+.turn{display:flex;align-items:center;gap:10px;background:var(--c);color:#fff;border-radius:999px;padding:5px 18px 5px 5px;box-shadow:0 4px 0 color-mix(in srgb,var(--c) 55%,#000);font-family:var(--display);font-weight:800;font-size:20px;line-height:1.05;min-width:0;animation:pop .35s ease}
+.turn img{width:46px;height:46px;border-radius:50%;background:rgba(255,255,255,.25);padding:3px;box-sizing:border-box;flex:none}
+.turn small{display:block;font-family:var(--body);font-size:11px;font-weight:700;letter-spacing:1px;text-transform:uppercase;opacity:.85}
+.turn span{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.ring{background:color-mix(in srgb,var(--bg) 70%,transparent);backdrop-filter:blur(6px)}
+.tags:empty{display:none}
+.q-body{justify-content:flex-start;gap:12px}
+.qcard{flex:1;display:flex;flex-direction:column;background:#fff;color:#0D2742;border-radius:26px;overflow:hidden;box-shadow:0 18px 40px rgba(0,0,0,.35),0 6px 0 color-mix(in srgb,var(--c) 60%,#000);animation:cardin .45s cubic-bezier(.2,1.3,.4,1);min-height:0}
+@keyframes cardin{from{transform:translateY(30px) scale(.96);opacity:0}}
+.qc-media{position:relative;flex:1 1 0;min-height:170px;max-height:46vh;background:color-mix(in srgb,var(--c) 85%,#000);display:flex;overflow:hidden}
+.qc-media>*:not(.qc-tag):not(.qc-pts):not(#vidbox){position:absolute;inset:0}
+.qc-media #vidbox{flex:1;min-width:0}
+.qc-media.flip>.wpic{animation:pop .45s ease}
+.qc-media .wpic.ph{border-radius:0;box-shadow:none;height:100%;align-items:center}
+.qc-media .wpic.ph .q-img{height:100%;max-height:none;width:100%;object-fit:contain}
+.qc-media .wpic:not(.ph){display:block;background:linear-gradient(110deg,transparent 30%,rgba(255,255,255,.12) 50%,transparent 70%) 0 0/200% 100%;animation:shine 1.2s linear infinite}
+@keyframes shine{to{background-position:-200% 0}}
+.qc-cover{background:var(--u) center 30%/cover}
+.qc-cover::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,transparent 55%,rgba(0,0,0,.45))}
+.qc-artbox{display:grid;place-items:center;background:radial-gradient(circle at 50% 50%,#fff 0 min(26vw,130px),transparent calc(min(26vw,130px) + 1px)),repeating-linear-gradient(135deg,color-mix(in srgb,var(--c) 80%,#000) 0 18px,var(--c) 18px 36px)}
+.qc-artbox .q-art{animation:none;width:min(36vw,180px);height:auto;filter:drop-shadow(0 14px 18px rgba(0,0,0,.3))}
+.qc-flat{display:grid;place-items:center;background:#F1F5FA;padding:18px}
+.qc-flat img{max-width:100%;max-height:100%;object-fit:contain;filter:drop-shadow(0 6px 14px rgba(13,39,66,.2));border-radius:6px}
+.qc-media .q-emoji{display:grid;place-items:center;background:radial-gradient(circle at 50% 40%,color-mix(in srgb,var(--c) 55%,#fff),var(--c) 75%)}
+.qc-media #vidbox:empty{display:none}
+.qc-media #vidbox{display:flex;flex-direction:column;justify-content:center;padding:12px;background:#0b1a2b}
+.qc-tag{position:absolute;left:12px;bottom:12px;display:flex;align-items:center;gap:8px;background:rgba(10,20,35,.72);backdrop-filter:blur(6px);color:#fff;font-weight:700;font-size:14px;padding:4px 14px 4px 4px;border-radius:999px;flex:none;max-width:calc(100% - 110px)}
+.qc-tag .badge{width:30px!important;height:30px!important;flex:none}
+.qc-pts{position:absolute;right:12px;top:12px;flex:none;background:var(--pri);color:var(--pri-ink);border-radius:16px;padding:4px 14px;font-family:var(--num);font-weight:800;box-shadow:0 4px 0 var(--pri-edge);display:flex;align-items:baseline;gap:4px}
+.qc-pts b{font-size:28px;line-height:1.1}.qc-pts b.hot{color:#B00020}.qc-pts small{font-size:15px}
+.qc-txt{padding:18px 20px 20px;display:flex;flex-direction:column;gap:12px}
+.qcard .q-text{font-size:clamp(23px,5.6vw,40px);line-height:1.2;color:#0D2742}
+.qcard .hint{background:#EEF3F9;color:#0D2742}
+.qcard .ans{margin:0}
+.qcard .arw{color:inherit}
+#qfoot .abrow{flex-direction:row;overflow-x:auto;scrollbar-width:none;gap:6px}
+#qfoot .abrow .tm{flex-wrap:nowrap}
+.use{background:color-mix(in srgb,var(--bg) 70%,transparent);backdrop-filter:blur(6px);white-space:nowrap}
+.steal-b{background:color-mix(in srgb,var(--bg) 70%,transparent);backdrop-filter:blur(6px);padding-block:6px}
+.steal-b img{width:32px;height:32px}
+.q-acts .btn{padding-block:16px;font-size:19px}
+@media (max-width:700px){.framed .q-in{padding-top:64px}.framed .screen{padding-top:52px}}
+@media (min-width:880px) and (min-aspect-ratio:4/3){
+ .q-body{align-self:stretch;min-height:0}
+ .qcard{min-height:0}
+ .qc-media{max-height:none;min-height:0}
+ .qcard .q-text{font-size:clamp(26px,2.6vw,52px)}
+ .qc-pts b{font-size:clamp(28px,2.4vw,46px)}
+ .qc-tag{font-size:clamp(14px,1.1vw,20px)}
+ .turn{font-size:clamp(20px,1.6vw,30px)}
+ .q-body:has(.ans)>.qcard .qc-media{flex-basis:30%}
+}
 </style>
 
 <div id="app"></div>
@@ -414,7 +474,7 @@ const HERO=[[2,8,-8],[22,0,6],[44,-4,-4],[66,0,8],[84,10,-6],[88,40,6],[82,70,-8
 function homeHTML(){
   const total=BANK.reduce((n,c)=>n+c.questions.length,0),pics=BANK.reduce((n,c)=>n+c.questions.filter(q=>q.svg||q.img||(q.pic||"")[0]==="@"||(q.apic||"")[0]==="@").length,0),vids=BANK.reduce((n,c)=>n+c.questions.filter(q=>q.yt).length,0),resume=game&&!game.over;
   return `<div class="band"></div><div class="screen"><div class="home">
-   ${(()=>{const cv=Object.keys(ART).filter(k=>k.startsWith("cover-")).sort(()=>Math.random()-.5);return cv.length>=12?`<div class="hero photo"><div class="wall">${[...cv,...cv].slice(0,36).map(k=>`<img src="${ART[k]}" alt="">`).join("")}</div>`:`<div class="hero">${HERO.map((p,k)=>`<img src="${ART["home-"+k]}" alt="" style="left:${p[0]}%;top:${p[1]}%;--rot:${p[2]}deg;animation-delay:${-k*.4}s">`).join("")}`})()}<div class="mark"><span class="en">Majlis</span><span class="ar" lang="ar">مجلس</span></div></div>
+   ${(()=>{const cv=Object.keys(ART).filter(k=>k.startsWith("cover-")&&!WALL_SKIP.includes(k.slice(6))).sort(()=>Math.random()-.5);return cv.length>=12?`<div class="hero photo"><div class="wall">${[...cv,...cv].slice(0,36).map(k=>`<img src="${ART[k]}" alt="">`).join("")}</div>`:`<div class="hero">${HERO.map((p,k)=>`<img src="${ART["home-"+k]}" alt="" style="left:${p[0]}%;top:${p[1]}%;--rot:${p[2]}deg;animation-delay:${-k*.4}s">`).join("")}`})()}<div class="mark"><span class="en">Majlis</span><span class="ar" lang="ar">مجلس</span></div></div>
    <p class="tag">Team trivia for nights in the majlis. Pick six categories, draft your abilities, and chase the 600s.</p>
    <div class="facts"><span><b>${BANK.length}</b>categories</span><span><b>${total.toLocaleString()}</b>questions</span><span><b>${pics.toLocaleString()}</b>with photos</span><span><b>${vids}</b>clips</span></div>
    <div class="acts">${resume?`<button class="btn btn-acc" onclick="go('board')">Resume game</button>`:""}<button class="btn btn-pri" onclick="go('setup')">New game</button><button class="btn btn-line" onclick="toggleFS()">Full screen</button></div>
@@ -512,7 +572,10 @@ const WIKI={},WURL={},PHOTO={},PACK={};
 // Bundled photos: build.py writes photos/<category>.js packs that call MAJ_PHOTOS({key:dataURI}); a pic of "@cat/key" reads from them.
 window.MAJ_PHOTOS=o=>Object.assign(PHOTO,o);
 function loadPack(c){return PACK[c]||(PACK[c]=new Promise(r=>{const s=document.createElement("script");s.src="photos/"+c+".js";s.onload=r;s.onerror=()=>{delete PACK[c];r()};document.head.appendChild(s)}))}
+// Logo-like covers stay off the home photo wall
+const WALL_SKIP=["pokemon","brands","cartoons","spacetoon","gta","fighting","nintendo","xbox","videogames"];
 const APK=location.hostname==="appassets.androidplatform.net";
+try{if(!APK&&window.top!==window)document.documentElement.classList.add("framed")}catch(e){document.documentElement.classList.add("framed")}
 function wikiImg(t){if(t[0]==="@"){const [c,k]=t.slice(1).split("/");if(APK)return Promise.resolve(WURL[t]="photos/"+k+".webp");return WIKI[t]||(WIKI[t]=loadPack(c).then(()=>{const u=PHOTO[k]||null;if(u)WURL[t]=u;else delete WIKI[t];return u}))}
   if(!WIKI[t])WIKI[t]=fetch("https://en.wikipedia.org/api/rest_v1/page/summary/"+encodeURIComponent(t.replace(/ /g,"_"))).then(r=>r.ok?r.json():null).then(j=>{
     if(!j||j.type==="disambiguation"||!j.thumbnail)return null;const o=j.originalimage,th=j.thumbnail.source;
@@ -520,29 +583,42 @@ function wikiImg(t){if(t[0]==="@"){const [c,k]=t.slice(1).split("/");if(APK)retu
 const phHTML=u=>`<div class="wpic ph" style="--u:url('${esc(u)}')"><img class="q-img" alt="" src="${esc(u)}" onerror="this.parentNode.remove()"></div>`;
 function wpicHTML(t,id){if(!t)return "";if(WURL[t])return phHTML(WURL[t]);
   return `<div class="wpic" id="${id}" data-t="${esc(t)}"></div>`}
-function fillPics(){document.querySelectorAll(".wpic[data-t]").forEach(el=>{const t=el.dataset.t;el.removeAttribute("data-t");wikiImg(t).then(u=>{if(u&&el.isConnected)el.outerHTML=phHTML(u)})})}
-function mediaHTML(x){let h="";if(!x.img&&!x.svg&&!x.emoji&&!x.yt&&!x.pic)h+=`<img class="q-art" src="${ART["cat-"+game.cats[Q.ci].id]||""}" alt="">`;h+=wpicHTML(x.pic,"qpic");if(x.img)h+=`<img class="q-img" alt="Picture for this question" src="${esc(x.img)}">`;if(x.svg)h+=`<img class="q-img" alt="Picture for this question" src="data:image/svg+xml;charset=utf-8,${encodeURIComponent(x.svg)}">`;if(x.emoji)h+=`<div class="q-emoji">${esc(x.emoji)}</div>`;return h+`<div id="vidbox">${vidHTML(x)}</div>`}
+function fillPics(){document.querySelectorAll(".wpic[data-t]").forEach(el=>{const t=el.dataset.t;el.removeAttribute("data-t");wikiImg(t).then(u=>{if(!el.isConnected)return;if(u)el.outerHTML=phHTML(u);else el.remove()})})}
+// The question card's picture: the question's own picture, else a clue photo named in the question, else the category cover photo, else its illustration.
+function mediaHTML(x){const id=game.cats[Q.ci].id;let h="";
+  // Fallbacks sit underneath; a question photo that loads covers them, one that fails is removed
+  if(!x.img&&!x.svg&&!x.emoji&&!x.yt&&!(x.pic&&x.pic[0]==="@")){
+    if(x.cpic&&x.cpic.startsWith("data:"))h+=`<div class="qc-flat"><img alt="" src="${esc(x.cpic)}"></div>`;
+    else if(x.cpic&&!x.pic)h+=wpicHTML(x.cpic,"cpic");
+    else if(ART["cover-"+id])h+=`<div class="qc-cover" style="--u:url('${ART["cover-"+id]}')"></div>`;
+    else h+=`<div class="qc-artbox"><img class="q-art" src="${ART["cat-"+id]||""}" alt=""></div>`}
+  h+=wpicHTML(x.pic,"qpic");if(x.img)h+=`<div class="qc-flat"><img alt="Picture for this question" src="${esc(x.img)}"></div>`;if(x.svg)h+=`<div class="qc-flat"><img alt="Picture for this question" src="data:image/svg+xml;charset=utf-8,${encodeURIComponent(x.svg)}"></div>`;if(x.emoji)h+=`<div class="q-emoji">${esc(x.emoji)}</div>`;return h+(x.yt?`<div id="vidbox">${vidHTML(x)}</div>`:`<div id="vidbox"></div>`)}
 function qText(x){let h=esc(x.q);(x.qar||[]).forEach(([t,a])=>{const e=esc(t),re=new RegExp("(^|[^\\p{L}\\p{N}])("+e.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")+")(?![\\p{L}\\p{N}])","u"),m=re.exec(h);if(m){const k=m.index+m[1].length;h=h.slice(0,k)+e+` - <bdi class="arw" lang="ar">${esc(a)}</bdi>`+h.slice(k+e.length)}});return h}
 function hintOf(a){return String(a).split(/\s+/).map(w=>w[0]+" _".repeat(Math.max(0,w.length-1))).join("   ")}
 
 function openQ(ci,ti){
   const tt=game.teams[game.turn];let left=game.timer;
   if(tt.sabo){left=Math.ceil(game.timer/2);tt.sabo=false;save()}
-  Q={ci,ti,left,total:left,revealed:false,team:game.turn,picker:game.turn,mult:1,risk:false,insure:false,pick:false,hint:false,two:false,room:false,freeze:0,paused:false,first:null,block:null,stealer:null,tried:[],active:{}};
+  Q={apicShown:false,ci,ti,left,total:left,revealed:false,team:game.turn,picker:game.turn,mult:1,risk:false,insure:false,pick:false,hint:false,two:false,room:false,freeze:0,paused:false,first:null,block:null,stealer:null,tried:[],active:{}};
   const el=document.createElement("div");el.className="q";el.id="qv";document.body.appendChild(el);document.body.style.overflow="hidden";
   buildQ();startTick();beep(660,.08);
 }
 function buildQ(){const c=CAT[game.cats[Q.ci].id],x=cur();
-  $("#qv").innerHTML=`<div class="band"></div><div class="q-in"><div class="q-head" id="qhead"></div><div class="tags" id="qtags"></div>
-   <div class="q-body"><div class="q-text">${qText(x)}</div>${mediaHTML(x)}<div id="qhint"></div><div id="qans"></div></div><div id="qfoot"></div></div>`;
-  audOn=false;drawQ();fillPics();if(x.apic)wikiImg(x.apic)}
+  const tile=game.cats[Q.ci].tiles[Q.ti],cov=ART["cover-"+c.id];
+  $("#qv").style.setProperty("--c",c.color);
+  $("#qv").innerHTML=`<div class="qbg" ${cov?`style="--u:url('${cov}')"`:""}></div><div class="q-in"><div class="q-head" id="qhead"></div><div class="tags" id="qtags"></div>
+   <div class="q-body"><div class="qcard"><div class="qc-media" id="qmedia">${mediaHTML(x)}<div class="qc-tag"><span class="badge" style="--gc:${c.color}">${icon(c.id)}</span>${esc(c.name)}</div><div class="qc-pts" id="qpts"></div></div>
+   <div class="qc-txt"><div class="q-text">${qText(x)}</div><div id="qhint"></div><div id="qans"></div></div></div></div><div id="qfoot"></div></div>`;
+  audOn=false;Q.apicShown=false;drawQ();fillPics();if(x.apic)wikiImg(x.apic)}
 function drawQ(){
   const c=CAT[game.cats[Q.ci].id],x=cur(),tile=game.cats[Q.ci].tiles[Q.ti],t=game.teams[Q.team];
   const R=33,C=2*Math.PI*R,frac=Math.max(0,Q.left)/Q.total,low=Q.left<=10;
-  $("#qhead").innerHTML=`<div class="q-meta"><span class="badge" style="--gc:${c.color};width:48px;height:48px">${icon(c.id)}</span><div style="min-width:0"><div class="label">${esc(c.name)}</div><div class="pts ${Q.mult>1?"hot":""}">${tile.p*Q.mult} pts${Q.mult>1?` (x${Q.mult})`:""}</div></div></div>
+  $("#qpts").innerHTML=`<b class="${Q.mult>1?"hot":""}">${tile.p*Q.mult}</b>${Q.mult>1?`<small>x${Q.mult}</small>`:""}`;
+  const st=Q.stealer!==null?Q.stealer:Q.team,stt=game.teams[st];
+  $("#qhead").innerHTML=`<div class="turn" style="--c:${COLORS[st]}"><img src="${ART["team-"+((stt.av||0)%AVN)]}" alt=""><span><small>${Q.revealed?"Answer time":Q.stealer!==null?"Stealing":"Your turn"}</small>${esc(stt.name)}</span></div>
    ${Q.revealed?"":`<button class="ring ${low?"low":""}" onclick="pauseT()" aria-label="${Q.paused?"Resume":"Pause"} timer"><svg width="78" height="78" viewBox="0 0 78 78"><circle cx="39" cy="39" r="${R}" stroke="var(--s3)" stroke-width="7" fill="none"/><circle id="arc" cx="39" cy="39" r="${R}" stroke="${low?"var(--bad)":"var(--pri)"}" stroke-width="7" fill="none" stroke-linecap="round" stroke-dasharray="${C}" stroke-dashoffset="${C*(1-frac)}"/></svg><b id="secs">${Math.max(0,Q.left)}</b><small id="tsub">${Q.freeze>0?"Frozen "+Q.freeze+"s":Q.paused?"Paused":"Tap to pause"}</small></button>`}`;
   const tags=[];
-  tags.push(`<span style="--c:${COLORS[Q.team]}">Answering: <b>${esc(t.name)}</b></span>`);
+
   if(Q.two)tags.push(`<span class="tag-pill">Two guesses</span>`);if(Q.room)tags.push(`<span class="tag-pill">Ask the room: 15 sec</span>`);
   if(Q.insure)tags.push(`<span class="tag-pill">Insured</span>`);if(Q.pick)tags.push(`<span class="tag-pill">Pickpocket</span>`);if(Q.risk)tags.push(`<span class="tag-pill">Risk it</span>`);
   if(Q.stealer!==null)tags.push(`<span class="tag-pill" style="--c:${COLORS[Q.stealer]}">${esc(game.teams[Q.stealer].name)} is stealing</span>`);if(Q.first!==null)tags.push(`<span class="tag-pill">${esc(game.teams[Q.first].name)} steals first</span>`);if(Q.block!==null)tags.push(`<span class="tag-pill">${esc(game.teams[Q.block].name)} blocked</span>`);
@@ -550,7 +626,9 @@ function drawQ(){
   $("#qtags").innerHTML=tags.join("");
   if(Q.revealed)setTimeout(fillPics);
   $("#qhint").innerHTML=Q.hint&&!Q.revealed?`<div class="hint" aria-label="Hint">${esc(hintOf(x.a))}</div>`:"";
-  $("#qans").innerHTML=Q.revealed?`<div class="ans"><small>Answer</small><p>${esc(x.a)}${x.ar?` - <bdi class="arw" lang="ar">${esc(x.ar)}</bdi>`:""}</p>${x.alt&&x.alt.length?`<div class="alt">Also accepted: ${x.alt.map(esc).join(", ")}</div>`:""}${wpicHTML(x.apic,"apic")}</div>`:"";
+  $("#qans").innerHTML=Q.revealed?`<div class="ans"><small>Answer</small><p>${esc(x.a)}${x.ar?` - <bdi class="arw" lang="ar">${esc(x.ar)}</bdi>`:""}</p>${x.alt&&x.alt.length?`<div class="alt">Also accepted: ${x.alt.map(esc).join(", ")}</div>`:""}</div>`:"";
+  // On reveal the answer photo replaces the card's picture, once it has loaded
+  if(Q.revealed&&x.apic&&!x.yt&&!Q.apicShown){Q.apicShown=true;const q0=Q;wikiImg(x.apic).then(u=>{const m=$("#qmedia");if(!u||Q!==q0||!m)return;const keep=m.querySelectorAll(".qc-tag,.qc-pts");m.innerHTML=phHTML(u);keep.forEach(k=>m.appendChild(k));m.classList.add("flip")})}
   if(!Q.revealed){
     const rows=game.teams.map((tm,i)=>{const list=tm.abil.filter(id=>{const a=ABM[id];if(a.when!=="q")return false;if(a.who==="ans")return i===Q.team;if(a.who==="other")return i!==Q.team;return true});if(!list.length)return "";
       return `<div class="tm" style="--c:${COLORS[i]}"><span>${esc(tm.name)}</span>${list.map(id=>{const a=ABM[id],u=tm.used[id],dis=u||(["double","risk"].includes(id)&&Q.mult>1);return `<button class="use ${Q.active[i+id]?"active":""}" style="--c:${COLORS[i]}" ${dis?"disabled":""} onclick="useAb(${i},'${id}')" title="${esc(a.desc)}">${P(IC[a.ico])}${a.name}</button>`}).join("")}</div>`}).join("");

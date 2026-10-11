@@ -48,7 +48,8 @@
    "q": "Which actress plays Simran opposite Shah Rukh Khan in \"Dilwale Dulhania Le Jayenge\"?",
    "a": "Kajol",
    "p": 200,
-   "apic": "Kajol"
+   "apic": "Kajol",
+   "cpic": "Shah Rukh Khan"
   },
   {
    "q": "Which actor is nicknamed \"Mr. Perfectionist\" of Bollywood?",
@@ -69,7 +70,8 @@
    "q": "Which 2001 Aamir Khan film sees villagers challenge British officers to a cricket match?",
    "a": "Lagaan",
    "p": 200,
-   "apic": "Lagaan"
+   "apic": "Lagaan",
+   "cpic": "Aamir Khan"
   },
   {
    "q": "Which sport is at the centre of \"Lagaan\"?",
@@ -99,7 +101,8 @@
    "alt": [
     "Outer space",
     "Space"
-   ]
+   ],
+   "cpic": "Aamir Khan"
   },
   {
    "q": "Which 1975 classic features the bandit Gabbar Singh and the friends Jai and Veeru?",
@@ -117,7 +120,8 @@
    "q": "Which American singer did Priyanka Chopra marry in 2018?",
    "a": "Nick Jonas",
    "p": 200,
-   "apic": "Nick Jonas"
+   "apic": "Nick Jonas",
+   "cpic": "Priyanka Chopra"
   },
   {
    "q": "Which actress won Miss World in 1994 and later married Abhishek Bachchan?",
@@ -144,7 +148,8 @@
    "q": "Which actress made her Hindi film debut opposite Shah Rukh Khan in \"Om Shanti Om\" (2007)?",
    "a": "Deepika Padukone",
    "p": 200,
-   "apic": "Deepika Padukone"
+   "apic": "Deepika Padukone",
+   "cpic": "Shah Rukh Khan"
   },
   {
    "q": "Which Bollywood actress unveiled the trophy before the 2022 FIFA World Cup final in Qatar?",
@@ -156,7 +161,8 @@
    "q": "Which Bollywood actor married Deepika Padukone in 2018?",
    "a": "Ranveer Singh",
    "p": 200,
-   "apic": "Ranveer Singh"
+   "apic": "Ranveer Singh",
+   "cpic": "Deepika Padukone"
   },
   {
    "q": "Which actor married Alia Bhatt in 2022?",
@@ -169,7 +175,8 @@
    "q": "Which 2023 Shah Rukh Khan spy film had its trailer shown on Dubai's Burj Khalifa in January 2023?",
    "a": "Pathaan",
    "p": 200,
-   "apic": "Pathaan (film)"
+   "apic": "Pathaan (film)",
+   "cpic": "Shah Rukh Khan"
   },
   {
    "q": "Which 2023 Atlee film stars Shah Rukh Khan in a double role as father and son?",
@@ -189,7 +196,8 @@
   {
    "q": "Which 2014 Shah Rukh Khan heist film was shot almost entirely in Dubai, including at Atlantis, The Palm?",
    "a": "Happy New Year",
-   "p": 200
+   "p": 200,
+   "cpic": "Atlantis The Palm"
   },
   {
    "q": "Which Hollywood film, featuring Anil Kapoor, has Tom Cruise scaling Dubai's Burj Khalifa?",
@@ -199,13 +207,15 @@
     "Mission Impossible Ghost Protocol",
     "Ghost Protocol"
    ],
-   "apic": "Mission: Impossible – Ghost Protocol"
+   "apic": "Mission: Impossible – Ghost Protocol",
+   "cpic": "Burj Khalifa"
   },
   {
    "q": "Which Salman Khan spy sequel from 2017 was largely filmed in Abu Dhabi?",
    "a": "Tiger Zinda Hai",
    "p": 200,
-   "apic": "Tiger Zinda Hai"
+   "apic": "Tiger Zinda Hai",
+   "cpic": "Salman Khan"
   },
   {
    "q": "Which theme park dedicated to Hindi cinema opened at Dubai Parks and Resorts in 2016?",
@@ -234,7 +244,8 @@
    "q": "Which Oscar-winning song from \"Slumdog Millionaire\" was composed by A. R. Rahman?",
    "a": "Jai Ho",
    "p": 200,
-   "apic": "Jai Ho (song)"
+   "apic": "Jai Ho (song)",
+   "cpic": "A. R. Rahman"
   },
   {
    "q": "Which singer was known as the \"Nightingale of India\"?",
@@ -255,7 +266,8 @@
    "q": "Which 2002 Sanjay Leela Bhansali epic starred Shah Rukh Khan, Aishwarya Rai and Madhuri Dixit?",
    "a": "Devdas",
    "p": 200,
-   "apic": "Devdas (2002 Hindi film)"
+   "apic": "Devdas (2002 Hindi film)",
+   "cpic": "Sanjay Leela Bhansali"
   },
   {
    "q": "Which actress is nicknamed the \"Dhak Dhak Girl\" after a song in \"Beta\" (1992)?",
@@ -271,7 +283,8 @@
     "Hum Aapke Hain Koun",
     "HAHK"
    ],
-   "apic": "Hum Aapke Hain Koun..!"
+   "apic": "Hum Aapke Hain Koun..!",
+   "cpic": "Madhuri Dixit"
   },
   {
    "q": "Which 1998 Karan Johar film features Rahul, Anjali and Tina at college?",
@@ -280,7 +293,8 @@
    "alt": [
     "KKHH"
    ],
-   "apic": "Kuch Kuch Hota Hai"
+   "apic": "Kuch Kuch Hota Hai",
+   "cpic": "Karan Johar"
   },
   {
    "q": "Which 2001 family drama is often abbreviated to K3G?",
@@ -301,7 +315,8 @@
    "alt": [
     "Koi Mil Gaya"
    ],
-   "apic": "Koi... Mil Gaya"
+   "apic": "Koi... Mil Gaya",
+   "cpic": "Hrithik Roshan"
   },
   {
    "q": "Which Bollywood film series is famous for police chases on high-speed motorbikes?",
@@ -312,25 +327,29 @@
    "q": "Which 2013 Shah Rukh Khan and Deepika Padukone comedy is named after a train?",
    "a": "Chennai Express",
    "p": 200,
-   "apic": "Chennai Express"
+   "apic": "Chennai Express",
+   "cpic": "Deepika Padukone"
   },
   {
    "q": "Which 2008 Aamir Khan thriller is about a man with short-term memory loss?",
    "a": "Ghajini",
    "p": 200,
-   "apic": "Ghajini (2008 film)"
+   "apic": "Ghajini (2008 film)",
+   "cpic": "Aamir Khan"
   },
   {
    "q": "Which 2018 Ranbir Kapoor film is a biopic of actor Sanjay Dutt?",
    "a": "Sanju",
    "p": 200,
-   "apic": "Sanju"
+   "apic": "Sanju",
+   "cpic": "Ranbir Kapoor"
   },
   {
    "q": "Which actress plays the Rajput queen in Sanjay Leela Bhansali's \"Padmaavat\"?",
    "a": "Deepika Padukone",
    "p": 400,
-   "apic": "Deepika Padukone"
+   "apic": "Deepika Padukone",
+   "cpic": "Sanjay Leela Bhansali"
   },
   {
    "q": "Which 2022 Aamir Khan film is a remake of \"Forrest Gump\"?",
@@ -341,7 +360,8 @@
   {
    "q": "Which Mumbai home of Shah Rukh Khan is a famous fan landmark?",
    "a": "Mannat",
-   "p": 200
+   "p": 200,
+   "cpic": "Mumbai"
   },
   {
    "q": "Which IPL cricket team is co-owned by Shah Rukh Khan?",
@@ -350,7 +370,8 @@
    "alt": [
     "KKR"
    ],
-   "apic": "Kolkata Knight Riders"
+   "apic": "Kolkata Knight Riders",
+   "cpic": "Cricket"
   },
   {
    "q": "Which actress won \"Celebrity Big Brother\" in the UK in 2007?",
@@ -377,25 +398,29 @@
   {
    "q": "Which 2023 Ranbir Kapoor action drama is about a violent son's obsession with his father?",
    "a": "Animal",
-   "p": 200
+   "p": 200,
+   "cpic": "Ranbir Kapoor"
   },
   {
    "q": "Which 2019 Zoya Akhtar film follows a young street rapper from Mumbai's Dharavi?",
    "a": "Gully Boy",
    "p": 200,
-   "apic": "Gully Boy"
+   "apic": "Gully Boy",
+   "cpic": "Zoya Akhtar"
   },
   {
    "q": "Which 2014 biopic stars Priyanka Chopra as an Olympic boxer from Manipur?",
    "a": "Mary Kom",
    "p": 200,
-   "apic": "Mary Kom (film)"
+   "apic": "Mary Kom (film)",
+   "cpic": "Priyanka Chopra"
   },
   {
    "q": "Which actor plays the wrestling coach Mahavir Singh Phogat in \"Dangal\"?",
    "a": "Aamir Khan",
    "p": 400,
-   "apic": "Aamir Khan"
+   "apic": "Aamir Khan",
+   "cpic": "Wrestling"
   },
   {
    "q": "Which song from \"Dil Se..\" (1998) is famous for being danced on top of a moving train?",
@@ -468,7 +493,8 @@
   {
    "q": "Which Mumbai cinema screened \"Dilwale Dulhania Le Jayenge\" for more than 1,000 weeks?",
    "a": "Maratha Mandir",
-   "p": 600
+   "p": 600,
+   "cpic": "Mumbai"
   },
   {
    "q": "Who directed \"Sholay\"?",
@@ -519,13 +545,15 @@
    "q": "Which 1973 film established Amitabh Bachchan as the \"Angry Young Man\"?",
    "a": "Zanjeer",
    "p": 400,
-   "apic": "Zanjeer (1973 film)"
+   "apic": "Zanjeer (1973 film)",
+   "cpic": "Amitabh Bachchan"
   },
   {
    "q": "In which 1975 film does Amitabh Bachchan play a smuggler whose brother is a policeman?",
    "a": "Deewaar",
    "p": 400,
-   "apic": "Deewaar"
+   "apic": "Deewaar",
+   "cpic": "Amitabh Bachchan"
   },
   {
    "q": "Which actress, wife of Amitabh Bachchan, starred with him in \"Sholay\" and \"Abhimaan\"?",
@@ -696,7 +724,8 @@
    "q": "Which 2022 Bhansali film stars Alia Bhatt as a powerful woman from Mumbai's Kamathipura?",
    "a": "Gangubai Kathiawadi",
    "p": 400,
-   "apic": "Gangubai Kathiawadi"
+   "apic": "Gangubai Kathiawadi",
+   "cpic": "Alia Bhatt"
   },
   {
    "q": "In \"Devdas\" (2002), which actress plays Paro?",
@@ -710,7 +739,8 @@
   {
    "q": "Which song from \"Devdas\" features Aishwarya Rai and Madhuri Dixit dancing together?",
    "a": "Dola Re Dola",
-   "p": 400
+   "p": 400,
+   "cpic": "Madhuri Dixit"
   },
   {
    "q": "Who directed \"Kuch Kuch Hota Hai\"?",
@@ -737,7 +767,8 @@
    "q": "Which production house is run by Karan Johar?",
    "a": "Dharma Productions",
    "p": 400,
-   "apic": "Dharma Productions"
+   "apic": "Dharma Productions",
+   "cpic": "Karan Johar"
   },
   {
    "q": "Which production company is owned by Shah Rukh Khan and Gauri Khan?",
@@ -746,7 +777,8 @@
    "alt": [
     "Red Chillies"
    ],
-   "apic": "Red Chillies Entertainment"
+   "apic": "Red Chillies Entertainment",
+   "cpic": "Gauri Khan"
   },
   {
    "q": "What was Shah Rukh Khan's first released film, in 1992?",
@@ -756,12 +788,14 @@
   {
    "q": "In which 1993 thriller did Shah Rukh Khan play a stalker obsessed with Juhi Chawla's character?",
    "a": "Darr",
-   "p": 600
+   "p": 600,
+   "cpic": "Juhi Chawla"
   },
   {
    "q": "In which 1993 thriller did Shah Rukh Khan play an anti-hero who pushes Shilpa Shetty's character off a building?",
    "a": "Baazigar",
-   "p": 600
+   "p": 600,
+   "cpic": "Shilpa Shetty"
   },
   {
    "q": "In \"Kal Ho Naa Ho\" (2003), in which US city is the story set?",
@@ -793,7 +827,8 @@
    "q": "Which 1987 film stars Anil Kapoor as a man who can turn invisible?",
    "a": "Mr. India",
    "p": 200,
-   "apic": "Mr. India (1987 film)"
+   "apic": "Mr. India (1987 film)",
+   "cpic": "Anil Kapoor"
   },
   {
    "q": "Which actor played the villain Mogambo in \"Mr. India\"?",
@@ -830,7 +865,8 @@
     "Dabbawala",
     "Tiffin delivery"
    ],
-   "apic": "Dabbawala"
+   "apic": "Dabbawala",
+   "cpic": "Mumbai"
   },
   {
    "q": "Which 2017 Hollywood action film did Deepika Padukone star in alongside Vin Diesel?",
@@ -840,7 +876,8 @@
     "xXx 3",
     "Return of Xander Cage"
    ],
-   "apic": "xXx: Return of Xander Cage"
+   "apic": "xXx: Return of Xander Cage",
+   "cpic": "Deepika Padukone"
   },
   {
    "q": "What sport did Deepika Padukone's father Prakash Padukone excel at?",
@@ -858,13 +895,15 @@
    "q": "Which legendary playback singer is Lata Mangeshkar's younger sister?",
    "a": "Asha Bhosle",
    "p": 400,
-   "apic": "Asha Bhosle"
+   "apic": "Asha Bhosle",
+   "cpic": "Lata Mangeshkar"
   },
   {
    "q": "Which singer-actor starred in \"Chalti Ka Naam Gaadi\" and sang for Rajesh Khanna and Amitabh Bachchan?",
    "a": "Kishore Kumar",
    "p": 400,
-   "apic": "Kishore Kumar"
+   "apic": "Kishore Kumar",
+   "cpic": "Amitabh Bachchan"
   },
   {
    "q": "What is the name of India's highest award in cinema, named after the father of Indian film?",
@@ -917,7 +956,8 @@
    "q": "Which 1972 classic stars Meena Kumari as a courtesan named Sahibjaan?",
    "a": "Pakeezah",
    "p": 600,
-   "apic": "Pakeezah"
+   "apic": "Pakeezah",
+   "cpic": "Meena Kumari"
   },
   {
    "q": "Which director, Hrithik Roshan's father, made \"Kaho Naa... Pyaar Hai\" and the \"Krrish\" films?",
@@ -929,25 +969,29 @@
    "q": "Which 2019 action film pitted Hrithik Roshan against Tiger Shroff?",
    "a": "War",
    "p": 400,
-   "apic": "War (2019 film)"
+   "apic": "War (2019 film)",
+   "cpic": "Hrithik Roshan"
   },
   {
    "q": "Which 2012 Karan Johar film launched Alia Bhatt, Varun Dhawan and Sidharth Malhotra?",
    "a": "Student of the Year",
    "p": 400,
-   "apic": "Student of the Year"
+   "apic": "Student of the Year",
+   "cpic": "Karan Johar"
   },
   {
    "q": "Which 2018 spy thriller stars Alia Bhatt as an undercover agent who marries into a foreign officer's family in 1971?",
    "a": "Raazi",
    "p": 600,
-   "apic": "Raazi"
+   "apic": "Raazi",
+   "cpic": "Alia Bhatt"
   },
   {
    "q": "Which 2007 Imtiaz Ali romance stars Kareena Kapoor as the bubbly Geet?",
    "a": "Jab We Met",
    "p": 400,
-   "apic": "Jab We Met"
+   "apic": "Jab We Met",
+   "cpic": "Kareena Kapoor"
   },
   {
    "q": "Which actress is the older sister of Kareena Kapoor?",
@@ -959,13 +1003,15 @@
    "q": "Which actor did Kareena Kapoor marry in 2012?",
    "a": "Saif Ali Khan",
    "p": 200,
-   "apic": "Saif Ali Khan"
+   "apic": "Saif Ali Khan",
+   "cpic": "Kareena Kapoor"
   },
   {
    "q": "Which 2011 Rohit Shetty film stars Ajay Devgn as a fearless village-born police inspector?",
    "a": "Singham",
    "p": 400,
-   "apic": "Singham"
+   "apic": "Singham",
+   "cpic": "Rohit Shetty"
   },
   {
    "q": "Which director is behind the \"Golmaal\" comedies and the \"Singham\" cop universe?",
@@ -983,13 +1029,15 @@
    "q": "Which 1994 cult comedy stars Aamir Khan and Salman Khan as two rival suitors?",
    "a": "Andaz Apna Apna",
    "p": 400,
-   "apic": "Andaz Apna Apna"
+   "apic": "Andaz Apna Apna",
+   "cpic": "Salman Khan"
   },
   {
    "q": "Which Salman Khan film from 1989 was his first big hit as a lead actor?",
    "a": "Maine Pyar Kiya",
    "p": 400,
-   "apic": "Maine Pyar Kiya"
+   "apic": "Maine Pyar Kiya",
+   "cpic": "Salman Khan"
   },
   {
    "q": "Which 2015 Salman Khan film follows a man returning a lost mute girl to her family in Pakistan?",
@@ -1010,23 +1058,27 @@
    "alt": [
     "MS Dhoni"
    ],
-   "apic": "M.S. Dhoni: The Untold Story"
+   "apic": "M.S. Dhoni: The Untold Story",
+   "cpic": "Cricket"
   },
   {
    "q": "In \"83\" (2021), Ranveer Singh plays which cricket captain?",
    "a": "Kapil Dev",
    "p": 400,
-   "apic": "Kapil Dev"
+   "apic": "Kapil Dev",
+   "cpic": "Ranveer Singh"
   },
   {
    "q": "Which song from \"Bunty Aur Babli\" features Aishwarya Rai dancing with Amitabh and Abhishek Bachchan?",
    "a": "Kajra Re",
-   "p": 400
+   "p": 400,
+   "cpic": "Abhishek Bachchan"
   },
   {
    "q": "Which 1988 song from \"Tezaab\", danced by Madhuri Dixit, counts from one to thirteen?",
    "a": "Ek Do Teen",
-   "p": 400
+   "p": 400,
+   "cpic": "Madhuri Dixit"
   },
   {
    "q": "Which Indian actor had a cameo in the Abu Dhabi section of \"Furious 7\"?",
@@ -1104,13 +1156,15 @@
    "q": "Which 1981 Yash Chopra film stars Amitabh Bachchan, Jaya Bachchan and Rekha?",
    "a": "Silsila",
    "p": 600,
-   "apic": "Silsila (film)"
+   "apic": "Silsila (film)",
+   "cpic": "Jaya Bachchan"
   },
   {
    "q": "Which 1973 Raj Kapoor film launched Rishi Kapoor as a romantic lead?",
    "a": "Bobby",
    "p": 600,
-   "apic": "Bobby (1973 film)"
+   "apic": "Bobby (1973 film)",
+   "cpic": "Raj Kapoor"
   },
   {
    "q": "Which theatre and film actor was the patriarch of the Kapoor acting dynasty?",
@@ -1140,12 +1194,14 @@
    "q": "Which actress was born in Hong Kong and became a star with \"Namastey London\" and \"Ek Tha Tiger\"?",
    "a": "Katrina Kaif",
    "p": 400,
-   "apic": "Katrina Kaif"
+   "apic": "Katrina Kaif",
+   "cpic": "London"
   },
   {
    "q": "Which song from \"Tees Maar Khan\" (2010) features Katrina Kaif?",
    "a": "Sheila Ki Jawani",
-   "p": 600
+   "p": 600,
+   "cpic": "Katrina Kaif"
   },
   {
    "q": "Which 2023 film stars Vikrant Massey as a student who rises to pass India's civil services exam?",
@@ -1172,13 +1228,15 @@
    "q": "Which 2018 Netflix series, starring Saif Ali Khan, was the platform's first Indian original series?",
    "a": "Sacred Games",
    "p": 600,
-   "apic": "Sacred Games (TV series)"
+   "apic": "Sacred Games (TV series)",
+   "cpic": "Saif Ali Khan"
   },
   {
    "q": "Which Amazon Prime Video spy series stars Manoj Bajpayee as Srikant Tiwari?",
    "a": "The Family Man",
    "p": 600,
-   "apic": "The Family Man (Indian TV series)"
+   "apic": "The Family Man (Indian TV series)",
+   "cpic": "Amazon Prime Video"
   },
   {
    "q": "Which 2012 Anurag Kashyap crime saga is set in the coal town of Dhanbad?",
@@ -1199,7 +1257,8 @@
    "alt": [
     "Barfi"
    ],
-   "apic": "Barfi!"
+   "apic": "Barfi!",
+   "cpic": "Priyanka Chopra"
   },
   {
    "q": "Which 2012 Sridevi comeback film is about a housewife learning English in New York?",
@@ -1220,7 +1279,8 @@
    "q": "Which 2023 Rajkumar Hirani film stars Shah Rukh Khan as a man helping friends travel illegally to Britain?",
    "a": "Dunki",
    "p": 600,
-   "apic": "Dunki (film)"
+   "apic": "Dunki (film)",
+   "cpic": "Rajkumar Hirani"
   },
   {
    "q": "Which Hindi TV series, his first major role, starred a young Shah Rukh Khan as an army cadet?",
@@ -1253,7 +1313,8 @@
   {
    "q": "Which 2007 Salman Khan and Govinda comedy is a remake of the Will Smith film \"Hitch\"?",
    "a": "Partner",
-   "p": 600
+   "p": 600,
+   "cpic": "Will Smith"
   },
   {
    "q": "Which 2024 Netflix series by Bhansali is set among courtesans in 1940s Lahore?",
@@ -1268,7 +1329,8 @@
    "q": "Which veteran actress received the Dadasaheb Phalke Award in 2023? ",
    "a": "Waheeda Rehman",
    "p": 600,
-   "apic": "Waheeda Rehman"
+   "apic": "Waheeda Rehman",
+   "cpic": "Dadasaheb Phalke Award"
   },
   {
    "q": "Which Bengali novelist wrote \"Devdas\"?",
@@ -1328,13 +1390,15 @@
    "q": "Which actress co-owns the Kolkata Knight Riders alongside Shah Rukh Khan?",
    "a": "Juhi Chawla",
    "p": 600,
-   "apic": "Juhi Chawla"
+   "apic": "Juhi Chawla",
+   "cpic": "Kolkata"
   },
   {
    "q": "Which UAE team in cricket's ILT20 league is owned by the Knight Riders group?",
    "a": "Abu Dhabi Knight Riders",
    "p": 600,
-   "apic": "Abu Dhabi Knight Riders"
+   "apic": "Abu Dhabi Knight Riders",
+   "cpic": "Cricket"
   },
   {
    "q": "Which Indian actress starred in Hollywood's \"Life of Pi\" as Pi's mother?",
@@ -1357,13 +1421,15 @@
    "q": "Which 2011 Imtiaz Ali musical drama stars Ranbir Kapoor as an aspiring singer named Jordan?",
    "a": "Rockstar",
    "p": 600,
-   "apic": "Rockstar (2011 film)"
+   "apic": "Rockstar (2011 film)",
+   "cpic": "Ranbir Kapoor"
   },
   {
    "q": "Which 2019 Hrithik Roshan biopic is about a Bihar maths teacher who coaches poor students for IIT?",
    "a": "Super 30",
    "p": 600,
-   "apic": "Super 30 (film)"
+   "apic": "Super 30 (film)",
+   "cpic": "Hrithik Roshan"
   },
   {
    "q": "Which 2018 film stars Akshay Kumar as an inventor of low-cost sanitary pads?",
@@ -1372,7 +1438,8 @@
    "alt": [
     "Padman"
    ],
-   "apic": "Pad Man (film)"
+   "apic": "Pad Man (film)",
+   "cpic": "Akshay Kumar"
   },
   {
    "q": "Which actor is known as Bollywood's \"Khiladi\" after a string of action films?",

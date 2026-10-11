@@ -48,7 +48,8 @@
    "q": "Which Atari arcade game had players blasting space rocks that split into smaller pieces?",
    "a": "Asteroids",
    "p": 200,
-   "apic": "Asteroids (video game)"
+   "apic": "Asteroids (video game)",
+   "cpic": "Atari"
   },
   {
    "q": "In which 1981 arcade game do you guide an amphibian across a busy road and a river?",
@@ -74,7 +75,8 @@
    "p": 200,
    "alt": [
     "4"
-   ]
+   ],
+   "cpic": "Tetris"
   },
   {
    "q": "In Tetris, what happens to a horizontal row once it is completely filled?",
@@ -83,13 +85,15 @@
    "alt": [
     "It clears",
     "It vanishes"
-   ]
+   ],
+   "cpic": "Tetris"
   },
   {
    "q": "Which classic Atari game has you bouncing a ball off a paddle to smash a wall of bricks?",
    "a": "Breakout",
    "p": 200,
-   "apic": "Breakout (video game)"
+   "apic": "Breakout (video game)",
+   "cpic": "Atari"
   },
   {
    "q": "Which 1982 arcade sequel gave Pac-Man a female partner wearing a red bow?",
@@ -203,7 +207,8 @@
    "q": "What was Sega's final home console, launched in Japan in 1998?",
    "a": "Dreamcast",
    "p": 200,
-   "apic": "Dreamcast"
+   "apic": "Dreamcast",
+   "cpic": "Sega"
   },
   {
    "q": "What were the plug-in game cards used by most 1980s consoles called?",
@@ -292,7 +297,8 @@
   {
    "q": "Which Hudson Soft series has players dropping explosives in a maze-like grid?",
    "a": "Bomberman",
-   "p": 200
+   "p": 200,
+   "cpic": "Hudson Soft"
   },
   {
    "q": "Which arcade game has you whacking critters popping out of holes with a mallet?",
@@ -382,7 +388,8 @@
    "p": 200,
    "alt": [
     "Pokemon"
-   ]
+   ],
+   "cpic": "Game Boy"
   },
   {
    "q": "What cable connected two Game Boys so players could trade and battle?",
@@ -419,7 +426,8 @@
   {
    "q": "Which Sega arcade game had you racing passengers across town in a yellow cab?",
    "a": "Crazy Taxi",
-   "p": 200
+   "p": 200,
+   "cpic": "Sega"
   },
   {
    "q": "Which Atari 2600 game based on a Spielberg film is remembered as one of the biggest flops ever?",
@@ -428,7 +436,8 @@
    "alt": [
     "E.T.",
     "ET"
-   ]
+   ],
+   "cpic": "Atari 2600"
   },
   {
    "q": "Which 2012 Disney film follows a villain from an arcade game called Fix-It Felix Jr.?",
@@ -438,12 +447,14 @@
   {
    "q": "Which 2015 Adam Sandler film has aliens attacking Earth as classic arcade characters?",
    "a": "Pixels",
-   "p": 200
+   "p": 200,
+   "cpic": "Adam Sandler"
   },
   {
    "q": "Which 2018 Steven Spielberg film, set largely in a virtual world called the OASIS, is packed with retro game references?",
    "a": "Ready Player One",
-   "p": 200
+   "p": 200,
+   "cpic": "Steven Spielberg"
   },
   {
    "q": "What do you call the blocky, square-dot graphics style of old 8-bit games?",
@@ -527,7 +538,8 @@
   {
    "q": "Which letter names the long, straight Tetris piece?",
    "a": "I",
-   "p": 400
+   "p": 400,
+   "cpic": "Tetris"
   },
   {
    "q": "In which game did Tails make his debut?",
@@ -637,7 +649,8 @@
    "p": 400,
    "alt": [
     "Out Run"
-   ]
+   ],
+   "cpic": "Sega"
   },
   {
    "q": "Which Sega 1988 game, bundled with early Mega Drives, turns a Roman centurion into a werewolf?",
@@ -671,7 +684,8 @@
    "q": "Which brand's logo looks like a stylised Mount Fuji with three prongs?",
    "a": "Atari",
    "p": 400,
-   "apic": "Atari"
+   "apic": "Atari",
+   "cpic": "Mount Fuji"
   },
   {
    "q": "What is the 1983 collapse of the North American games market commonly called?",
@@ -691,7 +705,8 @@
    "alt": [
     "Pizza Time Theatre"
    ],
-   "apic": "Chuck E. Cheese"
+   "apic": "Chuck E. Cheese",
+   "cpic": "Nolan Bushnell"
   },
   {
    "q": "Which Apple co-founder helped Steve Jobs build the prototype of Atari's Breakout?",
@@ -701,7 +716,8 @@
     "Wozniak",
     "Woz"
    ],
-   "apic": "Steve Wozniak"
+   "apic": "Steve Wozniak",
+   "cpic": "Atari"
   },
   {
    "q": "Which Commodore computer, launched in 1982, is often named the best-selling single home computer model?",
@@ -817,7 +833,8 @@
    "p": 400,
    "alt": [
     "Pitfall"
-   ]
+   ],
+   "cpic": "Atari 2600"
   },
   {
    "q": "Which beat-'em-up series stars the brothers Billy and Jimmy Lee?",
@@ -1025,7 +1042,8 @@
     "Korobushka",
     "The Peddlers"
    ],
-   "apic": "Korobeiniki"
+   "apic": "Korobeiniki",
+   "cpic": "Game Boy"
   },
   {
    "q": "What three letters were printed on the original Game Boy's model number, short for Dot Matrix Game?",
@@ -1079,7 +1097,8 @@
    "p": 600,
    "alt": [
     "Robotron"
-   ]
+   ],
+   "cpic": "Joystick"
   },
   {
    "q": "Which Atari 1981 vector shooter has you spinning around the rim of a 3D tube?",
@@ -1161,7 +1180,8 @@
   {
    "q": "Which Sega 1992 arcade game was an early polygon Formula One-style racer by Yu Suzuki's team?",
    "a": "Virtua Racing",
-   "p": 600
+   "p": 600,
+   "cpic": "Formula One"
   },
   {
    "q": "Which Sega marketing buzzword claimed the Mega Drive could outpace the SNES?",
@@ -1251,7 +1271,8 @@
    "alt": [
     "Sega Republic"
    ],
-   "apic": "Sega"
+   "apic": "Sega",
+   "cpic": "The Dubai Mall"
   },
   {
    "q": "Which Kuwaiti company made the Sakhr Arabic MSX computers?",
@@ -1300,7 +1321,8 @@
   {
    "q": "Which ZX Spectrum platformer stars Miner Willy?",
    "a": "Manic Miner",
-   "p": 600
+   "p": 600,
+   "cpic": "ZX Spectrum"
   },
   {
    "q": "Which brothers founded Ultimate Play the Game, the studio that became Rare?",
@@ -1319,7 +1341,8 @@
   {
    "q": "Which 1992 top-down football game by Sensible Software was an Amiga favourite?",
    "a": "Sensible Soccer",
-   "p": 600
+   "p": 600,
+   "cpic": "Amiga"
   },
   {
    "q": "How many minutes does the player have to rescue the princess in the original Prince of Persia?",
@@ -1388,7 +1411,8 @@
   {
    "q": "In Ready Player One, which Atari 2600 game hides the final Easter egg?",
    "a": "Adventure",
-   "p": 600
+   "p": 600,
+   "cpic": "Atari 2600"
   },
   {
    "q": "What are arcade games that pay out tickets or prizes generally called?",
@@ -1401,7 +1425,8 @@
   {
    "q": "Which Mega Drive platformer starring Mickey Mouse sent him to rescue Minnie from the witch Mizrabel?",
    "a": "Castle of Illusion",
-   "p": 600
+   "p": 600,
+   "cpic": "Mickey Mouse"
   },
   {
    "q": "What does Pac-Man lose when a ghost catches him?",

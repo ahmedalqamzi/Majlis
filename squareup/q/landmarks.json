@@ -28,7 +28,8 @@
    "q": "What is the popular nickname of the Great Bell in the clock tower at London's Palace of Westminster?",
    "a": "Big Ben",
    "p": 200,
-   "apic": "Big Ben"
+   "apic": "Big Ben",
+   "cpic": "London"
   },
   {
    "q": "In which US city does the Statue of Liberty stand?",
@@ -114,7 +115,8 @@
    "q": "Which white marble mausoleum in Agra was built by a Mughal emperor in memory of his wife?",
    "a": "Taj Mahal",
    "p": 200,
-   "apic": "Taj Mahal"
+   "apic": "Taj Mahal",
+   "cpic": "Marble"
   },
   {
    "q": "In which country is the temple complex of Angkor Wat?",
@@ -130,7 +132,8 @@
    "alt": [
     "4"
    ],
-   "apic": "Mount Rushmore"
+   "apic": "Mount Rushmore",
+   "cpic": "Mount Rushmore"
   },
   {
    "q": "In which US state is the Grand Canyon?",
@@ -143,7 +146,8 @@
    "q": "Which famous waterfalls lie on the border between Canada and the United States?",
    "a": "Niagara Falls",
    "p": 200,
-   "apic": "Niagara Falls"
+   "apic": "Niagara Falls",
+   "cpic": "United States"
   },
   {
    "q": "The Golden Gate Bridge spans the entrance to the bay of which US city?",
@@ -157,7 +161,8 @@
    "a": "Burj Al Arab",
    "p": 200,
    "ar": "برج العرب",
-   "apic": "Burj Al Arab"
+   "apic": "Burj Al Arab",
+   "cpic": "Dubai"
   },
   {
    "q": "Which red-brick fortress in Moscow is the official residence of Russia's president?",
@@ -230,7 +235,8 @@
     "Zamzam Well"
    ],
    "ar": "زمزم",
-   "apic": "Zamzam Well"
+   "apic": "Zamzam Well",
+   "cpic": "Masjid al-Haram"
   },
   {
    "q": "In which Spanish city is the unfinished basilica of the Sagrada Familia?",
@@ -320,7 +326,8 @@
    "q": "What is the official London residence of the British monarch?",
    "a": "Buckingham Palace",
    "p": 200,
-   "apic": "Buckingham Palace"
+   "apic": "Buckingham Palace",
+   "cpic": "London"
   },
   {
    "q": "Which historic London fortress houses the Crown Jewels?",
@@ -370,7 +377,8 @@
    "p": 200,
    "alt": [
     "Torch"
-   ]
+   ],
+   "cpic": "Statue of Liberty"
   },
   {
    "q": "Which ancient Jordanian city is nicknamed the Rose City because of the colour of its stone?",
@@ -391,7 +399,8 @@
    "a": "Museum of the Future",
    "p": 200,
    "ar": "متحف المستقبل",
-   "apic": "Museum of the Future"
+   "apic": "Museum of the Future",
+   "cpic": "Arabic calligraphy"
   },
   {
    "q": "What is the name of the choreographed fountain show on the lake at the foot of the Burj Khalifa?",
@@ -401,7 +410,8 @@
     "Dubai Fountain"
    ],
    "ar": "نافورة دبي",
-   "apic": "The Dubai Fountain"
+   "apic": "The Dubai Fountain",
+   "cpic": "Burj Khalifa"
   },
   {
    "q": "Which palm-tree-shaped artificial island lies off the coast of Dubai?",
@@ -411,7 +421,8 @@
     "The Palm"
    ],
    "ar": "نخلة جميرا",
-   "apic": "Palm Jumeirah"
+   "apic": "Palm Jumeirah",
+   "cpic": "Dubai"
   },
   {
    "q": "The Burj Khalifa is named after which UAE president?",
@@ -434,20 +445,23 @@
     "Jebel Hafit"
    ],
    "ar": "جبل حفيت",
-   "apic": "Jebel Hafeet"
+   "apic": "Jebel Hafeet",
+   "cpic": "Al Ain"
   },
   {
    "q": "Which Abu Dhabi island is home to Ferrari World and the Yas Marina Circuit?",
    "a": "Yas Island",
    "p": 200,
    "ar": "جزيرة ياس",
-   "apic": "Yas Island"
+   "apic": "Yas Island",
+   "cpic": "Ferrari World"
   },
   {
    "q": "Which region of Turkey is famous for its 'fairy chimney' rock formations and hot-air balloon flights?",
    "a": "Cappadocia",
    "p": 200,
-   "apic": "Cappadocia"
+   "apic": "Cappadocia",
+   "cpic": "Hot-air balloon"
   },
   {
    "q": "Which ancient wonder was said to have been built in Babylon, with terraces of plants?",
@@ -478,7 +492,8 @@
    "alt": [
     "Galapagos"
    ],
-   "apic": "Galápagos Islands"
+   "apic": "Galápagos Islands",
+   "cpic": "Charles Darwin"
   },
   {
    "q": "Which canal, opened in 1914, links the Atlantic and Pacific Oceans through Central America?",
@@ -493,13 +508,15 @@
    "alt": [
     "White House"
    ],
-   "apic": "White House"
+   "apic": "White House",
+   "cpic": "Washington, D.C."
   },
   {
    "q": "Which island prison in San Francisco Bay closed in 1963 and is now a tourist site?",
    "a": "Alcatraz",
    "p": 200,
-   "apic": "Alcatraz Island"
+   "apic": "Alcatraz Island",
+   "cpic": "San Francisco"
   },
   {
    "q": "Which famous white hillside sign overlooks Los Angeles?",
@@ -508,7 +525,8 @@
    "alt": [
     "Hollywood"
    ],
-   "apic": "Hollywood Sign"
+   "apic": "Hollywood Sign",
+   "cpic": "Los Angeles"
   },
   {
    "q": "Which large park in the middle of Manhattan opened in the 1850s?",
@@ -527,7 +545,8 @@
    "q": "Which Washington, D.C., memorial contains a giant seated statue of the 16th US president?",
    "a": "Lincoln Memorial",
    "p": 200,
-   "apic": "Lincoln Memorial"
+   "apic": "Lincoln Memorial",
+   "cpic": "Washington, D.C."
   },
   {
    "q": "In which Italian city is Michelangelo's marble statue of David displayed?",
@@ -561,7 +580,8 @@
     "Ka'bah"
    ],
    "ar": "الكعبة",
-   "apic": "Kaaba"
+   "apic": "Kaaba",
+   "cpic": "Masjid al-Haram"
   },
   {
    "q": "Which ancient Egyptian site near Luxor contains the rock-cut tombs of many New Kingdom pharaohs?",
@@ -581,7 +601,8 @@
    "q": "What was the clock tower known as Big Ben officially renamed in 2012?",
    "a": "Elizabeth Tower",
    "p": 400,
-   "apic": "Big Ben"
+   "apic": "Big Ben",
+   "cpic": "Big Ben"
   },
   {
    "q": "In which Indian city is the Gateway of India, built on the waterfront?",
@@ -654,14 +675,16 @@
     "Al-Khazneh"
    ],
    "ar": "الخزنة",
-   "apic": "Al-Khazneh"
+   "apic": "Al-Khazneh",
+   "cpic": "Petra"
   },
   {
    "q": "Which red-sand desert valley in southern Jordan is nicknamed the Valley of the Moon?",
    "a": "Wadi Rum",
    "p": 400,
    "ar": "وادي رم",
-   "apic": "Wadi Rum"
+   "apic": "Wadi Rum",
+   "cpic": "Jordan"
   },
   {
    "q": "Which presidential palace in Abu Dhabi opened its doors to the public in 2019?",
@@ -685,7 +708,8 @@
    "a": "Al Fahidi Fort",
    "p": 400,
    "ar": "حصن الفهيدي",
-   "apic": "Al Fahidi Fort"
+   "apic": "Al Fahidi Fort",
+   "cpic": "Dubai"
   },
   {
    "q": "What are the traditional wind towers seen on old houses in Dubai's Al Fahidi district called?",
@@ -716,7 +740,8 @@
     "Madain Saleh"
    ],
    "ar": "الحجر",
-   "apic": "Hegra (Mada'in Salih)"
+   "apic": "Hegra (Mada'in Salih)",
+   "cpic": "Saudi Arabia"
   },
   {
    "q": "Which UAE city's oases and archaeological sites became the country's first UNESCO World Heritage Site in 2011?",
@@ -772,7 +797,8 @@
    "alt": [
     "Patio de los Leones"
    ],
-   "apic": "Court of the Lions"
+   "apic": "Court of the Lions",
+   "cpic": "Alhambra"
   },
   {
    "q": "In which Syrian city is the Umayyad Mosque?",
@@ -815,14 +841,16 @@
   {
    "q": "In which year were the New Seven Wonders of the World announced?",
    "a": "2007",
-   "p": 400
+   "p": 400,
+   "cpic": "The World (archipelago)"
   },
   {
    "q": "Which Jordanian site was voted one of the New Seven Wonders of the World in 2007?",
    "a": "Petra",
    "p": 400,
    "ar": "البتراء",
-   "apic": "Petra"
+   "apic": "Petra",
+   "cpic": "The World (archipelago)"
   },
   {
    "q": "On which mountain does the Christ the Redeemer statue stand?",
@@ -848,7 +876,8 @@
    "alt": [
     "Marble"
    ],
-   "apic": "Marble"
+   "apic": "Marble",
+   "cpic": "Taj Mahal"
   },
   {
    "q": "Which Indonesian Buddhist temple on Java is decorated with hundreds of stupas?",
@@ -873,7 +902,8 @@
    "alt": [
     "Ponte dei Sospiri"
    ],
-   "apic": "Bridge of Sighs"
+   "apic": "Bridge of Sighs",
+   "cpic": "Venice"
   },
   {
    "q": "What is the name of the main public square of Venice, home to a famous basilica?",
@@ -882,7 +912,8 @@
    "alt": [
     "Piazza San Marco"
    ],
-   "apic": "Piazza San Marco"
+   "apic": "Piazza San Marco",
+   "cpic": "Venice"
   },
   {
    "q": "Which architect designed the titanium-clad Guggenheim Museum in Bilbao?",
@@ -925,7 +956,8 @@
    "q": "Which historic stone bridge lined with statues crosses the Vltava River in Prague?",
    "a": "Charles Bridge",
    "p": 400,
-   "apic": "Charles Bridge"
+   "apic": "Charles Bridge",
+   "cpic": "Prague"
   },
   {
    "q": "Which St Petersburg museum is housed partly in the Winter Palace?",
@@ -960,7 +992,8 @@
    "q": "In which London church have English and British monarchs been crowned since 1066?",
    "a": "Westminster Abbey",
    "p": 400,
-   "apic": "Westminster Abbey"
+   "apic": "Westminster Abbey",
+   "cpic": "London"
   },
   {
    "q": "Which futuristic Seattle tower was built for the 1962 World's Fair?",
@@ -972,7 +1005,8 @@
    "q": "Which national park, created in 1872, was the world's first?",
    "a": "Yellowstone",
    "p": 400,
-   "apic": "Yellowstone National Park"
+   "apic": "Yellowstone National Park",
+   "cpic": "The World (archipelago)"
   },
   {
    "q": "What is the name of Yellowstone's famous, regularly erupting geyser?",
@@ -984,7 +1018,8 @@
    "q": "Which giant dam on the Arizona-Nevada border was completed in 1936?",
    "a": "Hoover Dam",
    "p": 400,
-   "apic": "Hoover Dam"
+   "apic": "Hoover Dam",
+   "cpic": "Arizona"
   },
   {
    "q": "In which US state is Mount Rushmore?",
@@ -1084,7 +1119,8 @@
    "q": "On which island near Cape Town was Nelson Mandela imprisoned for 18 years?",
    "a": "Robben Island",
    "p": 400,
-   "apic": "Robben Island"
+   "apic": "Robben Island",
+   "cpic": "Nelson Mandela"
   },
   {
    "q": "Which Vietnamese bay is famous for thousands of limestone islands rising from emerald water?",
@@ -1117,13 +1153,15 @@
    "alt": [
     "Gherkin"
    ],
-   "apic": "30 St Mary Axe"
+   "apic": "30 St Mary Axe",
+   "cpic": "30 St Mary Axe"
   },
   {
    "q": "Which ceremonial capital of the Achaemenid Persian Empire lies in ruins in southern Iran?",
    "a": "Persepolis",
    "p": 400,
-   "apic": "Persepolis"
+   "apic": "Persepolis",
+   "cpic": "Iran"
   },
   {
    "q": "Which dark silk cloth embroidered with gold thread covers the Kaaba?",
@@ -1146,7 +1184,8 @@
     "Safa and Marwa"
    ],
    "ar": "الصفا والمروة",
-   "apic": "Safa and Marwa"
+   "apic": "Safa and Marwa",
+   "cpic": "Masjid al-Haram"
   },
   {
    "q": "What is the name of the giant clock tower complex beside Masjid al-Haram in Mecca?",
@@ -1194,7 +1233,8 @@
    "a": "Abu Simbel",
    "p": 400,
    "ar": "أبو سمبل",
-   "apic": "Abu Simbel"
+   "apic": "Abu Simbel",
+   "cpic": "Ramesses II"
   },
   {
    "q": "Which famous medieval bazaar in Islamic Cairo dates back to the 14th century?",
@@ -1231,14 +1271,16 @@
     "Jabal AlFil"
    ],
    "ar": "جبل الفيل",
-   "apic": "Elephant Rock (Saudi Arabia)"
+   "apic": "Elephant Rock (Saudi Arabia)",
+   "cpic": "AlUla"
   },
   {
    "q": "Which mirror-clad concert hall stands in the desert of AlUla?",
    "a": "Maraya",
    "p": 600,
    "ar": "مرايا",
-   "apic": "Maraya (building)"
+   "apic": "Maraya (building)",
+   "cpic": "AlUla"
   },
   {
    "q": "Which lone tree, said to be around 400 years old, grows in the Bahraini desert far from any obvious water source?",
@@ -1272,7 +1314,8 @@
     "Jabal Jais"
    ],
    "ar": "جبل جيس",
-   "apic": "Jebel Jais"
+   "apic": "Jebel Jais",
+   "cpic": "Ras Al Khaimah"
   },
   {
    "q": "Which steep dune near Liwa hosts an annual hill-climb festival?",
@@ -1302,7 +1345,8 @@
    "q": "Which Ottoman palace in Istanbul was the main residence of the sultans for about 400 years?",
    "a": "Topkapi Palace",
    "p": 400,
-   "apic": "Topkapı Palace"
+   "apic": "Topkapı Palace",
+   "cpic": "Istanbul"
   },
   {
    "q": "How many minarets does the Sultan Ahmed (Blue) Mosque in Istanbul have?",
@@ -1406,7 +1450,8 @@
    "alt": [
     "Coathanger"
    ],
-   "apic": "Sydney Harbour Bridge"
+   "apic": "Sydney Harbour Bridge",
+   "cpic": "Sydney Harbour Bridge"
   },
   {
    "q": "In which year did the Royal Opera House Muscat open?",
@@ -1488,7 +1533,8 @@
     "Malwiya"
    ],
    "ar": "الملوية",
-   "apic": "Great Mosque of Samarra"
+   "apic": "Great Mosque of Samarra",
+   "cpic": "Great Mosque of Samarra"
   },
   {
    "q": "Which Lebanese site has some of the best-preserved Roman temples, dedicated to Jupiter and Bacchus?",
@@ -1502,7 +1548,8 @@
    "a": "Jerash",
    "p": 600,
    "ar": "جرش",
-   "apic": "Jerash"
+   "apic": "Jerash",
+   "cpic": "Middle East"
   },
   {
    "q": "Which Ayyubid sultan began building the Cairo Citadel in the 1170s?",
@@ -1524,7 +1571,8 @@
     "Alabaster Mosque"
    ],
    "ar": "مسجد محمد علي",
-   "apic": "Mosque of Muhammad Ali"
+   "apic": "Mosque of Muhammad Ali",
+   "cpic": "Cairo Citadel"
   },
   {
    "q": "Which dynasty founded Cairo's Al-Azhar Mosque in 970?",
@@ -1659,7 +1707,8 @@
    "q": "In which famous room of the Palace of Versailles was the 1919 peace treaty signed?",
    "a": "Hall of Mirrors",
    "p": 600,
-   "apic": "Hall of Mirrors"
+   "apic": "Hall of Mirrors",
+   "cpic": "Palace of Versailles"
   },
   {
    "q": "Which Dutch village is famous for its UNESCO-listed group of 19 windmills?",
@@ -1740,7 +1789,8 @@
    "q": "What is the local Lozi name of Victoria Falls, meaning 'the smoke that thunders'?",
    "a": "Mosi-oa-Tunya",
    "p": 600,
-   "apic": "Victoria Falls"
+   "apic": "Victoria Falls",
+   "cpic": "Victoria Falls"
   },
   {
    "q": "Which Malian city is famous for its Great Mosque, built entirely of mud brick?",
@@ -1761,7 +1811,8 @@
    "q": "What is the Nepali name for Mount Everest?",
    "a": "Sagarmatha",
    "p": 600,
-   "apic": "Mount Everest"
+   "apic": "Mount Everest",
+   "cpic": "Mount Everest"
   },
   {
    "q": "Which Egyptian pharaoh's Step Pyramid at Saqqara is one of the oldest large stone buildings?",
@@ -1797,7 +1848,8 @@
    "alt": [
     "Qutb Minar"
    ],
-   "apic": "Qutb Minar"
+   "apic": "Qutb Minar",
+   "cpic": "Delhi"
   },
   {
    "q": "Which ancient rock fortress in Sri Lanka is reached through a giant gate shaped like a lion's paws?",
@@ -1816,7 +1868,8 @@
     "Imam Square",
     "Naghsh-e Jahan"
    ],
-   "apic": "Naqsh-e Jahan Square"
+   "apic": "Naqsh-e Jahan Square",
+   "cpic": "Iran"
   },
   {
    "q": "Which Samarkand square is framed by three grand madrasas?",
@@ -1891,7 +1944,8 @@
     "MIA"
    ],
    "ar": "متحف الفن الإسلامي",
-   "apic": "Museum of Islamic Art, Doha"
+   "apic": "Museum of Islamic Art, Doha",
+   "cpic": "I. M. Pei"
   },
   {
    "q": "Which Omani sinkhole near the coast between Muscat and Sur is a popular swimming spot?",
@@ -2001,7 +2055,8 @@
   {
    "q": "Which Mughal emperor built Delhi's Red Fort?",
    "a": "Shah Jahan",
-   "p": 600
+   "p": 600,
+   "cpic": "Red Fort"
   },
   {
    "q": "Which Chinese national park's sandstone pillars inspired the floating mountains in the film Avatar?",
@@ -2100,7 +2155,8 @@
     "Dubai Mall"
    ],
    "ar": "دبي مول",
-   "apic": "The Dubai Mall"
+   "apic": "The Dubai Mall",
+   "cpic": "Burj Khalifa"
   },
   {
    "q": "Which saltwater inlet divides old Dubai into Deira and Bur Dubai?",
@@ -2116,7 +2172,8 @@
    "alt": [
     "Avenue des Champs-Elysees"
    ],
-   "apic": "Champs-Élysées"
+   "apic": "Champs-Élysées",
+   "cpic": "Place de la Concorde"
   },
   {
    "q": "Which Saudi city in the northwest, near the ancient site of Hegra, is famous for its sandstone landscapes?",
@@ -2168,7 +2225,8 @@
    "alt": [
     "Versailles"
    ],
-   "apic": "Palace of Versailles"
+   "apic": "Palace of Versailles",
+   "cpic": "Hall of Mirrors"
   },
   {
    "q": "Which domed building in Washington, D.C., is the meeting place of the US Congress?",
@@ -2178,7 +2236,8 @@
     "US Capitol",
     "Capitol Building"
    ],
-   "apic": "United States Capitol"
+   "apic": "United States Capitol",
+   "cpic": "Washington, D.C."
   },
   {
    "q": "Which group of artificial islands off Dubai is shaped like a map of the world?",
@@ -2211,7 +2270,8 @@
    "q": "In which city do Big Ben, Tower Bridge and the London Eye stand?",
    "a": "London",
    "p": 200,
-   "apic": "London"
+   "apic": "London",
+   "cpic": "Tower Bridge"
   },
   {
    "q": "Which traditional Dubai market in Deira is famous for its many jewellery shops?",
@@ -2231,7 +2291,8 @@
     "Abras"
    ],
    "ar": "عبرة",
-   "apic": "Abra (boat)"
+   "apic": "Abra (boat)",
+   "cpic": "Dubai Creek"
   },
   {
    "q": "Which historic Dubai quarter of wind-tower houses was formerly called Al Bastakiya?",
@@ -2262,7 +2323,8 @@
     "Library of Alexandria"
    ],
    "ar": "مكتبة الإسكندرية",
-   "apic": "Bibliotheca Alexandrina"
+   "apic": "Bibliotheca Alexandrina",
+   "cpic": "Egypt"
   },
   {
    "q": "Which Spanish palace-fortress gets its name from an Arabic word meaning 'the red one'?",

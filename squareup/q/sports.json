@@ -5,7 +5,8 @@
   {
    "q": "How many players from each team are on the court at once in basketball?",
    "a": "Five",
-   "p": 200
+   "p": 200,
+   "cpic": "Basketball"
   },
   {
    "q": "Which country hosted the 2016 Summer Olympics?",
@@ -16,12 +17,14 @@
   {
    "q": "In tennis, what word is used for a score of zero?",
    "a": "Love",
-   "p": 200
+   "p": 200,
+   "cpic": "Tennis"
   },
   {
    "q": "How many Grand Slam tournaments are played each year in tennis?",
    "a": "Four",
-   "p": 200
+   "p": 200,
+   "cpic": "Tennis"
   },
   {
    "q": "Which sport is played at Wimbledon?",
@@ -32,7 +35,8 @@
   {
    "q": "How many pins are used in ten-pin bowling?",
    "a": "Ten",
-   "p": 200
+   "p": 200,
+   "cpic": "Bowling"
   },
   {
    "q": "How many rings are on the Olympic flag?",
@@ -42,12 +46,14 @@
   {
    "q": "In golf, what is one stroke under par on a hole called?",
    "a": "Birdie",
-   "p": 200
+   "p": 200,
+   "cpic": "Golf"
   },
   {
    "q": "Which motorsport series hosts the Abu Dhabi Grand Prix at Yas Marina Circuit?",
    "a": "Formula 1",
-   "p": 200
+   "p": 200,
+   "cpic": "Abu Dhabi Grand Prix"
   },
   {
    "q": "Which country hosted the Summer Olympics held in 2021 and named Tokyo 2020?",
@@ -57,7 +63,8 @@
   {
    "q": "How many points is a free throw worth in basketball?",
    "a": "One",
-   "p": 200
+   "p": 200,
+   "cpic": "Basketball"
   },
   {
    "q": "What is the length of an Olympic marathon in kilometres?",
@@ -69,13 +76,15 @@
    "q": "What is the name of the flat disc used in ice hockey?",
    "a": "Puck",
    "p": 200,
-   "apic": "Hockey puck"
+   "apic": "Hockey puck",
+   "cpic": "Ice hockey"
   },
   {
    "q": "Which sport is played with a shuttlecock?",
    "a": "Badminton",
    "p": 200,
-   "apic": "Badminton"
+   "apic": "Badminton",
+   "cpic": "Shuttlecock"
   },
   {
    "q": "In boxing, what does KO stand for?",
@@ -101,18 +110,21 @@
   {
    "q": "In baseball, how many strikes make a strikeout?",
    "a": "Three",
-   "p": 200
+   "p": 200,
+   "cpic": "Baseball"
   },
   {
    "q": "How many holes are played in a standard round of golf?",
    "a": "18",
-   "p": 200
+   "p": 200,
+   "cpic": "Golf"
   },
   {
    "q": "Which sport is Michael Jordan famous for?",
    "a": "Basketball",
    "p": 200,
-   "apic": "Basketball"
+   "apic": "Basketball",
+   "cpic": "Michael Jordan"
   },
   {
    "q": "Which sport awards the Stanley Cup?",
@@ -123,7 +135,8 @@
   {
    "q": "How many points is a touchdown worth in American football?",
    "a": "Six",
-   "p": 200
+   "p": 200,
+   "cpic": "American football"
   },
   {
    "q": "Which city hosted the 2012 Summer Olympics?",
@@ -135,7 +148,8 @@
    "q": "Which tennis player is nicknamed the King of Clay?",
    "a": "Rafael Nadal",
    "p": 200,
-   "apic": "Rafael Nadal"
+   "apic": "Rafael Nadal",
+   "cpic": "Tennis"
   },
   {
    "q": "Which sport is played on a diamond?",
@@ -234,7 +248,8 @@
    "q": "Which basketball player scored 100 points in one NBA game in 1962?",
    "a": "Wilt Chamberlain",
    "p": 400,
-   "apic": "Wilt Chamberlain"
+   "apic": "Wilt Chamberlain",
+   "cpic": "Basketball"
   },
   {
    "q": "What is the maximum break in snooker?",
@@ -245,7 +260,8 @@
   {
    "q": "In golf, what is three strokes under par on a hole called?",
    "a": "Albatross",
-   "p": 400
+   "p": 400,
+   "cpic": "Golf"
   },
   {
    "q": "In cricket, what is it called when a batter is out for zero?",
@@ -285,12 +301,14 @@
    "q": "Which family is credited with developing Brazilian jiu-jitsu?",
    "a": "Gracie family",
    "p": 400,
-   "apic": "Gracie family"
+   "apic": "Gracie family",
+   "cpic": "Brazilian jiu-jitsu"
   },
   {
    "q": "In Brazilian jiu-jitsu, which adult belt comes after blue?",
    "a": "Purple",
-   "p": 400
+   "p": 400,
+   "cpic": "Brazilian jiu-jitsu"
   },
   {
    "q": "In the NBA, how many seconds is the shot clock?",
@@ -328,12 +346,14 @@
   {
    "q": "In bowling, what is three strikes in a row called?",
    "a": "Turkey",
-   "p": 400
+   "p": 400,
+   "cpic": "Bowling"
   },
   {
    "q": "How many innings are in a standard baseball game?",
    "a": "Nine",
-   "p": 400
+   "p": 400,
+   "cpic": "Baseball"
   },
   {
    "q": "How many legal balls are bowled in a cricket over?",
@@ -365,7 +385,8 @@
   {
    "q": "How many players per team are on the field in rugby union?",
    "a": "15",
-   "p": 400
+   "p": 400,
+   "cpic": "Rugby union"
   },
   {
    "q": "Which athletics event consists of ten events over two days?",
@@ -472,7 +493,8 @@
    "q": "Which Czech runner won the 5000 m, 10,000 m and marathon at the 1952 Olympics?",
    "a": "Emil Zatopek",
    "p": 600,
-   "apic": "Emil Zátopek"
+   "apic": "Emil Zátopek",
+   "cpic": "Marathon"
   },
   {
    "q": "In which city was the 1974 Ali versus Foreman Rumble in the Jungle fought?",
@@ -484,7 +506,8 @@
    "q": "Which barefoot Ethiopian runner won the marathon at the 1960 Rome Olympics?",
    "a": "Abebe Bikila",
    "p": 600,
-   "apic": "Abebe Bikila"
+   "apic": "Abebe Bikila",
+   "cpic": "Marathon"
   },
   {
    "q": "What is the highest possible checkout in darts?",
@@ -550,7 +573,8 @@
    "q": "Which team won the first Super Bowl in January 1967?",
    "a": "Green Bay Packers",
    "p": 600,
-   "apic": "Green Bay Packers"
+   "apic": "Green Bay Packers",
+   "cpic": "Super Bowl"
   },
   {
    "q": "How long is a cricket pitch in metres?",
@@ -598,7 +622,8 @@
    "q": "Which sport is Tiger Woods famous for?",
    "a": "Golf",
    "p": 200,
-   "apic": "Golf"
+   "apic": "Golf",
+   "cpic": "Tiger Woods"
   },
   {
    "q": "What is the centre of a dartboard called?",
@@ -652,13 +677,15 @@
    "alt": [
     "The All Blacks"
    ],
-   "apic": "All Blacks"
+   "apic": "All Blacks",
+   "cpic": "Rugby union"
   },
   {
    "q": "What shape is a rugby ball?",
    "a": "Oval",
    "p": 200,
-   "apic": "Rugby ball"
+   "apic": "Rugby ball",
+   "cpic": "Rugby ball"
   },
   {
    "q": "Which piece of gymnastics apparatus has two handles on top, called pommels?",
@@ -682,7 +709,8 @@
    "p": 200,
    "alt": [
     "The black"
-   ]
+   ],
+   "cpic": "Snooker"
   },
   {
    "q": "Which ice hockey star is nicknamed 'The Great One'?",
@@ -691,7 +719,8 @@
    "alt": [
     "Gretzky"
    ],
-   "apic": "Wayne Gretzky"
+   "apic": "Wayne Gretzky",
+   "cpic": "Ice hockey"
   },
   {
    "q": "How many periods are played in a standard ice hockey game?",
@@ -699,7 +728,8 @@
    "p": 200,
    "alt": [
     "3"
-   ]
+   ],
+   "cpic": "Ice hockey"
   },
   {
    "q": "How many quarters are played in an American football game?",
@@ -707,7 +737,8 @@
    "p": 200,
    "alt": [
     "4"
-   ]
+   ],
+   "cpic": "American football"
   },
   {
    "q": "Which country's national sport is sumo wrestling?",
@@ -757,7 +788,8 @@
    "p": 200,
    "alt": [
     "Homer"
-   ]
+   ],
+   "cpic": "Baseball"
   },
   {
    "q": "What is Major League Baseball's championship series called?",
@@ -775,7 +807,8 @@
    "alt": [
     "Ping pong"
    ],
-   "apic": "Table tennis"
+   "apic": "Table tennis",
+   "cpic": "Table tennis"
   },
   {
    "q": "What does the sporting acronym GOAT stand for?",
@@ -831,7 +864,8 @@
     "Equestrianism",
     "Horse riding"
    ],
-   "apic": "Equestrianism"
+   "apic": "Equestrianism",
+   "cpic": "Show jumping"
   },
   {
    "q": "Which sport is played in the NHL?",
@@ -864,7 +898,8 @@
    "p": 400,
    "alt": [
     "5"
-   ]
+   ],
+   "cpic": "Rugby union"
   },
   {
    "q": "How many points is a safety worth in American football?",
@@ -872,7 +907,8 @@
    "p": 400,
    "alt": [
     "2"
-   ]
+   ],
+   "cpic": "American football"
   },
   {
    "q": "Which trophy is awarded to the winner of the Super Bowl?",
@@ -881,7 +917,8 @@
    "alt": [
     "Lombardi Trophy"
    ],
-   "apic": "Vince Lombardi Trophy"
+   "apic": "Vince Lombardi Trophy",
+   "cpic": "Super Bowl"
   },
   {
    "q": "What is the long, desperate last-second pass in American football named after a prayer called?",
@@ -928,7 +965,8 @@
    "p": 400,
    "alt": [
     "Fifteen"
-   ]
+   ],
+   "cpic": "Snooker"
   },
   {
    "q": "Which English snooker star is nicknamed 'The Rocket'?",
@@ -937,7 +975,8 @@
    "alt": [
     "O'Sullivan"
    ],
-   "apic": "Ronnie O'Sullivan"
+   "apic": "Ronnie O'Sullivan",
+   "cpic": "Snooker"
   },
   {
    "q": "In which Sheffield theatre is the World Snooker Championship held?",
@@ -956,7 +995,8 @@
    "alt": [
     "Nicklaus"
    ],
-   "apic": "Jack Nicklaus"
+   "apic": "Jack Nicklaus",
+   "cpic": "Golden Bear"
   },
   {
    "q": "Which Spanish golfer won the 1980 Masters at the age of 23?",
@@ -1016,7 +1056,8 @@
    "alt": [
     "Merckx"
    ],
-   "apic": "Eddy Merckx"
+   "apic": "Eddy Merckx",
+   "cpic": "Cycling"
   },
   {
    "q": "What is the main pack of riders in a road cycling race called?",
@@ -1025,7 +1066,8 @@
    "alt": [
     "The peloton"
    ],
-   "apic": "Peloton"
+   "apic": "Peloton",
+   "cpic": "Cycling"
   },
   {
    "q": "Which baseball legend was nicknamed 'The Bambino'?",
@@ -1068,13 +1110,15 @@
     "Epsom Derby",
     "Derby"
    ],
-   "apic": "Epsom Derby"
+   "apic": "Epsom Derby",
+   "cpic": "Horse"
   },
   {
    "q": "Which Australian horse race is known as 'the race that stops a nation'?",
    "a": "Melbourne Cup",
    "p": 400,
-   "apic": "Melbourne Cup"
+   "apic": "Melbourne Cup",
+   "cpic": "Horse"
   },
   {
    "q": "Which steeplechase at Aintree is Britain's most famous jumps race?",
@@ -1089,13 +1133,15 @@
    "q": "Which horse won the Grand National three times in the 1970s?",
    "a": "Red Rum",
    "p": 600,
-   "apic": "Red Rum"
+   "apic": "Red Rum",
+   "cpic": "Grand National"
   },
   {
    "q": "Which race is the first leg of the US Triple Crown of horse racing?",
    "a": "Kentucky Derby",
    "p": 600,
-   "apic": "Kentucky Derby"
+   "apic": "Kentucky Derby",
+   "cpic": "Horse racing"
   },
   {
    "q": "Which annual rowing race on the Thames pits Oxford against Cambridge?",
@@ -1120,7 +1166,8 @@
    "p": 400,
    "alt": [
     "Eleven"
-   ]
+   ],
+   "cpic": "Table tennis"
   },
   {
    "q": "What were badminton shuttlecocks traditionally made with?",
@@ -1129,7 +1176,8 @@
    "alt": [
     "Goose feathers"
    ],
-   "apic": "Shuttlecock"
+   "apic": "Shuttlecock",
+   "cpic": "Badminton"
   },
   {
    "q": "In which throwing event do athletes spin and release a metal ball attached to a wire?",
@@ -1188,13 +1236,15 @@
    "q": "Which country won the 1995 Rugby World Cup on home soil, with Nelson Mandela presenting the trophy?",
    "a": "South Africa",
    "p": 400,
-   "apic": "South Africa"
+   "apic": "South Africa",
+   "cpic": "Nelson Mandela"
   },
   {
    "q": "Which 2009 film starring Matt Damon is about the 1995 Rugby World Cup?",
    "a": "Invictus",
    "p": 400,
-   "apic": "Invictus (film)"
+   "apic": "Invictus (film)",
+   "cpic": "Matt Damon"
   },
   {
    "q": "Which 2011 film stars Brad Pitt as Oakland Athletics manager Billy Beane?",
@@ -1206,7 +1256,8 @@
    "q": "Which 2009 film stars Sandra Bullock and tells the story of NFL player Michael Oher?",
    "a": "The Blind Side",
    "p": 400,
-   "apic": "The Blind Side (film)"
+   "apic": "The Blind Side (film)",
+   "cpic": "Sandra Bullock"
   },
   {
    "q": "Which race is billed as 'The Greatest Spectacle in Racing'?",
@@ -1233,7 +1284,8 @@
    "q": "Which contact sport from South Asia requires a raider to chant during a raid?",
    "a": "Kabaddi",
    "p": 600,
-   "apic": "Kabaddi"
+   "apic": "Kabaddi",
+   "cpic": "South Asia"
   },
   {
    "q": "In lawn bowls, what is the small target ball called?",
@@ -1278,7 +1330,8 @@
    "q": "In rugby union, which trophy is contested between England and Scotland?",
    "a": "Calcutta Cup",
    "p": 600,
-   "apic": "Calcutta Cup"
+   "apic": "Calcutta Cup",
+   "cpic": "England"
   },
   {
    "q": "Which Canadian football league's championship trophy is the Grey Cup?",
@@ -1287,7 +1340,8 @@
    "alt": [
     "Canadian Football League"
    ],
-   "apic": "Grey Cup"
+   "apic": "Grey Cup",
+   "cpic": "Grey Cup"
   },
   {
    "q": "Which Spanish cyclist won five consecutive Tours de France from 1991 to 1995?",
@@ -1314,7 +1368,8 @@
    "p": 600,
    "alt": [
     "1.73"
-   ]
+   ],
+   "cpic": "Bullseye (target)"
   },
   {
    "q": "In the individual medley, which stroke is swum first?",
@@ -1338,7 +1393,8 @@
    "alt": [
     "Kahanamoku"
    ],
-   "apic": "Duke Kahanamoku"
+   "apic": "Duke Kahanamoku",
+   "cpic": "Surfing"
   },
   {
    "q": "Which racehorse won the 1973 US Triple Crown with a record-breaking Belmont Stakes win?",
@@ -1371,7 +1427,8 @@
    "alt": [
     "Blackmore"
    ],
-   "apic": "Rachael Blackmore"
+   "apic": "Rachael Blackmore",
+   "cpic": "Grand National"
   },
   {
    "q": "Which country won the 2023 FIBA Basketball World Cup?",
@@ -1407,7 +1464,8 @@
    "q": "Which badminton trophy is contested at the men's world team championships?",
    "a": "Thomas Cup",
    "p": 600,
-   "apic": "Thomas Cup"
+   "apic": "Thomas Cup",
+   "cpic": "Badminton"
   },
   {
    "q": "Which Irish stick sport is played with a hurley and a sliotar?",
@@ -1431,7 +1489,8 @@
    "p": 600,
    "alt": [
     "Axel jump"
-   ]
+   ],
+   "cpic": "Figure skating"
   },
   {
    "q": "Which Colorado hill climb is nicknamed 'The Race to the Clouds'?",
@@ -1446,7 +1505,8 @@
    "q": "Which 1990 Tom Cruise film is set in the world of NASCAR?",
    "a": "Days of Thunder",
    "p": 600,
-   "apic": "Days of Thunder"
+   "apic": "Days of Thunder",
+   "cpic": "Tom Cruise"
   }
  ]
 }

@@ -95,7 +95,8 @@
    "q": "Which club did Frank Lampard spend 13 seasons at as a midfielder?",
    "a": "Chelsea",
    "p": 200,
-   "apic": "Chelsea F.C."
+   "apic": "Chelsea F.C.",
+   "cpic": "Frank Lampard"
   },
   {
    "q": "Which Liverpool captain famously slipped against Chelsea in April 2014?",
@@ -130,7 +131,8 @@
     "Man United",
     "Man Utd"
    ],
-   "apic": "Manchester United F.C."
+   "apic": "Manchester United F.C.",
+   "cpic": "Cristiano Ronaldo"
   },
   {
    "q": "Which Argentine scored Manchester City's title-winning goal in stoppage time in May 2012?",
@@ -206,7 +208,8 @@
    "alt": [
     "Bayern"
    ],
-   "apic": "FC Bayern Munich"
+   "apic": "FC Bayern Munich",
+   "cpic": "Harry Kane"
   },
   {
    "q": "In which year did the Premier League play its first season?",
@@ -327,7 +330,8 @@
    "alt": [
     "Blackburn"
    ],
-   "apic": "Blackburn Rovers F.C."
+   "apic": "Blackburn Rovers F.C.",
+   "cpic": "Alan Shearer"
   },
   {
    "q": "Which Italian manager led Leicester City to the 2015-16 title?",
@@ -613,7 +617,8 @@
    "alt": [
     "Moyes"
    ],
-   "apic": "David Moyes"
+   "apic": "David Moyes",
+   "cpic": "Alex Ferguson"
   },
   {
    "q": "Which club was nicknamed 'The Crazy Gang' in the 1980s and 1990s?",
@@ -703,7 +708,8 @@
    "alt": [
     "Ipswich"
    ],
-   "apic": "Ipswich Town F.C."
+   "apic": "Ipswich Town F.C.",
+   "cpic": "Andy Cole"
   },
   {
    "q": "How many clubs competed in the first Premier League season in 1992-93?",
@@ -811,13 +817,15 @@
    "alt": [
     "Man City"
    ],
-   "apic": "Manchester City F.C."
+   "apic": "Manchester City F.C.",
+   "cpic": "Old Trafford"
   },
   {
    "q": "Which club did Manchester United beat 8-2 at Old Trafford in August 2011?",
    "a": "Arsenal",
    "p": 600,
-   "apic": "Arsenal F.C."
+   "apic": "Arsenal F.C.",
+   "cpic": "Old Trafford"
   },
   {
    "q": "In which season was VAR introduced to the Premier League?",
@@ -908,7 +916,8 @@
    "alt": [
     "Arteta"
    ],
-   "apic": "Mikel Arteta"
+   "apic": "Mikel Arteta",
+   "cpic": "Unai Emery"
   },
   {
    "q": "Which Liverpool full-back left his boyhood club for Real Madrid in 2025?",
@@ -1018,7 +1027,8 @@
     "Man United",
     "Man Utd"
    ],
-   "apic": "Manchester United F.C."
+   "apic": "Manchester United F.C.",
+   "cpic": "Alex Ferguson"
   },
   {
    "q": "Which country's Public Investment Fund led the 2021 takeover of Newcastle United?",
@@ -1117,7 +1127,8 @@
    "alt": [
     "Scholes"
    ],
-   "apic": "Paul Scholes"
+   "apic": "Paul Scholes",
+   "cpic": "Old Trafford"
   },
   {
    "q": "Which Man United full-back became a Sky Sports pundit and spent his whole career at the club?",
@@ -1248,7 +1259,8 @@
    "alt": [
     "Carragher"
    ],
-   "apic": "Jamie Carragher"
+   "apic": "Jamie Carragher",
+   "cpic": "Gary Neville"
   },
   {
    "q": "Which Liverpool forward won the 2001 Ballon d'Or?",
@@ -1272,7 +1284,8 @@
    "q": "Which club was Wayne Rooney playing for when he scored his famous 2002 winner against Arsenal aged 16?",
    "a": "Everton",
    "p": 400,
-   "apic": "Everton F.C."
+   "apic": "Everton F.C.",
+   "cpic": "Wayne Rooney"
   },
   {
    "q": "Which Man City captain scored a long-range winner against Leicester in May 2019 to keep the title race alive?",
@@ -1525,7 +1538,8 @@
    "q": "Which London club's badge features a lion holding a staff?",
    "a": "Chelsea",
    "p": 400,
-   "apic": "Chelsea F.C."
+   "apic": "Chelsea F.C.",
+   "cpic": "Lion"
   },
   {
    "q": "Which club did Arsenal beat 2-1 on the final day to complete the 2003-04 Invincibles season?",
@@ -1572,7 +1586,8 @@
     "Son",
     "Heung-min Son"
    ],
-   "apic": "Son Heung-min"
+   "apic": "Son Heung-min",
+   "cpic": "Mohamed Salah"
   },
   {
    "q": "Which club was relegated with just 11 points in 2007-08?",
@@ -1871,7 +1886,8 @@
     "Vidic",
     "Nemanja Vidic"
    ],
-   "apic": "Nemanja Vidić"
+   "apic": "Nemanja Vidić",
+   "cpic": "Rio Ferdinand"
   },
   {
    "q": "Which Spanish striker was nicknamed 'El Niño'?",
@@ -1889,7 +1905,8 @@
    "alt": [
     "Wright"
    ],
-   "apic": "Ian Wright"
+   "apic": "Ian Wright",
+   "cpic": "Thierry Henry"
   },
   {
    "q": "Which song is Manchester City's traditional terrace anthem?",
@@ -1974,7 +1991,8 @@
    "alt": [
     "Stoke"
    ],
-   "apic": "Stoke City F.C."
+   "apic": "Stoke City F.C.",
+   "cpic": "Steven Gerrard"
   },
   {
    "q": "Which Stoke goalkeeper scored after 13 seconds against Southampton in 2013?",
@@ -2046,14 +2064,16 @@
    "a": "Egypt",
    "p": 200,
    "ar": "مصر",
-   "apic": "Egypt national football team"
+   "apic": "Egypt national football team",
+   "cpic": "Mohamed Salah"
   },
   {
    "q": "Which country did Riyad Mahrez represent internationally?",
    "a": "Algeria",
    "p": 200,
    "ar": "الجزائر",
-   "apic": "Algeria national football team"
+   "apic": "Algeria national football team",
+   "cpic": "Riyad Mahrez"
   },
   {
    "q": "Which Man United number 7 left for Real Madrid in 2003?",
@@ -2099,7 +2119,8 @@
    "q": "Which club did Cristiano Ronaldo leave Manchester United for in 2009?",
    "a": "Real Madrid",
    "p": 200,
-   "apic": "Real Madrid CF"
+   "apic": "Real Madrid CF",
+   "cpic": "Cristiano Ronaldo"
   },
   {
    "q": "How many points does a team earn for a draw?",
@@ -2117,7 +2138,8 @@
     "FC Barcelona",
     "Barca"
    ],
-   "apic": "FC Barcelona"
+   "apic": "FC Barcelona",
+   "cpic": "Thierry Henry"
   }
  ]
 }

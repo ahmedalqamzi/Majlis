@@ -85,7 +85,8 @@
    "q": "Which insect acts as Pinocchio's conscience?",
    "a": "Jiminy Cricket",
    "p": 200,
-   "apic": "Jiminy Cricket"
+   "apic": "Jiminy Cricket",
+   "cpic": "Pinocchio"
   },
   {
    "q": "Which Disney heroine disguises herself as a man to join the army?",
@@ -240,7 +241,8 @@
    "q": "What is the name of Mickey Mouse's pet dog?",
    "a": "Pluto",
    "p": 200,
-   "apic": "Pluto (Disney)"
+   "apic": "Pluto (Disney)",
+   "cpic": "Mickey Mouse"
   },
   {
    "q": "Which Disney duck wears a sailor shirt and hat?",
@@ -269,7 +271,8 @@
    "alt": [
     "Wendy"
    ],
-   "apic": "Wendy Darling"
+   "apic": "Wendy Darling",
+   "cpic": "Neverland"
   },
   {
    "q": "Where does Peter Pan live?",
@@ -286,7 +289,8 @@
    "p": 200,
    "alt": [
     "Tick-Tock the Crocodile"
-   ]
+   ],
+   "cpic": "Captain Hook"
   },
   {
    "q": "Which girl follows a white rabbit down a rabbit hole?",
@@ -298,24 +302,28 @@
    "q": "Which grinning cat appears in Alice in Wonderland?",
    "a": "Cheshire Cat",
    "p": 200,
-   "apic": "Cheshire Cat"
+   "apic": "Cheshire Cat",
+   "cpic": "Alice (Alice's Adventures in Wonderland)"
   },
   {
    "q": "Which card-ruling monarch loves to order beheadings in Alice in Wonderland?",
    "a": "Queen of Hearts",
    "p": 200,
-   "apic": "Queen of Hearts (Alice's Adventures in Wonderland)"
+   "apic": "Queen of Hearts (Alice's Adventures in Wonderland)",
+   "cpic": "Alice (Alice's Adventures in Wonderland)"
   },
   {
    "q": "Which woodcarver builds Pinocchio?",
    "a": "Geppetto",
    "p": 200,
-   "apic": "Geppetto"
+   "apic": "Geppetto",
+   "cpic": "Pinocchio"
   },
   {
    "q": "What happens to Pinocchio's nose when he lies?",
    "a": "It grows",
-   "p": 200
+   "p": 200,
+   "cpic": "Pinocchio"
   },
   {
    "q": "Which wise baboon presents baby Simba to the animals?",
@@ -441,7 +449,8 @@
    "alt": [
     "Bare Necessities"
    ],
-   "apic": "The Bare Necessities"
+   "apic": "The Bare Necessities",
+   "cpic": "Baloo"
   },
   {
    "q": "Which Frozen song has young Anna knocking on Elsa's door?",
@@ -474,7 +483,8 @@
    "alt": [
     "Lilo and Stitch"
    ],
-   "apic": "Lilo & Stitch"
+   "apic": "Lilo & Stitch",
+   "cpic": "Hawaii"
   },
   {
    "q": "In which US state is Lilo & Stitch set?",
@@ -518,7 +528,8 @@
    "q": "Which 1940 film features Mickey Mouse as the Sorcerer's Apprentice?",
    "a": "Fantasia",
    "p": 400,
-   "apic": "Fantasia (1940 film)"
+   "apic": "Fantasia (1940 film)",
+   "cpic": "Mickey Mouse"
   },
   {
    "q": "Who co-founded the Disney studio with his brother Walt?",
@@ -533,7 +544,8 @@
    "q": "Which 1928 Mickey Mouse short was released with synchronised sound?",
    "a": "Steamboat Willie",
    "p": 400,
-   "apic": "Steamboat Willie"
+   "apic": "Steamboat Willie",
+   "cpic": "Mickey Mouse"
   },
   {
    "q": "Which rabbit character did Walt Disney create before Mickey Mouse?",
@@ -542,7 +554,8 @@
    "alt": [
     "Oswald"
    ],
-   "apic": "Oswald the Lucky Rabbit"
+   "apic": "Oswald the Lucky Rabbit",
+   "cpic": "Walt Disney"
   },
   {
    "q": "Who voices Elsa in Frozen?",
@@ -860,7 +873,8 @@
    "q": "Which dancer does Quasimodo love?",
    "a": "Esmeralda",
    "p": 400,
-   "apic": "Esmeralda (The Hunchback of Notre-Dame)"
+   "apic": "Esmeralda (The Hunchback of Notre-Dame)",
+   "cpic": "Quasimodo"
   },
   {
    "q": "What does Tiana dream of opening?",
@@ -1066,7 +1080,8 @@
    "q": "Which lyricist partnered Alan Menken on The Little Mermaid and Beauty and the Beast?",
    "a": "Howard Ashman",
    "p": 600,
-   "apic": "Howard Ashman"
+   "apic": "Howard Ashman",
+   "cpic": "Alan Menken"
   },
   {
    "q": "What is the name of the voodoo villain in The Princess and the Frog?",
@@ -1107,7 +1122,8 @@
    "p": 600,
    "alt": [
     "Phillip"
-   ]
+   ],
+   "cpic": "Sleeping Beauty (1959 film)"
   },
   {
    "q": "Which villain kidnaps Penny in The Rescuers (1977)?",
@@ -1223,7 +1239,8 @@
    "q": "What nickname was given to Walt Disney's core team of veteran animators?",
    "a": "Nine Old Men",
    "p": 600,
-   "apic": "Nine Old Men"
+   "apic": "Nine Old Men",
+   "cpic": "Walt Disney"
   },
   {
    "q": "Which 2021 film features the water dragon Sisu?",
@@ -1259,7 +1276,8 @@
   {
    "q": "What is the name of Geppetto's cat?",
    "a": "Figaro",
-   "p": 600
+   "p": 600,
+   "cpic": "Geppetto"
   },
   {
    "q": "Which lava demon does Moana confront?",
@@ -1336,7 +1354,8 @@
   {
    "q": "What is the name of Esmeralda's goat?",
    "a": "Djali",
-   "p": 600
+   "p": 600,
+   "cpic": "Esmeralda (The Hunchback of Notre-Dame)"
   },
   {
    "q": "What is the name of the trumpet-playing alligator in The Princess and the Frog?",
@@ -1365,7 +1384,8 @@
    "q": "Which 2005 film was Walt Disney Animation's first fully computer-animated feature?",
    "a": "Chicken Little",
    "p": 600,
-   "apic": "Chicken Little (2005 film)"
+   "apic": "Chicken Little (2005 film)",
+   "cpic": "Walt Disney"
   },
   {
    "q": "Which 1988 film is a dog-filled New York retelling of Oliver Twist?",

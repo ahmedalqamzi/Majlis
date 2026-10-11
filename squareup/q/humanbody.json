@@ -16,7 +16,8 @@
    "p": 200,
    "alt": [
     "Brain"
-   ]
+   ],
+   "cpic": "Skull"
   },
   {
    "q": "What is the coloured part of the eye called?",
@@ -28,7 +29,8 @@
    "q": "What is the common name for the patella?",
    "a": "Kneecap",
    "p": 200,
-   "apic": "Patella"
+   "apic": "Patella",
+   "cpic": "Patella"
   },
   {
    "q": "What are the small bones that make up the spine called?",
@@ -97,7 +99,8 @@
    "q": "What is the hard, shiny outer layer of a tooth called?",
    "a": "Enamel",
    "p": 200,
-   "apic": "Tooth enamel"
+   "apic": "Tooth enamel",
+   "cpic": "Tooth"
   },
   {
    "q": "In which J-shaped organ is food mixed with acid after swallowing?",
@@ -150,7 +153,8 @@
    "q": "The larynx is better known by what common name?",
    "a": "Voice box",
    "p": 200,
-   "apic": "Larynx"
+   "apic": "Larynx",
+   "cpic": "Larynx"
   },
   {
    "q": "Which mineral, found in milk, is vital for strong bones and teeth?",
@@ -189,7 +193,8 @@
    "alt": [
     "Biceps brachii"
    ],
-   "apic": "Biceps"
+   "apic": "Biceps",
+   "cpic": "Elbow"
   },
   {
    "q": "Which tendon at the back of the ankle is named after a Greek hero?",
@@ -198,7 +203,8 @@
    "alt": [
     "Achilles"
    ],
-   "apic": "Achilles tendon"
+   "apic": "Achilles tendon",
+   "cpic": "Ankle"
   },
   {
    "q": "Which sense organ do we use to hear?",
@@ -275,7 +281,8 @@
    "q": "What is the common name for the sternum?",
    "a": "Breastbone",
    "p": 200,
-   "apic": "Sternum"
+   "apic": "Sternum",
+   "cpic": "Sternum"
   },
   {
    "q": "What do we call the bones of the fingers and toes?",
@@ -336,7 +343,8 @@
    "q": "What is the medical name for the skull?",
    "a": "Cranium",
    "p": 400,
-   "apic": "Skull"
+   "apic": "Skull",
+   "cpic": "Skull"
   },
   {
    "q": "Which small organ under the liver stores bile?",
@@ -694,7 +702,8 @@
    "p": 400,
    "alt": [
     "Fontanels"
-   ]
+   ],
+   "cpic": "Skull"
   },
   {
    "q": "Which teeth, at the very back of the mouth, often appear in the late teens or twenties?",
@@ -726,7 +735,8 @@
    "p": 600,
    "alt": [
     "Twenty-seven"
-   ]
+   ],
+   "cpic": "Wrist"
   },
   {
    "q": "Which hormone, made in the pancreas, raises blood sugar levels?",
@@ -768,7 +778,8 @@
     "Brain stem",
     "Medulla oblongata"
    ],
-   "apic": "Brainstem"
+   "apic": "Brainstem",
+   "cpic": "Spinal cord"
   },
   {
    "q": "Which cells in the retina detect colour?",
@@ -776,7 +787,8 @@
    "p": 600,
    "alt": [
     "Cone cells"
-   ]
+   ],
+   "cpic": "Retina"
   },
   {
    "q": "Which cells in the retina work best in dim light?",
@@ -784,7 +796,8 @@
    "p": 600,
    "alt": [
     "Rod cells"
-   ]
+   ],
+   "cpic": "Retina"
   },
   {
    "q": "Which ear bone is nicknamed the 'hammer'?",
@@ -886,7 +899,8 @@
    "alt": [
     "Banting"
    ],
-   "apic": "Frederick Banting"
+   "apic": "Frederick Banting",
+   "cpic": "Nobel Prize"
   },
   {
    "q": "Which British surgeon pioneered antiseptic surgery using carbolic acid?",
@@ -902,7 +916,8 @@
     "Laennec",
     "René Laennec"
    ],
-   "apic": "René Laennec"
+   "apic": "René Laennec",
+   "cpic": "Stethoscope"
   },
   {
    "q": "Whose X-ray image known as 'Photo 51' helped reveal the structure of DNA?",
@@ -936,7 +951,8 @@
   {
    "q": "Which part of the eye changes shape to focus light on the retina?",
    "a": "Lens",
-   "p": 400
+   "p": 400,
+   "cpic": "Retina"
   },
   {
    "q": "Which lobe of the brain at the back of the head processes vision?",
@@ -956,7 +972,8 @@
    "alt": [
     "Adrenal glands"
    ],
-   "apic": "Adrenal gland"
+   "apic": "Adrenal gland",
+   "cpic": "Kidney"
   },
   {
    "q": "What is the medical name for the tailbone?",
@@ -976,7 +993,8 @@
    "p": 600,
    "alt": [
     "Dental pulp"
-   ]
+   ],
+   "cpic": "Tooth"
   },
   {
    "q": "Which liquid, made by the liver, helps digest fats?",
@@ -1034,13 +1052,15 @@
    "q": "What are the seven bones of the ankle collectively called?",
    "a": "Tarsals",
    "p": 600,
-   "apic": "Tarsus (skeleton)"
+   "apic": "Tarsus (skeleton)",
+   "cpic": "Ankle"
   },
   {
    "q": "What are the eight small bones of the wrist collectively called?",
    "a": "Carpals",
    "p": 600,
-   "apic": "Carpal bones"
+   "apic": "Carpal bones",
+   "cpic": "Wrist"
   },
   {
    "q": "Which acid is produced in the stomach to help digest food?",
@@ -1077,7 +1097,8 @@
    "q": "Which muscle group at the back of the upper arm straightens the elbow?",
    "a": "Triceps",
    "p": 400,
-   "apic": "Triceps"
+   "apic": "Triceps",
+   "cpic": "Elbow"
   },
   {
    "q": "Which muscle group at the front of the thigh straightens the knee?",
@@ -1086,12 +1107,14 @@
    "alt": [
     "Quads"
    ],
-   "apic": "Quadriceps"
+   "apic": "Quadriceps",
+   "cpic": "Knee"
   },
   {
    "q": "Which muscles at the back of the thigh bend the knee?",
    "a": "Hamstrings",
-   "p": 400
+   "p": 400,
+   "cpic": "Knee"
   },
   {
    "q": "Which flat muscles of the chest are commonly called the 'pecs'?",
@@ -1146,7 +1169,8 @@
   {
    "q": "What is the name for the body's tiny coiled tubes in the kidney that filter blood?",
    "a": "Nephrons",
-   "p": 600
+   "p": 600,
+   "cpic": "Kidney"
   },
   {
    "q": "What liquid surrounds the brain and spinal cord as a cushion?",
@@ -1154,7 +1178,8 @@
    "p": 600,
    "alt": [
     "CSF"
-   ]
+   ],
+   "cpic": "Spinal cord"
   },
   {
    "q": "What are the two halves of the brain called?",
@@ -1183,7 +1208,8 @@
   {
    "q": "What is the term for a resting heart rate, measured at the wrist?",
    "a": "Pulse",
-   "p": 200
+   "p": 200,
+   "cpic": "Wrist"
   },
   {
    "q": "What is the bone that forms the forehead?",
@@ -1238,7 +1264,8 @@
    "q": "Which joint connects the foot to the leg?",
    "a": "Ankle",
    "p": 200,
-   "apic": "Ankle"
+   "apic": "Ankle",
+   "cpic": "Foot"
   },
   {
    "q": "What are a child's first set of teeth commonly called?",
@@ -1328,7 +1355,8 @@
    "p": 600,
    "alt": [
     "Twenty-six"
-   ]
+   ],
+   "cpic": "Foot"
   },
   {
    "q": "Which common cell part is missing from mature human red blood cells?",
@@ -1345,13 +1373,15 @@
    "q": "Who became the first woman to earn a medical degree in the United States, in 1849?",
    "a": "Elizabeth Blackwell",
    "p": 600,
-   "apic": "Elizabeth Blackwell"
+   "apic": "Elizabeth Blackwell",
+   "cpic": "United States"
   },
   {
    "q": "Which Dutch doctor built the first working artificial kidney (dialysis machine) in the 1940s?",
    "a": "Willem Kolff",
    "p": 600,
-   "apic": "Willem Johan Kolff"
+   "apic": "Willem Johan Kolff",
+   "cpic": "Kidney"
   },
   {
    "q": "Which Russian scientist is famous for experiments in which dogs salivated at a signal?",

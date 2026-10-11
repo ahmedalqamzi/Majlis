@@ -820,7 +820,8 @@
    "q": "Which half-vampire Marvel hunter was played by Wesley Snipes?",
    "a": "Blade",
    "p": 200,
-   "apic": "Blade (character)"
+   "apic": "Blade (character)",
+   "cpic": "Wesley Snipes"
   },
   {
    "q": "Which silver cosmic hero travels through space on a surfboard?",
@@ -876,7 +877,8 @@
    "q": "Which actor played Batman in Tim Burton's 1989 film?",
    "a": "Michael Keaton",
    "p": 200,
-   "apic": "Michael Keaton"
+   "apic": "Michael Keaton",
+   "cpic": "Tim Burton"
   },
   {
    "q": "What does the 'S' symbol on Superman's chest mean on Krypton, according to Man of Steel?",
@@ -941,19 +943,22 @@
    "q": "Which Wayne Enterprises expert supplies Batman's gadgets in Christopher Nolan's films?",
    "a": "Lucius Fox",
    "p": 400,
-   "apic": "Lucius Fox"
+   "apic": "Lucius Fox",
+   "cpic": "Christopher Nolan"
   },
   {
    "q": "Which actor played Alfred in Christopher Nolan's Batman trilogy?",
    "a": "Michael Caine",
    "p": 400,
-   "apic": "Michael Caine"
+   "apic": "Michael Caine",
+   "cpic": "Christopher Nolan"
   },
   {
    "q": "Which actor played Commissioner Gordon in Christopher Nolan's Batman trilogy?",
    "a": "Gary Oldman",
    "p": 400,
-   "apic": "Gary Oldman"
+   "apic": "Gary Oldman",
+   "cpic": "Christopher Nolan"
   },
   {
    "q": "Which actor played Batman in the 1960s TV series?",
@@ -1061,7 +1066,8 @@
    "q": "Which actor plays Superman in James Gunn's Superman (2025)?",
    "a": "David Corenswet",
    "p": 400,
-   "apic": "David Corenswet"
+   "apic": "David Corenswet",
+   "cpic": "James Gunn"
   },
   {
    "q": "Which actress played Lois Lane in Man of Steel?",
@@ -1108,7 +1114,8 @@
    "q": "Which DC antihero did Dwayne Johnson play in a 2022 film?",
    "a": "Black Adam",
    "p": 400,
-   "apic": "Black Adam"
+   "apic": "Black Adam",
+   "cpic": "Dwayne Johnson"
   },
   {
    "q": "Which wrestler plays the DC antihero Peacemaker?",
@@ -1140,7 +1147,8 @@
    "q": "Which artist co-created the Fantastic Four, the X-Men and the Hulk with Stan Lee?",
    "a": "Jack Kirby",
    "p": 400,
-   "apic": "Jack Kirby"
+   "apic": "Jack Kirby",
+   "cpic": "Stan Lee"
   },
   {
    "q": "What is Professor X's full name?",
@@ -1244,7 +1252,8 @@
    "q": "Which 2017 film was Hugh Jackman's farewell to Wolverine before his 2024 return?",
    "a": "Logan",
    "p": 200,
-   "apic": "Logan (film)"
+   "apic": "Logan (film)",
+   "cpic": "Hugh Jackman"
   },
   {
    "q": "Which 2024 Disney+ series revived the 1990s X-Men cartoon?",
@@ -1321,7 +1330,8 @@
    "q": "Which actor played Hellboy in Guillermo del Toro's films?",
    "a": "Ron Perlman",
    "p": 400,
-   "apic": "Ron Perlman"
+   "apic": "Ron Perlman",
+   "cpic": "Guillermo del Toro"
   },
   {
    "q": "Which Watchmen character wears a mask with constantly shifting inkblots?",
@@ -1389,19 +1399,22 @@
    "alt": [
     "Insomniac"
    ],
-   "apic": "Insomniac Games"
+   "apic": "Insomniac Games",
+   "cpic": "PlayStation 4"
   },
   {
    "q": "Which 2008 Will Smith film is about a grumpy, careless superhero?",
    "a": "Hancock",
    "p": 400,
-   "apic": "Hancock (film)"
+   "apic": "Hancock (film)",
+   "cpic": "Will Smith"
   },
   {
    "q": "Which 2000 M. Night Shyamalan film stars Bruce Willis as a man who cannot be hurt?",
    "a": "Unbreakable",
    "p": 400,
-   "apic": "Unbreakable (film)"
+   "apic": "Unbreakable (film)",
+   "cpic": "Bruce Willis"
   },
   {
    "q": "Which 2010 film follows a teenager with no powers who becomes a costumed hero alongside Hit-Girl?",
@@ -1413,13 +1426,15 @@
    "q": "Which Indian superhero film series stars Hrithik Roshan?",
    "a": "Krrish",
    "p": 400,
-   "apic": "Krrish"
+   "apic": "Krrish",
+   "cpic": "Hrithik Roshan"
   },
   {
    "q": "Which 2011 Bollywood film stars Shah Rukh Khan as the video game hero G.One?",
    "a": "Ra.One",
    "p": 400,
-   "apic": "Ra.One"
+   "apic": "Ra.One",
+   "cpic": "Shah Rukh Khan"
   },
   {
    "q": "Which giant Japanese superhero first appeared on TV in 1966 to fight kaiju?",
@@ -1470,7 +1485,8 @@
    "q": "Which composer wrote the theme for Tim Burton's Batman (1989)?",
    "a": "Danny Elfman",
    "p": 600,
-   "apic": "Danny Elfman"
+   "apic": "Danny Elfman",
+   "cpic": "Tim Burton"
   },
   {
    "q": "Which Seal hit featured on the Batman Forever soundtrack?",
@@ -1519,7 +1535,8 @@
   {
    "q": "On which planet is the Green Lantern Corps based?",
    "a": "Oa",
-   "p": 600
+   "p": 600,
+   "cpic": "Green Lantern Corps"
   },
   {
    "q": "Against which colour was Hal Jordan's original power ring useless?",

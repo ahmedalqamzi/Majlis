@@ -24,18 +24,21 @@
    "q": "Which country is the group ABBA from?",
    "a": "Sweden",
    "p": 200,
-   "apic": "Sweden"
+   "apic": "Sweden",
+   "cpic": "ABBA"
   },
   {
    "q": "Which composer wrote the piano piece \"Fur Elise\"?",
    "a": "Beethoven",
    "p": 200,
-   "apic": "Ludwig van Beethoven"
+   "apic": "Ludwig van Beethoven",
+   "cpic": "Piano"
   },
   {
    "q": "Which family of orchestra instruments includes the violin, viola and cello?",
    "a": "Strings",
-   "p": 200
+   "p": 200,
+   "cpic": "Violin"
   },
   {
    "q": "Which singer is nicknamed the \"King of Rock and Roll\"?",
@@ -71,13 +74,15 @@
    "q": "Bono is the lead singer of which Irish band?",
    "a": "U2",
    "p": 200,
-   "apic": "U2"
+   "apic": "U2",
+   "cpic": "Bono"
   },
   {
    "q": "Which singer is known as the \"Queen of Pop\"?",
    "a": "Madonna",
    "p": 200,
-   "apic": "Madonna"
+   "apic": "Madonna",
+   "cpic": "Queen (band)"
   },
   {
    "q": "What is the musical term for playing loudly?",
@@ -130,7 +135,8 @@
    "q": "Which American singer is called the \"Queen of Soul\"?",
    "a": "Aretha Franklin",
    "p": 200,
-   "apic": "Aretha Franklin"
+   "apic": "Aretha Franklin",
+   "cpic": "Queen (band)"
   },
   {
    "q": "Which singer released the albums \"1989\" and \"Folklore\"?",
@@ -395,7 +401,8 @@
   {
    "q": "Which two Lebanese brothers wrote many songs for Fairuz?",
    "a": "Rahbani Brothers",
-   "p": 600
+   "p": 600,
+   "cpic": "Fairuz"
   },
   {
    "q": "Which Syrian singer is nicknamed the \"Sultan of Tarab\"?",
@@ -481,13 +488,15 @@
   {
    "q": "On which day of the week were Umm Kulthum's famous monthly concerts traditionally broadcast?",
    "a": "Thursday",
-   "p": 600
+   "p": 600,
+   "cpic": "Umm Kulthum"
   },
   {
    "q": "Which Lebanese composer and pianist is the son of Fairuz?",
    "a": "Ziad Rahbani",
    "p": 600,
-   "apic": "Ziad Rahbani"
+   "apic": "Ziad Rahbani",
+   "cpic": "Fairuz"
   },
   {
    "q": "How many flats are in the key of F major?",
@@ -541,7 +550,8 @@
    "q": "Which Polish composer is famous for his nocturnes and polonaises for piano?",
    "a": "Frederic Chopin",
    "p": 400,
-   "apic": "Frédéric Chopin"
+   "apic": "Frédéric Chopin",
+   "cpic": "Piano"
   },
   {
    "q": "Which Hungarian composer wrote the \"Hungarian Rhapsodies\"?",
@@ -577,7 +587,8 @@
    "q": "Which Japanese composer scored many Studio Ghibli films?",
    "a": "Joe Hisaishi",
    "p": 600,
-   "apic": "Joe Hisaishi"
+   "apic": "Joe Hisaishi",
+   "cpic": "Studio Ghibli"
   },
   {
    "q": "Which English band released the 1997 album \"OK Computer\"?",
@@ -622,7 +633,8 @@
    "q": "Which 1982 Michael Jackson album includes 'Billie Jean' and 'Beat It'?",
    "a": "Thriller",
    "p": 200,
-   "apic": "Thriller (album)"
+   "apic": "Thriller (album)",
+   "cpic": "Michael Jackson"
   },
   {
    "q": "Which backwards-gliding dance move did Michael Jackson make famous in 1983?",
@@ -630,7 +642,8 @@
    "p": 200,
    "alt": [
     "Moonwalk"
-   ]
+   ],
+   "cpic": "Michael Jackson"
   },
   {
    "q": "Which Swedish group won Eurovision in 1974 with 'Waterloo'?",
@@ -642,7 +655,8 @@
    "q": "Which musical and film is built around the songs of ABBA?",
    "a": "Mamma Mia!",
    "p": 200,
-   "apic": "Mamma Mia!"
+   "apic": "Mamma Mia!",
+   "cpic": "ABBA"
   },
   {
    "q": "Which singer released the albums '21' and '25'?",
@@ -689,7 +703,8 @@
   {
    "q": "What was the name of Taylor Swift's 2023 to 2024 world tour?",
    "a": "The Eras Tour",
-   "p": 200
+   "p": 200,
+   "cpic": "Taylor Swift"
   },
   {
    "q": "Which boy band was formed on The X Factor in 2010?",
@@ -701,7 +716,8 @@
    "q": "Which former One Direction member released 'Watermelon Sugar'?",
    "a": "Harry Styles",
    "p": 200,
-   "apic": "Harry Styles"
+   "apic": "Harry Styles",
+   "cpic": "One Direction"
   },
   {
    "q": "Which singer recorded 'I Will Always Love You' for the film The Bodyguard?",
@@ -719,7 +735,8 @@
    "q": "Which music genre is Bob Marley most associated with?",
    "a": "Reggae",
    "p": 200,
-   "apic": "Reggae"
+   "apic": "Reggae",
+   "cpic": "Bob Marley"
   },
   {
    "q": "Which Puerto Rican music genre, built on the dembow rhythm, made Daddy Yankee famous?",
@@ -760,7 +777,8 @@
    "q": "Which small four-stringed guitar-like instrument is associated with Hawaii?",
    "a": "Ukulele",
    "p": 200,
-   "apic": "Ukulele"
+   "apic": "Ukulele",
+   "cpic": "Guitar"
   },
   {
    "q": "Which long wooden wind instrument was developed by Aboriginal Australians?",
@@ -822,7 +840,8 @@
   {
    "q": "Which section of the orchestra includes the trumpet, trombone and tuba?",
    "a": "Brass",
-   "p": 200
+   "p": 200,
+   "cpic": "Trombone"
   },
   {
    "q": "Which woodwind instrument is held sideways and played by blowing across a hole?",
@@ -873,7 +892,8 @@
    "q": "Which Lin-Manuel Miranda musical tells the story of a US founding father?",
    "a": "Hamilton",
    "p": 200,
-   "apic": "Hamilton (musical)"
+   "apic": "Hamilton (musical)",
+   "cpic": "Lin-Manuel Miranda"
   },
   {
    "q": "Which musical is based on Victor Hugo's novel about Jean Valjean?",
@@ -882,7 +902,8 @@
    "alt": [
     "Les Mis"
    ],
-   "apic": "Les Misérables (musical)"
+   "apic": "Les Misérables (musical)",
+   "cpic": "Victor Hugo"
   },
   {
    "q": "Which musical about the witches of Oz features the song 'Defying Gravity'?",
@@ -943,7 +964,8 @@
   {
    "q": "Which Lil Nas X song mixed country and rap, with a remix featuring Billy Ray Cyrus?",
    "a": "Old Town Road",
-   "p": 200
+   "p": 200,
+   "cpic": "Billy Ray Cyrus"
   },
   {
    "q": "Which British singer released the 2017 hit 'New Rules'?",
@@ -954,7 +976,8 @@
   {
    "q": "Which Miley Cyrus 2023 hit is about buying herself a bouquet?",
    "a": "Flowers",
-   "p": 200
+   "p": 200,
+   "cpic": "Miley Cyrus"
   },
   {
    "q": "Which Sabrina Carpenter 2024 hit shares its name with a coffee?",
@@ -1020,7 +1043,8 @@
   {
    "q": "Which Dolly Parton song pleads with a woman not to take her man?",
    "a": "Jolene",
-   "p": 400
+   "p": 400,
+   "cpic": "Dolly Parton"
   },
   {
    "q": "Which Puerto Rican star released the 2022 album 'Un Verano Sin Ti'?",
@@ -1124,7 +1148,8 @@
   {
    "q": "Which Verdi opera set in ancient Egypt premiered in Cairo in 1871?",
    "a": "Aida",
-   "p": 400
+   "p": 400,
+   "cpic": "Ancient Egypt"
   },
   {
    "q": "Which Russian composer wrote 'Flight of the Bumblebee'?",
@@ -1145,13 +1170,15 @@
    "q": "Which Andrew Lloyd Webber musical features the song 'Memory'?",
    "a": "Cats",
    "p": 400,
-   "apic": "Cats (musical)"
+   "apic": "Cats (musical)",
+   "cpic": "Andrew Lloyd Webber"
   },
   {
    "q": "Which musical tells the life story of Argentina's Eva Perón?",
    "a": "Evita",
    "p": 400,
-   "apic": "Evita (musical)"
+   "apic": "Evita (musical)",
+   "cpic": "Argentina"
   },
   {
    "q": "Which Disney film became a Broadway musical directed by Julie Taymor in 1997?",
@@ -1173,13 +1200,15 @@
    "q": "Which tenor completed the Three Tenors with Plácido Domingo and José Carreras?",
    "a": "Luciano Pavarotti",
    "p": 400,
-   "apic": "Luciano Pavarotti"
+   "apic": "Luciano Pavarotti",
+   "cpic": "Plácido Domingo"
   },
   {
    "q": "Which Italian tenor sang 'Time to Say Goodbye' with Sarah Brightman?",
    "a": "Andrea Bocelli",
    "p": 400,
-   "apic": "Andrea Bocelli"
+   "apic": "Andrea Bocelli",
+   "cpic": "Sarah Brightman"
   },
   {
    "q": "What is the female voice type between soprano and contralto?",
@@ -1279,7 +1308,8 @@
    "q": "What was the name of Elvis Presley's mansion in Memphis?",
    "a": "Graceland",
    "p": 400,
-   "apic": "Graceland"
+   "apic": "Graceland",
+   "cpic": "Elvis Presley"
   },
   {
    "q": "Which 1985 charity single was recorded by USA for Africa?",
@@ -1294,7 +1324,8 @@
   {
    "q": "Which Elton John song was rewritten in 1997 as a tribute to Princess Diana?",
    "a": "Candle in the Wind",
-   "p": 400
+   "p": 400,
+   "cpic": "Elton John"
   },
   {
    "q": "What is Katy Perry's birth name?",
@@ -1308,7 +1339,8 @@
    "q": "Which New Zealand singer released 'Royals' at the age of 16?",
    "a": "Lorde",
    "p": 400,
-   "apic": "Lorde"
+   "apic": "Lorde",
+   "cpic": "New Zealand"
   },
   {
    "q": "Which Gotye song featuring Kimbra was a global hit in 2012?",
@@ -1318,7 +1350,8 @@
   {
    "q": "Which 2020 Dua Lipa album includes 'Levitating'?",
    "a": "Future Nostalgia",
-   "p": 400
+   "p": 400,
+   "cpic": "Dua Lipa"
   },
   {
    "q": "Which Olivia Rodrigo debut album includes 'drivers license'?",
@@ -1371,7 +1404,8 @@
    "q": "Which former Wham! singer released the 1987 album 'Faith'?",
    "a": "George Michael",
    "p": 400,
-   "apic": "George Michael"
+   "apic": "George Michael",
+   "cpic": "Wham!"
   },
   {
    "q": "Which singer released 'What's Love Got to Do with It' in 1984?",
@@ -1439,7 +1473,8 @@
   {
    "q": "Which romantic guitar-based music style from the Dominican Republic is Romeo Santos famous for?",
    "a": "Bachata",
-   "p": 400
+   "p": 400,
+   "cpic": "Guitar"
   },
   {
    "q": "Which mournful Portuguese song style is associated with Lisbon?",
@@ -1477,7 +1512,8 @@
   {
    "q": "Which Jamaican music genre with offbeat rhythms came before reggae?",
    "a": "Ska",
-   "p": 600
+   "p": 600,
+   "cpic": "Reggae"
   },
   {
    "q": "What was the name of Bob Marley's band?",
@@ -1506,7 +1542,8 @@
   {
    "q": "Which Beyoncé country album won Album of the Year at the 2025 Grammys?",
    "a": "Cowboy Carter",
-   "p": 400
+   "p": 400,
+   "cpic": "Beyoncé"
   },
   {
    "q": "Which composer wrote 'Hedwig's Theme' for the Harry Potter films?",
@@ -1564,13 +1601,15 @@
    "q": "Which blues guitarist named his guitar Lucille?",
    "a": "B.B. King",
    "p": 600,
-   "apic": "B.B. King"
+   "apic": "B.B. King",
+   "cpic": "Guitar"
   },
   {
    "q": "Which singer-songwriter is known as the Piano Man?",
    "a": "Billy Joel",
    "p": 400,
-   "apic": "Billy Joel"
+   "apic": "Billy Joel",
+   "cpic": "Piano"
   },
   {
    "q": "Which Andean wind instrument is made of a row of pipes of different lengths?",
@@ -1625,7 +1664,8 @@
    "alt": [
     "Rimsky-Korsakov"
    ],
-   "apic": "Nikolai Rimsky-Korsakov"
+   "apic": "Nikolai Rimsky-Korsakov",
+   "cpic": "One Thousand and One Nights"
   },
   {
    "q": "Which French composer wrote the 'Symphonie fantastique'?",
@@ -1683,7 +1723,8 @@
    "alt": [
     "Paganini"
    ],
-   "apic": "Niccolò Paganini"
+   "apic": "Niccolò Paganini",
+   "cpic": "Violin"
   },
   {
    "q": "Which composer's surname means 'brook' or 'stream' in German?",
@@ -1724,7 +1765,8 @@
    "q": "Who founded Motown Records in Detroit?",
    "a": "Berry Gordy",
    "p": 600,
-   "apic": "Berry Gordy"
+   "apic": "Berry Gordy",
+   "cpic": "Detroit"
   },
   {
    "q": "Which singer was known as the Empress of the Blues?",
@@ -1742,7 +1784,8 @@
    "q": "Who directed Michael Jackson's 'Thriller' music video?",
    "a": "John Landis",
    "p": 600,
-   "apic": "John Landis"
+   "apic": "John Landis",
+   "cpic": "Michael Jackson"
   },
   {
    "q": "What is Elton John's birth name?",
@@ -1751,7 +1794,8 @@
    "alt": [
     "Reginald Kenneth Dwight"
    ],
-   "apic": "Elton John"
+   "apic": "Elton John",
+   "cpic": "Elton John"
   },
   {
    "q": "What is U2 singer Bono's real name?",
@@ -1760,7 +1804,8 @@
    "alt": [
     "Paul David Hewson"
    ],
-   "apic": "Bono"
+   "apic": "Bono",
+   "cpic": "Bono"
   },
   {
    "q": "Which singer was born Elizabeth Grant?",
@@ -1784,7 +1829,8 @@
    "q": "Which Canadian singer won Eurovision in 1988 representing Switzerland?",
    "a": "Celine Dion",
    "p": 600,
-   "apic": "Celine Dion"
+   "apic": "Celine Dion",
+   "cpic": "Switzerland"
   },
   {
    "q": "Which country won Eurovision in 2024 with Nemo's 'The Code'?",
@@ -1814,7 +1860,8 @@
    "q": "Which Chinese two-stringed bowed instrument is sometimes called the Chinese violin?",
    "a": "Erhu",
    "p": 600,
-   "apic": "Erhu"
+   "apic": "Erhu",
+   "cpic": "Violin"
   },
   {
    "q": "Which West African harp-lute traditionally has 21 strings?",
@@ -1853,17 +1900,20 @@
   {
    "q": "Which Bruno Mars album won Album of the Year at the 2018 Grammys?",
    "a": "24K Magic",
-   "p": 600
+   "p": 600,
+   "cpic": "Bruno Mars"
   },
   {
    "q": "Which Billie Eilish debut album won Album of the Year at the 2020 Grammys?",
    "a": "When We All Fall Asleep, Where Do We Go?",
-   "p": 600
+   "p": 600,
+   "cpic": "Billie Eilish"
   },
   {
    "q": "Which Jon Batiste album won Album of the Year at the 2022 Grammys?",
    "a": "We Are",
-   "p": 600
+   "p": 600,
+   "cpic": "Jon Batiste"
   },
   {
    "q": "Which composer wrote the score for The Lord of the Rings films?",

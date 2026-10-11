@@ -19,7 +19,8 @@
    "q": "At which 1985 charity concert did Queen give a legendary performance at Wembley Stadium?",
    "a": "Live Aid",
    "p": 200,
-   "apic": "Live Aid"
+   "apic": "Live Aid",
+   "cpic": "Wembley Stadium"
   },
   {
    "q": "Which Irish musician co-organised Live Aid with Midge Ure?",
@@ -50,13 +51,15 @@
    "q": "Which singer collaborated with Queen on the 1981 hit \"Under Pressure\"?",
    "a": "David Bowie",
    "p": 200,
-   "apic": "David Bowie"
+   "apic": "David Bowie",
+   "cpic": "Under Pressure"
   },
   {
    "q": "Which English city did the Beatles come from?",
    "a": "Liverpool",
    "p": 200,
-   "apic": "Liverpool"
+   "apic": "Liverpool",
+   "cpic": "The Beatles (album)"
   },
   {
    "q": "Which Beatles album cover shows the band walking across a zebra crossing?",
@@ -89,13 +92,15 @@
    "q": "Which Led Zeppelin singer is known for his golden curls and high-pitched wail?",
    "a": "Robert Plant",
    "p": 200,
-   "apic": "Robert Plant"
+   "apic": "Robert Plant",
+   "cpic": "Led Zeppelin"
   },
   {
    "q": "Which Led Zeppelin guitarist was also the band's producer?",
    "a": "Jimmy Page",
    "p": 200,
-   "apic": "Jimmy Page"
+   "apic": "Jimmy Page",
+   "cpic": "Led Zeppelin"
   },
   {
    "q": "What optical object is shown splitting light on the cover of Pink Floyd's The Dark Side of the Moon?",
@@ -145,13 +150,15 @@
    "q": "Which Linkin Park singer died in 2017?",
    "a": "Chester Bennington",
    "p": 200,
-   "apic": "Chester Bennington"
+   "apic": "Chester Bennington",
+   "cpic": "Linkin Park"
   },
   {
    "q": "What was Linkin Park's 2000 debut album?",
    "a": "Hybrid Theory",
    "p": 200,
-   "apic": "Hybrid Theory"
+   "apic": "Hybrid Theory",
+   "cpic": "Linkin Park"
   },
   {
    "q": "Who is Coldplay's lead singer?",
@@ -202,7 +209,8 @@
   {
    "q": "Which Guns N' Roses song has a famous guitar riff that Slash first played as a warm-up exercise?",
    "a": "Sweet Child o' Mine",
-   "p": 200
+   "p": 200,
+   "cpic": "Slash (musician)"
   },
   {
    "q": "Which 1969 festival on a New York State farm became a symbol of the hippie era?",
@@ -214,7 +222,8 @@
    "q": "Which guitarist famously played the US national anthem at Woodstock?",
    "a": "Jimi Hendrix",
    "p": 200,
-   "apic": "Jimi Hendrix"
+   "apic": "Jimi Hendrix",
+   "cpic": "Woodstock"
   },
   {
    "q": "Which Deep Purple song has one of the most famous guitar riffs ever and is about a fire?",
@@ -234,19 +243,22 @@
     "The Gallagher brothers",
     "Gallaghers"
    ],
-   "apic": "Oasis (band)"
+   "apic": "Oasis (band)",
+   "cpic": "Oasis (band)"
   },
   {
    "q": "Which band competed with Oasis in the 1995 \"Battle of Britpop\" chart race?",
    "a": "Blur",
    "p": 200,
-   "apic": "Blur (band)"
+   "apic": "Blur (band)",
+   "cpic": "Oasis (band)"
   },
   {
    "q": "Which glam rock alter ego did David Bowie create in 1972?",
    "a": "Ziggy Stardust",
    "p": 200,
-   "apic": "Ziggy Stardust"
+   "apic": "Ziggy Stardust",
+   "cpic": "David Bowie"
   },
   {
    "q": "Which rock band is known for black-and-white face paint and members called the Demon and the Starchild?",
@@ -261,7 +273,8 @@
    "q": "Which Black Sabbath singer was nicknamed the \"Prince of Darkness\"?",
    "a": "Ozzy Osbourne",
    "p": 200,
-   "apic": "Ozzy Osbourne"
+   "apic": "Ozzy Osbourne",
+   "cpic": "Black Sabbath"
   },
   {
    "q": "Which 2003 White Stripes song became a football stadium chant around the world?",
@@ -272,7 +285,8 @@
    "q": "Which singer-songwriter won the 2016 Nobel Prize in Literature?",
    "a": "Bob Dylan",
    "p": 200,
-   "apic": "Bob Dylan"
+   "apic": "Bob Dylan",
+   "cpic": "Nobel Prize"
   },
   {
    "q": "Which Fender electric guitar model, launched in 1954, has a double-cutaway body?",
@@ -299,7 +313,8 @@
    "p": 200,
    "alt": [
     "4"
-   ]
+   ],
+   "cpic": "Bass guitar"
   },
   {
    "q": "What is the largest drum in a rock drum kit, played with a foot pedal?",
@@ -326,7 +341,8 @@
    "q": "Who was the lead singer of The Police?",
    "a": "Sting",
    "p": 200,
-   "apic": "Sting (musician)"
+   "apic": "Sting (musician)",
+   "cpic": "The Police"
   },
   {
    "q": "Which English band's members included Pete Townshend and Roger Daltrey?",
@@ -338,7 +354,8 @@
    "q": "Which New Jersey band fronted by Jon Bon Jovi released Slippery When Wet?",
    "a": "Bon Jovi",
    "p": 200,
-   "apic": "Bon Jovi"
+   "apic": "Bon Jovi",
+   "cpic": "New Jersey"
   },
   {
    "q": "Which Aerosmith singer is the father of actress Liv Tyler?",
@@ -359,7 +376,8 @@
   {
    "q": "Which Metallica song from 1986 featured in Stranger Things season 4?",
    "a": "Master of Puppets",
-   "p": 200
+   "p": 200,
+   "cpic": "Stranger Things"
   },
   {
    "q": "Which file-sharing service did Metallica sue in 2000?",
@@ -379,7 +397,8 @@
    "alt": [
     "Cavern Club"
    ],
-   "apic": "Cavern Club"
+   "apic": "Cavern Club",
+   "cpic": "The Beatles (album)"
   },
   {
    "q": "Which band recorded \"Wonderwall\" in 1995?",
@@ -391,7 +410,8 @@
    "q": "Which Linkin Park singer and rapper also produced their songs?",
    "a": "Mike Shinoda",
    "p": 200,
-   "apic": "Mike Shinoda"
+   "apic": "Mike Shinoda",
+   "cpic": "Linkin Park"
   },
   {
    "q": "Which rock band released \"Mr. Brightside\" in 2003?",
@@ -437,7 +457,8 @@
    "q": "Which Arctic Monkeys singer is from Sheffield?",
    "a": "Alex Turner",
    "p": 200,
-   "apic": "Alex Turner"
+   "apic": "Alex Turner",
+   "cpic": "Arctic Monkeys"
   },
   {
    "q": "What is Freddie Mercury's birth name?",
@@ -454,13 +475,15 @@
   {
    "q": "Which Coldplay song from 2002 is built around a cascading piano riff?",
    "a": "Clocks",
-   "p": 200
+   "p": 200,
+   "cpic": "Piano"
   },
   {
    "q": "Which Live Aid performer flew between London and Philadelphia on Concorde to play both shows?",
    "a": "Phil Collins",
    "p": 200,
-   "apic": "Phil Collins"
+   "apic": "Phil Collins",
+   "cpic": "Philadelphia"
   },
   {
    "q": "What foot-operated device do guitarists use to change their sound with effects?",
@@ -498,7 +521,8 @@
    "q": "Who was the Beatles' manager during their rise to fame?",
    "a": "Brian Epstein",
    "p": 200,
-   "apic": "Brian Epstein"
+   "apic": "Brian Epstein",
+   "cpic": "The Beatles (album)"
   },
   {
    "q": "Which record producer is often called the \"Fifth Beatle\"?",
@@ -516,7 +540,8 @@
    "q": "Which band did Paul McCartney form with his wife Linda after the Beatles?",
    "a": "Wings",
    "p": 200,
-   "apic": "Wings (band)"
+   "apic": "Wings (band)",
+   "cpic": "Paul McCartney"
   },
   {
    "q": "Which 2023 song, completed using a John Lennon demo, was billed as the last Beatles song?",
@@ -527,17 +552,20 @@
    "q": "In which German city did the Beatles hone their act in the early 1960s?",
    "a": "Hamburg",
    "p": 200,
-   "apic": "Hamburg"
+   "apic": "Hamburg",
+   "cpic": "The Beatles"
   },
   {
    "q": "Which Beatles song did Paul McCartney write to comfort John Lennon's son Julian?",
    "a": "Hey Jude",
-   "p": 200
+   "p": 200,
+   "cpic": "Paul McCartney"
   },
   {
    "q": "Which Led Zeppelin song about Vikings featured in Thor: Ragnarok?",
    "a": "Immigrant Song",
-   "p": 200
+   "p": 200,
+   "cpic": "Led Zeppelin"
   },
   {
    "q": "Which rapper collaborated with Linkin Park on the 2004 EP Collision Course?",
@@ -552,7 +580,8 @@
    "q": "Which actress was married to Chris Martin from 2003 to 2016?",
    "a": "Gwyneth Paltrow",
    "p": 200,
-   "apic": "Gwyneth Paltrow"
+   "apic": "Gwyneth Paltrow",
+   "cpic": "Chris Martin"
   },
   {
    "q": "Which guitarist, nicknamed \"Slowhand\", was in Cream?",
@@ -570,7 +599,8 @@
    "q": "Which Kiss member, the Demon, is famous for his long tongue?",
    "a": "Gene Simmons",
    "p": 200,
-   "apic": "Gene Simmons"
+   "apic": "Gene Simmons",
+   "cpic": "Kiss (band)"
   },
   {
    "q": "Who was the lead singer of The Doors?",
@@ -587,7 +617,8 @@
   {
    "q": "What is the name of David Bowie's astronaut character in \"Space Oddity\"?",
    "a": "Major Tom",
-   "p": 200
+   "p": 200,
+   "cpic": "David Bowie"
   },
   {
    "q": "In which US city were The Killers formed?",
@@ -609,7 +640,8 @@
    "q": "Which Las Vegas band had the 2012 hit \"Radioactive\"?",
    "a": "Imagine Dragons",
    "p": 200,
-   "apic": "Imagine Dragons"
+   "apic": "Imagine Dragons",
+   "cpic": "Las Vegas"
   },
   {
    "q": "Which English festival is held at Worthy Farm in Somerset?",
@@ -634,7 +666,8 @@
   {
    "q": "What was the name of Brian May and Roger Taylor's band before Queen?",
    "a": "Smile",
-   "p": 400
+   "p": 400,
+   "cpic": "Roger Taylor (Queen drummer)"
   },
   {
    "q": "Who was Queen's drummer?",
@@ -663,7 +696,8 @@
   {
    "q": "Which Queen song did John Deacon write about wanting freedom, famous for its video in drag?",
    "a": "I Want to Break Free",
-   "p": 400
+   "p": 400,
+   "cpic": "John Deacon"
   },
   {
    "q": "What subject did Brian May earn a PhD in?",
@@ -696,7 +730,8 @@
    "alt": [
     "Wembley"
    ],
-   "apic": "Wembley Stadium"
+   "apic": "Wembley Stadium",
+   "cpic": "Freddie Mercury"
   },
   {
    "q": "Which Brazilian festival, first held in 1985, featured Queen among its headliners?",
@@ -720,7 +755,8 @@
    "q": "Who was the Beatles' original drummer before Ringo Starr?",
    "a": "Pete Best",
    "p": 400,
-   "apic": "Pete Best"
+   "apic": "Pete Best",
+   "cpic": "Ringo Starr"
   },
   {
    "q": "Which American TV variety show introduced the Beatles to US audiences in February 1964?",
@@ -729,7 +765,8 @@
    "alt": [
     "Ed Sullivan Show"
    ],
-   "apic": "The Ed Sullivan Show"
+   "apic": "The Ed Sullivan Show",
+   "cpic": "The Beatles"
   },
   {
    "q": "What is the official title of the 1968 Beatles album known as the White Album?",
@@ -741,7 +778,8 @@
    "q": "What was the Beatles' first feature film, released in 1964?",
    "a": "A Hard Day's Night",
    "p": 400,
-   "apic": "A Hard Day's Night (film)"
+   "apic": "A Hard Day's Night (film)",
+   "cpic": "The Beatles"
   },
   {
    "q": "Which record label did the Beatles found in 1968?",
@@ -811,7 +849,8 @@
     "Gibson EDS-1275",
     "Double-neck"
    ],
-   "apic": "Gibson EDS-1275"
+   "apic": "Gibson EDS-1275",
+   "cpic": "Jimmy Page"
   },
   {
    "q": "Which Led Zeppelin song opens with a famous riff and is on Led Zeppelin II?",
@@ -828,7 +867,8 @@
    "q": "Which Pink Floyd bassist was the main creative force behind The Wall?",
    "a": "Roger Waters",
    "p": 400,
-   "apic": "Roger Waters"
+   "apic": "Roger Waters",
+   "cpic": "The Wall"
   },
   {
    "q": "Which Pink Floyd guitarist joined in 1968?",
@@ -840,13 +880,15 @@
    "q": "Which Live Aid organiser starred as Pink in the 1982 film Pink Floyd – The Wall?",
    "a": "Bob Geldof",
    "p": 400,
-   "apic": "Bob Geldof"
+   "apic": "Bob Geldof",
+   "cpic": "The Wall"
   },
   {
    "q": "Which 1975 Pink Floyd album pays tribute to Syd Barrett?",
    "a": "Wish You Were Here",
    "p": 400,
-   "apic": "Wish You Were Here (Pink Floyd album)"
+   "apic": "Wish You Were Here (Pink Floyd album)",
+   "cpic": "Syd Barrett"
   },
   {
    "q": "Pink Floyd filmed a 1972 concert film in the ruins of which ancient Roman city?",
@@ -910,7 +952,8 @@
    "q": "What was Mike Shinoda's hip hop side project, which released \"Remember the Name\"?",
    "a": "Fort Minor",
    "p": 400,
-   "apic": "Fort Minor"
+   "apic": "Fort Minor",
+   "cpic": "Mike Shinoda"
   },
   {
    "q": "Which 2007 Linkin Park album includes \"What I've Done\"?",
@@ -997,7 +1040,8 @@
    "q": "Who replaced Bon Scott as AC/DC's singer?",
    "a": "Brian Johnson",
    "p": 400,
-   "apic": "Brian Johnson"
+   "apic": "Brian Johnson",
+   "cpic": "Bon Scott"
   },
   {
    "q": "Which AC/DC member played rhythm guitar alongside his brother Angus?",
@@ -1043,12 +1087,14 @@
    "q": "Which 1969 rock opera by The Who is about a pinball-playing boy?",
    "a": "Tommy",
    "p": 400,
-   "apic": "Tommy (The Who album)"
+   "apic": "Tommy (The Who album)",
+   "cpic": "The Who"
   },
   {
    "q": "Which Eric Clapton song from 1970 was inspired by a Persian love story?",
    "a": "Layla",
-   "p": 400
+   "p": 400,
+   "cpic": "Eric Clapton"
   },
   {
    "q": "What is the stage name of U2 guitarist David Evans?",
@@ -1090,7 +1136,8 @@
    "q": "What was Oasis's 1994 debut album?",
    "a": "Definitely Maybe",
    "p": 400,
-   "apic": "Definitely Maybe"
+   "apic": "Definitely Maybe",
+   "cpic": "Oasis (band)"
   },
   {
    "q": "Which 1995 Oasis album includes \"Wonderwall\" and \"Don't Look Back in Anger\"?",
@@ -1123,13 +1170,15 @@
    "alt": [
     "★"
    ],
-   "apic": "Blackstar (album)"
+   "apic": "Blackstar (album)",
+   "cpic": "David Bowie"
   },
   {
    "q": "Which Canadian astronaut recorded a cover of \"Space Oddity\" aboard the International Space Station?",
    "a": "Chris Hadfield",
    "p": 400,
-   "apic": "Chris Hadfield"
+   "apic": "Chris Hadfield",
+   "cpic": "International Space Station"
   },
   {
    "q": "Which Genesis singer left in 1975 to go solo?",
@@ -1150,13 +1199,15 @@
    "q": "Which 1979 album by The Clash has a cover showing a bass guitar being smashed?",
    "a": "London Calling",
    "p": 400,
-   "apic": "London Calling"
+   "apic": "London Calling",
+   "cpic": "Bass guitar"
   },
   {
    "q": "Which Green Day album from 1994 broke punk into the mainstream?",
    "a": "Dookie",
    "p": 400,
-   "apic": "Dookie"
+   "apic": "Dookie",
+   "cpic": "Green Day"
   },
   {
    "q": "Which Red Hot Chili Peppers album from 1999 is named after a made-up word about California?",
@@ -1193,7 +1244,8 @@
    "q": "Who is the frontman of Muse?",
    "a": "Matt Bellamy",
    "p": 400,
-   "apic": "Matt Bellamy"
+   "apic": "Matt Bellamy",
+   "cpic": "Muse (band)"
   },
   {
    "q": "Which virtual band was created by Damon Albarn and Jamie Hewlett?",
@@ -1204,13 +1256,15 @@
   {
    "q": "Which Eddie Van Halen instrumental from 1978 showcased his two-handed tapping?",
    "a": "Eruption",
-   "p": 400
+   "p": 400,
+   "cpic": "Eddie Van Halen"
   },
   {
    "q": "Which guitarist played the solo on Michael Jackson's \"Beat It\"?",
    "a": "Eddie Van Halen",
    "p": 400,
-   "apic": "Eddie Van Halen"
+   "apic": "Eddie Van Halen",
+   "cpic": "Michael Jackson"
   },
   {
    "q": "Which German band released the 1990 power ballad \"Wind of Change\"?",
@@ -1228,7 +1282,8 @@
    "q": "In which US city is the Rock and Roll Hall of Fame?",
    "a": "Cleveland",
    "p": 400,
-   "apic": "Cleveland"
+   "apic": "Cleveland",
+   "cpic": "Rock and Roll Hall of Fame"
   },
   {
    "q": "Which foot-operated guitar effect is named after the sound it makes?",
@@ -1250,7 +1305,8 @@
    "q": "Which Black Sabbath guitarist is famous for heavy riffs despite losing fingertips in an accident?",
    "a": "Tony Iommi",
    "p": 400,
-   "apic": "Tony Iommi"
+   "apic": "Tony Iommi",
+   "cpic": "Black Sabbath"
   },
   {
    "q": "In which English city did Black Sabbath form?",
@@ -1280,7 +1336,8 @@
    "q": "Which Seattle record label released Nirvana's first album?",
    "a": "Sub Pop",
    "p": 600,
-   "apic": "Sub Pop"
+   "apic": "Sub Pop",
+   "cpic": "Seattle"
   },
   {
    "q": "What was Pearl Jam's 1991 debut album?",
@@ -1307,7 +1364,8 @@
    "q": "Which supergroup did Slash, Duff McKagan and Matt Sorum form with Scott Weiland?",
    "a": "Velvet Revolver",
    "p": 600,
-   "apic": "Velvet Revolver"
+   "apic": "Velvet Revolver",
+   "cpic": "Slash (musician)"
   },
   {
    "q": "Which 1965 festival saw Bob Dylan controversially \"go electric\"?",
@@ -1316,13 +1374,15 @@
    "alt": [
     "Newport"
    ],
-   "apic": "Newport Folk Festival"
+   "apic": "Newport Folk Festival",
+   "cpic": "Bob Dylan"
   },
   {
    "q": "What was the name of the Indian school town where Freddie Mercury boarded as a boy?",
    "a": "Panchgani",
    "p": 600,
-   "apic": "Panchgani"
+   "apic": "Panchgani",
+   "cpic": "Freddie Mercury"
   },
   {
    "q": "At which London art college did Freddie Mercury study graphic design?",
@@ -1346,7 +1406,8 @@
    "alt": [
     "Knebworth"
    ],
-   "apic": "Knebworth House"
+   "apic": "Knebworth House",
+   "cpic": "Freddie Mercury"
   },
   {
    "q": "Which Free and Bad Company singer toured with Queen from 2004 to 2009?",
@@ -1386,7 +1447,8 @@
    "p": 600,
    "alt": [
     "Hofner"
-   ]
+   ],
+   "cpic": "Paul McCartney"
   },
   {
    "q": "Which George Harrison-organised 1971 concert raised money for refugees?",
@@ -1395,7 +1457,8 @@
    "alt": [
     "Concert for Bangladesh"
    ],
-   "apic": "The Concert for Bangladesh"
+   "apic": "The Concert for Bangladesh",
+   "cpic": "George Harrison"
   },
   {
    "q": "Which British honour did the Beatles receive in 1965?",
@@ -1449,7 +1512,8 @@
    "q": "Which bluegrass singer won Album of the Year Grammy with Robert Plant for Raising Sand?",
    "a": "Alison Krauss",
    "p": 600,
-   "apic": "Alison Krauss"
+   "apic": "Alison Krauss",
+   "cpic": "Robert Plant"
   },
   {
    "q": "Which two blues musicians' first names gave Pink Floyd their name?",
@@ -1486,7 +1550,8 @@
   {
    "q": "Which London school's pupils sang on \"Another Brick in the Wall, Part 2\"?",
    "a": "Islington Green School",
-   "p": 600
+   "p": 600,
+   "cpic": "The Wall"
   },
   {
    "q": "What was Pink Floyd's 1994 album, their last with new songs before a long break?",
@@ -1498,7 +1563,8 @@
    "q": "In which small Washington town did Kurt Cobain grow up?",
    "a": "Aberdeen",
    "p": 600,
-   "apic": "Aberdeen, Washington"
+   "apic": "Aberdeen, Washington",
+   "cpic": "Kurt Cobain"
   },
   {
    "q": "Who produced Nirvana's Nevermind?",
@@ -1527,7 +1593,8 @@
    "q": "Which Rage Against the Machine member fronted the band as singer?",
    "a": "Zack de la Rocha",
    "p": 600,
-   "apic": "Zack de la Rocha"
+   "apic": "Zack de la Rocha",
+   "cpic": "Rage Against the Machine"
   },
   {
    "q": "What was Linkin Park's original band name?",
@@ -1614,7 +1681,8 @@
   {
    "q": "What was Metallica's 1999 live album with the San Francisco Symphony?",
    "a": "S&M",
-   "p": 600
+   "p": 600,
+   "cpic": "San Francisco"
   },
   {
    "q": "Which 2004 documentary followed Metallica through group therapy sessions?",
@@ -1632,7 +1700,8 @@
    "q": "Which band completes the thrash metal \"Big Four\" with Metallica, Megadeth and Slayer?",
    "a": "Anthrax",
    "p": 600,
-   "apic": "Anthrax (American band)"
+   "apic": "Anthrax (American band)",
+   "cpic": "Megadeth"
   },
   {
    "q": "AC/DC took their name from a label on what household item?",
@@ -1714,7 +1783,8 @@
    "q": "In which city did Black Sabbath play their 2025 farewell concert, Back to the Beginning?",
    "a": "Birmingham",
    "p": 600,
-   "apic": "Birmingham"
+   "apic": "Birmingham",
+   "cpic": "Black Sabbath"
   },
   {
    "q": "Which Dire Straits song was the first video shown on MTV Europe in 1987?",
@@ -1724,7 +1794,8 @@
   {
    "q": "Which Chris Cornell song was the theme for the 2006 Bond film Casino Royale?",
    "a": "You Know My Name",
-   "p": 600
+   "p": 600,
+   "cpic": "Chris Cornell"
   },
   {
    "q": "At which English stately home did Oasis play two huge concerts in 1996?",
@@ -1739,7 +1810,8 @@
    "q": "Which 2006 Arctic Monkeys debut album has a very long title starting \"Whatever People Say I Am\"?",
    "a": "Whatever People Say I Am, That's What I'm Not",
    "p": 600,
-   "apic": "Whatever People Say I Am, That's What I'm Not"
+   "apic": "Whatever People Say I Am, That's What I'm Not",
+   "cpic": "Arctic Monkeys"
   },
   {
    "q": "Which Armenian-American metal band released Toxicity in 2001?",
@@ -1757,7 +1829,8 @@
    "q": "Which band had the 2006 hit \"Supermassive Black Hole\", used in Twilight?",
    "a": "Muse",
    "p": 600,
-   "apic": "Muse (band)"
+   "apic": "Muse (band)",
+   "cpic": "Black hole"
   },
   {
    "q": "Which Who bassist was nicknamed \"The Ox\"?",
@@ -1810,13 +1883,15 @@
   {
    "q": "Which Beatles song was the first track on Abbey Road?",
    "a": "Come Together",
-   "p": 600
+   "p": 600,
+   "cpic": "Abbey Road"
   },
   {
    "q": "Which Live Aid act performed in Philadelphia with Phil Collins on drums?",
    "a": "Led Zeppelin",
    "p": 600,
-   "apic": "Led Zeppelin"
+   "apic": "Led Zeppelin",
+   "cpic": "Philadelphia"
   }
  ]
 }

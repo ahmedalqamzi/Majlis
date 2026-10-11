@@ -9,7 +9,8 @@
    "alt": [
     "Bulls"
    ],
-   "apic": "Chicago Bulls"
+   "apic": "Chicago Bulls",
+   "cpic": "Michael Jordan"
   },
   {
    "q": "Which player is nicknamed 'King James'?",
@@ -32,7 +33,8 @@
   {
    "q": "What jersey number did Michael Jordan famously wear for the Bulls?",
    "a": "23",
-   "p": 200
+   "p": 200,
+   "cpic": "Michael Jordan"
   },
   {
    "q": "Which New York team plays at Madison Square Garden?",
@@ -41,7 +43,8 @@
    "alt": [
     "Knicks"
    ],
-   "apic": "New York Knicks"
+   "apic": "New York Knicks",
+   "cpic": "Madison Square Garden"
   },
   {
    "q": "Which team won the 2016 title after coming back from 3-1 down in the Finals?",
@@ -138,7 +141,8 @@
    "alt": [
     "Bird"
    ],
-   "apic": "Larry Bird"
+   "apic": "Larry Bird",
+   "cpic": "Magic Johnson"
   },
   {
    "q": "Which team did LeBron James join in 2010 in a TV special called 'The Decision'?",
@@ -147,7 +151,8 @@
    "alt": [
     "Heat"
    ],
-   "apic": "Miami Heat"
+   "apic": "Miami Heat",
+   "cpic": "LeBron James"
   },
   {
    "q": "Which Serbian centre is nicknamed 'The Joker'?",
@@ -218,7 +223,8 @@
    "alt": [
     "Klay"
    ],
-   "apic": "Klay Thompson"
+   "apic": "Klay Thompson",
+   "cpic": "Stephen Curry"
   },
   {
    "q": "The 2020 documentary series 'The Last Dance' followed which team's 1997-98 season?",
@@ -263,7 +269,8 @@
    "alt": [
     "Raptors"
    ],
-   "apic": "Toronto Raptors"
+   "apic": "Toronto Raptors",
+   "cpic": "United States"
   },
   {
    "q": "Which Lakers centre was born Lew Alcindor?",
@@ -280,7 +287,8 @@
    "a": "Etihad Arena",
    "p": 200,
    "ar": "الاتحاد أرينا",
-   "apic": "Etihad Arena"
+   "apic": "Etihad Arena",
+   "cpic": "Yas Island"
   },
   {
    "q": "Which team picked LeBron James first overall in the 2003 draft?",
@@ -290,7 +298,8 @@
     "Cavaliers",
     "Cavs"
    ],
-   "apic": "Cleveland Cavaliers"
+   "apic": "Cleveland Cavaliers",
+   "cpic": "LeBron James"
   },
   {
    "q": "What is the height of an NBA rim above the floor, to the nearest centimetre?",
@@ -383,7 +392,8 @@
    "alt": [
     "Raptors"
    ],
-   "apic": "Toronto Raptors"
+   "apic": "Toronto Raptors",
+   "cpic": "Kobe Bryant"
   },
   {
    "q": "Which team picked Michael Jordan third overall in the 1984 draft?",
@@ -392,7 +402,8 @@
    "alt": [
     "Bulls"
    ],
-   "apic": "Chicago Bulls"
+   "apic": "Chicago Bulls",
+   "cpic": "Michael Jordan"
   },
   {
    "q": "Which Nigerian-born centre was picked first in 1984, ahead of Michael Jordan?",
@@ -445,7 +456,8 @@
   {
    "q": "What was the 1995-96 Chicago Bulls' regular-season win-loss record?",
    "a": "72-10",
-   "p": 400
+   "p": 400,
+   "cpic": "Chicago Bulls"
   },
   {
    "q": "Which Bulls star won the 1996 and 1998 MVP awards?",
@@ -528,7 +540,8 @@
    "alt": [
     "Warriors"
    ],
-   "apic": "Golden State Warriors"
+   "apic": "Golden State Warriors",
+   "cpic": "Stephen Curry"
   },
   {
    "q": "Which team drafted Victor Wembanyama first overall in 2023?",
@@ -556,7 +569,8 @@
     "Seattle SuperSonics",
     "Sonics"
    ],
-   "apic": "Seattle SuperSonics"
+   "apic": "Seattle SuperSonics",
+   "cpic": "Oklahoma City"
   },
   {
    "q": "Which coach won 11 NBA titles with the Bulls and Lakers?",
@@ -584,7 +598,8 @@
    "alt": [
     "Kareem"
    ],
-   "apic": "Kareem Abdul-Jabbar"
+   "apic": "Kareem Abdul-Jabbar",
+   "cpic": "LeBron James"
   },
   {
    "q": "Which Heat guard hit a famous corner three to force overtime in Game 6 of the 2013 Finals?",
@@ -618,7 +633,8 @@
     "Popovich",
     "Pop"
    ],
-   "apic": "Gregg Popovich"
+   "apic": "Gregg Popovich",
+   "cpic": "San Antonio"
   },
   {
    "q": "Who coached the 1992 Dream Team?",
@@ -645,7 +661,8 @@
    "alt": [
     "Hornets"
    ],
-   "apic": "Charlotte Hornets"
+   "apic": "Charlotte Hornets",
+   "cpic": "Kobe Bryant"
   },
   {
    "q": "Which team drafted Dirk Nowitzki ninth in 1998 before trading him to Dallas?",
@@ -654,7 +671,8 @@
    "alt": [
     "Bucks"
    ],
-   "apic": "Milwaukee Bucks"
+   "apic": "Milwaukee Bucks",
+   "cpic": "Dirk Nowitzki"
   },
   {
    "q": "In which round of the 2014 draft were the Denver Nuggets able to pick Nikola Jokić?",
@@ -663,7 +681,8 @@
    "alt": [
     "Second",
     "41st pick"
-   ]
+   ],
+   "cpic": "Nikola Jokić"
   },
   {
    "q": "Which player was picked second in 1984, between Olajuwon and Jordan?",
@@ -787,7 +806,8 @@
    "q": "In which city were the Lakers based before moving to Los Angeles in 1960?",
    "a": "Minneapolis",
    "p": 600,
-   "apic": "Minneapolis"
+   "apic": "Minneapolis",
+   "cpic": "Los Angeles"
   },
   {
    "q": "Which Celtics coach was famous for lighting a victory cigar?",
@@ -810,7 +830,8 @@
   {
    "q": "What name is given to the 2004 brawl between the Pacers, Pistons and fans near Detroit?",
    "a": "Malice at the Palace",
-   "p": 600
+   "p": 600,
+   "cpic": "Detroit"
   },
   {
    "q": "Which two teams played the first NBA games in the UAE in October 2022?",
@@ -897,7 +918,8 @@
    "alt": [
     "Warriors"
    ],
-   "apic": "Golden State Warriors"
+   "apic": "Golden State Warriors",
+   "cpic": "Oklahoma City"
   },
   {
    "q": "What does NBA stand for?",
@@ -1110,7 +1132,8 @@
    "alt": [
     "Bosh"
    ],
-   "apic": "Chris Bosh"
+   "apic": "Chris Bosh",
+   "cpic": "Dwyane Wade"
   },
   {
    "q": "Which Nuggets centre was Finals MVP in 2023?",
@@ -1386,7 +1409,8 @@
    "p": 400,
    "alt": [
     "NBA Finals Most Valuable Player"
-   ]
+   ],
+   "cpic": "Bill Russell"
   },
   {
    "q": "What is the NBA's official development league called?",
@@ -1425,12 +1449,14 @@
   {
    "q": "Which year's draft class included Kobe Bryant, Allen Iverson, Steve Nash and Ray Allen?",
    "a": "1996",
-   "p": 400
+   "p": 400,
+   "cpic": "Allen Iverson"
   },
   {
    "q": "Which year's draft class included LeBron James, Dwyane Wade, Chris Bosh and Carmelo Anthony?",
    "a": "2003",
-   "p": 400
+   "p": 400,
+   "cpic": "Dwyane Wade"
   },
   {
    "q": "Which team drafted Shaquille O'Neal first overall in 1992?",
@@ -1439,7 +1465,8 @@
    "alt": [
     "Magic"
    ],
-   "apic": "Orlando Magic"
+   "apic": "Orlando Magic",
+   "cpic": "Shaquille O'Neal"
   },
   {
    "q": "Which team drafted Tim Duncan first overall in 1997?",
@@ -1448,7 +1475,8 @@
    "alt": [
     "Spurs"
    ],
-   "apic": "San Antonio Spurs"
+   "apic": "San Antonio Spurs",
+   "cpic": "Tim Duncan"
   },
   {
    "q": "In which city do the Utah Jazz play?",
@@ -1607,7 +1635,8 @@
    "p": 600,
    "alt": [
     "Eight"
-   ]
+   ],
+   "cpic": "Bill Russell"
   },
   {
    "q": "Which Lithuanian centre joined the Trail Blazers in 1995 after years in Europe?",
@@ -1626,7 +1655,8 @@
     "Drazen Petrovic",
     "Petrovic"
    ],
-   "apic": "Dražen Petrović"
+   "apic": "Dražen Petrović",
+   "cpic": "New Jersey"
   },
   {
    "q": "Which old Lakers arena in Inglewood was nicknamed 'The Fabulous Forum'?",
@@ -1673,7 +1703,8 @@
   {
    "q": "What nickname was given to the high-flying Clippers of Chris Paul and Blake Griffin?",
    "a": "Lob City",
-   "p": 600
+   "p": 600,
+   "cpic": "Chris Paul"
   },
   {
    "q": "What was the nickname of the Warriors trio of Tim Hardaway, Mitch Richmond and Chris Mullin?",
@@ -1686,7 +1717,8 @@
    "p": 600,
    "alt": [
     "The Twin Towers"
-   ]
+   ],
+   "cpic": "David Robinson (basketball)"
   },
   {
    "q": "Which Lakers rookie started at centre and scored 42 points in Game 6 of the 1980 Finals?",
@@ -1724,7 +1756,8 @@
    "alt": [
     "Silver"
    ],
-   "apic": "Adam Silver"
+   "apic": "Adam Silver",
+   "cpic": "David Stern"
   },
   {
    "q": "Which Dream Team member was its leading scorer at Barcelona 1992?",
@@ -1766,7 +1799,8 @@
     "76ers",
     "Sixers"
    ],
-   "apic": "Philadelphia 76ers"
+   "apic": "Philadelphia 76ers",
+   "cpic": "Allen Iverson"
   },
   {
    "q": "Which team drafted Magic Johnson first overall in 1979?",
@@ -1775,7 +1809,8 @@
    "alt": [
     "Lakers"
    ],
-   "apic": "Los Angeles Lakers"
+   "apic": "Los Angeles Lakers",
+   "cpic": "Magic Johnson"
   },
   {
    "q": "Which team drafted Patrick Ewing first overall in 1985?",
@@ -1793,7 +1828,8 @@
    "alt": [
     "Oden"
    ],
-   "apic": "Greg Oden"
+   "apic": "Greg Oden",
+   "cpic": "Kevin Durant"
   },
   {
    "q": "Which team drafted Kevin Durant second overall in 2007?",
@@ -1803,7 +1839,8 @@
     "SuperSonics",
     "Sonics"
    ],
-   "apic": "Seattle SuperSonics"
+   "apic": "Seattle SuperSonics",
+   "cpic": "Kevin Durant"
   },
   {
    "q": "Which Serbian centre was drafted second in 2003, between LeBron James and Carmelo Anthony?",
@@ -1823,7 +1860,8 @@
     "Cavaliers",
     "Cavs"
    ],
-   "apic": "Cleveland Cavaliers"
+   "apic": "Cleveland Cavaliers",
+   "cpic": "Kyrie Irving"
   },
   {
    "q": "Which guard was Shaquille O'Neal's star teammate on the 1990s Orlando Magic?",
@@ -1833,7 +1871,8 @@
     "Anfernee Hardaway",
     "Hardaway"
    ],
-   "apic": "Penny Hardaway"
+   "apic": "Penny Hardaway",
+   "cpic": "Shaquille O'Neal"
   },
   {
    "q": "In which city do the Timberwolves play?",

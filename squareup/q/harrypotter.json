@@ -75,12 +75,14 @@
    "p": 200,
    "alt": [
     "Snitch"
-   ]
+   ],
+   "cpic": "Quidditch"
   },
   {
    "q": "Which Quidditch position does Harry play?",
    "a": "Seeker",
-   "p": 200
+   "p": 200,
+   "cpic": "Quidditch"
   },
   {
    "q": "What is the name of the half-giant gamekeeper at Hogwarts?",
@@ -224,7 +226,8 @@
   {
    "q": "What is the name of the three-headed dog guarding the Philosopher's Stone?",
    "a": "Fluffy",
-   "p": 200
+   "p": 200,
+   "cpic": "Philosopher's stone"
   },
   {
    "q": "Who is Harry's red-haired best friend?",
@@ -500,7 +503,8 @@
    "p": 200,
    "alt": [
     "7"
-   ]
+   ],
+   "cpic": "Quidditch"
   },
   {
    "q": "What is the student group Harry leads in Order of the Phoenix called?",
@@ -602,7 +606,8 @@
    "p": 400,
    "alt": [
     "Witherwings"
-   ]
+   ],
+   "cpic": "Hippogriff"
   },
   {
    "q": "What is the name for an object holding a piece of a dark wizard's soul?",
@@ -927,7 +932,8 @@
    "alt": [
     "The diary",
     "Diary"
-   ]
+   ],
+   "cpic": "Basilisk"
   },
   {
    "q": "Which Weasley destroys Slytherin's locket?",
@@ -1036,7 +1042,8 @@
    "p": 400,
    "alt": [
     "Wizard chess"
-   ]
+   ],
+   "cpic": "Philosopher's stone"
   },
   {
    "q": "Which hidden room at Hogwarts appears only when someone truly needs it?",
@@ -1175,7 +1182,8 @@
    "alt": [
     "Grindelwald"
    ],
-   "apic": "Gellert Grindelwald"
+   "apic": "Gellert Grindelwald",
+   "cpic": "Mads Mikkelsen"
   },
   {
    "q": "In which city is the first Fantastic Beasts film set?",
@@ -1534,7 +1542,8 @@
   {
    "q": "Under which pen name does J.K. Rowling write crime novels?",
    "a": "Robert Galbraith",
-   "p": 600
+   "p": 600,
+   "cpic": "J. K. Rowling"
   },
   {
    "q": "Which spell conjures the Dark Mark?",

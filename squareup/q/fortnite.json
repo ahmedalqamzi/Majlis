@@ -117,7 +117,8 @@
    "q": "Who is the CEO and founder of Epic Games?",
    "a": "Tim Sweeney",
    "p": 200,
-   "apic": "Tim Sweeney (game developer)"
+   "apic": "Tim Sweeney (game developer)",
+   "cpic": "Epic Games"
   },
   {
    "q": "In which year was Fortnite Battle Royale released?",
@@ -243,13 +244,15 @@
    "q": "In which US state is Epic Games headquartered?",
    "a": "North Carolina",
    "p": 400,
-   "apic": "North Carolina"
+   "apic": "North Carolina",
+   "cpic": "Epic Games"
   },
   {
    "q": "In which North Carolina city is Epic Games headquartered?",
    "a": "Cary",
    "p": 400,
-   "apic": "Cary, North Carolina"
+   "apic": "Cary, North Carolina",
+   "cpic": "North Carolina"
   },
   {
    "q": "Which hero class in Save the World focuses on building and defending?",
@@ -382,7 +385,8 @@
   {
    "q": "In which year did the Epic Games Store launch?",
    "a": "2018",
-   "p": 400
+   "p": 400,
+   "cpic": "Epic Games"
   },
   {
    "q": "Which ball-shaped vehicle seats one player and rolls across the map?",
@@ -463,7 +467,8 @@
   {
    "q": "What was Epic Games originally called when Tim Sweeney founded it?",
    "a": "Potomac Computer Systems",
-   "p": 600
+   "p": 600,
+   "cpic": "Tim Sweeney (game developer)"
   },
   {
    "q": "What was the company renamed to in 1992?",
@@ -516,7 +521,8 @@
    "alt": [
     "October 13 2019",
     "13 October"
-   ]
+   ],
+   "cpic": "Black hole"
   },
   {
    "q": "What is the name of the first season of Chapter 3?",
@@ -533,7 +539,8 @@
    "q": "Which studio did Epic acquire in 2019, known for Rocket League?",
    "a": "Psyonix",
    "p": 600,
-   "apic": "Psyonix"
+   "apic": "Psyonix",
+   "cpic": "Rocket League"
   },
   {
    "q": "What was the title of Epic's 2020 parody ad about Apple?",
@@ -737,7 +744,8 @@
    "alt": [
     "Naruto Uzumaki"
    ],
-   "apic": "Naruto Uzumaki"
+   "apic": "Naruto Uzumaki",
+   "cpic": "Ninja (gamer)"
   },
   {
    "q": "Which Halo super-soldier became a Fortnite outfit in December 2020?",
@@ -760,7 +768,8 @@
    "q": "Which Keanu Reeves action hero got an official Fortnite outfit in 2019?",
    "a": "John Wick",
    "p": 200,
-   "apic": "John Wick (character)"
+   "apic": "John Wick (character)",
+   "cpic": "Keanu Reeves"
   },
   {
    "q": "Which supermarket item could players ride downhill as a vehicle in Chapter 1?",
@@ -928,7 +937,8 @@
    "q": "Which Canadian rapper's 2018 Twitch stream with Ninja broke viewing records at the time?",
    "a": "Drake",
    "p": 400,
-   "apic": "Drake (musician)"
+   "apic": "Drake (musician)",
+   "cpic": "Ninja (gamer)"
   },
   {
    "q": "In Save the World, what structure protects the player's base from the storm?",

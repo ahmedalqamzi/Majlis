@@ -5,7 +5,8 @@
   {
    "q": "What name is given to any match between Real Madrid and Barcelona?",
    "a": "El Clasico",
-   "p": 200
+   "p": 200,
+   "cpic": "Barcelona"
   },
   {
    "q": "Which Catalan club uses the motto 'Mes que un club' (More than a club)?",
@@ -24,7 +25,8 @@
    "alt": [
     "Messi"
    ],
-   "apic": "Lionel Messi"
+   "apic": "Lionel Messi",
+   "cpic": "Barcelona"
   },
   {
    "q": "Which Portuguese star joined Real Madrid from Manchester United in 2009?",
@@ -40,7 +42,8 @@
    "q": "What is the name of Barcelona's famous youth academy?",
    "a": "La Masia",
    "p": 200,
-   "apic": "La Masia"
+   "apic": "La Masia",
+   "cpic": "Barcelona"
   },
   {
    "q": "Which Madrid club plays its home games at the Metropolitano?",
@@ -129,7 +132,8 @@
    "alt": [
     "Bellingham"
    ],
-   "apic": "Jude Bellingham"
+   "apic": "Jude Bellingham",
+   "cpic": "Borussia Dortmund"
   },
   {
    "q": "Which England captain joined Real Madrid from Manchester United in 2003?",
@@ -171,7 +175,8 @@
    "alt": [
     "PSG"
    ],
-   "apic": "Paris Saint-Germain FC"
+   "apic": "Paris Saint-Germain FC",
+   "cpic": "Lionel Messi"
   },
   {
    "q": "Which Real Madrid and Spain goalkeeper was nicknamed 'San Iker' (Saint Iker)?",
@@ -270,7 +275,8 @@
    "alt": [
     "Ramos"
    ],
-   "apic": "Sergio Ramos"
+   "apic": "Sergio Ramos",
+   "cpic": "Seville"
   },
   {
    "q": "Which Barcelona midfield legend, who wore number 6, coached the club from 2021 to 2024?",
@@ -298,7 +304,8 @@
     "Pig",
     "Pig's head"
    ],
-   "apic": "Pig"
+   "apic": "Pig",
+   "cpic": "Luís Figo"
   },
   {
    "q": "What is the name of the award for La Liga's top scorer?",
@@ -324,7 +331,8 @@
    "p": 200,
    "alt": [
     "King's Cup"
-   ]
+   ],
+   "cpic": "Copa del Rey"
   },
   {
    "q": "In which country has the four-team Supercopa de Espana mostly been played since 2020?",
@@ -428,7 +436,8 @@
    "p": 200,
    "alt": [
     "Los Galacticos"
-   ]
+   ],
+   "cpic": "Ronaldo (Brazilian footballer)"
   },
   {
    "q": "Which Dubai airline's name appears on Real Madrid's shirts?",
@@ -443,7 +452,8 @@
   {
    "q": "What three-letter nickname was given to Barcelona's front three of Messi, Suarez and Neymar?",
    "a": "MSN",
-   "p": 200
+   "p": 200,
+   "cpic": "Neymar"
   },
   {
    "q": "What Spanish nickname, meaning 'the Flea', was given to Lionel Messi?",
@@ -451,7 +461,8 @@
    "p": 200,
    "alt": [
     "Pulga"
-   ]
+   ],
+   "cpic": "Lionel Messi"
   },
   {
    "q": "What name is given to the short-passing style associated with Barcelona and Spain?",
@@ -554,7 +565,8 @@
    "alt": [
     "Betis"
    ],
-   "apic": "Real Betis"
+   "apic": "Real Betis",
+   "cpic": "Seville"
   },
   {
    "q": "In which city do Real Sociedad play?",
@@ -607,7 +619,8 @@
     "Montjuic Olympic Stadium",
     "Olympic Stadium"
    ],
-   "apic": "Estadi Olímpic Lluís Companys"
+   "apic": "Estadi Olímpic Lluís Companys",
+   "cpic": "Camp Nou"
   },
   {
    "q": "In what year was Real Madrid founded?",
@@ -617,7 +630,8 @@
   {
    "q": "In what year was FC Barcelona founded?",
    "a": "1899",
-   "p": 400
+   "p": 400,
+   "cpic": "FC Barcelona"
   },
   {
    "q": "Which Swiss-born founder established FC Barcelona?",
@@ -626,7 +640,8 @@
    "alt": [
     "Hans Gamper"
    ],
-   "apic": "Joan Gamper"
+   "apic": "Joan Gamper",
+   "cpic": "FC Barcelona"
   },
   {
    "q": "Which club is nicknamed 'Los Leones' (the Lions)?",
@@ -667,7 +682,8 @@
    "p": 400,
    "alt": [
     "Betis and Sevilla"
-   ]
+   ],
+   "cpic": "Seville"
   },
   {
    "q": "Which two clubs contest the Basque derby?",
@@ -865,7 +881,8 @@
    "alt": [
     "Suarez"
    ],
-   "apic": "Luis Suárez"
+   "apic": "Luis Suárez",
+   "cpic": "Ronaldo (Brazilian footballer)"
   },
   {
    "q": "Who won the 2024-25 Pichichi Trophy in his debut season at Real Madrid?",
@@ -902,7 +919,8 @@
    "alt": [
     "Valencia CF"
    ],
-   "apic": "Valencia CF"
+   "apic": "Valencia CF",
+   "cpic": "Rafael Benítez"
   },
   {
    "q": "How many consecutive La Liga titles did Cruyff's 'Dream Team' win from 1990-91?",
@@ -972,7 +990,8 @@
    "alt": [
     "Athletic Club"
    ],
-   "apic": "Athletic Bilbao"
+   "apic": "Athletic Bilbao",
+   "cpic": "Copa del Rey"
   },
   {
    "q": "Which Seville club won the 2022 Copa del Rey on penalties against Valencia?",
@@ -981,7 +1000,8 @@
    "alt": [
     "Betis"
    ],
-   "apic": "Real Betis"
+   "apic": "Real Betis",
+   "cpic": "Copa del Rey"
   },
   {
    "q": "Which club beat Athletic Bilbao in the delayed 2020 Copa del Rey final, the first all-Basque final in decades?",
@@ -1069,7 +1089,8 @@
    "q": "Which Brazilian left-back succeeded Roberto Carlos at Real Madrid and stayed until 2022?",
    "a": "Marcelo",
    "p": 200,
-   "apic": "Marcelo (footballer, born 1988)"
+   "apic": "Marcelo (footballer, born 1988)",
+   "cpic": "Roberto Carlos"
   },
   {
    "q": "Which Brazilian defensive midfielder anchored Real Madrid from 2013 until joining Manchester United in 2022?",
@@ -1132,7 +1153,8 @@
    "q": "From which Italian club did Real Madrid sign Zinedine Zidane in 2001?",
    "a": "Juventus",
    "p": 400,
-   "apic": "Juventus FC"
+   "apic": "Juventus FC",
+   "cpic": "Zinedine Zidane"
   },
   {
    "q": "Which Spain striker moved from Valencia to Barcelona in 2010?",
@@ -1154,7 +1176,8 @@
    "q": "Which Japanese club did Andres Iniesta join after leaving Barcelona in 2018?",
    "a": "Vissel Kobe",
    "p": 200,
-   "apic": "Vissel Kobe"
+   "apic": "Vissel Kobe",
+   "cpic": "Andrés Iniesta"
   },
   {
    "q": "Which Real Madrid president launched the 'Galacticos' policy in 2000?",
@@ -1183,7 +1206,8 @@
    "q": "Which music streaming company's name was added to the Camp Nou in 2022?",
    "a": "Spotify",
    "p": 200,
-   "apic": "Spotify"
+   "apic": "Spotify",
+   "cpic": "Camp Nou"
   },
   {
    "q": "Which video game publisher became La Liga's title sponsor in 2023?",
@@ -1208,7 +1232,8 @@
    "alt": [
     "Sir Bobby Robson"
    ],
-   "apic": "Bobby Robson"
+   "apic": "Bobby Robson",
+   "cpic": "José Mourinho"
   },
   {
    "q": "Which coach, nicknamed 'Zapatones', is an Atletico legend and led Spain to Euro 2008?",
@@ -1241,7 +1266,8 @@
    "alt": [
     "AS Roma"
    ],
-   "apic": "AS Roma"
+   "apic": "AS Roma",
+   "cpic": "José Mourinho"
   },
   {
    "q": "Which English club did Villarreal beat 11-10 on penalties in the 2021 Europa League final?",
@@ -1485,7 +1511,8 @@
    "p": 600,
    "alt": [
     "Thirty-eight"
-   ]
+   ],
+   "cpic": "Hugo Sánchez"
   },
   {
    "q": "How many league goals did Cristiano Ronaldo score in his 2014-15 Pichichi-winning season?",
@@ -1493,7 +1520,8 @@
    "p": 600,
    "alt": [
     "Forty-eight"
-   ]
+   ],
+   "cpic": "Cristiano Ronaldo"
   },
   {
    "q": "The Pichichi Trophy is named after a striker from which club?",
@@ -1516,7 +1544,8 @@
    "p": 600,
    "alt": [
     "Ninety-one"
-   ]
+   ],
+   "cpic": "Lionel Messi"
   },
   {
    "q": "How many points did Real Madrid finish with when they won La Liga in 2011-12?",
@@ -1529,7 +1558,8 @@
   {
    "q": "Against which club did Messi score his first Barcelona goal in May 2005, from a Ronaldinho assist?",
    "a": "Albacete",
-   "p": 600
+   "p": 600,
+   "cpic": "Ronaldinho"
   },
   {
    "q": "Under what name did Atletico Madrid win the 1939-40 and 1940-41 titles?",
@@ -1677,7 +1707,8 @@
    "q": "Which club did Alfredo Di Stefano coach to the 1970-71 La Liga title?",
    "a": "Valencia",
    "p": 600,
-   "apic": "Valencia CF"
+   "apic": "Valencia CF",
+   "cpic": "Alfredo Di Stéfano"
   },
   {
    "q": "Which Hungarian-born forward is honoured by a statue outside the Camp Nou?",
@@ -1686,7 +1717,8 @@
    "alt": [
     "Kubala"
    ],
-   "apic": "László Kubala"
+   "apic": "László Kubala",
+   "cpic": "Camp Nou"
   },
   {
    "q": "Which Real Madrid left winger won six European Cups and was nicknamed 'La Galerna del Cantabrico'?",
@@ -1968,7 +2000,8 @@
   {
    "q": "In what year did the Santiago Bernabeu stadium open?",
    "a": "1947",
-   "p": 600
+   "p": 600,
+   "cpic": "Santiago Bernabéu Stadium"
   },
   {
    "q": "Leganes players are nicknamed 'Pepineros' after which vegetable once grown in the town?",
@@ -1986,7 +2019,8 @@
    "alt": [
     "Abanca-Balaidos"
    ],
-   "apic": "Balaídos"
+   "apic": "Balaídos",
+   "cpic": "Vigo"
   },
   {
    "q": "What is the name of Deportivo La Coruna's stadium?",
@@ -2066,7 +2100,8 @@
    "alt": [
     "Rulli"
    ],
-   "apic": "Gerónimo Rulli"
+   "apic": "Gerónimo Rulli",
+   "cpic": "David de Gea"
   },
   {
    "q": "Which Colombian scored twice in the all-Spanish 2012 Europa League final for Atletico?",
@@ -2097,7 +2132,8 @@
    "a": "Nayim",
    "p": 600,
    "ar": "نايم",
-   "apic": "Nayim"
+   "apic": "Nayim",
+   "cpic": "David Seaman"
   },
   {
    "q": "Which French club did Valencia beat in the 2004 UEFA Cup final?",
@@ -2156,7 +2192,8 @@
    "q": "Which Italian club did Cristiano Ronaldo join from Real Madrid in 2018?",
    "a": "Juventus",
    "p": 200,
-   "apic": "Juventus FC"
+   "apic": "Juventus FC",
+   "cpic": "Cristiano Ronaldo"
   },
   {
    "q": "What is the title of Real Madrid's anthem, a chant meaning 'Come on Madrid'?",
@@ -2263,7 +2300,8 @@
    "q": "Which Spanish club signed Luka Modric from Tottenham in 2012?",
    "a": "Real Madrid",
    "p": 200,
-   "apic": "Real Madrid CF"
+   "apic": "Real Madrid CF",
+   "cpic": "Luka Modrić"
   },
   {
    "q": "Which La Liga club is tennis legend Rafael Nadal famously a fan of?",
@@ -2288,7 +2326,8 @@
    "alt": [
     "Atletico"
    ],
-   "apic": "Atlético Madrid"
+   "apic": "Atlético Madrid",
+   "cpic": "Sergio Agüero"
   },
   {
    "q": "Which Spanish midfielder moved from Liverpool to Real Madrid in 2009?",
@@ -2312,13 +2351,15 @@
    "q": "Which country does Karim Benzema represent?",
    "a": "France",
    "p": 200,
-   "apic": "France"
+   "apic": "France",
+   "cpic": "Karim Benzema"
   },
   {
    "q": "Which country does Robert Lewandowski represent?",
    "a": "Poland",
    "p": 200,
-   "apic": "Poland"
+   "apic": "Poland",
+   "cpic": "Robert Lewandowski"
   },
   {
    "q": "Which Spanish goalkeeper left Atletico Madrid for Manchester United in 2011?",
@@ -2341,7 +2382,8 @@
    "p": 200,
    "alt": [
     "Seven"
-   ]
+   ],
+   "cpic": "Cristiano Ronaldo"
   },
   {
    "q": "What shirt number did Lionel Messi wear at Barcelona from 2008?",
@@ -2361,7 +2403,8 @@
    "q": "Which English club did Fernando Torres join from Atletico in 2007?",
    "a": "Liverpool",
    "p": 200,
-   "apic": "Liverpool F.C."
+   "apic": "Liverpool F.C.",
+   "cpic": "Fernando Torres"
   },
   {
    "q": "Which Italian club did Ronaldo Nazario join from Barcelona in 1997?",
@@ -2371,7 +2414,8 @@
     "Inter",
     "Internazionale"
    ],
-   "apic": "Inter Milan"
+   "apic": "Inter Milan",
+   "cpic": "Ronaldo (Brazilian footballer)"
   },
   {
    "q": "Which French forward joined Barcelona from Borussia Dortmund in 2017?",
@@ -2380,7 +2424,8 @@
    "alt": [
     "Dembele"
    ],
-   "apic": "Ousmane Dembélé"
+   "apic": "Ousmane Dembélé",
+   "cpic": "Borussia Dortmund"
   },
   {
    "q": "Which animal appears on Atletico Madrid's crest beside a strawberry tree?",
@@ -2425,7 +2470,8 @@
    "alt": [
     "FC Porto"
    ],
-   "apic": "FC Porto"
+   "apic": "FC Porto",
+   "cpic": "Iker Casillas"
   },
   {
    "q": "Which Barcelona academy forward inherited Messi's number 10 shirt in 2021?",
@@ -2440,7 +2486,8 @@
    "q": "From which Basque club did Atletico sign Antoine Griezmann in 2014?",
    "a": "Real Sociedad",
    "p": 400,
-   "apic": "Real Sociedad"
+   "apic": "Real Sociedad",
+   "cpic": "Antoine Griezmann"
   },
   {
    "q": "Rafael Nadal's uncle Miguel Angel Nadal played for which Spanish giant in the 1990s?",
@@ -2449,7 +2496,8 @@
    "alt": [
     "FC Barcelona"
    ],
-   "apic": "FC Barcelona"
+   "apic": "FC Barcelona",
+   "cpic": "Rafael Nadal"
   },
   {
    "q": "What nickname, meaning 'The Factory', is given to Real Madrid's youth academy?",

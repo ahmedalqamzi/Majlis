@@ -42,7 +42,8 @@
    "q": "Which Nintendo game won Game of the Year at The Game Awards 2017?",
    "a": "The Legend of Zelda: Breath of the Wild",
    "p": 200,
-   "apic": "The Legend of Zelda: Breath of the Wild"
+   "apic": "The Legend of Zelda: Breath of the Wild",
+   "cpic": "Nintendo"
   },
   {
    "q": "Which Kratos game won Game of the Year at The Game Awards 2018?",
@@ -283,13 +284,15 @@
    "q": "At which Los Angeles theater were The Game Awards held from 2015 to 2022 (since renamed)?",
    "a": "Microsoft Theater",
    "p": 400,
-   "apic": "Peacock Theater"
+   "apic": "Peacock Theater",
+   "cpic": "Los Angeles"
   },
   {
    "q": "The Game Awards have been held at which Los Angeles theater since 2023?",
    "a": "Peacock Theater",
    "p": 400,
-   "apic": "Peacock Theater"
+   "apic": "Peacock Theater",
+   "cpic": "Los Angeles"
   },
   {
    "q": "How was The Game Awards 2020 presented because of COVID-19?",
@@ -619,7 +622,8 @@
    "q": "Which Nintendo racing game won Best Sports/Racing Game at The Game Awards 2025?",
    "a": "Mario Kart World",
    "p": 200,
-   "apic": "Mario Kart World"
+   "apic": "Mario Kart World",
+   "cpic": "Nintendo"
   },
   {
    "q": "Which Amazon TV series based on a Bethesda franchise won Best Adaptation at The Game Awards 2024?",
@@ -631,7 +635,8 @@
    "q": "Which Netflix animated series based on League of Legends won Best Adaptation in 2022?",
    "a": "Arcane",
    "p": 200,
-   "apic": "Arcane (TV series)"
+   "apic": "Arcane (TV series)",
+   "cpic": "League of Legends"
   },
   {
    "q": "Which HBO series won Best Adaptation at both The Game Awards 2023 and 2025?",
@@ -649,13 +654,15 @@
    "q": "Which Epic Games battle royale won Best Ongoing Game in both 2018 and 2019?",
    "a": "Fortnite",
    "p": 200,
-   "apic": "Fortnite"
+   "apic": "Fortnite",
+   "cpic": "Epic Games"
   },
   {
    "q": "Which Nintendo life-sim won Best Family Game at The Game Awards 2020?",
    "a": "Animal Crossing: New Horizons",
    "p": 200,
-   "apic": "Animal Crossing: New Horizons"
+   "apic": "Animal Crossing: New Horizons",
+   "cpic": "Nintendo"
   },
   {
    "q": "Which Valve VR game won Best VR/AR Game in 2020?",
@@ -684,13 +691,15 @@
    "p": 200,
    "alt": [
     "Lee Sang-hyeok"
-   ]
+   ],
+   "cpic": "League of Legends"
   },
   {
    "q": "Which Hideo Kojima game won Best Game Direction and Best Score/Music in 2019?",
    "a": "Death Stranding",
    "p": 200,
-   "apic": "Death Stranding"
+   "apic": "Death Stranding",
+   "cpic": "Hideo Kojima"
   },
   {
    "q": "Which Nathan Drake adventure won Best Narrative in 2016?",
@@ -714,7 +723,8 @@
    "alt": [
     "FF7 Remake"
    ],
-   "apic": "Final Fantasy VII Remake"
+   "apic": "Final Fantasy VII Remake",
+   "cpic": "Square Enix"
   },
   {
    "q": "Which Playground Games open-world racer won Best Sports/Racing, Best Audio Design and Innovation in Accessibility in 2021?",
@@ -837,7 +847,8 @@
    "alt": [
     "COD Mobile"
    ],
-   "apic": "Call of Duty: Mobile"
+   "apic": "Call of Duty: Mobile",
+   "cpic": "Activision"
   },
   {
    "q": "Which lightsaber-style VR rhythm game won Best VR/AR Game in 2019?",
@@ -931,7 +942,8 @@
    "q": "Which Riot Games shooter won Best Esports Game in 2022 and 2023?",
    "a": "Valorant",
    "p": 200,
-   "apic": "Valorant"
+   "apic": "Valorant",
+   "cpic": "Riot Games"
   },
   {
    "q": "Which Valve shooter won Best Esports Game at The Game Awards 2025?",
@@ -1004,7 +1016,8 @@
    "q": "Which Cygames horse-racing title won Best Mobile Game in 2025?",
    "a": "Umamusume: Pretty Derby",
    "p": 600,
-   "apic": "Umamusume: Pretty Derby"
+   "apic": "Umamusume: Pretty Derby",
+   "cpic": "Horse racing"
   },
   {
    "q": "Which Kuro Games title won the fan-voted Players' Voice award in 2025?",
@@ -1021,7 +1034,8 @@
   {
    "q": "Which Square Enix tactics remaster won Best Sim/Strategy Game in 2025?",
    "a": "Final Fantasy Tactics: The Ivalice Chronicles",
-   "p": 400
+   "p": 400,
+   "cpic": "Square Enix"
   },
   {
    "q": "Which YouTuber, also known as penguinz0, won Content Creator of the Year in 2025?",
@@ -1042,7 +1056,8 @@
    "q": "Which Square Enix sequel won Best Score and Music in 2024?",
    "a": "Final Fantasy VII Rebirth",
    "p": 400,
-   "apic": "Final Fantasy VII Rebirth"
+   "apic": "Final Fantasy VII Rebirth",
+   "cpic": "Square Enix"
   },
   {
    "q": "Which Ubisoft Metroidvania won Innovation in Accessibility in 2024?",
@@ -1589,7 +1604,8 @@
    "alt": [
     "potter",
     "Christine Chi"
-   ]
+   ],
+   "cpic": "Evil Geniuses"
   },
   {
    "q": "Who received the inaugural Game Changer award at The Game Awards 2024 for helping laid-off developers find jobs?",
@@ -1633,7 +1649,8 @@
    "q": "Which League of Legends team won Best Esports Team at The Game Awards 2024?",
    "a": "T1",
    "p": 600,
-   "apic": "T1 (esports)"
+   "apic": "T1 (esports)",
+   "cpic": "League of Legends"
   },
   {
    "q": "Which Ukrainian Counter-Strike player won Best Esports Player in 2021?",

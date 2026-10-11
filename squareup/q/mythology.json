@@ -50,7 +50,8 @@
   {
    "q": "Which Greek god of the sun, music and poetry was Artemis's twin brother?",
    "a": "Apollo",
-   "p": 200
+   "p": 200,
+   "cpic": "Artemis"
   },
   {
    "q": "Which monster had snakes for hair and could turn people to stone?",
@@ -130,7 +131,8 @@
    "alt": [
     "Odyssey"
    ],
-   "apic": "Odyssey"
+   "apic": "Odyssey",
+   "cpic": "Odysseus"
   },
   {
    "q": "Which creatures lured sailors to their doom with their beautiful singing?",
@@ -144,7 +146,8 @@
    "alt": [
     "Golden Fleece"
    ],
-   "apic": "Golden Fleece"
+   "apic": "Golden Fleece",
+   "cpic": "Argonauts"
   },
   {
    "q": "Which young man fell in love with his own reflection in a pool?",
@@ -190,7 +193,8 @@
    "q": "Which bird is the symbol of the goddess Athena?",
    "a": "Owl",
    "p": 200,
-   "apic": "Owl"
+   "apic": "Owl",
+   "cpic": "Athena"
   },
   {
    "q": "What weapon does Zeus hurl from the sky?",
@@ -266,7 +270,8 @@
    "alt": [
     "Mjölnir"
    ],
-   "apic": "Mjölnir"
+   "apic": "Mjölnir",
+   "cpic": "Thor"
   },
   {
    "q": "Which one-eyed god is the chief of the Norse gods?",
@@ -284,7 +289,8 @@
    "q": "What is the name of the great hall where Odin gathers warriors who die in battle?",
    "a": "Valhalla",
    "p": 200,
-   "apic": "Valhalla"
+   "apic": "Valhalla",
+   "cpic": "Odin"
   },
   {
    "q": "What is the name of the home of the Norse gods?",
@@ -310,7 +316,8 @@
   {
    "q": "Which day of the week is named after Odin, also known as Woden?",
    "a": "Wednesday",
-   "p": 200
+   "p": 200,
+   "cpic": "Odin"
   },
   {
    "q": "Which day of the week is named after the Norse god of thunder?",
@@ -324,7 +331,8 @@
    "alt": [
     "Re"
    ],
-   "apic": "Ra"
+   "apic": "Ra",
+   "cpic": "Ancient Egypt"
   },
   {
    "q": "Which jackal-headed Egyptian god was linked with mummification?",
@@ -346,7 +354,8 @@
    "q": "What looped cross symbol meant 'life' in ancient Egypt?",
    "a": "Ankh",
    "p": 200,
-   "apic": "Ankh"
+   "apic": "Ankh",
+   "cpic": "Ancient Egypt"
   },
   {
    "q": "Which elephant-headed Hindu god is known as the remover of obstacles?",
@@ -375,7 +384,8 @@
     "Arabian Nights",
     "1001 Nights"
    ],
-   "apic": "One Thousand and One Nights"
+   "apic": "One Thousand and One Nights",
+   "cpic": "Scheherazade"
   },
   {
    "q": "Which storyteller kept a king from executing her by telling him a new tale every night?",
@@ -414,7 +424,8 @@
    "q": "What magic words opened the thieves' cave for Ali Baba?",
    "a": "Open Sesame",
    "p": 200,
-   "ar": "افتح يا سمسم"
+   "ar": "افتح يا سمسم",
+   "cpic": "Ali Baba"
   },
   {
    "q": "How many thieves did Ali Baba encounter?",
@@ -422,7 +433,8 @@
    "p": 200,
    "alt": [
     "Forty"
-   ]
+   ],
+   "cpic": "Ali Baba"
   },
   {
    "q": "What object did Aladdin rub to summon a genie?",
@@ -432,7 +444,8 @@
     "Lamp",
     "Magic lamp",
     "Oil lamp"
-   ]
+   ],
+   "cpic": "Aladdin"
   },
   {
    "q": "What magical object flies its riders through the air in many Arabian Nights stories?",
@@ -504,7 +517,8 @@
   {
    "q": "Which hero of Greek myth killed the Minotaur?",
    "a": "Theseus",
-   "p": 200
+   "p": 200,
+   "cpic": "Minotaur"
   },
   {
    "q": "Which Greek hero beheaded Medusa?",
@@ -643,7 +657,8 @@
    "alt": [
     "Ulysses"
    ],
-   "apic": "Odysseus"
+   "apic": "Odysseus",
+   "cpic": "Odyssey"
   },
   {
    "q": "Which wooden ship carried Jason and his heroes?",
@@ -717,7 +732,8 @@
    "p": 200,
    "alt": [
     "Olympians"
-   ]
+   ],
+   "cpic": "Mount Olympus"
   },
   {
    "q": "What name is given to the giant older gods who ruled before Zeus and the Olympians?",
@@ -740,13 +756,15 @@
    "q": "What is the name of Odysseus's home island?",
    "a": "Ithaca",
    "p": 400,
-   "apic": "Ithaca"
+   "apic": "Ithaca",
+   "cpic": "Odysseus"
   },
   {
    "q": "Who was Odysseus's faithful wife, who waited 20 years for him?",
    "a": "Penelope",
    "p": 400,
-   "apic": "Penelope"
+   "apic": "Penelope",
+   "cpic": "Odysseus"
   },
   {
    "q": "What was the name of the Cyclops blinded by Odysseus?",
@@ -762,7 +780,8 @@
   {
    "q": "Which sorceress helped Jason win the Golden Fleece and later married him?",
    "a": "Medea",
-   "p": 400
+   "p": 400,
+   "cpic": "Golden Fleece"
   },
   {
    "q": "What fruit's seeds did Persephone eat in the underworld, binding her to return each year?",
@@ -840,7 +859,8 @@
    "q": "Which king led the Greek army against Troy?",
    "a": "Agamemnon",
    "p": 400,
-   "apic": "Agamemnon"
+   "apic": "Agamemnon",
+   "cpic": "Troy"
   },
   {
    "q": "Which Trojan prince and greatest Trojan warrior was killed by Achilles?",
@@ -860,7 +880,8 @@
   {
    "q": "Which weaver was turned into a spider after challenging Athena?",
    "a": "Arachne",
-   "p": 200
+   "p": 200,
+   "cpic": "Athena"
   },
   {
    "q": "What was the food of the Greek gods, said to give immortality?",
@@ -889,7 +910,8 @@
    "p": 400,
    "alt": [
     "King Minos"
-   ]
+   ],
+   "cpic": "Minotaur"
   },
   {
    "q": "Which Cretan princess gave Theseus a ball of thread to escape the Labyrinth?",
@@ -899,7 +921,8 @@
   {
    "q": "Which Trojan hero escaped the fall of Troy and became an ancestor of the Romans?",
    "a": "Aeneas",
-   "p": 400
+   "p": 400,
+   "cpic": "Troy"
   },
   {
    "q": "Which Roman poet wrote the Aeneid?",
@@ -913,18 +936,21 @@
   {
    "q": "Who is the Roman queen of the gods, equivalent to the Greek Hera?",
    "a": "Juno",
-   "p": 400
+   "p": 400,
+   "cpic": "Hera"
   },
   {
    "q": "Who is the Roman goddess of wisdom, equivalent to the Greek Athena?",
    "a": "Minerva",
    "p": 400,
-   "apic": "Minerva"
+   "apic": "Minerva",
+   "cpic": "Athena"
   },
   {
    "q": "Who is the Roman goddess of the hunt, equivalent to the Greek Artemis?",
    "a": "Diana",
-   "p": 400
+   "p": 400,
+   "cpic": "Artemis"
   },
   {
    "q": "Who is the Roman god of the underworld, equivalent to the Greek Hades?",
@@ -992,7 +1018,8 @@
    "q": "What is the name of Odin's eight-legged horse?",
    "a": "Sleipnir",
    "p": 400,
-   "apic": "Sleipnir"
+   "apic": "Sleipnir",
+   "cpic": "Odin"
   },
   {
    "q": "What is the name of the giant wolf, son of Loki, who is fated to kill Odin?",
@@ -1001,7 +1028,8 @@
    "alt": [
     "Fenris"
    ],
-   "apic": "Fenrir"
+   "apic": "Fenrir",
+   "cpic": "Loki"
   },
   {
    "q": "What is the name of the world serpent that encircles Midgard?",
@@ -1048,7 +1076,8 @@
    "alt": [
     "Heimdallr"
    ],
-   "apic": "Heimdall"
+   "apic": "Heimdall",
+   "cpic": "Ragnarök"
   },
   {
    "q": "How many worlds, or realms, are there in Norse cosmology?",
@@ -1074,7 +1103,8 @@
    "q": "Which Egyptian goddess of magic was the wife of Osiris?",
    "a": "Isis",
    "p": 400,
-   "apic": "Isis"
+   "apic": "Isis",
+   "cpic": "Osiris"
   },
   {
    "q": "Which Egyptian god murdered his brother Osiris?",
@@ -1083,13 +1113,15 @@
    "alt": [
     "Seth"
    ],
-   "apic": "Set (deity)"
+   "apic": "Set (deity)",
+   "cpic": "Osiris"
   },
   {
    "q": "Which falcon-headed Egyptian sky god was the son of Osiris and Isis?",
    "a": "Horus",
    "p": 400,
-   "apic": "Horus"
+   "apic": "Horus",
+   "cpic": "Osiris"
   },
   {
    "q": "Which ibis-headed Egyptian god was linked with writing and wisdom?",
@@ -1138,7 +1170,8 @@
    "a": "Enkidu",
    "p": 400,
    "ar": "أنكيدو",
-   "apic": "Enkidu"
+   "apic": "Enkidu",
+   "cpic": "Gilgamesh"
   },
   {
    "q": "After his friend's death, what did Gilgamesh set out to find?",
@@ -1146,7 +1179,8 @@
    "p": 400,
    "alt": [
     "Eternal life"
-   ]
+   ],
+   "cpic": "Gilgamesh"
   },
   {
    "q": "Which Mesopotamian goddess of love and war has a famous Babylonian gate named after her?",
@@ -1161,7 +1195,8 @@
    "q": "In what wedge-shaped script was the Epic of Gilgamesh written?",
    "a": "Cuneiform",
    "p": 400,
-   "apic": "Cuneiform"
+   "apic": "Cuneiform",
+   "cpic": "Gilgamesh"
   },
   {
    "q": "Who is the sun goddess of Japanese mythology?",
@@ -1234,7 +1269,8 @@
    "alt": [
     "Shahriyar",
     "Schahriar"
-   ]
+   ],
+   "cpic": "Scheherazade"
   },
   {
    "q": "In which city did Sinbad the Sailor live between his voyages?",
@@ -1264,7 +1300,8 @@
    "q": "Which Abbasid caliph often appears in the Arabian Nights wandering Baghdad in disguise?",
    "a": "Harun al-Rashid",
    "p": 400,
-   "ar": "هارون الرشيد"
+   "ar": "هارون الرشيد",
+   "cpic": "Baghdad"
   },
   {
    "q": "Which pre-Islamic warrior-poet's adventures, and his love for Abla, became a famous Arabic folk epic?",
@@ -1294,7 +1331,8 @@
    "alt": [
     "Um Al Duwais",
     "Umm Duwais"
-   ]
+   ],
+   "cpic": "Jinn"
   },
   {
    "q": "Which Mesoamerican god's name means 'feathered serpent'?",
@@ -1339,7 +1377,8 @@
   {
    "q": "Which Greek hero rode Pegasus?",
    "a": "Bellerophon",
-   "p": 400
+   "p": 400,
+   "cpic": "Pegasus"
   },
   {
    "q": "Which queen of Sparta was said to be the most beautiful woman in the world?",
@@ -1356,7 +1395,8 @@
    "p": 400,
    "alt": [
     "Cheiron"
-   ]
+   ],
+   "cpic": "Centaur"
   },
   {
    "q": "In which Greek city was the famous oracle of Apollo?",
@@ -1395,7 +1435,8 @@
    "ar": "مرجانة",
    "alt": [
     "Marjana"
-   ]
+   ],
+   "cpic": "Ali Baba"
   },
   {
    "q": "Which Greek Titan drove the chariot of the Sun across the sky each day?",
@@ -1425,7 +1466,8 @@
   {
    "q": "Who was the Spartan king whose wife Helen was taken to Troy?",
    "a": "Menelaus",
-   "p": 600
+   "p": 600,
+   "cpic": "Troy"
   },
   {
    "q": "Whose stables did Heracles clean in a single day by diverting two rivers?",
@@ -1463,7 +1505,8 @@
     "Asklepios",
     "Aesculapius"
    ],
-   "apic": "Asclepius"
+   "apic": "Asclepius",
+   "cpic": "Snake"
   },
   {
    "q": "Which Greek goddess of the hearth gave up her seat on Olympus to keep the peace?",
@@ -1513,13 +1556,15 @@
    "q": "What was the title of the priestess who spoke the prophecies of the oracle at Delphi?",
    "a": "Pythia",
    "p": 600,
-   "apic": "Pythia"
+   "apic": "Pythia",
+   "cpic": "Delphi"
   },
   {
    "q": "Which giant monster, the father of Cerberus and the Hydra, was the most fearsome enemy of Zeus?",
    "a": "Typhon",
    "p": 600,
-   "apic": "Typhon"
+   "apic": "Typhon",
+   "cpic": "Cerberus"
   },
   {
    "q": "Which group of seven sisters, daughters of Atlas, became a star cluster?",
@@ -1538,7 +1583,8 @@
   {
    "q": "Who is the Roman goddess of agriculture, equivalent to the Greek Demeter?",
    "a": "Ceres",
-   "p": 600
+   "p": 600,
+   "cpic": "Demeter"
   },
   {
    "q": "Who is the Roman goddess of the hearth whose temple was tended by sacred virgins?",
@@ -1573,7 +1619,8 @@
    "q": "Who is Loki's daughter who rules over the dead who did not die in battle?",
    "a": "Hel",
    "p": 600,
-   "apic": "Hel (mythological being)"
+   "apic": "Hel (mythological being)",
+   "cpic": "Loki"
   },
   {
    "q": "At whose well did Odin give up an eye in exchange for wisdom?",
@@ -1593,7 +1640,8 @@
     "Njörðr",
     "Njordr"
    ],
-   "apic": "Njörðr"
+   "apic": "Njörðr",
+   "cpic": "Freyja"
   },
   {
    "q": "Which Norse goddess guards the golden apples that keep the gods young?",
@@ -1625,7 +1673,8 @@
    "q": "Which golden-haired goddess is the wife of Thor?",
    "a": "Sif",
    "p": 600,
-   "apic": "Sif"
+   "apic": "Sif",
+   "cpic": "Thor"
   },
   {
    "q": "Which Norse god lost his hand in the jaws of the wolf Fenrir?",
@@ -1722,7 +1771,8 @@
    "alt": [
     "Huwawa"
    ],
-   "apic": "Humbaba"
+   "apic": "Humbaba",
+   "cpic": "Enkidu"
   },
   {
    "q": "In the Epic of Gilgamesh, what creature steals the plant of youth while Gilgamesh bathes?",
@@ -1740,7 +1790,8 @@
    "a": "Marduk",
    "p": 600,
    "ar": "مردوخ",
-   "apic": "Marduk"
+   "apic": "Marduk",
+   "cpic": "Tiamat"
   },
   {
    "q": "What is the name of the Babylonian creation epic?",
@@ -1881,7 +1932,8 @@
    "alt": [
     "Dunyazade",
     "Dinarzade"
-   ]
+   ],
+   "cpic": "Scheherazade"
   },
   {
    "q": "What is the name of Ali Baba's greedy brother?",
@@ -1904,7 +1956,8 @@
    "q": "Which French translator first published the stories of Aladdin and Ali Baba in Europe in the early 1700s?",
    "a": "Antoine Galland",
    "p": 600,
-   "apic": "Antoine Galland"
+   "apic": "Antoine Galland",
+   "cpic": "Aladdin"
   },
   {
    "q": "Besides his lamp, which other object of Aladdin's held a genie?",
@@ -1913,7 +1966,8 @@
    "alt": [
     "Ring",
     "Magic ring"
-   ]
+   ],
+   "cpic": "Aladdin"
   },
   {
    "q": "On his fifth voyage, which creature climbs onto Sinbad's shoulders and refuses to get off?",
@@ -1937,7 +1991,8 @@
     "Afreet",
     "Efreet"
    ],
-   "apic": "Ifrit"
+   "apic": "Ifrit",
+   "cpic": "Jinn"
   },
   {
    "q": "In Gulf folklore, which half-woman, half-donkey creature roamed at noon to keep children indoors?",
@@ -1991,7 +2046,8 @@
    "q": "Which Aztec god of the night sky, linked with obsidian mirrors, was the great rival of Quetzalcoatl?",
    "a": "Tezcatlipoca",
    "p": 600,
-   "apic": "Tezcatlipoca"
+   "apic": "Tezcatlipoca",
+   "cpic": "Quetzalcoatl"
   },
   {
    "q": "What was the name of the Greek hero Jason's crew of heroes?",
@@ -2042,7 +2098,8 @@
    "alt": [
     "A porter",
     "Carrier"
-   ]
+   ],
+   "cpic": "Sinbad the Sailor"
   },
   {
    "q": "Who is the Greek goddess of the dawn?",

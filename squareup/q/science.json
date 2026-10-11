@@ -28,7 +28,8 @@
    "q": "What is the largest planet in our solar system?",
    "a": "Jupiter",
    "p": 200,
-   "apic": "Jupiter"
+   "apic": "Jupiter",
+   "cpic": "Solar System"
   },
   {
    "q": "How many bones are in the adult human body?",
@@ -45,7 +46,8 @@
    "q": "What is the name of Earth's natural satellite?",
    "a": "The Moon",
    "p": 200,
-   "apic": "Moon"
+   "apic": "Moon",
+   "cpic": "Earth"
   },
   {
    "q": "What is the chemical symbol for oxygen?",
@@ -61,7 +63,8 @@
    "q": "What is the closest star to Earth?",
    "a": "The Sun",
    "p": 200,
-   "apic": "Sun"
+   "apic": "Sun",
+   "cpic": "Earth"
   },
   {
    "q": "Which organ pumps blood around the body?",
@@ -83,18 +86,21 @@
    "q": "Who was the first person to walk on the Moon?",
    "a": "Neil Armstrong",
    "p": 200,
-   "apic": "Neil Armstrong"
+   "apic": "Neil Armstrong",
+   "cpic": "Moon"
   },
   {
    "q": "What force pulls objects toward the centre of the Earth?",
    "a": "Gravity",
-   "p": 200
+   "p": 200,
+   "cpic": "Earth"
   },
   {
    "q": "What is the name of the galaxy that contains our solar system?",
    "a": "The Milky Way",
    "p": 200,
-   "apic": "Milky Way"
+   "apic": "Milky Way",
+   "cpic": "Solar System"
   },
   {
    "q": "Which organs do humans use to breathe?",
@@ -161,12 +167,14 @@
   {
    "q": "Which vitamin does skin make when exposed to sunlight?",
    "a": "Vitamin D",
-   "p": 200
+   "p": 200,
+   "cpic": "Skin"
   },
   {
    "q": "How many planets are in our solar system?",
    "a": "Eight",
-   "p": 200
+   "p": 200,
+   "cpic": "Solar System"
   },
   {
    "q": "What is the largest organ of the human body?",
@@ -184,7 +192,8 @@
    "q": "Is a dolphin a fish or a mammal?",
    "a": "Mammal",
    "p": 200,
-   "apic": "Dolphin"
+   "apic": "Dolphin",
+   "cpic": "Dolphin"
   },
   {
    "q": "Which scientific instrument is used to magnify tiny objects such as cells?",
@@ -201,7 +210,8 @@
    "q": "What is the chemical symbol for gold?",
    "a": "Au",
    "p": 400,
-   "apic": "Gold"
+   "apic": "Gold",
+   "cpic": "Gold"
   },
   {
    "q": "Approximately how fast does light travel, in kilometres per second?",
@@ -229,7 +239,8 @@
    "q": "Which Dutch scientist first observed bacteria using a microscope he built himself?",
    "a": "Antonie van Leeuwenhoek",
    "p": 600,
-   "apic": "Antonie van Leeuwenhoek"
+   "apic": "Antonie van Leeuwenhoek",
+   "cpic": "Microscope"
   },
   {
    "q": "Which is the hottest planet in our solar system?",
@@ -275,7 +286,8 @@
    "q": "Which Apollo mission first landed humans on the Moon?",
    "a": "Apollo 11",
    "p": 400,
-   "apic": "Apollo 11"
+   "apic": "Apollo 11",
+   "cpic": "Moon"
   },
   {
    "q": "Who was the first woman in space?",
@@ -315,7 +327,8 @@
    "q": "Which planet spins on its side, tilted about 98 degrees?",
    "a": "Uranus",
    "p": 400,
-   "apic": "Uranus"
+   "apic": "Uranus",
+   "cpic": "98 Degrees"
   },
   {
    "q": "Which spacecraft, launched in 1977, was the first to reach interstellar space?",
@@ -327,19 +340,22 @@
    "q": "Which scientist was the first woman to win a Nobel Prize?",
    "a": "Marie Curie",
    "p": 400,
-   "apic": "Marie Curie"
+   "apic": "Marie Curie",
+   "cpic": "Nobel Prize"
   },
   {
    "q": "What is the chemical symbol for lead?",
    "a": "Pb",
    "p": 600,
-   "apic": "Lead"
+   "apic": "Lead",
+   "cpic": "Lead"
   },
   {
    "q": "Which French physicist discovered radioactivity in uranium salts in 1896?",
    "a": "Henri Becquerel",
    "p": 600,
-   "apic": "Henri Becquerel"
+   "apic": "Henri Becquerel",
+   "cpic": "Uranium"
   },
   {
    "q": "What is the most abundant gas in Earth's atmosphere?",
@@ -377,7 +393,8 @@
    "q": "Which Russian chemist created the periodic table?",
    "a": "Dmitri Mendeleev",
    "p": 400,
-   "apic": "Dmitri Mendeleev"
+   "apic": "Dmitri Mendeleev",
+   "cpic": "Periodic table"
   },
   {
    "q": "Which Persian scholar wrote The Canon of Medicine?",
@@ -429,7 +446,8 @@
    "q": "Who discovered Jupiter's four largest moons in 1610?",
    "a": "Galileo Galilei",
    "p": 400,
-   "apic": "Galileo Galilei"
+   "apic": "Galileo Galilei",
+   "cpic": "Jupiter"
   },
   {
    "q": "Which Persian physician distinguished smallpox from measles?",
@@ -631,7 +649,8 @@
   {
    "q": "What is the general term for rain, snow, sleet and hail falling from clouds?",
    "a": "Precipitation",
-   "p": 200
+   "p": 200,
+   "cpic": "Hail"
   },
   {
    "q": "What name is given to the warming of Earth as gases in the atmosphere trap heat?",
@@ -679,7 +698,8 @@
    "q": "What process did Charles Darwin propose as the main driver of evolution?",
    "a": "Natural selection",
    "p": 200,
-   "apic": "Natural selection"
+   "apic": "Natural selection",
+   "cpic": "Charles Darwin"
   },
   {
    "q": "What are the thread-like structures in a cell's nucleus that carry genes called?",
@@ -711,7 +731,8 @@
    "q": "Which single-celled fungus is used to make bread rise?",
    "a": "Yeast",
    "p": 200,
-   "apic": "Yeast"
+   "apic": "Yeast",
+   "cpic": "Fungus"
   },
   {
    "q": "Mushrooms belong to which kingdom of living things?",
@@ -754,7 +775,8 @@
    "q": "Which black fossil fuel formed from ancient swamp plants?",
    "a": "Coal",
    "p": 200,
-   "apic": "Coal"
+   "apic": "Coal",
+   "cpic": "Fossil fuel"
   },
   {
    "q": "What is the large-scale clearing of forests called?",
@@ -784,7 +806,8 @@
    "alt": [
     "Carnivorous"
    ],
-   "apic": "Venus flytrap"
+   "apic": "Venus flytrap",
+   "cpic": "Venus flytrap"
   },
   {
    "q": "What is the process of a seed beginning to sprout and grow called?",
@@ -900,7 +923,8 @@
    "q": "What is the title of Charles Darwin's 1859 book on evolution?",
    "a": "On the Origin of Species",
    "p": 400,
-   "apic": "On the Origin of Species"
+   "apic": "On the Origin of Species",
+   "cpic": "Charles Darwin"
   },
   {
    "q": "What pair of sex chromosomes do males normally have?",
@@ -1014,7 +1038,8 @@
    "q": "Which red gemstone is a variety of corundum?",
    "a": "Ruby",
    "p": 400,
-   "apic": "Ruby"
+   "apic": "Ruby",
+   "cpic": "Corundum"
   },
   {
    "q": "Which green gemstone is a variety of beryl?",
@@ -1026,13 +1051,15 @@
    "q": "Which purple gemstone is a variety of quartz?",
    "a": "Amethyst",
    "p": 400,
-   "apic": "Amethyst"
+   "apic": "Amethyst",
+   "cpic": "Quartz"
   },
   {
    "q": "Which English scientist coined the word 'cell' after looking at cork under a microscope in 1665?",
    "a": "Robert Hooke",
    "p": 400,
-   "apic": "Robert Hooke"
+   "apic": "Robert Hooke",
+   "cpic": "Microscope"
   },
   {
    "q": "What word describes a volcano that has not erupted for a long time but could erupt again?",
@@ -1090,7 +1117,8 @@
    "q": "Who independently proposed natural selection alongside Charles Darwin?",
    "a": "Alfred Russel Wallace",
    "p": 600,
-   "apic": "Alfred Russel Wallace"
+   "apic": "Alfred Russel Wallace",
+   "cpic": "Natural selection"
   },
   {
    "q": "In RNA, which base replaces the thymine found in DNA?",
@@ -1108,7 +1136,8 @@
    "p": 600,
    "alt": [
     "CRISPR-Cas9"
-   ]
+   ],
+   "cpic": "Nobel Prize"
   },
   {
    "q": "Which tiny cell structures build proteins?",
@@ -1161,7 +1190,8 @@
     "Algae",
     "Cyanobacteria"
    ],
-   "apic": "Alga"
+   "apic": "Alga",
+   "cpic": "Fungus"
   },
   {
    "q": "Which American biologist's 1962 book Silent Spring warned of the dangers of pesticides?",
@@ -1259,7 +1289,8 @@
    "q": "What is the hardest mineral on the Mohs scale after diamond?",
    "a": "Corundum",
    "p": 600,
-   "apic": "Corundum"
+   "apic": "Corundum",
+   "cpic": "Diamond"
   },
   {
    "q": "Which scale rates tornadoes by the damage they cause?",
@@ -1392,7 +1423,8 @@
    "p": 400,
    "alt": [
     "TB"
-   ]
+   ],
+   "cpic": "Robert Koch"
   },
   {
    "q": "What are energy sources such as wind and solar, which do not run out, called?",
@@ -1411,7 +1443,8 @@
   {
    "q": "Which atmospheric layer lies above the mesosphere and contains the orbit of the International Space Station?",
    "a": "Thermosphere",
-   "p": 600
+   "p": 600,
+   "cpic": "International Space Station"
   },
   {
    "q": "What is a weather system of high atmospheric pressure called?",

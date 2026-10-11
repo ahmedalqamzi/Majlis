@@ -197,7 +197,8 @@
   {
    "q": "What colour is Ferrari's traditional racing colour?",
    "a": "Red",
-   "p": 200
+   "p": 200,
+   "cpic": "Ferrari"
   },
   {
    "q": "Which German brand has a blue and white roundel logo?",
@@ -373,7 +374,8 @@
    "q": "Which engineer designed the V12 engine of the first Ferrari, the 125 S?",
    "a": "Gioacchino Colombo",
    "p": 600,
-   "apic": "Gioacchino Colombo"
+   "apic": "Gioacchino Colombo",
+   "cpic": "Ferrari"
   },
   {
    "q": "Which Italian brand makes the Giulia?",
@@ -439,7 +441,8 @@
   {
    "q": "What does the Latin word 'Audi' mean in English?",
    "a": "Listen",
-   "p": 600
+   "p": 600,
+   "cpic": "Audi"
   },
   {
    "q": "What was Ferruccio Lamborghini's original business before making cars?",
@@ -450,7 +453,8 @@
   {
    "q": "What does GTO stand for in Ferrari 250 GTO?",
    "a": "Gran Turismo Omologato",
-   "p": 600
+   "p": 600,
+   "cpic": "Ferrari"
   },
   {
    "q": "What do the letters AMG stand for?",
@@ -460,7 +464,8 @@
   {
    "q": "In which year did Juan Manuel Fangio win his fifth and final F1 world title?",
    "a": "1957",
-   "p": 600
+   "p": 600,
+   "cpic": "Juan Manuel Fangio"
   },
   {
    "q": "In which year did Ford introduce its moving assembly line?",
@@ -472,7 +477,8 @@
    "q": "What engine layout does the Bugatti Veyron use?",
    "a": "W16",
    "p": 400,
-   "apic": "Bugatti Veyron"
+   "apic": "Bugatti Veyron",
+   "cpic": "Bugatti Veyron"
   },
   {
    "q": "Which Italian design house styled many Ferrari road cars from the 1950s?",
@@ -521,19 +527,22 @@
    "q": "What nickname did Jackie Stewart give the Nürburgring Nordschleife?",
    "a": "The Green Hell",
    "p": 600,
-   "apic": "Nürburgring"
+   "apic": "Nürburgring",
+   "cpic": "Jackie Stewart"
   },
   {
    "q": "Which Audi model, launched in 1980, popularised permanent all-wheel drive in rallying?",
    "a": "Quattro",
    "p": 400,
-   "apic": "Audi Quattro"
+   "apic": "Audi Quattro",
+   "cpic": "Audi"
   },
   {
    "q": "Which Citroën model, launched in 1955, was famed for its hydropneumatic suspension and futuristic styling?",
    "a": "DS",
    "p": 400,
-   "apic": "Citroën DS"
+   "apic": "Citroën DS",
+   "cpic": "Citroën"
   },
   {
    "q": "What is the name of the Rolls-Royce bonnet mascot?",
@@ -800,7 +809,8 @@
    "q": "Which Japanese brand's badge shows the Pleiades star cluster?",
    "a": "Subaru",
    "p": 400,
-   "apic": "Pleiades"
+   "apic": "Pleiades",
+   "cpic": "Pleiades"
   },
   {
    "q": "Which French brand uses a diamond-shaped logo?",
@@ -824,7 +834,8 @@
   {
    "q": "What is Honda's luxury brand in North America called?",
    "a": "Acura",
-   "p": 400
+   "p": 400,
+   "cpic": "North America"
   },
   {
    "q": "What does the 'M' in BMW's M cars stand for?",
@@ -912,7 +923,8 @@
    "alt": [
     "Italian Job"
    ],
-   "apic": "The Italian Job"
+   "apic": "The Italian Job",
+   "cpic": "Mini"
   },
   {
    "q": "What is the name of the Michelin tyre man mascot?",
@@ -1038,7 +1050,8 @@
    "alt": [
     "Nissan Leaf"
    ],
-   "apic": "Nissan Leaf"
+   "apic": "Nissan Leaf",
+   "cpic": "Hatchback"
   },
   {
    "q": "What is the model name of Ford's long-running full-size F-Series pickup?",
@@ -1114,7 +1127,8 @@
    "alt": [
     "Le Mans '66"
    ],
-   "apic": "Ford v Ferrari"
+   "apic": "Ford v Ferrari",
+   "cpic": "Christian Bale"
   },
   {
    "q": "Who founded the company that became Toyota Motor Corporation in 1937?",
@@ -1173,7 +1187,8 @@
    "alt": [
     "Cloverleaf",
     "Clover"
-   ]
+   ],
+   "cpic": "Alfa Romeo"
   },
   {
    "q": "What is the horizontally opposed engine layout used by Subaru and Porsche commonly called?",
@@ -1192,12 +1207,14 @@
    "p": 600,
    "alt": [
     "Gran Turismo Injection"
-   ]
+   ],
+   "cpic": "Volkswagen Golf"
   },
   {
    "q": "What German word do the letters RS stand for on Porsche and Audi models?",
    "a": "Rennsport",
-   "p": 600
+   "p": 600,
+   "cpic": "Audi"
   },
   {
    "q": "Which British carmaker is famous for using ash-wood body frames on cars like the Plus Four?",

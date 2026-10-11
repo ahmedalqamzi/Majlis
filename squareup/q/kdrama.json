@@ -82,7 +82,8 @@
    "q": "In \"Train to Busan\", the train sets off from which city?",
    "a": "Seoul",
    "p": 200,
-   "apic": "Seoul"
+   "apic": "Seoul",
+   "cpic": "Busan"
   },
   {
    "q": "In \"Crash Landing on You\", a South Korean heiress lands in North Korea after an accident with what?",
@@ -91,7 +92,8 @@
    "alt": [
     "Paraglider",
     "Paragliding"
-   ]
+   ],
+   "cpic": "North Korea"
   },
   {
    "q": "Which actor plays North Korean officer Ri Jeong-hyeok in \"Crash Landing on You\"?",
@@ -192,12 +194,14 @@
   {
    "q": "Which 2002 KBS drama starring Bae Yong-joon and Choi Ji-woo became a massive hit in Japan?",
    "a": "Winter Sonata",
-   "p": 200
+   "p": 200,
+   "cpic": "Bae Yong-joon"
   },
   {
    "q": "Which Netflix series features zombies in Korea's Joseon era?",
    "a": "Kingdom",
-   "p": 200
+   "p": 200,
+   "cpic": "Joseon"
   },
   {
    "q": "Which 2022 Netflix series is set in a high school during a zombie outbreak?",
@@ -221,7 +225,8 @@
   {
    "q": "Which Netflix revenge drama starring Song Hye-kyo is about a woman targeting her school bullies?",
    "a": "The Glory",
-   "p": 200
+   "p": 200,
+   "cpic": "Song Hye-kyo"
   },
   {
    "q": "In \"Vincenzo\", the title character is a Korean-Italian lawyer for which criminal organisation?",
@@ -333,7 +338,8 @@
   {
    "q": "Which 2024 drama starring Kim Soo-hyun and Kim Ji-won is about a struggling chaebol marriage?",
    "a": "Queen of Tears",
-   "p": 200
+   "p": 200,
+   "cpic": "Kim Soo-hyun"
   },
   {
    "q": "Which 2025 Netflix drama starring IU and Park Bo-gum is set on Jeju Island?",
@@ -382,7 +388,8 @@
   {
    "q": "Which 2019 Bong Joon-ho film follows a poor family who scheme their way into jobs with a rich household?",
    "a": "Parasite",
-   "p": 200
+   "p": 200,
+   "cpic": "Bong Joon-ho"
   },
   {
    "q": "Which drama follows Jang-geum, a palace cook in the Joseon court?",
@@ -390,7 +397,8 @@
    "p": 200,
    "alt": [
     "Dae Jang Geum"
-   ]
+   ],
+   "cpic": "Joseon"
   },
   {
    "q": "What spicy fermented cabbage side dish appears at almost every K-drama meal?",
@@ -584,34 +592,40 @@
    "alt": [
     "Cannes Film Festival"
    ],
-   "apic": "Cannes Film Festival"
+   "apic": "Cannes Film Festival",
+   "cpic": "Palme d'Or"
   },
   {
    "q": "Which Bong Joon-ho film from 2006 features a monster rising from Seoul's Han River?",
    "a": "The Host",
-   "p": 400
+   "p": 400,
+   "cpic": "Bong Joon-ho"
   },
   {
    "q": "Which Bong Joon-ho film from 2013 is set on a train circling a frozen Earth?",
    "a": "Snowpiercer",
-   "p": 200
+   "p": 200,
+   "cpic": "Bong Joon-ho"
   },
   {
    "q": "Which Bong Joon-ho film from 2025 stars Robert Pattinson as an \"expendable\" space colonist?",
    "a": "Mickey 17",
-   "p": 400
+   "p": 400,
+   "cpic": "Robert Pattinson"
   },
   {
    "q": "Who directed \"Train to Busan\"?",
    "a": "Yeon Sang-ho",
    "p": 400,
-   "apic": "Yeon Sang-ho"
+   "apic": "Yeon Sang-ho",
+   "cpic": "Busan"
   },
   {
    "q": "Which actor plays the fund manager father Seok-woo in \"Train to Busan\"?",
    "a": "Gong Yoo",
    "p": 400,
-   "apic": "Gong Yoo"
+   "apic": "Gong Yoo",
+   "cpic": "Busan"
   },
   {
    "q": "What was the title of the 2020 sequel to \"Train to Busan\"?",
@@ -698,7 +712,8 @@
    "alt": [
     "Yonsama"
    ],
-   "apic": "Bae Yong-joon"
+   "apic": "Bae Yong-joon",
+   "cpic": "Bae Yong-joon"
   },
   {
    "q": "What is the Korean title of \"Jewel in the Palace\"?",
@@ -794,7 +809,8 @@
   {
    "q": "Which 2021 Netflix series from Yeon Sang-ho features supernatural beings condemning people to hell?",
    "a": "Hellbound",
-   "p": 400
+   "p": 400,
+   "cpic": "Yeon Sang-ho"
   },
   {
    "q": "Which drama follows five doctors who have been friends since medical school and play in a band?",
@@ -804,7 +820,8 @@
   {
    "q": "Which tvN drama follows five families in a Seoul neighbourhood in the late 1980s?",
    "a": "Reply 1988",
-   "p": 400
+   "p": 400,
+   "cpic": "Seoul"
   },
   {
    "q": "In \"Reply 1988\", Choi Taek is a prodigy at which board game?",
@@ -856,12 +873,14 @@
   {
    "q": "Which 2018 drama stars Lee Byung-hun as a Korean-born US Marine officer in the early 1900s?",
    "a": "Mr. Sunshine",
-   "p": 400
+   "p": 400,
+   "cpic": "Lee Byung-hun"
   },
   {
    "q": "Which 2004 drama starred Rain and Song Hye-kyo in a contract marriage story?",
    "a": "Full House",
-   "p": 400
+   "p": 400,
+   "cpic": "Song Hye-kyo"
   },
   {
    "q": "Which 2007 drama features a woman disguised as a man working at a cafe?",
@@ -925,7 +944,8 @@
   {
    "q": "Which 2023 Netflix series set in 1945 Seoul features a monster created in a hospital basement?",
    "a": "Gyeongseong Creature",
-   "p": 600
+   "p": 600,
+   "cpic": "Seoul"
   },
   {
    "q": "Which 2001 film was remade in Hollywood in 2008 with Elisha Cuthbert?",
@@ -944,7 +964,8 @@
    "alt": [
     "Best Director",
     "Directing"
-   ]
+   ],
+   "cpic": "Hwang Dong-hyuk"
   },
   {
    "q": "What Korean word for a close childhood friend does Il-nam use in the marbles episode of \"Squid Game\"?",
@@ -992,12 +1013,14 @@
   {
    "q": "Which Park Chan-wook film won him Best Director at Cannes in 2022?",
    "a": "Decision to Leave",
-   "p": 600
+   "p": 600,
+   "cpic": "Park Chan-wook"
   },
   {
    "q": "Which 2016 Park Chan-wook film is about a con man, a pickpocket and a Japanese heiress in 1930s Korea?",
    "a": "The Handmaiden",
-   "p": 600
+   "p": 600,
+   "cpic": "Park Chan-wook"
   },
   {
    "q": "Which actor played the muscular Sang-hwa in \"Train to Busan\"?",
@@ -1059,7 +1082,8 @@
    "p": 600,
    "alt": [
     "Ssangmun"
-   ]
+   ],
+   "cpic": "Seoul"
   },
   {
    "q": "Which 2016 drama uses a walkie-talkie that links detectives in the present and the past?",
@@ -1077,7 +1101,8 @@
   {
    "q": "Which 2020 body-swap drama sees a modern chef trapped in the body of a Joseon queen?",
    "a": "Mr. Queen",
-   "p": 600
+   "p": 600,
+   "cpic": "Joseon"
   },
   {
    "q": "Which 2016 drama starring IU and Lee Joon-gi is set in the Goryeo dynasty?",
@@ -1086,7 +1111,8 @@
    "alt": [
     "Scarlet Heart Ryeo",
     "Moon Lovers"
-   ]
+   ],
+   "cpic": "Goryeo"
   },
   {
    "q": "Which 2022 fantasy drama is about mages and a spell that swaps souls between bodies?",
@@ -1101,7 +1127,8 @@
   {
    "q": "Which Apple TV+ series follows a Korean family over generations, starring Lee Min-ho and Youn Yuh-jung?",
    "a": "Pachinko",
-   "p": 600
+   "p": 600,
+   "cpic": "Youn Yuh-jung"
   },
   {
    "q": "What is the name of the taxi company in the drama \"Taxi Driver\"?",
@@ -1123,7 +1150,8 @@
    "alt": [
     "Roaring Currents",
     "Myeongnyang"
-   ]
+   ],
+   "cpic": "Yi Sun-sin"
   },
   {
    "q": "Which 1999 spy thriller is often credited with starting Korea's modern blockbuster era?",
@@ -1136,12 +1164,14 @@
   {
    "q": "Which 2018 Lee Chang-dong film starring Yoo Ah-in and Steven Yeun is based on a Haruki Murakami story?",
    "a": "Burning",
-   "p": 600
+   "p": 600,
+   "cpic": "Haruki Murakami"
   },
   {
    "q": "Which 2021 Netflix film is South Korea's first space blockbuster, about debris collectors?",
    "a": "Space Sweepers",
-   "p": 600
+   "p": 600,
+   "cpic": "South Korea"
   },
   {
    "q": "Who wrote the novel \"Pachinko\"?",
@@ -1155,7 +1185,8 @@
    "p": 600,
    "alt": [
     "Hwarang: The Poet Warrior Youth"
-   ]
+   ],
+   "cpic": "Park Seo-joon"
   },
   {
    "q": "Which 2009 Bong Joon-ho film follows a woman desperately trying to clear her son of murder?",
@@ -1170,7 +1201,8 @@
   {
    "q": "Which tvN drama, set in Jeju, is an anthology of interconnected stories starring Lee Byung-hun and Shin Min-a?",
    "a": "Our Blues",
-   "p": 600
+   "p": 600,
+   "cpic": "Lee Byung-hun"
   },
   {
    "q": "Which 2017 drama is set in a prison and follows a baseball pitcher?",
@@ -1188,7 +1220,8 @@
   {
    "q": "Which 2020 drama stars Lee Min-ho as the emperor of a parallel Korea?",
    "a": "The King: Eternal Monarch",
-   "p": 600
+   "p": 600,
+   "cpic": "Lee Min-ho"
   },
   {
    "q": "Which 2016 drama stars Lee Min-ho and Jun Ji-hyun as a con man and a mermaid?",
@@ -1196,7 +1229,8 @@
    "p": 600,
    "alt": [
     "Legend of the Blue Sea"
-   ]
+   ],
+   "cpic": "Jun Ji-hyun"
   },
   {
    "q": "Which 2013 drama stars Lee Min-ho as a chaebol heir studying in a school for the rich?",
@@ -1204,7 +1238,8 @@
    "p": 600,
    "alt": [
     "Heirs"
-   ]
+   ],
+   "cpic": "Lee Min-ho"
   },
   {
    "q": "Which 2018 JTBC drama satirises wealthy parents obsessed with getting children into elite universities?",

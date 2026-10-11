@@ -105,7 +105,8 @@
     "Da Vinci",
     "Leonardo"
    ],
-   "apic": "Leonardo da Vinci"
+   "apic": "Leonardo da Vinci",
+   "cpic": "Helicopter"
   },
   {
    "q": "Which ancient Greek inventor supposedly shouted 'Eureka!' in his bath?",
@@ -176,7 +177,8 @@
    "q": "Which Scottish engineer improved the steam engine so much that a unit of power is named after him?",
    "a": "James Watt",
    "p": 200,
-   "apic": "James Watt"
+   "apic": "James Watt",
+   "cpic": "Steam engine"
   },
   {
    "q": "Which Italian scientist built the first electric battery, the voltaic pile, in 1800?",
@@ -185,7 +187,8 @@
    "alt": [
     "Volta"
    ],
-   "apic": "Alessandro Volta"
+   "apic": "Alessandro Volta",
+   "cpic": "Voltaic pile"
   },
   {
    "q": "Which Serbian-American inventor is famous for alternating current motors and a high-voltage coil?",
@@ -256,7 +259,8 @@
    "alt": [
     "Dyson"
    ],
-   "apic": "James Dyson"
+   "apic": "James Dyson",
+   "cpic": "Vacuum cleaner"
   },
   {
    "q": "Which American invented the modern air conditioner in 1902?",
@@ -371,7 +375,8 @@
    "alt": [
     "Page and Brin"
    ],
-   "apic": "Google"
+   "apic": "Google",
+   "cpic": "Google"
   },
   {
    "q": "Which pseudonymous person or group created Bitcoin in 2008?",
@@ -499,13 +504,15 @@
    "q": "What device, invented by Rene Laennec in 1816, do doctors use to listen to the heart?",
    "a": "Stethoscope",
    "p": 200,
-   "apic": "Stethoscope"
+   "apic": "Stethoscope",
+   "cpic": "René Laennec"
   },
   {
    "q": "Which strong fibre used in bulletproof vests was invented by Stephanie Kwolek?",
    "a": "Kevlar",
    "p": 200,
-   "apic": "Stephanie Kwolek"
+   "apic": "Stephanie Kwolek",
+   "cpic": "Stephanie Kwolek"
   },
   {
    "q": "What is the chemical name of the fast-bonding adhesive sold as Super Glue?",
@@ -522,7 +529,8 @@
    "q": "Which Dutch spectacle maker applied for the first patent for a telescope in 1608?",
    "a": "Hans Lippershey",
    "p": 400,
-   "apic": "Hans Lipperhey"
+   "apic": "Hans Lipperhey",
+   "cpic": "Telescope"
   },
   {
    "q": "Which electronic device, invented at Bell Labs in 1947, is the building block of modern chips?",
@@ -537,7 +545,8 @@
    "alt": [
     "Mouse"
    ],
-   "apic": "Computer mouse"
+   "apic": "Computer mouse",
+   "cpic": "Douglas Engelbart"
   },
   {
    "q": "Which symbol did Ray Tomlinson choose in 1971 to separate a user's name from the computer in email addresses?",
@@ -546,7 +555,8 @@
    "alt": [
     "At sign",
     "At symbol"
-   ]
+   ],
+   "cpic": "Ray Tomlinson"
   },
   {
    "q": "What is the name of the US military's satellite navigation system, now used by phones worldwide?",
@@ -564,13 +574,15 @@
    "alt": [
     "De Mestral"
    ],
-   "apic": "George de Mestral"
+   "apic": "George de Mestral",
+   "cpic": "Velcro"
   },
   {
    "q": "At which beach near Kitty Hawk, North Carolina, did the Wright brothers make their first powered flight?",
    "a": "Kill Devil Hills",
    "p": 400,
-   "apic": "Kill Devil Hills, North Carolina"
+   "apic": "Kill Devil Hills, North Carolina",
+   "cpic": "Wright brothers"
   },
   {
    "q": "In which year did the Wright brothers make their first powered flight?",
@@ -582,7 +594,8 @@
    "q": "In which German city did Johannes Gutenberg set up his printing press?",
    "a": "Mainz",
    "p": 400,
-   "apic": "Mainz"
+   "apic": "Mainz",
+   "cpic": "Johannes Gutenberg"
   },
   {
    "q": "Which Scottish-born inventor of the pneumatic bicycle tyre was a vet in Belfast?",
@@ -591,7 +604,8 @@
    "alt": [
     "Dunlop"
    ],
-   "apic": "John Boyd Dunlop"
+   "apic": "John Boyd Dunlop",
+   "cpic": "Bicycle"
   },
   {
    "q": "Which Scottish chemist invented a waterproof fabric that gave its name to a raincoat?",
@@ -645,7 +659,8 @@
    "q": "Which Russian-American engineer built the first practical single-rotor helicopter, the VS-300, in 1939?",
    "a": "Igor Sikorsky",
    "p": 400,
-   "apic": "Igor Sikorsky"
+   "apic": "Igor Sikorsky",
+   "cpic": "Helicopter"
   },
   {
    "q": "Which English RAF engineer patented the turbojet engine in 1930?",
@@ -660,7 +675,8 @@
    "q": "Which English scientist built the first electric motor in 1821 and discovered electromagnetic induction?",
    "a": "Michael Faraday",
    "p": 400,
-   "apic": "Michael Faraday"
+   "apic": "Michael Faraday",
+   "cpic": "Electric motor"
   },
   {
    "q": "Which American physicist built the first working laser in 1960?",
@@ -725,7 +741,8 @@
    "q": "What was the title of the first video uploaded to YouTube, in April 2005?",
    "a": "Me at the zoo",
    "p": 400,
-   "apic": "Me at the zoo"
+   "apic": "Me at the zoo",
+   "cpic": "YouTube"
   },
   {
    "q": "What was the festive message in the first ever SMS text message, sent in 1992?",
@@ -905,13 +922,15 @@
    "p": 400,
    "alt": [
     "Sony and Philips"
-   ]
+   ],
+   "cpic": "Compact disc"
   },
   {
    "q": "Which Italian physicist built the first nuclear reactor, Chicago Pile-1, in 1942?",
    "a": "Enrico Fermi",
    "p": 400,
-   "apic": "Enrico Fermi"
+   "apic": "Enrico Fermi",
+   "cpic": "Chicago Pile-1"
   },
   {
    "q": "Which Scottish physicist led the development of radar in Britain in the 1930s?",
@@ -923,7 +942,8 @@
    "q": "Which French inventor created a method of preserving food in sealed glass jars in 1809?",
    "a": "Nicolas Appert",
    "p": 600,
-   "apic": "Nicolas Appert"
+   "apic": "Nicolas Appert",
+   "cpic": "Glass"
   },
   {
    "q": "Which English inventor of the friction match first sold them in 1827?",
@@ -934,7 +954,8 @@
    "q": "Which Dutch scientist invented the pendulum clock in 1656?",
    "a": "Christiaan Huygens",
    "p": 400,
-   "apic": "Christiaan Huygens"
+   "apic": "Christiaan Huygens",
+   "cpic": "Pendulum clock"
   },
   {
    "q": "Which Italian physicist invented the mercury barometer in 1643?",
@@ -1017,7 +1038,8 @@
    "alt": [
     "Banu Musa brothers"
    ],
-   "ar": "بنو موسى"
+   "ar": "بنو موسى",
+   "cpic": "Baghdad"
   },
   {
    "q": "Which Arab geographer made a famous world map for King Roger II of Sicily in 1154?",
@@ -1098,7 +1120,8 @@
    "q": "Which American engineer invented the computer mouse in the 1960s?",
    "a": "Douglas Engelbart",
    "p": 400,
-   "apic": "Douglas Engelbart"
+   "apic": "Douglas Engelbart",
+   "cpic": "Computer mouse"
   },
   {
    "q": "Which American programmer sent the first network email in 1971?",
@@ -1181,7 +1204,8 @@
    "alt": [
     "Sir John Harington"
    ],
-   "apic": "John Harington (writer)"
+   "apic": "John Harington (writer)",
+   "cpic": "Elizabeth I"
   },
   {
    "q": "What was the name of the first commercial jet airliner, built by de Havilland and flown in 1949?",
@@ -1204,7 +1228,8 @@
    "p": 600,
    "alt": [
     "John Bardeen, Walter Brattain and William Shockley"
-   ]
+   ],
+   "cpic": "Nobel Prize"
   },
   {
    "q": "Which tea-time snack shares its name with an English earl who supposedly asked for meat between bread?",
@@ -1335,7 +1360,8 @@
    "q": "Which American held over 1,000 US patents, the most famous of them for the phonograph?",
    "a": "Thomas Edison",
    "p": 600,
-   "apic": "Thomas Edison"
+   "apic": "Thomas Edison",
+   "cpic": "Phonograph"
   },
   {
    "q": "What was granted on 31 July 1790 to Samuel Hopkins, for a method of making potash?",
@@ -1381,13 +1407,15 @@
    "q": "Which American inventor patented the first practical typewriter with the QWERTY layout in 1868?",
    "a": "Christopher Latham Sholes",
    "p": 600,
-   "apic": "Christopher Latham Sholes"
+   "apic": "Christopher Latham Sholes",
+   "cpic": "QWERTY"
   },
   {
    "q": "Which American inventor patented the first practical sewing machine with a lockstitch in 1846?",
    "a": "Elias Howe",
    "p": 600,
-   "apic": "Elias Howe"
+   "apic": "Elias Howe",
+   "cpic": "Sewing machine"
   },
   {
    "q": "Which Scottish inventor patented the electric clock and an early fax-like 'printing telegraph' in the 1840s?",
@@ -1399,7 +1427,8 @@
    "q": "Which English engineer invented the first commercially successful steam engine in 1712, used to pump water from mines?",
    "a": "Thomas Newcomen",
    "p": 600,
-   "apic": "Thomas Newcomen"
+   "apic": "Thomas Newcomen",
+   "cpic": "Steam engine"
   },
   {
    "q": "Which English military engineer patented the first steam-powered water pump, 'The Miner's Friend', in 1698?",
@@ -1444,7 +1473,8 @@
    "q": "Which Japanese engineer created the Game Boy and the Game & Watch?",
    "a": "Gunpei Yokoi",
    "p": 600,
-   "apic": "Gunpei Yokoi"
+   "apic": "Gunpei Yokoi",
+   "cpic": "Game & Watch"
   },
   {
    "q": "Which American computer engineer led the team that created Ethernet at Xerox PARC in 1973?",
@@ -1453,7 +1483,8 @@
    "alt": [
     "Bob Metcalfe"
    ],
-   "apic": "Robert Metcalfe"
+   "apic": "Robert Metcalfe",
+   "cpic": "PARC (company)"
   },
   {
    "q": "Which Xerox research centre developed the graphical user interface that inspired the Apple Macintosh?",
@@ -1469,7 +1500,8 @@
    "q": "Thomas Edison was nicknamed 'The Wizard of' which New Jersey place, where his laboratory stood?",
    "a": "Menlo Park",
    "p": 600,
-   "apic": "Menlo Park, New Jersey"
+   "apic": "Menlo Park, New Jersey",
+   "cpic": "Thomas Edison"
   },
   {
    "q": "Which American inventor patented a 'tin can' for food preservation in Britain in 1810?",
@@ -1490,13 +1522,15 @@
    "q": "Which English inventor built the first workable reflecting telescope in 1668?",
    "a": "Isaac Newton",
    "p": 600,
-   "apic": "Isaac Newton"
+   "apic": "Isaac Newton",
+   "cpic": "Telescope"
   },
   {
    "q": "Which American engineer at Raytheon invented the microwave oven?",
    "a": "Percy Spencer",
    "p": 600,
-   "apic": "Percy Spencer"
+   "apic": "Percy Spencer",
+   "cpic": "Microwave oven"
   },
   {
    "q": "Which American chemist accidentally discovered the formula for Super Glue while working on gun sights in 1942?",
@@ -1607,7 +1641,8 @@
    "q": "Which British engineer invented the CT scanner, sharing the 1979 Nobel Prize?",
    "a": "Godfrey Hounsfield",
    "p": 600,
-   "apic": "Godfrey Hounsfield"
+   "apic": "Godfrey Hounsfield",
+   "cpic": "Nobel Prize"
   },
   {
    "q": "Which American engineer created the first commercial 3D printing process, stereolithography, in the 1980s?",
@@ -1619,7 +1654,8 @@
    "q": "Which American engineer and Intel co-founder gave his name to a 'law' about the doubling of transistors?",
    "a": "Gordon Moore",
    "p": 600,
-   "apic": "Gordon Moore"
+   "apic": "Gordon Moore",
+   "cpic": "Intel"
   },
   {
    "q": "Which American company released the first commercial microprocessor, the 4004, in 1971?",
@@ -1674,7 +1710,8 @@
     "Compass",
     "Magnetic compass"
    ],
-   "apic": "Compass"
+   "apic": "Compass",
+   "cpic": "China"
   },
   {
    "q": "Which explosive black powder, invented in China, is used to make fireworks?",
@@ -1683,7 +1720,8 @@
    "alt": [
     "Black powder"
    ],
-   "apic": "Gunpowder"
+   "apic": "Gunpowder",
+   "cpic": "China"
   },
   {
    "q": "Which simple timer uses sand flowing between two glass bulbs?",
@@ -1693,7 +1731,8 @@
     "Sand timer",
     "Sandglass"
    ],
-   "apic": "Hourglass"
+   "apic": "Hourglass",
+   "cpic": "Glass"
   },
   {
    "q": "Which ancient time-telling device uses the shadow cast by the Sun?",
@@ -1731,13 +1770,15 @@
    "alt": [
     "Kite"
    ],
-   "apic": "Kite"
+   "apic": "Kite",
+   "cpic": "Benjamin Franklin"
   },
   {
    "q": "Which machine, invented by Thomas Edison in 1877, could record and play back sound?",
    "a": "Phonograph",
    "p": 200,
-   "apic": "Phonograph"
+   "apic": "Phonograph",
+   "cpic": "Thomas Edison"
   },
   {
    "q": "Which keyboard layout, used on most English keyboards, is named after its first six letters?",
@@ -1773,7 +1814,8 @@
    "alt": [
     "Balloon"
    ],
-   "apic": "Hot air balloon"
+   "apic": "Hot air balloon",
+   "cpic": "Montgolfier brothers"
   },
   {
    "q": "What does the 'e' in 'email' stand for?",
@@ -1798,7 +1840,8 @@
    "alt": [
     "Bike"
    ],
-   "apic": "Bicycle"
+   "apic": "Bicycle",
+   "cpic": "Karl Drais"
   },
   {
    "q": "Which ancient material, made by melting sand, was first produced in Mesopotamia and Egypt?",

@@ -12,19 +12,22 @@
     "Umm Al Qaiwain",
     "Umm al-Quwain"
    ],
-   "apic": "Umm Al Quwain"
+   "apic": "Umm Al Quwain",
+   "cpic": "Ajman"
   },
   {
    "q": "Which emirate lies directly south of Ajman?",
    "a": "Sharjah",
    "p": 200,
    "ar": "الشارقة",
-   "apic": "Sharjah"
+   "apic": "Sharjah",
+   "cpic": "Ajman"
   },
   {
    "q": "Ajman's most popular seafront promenade, lined with cafes and hotels, is called the Ajman what?",
    "a": "Corniche",
-   "p": 200
+   "p": 200,
+   "cpic": "Ajman"
   },
   {
    "q": "The Ajman Museum is housed inside which type of historic building?",
@@ -72,7 +75,8 @@
     "Mangrove",
     "Mangrove trees"
    ],
-   "apic": "Mangrove"
+   "apic": "Mangrove",
+   "cpic": "Umm Al Quwain"
   },
   {
    "q": "Which tall pink wading bird is a winter visitor to the lagoons near Ajman and Umm Al Quwain?",
@@ -82,7 +86,8 @@
     "Flamingos",
     "Greater flamingo"
    ],
-   "apic": "Flamingo"
+   "apic": "Flamingo",
+   "cpic": "Umm Al Quwain"
   },
   {
    "q": "Ajman and Umm Al Quwain both have their coastline on which gulf?",
@@ -93,7 +98,8 @@
     "The Gulf",
     "Gulf"
    ],
-   "apic": "Persian Gulf"
+   "apic": "Persian Gulf",
+   "cpic": "Umm Al Quwain"
   },
   {
    "q": "How many emirates, including Ajman and Umm Al Quwain, formed the UAE when it was founded?",
@@ -175,7 +181,8 @@
      "Masfout",
      "مصفوت"
     ]
-   ]
+   ],
+   "cpic": "Masfout"
   },
   {
    "q": "Masfout lies close to the border with which neighbouring country?",
@@ -185,7 +192,8 @@
    "alt": [
     "Sultanate of Oman"
    ],
-   "apic": "Oman"
+   "apic": "Oman",
+   "cpic": "Masfout"
   },
   {
    "q": "Al Zorah, a nature reserve and resort area in Ajman, is home to a championship course for which sport?",
@@ -288,7 +296,8 @@
    "alt": [
     "Northern",
     "The Northern Emirates"
-   ]
+   ],
+   "cpic": "Ras Al Khaimah"
   },
   {
    "q": "After the pearl trade collapsed, which underground resource transformed the UAE's economy?",
@@ -366,7 +375,8 @@
      "Hatta",
      "حتا"
     ]
-   ]
+   ],
+   "cpic": "Hajar Mountains"
   },
   {
    "q": "Besides Masfout, what is Ajman's other inland exclave?",
@@ -381,7 +391,8 @@
      "Masfout",
      "مصفوت"
     ]
-   ]
+   ],
+   "cpic": "Masfout"
   },
   {
    "q": "What is the family name of Ajman's ruling dynasty?",
@@ -538,7 +549,8 @@
    "alt": [
     "Al Zorah Nature Reserve",
     "Zorah"
-   ]
+   ],
+   "cpic": "Flamingo"
   },
   {
    "q": "Masfout's castle was originally built to guard travellers heading to Oman from whom?",
@@ -554,7 +566,8 @@
      "Masfout",
      "مصفوت"
     ]
-   ]
+   ],
+   "cpic": "Oman"
   },
   {
    "q": "Ajman's ruling Al Nuaimi family belongs to which tribal confederation?",
@@ -642,7 +655,8 @@
    "p": 400,
    "alt": [
     "Truces"
-   ]
+   ],
+   "cpic": "Trucial States"
   },
   {
    "q": "Which months did the main pearl-diving season, 'the big dive', span?",
@@ -714,7 +728,8 @@
      "Al Zorah",
      "الزوراء"
     ]
-   ]
+   ],
+   "cpic": "Golf"
   },
   {
    "q": "Which colour gives its name to the historic fort in Ajman's Manama exclave?",
@@ -811,7 +826,8 @@
      "baghlah",
      "بغلة"
     ]
-   ]
+   ],
+   "cpic": "Dhow"
   },
   {
    "q": "Which Indian town in Kerala was historically a centre of dhow building?",
@@ -820,7 +836,8 @@
    "alt": [
     "Baypore"
    ],
-   "apic": "Beypore"
+   "apic": "Beypore",
+   "cpic": "Dhow"
   },
   {
    "q": "In early dhows, hull planks were stitched together with rope made from which fibre?",
@@ -970,7 +987,8 @@
      "Ed-Dur",
      "الدور"
     ]
-   ]
+   ],
+   "cpic": "Sharjah"
   },
   {
    "q": "Ed-Dur overlooks which lagoon wetland, a recognised Important Bird Area?",
@@ -998,7 +1016,8 @@
     "Tell Abraq site",
     "Tel Abraq"
    ],
-   "apic": "Tell Abraq"
+   "apic": "Tell Abraq",
+   "cpic": "Bronze Age"
   },
   {
    "q": "In which year was Umm Al Quwain Fort built?",
@@ -1087,7 +1106,8 @@
     "Jiss",
     "Gypsum plaster"
    ],
-   "apic": "Gypsum"
+   "apic": "Gypsum",
+   "cpic": "Coral"
   },
   {
    "q": "Which 1930s rectangular watchtower stands on the Ajman Corniche?",
@@ -1248,7 +1268,8 @@
     "Sambuq",
     "Sambouk"
    ],
-   "apic": "Sambuk"
+   "apic": "Sambuk",
+   "cpic": "Dhow"
   },
   {
    "q": "Who ruled Umm Al Quwain from 1981 until 2009?",
@@ -1289,7 +1310,8 @@
    "ar": "قلعة فلية",
    "alt": [
     "Falaya"
-   ]
+   ],
+   "cpic": "Ras Al Khaimah"
   },
   {
    "q": "What was a large, perfectly round prized pearl called in the Gulf?",
@@ -1349,7 +1371,8 @@
      "Mleiha",
      "مليحة"
     ]
-   ]
+   ],
+   "cpic": "Mleiha"
   },
   {
    "q": "Which Greek hero's head appears on many of the Abi'el coins found at Ed-Dur?",

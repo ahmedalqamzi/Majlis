@@ -6,7 +6,8 @@
    "q": "Which James Cameron film won Best Picture at the Oscars ceremony held in 1998?",
    "a": "Titanic",
    "p": 200,
-   "apic": "Titanic (1997 film)"
+   "apic": "Titanic (1997 film)",
+   "cpic": "James Cameron"
   },
   {
    "q": "Which film won Best Picture at the Oscars ceremony held in 2001?",
@@ -91,7 +92,8 @@
    "q": "Who won Best Actor at the Oscars ceremony held in 2019 for playing Freddie Mercury?",
    "a": "Rami Malek",
    "p": 200,
-   "apic": "Rami Malek"
+   "apic": "Rami Malek",
+   "cpic": "Freddie Mercury"
   },
   {
    "q": "Who won Best Actor at the Oscars ceremony held in 2001 for Gladiator?",
@@ -181,7 +183,8 @@
    "q": "Which comedian did Will Smith slap on stage at the 2022 Oscars?",
    "a": "Chris Rock",
    "p": 200,
-   "apic": "Chris Rock"
+   "apic": "Chris Rock",
+   "cpic": "Will Smith"
   },
   {
    "q": "Which film was mistakenly announced as Best Picture before Moonlight was named the true winner in 2017?",
@@ -193,13 +196,15 @@
    "q": "Which Celine Dion song from Titanic won Best Original Song?",
    "a": "My Heart Will Go On",
    "p": 200,
-   "apic": "My Heart Will Go On"
+   "apic": "My Heart Will Go On",
+   "cpic": "Celine Dion"
   },
   {
    "q": "Which film won Best Picture at the Oscars ceremony held in 1995, starring Tom Hanks as a man who tells his life story on a bench?",
    "a": "Forrest Gump",
    "p": 200,
-   "apic": "Forrest Gump"
+   "apic": "Forrest Gump",
+   "cpic": "Tom Hanks"
   },
   {
    "q": "Which film was the first to win 11 Academy Awards?",
@@ -210,7 +215,8 @@
   {
    "q": "Which two later films matched Ben-Hur's record of 11 Oscar wins?",
    "a": "Titanic and The Lord of the Rings: The Return of the King",
-   "p": 400
+   "p": 400,
+   "cpic": "Ben-Hur (1959 film)"
   },
   {
    "q": "How many Oscar nominations did Titanic receive, a record shared with All About Eve and La La Land?",
@@ -232,7 +238,8 @@
    "q": "Which Martin Scorsese crime film won Best Picture at the Oscars ceremony held in 2007?",
    "a": "The Departed",
    "p": 400,
-   "apic": "The Departed"
+   "apic": "The Departed",
+   "cpic": "Martin Scorsese"
   },
   {
    "q": "Which film won Best Picture at the Oscars ceremony held in 2009, featuring a song called 'Jai Ho'?",
@@ -306,7 +313,8 @@
    "q": "Which Japanese film directed by Hayao Miyazaki won Best Animated Feature at the Oscars ceremony held in 2024?",
    "a": "The Boy and the Heron",
    "p": 400,
-   "apic": "The Boy and the Heron"
+   "apic": "The Boy and the Heron",
+   "cpic": "Hayao Miyazaki"
   },
   {
    "q": "Which Latvian film with no dialogue won Best Animated Feature at the Oscars ceremony held in 2025?",
@@ -402,7 +410,8 @@
    "q": "Which Egyptian actor was nominated for Best Supporting Actor for Lawrence of Arabia?",
    "a": "Omar Sharif",
    "p": 600,
-   "apic": "Omar Sharif"
+   "apic": "Omar Sharif",
+   "cpic": "Lawrence of Arabia (film)"
   },
   {
    "q": "Which Palestinian film directed by Hany Abu-Assad was nominated for Best Foreign Language Film in 2006?",
@@ -466,7 +475,8 @@
    "q": "Which Mexican film by Alfonso Cuarón was the first Netflix film nominated for Best Picture?",
    "a": "Roma",
    "p": 600,
-   "apic": "Roma (2018 film)"
+   "apic": "Roma (2018 film)",
+   "cpic": "Alfonso Cuarón"
   },
   {
    "q": "Which German film won Best International Feature in 2023?",
@@ -495,7 +505,8 @@
    "q": "Which director won four Oscars in a single night in 2025, matching Walt Disney's 1954 record?",
    "a": "Sean Baker",
    "p": 600,
-   "apic": "Sean Baker"
+   "apic": "Sean Baker",
+   "cpic": "Walt Disney"
   },
   {
    "q": "Who was the third woman to win Best Director, for The Power of the Dog?",
@@ -618,13 +629,15 @@
    "q": "Which boxing film starring Sylvester Stallone won Best Picture at the 1977 Oscars?",
    "a": "Rocky",
    "p": 200,
-   "apic": "Rocky"
+   "apic": "Rocky",
+   "cpic": "Sylvester Stallone"
   },
   {
    "q": "Which mafia film starring Marlon Brando won Best Picture at the 1973 Oscars?",
    "a": "The Godfather",
    "p": 200,
-   "apic": "The Godfather"
+   "apic": "The Godfather",
+   "cpic": "Marlon Brando"
   },
   {
    "q": "Which 1965 musical about the von Trapp family won Best Picture?",
@@ -642,7 +655,8 @@
    "q": "Which 1939 epic set during the American Civil War won Best Picture at the 1940 Oscars?",
    "a": "Gone with the Wind",
    "p": 200,
-   "apic": "Gone with the Wind (film)"
+   "apic": "Gone with the Wind (film)",
+   "cpic": "American Civil War"
   },
   {
    "q": "Which singer co-wrote and performed the Oscar-winning song 'Shallow' from A Star Is Born?",
@@ -660,7 +674,8 @@
    "q": "Which actor won Best Actor for playing Stephen Hawking in The Theory of Everything?",
    "a": "Eddie Redmayne",
    "p": 200,
-   "apic": "Eddie Redmayne"
+   "apic": "Eddie Redmayne",
+   "cpic": "Stephen Hawking"
   },
   {
    "q": "Which actor won Best Actor for playing Ray Charles in Ray?",
@@ -678,13 +693,15 @@
    "q": "Which actress won Best Actress for playing Margaret Thatcher in The Iron Lady?",
    "a": "Meryl Streep",
    "p": 200,
-   "apic": "Meryl Streep"
+   "apic": "Meryl Streep",
+   "cpic": "Margaret Thatcher"
   },
   {
    "q": "Which actress won Best Actress for playing Queen Elizabeth II in The Queen (2006)?",
    "a": "Helen Mirren",
    "p": 200,
-   "apic": "Helen Mirren"
+   "apic": "Helen Mirren",
+   "cpic": "Elizabeth II"
   },
   {
    "q": "Which actress won her first Best Actress Oscar for La La Land, before winning again for Poor Things?",
@@ -813,31 +830,36 @@
    "q": "Which James Cameron sci-fi film set on Pandora won three Oscars in 2010, including Best Visual Effects?",
    "a": "Avatar",
    "p": 200,
-   "apic": "Avatar (2009 film)"
+   "apic": "Avatar (2009 film)",
+   "cpic": "James Cameron"
   },
   {
    "q": "Which Christopher Nolan space film won Best Visual Effects at the 2015 Oscars?",
    "a": "Interstellar",
    "p": 200,
-   "apic": "Interstellar (film)"
+   "apic": "Interstellar (film)",
+   "cpic": "Christopher Nolan"
   },
   {
    "q": "Which space thriller starring Sandra Bullock and George Clooney won seven Oscars in 2014?",
    "a": "Gravity",
    "p": 200,
-   "apic": "Gravity (2013 film)"
+   "apic": "Gravity (2013 film)",
+   "cpic": "Sandra Bullock"
   },
   {
    "q": "Which Tom Cruise sequel won the Oscar for Best Sound in 2023?",
    "a": "Top Gun: Maverick",
    "p": 200,
-   "apic": "Top Gun: Maverick"
+   "apic": "Top Gun: Maverick",
+   "cpic": "Tom Cruise"
   },
   {
    "q": "Which 2016 musical starring Ryan Gosling and Emma Stone won six Oscars?",
    "a": "La La Land",
    "p": 200,
-   "apic": "La La Land"
+   "apic": "La La Land",
+   "cpic": "Emma Stone"
   },
   {
    "q": "Which director won Best Director for Titanic in 1998?",
@@ -879,13 +901,15 @@
    "q": "Which Bruce Springsteen song won Best Original Song for the film Philadelphia?",
    "a": "Streets of Philadelphia",
    "p": 400,
-   "apic": "Streets of Philadelphia"
+   "apic": "Streets of Philadelphia",
+   "cpic": "Bruce Springsteen"
   },
   {
    "q": "Which 1998 Steven Spielberg film about the D-Day landings won him his second Best Director Oscar?",
    "a": "Saving Private Ryan",
    "p": 400,
-   "apic": "Saving Private Ryan"
+   "apic": "Saving Private Ryan",
+   "cpic": "Steven Spielberg"
   },
   {
    "q": "Which Mexican director won back-to-back Best Director Oscars for Birdman and The Revenant?",
@@ -922,7 +946,8 @@
    "q": "Which Ben Affleck thriller about a fake film used to rescue diplomats won Best Picture in 2013?",
    "a": "Argo",
    "p": 400,
-   "apic": "Argo (2012 film)"
+   "apic": "Argo (2012 film)",
+   "cpic": "Ben Affleck"
   },
   {
    "q": "Which film directed by Steve McQueen won Best Picture at the 2014 Oscars?",
@@ -934,7 +959,8 @@
    "q": "Which Michael Keaton film, edited to look like one continuous shot, won Best Picture in 2015?",
    "a": "Birdman",
    "p": 400,
-   "apic": "Birdman (film)"
+   "apic": "Birdman (film)",
+   "cpic": "Michael Keaton"
   },
   {
    "q": "Which film about a mute cleaner who falls for an amphibian man won Best Picture in 2018?",
@@ -952,7 +978,8 @@
    "q": "Which musical starring Renée Zellweger and Catherine Zeta-Jones won Best Picture in 2003?",
    "a": "Chicago",
    "p": 400,
-   "apic": "Chicago (2002 film)"
+   "apic": "Chicago (2002 film)",
+   "cpic": "Catherine Zeta-Jones"
   },
   {
    "q": "Which film about a suburban father's midlife crisis won Best Picture at the 2000 Oscars?",
@@ -970,7 +997,8 @@
    "q": "Which film starring Dustin Hoffman as an autistic savant won Best Picture in 1989?",
    "a": "Rain Man",
    "p": 400,
-   "apic": "Rain Man"
+   "apic": "Rain Man",
+   "cpic": "Dustin Hoffman"
   },
   {
    "q": "Which biopic of an Indian independence leader won Best Picture in 1983?",
@@ -994,7 +1022,8 @@
    "q": "Which David Lean desert epic starring Peter O'Toole won Best Picture in 1963?",
    "a": "Lawrence of Arabia",
    "p": 400,
-   "apic": "Lawrence of Arabia (film)"
+   "apic": "Lawrence of Arabia (film)",
+   "cpic": "Peter O'Toole"
   },
   {
    "q": "Best Picture winner Lawrence of Arabia filmed scenes in which Jordanian desert valley?",
@@ -1038,7 +1067,8 @@
    "q": "Who became the first African American to win an Oscar, for Gone with the Wind?",
    "a": "Hattie McDaniel",
    "p": 400,
-   "apic": "Hattie McDaniel"
+   "apic": "Hattie McDaniel",
+   "cpic": "Gone with the Wind (film)"
   },
   {
    "q": "Which actress won Best Actress for Roman Holiday?",
@@ -1173,12 +1203,14 @@
    "q": "Which actress won Best Supporting Actress for about eight minutes on screen as Elizabeth I in Shakespeare in Love?",
    "a": "Judi Dench",
    "p": 400,
-   "apic": "Judi Dench"
+   "apic": "Judi Dench",
+   "cpic": "Elizabeth I"
   },
   {
    "q": "For how many years did the Academy ban Will Smith from its events after the 2022 slap?",
    "a": "10",
-   "p": 400
+   "p": 400,
+   "cpic": "Will Smith"
   },
   {
    "q": "Which Family Guy creator hosted the 2013 Oscars?",
@@ -1199,7 +1231,8 @@
   {
    "q": "Walt Disney received an honorary Oscar for Snow White made of one full-size statuette and how many miniature ones?",
    "a": "Seven",
-   "p": 400
+   "p": 400,
+   "cpic": "Walt Disney"
   },
   {
    "q": "Which silent film legend returned to Hollywood in 1972 to receive an honorary Oscar and a long standing ovation?",
@@ -1259,7 +1292,8 @@
    "q": "Which Wes Anderson film won four Oscars in 2015, including Best Score?",
    "a": "The Grand Budapest Hotel",
    "p": 400,
-   "apic": "The Grand Budapest Hotel"
+   "apic": "The Grand Budapest Hotel",
+   "cpic": "Wes Anderson"
   },
   {
    "q": "Which post-apocalyptic action film won six Oscars, all in technical categories, at the 2016 ceremony?",
@@ -1271,7 +1305,8 @@
    "q": "Which Quentin Tarantino film won its only Oscar for Best Original Screenplay at the 1995 ceremony?",
    "a": "Pulp Fiction",
    "p": 400,
-   "apic": "Pulp Fiction"
+   "apic": "Pulp Fiction",
+   "cpic": "Quentin Tarantino"
   },
   {
    "q": "Which thriller about a papal election won Best Adapted Screenplay at the 2025 Oscars?",
@@ -1301,13 +1336,15 @@
    "q": "Which Hayao Miyazaki film won Best Animated Feature at the 2003 Oscars?",
    "a": "Spirited Away",
    "p": 200,
-   "apic": "Spirited Away"
+   "apic": "Spirited Away",
+   "cpic": "Hayao Miyazaki"
   },
   {
    "q": "Which film about a dancing emperor penguin won Best Animated Feature in 2007?",
    "a": "Happy Feet",
    "p": 200,
-   "apic": "Happy Feet"
+   "apic": "Happy Feet",
+   "cpic": "Emperor penguin"
   },
   {
    "q": "Which Pixar film about a jazz musician won Best Animated Feature in 2021?",
@@ -1342,7 +1379,8 @@
    "q": "Which Stevie Wonder song from The Woman in Red won Best Original Song in 1985?",
    "a": "I Just Called to Say I Love You",
    "p": 600,
-   "apic": "I Just Called to Say I Love You"
+   "apic": "I Just Called to Say I Love You",
+   "cpic": "Stevie Wonder"
   },
   {
    "q": "Which Bob Dylan song from Wonder Boys won Best Original Song in 2001?",
@@ -1354,7 +1392,8 @@
    "q": "Which song by Common and John Legend from Selma won Best Original Song in 2015?",
    "a": "Glory",
    "p": 600,
-   "apic": "Glory (Common and John Legend song)"
+   "apic": "Glory (Common and John Legend song)",
+   "cpic": "John Legend"
   },
   {
    "q": "Which duo, known together as 'Daniels', won Best Director for Everything Everywhere All at Once?",
@@ -1372,7 +1411,8 @@
    "q": "Which Los Angeles drama by Paul Haggis won Best Picture in 2006, beating Brokeback Mountain?",
    "a": "Crash",
    "p": 600,
-   "apic": "Crash (2004 film)"
+   "apic": "Crash (2004 film)",
+   "cpic": "Los Angeles"
   },
   {
    "q": "Which Anthony Minghella war romance won nine Oscars, including Best Picture, in 1997?",
@@ -1384,7 +1424,8 @@
    "q": "Which film starring Morgan Freeman as a chauffeur won Best Picture in 1990?",
    "a": "Driving Miss Daisy",
    "p": 600,
-   "apic": "Driving Miss Daisy"
+   "apic": "Driving Miss Daisy",
+   "cpic": "Morgan Freeman"
   },
   {
    "q": "Which film about British runners at the 1924 Olympics won Best Picture in 1982?",
@@ -1402,7 +1443,8 @@
    "q": "Which David Lean prisoner-of-war film won Best Picture in 1958?",
    "a": "The Bridge on the River Kwai",
    "p": 600,
-   "apic": "The Bridge on the River Kwai"
+   "apic": "The Bridge on the River Kwai",
+   "cpic": "David Lean"
   },
   {
    "q": "Which 1934 Frank Capra comedy was the first film to win all five major Oscars?",
@@ -1414,13 +1456,15 @@
    "q": "Which film was Alfred Hitchcock's only Best Picture winner, in 1941?",
    "a": "Rebecca",
    "p": 600,
-   "apic": "Rebecca (1940 film)"
+   "apic": "Rebecca (1940 film)",
+   "cpic": "Alfred Hitchcock"
   },
   {
    "q": "Which director of Psycho and Rear Window never won a competitive Oscar despite five Best Director nominations?",
    "a": "Alfred Hitchcock",
    "p": 600,
-   "apic": "Alfred Hitchcock"
+   "apic": "Alfred Hitchcock",
+   "cpic": "Rear Window"
   },
   {
    "q": "Which 1929 musical was the first sound film to win Best Picture?",
@@ -1431,13 +1475,15 @@
   {
    "q": "Which character in West Side Story earned Oscars for both Rita Moreno and Ariana DeBose?",
    "a": "Anita",
-   "p": 600
+   "p": 600,
+   "cpic": "West Side Story (1961 film)"
   },
   {
    "q": "Which Lawrence of Arabia star received eight acting nominations but only ever won an honorary Oscar?",
    "a": "Peter O'Toole",
    "p": 600,
-   "apic": "Peter O'Toole"
+   "apic": "Peter O'Toole",
+   "cpic": "Lawrence of Arabia (film)"
   },
   {
    "q": "Which actor won his only Oscar for The African Queen?",
@@ -1461,7 +1507,8 @@
    "q": "Adrien Brody won his first Best Actor Oscar for which Roman Polanski film?",
    "a": "The Pianist",
    "p": 600,
-   "apic": "The Pianist (2002 film)"
+   "apic": "The Pianist (2002 film)",
+   "cpic": "Roman Polanski"
   },
   {
    "q": "Which actor won Best Supporting Actor for CODA, becoming the first deaf man to win an acting Oscar?",
@@ -1561,7 +1608,8 @@
    "p": 600,
    "alt": [
     "Plaster"
-   ]
+   ],
+   "cpic": "World War II"
   },
   {
    "q": "What colour was the carpet at the 2023 Oscars, breaking the red tradition?",
@@ -1578,7 +1626,8 @@
    "q": "Which Aamir Khan cricket film was nominated for Best Foreign Language Film in 2002?",
    "a": "Lagaan",
    "p": 600,
-   "apic": "Lagaan"
+   "apic": "Lagaan",
+   "cpic": "Aamir Khan"
   },
   {
    "q": "Which Indian documentary about a couple caring for an orphaned elephant won Best Documentary Short in 2023?",
@@ -1638,13 +1687,15 @@
    "q": "Which Wes Anderson adaptation of a Roald Dahl story won him his first Oscar, for Best Live Action Short in 2024?",
    "a": "The Wonderful Story of Henry Sugar",
    "p": 600,
-   "apic": "The Wonderful Story of Henry Sugar"
+   "apic": "The Wonderful Story of Henry Sugar",
+   "cpic": "Wes Anderson"
   },
   {
    "q": "Which Martin Scorsese film about a boy living in a Paris railway station won five Oscars in 2012?",
    "a": "Hugo",
    "p": 600,
-   "apic": "Hugo (film)"
+   "apic": "Hugo (film)",
+   "cpic": "Martin Scorsese"
   },
   {
    "q": "For which film did Spike Lee win his first competitive Oscar, for Best Adapted Screenplay?",
@@ -1656,7 +1707,8 @@
    "q": "Which Jane Austen adaptation won Emma Thompson the Oscar for Best Adapted Screenplay?",
    "a": "Sense and Sensibility",
    "p": 600,
-   "apic": "Sense and Sensibility (film)"
+   "apic": "Sense and Sensibility (film)",
+   "cpic": "Jane Austen"
   },
   {
    "q": "How many Oscars did Anora win at the 2025 ceremony?",
@@ -1673,7 +1725,8 @@
    "q": "Which Danish film starring Mads Mikkelsen won Best International Feature in 2021?",
    "a": "Another Round",
    "p": 600,
-   "apic": "Another Round"
+   "apic": "Another Round",
+   "cpic": "Mads Mikkelsen"
   },
   {
    "q": "Stanley Kubrick's only Oscar was for the visual effects of which film?",
@@ -1685,7 +1738,8 @@
    "q": "What was the name of the Jack Russell terrier who starred in The Artist?",
    "a": "Uggie",
    "p": 600,
-   "apic": "Uggie"
+   "apic": "Uggie",
+   "cpic": "Jack Russell Terrier"
   }
  ]
 }

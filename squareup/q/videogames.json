@@ -153,7 +153,8 @@
    "q": "Which Sony console was released in 2020 as the successor to the PlayStation 4?",
    "a": "PlayStation 5",
    "p": 200,
-   "apic": "PlayStation 5"
+   "apic": "PlayStation 5",
+   "cpic": "Sony"
   },
   {
    "q": "In Among Us, what is the name of the role that secretly sabotages the crew?",
@@ -193,7 +194,8 @@
    "q": "Which engineer co-founded Atari with Nolan Bushnell in 1972?",
    "a": "Ted Dabney",
    "p": 600,
-   "apic": "Ted Dabney"
+   "apic": "Ted Dabney",
+   "cpic": "Nolan Bushnell"
   },
   {
    "q": "Which pink puffball hero can inhale enemies to copy their abilities?",
@@ -284,7 +286,8 @@
    "q": "Which composer wrote most of the score for Chrono Trigger, with Nobuo Uematsu contributing?",
    "a": "Yasunori Mitsuda",
    "p": 600,
-   "apic": "Yasunori Mitsuda"
+   "apic": "Yasunori Mitsuda",
+   "cpic": "Nobuo Uematsu"
   },
   {
    "q": "Which 2018 Rockstar Western stars the outlaw Arthur Morgan?",
@@ -359,13 +362,15 @@
   {
    "q": "In which year was the original Grand Theft Auto released?",
    "a": "1997",
-   "p": 600
+   "p": 600,
+   "cpic": "Grand Theft Auto"
   },
   {
    "q": "Which Konami series, created by Hideo Kojima, features the agent Solid Snake?",
    "a": "Metal Gear",
    "p": 400,
-   "apic": "Metal Gear"
+   "apic": "Metal Gear",
+   "cpic": "Hideo Kojima"
   },
   {
    "q": "Which studio developed The Last of Us?",
@@ -389,7 +394,8 @@
    "q": "Which programmer hid the first video game Easter egg in Atari 2600's Adventure?",
    "a": "Warren Robinett",
    "p": 600,
-   "apic": "Warren Robinett"
+   "apic": "Warren Robinett",
+   "cpic": "Atari 2600"
   },
   {
    "q": "Which company released the Neo Geo console in 1990?",
@@ -401,7 +407,8 @@
    "q": "Which studio created Halo before Microsoft's 343 Industries took over?",
    "a": "Bungie",
    "p": 400,
-   "apic": "Bungie"
+   "apic": "Bungie",
+   "cpic": "343 Industries"
   },
   {
    "q": "Which Sega programmer led the original Sonic the Hedgehog alongside artist Naoto Ohshima?",
@@ -429,7 +436,8 @@
   {
    "q": "In what year was the original Sony PlayStation released in Japan?",
    "a": "1994",
-   "p": 600
+   "p": 600,
+   "cpic": "Sony"
   },
   {
    "q": "Which Soviet engineer created Tetris in Moscow?",
@@ -522,7 +530,8 @@
    "q": "Which Guerrilla Games title stars the hunter Aloy?",
    "a": "Horizon Zero Dawn",
    "p": 400,
-   "apic": "Horizon Zero Dawn"
+   "apic": "Horizon Zero Dawn",
+   "cpic": "Guerrilla Games"
   },
   {
    "q": "Who is the spiky-haired protagonist of Final Fantasy VII?",
@@ -802,12 +811,14 @@
   {
    "q": "What is the green diamond that floats above a character's head in The Sims called?",
    "a": "Plumbob",
-   "p": 400
+   "p": 400,
+   "cpic": "The Sims"
   },
   {
    "q": "Which made-up language do characters speak in The Sims?",
    "a": "Simlish",
-   "p": 400
+   "p": 400,
+   "cpic": "The Sims"
   },
   {
    "q": "In which mythology is 2018's God of War set?",
@@ -1001,7 +1012,8 @@
    "q": "Which designer created SimCity, The Sims and Spore?",
    "a": "Will Wright",
    "p": 400,
-   "apic": "Will Wright (game designer)"
+   "apic": "Will Wright (game designer)",
+   "cpic": "The Sims"
   },
   {
    "q": "Which Naughty Dog game stars a hero and his friend, who was turned into an ottsel?",
@@ -1062,7 +1074,8 @@
    "q": "Which id Software programmer built the engines behind Doom and Quake?",
    "a": "John Carmack",
    "p": 400,
-   "apic": "John Carmack"
+   "apic": "John Carmack",
+   "cpic": "Doom (franchise)"
   },
   {
    "q": "What does HUD stand for in games?",
@@ -1245,13 +1258,15 @@
    "q": "Who composed the heavy metal soundtrack of Doom (2016)?",
    "a": "Mick Gordon",
    "p": 600,
-   "apic": "Mick Gordon"
+   "apic": "Mick Gordon",
+   "cpic": "Doom (franchise)"
   },
   {
    "q": "Who composed the soundtrack of Celeste?",
    "a": "Lena Raine",
    "p": 600,
-   "apic": "Lena Raine"
+   "apic": "Lena Raine",
+   "cpic": "Celeste (video game)"
   },
   {
    "q": "Who composed the music for Journey, the first video game score nominated for a Grammy?",
@@ -1540,12 +1555,14 @@
    "q": "Who created The Secret of Monkey Island?",
    "a": "Ron Gilbert",
    "p": 600,
-   "apic": "Ron Gilbert"
+   "apic": "Ron Gilbert",
+   "cpic": "Monkey Island"
   },
   {
    "q": "What is the name of the ghost pirate villain of Monkey Island?",
    "a": "LeChuck",
-   "p": 600
+   "p": 600,
+   "cpic": "Monkey Island"
   },
   {
    "q": "Which LucasArts adventure follows Manny Calavera through the Land of the Dead?",
@@ -1604,7 +1621,8 @@
    "q": "Which Jonathan Blow puzzle game is set on an island full of line-drawing panels?",
    "a": "The Witness",
    "p": 600,
-   "apic": "The Witness (2016 video game)"
+   "apic": "The Witness (2016 video game)",
+   "cpic": "Jonathan Blow"
   },
   {
    "q": "What is the name of the mining ship in the first Dead Space?",

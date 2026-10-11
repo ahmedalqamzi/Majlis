@@ -12,7 +12,8 @@
    "q": "Which Nintendo character first appeared in the arcade game Donkey Kong?",
    "a": "Mario",
    "p": 200,
-   "apic": "Mario"
+   "apic": "Mario",
+   "cpic": "Nintendo"
   },
   {
    "q": "Which company makes the PlayStation?",
@@ -24,7 +25,8 @@
    "q": "Which company makes the Xbox?",
    "a": "Microsoft",
    "p": 200,
-   "apic": "Microsoft"
+   "apic": "Microsoft",
+   "cpic": "Xbox (console)"
   },
   {
    "q": "Which company created Sonic the Hedgehog?",
@@ -35,13 +37,15 @@
   {
    "q": "In what year did the original PlayStation launch in Japan?",
    "a": "1994",
-   "p": 200
+   "p": 200,
+   "cpic": "Japan"
   },
   {
    "q": "Which Nintendo handheld launched in 1989 bundled with Tetris?",
    "a": "Game Boy",
    "p": 200,
-   "apic": "Game Boy"
+   "apic": "Game Boy",
+   "cpic": "Nintendo"
   },
   {
    "q": "What is the full name of Nintendo's 1985 Western home console, abbreviated NES?",
@@ -53,7 +57,8 @@
    "q": "Which 1972 Atari arcade game simulated table tennis?",
    "a": "Pong",
    "p": 200,
-   "apic": "Pong"
+   "apic": "Pong",
+   "cpic": "Table tennis"
   },
   {
    "q": "Which company made the Atari 2600?",
@@ -71,12 +76,14 @@
    "q": "Which Xbox franchise stars the Master Chief?",
    "a": "Halo",
    "p": 200,
-   "apic": "Halo (franchise)"
+   "apic": "Halo (franchise)",
+   "cpic": "Xbox (console)"
   },
   {
    "q": "In what year was the Nintendo Switch released?",
    "a": "2017",
-   "p": 200
+   "p": 200,
+   "cpic": "Nintendo Switch"
   },
   {
    "q": "Which company made the Dreamcast console?",
@@ -88,7 +95,8 @@
    "q": "Which Nintendo console launched in 2006 with a motion-sensing remote?",
    "a": "Wii",
    "p": 200,
-   "apic": "Wii"
+   "apic": "Wii",
+   "cpic": "Nintendo"
   },
   {
    "q": "In which country was Space Invaders made?",
@@ -107,7 +115,8 @@
    "q": "Which Nintendo franchise began in Japan in 1996 with Red and Green versions?",
    "a": "Pokémon",
    "p": 200,
-   "apic": "Pokémon"
+   "apic": "Pokémon",
+   "cpic": "Japan"
   },
   {
    "q": "In what year was Pac-Man released?",
@@ -125,7 +134,8 @@
    "q": "What was the name of Sony's first handheld console, launched in 2004?",
    "a": "PlayStation Portable (PSP)",
    "p": 200,
-   "apic": "PlayStation Portable"
+   "apic": "PlayStation Portable",
+   "cpic": "Sony"
   },
   {
    "q": "In what year was the PlayStation 4 released?",
@@ -167,7 +177,8 @@
    "q": "Which Japanese company created Street Fighter II?",
    "a": "Capcom",
    "p": 200,
-   "apic": "Capcom"
+   "apic": "Capcom",
+   "cpic": "Street Fighter"
   },
   {
    "q": "Which dual-screen Nintendo handheld launched in 2004?",
@@ -242,13 +253,15 @@
    "q": "What was the Sega Genesis called in Japan?",
    "a": "Mega Drive",
    "p": 400,
-   "apic": "Sega Genesis"
+   "apic": "Sega Genesis",
+   "cpic": "Sega Genesis"
   },
   {
    "q": "What was the Super Nintendo called in Japan?",
    "a": "Super Famicom",
    "p": 400,
-   "apic": "Super Nintendo Entertainment System"
+   "apic": "Super Nintendo Entertainment System",
+   "cpic": "Japan"
   },
   {
    "q": "What was the NES called in Japan?",
@@ -260,13 +273,15 @@
    "q": "Which Sega handheld launched in Japan in 1990?",
    "a": "Game Gear",
    "p": 400,
-   "apic": "Game Gear"
+   "apic": "Game Gear",
+   "cpic": "Sega"
   },
   {
    "q": "Which company originally partnered with Sony on a CD add-on that led to the PlayStation?",
    "a": "Nintendo",
    "p": 400,
-   "apic": "Nintendo"
+   "apic": "Nintendo",
+   "cpic": "Sony"
   },
   {
    "q": "Who designed Pac-Man?",
@@ -307,13 +322,15 @@
    "q": "What was the first commercial arcade video game, made by Nolan Bushnell in 1971?",
    "a": "Computer Space",
    "p": 400,
-   "apic": "Computer Space"
+   "apic": "Computer Space",
+   "cpic": "Nolan Bushnell"
   },
   {
    "q": "Who is called the father of home video game consoles for the Magnavox Odyssey?",
    "a": "Ralph Baer",
    "p": 400,
-   "apic": "Ralph H. Baer"
+   "apic": "Ralph H. Baer",
+   "cpic": "Magnavox Odyssey"
   },
   {
    "q": "What was Mario originally called in Donkey Kong?",
@@ -347,7 +364,8 @@
    "q": "Who is known as the father of the PlayStation at Sony?",
    "a": "Ken Kutaragi",
    "p": 400,
-   "apic": "Ken Kutaragi"
+   "apic": "Ken Kutaragi",
+   "cpic": "Sony"
   },
   {
    "q": "Which Nintendo president led the launch of the Wii and DS?",
@@ -382,7 +400,8 @@
   {
    "q": "What Sega ad slogan mocked Nintendo during the 16-bit console wars?",
    "a": "Genesis does what Nintendon't",
-   "p": 400
+   "p": 400,
+   "cpic": "Sega"
   },
   {
    "q": "Which Sega console did Sony undercut with a $299 price at E3 1995?",
@@ -475,13 +494,15 @@
    "q": "Which Nintendo engineer created the Game & Watch series?",
    "a": "Gunpei Yokoi",
    "p": 600,
-   "apic": "Gunpei Yokoi"
+   "apic": "Gunpei Yokoi",
+   "cpic": "Game & Watch"
   },
   {
    "q": "What was the TurboGrafx-16 called in Japan?",
    "a": "PC Engine",
    "p": 600,
-   "apic": "TurboGrafx-16"
+   "apic": "TurboGrafx-16",
+   "cpic": "TurboGrafx-16"
   },
   {
    "q": "Which company made the Neo Geo?",
@@ -505,7 +526,8 @@
    "q": "Which computer was Spacewar! originally written for at MIT?",
    "a": "PDP-1",
    "p": 600,
-   "apic": "PDP-1"
+   "apic": "PDP-1",
+   "cpic": "Spacewar!"
   },
   {
    "q": "Which company published the text adventure Zork?",
@@ -547,7 +569,8 @@
    "q": "Which Electronic Arts founder later founded 3DO?",
    "a": "Trip Hawkins",
    "p": 600,
-   "apic": "Trip Hawkins"
+   "apic": "Trip Hawkins",
+   "cpic": "Electronic Arts"
   },
   {
    "q": "Which first third-party console developer was founded by ex-Atari programmers in 1979?",
@@ -594,7 +617,8 @@
    "q": "Which Microsoft engineer is a co-creator of the original Xbox?",
    "a": "Seamus Blackley",
    "p": 600,
-   "apic": "Seamus Blackley"
+   "apic": "Seamus Blackley",
+   "cpic": "Microsoft"
   },
   {
    "q": "Which 1982 console had a built-in vector display?",
@@ -606,7 +630,8 @@
    "q": "Who founded Sinclair Research, maker of the ZX Spectrum?",
    "a": "Clive Sinclair",
    "p": 600,
-   "apic": "Clive Sinclair"
+   "apic": "Clive Sinclair",
+   "cpic": "ZX Spectrum"
   },
   {
    "q": "In which decade did the first home video game consoles go on sale?",
@@ -644,7 +669,8 @@
    "alt": [
     "DVD"
    ],
-   "apic": "DVD"
+   "apic": "DVD",
+   "cpic": "PlayStation 2"
   },
   {
    "q": "What were the console generations of the NES and Master System commonly called after their processors?",
@@ -652,7 +678,8 @@
    "p": 200,
    "alt": [
     "8-bit era"
-   ]
+   ],
+   "cpic": "Master System"
   },
   {
    "q": "What 'bit' number names the era of the Super Nintendo and Mega Drive?",
@@ -731,7 +758,8 @@
    "q": "Which 2023 film, starring Taron Egerton, told the story of a famous Soviet puzzle game?",
    "a": "Tetris",
    "p": 200,
-   "apic": "Tetris (film)"
+   "apic": "Tetris (film)",
+   "cpic": "Taron Egerton"
   },
   {
    "q": "What type of game media did the Nintendo 64 use instead of discs?",
@@ -750,7 +778,8 @@
    "alt": [
     "Sonic"
    ],
-   "apic": "Sonic the Hedgehog (character)"
+   "apic": "Sonic the Hedgehog (character)",
+   "cpic": "Sega"
   },
   {
    "q": "Which Valve game, released in 1998, starred Gordon Freeman?",
@@ -770,7 +799,8 @@
    "alt": [
     "Original Xbox"
    ],
-   "apic": "Xbox (console)"
+   "apic": "Xbox (console)",
+   "cpic": "Microsoft"
   },
   {
    "q": "Which Sony console used small optical discs called UMDs?",
@@ -863,7 +893,8 @@
    "p": 600,
    "alt": [
     "Silicon and Synapse"
-   ]
+   ],
+   "cpic": "Blizzard Entertainment"
   },
   {
    "q": "Which programmer co-founded id Software and built the Doom engine?",
@@ -875,7 +906,8 @@
    "q": "Which Valve co-founder left Microsoft to start the company in 1996?",
    "a": "Gabe Newell",
    "p": 400,
-   "apic": "Gabe Newell"
+   "apic": "Gabe Newell",
+   "cpic": "Microsoft"
   },
   {
    "q": "What did GOG, the PC game store, originally stand for?",
@@ -993,7 +1025,8 @@
    "q": "Which ex-Mattel executive led Sega of America during its 16-bit boom?",
    "a": "Tom Kalinske",
    "p": 400,
-   "apic": "Tom Kalinske"
+   "apic": "Tom Kalinske",
+   "cpic": "Mattel"
   },
   {
    "q": "Which wrestler-actor joined Bill Gates on stage to launch the Xbox at CES 2001?",
@@ -1003,19 +1036,22 @@
     "Dwayne Johnson",
     "Dwayne 'The Rock' Johnson"
    ],
-   "apic": "Dwayne Johnson"
+   "apic": "Dwayne Johnson",
+   "cpic": "Bill Gates"
   },
   {
    "q": "From which Microsoft graphics technology did the Xbox take its name?",
    "a": "DirectX",
    "p": 400,
-   "apic": "DirectX"
+   "apic": "DirectX",
+   "cpic": "Xbox (console)"
   },
   {
    "q": "Which 1992 Sega CD game was at the centre of the US Senate hearings on violent games?",
    "a": "Night Trap",
    "p": 600,
-   "apic": "Night Trap"
+   "apic": "Night Trap",
+   "cpic": "Sega CD"
   },
   {
    "q": "In which year did a major hack take the PlayStation Network offline for weeks?",
@@ -1033,7 +1069,8 @@
    "p": 600,
    "alt": [
     "Nakamura Seisakusho"
-   ]
+   ],
+   "cpic": "Namco"
   },
   {
    "q": "Which Saudi foundation became SNK's majority owner in 2022?",
@@ -1056,7 +1093,8 @@
    "q": "Which 1980 Atari 2600 home version of an arcade hit became the first big 'killer app' licence?",
    "a": "Space Invaders",
    "p": 400,
-   "apic": "Space Invaders"
+   "apic": "Space Invaders",
+   "cpic": "Atari 2600"
   },
   {
    "q": "Which company did Magnavox successfully sue over Pong's similarity to an Odyssey game?",
@@ -1120,7 +1158,8 @@
    "q": "Who led the creation of Spacewar! at MIT?",
    "a": "Steve Russell",
    "p": 600,
-   "apic": "Steve Russell (computer scientist)"
+   "apic": "Steve Russell (computer scientist)",
+   "cpic": "Spacewar!"
   },
   {
    "q": "Which 1952 noughts-and-crosses game is one of the earliest computer games?",
@@ -1154,19 +1193,22 @@
    "alt": [
     "The Brown Box"
    ],
-   "apic": "Magnavox Odyssey"
+   "apic": "Magnavox Odyssey",
+   "cpic": "Magnavox Odyssey"
   },
   {
    "q": "Which coin-operated computer game was installed at Stanford in 1971, just before Computer Space?",
    "a": "Galaxy Game",
    "p": 600,
-   "apic": "Galaxy Game"
+   "apic": "Galaxy Game",
+   "cpic": "Computer Space"
   },
   {
    "q": "In which 1973 sci-fi film does a Computer Space arcade cabinet appear?",
    "a": "Soylent Green",
    "p": 600,
-   "apic": "Soylent Green"
+   "apic": "Soylent Green",
+   "cpic": "Computer Space"
   },
   {
    "q": "Which 1979 Milton Bradley device was the first handheld console with interchangeable cartridges?",
@@ -1202,7 +1244,8 @@
    "q": "Who founded Taito in 1953?",
    "a": "Michael Kogan",
    "p": 600,
-   "apic": "Michael Kogan"
+   "apic": "Michael Kogan",
+   "cpic": "Taito"
   },
   {
    "q": "In which US state was Sega's predecessor Standard Games founded in 1940?",
@@ -1214,7 +1257,8 @@
    "q": "Who founded Namco?",
    "a": "Masaya Nakamura",
    "p": 600,
-   "apic": "Masaya Nakamura"
+   "apic": "Masaya Nakamura",
+   "cpic": "Namco"
   },
   {
    "q": "Who was Nintendo of America's first president?",
@@ -1234,7 +1278,8 @@
    "q": "Which actor played Henk Rogers in the 2023 film Tetris?",
    "a": "Taron Egerton",
    "p": 600,
-   "apic": "Taron Egerton"
+   "apic": "Taron Egerton",
+   "cpic": "Henk Rogers"
   },
   {
    "q": "Which 1980 arcade game is often credited with the first cutscenes, short comic intermissions between levels?",
@@ -1249,12 +1294,14 @@
    "alt": [
     "Cafe",
     "Project Cafe"
-   ]
+   ],
+   "cpic": "Wii U"
   },
   {
    "q": "What was the PlayStation 4's codename?",
    "a": "Orbis",
-   "p": 600
+   "p": 600,
+   "cpic": "PlayStation 4"
   },
   {
    "q": "Which US scorekeeping organisation, founded by Walter Day, tracks arcade world records?",
@@ -1288,7 +1335,8 @@
    "alt": [
     "Original Game Boy"
    ],
-   "apic": "Game Boy"
+   "apic": "Game Boy",
+   "cpic": "Pokémon"
   },
   {
    "q": "Which company released the arcade game Donkey Kong in 1981?",
@@ -1352,7 +1400,8 @@
    "alt": [
     "A magazine",
     "Gaming magazine"
-   ]
+   ],
+   "cpic": "Game Freak"
   },
   {
    "q": "Which 1996 id Software shooter was one of the first with fully 3D polygon worlds?",
@@ -1412,7 +1461,8 @@
    "q": "Which engineer led development of the Fairchild Channel F's cartridge system?",
    "a": "Jerry Lawson",
    "p": 600,
-   "apic": "Jerry Lawson (engineer)"
+   "apic": "Jerry Lawson (engineer)",
+   "cpic": "Fairchild Channel F"
   },
   {
    "q": "Which Atari programmer made the infamous E.T. game in about five weeks?",
@@ -1448,7 +1498,8 @@
    "q": "Which Japanese electronics company made the PC Engine with Hudson Soft?",
    "a": "NEC",
    "p": 400,
-   "apic": "NEC"
+   "apic": "NEC",
+   "cpic": "Hudson Soft"
   },
   {
    "q": "Which arcade hit came bundled with the ColecoVision in 1982?",

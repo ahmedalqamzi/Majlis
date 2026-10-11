@@ -59,7 +59,8 @@
     "Baclava",
     "Baqlawa"
    ],
-   "apic": "Baklava"
+   "apic": "Baklava",
+   "cpic": "Middle East"
   },
   {
    "q": "Which fruit is dried to make raisins?",
@@ -83,7 +84,8 @@
    "q": "Which grain is the base of sushi?",
    "a": "Rice",
    "p": 200,
-   "apic": "Rice"
+   "apic": "Rice",
+   "cpic": "Sushi"
   },
   {
    "q": "Tacos come from which country?",
@@ -203,7 +205,8 @@
     "Tamr",
     "Tamar"
    ],
-   "apic": "Date palm"
+   "apic": "Date palm",
+   "cpic": "Arabic coffee"
   },
   {
    "q": "Which long, thin Italian pasta is often served with bolognese?",
@@ -215,19 +218,22 @@
    "q": "Which orange root vegetable is said to be good for your eyesight?",
    "a": "Carrot",
    "p": 200,
-   "apic": "Carrot"
+   "apic": "Carrot",
+   "cpic": "Orange (fruit)"
   },
   {
    "q": "Which Indian dish is chicken in a creamy tomato sauce?",
    "a": "Butter chicken",
    "p": 200,
-   "apic": "Butter chicken"
+   "apic": "Butter chicken",
+   "cpic": "Tomato"
   },
   {
    "q": "Which soft Italian cheese is used on a margherita pizza?",
    "a": "Mozzarella",
    "p": 200,
-   "apic": "Mozzarella"
+   "apic": "Mozzarella",
+   "cpic": "Pizza"
   },
   {
    "q": "Chocolate is made from the beans of which plant?",
@@ -245,7 +251,8 @@
    "q": "What is the Japanese dish of thinly sliced raw fish served without rice?",
    "a": "Sashimi",
    "p": 200,
-   "apic": "Sashimi"
+   "apic": "Sashimi",
+   "cpic": "Rice"
   },
   {
    "q": "Which slow-cooked wheat and meat porridge is a classic Emirati dish?",
@@ -269,7 +276,8 @@
     "Majboos",
     "Machbus"
    ],
-   "apic": "Machboos"
+   "apic": "Machboos",
+   "cpic": "Rice"
   },
   {
    "q": "Which spice, from crocus flowers, is among the most expensive by weight?",
@@ -288,7 +296,8 @@
     "Tabbouli",
     "Taboule"
    ],
-   "apic": "Tabbouleh"
+   "apic": "Tabbouleh",
+   "cpic": "Tomato"
   },
   {
    "q": "What are Emirati fried dough dumplings drizzled with date syrup called?",
@@ -300,13 +309,15 @@
     "Legaimat",
     "Lukaimat"
    ],
-   "apic": "Lokma"
+   "apic": "Lokma",
+   "cpic": "Date syrup"
   },
   {
    "q": "Which powdered green tea is used in the Japanese tea ceremony?",
    "a": "Matcha",
    "p": 400,
-   "apic": "Matcha"
+   "apic": "Matcha",
+   "cpic": "Japanese tea ceremony"
   },
   {
    "q": "Which French sauce of egg yolk and butter is served on eggs Benedict?",
@@ -319,13 +330,15 @@
    "q": "Which Italian cream cheese is used in tiramisu?",
    "a": "Mascarpone",
    "p": 400,
-   "apic": "Mascarpone"
+   "apic": "Mascarpone",
+   "cpic": "Tiramisu"
   },
   {
    "q": "Which small nuts are used with basil to make pesto?",
    "a": "Pine nuts",
    "p": 400,
-   "apic": "Pine nut"
+   "apic": "Pine nut",
+   "cpic": "Pesto"
   },
   {
    "q": "Which Gulf stew of bread soaked in meat and vegetable broth is popular during Ramadan?",
@@ -373,7 +386,8 @@
     "Kushari",
     "Kosheri"
    ],
-   "apic": "Koshary"
+   "apic": "Koshary",
+   "cpic": "Tomato"
   },
   {
    "q": "Which Egyptian breakfast dish is made of slow-cooked fava beans?",
@@ -392,7 +406,8 @@
    "q": "Which Japanese fermented soybean paste is used in a famous soup?",
    "a": "Miso",
    "p": 400,
-   "apic": "Miso"
+   "apic": "Miso",
+   "cpic": "Soybean"
   },
   {
    "q": "What Chinese meal style serves small steamed dishes in bamboo baskets?",
@@ -404,7 +419,8 @@
    "q": "Which Italian rice dish is made by slowly stirring arborio rice with stock?",
    "a": "Risotto",
    "p": 400,
-   "apic": "Risotto"
+   "apic": "Risotto",
+   "cpic": "Rice"
   },
   {
    "q": "Which French dessert is a custard with a hard caramelised sugar top?",
@@ -445,7 +461,8 @@
    "q": "Which Indian spiced milk tea is brewed with ginger and cardamom?",
    "a": "Masala chai",
    "p": 400,
-   "apic": "Masala chai"
+   "apic": "Masala chai",
+   "cpic": "Cardamom"
   },
   {
    "q": "Which French phrase means 'everything in its place' in cooking preparation?",
@@ -493,7 +510,8 @@
     "Tum",
     "Garlic sauce"
    ],
-   "apic": "Toum"
+   "apic": "Toum",
+   "cpic": "Grilled chicken"
   },
   {
    "q": "Which large white Japanese radish is often grated as a garnish?",
@@ -517,7 +535,8 @@
      "fattoush",
      "فتوش"
     ]
-   ]
+   ],
+   "cpic": "Fattoush"
   },
   {
    "q": "What is the cone-lidded clay pot used in Moroccan cooking called?",
@@ -545,7 +564,8 @@
   {
    "q": "Which fifth basic taste, identified in Japan in 1908, is described as savoury?",
    "a": "Umami",
-   "p": 400
+   "p": 400,
+   "cpic": "Japan"
   },
   {
    "q": "What is the Emirati breakfast dish of sweet vermicelli topped with egg called?",
@@ -580,7 +600,8 @@
    "alt": [
     "Chebab",
     "Shabab"
-   ]
+   ],
+   "cpic": "Cardamom"
   },
   {
    "q": "Which soft, slightly sweet Emirati bread is often eaten with cheese and date syrup?",
@@ -591,7 +612,8 @@
     "Khamir",
     "Khamer",
     "Khameer bread"
-   ]
+   ],
+   "cpic": "Date syrup"
   },
   {
    "q": "What is the dried lime used in Gulf stews called?",
@@ -696,7 +718,8 @@
    "q": "Which Indonesian fermented soybean cake is a protein staple?",
    "a": "Tempeh",
    "p": 600,
-   "apic": "Tempeh"
+   "apic": "Tempeh",
+   "cpic": "Soybean"
   },
   {
    "q": "Which Southeast Asian fruit, with a purple rind and white segments, is nicknamed the queen of fruits?",
@@ -723,7 +746,8 @@
    "q": "Which part of the crocus flower is harvested as saffron?",
    "a": "Stigmas",
    "p": 600,
-   "apic": "Stigma (botany)"
+   "apic": "Stigma (botany)",
+   "cpic": "Saffron"
   },
   {
    "q": "In which country was the Caesar salad invented?",
@@ -742,13 +766,15 @@
    "q": "What is the sweet Japanese red bean paste made from adzuki beans called?",
    "a": "Anko",
    "p": 600,
-   "apic": "Red bean paste"
+   "apic": "Red bean paste",
+   "cpic": "Red bean paste"
   },
   {
    "q": "Which Korean fermented soybean paste is a staple of stews?",
    "a": "Doenjang",
    "p": 600,
-   "apic": "Doenjang"
+   "apic": "Doenjang",
+   "cpic": "Soybean"
   },
   {
    "q": "Which Persian rice dish is prized for its crispy golden bottom layer?",
@@ -852,7 +878,8 @@
    "alt": [
     "Romaine lettuce"
    ],
-   "apic": "Lettuce"
+   "apic": "Lettuce",
+   "cpic": "Caesar salad"
   },
   {
    "q": "Which nut is the main ingredient of Nutella besides cocoa?",
@@ -864,7 +891,8 @@
    "q": "Which green paste with a sharp, nose-tingling heat is served with sushi?",
    "a": "Wasabi",
    "p": 200,
-   "apic": "Wasabi"
+   "apic": "Wasabi",
+   "cpic": "Sushi"
   },
   {
    "q": "Which breakfast food is cooked in an iron with a grid pattern?",
@@ -897,7 +925,8 @@
    "alt": [
     "Kiwi"
    ],
-   "apic": "Kiwifruit"
+   "apic": "Kiwifruit",
+   "cpic": "New Zealand"
   },
   {
    "q": "Which leafy green vegetable gives Popeye his strength?",
@@ -953,7 +982,8 @@
    "q": "Which big orange squash is carved into lanterns at Halloween?",
    "a": "Pumpkin",
    "p": 200,
-   "apic": "Pumpkin"
+   "apic": "Pumpkin",
+   "cpic": "Orange (fruit)"
   },
   {
    "q": "Which hot drink is made from cocoa powder and milk?",
@@ -965,7 +995,8 @@
    "q": "Which fried dough sticks are dipped in chocolate in Spain?",
    "a": "Churros",
    "p": 200,
-   "apic": "Churro"
+   "apic": "Churro",
+   "cpic": "Spain"
   },
   {
    "q": "Which North African staple is made of tiny steamed granules of semolina?",
@@ -977,7 +1008,8 @@
    "q": "Which folded tortilla filled with melted cheese comes from Mexico?",
    "a": "Quesadilla",
    "p": 200,
-   "apic": "Quesadilla"
+   "apic": "Quesadilla",
+   "cpic": "Tortilla"
   },
   {
    "q": "Which round pan is used for Chinese stir-frying?",
@@ -1046,7 +1078,8 @@
     "Kabsah",
     "Kapsa"
    ],
-   "apic": "Kabsa"
+   "apic": "Kabsa",
+   "cpic": "Saudi Arabia"
   },
   {
    "q": "Which grilled squeaky cheese from Cyprus keeps its shape when heated?",
@@ -1103,7 +1136,8 @@
    "q": "Which flat round bread from Mexico is used to make tacos and burritos?",
    "a": "Tortilla",
    "p": 200,
-   "apic": "Tortilla"
+   "apic": "Tortilla",
+   "cpic": "Mexico"
   },
   {
    "q": "Which red beans are a classic ingredient of chilli con carne?",
@@ -1145,7 +1179,8 @@
    "q": "Which pink fish is popular smoked or as sushi, and swims upstream to spawn?",
    "a": "Salmon",
    "p": 200,
-   "apic": "Salmon"
+   "apic": "Salmon",
+   "cpic": "Sushi"
   },
   {
    "q": "Which Chinese dish of noodles stir-fried with vegetables has a name meaning 'stirred noodles'?",
@@ -1161,7 +1196,8 @@
     "Papadum",
     "Papad"
    ],
-   "apic": "Papadam"
+   "apic": "Papadam",
+   "cpic": "Lentil"
   },
   {
    "q": "Which white grain is the main ingredient of rice pudding?",
@@ -1180,7 +1216,8 @@
    "q": "Which salad of tomatoes, mozzarella and basil comes from the island of Capri?",
    "a": "Caprese salad",
    "p": 200,
-   "apic": "Caprese salad"
+   "apic": "Caprese salad",
+   "cpic": "Mozzarella"
   },
   {
    "q": "Which flaky crescent-shaped pastry is a French breakfast favourite?",
@@ -1192,7 +1229,8 @@
    "q": "Which tropical fruit has orange flesh and a large flat stone, with Alphonso as a famous variety?",
    "a": "Mango",
    "p": 200,
-   "apic": "Mango"
+   "apic": "Mango",
+   "cpic": "Orange (fruit)"
   },
   {
    "q": "Which cold sweet treat on a stick is made by freezing fruit juice?",
@@ -1240,7 +1278,8 @@
    "q": "Which Italian dumplings are usually made from potato and flour?",
    "a": "Gnocchi",
    "p": 400,
-   "apic": "Gnocchi"
+   "apic": "Gnocchi",
+   "cpic": "Potato"
   },
   {
    "q": "Which pasta is shaped like little bow ties or butterflies?",
@@ -1290,7 +1329,8 @@
    "q": "Which Japanese grilled chicken skewers are a classic street food?",
    "a": "Yakitori",
    "p": 400,
-   "apic": "Yakitori"
+   "apic": "Yakitori",
+   "cpic": "Grilled chicken"
   },
   {
    "q": "Which triangular Japanese rice balls are often wrapped in seaweed?",
@@ -1347,7 +1387,8 @@
    "q": "Which Vietnamese sandwich is served in a crusty baguette?",
    "a": "Banh mi",
    "p": 400,
-   "apic": "Bánh mì"
+   "apic": "Bánh mì",
+   "cpic": "Baguette"
   },
   {
    "q": "Which Indonesian fried rice dish is often topped with a fried egg?",
@@ -1362,7 +1403,8 @@
    "alt": [
     "Sate"
    ],
-   "apic": "Satay"
+   "apic": "Satay",
+   "cpic": "Peanut"
   },
   {
    "q": "Which Indian cottage cheese is used in dishes like palak and tikka?",
@@ -1374,13 +1416,15 @@
    "q": "Which Indian yoghurt drink can be sweet, salty or flavoured with mango?",
    "a": "Lassi",
    "p": 200,
-   "apic": "Lassi"
+   "apic": "Lassi",
+   "cpic": "Mango"
   },
   {
    "q": "Which dense Indian frozen dessert is often flavoured with pistachio and cardamom?",
    "a": "Kulfi",
    "p": 400,
-   "apic": "Kulfi"
+   "apic": "Kulfi",
+   "cpic": "Pistachio"
   },
   {
    "q": "Which soft steamed South Indian rice cakes are eaten with sambar?",
@@ -1395,13 +1439,15 @@
    "alt": [
     "Poori"
    ],
-   "apic": "Puri (food)"
+   "apic": "Puri (food)",
+   "cpic": "Potato"
   },
   {
    "q": "Which Greek dish layers aubergine, minced meat and béchamel sauce?",
    "a": "Moussaka",
    "p": 400,
-   "apic": "Moussaka"
+   "apic": "Moussaka",
+   "cpic": "Béchamel sauce"
   },
   {
    "q": "Which Greek dip is made of yoghurt, cucumber and garlic?",
@@ -1413,7 +1459,8 @@
    "q": "Which Hungarian stew is flavoured with paprika?",
    "a": "Goulash",
    "p": 400,
-   "apic": "Goulash"
+   "apic": "Goulash",
+   "cpic": "Paprika"
   },
   {
    "q": "Which red spice made from dried peppers is a signature of Hungarian cooking?",
@@ -1479,7 +1526,8 @@
     "Hareeseh",
     "Namoura"
    ],
-   "apic": "Basbousa"
+   "apic": "Basbousa",
+   "cpic": "Middle East"
   },
   {
    "q": "Which Middle Eastern milk pudding is thickened with starch and scented with rose water?",
@@ -1490,7 +1538,8 @@
     "Mahalabia",
     "Muhallabieh"
    ],
-   "apic": "Muhallebi"
+   "apic": "Muhallebi",
+   "cpic": "Rose water"
   },
   {
    "q": "Which Levantine salad features crispy pieces of toasted or fried flatbread?",
@@ -1575,7 +1624,8 @@
    "q": "Which finely shredded fermented cabbage is a German staple?",
    "a": "Sauerkraut",
    "p": 400,
-   "apic": "Sauerkraut"
+   "apic": "Sauerkraut",
+   "cpic": "Cabbage"
   },
   {
    "q": "Which British dish is beef fillet wrapped in puff pastry?",
@@ -1593,7 +1643,8 @@
    "q": "Which Polish dumplings are often filled with potato and cheese?",
    "a": "Pierogi",
    "p": 400,
-   "apic": "Pierogi"
+   "apic": "Pierogi",
+   "cpic": "Potato"
   },
   {
    "q": "Which soft French cheese with a white rind comes in a round wooden box from Normandy?",
@@ -1620,7 +1671,8 @@
    "q": "Which colourful French almond meringue sandwich biscuits are sold in boxes?",
    "a": "Macarons",
    "p": 400,
-   "apic": "Macaron"
+   "apic": "Macaron",
+   "cpic": "Almond"
   },
   {
    "q": "Which white sauce made from butter, flour and milk is one of the French 'mother sauces'?",
@@ -1630,7 +1682,8 @@
     "Bechamel",
     "White sauce"
    ],
-   "apic": "Béchamel sauce"
+   "apic": "Béchamel sauce",
+   "cpic": "Butter"
   },
   {
    "q": "What is the French title of the second-in-command in a professional kitchen?",
@@ -1653,7 +1706,8 @@
    "q": "Which tropical fruit with bright pink skin and white, black-seeded flesh is also called pitaya?",
    "a": "Dragon fruit",
    "p": 400,
-   "apic": "Pitaya"
+   "apic": "Pitaya",
+   "cpic": "Pitaya"
   },
   {
    "q": "Which citrus fruit's oil flavours Earl Grey tea?",
@@ -1674,13 +1728,15 @@
    "q": "Which red caffeine-free herbal tea comes from South Africa?",
    "a": "Rooibos",
    "p": 400,
-   "apic": "Rooibos"
+   "apic": "Rooibos",
+   "cpic": "South Africa"
   },
   {
    "q": "Which sweet rice and cinnamon drink is popular in Mexico?",
    "a": "Horchata",
    "p": 400,
-   "apic": "Horchata"
+   "apic": "Horchata",
+   "cpic": "Cinnamon"
   },
   {
    "q": "Bubble tea was invented in which country?",
@@ -1732,7 +1788,8 @@
    "q": "In American English, what are fresh coriander leaves called?",
    "a": "Cilantro",
    "p": 400,
-   "apic": "Coriander"
+   "apic": "Coriander",
+   "cpic": "Coriander"
   },
   {
    "q": "Which star-shaped spice pod tastes of liquorice?",
@@ -1836,7 +1893,8 @@
    "q": "Which Thai salad is made from shredded green papaya?",
    "a": "Som tam",
    "p": 600,
-   "apic": "Green papaya salad"
+   "apic": "Green papaya salad",
+   "cpic": "Papaya"
   },
   {
    "q": "Which thick, sweet Chinese sauce is brushed on Peking duck pancakes?",
@@ -1940,7 +1998,8 @@
    "q": "Which Persian herb and kidney-bean stew is often called Iran's national dish?",
    "a": "Ghormeh sabzi",
    "p": 600,
-   "apic": "Ghormeh sabzi"
+   "apic": "Ghormeh sabzi",
+   "cpic": "Kidney bean"
   },
   {
    "q": "Which slow-cooked South Asian beef or lamb stew is traditionally eaten for breakfast?",
@@ -1991,7 +2050,8 @@
    "alt": [
     "Jellab"
    ],
-   "apic": "Jallab"
+   "apic": "Jallab",
+   "cpic": "Rose water"
   },
   {
    "q": "Which Syrian city is famous for its pistachios?",
@@ -2011,7 +2071,8 @@
    "alt": [
     "Tire company"
    ],
-   "apic": "Michelin"
+   "apic": "Michelin",
+   "cpic": "Michelin"
   },
   {
    "q": "Which Indian state is famous for its Alphonso mangoes, grown around Ratnagiri?",
@@ -2059,7 +2120,8 @@
     "B'stilla"
    ],
    "ar": "بسطيلة",
-   "apic": "Pastilla"
+   "apic": "Pastilla",
+   "cpic": "Cinnamon"
   },
   {
    "q": "Which Moroccan soup is traditionally eaten to break the fast in Ramadan?",
@@ -2111,7 +2173,8 @@
    "q": "Which Peruvian purple-corn drink is sweet and spiced with cinnamon and cloves?",
    "a": "Chicha morada",
    "p": 600,
-   "apic": "Chicha morada"
+   "apic": "Chicha morada",
+   "cpic": "Cinnamon"
   },
   {
    "q": "Which Italian Christmas sweet bread from Milan contains candied fruit and raisins?",

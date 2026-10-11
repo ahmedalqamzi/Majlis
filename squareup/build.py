@@ -13,10 +13,10 @@ for f in sorted(glob.glob('q/*.json')):
     for q in d['questions']:
         if q.get('yt') and (q['yt'] in bad or q['yt'] not in chk): continue
         q=dict(q)
-        for k in ('pic','apic'):
+        for k in ('pic','apic','cpic'):
             if q.get(k) in PHOTOS: q[k]='@'+d['id']+'/'+PHOTOS[q[k]]
         if q.get('must') and not str(q.get('pic','')).startswith('@'): continue
-        qs.append({k:q[k] for k in ('q','a','p','ar','alt','yt','start','end','emoji','img','pic','apic','audio','qar') if k in q and q[k] not in (None,"",[])})
+        qs.append({k:q[k] for k in ('q','a','p','ar','alt','yt','start','end','emoji','img','pic','apic','cpic','audio','qar') if k in q and q[k] not in (None,"",[])})
     bank[d['id']]={"id":d['id'],"name":d['name'],"questions":qs}
 for f in glob.glob('qimg/*.json'):
     d=json.load(open(f))
@@ -24,13 +24,14 @@ for f in glob.glob('qimg/*.json'):
 # Inline picture files so index.html stays a single self-contained file (web and APK).
 for c in bank.values():
     for q in c['questions']:
-        if 'img' in q: q['img']='data:image/svg+xml;charset=utf-8,'+urllib.parse.quote(open(q['img']).read(),safe=" /:=,;")
+        for k in ('img','cpic'):
+            if str(q.get(k,'')).startswith('img/'): q[k]='data:image/svg+xml;charset=utf-8,'+urllib.parse.quote(open(q[k]).read(),safe=" /:=,;")
 out=[c for c in bank.values() if all(sum(q['p']==p for q in c['questions'])>=2 for p in (200,400,600))]
 os.makedirs(os.path.join('dist','photos'),exist_ok=True)
 import base64 as _b64
 npk=0
 for c in out:
-    keys=sorted({q[k].split('/')[1] for q in c['questions'] for k in ('pic','apic') if str(q.get(k,'')).startswith('@')})
+    keys=sorted({q[k].split('/')[1] for q in c['questions'] for k in ('pic','apic','cpic') if str(q.get(k,'')).startswith('@')})
     if not keys: continue
     c['photos']=1;npk+=1
     pk={k:'data:image/webp;base64,'+_b64.b64encode(open(os.path.join(PHOTODIR,k+'.webp'),'rb').read()).decode() for k in keys}

@@ -6,7 +6,8 @@
    "q": "Which 1978 John Carpenter film introduced the masked killer Michael Myers?",
    "a": "Halloween",
    "p": 200,
-   "apic": "Halloween (1978 film)"
+   "apic": "Halloween (1978 film)",
+   "cpic": "John Carpenter"
   },
   {
    "q": "Which razor-gloved villain attacks teenagers in their dreams in A Nightmare on Elm Street?",
@@ -42,7 +43,8 @@
   {
    "q": "What is the name of the masked killer in the Scream films?",
    "a": "Ghostface",
-   "p": 200
+   "p": 200,
+   "cpic": "The Scream"
   },
   {
    "q": "Which possessed doll is the villain of the Child's Play films?",
@@ -52,7 +54,8 @@
   {
    "q": "What name does the shape-shifting evil clown use in Stephen King's It?",
    "a": "Pennywise",
-   "p": 200
+   "p": 200,
+   "cpic": "Stephen King"
   },
   {
    "q": "What colour is Pennywise's balloon?",
@@ -74,12 +77,14 @@
    "q": "Which 1960 Alfred Hitchcock film is set largely at the Bates Motel?",
    "a": "Psycho",
    "p": 200,
-   "apic": "Psycho (1960 film)"
+   "apic": "Psycho (1960 film)",
+   "cpic": "Alfred Hitchcock"
   },
   {
    "q": "What is the name of the motel owner in Psycho?",
    "a": "Norman Bates",
-   "p": 200
+   "p": 200,
+   "cpic": "Psycho (1960 film)"
   },
   {
    "q": "Which 1963 Hitchcock film sees a California town attacked by flocks of birds?",
@@ -100,7 +105,8 @@
    "q": "Which 2017 Jordan Peele film follows Chris on a visit to his girlfriend's family?",
    "a": "Get Out",
    "p": 200,
-   "apic": "Get Out"
+   "apic": "Get Out",
+   "cpic": "Jordan Peele"
   },
   {
    "q": "Which 2018 film has a family living in silence to avoid creatures that hunt by sound?",
@@ -165,13 +171,15 @@
    "alt": [
     "Count Dracula"
    ],
-   "apic": "Count Dracula"
+   "apic": "Count Dracula",
+   "cpic": "Vampire"
   },
   {
    "q": "In which region of Romania is Count Dracula's castle?",
    "a": "Transylvania",
    "p": 200,
-   "apic": "Transylvania"
+   "apic": "Transylvania",
+   "cpic": "Count Dracula"
   },
   {
    "q": "Which professor hunts Dracula in Bram Stoker's novel?",
@@ -192,7 +200,8 @@
    "q": "Which 1979 Ridley Scott sci-fi horror film is set aboard the spaceship Nostromo?",
    "a": "Alien",
    "p": 200,
-   "apic": "Alien (film)"
+   "apic": "Alien (film)",
+   "cpic": "Ridley Scott"
   },
   {
    "q": "Which actress plays Ellen Ripley in the Alien films?",
@@ -209,13 +218,15 @@
    "q": "What is the title of James Cameron's 1986 sequel to Alien?",
    "a": "Aliens",
    "p": 200,
-   "apic": "Aliens (film)"
+   "apic": "Aliens (film)",
+   "cpic": "James Cameron"
   },
   {
    "q": "Which 2019 Jordan Peele film features a family stalked by their own doppelgangers?",
    "a": "Us",
    "p": 200,
-   "apic": "Us (2019 film)"
+   "apic": "Us (2019 film)",
+   "cpic": "Jordan Peele"
   },
   {
    "q": "Which 1982 haunted-house film sees little Carol Anne communicate with spirits through a television?",
@@ -227,13 +238,15 @@
    "q": "Which Stephen King story, filmed in 1976, follows a bullied teenager with telekinetic powers?",
    "a": "Carrie",
    "p": 200,
-   "apic": "Carrie (1976 film)"
+   "apic": "Carrie (1976 film)",
+   "cpic": "Stephen King"
   },
   {
    "q": "Which 1990 film based on a Stephen King novel sees a novelist held captive by his number one fan?",
    "a": "Misery",
    "p": 200,
-   "apic": "Misery (film)"
+   "apic": "Misery (film)",
+   "cpic": "Stephen King"
   },
   {
    "q": "Which actress played Laurie Strode in Halloween (1978)?",
@@ -253,7 +266,8 @@
    "p": 200,
    "alt": [
     "The Texas Chainsaw Massacre"
-   ]
+   ],
+   "cpic": "Tobe Hooper"
   },
   {
    "q": "What does Freddy Krueger wear on his right hand?",
@@ -291,13 +305,15 @@
    "q": "Which 2009 comedy stars Woody Harrelson and Jesse Eisenberg surviving a zombie apocalypse?",
    "a": "Zombieland",
    "p": 200,
-   "apic": "Zombieland"
+   "apic": "Zombieland",
+   "cpic": "Jesse Eisenberg"
   },
   {
    "q": "Which 2013 Brad Pitt zombie film is based on a novel by Max Brooks?",
    "a": "World War Z",
    "p": 200,
-   "apic": "World War Z (film)"
+   "apic": "World War Z (film)",
+   "cpic": "Brad Pitt"
   },
   {
    "q": "Which 1984 film features small creatures that must never be fed after midnight?",
@@ -374,13 +390,15 @@
    "q": "Which 1999 adventure-horror film stars Brendan Fraser battling the resurrected priest Imhotep?",
    "a": "The Mummy",
    "p": 200,
-   "apic": "The Mummy (1999 film)"
+   "apic": "The Mummy (1999 film)",
+   "cpic": "Brendan Fraser"
   },
   {
    "q": "Which 1988 Tim Burton film features a ghost who calls himself a bio-exorcist?",
    "a": "Beetlejuice",
    "p": 200,
-   "apic": "Beetlejuice"
+   "apic": "Beetlejuice",
+   "cpic": "Tim Burton"
   },
   {
    "q": "How many times must you say Beetlejuice's name to summon him?",
@@ -394,7 +412,8 @@
    "q": "Which 1999 Tim Burton film features the Headless Horseman?",
    "a": "Sleepy Hollow",
    "p": 200,
-   "apic": "Sleepy Hollow (film)"
+   "apic": "Sleepy Hollow (film)",
+   "cpic": "Tim Burton"
   },
   {
    "q": "Which Stephen King story features a burial ground that brings dead pets back to life?",
@@ -415,7 +434,8 @@
   {
    "q": "Which James Wan film franchise began in 2010 with a boy who falls into a mysterious coma?",
    "a": "Insidious",
-   "p": 200
+   "p": 200,
+   "cpic": "James Wan"
   },
   {
    "q": "Who directed Saw, Insidious and The Conjuring?",
@@ -427,7 +447,8 @@
    "q": "Who created both the Scream and A Nightmare on Elm Street franchises?",
    "a": "Wes Craven",
    "p": 200,
-   "apic": "Wes Craven"
+   "apic": "Wes Craven",
+   "cpic": "The Scream"
   },
   {
    "q": "Who directed and composed the music for Halloween (1978)?",
@@ -439,7 +460,8 @@
    "q": "Which 2024 sequel brought Michael Keaton back as a mischievous ghost 36 years later?",
    "a": "Beetlejuice Beetlejuice",
    "p": 200,
-   "apic": "Beetlejuice Beetlejuice"
+   "apic": "Beetlejuice Beetlejuice",
+   "cpic": "Michael Keaton"
   },
   {
    "q": "Who directed A Quiet Place and played the father in it?",
@@ -470,13 +492,15 @@
    "q": "Which 1922 German silent film features the vampire Count Orlok?",
    "a": "Nosferatu",
    "p": 200,
-   "apic": "Nosferatu"
+   "apic": "Nosferatu",
+   "cpic": "Vampire"
   },
   {
    "q": "Which 1993 Tim Burton-produced stop-motion film follows Jack Skellington, the Pumpkin King?",
    "a": "The Nightmare Before Christmas",
    "p": 200,
-   "apic": "The Nightmare Before Christmas"
+   "apic": "The Nightmare Before Christmas",
+   "cpic": "Tim Burton"
   },
   {
    "q": "Which horror villain's real name is Charles Lee Ray?",
@@ -493,7 +517,8 @@
    "q": "What metal is traditionally needed to kill a werewolf?",
    "a": "Silver",
    "p": 200,
-   "apic": "Silver"
+   "apic": "Silver",
+   "cpic": "Werewolf"
   },
   {
    "q": "Which pungent vegetable is traditionally said to ward off vampires?",
@@ -515,13 +540,15 @@
    "q": "Which 2022 Jordan Peele film follows siblings who run a horse ranch and spot something in the sky?",
    "a": "Nope",
    "p": 200,
-   "apic": "Nope (film)"
+   "apic": "Nope (film)",
+   "cpic": "Jordan Peele"
   },
   {
    "q": "Which 2016 M. Night Shyamalan film stars James McAvoy as a man with 23 personalities?",
    "a": "Split",
    "p": 200,
-   "apic": "Split (2016 American film)"
+   "apic": "Split (2016 American film)",
+   "cpic": "James McAvoy"
   },
   {
    "q": "Which 2023 horror sequel moved the Evil Dead story to a city apartment block?",
@@ -537,19 +564,22 @@
    "q": "Which 2025 Ryan Coogler horror film stars Michael B. Jordan as twin brothers facing vampires?",
    "a": "Sinners",
    "p": 200,
-   "apic": "Sinners (2025 film)"
+   "apic": "Sinners (2025 film)",
+   "cpic": "Michael B. Jordan"
   },
   {
    "q": "Which 2002 Danny Boyle film sees a man wake from a coma into a deserted, infected London?",
    "a": "28 Days Later",
    "p": 200,
-   "apic": "28 Days Later"
+   "apic": "28 Days Later",
+   "cpic": "Danny Boyle"
   },
   {
    "q": "Which 1990 film produced by Steven Spielberg features deadly spiders invading a small California town?",
    "a": "Arachnophobia",
    "p": 200,
-   "apic": "Arachnophobia (film)"
+   "apic": "Arachnophobia (film)",
+   "cpic": "Steven Spielberg"
   },
   {
    "q": "Which iconic horror villain wears a white mask and boiler suit and never speaks?",
@@ -623,13 +653,15 @@
    "p": 400,
    "alt": [
     "The VVitch"
-   ]
+   ],
+   "cpic": "Robert Eggers"
   },
   {
    "q": "Who directed the 2024 remake of Nosferatu?",
    "a": "Robert Eggers",
    "p": 400,
-   "apic": "Robert Eggers"
+   "apic": "Robert Eggers",
+   "cpic": "Nosferatu"
   },
   {
    "q": "Which 2014 Australian film features a monster from a sinister pop-up book?",
@@ -687,13 +719,15 @@
    "q": "What is the title of the 2019 sequel to The Shining, starring Ewan McGregor?",
    "a": "Doctor Sleep",
    "p": 400,
-   "apic": "Doctor Sleep (2019 film)"
+   "apic": "Doctor Sleep (2019 film)",
+   "cpic": "Ewan McGregor"
   },
   {
    "q": "Which 1982 John Carpenter film features a shape-shifting alien at a remote research station?",
    "a": "The Thing",
    "p": 400,
-   "apic": "The Thing (1982 film)"
+   "apic": "The Thing (1982 film)",
+   "cpic": "John Carpenter"
   },
   {
    "q": "On which continent is The Thing (1982) set?",
@@ -711,7 +745,8 @@
    "q": "Which 1980 John Carpenter film features a glowing mist that brings vengeful ghosts to a coastal town?",
    "a": "The Fog",
    "p": 400,
-   "apic": "The Fog"
+   "apic": "The Fog",
+   "cpic": "John Carpenter"
   },
   {
    "q": "Which 1983 John Carpenter film, based on a Stephen King novel, is about a killer car?",
@@ -763,7 +798,8 @@
    "q": "Which famous Edvard Munch painting inspired the Ghostface mask?",
    "a": "The Scream",
    "p": 400,
-   "apic": "The Scream"
+   "apic": "The Scream",
+   "cpic": "Edvard Munch"
   },
   {
    "q": "In which city is Scream VI (2023) set?",
@@ -779,7 +815,8 @@
    "q": "Which 1997 slasher, written by Scream's Kevin Williamson, features a killer fisherman with a hook?",
    "a": "I Know What You Did Last Summer",
    "p": 400,
-   "apic": "I Know What You Did Last Summer"
+   "apic": "I Know What You Did Last Summer",
+   "cpic": "Kevin Williamson (screenwriter)"
   },
   {
    "q": "How many times must you say Candyman's name into a mirror to summon him?",
@@ -855,7 +892,8 @@
   {
    "q": "What is Dr Frankenstein's first name in Mary Shelley's novel?",
    "a": "Victor",
-   "p": 400
+   "p": 400,
+   "cpic": "Mary Shelley"
   },
   {
    "q": "Which 1954 Universal monster film features a gill-man from the Amazon?",
@@ -867,7 +905,8 @@
    "q": "Which 1981 John Landis film sees a US backpacker bitten by a werewolf on the Yorkshire moors?",
    "a": "An American Werewolf in London",
    "p": 400,
-   "apic": "An American Werewolf in London"
+   "apic": "An American Werewolf in London",
+   "cpic": "John Landis"
   },
   {
    "q": "Which 1986 David Cronenberg film stars Jeff Goldblum as a scientist slowly becoming an insect?",
@@ -879,25 +918,29 @@
    "q": "Which Psycho actress is the mother of Jamie Lee Curtis?",
    "a": "Janet Leigh",
    "p": 400,
-   "apic": "Janet Leigh"
+   "apic": "Janet Leigh",
+   "cpic": "Jamie Lee Curtis"
   },
   {
    "q": "Which actor played Norman Bates in Psycho (1960)?",
    "a": "Anthony Perkins",
    "p": 400,
-   "apic": "Anthony Perkins"
+   "apic": "Anthony Perkins",
+   "cpic": "Psycho (1960 film)"
   },
   {
    "q": "Which 2013 TV series is a modern-day prequel to Psycho?",
    "a": "Bates Motel",
    "p": 400,
-   "apic": "Bates Motel (TV series)"
+   "apic": "Bates Motel (TV series)",
+   "cpic": "Psycho (1960 film)"
   },
   {
    "q": "Which 1968 Roman Polanski film follows a pregnant woman in a sinister New York apartment building?",
    "a": "Rosemary's Baby",
    "p": 400,
-   "apic": "Rosemary's Baby (film)"
+   "apic": "Rosemary's Baby (film)",
+   "cpic": "Roman Polanski"
   },
   {
    "q": "What three-digit number is the birthmark found on Damien in The Omen?",
@@ -907,7 +950,8 @@
   {
    "q": "Which 1968 George A. Romero film launched the modern zombie genre?",
    "a": "Night of the Living Dead",
-   "p": 400
+   "p": 400,
+   "cpic": "George A. Romero"
   },
   {
    "q": "Where do survivors shelter in George A. Romero's Dawn of the Dead (1978)?",
@@ -917,7 +961,8 @@
     "Shopping mall",
     "Mall"
    ],
-   "apic": "Shopping mall"
+   "apic": "Shopping mall",
+   "cpic": "George A. Romero"
   },
   {
    "q": "What do the zombies in The Return of the Living Dead (1985) crave?",
@@ -990,7 +1035,8 @@
    "alt": [
     "Blumhouse Productions"
    ],
-   "apic": "Blumhouse Productions"
+   "apic": "Blumhouse Productions",
+   "cpic": "Jason Blum"
   },
   {
    "q": "Which British actor played Dracula in a long series of Hammer horror films?",
@@ -1002,31 +1048,36 @@
    "q": "Which 1992 Francis Ford Coppola film stars Gary Oldman as the famous vampire?",
    "a": "Bram Stoker's Dracula",
    "p": 400,
-   "apic": "Bram Stoker's Dracula"
+   "apic": "Bram Stoker's Dracula",
+   "cpic": "Francis Ford Coppola"
   },
   {
    "q": "Which 1994 film stars Tom Cruise as the vampire Lestat?",
    "a": "Interview with the Vampire",
    "p": 400,
-   "apic": "Interview with the Vampire (film)"
+   "apic": "Interview with the Vampire (film)",
+   "cpic": "Tom Cruise"
   },
   {
    "q": "Which actor plays Louis, the reluctant vampire, in Interview with the Vampire?",
    "a": "Brad Pitt",
    "p": 400,
-   "apic": "Brad Pitt"
+   "apic": "Brad Pitt",
+   "cpic": "Vampire"
   },
   {
    "q": "Which 2001 haunted-house film stars Nicole Kidman as a mother in a dark Jersey mansion?",
    "a": "The Others",
    "p": 400,
-   "apic": "The Others (2001 film)"
+   "apic": "The Others (2001 film)",
+   "cpic": "Nicole Kidman"
   },
   {
    "q": "Which 1996 Robert Rodriguez film, written by Quentin Tarantino, turns into a vampire siege at a bar?",
    "a": "From Dusk Till Dawn",
    "p": 400,
-   "apic": "From Dusk till Dawn"
+   "apic": "From Dusk till Dawn",
+   "cpic": "Quentin Tarantino"
   },
   {
    "q": "Which actor plays Ichabod Crane in Sleepy Hollow (1999)?",
@@ -1086,19 +1137,22 @@
    "q": "Which 2020 Leigh Whannell film stars Elisabeth Moss as a woman stalked by an unseen ex?",
    "a": "The Invisible Man",
    "p": 400,
-   "apic": "The Invisible Man (2020 film)"
+   "apic": "The Invisible Man (2020 film)",
+   "cpic": "Leigh Whannell"
   },
   {
    "q": "Which horror actor performed the spoken-word section of Michael Jackson's Thriller?",
    "a": "Vincent Price",
    "p": 400,
-   "apic": "Vincent Price"
+   "apic": "Vincent Price",
+   "cpic": "Michael Jackson"
   },
   {
    "q": "Which 2025 film continues the rage-virus story begun by Danny Boyle in 2002?",
    "a": "28 Years Later",
    "p": 400,
-   "apic": "28 Years Later"
+   "apic": "28 Years Later",
+   "cpic": "Danny Boyle"
   },
   {
    "q": "What was the original 1998 Japanese film that inspired The Ring?",
@@ -1158,12 +1212,14 @@
    "q": "Which creature hunts Arnold Schwarzenegger's commandos in a 1987 jungle film before crossing over with Alien?",
    "a": "Predator",
    "p": 400,
-   "apic": "Predator (film)"
+   "apic": "Predator (film)",
+   "cpic": "Arnold Schwarzenegger"
   },
   {
    "q": "Which 2024 Osgood Perkins film stars Nicolas Cage as a serial killer?",
    "a": "Longlegs",
-   "p": 400
+   "p": 400,
+   "cpic": "Nicolas Cage"
   },
   {
    "q": "Which 2024 horror film follows kidnappers whose young ballerina hostage turns out to be a vampire?",
@@ -1199,7 +1255,8 @@
    "q": "Which 2015 Guillermo del Toro gothic romance is set in a decaying mansion built on red clay?",
    "a": "Crimson Peak",
    "p": 600,
-   "apic": "Crimson Peak"
+   "apic": "Crimson Peak",
+   "cpic": "Guillermo del Toro"
   },
   {
    "q": "Which 2005 British film follows six women trapped in a cave system with creatures?",
@@ -1232,7 +1289,8 @@
    "q": "Which 2019 film starring Robert Pattinson and Willem Dafoe follows two keepers on a remote island?",
    "a": "The Lighthouse",
    "p": 400,
-   "apic": "The Lighthouse (2019 film)"
+   "apic": "The Lighthouse (2019 film)",
+   "cpic": "Robert Pattinson"
   },
   {
    "q": "In Pet Sematary, what is the name of the family's cat?",
@@ -1309,12 +1367,14 @@
   {
    "q": "Which 1977 Wes Craven film follows a family stranded in the desert and hunted by a feral clan?",
    "a": "The Hills Have Eyes",
-   "p": 600
+   "p": 600,
+   "cpic": "Wes Craven"
   },
   {
    "q": "Which 1991 Wes Craven film follows a boy trapped in a house with a cruel landlord couple?",
    "a": "The People Under the Stairs",
-   "p": 600
+   "p": 600,
+   "cpic": "Wes Craven"
   },
   {
    "q": "Who wrote the screenplay for Scream (1996)?",
@@ -1407,7 +1467,8 @@
    "q": "Which actor played Count Orlok in the original 1922 Nosferatu?",
    "a": "Max Schreck",
    "p": 600,
-   "apic": "Max Schreck"
+   "apic": "Max Schreck",
+   "cpic": "Nosferatu"
   },
   {
    "q": "Which actor plays Count Orlok in the 2024 Nosferatu?",
@@ -1416,7 +1477,8 @@
    "alt": [
     "Bill Skarsgard"
    ],
-   "apic": "Bill Skarsgård"
+   "apic": "Bill Skarsgård",
+   "cpic": "Nosferatu"
   },
   {
    "q": "Which 1920 German expressionist film features a sleepwalker controlled by a sinister doctor?",
@@ -1437,7 +1499,8 @@
    "q": "Who directed Frankenstein (1931) and Bride of Frankenstein?",
    "a": "James Whale",
    "p": 600,
-   "apic": "James Whale"
+   "apic": "James Whale",
+   "cpic": "Bride of Frankenstein"
   },
   {
    "q": "Which actor starred as The Invisible Man in the 1933 Universal film?",
@@ -1458,19 +1521,22 @@
    "alt": [
     "Hammer"
    ],
-   "apic": "Hammer Film Productions"
+   "apic": "Hammer Film Productions",
+   "cpic": "Christopher Lee"
   },
   {
    "q": "Which actor played Van Helsing opposite Christopher Lee's Dracula in Hammer's films?",
    "a": "Peter Cushing",
    "p": 600,
-   "apic": "Peter Cushing"
+   "apic": "Peter Cushing",
+   "cpic": "Christopher Lee"
   },
   {
    "q": "Which actress starred in Hitchcock's The Birds?",
    "a": "Tippi Hedren",
    "p": 600,
-   "apic": "Tippi Hedren"
+   "apic": "Tippi Hedren",
+   "cpic": "The Birds (film)"
   },
   {
    "q": "Who directed the 1998 shot-for-shot remake of Psycho?",
@@ -1491,7 +1557,8 @@
    "alt": [
     "The House on Haunted Hill"
    ],
-   "apic": "House on Haunted Hill"
+   "apic": "House on Haunted Hill",
+   "cpic": "Vincent Price"
   },
   {
    "q": "Which 1977 Dario Argento film is set at a German ballet academy run by witches?",
@@ -1602,12 +1669,14 @@
    "q": "Which Australian co-wrote Saw and Insidious with James Wan?",
    "a": "Leigh Whannell",
    "p": 600,
-   "apic": "Leigh Whannell"
+   "apic": "Leigh Whannell",
+   "cpic": "James Wan"
   },
   {
    "q": "Which 2021 James Wan film links a woman's visions to a killer called Gabriel?",
    "a": "Malignant",
-   "p": 600
+   "p": 600,
+   "cpic": "James Wan"
   },
   {
    "q": "In which US state do the Perron family live in The Conjuring?",
@@ -1672,7 +1741,8 @@
   {
    "q": "Which 1979 film features the Tall Man and his flying silver spheres?",
    "a": "Phantasm",
-   "p": 600
+   "p": 600,
+   "cpic": "Silver"
   },
   {
    "q": "What are the giant underground worms called in Tremors (1990)?",
@@ -1764,7 +1834,8 @@
    "q": "Who directed Michael Jackson's horror-themed Thriller music video?",
    "a": "John Landis",
    "p": 600,
-   "apic": "John Landis"
+   "apic": "John Landis",
+   "cpic": "Michael Jackson"
   },
   {
    "q": "Who directed Smile (2022)?",
@@ -1776,7 +1847,8 @@
    "q": "What kind of creature is Count Dracula?",
    "a": "Vampire",
    "p": 200,
-   "apic": "Vampire"
+   "apic": "Vampire",
+   "cpic": "Count Dracula"
   },
   {
    "q": "What name is given to horror films in which a killer picks off victims one by one?",
@@ -1795,7 +1867,8 @@
    "q": "Which 2007 film stars Will Smith as seemingly the last man alive in New York?",
    "a": "I Am Legend",
    "p": 200,
-   "apic": "I Am Legend (film)"
+   "apic": "I Am Legend (film)",
+   "cpic": "Will Smith"
   },
   {
    "q": "Which 1984 comedy-horror film follows Bill Murray's team catching spirits in New York?",
@@ -1848,13 +1921,15 @@
    "q": "Which actor plays R. L. Stine in the 2015 film Goosebumps?",
    "a": "Jack Black",
    "p": 400,
-   "apic": "Jack Black"
+   "apic": "Jack Black",
+   "cpic": "R. L. Stine"
   },
   {
    "q": "Which 2023 horror film stars Russell Crowe as a real-life Vatican exorcist?",
    "a": "The Pope's Exorcist",
    "p": 400,
-   "apic": "The Pope's Exorcist"
+   "apic": "The Pope's Exorcist",
+   "cpic": "Russell Crowe"
   },
   {
    "q": "What is the name of Will Smith's dog in I Am Legend?",
@@ -1862,7 +1937,8 @@
    "p": 600,
    "alt": [
     "Samantha"
-   ]
+   ],
+   "cpic": "Will Smith"
   }
  ]
 }

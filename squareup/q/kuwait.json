@@ -21,7 +21,8 @@
     "Dinar",
     "KWD"
    ],
-   "apic": "Kuwaiti dinar"
+   "apic": "Kuwaiti dinar",
+   "cpic": "Kuwait"
   },
   {
    "q": "Which family has ruled Kuwait since the 18th century?",
@@ -33,7 +34,8 @@
     "Al-Sabah",
     "Al Sabah family"
    ],
-   "apic": "House of Al-Sabah"
+   "apic": "House of Al-Sabah",
+   "cpic": "Kuwait"
   },
   {
    "q": "Which Kuwait City landmark is a group of slender towers with blue-tiled spheres on the Gulf shore?",
@@ -53,7 +55,8 @@
     "February 25",
     "25th February",
     "Feb 25"
-   ]
+   ],
+   "cpic": "Kuwait"
   },
   {
    "q": "On which date does Kuwait celebrate Liberation Day?",
@@ -87,7 +90,8 @@
     "Souk Al-Mubarakiya",
     "Al Mubarakiya"
    ],
-   "apic": "Souq Al-Mubarakiya"
+   "apic": "Souq Al-Mubarakiya",
+   "cpic": "Kuwait City"
   },
   {
    "q": "Which spiced rice dish with meat or fish is often called Kuwait's national dish?",
@@ -152,7 +156,8 @@
    "alt": [
     "Burj Al Tahrir"
    ],
-   "apic": "Liberation Tower (Kuwait)"
+   "apic": "Liberation Tower (Kuwait)",
+   "cpic": "Kuwait City"
   },
   {
    "q": "What is the name of Kuwait's national flag carrier airline?",
@@ -218,7 +223,8 @@
     "The Blue",
     "The Blues",
     "Al Azraq"
-   ]
+   ],
+   "cpic": "Kuwait national football team"
   },
   {
    "q": "What title does Kuwait's head of state hold?",
@@ -333,7 +339,8 @@
      "Ramadan",
      "رمضان"
     ]
-   ]
+   ],
+   "cpic": "Date syrup"
   },
   {
    "q": "Which Gulf dialect word, used in Kuwait, means 'good' or 'fine'?",
@@ -446,7 +453,8 @@
    "alt": [
     "Hawk"
    ],
-   "apic": "Falcon"
+   "apic": "Falcon",
+   "cpic": "Dhow"
   },
   {
    "q": "Which Kuwaiti seaside district is known for Salem Al Mubarak Street and the Scientific Center?",
@@ -712,7 +720,8 @@
    "alt": [
     "Bay of Kuwait"
    ],
-   "apic": "Kuwait Bay"
+   "apic": "Kuwait Bay",
+   "cpic": "Arabic"
   },
   {
    "q": "Which is Kuwait's largest island?",
@@ -802,7 +811,8 @@
     "Water tank",
     "Water storage",
     "Drinking water"
-   ]
+   ],
+   "cpic": "Kuwait Towers"
   },
   {
    "q": "Kuwait's name is a diminutive of an Arabic word meaning what?",
@@ -812,7 +822,8 @@
     "Fortress",
     "Little fort",
     "Small fort"
-   ]
+   ],
+   "cpic": "Arabic"
   },
   {
    "q": "Which country hosted the 1980 AFC Asian Cup?",
@@ -911,7 +922,8 @@
     "Al Sadu",
     "Sadu weaving"
    ],
-   "apic": "Al Sadu"
+   "apic": "Al Sadu",
+   "cpic": "Kuwait City"
   },
   {
    "q": "Which palace near the Grand Mosque, with a famous clock tower, is the seat of the Emir's court?",
@@ -922,7 +934,8 @@
     "Al Seif Palace",
     "Qasr Al Seif"
    ],
-   "apic": "Seif Palace"
+   "apic": "Seif Palace",
+   "cpic": "Grand Mosque (Kuwait)"
   },
   {
    "q": "How many governorates is Kuwait divided into?",
@@ -998,7 +1011,8 @@
     "Zubaydi",
     "Zobaidi"
    ],
-   "apic": "Silver pomfret"
+   "apic": "Silver pomfret",
+   "cpic": "Silver pomfret"
   },
   {
    "q": "Which sweet Gulf breakfast dish combines saffron vermicelli with a thin omelette?",
@@ -1026,7 +1040,8 @@
      "machboos",
      "مجبوس"
     ]
-   ]
+   ],
+   "cpic": "Machboos"
   },
   {
    "q": "Which Ramadan dish is made by soaking thin bread in a meat and vegetable stew?",
@@ -1057,7 +1072,8 @@
    "q": "What is the three-letter IATA code of Kuwait International Airport?",
    "a": "KWI",
    "p": 400,
-   "apic": "Kuwait International Airport"
+   "apic": "Kuwait International Airport",
+   "cpic": "Kuwait International Airport"
   },
   {
    "q": "What is the name of the Kuwaiti singer on a pearling ship who sang work songs to keep the crew going?",
@@ -1100,7 +1116,8 @@
    "alt": [
     "Al-Arabi",
     "Al Arabi magazine"
-   ]
+   ],
+   "cpic": "Arab world"
   },
   {
    "q": "Which Gulf war-dance with drums, swords and chanting lines of men is performed at Kuwaiti celebrations?",
@@ -1112,7 +1129,8 @@
     "Ardah",
     "Al Arda"
    ],
-   "apic": "Ardah"
+   "apic": "Ardah",
+   "cpic": "Gulf War"
   },
   {
    "q": "Which Kuwaiti ruler, known as 'the Great', signed the 1899 agreement with Britain?",
@@ -1145,7 +1163,8 @@
    "alt": [
     "Boum",
     "Bum"
-   ]
+   ],
+   "cpic": "Dhow"
   },
   {
    "q": "Which mud fort in Jahra was the scene of a famous battle in 1920?",
@@ -1185,7 +1204,8 @@
     "Gulf Road",
     "Gulf Street",
     "Arabian Gulf Road"
-   ]
+   ],
+   "cpic": "Kuwait Towers"
   },
   {
    "q": "What are desert truffles, foraged after winter rains, called in Kuwait?",
@@ -1242,7 +1262,8 @@
      "machboos",
      "مجبوس"
     ]
-   ]
+   ],
+   "cpic": "Machboos"
   },
   {
    "q": "Which Kuwaiti dialect word, used when surprised, means 'Really?' or 'Is it true?'",
@@ -1320,13 +1341,15 @@
    "q": "In which year did Kuwait join the United Nations?",
    "a": "1963",
    "p": 400,
-   "apic": "United Nations"
+   "apic": "United Nations",
+   "cpic": "United Nations"
   },
   {
    "q": "In which year did Kuwait join the Arab League?",
    "a": "1961",
    "p": 400,
-   "apic": "Arab League"
+   "apic": "Arab League",
+   "cpic": "Arab League"
   },
   {
    "q": "What was the main summer pearling season, when the fleet stayed out for months, called?",
@@ -1347,7 +1370,8 @@
     "Saj",
     "Teak wood"
    ],
-   "apic": "Teak"
+   "apic": "Teak",
+   "cpic": "India"
   },
   {
    "q": "What is the name of Kuwait's official state news agency, known by a four-letter acronym?",
@@ -1454,7 +1478,8 @@
     "Malene Bjorn",
     "Malene Bjoern"
    ],
-   "apic": "Malene Bjørn"
+   "apic": "Malene Bjørn",
+   "cpic": "Kuwait Towers"
   },
   {
    "q": "To the nearest metre, how tall is the main Kuwait Towers spire?",
@@ -1501,7 +1526,8 @@
    "alt": [
     "372",
     "372 m"
-   ]
+   ],
+   "cpic": "Liberation Tower (Kuwait)"
   },
   {
    "q": "What name did Alexander the Great's Greeks give to Failaka Island?",
@@ -1702,7 +1728,8 @@
      "Kuwait Bay",
      "جون الكويت"
     ]
-   ]
+   ],
+   "cpic": "Kuwait Bay"
   },
   {
    "q": "Which Bronze Age Gulf civilisation, centred on Bahrain, left remains on Failaka Island?",
@@ -1723,7 +1750,8 @@
      "Failaka Island",
      "جزيرة فيلكا"
     ]
-   ]
+   ],
+   "cpic": "Failaka Island"
   },
   {
    "q": "The engineering firm VBB, which built the Kuwait Towers, came from which country?",
@@ -1792,7 +1820,8 @@
     "Gallaf",
     "Al Qallaf",
     "Gallaaf"
-   ]
+   ],
+   "cpic": "Dhow"
   },
   {
    "q": "Which Emir ruled Kuwait during the 1920 Battle of Jahra?",

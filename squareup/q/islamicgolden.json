@@ -47,7 +47,8 @@
    "alt": [
     "Bagdad"
    ],
-   "apic": "Baghdad"
+   "apic": "Baghdad",
+   "cpic": "House of Wisdom"
   },
   {
    "q": "Which southern Spanish city, home to a famous Great Mosque, was the capital of Islamic Spain's Umayyad caliphate?",
@@ -102,7 +103,8 @@
      "Baghdad",
      "بغداد"
     ]
-   ]
+   ],
+   "cpic": "One Thousand and One Nights"
   },
   {
    "q": "Which number system, now used worldwide, reached Europe largely through Arab scholars?",
@@ -148,7 +150,8 @@
      "Baghdad",
      "بغداد"
     ]
-   ]
+   ],
+   "cpic": "Baghdad"
   },
   {
    "q": "Ibn al-Haytham is best known for his pioneering work in which science of light and vision?",
@@ -190,7 +193,8 @@
     "Al Andalus",
     "Andalusia"
    ],
-   "apic": "Al-Andalus"
+   "apic": "Al-Andalus",
+   "cpic": "Iberian Peninsula"
   },
   {
    "q": "Which instrument, used to tell time and find star positions, was greatly refined by Muslim astronomers?",
@@ -280,7 +284,8 @@
      "Baghdad",
      "بغداد"
     ]
-   ]
+   ],
+   "cpic": "Baghdad"
   },
   {
    "q": "From which ancient civilisation's books did House of Wisdom scholars translate many works into Arabic?",
@@ -291,7 +296,8 @@
     "Ancient Greek",
     "Ancient Greece",
     "Greece"
-   ]
+   ],
+   "cpic": "House of Wisdom"
   },
   {
    "q": "Which writing material, spread across the Islamic world, made books cheaper than parchment?",
@@ -310,7 +316,8 @@
     "Silk Route",
     "The Silk Road"
    ],
-   "apic": "Silk Road"
+   "apic": "Silk Road",
+   "cpic": "China"
   },
   {
    "q": "Which board game, with the Arabic name 'shatranj', reached Europe through the Islamic world?",
@@ -361,7 +368,8 @@
     "Dau",
     "Dhaw"
    ],
-   "apic": "Dhow"
+   "apic": "Dhow",
+   "cpic": "Indian Ocean"
   },
   {
    "q": "Which gold coin, whose name comes from the Roman denarius, is still a currency name in several Arab countries?",
@@ -539,7 +547,8 @@
      "Al-Idrisi",
      "الإدريسي"
     ]
-   ]
+   ],
+   "cpic": "King (chess)"
   },
   {
    "q": "Which scholar, called the father of modern optics, wrote the Book of Optics?",
@@ -649,7 +658,8 @@
     "Idrisi",
     "Edrisi",
     "Al Idrisi"
-   ]
+   ],
+   "cpic": "Tabula Rogeriana"
   },
   {
    "q": "In which Moroccan city is the Al-Qarawiyyin institution, often called the world's oldest continuously operating university?",
@@ -741,7 +751,8 @@
      "Baghdad",
      "بغداد"
     ]
-   ]
+   ],
+   "cpic": "Baghdad"
   },
   {
    "q": "Which Abbasid caliph, a son of Harun al-Rashid, greatly expanded the House of Wisdom?",
@@ -758,7 +769,8 @@
      "Harun al-Rashid",
      "هارون الرشيد"
     ]
-   ]
+   ],
+   "cpic": "House of Wisdom"
   },
   {
    "q": "What is the Arabic name of the House of Wisdom in Baghdad?",
@@ -869,7 +881,8 @@
      "Basra",
      "البصرة"
     ]
-   ]
+   ],
+   "cpic": "Basra"
   },
   {
    "q": "Which storyteller in the Arabian Nights tells tales night after night to delay her fate?",
@@ -1016,7 +1029,8 @@
     "Sugar cane",
     "Sugar"
    ],
-   "apic": "Sugarcane"
+   "apic": "Sugarcane",
+   "cpic": "Spain"
   },
   {
    "q": "Which Baghdad-trained musician at Cordoba's court is traditionally credited with adding a fifth string to the oud?",
@@ -1088,7 +1102,8 @@
     "Alfarabi",
     "Farabi",
     "Al Farabi"
-   ]
+   ],
+   "cpic": "Aristotle"
   },
   {
    "q": "Which 13th-century physician described the lesser (pulmonary) circulation of blood?",
@@ -1171,7 +1186,8 @@
     "Azophi",
     "Abd al-Rahman al-Sufi",
     "Al Sufi"
-   ]
+   ],
+   "cpic": "Andromeda Galaxy"
   },
   {
    "q": "Which Andalusian philosopher wrote the novel 'Hayy ibn Yaqzan'?",
@@ -1227,7 +1243,8 @@
      "Hakimi Zij",
      "الزيج الحاكمي"
     ]
-   ]
+   ],
+   "cpic": "Cairo"
   },
   {
    "q": "Which Andalusian botanist from Malaga compiled a compendium of about 1,400 simple drugs and foods?",
@@ -1270,7 +1287,8 @@
      "Samarkand",
      "سمرقند"
     ]
-   ]
+   ],
+   "cpic": "Samarkand"
   },
   {
    "q": "Which vizier founded the Nizamiyya network of colleges in the 11th century?",
@@ -1463,7 +1481,8 @@
     "Bougie",
     "Bijaya"
    ],
-   "apic": "Béjaïa"
+   "apic": "Béjaïa",
+   "cpic": "Fibonacci"
   },
   {
    "q": "On Al-Idrisi's 1154 world map, which compass direction was placed at the top?",
@@ -1530,12 +1549,14 @@
    "q": "From which country did the art of paper-making reach the Islamic world in the 8th century?",
    "a": "China",
    "p": 200,
-   "apic": "China"
+   "apic": "China",
+   "cpic": "Paper"
   },
   {
    "q": "In which language did most scholars of the Golden Age, from Spain to Central Asia, write their works?",
    "a": "Arabic",
-   "p": 200
+   "p": 200,
+   "cpic": "Spain"
   },
   {
    "q": "Which Persian poet and mathematician is famous for the Rubaiyat?",
@@ -1571,7 +1592,8 @@
    "alt": [
     "The king"
    ],
-   "apic": "King (chess)"
+   "apic": "King (chess)",
+   "cpic": "Chess"
   },
   {
    "q": "In which tale from the Arabian Nights does the phrase 'Open Sesame' unlock a cave of treasure?",
@@ -1604,7 +1626,8 @@
      "Aladdin",
      "علاء الدين"
     ]
-   ]
+   ],
+   "cpic": "Aladdin"
   },
   {
    "q": "Which giant mythical bird carries Sinbad away in the Arabian Nights?",
@@ -1655,7 +1678,8 @@
      "Bukhara",
      "بخارى"
     ]
-   ]
+   ],
+   "cpic": "Bukhara"
   },
   {
    "q": "Cordoba, capital of Al-Andalus, is in which modern country?",
@@ -1791,7 +1815,8 @@
      "Basra",
      "البصرة"
     ]
-   ]
+   ],
+   "cpic": "Basra"
   },
   {
    "q": "Which Greek physician's medical works were translated into Arabic by Hunayn ibn Ishaq and shaped Islamic medicine?",
@@ -1992,7 +2017,8 @@
    "q": "In which Iraqi city did the Islamic world's first paper mill open, around 794?",
    "a": "Baghdad",
    "p": 400,
-   "ar": "بغداد"
+   "ar": "بغداد",
+   "cpic": "Paper"
   },
   {
    "q": "Al-Khwarizmi's name means he came from which Central Asian region?",
@@ -2076,7 +2102,8 @@
      "Tangier",
      "طنجة"
     ]
-   ]
+   ],
+   "cpic": "Tangier"
   },
   {
    "q": "Which board game, called 'nard' in Persian, was popular across the medieval Islamic world?",
@@ -2192,7 +2219,8 @@
      "Scheherazade",
      "شهرزاد"
     ]
-   ]
+   ],
+   "cpic": "King (chess)"
   },
   {
    "q": "How many thieves are in the tale of Ali Baba?",
@@ -2253,7 +2281,8 @@
    "alt": [
     "Syriac Aramaic",
     "Aramaic"
-   ]
+   ],
+   "cpic": "Iraq"
   },
   {
    "q": "What was the name of the elephant Harun al-Rashid sent to Charlemagne?",
@@ -2269,7 +2298,8 @@
      "Harun al-Rashid",
      "هارون الرشيد"
     ]
-   ]
+   ],
+   "cpic": "Charlemagne"
   },
   {
    "q": "Al-Razi's name shows he came from which city near modern Tehran?",
@@ -2493,7 +2523,8 @@
      "Basra",
      "البصرة"
     ]
-   ]
+   ],
+   "cpic": "Basra"
   },
   {
    "q": "What was the name for a paper-seller, copyist and bookseller in Abbasid Baghdad?",
@@ -2513,7 +2544,8 @@
      "Baghdad",
      "بغداد"
     ]
-   ]
+   ],
+   "cpic": "Paper"
   },
   {
    "q": "The 751 Battle of Talas pitted the Abbasids against the army of which Chinese dynasty?",
@@ -2678,7 +2710,8 @@
      "Al-Biruni",
      "البيروني"
     ]
-   ]
+   ],
+   "cpic": "India"
   },
   {
    "q": "In which eastern Persian region were windmills with vertical axes described in the 9th and 10th centuries?",
@@ -2708,7 +2741,8 @@
      "shatranj",
      "الشطرنج"
     ]
-   ]
+   ],
+   "cpic": "Chess"
   },
   {
    "q": "Which French scholar, later Pope Sylvester II, helped introduce Arabic numerals to Europe around 1000?",
@@ -2733,7 +2767,8 @@
      "al-Khwarizmi",
      "الخوارزمي"
     ]
-   ]
+   ],
+   "cpic": "Euclid"
   },
   {
    "q": "Which English scholar made the first Latin translation of al-Khwarizmi's algebra, in Segovia in 1145?",
@@ -2802,7 +2837,8 @@
      "al-Ma'mun",
      "المأمون"
     ]
-   ]
+   ],
+   "cpic": "Iraq"
   },
   {
    "q": "What name is given to the medieval Islamic money-transfer system based on trust between brokers?",
@@ -2830,7 +2866,8 @@
      "Ali Baba",
      "علي بابا"
     ]
-   ]
+   ],
+   "cpic": "Aladdin"
   },
   {
    "q": "In the Arabian Nights, what is the name of Scheherazade's younger sister?",

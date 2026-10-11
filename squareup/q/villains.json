@@ -141,7 +141,8 @@
     "Nakatomi Tower",
     "Nakatomi"
    ],
-   "apic": "Fox Plaza"
+   "apic": "Fox Plaza",
+   "cpic": "Los Angeles"
   },
   {
    "q": "Which agent is Neo's relentless enemy in The Matrix?",
@@ -241,7 +242,8 @@
   {
    "q": "Which snow leopard is the villain of the first Kung Fu Panda?",
    "a": "Tai Lung",
-   "p": 200
+   "p": 200,
+   "cpic": "Snow leopard"
   },
   {
    "q": "Which peacock is the villain of Kung Fu Panda 2?",
@@ -303,7 +305,8 @@
    "p": 200,
    "alt": [
     "Jolly Roger"
-   ]
+   ],
+   "cpic": "Captain Hook"
   },
   {
    "q": "What is the name of Captain Hook's bumbling first mate?",
@@ -312,7 +315,8 @@
    "alt": [
     "Smee"
    ],
-   "apic": "Mr. Smee"
+   "apic": "Mr. Smee",
+   "cpic": "Captain Hook"
   },
   {
    "q": "Which Pirates of the Caribbean villain has tentacles for a beard?",
@@ -500,7 +504,8 @@
   {
    "q": "Which nerdy villain in Despicable Me steals the Great Pyramid of Giza?",
    "a": "Vector",
-   "p": 200
+   "p": 200,
+   "cpic": "Great Pyramid of Giza"
   },
   {
    "q": "Which Bond villain did Javier Bardem play in Skyfall?",
@@ -516,7 +521,8 @@
    "p": 400,
    "alt": [
     "Lyutsifer Safin"
-   ]
+   ],
+   "cpic": "Rami Malek"
   },
   {
    "q": "Which Danish actor played Le Chiffre in Casino Royale (2006)?",
@@ -612,12 +618,14 @@
    "alt": [
     "Moustache",
     "Mustache"
-   ]
+   ],
+   "cpic": "Cesar Romero"
   },
   {
    "q": "What is the Joker's real name in Tim Burton's Batman (1989)?",
    "a": "Jack Napier",
-   "p": 400
+   "p": 400,
+   "cpic": "Tim Burton"
   },
   {
    "q": "What is the Joker's name before his transformation in Joker (2019)?",
@@ -642,7 +650,8 @@
    "p": 400,
    "alt": [
     "Supporting Actor"
-   ]
+   ],
+   "cpic": "Heath Ledger"
   },
   {
    "q": "Which actor appears briefly as the Joker in The Batman (2022)?",
@@ -1273,12 +1282,14 @@
    "alt": [
     "Bill Cutting",
     "William Cutting"
-   ]
+   ],
+   "cpic": "Daniel Day-Lewis"
   },
   {
    "q": "Which Gladiator II villain, played by Denzel Washington, schemes for power?",
    "a": "Macrinus",
-   "p": 400
+   "p": 400,
+   "cpic": "Denzel Washington"
   },
   {
    "q": "Which Wizard of Oz actress played the Wicked Witch of the West in 1939?",
@@ -1505,7 +1516,8 @@
    "alt": [
     "Dolarhyde",
     "The Tooth Fairy"
-   ]
+   ],
+   "cpic": "Red Dragon (novel)"
   },
   {
    "q": "Which actor played Karl, Hans Gruber's vengeful henchman, in Die Hard?",
@@ -1749,7 +1761,8 @@
    "q": "Which actor played Mini-Me?",
    "a": "Verne Troyer",
    "p": 600,
-   "apic": "Verne Troyer"
+   "apic": "Verne Troyer",
+   "cpic": "Mini-Me"
   },
   {
    "q": "What is the name of Dr. Evil's cat?",
@@ -1879,7 +1892,8 @@
     "Moriarty",
     "James Moriarty"
    ],
-   "apic": "Professor Moriarty"
+   "apic": "Professor Moriarty",
+   "cpic": "Sherlock Holmes"
   },
   {
    "q": "Which penguin jewel thief disguises himself with a rubber glove in Wallace & Gromit?",

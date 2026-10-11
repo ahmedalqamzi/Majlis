@@ -6,25 +6,29 @@
    "q": "IKEA was founded in which country?",
    "a": "Sweden",
    "p": 200,
-   "apic": "Sweden"
+   "apic": "Sweden",
+   "cpic": "IKEA"
   },
   {
    "q": "Toyota was founded in which country?",
    "a": "Japan",
    "p": 200,
-   "apic": "Japan"
+   "apic": "Japan",
+   "cpic": "Toyota"
   },
   {
    "q": "Which fast food chain is known for its golden arches?",
    "a": "McDonald's",
    "p": 200,
-   "apic": "McDonald's"
+   "apic": "McDonald's",
+   "cpic": "Golden Arches"
   },
   {
    "q": "Adidas was founded in which country?",
    "a": "Germany",
    "p": 200,
-   "apic": "Germany"
+   "apic": "Germany",
+   "cpic": "Adidas"
   },
   {
    "q": "LEGO was founded in which country?",
@@ -48,7 +52,8 @@
    "q": "Ferrari was founded in which country?",
    "a": "Italy",
    "p": 200,
-   "apic": "Italy"
+   "apic": "Italy",
+   "cpic": "Ferrari"
   },
   {
    "q": "Which Japanese company makes the PlayStation?",
@@ -66,7 +71,8 @@
    "q": "Which Dubai-based airline was founded in 1985?",
    "a": "Emirates",
    "p": 200,
-   "apic": "Emirates (airline)"
+   "apic": "Emirates (airline)",
+   "cpic": "Dubai"
   },
   {
    "q": "Which Abu Dhabi-based airline was founded in 2003?",
@@ -84,7 +90,8 @@
    "q": "Which company makes Barbie dolls?",
    "a": "Mattel",
    "p": 200,
-   "apic": "Mattel"
+   "apic": "Mattel",
+   "cpic": "Barbie"
   },
   {
    "q": "Which company makes Snickers bars?",
@@ -108,7 +115,8 @@
    "q": "Amazon began as an online seller of which product?",
    "a": "Books",
    "p": 200,
-   "apic": "Book"
+   "apic": "Book",
+   "cpic": "Amazon (company)"
   },
   {
    "q": "Which Japanese brand makes the Civic?",
@@ -138,7 +146,8 @@
    "q": "Which company created Mickey Mouse?",
    "a": "Disney",
    "p": 200,
-   "apic": "The Walt Disney Company"
+   "apic": "The Walt Disney Company",
+   "cpic": "Mickey Mouse"
   },
   {
    "q": "What does the C in KFC stand for?",
@@ -215,24 +224,28 @@
    "q": "Nintendo began in 1889 making what traditional items?",
    "a": "Playing cards",
    "p": 400,
-   "apic": "Hanafuda"
+   "apic": "Hanafuda",
+   "cpic": "Nintendo"
   },
   {
    "q": "Google's name is a play on which very large number?",
    "a": "Googol",
-   "p": 400
+   "p": 400,
+   "cpic": "Google"
   },
   {
    "q": "Samsung means 'three stars' in which language?",
    "a": "Korean",
    "p": 400,
-   "apic": "Korean language"
+   "apic": "Korean language",
+   "cpic": "Samsung"
   },
   {
    "q": "Nestle was founded in which country?",
    "a": "Switzerland",
    "p": 400,
-   "apic": "Switzerland"
+   "apic": "Switzerland",
+   "cpic": "Nestlé"
   },
   {
    "q": "Fashion brand Zara was founded in which country?",
@@ -267,7 +280,8 @@
    "q": "Which Dubai developer built the Burj Khalifa?",
    "a": "Emaar",
    "p": 400,
-   "apic": "Emaar Properties"
+   "apic": "Emaar Properties",
+   "cpic": "Burj Khalifa"
   },
   {
    "q": "Aramex, a courier company, is headquartered in which UAE city?",
@@ -278,7 +292,8 @@
   {
    "q": "Adidas is named after the nickname of its founder. What was it?",
    "a": "Adi",
-   "p": 400
+   "p": 400,
+   "cpic": "Adidas"
   },
   {
    "q": "Volvo was founded in which country?",
@@ -296,7 +311,8 @@
    "q": "Rolex was founded in which country?",
    "a": "Switzerland",
    "p": 400,
-   "apic": "Switzerland"
+   "apic": "Switzerland",
+   "cpic": "Rolex"
   },
   {
    "q": "Louis Vuitton was founded in which country?",
@@ -308,7 +324,8 @@
    "q": "Red Bull energy drink was founded in which country?",
    "a": "Austria",
    "p": 400,
-   "apic": "Austria"
+   "apic": "Austria",
+   "cpic": "Red Bull"
   },
   {
    "q": "Nike is named after the Greek goddess of what?",
@@ -319,13 +336,15 @@
   {
    "q": "Volkswagen means what in English?",
    "a": "People's car",
-   "p": 400
+   "p": 400,
+   "cpic": "Volkswagen"
   },
   {
    "q": "Who co-founded Microsoft with Bill Gates?",
    "a": "Paul Allen",
    "p": 400,
-   "apic": "Paul Allen"
+   "apic": "Paul Allen",
+   "cpic": "Bill Gates"
   },
   {
    "q": "Who founded Walmart?",
@@ -337,13 +356,15 @@
    "q": "Which brother co-founded Disney with Walt Disney?",
    "a": "Roy",
    "p": 400,
-   "apic": "Roy O. Disney"
+   "apic": "Roy O. Disney",
+   "cpic": "Walt Disney"
   },
   {
    "q": "Who co-founded Google with Larry Page?",
    "a": "Sergey Brin",
    "p": 400,
-   "apic": "Sergey Brin"
+   "apic": "Sergey Brin",
+   "cpic": "Google"
   },
   {
    "q": "In which US city was Coca-Cola created in 1886?",
@@ -361,19 +382,22 @@
    "q": "Lenovo was founded in which country?",
    "a": "China",
    "p": 400,
-   "apic": "China"
+   "apic": "China",
+   "cpic": "Lenovo"
   },
   {
    "q": "Tata Group was founded in which country?",
    "a": "India",
    "p": 400,
-   "apic": "India"
+   "apic": "India",
+   "cpic": "Tata Group"
   },
   {
    "q": "Burberry was founded in which country?",
    "a": "United Kingdom",
    "p": 400,
-   "apic": "United Kingdom"
+   "apic": "United Kingdom",
+   "cpic": "Burberry"
   },
   {
    "q": "Etisalat means what in English?",
@@ -402,19 +426,22 @@
    "q": "Which Dubai-based company is one of the world's largest port operators?",
    "a": "DP World",
    "p": 400,
-   "apic": "DP World"
+   "apic": "DP World",
+   "cpic": "Dubai"
   },
   {
    "q": "Which Abu Dhabi-headquartered hypermarket chain was founded by M. A. Yusuff Ali?",
    "a": "Lulu",
    "p": 400,
-   "apic": "Lulu Hypermarket"
+   "apic": "Lulu Hypermarket",
+   "cpic": "M. A. Yusuff Ali"
   },
   {
    "q": "Which Emirati group operates Carrefour in the UAE and Mall of the Emirates?",
    "a": "Majid Al Futtaim",
    "p": 400,
-   "apic": "Majid Al Futtaim"
+   "apic": "Majid Al Futtaim",
+   "cpic": "Mall of the Emirates"
   },
   {
    "q": "Nokia began in 1865 as what kind of mill?",
@@ -426,30 +453,35 @@
    "q": "Puma was founded by the brother of Adidas's founder. What was his first name?",
    "a": "Rudolf",
    "p": 600,
-   "apic": "Rudolf Dassler"
+   "apic": "Rudolf Dassler",
+   "cpic": "Adidas"
   },
   {
    "q": "Toyota's origins lie in a business that made what kind of machines?",
    "a": "Automatic looms",
    "p": 600,
-   "apic": "Toyoda Model G Automatic Loom"
+   "apic": "Toyoda Model G Automatic Loom",
+   "cpic": "Toyota"
   },
   {
    "q": "The 'K' in IKEA stands for the surname of which founder?",
    "a": "Kamprad",
    "p": 600,
-   "apic": "Ingvar Kamprad"
+   "apic": "Ingvar Kamprad",
+   "cpic": "IKEA"
   },
   {
    "q": "What was Pepsi originally called before 1898?",
    "a": "Brad's Drink",
-   "p": 600
+   "p": 600,
+   "cpic": "Pepsi"
   },
   {
    "q": "Gucci was founded in which Italian city?",
    "a": "Florence",
    "p": 600,
-   "apic": "Florence"
+   "apic": "Florence",
+   "cpic": "Gucci"
   },
   {
    "q": "Haribo's name combines its founder's name with which German city?",
@@ -460,7 +492,8 @@
   {
    "q": "Audi's name is Latin for what English word, translating founder Horch's surname?",
    "a": "Listen (hark)",
-   "p": 600
+   "p": 600,
+   "cpic": "Audi"
   },
   {
    "q": "H&M is short for Hennes and what?",
@@ -470,7 +503,8 @@
   {
    "q": "In which year was Samsung founded?",
    "a": "1938",
-   "p": 600
+   "p": 600,
+   "cpic": "Samsung"
   },
   {
    "q": "Yamaha began in 1887 making which keyboard instrument?",
@@ -481,13 +515,15 @@
    "q": "Who co-founded Sony with Masaru Ibuka?",
    "a": "Akio Morita",
    "p": 600,
-   "apic": "Akio Morita"
+   "apic": "Akio Morita",
+   "cpic": "Sony"
   },
   {
    "q": "In which US state was Pepsi created?",
    "a": "North Carolina",
    "p": 600,
-   "apic": "North Carolina"
+   "apic": "North Carolina",
+   "cpic": "Pepsi"
   },
   {
    "q": "Adidas and Puma were both founded in which Bavarian town?",
@@ -504,18 +540,21 @@
   {
    "q": "Toyota was originally spelled with which family name?",
    "a": "Toyoda",
-   "p": 600
+   "p": 600,
+   "cpic": "Toyota"
   },
   {
    "q": "The E in IKEA stands for which farm where Kamprad grew up?",
    "a": "Elmtaryd",
-   "p": 600
+   "p": 600,
+   "cpic": "IKEA"
   },
   {
    "q": "Who founded Nintendo in 1889?",
    "a": "Fusajiro Yamauchi",
    "p": 600,
-   "apic": "Fusajiro Yamauchi"
+   "apic": "Fusajiro Yamauchi",
+   "cpic": "Nintendo"
   },
   {
    "q": "Lamborghini's founder first built what kind of vehicles?",
@@ -527,13 +566,15 @@
    "q": "Which founder started Rolex?",
    "a": "Hans Wilsdorf",
    "p": 600,
-   "apic": "Hans Wilsdorf"
+   "apic": "Hans Wilsdorf",
+   "cpic": "Rolex"
   },
   {
    "q": "Hermes began in 1837 making what for horses?",
    "a": "Harnesses",
    "p": 600,
-   "apic": "Horse harness"
+   "apic": "Horse harness",
+   "cpic": "Hermès"
   },
   {
    "q": "Louis Vuitton started out making what travel item?",
@@ -638,7 +679,8 @@
    "q": "Who founded Amazon in 1994?",
    "a": "Jeff Bezos",
    "p": 200,
-   "apic": "Jeff Bezos"
+   "apic": "Jeff Bezos",
+   "cpic": "Amazon (company)"
   },
   {
    "q": "Who founded the rocket company SpaceX in 2002?",
@@ -710,7 +752,8 @@
    "q": "What was the first name of Ferrari's founder?",
    "a": "Enzo",
    "p": 200,
-   "apic": "Enzo Ferrari"
+   "apic": "Enzo Ferrari",
+   "cpic": "Ferrari"
   },
   {
    "q": "Which film studio's logo features a roaring lion?",
@@ -725,7 +768,8 @@
    "q": "Which oil company's logo is a yellow and red seashell?",
    "a": "Shell",
    "p": 200,
-   "apic": "Shell plc"
+   "apic": "Shell plc",
+   "cpic": "Seashell"
   },
   {
    "q": "Which video game company's mascot is Sonic the Hedgehog?",
@@ -884,7 +928,8 @@
    "q": "What is the name of the doll Mattel launched in 1959, named after its creator's daughter?",
    "a": "Barbie",
    "p": 200,
-   "apic": "Barbie"
+   "apic": "Barbie",
+   "cpic": "Mattel"
   },
   {
    "q": "Which carmaker's logo is a stylised lion?",
@@ -1012,7 +1057,8 @@
   {
    "q": "Microsoft's name was made from which two words?",
    "a": "Microcomputer and software",
-   "p": 400
+   "p": 400,
+   "cpic": "Microsoft"
   },
   {
    "q": "Nokia is named after a town in which country?",
@@ -1135,13 +1181,15 @@
    "alt": [
     "Levi Strauss & Co."
    ],
-   "apic": "Levi Strauss & Co."
+   "apic": "Levi Strauss & Co.",
+   "cpic": "San Francisco"
   },
   {
    "q": "Who created the Barbie doll?",
    "a": "Ruth Handler",
    "p": 400,
-   "apic": "Ruth Handler"
+   "apic": "Ruth Handler",
+   "cpic": "Barbie"
   },
   {
    "q": "Which Chinese company bought IBM's personal computer business in 2005?",
@@ -1177,19 +1225,22 @@
    "q": "Which Spanish carmaker is based near Barcelona?",
    "a": "SEAT",
    "p": 400,
-   "apic": "SEAT"
+   "apic": "SEAT",
+   "cpic": "Barcelona"
   },
   {
    "q": "What is Nissan's luxury car brand?",
    "a": "Infiniti",
    "p": 400,
-   "apic": "Infiniti"
+   "apic": "Infiniti",
+   "cpic": "Nissan"
   },
   {
    "q": "Which Dutch company invented the compact cassette in 1963?",
    "a": "Philips",
    "p": 400,
-   "apic": "Compact Cassette"
+   "apic": "Compact Cassette",
+   "cpic": "Compact Cassette"
   },
   {
    "q": "Which Swedish company created the game Candy Crush Saga?",
@@ -1213,7 +1264,8 @@
    "q": "Who designed the Nike Swoosh in 1971?",
    "a": "Carolyn Davidson",
    "p": 600,
-   "apic": "Carolyn Davidson"
+   "apic": "Carolyn Davidson",
+   "cpic": "Swoosh"
   },
   {
    "q": "What was Nike's original company name?",
@@ -1232,17 +1284,20 @@
   {
    "q": "What was Google's search engine originally called?",
    "a": "BackRub",
-   "p": 600
+   "p": 600,
+   "cpic": "Google"
   },
   {
    "q": "What was Amazon originally called?",
    "a": "Cadabra",
-   "p": 600
+   "p": 600,
+   "cpic": "Amazon (company)"
   },
   {
    "q": "What was Instagram's original name, a check-in app?",
    "a": "Burbn",
-   "p": 600
+   "p": 600,
+   "cpic": "Instagram"
   },
   {
    "q": "Sony was originally called Tokyo Tsushin what?",
@@ -1250,7 +1305,8 @@
    "p": 600,
    "alt": [
     "Tokyo Tsushin Kogyo"
-   ]
+   ],
+   "cpic": "Sony"
   },
   {
    "q": "What does the A in IKEA stand for?",
@@ -1275,7 +1331,8 @@
   {
    "q": "Pepsi's name is thought to come from which digestive complaint?",
    "a": "Dyspepsia",
-   "p": 600
+   "p": 600,
+   "cpic": "Pepsi"
   },
   {
    "q": "Häagen-Dazs ice cream was founded in which country?",
@@ -1335,7 +1392,8 @@
    "q": "What is the Michelin Man's name?",
    "a": "Bibendum",
    "p": 600,
-   "apic": "Michelin Man"
+   "apic": "Michelin Man",
+   "cpic": "Michelin Man"
   },
   {
    "q": "Shell's founder's father had a business selling what?",
@@ -1358,19 +1416,22 @@
   {
    "q": "What does Qantas stand for?",
    "a": "Queensland and Northern Territory Aerial Services",
-   "p": 600
+   "p": 600,
+   "cpic": "Qantas"
   },
   {
    "q": "What was Coco Chanel's real first name?",
    "a": "Gabrielle",
    "p": 600,
-   "apic": "Coco Chanel"
+   "apic": "Coco Chanel",
+   "cpic": "Coco Chanel"
   },
   {
    "q": "Which waterproof fabric did Thomas Burberry invent in 1879?",
    "a": "Gabardine",
    "p": 600,
-   "apic": "Gabardine"
+   "apic": "Gabardine",
+   "cpic": "Burberry"
   },
   {
    "q": "Which luxury brand's logo shows a horse-drawn duc carriage?",
@@ -1389,7 +1450,8 @@
   {
    "q": "What is Barbie's full name?",
    "a": "Barbara Millicent Roberts",
-   "p": 600
+   "p": 600,
+   "cpic": "Barbie"
   },
   {
    "q": "Which toy company made the first Frisbee popular in 1957?",
@@ -1410,7 +1472,8 @@
    "q": "Toblerone's mountain logo hides which animal?",
    "a": "A bear",
    "p": 600,
-   "apic": "Bear"
+   "apic": "Bear",
+   "cpic": "Toblerone"
   },
   {
    "q": "Which Italian carmaker's badge shows a serpent swallowing a person and a red cross?",
@@ -1422,13 +1485,15 @@
    "q": "Which Chinese carmaker bought Volvo Cars from Ford in 2010?",
    "a": "Geely",
    "p": 600,
-   "apic": "Geely"
+   "apic": "Geely",
+   "cpic": "Volvo Cars"
   },
   {
    "q": "Which pharmacist created Pepsi in North Carolina?",
    "a": "Caleb Bradham",
    "p": 600,
-   "apic": "Caleb Bradham"
+   "apic": "Caleb Bradham",
+   "cpic": "North Carolina"
   },
   {
    "q": "Which soft drink was created in Waco, Texas, in 1885?",
@@ -1446,12 +1511,14 @@
    "q": "In which English city was Cadbury founded in 1824?",
    "a": "Birmingham",
    "p": 600,
-   "apic": "Birmingham"
+   "apic": "Birmingham",
+   "cpic": "Cadbury"
   },
   {
    "q": "In which year did Nestlé launch Nescafé?",
    "a": "1938",
-   "p": 600
+   "p": 600,
+   "cpic": "Nestlé"
   },
   {
    "q": "Snickers was named after what?",
@@ -1462,13 +1529,15 @@
    "q": "Kellogg's Corn Flakes were developed in which Michigan town?",
    "a": "Battle Creek",
    "p": 600,
-   "apic": "Battle Creek, Michigan"
+   "apic": "Battle Creek, Michigan",
+   "cpic": "Kellogg's"
   },
   {
    "q": "Which instant noodle company was founded by Momofuku Ando?",
    "a": "Nissin",
    "p": 600,
-   "apic": "Nissin Foods"
+   "apic": "Nissin Foods",
+   "cpic": "Momofuku Ando"
   },
   {
    "q": "Walkers crisps were first made in which English city?",
@@ -1630,25 +1699,29 @@
    "q": "Which streaming company was co-founded by Reed Hastings and Marc Randolph in 1997?",
    "a": "Netflix",
    "p": 400,
-   "apic": "Netflix"
+   "apic": "Netflix",
+   "cpic": "Marc Randolph"
   },
   {
    "q": "Which Twitter co-founder sent the first ever tweet in 2006?",
    "a": "Jack Dorsey",
    "p": 400,
-   "apic": "Jack Dorsey"
+   "apic": "Jack Dorsey",
+   "cpic": "Twitter"
   },
   {
    "q": "Which animation studio did Steve Jobs buy from Lucasfilm in 1986?",
    "a": "Pixar",
    "p": 400,
-   "apic": "Pixar"
+   "apic": "Pixar",
+   "cpic": "Steve Jobs"
   },
   {
    "q": "Red Bull was based on an energy drink from which country?",
    "a": "Thailand",
    "p": 400,
-   "apic": "Thailand"
+   "apic": "Thailand",
+   "cpic": "Red Bull"
   },
   {
    "q": "Which company sold the first instant cameras in 1948?",
@@ -1711,7 +1784,8 @@
    "q": "Which computer company did Steve Jobs found after leaving Apple in 1985?",
    "a": "NeXT",
    "p": 600,
-   "apic": "NeXT"
+   "apic": "NeXT",
+   "cpic": "Steve Jobs"
   },
   {
    "q": "Who founded the Hyundai group?",
@@ -1723,13 +1797,15 @@
    "q": "Who founded Samsung in 1938?",
    "a": "Lee Byung-chul",
    "p": 600,
-   "apic": "Lee Byung-chul"
+   "apic": "Lee Byung-chul",
+   "cpic": "Samsung"
   },
   {
    "q": "Which Austrian businessman co-founded Red Bull with Chaleo Yoovidhya?",
    "a": "Dietrich Mateschitz",
    "p": 600,
-   "apic": "Dietrich Mateschitz"
+   "apic": "Dietrich Mateschitz",
+   "cpic": "Red Bull"
   },
   {
    "q": "In which year did LEGO introduce its minifigure?",

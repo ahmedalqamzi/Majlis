@@ -480,7 +480,8 @@
    "q": "What does a thermometer measure?",
    "a": "Temperature",
    "p": 200,
-   "apic": "Thermometer"
+   "apic": "Thermometer",
+   "cpic": "Thermometer"
   },
   {
    "q": "What is a quantum, or packet, of light called?",
@@ -728,7 +729,8 @@
    "q": "Which New Zealand-born physicist discovered the atomic nucleus with his gold foil experiment?",
    "a": "Ernest Rutherford",
    "p": 400,
-   "apic": "Ernest Rutherford"
+   "apic": "Ernest Rutherford",
+   "cpic": "New Zealand"
   },
   {
    "q": "How many types, or 'flavours', of quark are there?",
@@ -824,14 +826,16 @@
    "q": "Which 12th-13th-century engineer from Diyarbakir designed the famous Elephant Clock?",
    "a": "Al-Jazari",
    "p": 400,
-   "ar": "الجزري"
+   "ar": "الجزري",
+   "cpic": "Elephant clock"
   },
   {
    "q": "Which Pakistani physicist shared the 1979 Nobel Prize in Physics for unifying two fundamental forces?",
    "a": "Abdus Salam",
    "p": 400,
    "ar": "عبد السلام",
-   "apic": "Abdus Salam"
+   "apic": "Abdus Salam",
+   "cpic": "Nobel Prize"
   },
   {
    "q": "In which year did Einstein publish special relativity, his 'miracle year'?",
@@ -1006,7 +1010,8 @@
    "q": "What does a transformer change in an alternating current supply?",
    "a": "Voltage",
    "p": 400,
-   "apic": "Transformer"
+   "apic": "Transformer",
+   "cpic": "Transformer"
   },
   {
    "q": "Electrical power equals current multiplied by what?",
@@ -1071,7 +1076,8 @@
   {
    "q": "What is the fixed pivot point of a lever called?",
    "a": "Fulcrum",
-   "p": 400
+   "p": 400,
+   "cpic": "Lever"
   },
   {
    "q": "Car brakes and lifting jacks often use liquid to transmit force. What is this kind of system called?",
@@ -1182,7 +1188,8 @@
    "alt": [
     "Compton"
    ],
-   "apic": "Arthur Compton"
+   "apic": "Arthur Compton",
+   "cpic": "Nobel Prize"
   },
   {
    "q": "What do we call the amount of force acting per unit area?",
@@ -1202,7 +1209,8 @@
    "alt": [
     "Focus",
     "Principal focus"
-   ]
+   ],
+   "cpic": "Lens"
   },
   {
    "q": "Which German physicist gave his name to the unit of electrical resistance?",
@@ -1351,7 +1359,8 @@
    "p": 600,
    "alt": [
     "Diopter"
-   ]
+   ],
+   "cpic": "Lens"
   },
   {
    "q": "Roughly what is Earth's escape velocity, in kilometres per second?",
@@ -1446,7 +1455,8 @@
     "Ørsted",
     "Oersted"
    ],
-   "apic": "Hans Christian Ørsted"
+   "apic": "Hans Christian Ørsted",
+   "cpic": "Compass"
   },
   {
    "q": "Which Swiss scientist's principle links faster-moving fluid to lower pressure, helping explain lift?",
@@ -1479,7 +1489,8 @@
    "q": "Which Italian student of Galileo invented the mercury barometer in 1643?",
    "a": "Evangelista Torricelli",
    "p": 600,
-   "apic": "Evangelista Torricelli"
+   "apic": "Evangelista Torricelli",
+   "cpic": "Barometer"
   },
   {
    "q": "Which English physicist's double-slit experiment around 1801 showed that light behaves as a wave?",
@@ -1498,7 +1509,8 @@
    "q": "Which scientist, later Lord Kelvin, proposed the absolute temperature scale?",
    "a": "William Thomson",
    "p": 600,
-   "apic": "Lord Kelvin"
+   "apic": "Lord Kelvin",
+   "cpic": "Lord Kelvin"
   },
   {
    "q": "Which 11th-century scholar estimated Earth's radius by measuring the dip of the horizon from a mountain?",
@@ -1510,7 +1522,8 @@
    "q": "In which city did Ibn al-Haytham do much of his work under the Fatimid caliphate?",
    "a": "Cairo",
    "p": 600,
-   "ar": "القاهرة"
+   "ar": "القاهرة",
+   "cpic": "Fatimid Caliphate"
   },
   {
    "q": "Which Persian scholar explained the rainbow around 1300 by studying light in a water-filled glass sphere?",
@@ -1541,7 +1554,8 @@
     "Chandrasekhara Venkata Raman",
     "Raman"
    ],
-   "apic": "C. V. Raman"
+   "apic": "C. V. Raman",
+   "cpic": "Nobel Prize"
   },
   {
    "q": "Which Indian-American astrophysicist gave his name to the maximum mass of a white dwarf star?",
@@ -1647,7 +1661,8 @@
    "q": "Which Bell Labs physicist, who later founded a Silicon Valley semiconductor company, shared the 1956 Nobel Prize for the transistor?",
    "a": "William Shockley",
    "p": 600,
-   "apic": "William Shockley"
+   "apic": "William Shockley",
+   "cpic": "Silicon"
   },
   {
    "q": "Which Hungarian-American physicist is often called the 'father of the hydrogen bomb'?",

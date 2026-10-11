@@ -44,7 +44,8 @@
     "Lugeimat",
     "Luqmat"
    ],
-   "apic": "Luqaimat"
+   "apic": "Luqaimat",
+   "cpic": "Date syrup"
   },
   {
    "q": "What do Emiratis call Arabic coffee?",
@@ -57,7 +58,8 @@
     "Kahwa",
     "Gawa"
    ],
-   "apic": "Arabic coffee"
+   "apic": "Arabic coffee",
+   "cpic": "Arabic coffee"
   },
   {
    "q": "What is the traditional long-spouted Arabic coffee pot called?",
@@ -69,7 +71,8 @@
     "Dallat",
     "Dalah"
    ],
-   "apic": "Dallah (coffee pot)"
+   "apic": "Dallah (coffee pot)",
+   "cpic": "Arabic coffee"
   },
   {
    "q": "What is the small handleless cup used to serve gahwa called?",
@@ -180,7 +183,8 @@
     "Balaleet noodles",
     "Balalit"
    ],
-   "apic": "Balaleet"
+   "apic": "Balaleet",
+   "cpic": "Vermicelli"
   },
   {
    "q": "Which clarified butter is used to finish harees and aseeda?",
@@ -257,7 +261,8 @@
     "Karak chai",
     "Karak tea",
     "Chai karak"
-   ]
+   ],
+   "cpic": "Evaporated milk"
   },
   {
    "q": "In which traditional sitting room is gahwa usually served to guests?",
@@ -287,7 +292,8 @@
     "Nakhal",
     "Nakheel"
    ],
-   "apic": "Date palm"
+   "apic": "Date palm",
+   "cpic": "Date palm"
   },
   {
    "q": "Which golden-yellow spice colours the rice in many machboos recipes?",
@@ -419,7 +425,8 @@
      "balaleet",
      "بلاليط"
     ]
-   ]
+   ],
+   "cpic": "Balaleet"
   },
   {
    "q": "Besides meat, which grain is the key ingredient of harees?",
@@ -453,7 +460,8 @@
      "luqaimat",
      "لقيمات"
     ]
-   ]
+   ],
+   "cpic": "Luqaimat"
   },
   {
    "q": "The milk of which desert animal is a traditional Emirati drink and is now used in chocolate?",
@@ -613,7 +621,8 @@
     "Khamir",
     "Khmir",
     "Khameer bread"
-   ]
+   ],
+   "cpic": "Sesame"
   },
   {
    "q": "Which thin Emirati pancake flavoured with saffron and cardamom is eaten with date syrup or cheese?",
@@ -625,7 +634,8 @@
     "Chubab",
     "Jebab",
     "Chabab bread"
-   ]
+   ],
+   "cpic": "Date syrup"
   },
   {
    "q": "Which spiced tomato-based Emirati stew of fish, meat or vegetables is served over rice?",
@@ -637,7 +647,8 @@
     "Salooneh",
     "Saloonah",
     "Salouna"
-   ]
+   ],
+   "cpic": "Tomato"
   },
   {
    "q": "Which creamy Emirati dish, whose name means 'beaten', is made by mashing chicken or fish into a thick spiced paste?",
@@ -661,7 +672,8 @@
     "Bezaar",
     "Bizar",
     "Bezar spice"
-   ]
+   ],
+   "cpic": "Garam masala"
   },
   {
    "q": "Which Emirati dessert pudding is made by cooking wheat flour with ghee and sweetening it with sugar or date syrup?",
@@ -674,7 +686,8 @@
     "Aseedah",
     "Asseeda"
    ],
-   "apic": "Asida"
+   "apic": "Asida",
+   "cpic": "Date syrup"
   },
   {
    "q": "Which Gulf fried sweet, shaped into cylinders or discs and dusted with powdered sugar, is made with cardamom and rose water?",
@@ -686,7 +699,8 @@
     "Khanfarosh",
     "Khanfrosh",
     "Khanfaroos"
-   ]
+   ],
+   "cpic": "Rose water"
   },
   {
    "q": "Which dish features a whole roasted lamb served on a bed of spiced rice for special gatherings?",
@@ -816,7 +830,8 @@
      "majlis",
      "مجلس"
     ]
-   ]
+   ],
+   "cpic": "Majlis"
   },
   {
    "q": "Which hand does a guest traditionally use to take and return the gahwa cup?",
@@ -871,7 +886,8 @@
      "balaleet",
      "بلاليط"
     ]
-   ]
+   ],
+   "cpic": "Rose water"
   },
   {
    "q": "Which seeds are sprinkled over khameer bread and luqaimat?",
@@ -893,7 +909,8 @@
      "luqaimat",
      "لقيمات"
     ]
-   ]
+   ],
+   "cpic": "Luqaimat"
   },
   {
    "q": "Which fine noodles, called sha'riya, are the base of balaleet?",
@@ -915,7 +932,8 @@
      "balaleet",
      "بلاليط"
     ]
-   ]
+   ],
+   "cpic": "Balaleet"
   },
   {
    "q": "Bezar is the Emirati cousin of which Indian spice blend?",
@@ -1035,7 +1053,8 @@
     "Zanjabeel",
     "Zenjebil"
    ],
-   "apic": "Ginger"
+   "apic": "Ginger",
+   "cpic": "Ginger"
   },
   {
    "q": "What is garlic, a base flavour of saloona, called in Arabic?",
@@ -1054,7 +1073,8 @@
      "saloona",
      "صالونة"
     ]
-   ]
+   ],
+   "cpic": "Garlic"
   },
   {
    "q": "Which green nut fills Dubai chocolate bars, alongside tahini and shredded kanafeh pastry?",
@@ -1080,7 +1100,8 @@
      "kanafeh",
      "كنافة"
     ]
-   ]
+   ],
+   "cpic": "Dubai chocolate"
   },
   {
    "q": "Jasheed, a traditional Emirati dish eaten with rice, is made from small specimens of which sea animal?",
@@ -1102,7 +1123,8 @@
   {
    "q": "In which year was Arabic coffee inscribed on UNESCO's intangible heritage list, with the UAE among the nominating states?",
    "a": "2015",
-   "p": 600
+   "p": 600,
+   "cpic": "Arabic coffee"
   },
   {
    "q": "Which Emirati dish pairs sweetened, caramelised rice with fish, as its name hints at a reddish-brown colour?",
@@ -1322,7 +1344,8 @@
      "luqmat al-qadi",
      "لقمة القاضي"
     ]
-   ]
+   ],
+   "cpic": "Luqaimat"
   },
   {
    "q": "The word machboos comes from an Arabic root meaning to do what to ingredients in one pot?",
@@ -1377,7 +1400,8 @@
      "machboos",
      "مجبوس"
     ]
-   ]
+   ],
+   "cpic": "Tomato"
   },
   {
    "q": "What is the person who serves gahwa in a majlis called?",
@@ -1399,7 +1423,8 @@
      "majlis",
      "مجلس"
     ]
-   ]
+   ],
+   "cpic": "Majlis"
   },
   {
    "q": "In traditional gahwa service, in which hand does the server hold the dallah?",
@@ -1418,7 +1443,8 @@
      "dallah",
      "الدلة"
     ]
-   ]
+   ],
+   "cpic": "Dallah (coffee pot)"
   },
   {
    "q": "What is the first, green unripe stage of a date called?",
@@ -1528,7 +1554,8 @@
   {
    "q": "In which year was the date palm inscribed on UNESCO's intangible heritage list, jointly nominated by 14 Arab states including the UAE?",
    "a": "2019",
-   "p": 600
+   "p": 600,
+   "cpic": "Date palm"
   },
   {
    "q": "Arabic coffee was inscribed by UNESCO following a joint nomination by the UAE, Saudi Arabia, Qatar and which other Gulf country?",
@@ -1538,7 +1565,8 @@
    "alt": [
     "Sultanate of Oman",
     "Uman"
-   ]
+   ],
+   "cpic": "Saudi Arabia"
   },
   {
    "q": "Which bitter golden seed, called helba in Arabic, features in some bezar blends?",
@@ -1571,7 +1599,8 @@
     "Bethith",
     "Batheeth",
     "Bitheeth"
-   ]
+   ],
+   "cpic": "Cardamom"
   },
   {
    "q": "Which Yemeni rice and meat dish, traditionally slow-cooked in a pit oven, is one of the most popular takeaway meals in the UAE?",
@@ -1699,7 +1728,8 @@
      "bamya",
      "بامية"
     ]
-   ]
+   ],
+   "cpic": "Tomato"
   },
   {
    "q": "Which Emirati restaurant chain's name means 'the lighthouse' in Arabic?",
@@ -1798,7 +1828,8 @@
    "alt": [
     "Bobbar",
     "Boobar"
-   ]
+   ],
+   "cpic": "Saffron"
   },
   {
    "q": "Which Emirati dessert of small tapioca-like pearls is cooked with saffron, cardamom and sugar?",
@@ -1809,7 +1840,8 @@
     "Sagu",
     "Saqo"
    ],
-   "apic": "Sago"
+   "apic": "Sago",
+   "cpic": "Cardamom"
   },
   {
    "q": "Which Yemeni layered bread, drizzled with honey and black seed, is popular in UAE mandi restaurants?",
@@ -1826,7 +1858,8 @@
      "mandi",
      "مندي"
     ]
-   ]
+   ],
+   "cpic": "Mandi (food)"
   },
   {
    "q": "The Yemeni honey bread bint al-sahn has a name meaning 'daughter of the' what?",
@@ -1872,7 +1905,8 @@
    "q": "What is turmeric called in Arabic?",
    "a": "Kurkum",
    "p": 400,
-   "ar": "كركم"
+   "ar": "كركم",
+   "cpic": "Turmeric"
   },
   {
    "q": "What is saffron called in Arabic?",
@@ -1882,7 +1916,8 @@
    "alt": [
     "Zafaran",
     "Zaafaran"
-   ]
+   ],
+   "cpic": "Saffron"
   },
   {
    "q": "What is ghee called in Arabic?",
@@ -2049,7 +2084,8 @@
     "Hadramawt",
     "Hadramout"
    ],
-   "apic": "Hadhramaut"
+   "apic": "Hadhramaut",
+   "cpic": "Mandi (food)"
   },
   {
    "q": "What is the windowless storeroom where dates were piled so their syrup drained out through floor channels called?",
@@ -2156,7 +2192,8 @@
      "nada",
      "ندى"
     ]
-   ]
+   ],
+   "cpic": "Mandi (food)"
   },
   {
    "q": "Samr honey, a prized dark honey of the UAE mountains, comes from which type of tree?",

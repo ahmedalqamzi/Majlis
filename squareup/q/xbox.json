@@ -9,13 +9,15 @@
    "alt": [
     "Activision"
    ],
-   "apic": "Activision Blizzard"
+   "apic": "Activision Blizzard",
+   "cpic": "Microsoft"
   },
   {
    "q": "Which company makes the Xbox?",
    "a": "Microsoft",
    "p": 200,
-   "apic": "Microsoft"
+   "apic": "Microsoft",
+   "cpic": "Xbox (console)"
   },
   {
    "q": "In which year was the original Xbox released?",
@@ -43,7 +45,8 @@
     "RROD",
     "Red Ring"
    ],
-   "apic": "Xbox 360 technical problems"
+   "apic": "Xbox 360 technical problems",
+   "cpic": "Xbox (console)"
   },
   {
    "q": "What is the name of Microsoft's subscription service offering a library of games for a monthly fee?",
@@ -52,13 +55,15 @@
    "alt": [
     "Game Pass"
    ],
-   "apic": "Xbox Game Pass"
+   "apic": "Xbox Game Pass",
+   "cpic": "Microsoft"
   },
   {
    "q": "Which motion-sensing camera accessory did Microsoft launch for Xbox 360 in 2010?",
    "a": "Kinect",
    "p": 200,
-   "apic": "Kinect"
+   "apic": "Kinect",
+   "cpic": "Microsoft"
   },
   {
    "q": "What are the points earned from Xbox achievements called?",
@@ -66,7 +71,8 @@
    "p": 200,
    "alt": [
     "Gamer score"
-   ]
+   ],
+   "cpic": "Xbox (console)"
   },
   {
    "q": "In which year was the Xbox Series X released?",
@@ -233,18 +239,21 @@
     "Bethesda Softworks",
     "Bethesda Game Studios"
    ],
-   "apic": "Bethesda Softworks"
+   "apic": "Bethesda Softworks",
+   "cpic": "Fallout (franchise)"
   },
   {
    "q": "In which year did Microsoft complete its purchase of Activision Blizzard?",
    "a": "2023",
-   "p": 400
+   "p": 400,
+   "cpic": "Activision Blizzard"
   },
   {
    "q": "Which British studio behind Banjo-Kazooie and Sea of Thieves joined Microsoft in 2002?",
    "a": "Rare",
    "p": 400,
-   "apic": "Rare (company)"
+   "apic": "Rare (company)",
+   "cpic": "Banjo-Kazooie"
   },
   {
    "q": "Which 2023 Bethesda space RPG was an Xbox exclusive?",
@@ -256,7 +265,8 @@
    "q": "Which pirate multiplayer adventure from Rare was released in 2018?",
    "a": "Sea of Thieves",
    "p": 400,
-   "apic": "Sea of Thieves"
+   "apic": "Sea of Thieves",
+   "cpic": "Rare (company)"
   },
   {
    "q": "In which year was Kinect released?",
@@ -301,13 +311,15 @@
     "Amazon Prime Video",
     "Amazon"
    ],
-   "apic": "Amazon Prime Video"
+   "apic": "Amazon Prime Video",
+   "cpic": "Fallout (franchise)"
   },
   {
    "q": "Which Halo game from 343 Industries launched in December 2021?",
    "a": "Halo Infinite",
    "p": 400,
-   "apic": "Halo Infinite"
+   "apic": "Halo Infinite",
+   "cpic": "343 Industries"
   },
   {
    "q": "Which Xbox 360 shooter from Bungie in 2010 features Noble Team?",
@@ -373,7 +385,8 @@
    "alt": [
     "8",
     "Eight million"
-   ]
+   ],
+   "cpic": "Kinect"
   },
   {
    "q": "Roughly how many million US dollars did Halo 3 earn in the US on its first day?",
@@ -417,13 +430,15 @@
    "alt": [
     "Lionhead"
    ],
-   "apic": "Lionhead Studios"
+   "apic": "Lionhead Studios",
+   "cpic": "Peter Molyneux"
   },
   {
    "q": "Which Microsoft studio developed Forza Horizon?",
    "a": "Playground Games",
    "p": 600,
-   "apic": "Playground Games"
+   "apic": "Playground Games",
+   "cpic": "Forza"
   },
   {
    "q": "Which Microsoft studio develops Forza Motorsport?",
@@ -432,7 +447,8 @@
    "alt": [
     "Turn 10"
    ],
-   "apic": "Turn 10 Studios"
+   "apic": "Turn 10 Studios",
+   "cpic": "Forza"
   },
   {
    "q": "Which nickname was given to the large original Xbox controller?",
@@ -499,7 +515,8 @@
    "alt": [
     "Banjo Kazooie"
    ],
-   "apic": "Banjo-Kazooie"
+   "apic": "Banjo-Kazooie",
+   "cpic": "Rare (company)"
   },
   {
    "q": "Which Bethesda shooter series pits a lone marine against demons from Hell?",
@@ -578,7 +595,8 @@
    "alt": [
     "Coalition"
    ],
-   "apic": "The Coalition (company)"
+   "apic": "The Coalition (company)",
+   "cpic": "Gears of War"
   },
   {
    "q": "Which Forza Horizon game is set in Mexico?",
@@ -626,7 +644,8 @@
    "q": "Which studio behind Doom is part of ZeniMax Media?",
    "a": "id Software",
    "p": 400,
-   "apic": "Id Software"
+   "apic": "Id Software",
+   "cpic": "Doom (franchise)"
   },
   {
    "q": "Which studio behind Fallout: New Vegas joined Microsoft in 2018?",
@@ -635,7 +654,8 @@
    "alt": [
     "Obsidian"
    ],
-   "apic": "Obsidian Entertainment"
+   "apic": "Obsidian Entertainment",
+   "cpic": "Fallout (franchise)"
   },
   {
    "q": "Which British studio behind Hellblade joined Xbox Game Studios in 2018?",
@@ -647,7 +667,8 @@
    "q": "Which Rare shooter was a launch title for the Xbox 360?",
    "a": "Perfect Dark Zero",
    "p": 600,
-   "apic": "Perfect Dark Zero"
+   "apic": "Perfect Dark Zero",
+   "cpic": "Rare (company)"
   },
   {
    "q": "What was the internal codename of the Xbox 360?",
@@ -825,7 +846,8 @@
    "alt": [
     "Lancer Assault Rifle",
     "Chainsaw gun"
-   ]
+   ],
+   "cpic": "Gears of War"
   },
   {
    "q": "Which ghostly forest-spirit platformer by Moon Studios debuted on Xbox One in 2015?",
@@ -834,13 +856,15 @@
    "alt": [
     "Ori"
    ],
-   "apic": "Ori and the Blind Forest"
+   "apic": "Ori and the Blind Forest",
+   "cpic": "Xbox One"
   },
   {
    "q": "Which Fallout game is set in the ruins of Washington, D.C.?",
    "a": "Fallout 3",
    "p": 200,
-   "apic": "Fallout 3"
+   "apic": "Fallout 3",
+   "cpic": "Washington, D.C."
   },
   {
    "q": "Which Fallout game is set in and around Boston?",
@@ -897,7 +921,8 @@
    "alt": [
     "Locust",
     "Locust Horde"
-   ]
+   ],
+   "cpic": "Gears of War"
   },
   {
    "q": "Which Forza Horizon game is set in Britain?",
@@ -952,7 +977,8 @@
    "q": "Which 2006 Xbox 360 zombie game stars photojournalist Frank West in a shopping mall?",
    "a": "Dead Rising",
    "p": 400,
-   "apic": "Dead Rising (video game)"
+   "apic": "Dead Rising (video game)",
+   "cpic": "Shopping mall"
   },
   {
    "q": "Which black-and-white puzzle platformer by Playdead was a 2010 Xbox Live Arcade hit?",
@@ -986,7 +1012,8 @@
    "q": "Which fighting series, originally by Rare, was revived as an Xbox One launch title?",
    "a": "Killer Instinct",
    "p": 400,
-   "apic": "Killer Instinct (2013 video game)"
+   "apic": "Killer Instinct (2013 video game)",
+   "cpic": "Xbox One"
   },
   {
    "q": "Which Tim Schafer studio, maker of Psychonauts, joined Xbox in 2019?",
@@ -995,7 +1022,8 @@
    "alt": [
     "Double Fine Productions"
    ],
-   "apic": "Double Fine"
+   "apic": "Double Fine",
+   "cpic": "Tim Schafer"
   },
   {
    "q": "Which game engine powered the original Gears of War?",
@@ -1011,7 +1039,8 @@
    "q": "Which Bethesda director led Oblivion, Skyrim and Starfield?",
    "a": "Todd Howard",
    "p": 400,
-   "apic": "Todd Howard"
+   "apic": "Todd Howard",
+   "cpic": "Starfield (video game)"
   },
   {
    "q": "What is the continent where most Elder Scrolls games are set?",
@@ -1042,7 +1071,8 @@
    "p": 400,
    "alt": [
     "Backwards compatibility"
-   ]
+   ],
+   "cpic": "Xbox One"
   },
   {
    "q": "On which planet is Gears of War set?",
@@ -1067,13 +1097,15 @@
    "alt": [
     "CliffyB"
    ],
-   "apic": "Cliff Bleszinski"
+   "apic": "Cliff Bleszinski",
+   "cpic": "Epic Games"
   },
   {
    "q": "Which US state was the setting of the first Forza Horizon?",
    "a": "Colorado",
    "p": 600,
-   "apic": "Colorado"
+   "apic": "Colorado",
+   "cpic": "Forza"
   },
   {
    "q": "In which kingdom are the Fable games set?",
@@ -1136,13 +1168,15 @@
    "q": "Which Harmonix series was a Kinect dance hit?",
    "a": "Dance Central",
    "p": 600,
-   "apic": "Dance Central (video game)"
+   "apic": "Dance Central (video game)",
+   "cpic": "Kinect"
   },
   {
    "q": "Which time-bending puzzle platformer by Jonathan Blow was a 2008 Xbox Live Arcade hit?",
    "a": "Braid",
    "p": 600,
-   "apic": "Braid (video game)"
+   "apic": "Braid (video game)",
+   "cpic": "Jonathan Blow"
   },
   {
    "q": "Which studio makes the zombie survival series State of Decay?",
@@ -1179,7 +1213,8 @@
   {
    "q": "What is the name of the explorers' group the player joins in Starfield?",
    "a": "Constellation",
-   "p": 600
+   "p": 600,
+   "cpic": "Starfield (video game)"
   },
   {
    "q": "Which world-eating dragon is the main villain of Skyrim?",
@@ -1234,7 +1269,8 @@
    "p": 600,
    "alt": [
     "Natal"
-   ]
+   ],
+   "cpic": "Kinect"
   },
   {
    "q": "What was the codename of the Xbox Series X?",
@@ -1247,7 +1283,8 @@
    "p": 600,
    "alt": [
     "Scorpio"
-   ]
+   ],
+   "cpic": "Xbox One X"
   },
   {
    "q": "Which company made the original Xbox's graphics chip?",
@@ -1373,7 +1410,8 @@
    "q": "On which planet's moons does the original 1993 Doom take place?",
    "a": "Mars",
    "p": 400,
-   "apic": "Mars"
+   "apic": "Mars",
+   "cpic": "Doom (franchise)"
   }
  ]
 }

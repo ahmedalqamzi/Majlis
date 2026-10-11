@@ -32,7 +32,8 @@
    "q": "Which actor played Luke Skywalker?",
    "a": "Mark Hamill",
    "p": 200,
-   "apic": "Mark Hamill"
+   "apic": "Mark Hamill",
+   "cpic": "Luke Skywalker"
   },
   {
    "q": "What is the name of Han Solo's ship?",
@@ -75,7 +76,8 @@
   {
    "q": "What colour is Darth Vader's lightsaber?",
    "a": "Red",
-   "p": 200
+   "p": 200,
+   "cpic": "Lightsaber"
   },
   {
    "q": "Which Jedi, played by Alec Guinness, mentors Luke?",
@@ -113,13 +115,15 @@
    "q": "Which actor played Anakin in Attack of the Clones and Revenge of the Sith?",
    "a": "Hayden Christensen",
    "p": 200,
-   "apic": "Hayden Christensen"
+   "apic": "Hayden Christensen",
+   "cpic": "Sith"
   },
   {
    "q": "Which actor played Obi-Wan Kenobi in the prequel trilogy?",
    "a": "Ewan McGregor",
    "p": 200,
-   "apic": "Ewan McGregor"
+   "apic": "Ewan McGregor",
+   "cpic": "Obi-Wan Kenobi (TV series)"
   },
   {
    "q": "What are the Empire's white-armoured soldiers called?",
@@ -190,7 +194,8 @@
   {
    "q": "What colour is Yoda's lightsaber?",
    "a": "Green",
-   "p": 200
+   "p": 200,
+   "cpic": "Lightsaber"
   },
   {
    "q": "What are the dark side enemies of the Jedi called?",
@@ -247,12 +252,14 @@
   {
    "q": "What colour is Luke's lightsaber in Return of the Jedi?",
    "a": "Green",
-   "p": 200
+   "p": 200,
+   "cpic": "Lightsaber"
   },
   {
    "q": "What colour is Obi-Wan Kenobi's lightsaber?",
    "a": "Blue",
-   "p": 200
+   "p": 200,
+   "cpic": "Obi-Wan Kenobi (TV series)"
   },
   {
    "q": "Who kills Han Solo in The Force Awakens?",
@@ -392,7 +399,8 @@
     "Padme",
     "Queen Amidala"
    ],
-   "apic": "Padmé Amidala"
+   "apic": "Padmé Amidala",
+   "cpic": "Naboo"
   },
   {
    "q": "Whom does Anakin secretly marry?",
@@ -468,7 +476,8 @@
    "q": "Which horned Sith with a double-bladed lightsaber appears in The Phantom Menace?",
    "a": "Darth Maul",
    "p": 400,
-   "apic": "Darth Maul"
+   "apic": "Darth Maul",
+   "cpic": "Sith"
   },
   {
    "q": "What colour is Mace Windu's lightsaber?",
@@ -497,13 +506,15 @@
   {
    "q": "What is the Wookiee home planet called?",
    "a": "Kashyyyk",
-   "p": 400
+   "p": 400,
+   "cpic": "Wookiee"
   },
   {
    "q": "On which volcanic planet do Obi-Wan and Anakin duel in Revenge of the Sith?",
    "a": "Mustafar",
    "p": 400,
-   "apic": "Mustafar"
+   "apic": "Mustafar",
+   "cpic": "Sith"
   },
   {
    "q": "Which order turned the clone troopers against the Jedi?",
@@ -556,7 +567,8 @@
    "q": "Which actor plays Cassian Andor?",
    "a": "Diego Luna",
    "p": 400,
-   "apic": "Diego Luna"
+   "apic": "Diego Luna",
+   "cpic": "Andor (TV series)"
   },
   {
    "q": "Who directed The Force Awakens?",
@@ -716,7 +728,8 @@
    "q": "Which hooded scavengers sell R2-D2 and C-3PO to Luke's uncle?",
    "a": "Jawas",
    "p": 400,
-   "apic": "Jawa (Star Wars)"
+   "apic": "Jawa (Star Wars)",
+   "cpic": "R2-D2"
   },
   {
    "q": "What is the name of Luke's uncle on Tatooine?",
@@ -731,7 +744,8 @@
    "q": "What is another name for the Tusken Raiders?",
    "a": "Sand People",
    "p": 400,
-   "apic": "Tusken Raiders"
+   "apic": "Tusken Raiders",
+   "cpic": "Tusken Raiders"
   },
   {
    "q": "Which ice creature captures Luke on Hoth?",
@@ -797,7 +811,8 @@
    "q": "Which senator secretly funds the Rebellion in Andor?",
    "a": "Mon Mothma",
    "p": 400,
-   "apic": "Mon Mothma"
+   "apic": "Mon Mothma",
+   "cpic": "Andor (TV series)"
   },
   {
    "q": "Which 2016 film directly follows the events of Andor's second season?",
@@ -953,7 +968,8 @@
    "alt": [
     "Holdo",
     "Amilyn Holdo"
-   ]
+   ],
+   "cpic": "Laura Dern"
   },
   {
    "q": "Who directed The Empire Strikes Back?",
@@ -1021,7 +1037,8 @@
    "q": "Who created the series Andor?",
    "a": "Tony Gilroy",
    "p": 600,
-   "apic": "Tony Gilroy"
+   "apic": "Tony Gilroy",
+   "cpic": "Andor (TV series)"
   },
   {
    "q": "On which planet is the prison factory where Cassian is held in Andor?",
@@ -1138,7 +1155,8 @@
    "q": "Which reprogrammed Imperial droid is voiced by Alan Tudyk in Rogue One?",
    "a": "K-2SO",
    "p": 600,
-   "apic": "K-2SO"
+   "apic": "K-2SO",
+   "cpic": "Alan Tudyk"
   },
   {
    "q": "Which animated series follows the crew of the ship Ghost?",
@@ -1156,7 +1174,8 @@
    "alt": [
     "The Holiday Special"
    ],
-   "apic": "Star Wars Holiday Special"
+   "apic": "Star Wars Holiday Special",
+   "cpic": "George Lucas"
   },
   {
    "q": "Which tentacled creature lurks in the Death Star trash compactor?",

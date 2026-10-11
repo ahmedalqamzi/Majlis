@@ -41,7 +41,8 @@
    "q": "Which company bought the streaming platform Twitch in 2014?",
    "a": "Amazon",
    "p": 200,
-   "apic": "Amazon (company)"
+   "apic": "Amazon (company)",
+   "cpic": "Twitch (service)"
   },
   {
    "q": "What does GG stand for in gaming chat?",
@@ -101,7 +102,8 @@
    "q": "Which Riot Games tactical shooter has a yearly event called Champions?",
    "a": "Valorant",
    "p": 200,
-   "apic": "Valorant"
+   "apic": "Valorant",
+   "cpic": "Riot Games"
   },
   {
    "q": "Which Activision shooter franchise has a franchised league that ends with the Champs event?",
@@ -130,7 +132,8 @@
     "StarCraft: Brood War",
     "Starcraft"
    ],
-   "apic": "StarCraft (video game)"
+   "apic": "StarCraft (video game)",
+   "cpic": "South Korea"
   },
   {
    "q": "What does the word esports stand for in full?",
@@ -197,7 +200,8 @@
    "alt": [
     "LoL"
    ],
-   "apic": "League of Legends"
+   "apic": "League of Legends",
+   "cpic": "Riot Games"
   },
   {
    "q": "What do commentators of esports matches commonly call themselves?",
@@ -323,7 +327,8 @@
    "q": "Which North American organisation beat FaZe Clan in the 2018 Boston Major final?",
    "a": "Cloud9",
    "p": 400,
-   "apic": "Cloud9"
+   "apic": "Cloud9",
+   "cpic": "FaZe Clan"
   },
   {
    "q": "Which Japanese Street Fighter legend, nicknamed The Beast, performed the famous Evo 2004 parry comeback?",
@@ -332,13 +337,15 @@
    "alt": [
     "Daigo"
    ],
-   "apic": "Daigo Umehara"
+   "apic": "Daigo Umehara",
+   "cpic": "Street Fighter"
   },
   {
    "q": "What is the gamer tag of American pro Johnathan Wendel, one of the first pro gaming stars?",
    "a": "Fatal1ty",
    "p": 400,
-   "apic": "Johnathan Wendel"
+   "apic": "Johnathan Wendel",
+   "cpic": "Johnathan Wendel"
   },
   {
    "q": "Which luxury car brand's model was the prize at the 1997 Quake tournament Red Annihilation?",
@@ -359,7 +366,8 @@
    "q": "In which capital city was the organisation Fnatic founded in 2004?",
    "a": "London",
    "p": 400,
-   "apic": "London"
+   "apic": "London",
+   "cpic": "Fnatic"
   },
   {
    "q": "Which city hosted the first Esports World Cup in 2024?",
@@ -378,7 +386,8 @@
    "q": "What is the in-game name of Natus Vincere's Ukrainian Dota 2 star Danil Ishutin?",
    "a": "Dendi",
    "p": 400,
-   "apic": "Dendi"
+   "apic": "Dendi",
+   "cpic": "Natus Vincere"
   },
   {
    "q": "Which Ukrainian AWPer was named MVP of the 2021 Stockholm Major while winning it with Natus Vincere?",
@@ -387,7 +396,8 @@
    "alt": [
     "Oleksandr Kostyliev"
    ],
-   "apic": "S1mple"
+   "apic": "S1mple",
+   "cpic": "Natus Vincere"
   },
   {
    "q": "What does ESL stand for in esports?",
@@ -575,7 +585,8 @@
    "q": "Which team beat Natus Vincere in the 2013 The International final in Seattle?",
    "a": "Alliance",
    "p": 600,
-   "apic": "Alliance (esports)"
+   "apic": "Alliance (esports)",
+   "cpic": "Natus Vincere"
   },
   {
    "q": "Which Chinese team won The International in 2014?",
@@ -607,7 +618,8 @@
    "alt": [
     "Tundra"
    ],
-   "apic": "Tundra Esports"
+   "apic": "Tundra Esports",
+   "cpic": "Singapore"
   },
   {
    "q": "Which team won The International in both 2021 and 2023?",
@@ -634,7 +646,8 @@
    "alt": [
     "Sumail Hassan"
    ],
-   "apic": "Sumail Hassan"
+   "apic": "Sumail Hassan",
+   "cpic": "Evil Geniuses"
   },
   {
    "q": "Which Danish captain led OG to The International titles in 2018 and 2019?",
@@ -654,13 +667,15 @@
   {
    "q": "Which team won the Valorant Champions 2021 in Berlin?",
    "a": "Acend",
-   "p": 600
+   "p": 600,
+   "cpic": "Valorant"
   },
   {
    "q": "Which team won the Valorant Champions 2022 in Istanbul?",
    "a": "LOUD",
    "p": 600,
-   "apic": "LOUD (esports)"
+   "apic": "LOUD (esports)",
+   "cpic": "Valorant"
   },
   {
    "q": "Which team won the 2024 Esports World Cup Club Championship?",
@@ -781,7 +796,8 @@
    "q": "Which Amazon-owned live streaming site with a purple logo is the main home of esports broadcasts?",
    "a": "Twitch",
    "p": 200,
-   "apic": "Twitch (service)"
+   "apic": "Twitch (service)",
+   "cpic": "Amazon (company)"
   },
   {
    "q": "What does MOBA stand for as a game genre?",
@@ -921,7 +937,8 @@
     "Handle",
     "IGN",
     "Nickname"
-   ]
+   ],
+   "cpic": "Faker (gamer)"
   },
   {
    "q": "Which team has Faker played for throughout his professional career?",
@@ -976,12 +993,14 @@
    "q": "Which American band recorded Warriors, the anthem of League of Legends Worlds 2014?",
    "a": "Imagine Dragons",
    "p": 400,
-   "apic": "Imagine Dragons"
+   "apic": "Imagine Dragons",
+   "cpic": "League of Legends"
   },
   {
    "q": "In Counter-Strike and Valorant, what one-word term describes one player killing all five opponents in a round?",
    "a": "Ace",
-   "p": 400
+   "p": 400,
+   "cpic": "Valorant"
   },
   {
    "q": "In Valorant, what is the bomb-like device that attackers plant called?",
@@ -994,7 +1013,8 @@
   {
    "q": "Which Valorant agent is a healer who can resurrect fallen teammates?",
    "a": "Sage",
-   "p": 400
+   "p": 400,
+   "cpic": "FalleN"
   },
   {
    "q": "Which Korean Valorant duelist uses wind to dash and float?",
@@ -1022,7 +1042,8 @@
   {
    "q": "Which Counter-Strike map is set at a nuclear power plant?",
    "a": "Nuke",
-   "p": 400
+   "p": 400,
+   "cpic": "Nuclear power plant"
   },
   {
    "q": "In Counter-Strike, what is a round called in which a team spends little or nothing to save money?",
@@ -1088,7 +1109,8 @@
    "p": 400,
    "alt": [
     "3"
-   ]
+   ],
+   "cpic": "Rocket League"
   },
   {
    "q": "What does RLCS stand for?",
@@ -1099,7 +1121,8 @@
    "q": "By what nickname is Irish game designer Brendan Greene known?",
    "a": "PlayerUnknown",
    "p": 400,
-   "apic": "Brendan Greene"
+   "apic": "Brendan Greene",
+   "cpic": "Brendan Greene"
   },
   {
    "q": "Which organisation began in 2010 as a group of Call of Duty trickshot YouTubers?",
@@ -1127,7 +1150,8 @@
    "alt": [
     "WCG"
    ],
-   "apic": "World Cyber Games"
+   "apic": "World Cyber Games",
+   "cpic": "South Korea"
   },
   {
    "q": "In which country was the DreamHack festival founded?",
@@ -1179,7 +1203,8 @@
     "O2 Arena",
     "The O2"
    ],
-   "apic": "The O2 Arena"
+   "apic": "The O2 Arena",
+   "cpic": "League of Legends"
   },
   {
    "q": "Which team won Valorant Champions 2023 in Los Angeles?",
@@ -1188,7 +1213,8 @@
    "alt": [
     "EG"
    ],
-   "apic": "Evil Geniuses"
+   "apic": "Evil Geniuses",
+   "cpic": "Los Angeles"
   },
   {
    "q": "In which Icelandic capital was Valorant's first international LAN event held in 2021?",
@@ -1220,7 +1246,8 @@
     "Virtus Pro",
     "VP"
    ],
-   "apic": "Virtus.pro"
+   "apic": "Virtus.pro",
+   "cpic": "Katowice"
   },
   {
    "q": "Which team won MLG Columbus 2016, the first CS:GO Major with a 1 million US dollar prize pool?",
@@ -1249,12 +1276,14 @@
    "alt": [
     "Spirit"
    ],
-   "apic": "Team Spirit"
+   "apic": "Team Spirit",
+   "cpic": "Shanghai"
   },
   {
    "q": "What is the in-game name of Danil Kryshkovets, Team Spirit's young Counter-Strike star?",
    "a": "donk",
-   "p": 600
+   "p": 600,
+   "cpic": "Team Spirit"
   },
   {
    "q": "What is the in-game name of Danish AWPer Nicolai Reedtz?",
@@ -1334,7 +1363,8 @@
    "q": "Which Japanese Street Fighter star, Hajime Taniguchi, is nicknamed The Murderface?",
    "a": "Tokido",
    "p": 600,
-   "apic": "Tokido"
+   "apic": "Tokido",
+   "cpic": "Street Fighter"
   },
   {
    "q": "Which Melee pro, Juan DeBiedma, is famous for playing Jigglypuff?",
@@ -1383,7 +1413,8 @@
    "p": 600,
    "alt": [
     "Gamers 8"
-   ]
+   ],
+   "cpic": "Riyadh"
   },
   {
    "q": "In which Swedish town is DreamHack's long-running winter LAN held?",
@@ -1451,7 +1482,8 @@
   {
    "q": "In Rocket League, what do cars collect from pads on the pitch to speed up?",
    "a": "Boost",
-   "p": 200
+   "p": 200,
+   "cpic": "Rocket League"
   },
   {
    "q": "Which game features champions such as Ahri, Jinx and Yasuo?",
@@ -1477,12 +1509,14 @@
    "p": 200,
    "alt": [
     "Greatest Of All Time"
-   ]
+   ],
+   "cpic": "Faker (gamer)"
   },
   {
    "q": "What colour is the Twitch logo?",
    "a": "Purple",
-   "p": 200
+   "p": 200,
+   "cpic": "Twitch (service)"
   },
   {
    "q": "What does LAN stand for in LAN tournaments?",
@@ -1625,7 +1659,8 @@
    "q": "Which North American team won Valorant's first international LAN, Masters Reykjavik 2021?",
    "a": "Sentinels",
    "p": 600,
-   "apic": "Sentinels (esports)"
+   "apic": "Sentinels (esports)",
+   "cpic": "Reykjavík"
   },
   {
    "q": "Which Chinese team won Valorant Champions 2024 in Seoul?",
@@ -1659,7 +1694,8 @@
    "q": "What is the in-game name of Korean StarCraft legend Lee Jae-dong?",
    "a": "Jaedong",
    "p": 600,
-   "apic": "Lee Jae-dong"
+   "apic": "Lee Jae-dong",
+   "cpic": "Lee Jae-dong"
   },
   {
    "q": "What was the name of the IOC's first virtual sport and esports event, held in 2021?",

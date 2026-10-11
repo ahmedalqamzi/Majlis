@@ -36,7 +36,8 @@
    "q": "What is the name of Ferrari World's signature roller coaster?",
    "a": "Formula Rossa",
    "p": 200,
-   "apic": "Formula Rossa"
+   "apic": "Formula Rossa",
+   "cpic": "Roller coaster"
   },
   {
    "q": "On which island is Yas Marina Circuit located?",
@@ -115,7 +116,8 @@
      "Yas Island",
      "جزيرة ياس"
     ]
-   ]
+   ],
+   "cpic": "Yas Island"
   },
   {
    "q": "Which marine-life theme park opened on Yas Island in 2023?",
@@ -127,7 +129,8 @@
      "Yas Island",
      "جزيرة ياس"
     ]
-   ]
+   ],
+   "cpic": "Yas Island"
   },
   {
    "q": "Which Yas Island water park is next to Ferrari World?",
@@ -139,7 +142,8 @@
      "Yas Island",
      "جزيرة ياس"
     ]
-   ]
+   ],
+   "cpic": "Ferrari World"
   },
   {
    "q": "Which Abu Dhabi emirate city is nicknamed the Garden City?",
@@ -175,7 +179,8 @@
      "Al Ain",
      "العين"
     ]
-   ]
+   ],
+   "cpic": "Al Ain"
   },
   {
    "q": "Which zoo in Al Ain is known for its safari and Arabian oryx?",
@@ -185,7 +190,8 @@
    "alt": [
     "Al Ain Wildlife Park"
    ],
-   "apic": "Al Ain Zoo"
+   "apic": "Al Ain Zoo",
+   "cpic": "Arabian oryx"
   },
   {
    "q": "Which group of five towers stands near Emirates Palace on the Corniche?",
@@ -196,7 +202,8 @@
     "Etihad Tower",
     "Ittihad Towers"
    ],
-   "apic": "Etihad Towers"
+   "apic": "Etihad Towers",
+   "cpic": "Emirates Palace"
   },
   {
    "q": "Which Abu Dhabi palace, whose name means Palace of the Nation, is open to visitors?",
@@ -260,7 +267,8 @@
      "Abu Dhabi",
      "أبوظبي"
     ]
-   ]
+   ],
+   "cpic": "Emirate of Abu Dhabi"
   },
   {
    "q": "Which tribal confederation is historically linked to the founding of Abu Dhabi?",
@@ -325,7 +333,8 @@
      "Al Ain",
      "العين"
     ]
-   ]
+   ],
+   "cpic": "Al Ain"
   },
   {
    "q": "Which Abu Dhabi island is a wildlife reserve where giraffes roam?",
@@ -481,7 +490,8 @@
   {
    "q": "What colour is the huge roof of Ferrari World?",
    "a": "Red",
-   "p": 200
+   "p": 200,
+   "cpic": "Ferrari World"
   },
   {
    "q": "What does the name Abu Dhabi translate to in English?",
@@ -540,7 +550,8 @@
      "Sheikh Zayed Grand Mosque",
      "جامع الشيخ زايد الكبير"
     ]
-   ]
+   ],
+   "cpic": "Sheikh Zayed Grand Mosque"
   },
   {
    "q": "In which country was the mosque's giant hand-knotted carpet made?",
@@ -604,7 +615,8 @@
      "Etihad Towers",
      "أبراج الاتحاد"
     ]
-   ]
+   ],
+   "cpic": "Etihad Towers"
   },
   {
    "q": "Which Abu Dhabi skyscraper is famous for its deliberate lean?",
@@ -661,7 +673,8 @@
      "Al Ain",
      "العين"
     ]
-   ]
+   ],
+   "cpic": "Al Ain"
   },
   {
    "q": "Which Al Ain fort hosts an exhibition on explorer Wilfred Thesiger?",
@@ -680,7 +693,8 @@
      "Al Ain",
      "العين"
     ]
-   ]
+   ],
+   "cpic": "Wilfred Thesiger"
   },
   {
    "q": "Which founding president turned Sir Bani Yas Island into a wildlife reserve?",
@@ -698,7 +712,8 @@
      "Sir Bani Yas Island",
      "جزيرة صير بني ياس"
     ]
-   ]
+   ],
+   "cpic": "Sir Bani Yas"
   },
   {
    "q": "Which Abu Dhabi university is dedicated to artificial intelligence?",
@@ -747,7 +762,8 @@
      "Al Reem Island",
      "جزيرة الريم"
     ]
-   ]
+   ],
+   "cpic": "Al Reem Island"
   },
   {
    "q": "Which Al Dhafra festival features a camel beauty contest?",
@@ -799,7 +815,8 @@
      "Al Maryah Island",
      "جزيرة الماريه"
     ]
-   ]
+   ],
+   "cpic": "Al Maryah Island"
   },
   {
    "q": "Which endangered turtle nests on Saadiyat Island beaches?",
@@ -893,7 +910,8 @@
      "Al Ain",
      "العين"
     ]
-   ]
+   ],
+   "cpic": "Al Ain Zoo"
   },
   {
    "q": "Which Al Ain museum was the childhood home of Sheikh Zayed?",
@@ -1054,7 +1072,8 @@
      "Qasr Al Hosn",
      "قصر الحصن"
     ]
-   ]
+   ],
+   "cpic": "Qasr Al Hosn"
   },
   {
    "q": "Which Bronze Age archaeological park in Al Ain contains a Grand Tomb?",
@@ -1072,7 +1091,8 @@
      "Al Ain",
      "العين"
     ]
-   ]
+   ],
+   "cpic": "Bronze Age"
   },
   {
    "q": "Which ancient beehive-shaped tombs lie at the foot of Jebel Hafeet?",
@@ -1106,7 +1126,8 @@
      "Abu Dhabi",
      "أبوظبي"
     ]
-   ]
+   ],
+   "cpic": "Bronze Age"
   },
   {
    "q": "Which island west of Abu Dhabi was a major historic pearling centre?",
@@ -1169,7 +1190,8 @@
      "Sheikh Zayed Grand Mosque",
      "جامع الشيخ زايد الكبير"
     ]
-   ]
+   ],
+   "cpic": "Sheikh Zayed Grand Mosque"
   },
   {
    "q": "How many minarets does the Sheikh Zayed Grand Mosque have?",
@@ -1180,7 +1202,8 @@
      "Sheikh Zayed Grand Mosque",
      "جامع الشيخ زايد الكبير"
     ]
-   ]
+   ],
+   "cpic": "Sheikh Zayed Grand Mosque"
   },
   {
    "q": "What type of 7th-century religious site was found on Sir Bani Yas Island?",
@@ -1191,7 +1214,8 @@
      "Sir Bani Yas Island",
      "جزيرة صير بني ياس"
     ]
-   ]
+   ],
+   "cpic": "Sir Bani Yas"
   },
   {
    "q": "What is the traditional ancient irrigation channel system of Al Ain called?",
@@ -1225,7 +1249,8 @@
      "Al Dhafra",
      "الظفرة"
     ]
-   ]
+   ],
+   "cpic": "Al Dhafra Region"
   },
   {
    "q": "How many layers make up the Louvre Abu Dhabi dome?",
@@ -1236,7 +1261,8 @@
      "Abu Dhabi",
      "أبوظبي"
     ]
-   ]
+   ],
+   "cpic": "Louvre Abu Dhabi"
   },
   {
    "q": "At roughly what angle in degrees does Capital Gate lean?",
@@ -1265,7 +1291,8 @@
      "Abu Dhabi",
      "أبوظبي"
     ]
-   ]
+   ],
+   "cpic": "Louvre Abu Dhabi"
   },
   {
    "q": "What shape does the Liwa Oasis form on the map?",
@@ -1276,7 +1303,8 @@
      "Liwa",
      "ليوا"
     ]
-   ]
+   ],
+   "cpic": "Liwa Oasis"
   },
   {
    "q": "In which year was UAE University founded?",
@@ -1345,7 +1373,8 @@
      "Yas Island",
      "جزيرة ياس"
     ]
-   ]
+   ],
+   "cpic": "Roller coaster"
   },
   {
    "q": "In which 2015 action film does a supercar leap between the Etihad Towers?",
@@ -1377,7 +1406,8 @@
      "Abu Dhabi",
      "أبوظبي"
     ]
-   ]
+   ],
+   "cpic": "Warner Bros. World Abu Dhabi"
   },
   {
    "q": "In 2025, which entertainment company announced a theme park resort on Yas Island?",
@@ -1393,7 +1423,8 @@
      "Yas Island",
      "جزيرة ياس"
     ]
-   ]
+   ],
+   "cpic": "Yas Island"
   },
   {
    "q": "Which famous whales are absent from SeaWorld Abu Dhabi, the first SeaWorld park without them?",
@@ -1486,7 +1517,8 @@
      "Abu Dhabi",
      "أبوظبي"
     ]
-   ]
+   ],
+   "cpic": "Warner Bros. World Abu Dhabi"
   },
   {
    "q": "Which Abu Dhabi desert region was used to film the planet Arrakis in 2021's Dune?",
@@ -1679,7 +1711,8 @@
      "Al Maryah Island",
      "جزيرة الماريه"
     ]
-   ]
+   ],
+   "cpic": "Al Maryah Island"
   },
   {
    "q": "For how many years did Abu Dhabi agree to use the Louvre name under its 2007 deal with France?",
@@ -1694,7 +1727,8 @@
      "Abu Dhabi",
      "أبوظبي"
     ]
-   ]
+   ],
+   "cpic": "Louvre"
   },
   {
    "q": "In which country were the Sheikh Zayed Grand Mosque's crystal chandeliers made?",
@@ -1725,7 +1759,8 @@
      "Etihad Towers",
      "أبراج الاتحاد"
     ]
-   ]
+   ],
+   "cpic": "Etihad Towers"
   },
   {
    "q": "Which pair of Abu Dhabi towers is famous for a moving mashrabiya-style sun-shading facade?",
@@ -1778,7 +1813,8 @@
      "Zayed National Museum",
      "متحف زايد الوطني"
     ]
-   ]
+   ],
+   "cpic": "Zayed National Museum"
   },
   {
    "q": "Roughly how many worshippers can the Sheikh Zayed Grand Mosque hold?",
@@ -1904,7 +1940,8 @@
      "Zayed National Museum",
      "متحف زايد الوطني"
     ]
-   ]
+   ],
+   "cpic": "Zayed National Museum"
   },
   {
    "q": "Emirates Palace opened in 2005 in time to host which regional summit?",
@@ -1913,13 +1950,15 @@
    "alt": [
     "Gulf Cooperation Council summit",
     "Gulf summit"
-   ]
+   ],
+   "cpic": "Emirates Palace"
   },
   {
    "q": "From which country was the sand for Emirates Palace's beach imported?",
    "a": "Algeria",
    "p": 600,
-   "ar": "الجزائر"
+   "ar": "الجزائر",
+   "cpic": "Emirates Palace"
   },
   {
    "q": "Which arts centre beside Qasr Al Hosn reopened in 2018 after a decade-long closure?",
@@ -1934,7 +1973,8 @@
      "Qasr Al Hosn",
      "قصر الحصن"
     ]
-   ]
+   ],
+   "cpic": "Qasr Al Hosn"
   },
   {
    "q": "What is Abu Dhabi's green building rating system, named after a gem of the sea, called?",

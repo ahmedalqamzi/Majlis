@@ -6,19 +6,22 @@
    "q": "What is the capital city of Japan?",
    "a": "Tokyo",
    "p": 200,
-   "apic": "Tokyo"
+   "apic": "Tokyo",
+   "cpic": "Japan"
   },
   {
    "q": "What is the currency of Japan?",
    "a": "Yen",
    "p": 200,
-   "apic": "Japanese yen"
+   "apic": "Japanese yen",
+   "cpic": "Japan"
   },
   {
    "q": "What is the highest mountain in Japan?",
    "a": "Mount Fuji",
    "p": 200,
-   "apic": "Mount Fuji"
+   "apic": "Mount Fuji",
+   "cpic": "Japan"
   },
   {
    "q": "Which Japanese dish features raw fish or seafood on vinegared rice?",
@@ -104,7 +107,8 @@
    "q": "Which former imperial capital is famous for its temples, shrines and geisha districts?",
    "a": "Kyoto",
    "p": 200,
-   "apic": "Kyoto"
+   "apic": "Kyoto",
+   "cpic": "Geisha"
   },
   {
    "q": "Which yellow electric mouse Pokemon is the series mascot?",
@@ -122,7 +126,8 @@
    "q": "What is the finely ground green tea powder used in Japanese tea ceremony called?",
    "a": "Matcha",
    "p": 200,
-   "apic": "Matcha"
+   "apic": "Matcha",
+   "cpic": "Japanese tea ceremony"
   },
   {
    "q": "Which Japanese martial art's name means 'empty hand'?",
@@ -173,7 +178,8 @@
    "q": "What is the dried seaweed sheet used to wrap sushi rolls called?",
    "a": "Nori",
    "p": 200,
-   "apic": "Nori"
+   "apic": "Nori",
+   "cpic": "Sushi"
   },
   {
    "q": "Which ocean lies to the east of Japan?",
@@ -190,7 +196,8 @@
    "q": "What is the pungent green paste served with sushi called?",
    "a": "Wasabi",
    "p": 200,
-   "apic": "Wasabi"
+   "apic": "Wasabi",
+   "cpic": "Sushi"
   },
   {
    "q": "What does the Japanese word 'sayonara' mean?",
@@ -218,7 +225,8 @@
    "q": "Which main island is home to the cities of Fukuoka and Nagasaki?",
    "a": "Kyushu",
    "p": 400,
-   "apic": "Kyushu"
+   "apic": "Kyushu",
+   "cpic": "Fukuoka"
   },
   {
    "q": "Which shogunate ended with the Meiji Restoration of 1868?",
@@ -229,7 +237,8 @@
   {
    "q": "What was Tokyo called before 1868?",
    "a": "Edo",
-   "p": 400
+   "p": 400,
+   "cpic": "Tokyo"
   },
   {
    "q": "Which city, Japan's capital in the 8th century, is known for its Great Buddha and free-roaming deer?",
@@ -253,12 +262,14 @@
    "q": "Which Hokkaido city is the home of miso ramen?",
    "a": "Sapporo",
    "p": 400,
-   "apic": "Sapporo"
+   "apic": "Sapporo",
+   "cpic": "Hokkaido"
   },
   {
    "q": "Tonkotsu ramen broth is made mainly from what?",
    "a": "Pork bones",
-   "p": 400
+   "p": 400,
+   "cpic": "Ramen"
   },
   {
    "q": "Which port city gives its name to a famous brand of wagyu beef?",
@@ -282,13 +293,15 @@
    "q": "What is the wide sash worn around a kimono called?",
    "a": "Obi",
    "p": 400,
-   "apic": "Obi (sash)"
+   "apic": "Obi (sash)",
+   "cpic": "Kimono"
   },
   {
    "q": "What is the light cotton summer kimono called?",
    "a": "Yukata",
    "p": 400,
-   "apic": "Yukata"
+   "apic": "Yukata",
+   "cpic": "Kimono"
   },
   {
    "q": "In which city is the Gion Matsuri festival held each July?",
@@ -311,13 +324,15 @@
    "q": "In 1964 the first Shinkansen line connected Tokyo with which city?",
    "a": "Osaka",
    "p": 400,
-   "apic": "Osaka"
+   "apic": "Osaka",
+   "cpic": "Shinkansen"
   },
   {
    "q": "Which Tokyo district is famous for electronics shops and anime culture?",
    "a": "Akihabara",
    "p": 400,
-   "apic": "Akihabara"
+   "apic": "Akihabara",
+   "cpic": "Tokyo"
   },
   {
    "q": "Why is sticking chopsticks upright in a bowl of rice considered taboo?",
@@ -328,19 +343,22 @@
    "q": "What is the highest rank in sumo?",
    "a": "Yokozuna",
    "p": 400,
-   "apic": "Yokozuna"
+   "apic": "Yokozuna",
+   "cpic": "Sumo"
   },
   {
    "q": "What is the raised ring where sumo bouts take place called?",
    "a": "Dohyo",
    "p": 400,
-   "apic": "Dohyō"
+   "apic": "Dohyō",
+   "cpic": "Sumo"
   },
   {
    "q": "What is the belt worn by sumo wrestlers called?",
    "a": "Mawashi",
    "p": 400,
-   "apic": "Mawashi"
+   "apic": "Mawashi",
+   "cpic": "Sumo"
   },
   {
    "q": "What is the height of Mount Fuji, to the nearest 10 metres?",
@@ -363,13 +381,15 @@
   {
    "q": "What is the code of conduct of the samurai called?",
    "a": "Bushido",
-   "p": 400
+   "p": 400,
+   "cpic": "Samurai"
   },
   {
    "q": "What is the curved single-edged sword associated with samurai called?",
    "a": "Katana",
    "p": 400,
-   "apic": "Katana"
+   "apic": "Katana",
+   "cpic": "Samurai"
   },
   {
    "q": "Which animation studio made Spirited Away and My Neighbor Totoro?",
@@ -404,19 +424,22 @@
    "q": "Who designed Mario, Donkey Kong and The Legend of Zelda at Nintendo?",
    "a": "Shigeru Miyamoto",
    "p": 400,
-   "apic": "Shigeru Miyamoto"
+   "apic": "Shigeru Miyamoto",
+   "cpic": "Nintendo"
   },
   {
    "q": "Nintendo was founded in 1889 to make what kind of product?",
    "a": "Hanafuda playing cards",
    "p": 600,
-   "apic": "Hanafuda"
+   "apic": "Hanafuda",
+   "cpic": "Nintendo"
   },
   {
    "q": "Which 1600 battle gave Tokugawa Ieyasu control of Japan?",
    "a": "Battle of Sekigahara",
    "p": 600,
-   "apic": "Battle of Sekigahara"
+   "apic": "Battle of Sekigahara",
+   "cpic": "Tokugawa Ieyasu"
   },
   {
    "q": "What is the period of Tokugawa rule from 1603 to 1868 called?",
@@ -432,7 +455,8 @@
    "q": "Which unifier of Japan built Osaka Castle in the 1580s?",
    "a": "Toyotomi Hideyoshi",
    "p": 600,
-   "apic": "Toyotomi Hideyoshi"
+   "apic": "Toyotomi Hideyoshi",
+   "cpic": "Osaka"
   },
   {
    "q": "Which city was the seat of Japan's first shogunate, founded in the late 12th century?",
@@ -474,7 +498,8 @@
    "q": "Which 16th-century master is considered the most influential figure in the Japanese tea ceremony?",
    "a": "Sen no Rikyu",
    "p": 600,
-   "apic": "Sen no Rikyū"
+   "apic": "Sen no Rikyū",
+   "cpic": "Japanese tea ceremony"
   },
   {
    "q": "What Japanese aesthetic finds beauty in imperfection and impermanence?",
@@ -503,24 +528,28 @@
    "q": "What is the oldest form of sushi, made with fermented fish and rice, called?",
    "a": "Narezushi",
    "p": 600,
-   "apic": "Narezushi"
+   "apic": "Narezushi",
+   "cpic": "Sushi"
   },
   {
    "q": "What is 'battleship' sushi, an oval rice ball wrapped in nori and topped with loose ingredients, called?",
    "a": "Gunkan maki",
-   "p": 600
+   "p": 600,
+   "cpic": "Nori"
   },
   {
    "q": "Hakata-style tonkotsu ramen comes from which city?",
    "a": "Fukuoka",
    "p": 600,
-   "apic": "Fukuoka"
+   "apic": "Fukuoka",
+   "cpic": "Ramen"
   },
   {
    "q": "What is ramen served with noodles and broth in separate bowls for dipping called?",
    "a": "Tsukemen",
    "p": 600,
-   "apic": "Tsukemen"
+   "apic": "Tsukemen",
+   "cpic": "Ramen"
   },
   {
    "q": "Which cattle breed accounts for the vast majority of wagyu beef in Japan?",
@@ -538,12 +567,14 @@
    "q": "Which town near Kyoto is Japan's most renowned matcha-producing region?",
    "a": "Uji",
    "p": 600,
-   "apic": "Uji, Kyoto"
+   "apic": "Uji, Kyoto",
+   "cpic": "Kyoto"
   },
   {
    "q": "Which two men founded Sony in 1946?",
    "a": "Masaru Ibuka and Akio Morita",
-   "p": 600
+   "p": 600,
+   "cpic": "Sony"
   },
   {
    "q": "How many official grand sumo tournaments are held each year?",
@@ -576,7 +607,8 @@
   {
    "q": "Toyota began as a maker of what type of machinery before cars?",
    "a": "Automatic looms",
-   "p": 600
+   "p": 600,
+   "cpic": "Toyota"
   },
   {
    "q": "What is the Japanese art of growing miniature trees in pots called?",
@@ -652,7 +684,8 @@
    "q": "Which Tokyo district is famous for its huge pedestrian scramble crossing?",
    "a": "Shibuya",
    "p": 200,
-   "apic": "Shibuya"
+   "apic": "Shibuya",
+   "cpic": "Tokyo"
   },
   {
    "q": "Which southern Japanese prefecture is a chain of subtropical islands?",
@@ -701,7 +734,8 @@
    "q": "What is the name of the famous loyal Akita dog with a statue at Shibuya Station?",
    "a": "Hachiko",
    "p": 200,
-   "apic": "Hachikō"
+   "apic": "Hachikō",
+   "cpic": "Shibuya"
   },
   {
    "q": "What is the name of Japan's famous 634-metre broadcasting tower, opened in 2012?",
@@ -745,7 +779,8 @@
    "q": "Which Osaka street food consists of batter balls filled with pieces of octopus?",
    "a": "Takoyaki",
    "p": 400,
-   "apic": "Takoyaki"
+   "apic": "Takoyaki",
+   "cpic": "Osaka"
   },
   {
    "q": "Which Japanese hotpot dish of thinly sliced meat swished in boiling broth is named after the sound it makes?",
@@ -757,7 +792,8 @@
    "q": "What is the Japanese name for soy sauce?",
    "a": "Shoyu",
    "p": 400,
-   "apic": "Soy sauce"
+   "apic": "Soy sauce",
+   "cpic": "Soy sauce"
   },
   {
    "q": "What are the woven straw floor mats in traditional Japanese rooms called?",
@@ -769,7 +805,8 @@
    "q": "What is the traditional gate marking the entrance to a Shinto shrine called?",
    "a": "Torii",
    "p": 400,
-   "apic": "Torii"
+   "apic": "Torii",
+   "cpic": "Shinto"
   },
   {
    "q": "Which Kyoto Zen temple is covered in gold leaf?",
@@ -778,7 +815,8 @@
    "alt": [
     "Golden Pavilion"
    ],
-   "apic": "Kinkaku-ji"
+   "apic": "Kinkaku-ji",
+   "cpic": "Kyoto"
   },
   {
    "q": "Which Kyoto shrine is famous for tunnels of thousands of orange torii gates?",
@@ -787,7 +825,8 @@
    "alt": [
     "Fushimi Inari Taisha"
    ],
-   "apic": "Fushimi Inari-taisha"
+   "apic": "Fushimi Inari-taisha",
+   "cpic": "Torii"
   },
   {
    "q": "Which red and white Tokyo tower, inspired by the Eiffel Tower, opened in 1958?",
@@ -816,7 +855,8 @@
   {
    "q": "What were masterless samurai called?",
    "a": "Ronin",
-   "p": 400
+   "p": 400,
+   "cpic": "Samurai"
   },
   {
    "q": "What were the powerful feudal lords of Japan called?",
@@ -838,7 +878,8 @@
    "alt": [
     "Fukushima"
    ],
-   "apic": "Fukushima Daiichi Nuclear Power Plant"
+   "apic": "Fukushima Daiichi Nuclear Power Plant",
+   "cpic": "Nuclear power plant"
   },
   {
    "q": "How many prefectures does Japan have?",
@@ -859,7 +900,8 @@
    "q": "Which Japanese company makes the Ninja range of motorcycles?",
    "a": "Kawasaki",
    "p": 400,
-   "apic": "Kawasaki Ninja"
+   "apic": "Kawasaki Ninja",
+   "cpic": "Ninja"
   },
   {
    "q": "What is the Japanese 'beckoning cat' figurine, said to bring good luck, called?",
@@ -877,13 +919,15 @@
    "q": "Which fish do the koinobori streamers flown for Children's Day represent?",
    "a": "Carp",
    "p": 400,
-   "apic": "Koinobori"
+   "apic": "Koinobori",
+   "cpic": "Koinobori"
   },
   {
    "q": "Which Hokkaido city hosts a famous Snow Festival every February?",
    "a": "Sapporo",
    "p": 400,
-   "apic": "Sapporo Snow Festival"
+   "apic": "Sapporo Snow Festival",
+   "cpic": "Hokkaido"
   },
   {
    "q": "Which rounded Japanese phonetic script is used for native words and grammar endings?",
@@ -964,7 +1008,8 @@
    "q": "What is a traditional Japanese inn with tatami rooms and often an onsen called?",
    "a": "Ryokan",
    "p": 400,
-   "apic": "Ryokan"
+   "apic": "Ryokan",
+   "cpic": "Tatami"
   },
   {
    "q": "In which city is the neon-lit Dotonbori entertainment district?",
@@ -976,7 +1021,8 @@
    "q": "Which active volcano dominates the bay of Kagoshima?",
    "a": "Sakurajima",
    "p": 400,
-   "apic": "Sakurajima"
+   "apic": "Sakurajima",
+   "cpic": "Volcano"
   },
   {
    "q": "Which is Tokyo's oldest temple, in the Asakusa district?",
@@ -1035,7 +1081,8 @@
    "q": "What is the fish-shaped Japanese cake, usually filled with red bean paste, called?",
    "a": "Taiyaki",
    "p": 600,
-   "apic": "Taiyaki"
+   "apic": "Taiyaki",
+   "cpic": "Red bean paste"
   },
   {
    "q": "What are the Japanese-style breadcrumbs used for crispy coatings called?",
@@ -1082,7 +1129,8 @@
    "q": "What is an apprentice geisha in Kyoto called?",
    "a": "Maiko",
    "p": 600,
-   "apic": "Maiko"
+   "apic": "Maiko",
+   "cpic": "Geisha"
   },
   {
    "q": "What is the Japanese art of comic storytelling by a kneeling performer with a fan and cloth called?",
@@ -1131,7 +1179,8 @@
   {
    "q": "What was the name of Kyoto when it became the imperial capital in 794?",
    "a": "Heian-kyo",
-   "p": 600
+   "p": 600,
+   "cpic": "Kyoto"
   },
   {
    "q": "What name, meaning 'divine wind', was given to the typhoons that wrecked Mongol invasion fleets in the 13th century?",
@@ -1157,7 +1206,8 @@
    "q": "Which undersea railway tunnel links Honshu and Hokkaido?",
    "a": "Seikan Tunnel",
    "p": 600,
-   "apic": "Seikan Tunnel"
+   "apic": "Seikan Tunnel",
+   "cpic": "Hokkaido"
   },
   {
    "q": "Who founded the Honda Motor Company in 1948?",
@@ -1208,7 +1258,8 @@
   {
    "q": "What does the name 'judo' mean?",
    "a": "The gentle way",
-   "p": 600
+   "p": 600,
+   "cpic": "Judo"
   },
   {
    "q": "What are Japanese business cards called?",
@@ -1246,7 +1297,8 @@
    "q": "Which Japanese writer was the first from Japan to win the Nobel Prize in Literature, in 1968?",
    "a": "Yasunari Kawabata",
    "p": 600,
-   "apic": "Yasunari Kawabata"
+   "apic": "Yasunari Kawabata",
+   "cpic": "Nobel Prize"
   },
   {
    "q": "According to tradition, who was the first Emperor of Japan?",
@@ -1322,7 +1374,8 @@
    "alt": [
     "Stratovolcano"
    ],
-   "apic": "Volcano"
+   "apic": "Volcano",
+   "cpic": "Mount Fuji"
   },
   {
    "q": "Which Japanese clothing brand is known for its HeatTech and AIRism lines?",
@@ -1354,7 +1407,8 @@
    "p": 200,
    "alt": [
     "Makizushi"
-   ]
+   ],
+   "cpic": "Nori"
   },
   {
    "q": "Which inside-out sushi roll with crab and avocado was invented outside Japan?",
@@ -1419,7 +1473,8 @@
   {
    "q": "What is the hand-rolled cone of nori filled with rice and fish called?",
    "a": "Temaki",
-   "p": 400
+   "p": 400,
+   "cpic": "Nori"
   },
   {
    "q": "What is the sushi of a slice of fish laid over a hand-pressed mound of rice called?",
@@ -1481,7 +1536,8 @@
    "alt": [
     "Emperor Showa"
    ],
-   "apic": "Hirohito"
+   "apic": "Hirohito",
+   "cpic": "World War II"
   },
   {
    "q": "Which Japanese emperor abdicated in 2019?",
@@ -1569,7 +1625,8 @@
    "q": "Which inland sea separates Honshu, Shikoku and Kyushu?",
    "a": "Seto Inland Sea",
    "p": 600,
-   "apic": "Seto Inland Sea"
+   "apic": "Seto Inland Sea",
+   "cpic": "Shikoku"
   },
   {
    "q": "On what date is White Day, when men return gifts for Valentine's Day in Japan?",
@@ -1607,7 +1664,8 @@
    "alt": [
     "Akita Inu"
    ],
-   "apic": "Akita (dog)"
+   "apic": "Akita (dog)",
+   "cpic": "Hachikō"
   }
  ]
 }

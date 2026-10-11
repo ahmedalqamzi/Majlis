@@ -52,7 +52,8 @@
   {
    "q": "What do tennis rackets have that padel rackets lack?",
    "a": "Strings",
-   "p": 200
+   "p": 200,
+   "cpic": "Tennis"
   },
   {
    "q": "What transparent material are modern padel back walls made of?",
@@ -159,7 +160,8 @@
   {
    "q": "Besides glass, what other wall material is used on a padel court?",
    "a": "Wire mesh",
-   "p": 200
+   "p": 200,
+   "cpic": "Glass"
   },
   {
    "q": "What is a high shot over the opponents' heads called?",
@@ -200,7 +202,8 @@
   {
    "q": "How tall is the glass panel of a padel back wall?",
    "a": "3 m",
-   "p": 400
+   "p": 400,
+   "cpic": "Glass"
   },
   {
    "q": "What is the total back wall height including mesh?",
@@ -291,7 +294,8 @@
    "q": "Which prince brought padel to Spain?",
    "a": "Alfonso of Hohenlohe",
    "p": 400,
-   "apic": "Prince Alfonso of Hohenlohe-Langenburg"
+   "apic": "Prince Alfonso of Hohenlohe-Langenburg",
+   "cpic": "Spain"
   },
   {
    "q": "In which year did padel reach Marbella?",
@@ -302,7 +306,8 @@
   {
    "q": "Which Argentine introduced padel to Argentina?",
    "a": "Julio Menditeguy",
-   "p": 400
+   "p": 400,
+   "cpic": "Argentina"
   },
   {
    "q": "Which Marbella venue hosted Hohenlohe's early courts?",
@@ -362,7 +367,8 @@
   {
    "q": "How does padel ball pressure compare with a tennis ball's?",
    "a": "Lower",
-   "p": 400
+   "p": 400,
+   "cpic": "Tennis"
   },
   {
    "q": "What is the English meaning of 'vibora'?",
@@ -435,7 +441,8 @@
   {
    "q": "In which year did Qatar Sports Investments acquire the World Padel Tour?",
    "a": "2023",
-   "p": 600
+   "p": 600,
+   "cpic": "Qatar"
   },
   {
    "q": "How many ranking points does a Premier Padel Major award?",
@@ -472,7 +479,8 @@
   {
    "q": "At which Dubai complex is Dubai Premier Padel P1 played?",
    "a": "Hamdan Sports Complex",
-   "p": 600
+   "p": 600,
+   "cpic": "Dubai"
   },
   {
    "q": "Which Dubai stadium hosted the first Dubai P1 edition?",
@@ -482,7 +490,8 @@
   {
    "q": "In which year was the first Dubai Premier Padel P1 held?",
    "a": "2024",
-   "p": 600
+   "p": 600,
+   "cpic": "Dubai"
   },
   {
    "q": "In which year was the UAE Padel Association founded?",
@@ -502,7 +511,8 @@
   {
    "q": "What is the tennis doubles court width in metres?",
    "a": "10.97 m",
-   "p": 600
+   "p": 600,
+   "cpic": "Tennis"
   },
   {
    "q": "What is the tennis net height at the centre in centimetres?",
@@ -522,7 +532,8 @@
   {
    "q": "In which Acapulco district was Corcuera's house?",
    "a": "Las Brisas",
-   "p": 600
+   "p": 600,
+   "cpic": "Acapulco"
   },
   {
    "q": "After bouncing on the ground, what may the ball hit on your side before you return it?",
@@ -541,7 +552,8 @@
    "alt": [
     "Opponents",
     "The other team"
-   ]
+   ],
+   "cpic": "Glass"
   },
   {
    "q": "What is padel called in Spanish, written with an accent?",
@@ -593,7 +605,8 @@
    "q": "Which Gulf city hosted the 2022 World Padel Championships, where Argentina beat Spain in the men's final?",
    "a": "Dubai",
    "p": 200,
-   "apic": "Dubai"
+   "apic": "Dubai",
+   "cpic": "Argentina"
   },
   {
    "q": "Which famous Paris tennis venue hosts Premier Padel's Paris Major?",
@@ -713,7 +726,8 @@
     "Ale Galan",
     "Alejandro Galan",
     "Galán"
-   ]
+   ],
+   "cpic": "Madrid"
   },
   {
    "q": "Which Argentine star from Catamarca is nicknamed 'the Mozart of Catamarca'?",
@@ -804,7 +818,8 @@
   {
    "q": "What was the first name of Corcuera's wife, a former Miss Argentina, who drafted padel's first rules?",
    "a": "Viviana",
-   "p": 600
+   "p": 600,
+   "cpic": "Argentina"
   },
   {
    "q": "What was the first detachable, transportable glass padel court, introduced in 1989, called?",
@@ -843,13 +858,15 @@
   {
    "q": "Which team padel competition, launched in 2023 in Madrid, has celebrity team owners such as Eva Longoria?",
    "a": "Hexagon Cup",
-   "p": 600
+   "p": 600,
+   "cpic": "Madrid"
   },
   {
    "q": "Which British boxer co-owns a Hexagon Cup team with Andy Murray?",
    "a": "Anthony Joshua",
    "p": 400,
-   "apic": "Anthony Joshua"
+   "apic": "Anthony Joshua",
+   "cpic": "Andy Murray"
   },
   {
    "q": "For how many consecutive years was Fernando Belasteguín ranked world number one?",
@@ -857,7 +874,8 @@
    "p": 600,
    "alt": [
     "Sixteen"
-   ]
+   ],
+   "cpic": "Fernando Belasteguín"
   },
   {
    "q": "Which Málaga-born pioneer was women's world number one for nine consecutive years?",
@@ -870,7 +888,8 @@
    "p": 600,
    "alt": [
     "Martita Ortega"
-   ]
+   ],
+   "cpic": "Madrid"
   },
   {
    "q": "Which Spanish women's star is nicknamed 'Bandejandra' for her famous overhead?",

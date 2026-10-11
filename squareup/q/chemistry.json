@@ -70,13 +70,15 @@
     "Salt",
     "Common salt"
    ],
-   "apic": "Sodium chloride"
+   "apic": "Sodium chloride",
+   "cpic": "Sodium chloride"
   },
   {
    "q": "What is the chemical formula for carbon dioxide?",
    "a": "CO2",
    "p": 200,
-   "apic": "Carbon dioxide"
+   "apic": "Carbon dioxide",
+   "cpic": "Carbon dioxide"
   },
   {
    "q": "What is the chemical formula for table salt?",
@@ -122,7 +124,8 @@
   {
    "q": "What do we call a substance made of only one type of atom?",
    "a": "Element",
-   "p": 200
+   "p": 200,
+   "cpic": "Atom"
   },
   {
    "q": "What do we call a substance made of two or more elements chemically joined together?",
@@ -144,7 +147,8 @@
    "q": "What is solid carbon dioxide commonly called?",
    "a": "Dry ice",
    "p": 200,
-   "apic": "Dry ice"
+   "apic": "Dry ice",
+   "cpic": "Carbon dioxide"
   },
   {
    "q": "Diamonds are made entirely of which element?",
@@ -157,7 +161,8 @@
    "q": "The 'lead' in a pencil is actually made of which form of carbon?",
    "a": "Graphite",
    "p": 200,
-   "apic": "Graphite"
+   "apic": "Graphite",
+   "cpic": "Carbon"
   },
   {
    "q": "Rust forms when iron reacts with water and which gas?",
@@ -169,7 +174,8 @@
   {
    "q": "Does lemon juice contain an acid or an alkali?",
    "a": "An acid",
-   "p": 200
+   "p": 200,
+   "cpic": "Lemon"
   },
   {
    "q": "Which reddish metal is used in most household electrical wires?",
@@ -188,30 +194,35 @@
    "q": "Which noble gas glows bright red-orange in classic advertising signs?",
    "a": "Neon",
    "p": 200,
-   "apic": "Neon"
+   "apic": "Neon",
+   "cpic": "Noble gas"
   },
   {
    "q": "Which noble gas shares its name with Superman's home planet?",
    "a": "Krypton",
    "p": 200,
-   "apic": "Krypton"
+   "apic": "Krypton",
+   "cpic": "Noble gas"
   },
   {
    "q": "Which element is added to swimming pool water to kill germs?",
    "a": "Chlorine",
    "p": 200,
-   "apic": "Chlorine"
+   "apic": "Chlorine",
+   "cpic": "Water"
   },
   {
    "q": "Which compound of fluorine is added to toothpaste to protect teeth?",
    "a": "Fluoride",
-   "p": 200
+   "p": 200,
+   "cpic": "Fluorine"
   },
   {
    "q": "Which gas is the main component of natural gas?",
    "a": "Methane",
    "p": 200,
-   "apic": "Methane"
+   "apic": "Methane",
+   "cpic": "Natural gas"
   },
   {
    "q": "Which gas, with the formula O3, forms a protective layer high in the atmosphere?",
@@ -253,7 +264,8 @@
   {
    "q": "What do we call a mixture of metals, such as brass or bronze?",
    "a": "Alloy",
-   "p": 200
+   "p": 200,
+   "cpic": "Bronze"
   },
   {
    "q": "What is the chemical reaction called when a fuel burns in oxygen?",
@@ -261,7 +273,8 @@
    "p": 200,
    "alt": [
     "Burning"
-   ]
+   ],
+   "cpic": "Oxygen"
   },
   {
    "q": "Which Swedish chemist invented dynamite and founded a famous set of prizes?",
@@ -286,13 +299,15 @@
    "q": "What legendary substance did alchemists believe could turn ordinary metals into gold?",
    "a": "Philosopher's stone",
    "p": 200,
-   "apic": "Philosopher's stone"
+   "apic": "Philosopher's stone",
+   "cpic": "Gold"
   },
   {
    "q": "Which precious metal did alchemists most famously try to make from lead?",
    "a": "Gold",
    "p": 200,
-   "apic": "Gold"
+   "apic": "Gold",
+   "cpic": "Lead"
   },
   {
    "q": "Which ancient civilisation invented gunpowder?",
@@ -340,22 +355,26 @@
   {
    "q": "How many carats is pure gold?",
    "a": "24",
-   "p": 200
+   "p": 200,
+   "cpic": "Gold"
   },
   {
    "q": "How many atoms are in one molecule of water?",
    "a": "3",
-   "p": 200
+   "p": 200,
+   "cpic": "Molecule"
   },
   {
    "q": "Which two elements make up water?",
    "a": "Hydrogen and oxygen",
-   "p": 200
+   "p": 200,
+   "cpic": "Water"
   },
   {
    "q": "What do we call an atom that has gained or lost electrons and so carries a charge?",
    "a": "Ion",
-   "p": 200
+   "p": 200,
+   "cpic": "Atom"
   },
   {
    "q": "What is the general name for long-chain molecules such as plastics?",
@@ -377,7 +396,8 @@
   {
    "q": "Which separation method uses paper to remove sand from water?",
    "a": "Filtration",
-   "p": 200
+   "p": 200,
+   "cpic": "Water"
   },
   {
    "q": "What process boils seawater and condenses the steam to get fresh water?",
@@ -403,7 +423,8 @@
    "alt": [
     "Iron pyrite"
    ],
-   "apic": "Pyrite"
+   "apic": "Pyrite",
+   "cpic": "Sulfur"
   },
   {
    "q": "What is the common name for H2O when it is a gas?",
@@ -457,7 +478,8 @@
   {
    "q": "What name is given to the vertical columns of the periodic table?",
    "a": "Groups",
-   "p": 200
+   "p": 200,
+   "cpic": "Periodic table"
   },
   {
    "q": "Which element, needed by plants, is the main ingredient of fertilisers like ammonium nitrate?",
@@ -486,7 +508,8 @@
    "q": "What is the chemical name for vitamin C?",
    "a": "Ascorbic acid",
    "p": 200,
-   "apic": "Vitamin C"
+   "apic": "Vitamin C",
+   "cpic": "Vitamin C"
   },
   {
    "q": "Which acid is found in vinegar?",
@@ -495,7 +518,8 @@
    "alt": [
     "Ethanoic acid"
    ],
-   "apic": "Acetic acid"
+   "apic": "Acetic acid",
+   "cpic": "Vinegar"
   },
   {
    "q": "Baking soda is the everyday name for which compound?",
@@ -515,13 +539,15 @@
    "q": "Which very hard material, used in drill tips, is the hardest natural form of carbon?",
    "a": "Diamond",
    "p": 200,
-   "apic": "Diamond"
+   "apic": "Diamond",
+   "cpic": "Carbon"
   },
   {
    "q": "Which group of elements on the far right of the periodic table includes helium, neon and argon?",
    "a": "Noble gases",
    "p": 200,
-   "apic": "Noble gas"
+   "apic": "Noble gas",
+   "cpic": "Periodic table"
   },
   {
    "q": "Which liquid is often called the 'universal solvent'?",
@@ -624,13 +650,15 @@
    "q": "Which glowing radioactive element did Marie and Pierre Curie discover in 1898 alongside polonium?",
    "a": "Radium",
    "p": 200,
-   "apic": "Radium"
+   "apic": "Radium",
+   "cpic": "Polonium"
   },
   {
    "q": "Olympic gold medals are mostly made of which metal?",
    "a": "Silver",
    "p": 400,
-   "apic": "Silver"
+   "apic": "Silver",
+   "cpic": "Gold"
   },
   {
    "q": "What is the chemical symbol for iron?",
@@ -683,37 +711,43 @@
   {
    "q": "What name is given to the horizontal rows of the periodic table?",
    "a": "Periods",
-   "p": 400
+   "p": 400,
+   "cpic": "Periodic table"
   },
   {
    "q": "What name is given to the group 17 elements, such as fluorine and chlorine?",
    "a": "Halogens",
    "p": 400,
-   "apic": "Halogen"
+   "apic": "Halogen",
+   "cpic": "Chlorine"
   },
   {
    "q": "What name is given to the group 1 elements, such as lithium and sodium?",
    "a": "Alkali metals",
    "p": 400,
-   "apic": "Alkali metal"
+   "apic": "Alkali metal",
+   "cpic": "Lithium"
   },
   {
    "q": "What name is given to the large central block of metals such as iron, copper and nickel?",
    "a": "Transition metals",
    "p": 400,
-   "apic": "Transition metal"
+   "apic": "Transition metal",
+   "cpic": "Nickel"
   },
   {
    "q": "Which radioactive noble gas can seep from the ground and build up in basements?",
    "a": "Radon",
    "p": 400,
-   "apic": "Radon"
+   "apic": "Radon",
+   "cpic": "Noble gas"
   },
   {
    "q": "Which halogen is a red-brown liquid at room temperature?",
    "a": "Bromine",
    "p": 400,
-   "apic": "Bromine"
+   "apic": "Bromine",
+   "cpic": "Halogen"
   },
   {
    "q": "Which soft metal melts in your hand at about 30 degrees Celsius?",
@@ -731,7 +765,8 @@
    "q": "Which element did Marie Curie name after her home country?",
    "a": "Polonium",
    "p": 400,
-   "apic": "Polonium"
+   "apic": "Polonium",
+   "cpic": "Marie Curie"
   },
   {
    "q": "Which element is named after the scientist famous for the equation E = mc squared?",
@@ -763,7 +798,8 @@
   {
    "q": "Silver's symbol Ag comes from which Latin word, which also gave a South American country its name?",
    "a": "Argentum",
-   "p": 400
+   "p": 400,
+   "cpic": "Silver"
   },
   {
    "q": "Gold's symbol Au comes from which Latin word?",
@@ -801,19 +837,22 @@
    "q": "Which metal is added to steel to make it stainless?",
    "a": "Chromium",
    "p": 400,
-   "apic": "Chromium"
+   "apic": "Chromium",
+   "cpic": "Steel"
   },
   {
    "q": "Galvanising protects iron from rust by coating it with which metal?",
    "a": "Zinc",
    "p": 400,
-   "apic": "Zinc"
+   "apic": "Zinc",
+   "cpic": "Rust"
   },
   {
    "q": "From which ore is aluminium mainly extracted?",
    "a": "Bauxite",
    "p": 400,
-   "apic": "Bauxite"
+   "apic": "Bauxite",
+   "cpic": "Aluminium"
   },
   {
    "q": "What is the process of a solid turning straight into a gas called?",
@@ -839,7 +878,8 @@
   {
    "q": "What type of chemical bond forms when electrons are transferred from one atom to another?",
    "a": "Ionic bond",
-   "p": 400
+   "p": 400,
+   "cpic": "Atom"
   },
   {
    "q": "What are atoms of the same element with different numbers of neutrons called?",
@@ -859,22 +899,26 @@
   {
    "q": "How many protons does a carbon atom have?",
    "a": "6",
-   "p": 400
+   "p": 400,
+   "cpic": "Carbon"
   },
   {
    "q": "How many electrons does a neutral oxygen atom have?",
    "a": "8",
-   "p": 400
+   "p": 400,
+   "cpic": "Oxygen"
   },
   {
    "q": "What is the maximum number of electrons in the first electron shell of an atom?",
    "a": "2",
-   "p": 400
+   "p": 400,
+   "cpic": "Electron"
   },
   {
    "q": "How many hydrogen atoms are in one molecule of methane?",
    "a": "4",
-   "p": 400
+   "p": 400,
+   "cpic": "Molecule"
   },
   {
    "q": "What name is given to electrons in the outermost shell of an atom?",
@@ -914,7 +958,8 @@
   {
    "q": "What is the chemical formula of methane?",
    "a": "CH4",
-   "p": 400
+   "p": 400,
+   "cpic": "Methane"
   },
   {
    "q": "What is the chemical formula of hydrochloric acid?",
@@ -964,7 +1009,8 @@
    "alt": [
     "Epsom salts"
    ],
-   "apic": "Magnesium sulfate"
+   "apic": "Magnesium sulfate",
+   "cpic": "Magnesium sulfate"
   },
   {
    "q": "Aspirin was developed from a compound found in the bark of which tree?",
@@ -1002,7 +1048,8 @@
    "alt": [
     "Blue-green",
     "Green-blue"
-   ]
+   ],
+   "cpic": "Copper"
   },
   {
    "q": "What colour light does burning magnesium give off?",
@@ -1010,7 +1057,8 @@
    "p": 400,
    "alt": [
     "White"
-   ]
+   ],
+   "cpic": "Magnesium"
   },
   {
    "q": "What colour is chlorine gas?",
@@ -1019,7 +1067,8 @@
    "alt": [
     "Pale green",
     "Greenish-yellow"
-   ]
+   ],
+   "cpic": "Chlorine"
   },
   {
    "q": "What colour does iodine turn starch?",
@@ -1028,7 +1077,8 @@
    "alt": [
     "Dark blue",
     "Black"
-   ]
+   ],
+   "cpic": "Iodine"
   },
   {
    "q": "What colour is universal indicator in a neutral solution?",
@@ -1087,7 +1137,8 @@
   {
    "q": "What name is given to compounds made only of hydrogen and carbon?",
    "a": "Hydrocarbons",
-   "p": 400
+   "p": 400,
+   "cpic": "Hydrogen"
   },
   {
    "q": "What are the small units that join together to make a polymer called?",
@@ -1114,7 +1165,8 @@
    "q": "What one-atom-thick sheet of carbon earned a Nobel Prize in Physics in 2010?",
    "a": "Graphene",
    "p": 400,
-   "apic": "Graphene"
+   "apic": "Graphene",
+   "cpic": "Nobel Prize"
   },
   {
    "q": "Which gases, banned under the Montreal Protocol, damaged the ozone layer?",
@@ -1123,7 +1175,8 @@
    "alt": [
     "Chlorofluorocarbons"
    ],
-   "apic": "Chlorofluorocarbon"
+   "apic": "Chlorofluorocarbon",
+   "cpic": "Ozone"
   },
   {
    "q": "Which liquefied gas, boiling at about minus 196 degrees Celsius, is used to flash-freeze samples?",
@@ -1138,7 +1191,8 @@
    "alt": [
     "Nitroglycerin"
    ],
-   "apic": "Nitroglycerin"
+   "apic": "Nitroglycerin",
+   "cpic": "Alfred Nobel"
   },
   {
    "q": "What does the explosive TNT stand for?",
@@ -1150,7 +1204,8 @@
    "q": "Gunpowder is a mixture of saltpetre, sulfur and which other ingredient?",
    "a": "Charcoal",
    "p": 400,
-   "apic": "Charcoal"
+   "apic": "Charcoal",
+   "cpic": "Sulfur"
   },
   {
    "q": "Which glass tube with a tap is used to add liquid drop by drop in a titration?",
@@ -1171,7 +1226,8 @@
    "q": "Which French chemist is often called the father of modern chemistry and named oxygen and hydrogen?",
    "a": "Antoine Lavoisier",
    "p": 400,
-   "apic": "Antoine Lavoisier"
+   "apic": "Antoine Lavoisier",
+   "cpic": "Hydrogen"
   },
   {
    "q": "Which Irish-born scientist wrote 'The Sceptical Chymist' and has a gas law named after him?",
@@ -1189,14 +1245,16 @@
    "q": "Which German chemist gave his name to the industrial process for making ammonia?",
    "a": "Fritz Haber",
    "p": 400,
-   "apic": "Fritz Haber"
+   "apic": "Fritz Haber",
+   "cpic": "Ammonia"
   },
   {
    "q": "Which Egyptian-born scientist won the 1999 Nobel Prize in Chemistry for femtochemistry?",
    "a": "Ahmed Zewail",
    "p": 400,
    "ar": "أحمد زويل",
-   "apic": "Ahmed Zewail"
+   "apic": "Ahmed Zewail",
+   "cpic": "Nobel Prize"
   },
   {
    "q": "Which American inventor gave his name to tyres after discovering how to vulcanise rubber?",
@@ -1229,7 +1287,8 @@
   {
    "q": "What is the common name for calcium hydroxide solution used to test for carbon dioxide?",
    "a": "Limewater",
-   "p": 400
+   "p": 400,
+   "cpic": "Carbon dioxide"
   },
   {
    "q": "Which bright white light-giving element is used in sparklers and old camera flashes?",
@@ -1252,7 +1311,8 @@
    "q": "Which family of elements, from lanthanum to lutetium, is also called the rare earths along with scandium and yttrium?",
    "a": "Lanthanides",
    "p": 400,
-   "apic": "Lanthanide"
+   "apic": "Lanthanide",
+   "cpic": "Lutetium"
   },
   {
    "q": "Which element has the chemical symbol Bi?",
@@ -1287,7 +1347,8 @@
   {
    "q": "Iron's symbol Fe comes from which Latin word?",
    "a": "Ferrum",
-   "p": 600
+   "p": 600,
+   "cpic": "Iron"
   },
   {
    "q": "Sodium's symbol Na comes from which Latin word?",
@@ -1320,7 +1381,8 @@
    "a": "Alembic",
    "p": 600,
    "ar": "الإنبيق",
-   "apic": "Alembic"
+   "apic": "Alembic",
+   "cpic": "Distillation"
   },
   {
    "q": "Which soft mineral, the softest on the Mohs scale, has a name from the Arabic 'talq'?",
@@ -1475,7 +1537,8 @@
    "q": "Which isotope of hydrogen, with one proton and one neutron, is found in 'heavy water'?",
    "a": "Deuterium",
    "p": 600,
-   "apic": "Deuterium"
+   "apic": "Deuterium",
+   "cpic": "Hydrogen"
   },
   {
    "q": "Which radioactive isotope of hydrogen has two neutrons?",
@@ -1486,17 +1549,20 @@
   {
    "q": "What are different structural forms of the same element, like diamond and graphite, called?",
    "a": "Allotropes",
-   "p": 600
+   "p": 600,
+   "cpic": "Graphite"
   },
   {
    "q": "How many carbon atoms are in a molecule of buckminsterfullerene?",
    "a": "60",
-   "p": 600
+   "p": 600,
+   "cpic": "Molecule"
   },
   {
    "q": "What is the chemical formula of sulfuric acid?",
    "a": "H2SO4",
-   "p": 600
+   "p": 600,
+   "cpic": "Sulfuric acid"
   },
   {
    "q": "What is the chemical formula of glucose?",
@@ -1525,7 +1591,8 @@
    "alt": [
     "Lye"
    ],
-   "apic": "Sodium hydroxide"
+   "apic": "Sodium hydroxide",
+   "cpic": "Sodium hydroxide"
   },
   {
    "q": "Household bleach is mainly a solution of which compound?",
@@ -1553,7 +1620,8 @@
     "Saltpeter",
     "Nitre"
    ],
-   "apic": "Potassium nitrate"
+   "apic": "Potassium nitrate",
+   "cpic": "Potassium nitrate"
   },
   {
    "q": "Which acid is found in ant stings and nettles?",
@@ -1570,7 +1638,8 @@
    "p": 600,
    "alt": [
     "Thiols"
-   ]
+   ],
+   "cpic": "Natural gas"
   },
   {
    "q": "What colour does the indicator phenolphthalein turn in an alkali?",
@@ -1627,7 +1696,8 @@
    "q": "Which English clergyman isolated oxygen in 1774 and also invented soda water?",
    "a": "Joseph Priestley",
    "p": 600,
-   "apic": "Joseph Priestley"
+   "apic": "Joseph Priestley",
+   "cpic": "Oxygen"
   },
   {
    "q": "Which Swedish chemist independently discovered oxygen and first produced chlorine gas in 1774?",
@@ -1636,7 +1706,8 @@
    "alt": [
     "Scheele"
    ],
-   "apic": "Carl Wilhelm Scheele"
+   "apic": "Carl Wilhelm Scheele",
+   "cpic": "Chlorine"
   },
   {
    "q": "Which British chemist used electrolysis to discover sodium and potassium in 1807?",
@@ -1651,13 +1722,15 @@
    "alt": [
     "Lavoisier"
    ],
-   "apic": "Antoine Lavoisier"
+   "apic": "Antoine Lavoisier",
+   "cpic": "French Revolution"
   },
   {
    "q": "Which Scottish chemist discovered argon and the other noble gases in the 1890s?",
    "a": "William Ramsay",
    "p": 600,
-   "apic": "William Ramsay"
+   "apic": "William Ramsay",
+   "cpic": "Argon"
   },
   {
    "q": "In which year did Dmitri Mendeleev publish his periodic table?",
@@ -1713,7 +1786,8 @@
    "q": "Which British chemist won the 1964 Nobel Prize for using X-rays to find the structures of penicillin and vitamin B12?",
    "a": "Dorothy Hodgkin",
    "p": 600,
-   "apic": "Dorothy Hodgkin"
+   "apic": "Dorothy Hodgkin",
+   "cpic": "Nobel Prize"
   },
   {
    "q": "Which American chemist won two unshared Nobel Prizes, for Chemistry in 1954 and Peace in 1962?",
@@ -1782,7 +1856,8 @@
    "q": "Which element, symbol Mo, is used to strengthen steel and has a name from the Greek for 'lead'?",
    "a": "Molybdenum",
    "p": 600,
-   "apic": "Molybdenum"
+   "apic": "Molybdenum",
+   "cpic": "Steel"
   },
   {
    "q": "Which metal, symbol Hf, is named after the Latin name for Copenhagen?",
@@ -1824,7 +1899,8 @@
    "q": "What name is given to the group 2 elements, such as magnesium and calcium?",
    "a": "Alkaline earth metals",
    "p": 600,
-   "apic": "Alkaline earth metal"
+   "apic": "Alkaline earth metal",
+   "cpic": "Magnesium"
   },
   {
    "q": "Which noble gas was the first to be made into a chemical compound, in 1962?",

@@ -184,7 +184,8 @@
   {
    "q": "Which country won its first men's World Cup in 2019 at Lord's?",
    "a": "England",
-   "p": 200
+   "p": 200,
+   "cpic": "Lord's"
   },
   {
    "q": "Which country won the first T20 World Cup, in 2007?",
@@ -357,7 +358,8 @@
   {
    "q": "Which country won the 2023 men's ODI World Cup in Ahmedabad?",
    "a": "Australia",
-   "p": 200
+   "p": 200,
+   "cpic": "Ahmedabad"
   },
   {
    "q": "Which country won the 2024 T20 World Cup?",
@@ -746,7 +748,8 @@
    "alt": [
     "Malinga"
    ],
-   "apic": "Lasith Malinga"
+   "apic": "Lasith Malinga",
+   "cpic": "South Africa"
   },
   {
    "q": "Which Australian captained his country to the 2003 and 2007 World Cups?",
@@ -874,7 +877,8 @@
   {
    "q": "Which country won the 2009 T20 World Cup at Lord's?",
    "a": "Pakistan",
-   "p": 400
+   "p": 400,
+   "cpic": "Lord's"
   },
   {
    "q": "Which country won the 2010 T20 World Cup, its first global trophy?",
@@ -920,7 +924,8 @@
   {
    "q": "Which country won the 2025 World Test Championship final at Lord's?",
    "a": "South Africa",
-   "p": 400
+   "p": 400,
+   "cpic": "Lord's"
   },
   {
    "q": "Who captained India to the 2025 Women's World Cup title?",
@@ -1172,7 +1177,8 @@
    "alt": [
     "Packer"
    ],
-   "apic": "Kerry Packer"
+   "apic": "Kerry Packer",
+   "cpic": "World Series"
   },
   {
    "q": "Which Australian opener hit 149 in the 2007 World Cup final?",
@@ -1251,7 +1257,8 @@
    "alt": [
     "Laker"
    ],
-   "apic": "Jim Laker"
+   "apic": "Jim Laker",
+   "cpic": "Old Trafford"
   },
   {
    "q": "Which Mumbai-born New Zealand spinner took all 10 wickets in an innings against India in 2021?",
@@ -1260,7 +1267,8 @@
    "alt": [
     "Patel"
    ],
-   "apic": "Ajaz Patel"
+   "apic": "Ajaz Patel",
+   "cpic": "New Zealand"
   },
   {
    "q": "Which Welsh-based bowler was hit for six sixes in an over by Garfield Sobers?",
@@ -1330,7 +1338,8 @@
    "alt": [
     "Laxman"
    ],
-   "apic": "VVS Laxman"
+   "apic": "VVS Laxman",
+   "cpic": "Eden Gardens"
   },
   {
    "q": "Which New Zealander became the first bowler to 400 Test wickets in 1990?",
@@ -1404,12 +1413,14 @@
   {
    "q": "In which year did a newspaper's mock obituary of English cricket give the Ashes their name?",
    "a": "1882",
-   "p": 600
+   "p": 600,
+   "cpic": "The Ashes"
   },
   {
    "q": "In which year was the first men's ODI played, in Melbourne?",
    "a": "1971",
-   "p": 600
+   "p": 600,
+   "cpic": "Melbourne"
   },
   {
    "q": "Which city hosted the first day-night Test match in 2015?",
@@ -1576,7 +1587,8 @@
    "alt": [
     "Bavuma"
    ],
-   "apic": "Temba Bavuma"
+   "apic": "Temba Bavuma",
+   "cpic": "South Africa"
   },
   {
    "q": "Which team beat India in the 2017 Champions Trophy final at The Oval?",
@@ -1746,7 +1758,8 @@
     "Pietersen",
     "KP"
    ],
-   "apic": "Kevin Pietersen"
+   "apic": "Kevin Pietersen",
+   "cpic": "South Africa"
   },
   {
    "q": "Which spinner was Ben Stokes' last-wicket partner at Headingley in 2019?",

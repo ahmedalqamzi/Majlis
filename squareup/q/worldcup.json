@@ -12,7 +12,8 @@
    "q": "Which country won the 2022 World Cup in Qatar?",
    "a": "Argentina",
    "p": 200,
-   "apic": "Argentina"
+   "apic": "Argentina",
+   "cpic": "Qatar"
   },
   {
    "q": "Which country hosted the 2022 World Cup?",
@@ -41,7 +42,8 @@
    "q": "Which team did Saudi Arabia beat 2-1 in the group stage of the 2022 World Cup?",
    "a": "Argentina",
    "p": 200,
-   "apic": "Argentina national football team"
+   "apic": "Argentina national football team",
+   "cpic": "Saudi Arabia"
   },
   {
    "q": "Which African nation became the first to reach a World Cup semi-final, in 2022?",
@@ -53,7 +55,8 @@
    "q": "Which country beat Argentina in the 2014 World Cup final?",
    "a": "Germany",
    "p": 200,
-   "apic": "Germany"
+   "apic": "Germany",
+   "cpic": "Argentina"
   },
   {
    "q": "Which country won the 2010 World Cup?",
@@ -65,7 +68,8 @@
    "q": "Which player headbutted Marco Materazzi in the 2006 final?",
    "a": "Zinedine Zidane",
    "p": 200,
-   "apic": "Zinedine Zidane"
+   "apic": "Zinedine Zidane",
+   "cpic": "Marco Materazzi"
   },
   {
    "q": "Which country had won the most men's World Cups up to 2022?",
@@ -101,13 +105,15 @@
    "q": "What was the name of the official mascot of Qatar 2022?",
    "a": "La'eeb",
    "p": 200,
-   "apic": "La'eeb"
+   "apic": "La'eeb",
+   "cpic": "Qatar"
   },
   {
    "q": "What was the name of the official match ball of Qatar 2022?",
    "a": "Al Rihla",
    "p": 200,
-   "apic": "Adidas Al Rihla"
+   "apic": "Adidas Al Rihla",
+   "cpic": "Qatar"
   },
   {
    "q": "How many teams play at the 2026 World Cup?",
@@ -127,7 +133,8 @@
    "q": "Which country did Argentina beat in the 1986 quarter-final thanks to the 'Hand of God' goal?",
    "a": "England",
    "p": 200,
-   "apic": "England national football team"
+   "apic": "England national football team",
+   "cpic": "Argentina"
   },
   {
    "q": "Which country won the World Cup on home soil in 1998?",
@@ -170,13 +177,15 @@
    "q": "Which team did Morocco beat on penalties in the 2022 round of 16?",
    "a": "Spain",
    "p": 200,
-   "apic": "Spain national football team"
+   "apic": "Spain national football team",
+   "cpic": "Morocco"
   },
   {
    "q": "Which country lost the 2018 final to France?",
    "a": "Croatia",
    "p": 200,
-   "apic": "Croatia"
+   "apic": "Croatia",
+   "cpic": "France"
   },
   {
    "q": "Which country won the 2006 World Cup?",
@@ -188,12 +197,14 @@
    "q": "Which England player scored a hat-trick in the 1966 final?",
    "a": "Geoff Hurst",
    "p": 200,
-   "apic": "Geoff Hurst"
+   "apic": "Geoff Hurst",
+   "cpic": "England"
   },
   {
    "q": "In which year did England win the World Cup?",
    "a": "1966",
-   "p": 200
+   "p": 200,
+   "cpic": "England"
   },
   {
    "q": "Which team did Morocco beat with the header shown here to reach the 2022 semi-final?",
@@ -214,7 +225,8 @@
    "q": "Which country did France beat 3-0 in the 1998 final?",
    "a": "Brazil",
    "p": 200,
-   "apic": "Brazil national football team"
+   "apic": "Brazil national football team",
+   "cpic": "France"
   },
   {
    "q": "Which Argentine goalkeeper won the Golden Glove at the 2022 World Cup?",
@@ -252,25 +264,29 @@
    "q": "Which country beat Brazil on penalties in the 2022 quarter-finals?",
    "a": "Croatia",
    "p": 400,
-   "apic": "Croatia national football team"
+   "apic": "Croatia national football team",
+   "cpic": "Brazil"
   },
   {
    "q": "Which country eliminated Morocco in the 2022 semi-final?",
    "a": "France",
    "p": 400,
-   "apic": "France national football team"
+   "apic": "France national football team",
+   "cpic": "Morocco"
   },
   {
    "q": "Who coached Morocco at the 2022 World Cup?",
    "a": "Walid Regragui",
    "p": 400,
-   "apic": "Walid Regragui"
+   "apic": "Walid Regragui",
+   "cpic": "Morocco"
   },
   {
    "q": "Who coached Saudi Arabia at the 2022 World Cup?",
    "a": "Hervé Renard",
    "p": 400,
-   "apic": "Hervé Renard"
+   "apic": "Hervé Renard",
+   "cpic": "Saudi Arabia"
   },
   {
    "q": "Which Saudi player scored the winning goal against Argentina in 2022?",
@@ -303,13 +319,15 @@
    "q": "Who scored the winning goal for Spain in the 2010 final?",
    "a": "Andrés Iniesta",
    "p": 400,
-   "apic": "Andrés Iniesta"
+   "apic": "Andrés Iniesta",
+   "cpic": "Spain"
   },
   {
    "q": "Who scored Germany's winning goal in the 2014 final?",
    "a": "Mario Götze",
    "p": 400,
-   "apic": "Mario Götze"
+   "apic": "Mario Götze",
+   "cpic": "Germany"
   },
   {
    "q": "Who won the Golden Boot at the 2010 World Cup?",
@@ -381,7 +399,8 @@
    "q": "Who scored both of Brazil's goals in the 2002 final?",
    "a": "Ronaldo",
    "p": 400,
-   "apic": "Ronaldo (Brazilian footballer)"
+   "apic": "Ronaldo (Brazilian footballer)",
+   "cpic": "Brazil"
   },
   {
    "q": "Which Italian missed the decisive penalty in the 1994 final?",
@@ -405,7 +424,8 @@
    "q": "Which dog found the stolen Jules Rimet Trophy in London in 1966?",
    "a": "Pickles",
    "p": 400,
-   "apic": "Pickles (dog)"
+   "apic": "Pickles (dog)",
+   "cpic": "Jules Rimet Trophy"
   },
   {
    "q": "Which Cameroonian became famous for his corner-flag dance at the 1990 World Cup?",
@@ -441,7 +461,8 @@
    "q": "Which coach led Italy to World Cup titles in 1934 and 1938?",
    "a": "Vittorio Pozzo",
    "p": 600,
-   "apic": "Vittorio Pozzo"
+   "apic": "Vittorio Pozzo",
+   "cpic": "Italy"
   },
   {
    "q": "What was the score of the 1930 final?",
@@ -452,13 +473,15 @@
    "q": "Which team did Italy beat 2-1 after extra time in the 1934 final?",
    "a": "Czechoslovakia",
    "p": 600,
-   "apic": "Czechoslovakia national football team"
+   "apic": "Czechoslovakia national football team",
+   "cpic": "Italy"
   },
   {
    "q": "Which team did Italy beat 4-2 in the 1938 final?",
    "a": "Hungary",
    "p": 600,
-   "apic": "Hungary national football team"
+   "apic": "Hungary national football team",
+   "cpic": "Italy"
   },
   {
    "q": "Which team beat Hungary in the 1954 final, the 'Miracle of Bern'?",
@@ -476,13 +499,15 @@
    "q": "Which teenager scored twice in the 1958 final for Brazil?",
    "a": "Pelé",
    "p": 600,
-   "apic": "Pelé"
+   "apic": "Pelé",
+   "cpic": "Brazil"
   },
   {
    "q": "Which Brazilian winger starred in the 1962 title run after Pelé was injured?",
    "a": "Garrincha",
    "p": 600,
-   "apic": "Garrincha"
+   "apic": "Garrincha",
+   "cpic": "Pelé"
   },
   {
    "q": "Who won the Golden Boot at the 1970 World Cup?",
@@ -524,7 +549,8 @@
    "q": "Which Bulgarian shared the 1994 Golden Boot with Oleg Salenko?",
    "a": "Hristo Stoichkov",
    "p": 600,
-   "apic": "Hristo Stoichkov"
+   "apic": "Hristo Stoichkov",
+   "cpic": "Oleg Salenko"
   },
   {
    "q": "Which Croatian won the Golden Boot at the 1998 World Cup?",
@@ -541,13 +567,15 @@
   {
    "q": "What was the penalty shootout score in the 2006 final between Italy and France?",
    "a": "5-3",
-   "p": 600
+   "p": 600,
+   "cpic": "France"
   },
   {
    "q": "Which French sculptor designed the Jules Rimet Trophy?",
    "a": "Abel Lafleur",
    "p": 600,
-   "apic": "Abel Lafleur"
+   "apic": "Abel Lafleur",
+   "cpic": "Jules Rimet Trophy"
   },
   {
    "q": "In which year was the Jules Rimet Trophy stolen in Rio and never recovered?",
@@ -559,7 +587,8 @@
    "q": "Which Italian sculptor designed the current FIFA World Cup Trophy?",
    "a": "Silvio Gazzaniga",
    "p": 600,
-   "apic": "Silvio Gazzaniga"
+   "apic": "Silvio Gazzaniga",
+   "cpic": "FIFA World Cup Trophy"
   },
   {
    "q": "Which Brazilian coach managed the UAE at the 1990 World Cup?",
@@ -589,13 +618,15 @@
    "q": "Which Arab nation beat West Germany 2-1 at the 1982 World Cup?",
    "a": "Algeria",
    "p": 600,
-   "apic": "Algeria national football team"
+   "apic": "Algeria national football team",
+   "cpic": "West Germany"
   },
   {
    "q": "Which Moroccan scored the decisive Panenka penalty against Spain in 2022?",
    "a": "Achraf Hakimi",
    "p": 600,
-   "apic": "Achraf Hakimi"
+   "apic": "Achraf Hakimi",
+   "cpic": "Spain"
   },
   {
    "q": "Linesman Tofiq Bahramov, in the 1966 final, came from which Soviet republic?",
@@ -642,7 +673,8 @@
    "a": "Morocco",
    "p": 200,
    "ar": "المغرب",
-   "apic": "Morocco"
+   "apic": "Morocco",
+   "cpic": "Spain"
   },
   {
    "q": "Which country was confirmed in 2024 as host of the 2034 World Cup?",
@@ -702,19 +734,22 @@
    "q": "Which co-host reached the 2002 semi-finals under Guus Hiddink?",
    "a": "South Korea",
    "p": 200,
-   "apic": "South Korea national football team"
+   "apic": "South Korea national football team",
+   "cpic": "Guus Hiddink"
   },
   {
    "q": "Which Brazilian scored a long-range free kick over David Seaman in the 2002 quarter-final?",
    "a": "Ronaldinho",
    "p": 200,
-   "apic": "Ronaldinho"
+   "apic": "Ronaldinho",
+   "cpic": "David Seaman"
   },
   {
    "q": "Which Argentine winger scored Argentina's second goal in the 2022 final?",
    "a": "Ángel Di María",
    "p": 200,
-   "apic": "Ángel Di María"
+   "apic": "Ángel Di María",
+   "cpic": "Argentina"
   },
   {
    "q": "Which Belgian goalkeeper won the Golden Glove at the 2018 World Cup?",
@@ -732,7 +767,8 @@
    "q": "Which West Ham defender captained England to the 1966 title?",
    "a": "Bobby Moore",
    "p": 200,
-   "apic": "Bobby Moore"
+   "apic": "Bobby Moore",
+   "cpic": "England"
   },
   {
    "q": "Which Arab country qualified for its first World Cup, the 2026 edition, in 2025?",
@@ -838,13 +874,15 @@
    "q": "Which Asian team beat holders Germany 2-0 in the 2018 group stage?",
    "a": "South Korea",
    "p": 400,
-   "apic": "South Korea national football team"
+   "apic": "South Korea national football team",
+   "cpic": "Germany"
   },
   {
    "q": "Who coached Germany to the 2014 title?",
    "a": "Joachim Löw",
    "p": 400,
-   "apic": "Joachim Löw"
+   "apic": "Joachim Löw",
+   "cpic": "Germany"
   },
   {
    "q": "Which Dutch striker scored a famous flying header against Spain in 2014?",
@@ -862,7 +900,8 @@
    "q": "Which African country reached the 2010 quarter-finals before losing to Uruguay on penalties?",
    "a": "Ghana",
    "p": 400,
-   "apic": "Ghana national football team"
+   "apic": "Ghana national football team",
+   "cpic": "Uruguay"
   },
   {
    "q": "Which Italian defender scored Italy's goal in the 2006 final?",
@@ -927,7 +966,8 @@
    "q": "Which England midfielder was sent off against Argentina in 1998 for flicking a kick at Diego Simeone?",
    "a": "David Beckham",
    "p": 200,
-   "apic": "David Beckham"
+   "apic": "David Beckham",
+   "cpic": "Diego Simeone"
   },
   {
    "q": "Which Dutch forward scored a stunning late winner against Argentina in the 1998 quarter-final?",
@@ -955,7 +995,8 @@
    "q": "Which England midfielder famously cried during the 1990 semi-final against West Germany?",
    "a": "Paul Gascoigne",
    "p": 200,
-   "apic": "Paul Gascoigne"
+   "apic": "Paul Gascoigne",
+   "cpic": "West Germany"
   },
   {
    "q": "Which country beat England on penalties in the 1990 semi-final?",
@@ -967,7 +1008,8 @@
    "q": "Which Puccini aria, sung by Luciano Pavarotti, became the BBC's theme for Italia 90?",
    "a": "Nessun Dorma",
    "p": 400,
-   "apic": "Nessun dorma"
+   "apic": "Nessun dorma",
+   "cpic": "Luciano Pavarotti"
   },
   {
    "q": "Which crowd ripple, popularised at the 1986 tournament, is named after the host nation?",
@@ -991,7 +1033,8 @@
   {
    "q": "After which tournament did Brazil keep the Jules Rimet Trophy permanently?",
    "a": "1970 World Cup",
-   "p": 400
+   "p": 400,
+   "cpic": "Jules Rimet Trophy"
   },
   {
    "q": "Which Frenchman, FIFA president from 1921 to 1954, launched the first World Cup?",
@@ -1003,7 +1046,8 @@
    "q": "Which English goalkeeper made a famous save from a Pelé header in 1970?",
    "a": "Gordon Banks",
    "p": 400,
-   "apic": "Gordon Banks"
+   "apic": "Gordon Banks",
+   "cpic": "Pelé"
   },
   {
    "q": "Which stadium hosted the 1966 final?",
@@ -1058,7 +1102,8 @@
    "q": "Which city's Estadio Azteca hosted both the 1970 and 1986 finals?",
    "a": "Mexico City",
    "p": 400,
-   "apic": "Mexico City"
+   "apic": "Mexico City",
+   "cpic": "Estadio Azteca"
   },
   {
    "q": "Which two countries co-hosted the 2023 Women's World Cup?",
@@ -1099,7 +1144,8 @@
    "q": "What name is given to Uruguay's shock win over Brazil at the Maracanã in 1950?",
    "a": "Maracanazo",
    "p": 400,
-   "apic": "Uruguay v Brazil (1950 FIFA World Cup)"
+   "apic": "Uruguay v Brazil (1950 FIFA World Cup)",
+   "cpic": "Uruguay"
   },
   {
    "q": "Who scored the winning penalty in the 2022 final shootout?",
@@ -1112,7 +1158,8 @@
    "a": "Saleh Al-Shehri",
    "p": 600,
    "ar": "صالح الشهري",
-   "apic": "Saleh Al-Shehri"
+   "apic": "Saleh Al-Shehri",
+   "cpic": "Saudi Arabia"
   },
   {
    "q": "Who scored Qatar's first ever World Cup goal, against Senegal in 2022?",
@@ -1126,14 +1173,16 @@
    "a": "Ghanim Al Muftah",
    "p": 600,
    "ar": "غانم المفتاح",
-   "apic": "Ghanim Al-Muftah"
+   "apic": "Ghanim Al-Muftah",
+   "cpic": "Morgan Freeman"
   },
   {
    "q": "Which Qatar 2022 stadium in Al Wakrah was designed by Zaha Hadid?",
    "a": "Al Janoub Stadium",
    "p": 600,
    "ar": "استاد الجنوب",
-   "apic": "Al Janoub Stadium"
+   "apic": "Al Janoub Stadium",
+   "cpic": "Zaha Hadid"
   },
   {
    "q": "Which Qatar 2022 stadium's design is based on the gahfiya, a traditional woven cap?",
@@ -1176,7 +1225,8 @@
    "q": "Which Ghanaian striker hit the bar with a last-minute penalty against Uruguay in 2010?",
    "a": "Asamoah Gyan",
    "p": 600,
-   "apic": "Asamoah Gyan"
+   "apic": "Asamoah Gyan",
+   "cpic": "Uruguay"
   },
   {
    "q": "Which holders finished bottom of their group at the 2010 World Cup, alongside winless France?",
@@ -1194,13 +1244,15 @@
    "q": "Which Turkish striker scored after 11 seconds in the 2002 third-place match against South Korea?",
    "a": "Hakan Şükür",
    "p": 600,
-   "apic": "Hakan Şükür"
+   "apic": "Hakan Şükür",
+   "cpic": "South Korea"
   },
   {
    "q": "Which French defender scored twice in the 1998 semi-final against Croatia, his only international goals?",
    "a": "Lilian Thuram",
    "p": 600,
-   "apic": "Lilian Thuram"
+   "apic": "Lilian Thuram",
+   "cpic": "Croatia"
   },
   {
    "q": "Who scored the first golden goal in World Cup history, against Paraguay in 1998?",
@@ -1234,7 +1286,8 @@
    "alt": [
     "Khalid Ismaïl"
    ],
-   "apic": "Khalid Ismail"
+   "apic": "Khalid Ismail",
+   "cpic": "West Germany"
   },
   {
    "q": "Which Saudi striker played at four World Cups, from 1994 to 2006?",
@@ -1252,7 +1305,8 @@
   {
    "q": "By what score did Hungary beat El Salvador at the 1982 World Cup?",
    "a": "10-1",
-   "p": 600
+   "p": 600,
+   "cpic": "El Salvador"
   },
   {
    "q": "Which two countries played the 1970 semi-final known as the \"Game of the Century\"?",

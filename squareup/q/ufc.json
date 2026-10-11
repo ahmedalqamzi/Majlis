@@ -48,7 +48,8 @@
   {
    "q": "What nickname was given to Abu Dhabi's Yas Island when it hosted UFC events during 2020?",
    "a": "Fight Island",
-   "p": 200
+   "p": 200,
+   "cpic": "Abu Dhabi"
   },
   {
    "q": "Which Abu Dhabi island hosted 'Fight Island' in 2020?",
@@ -58,7 +59,8 @@
    "alt": [
     "Yas"
    ],
-   "apic": "Yas Island"
+   "apic": "Yas Island",
+   "cpic": "Abu Dhabi"
   },
   {
    "q": "How many minutes long is a standard UFC round?",
@@ -174,7 +176,8 @@
    "alt": [
     "Zuffa LLC"
    ],
-   "apic": "Zuffa"
+   "apic": "Zuffa",
+   "cpic": "Las Vegas"
   },
   {
    "q": "Which UFC men's division has an upper limit of about 120 kg (265 lb)?",
@@ -219,7 +222,8 @@
    "alt": [
     "McGregor"
    ],
-   "apic": "Conor McGregor"
+   "apic": "Conor McGregor",
+   "cpic": "Dustin Poirier"
   },
   {
    "q": "Which wrestling-based combat sport did Khabib grow up training in Dagestan?",
@@ -228,7 +232,8 @@
    "alt": [
     "Combat sambo"
    ],
-   "apic": "Sambo"
+   "apic": "Sambo",
+   "cpic": "Dagestan"
   },
   {
    "q": "Which Brazilian family's jiu-jitsu shaped the early UFC?",
@@ -281,14 +286,16 @@
    "q": "Which Abu Dhabi-based MMA promotion stages events featuring Emirati and regional fighters?",
    "a": "UAE Warriors",
    "p": 200,
-   "apic": "UAE Warriors"
+   "apic": "UAE Warriors",
+   "cpic": "Abu Dhabi"
   },
   {
    "q": "Which Russian republic is Khabib Nurmagomedov from?",
    "a": "Dagestan",
    "p": 200,
    "ar": "داغستان",
-   "apic": "Dagestan"
+   "apic": "Dagestan",
+   "cpic": "Khabib Nurmagomedov"
   },
   {
    "q": "Which Nigerian-born New Zealander was nicknamed 'The Last Stylebender'?",
@@ -307,7 +314,8 @@
    "alt": [
     "Diaz"
    ],
-   "apic": "Nate Diaz"
+   "apic": "Nate Diaz",
+   "cpic": "Conor McGregor"
   },
   {
    "q": "Which fighter ended Ronda Rousey's unbeaten run with a head kick at UFC 193 in 2015?",
@@ -316,7 +324,8 @@
    "alt": [
     "Holm"
    ],
-   "apic": "Holly Holm"
+   "apic": "Holly Holm",
+   "cpic": "Ronda Rousey"
   },
   {
    "q": "Which American did Khabib beat at UFC 242 in Abu Dhabi in 2019?",
@@ -342,7 +351,8 @@
    "p": 400,
    "alt": [
     "Triangle"
-   ]
+   ],
+   "cpic": "Justin Gaethje"
   },
   {
    "q": "Which UFC event was the first held on Fight Island in July 2020?",
@@ -356,7 +366,8 @@
    "alt": [
     "Usman"
    ],
-   "apic": "Kamaru Usman"
+   "apic": "Kamaru Usman",
+   "cpic": "Jorge Masvidal"
   },
   {
    "q": "Which UFC event in April 2010 was the first held in Abu Dhabi?",
@@ -380,7 +391,8 @@
    "alt": [
     "Makhachev"
    ],
-   "apic": "Islam Makhachev"
+   "apic": "Islam Makhachev",
+   "cpic": "Charles Oliveira"
   },
   {
    "q": "Which division has a weight limit of about 70 kg (155 lb)?",
@@ -414,7 +426,8 @@
    "alt": [
     "MSG"
    ],
-   "apic": "Madison Square Garden"
+   "apic": "Madison Square Garden",
+   "cpic": "Conor McGregor"
   },
   {
    "q": "Whom did Conor McGregor beat for the lightweight title at UFC 205?",
@@ -423,7 +436,8 @@
    "alt": [
     "Alvarez"
    ],
-   "apic": "Eddie Alvarez"
+   "apic": "Eddie Alvarez",
+   "cpic": "Conor McGregor"
   },
   {
    "q": "Which Brazilian 'Axe Murderer' was a star of Japan's PRIDE FC?",
@@ -517,7 +531,8 @@
    "alt": [
     "Weili Zhang"
    ],
-   "apic": "Zhang Weili"
+   "apic": "Zhang Weili",
+   "cpic": "China"
   },
   {
    "q": "Which Nigerian-born welterweight was nicknamed 'The Nigerian Nightmare'?",
@@ -553,7 +568,8 @@
    "alt": [
     "BMF",
     "Baddest Motherf***er belt"
-   ]
+   ],
+   "cpic": "Jorge Masvidal"
   },
   {
    "q": "Which Hawaiian featherweight is nicknamed 'Blessed'?",
@@ -571,7 +587,8 @@
    "alt": [
     "Topuria"
    ],
-   "apic": "Ilia Topuria"
+   "apic": "Ilia Topuria",
+   "cpic": "Max Holloway"
   },
   {
    "q": "Which Dagestani knocked out Alexander Volkanovski with a head kick at UFC 294 in Abu Dhabi in 2023?",
@@ -581,7 +598,8 @@
    "alt": [
     "Makhachev"
    ],
-   "apic": "Islam Makhachev"
+   "apic": "Islam Makhachev",
+   "cpic": "Alexander Volkanovski"
   },
   {
    "q": "Which famous referee popularised the phrase 'Let's get it on'?",
@@ -615,7 +633,8 @@
     "GSP",
     "St-Pierre"
    ],
-   "apic": "Georges St-Pierre"
+   "apic": "Georges St-Pierre",
+   "cpic": "Michael Bisping"
   },
   {
    "q": "Who knocked out Anderson Silva to take his middleweight title at UFC 162 in 2013?",
@@ -624,7 +643,8 @@
    "alt": [
     "Weidman"
    ],
-   "apic": "Chris Weidman"
+   "apic": "Chris Weidman",
+   "cpic": "Anderson Silva"
   },
   {
    "q": "Whom did a 23-year-old Jon Jones beat at UFC 128 in 2011 to win his first title?",
@@ -635,7 +655,8 @@
     "Mauricio Rua",
     "Shogun"
    ],
-   "apic": "Maurício Rua"
+   "apic": "Maurício Rua",
+   "cpic": "Jon Jones"
   },
   {
    "q": "Which fighter handed Jon Jones his only official loss, by disqualification in 2009?",
@@ -644,7 +665,8 @@
    "alt": [
     "Hamill"
    ],
-   "apic": "Matt Hamill"
+   "apic": "Matt Hamill",
+   "cpic": "Jon Jones"
   },
   {
    "q": "Which 42-year-old Brazilian won the light heavyweight title at UFC 267 in Abu Dhabi in 2021?",
@@ -660,12 +682,14 @@
    "a": "Etihad Arena",
    "p": 600,
    "ar": "الاتحاد أرينا",
-   "apic": "Etihad Arena"
+   "apic": "Etihad Arena",
+   "cpic": "Dustin Poirier"
   },
   {
    "q": "What was the name of the temporary venue on Yas Island built for the 2020 Fight Island events?",
    "a": "Flash Forum",
-   "p": 600
+   "p": 600,
+   "cpic": "Yas Island"
   },
   {
    "q": "Which two fighters met in the first ever UFC women's bout at UFC 157 in 2013?",
@@ -681,7 +705,8 @@
    "p": 600,
    "alt": [
     "Griffin and Bonnar"
-   ]
+   ],
+   "cpic": "The Ultimate Fighter"
   },
   {
    "q": "Which American heavyweight 'Captain America' won UFC titles in two divisions in the late 1990s and 2000s?",
@@ -736,7 +761,8 @@
    "alt": [
     "Lorenzo and Frank Fertitta",
     "The Fertittas"
-   ]
+   ],
+   "cpic": "Dana White"
   },
   {
    "q": "Which Croatian kickboxer, a PRIDE star, was nicknamed 'Cro Cop'?",
@@ -752,7 +778,8 @@
    "q": "Which American promotion, bought by the UFC's owners in 2011, was Ronda Rousey's former home?",
    "a": "Strikeforce",
    "p": 600,
-   "apic": "Strikeforce (mixed martial arts)"
+   "apic": "Strikeforce (mixed martial arts)",
+   "cpic": "Ronda Rousey"
   },
   {
    "q": "Which UFC sister promotion, absorbed in 2010, housed the lighter weight classes?",
@@ -802,7 +829,8 @@
    "alt": [
     "Belfort"
    ],
-   "apic": "Vitor Belfort"
+   "apic": "Vitor Belfort",
+   "cpic": "Anderson Silva"
   },
   {
    "q": "Who was Khabib's father and coach, who died in 2020?",
@@ -838,7 +866,8 @@
    "alt": [
     "Maia"
    ],
-   "apic": "Demian Maia"
+   "apic": "Demian Maia",
+   "cpic": "Anderson Silva"
   },
   {
    "q": "What does UFC stand for?",
@@ -867,7 +896,8 @@
    "p": 200,
    "alt": [
     "Arm bar"
-   ]
+   ],
+   "cpic": "Ronda Rousey"
   },
   {
    "q": "What do fighters wear in their mouths to protect their teeth?",
@@ -1027,7 +1057,8 @@
    "alt": [
     "Fury"
    ],
-   "apic": "Tyson Fury"
+   "apic": "Tyson Fury",
+   "cpic": "Francis Ngannou"
   },
   {
    "q": "Which Kyrgyz-born flyweight is nicknamed 'Bullet'?",
@@ -1164,7 +1195,8 @@
    "alt": [
     "Topuria"
    ],
-   "apic": "Ilia Topuria"
+   "apic": "Ilia Topuria",
+   "cpic": "Alexander Volkanovski"
   },
   {
    "q": "Which Australian took the featherweight title from Max Holloway in 2019?",
@@ -1173,7 +1205,8 @@
    "alt": [
     "Volkanovski"
    ],
-   "apic": "Alexander Volkanovski"
+   "apic": "Alexander Volkanovski",
+   "cpic": "Max Holloway"
   },
   {
    "q": "Which Ohio firefighter held the UFC heavyweight title?",
@@ -1191,7 +1224,8 @@
    "alt": [
     "Velasquez"
    ],
-   "apic": "Cain Velasquez"
+   "apic": "Cain Velasquez",
+   "cpic": "Brock Lesnar"
   },
   {
    "q": "Which Brazilian karate stylist 'The Dragon' won the light heavyweight title in 2009?",
@@ -1209,7 +1243,8 @@
    "alt": [
     "Pereira"
    ],
-   "apic": "Alex Pereira"
+   "apic": "Alex Pereira",
+   "cpic": "Israel Adesanya"
   },
   {
    "q": "Which Polish strawweight dominated as UFC champion from 2015 to 2017?",
@@ -1306,7 +1341,8 @@
   {
    "q": "Which annual July week of UFC events and fan activities is held in Las Vegas?",
    "a": "International Fight Week",
-   "p": 400
+   "p": 400,
+   "cpic": "Las Vegas"
   },
   {
    "q": "Which Chechen-born fighter beat Kamaru Usman at UFC 294 in Abu Dhabi in 2023?",
@@ -1315,7 +1351,8 @@
    "alt": [
     "Chimaev"
    ],
-   "apic": "Khamzat Chimaev"
+   "apic": "Khamzat Chimaev",
+   "cpic": "Kamaru Usman"
   },
   {
    "q": "Which welterweight lost his title to Georges St-Pierre in 2006?",
@@ -1324,7 +1361,8 @@
    "alt": [
     "Hughes"
    ],
-   "apic": "Matt Hughes (fighter)"
+   "apic": "Matt Hughes (fighter)",
+   "cpic": "Georges St-Pierre"
   },
   {
    "q": "Who knocked out Cain Velasquez in 64 seconds to win the heavyweight title in 2011?",
@@ -1334,7 +1372,8 @@
     "Dos Santos",
     "JDS"
    ],
-   "apic": "Junior dos Santos"
+   "apic": "Junior dos Santos",
+   "cpic": "Cain Velasquez"
   },
   {
    "q": "Which heavyweight did Francis Ngannou knock out to win the title at UFC 260 in 2021?",
@@ -1343,7 +1382,8 @@
    "alt": [
     "Miocic"
    ],
-   "apic": "Stipe Miocic"
+   "apic": "Stipe Miocic",
+   "cpic": "Francis Ngannou"
   },
   {
    "q": "Which Brazilian heavyweight was nicknamed 'Minotauro'?",
@@ -1407,7 +1447,8 @@
    "p": 600,
    "alt": [
     "Liddell and Couture"
-   ]
+   ],
+   "cpic": "The Ultimate Fighter"
   },
   {
    "q": "Which Gracie brother co-founded the UFC in 1993?",
@@ -1426,7 +1467,8 @@
     "Helio Gracie",
     "Helio"
    ],
-   "apic": "Hélio Gracie"
+   "apic": "Hélio Gracie",
+   "cpic": "Brazilian jiu-jitsu"
   },
   {
    "q": "Which Dutch fighter did Royce Gracie beat in the final of UFC 1?",
@@ -1435,7 +1477,8 @@
    "alt": [
     "Gordeau"
    ],
-   "apic": "Gerard Gordeau"
+   "apic": "Gerard Gordeau",
+   "cpic": "Royce Gracie"
   },
   {
    "q": "What is it called when two judges score for one fighter and the third scores a draw?",
@@ -1449,7 +1492,8 @@
    "alt": [
     "Mata leao",
     "Lion killer"
-   ]
+   ],
+   "cpic": "Brazil"
   },
   {
    "q": "Which Japanese promotion was founded in 2015 by former PRIDE boss Nobuyuki Sakakibara?",
@@ -1496,7 +1540,8 @@
    "alt": [
     "Hill"
    ],
-   "apic": "Jamahal Hill"
+   "apic": "Jamahal Hill",
+   "cpic": "Alex Pereira"
   },
   {
    "q": "Which country is Zhang Weili from?",
@@ -1538,7 +1583,8 @@
    "alt": [
     "Freestyle wrestling"
    ],
-   "apic": "Amateur wrestling"
+   "apic": "Amateur wrestling",
+   "cpic": "Daniel Cormier"
   },
   {
    "q": "What nickname is given to a fighter who holds titles in two divisions at once?",
@@ -1580,7 +1626,8 @@
    "p": 400,
    "alt": [
     "Spain and Georgia"
-   ]
+   ],
+   "cpic": "Ilia Topuria"
   },
   {
    "q": "Which country did Brandon Moreno become the first UFC champion born in, in 2021?",
@@ -1601,7 +1648,8 @@
    "alt": [
     "Smashing Machine"
    ],
-   "apic": "The Smashing Machine (2025 film)"
+   "apic": "The Smashing Machine (2025 film)",
+   "cpic": "Dwayne Johnson"
   },
   {
    "q": "What is the UFC's annual talent-search show, launched in 2017, where fighters can win contracts?",
@@ -1641,7 +1689,8 @@
     "Jan Blachowicz",
     "Blachowicz"
    ],
-   "apic": "Jan Błachowicz"
+   "apic": "Jan Błachowicz",
+   "cpic": "Glover Teixeira"
   },
   {
    "q": "Who won the interim bantamweight title against Cory Sandhagen at UFC 267 in Abu Dhabi?",
@@ -1660,7 +1709,8 @@
     "TJ Dillashaw",
     "Dillashaw"
    ],
-   "apic": "T.J. Dillashaw"
+   "apic": "T.J. Dillashaw",
+   "cpic": "Aljamain Sterling"
   },
   {
    "q": "Who became the first UFC heavyweight champion in 1997?",

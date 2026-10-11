@@ -6,7 +6,8 @@
    "q": "Which Studio Ghibli film won the Academy Award for Best Animated Feature at the 2003 ceremony?",
    "a": "Spirited Away",
    "p": 200,
-   "apic": "Spirited Away"
+   "apic": "Spirited Away",
+   "cpic": "Studio Ghibli"
   },
   {
    "q": "Which director, born in 1941, co-founded Studio Ghibli and created My Neighbor Totoro?",
@@ -15,7 +16,8 @@
    "alt": [
     "Miyazaki"
    ],
-   "apic": "Hayao Miyazaki"
+   "apic": "Hayao Miyazaki",
+   "cpic": "Studio Ghibli"
   },
   {
    "q": "What is the name of Kiki's black cat?",
@@ -90,7 +92,8 @@
    "alt": [
     "Hisaishi"
    ],
-   "apic": "Joe Hisaishi"
+   "apic": "Joe Hisaishi",
+   "cpic": "Hayao Miyazaki"
   },
   {
    "q": "In Howl's Moving Castle, what is the name of the fire demon who powers the castle?",
@@ -124,7 +127,8 @@
   {
    "q": "In which country is Studio Ghibli based?",
    "a": "Japan",
-   "p": 200
+   "p": 200,
+   "cpic": "Studio Ghibli"
   },
   {
    "q": "What are the tiny black dust creatures seen in both My Neighbor Totoro and Spirited Away called?",
@@ -267,7 +271,8 @@
    "q": "Which 1992 Miyazaki film is set around the Adriatic Sea and stars a seaplane pilot?",
    "a": "Porco Rosso",
    "p": 400,
-   "apic": "Porco Rosso"
+   "apic": "Porco Rosso",
+   "cpic": "Adriatic Sea"
   },
   {
    "q": "Which 2013 Miyazaki film is a fictionalised story about an aircraft designer named Jiro?",
@@ -393,7 +398,8 @@
    "p": 400,
    "alt": [
     "2"
-   ]
+   ],
+   "cpic": "Hayao Miyazaki"
   },
   {
    "q": "Which Pixar film from 2010 includes a plush Totoro cameo?",
@@ -435,7 +441,8 @@
    "p": 400,
    "alt": [
     "Merry Go Round of Life"
-   ]
+   ],
+   "cpic": "Joe Hisaishi"
   },
   {
    "q": "Which Takahata film features raccoon dogs fighting to save their forest home?",
@@ -508,7 +515,8 @@
   {
    "q": "In which month of 2001 did the Ghibli Museum open?",
    "a": "October",
-   "p": 600
+   "p": 600,
+   "cpic": "Ghibli Museum"
   },
   {
    "q": "Which producer, a Ghibli co-founder, produced Spirited Away?",
@@ -550,7 +558,8 @@
    "alt": [
     "Poppy Hill"
    ],
-   "apic": "From Up on Poppy Hill"
+   "apic": "From Up on Poppy Hill",
+   "cpic": "Gorō Miyazaki"
   },
   {
    "q": "Which American author wrote the Earthsea novels that inspired Tales from Earthsea?",
@@ -579,7 +588,8 @@
     "Laputa robot",
     "Robot Soldier",
     "Robot"
-   ]
+   ],
+   "cpic": "Ghibli Museum"
   },
   {
    "q": "In which magazine was Miyazaki's Nausicaä manga serialised?",
@@ -604,7 +614,8 @@
    "q": "Which Ghibli film directed by Hiromasa Yonebayashi earned a 2016 Oscar nomination?",
    "a": "When Marnie Was There",
    "p": 600,
-   "apic": "When Marnie Was There"
+   "apic": "When Marnie Was There",
+   "cpic": "Hiromasa Yonebayashi"
   },
   {
    "q": "What is the name of the baker who gives Kiki a place to stay?",
@@ -662,7 +673,8 @@
     "Aya and the Witch",
     "Earwig"
    ],
-   "apic": "Earwig and the Witch (film)"
+   "apic": "Earwig and the Witch (film)",
+   "cpic": "Gorō Miyazaki"
   },
   {
    "q": "Which 1993 Ghibli TV film, directed by Tomomi Mochizuki, is set in a Kōchi high school?",
@@ -681,7 +693,8 @@
     "Lupin III: The Castle of Cagliostro",
     "Castle of Cagliostro"
    ],
-   "apic": "The Castle of Cagliostro"
+   "apic": "The Castle of Cagliostro",
+   "cpic": "Hayao Miyazaki"
   },
   {
    "q": "Which 1974 TV series based on Johanna Spyri's novel did Isao Takahata direct?",
@@ -691,7 +704,8 @@
     "Heidi",
     "Alps no Shoujo Heidi"
    ],
-   "apic": "Heidi, Girl of the Alps"
+   "apic": "Heidi, Girl of the Alps",
+   "cpic": "Johanna Spyri"
   },
   {
    "q": "Which real Italian aircraft designer inspires the dream mentor of Jiro in The Wind Rises?",
@@ -1046,7 +1060,8 @@
    "q": "Which classic novel by Jonathan Swift gives Laputa its name?",
    "a": "Gulliver's Travels",
    "p": 400,
-   "apic": "Gulliver's Travels"
+   "apic": "Gulliver's Travels",
+   "cpic": "Jonathan Swift"
   },
   {
    "q": "What is the name of Nausicaä's homeland?",
@@ -1278,7 +1293,8 @@
    "p": 600,
    "alt": [
     "Mei and the Baby Cat Bus"
-   ]
+   ],
+   "cpic": "Ghibli Museum"
   },
   {
    "q": "Which British author wrote The Borrowers, the basis of Arrietty?",
@@ -1424,7 +1440,8 @@
    "alt": [
     "Cannes Film Festival"
    ],
-   "apic": "Cannes Film Festival"
+   "apic": "Cannes Film Festival",
+   "cpic": "Palme d'Or"
   },
   {
    "q": "What is Joe Hisaishi's real name?",
@@ -1464,7 +1481,8 @@
    "q": "Which American distributor has released Ghibli films in North America since 2011?",
    "a": "GKIDS",
    "p": 600,
-   "apic": "GKIDS"
+   "apic": "GKIDS",
+   "cpic": "North America"
   },
   {
    "q": "Which publishing company co-founded Studio Ghibli?",
@@ -1485,7 +1503,8 @@
    "alt": [
     "Ronia, the Robber's Daughter"
    ],
-   "apic": "Ronja, the Robber's Daughter (TV series)"
+   "apic": "Ronja, the Robber's Daughter (TV series)",
+   "cpic": "Gorō Miyazaki"
   },
   {
    "q": "Which author wrote the short story Grave of the Fireflies?",

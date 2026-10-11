@@ -67,7 +67,8 @@
    "q": "Which circuit hosts the Abu Dhabi Grand Prix?",
    "a": "Yas Marina Circuit",
    "p": 200,
-   "apic": "Yas Marina Circuit"
+   "apic": "Yas Marina Circuit",
+   "cpic": "Abu Dhabi Grand Prix"
   },
   {
    "q": "In which year did Abu Dhabi first host a Formula 1 race?",
@@ -177,7 +178,8 @@
    "q": "Which German won four straight titles for Red Bull from 2010?",
    "a": "Sebastian Vettel",
    "p": 200,
-   "apic": "Sebastian Vettel"
+   "apic": "Sebastian Vettel",
+   "cpic": "Red Bull"
   },
   {
    "q": "Which Spaniard won titles in 2005 and 2006 with Renault?",
@@ -217,7 +219,8 @@
    "q": "Who won the first Abu Dhabi Grand Prix in 2009?",
    "a": "Sebastian Vettel",
    "p": 400,
-   "apic": "Sebastian Vettel"
+   "apic": "Sebastian Vettel",
+   "cpic": "Abu Dhabi Grand Prix"
   },
   {
    "q": "Which team, led by Ross Brawn, won the 2009 constructors' title?",
@@ -255,7 +258,8 @@
   {
    "q": "What is the tight hairpin at Monaco commonly called?",
    "a": "Fairmont Hairpin",
-   "p": 400
+   "p": 400,
+   "cpic": "Monaco"
   },
   {
    "q": "Which famous Spa corner follows the La Source hairpin?",
@@ -301,7 +305,8 @@
    "q": "Who won the 1998 and 1999 titles with McLaren?",
    "a": "Mika Häkkinen",
    "p": 400,
-   "apic": "Mika Häkkinen"
+   "apic": "Mika Häkkinen",
+   "cpic": "McLaren"
   },
   {
    "q": "Who won the 1996 title with Williams?",
@@ -383,7 +388,8 @@
    "q": "In which English town is McLaren based?",
    "a": "Woking",
    "p": 400,
-   "apic": "Woking"
+   "apic": "Woking",
+   "cpic": "McLaren"
   },
   {
    "q": "What unusual feature does the Yas Marina pit exit have?",
@@ -518,7 +524,8 @@
   {
    "q": "How many times did Senna win the Monaco Grand Prix?",
    "a": "Six",
-   "p": 600
+   "p": 600,
+   "cpic": "Monaco"
   },
   {
    "q": "Which Imola corner did Senna crash at in 1994?",
@@ -536,7 +543,8 @@
    "q": "Who was the race director of the 2021 Abu Dhabi Grand Prix?",
    "a": "Michael Masi",
    "p": 600,
-   "apic": "Michael Masi"
+   "apic": "Michael Masi",
+   "cpic": "2021 Abu Dhabi Grand Prix"
   },
   {
    "q": "Which Russian driver held up Alonso in the 2010 finale?",
@@ -581,7 +589,8 @@
    "q": "Who won the 2012 Abu Dhabi Grand Prix for Lotus?",
    "a": "Kimi Räikkönen",
    "p": 600,
-   "apic": "Kimi Räikkönen"
+   "apic": "Kimi Räikkönen",
+   "cpic": "Abu Dhabi Grand Prix"
   },
   {
    "q": "Who won the 2016 Abu Dhabi Grand Prix but lost the title?",
@@ -703,7 +712,8 @@
    "q": "Which 2013 Ron Howard film dramatised the rivalry between James Hunt and Niki Lauda?",
    "a": "Rush",
    "p": 200,
-   "apic": "Rush (2013 film)"
+   "apic": "Rush (2013 film)",
+   "cpic": "Niki Lauda"
   },
   {
    "q": "Which Brad Pitt racing film was released in 2025?",
@@ -847,19 +857,22 @@
    "q": "Which Chinese driver made his F1 debut with Alfa Romeo in 2022?",
    "a": "Zhou Guanyu",
    "p": 400,
-   "apic": "Zhou Guanyu"
+   "apic": "Zhou Guanyu",
+   "cpic": "Alfa Romeo"
   },
   {
    "q": "Who designed many of Red Bull's title-winning cars before leaving the team in 2025?",
    "a": "Adrian Newey",
    "p": 400,
-   "apic": "Adrian Newey"
+   "apic": "Adrian Newey",
+   "cpic": "Red Bull"
   },
   {
    "q": "Who was Red Bull Racing's team principal from 2005 until 2025?",
    "a": "Christian Horner",
    "p": 400,
-   "apic": "Christian Horner"
+   "apic": "Christian Horner",
+   "cpic": "Red Bull"
   },
   {
    "q": "What does FIA stand for?",
@@ -917,7 +930,8 @@
    "q": "Which Japanese manufacturer powered Max Verstappen's first title in 2021?",
    "a": "Honda",
    "p": 400,
-   "apic": "Honda"
+   "apic": "Honda",
+   "cpic": "Max Verstappen"
   },
   {
    "q": "What does KERS stand for?",
@@ -967,12 +981,14 @@
   {
    "q": "In which year did Bahrain host the first F1 race in the Middle East?",
    "a": "2004",
-   "p": 400
+   "p": 400,
+   "cpic": "Middle East"
   },
   {
    "q": "In which year did Saudi Arabia host its first Grand Prix?",
    "a": "2021",
-   "p": 400
+   "p": 400,
+   "cpic": "Saudi Arabia"
   },
   {
    "q": "In which year did Singapore host F1's first night race?",
@@ -1020,12 +1036,14 @@
   {
    "q": "Which Monaco first corner is named after a nearby chapel?",
    "a": "Sainte-Dévote",
-   "p": 400
+   "p": 400,
+   "cpic": "Monaco"
   },
   {
    "q": "By how many points did Kimi Räikkönen win the 2007 title?",
    "a": "One",
-   "p": 400
+   "p": 400,
+   "cpic": "Kimi Räikkönen"
   },
   {
    "q": "At which race did Max Verstappen take his first win, on his Red Bull debut in 2016?",
@@ -1057,7 +1075,8 @@
    "q": "Which driver is Montreal's circuit named after?",
    "a": "Gilles Villeneuve",
    "p": 400,
-   "apic": "Gilles Villeneuve"
+   "apic": "Gilles Villeneuve",
+   "cpic": "Montreal"
   },
   {
    "q": "Who won the 2025 Abu Dhabi Grand Prix, the race in which Lando Norris clinched the title?",
@@ -1075,7 +1094,8 @@
    "q": "Which Renault driver deliberately crashed at the 2008 Singapore Grand Prix in \"Crashgate\"?",
    "a": "Nelson Piquet Jr.",
    "p": 400,
-   "apic": "Nelson Piquet Jr."
+   "apic": "Nelson Piquet Jr.",
+   "cpic": "Singapore"
   },
   {
    "q": "What is it called when a driver takes pole, wins, sets the fastest lap and leads every lap?",
@@ -1096,7 +1116,8 @@
    "q": "Which company supplied F1's tyres until 2010, before Pirelli?",
    "a": "Bridgestone",
    "p": 600,
-   "apic": "Bridgestone"
+   "apic": "Bridgestone",
+   "cpic": "Pirelli"
   },
   {
    "q": "What nickname is given to the black flag with an orange disc?",
@@ -1113,7 +1134,8 @@
   {
    "q": "Which McLaren car won 15 of 16 races in 1988?",
    "a": "MP4/4",
-   "p": 600
+   "p": 600,
+   "cpic": "McLaren"
   },
   {
    "q": "Which car, in 1981, was the first F1 car with a carbon fibre monocoque?",
@@ -1146,7 +1168,8 @@
   {
    "q": "Which brothers is Mexico City's circuit named after?",
    "a": "Rodríguez brothers",
-   "p": 600
+   "p": 600,
+   "cpic": "Mexico City"
   },
   {
    "q": "Which stadium is the Miami Grand Prix circuit built around?",
@@ -1214,7 +1237,8 @@
    "q": "At which Spanish circuit did Michael Schumacher collide with Jacques Villeneuve in the 1997 finale?",
    "a": "Jerez",
    "p": 600,
-   "apic": "Circuito de Jerez"
+   "apic": "Circuito de Jerez",
+   "cpic": "Michael Schumacher"
   },
   {
    "q": "In 2013, Sebastian Vettel ignored the \"Multi 21\" team order to stay behind which teammate?",
@@ -1258,7 +1282,8 @@
   {
    "q": "With which team did Sebastian Vettel take his first win, at Monza in 2008?",
    "a": "Toro Rosso",
-   "p": 600
+   "p": 600,
+   "cpic": "Sebastian Vettel"
   },
   {
    "q": "Which F1 team was fined 100 million US dollars in the 2007 \"Spygate\" affair?",

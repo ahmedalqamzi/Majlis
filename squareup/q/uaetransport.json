@@ -14,19 +14,22 @@
    "p": 200,
    "alt": [
     "Green and Red"
-   ]
+   ],
+   "cpic": "Dubai"
   },
   {
    "q": "What is the name of Dubai's electronic road toll system?",
    "a": "Salik",
    "p": 200,
-   "ar": "سالك"
+   "ar": "سالك",
+   "cpic": "Dubai"
   },
   {
    "q": "What is the name of Abu Dhabi's road toll system?",
    "a": "Darb",
    "p": 200,
-   "ar": "درب"
+   "ar": "درب",
+   "cpic": "Abu Dhabi"
   },
   {
    "q": "What is the name of the smart card used to pay fares on Dubai Metro and buses?",
@@ -35,7 +38,8 @@
    "ar": "نول",
    "alt": [
     "Nol card"
-   ]
+   ],
+   "cpic": "Dubai"
   },
   {
    "q": "What does RTA stand for in Dubai?",
@@ -133,7 +137,8 @@
      "Jumeirah",
      "جميرا"
     ]
-   ]
+   ],
+   "cpic": "Business Bay"
   },
   {
    "q": "Dubai Metro trains run without what kind of crew member in the cab?",
@@ -219,7 +224,8 @@
      "Abu Dhabi",
      "أبوظبي"
     ]
-   ]
+   ],
+   "cpic": "Zaha Hadid"
   },
   {
    "q": "Which Dubai Creek bridge opened in 2022 with a giant arch shaped like a mathematical symbol?",
@@ -228,7 +234,8 @@
    "alt": [
     "Infinity"
    ],
-   "apic": "Infinity Bridge (Dubai)"
+   "apic": "Infinity Bridge (Dubai)",
+   "cpic": "Dubai Creek"
   },
   {
    "q": "Which tram system runs along Al Sufouh Road and through Dubai Marina?",
@@ -383,7 +390,8 @@
      "Darb",
      "درب"
     ]
-   ]
+   ],
+   "cpic": "Abu Dhabi"
   },
   {
    "q": "What does 'Darb' mean in Arabic?",
@@ -445,7 +453,8 @@
    "alt": [
     "Maktoum Bridge"
    ],
-   "apic": "Al Maktoum Bridge"
+   "apic": "Al Maktoum Bridge",
+   "cpic": "Dubai Creek"
   },
   {
    "q": "Which Dubai Creek crossing opened in 2007 rests on pontoons?",
@@ -454,7 +463,8 @@
    "ar": "الجسر العائم",
    "alt": [
     "Al Jadaf Floating Bridge"
-   ]
+   ],
+   "cpic": "Dubai Creek"
   },
   {
    "q": "What is the name of Abu Dhabi's public bus smart card?",
@@ -469,7 +479,8 @@
      "Abu Dhabi",
      "أبوظبي"
     ]
-   ]
+   ],
+   "cpic": "Abu Dhabi"
   },
   {
    "q": "What E-number does Emirates Road carry?",
@@ -507,7 +518,8 @@
      "Ras Al Khaimah",
      "رأس الخيمة"
     ]
-   ]
+   ],
+   "cpic": "Ras Al Khaimah International Airport"
   },
   {
    "q": "What three-letter code belongs to Fujairah International Airport?",
@@ -518,7 +530,8 @@
      "Fujairah",
      "الفجيرة"
     ]
-   ]
+   ],
+   "cpic": "Fujairah International Airport"
   },
   {
    "q": "In which year did Abu Dhabi's new Terminal A open?",
@@ -604,7 +617,8 @@
      "Ruwais",
      "الرويس"
     ]
-   ]
+   ],
+   "cpic": "Etihad Rail"
   },
   {
    "q": "What E-number does the Dubai-Al Ain Road carry?",
@@ -619,7 +633,8 @@
      "Al Ain",
      "العين"
     ]
-   ]
+   ],
+   "cpic": "Al Ain"
   },
   {
    "q": "What E-number does the Abu Dhabi-Al Ain Road carry?",
@@ -638,7 +653,8 @@
      "Al Ain",
      "العين"
     ]
-   ]
+   ],
+   "cpic": "Al Ain"
   },
   {
    "q": "What does 'Salik' mean in Arabic?",
@@ -751,7 +767,8 @@
      "Hafeet Rail",
      "حفيت ريل"
     ]
-   ]
+   ],
+   "cpic": "Oman"
   },
   {
    "q": "Which border crossing marks the western end of the E11 at Saudi Arabia?",
@@ -761,7 +778,8 @@
    "alt": [
     "Al Ghuwaifat",
     "Ghweifat"
-   ]
+   ],
+   "cpic": "Saudi Arabia"
   },
   {
    "q": "In which year did Dubai World Central's Al Maktoum airport first open (for cargo)?",
@@ -808,7 +826,8 @@
      "Etihad Rail",
      "قطارات الاتحاد"
     ]
-   ]
+   ],
+   "cpic": "Etihad Rail"
   },
   {
    "q": "In which year did Etihad Rail's main line from Ghuwaifat to Fujairah open?",
@@ -827,7 +846,8 @@
      "Fujairah",
      "الفجيرة"
     ]
-   ]
+   ],
+   "cpic": "Etihad Rail"
   },
   {
    "q": "Roughly how many kilometres long is the Etihad Rail network?",
@@ -1125,7 +1145,8 @@
      "Sheikh Zayed Road",
      "شارع الشيخ زايد"
     ]
-   ]
+   ],
+   "cpic": "Sheikh Zayed Road"
   },
   {
    "q": "Which UAE emirate's airport has the code RKT?",
@@ -1149,7 +1170,8 @@
      "Mina Rashid",
      "ميناء راشد"
     ]
-   ]
+   ],
+   "cpic": "Mina Rashid"
   },
   {
    "q": "Which Abu Dhabi island, home to the F1 circuit, is a short drive from Zayed International Airport?",
@@ -1169,7 +1191,8 @@
      "Zayed International Airport",
      "مطار زايد الدولي"
     ]
-   ]
+   ],
+   "cpic": "Zayed International Airport"
   },
   {
    "q": "In which Dubai district does DXB airport stand?",
@@ -1251,7 +1274,8 @@
      "Hajar Mountains",
      "جبال الحجر"
     ]
-   ]
+   ],
+   "cpic": "Hajar Mountains"
   },
   {
    "q": "Which Abu Dhabi port, named after the founding President, sits on the main island?",
@@ -1275,7 +1299,8 @@
    "a": "Fujairah",
    "p": 400,
    "ar": "الفجيرة",
-   "apic": "Fujairah"
+   "apic": "Fujairah",
+   "cpic": "Strait of Hormuz"
   },
   {
    "q": "What does DWC stand for?",
@@ -1297,7 +1322,8 @@
      "Al Maktoum International Airport",
      "مطار آل مكتوم الدولي"
     ]
-   ]
+   ],
+   "cpic": "Al Maktoum International Airport"
   },
   {
    "q": "Darb toll gates sit on the bridges leading onto which island?",
@@ -1323,7 +1349,8 @@
      "Al Ain",
      "العين"
     ]
-   ]
+   ],
+   "cpic": "Al Ain"
   },
   {
    "q": "What is Emirates' two-letter airline code?",
@@ -1339,7 +1366,8 @@
      "Etihad Airways",
      "الاتحاد للطيران"
     ]
-   ]
+   ],
+   "cpic": "Etihad Airways"
   },
   {
    "q": "What is used to propel modern Dubai abras instead of sails or oars?",
@@ -1368,7 +1396,8 @@
      "Sheikh Zayed Road",
      "شارع الشيخ زايد"
     ]
-   ]
+   ],
+   "cpic": "Sheikh Zayed Road"
   },
   {
    "q": "In which year did Terminal 3 at DXB open?",
@@ -1512,7 +1541,8 @@
      "Sheikh Zayed Road",
      "شارع الشيخ زايد"
     ]
-   ]
+   ],
+   "cpic": "Sheikh Zayed Road"
   },
   {
    "q": "Which Sharjah port on the Gulf coast is named after a former ruler?",
@@ -1542,7 +1572,8 @@
      "Ras Al Khaimah",
      "رأس الخيمة"
     ]
-   ]
+   ],
+   "cpic": "Ras Al Khaimah"
   },
   {
    "q": "In which year did the Deira Clock Tower go up?",
@@ -1553,7 +1584,8 @@
      "Deira Clock Tower",
      "برج ساعة ديرة"
     ]
-   ]
+   ],
+   "cpic": "Deira Clock Tower"
   },
   {
    "q": "What is flydubai's two-letter airline code?",
@@ -1569,7 +1601,8 @@
      "Air Arabia",
      "العربية للطيران"
     ]
-   ]
+   ],
+   "cpic": "Air Arabia"
   },
   {
    "q": "Roughly how long is the Dubai Water Canal, in kilometres?",
@@ -1593,7 +1626,8 @@
      "Jebel Hafeet",
      "جبل حفيت"
     ]
-   ]
+   ],
+   "cpic": "Jebel Hafeet"
   },
   {
    "q": "Roughly how long is the Jebel Hafeet mountain road, in kilometres?",
@@ -1609,7 +1643,8 @@
      "Jebel Hafeet",
      "جبل حفيت"
     ]
-   ]
+   ],
+   "cpic": "Jebel Hafeet"
   },
   {
    "q": "Dubai Metro's underground stations are mostly beneath which two historic districts?",
@@ -1673,13 +1708,15 @@
    "a": "Hatta",
    "p": 200,
    "ar": "حتا",
-   "apic": "Hatta"
+   "apic": "Hatta",
+   "cpic": "Oman"
   },
   {
    "q": "What is the three-letter code for Dubai International Airport?",
    "a": "DXB",
    "p": 200,
-   "apic": "Dubai International Airport"
+   "apic": "Dubai International Airport",
+   "cpic": "Dubai International Airport"
   },
   {
    "q": "Which famous Dubai highway does the Museum of the Future stand beside?",
@@ -1746,7 +1783,8 @@
      "Gulf of Oman",
      "خليج عمان"
     ]
-   ]
+   ],
+   "cpic": "Gulf of Oman"
   },
   {
    "q": "Which Dubai airport hosts the Dubai Airshow?",

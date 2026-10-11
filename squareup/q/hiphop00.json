@@ -11,7 +11,8 @@
   {
    "q": "Which Eminem song from 8 Mile won the Academy Award for Best Original Song?",
    "a": "Lose Yourself",
-   "p": 200
+   "p": 200,
+   "cpic": "Eminem"
   },
   {
    "q": "The film 8 Mile takes its name from a road in which US city?",
@@ -34,7 +35,8 @@
    "p": 200,
    "alt": [
     "In the Club"
-   ]
+   ],
+   "cpic": "50 Cent"
   },
   {
    "q": "Which rapper released the album The College Dropout in 2004?",
@@ -48,12 +50,14 @@
   {
    "q": "Which Kanye West album followed The College Dropout in 2005?",
    "a": "Late Registration",
-   "p": 200
+   "p": 200,
+   "cpic": "Kanye West"
   },
   {
    "q": "Which 2007 Kanye West album completed his trilogy of education-themed titles?",
    "a": "Graduation",
-   "p": 200
+   "p": 200,
+   "cpic": "Kanye West"
   },
   {
    "q": "Which rapper released The Blueprint in 2001?",
@@ -68,7 +72,8 @@
    "q": "Which New Orleans rapper released Tha Carter III in 2008?",
    "a": "Lil Wayne",
    "p": 200,
-   "apic": "Lil Wayne"
+   "apic": "Lil Wayne",
+   "cpic": "New Orleans"
   },
   {
    "q": "Which female rapper had the 2002 hit \"Work It\" and the 2001 hit \"Get Ur Freak On\"?",
@@ -80,7 +85,8 @@
    "q": "Which Atlanta duo of André 3000 and Big Boi released Speakerboxxx/The Love Below?",
    "a": "OutKast",
    "p": 200,
-   "apic": "OutKast"
+   "apic": "OutKast",
+   "cpic": "André 3000"
   },
   {
    "q": "Which André 3000 song, famous for its Polaroid reference, was a worldwide hit in 2003?",
@@ -88,7 +94,8 @@
    "p": 200,
    "alt": [
     "Hey Ya"
-   ]
+   ],
+   "cpic": "André 3000"
   },
   {
    "q": "Which St. Louis rapper had the 2002 summer hit \"Hot in Herre\"?",
@@ -103,7 +110,8 @@
    "alt": [
     "TI"
    ],
-   "apic": "T.I."
+   "apic": "T.I.",
+   "cpic": "Atlanta"
   },
   {
    "q": "Which singer did Jay-Z marry in 2008?",
@@ -124,19 +132,22 @@
    "q": "Which Destiny's Child singer duetted with Nelly on the 2002 hit \"Dilemma\"?",
    "a": "Kelly Rowland",
    "p": 200,
-   "apic": "Kelly Rowland"
+   "apic": "Kelly Rowland",
+   "cpic": "Destiny's Child"
   },
   {
    "q": "Which actor and comedian featured on Kanye West's 2005 hit \"Gold Digger\"?",
    "a": "Jamie Foxx",
    "p": 200,
-   "apic": "Jamie Foxx"
+   "apic": "Jamie Foxx",
+   "cpic": "Kanye West"
   },
   {
    "q": "Which British singer's song \"Thank You\" is sampled in Eminem's 2000 hit \"Stan\"?",
    "a": "Dido",
    "p": 200,
-   "apic": "Dido (singer)"
+   "apic": "Dido (singer)",
+   "cpic": "Eminem"
   },
   {
    "q": "Which French electronic duo's song is sampled in Kanye West's 2007 hit \"Stronger\"?",
@@ -175,25 +186,29 @@
    "alt": [
     "Ye"
    ],
-   "apic": "Kanye West"
+   "apic": "Kanye West",
+   "cpic": "Chicago"
   },
   {
    "q": "Which group did 50 Cent form with Lloyd Banks and Tony Yayo?",
    "a": "G-Unit",
    "p": 200,
-   "apic": "G-Unit"
+   "apic": "G-Unit",
+   "cpic": "Lloyd Banks"
   },
   {
    "q": "Which crunk star featured, with Ludacris, on Usher's 2004 hit \"Yeah!\"?",
    "a": "Lil Jon",
    "p": 200,
-   "apic": "Lil Jon"
+   "apic": "Lil Jon",
+   "cpic": "Ludacris"
   },
   {
    "q": "Which Atlanta rapper joined the Fast & Furious films as Tej in 2003's 2 Fast 2 Furious?",
    "a": "Ludacris",
    "p": 200,
-   "apic": "Ludacris"
+   "apic": "Ludacris",
+   "cpic": "Atlanta"
   },
   {
    "q": "Which 2007 Soulja Boy hit launched a dance craze across the internet?",
@@ -216,7 +231,8 @@
    "alt": [
     "Platinum blond",
     "Blonde"
-   ]
+   ],
+   "cpic": "Eminem"
   },
   {
    "q": "Which 2000 Eminem album includes \"The Real Slim Shady\" and \"Stan\"?",
@@ -276,7 +292,8 @@
   {
    "q": "Which 2005 film starring 50 Cent shares its title with his debut album?",
    "a": "Get Rich or Die Tryin'",
-   "p": 200
+   "p": 200,
+   "cpic": "50 Cent"
   },
   {
    "q": "Which singer duetted with Jay-Z on the 2003 hit \"Crazy in Love\"?",
@@ -290,7 +307,8 @@
   {
    "q": "Which 2008 Lil Wayne single, featuring Static Major, topped the US Hot 100?",
    "a": "Lollipop",
-   "p": 200
+   "p": 200,
+   "cpic": "Lil Wayne"
   },
   {
    "q": "Which 2008 Kanye West album was dominated by Auto-Tune singing rather than rapping?",
@@ -309,7 +327,8 @@
   {
    "q": "Which 2004 Snoop Dogg hit, produced by the Neptunes, featured Pharrell?",
    "a": "Drop It Like It's Hot",
-   "p": 200
+   "p": 200,
+   "cpic": "Snoop Dogg"
   },
   {
    "q": "Which singer and producer formed The Neptunes with Chad Hugo?",
@@ -324,7 +343,8 @@
    "q": "Which 2002 Nelly single is named after a classic pair of Nike sneakers?",
    "a": "Air Force Ones",
    "p": 200,
-   "apic": "Nike Air Force 1"
+   "apic": "Nike Air Force 1",
+   "cpic": "Nelly"
   },
   {
    "q": "Which Eminem-led Detroit group released Devil's Night in 2001?",
@@ -333,7 +353,8 @@
    "alt": [
     "Dirty Dozen"
    ],
-   "apic": "D12"
+   "apic": "D12",
+   "cpic": "Detroit"
   },
   {
    "q": "Which British-Sri Lankan artist had the 2008 hit \"Paper Planes\"?",
@@ -348,7 +369,8 @@
    "q": "Which singer and producer duo of CeeLo Green and Danger Mouse had the 2006 hit \"Crazy\"?",
    "a": "Gnarls Barkley",
    "p": 200,
-   "apic": "Gnarls Barkley"
+   "apic": "Gnarls Barkley",
+   "cpic": "CeeLo Green"
   },
   {
    "q": "Which rapper's 2003 Black Album was billed as his retirement record?",
@@ -362,13 +384,15 @@
   {
    "q": "Which 2007 Jay-Z album was inspired by a Ridley Scott film of the same name?",
    "a": "American Gangster",
-   "p": 200
+   "p": 200,
+   "cpic": "Ridley Scott"
   },
   {
    "q": "Which Murder Inc. rapper had a long public feud with 50 Cent in the early 2000s?",
    "a": "Ja Rule",
    "p": 200,
-   "apic": "Ja Rule"
+   "apic": "Ja Rule",
+   "cpic": "50 Cent"
   },
   {
    "q": "Which British singer performed \"Stan\" with Eminem at the 2001 Grammy Awards?",
@@ -383,13 +407,15 @@
    "alt": [
     "Band-Aid",
     "Bandage"
-   ]
+   ],
+   "cpic": "Nelly"
   },
   {
    "q": "Which singer featured on T.I.'s 2008 No. 1 \"Live Your Life\"?",
    "a": "Rihanna",
    "p": 200,
-   "apic": "Rihanna"
+   "apic": "Rihanna",
+   "cpic": "T.I."
   },
   {
    "q": "What cartoon animal is Kanye West's mascot on the covers of his first three albums?",
@@ -412,7 +438,8 @@
    "p": 200,
    "alt": [
     "Degrassi"
-   ]
+   ],
+   "cpic": "Drake (musician)"
   },
   {
    "q": "Which singer had the 2006 hit \"Smack That\" with Eminem?",
@@ -424,7 +451,8 @@
    "q": "Which 2005 Nelly single is about decorative jewellery worn on the teeth?",
    "a": "Grillz",
    "p": 200,
-   "apic": "Grill (jewelry)"
+   "apic": "Grill (jewelry)",
+   "cpic": "Nelly"
   },
   {
    "q": "Which 2002 Eminem single has a video in which he dresses as a Robin-style superhero sidekick?",
@@ -452,7 +480,8 @@
    "q": "Which R&B singer had the 2004 smash \"Yeah!\" with Lil Jon and Ludacris?",
    "a": "Usher",
    "p": 200,
-   "apic": "Usher (musician)"
+   "apic": "Usher (musician)",
+   "cpic": "Ludacris"
   },
   {
    "q": "Which rapper and actor starred as Calvin in the 2002 comedy Barbershop?",
@@ -464,7 +493,8 @@
    "q": "Which producer made Missy Elliott's hits \"Get Ur Freak On\" and \"Work It\"?",
    "a": "Timbaland",
    "p": 200,
-   "apic": "Timbaland"
+   "apic": "Timbaland",
+   "cpic": "Missy Elliott"
   },
   {
    "q": "Which British rap genre emerged in East London in the early 2000s?",
@@ -518,7 +548,8 @@
    "p": 200,
    "alt": [
     "Cash Money"
-   ]
+   ],
+   "cpic": "Lil Wayne"
   },
   {
    "q": "Which Dr. Dre label released 50 Cent's Get Rich or Die Tryin' together with Shady Records?",
@@ -526,7 +557,8 @@
    "p": 200,
    "alt": [
     "Aftermath"
-   ]
+   ],
+   "cpic": "Dr. Dre"
   },
   {
    "q": "Which 2005 Kanye West hit samples Ray Charles's \"I Got a Woman\"?",
@@ -542,7 +574,8 @@
   {
    "q": "Which Flo Rida hit featuring T-Pain was Billboard's top song of 2008?",
    "a": "Low",
-   "p": 200
+   "p": 200,
+   "cpic": "T-Pain"
   },
   {
    "q": "Which US city is Lil Wayne from?",
@@ -589,7 +622,8 @@
    "p": 200,
    "alt": [
     "Mixtape"
-   ]
+   ],
+   "cpic": "Lil Wayne"
   },
   {
    "q": "What is the term for a piece of an older recording reused in a new hip hop track?",
@@ -657,7 +691,8 @@
   {
    "q": "Which 2004 EP paired Jay-Z with Linkin Park in mash-ups?",
    "a": "Collision Course",
-   "p": 400
+   "p": 400,
+   "cpic": "Linkin Park"
   },
   {
    "q": "Which Kanye West debut single was recorded while his jaw was wired shut after a car crash?",
@@ -687,7 +722,8 @@
    "alt": [
     "Game"
    ],
-   "apic": "The Game (rapper)"
+   "apic": "The Game (rapper)",
+   "cpic": "G-Unit"
   },
   {
    "q": "Which Eminem label co-signed 50 Cent alongside Aftermath?",
@@ -738,12 +774,14 @@
   {
    "q": "Which 2008 T.I. single, from Paper Trail, became a long-running US No. 1?",
    "a": "Whatever You Like",
-   "p": 400
+   "p": 400,
+   "cpic": "T.I."
   },
   {
    "q": "Which 2006 film set in an Atlanta roller-skating rink starred T.I.?",
    "a": "ATL",
-   "p": 400
+   "p": 400,
+   "cpic": "Atlanta"
   },
   {
    "q": "Which Atlanta rapper's 2003 album Trap Muzik helped name a whole subgenre?",
@@ -772,13 +810,15 @@
    "p": 400,
    "alt": [
     "Get Your Freak On"
-   ]
+   ],
+   "cpic": "Missy Elliott"
   },
   {
    "q": "Which singer featured with Fatman Scoop on Missy Elliott's 2005 hit \"Lose Control\"?",
    "a": "Ciara",
    "p": 400,
-   "apic": "Ciara"
+   "apic": "Ciara",
+   "cpic": "Missy Elliott"
   },
   {
    "q": "Which nickname does Missy Elliott use, also part of her 1990s stage name?",
@@ -823,7 +863,8 @@
    "q": "Which Chicago rapper, famed for very fast delivery, topped the US chart with \"Slow Jamz\" in 2004?",
    "a": "Twista",
    "p": 400,
-   "apic": "Twista"
+   "apic": "Twista",
+   "cpic": "Chicago"
   },
   {
    "q": "Which singer was the first artist signed to Kanye West's label, releasing Get Lifted in 2004?",
@@ -890,12 +931,14 @@
   {
    "q": "Which Dr. Dre album, announced in the early 2000s, was famously never released?",
    "a": "Detox",
-   "p": 400
+   "p": 400,
+   "cpic": "Dr. Dre"
   },
   {
    "q": "Which 2000 Dr. Dre single from 2001 features Snoop Dogg, Kurupt and Nate Dogg?",
    "a": "The Next Episode",
-   "p": 400
+   "p": 400,
+   "cpic": "Snoop Dogg"
   },
   {
    "q": "Which singer co-starred with 50 Cent on the 2005 hit \"Candy Shop\"?",
@@ -912,7 +955,8 @@
    "q": "Which G-Unit member released the 2004 album The Hunger for More?",
    "a": "Lloyd Banks",
    "p": 400,
-   "apic": "Lloyd Banks"
+   "apic": "Lloyd Banks",
+   "cpic": "G-Unit"
   },
   {
    "q": "Which crunk producer led the group the East Side Boyz?",
@@ -923,7 +967,8 @@
   {
    "q": "Which energetic, chant-heavy rap style did Lil Jon popularise in the early 2000s?",
    "a": "Crunk",
-   "p": 400
+   "p": 400,
+   "cpic": "Lil Jon"
   },
   {
    "q": "Which Houston rapper had the 2006 hit \"Ridin'\" and won a Grammy for it?",
@@ -955,7 +1000,8 @@
   {
    "q": "Which 2009 Drake single was his first big hit from So Far Gone?",
    "a": "Best I Ever Had",
-   "p": 400
+   "p": 400,
+   "cpic": "Drake (musician)"
   },
   {
    "q": "Which London rapper won the 2003 Mercury Prize with Boy in da Corner?",
@@ -982,12 +1028,14 @@
    "q": "Which US state are The Neptunes, Timbaland and Missy Elliott all from?",
    "a": "Virginia",
    "p": 400,
-   "apic": "Virginia"
+   "apic": "Virginia",
+   "cpic": "Timbaland"
   },
   {
    "q": "Which 2003 Big Boi single followed \"Hey Ya!\" to No. 1 in the US?",
    "a": "The Way You Move",
-   "p": 400
+   "p": 400,
+   "cpic": "Big Boi"
   },
   {
    "q": "Which 2006 OutKast musical film is set in the 1930s?",
@@ -997,18 +1045,21 @@
   {
    "q": "Which 2005 Common album was produced mostly by Kanye West?",
    "a": "Be",
-   "p": 400
+   "p": 400,
+   "cpic": "Common (rapper)"
   },
   {
    "q": "Which Chicago rapper's 2006 debut single \"Kick, Push\" is about skateboarding?",
    "a": "Lupe Fiasco",
    "p": 400,
-   "apic": "Lupe Fiasco"
+   "apic": "Lupe Fiasco",
+   "cpic": "Chicago"
   },
   {
    "q": "Which 2005 Kanye West song, featuring Lupe Fiasco, samples Curtis Mayfield's \"Move On Up\"?",
    "a": "Touch the Sky",
-   "p": 400
+   "p": 400,
+   "cpic": "Lupe Fiasco"
   },
   {
    "q": "Which Houston rapper and jeweller became famous for making grills?",
@@ -1024,22 +1075,26 @@
   {
    "q": "Which 2005 50 Cent and The Game duet was nominated for two Grammys?",
    "a": "Hate It or Love It",
-   "p": 400
+   "p": 400,
+   "cpic": "The Game (rapper)"
   },
   {
    "q": "Which 2008 track brought together T.I., Jay-Z, Kanye West and Lil Wayne?",
    "a": "Swagga Like Us",
-   "p": 400
+   "p": 400,
+   "cpic": "T.I."
   },
   {
    "q": "Which 2004 Jay-Z single was produced by Rick Rubin?",
    "a": "99 Problems",
-   "p": 400
+   "p": 400,
+   "cpic": "Rick Rubin"
   },
   {
    "q": "Which 2004 Twista, Kanye West and Jamie Foxx hit is about romantic soul music?",
    "a": "Slow Jamz",
-   "p": 400
+   "p": 400,
+   "cpic": "Jamie Foxx"
   },
   {
    "q": "Which 2006 Nas album declared that hip hop had died?",
@@ -1064,7 +1119,8 @@
   {
    "q": "Which 2004 Jay-Z single, produced by Timbaland, tells you to brush off your shoulders?",
    "a": "Dirt Off Your Shoulder",
-   "p": 400
+   "p": 400,
+   "cpic": "Timbaland"
   },
   {
    "q": "Which Kanye West single from Late Registration was inspired by his mother?",
@@ -1156,7 +1212,8 @@
    "p": 400,
    "alt": [
     "One, Two Step"
-   ]
+   ],
+   "cpic": "Ciara"
   },
   {
    "q": "Which 2005 film starring Terrence Howard follows a Memphis hustler trying to become a rapper?",
@@ -1164,7 +1221,8 @@
    "p": 400,
    "alt": [
     "Hustle and Flow"
-   ]
+   ],
+   "cpic": "Terrence Howard"
   },
   {
    "q": "Which 2009 biopic told the story of the Notorious B.I.G.?",
@@ -1211,7 +1269,8 @@
    "alt": [
     "Camron"
    ],
-   "apic": "Cam'ron"
+   "apic": "Cam'ron",
+   "cpic": "Roc-A-Fella Records"
   },
   {
    "q": "Which 2006 Jay-Z album marked his comeback from retirement?",
@@ -1221,7 +1280,8 @@
   {
    "q": "What is the name of the 2004 concert film documenting Jay-Z's Madison Square Garden show?",
    "a": "Fade to Black",
-   "p": 600
+   "p": 600,
+   "cpic": "Madison Square Garden"
   },
   {
    "q": "Which sportswear brand released Jay-Z's S. Carter sneaker in 2003?",
@@ -1319,7 +1379,8 @@
    "p": 600,
    "alt": [
     "DTP"
-   ]
+   ],
+   "cpic": "Ludacris"
   },
   {
    "q": "Which Memphis group won the Best Original Song Oscar in 2006 for a song from Hustle & Flow?",
@@ -1356,18 +1417,21 @@
    "p": 600,
    "alt": [
     "Hot Boyz"
-   ]
+   ],
+   "cpic": "Juvenile (rapper)"
   },
   {
    "q": "Which New Orleans rapper had the 2004 hit \"Slow Motion\" featuring Soulja Slim?",
    "a": "Juvenile",
    "p": 600,
-   "apic": "Juvenile (rapper)"
+   "apic": "Juvenile (rapper)",
+   "cpic": "New Orleans"
   },
   {
    "q": "Which 2009 Kid Cudi debut album has a lunar title?",
    "a": "Man on the Moon: The End of Day",
-   "p": 600
+   "p": 600,
+   "cpic": "Kid Cudi"
   },
   {
    "q": "Which North Carolina rapper signed to Jay-Z's Roc Nation in 2009?",
@@ -1376,13 +1440,15 @@
    "alt": [
     "J Cole"
    ],
-   "apic": "J. Cole"
+   "apic": "J. Cole",
+   "cpic": "North Carolina"
   },
   {
    "q": "Which producer made The Grey Album by mixing Jay-Z's Black Album with the Beatles' White Album?",
    "a": "Danger Mouse",
    "p": 600,
-   "apic": "Danger Mouse"
+   "apic": "Danger Mouse",
+   "cpic": "The Beatles"
   },
   {
    "q": "Which Eminem song from Encore samples Martika's \"Toy Soldiers\"?",
@@ -1397,7 +1463,8 @@
   {
    "q": "Which 2004 Eminem single parodies Michael Jackson, Madonna and Pee-wee Herman?",
    "a": "Just Lose It",
-   "p": 600
+   "p": 600,
+   "cpic": "Michael Jackson"
   },
   {
    "q": "Which 2005 video game starred 50 Cent as himself?",
@@ -1411,7 +1478,8 @@
    "q": "Which Tennessee rapper was signed to G-Unit and released Straight Outta Cashville?",
    "a": "Young Buck",
    "p": 600,
-   "apic": "Young Buck"
+   "apic": "Young Buck",
+   "cpic": "G-Unit"
   },
   {
    "q": "Which Queensbridge duo signed with 50 Cent's G-Unit in 2005?",
@@ -1423,18 +1491,21 @@
    "q": "Which singer's sample of \"Mr. Lonely\" is the hook of Akon's 2005 hit \"Lonely\"?",
    "a": "Bobby Vinton",
    "p": 600,
-   "apic": "Bobby Vinton"
+   "apic": "Bobby Vinton",
+   "cpic": "Akon"
   },
   {
    "q": "What is the name of Akon's record label, launched in the mid-2000s?",
    "a": "Konvict Muzik",
-   "p": 600
+   "p": 600,
+   "cpic": "Akon"
   },
   {
    "q": "Which Birmingham-raised rapper and producer recorded as The Streets?",
    "a": "Mike Skinner",
    "p": 600,
-   "apic": "Mike Skinner (musician)"
+   "apic": "Mike Skinner (musician)",
+   "cpic": "The Streets"
   },
   {
    "q": "Which grime MC is widely called the \"Godfather of Grime\"?",
@@ -1455,12 +1526,14 @@
   {
    "q": "Which 2007 Timbaland album includes \"The Way I Are\" and \"Apologize\"?",
    "a": "Shock Value",
-   "p": 600
+   "p": 600,
+   "cpic": "Timbaland"
   },
   {
    "q": "Which 2005 Jay-Z and Linkin Park mash-up won the 2006 Grammy for Best Rap/Sung Collaboration?",
    "a": "Numb/Encore",
-   "p": 600
+   "p": 600,
+   "cpic": "Linkin Park"
   },
   {
    "q": "Which Missy Elliott album includes the 2002 hit \"Work It\"?",
@@ -1510,12 +1583,14 @@
    "p": 600,
    "alt": [
     "Starsky and Hutch"
-   ]
+   ],
+   "cpic": "Snoop Dogg"
   },
   {
    "q": "Which 2004 Beastie Boys album is a tribute to New York City?",
    "a": "To the 5 Boroughs",
-   "p": 600
+   "p": 600,
+   "cpic": "New York City"
   },
   {
    "q": "Which Philadelphia rapper led State Property on Roc-A-Fella?",
@@ -1554,12 +1629,14 @@
   {
    "q": "Which 2009 song by Drake, Kanye West, Lil Wayne and Eminem came from a LeBron James documentary soundtrack?",
    "a": "Forever",
-   "p": 600
+   "p": 600,
+   "cpic": "LeBron James"
   },
   {
    "q": "Which 2004 fighting video game starred rappers including Snoop Dogg and Method Man?",
    "a": "Def Jam: Fight for NY",
-   "p": 600
+   "p": 600,
+   "cpic": "Method Man"
   },
   {
    "q": "Which 2006 Ludacris album won the Grammy for Best Rap Album?",
@@ -1573,7 +1650,8 @@
    "alt": [
     "Jay Dee"
    ],
-   "apic": "J Dilla"
+   "apic": "J Dilla",
+   "cpic": "Detroit"
   },
   {
    "q": "Which masked rapper made the 2004 album Madvillainy with Madlib?",
@@ -1593,7 +1671,8 @@
   {
    "q": "Which 2004 album by The Streets includes \"Dry Your Eyes\"?",
    "a": "A Grand Don't Come for Free",
-   "p": 600
+   "p": 600,
+   "cpic": "The Streets"
   },
   {
    "q": "Which singer featured on Kanye West's 2007 single \"Good Life\"?",
@@ -1647,7 +1726,8 @@
    "q": "Which rapper, born Dante Smith, now records as Yasiin Bey?",
    "a": "Mos Def",
    "p": 600,
-   "apic": "Yasiin Bey"
+   "apic": "Yasiin Bey",
+   "cpic": "Yasiin Bey"
   },
   {
    "q": "Which actor played the Notorious B.I.G. in the 2009 film Notorious?",

@@ -27,7 +27,8 @@
    "q": "Which Pokemon is Ash's constant companion who rides on his shoulder?",
    "a": "Pikachu",
    "p": 200,
-   "apic": "Pikachu"
+   "apic": "Pikachu",
+   "cpic": "Pokémon"
   },
   {
    "q": "What is the name of the boy Pokemon trainer from Pallet Town in the anime?",
@@ -37,7 +38,8 @@
     "Ash",
     "Satoshi"
    ],
-   "apic": "Ash Ketchum"
+   "apic": "Ash Ketchum",
+   "cpic": "Pokémon"
   },
   {
    "q": "Which spiky-haired hero is the main character of Dragon Ball?",
@@ -163,7 +165,8 @@
    "alt": [
     "Spyri"
    ],
-   "apic": "Johanna Spyri"
+   "apic": "Johanna Spyri",
+   "cpic": "Heidi"
   },
   {
    "q": "What colour are the Smurfs?",
@@ -175,7 +178,8 @@
    "q": "Who is the wizard that is always trying to catch the Smurfs?",
    "a": "Gargamel",
    "p": 200,
-   "apic": "Gargamel"
+   "apic": "Gargamel",
+   "cpic": "The Smurfs"
   },
   {
    "q": "Which cartoon cat and mouse chase each other around a house?",
@@ -184,7 +188,8 @@
    "alt": [
     "Tom & Jerry"
    ],
-   "apic": "Tom and Jerry"
+   "apic": "Tom and Jerry",
+   "cpic": "Mouse"
   },
   {
    "q": "Which sailor cartoon hero gains super strength from eating spinach?",
@@ -236,13 +241,15 @@
    "q": "Jessie and James are members of which villainous team in Pokemon?",
    "a": "Team Rocket",
    "p": 200,
-   "apic": "Team Rocket"
+   "apic": "Team Rocket",
+   "cpic": "Jessie and James"
   },
   {
    "q": "Which Pokemon Gym Leader of Cerulean City loves Water Pokemon?",
    "a": "Misty",
    "p": 200,
-   "apic": "Misty (Pokémon)"
+   "apic": "Misty (Pokémon)",
+   "cpic": "Pokémon"
   },
   {
    "q": "What nationality is the Smurfs' creator Peyo?",
@@ -358,7 +365,8 @@
    "alt": [
     "Nobody's Boy"
    ],
-   "apic": "Nobody's Boy"
+   "apic": "Nobody's Boy",
+   "cpic": "Hector Malot"
   },
   {
    "q": "What is the name of Remi's loyal dog?",
@@ -372,7 +380,8 @@
    "alt": [
     "Takahata"
    ],
-   "apic": "Isao Takahata"
+   "apic": "Isao Takahata",
+   "cpic": "Studio Ghibli"
   },
   {
    "q": "What is the name of Heidi's friend the goatherd?",
@@ -380,7 +389,8 @@
    "p": 400,
    "alt": [
     "Peter the goatherd"
-   ]
+   ],
+   "cpic": "Heidi"
   },
   {
    "q": "Which company released the Digimon virtual pet in 1997?",
@@ -602,7 +612,8 @@
    "alt": [
     "Mazinger",
     "Mazinger Z trilogy"
-   ]
+   ],
+   "cpic": "Go Nagai"
   },
   {
    "q": "Which studio produced Future Boy Conan, known in Arabic as Adnan wa Lina?",
@@ -1000,7 +1011,8 @@
      "Spacetoon",
      "سبيستون"
     ]
-   ]
+   ],
+   "cpic": "Damascus"
   },
   {
    "q": "Which Syrian singer is famous for performing many Spacetoon theme songs?",
@@ -1278,7 +1290,8 @@
      "Sally",
      "سالي"
     ]
-   ]
+   ],
+   "cpic": "Nippon Animation"
   },
   {
    "q": "Who wrote 'A Little Princess', the novel behind the anime Sally?",
@@ -1479,7 +1492,8 @@
    "p": 400,
    "alt": [
     "Flint"
-   ]
+   ],
+   "cpic": "Long John Silver"
   },
   {
    "q": "Which wrestling anime is known in Arabic as 'Al-Nimr Al-Muqanna'?",
@@ -1786,7 +1800,8 @@
    "alt": [
     "Ears",
     "Ear"
-   ]
+   ],
+   "cpic": "Mouse"
   },
   {
    "q": "Where in Nobita's room is the entrance to Doraemon's time machine?",
@@ -2008,7 +2023,8 @@
     "Sanafer",
     "Al Sanafir",
     "Sanafir"
-   ]
+   ],
+   "cpic": "The Smurfs"
   },
   {
    "q": "Which bespectacled Smurf is a know-it-all?",
@@ -2025,7 +2041,8 @@
    "alt": [
     "Schtroumpfs",
     "Schtroumpf"
-   ]
+   ],
+   "cpic": "The Smurfs"
   },
   {
    "q": "Which strong Smurf has a heart tattoo on his arm?",
@@ -2116,7 +2133,8 @@
    "alt": [
     "Klara",
     "Clara Sesemann"
-   ]
+   ],
+   "cpic": "Heidi"
   },
   {
    "q": "In which German city does Clara live?",
@@ -2184,7 +2202,8 @@
    "alt": [
     "Martin",
     "Mårten"
-   ]
+   ],
+   "cpic": "Goose"
   }
  ]
 }

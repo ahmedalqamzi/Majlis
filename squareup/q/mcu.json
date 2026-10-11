@@ -26,7 +26,8 @@
    "q": "Which tree-like Guardian of the Galaxy has a very limited vocabulary?",
    "a": "Groot",
    "p": 200,
-   "apic": "Groot"
+   "apic": "Groot",
+   "cpic": "Tree"
   },
   {
    "q": "Which raccoon-like Guardian is voiced by Bradley Cooper?",
@@ -47,7 +48,8 @@
    "q": "Which Guardian is Thanos's adopted daughter, played by Zoe Saldaña?",
    "a": "Gamora",
    "p": 200,
-   "apic": "Gamora"
+   "apic": "Gamora",
+   "cpic": "Zoe Saldaña"
   },
   {
    "q": "Which actor played T'Challa in Black Panther?",
@@ -160,7 +162,8 @@
    "q": "Which goddess of death, played by Cate Blanchett, is Thor's sister?",
    "a": "Hela",
    "p": 200,
-   "apic": "Hela (character)"
+   "apic": "Hela (character)",
+   "cpic": "Cate Blanchett"
   },
   {
    "q": "Which 2017 Thor film features a gladiator fight against the Hulk on Sakaar?",
@@ -197,7 +200,8 @@
     "Erik Killmonger",
     "N'Jadaka"
    ],
-   "apic": "Erik Killmonger"
+   "apic": "Erik Killmonger",
+   "cpic": "Michael B. Jordan"
   },
   {
    "q": "Which 2015 film sees the Avengers fight a rogue AI built by Tony Stark?",
@@ -230,7 +234,8 @@
    "alt": [
     "Drax the Destroyer"
    ],
-   "apic": "Drax the Destroyer"
+   "apic": "Drax the Destroyer",
+   "cpic": "Dave Bautista"
   },
   {
    "q": "Which 2017 film was Tom Holland's first solo Spider-Man film?",
@@ -239,7 +244,8 @@
    "alt": [
     "Homecoming"
    ],
-   "apic": "Spider-Man: Homecoming"
+   "apic": "Spider-Man: Homecoming",
+   "cpic": "Tom Holland"
   },
   {
    "q": "Which hero is Carol Danvers?",
@@ -315,7 +321,8 @@
    "q": "Which actress plays MJ in Tom Holland's Spider-Man films?",
    "a": "Zendaya",
    "p": 200,
-   "apic": "Zendaya"
+   "apic": "Zendaya",
+   "cpic": "Tom Holland"
   },
   {
    "q": "Which two earlier Spider-Man actors return in Spider-Man: No Way Home?",
@@ -425,7 +432,8 @@
    "q": "Which 2023 film is the third and final Guardians film directed by James Gunn?",
    "a": "Guardians of the Galaxy Vol. 3",
    "p": 200,
-   "apic": "Guardians of the Galaxy Vol. 3"
+   "apic": "Guardians of the Galaxy Vol. 3",
+   "cpic": "James Gunn"
   },
   {
    "q": "Which Spider-Man film is set mainly on a school trip in Europe?",
@@ -445,7 +453,8 @@
    "q": "Which 2023 film stars Brie Larson, Iman Vellani and Teyonah Parris?",
    "a": "The Marvels",
    "p": 200,
-   "apic": "The Marvels"
+   "apic": "The Marvels",
+   "cpic": "Brie Larson"
   },
   {
    "q": "Which Disney+ animated series imagines alternate versions of MCU events?",
@@ -610,7 +619,8 @@
    "p": 400,
    "alt": [
     "Mobius M. Mobius"
-   ]
+   ],
+   "cpic": "Owen Wilson"
   },
   {
    "q": "Which hero is Kamala Khan?",
@@ -622,7 +632,8 @@
    "q": "Which 2022 Disney+ series stars Oscar Isaac as Marc Spector?",
    "a": "Moon Knight",
    "p": 400,
-   "apic": "Moon Knight"
+   "apic": "Moon Knight",
+   "cpic": "Oscar Isaac"
   },
   {
    "q": "Which hero does Tatiana Maslany play in a 2022 Disney+ series?",
@@ -652,7 +663,8 @@
    "alt": [
     "Adrian Toomes"
    ],
-   "apic": "Vulture (Marvel Comics)"
+   "apic": "Vulture (Marvel Comics)",
+   "cpic": "Michael Keaton"
   },
   {
    "q": "Which Far From Home villain pretends to be a hero from another Earth?",
@@ -872,7 +884,8 @@
   {
    "q": "What is the name of the rock-bodied gladiator voiced by Taika Waititi?",
    "a": "Korg",
-   "p": 400
+   "p": 400,
+   "cpic": "Taika Waititi"
   },
   {
    "q": "Which actor plays the Grandmaster in Thor: Ragnarok?",
@@ -887,7 +900,8 @@
    "alt": [
     "Norman Osborn"
    ],
-   "apic": "Green Goblin"
+   "apic": "Green Goblin",
+   "cpic": "Willem Dafoe"
   },
   {
    "q": "Which Spider-Man villain does Alfred Molina play?",
@@ -943,7 +957,8 @@
    "alt": [
     "Wilson Fisk"
    ],
-   "apic": "Kingpin (character)"
+   "apic": "Kingpin (character)",
+   "cpic": "Vincent D'Onofrio"
   },
   {
    "q": "Which Civil War villain, played by Daniel Brühl, sets the Avengers against each other?",
@@ -979,7 +994,8 @@
    "q": "Which teenage archer, played by Hailee Steinfeld, trains with Clint Barton?",
    "a": "Kate Bishop",
    "p": 400,
-   "apic": "Kate Bishop"
+   "apic": "Kate Bishop",
+   "cpic": "Hailee Steinfeld"
   },
   {
    "q": "Who plays the Ancient One in Doctor Strange (2016)?",
@@ -1013,7 +1029,8 @@
   {
    "q": "Which dwarf, played by Peter Dinklage, forges Thor's new weapon?",
    "a": "Eitri",
-   "p": 600
+   "p": 600,
+   "cpic": "Peter Dinklage"
   },
   {
    "q": "Which Infinity Stone did Thanos obtain last in Avengers: Infinity War?",
@@ -1128,7 +1145,8 @@
   {
    "q": "Which 2022 Disney+ special stars Gael García Bernal as a monster hunter?",
    "a": "Werewolf by Night",
-   "p": 600
+   "p": 600,
+   "cpic": "Gael García Bernal"
   },
   {
    "q": "What is the name of Hydra's helicarrier plan in The Winter Soldier?",
@@ -1342,7 +1360,8 @@
    "q": "Which unit of soldiers does Captain America lead in World War II?",
    "a": "Howling Commandos",
    "p": 600,
-   "apic": "Howling Commandos"
+   "apic": "Howling Commandos",
+   "cpic": "World War II"
   },
   {
    "q": "Which scientist created the super-soldier serum given to Steve Rogers?",
@@ -1403,7 +1422,8 @@
    "q": "Which Hydra leader in The Winter Soldier is played by Robert Redford?",
    "a": "Alexander Pierce",
    "p": 600,
-   "apic": "Robert Redford"
+   "apic": "Robert Redford",
+   "cpic": "Robert Redford"
   },
   {
    "q": "Which hidden underwater nation is ruled by Namor?",

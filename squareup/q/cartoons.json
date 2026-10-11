@@ -164,7 +164,8 @@
   {
    "q": "In which town do the Flintstones live?",
    "a": "Bedrock",
-   "p": 200
+   "p": 200,
+   "cpic": "The Flintstones"
   },
   {
    "q": "What is the name of Fred Flintstone's wife?",
@@ -224,7 +225,8 @@
    "alt": [
     "Rosey",
     "Rosie the Robot"
-   ]
+   ],
+   "cpic": "The Jetsons"
   },
   {
    "q": "What kind of animal is Scooby-Doo?",
@@ -327,7 +329,8 @@
    "alt": [
     "William Hanna and Joseph Barbera",
     "Hanna-Barbera"
-   ]
+   ],
+   "cpic": "The Flintstones"
   },
   {
    "q": "Which boy genius hides a huge secret laboratory behind his bookcase?",
@@ -1171,7 +1174,8 @@
    "alt": [
     "Marine biology teacher",
     "Marine science teacher"
-   ]
+   ],
+   "cpic": "Stephen Hillenburg"
   },
   {
    "q": "Which actor voices SpongeBob?",
@@ -1554,13 +1558,15 @@
    "q": "Which Star Wars actor voiced the Joker in Batman: The Animated Series?",
    "a": "Mark Hamill",
    "p": 400,
-   "apic": "Mark Hamill"
+   "apic": "Mark Hamill",
+   "cpic": "Batman: The Animated Series"
   },
   {
    "q": "Which Joker sidekick was created for Batman: The Animated Series?",
    "a": "Harley Quinn",
    "p": 400,
-   "apic": "Harley Quinn"
+   "apic": "Harley Quinn",
+   "cpic": "Batman: The Animated Series"
   },
   {
    "q": "Which Warner Bros. director, famous for wild gags, introduced Daffy Duck in a 1937 duck-hunting cartoon?",
@@ -1633,7 +1639,8 @@
    "p": 600,
    "alt": [
     "Judy Jetson"
-   ]
+   ],
+   "cpic": "The Jetsons"
   },
   {
    "q": "Who voiced Scooby-Doo for most of the character's first decades?",
@@ -1700,7 +1707,8 @@
    "alt": [
     "John Dilworth"
    ],
-   "apic": "John R. Dilworth"
+   "apic": "John R. Dilworth",
+   "cpic": "Courage the Cowardly Dog"
   },
   {
    "q": "Which Oscar-nominated 1995 short introduced Courage the dog?",
@@ -1732,7 +1740,8 @@
    "q": "Who created Johnny Bravo?",
    "a": "Van Partible",
    "p": 600,
-   "apic": "Van Partible"
+   "apic": "Van Partible",
+   "cpic": "Johnny Bravo"
   },
   {
    "q": "Who created Codename: Kids Next Door?",
@@ -1824,7 +1833,8 @@
   {
    "q": "What is Mr. Krabs's first name?",
    "a": "Eugene",
-   "p": 600
+   "p": 600,
+   "cpic": "Mr. Krabs"
   },
   {
    "q": "What is the name of the 2021 SpongeBob prequel spin-off set at a summer camp?",
@@ -1979,12 +1989,14 @@
   {
    "q": "What is the name of Darkwing Duck's adopted daughter?",
    "a": "Gosalyn",
-   "p": 600
+   "p": 600,
+   "cpic": "Darkwing Duck"
   },
   {
    "q": "Who is Darkwing Duck's evil mirror-image rival?",
    "a": "Negaduck",
-   "p": 600
+   "p": 600,
+   "cpic": "Darkwing Duck"
   },
   {
    "q": "What is the name of the clever mouse inventor in Chip 'n Dale: Rescue Rangers?",
@@ -2018,7 +2030,8 @@
   {
    "q": "What is the name of the leader of the gargoyles in Gargoyles?",
    "a": "Goliath",
-   "p": 600
+   "p": 600,
+   "cpic": "Gargoyles (TV series)"
   },
   {
    "q": "What is the name of Third Street School's boy leader in Recess?",
@@ -2027,12 +2040,14 @@
    "alt": [
     "TJ",
     "T.J."
-   ]
+   ],
+   "cpic": "Recess (TV series)"
   },
   {
    "q": "Who rules the playground from the top of the climbing frame in Recess?",
    "a": "King Bob",
-   "p": 600
+   "p": 600,
+   "cpic": "Recess (TV series)"
   },
   {
    "q": "Who created Phineas and Ferb?",
@@ -2068,19 +2083,22 @@
    "p": 600,
    "alt": [
     "Fleischer brothers"
-   ]
+   ],
+   "cpic": "Betty Boop"
   },
   {
    "q": "Who is credited with animating Felix the Cat in the 1920s?",
    "a": "Otto Messmer",
    "p": 600,
-   "apic": "Otto Messmer"
+   "apic": "Otto Messmer",
+   "cpic": "Felix the Cat"
   },
   {
    "q": "Which voice actress voiced Rocky the Flying Squirrel and Natasha?",
    "a": "June Foray",
    "p": 600,
-   "apic": "June Foray"
+   "apic": "June Foray",
+   "cpic": "Flying squirrel"
   },
   {
    "q": "In which fictional Minnesota town do Rocky and Bullwinkle live?",
@@ -2117,7 +2135,8 @@
    "q": "Which DC producer and artist co-created Batman: The Animated Series?",
    "a": "Bruce Timm",
    "p": 600,
-   "apic": "Bruce Timm"
+   "apic": "Bruce Timm",
+   "cpic": "Batman: The Animated Series"
   },
   {
    "q": "What is the name of Alvin and the Chipmunks' human songwriter guardian?",

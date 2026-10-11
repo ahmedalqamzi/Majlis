@@ -6,7 +6,8 @@
    "q": "What is the capital city of Australia?",
    "a": "Canberra",
    "p": 200,
-   "apic": "Canberra"
+   "apic": "Canberra",
+   "cpic": "Australia"
   },
   {
    "q": "Which is the largest ocean on Earth?",
@@ -36,13 +37,15 @@
    "q": "What is the largest hot desert in the world?",
    "a": "The Sahara",
    "p": 200,
-   "apic": "Sahara"
+   "apic": "Sahara",
+   "cpic": "Desert"
   },
   {
    "q": "What is the capital city of Canada?",
    "a": "Ottawa",
    "p": 200,
-   "apic": "Ottawa"
+   "apic": "Ottawa",
+   "cpic": "Canada"
   },
   {
    "q": "Which strait separates Spain from Morocco at the entrance to the Mediterranean?",
@@ -93,7 +96,8 @@
    "q": "What is the capital city of Myanmar?",
    "a": "Naypyidaw",
    "p": 600,
-   "apic": "Naypyidaw"
+   "apic": "Naypyidaw",
+   "cpic": "Myanmar"
   },
   {
    "q": "Ouagadougou is the capital of which African country?",
@@ -124,25 +128,29 @@
    "q": "What is the capital city of Italy?",
    "a": "Rome",
    "p": 200,
-   "apic": "Rome"
+   "apic": "Rome",
+   "cpic": "Italy"
   },
   {
    "q": "What is the capital city of Egypt?",
    "a": "Cairo",
    "p": 200,
-   "apic": "Cairo"
+   "apic": "Cairo",
+   "cpic": "Egypt"
   },
   {
    "q": "What is the capital city of the United Arab Emirates?",
    "a": "Abu Dhabi",
    "p": 200,
-   "apic": "Abu Dhabi"
+   "apic": "Abu Dhabi",
+   "cpic": "United Arab Emirates"
   },
   {
    "q": "What is the capital city of Saudi Arabia?",
    "a": "Riyadh",
    "p": 200,
-   "apic": "Riyadh"
+   "apic": "Riyadh",
+   "cpic": "Saudi Arabia"
   },
   {
    "q": "Which is the largest continent by area?",
@@ -168,7 +176,8 @@
    "q": "Which sea separates Saudi Arabia from northeastern Africa?",
    "a": "Red Sea",
    "p": 200,
-   "apic": "Red Sea"
+   "apic": "Red Sea",
+   "cpic": "Saudi Arabia"
   },
   {
    "q": "What is the capital city of Germany?",
@@ -186,7 +195,8 @@
    "q": "What is the capital city of Brazil?",
    "a": "Brasilia",
    "p": 400,
-   "apic": "Brasília"
+   "apic": "Brasília",
+   "cpic": "Brazil"
   },
   {
    "q": "Which continent is the coldest and almost entirely covered in ice?",
@@ -234,19 +244,22 @@
    "q": "What is the capital city of Oman?",
    "a": "Muscat",
    "p": 200,
-   "apic": "Muscat"
+   "apic": "Muscat",
+   "cpic": "Oman"
   },
   {
    "q": "What is the capital city of Argentina?",
    "a": "Buenos Aires",
    "p": 200,
-   "apic": "Buenos Aires"
+   "apic": "Buenos Aires",
+   "cpic": "Argentina"
   },
   {
    "q": "Which ocean lies between Africa and Australia?",
    "a": "Indian Ocean",
    "p": 200,
-   "apic": "Indian Ocean"
+   "apic": "Indian Ocean",
+   "cpic": "Australia"
   },
   {
    "q": "Which mountain is the highest in Africa?",
@@ -264,7 +277,8 @@
    "q": "Which man-made canal links the Mediterranean Sea to the Red Sea?",
    "a": "Suez Canal",
    "p": 200,
-   "apic": "Suez Canal"
+   "apic": "Suez Canal",
+   "cpic": "Red Sea"
   },
   {
    "q": "What is the capital city of Greece?",
@@ -294,7 +308,8 @@
    "q": "What is the capital city of Bahrain?",
    "a": "Manama",
    "p": 400,
-   "apic": "Manama"
+   "apic": "Manama",
+   "cpic": "Bahrain"
   },
   {
    "q": "What is the capital city of Eritrea?",
@@ -306,7 +321,8 @@
    "q": "What is the official capital of Tanzania, where parliament sits?",
    "a": "Dodoma",
    "p": 600,
-   "apic": "Dodoma"
+   "apic": "Dodoma",
+   "cpic": "Tanzania"
   },
   {
    "q": "What is the capital city of Morocco?",
@@ -324,19 +340,22 @@
    "q": "What is the capital city of Nigeria?",
    "a": "Abuja",
    "p": 600,
-   "apic": "Abuja"
+   "apic": "Abuja",
+   "cpic": "Nigeria"
   },
   {
    "q": "What is the capital city of New Zealand?",
    "a": "Wellington",
    "p": 400,
-   "apic": "Wellington"
+   "apic": "Wellington",
+   "cpic": "New Zealand"
   },
   {
    "q": "What is the capital city of Switzerland?",
    "a": "Bern",
    "p": 400,
-   "apic": "Bern"
+   "apic": "Bern",
+   "cpic": "Switzerland"
   },
   {
    "q": "What is the capital city of Georgia?",
@@ -348,31 +367,36 @@
    "q": "Which narrow strait lies between Oman and Iran at the mouth of the Gulf?",
    "a": "Strait of Hormuz",
    "p": 400,
-   "apic": "Strait of Hormuz"
+   "apic": "Strait of Hormuz",
+   "cpic": "Oman"
   },
   {
    "q": "Which is the longest river in Australia?",
    "a": "Murray River",
    "p": 600,
-   "apic": "Murray River"
+   "apic": "Murray River",
+   "cpic": "Australia"
   },
   {
    "q": "What is the highest mountain in South America?",
    "a": "Aconcagua",
    "p": 600,
-   "apic": "Aconcagua"
+   "apic": "Aconcagua",
+   "cpic": "South America"
   },
   {
    "q": "Which strait links the Red Sea to the Gulf of Aden?",
    "a": "Bab-el-Mandeb",
    "p": 600,
-   "apic": "Bab-el-Mandeb"
+   "apic": "Bab-el-Mandeb",
+   "cpic": "Gulf of Aden"
   },
   {
    "q": "What is the large sand desert covering much of southern Saudi Arabia called?",
    "a": "Rub' al Khali (Empty Quarter)",
    "p": 400,
-   "apic": "Rub' al Khali"
+   "apic": "Rub' al Khali",
+   "cpic": "Saudi Arabia"
   },
   {
    "q": "Which river flows through Vienna, Budapest and Belgrade?",
@@ -385,7 +409,8 @@
    "q": "Which mountain range forms the traditional boundary between Europe and Asia in Russia?",
    "a": "Ural Mountains",
    "p": 400,
-   "apic": "Ural Mountains"
+   "apic": "Ural Mountains",
+   "cpic": "Russia"
   },
   {
    "q": "Mont Blanc is part of which mountain range?",
@@ -417,7 +442,8 @@
    "q": "Which two continents does Egypt span?",
    "a": "Africa and Asia",
    "p": 400,
-   "apic": "Egypt"
+   "apic": "Egypt",
+   "cpic": "Egypt"
   },
   {
    "q": "Timbuktu is a historic city in which West African country?",
@@ -436,7 +462,8 @@
    "q": "Which is the longest river in Asia?",
    "a": "The Yangtze",
    "p": 400,
-   "apic": "Yangtze"
+   "apic": "Yangtze",
+   "cpic": "Asia"
   },
   {
    "q": "Which island nation lies off the southeastern tip of India?",
@@ -448,7 +475,8 @@
    "q": "Which strait separates Sicily from mainland Italy?",
    "a": "Strait of Messina",
    "p": 600,
-   "apic": "Strait of Messina"
+   "apic": "Strait of Messina",
+   "cpic": "Sicily"
   },
   {
    "q": "Which lake is the deepest in Africa?",
@@ -473,7 +501,8 @@
    "q": "What is the capital city of Bhutan?",
    "a": "Thimphu",
    "p": 600,
-   "apic": "Thimphu"
+   "apic": "Thimphu",
+   "cpic": "Bhutan"
   },
   {
    "q": "What is the capital city of Mongolia?",
@@ -485,19 +514,22 @@
    "q": "What is the capital city of Ethiopia?",
    "a": "Addis Ababa",
    "p": 400,
-   "apic": "Addis Ababa"
+   "apic": "Addis Ababa",
+   "cpic": "Ethiopia"
   },
   {
    "q": "What is the capital city of Brunei?",
    "a": "Bandar Seri Begawan",
    "p": 600,
-   "apic": "Bandar Seri Begawan"
+   "apic": "Bandar Seri Begawan",
+   "cpic": "Brunei"
   },
   {
    "q": "What is the capital city of Nepal?",
    "a": "Kathmandu",
    "p": 400,
-   "apic": "Kathmandu"
+   "apic": "Kathmandu",
+   "cpic": "Nepal"
   },
   {
    "q": "Which sea in the North Atlantic has no coastline?",
@@ -509,7 +541,8 @@
    "q": "Which strait separates Russia's Chukotka from Alaska?",
    "a": "Bering Strait",
    "p": 400,
-   "apic": "Bering Strait"
+   "apic": "Bering Strait",
+   "cpic": "Russia"
   },
   {
    "q": "Which strait separates the Malay Peninsula from Sumatra?",
@@ -528,19 +561,22 @@
    "q": "Which mountain range runs through northern Oman and eastern UAE?",
    "a": "Al Hajar Mountains",
    "p": 400,
-   "apic": "Al Hajar Mountains"
+   "apic": "Al Hajar Mountains",
+   "cpic": "Oman"
   },
   {
    "q": "Which river forms much of the border between Texas and Mexico?",
    "a": "Rio Grande",
    "p": 600,
-   "apic": "Rio Grande"
+   "apic": "Rio Grande",
+   "cpic": "Mexico"
   },
   {
    "q": "Which tiny landlocked country lies between Switzerland and Austria?",
    "a": "Liechtenstein",
    "p": 600,
-   "apic": "Liechtenstein"
+   "apic": "Liechtenstein",
+   "cpic": "Switzerland"
   },
   {
    "q": "Windhoek is the capital of which African country?",
@@ -559,19 +595,22 @@
    "q": "Which coastal desert runs along the Atlantic shore of Namibia?",
    "a": "Namib Desert",
    "p": 600,
-   "apic": "Namib"
+   "apic": "Namib",
+   "cpic": "Namibia"
   },
   {
    "q": "Which strait separates Tasmania from mainland Australia?",
    "a": "Bass Strait",
    "p": 600,
-   "apic": "Bass Strait"
+   "apic": "Bass Strait",
+   "cpic": "Tasmania"
   },
   {
    "q": "Which river has its delta in southern Vietnam?",
    "a": "The Mekong",
    "p": 400,
-   "apic": "Mekong"
+   "apic": "Mekong",
+   "cpic": "Vietnam"
   },
   {
    "q": "Ljubljana is the capital of which country?",
@@ -615,7 +654,8 @@
    "q": "Which sea separates Italy from the Balkan Peninsula?",
    "a": "Adriatic Sea",
    "p": 400,
-   "apic": "Adriatic Sea"
+   "apic": "Adriatic Sea",
+   "cpic": "Italy"
   },
   {
    "q": "Which imaginary line of longitude runs through Greenwich in London and marks 0 degrees?",
@@ -631,7 +671,8 @@
    "q": "Which country has the largest population in South America?",
    "a": "Brazil",
    "p": 200,
-   "apic": "Brazil"
+   "apic": "Brazil",
+   "cpic": "South America"
   },
   {
    "q": "Which Pacific US state is made up entirely of islands?",
@@ -668,7 +709,8 @@
    "q": "What are the long, narrow sea inlets between steep cliffs, famous along Norway's coast, called?",
    "a": "Fjords",
    "p": 200,
-   "apic": "Fjord"
+   "apic": "Fjord",
+   "cpic": "Norway"
   },
   {
    "q": "Which sea lies between southern Europe and North Africa?",
@@ -680,7 +722,8 @@
    "q": "Which ocean lies between Europe and North America?",
    "a": "Atlantic Ocean",
    "p": 200,
-   "apic": "Atlantic Ocean"
+   "apic": "Atlantic Ocean",
+   "cpic": "North America"
   },
   {
    "q": "Which channel separates southern England from northern France?",
@@ -692,7 +735,8 @@
    "q": "Which sea lies between Great Britain and Norway?",
    "a": "North Sea",
    "p": 200,
-   "apic": "North Sea"
+   "apic": "North Sea",
+   "cpic": "Great Britain"
   },
   {
    "q": "Which country was known as Persia until 1935?",
@@ -716,13 +760,15 @@
    "q": "Which island nation sits on the Mid-Atlantic Ridge and is nicknamed the land of fire and ice?",
    "a": "Iceland",
    "p": 200,
-   "apic": "Iceland"
+   "apic": "Iceland",
+   "cpic": "Mid-Atlantic Ridge"
   },
   {
    "q": "Which mainly French-speaking province is Canada's largest by area?",
    "a": "Quebec",
    "p": 200,
-   "apic": "Quebec"
+   "apic": "Quebec",
+   "cpic": "Canada"
   },
   {
    "q": "Which US state is nicknamed the Sunshine State?",
@@ -749,13 +795,15 @@
    "alt": [
     "The Rockies"
    ],
-   "apic": "Rocky Mountains"
+   "apic": "Rocky Mountains",
+   "cpic": "United States"
   },
   {
    "q": "What name is given to the horseshoe-shaped zone of volcanoes and earthquakes around the Pacific Ocean?",
    "a": "Ring of Fire",
    "p": 200,
-   "apic": "Ring of Fire"
+   "apic": "Ring of Fire",
+   "cpic": "Pacific Ocean"
   },
   {
    "q": "What is the tropical grassland with scattered trees, typical of East Africa, called?",
@@ -827,7 +875,8 @@
    "q": "What is the seasonal wind that brings heavy summer rains to South Asia called?",
    "a": "Monsoon",
    "p": 200,
-   "apic": "Monsoon"
+   "apic": "Monsoon",
+   "cpic": "South Asia"
   },
   {
    "q": "Which Australian state is an island south of the mainland?",
@@ -934,13 +983,15 @@
    "q": "Which desert covers much of Botswana in southern Africa?",
    "a": "Kalahari Desert",
    "p": 400,
-   "apic": "Kalahari Desert"
+   "apic": "Kalahari Desert",
+   "cpic": "Botswana"
   },
   {
    "q": "Counting cold deserts, which continent is the largest desert in the world?",
    "a": "Antarctica",
    "p": 400,
-   "apic": "Antarctica"
+   "apic": "Antarctica",
+   "cpic": "Desert"
   },
   {
    "q": "Which river flows through Cologne and forms part of the border between Germany and Switzerland?",
@@ -953,7 +1004,8 @@
    "q": "Which is the longest river in the United Kingdom?",
    "a": "River Severn",
    "p": 400,
-   "apic": "River Severn"
+   "apic": "River Severn",
+   "cpic": "United Kingdom"
   },
   {
    "q": "Which is the largest inland body of water in the world by area?",
@@ -965,7 +1017,8 @@
    "q": "Which of North America's Great Lakes is the only one entirely within the United States?",
    "a": "Lake Michigan",
    "p": 400,
-   "apic": "Lake Michigan"
+   "apic": "Lake Michigan",
+   "cpic": "United States"
   },
   {
    "q": "Which Central Asian sea shrank dramatically after the rivers feeding it were diverted for irrigation?",
@@ -990,7 +1043,8 @@
    "q": "Which warm Atlantic ocean current helps keep western Europe mild?",
    "a": "Gulf Stream",
    "p": 400,
-   "apic": "Gulf Stream"
+   "apic": "Gulf Stream",
+   "cpic": "Atlantic Ocean"
   },
   {
    "q": "What Spanish name is given to the periodic warming of the eastern Pacific that disrupts world weather?",
@@ -1002,7 +1056,8 @@
    "q": "Which line of latitude, at about 23.4 degrees south, passes through Australia, Brazil and Madagascar?",
    "a": "Tropic of Capricorn",
    "p": 400,
-   "apic": "Tropic of Capricorn"
+   "apic": "Tropic of Capricorn",
+   "cpic": "Madagascar"
   },
   {
    "q": "To the nearest 1,000 km, what is Earth's circumference around the equator?",
@@ -1044,13 +1099,15 @@
    "q": "Which small mountain kingdom is completely surrounded by South Africa?",
    "a": "Lesotho",
    "p": 400,
-   "apic": "Lesotho"
+   "apic": "Lesotho",
+   "cpic": "South Africa"
   },
   {
    "q": "Besides Vatican City, which microstate is completely surrounded by Italy?",
    "a": "San Marino",
    "p": 400,
-   "apic": "San Marino"
+   "apic": "San Marino",
+   "cpic": "Vatican City"
   },
   {
    "q": "Which mountain range separates France from Spain?",
@@ -1062,7 +1119,8 @@
    "q": "Which mountain range runs along eastern North America from Canada to Alabama?",
    "a": "Appalachian Mountains",
    "p": 400,
-   "apic": "Appalachian Mountains"
+   "apic": "Appalachian Mountains",
+   "cpic": "North America"
   },
   {
    "q": "What is the highest mountain in North America?",
@@ -1071,7 +1129,8 @@
    "alt": [
     "Mount McKinley"
    ],
-   "apic": "Denali"
+   "apic": "Denali",
+   "cpic": "North America"
   },
   {
    "q": "What is the second highest mountain in the world?",
@@ -1089,25 +1148,29 @@
    "q": "Which strait separates mainland South America from Tierra del Fuego?",
    "a": "Strait of Magellan",
    "p": 400,
-   "apic": "Strait of Magellan"
+   "apic": "Strait of Magellan",
+   "cpic": "South America"
   },
   {
    "q": "What is the cold, treeless Arctic plain with permanently frozen subsoil called?",
    "a": "Tundra",
    "p": 400,
-   "apic": "Tundra"
+   "apic": "Tundra",
+   "cpic": "Arctic"
   },
   {
    "q": "What are the vast fertile grasslands of Argentina called?",
    "a": "The Pampas",
    "p": 400,
-   "apic": "Pampas"
+   "apic": "Pampas",
+   "cpic": "Argentina"
   },
   {
    "q": "What are the vast grasslands stretching across Ukraine, Kazakhstan and Mongolia called?",
    "a": "The Steppe",
    "p": 400,
-   "apic": "Eurasian Steppe"
+   "apic": "Eurasian Steppe",
+   "cpic": "Kazakhstan"
   },
   {
    "q": "What is a narrow strip of land connecting two larger landmasses called?",
@@ -1192,7 +1255,8 @@
    "a": "Sinai Peninsula",
    "p": 400,
    "ar": "شبه جزيرة سيناء",
-   "apic": "Sinai Peninsula"
+   "apic": "Sinai Peninsula",
+   "cpic": "Gulf of Aqaba"
   },
   {
    "q": "Which Mexican peninsula is home to Cancun and many Maya ruins?",
@@ -1277,7 +1341,8 @@
    "q": "Which sea separates Australia from New Zealand?",
    "a": "Tasman Sea",
    "p": 400,
-   "apic": "Tasman Sea"
+   "apic": "Tasman Sea",
+   "cpic": "New Zealand"
   },
   {
    "q": "Which Australian state has Perth as its capital?",
@@ -1303,7 +1368,8 @@
    "q": "What is the state capital of Texas?",
    "a": "Austin",
    "p": 400,
-   "apic": "Austin, Texas"
+   "apic": "Austin, Texas",
+   "cpic": "Texas"
   },
   {
    "q": "Which two countries share the world's longest international border?",
@@ -1356,13 +1422,15 @@
    "q": "Which sea lies between Turkey's European and Asian shores, between the Bosphorus and Dardanelles?",
    "a": "Sea of Marmara",
    "p": 600,
-   "apic": "Sea of Marmara"
+   "apic": "Sea of Marmara",
+   "cpic": "Dardanelles"
   },
   {
    "q": "Which strait links the Sea of Marmara to the Aegean Sea?",
    "a": "Dardanelles",
    "p": 600,
-   "apic": "Dardanelles"
+   "apic": "Dardanelles",
+   "cpic": "Sea of Marmara"
   },
   {
    "q": "Which sea lies between China and the Korean Peninsula?",
@@ -1375,14 +1443,16 @@
    "a": "Gulf of Aqaba",
    "p": 600,
    "ar": "خليج العقبة",
-   "apic": "Gulf of Aqaba"
+   "apic": "Gulf of Aqaba",
+   "cpic": "Red Sea"
   },
   {
    "q": "What is the western arm of the Red Sea, ending at the Suez Canal, called?",
    "a": "Gulf of Suez",
    "p": 600,
    "ar": "خليج السويس",
-   "apic": "Gulf of Suez"
+   "apic": "Gulf of Suez",
+   "cpic": "Red Sea"
   },
   {
    "q": "What is the largest island in the Gulf?",
@@ -1414,7 +1484,8 @@
    "alt": [
     "Swaziland"
    ],
-   "apic": "Eswatini"
+   "apic": "Eswatini",
+   "cpic": "South Africa"
   },
   {
    "q": "Which mountain range runs down the length of the Italian peninsula?",
@@ -1476,13 +1547,15 @@
    "q": "What is the dry, dusty trade wind that blows from the Sahara over West Africa in winter called?",
    "a": "Harmattan",
    "p": 600,
-   "apic": "Harmattan"
+   "apic": "Harmattan",
+   "cpic": "Sahara"
   },
   {
    "q": "Which imaginary line through Indonesia marks the boundary between Asian and Australian wildlife?",
    "a": "Wallace Line",
    "p": 600,
-   "apic": "Wallace Line"
+   "apic": "Wallace Line",
+   "cpic": "Indonesia"
   },
   {
    "q": "What is the term for a point on the exact opposite side of the Earth from another?",
@@ -1493,7 +1566,8 @@
    "q": "Which strait separates the North and South Islands of New Zealand?",
    "a": "Cook Strait",
    "p": 600,
-   "apic": "Cook Strait"
+   "apic": "Cook Strait",
+   "cpic": "New Zealand"
   },
   {
    "q": "What is the highest mountain in New Zealand?",
@@ -1526,7 +1600,8 @@
   {
    "q": "Which two South American countries do not border Brazil?",
    "a": "Chile and Ecuador",
-   "p": 600
+   "p": 600,
+   "cpic": "Brazil"
   },
   {
    "q": "Which East African country is nicknamed the Pearl of Africa?",
@@ -1559,7 +1634,8 @@
    "q": "What is the deepest known point of the Mariana Trench called?",
    "a": "Challenger Deep",
    "p": 600,
-   "apic": "Challenger Deep"
+   "apic": "Challenger Deep",
+   "cpic": "Mariana Trench"
   },
   {
    "q": "In which country does the Blue Nile begin, at Lake Tana?",
@@ -1572,7 +1648,8 @@
    "q": "Which volcano is the highest peak in Iran?",
    "a": "Mount Damavand",
    "p": 600,
-   "apic": "Mount Damavand"
+   "apic": "Mount Damavand",
+   "cpic": "Iran"
   },
   {
    "q": "What is the state capital of New York?",
@@ -1584,13 +1661,15 @@
    "q": "Which sea lies west of Italy, bordered by Corsica, Sardinia and Sicily?",
    "a": "Tyrrhenian Sea",
    "p": 600,
-   "apic": "Tyrrhenian Sea"
+   "apic": "Tyrrhenian Sea",
+   "cpic": "Corsica"
   },
   {
    "q": "Which Norwegian archipelago lies far north in the Arctic Ocean?",
    "a": "Svalbard",
    "p": 600,
-   "apic": "Svalbard"
+   "apic": "Svalbard",
+   "cpic": "Arctic Ocean"
   },
   {
    "q": "Which long, narrow country stretches over 4,000 km down the west coast of South America?",
@@ -1618,13 +1697,15 @@
    "q": "Which country lies directly south of the United States?",
    "a": "Mexico",
    "p": 200,
-   "apic": "Mexico"
+   "apic": "Mexico",
+   "cpic": "United States"
   },
   {
    "q": "What is the cold region around the North Pole called?",
    "a": "The Arctic",
    "p": 200,
-   "apic": "Arctic"
+   "apic": "Arctic",
+   "cpic": "North Pole"
   },
   {
    "q": "Which US city is nicknamed the Big Apple?",
@@ -1656,7 +1737,8 @@
    "alt": [
     "Antarctic Ocean"
    ],
-   "apic": "Southern Ocean"
+   "apic": "Southern Ocean",
+   "cpic": "Antarctica"
   },
   {
    "q": "Which is the most populous city in the UAE?",
@@ -1683,7 +1765,8 @@
    "a": "Saudi Arabia",
    "p": 200,
    "ar": "السعودية",
-   "apic": "Saudi Arabia"
+   "apic": "Saudi Arabia",
+   "cpic": "Middle East"
   },
   {
    "q": "What is the northernmost point on Earth, at 90 degrees north, called?",
@@ -1695,7 +1778,8 @@
    "q": "Which landlocked European country is famous for the Alps, chocolate and watches?",
    "a": "Switzerland",
    "p": 200,
-   "apic": "Switzerland"
+   "apic": "Switzerland",
+   "cpic": "Alps"
   },
   {
    "q": "Which country is nicknamed the Land of the Midnight Sun?",
@@ -1727,7 +1811,8 @@
    "q": "Which Mediterranean island nation lies south of Sicily?",
    "a": "Malta",
    "p": 400,
-   "apic": "Malta"
+   "apic": "Malta",
+   "cpic": "Sicily"
   },
   {
    "q": "Which river forms much of the border between Germany and Poland?",

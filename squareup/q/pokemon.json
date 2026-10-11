@@ -12,13 +12,15 @@
    "q": "Which Pokemon is number 1 in the National Pokedex?",
    "a": "Bulbasaur",
    "p": 200,
-   "apic": "Bulbasaur"
+   "apic": "Bulbasaur",
+   "cpic": "Pokédex"
   },
   {
    "q": "Which Pokemon is number 151 in the National Pokedex?",
    "a": "Mew",
    "p": 200,
-   "apic": "Mew (Pokémon)"
+   "apic": "Mew (Pokémon)",
+   "cpic": "Pokédex"
   },
   {
    "q": "Which Pokemon does Pikachu evolve into?",
@@ -58,7 +60,8 @@
    "q": "Which Pokemon talks in Team Rocket's trio?",
    "a": "Meowth",
    "p": 200,
-   "apic": "Meowth"
+   "apic": "Meowth",
+   "cpic": "Team Rocket"
   },
   {
    "q": "Which professor gives starters to new trainers in Kanto?",
@@ -175,7 +178,8 @@
    "q": "Which two characters make up Team Rocket's main duo?",
    "a": "Jessie and James",
    "p": 200,
-   "apic": "Jessie and James"
+   "apic": "Jessie and James",
+   "cpic": "Team Rocket"
   },
   {
    "q": "Which energy type does Pikachu use in the Pokemon TCG?",
@@ -221,7 +225,8 @@
   {
    "q": "What is Charmander's National Pokedex number?",
    "a": "4",
-   "p": 400
+   "p": 400,
+   "cpic": "Pokédex"
   },
   {
    "q": "What is Eevee's National Pokedex number?",
@@ -262,7 +267,8 @@
   {
    "q": "Who is the Viridian City Gym Leader and Team Rocket boss?",
    "a": "Giovanni",
-   "p": 400
+   "p": 400,
+   "cpic": "Team Rocket"
   },
   {
    "q": "Who is the Vermilion City Gym Leader who uses Electric types?",
@@ -488,13 +494,15 @@
    "q": "Who is the Game Freak art director behind the original 151 designs?",
    "a": "Ken Sugimori",
    "p": 600,
-   "apic": "Ken Sugimori"
+   "apic": "Ken Sugimori",
+   "cpic": "Game Freak"
   },
   {
    "q": "Which Game Freak composer and director worked on the music of Red and Green?",
    "a": "Junichi Masuda",
    "p": 600,
-   "apic": "Junichi Masuda"
+   "apic": "Junichi Masuda",
+   "cpic": "Game Freak"
   },
   {
    "q": "Who are the main protagonists of the anime Pokemon Horizons?",
@@ -659,7 +667,8 @@
   {
    "q": "Which evolution stone turns Eevee into Flareon?",
    "a": "Fire Stone",
-   "p": 200
+   "p": 200,
+   "cpic": "Flareon"
   },
   {
    "q": "Which Poke Ball never fails to catch a Pokemon?",
@@ -1052,7 +1061,8 @@
   {
    "q": "Which blue Psychic Pokemon frequently pops out of Jessie's Poke Ball?",
    "a": "Wobbuffet",
-   "p": 200
+   "p": 200,
+   "cpic": "Poké Ball"
   },
   {
    "q": "Which Water/Dragon form of Ash's Greninja appeared in the XY anime?",
@@ -1438,7 +1448,8 @@
   {
    "q": "Which Pokemon was the first ever designed for the original games, according to Game Freak?",
    "a": "Rhydon",
-   "p": 600
+   "p": 600,
+   "cpic": "Game Freak"
   },
   {
    "q": "What were the original odds of finding a Shiny Pokemon in Gold and Silver?",

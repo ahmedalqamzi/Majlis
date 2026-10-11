@@ -5,7 +5,8 @@
   {
    "q": "Which 2000 Britney Spears album shares its title with her hit \"Oops!... I Did It Again\"?",
    "a": "Oops!... I Did It Again",
-   "p": 200
+   "p": 200,
+   "cpic": "Britney Spears"
   },
   {
    "q": "Which animal did Britney Spears famously drape over her shoulders at the 2001 MTV VMAs?",
@@ -14,18 +15,21 @@
    "alt": [
     "Python",
     "Burmese python"
-   ]
+   ],
+   "cpic": "Britney Spears"
   },
   {
    "q": "Which fabric did Britney Spears and Justin Timberlake wear head to toe at the 2001 American Music Awards?",
    "a": "Denim",
-   "p": 200
+   "p": 200,
+   "cpic": "Britney Spears"
   },
   {
    "q": "Which singer kissed Britney Spears and Christina Aguilera on stage at the 2003 MTV VMAs?",
    "a": "Madonna",
    "p": 200,
-   "apic": "Madonna"
+   "apic": "Madonna",
+   "cpic": "Christina Aguilera"
   },
   {
    "q": "Which Disney Channel show featured young Britney Spears, Christina Aguilera and Justin Timberlake?",
@@ -34,18 +38,21 @@
    "alt": [
     "The All-New Mickey Mouse Club",
     "MMC"
-   ]
+   ],
+   "cpic": "Christina Aguilera"
   },
   {
    "q": "Which Destiny's Child member completed the best-known trio with Beyoncé and Kelly Rowland?",
    "a": "Michelle Williams",
    "p": 200,
-   "apic": "Michelle Williams (singer)"
+   "apic": "Michelle Williams (singer)",
+   "cpic": "Destiny's Child"
   },
   {
    "q": "Which 2001 Destiny's Child album shares its name with a reality show and its hit title track?",
    "a": "Survivor",
-   "p": 200
+   "p": 200,
+   "cpic": "Destiny's Child"
   },
   {
    "q": "Which Texas city is Destiny's Child from?",
@@ -57,12 +64,14 @@
   {
    "q": "What was Beyoncé's 2003 debut solo album?",
    "a": "Dangerously in Love",
-   "p": 200
+   "p": 200,
+   "cpic": "Beyoncé"
   },
   {
    "q": "What is the name of Beyoncé's on-stage alter ego?",
    "a": "Sasha Fierce",
-   "p": 200
+   "p": 200,
+   "cpic": "Beyoncé"
   },
   {
    "q": "Which 2008 Beyoncé song has a famous black-and-white dance video?",
@@ -70,12 +79,14 @@
    "p": 200,
    "alt": [
     "Single Ladies"
-   ]
+   ],
+   "cpic": "Beyoncé"
   },
   {
    "q": "Which 2006 musical film starred Beyoncé, Jamie Foxx and Jennifer Hudson?",
    "a": "Dreamgirls",
-   "p": 200
+   "p": 200,
+   "cpic": "Jennifer Hudson"
   },
   {
    "q": "Which Colombian singer duetted with Beyoncé on 2007's \"Beautiful Liar\"?",
@@ -92,23 +103,27 @@
    "q": "Which singer performed with Justin Timberlake at the controversial 2004 Super Bowl halftime show?",
    "a": "Janet Jackson",
    "p": 200,
-   "apic": "Janet Jackson"
+   "apic": "Janet Jackson",
+   "cpic": "Super Bowl"
   },
   {
    "q": "Which 2000 *NSYNC album includes \"Bye Bye Bye\"?",
    "a": "No Strings Attached",
-   "p": 200
+   "p": 200,
+   "cpic": "NSYNC"
   },
   {
    "q": "Which Florida city were both *NSYNC and the Backstreet Boys formed in?",
    "a": "Orlando",
    "p": 200,
-   "apic": "Orlando, Florida"
+   "apic": "Orlando, Florida",
+   "cpic": "Backstreet Boys"
   },
   {
    "q": "Which 2002 Christina Aguilera album includes \"Beautiful\" and \"Dirrty\"?",
    "a": "Stripped",
-   "p": 200
+   "p": 200,
+   "cpic": "Christina Aguilera"
   },
   {
    "q": "Which 2001 film soundtrack featured \"Lady Marmalade\" by Christina Aguilera, Lil' Kim, Mýa and Pink?",
@@ -116,17 +131,20 @@
    "p": 200,
    "alt": [
     "Moulin Rouge"
-   ]
+   ],
+   "cpic": "Pink (singer)"
   },
   {
    "q": "What was Lady Gaga's 2008 debut album?",
    "a": "The Fame",
-   "p": 200
+   "p": 200,
+   "cpic": "Lady Gaga"
   },
   {
    "q": "What was Lady Gaga's 2008 debut single?",
    "a": "Just Dance",
-   "p": 200
+   "p": 200,
+   "cpic": "Lady Gaga"
   },
   {
    "q": "Which singer featured on Lady Gaga's 2010 single \"Telephone\"?",
@@ -135,7 +153,8 @@
    "alt": [
     "Beyonce"
    ],
-   "apic": "Beyoncé"
+   "apic": "Beyoncé",
+   "cpic": "Lady Gaga"
   },
   {
    "q": "What nickname does Lady Gaga use for her fans?",
@@ -151,7 +170,8 @@
   {
    "q": "Which 2001 Shakira single was her first big English-language hit?",
    "a": "Whenever, Wherever",
-   "p": 200
+   "p": 200,
+   "cpic": "Shakira"
   },
   {
    "q": "Which dance style, linked to her Lebanese heritage, is Shakira famous for?",
@@ -160,23 +180,27 @@
    "alt": [
     "Belly dance"
    ],
-   "apic": "Belly dance"
+   "apic": "Belly dance",
+   "cpic": "Shakira"
   },
   {
    "q": "Which 2004 Usher album includes \"Yeah!\" and \"Burn\"?",
    "a": "Confessions",
-   "p": 200
+   "p": 200,
+   "cpic": "Usher (musician)"
   },
   {
    "q": "Which R&B star helped launch a teenage Justin Bieber in 2008?",
    "a": "Usher",
    "p": 200,
-   "apic": "Usher (musician)"
+   "apic": "Usher (musician)",
+   "cpic": "Justin Bieber"
   },
   {
    "q": "What was Avril Lavigne's 2002 debut album?",
    "a": "Let Go",
-   "p": 200
+   "p": 200,
+   "cpic": "Avril Lavigne"
   },
   {
    "q": "Which 2002 Avril Lavigne hit is about a skateboarding boy?",
@@ -184,7 +208,8 @@
    "p": 200,
    "alt": [
     "Skater Boy"
-   ]
+   ],
+   "cpic": "Avril Lavigne"
   },
   {
    "q": "Which country is Avril Lavigne from?",
@@ -308,7 +333,8 @@
    "q": "Which band was Gwen Stefani the lead singer of before going solo?",
    "a": "No Doubt",
    "p": 200,
-   "apic": "No Doubt"
+   "apic": "No Doubt",
+   "cpic": "Gwen Stefani"
   },
   {
    "q": "Which singer joined the Black Eyed Peas in 2003?",
@@ -366,12 +392,14 @@
    "p": 200,
    "alt": [
     "Independent Women"
-   ]
+   ],
+   "cpic": "Destiny's Child"
   },
   {
    "q": "Which 2001 *NSYNC album was the group's last?",
    "a": "Celebrity",
-   "p": 200
+   "p": 200,
+   "cpic": "NSYNC"
   },
   {
    "q": "What was the name of Justin Timberlake's boy band?",
@@ -392,12 +420,14 @@
   {
    "q": "Which 2000 *NSYNC single has a video in which the band are puppets on strings?",
    "a": "Bye Bye Bye",
-   "p": 200
+   "p": 200,
+   "cpic": "NSYNC"
   },
   {
    "q": "Which 2005 Kelly Clarkson hit was a breakup anthem from her album Breakaway?",
    "a": "Since U Been Gone",
-   "p": 200
+   "p": 200,
+   "cpic": "Kelly Clarkson"
   },
   {
    "q": "Which 2006 Justin Timberlake album includes \"SexyBack\" and \"My Love\"?",
@@ -446,7 +476,8 @@
    "p": 200,
    "alt": [
     "TRL"
-   ]
+   ],
+   "cpic": "Times Square"
   },
   {
    "q": "Which singer had the 2000s hits \"Get the Party Started\" and \"So What\"?",
@@ -475,7 +506,8 @@
   {
    "q": "Which 2009 Miley Cyrus single is about moving to Los Angeles?",
    "a": "Party in the U.S.A.",
-   "p": 200
+   "p": 200,
+   "cpic": "Los Angeles"
   },
   {
    "q": "Which \"Jenny from the Block\" singer's 2001 album was titled J.Lo?",
@@ -490,12 +522,14 @@
    "q": "Which Westlife member left the band in 2004?",
    "a": "Brian McFadden",
    "p": 200,
-   "apic": "Brian McFadden"
+   "apic": "Brian McFadden",
+   "cpic": "Westlife"
   },
   {
    "q": "Which 2007 Rihanna album includes \"Don't Stop the Music\" and \"Disturbia\"?",
    "a": "Good Girl Gone Bad",
-   "p": 200
+   "p": 200,
+   "cpic": "Rihanna"
   },
   {
    "q": "Which Pop Idol runner-up had a 2002 UK No. 1 with \"Unchained Melody\"?",
@@ -509,7 +543,8 @@
    "p": 200,
    "alt": [
     "X Factor"
-   ]
+   ],
+   "cpic": "Simon Cowell"
   },
   {
    "q": "Which 2008 Britney Spears album shares its name with a big-top show?",
@@ -564,12 +599,14 @@
   {
    "q": "Which 2002 James Bond film featured a Madonna theme song?",
    "a": "Die Another Day",
-   "p": 200
+   "p": 200,
+   "cpic": "Madonna"
   },
   {
    "q": "Which 2005 Gwen Stefani single is spelled out like a cheerleader chant?",
    "a": "Hollaback Girl",
-   "p": 200
+   "p": 200,
+   "cpic": "Gwen Stefani"
   },
   {
    "q": "Which animated amphibian-like ringtone character topped the UK chart in 2005 with \"Axel F\"?",
@@ -582,7 +619,8 @@
    "p": 200,
    "alt": [
     "Hot N Cold"
-   ]
+   ],
+   "cpic": "Katy Perry"
   },
   {
    "q": "Which 2008 Beyoncé single asks what would happen if she were a man?",
@@ -599,7 +637,8 @@
    "q": "Which former pop star judged American Idol alongside Simon Cowell and Randy Jackson?",
    "a": "Paula Abdul",
    "p": 200,
-   "apic": "Paula Abdul"
+   "apic": "Paula Abdul",
+   "cpic": "Randy Jackson"
   },
   {
    "q": "Which 2003 Britney Spears album includes \"Toxic\" and \"Everytime\"?",
@@ -709,12 +748,14 @@
    "p": 400,
    "alt": [
     "Black and Blue"
-   ]
+   ],
+   "cpic": "Backstreet Boys"
   },
   {
    "q": "Which 2000 Backstreet Boys single from Black & Blue was their lead single?",
    "a": "Shape of My Heart",
-   "p": 400
+   "p": 400,
+   "cpic": "Backstreet Boys"
   },
   {
    "q": "Which 2006 Christina Aguilera double album took inspiration from jazz and soul?",
@@ -758,12 +799,14 @@
    "alt": [
     "Jay Z"
    ],
-   "apic": "Jay-Z"
+   "apic": "Jay-Z",
+   "cpic": "Rihanna"
   },
   {
    "q": "What was Rihanna's 2005 debut single?",
    "a": "Pon de Replay",
-   "p": 400
+   "p": 400,
+   "cpic": "Rihanna"
   },
   {
    "q": "Which 2009 Rihanna album followed Good Girl Gone Bad?",
@@ -778,7 +821,8 @@
   {
    "q": "What was Shakira's 2001 English-language debut album?",
    "a": "Laundry Service",
-   "p": 400
+   "p": 400,
+   "cpic": "Shakira"
   },
   {
    "q": "Which Middle Eastern country did Shakira's father's family come from?",
@@ -795,18 +839,21 @@
   {
    "q": "Which 2001 Usher album includes \"U Remind Me\" and \"U Got It Bad\"?",
    "a": "8701",
-   "p": 400
+   "p": 400,
+   "cpic": "Usher (musician)"
   },
   {
    "q": "Which singer duetted with Usher on the 2004 hit \"My Boo\"?",
    "a": "Alicia Keys",
    "p": 400,
-   "apic": "Alicia Keys"
+   "apic": "Alicia Keys",
+   "cpic": "Usher (musician)"
   },
   {
    "q": "Which 2004 Avril Lavigne album includes \"My Happy Ending\"?",
    "a": "Under My Skin",
-   "p": 400
+   "p": 400,
+   "cpic": "Avril Lavigne"
   },
   {
    "q": "Which 2007 Avril Lavigne single was a cheerleader-chant-style hit?",
@@ -830,12 +877,14 @@
    "q": "Which Irish manager guided both Boyzone and Westlife?",
    "a": "Louis Walsh",
    "p": 400,
-   "apic": "Louis Walsh"
+   "apic": "Louis Walsh",
+   "cpic": "Westlife"
   },
   {
    "q": "Which Billy Joel song did Westlife cover for Comic Relief in 2001?",
    "a": "Uptown Girl",
-   "p": 400
+   "p": 400,
+   "cpic": "Billy Joel"
   },
   {
    "q": "Which Spice Girl had a 2001 UK No. 1 with a cover of \"It's Raining Men\"?",
@@ -895,7 +944,8 @@
    "q": "Which Popstars: The Rivals group included Cheryl and Nadine Coyle?",
    "a": "Girls Aloud",
    "p": 400,
-   "apic": "Girls Aloud"
+   "apic": "Girls Aloud",
+   "cpic": "Cheryl (singer)"
   },
   {
    "q": "Which Girls Aloud member became an X Factor judge in 2008?",
@@ -905,7 +955,8 @@
     "Cheryl Cole",
     "Cheryl Tweedy"
    ],
-   "apic": "Cheryl (singer)"
+   "apic": "Cheryl (singer)",
+   "cpic": "Girls Aloud"
   },
   {
    "q": "Which rock band beat the X Factor winner to the 2009 UK Christmas No. 1?",
@@ -916,7 +967,8 @@
   {
    "q": "Which 2002 Will Young debut single was a double A-side with \"Anything Is Possible\"?",
    "a": "Evergreen",
-   "p": 400
+   "p": 400,
+   "cpic": "Will Young"
   },
   {
    "q": "Which singer had the 2003 hit \"White Flag\"?",
@@ -934,7 +986,8 @@
    "q": "Which Beirut-born singer had the 2007 hit \"Grace Kelly\"?",
    "a": "Mika",
    "p": 400,
-   "apic": "Mika (singer)"
+   "apic": "Mika (singer)",
+   "cpic": "Grace Kelly"
   },
   {
    "q": "Which 2006 Lily Allen hit has a one-word title meaning to grin?",
@@ -967,7 +1020,8 @@
   {
    "q": "Which 2000 Madonna album includes its title track and \"Don't Tell Me\"?",
    "a": "Music",
-   "p": 400
+   "p": 400,
+   "cpic": "Madonna"
   },
   {
    "q": "Which ABBA song is sampled in Madonna's 2005 hit \"Hung Up\"?",
@@ -975,7 +1029,8 @@
    "p": 400,
    "alt": [
     "Gimme Gimme Gimme"
-   ]
+   ],
+   "cpic": "Madonna"
   },
   {
    "q": "Which 2005 Madonna album includes \"Hung Up\" and \"Sorry\"?",
@@ -999,12 +1054,14 @@
   {
    "q": "Which 2006 Nelly Furtado album was produced largely by Timbaland?",
    "a": "Loose",
-   "p": 400
+   "p": 400,
+   "cpic": "Nelly Furtado"
   },
   {
    "q": "Which 2004 Gwen Stefani debut solo album has a four-word title?",
    "a": "Love. Angel. Music. Baby.",
-   "p": 400
+   "p": 400,
+   "cpic": "Gwen Stefani"
   },
   {
    "q": "What were Gwen Stefani's four backing dancers, inspired by a Tokyo district, called?",
@@ -1042,7 +1099,8 @@
   {
    "q": "Which 2008 Taylor Swift album won Album of the Year at the 2010 Grammys?",
    "a": "Fearless",
-   "p": 400
+   "p": 400,
+   "cpic": "Taylor Swift"
   },
   {
    "q": "Which Spanish girl group had a 2002 hit with \"Aserejé\"?",
@@ -1080,7 +1138,8 @@
   {
    "q": "Which Kylie Minogue album includes \"Can't Get You Out of My Head\"?",
    "a": "Fever",
-   "p": 400
+   "p": 400,
+   "cpic": "Kylie Minogue"
   },
   {
    "q": "Which Sean Paul hit from 2003 topped the US chart?",
@@ -1116,7 +1175,8 @@
    "p": 400,
    "alt": [
     "Missundaztood"
-   ]
+   ],
+   "cpic": "Pink (singer)"
   },
   {
    "q": "Which 2003 Black Eyed Peas album includes \"Where Is the Love?\" and \"Shut Up\"?",
@@ -1139,7 +1199,8 @@
   {
    "q": "Which Westlife single, a cover of a Secret Garden song, was a 2005 UK No. 1?",
    "a": "You Raise Me Up",
-   "p": 400
+   "p": 400,
+   "cpic": "Westlife"
   },
   {
    "q": "Which 2002 Christina Aguilera ballad was written by Linda Perry?",
@@ -1203,7 +1264,8 @@
    "p": 600,
    "alt": [
     "Dream Within a Dream"
-   ]
+   ],
+   "cpic": "Edgar Allan Poe"
   },
   {
    "q": "Which 2000 Britney Spears single has a title promising to be the more powerful one?",
@@ -1219,7 +1281,8 @@
    "q": "Which American Idol season 1 runner-up co-starred with Kelly Clarkson in From Justin to Kelly?",
    "a": "Justin Guarini",
    "p": 600,
-   "apic": "Justin Guarini"
+   "apic": "Justin Guarini",
+   "cpic": "Kelly Clarkson"
   },
   {
    "q": "Which 2003 film starred American Idol stars Kelly Clarkson and Justin Guarini?",
@@ -1242,7 +1305,8 @@
    "q": "Who won season 8 of American Idol in 2009, beating Adam Lambert?",
    "a": "Kris Allen",
    "p": 600,
-   "apic": "Kris Allen"
+   "apic": "Kris Allen",
+   "cpic": "Adam Lambert"
   },
   {
    "q": "Which American Idol season 5 finalist formed a rock band named after himself?",
@@ -1267,7 +1331,8 @@
   {
    "q": "Which Beatles song did Will Young and Gareth Gates record as a duet in 2002?",
    "a": "The Long and Winding Road",
-   "p": 600
+   "p": 600,
+   "cpic": "Gareth Gates"
   },
   {
    "q": "Which band won Popstars in 2001 and had a UK No. 1 with \"Pure and Simple\"?",
@@ -1297,12 +1362,14 @@
    "q": "Which 2009 X Factor winner lost the Christmas No. 1 race to Rage Against the Machine?",
    "a": "Joe McElderry",
    "p": 600,
-   "apic": "Joe McElderry"
+   "apic": "Joe McElderry",
+   "cpic": "Rage Against the Machine"
   },
   {
    "q": "What was Kelly Clarkson's first single, released after she won American Idol?",
    "a": "A Moment Like This",
-   "p": 600
+   "p": 600,
+   "cpic": "Kelly Clarkson"
   },
   {
    "q": "Which Irish town is home to most of the original Westlife members?",
@@ -1391,7 +1458,8 @@
   {
    "q": "Which Michael Jackson song is sampled in Rihanna's \"Don't Stop the Music\"?",
    "a": "Wanna Be Startin' Somethin'",
-   "p": 600
+   "p": 600,
+   "cpic": "Michael Jackson"
   },
   {
    "q": "In which Colombian city was Shakira born?",
@@ -1475,7 +1543,8 @@
   {
    "q": "Which 2008 Katy Perry debut major-label album includes \"Hot n Cold\"?",
    "a": "One of the Boys",
-   "p": 600
+   "p": 600,
+   "cpic": "Katy Perry"
   },
   {
    "q": "What is Pink's real first name?",
@@ -1491,7 +1560,8 @@
   {
    "q": "Which 2006 Fergie solo album includes \"Big Girls Don't Cry\" and \"Glamorous\"?",
    "a": "The Dutchess",
-   "p": 600
+   "p": 600,
+   "cpic": "Fergie (singer)"
   },
   {
    "q": "Which 2009 Black Eyed Peas album includes \"Boom Boom Pow\" and \"I Gotta Feeling\"?",
@@ -1560,12 +1630,14 @@
   {
    "q": "Which 2002 Blue single was a collaboration with Elton John?",
    "a": "Sorry Seems to Be the Hardest Word",
-   "p": 600
+   "p": 600,
+   "cpic": "Elton John"
   },
   {
    "q": "What was the name of the band formed by the Popstars: The Rivals boys, rivals of Girls Aloud?",
    "a": "One True Voice",
-   "p": 600
+   "p": 600,
+   "cpic": "Girls Aloud"
   },
   {
    "q": "Which 2006 Justin Timberlake single features T.I.?",
@@ -1575,12 +1647,14 @@
   {
    "q": "Which 2007 Timbaland single features Justin Timberlake and Nelly Furtado?",
    "a": "Give It to Me",
-   "p": 600
+   "p": 600,
+   "cpic": "Nelly Furtado"
   },
   {
    "q": "Which 2007 50 Cent single features Justin Timberlake and Timbaland?",
    "a": "Ayo Technology",
-   "p": 600
+   "p": 600,
+   "cpic": "Timbaland"
   },
   {
    "q": "Which 2004 Britney Spears single was a cover of a Bobby Brown song?",

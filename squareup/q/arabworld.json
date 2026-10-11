@@ -11,7 +11,8 @@
     "Al Qahira",
     "Qahira"
    ],
-   "apic": "Cairo"
+   "apic": "Cairo",
+   "cpic": "Egypt"
   },
   {
    "q": "What is the capital of Saudi Arabia?",
@@ -21,21 +22,24 @@
    "alt": [
     "Riyad"
    ],
-   "apic": "Riyadh"
+   "apic": "Riyadh",
+   "cpic": "Saudi Arabia"
   },
   {
    "q": "What is the capital of the United Arab Emirates?",
    "a": "Abu Dhabi",
    "p": 200,
    "ar": "أبوظبي",
-   "apic": "Abu Dhabi"
+   "apic": "Abu Dhabi",
+   "cpic": "United Arab Emirates"
   },
   {
    "q": "What is the capital of Jordan?",
    "a": "Amman",
    "p": 200,
    "ar": "عمّان",
-   "apic": "Amman"
+   "apic": "Amman",
+   "cpic": "Jordan"
   },
   {
    "q": "What is the capital of Lebanon?",
@@ -62,7 +66,8 @@
    "alt": [
     "Bagdad"
    ],
-   "apic": "Baghdad"
+   "apic": "Baghdad",
+   "cpic": "Iraq"
   },
   {
    "q": "What is the capital of Qatar?",
@@ -72,7 +77,8 @@
    "alt": [
     "Ad Dawhah"
    ],
-   "apic": "Doha"
+   "apic": "Doha",
+   "cpic": "Qatar"
   },
   {
    "q": "What is the capital of Oman?",
@@ -92,7 +98,8 @@
    "alt": [
     "Dimashq"
    ],
-   "apic": "Damascus"
+   "apic": "Damascus",
+   "cpic": "Syria"
   },
   {
    "q": "What is the currency of the United Arab Emirates?",
@@ -103,7 +110,8 @@
     "AED",
     "UAE dirham"
    ],
-   "apic": "United Arab Emirates dirham"
+   "apic": "United Arab Emirates dirham",
+   "cpic": "United Arab Emirates"
   },
   {
    "q": "What is the currency of Saudi Arabia?",
@@ -121,7 +129,8 @@
    "a": "Petra",
    "p": 200,
    "ar": "البتراء",
-   "apic": "Petra"
+   "apic": "Petra",
+   "cpic": "Jordan"
   },
   {
    "q": "In which country are the Pyramids of Giza?",
@@ -148,7 +157,8 @@
    "alt": [
     "River Nile"
    ],
-   "apic": "Nile"
+   "apic": "Nile",
+   "cpic": "Cairo"
   },
   {
    "q": "Which pear-shaped stringed instrument is the ancestor of the European lute?",
@@ -172,7 +182,8 @@
     "Dishdasha",
     "Kandura"
    ],
-   "apic": "Thawb"
+   "apic": "Thawb",
+   "cpic": "Saudi Arabia"
   },
   {
    "q": "What is the long black cloak worn by many women in the Gulf called?",
@@ -234,7 +245,8 @@
    "q": "Which sea lies between Egypt and Saudi Arabia?",
    "a": "Red Sea",
    "p": 200,
-   "apic": "Red Sea"
+   "apic": "Red Sea",
+   "cpic": "Saudi Arabia"
   },
   {
    "q": "In which city is the Kaaba located?",
@@ -261,7 +273,8 @@
    "alt": [
     "Tamr"
    ],
-   "apic": "Date palm"
+   "apic": "Date palm",
+   "cpic": "Arabic coffee"
   },
   {
    "q": "In which city is the Burj Khalifa?",
@@ -305,7 +318,8 @@
    "a": "Tunis",
    "p": 200,
    "ar": "تونس",
-   "apic": "Tunis"
+   "apic": "Tunis",
+   "cpic": "Tunisia"
   },
   {
    "q": "What is the capital of Algeria?",
@@ -316,7 +330,8 @@
     "Alger",
     "Al Jazair"
    ],
-   "apic": "Algiers"
+   "apic": "Algiers",
+   "cpic": "Algeria"
   },
   {
    "q": "What is the capital of Kuwait?",
@@ -361,7 +376,8 @@
    "a": "Khartoum",
    "p": 400,
    "ar": "الخرطوم",
-   "apic": "Khartoum"
+   "apic": "Khartoum",
+   "cpic": "Sudan"
   },
   {
    "q": "What is the capital of Yemen?",
@@ -372,14 +388,16 @@
     "Sana'a",
     "Sana"
    ],
-   "apic": "Sanaa"
+   "apic": "Sanaa",
+   "cpic": "Yemen"
   },
   {
    "q": "What is the capital of Bahrain?",
    "a": "Manama",
    "p": 400,
    "ar": "المنامة",
-   "apic": "Manama"
+   "apic": "Manama",
+   "cpic": "Bahrain"
   },
   {
    "q": "What is the capital of Libya?",
@@ -399,7 +417,8 @@
    "alt": [
     "Nouakshott"
    ],
-   "apic": "Nouakchott"
+   "apic": "Nouakchott",
+   "cpic": "Mauritania"
   },
   {
    "q": "What is the currency of Egypt?",
@@ -409,7 +428,8 @@
     "Gineh",
     "EGP"
    ],
-   "apic": "Egyptian pound"
+   "apic": "Egyptian pound",
+   "cpic": "Egypt"
   },
   {
    "q": "What is the currency of Jordan?",
@@ -420,7 +440,8 @@
     "Dinar",
     "JD"
    ],
-   "apic": "Jordanian dinar"
+   "apic": "Jordanian dinar",
+   "cpic": "Jordan"
   },
   {
    "q": "Which ancient Phoenician city near modern Tunis was a rival of Rome?",
@@ -430,7 +451,8 @@
    "alt": [
     "Qartaj"
    ],
-   "apic": "Carthage"
+   "apic": "Carthage",
+   "cpic": "Tunis"
   },
   {
    "q": "To which instrument family does the qanun belong?",
@@ -454,7 +476,8 @@
     "Kufi",
     "Kufic script"
    ],
-   "apic": "Kufic"
+   "apic": "Kufic",
+   "cpic": "Arabic calligraphy"
   },
   {
    "q": "Which calligraphy style, meaning 'copying', is widely used in printed books?",
@@ -507,7 +530,8 @@
     "Naguib Mahfuz",
     "Mahfouz"
    ],
-   "apic": "Naguib Mahfouz"
+   "apic": "Naguib Mahfouz",
+   "cpic": "Nobel Prize"
   },
   {
    "q": "Which 14th-century scholar wrote the Muqaddimah?",
@@ -563,7 +587,8 @@
    "alt": [
     "Dalla"
    ],
-   "apic": "Dallah (coffee pot)"
+   "apic": "Dallah (coffee pot)",
+   "cpic": "Arabic coffee"
   },
   {
    "q": "Which Saudi dish features spiced rice with lamb or chicken?",
@@ -648,7 +673,8 @@
      "Eid al-Adha",
      "عيد الأضحى"
     ]
-   ]
+   ],
+   "cpic": "Eid al-Adha"
   },
   {
    "q": "Which tree appears on the flag of Lebanon?",
@@ -658,7 +684,8 @@
     "Arz",
     "Cedar of Lebanon"
    ],
-   "apic": "Cedrus libani"
+   "apic": "Cedrus libani",
+   "cpic": "img/flags/e58c44ce7e.svg"
   },
   {
    "q": "Which Moroccan-born traveler wrote the Rihla, an account of his journeys?",
@@ -712,7 +739,8 @@
    "alt": [
     "Dijla"
    ],
-   "apic": "Tigris"
+   "apic": "Tigris",
+   "cpic": "Baghdad"
   },
   {
    "q": "Which canal, opened in 1869, links the Mediterranean and the Red Sea?",
@@ -722,7 +750,8 @@
    "alt": [
     "Suez"
    ],
-   "apic": "Suez Canal"
+   "apic": "Suez Canal",
+   "cpic": "Red Sea"
   },
   {
    "q": "What is the system of melodic modes in Arabic music called?",
@@ -757,14 +786,16 @@
     "Scheherezade",
     "Shahrazade"
    ],
-   "apic": "Scheherazade"
+   "apic": "Scheherazade",
+   "cpic": "One Thousand and One Nights"
   },
   {
    "q": "What is the currency of Mauritania?",
    "a": "Ouguiya",
    "p": 600,
    "ar": "الأوقية",
-   "apic": "Mauritanian ouguiya"
+   "apic": "Mauritanian ouguiya",
+   "cpic": "Mauritania"
   },
   {
    "q": "What is the subunit of the Omani rial, worth one thousandth of it?",
@@ -774,14 +805,16 @@
    "alt": [
     "Baiza",
     "Baisah"
-   ]
+   ],
+   "cpic": "Omani rial"
   },
   {
    "q": "What is the capital of the Comoros?",
    "a": "Moroni",
    "p": 600,
    "ar": "موروني",
-   "apic": "Moroni, Comoros"
+   "apic": "Moroni, Comoros",
+   "cpic": "Comoros"
   },
   {
    "q": "Which 10th-century Andalusian surgeon, Abulcasis, wrote Al-Tasrif?",
@@ -840,7 +873,8 @@
    "alt": [
     "Bagdad"
    ],
-   "apic": "Baghdad"
+   "apic": "Baghdad",
+   "cpic": "House of Wisdom"
   },
   {
    "q": "Which calligraphy style, meaning 'one third', is used in mosque inscriptions?",
@@ -1115,7 +1149,8 @@
     "Euphrates and Tigris"
    ],
    "apic": "Mesopotamia",
-   "ar": "دجلة والفرات"
+   "ar": "دجلة والفرات",
+   "cpic": "Mesopotamia"
   },
   {
    "q": "Which Arab country is an archipelago of about 33 islands in the Gulf?",
@@ -1157,7 +1192,8 @@
      "argileh",
      "أرجيلة"
     ]
-   ]
+   ],
+   "cpic": "Dubai"
   },
   {
    "q": "Which two rivers meet at Khartoum to form the main Nile?",
@@ -1172,7 +1208,8 @@
      "Khartoum",
      "الخرطوم"
     ]
-   ]
+   ],
+   "cpic": "Khartoum"
   },
   {
    "q": "Which ancient Sudanese city is famous for its cluster of steep Nubian pyramids?",
@@ -1182,7 +1219,8 @@
    "alt": [
     "Meroë"
    ],
-   "apic": "Meroë"
+   "apic": "Meroë",
+   "cpic": "Nubian pyramids"
   },
   {
    "q": "Which big-eared desert fox is the national animal of Algeria?",
@@ -1191,7 +1229,8 @@
    "alt": [
     "Fennec"
    ],
-   "apic": "Fennec fox"
+   "apic": "Fennec fox",
+   "cpic": "Algeria"
   },
   {
    "q": "Which Arab country is an archipelago in the Indian Ocean between Mozambique and Madagascar?",
@@ -1202,7 +1241,8 @@
     "The Comoros",
     "Union of the Comoros"
    ],
-   "apic": "Comoros"
+   "apic": "Comoros",
+   "cpic": "Indian Ocean"
   },
   {
    "q": "Which Arab country has the longest coastline of any country on mainland Africa?",
@@ -1216,7 +1256,8 @@
    "a": "Aden",
    "p": 400,
    "ar": "عدن",
-   "apic": "Aden"
+   "apic": "Aden",
+   "cpic": "Arabian Sea"
   },
   {
    "q": "Which desert of steppe and gravel plain stretches across parts of Syria, Jordan and Iraq?",
@@ -1225,7 +1266,8 @@
    "alt": [
     "Badiyat al-Sham"
    ],
-   "apic": "Syrian Desert"
+   "apic": "Syrian Desert",
+   "cpic": "Syria"
   },
   {
    "q": "Which Iraqi port city is nicknamed the 'Venice of the East' for its canals?",
@@ -1251,7 +1293,8 @@
     "Sheba",
     "Sabaean kingdom"
    ],
-   "apic": "Sheba"
+   "apic": "Sheba",
+   "cpic": "Yemen"
   },
   {
    "q": "Which Amazigh language is an official language of both Morocco and Algeria?",
@@ -1260,7 +1303,8 @@
    "ar": "تمازيغت",
    "alt": [
     "Berber"
-   ]
+   ],
+   "cpic": "Algeria"
   },
   {
    "q": "Besides Arabic, what is the other official language of Djibouti?",
@@ -1298,28 +1342,32 @@
    "a": "Salma Hayek",
    "p": 400,
    "apic": "Salma Hayek",
-   "ar": "سلمى حايك"
+   "ar": "سلمى حايك",
+   "cpic": "Frida Kahlo"
   },
   {
    "q": "Steve Jobs's biological father came from which Arab country?",
    "a": "Syria",
    "p": 400,
    "ar": "سوريا",
-   "apic": "Syria"
+   "apic": "Syria",
+   "cpic": "Steve Jobs"
   },
   {
    "q": "What is the currency of Iraq?",
    "a": "Iraqi dinar",
    "p": 400,
    "ar": "دينار عراقي",
-   "apic": "Iraqi dinar"
+   "apic": "Iraqi dinar",
+   "cpic": "Iraq"
   },
   {
    "q": "What is the currency of Yemen?",
    "a": "Yemeni rial",
    "p": 400,
    "ar": "ريال يمني",
-   "apic": "Yemeni rial"
+   "apic": "Yemeni rial",
+   "cpic": "Yemen"
   },
   {
    "q": "Which Arab country's flag shows a white circle containing a red crescent and star on a red field?",
@@ -1335,7 +1383,8 @@
    "ar": "صلاح الدين",
    "alt": [
     "Salah al-Din"
-   ]
+   ],
+   "cpic": "Golden eagle"
   },
   {
    "q": "The Comoros are famed for producing which flower oil used in perfumes?",
@@ -1344,7 +1393,8 @@
    "alt": [
     "Ylang ylang"
    ],
-   "apic": "Cananga odorata"
+   "apic": "Cananga odorata",
+   "cpic": "Comoros"
   },
   {
    "q": "Which Djibouti salt lake is the lowest point in Africa?",
@@ -1366,7 +1416,8 @@
    "q": "What is the currency of Somalia?",
    "a": "Somali shilling",
    "p": 400,
-   "apic": "Somali shilling"
+   "apic": "Somali shilling",
+   "cpic": "Somalia"
   },
   {
    "q": "Bab el-Mandeb, the strait at the mouth of the Red Sea, has a name meaning 'Gate of' what?",
@@ -1382,7 +1433,8 @@
      "Bab el-Mandeb",
      "باب المندب"
     ]
-   ]
+   ],
+   "cpic": "Red Sea"
   },
   {
    "q": "Which ancient dam, an engineering marvel of the Sabaeans, famously collapsed in Yemen?",
@@ -1403,7 +1455,8 @@
    "alt": [
     "Bilad ar-Rafidayn",
     "Al-Rafidayn"
-   ]
+   ],
+   "cpic": "Iraq"
   },
   {
    "q": "Which wetlands of southern Iraq, home of the Marsh Arabs, are a UNESCO World Heritage Site?",
@@ -1449,7 +1502,8 @@
    "alt": [
     "Chronicle of the Years of Embers"
    ],
-   "apic": "Chronicle of the Years of Fire"
+   "apic": "Chronicle of the Years of Fire",
+   "cpic": "Palme d'Or"
   },
   {
    "q": "Which Iraqi poet, a pioneer of Arabic free verse, wrote 'Rain Song'?",
@@ -1498,7 +1552,8 @@
    "q": "What is the Arabic name for a roadside inn or caravanserai, as in a famous Cairo bazaar?",
    "a": "Khan",
    "p": 600,
-   "ar": "خان"
+   "ar": "خان",
+   "cpic": "Cairo"
   },
   {
    "q": "Which Arab country's flag is plain horizontal stripes of red, white and black with no emblem?",
@@ -1535,7 +1590,8 @@
    "alt": [
     "Zero",
     "0"
-   ]
+   ],
+   "cpic": "Arab League"
   },
   {
    "q": "Which Sudanese city across the Nile from Khartoum is home to the Mahdi's tomb?",
@@ -1552,14 +1608,16 @@
      "Mahdi",
      "المهدي"
     ]
-   ]
+   ],
+   "cpic": "Khartoum"
   },
   {
    "q": "What is the main Red Sea port city of Sudan?",
    "a": "Port Sudan",
    "p": 400,
    "ar": "بورتسودان",
-   "apic": "Port Sudan"
+   "apic": "Port Sudan",
+   "cpic": "Red Sea"
   },
   {
    "q": "Which Arab country is the world's leading producer of gum arabic?",
@@ -1612,7 +1670,8 @@
     "Kingdom of Kush",
     "Kushites"
    ],
-   "apic": "Kingdom of Kush"
+   "apic": "Kingdom of Kush",
+   "cpic": "Sudan"
   },
   {
    "q": "Which South Arabian kingdom, with its capital at Zafar, came to dominate Yemen in late antiquity?",
@@ -1638,7 +1697,8 @@
    "alt": [
     "Sargon"
    ],
-   "apic": "Sargon of Akkad"
+   "apic": "Sargon of Akkad",
+   "cpic": "Mesopotamia"
   },
   {
    "q": "Which huge brick arch south of Baghdad is the last standing part of a Sasanian palace?",
@@ -1649,7 +1709,8 @@
     "Arch of Ctesiphon",
     "Ctesiphon"
    ],
-   "apic": "Taq Kasra"
+   "apic": "Taq Kasra",
+   "cpic": "Baghdad"
   },
   {
    "q": "Which flat-topped sacred mountain near Karima in northern Sudan is a UNESCO site?",
@@ -1665,7 +1726,8 @@
      "Karima",
      "كريمة"
     ]
-   ]
+   ],
+   "cpic": "Sudan"
   },
   {
    "q": "Which five-storey palace near Sanaa is built on top of a rock pinnacle?",
@@ -1681,7 +1743,8 @@
      "Sanaa",
      "صنعاء"
     ]
-   ]
+   ],
+   "cpic": "Sanaa"
   },
   {
    "q": "Which Egyptian playwright wrote 'Diary of a Country Prosecutor'?",
@@ -1695,7 +1758,8 @@
    "a": "Ahmed Saadawi",
    "p": 600,
    "ar": "أحمد سعداوي",
-   "apic": "Ahmed Saadawi"
+   "apic": "Ahmed Saadawi",
+   "cpic": "Baghdad"
   },
   {
    "q": "Which literary award is often nicknamed the 'Arabic Booker'?",
@@ -1718,14 +1782,16 @@
    "a": "Omar Yaghi",
    "p": 600,
    "ar": "عمر ياغي",
-   "apic": "Omar M. Yaghi"
+   "apic": "Omar M. Yaghi",
+   "cpic": "Nobel Prize"
   },
   {
    "q": "Which national football team is nicknamed the 'Lions of Mesopotamia'?",
    "a": "Iraq",
    "p": 400,
    "ar": "العراق",
-   "apic": "Iraq national football team"
+   "apic": "Iraq national football team",
+   "cpic": "Mesopotamia"
   },
   {
    "q": "Which Arab nation won the 2007 AFC Asian Cup?",
@@ -1760,7 +1826,8 @@
    "alt": [
     "1"
    ],
-   "apic": "Dromedary"
+   "apic": "Dromedary",
+   "cpic": "Camel"
   },
   {
    "q": "In which Arab capital was OPEC founded in 1960?",
@@ -1819,7 +1886,8 @@
    "p": 400,
    "alt": [
     "Qamar"
-   ]
+   ],
+   "cpic": "Comoros"
   },
   {
    "q": "Which Arab capital, at about 2,250 m, is among the highest capital cities in the world?",
@@ -1861,7 +1929,8 @@
     "Qaymar",
     "Kaymak"
    ],
-   "apic": "Kaymak"
+   "apic": "Kaymak",
+   "cpic": "Date syrup"
   },
   {
    "q": "Which Iraqi nougat-like sweet has a name meaning 'manna from heaven'?",
@@ -1880,7 +1949,8 @@
    "alt": [
     "Spaghetti"
    ],
-   "apic": "Pasta"
+   "apic": "Pasta",
+   "cpic": "Somalia"
   },
   {
    "q": "What is the Arabic name for the dance known in English as belly dancing?",
@@ -1959,7 +2029,8 @@
    "q": "Which ocean lies off Somalia's long eastern coast?",
    "a": "Indian Ocean",
    "p": 200,
-   "apic": "Indian Ocean"
+   "apic": "Indian Ocean",
+   "cpic": "Somalia"
   },
   {
    "q": "Which gulf separates Yemen from Somalia?",
@@ -1973,14 +2044,16 @@
    "a": "Sudan",
    "p": 200,
    "ar": "السودان",
-   "apic": "Sudan"
+   "apic": "Sudan",
+   "cpic": "Egypt"
   },
   {
    "q": "Which country lies directly south of Saudi Arabia on the Arabian Peninsula?",
    "a": "Yemen",
    "p": 200,
    "ar": "اليمن",
-   "apic": "Yemen"
+   "apic": "Yemen",
+   "cpic": "Arabian Peninsula"
   },
   {
    "q": "Which Arab country shares its only land border with Saudi Arabia and juts into the Gulf as a peninsula?",

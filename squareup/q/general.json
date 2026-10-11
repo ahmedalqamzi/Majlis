@@ -6,13 +6,15 @@
    "q": "What is the largest planet in our solar system?",
    "a": "Jupiter",
    "p": 200,
-   "apic": "Jupiter"
+   "apic": "Jupiter",
+   "cpic": "Solar System"
   },
   {
    "q": "What is the chemical formula of water?",
    "a": "H2O",
    "p": 200,
-   "apic": "Water"
+   "apic": "Water",
+   "cpic": "Water"
   },
   {
    "q": "How many continents are there?",
@@ -29,7 +31,8 @@
    "q": "What is the capital of the United Arab Emirates?",
    "a": "Abu Dhabi",
    "p": 200,
-   "apic": "Abu Dhabi"
+   "apic": "Abu Dhabi",
+   "cpic": "United Arab Emirates"
   },
   {
    "q": "How many days are there in a leap year?",
@@ -98,7 +101,8 @@
   {
    "q": "At what temperature in degrees Celsius does water freeze?",
    "a": "0",
-   "p": 200
+   "p": 200,
+   "cpic": "Water"
   },
   {
    "q": "What is the capital of Japan?",
@@ -109,7 +113,8 @@
   {
    "q": "At what temperature in degrees Celsius does water boil at sea level?",
    "a": "100",
-   "p": 200
+   "p": 200,
+   "cpic": "Water"
   },
   {
    "q": "What is the first month of the year?",
@@ -190,12 +195,14 @@
    "q": "What is a baby kangaroo called?",
    "a": "Joey",
    "p": 200,
-   "apic": "Kangaroo"
+   "apic": "Kangaroo",
+   "cpic": "Kangaroo"
   },
   {
    "q": "In which year was the United Arab Emirates formed?",
    "a": "1971",
-   "p": 200
+   "p": 200,
+   "cpic": "United Arab Emirates"
   },
   {
    "q": "Which planet is best known for its prominent rings?",
@@ -340,12 +347,14 @@
    "q": "What is the capital of New Zealand?",
    "a": "Wellington",
    "p": 400,
-   "apic": "Wellington"
+   "apic": "Wellington",
+   "cpic": "New Zealand"
   },
   {
    "q": "In which year did the Berlin Wall fall?",
    "a": "1989",
-   "p": 400
+   "p": 400,
+   "cpic": "Berlin Wall"
   },
   {
    "q": "Which composer wrote The Four Seasons?",
@@ -506,13 +515,15 @@
    "q": "What is the capital of Burkina Faso?",
    "a": "Ouagadougou",
    "p": 600,
-   "apic": "Ouagadougou"
+   "apic": "Ouagadougou",
+   "cpic": "Burkina Faso"
   },
   {
    "q": "Which planet in our solar system rotates tilted on its side, with an axial tilt of about 98 degrees?",
    "a": "Uranus",
    "p": 600,
-   "apic": "Uranus"
+   "apic": "Uranus",
+   "cpic": "Solar System"
   },
   {
    "q": "What is the longest river in Asia?",
@@ -543,7 +554,8 @@
    "q": "What is the largest moon of Saturn?",
    "a": "Titan",
    "p": 600,
-   "apic": "Titan (moon)"
+   "apic": "Titan (moon)",
+   "cpic": "Saturn"
   },
   {
    "q": "Who led the first expedition to reach the South Pole, in December 1911?",
@@ -685,7 +697,8 @@
    "q": "Who co-founded Microsoft with Paul Allen?",
    "a": "Bill Gates",
    "p": 200,
-   "apic": "Bill Gates"
+   "apic": "Bill Gates",
+   "cpic": "Paul Allen"
   },
   {
    "q": "What does GPS stand for?",
@@ -825,7 +838,8 @@
    "alt": [
     "Conan Doyle"
    ],
-   "apic": "Arthur Conan Doyle"
+   "apic": "Arthur Conan Doyle",
+   "cpic": "Sherlock Holmes"
   },
   {
    "q": "Who wrote Alice's Adventures in Wonderland?",
@@ -911,7 +925,8 @@
    "q": "What is the chemical symbol for silver?",
    "a": "Ag",
    "p": 400,
-   "apic": "Silver"
+   "apic": "Silver",
+   "cpic": "Silver"
   },
   {
    "q": "What is the SI unit of electric current?",
@@ -1073,7 +1088,8 @@
   {
    "q": "In which year did the French Revolution begin?",
    "a": "1789",
-   "p": 600
+   "p": 600,
+   "cpic": "French Revolution"
   },
   {
    "q": "Who was the first woman to fly solo across the Atlantic, in 1932?",
@@ -1122,7 +1138,8 @@
    "p": 200,
    "alt": [
     "Fifty"
-   ]
+   ],
+   "cpic": "img/flags/3a40ffe123.svg"
   },
   {
    "q": "Which property-trading board game features Mayfair and Park Lane in its UK edition?",
@@ -1312,7 +1329,8 @@
    "alt": [
     "CS Lewis"
    ],
-   "apic": "C. S. Lewis"
+   "apic": "C. S. Lewis",
+   "cpic": "Lion"
   },
   {
    "q": "Who wrote The Da Vinci Code?",
@@ -1388,7 +1406,8 @@
    "alt": [
     "Atmospheric pressure"
    ],
-   "apic": "Barometer"
+   "apic": "Barometer",
+   "cpic": "Barometer"
   },
   {
    "q": "What is the fear of enclosed spaces called?",
@@ -1425,7 +1444,8 @@
    "alt": [
     "Defoe"
    ],
-   "apic": "Daniel Defoe"
+   "apic": "Daniel Defoe",
+   "cpic": "Robinson Crusoe"
   },
   {
    "q": "Who wrote Gulliver's Travels?",
@@ -1434,7 +1454,8 @@
    "alt": [
     "Swift"
    ],
-   "apic": "Jonathan Swift"
+   "apic": "Jonathan Swift",
+   "cpic": "Gulliver's Travels"
   },
   {
    "q": "Who wrote Charlotte's Web?",
@@ -1589,7 +1610,8 @@
    "q": "What does an anemometer measure?",
    "a": "Wind speed",
    "p": 600,
-   "apic": "Anemometer"
+   "apic": "Anemometer",
+   "cpic": "Anemometer"
   },
   {
    "q": "What are lines on a weather map joining places of equal air pressure called?",

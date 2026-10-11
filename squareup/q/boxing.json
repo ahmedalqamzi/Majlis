@@ -79,7 +79,8 @@
    "p": 200,
    "alt": [
     "Towel"
-   ]
+   ],
+   "cpic": "The Ring (magazine)"
   },
   {
    "q": "Which fictional Philadelphia boxer did Sylvester Stallone play?",
@@ -167,7 +168,8 @@
    "alt": [
     "Thrilla in Manila"
    ],
-   "apic": "The Thrilla in Manila"
+   "apic": "The Thrilla in Manila",
+   "cpic": "Philippines"
   },
   {
    "q": "Which American boxer did Ali fight in the Thrilla in Manila?",
@@ -242,7 +244,8 @@
    "q": "Which streaming service broadcast Jake Paul versus Mike Tyson live in 2024?",
    "a": "Netflix",
    "p": 200,
-   "apic": "Netflix"
+   "apic": "Netflix",
+   "cpic": "Mike Tyson"
   },
   {
    "q": "Which Ukrainian brothers dominated the heavyweight division in the 2000s?",
@@ -380,7 +383,8 @@
    "q": "Which actor played Muhammad Ali in the 2001 film 'Ali'?",
    "a": "Will Smith",
    "p": 200,
-   "apic": "Will Smith"
+   "apic": "Will Smith",
+   "cpic": "Muhammad Ali"
   },
   {
    "q": "Which weight class is named after an insect?",
@@ -448,7 +452,8 @@
   {
    "q": "Which Olympic medal do both losing semi-finalists receive in boxing?",
    "a": "Bronze",
-   "p": 200
+   "p": 200,
+   "cpic": "Olympic medal"
   },
   {
    "q": "Which British heavyweight lost his titles to Andy Ruiz Jr. in a 2019 upset?",
@@ -523,7 +528,8 @@
    "p": 400,
    "alt": [
     "8"
-   ]
+   ],
+   "cpic": "Manny Pacquiao"
   },
   {
    "q": "Which famous American trainer worked Manny Pacquiao's corner for most of his career?",
@@ -581,17 +587,20 @@
    "p": 400,
    "alt": [
     "3"
-   ]
+   ],
+   "cpic": "Gennady Golovkin"
   },
   {
    "q": "In which division did Canelo Álvarez become undisputed champion in 2021?",
    "a": "Super middleweight",
-   "p": 400
+   "p": 400,
+   "cpic": "Canelo Álvarez"
   },
   {
    "q": "In which division did Oleksandr Usyk become undisputed champion before moving up to heavyweight?",
    "a": "Cruiserweight",
-   "p": 400
+   "p": 400,
+   "cpic": "Oleksandr Usyk"
   },
   {
    "q": "In which weight class did Mayweather and Pacquiao fight in 2015?",
@@ -606,7 +615,8 @@
   {
    "q": "In which weight class did Prince Naseem Hamed win his world titles?",
    "a": "Featherweight",
-   "p": 400
+   "p": 400,
+   "cpic": "Naseem Hamed"
   },
   {
    "q": "Which Sheffield-born featherweight was famous for flying-carpet and somersault ring entrances?",
@@ -617,7 +627,8 @@
     "Prince Naseem",
     "Naz"
    ],
-   "apic": "Naseem Hamed"
+   "apic": "Naseem Hamed",
+   "cpic": "Flying carpet"
   },
   {
    "q": "Which Arab country did Prince Naseem Hamed's parents come from?",
@@ -651,12 +662,14 @@
    "alt": [
     "Ad Diriyah"
    ],
-   "apic": "Diriyah"
+   "apic": "Diriyah",
+   "cpic": "Riyadh"
   },
   {
    "q": "What was the Joshua versus Ruiz rematch in Saudi Arabia nicknamed?",
    "a": "Clash on the Dunes",
-   "p": 400
+   "p": 400,
+   "cpic": "Saudi Arabia"
   },
   {
    "q": "In which Saudi city did Usyk beat Joshua again in their 2022 rematch, 'Rage on the Red Sea'?",
@@ -734,7 +747,8 @@
    "alt": [
     "Wilder"
    ],
-   "apic": "Deontay Wilder"
+   "apic": "Deontay Wilder",
+   "cpic": "Tyson Fury"
   },
   {
    "q": "What was the result of the first Fury versus Wilder fight in 2018?",
@@ -876,13 +890,15 @@
    "alt": [
     "LaMotta"
    ],
-   "apic": "Jake LaMotta"
+   "apic": "Jake LaMotta",
+   "cpic": "Sugar Ray Robinson"
   },
   {
    "q": "Which Robert De Niro film tells the story of Jake LaMotta?",
    "a": "Raging Bull",
    "p": 200,
-   "apic": "Raging Bull"
+   "apic": "Raging Bull",
+   "cpic": "Robert De Niro"
   },
   {
    "q": "Which 1976 Olympic champion took his ring name partly from singer Ray Charles?",
@@ -1144,7 +1160,8 @@
    "q": "Which arena in Riyadh hosted the first Fury versus Usyk fight in May 2024?",
    "a": "Kingdom Arena",
    "p": 600,
-   "apic": "Kingdom Arena"
+   "apic": "Kingdom Arena",
+   "cpic": "Riyadh"
   },
   {
    "q": "Which Klitschko brother was the older one, nicknamed 'Dr. Ironfist'?",
@@ -1233,7 +1250,8 @@
    "q": "In which small Maine town did Ali knock out Sonny Liston with the 'phantom punch' in 1965?",
    "a": "Lewiston",
    "p": 600,
-   "apic": "Lewiston, Maine"
+   "apic": "Lewiston, Maine",
+   "cpic": "Sonny Liston"
   },
   {
    "q": "Which 1976 Olympic champion beat Muhammad Ali in 1978 in only his eighth professional fight?",
@@ -1278,13 +1296,15 @@
    "alt": [
     "D'Amato"
    ],
-   "apic": "Cus D'Amato"
+   "apic": "Cus D'Amato",
+   "cpic": "Mike Tyson"
   },
   {
    "q": "In which Japanese venue did Buster Douglas knock out Mike Tyson in 1990?",
    "a": "Tokyo Dome",
    "p": 600,
-   "apic": "Tokyo Dome"
+   "apic": "Tokyo Dome",
+   "cpic": "Buster Douglas"
   },
   {
    "q": "Which unbeaten champion did Mike Tyson knock out in 91 seconds in 1988?",
@@ -1331,7 +1351,8 @@
     "Paraglider",
     "Fan Man",
     "A man on a paraglider"
-   ]
+   ],
+   "cpic": "Evander Holyfield"
   },
   {
    "q": "In which city did George Foreman win Olympic heavyweight gold in 1968?",
@@ -1432,7 +1453,8 @@
    "alt": [
     "St Valentine's Day Massacre",
     "Valentine's Day Massacre"
-   ]
+   ],
+   "cpic": "Sugar Ray Robinson"
   },
   {
    "q": "How many times did Sugar Ray Robinson win the world middleweight title?",
@@ -1440,7 +1462,8 @@
    "p": 600,
    "alt": [
     "5"
-   ]
+   ],
+   "cpic": "Sugar Ray Robinson"
   },
   {
    "q": "Which Las Vegas hotel's outdoor arena hosted Hagler versus Hearns in 1985?",
@@ -1482,7 +1505,8 @@
    "p": 600,
    "alt": [
     "4"
-   ]
+   ],
+   "cpic": "Juan Manuel Márquez"
   },
   {
    "q": "Which Filipino city is Manny Pacquiao's home town?",
@@ -1626,7 +1650,8 @@
   {
    "q": "What was the 2024 Fury versus Usyk undisputed fight in Riyadh billed as?",
    "a": "Ring of Fire",
-   "p": 600
+   "p": 600,
+   "cpic": "Riyadh"
   },
   {
    "q": "Who won the February 2025 rematch between Bivol and Beterbiev in Riyadh?",
@@ -1659,7 +1684,8 @@
    "alt": [
     "Cowboys Stadium"
    ],
-   "apic": "AT&T Stadium"
+   "apic": "AT&T Stadium",
+   "cpic": "Mike Tyson"
   },
   {
    "q": "Which famous boxing magazine was bought by Turki Alalshikh's group in 2024?",
@@ -1692,7 +1718,8 @@
    "alt": [
     "Wepner"
    ],
-   "apic": "Chuck Wepner"
+   "apic": "Chuck Wepner",
+   "cpic": "New Jersey"
   },
   {
    "q": "What is the lightest weight class in professional boxing?",
@@ -1726,7 +1753,8 @@
    "alt": [
     "Bruno"
    ],
-   "apic": "Frank Bruno"
+   "apic": "Frank Bruno",
+   "cpic": "Wembley Stadium"
   },
   {
    "q": "Which arena in Quezon City hosted the Thrilla in Manila?",
@@ -1735,7 +1763,8 @@
    "alt": [
     "Smart Araneta Coliseum"
    ],
-   "apic": "Smart Araneta Coliseum"
+   "apic": "Smart Araneta Coliseum",
+   "cpic": "Quezon City"
   },
   {
    "q": "In which Kinshasa stadium was the Rumble in the Jungle fought?",
@@ -1941,7 +1970,8 @@
     "Rubin 'Hurricane' Carter",
     "Hurricane Carter"
    ],
-   "apic": "Rubin Carter"
+   "apic": "Rubin Carter",
+   "cpic": "Denzel Washington"
   },
   {
    "q": "Which Mexican did Dmitry Bivol beat in Abu Dhabi in November 2022?",
@@ -1958,7 +1988,8 @@
    "q": "Which actor won an Oscar for playing boxer Jake LaMotta?",
    "a": "Robert De Niro",
    "p": 200,
-   "apic": "Robert De Niro"
+   "apic": "Robert De Niro",
+   "cpic": "Jake LaMotta"
   }
  ]
 }

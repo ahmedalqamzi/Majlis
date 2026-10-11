@@ -204,7 +204,8 @@
    "p": 200,
    "alt": [
     "Kings Row"
-   ]
+   ],
+   "cpic": "The Streets"
   },
   {
    "q": "Which Japanese fox-spirit healer joined at the launch of Overwatch 2?",
@@ -721,7 +722,8 @@
    "q": "Which company acquired Activision Blizzard in 2023?",
    "a": "Microsoft",
    "p": 200,
-   "apic": "Microsoft"
+   "apic": "Microsoft",
+   "cpic": "Activision Blizzard"
   },
   {
    "q": "What is the name of the Moon base where Winston grew up?",
@@ -1022,12 +1024,14 @@
    "p": 600,
    "alt": [
     "Paraiso"
-   ]
+   ],
+   "cpic": "Rio de Janeiro"
   },
   {
    "q": "Which Push map is set in New York City?",
    "a": "Midtown",
-   "p": 600
+   "p": 600,
+   "cpic": "New York City"
   },
   {
    "q": "Which Flashpoint map is set in India?",

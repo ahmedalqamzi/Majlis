@@ -164,7 +164,8 @@
    "q": "Biology: Which molecule carries genetic information in the cell nucleus?",
    "a": "DNA",
    "p": 200,
-   "apic": "DNA"
+   "apic": "DNA",
+   "cpic": "Cell nucleus"
   },
   {
    "q": "Maths: What is a polygon with eight sides called?",
@@ -229,7 +230,8 @@
   {
    "q": "Chemistry: Which group of the periodic table contains the noble gases?",
    "a": "Group 0 (also called Group 8)",
-   "p": 400
+   "p": 400,
+   "cpic": "Periodic table"
   },
   {
    "q": "Chemistry: What two products form when an acid reacts with an alkali?",
@@ -341,7 +343,8 @@
    "q": "History: Which English king was forced to sign Magna Carta in 1215?",
    "a": "King John",
    "p": 400,
-   "apic": "John, King of England"
+   "apic": "John, King of England",
+   "cpic": "Magna Carta"
   },
   {
    "q": "Geography: What is the name of the process in which a river or the sea drops the material it is carrying?",
@@ -541,7 +544,8 @@
    "q": "Biology: Which pair of organs exchanges oxygen and carbon dioxide in humans?",
    "a": "The lungs",
    "p": 200,
-   "apic": "Lung"
+   "apic": "Lung",
+   "cpic": "Carbon dioxide"
   },
   {
    "q": "Biology: What do we call an animal that eats only plants?",
@@ -558,12 +562,14 @@
    "q": "Biology: Which scientist proposed the theory of evolution by natural selection?",
    "a": "Charles Darwin",
    "p": 200,
-   "apic": "Charles Darwin"
+   "apic": "Charles Darwin",
+   "cpic": "Natural selection"
   },
   {
    "q": "Biology: Which blood vessels carry blood away from the heart?",
    "a": "Arteries",
-   "p": 200
+   "p": 200,
+   "cpic": "Heart"
   },
   {
    "q": "Chemistry: Which state of matter has a fixed shape and a fixed volume?",
@@ -755,7 +761,8 @@
    "q": "Geography: What is a tropical storm in the Atlantic Ocean called?",
    "a": "A hurricane",
    "p": 200,
-   "apic": "Tropical cyclone"
+   "apic": "Tropical cyclone",
+   "cpic": "Atlantic Ocean"
   },
   {
    "q": "Geography: What is the hottest large desert in the world?",
@@ -886,7 +893,8 @@
   {
    "q": "Geography: Which line of latitude is at 23.5 degrees north of the Equator?",
    "a": "The Tropic of Cancer",
-   "p": 200
+   "p": 200,
+   "cpic": "Equator"
   },
   {
    "q": "Spanish: What is the Spanish word for 'cat'?",
@@ -922,7 +930,8 @@
   {
    "q": "Biology: Which chamber of the heart pumps blood out to the whole body?",
    "a": "The left ventricle",
-   "p": 400
+   "p": 400,
+   "cpic": "Heart"
   },
   {
    "q": "Biology: Which type of cell division produces gametes with half the chromosomes?",
@@ -955,7 +964,8 @@
    "q": "Biology: Which gland at the base of the brain is often called the 'master gland'?",
    "a": "The pituitary gland",
    "p": 400,
-   "apic": "Pituitary gland"
+   "apic": "Pituitary gland",
+   "cpic": "Brain"
   },
   {
    "q": "Biology: Which type of medicine kills bacteria but has no effect on viruses?",
@@ -976,7 +986,8 @@
   {
    "q": "Chemistry: What are the elements in Group 7 of the periodic table called?",
    "a": "The halogens",
-   "p": 400
+   "p": 400,
+   "cpic": "Periodic table"
   },
   {
    "q": "Chemistry: What is the test for hydrogen gas?",
@@ -986,7 +997,8 @@
   {
    "q": "Chemistry: What is the relative formula mass of carbon dioxide, CO2 (C = 12, O = 16)?",
    "a": "44",
-   "p": 400
+   "p": 400,
+   "cpic": "Carbon dioxide"
   },
   {
    "q": "Chemistry: Which noble gas is used to fill party balloons because it is less dense than air?",
@@ -1124,7 +1136,8 @@
   {
    "q": "English Literature: What is Frankenstein's first name in Mary Shelley's novel?",
    "a": "Victor",
-   "p": 200
+   "p": 200,
+   "cpic": "Mary Shelley"
   },
   {
    "q": "English Literature: What is the narrator's name in Dickens's Great Expectations?",
@@ -1155,7 +1168,8 @@
   {
    "q": "History: In which year did the Berlin Wall fall?",
    "a": "1989",
-   "p": 200
+   "p": 200,
+   "cpic": "Berlin Wall"
   },
   {
    "q": "History: What name is given to the 13-day nuclear standoff of October 1962?",
@@ -1167,7 +1181,8 @@
    "q": "History: Which US president faced the Soviet Union in the Cuban Missile Crisis?",
    "a": "John F. Kennedy",
    "p": 400,
-   "apic": "John F. Kennedy"
+   "apic": "John F. Kennedy",
+   "cpic": "Cuban Missile Crisis"
   },
   {
    "q": "History: Which 1947 American plan gave economic aid to rebuild Europe?",
@@ -1315,7 +1330,8 @@
   {
    "q": "Biology: Which blood vessel carries deoxygenated blood from the heart to the lungs?",
    "a": "The pulmonary artery",
-   "p": 600
+   "p": 600,
+   "cpic": "Heart"
   },
   {
    "q": "Biology: Malaria is caused by which type of microorganism?",
@@ -1472,7 +1488,8 @@
   {
    "q": "English Literature: Which prince rules Verona in Romeo and Juliet?",
    "a": "Prince Escalus",
-   "p": 600
+   "p": 600,
+   "cpic": "Verona"
   },
   {
    "q": "English Literature: In Jekyll and Hyde, which MP does Hyde murder?",
@@ -1528,7 +1545,8 @@
    "q": "History: Which Soviet leader faced the USA during the Cuban Missile Crisis?",
    "a": "Nikita Khrushchev",
    "p": 600,
-   "apic": "Nikita Khrushchev"
+   "apic": "Nikita Khrushchev",
+   "cpic": "Cuban Missile Crisis"
   },
   {
    "q": "History: In which year did the Black Death reach England?",

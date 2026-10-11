@@ -43,7 +43,8 @@
    "q": "Besides Florence, which canal city does Ezio explore in Assassin's Creed II?",
    "a": "Venice",
    "p": 200,
-   "apic": "Venice"
+   "apic": "Venice",
+   "cpic": "Florence"
   },
   {
    "q": "Which Leonardo invention lets Ezio glide over Venice?",
@@ -51,7 +52,8 @@
    "p": 200,
    "alt": [
     "Glider"
-   ]
+   ],
+   "cpic": "Venice"
   },
   {
    "q": "Which Renaissance inventor builds gadgets for Ezio?",
@@ -391,7 +393,8 @@
    "q": "In which country is Ubisoft headquartered?",
    "a": "France",
    "p": 200,
-   "apic": "France"
+   "apic": "France",
+   "cpic": "Ubisoft"
   },
   {
    "q": "Who is the modern-day hero who relives the memories of Altaïr and Ezio?",
@@ -522,7 +525,8 @@
    "q": "From which country does Eivor's clan sail to England?",
    "a": "Norway",
    "p": 200,
-   "apic": "Norway"
+   "apic": "Norway",
+   "cpic": "England"
   },
   {
    "q": "In which year was Assassin's Creed Shadows released?",
@@ -536,7 +540,8 @@
    "alt": [
     "Nobunaga"
    ],
-   "apic": "Oda Nobunaga"
+   "apic": "Oda Nobunaga",
+   "cpic": "Yasuke"
   },
   {
    "q": "Which legendary sunken city does Odyssey's three-part story expansion explore?",
@@ -576,7 +581,8 @@
    "p": 200,
    "alt": [
     "Grappling hook"
-   ]
+   ],
+   "cpic": "London"
   },
   {
    "q": "Which Victorian novelist appears in Assassin's Creed Syndicate?",
@@ -629,7 +635,8 @@
     "Elizabeth Tower",
     "Clock Tower"
    ],
-   "apic": "Big Ben"
+   "apic": "Big Ben",
+   "cpic": "London"
   },
   {
    "q": "Which famous Paris cathedral can Arno climb in Unity?",
@@ -655,7 +662,8 @@
    "a": "Alexandria",
    "p": 200,
    "ar": "الإسكندرية",
-   "apic": "Alexandria"
+   "apic": "Alexandria",
+   "cpic": "Alexander the Great"
   },
   {
    "q": "Which Greek city-state is Kassandra from?",
@@ -667,7 +675,8 @@
    "q": "Which city-state is Sparta's great rival in Odyssey?",
    "a": "Athens",
    "p": 200,
-   "apic": "Athens"
+   "apic": "Athens",
+   "cpic": "Sparta"
   },
   {
    "q": "What kind of ship do Eivor's raiders sail?",
@@ -732,7 +741,8 @@
    "alt": [
     "Kanabo"
    ],
-   "apic": "Kanabō"
+   "apic": "Kanabō",
+   "cpic": "Yasuke"
   },
   {
    "q": "What is the name of Edward Kenway's ship?",
@@ -752,7 +762,8 @@
    "q": "Which Ubisoft series did Assassin's Creed begin as a spin-off of during development?",
    "a": "Prince of Persia",
    "p": 400,
-   "apic": "Prince of Persia"
+   "apic": "Prince of Persia",
+   "cpic": "Ubisoft"
   },
   {
    "q": "Which educational, combat-free mode was added to Origins?",
@@ -762,7 +773,8 @@
   {
    "q": "What is the name of Bayek's eagle companion?",
    "a": "Senu",
-   "p": 400
+   "p": 400,
+   "cpic": "Eagle"
   },
   {
    "q": "Which Assassin fortress is Altaïr's home base?",
@@ -893,7 +905,8 @@
     "Lorenzo Medici",
     "Lorenzo"
    ],
-   "apic": "Lorenzo de' Medici"
+   "apic": "Lorenzo de' Medici",
+   "cpic": "Florence"
   },
   {
    "q": "What is the currency of Assassin's Creed II?",
@@ -1004,7 +1017,8 @@
    "p": 400,
    "alt": [
     "Rooks"
-   ]
+   ],
+   "cpic": "London"
   },
   {
    "q": "Which naturalist famous for evolution appears in Syndicate?",
@@ -1065,7 +1079,8 @@
    "q": "Which war between Athens and Sparta is the setting of Odyssey?",
    "a": "Peloponnesian War",
    "p": 400,
-   "apic": "Peloponnesian War"
+   "apic": "Peloponnesian War",
+   "cpic": "Sparta"
   },
   {
    "q": "Which secretive cult controls Greece from the shadows in Odyssey?",
@@ -1116,7 +1131,8 @@
   {
    "q": "What is Eivor's settlement in England called?",
    "a": "Ravensthorpe",
-   "p": 400
+   "p": 400,
+   "cpic": "England"
   },
   {
    "q": "In which year was Assassin's Creed Mirage released?",
@@ -1131,7 +1147,8 @@
     "Bayt al-Hikma"
    ],
    "ar": "بيت الحكمة",
-   "apic": "House of Wisdom"
+   "apic": "House of Wisdom",
+   "cpic": "Baghdad"
   },
   {
    "q": "Under which caliphate is Assassin's Creed Mirage set?",
@@ -1190,7 +1207,8 @@
    "p": 400,
    "alt": [
     "Guillemot brothers"
-   ]
+   ],
+   "cpic": "Ubisoft"
   },
   {
    "q": "Which French actress played Sofia Rikkin in the 2016 film?",
@@ -1430,7 +1448,8 @@
     "The Round City"
    ],
    "ar": "المدينة المدورة",
-   "apic": "Round city of Baghdad"
+   "apic": "Round city of Baghdad",
+   "cpic": "Baghdad"
   },
   {
    "q": "What title does the head of an Assassin brotherhood hold?",
@@ -1441,7 +1460,8 @@
    "q": "Which female pirate, a companion of Mary Read, appears in Black Flag?",
    "a": "Anne Bonny",
    "p": 400,
-   "apic": "Anne Bonny"
+   "apic": "Anne Bonny",
+   "cpic": "Mary Read"
   },
   {
    "q": "Which nurse and founder of modern nursing appears in Syndicate?",
@@ -1545,7 +1565,8 @@
    "alt": [
     "Altaïr's Armour",
     "Armour of Altair"
-   ]
+   ],
+   "cpic": "Monteriggioni"
   },
   {
    "q": "Which ageing Assassin mentors Connor in Assassin's Creed III?",
@@ -1717,7 +1738,8 @@
    "p": 600,
    "alt": [
     "Icarus"
-   ]
+   ],
+   "cpic": "Eagle"
   },
   {
    "q": "What is the name of Eivor's raven?",
@@ -1735,7 +1757,8 @@
   {
    "q": "What is the name of Basim's eagle in Mirage?",
    "a": "Enkidu",
-   "p": 600
+   "p": 600,
+   "cpic": "Eagle"
   },
   {
    "q": "Who is Basim's mentor in Mirage?",
@@ -1813,7 +1836,8 @@
    "p": 600,
    "alt": [
     "Cal Lynch"
-   ]
+   ],
+   "cpic": "Michael Fassbender"
   },
   {
    "q": "What is the name of Fassbender's ancestor character in the film?",
@@ -1929,7 +1953,8 @@
    "p": 600,
    "alt": [
     "Rogue"
-   ]
+   ],
+   "cpic": "North America"
   },
   {
    "q": "Which Templar CEO runs Abstergo in the modern-day story?",
@@ -1986,7 +2011,8 @@
    "alt": [
     "Church"
    ],
-   "apic": "Benjamin Church (physician)"
+   "apic": "Benjamin Church (physician)",
+   "cpic": "Charles Lee (general)"
   },
   {
    "q": "Which pirate called \"the Gentleman Pirate\" appears in Black Flag?",

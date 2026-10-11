@@ -24,7 +24,8 @@
    "p": 200,
    "alt": [
     "Nether"
-   ]
+   ],
+   "cpic": "Obsidian"
   },
   {
    "q": "Which boss dragon lives in The End?",
@@ -167,7 +168,8 @@
    "q": "Which item is crafted from iron ingots and used to carry water or lava?",
    "a": "Bucket",
    "p": 200,
-   "apic": "Bucket"
+   "apic": "Bucket",
+   "cpic": "Water"
   },
   {
    "q": "In which year was the full version of Minecraft released?",
@@ -197,7 +199,8 @@
   {
    "q": "Which flying item is worn on the chest slot and allows gliding?",
    "a": "Elytra",
-   "p": 200
+   "p": 200,
+   "cpic": "Chest (furniture)"
   },
   {
    "q": "Which tool do you need to mine stone and get cobblestone?",
@@ -241,7 +244,8 @@
    "p": 400,
    "alt": [
     "Ten"
-   ]
+   ],
+   "cpic": "Obsidian"
   },
   {
    "q": "How many real-world minutes does one full Minecraft day-night cycle last?",
@@ -283,7 +287,8 @@
   {
    "q": "Which mob trades gold ingots for items in the Nether?",
    "a": "Piglin",
-   "p": 400
+   "p": 400,
+   "cpic": "Gold"
   },
   {
    "q": "Which Nether mob can walk on lava?",
@@ -331,12 +336,14 @@
   {
    "q": "Which enchantment lets you walk on water by freezing it?",
    "a": "Frost Walker",
-   "p": 400
+   "p": 400,
+   "cpic": "Water"
   },
   {
    "q": "Which enchantment lets you pick up ore or glass as an intact block?",
    "a": "Silk Touch",
-   "p": 400
+   "p": 400,
+   "cpic": "Glass"
   },
   {
    "q": "Which Telltale-developed 2015 spin-off was an episodic adventure?",
@@ -382,7 +389,8 @@
   {
    "q": "Which music disc was composed by Lena Raine and found in a bastion remnant?",
    "a": "Pigstep",
-   "p": 400
+   "p": 400,
+   "cpic": "Lena Raine"
   },
   {
    "q": "What was the working title of Minecraft in its earliest builds?",
@@ -428,7 +436,8 @@
    "p": 600,
    "alt": [
     "Jeb"
-   ]
+   ],
+   "cpic": "Sheep"
   },
   {
    "q": "Which name tag name flips a mob upside down, named after a Mojang developer?",
@@ -462,12 +471,14 @@
   {
    "q": "What is the rarest natural axolotl colour?",
    "a": "Blue",
-   "p": 600
+   "p": 600,
+   "cpic": "Axolotl"
   },
   {
    "q": "What is the rarest natural sheep wool colour?",
    "a": "Pink",
-   "p": 600
+   "p": 600,
+   "cpic": "Sheep"
   },
   {
    "q": "Which mob won the 2021 Minecraft Live mob vote?",
@@ -526,7 +537,8 @@
    "alt": [
     "Netherite Upgrade",
     "Smithing template"
-   ]
+   ],
+   "cpic": "Diamond"
   },
   {
    "q": "Which year was Minecraft Classic first released publicly?",
@@ -542,7 +554,8 @@
   {
    "q": "Which zombie variant is found in oceans and rivers and sometimes carries a trident?",
    "a": "Drowned",
-   "p": 200
+   "p": 200,
+   "cpic": "Zombie"
   },
   {
    "q": "Which 2020 update added Piglins, Striders and netherite?",
@@ -644,17 +657,20 @@
    "alt": [
     "2.5 billion",
     "2.5 billion dollars"
-   ]
+   ],
+   "cpic": "Microsoft"
   },
   {
    "q": "Which block, crafted with a netherite ingot, can link a compass to a location?",
    "a": "Lodestone",
-   "p": 600
+   "p": 600,
+   "cpic": "Compass"
   },
   {
    "q": "Which material, stronger than diamond, makes the best tools and armour?",
    "a": "Netherite",
-   "p": 200
+   "p": 200,
+   "cpic": "Diamond"
   },
   {
    "q": "Which red dust is used to build circuits and machines?",
@@ -681,7 +697,8 @@
    "q": "Which item is crafted from sugar cane and used to make books?",
    "a": "Paper",
    "p": 200,
-   "apic": "Paper"
+   "apic": "Paper",
+   "cpic": "Sugar"
   },
   {
    "q": "Which block is made by smelting sand?",
@@ -874,7 +891,8 @@
   {
    "q": "Which pickaxe tier is needed to mine diamond ore?",
    "a": "Iron",
-   "p": 200
+   "p": 200,
+   "cpic": "Diamond"
   },
   {
    "q": "Which animal do creepers run away from?",
@@ -929,7 +947,8 @@
    "q": "Which bird mob dances when a jukebox plays nearby?",
    "a": "Parrot",
    "p": 200,
-   "apic": "Parrot"
+   "apic": "Parrot",
+   "cpic": "Jukebox"
   },
   {
    "q": "Which mob, added in The Wild Update, eats small magma cubes to make froglights?",
@@ -981,7 +1000,8 @@
   {
    "q": "Which pickaxe enchantment increases ore drops like diamonds?",
    "a": "Fortune",
-   "p": 400
+   "p": 400,
+   "cpic": "Pickaxe"
   },
   {
    "q": "Which sword enchantment increases mob loot drops?",
@@ -991,7 +1011,8 @@
   {
    "q": "Which trident enchantment launches the player forward in water or rain?",
    "a": "Riptide",
-   "p": 400
+   "p": 400,
+   "cpic": "Water"
   },
   {
    "q": "Which trident enchantment makes it return after being thrown?",
@@ -1046,7 +1067,8 @@
   {
    "q": "What heals the Ender Dragon during the fight from atop the obsidian pillars?",
    "a": "End crystals",
-   "p": 400
+   "p": 400,
+   "cpic": "Obsidian"
   },
   {
    "q": "Which block shares the same storage across every location for one player?",
@@ -1071,7 +1093,8 @@
    "q": "Which item made from copper and amethyst lets you zoom in?",
    "a": "Spyglass",
    "p": 400,
-   "apic": "Spyglass"
+   "apic": "Spyglass",
+   "cpic": "Copper"
   },
   {
    "q": "Which weapon added in 1.21 deals more damage the further you fall?",
@@ -1126,7 +1149,8 @@
    "q": "Which animal model mistake led to the creation of the creeper?",
    "a": "Pig",
    "p": 400,
-   "apic": "Pig"
+   "apic": "Pig",
+   "cpic": "Creeper (Minecraft)"
   },
   {
    "q": "How is a charged creeper created?",
@@ -1134,7 +1158,8 @@
    "p": 400,
    "alt": [
     "Lightning"
-   ]
+   ],
+   "cpic": "Creeper (Minecraft)"
   },
   {
    "q": "Which mob drops the skulls needed to summon the Wither?",
@@ -1195,7 +1220,8 @@
   {
    "q": "Which rail type, made with gold, speeds up minecarts?",
    "a": "Powered rail",
-   "p": 400
+   "p": 400,
+   "cpic": "Gold"
   },
   {
    "q": "Which item turns a regular piston into a sticky piston?",
@@ -1238,7 +1264,8 @@
    "p": 400,
    "alt": [
     "Mesa"
-   ]
+   ],
+   "cpic": "Gold"
   },
   {
    "q": "Which cave biome has azalea trees, glow berries and axolotls?",
@@ -1465,12 +1492,14 @@
    "q": "What is C418's real name?",
    "a": "Daniel Rosenfeld",
    "p": 600,
-   "apic": "C418"
+   "apic": "C418",
+   "cpic": "C418"
   },
   {
    "q": "Which Lena Raine music disc is found in dungeon and stronghold chests?",
    "a": "Otherside",
-   "p": 600
+   "p": 600,
+   "cpic": "Lena Raine"
   },
   {
    "q": "Who composed the music disc 'Relic' found in Trails & Tales?",
@@ -1514,18 +1543,21 @@
   {
    "q": "Which copper item protects nearby blocks from lightning?",
    "a": "Lightning rod",
-   "p": 600
+   "p": 600,
+   "cpic": "Copper"
   },
   {
    "q": "Which mob drops the scutes used to craft wolf armour?",
    "a": "Armadillo",
-   "p": 600
+   "p": 600,
+   "cpic": "Wolf"
   },
   {
    "q": "Which tool collects wool from sheep without hurting them?",
    "a": "Shears",
    "p": 200,
-   "apic": "Shears"
+   "apic": "Shears",
+   "cpic": "Sheep"
   },
   {
    "q": "Which block, made from four planks, is used to craft most tools?",
@@ -1600,12 +1632,14 @@
    "p": 200,
    "alt": [
     "3"
-   ]
+   ],
+   "cpic": "Pickaxe"
   },
   {
    "q": "Which sweet drink do you collect from a full bee nest with a glass bottle?",
    "a": "Honey bottle",
-   "p": 200
+   "p": 200,
+   "cpic": "Glass"
   },
   {
    "q": "Which item shows a top-down view of the area you have explored?",
@@ -1637,7 +1671,8 @@
   {
    "q": "Which desert zombie variant does not burn in sunlight?",
    "a": "Husk",
-   "p": 400
+   "p": 400,
+   "cpic": "Zombie"
   },
   {
    "q": "How many iron blocks form the body of an iron golem?",

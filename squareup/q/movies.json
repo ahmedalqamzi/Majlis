@@ -123,7 +123,8 @@
    "q": "In Star Wars, who is Luke Skywalker's father?",
    "a": "Darth Vader",
    "p": 200,
-   "apic": "Darth Vader"
+   "apic": "Darth Vader",
+   "cpic": "Luke Skywalker"
   },
   {
    "q": "What is the name of the space ranger toy in Toy Story?",
@@ -161,7 +162,8 @@
   {
    "q": "In Despicable Me, what is the main character's name, voiced by Steve Carell?",
    "a": "Gru",
-   "p": 200
+   "p": 200,
+   "cpic": "Steve Carell"
   },
   {
    "q": "In which film does a girl named Dorothy travel to the Land of Oz?",
@@ -182,7 +184,8 @@
    "q": "Which movie features a giant ape climbing the Empire State Building?",
    "a": "King Kong",
    "p": 200,
-   "apic": "King Kong"
+   "apic": "King Kong",
+   "cpic": "Empire State Building"
   },
   {
    "q": "What is Batman's alter ego?",
@@ -250,7 +253,8 @@
   {
    "q": "Which 1994 prison drama stars Tim Robbins and Morgan Freeman?",
    "a": "The Shawshank Redemption",
-   "p": 400
+   "p": 400,
+   "cpic": "Morgan Freeman"
   },
   {
    "q": "Which actress played Katniss Everdeen in The Hunger Games?",
@@ -300,7 +304,8 @@
   {
    "q": "Which 2014 Christopher Nolan film involves space travel through a wormhole?",
    "a": "Interstellar",
-   "p": 400
+   "p": 400,
+   "cpic": "Christopher Nolan"
   },
   {
    "q": "Which actor won an Oscar for playing the title character in Joker (2019)?",
@@ -362,7 +367,8 @@
    "q": "Which 1942 film stars Humphrey Bogart and Ingrid Bergman in Morocco?",
    "a": "Casablanca",
    "p": 400,
-   "apic": "Casablanca (film)"
+   "apic": "Casablanca (film)",
+   "cpic": "Humphrey Bogart"
   },
   {
    "q": "Which Egyptian director made the 1958 film Cairo Station?",
@@ -408,7 +414,8 @@
   {
    "q": "Which Chloe Zhao film won Best Picture at the 2021 Oscars?",
    "a": "Nomadland",
-   "p": 600
+   "p": 600,
+   "cpic": "Chloé Zhao"
   },
   {
    "q": "Which film won Best Picture at the 95th Academy Awards, held in March 2023?",
@@ -626,7 +633,8 @@
    "alt": [
     "Burj Dubai"
    ],
-   "apic": "Burj Khalifa"
+   "apic": "Burj Khalifa",
+   "cpic": "Tom Cruise"
   },
   {
    "q": "Which British secret agent has the code number 007?",
@@ -676,7 +684,8 @@
    "p": 200,
    "alt": [
     "Thomas Anderson"
-   ]
+   ],
+   "cpic": "Keanu Reeves"
   },
   {
    "q": "Which actor plays John Wick?",
@@ -718,7 +727,8 @@
   {
    "q": "What is the call sign of Tom Cruise's pilot in Top Gun?",
    "a": "Maverick",
-   "p": 200
+   "p": 200,
+   "cpic": "Tom Cruise"
   },
   {
    "q": "Which actor voices Donkey in Shrek?",
@@ -793,7 +803,8 @@
    "p": 200,
    "alt": [
     "Mrs Doubtfire"
-   ]
+   ],
+   "cpic": "Robin Williams"
   },
   {
    "q": "Which 1995 film features a magical jungle board game?",
@@ -814,7 +825,8 @@
    "p": 200,
    "alt": [
     "MIB"
-   ]
+   ],
+   "cpic": "Tommy Lee Jones"
   },
   {
    "q": "Which 2001 heist film features George Clooney leading a crew robbing Las Vegas casinos?",
@@ -823,7 +835,8 @@
    "alt": [
     "Oceans Eleven",
     "Ocean's 11"
-   ]
+   ],
+   "cpic": "George Clooney"
   },
   {
    "q": "Which 1994 film features a bus rigged to explode if it slows down?",
@@ -850,7 +863,8 @@
   {
    "q": "Which 2015 film sees Matt Damon stranded on Mars?",
    "a": "The Martian",
-   "p": 200
+   "p": 200,
+   "cpic": "Matt Damon"
   },
   {
    "q": "Which actress plays Wonder Woman in the 2017 film?",
@@ -865,7 +879,8 @@
    "alt": [
     "Rock"
    ],
-   "apic": "Dwayne Johnson"
+   "apic": "Dwayne Johnson",
+   "cpic": "Dwayne Johnson"
   },
   {
    "q": "Which 2008 ABBA musical is set on a Greek island?",
@@ -881,12 +896,14 @@
    "p": 200,
    "alt": [
     "Greatest Showman"
-   ]
+   ],
+   "cpic": "Hugh Jackman"
   },
   {
    "q": "Which 2008 thriller stars Liam Neeson rescuing his kidnapped daughter in Paris?",
    "a": "Taken",
-   "p": 200
+   "p": 200,
+   "cpic": "Liam Neeson"
   },
   {
    "q": "What is the name of the leader of the Autobots in Transformers?",
@@ -945,12 +962,14 @@
   {
    "q": "Which 2018 biopic tells the story of Freddie Mercury and Queen?",
    "a": "Bohemian Rhapsody",
-   "p": 200
+   "p": 200,
+   "cpic": "Freddie Mercury"
   },
   {
    "q": "Which 1994 comedy stars Jim Carrey as a man transformed by a magical mask?",
    "a": "The Mask",
-   "p": 200
+   "p": 200,
+   "cpic": "Jim Carrey"
   },
   {
    "q": "Which 1988 action film is set in the Nakatomi Plaza skyscraper?",
@@ -1003,7 +1022,8 @@
   {
    "q": "Billie Eilish sang the theme song for which Bond film?",
    "a": "No Time to Die",
-   "p": 400
+   "p": 400,
+   "cpic": "Billie Eilish"
   },
   {
    "q": "In which US city is Rocky set?",
@@ -1031,7 +1051,8 @@
   {
    "q": "What is the name of the volleyball that keeps Tom Hanks company in Cast Away?",
    "a": "Wilson",
-   "p": 200
+   "p": 200,
+   "cpic": "Tom Hanks"
   },
   {
    "q": "Which actor plays Kevin in Home Alone?",
@@ -1104,7 +1125,8 @@
     "Timothee Chalamet",
     "Chalamet"
    ],
-   "apic": "Timothée Chalamet"
+   "apic": "Timothée Chalamet",
+   "cpic": "Denis Villeneuve"
   },
   {
    "q": "Who directed Dune (2021) and Dune: Part Two?",
@@ -1146,7 +1168,8 @@
    "p": 400,
    "alt": [
     "Roger Rabbit"
-   ]
+   ],
+   "cpic": "Los Angeles"
   },
   {
    "q": "Which 1995 film stars Mel Gibson as Scottish warrior William Wallace?",
@@ -1156,7 +1179,8 @@
   {
    "q": "Which 1999 film stars Brad Pitt and Edward Norton founding an underground club?",
    "a": "Fight Club",
-   "p": 400
+   "p": 400,
+   "cpic": "Edward Norton"
   },
   {
    "q": "Which 2006 film stars Meryl Streep as fashion editor Miranda Priestly?",
@@ -1164,7 +1188,8 @@
    "p": 400,
    "alt": [
     "Devil Wears Prada"
-   ]
+   ],
+   "cpic": "Meryl Streep"
   },
   {
    "q": "Which 2013 film stars Leonardo DiCaprio as stockbroker Jordan Belfort?",
@@ -1172,12 +1197,14 @@
    "p": 400,
    "alt": [
     "Wolf of Wall Street"
-   ]
+   ],
+   "cpic": "Leonardo DiCaprio"
   },
   {
    "q": "Which 2002 film has Tom Hanks chasing con artist Frank Abagnale?",
    "a": "Catch Me If You Can",
-   "p": 400
+   "p": 400,
+   "cpic": "Tom Hanks"
   },
   {
    "q": "Which 2010 film tells the story of Facebook's founding?",
@@ -1193,7 +1220,8 @@
    "p": 400,
    "alt": [
     "Truman Show"
-   ]
+   ],
+   "cpic": "Jim Carrey"
   },
   {
    "q": "Which actor plays God in Bruce Almighty?",
@@ -1204,12 +1232,14 @@
   {
    "q": "Which 2013 film stars Sandra Bullock stranded in orbit after a disaster?",
    "a": "Gravity",
-   "p": 400
+   "p": 400,
+   "cpic": "Sandra Bullock"
   },
   {
    "q": "Which 1995 film stars Tom Hanks as astronaut Jim Lovell?",
    "a": "Apollo 13",
-   "p": 400
+   "p": 400,
+   "cpic": "Tom Hanks"
   },
   {
    "q": "Which actor played Superman in the 1978 film?",
@@ -1301,7 +1331,8 @@
    "p": 400,
    "alt": [
     "Inglorious Basterds"
-   ]
+   ],
+   "cpic": "Quentin Tarantino"
   },
   {
    "q": "Which 2003 Tarantino film stars Uma Thurman seeking revenge with a samurai sword?",
@@ -1310,7 +1341,8 @@
    "alt": [
     "Kill Bill: Volume 1",
     "Kill Bill Vol. 1"
-   ]
+   ],
+   "cpic": "Uma Thurman"
   },
   {
    "q": "Which 2019 Tarantino film is set in Los Angeles in 1969?",
@@ -1318,12 +1350,14 @@
    "p": 400,
    "alt": [
     "Once Upon a Time... in Hollywood"
-   ]
+   ],
+   "cpic": "Los Angeles"
   },
   {
    "q": "Which 2002 Spielberg film stars Tom Cruise as an officer who stops crimes before they happen?",
    "a": "Minority Report",
-   "p": 400
+   "p": 400,
+   "cpic": "Tom Cruise"
   },
   {
    "q": "Which 2004 Spielberg film stars Tom Hanks living inside a New York airport?",
@@ -1388,7 +1422,8 @@
     "Tramp",
     "The Little Tramp"
    ],
-   "apic": "The Tramp"
+   "apic": "The Tramp",
+   "cpic": "Charlie Chaplin"
   },
   {
    "q": "Which 1952 musical features Gene Kelly dancing with an umbrella in a downpour?",
@@ -1404,7 +1439,8 @@
    "p": 200,
    "alt": [
     "Sound of Music"
-   ]
+   ],
+   "cpic": "Julie Andrews"
   },
   {
    "q": "Which 1961 musical features rival gangs the Jets and the Sharks?",
@@ -1422,12 +1458,14 @@
   {
    "q": "Which 1989 film stars Robin Williams as inspiring English teacher John Keating?",
    "a": "Dead Poets Society",
-   "p": 400
+   "p": 400,
+   "cpic": "Robin Williams"
   },
   {
    "q": "Which 1997 film stars Matt Damon as a janitor and maths genius at MIT?",
    "a": "Good Will Hunting",
-   "p": 400
+   "p": 400,
+   "cpic": "Matt Damon"
   },
   {
    "q": "What is the name of the chimpanzee who leads the apes in the Planet of the Apes reboot films?",
@@ -1451,7 +1489,8 @@
   {
    "q": "Which 2019 musical biopic tells the story of Elton John?",
    "a": "Rocketman",
-   "p": 400
+   "p": 400,
+   "cpic": "Elton John"
   },
   {
    "q": "Which actor plays veteran racer Sonny Hayes in the 2025 film F1?",
@@ -1466,7 +1505,8 @@
    "alt": [
     "Pursuit of Happyness",
     "The Pursuit of Happiness"
-   ]
+   ],
+   "cpic": "Will Smith"
   },
   {
    "q": "Which 1996 film follows storm chasers pursuing tornadoes in Oklahoma?",
@@ -1476,7 +1516,8 @@
   {
    "q": "Which 1998 film sends Bruce Willis's drilling crew to stop an asteroid?",
    "a": "Armageddon",
-   "p": 400
+   "p": 400,
+   "cpic": "Bruce Willis"
   },
   {
    "q": "What is the top prize at the Cannes Film Festival?",
@@ -1486,7 +1527,8 @@
     "Golden Palm",
     "Palme d’Or"
    ],
-   "apic": "Palme d'Or"
+   "apic": "Palme d'Or",
+   "cpic": "Cannes Film Festival"
   },
   {
    "q": "Which country's film industry is nicknamed Nollywood?",
@@ -1584,7 +1626,8 @@
    "alt": [
     "Eisenberg"
    ],
-   "apic": "Jesse Eisenberg"
+   "apic": "Jesse Eisenberg",
+   "cpic": "Mark Zuckerberg"
   },
   {
    "q": "Which 1999 Stephen King adaptation stars Tom Hanks as a death row prison guard?",
@@ -1592,7 +1635,8 @@
    "p": 600,
    "alt": [
     "Green Mile"
-   ]
+   ],
+   "cpic": "Stephen King"
   },
   {
    "q": "Which 1986 Rob Reiner film follows four boys searching for a body in Oregon?",
@@ -1615,22 +1659,26 @@
   {
    "q": "Which 2000 Christopher Nolan thriller is told partly in reverse order?",
    "a": "Memento",
-   "p": 600
+   "p": 600,
+   "cpic": "Christopher Nolan"
   },
   {
    "q": "Which 2016 Denis Villeneuve film stars Amy Adams as a linguist decoding an alien language?",
    "a": "Arrival",
-   "p": 600
+   "p": 600,
+   "cpic": "Denis Villeneuve"
   },
   {
    "q": "Which 2013 Spike Jonze film follows a man falling in love with an AI operating system?",
    "a": "Her",
-   "p": 600
+   "p": 600,
+   "cpic": "Spike Jonze"
   },
   {
    "q": "Which 2014 Alex Garland film tests whether a humanoid robot called Ava is conscious?",
    "a": "Ex Machina",
-   "p": 600
+   "p": 600,
+   "cpic": "Alex Garland"
   },
   {
    "q": "Who directed District 9?",
@@ -1706,7 +1754,8 @@
   {
    "q": "Which 1964 musical stars Audrey Hepburn as flower seller Eliza Doolittle?",
    "a": "My Fair Lady",
-   "p": 600
+   "p": 600,
+   "cpic": "Audrey Hepburn"
   },
   {
    "q": "Which 1959 Hitchcock film has Cary Grant chased by a crop-duster plane?",
@@ -1886,7 +1935,8 @@
    "q": "Which 2012 film by Haifaa al-Mansour, about a girl who wants a bicycle, was the first feature shot entirely in Saudi Arabia?",
    "a": "Wadjda",
    "p": 600,
-   "ar": "وجدة"
+   "ar": "وجدة",
+   "cpic": "Haifaa al-Mansour"
   },
   {
    "q": "Which Lebanese director made Capernaum (2018)?",

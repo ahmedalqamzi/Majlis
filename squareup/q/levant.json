@@ -7,14 +7,16 @@
    "a": "Beirut",
    "p": 200,
    "ar": "بيروت",
-   "apic": "Beirut"
+   "apic": "Beirut",
+   "cpic": "Lebanon"
   },
   {
    "q": "What is the capital of Jordan?",
    "a": "Amman",
    "p": 200,
    "ar": "عمّان",
-   "apic": "Amman"
+   "apic": "Amman",
+   "cpic": "Jordan"
   },
   {
    "q": "What is the capital of Syria?",
@@ -34,7 +36,8 @@
      "Nabataeans",
      "الأنباط"
     ]
-   ]
+   ],
+   "cpic": "Nabataeans"
   },
   {
    "q": "Which very salty lake, the lowest land elevation on Earth, lets swimmers float effortlessly?",
@@ -47,7 +50,8 @@
    "a": "Wadi Rum",
    "p": 200,
    "ar": "وادي رم",
-   "apic": "Wadi Rum"
+   "apic": "Wadi Rum",
+   "cpic": "Jordan"
   },
   {
    "q": "Which Lebanese city is home to the huge Roman temples of Jupiter and Bacchus?",
@@ -92,7 +96,8 @@
    "a": "Mansaf",
    "p": 200,
    "ar": "منسف",
-   "apic": "Mansaf"
+   "apic": "Mansaf",
+   "cpic": "Jordan"
   },
   {
    "q": "Which Levantine dish of ground meat and bulgur wheat is shaped into ovals and fried or baked?",
@@ -132,7 +137,8 @@
      "tahini",
      "طحينة"
     ]
-   ]
+   ],
+   "cpic": "Tahini"
   },
   {
    "q": "Which deep-fried chickpea balls are a staple Levantine street food?",
@@ -179,7 +185,8 @@
     "Cedar of Lebanon",
     "Cedars"
    ],
-   "apic": "Cedrus libani"
+   "apic": "Cedrus libani",
+   "cpic": "img/flags/e58c44ce7e.svg"
   },
   {
    "q": "Which dish of meat slow-roasted on a vertical spit and wrapped in flatbread is popular across the Levant?",
@@ -202,7 +209,8 @@
     "Zatar",
     "Zaatar"
    ],
-   "apic": "Za'atar"
+   "apic": "Za'atar",
+   "cpic": "Sumac"
   },
   {
    "q": "Which dessert of shredded pastry and melted cheese soaked in syrup is a Levantine favourite?",
@@ -242,7 +250,8 @@
      "hummus",
      "حمص"
     ]
-   ]
+   ],
+   "cpic": "Hummus"
   },
   {
    "q": "Which salad of mixed greens, vegetables, sumac and crispy fried bread is a Levantine favourite?",
@@ -253,7 +262,8 @@
     "Fattouch",
     "Fatoush"
    ],
-   "apic": "Fattoush"
+   "apic": "Fattoush",
+   "cpic": "Sumac"
   },
   {
    "q": "Which strained yoghurt, thick like soft cheese, is often drizzled with olive oil at Levantine breakfasts?",
@@ -265,7 +275,8 @@
     "Labaneh",
     "Labna"
    ],
-   "apic": "Strained yogurt"
+   "apic": "Strained yogurt",
+   "cpic": "Olive"
   },
   {
    "q": "Which round baked flatbread, topped with za'atar or cheese, is a Lebanese breakfast favourite?",
@@ -284,21 +295,24 @@
      "za'atar",
      "زعتر"
     ]
-   ]
+   ],
+   "cpic": "Za'atar"
   },
   {
    "q": "Which ancient Syrian desert city is famed for its colonnaded streets and Temple of Bel?",
    "a": "Palmyra",
    "p": 200,
    "ar": "تدمر",
-   "apic": "Palmyra"
+   "apic": "Palmyra",
+   "cpic": "Syrian desert"
   },
   {
    "q": "What is Jordan's only seaport, on the Red Sea?",
    "a": "Aqaba",
    "p": 200,
    "ar": "العقبة",
-   "apic": "Aqaba"
+   "apic": "Aqaba",
+   "cpic": "Red Sea"
   },
   {
    "q": "Which northern Syrian city is famed for its citadel and its laurel soap?",
@@ -316,7 +330,8 @@
    "alt": [
     "River Jordan"
    ],
-   "apic": "Jordan River"
+   "apic": "Jordan River",
+   "cpic": "Dead Sea"
   },
   {
    "q": "Which seafaring ancient people of the Lebanese coast were known for purple dye and an early alphabet?",
@@ -349,7 +364,8 @@
     "Moutabal",
     "Mutabbal"
    ],
-   "apic": "Baba ghanoush"
+   "apic": "Baba ghanoush",
+   "cpic": "Tahini"
   },
   {
    "q": "Which Levantine 'upside-down' dish of rice, meat and vegetables is flipped onto a platter before serving?",
@@ -422,7 +438,8 @@
      "Petra",
      "البتراء"
     ]
-   ]
+   ],
+   "cpic": "Petra"
   },
   {
    "q": "Which ancient Arab people carved Petra from the rock?",
@@ -456,7 +473,8 @@
      "Beirut",
      "بيروت"
     ]
-   ]
+   ],
+   "cpic": "Beirut"
   },
   {
    "q": "Which twin sea stacks off Beirut's coast are a famous landmark?",
@@ -474,7 +492,8 @@
      "Beirut",
      "بيروت"
     ]
-   ]
+   ],
+   "cpic": "Beirut"
   },
   {
    "q": "Which Lebanese port city, known as Sour in Arabic, was a Phoenician centre famed for purple dye?",
@@ -558,7 +577,8 @@
      "Damascus",
      "دمشق"
     ]
-   ]
+   ],
+   "cpic": "Umayyad Mosque"
   },
   {
    "q": "What is the name of the dried, fermented yoghurt used in mansaf?",
@@ -573,7 +593,8 @@
      "mansaf",
      "منسف"
     ]
-   ]
+   ],
+   "cpic": "Mansaf"
   },
   {
    "q": "Which Palestinian dish of roast chicken with sumac-onions on taboon bread is a national favourite?",
@@ -590,7 +611,8 @@
      "taboon",
      "طابون"
     ]
-   ]
+   ],
+   "cpic": "Sumac"
   },
   {
    "q": "Which Palestinian city gives its name to a famous knafeh made with white cheese?",
@@ -664,7 +686,8 @@
    "alt": [
     "Darwish"
    ],
-   "apic": "Mahmoud Darwish"
+   "apic": "Mahmoud Darwish",
+   "cpic": "Arab world"
   },
   {
    "q": "Which Syrian poet, born in Damascus, was famed for his romantic Arabic verse?",
@@ -680,7 +703,8 @@
      "Damascus",
      "دمشق"
     ]
-   ]
+   ],
+   "cpic": "Damascus"
   },
   {
    "q": "Which Lebanese director's film Capernaum won the Jury Prize at Cannes in 2018?",
@@ -720,7 +744,8 @@
      "Fairuz",
      "فيروز"
     ]
-   ]
+   ],
+   "cpic": "Fairuz"
   },
   {
    "q": "Which Palestinian singer won Arab Idol in 2013?",
@@ -783,7 +808,8 @@
    "a": "Jericho",
    "p": 400,
    "ar": "أريحا",
-   "apic": "Jericho"
+   "apic": "Jericho",
+   "cpic": "Dead Sea"
   },
   {
    "q": "Which queen of Palmyra challenged Rome in the 3rd century CE?",
@@ -796,7 +822,8 @@
      "Palmyra",
      "تدمر"
     ]
-   ]
+   ],
+   "cpic": "Palmyra"
   },
   {
    "q": "Which 1962 epic film starring Peter O'Toole was shot partly in Wadi Rum?",
@@ -819,7 +846,8 @@
    "alt": [
     "Jellab"
    ],
-   "apic": "Jallab"
+   "apic": "Jallab",
+   "cpic": "Rose water"
   },
   {
    "q": "Which river, the longest in Lebanon, flows through the Bekaa Valley before reaching the Mediterranean?",
@@ -836,7 +864,8 @@
      "Bekaa Valley",
      "البقاع"
     ]
-   ]
+   ],
+   "cpic": "Lebanon"
   },
   {
    "q": "Which Lebanese oud player and composer is known for setting poems of Mahmoud Darwish to music?",
@@ -849,7 +878,8 @@
      "Mahmoud Darwish",
      "محمود درويش"
     ]
-   ]
+   ],
+   "cpic": "Mahmoud Darwish"
   },
   {
    "q": "Which double-reed Levantine pipe, with two parallel tubes, accompanies dabke?",
@@ -867,7 +897,8 @@
      "dabke",
      "دبكة"
     ]
-   ]
+   ],
+   "cpic": "Dabke"
   },
   {
    "q": "What is the name of Fairuz's son, a gifted composer and playwright?",
@@ -883,7 +914,8 @@
      "Fairuz",
      "فيروز"
     ]
-   ]
+   ],
+   "cpic": "Fairuz"
   },
   {
    "q": "What is Fairuz's birth name?",
@@ -899,7 +931,8 @@
      "Fairuz",
      "فيروز"
     ]
-   ]
+   ],
+   "cpic": "Fairuz"
   },
   {
    "q": "Which Syrian-born singer, sister of Farid al-Atrash, was a star of 1930s and 1940s Cairo?",
@@ -916,7 +949,8 @@
      "Cairo",
      "القاهرة"
     ]
-   ]
+   ],
+   "cpic": "Farid al-Atrash"
   },
   {
    "q": "Which Lebanese-born author won the 1993 Prix Goncourt for The Rock of Tanios?",
@@ -947,7 +981,8 @@
      "Damascus",
      "دمشق"
     ]
-   ]
+   ],
+   "cpic": "Umayyad Mosque"
   },
   {
    "q": "What is the name of Petra's large rock-cut monument reached by 800 steps, rivalling the Treasury in size?",
@@ -981,7 +1016,8 @@
      "Petra",
      "البتراء"
     ]
-   ]
+   ],
+   "cpic": "Petra"
   },
   {
    "q": "Which Crusader castle in southern Jordan was the base of Raynald of Chatillon?",
@@ -1017,7 +1053,8 @@
     "Qurnat as-Sawda",
     "Qornet el Sawda"
    ],
-   "apic": "Qurnat as Sawda'"
+   "apic": "Qurnat as Sawda'",
+   "cpic": "Lebanon"
   },
   {
    "q": "How many letters did the Phoenician alphabet contain?",
@@ -1062,7 +1099,8 @@
      "Damascus",
      "دمشق"
     ]
-   ]
+   ],
+   "cpic": "Damascus"
   },
   {
    "q": "What is the Arabic name, meaning 'immersion', of the baptism site in Jordan on the Jordan River?",
@@ -1140,7 +1178,8 @@
      "Amman",
      "عمّان"
     ]
-   ]
+   ],
+   "cpic": "Amman"
   },
   {
    "q": "What is the name of the ancient Roman street of Damascus mentioned in the New Testament?",
@@ -1156,7 +1195,8 @@
      "Damascus",
      "دمشق"
     ]
-   ]
+   ],
+   "cpic": "Damascus"
   },
   {
    "q": "Which 18th-century Damascus palace, a museum of traditions, is a showpiece of Ottoman Syrian architecture?",
@@ -1362,7 +1402,8 @@
      "Beirut",
      "بيروت"
     ]
-   ]
+   ],
+   "cpic": "Beirut"
   },
   {
    "q": "Which Colombian superstar of 'Hips Don't Lie' has Lebanese heritage on her father's side?",
@@ -1397,7 +1438,8 @@
    "a": "Beirut",
    "p": 200,
    "ar": "بيروت",
-   "apic": "Beirut"
+   "apic": "Beirut",
+   "cpic": "Middle East"
   },
   {
    "q": "Which great river flows through eastern Syria on its way to Iraq?",
@@ -1449,7 +1491,8 @@
    "ar": "زعتر وزيت",
    "alt": [
     "Zaatar and Zeit"
-   ]
+   ],
+   "cpic": "Olive"
   },
   {
    "q": "Which 2015 Matt Damon film used Wadi Rum to stand in for Mars?",
@@ -1474,7 +1517,8 @@
      "Beirut",
      "بيروت"
     ]
-   ]
+   ],
+   "cpic": "Grace Kelly"
   },
   {
    "q": "Which stuffed courgettes, cooked in tomato or yoghurt sauce, are a Levantine home favourite?",
@@ -1496,7 +1540,8 @@
    "alt": [
     "Garlic sauce"
    ],
-   "apic": "Toum"
+   "apic": "Toum",
+   "cpic": "Grilled chicken"
   },
   {
    "q": "How many points does the white star on Jordan's flag have?",
@@ -1529,7 +1574,8 @@
      "Aleppo",
      "حلب"
     ]
-   ]
+   ],
+   "cpic": "Aleppo"
   },
   {
    "q": "What is the smoky aubergine dip blended with tahini and yoghurt, close cousin of baba ghanouj, called?",
@@ -1548,7 +1594,8 @@
      "baba ghanouj",
      "بابا غنوج"
     ]
-   ]
+   ],
+   "cpic": "Tahini"
   },
   {
    "q": "Which open-faced Levantine meat pies are topped with spiced minced lamb?",
@@ -1871,7 +1918,8 @@
      "Asmahan",
      "أسمهان"
     ]
-   ]
+   ],
+   "cpic": "Asmahan"
   },
   {
    "q": "Which Lebanese tenor, known as the 'Voice of Lebanon', was a master of mountain mawwal singing?",
@@ -2062,7 +2110,8 @@
      "knafeh",
      "كنافة"
     ]
-   ]
+   ],
+   "cpic": "Knafeh"
   },
   {
    "q": "Besides knafeh, which olive-oil product has Nablus been famous for making for centuries?",
@@ -2081,7 +2130,8 @@
      "Nablus",
      "نابلس"
     ]
-   ]
+   ],
+   "cpic": "Knafeh"
   },
   {
    "q": "Which Jordanian summer festival is staged among the Roman ruins of ancient Gerasa?",
@@ -2113,7 +2163,8 @@
      "Amman",
      "عمّان"
     ]
-   ]
+   ],
+   "cpic": "Amman"
   },
   {
    "q": "Which Damascus ice-cream parlour in the Hamidiyah Souq is famous for its pounded booza?",
@@ -2168,7 +2219,8 @@
      "za'atar",
      "زعتر"
     ]
-   ]
+   ],
+   "cpic": "Za'atar"
   },
   {
    "q": "Which small aubergines, stuffed with walnuts and chilli and cured in olive oil, are a Syrian pantry staple?",
@@ -2178,7 +2230,8 @@
    "alt": [
     "Makdoos"
    ],
-   "apic": "Makdous"
+   "apic": "Makdous",
+   "cpic": "Olive"
   },
   {
    "q": "Which Lebanese yoghurt dish features little meat dumplings cooked in warm yoghurt?",
@@ -2204,7 +2257,8 @@
    "alt": [
     "Mughli",
     "Moghli"
-   ]
+   ],
+   "cpic": "Rice pudding"
   },
   {
    "q": "Which sweet cheese rolls stuffed with cream are a speciality of Homs and Hama?",
@@ -2224,7 +2278,8 @@
      "Hama",
      "حماة"
     ]
-   ]
+   ],
+   "cpic": "Hama"
   },
   {
    "q": "Which Syrian comedian is famed for playing the character Ghawar al-Toshe?",
@@ -2258,7 +2313,8 @@
      "Aleppo",
      "حلب"
     ]
-   ]
+   ],
+   "cpic": "Aleppo"
   },
   {
    "q": "What is the name of the UNESCO-listed early-Islamic desert lodge in Jordan famous for its frescoes?",
@@ -2350,7 +2406,8 @@
      "Damascus",
      "دمشق"
     ]
-   ]
+   ],
+   "cpic": "Umayyad Mosque"
   },
   {
    "q": "In Greek myth, which Phoenician princess of Tyre was carried off by Zeus disguised as a bull?",
@@ -2363,7 +2420,8 @@
    "p": 600,
    "alt": [
     "Elissa"
-   ]
+   ],
+   "cpic": "Carthage"
   },
   {
    "q": "Which sea snail was crushed to make the famous Tyrian purple dye?",
@@ -2442,7 +2500,8 @@
      "Jericho",
      "أريحا"
     ]
-   ]
+   ],
+   "cpic": "Jericho"
   },
   {
    "q": "Which Lebanese art museum, housed in a 1912 mansion in Achrafieh, is named after a patron family?",
@@ -2494,7 +2553,8 @@
      "knafeh",
      "كنافة"
     ]
-   ]
+   ],
+   "cpic": "Knafeh"
   },
   {
    "q": "Which Lebanese fishing town north of Byblos is known for its Phoenician sea wall and lemonade?",
@@ -2507,7 +2567,8 @@
      "Byblos",
      "جبيل"
     ]
-   ]
+   ],
+   "cpic": "Byblos"
   },
   {
    "q": "What is the Arabic name of the Phoenician city of Sidon?",
@@ -2517,7 +2578,8 @@
    "alt": [
     "Sayda"
    ],
-   "apic": "Sidon"
+   "apic": "Sidon",
+   "cpic": "Sidon"
   },
   {
    "q": "Which Lebanese spice blend is named for the number of spices it contains?",
@@ -2545,7 +2607,8 @@
      "Amman",
      "عمّان"
     ]
-   ]
+   ],
+   "cpic": "Amman"
   },
   {
    "q": "Which pickled vegetable, coloured bright pink with beetroot, comes with falafel and shawarma?",
@@ -2565,7 +2628,8 @@
      "shawarma",
      "شاورما"
     ]
-   ]
+   ],
+   "cpic": "Shawarma"
   },
   {
    "q": "Which semolina pudding topped with cream and pistachios is named 'Lebanese Nights'?",
@@ -2629,7 +2693,8 @@
      "knafeh",
      "كنافة"
     ]
-   ]
+   ],
+   "cpic": "Baklava"
   },
   {
    "q": "Which crumbly sesame-paste sweet, sold in blocks, is a Levantine pantry staple?",
@@ -2656,7 +2721,8 @@
      "basbousa",
      "بسبوسة"
     ]
-   ]
+   ],
+   "cpic": "Basbousa"
   },
   {
    "q": "What is the full official name of Jordan?",
