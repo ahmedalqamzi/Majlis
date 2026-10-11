@@ -4,6 +4,7 @@
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="Majlis">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <link rel="manifest" href="manifest.json">
 <link rel="apple-touch-icon" href="icon-192.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -194,6 +195,7 @@ h1,h2,h3{font-family:var(--display);font-weight:800;margin:0;text-wrap:balance;l
 .vid a{color:var(--pri);font-weight:700;font-size:14px}
 .aud-mode iframe{position:absolute;left:0;top:0;width:320px;height:200px;opacity:0;pointer-events:none}
 .aud-mode>a{display:none}
+.ios .aud-mode:not(.armed){overflow:hidden}.ios .aud-mode:not(.armed) iframe{width:100%;height:max(100%,200px);opacity:.012;pointer-events:auto;z-index:2;border-radius:var(--r-lg)}
 .vid:not(.aud-mode) .aud-card{display:none}
 .aud-card{display:flex;align-items:center;gap:14px;background:var(--s1);border-radius:var(--r-lg);padding:16px;position:relative;z-index:1}
 .aud-card b{display:block;font-family:var(--display);font-size:19px}.aud-card small{color:var(--muted)}
@@ -753,7 +755,7 @@ function pickTeam(self,title,cb){const m=modal(`<h3 style="font-size:22px">${tit
 function vidHTML(x){if(!x.yt)return "";const s=x.start||0,e=x.end||s+30,url=`https://www.youtube.com/watch?v=${x.yt}&t=${s}s`,aud=x.audio&&!(Q&&Q.revealed);
   if(ytBlocked)return aud?`<div class="aud-card"><span><b>Sound clip</b><small>Clips play inside the Majlis app. Here you can open it on YouTube, but the page shows the title, so let the host play it.</small></span></div><a class="vid-open" href="${url}" target="_blank" rel="noopener"><i></i><span><b>Host: play on YouTube</b><small>Starts at ${s}s, play until ${e}s.</small></span></a>`
     :`<a class="vid-open" href="${url}" target="_blank" rel="noopener"><i></i><span><b>Play the clip</b><small>Opens YouTube at ${s}s. Watch until ${e}s, then come back.</small></span></a>`;
-  return `<div class="vid ${aud?"aud-mode":""}">${x.audio?`<div class="aud-card"><button class="aud-btn" id="audb" onclick="audPlay()" aria-label="Play or pause the sound clip">&#9654;</button><span><b>Listen to the clip</b><small>${e-s} seconds of sound. The video shows after the answer.</small></span><button class="aud-re" onclick="audPlay(true)">Replay</button></div>`:""}<iframe id="ytf" src="https://www.youtube-nocookie.com/embed/${x.yt}?start=${s}&end=${e}&rel=0&playsinline=1&fs=1&modestbranding=1&enablejsapi=1${location.protocol==="https:"?"&origin="+encodeURIComponent(location.origin):""}" referrerpolicy="strict-origin-when-cross-origin" title="Question clip" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe><a href="${url}" target="_blank" rel="noopener">Clip not playing? Open on YouTube</a></div>`}
+  return `<div class="vid ${aud?"aud-mode":""}">${x.audio?`<div class="aud-card"><button class="aud-btn" id="audb" onclick="audPlay()" aria-label="Play or pause the sound clip">&#9654;</button><span><b>Listen to the clip</b><small>${e-s} seconds of sound${IOS?". Tap the card to play":""}. The video shows after the answer.</small></span><button class="aud-re" onclick="audPlay(true)">Replay</button></div>`:""}<iframe id="ytf" src="https://www.youtube-nocookie.com/embed/${x.yt}?start=${s}&end=${e}&rel=0&playsinline=1&fs=1&modestbranding=1&enablejsapi=1${location.protocol==="https:"?"&origin="+encodeURIComponent(location.origin):""}" referrerpolicy="strict-origin-when-cross-origin" title="Question clip" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe><a href="${url}" target="_blank" rel="noopener">Clip not playing? Open on YouTube</a></div>`}
 let audOn=false;
 function ytCmd(func,args){const f=$("#ytf");if(f&&f.contentWindow)f.contentWindow.postMessage(JSON.stringify({event:"command",func,args:args||[]}),"*")}
 function audPlay(restart){const x=cur();if(restart){ytCmd("seekTo",[x.start||0,true]);ytCmd("playVideo");audOn=true}else{audOn=!audOn;ytCmd(audOn?"playVideo":"pauseVideo")}const b=$("#audb");if(b)b.innerHTML=audOn?"&#10074;&#10074;":"&#9654;"}
@@ -764,6 +766,14 @@ function loadPack(c){return PACK[c]||(PACK[c]=new Promise(r=>{const s=document.c
 // Logo-like covers stay off the home photo wall
 const WALL_SKIP=["pokemon","brands","cartoons","spacetoon","gta","fighting","nintendo","xbox","videogames"];
 const APK=location.hostname==="appassets.androidplatform.net";
+// iOS only starts a YouTube player from a tap on the player itself, so on iPhone and iPad the hidden player
+// covers the sound card until the first tap; after it plays, the card's own buttons drive it by postMessage.
+const IOS=/iP(hone|ad|od)/.test(navigator.userAgent)||(navigator.platform==="MacIntel"&&navigator.maxTouchPoints>1);
+if(IOS)document.documentElement.classList.add("ios");
+window.addEventListener("message",e=>{if(!/youtube/.test(e.origin))return;let d;try{d=JSON.parse(e.data)}catch(_){return}
+  const st=d&&d.info&&d.info.playerState;if(st===undefined)return;const v=$("#vidbox .vid");if(!v)return;
+  if(st===1){v.classList.add("armed");audOn=true}else if(st===2||st===0)audOn=false;const b=$("#audb");if(b)b.innerHTML=audOn?"&#10074;&#10074;":"&#9654;"});
+function ytListen(){const f=$("#ytf");if(f)f.addEventListener("load",()=>f.contentWindow.postMessage(JSON.stringify({event:"listening",id:"ytf"}),"*"),{once:true})}
 try{if(!APK&&window.top!==window)document.documentElement.classList.add("framed")}catch(e){document.documentElement.classList.add("framed")}
 function wikiImg(t){if(t[0]==="@"){const [c,k]=t.slice(1).split("/");if(APK)return Promise.resolve(WURL[t]="photos/"+k+".webp");return WIKI[t]||(WIKI[t]=loadPack(c).then(()=>{const u=PHOTO[k]||null;if(u)WURL[t]=u;else delete WIKI[t];return u}))}
   if(!WIKI[t])WIKI[t]=fetch("https://en.wikipedia.org/api/rest_v1/page/summary/"+encodeURIComponent(t.replace(/ /g,"_"))).then(r=>r.ok?r.json():null).then(j=>{
@@ -798,7 +808,7 @@ function buildQ(){const c=CAT[game.cats[Q.ci].id],x=cur();
   $("#qv").innerHTML=`<div class="qbg" ${cov?`style="--u:url('${cov}')"`:""}></div><div class="q-in"><div class="q-head" id="qhead"></div><div class="tags" id="qtags"></div>
    <div class="q-body"><div class="qcard"><div class="qc-media" id="qmedia">${mediaHTML(x)}<div class="qc-tag"><span class="badge" style="--gc:${c.color}">${icon(c.id)}</span>${esc(c.name)}</div><div class="qc-pts" id="qpts"></div></div>
    <div class="qc-txt"><div class="q-text">${qText(x)}</div><div id="qhint"></div><div id="qans"></div></div></div></div><div id="qfoot"></div></div>`;
-  audOn=false;Q.apicShown=false;drawQ();fillPics();if(x.apic)wikiImg(x.apic)}
+  audOn=false;Q.apicShown=false;drawQ();fillPics();ytListen();if(x.apic)wikiImg(x.apic)}
 function drawQ(){
   const c=CAT[game.cats[Q.ci].id],x=cur(),tile=game.cats[Q.ci].tiles[Q.ti],t=game.teams[Q.team];
   const R=33,C=2*Math.PI*R,frac=Math.max(0,Q.left)/Q.total,low=Q.left<=10;
