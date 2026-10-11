@@ -1,0 +1,1197 @@
+{
+ "id": "bud_temples",
+ "name": "Buddhist Temples & Traditions",
+ "questions": [
+  {
+   "q": "Which flower, rising clean from muddy water, is a Buddhist symbol of purity?",
+   "a": "Lotus",
+   "p": 200,
+   "apic": "Nelumbo nucifera"
+  },
+  {
+   "q": "Which spoked wheel symbolises the Buddha's teaching?",
+   "a": "Dharma wheel",
+   "p": 200,
+   "alt": [
+    "Dharmachakra",
+    "Wheel of Dharma",
+    "Dhammacakka"
+   ],
+   "apic": "Dharmachakra"
+  },
+  {
+   "q": "What do Buddhist monks and nuns traditionally shave at ordination?",
+   "a": "Their heads",
+   "p": 200,
+   "alt": [
+    "Head",
+    "Hair"
+   ]
+  },
+  {
+   "q": "Which festival, held on the full moon in May, celebrates the Buddha's birth, enlightenment and passing?",
+   "a": "Vesak",
+   "p": 200,
+   "alt": [
+    "Wesak",
+    "Buddha Purnima",
+    "Buddha Day"
+   ],
+   "apic": "Vesak"
+  },
+  {
+   "q": "Which huge 9th-century temple in Indonesia is the world's largest Buddhist monument?",
+   "a": "Borobudur",
+   "p": 200,
+   "apic": "Borobudur"
+  },
+  {
+   "q": "Which temple complex appears on the national flag of Cambodia?",
+   "a": "Angkor Wat",
+   "p": 200,
+   "apic": "Angkor Wat",
+   "cpic": "img/flags/460bdbed13.svg"
+  },
+  {
+   "q": "Which great gilded pagoda dominates the skyline of Yangon?",
+   "a": "Shwedagon Pagoda",
+   "p": 200,
+   "alt": [
+    "Shwedagon"
+   ],
+   "apic": "Shwedagon Pagoda"
+  },
+  {
+   "q": "What precious metal covers the Shwedagon Pagoda's great spire?",
+   "a": "Gold",
+   "p": 200,
+   "alt": [
+    "Gold leaf"
+   ],
+   "cpic": "Shwedagon Pagoda"
+  },
+  {
+   "q": "What is the name of the dome-shaped Buddhist monument built to house relics?",
+   "a": "Stupa",
+   "p": 200,
+   "alt": [
+    "Dagoba",
+    "Chorten"
+   ],
+   "apic": "Stupa"
+  },
+  {
+   "q": "What name is given to the tiered tower found at many East Asian Buddhist temples?",
+   "a": "Pagoda",
+   "p": 200,
+   "apic": "Pagoda"
+  },
+  {
+   "q": "What colour are the robes most associated with Theravada monks in Thailand and Sri Lanka?",
+   "a": "Saffron",
+   "p": 200,
+   "alt": [
+    "Orange",
+    "Ochre"
+   ]
+  },
+  {
+   "q": "Which smiling, pot-bellied monk of Chinese folklore is popularly called the 'Laughing Buddha'?",
+   "a": "Budai",
+   "p": 200,
+   "alt": [
+    "Hotei",
+    "Pu-Tai"
+   ],
+   "apic": "Budai"
+  },
+  {
+   "q": "Which part of a Laughing Buddha statue do people traditionally rub for good luck?",
+   "a": "Belly",
+   "p": 200,
+   "alt": [
+    "Stomach",
+    "Tummy"
+   ]
+  },
+  {
+   "q": "What Sanskrit word names the symbolic hand gestures of Buddha statues?",
+   "a": "Mudras",
+   "p": 200,
+   "alt": [
+    "Mudra"
+   ],
+   "apic": "Mudra"
+  },
+  {
+   "q": "In Tibetan Buddhism, what spinning cylinders filled with written mantras are turned by hand?",
+   "a": "Prayer wheels",
+   "p": 200,
+   "alt": [
+    "Prayer wheel",
+    "Mani wheel"
+   ],
+   "apic": "Prayer wheel"
+  },
+  {
+   "q": "What colourful printed cloths are strung across Himalayan passes to spread blessings on the wind?",
+   "a": "Prayer flags",
+   "p": 200,
+   "alt": [
+    "Lungta"
+   ],
+   "apic": "Prayer flag"
+  },
+  {
+   "q": "What intricate circular design do Tibetan monks create from coloured sand and then sweep away?",
+   "a": "Mandala",
+   "p": 200,
+   "alt": [
+    "Sand mandala"
+   ],
+   "apic": "Sand mandala"
+  },
+  {
+   "q": "Which Kyoto temple is famous as the 'Golden Pavilion'?",
+   "a": "Kinkaku-ji",
+   "p": 200,
+   "alt": [
+    "Rokuon-ji",
+    "Kinkakuji"
+   ],
+   "apic": "Kinkaku-ji",
+   "cpic": "Kyoto"
+  },
+  {
+   "q": "Which Japanese city, the former imperial capital, is home to over 1,500 Buddhist temples?",
+   "a": "Kyoto",
+   "p": 200,
+   "apic": "Kyoto"
+  },
+  {
+   "q": "In Japanese names such as Ryoan-ji and Daitoku-ji, what does the suffix '-ji' mean?",
+   "a": "Temple",
+   "p": 200
+  },
+  {
+   "q": "Monks of China's Shaolin Temple are world famous for what?",
+   "a": "Kung fu",
+   "p": 200,
+   "alt": [
+    "Martial arts",
+    "Shaolin kung fu"
+   ],
+   "apic": "Shaolin Monastery"
+  },
+  {
+   "q": "In which country is the 71-metre Leshan Giant Buddha, carved into a cliff?",
+   "a": "China",
+   "p": 200,
+   "apic": "Leshan Giant Buddha"
+  },
+  {
+   "q": "In which city is Thailand's Temple of the Emerald Buddha?",
+   "a": "Bangkok",
+   "p": 200,
+   "apic": "Wat Phra Kaew"
+  },
+  {
+   "q": "What vessel do monks carry on their morning rounds to receive food offerings?",
+   "a": "Alms bowl",
+   "p": 200,
+   "alt": [
+    "Begging bowl",
+    "Patta"
+   ]
+  },
+  {
+   "q": "At what time of day do Theravada monks usually walk their alms round?",
+   "a": "Early morning",
+   "p": 200,
+   "alt": [
+    "Dawn",
+    "Morning",
+    "Sunrise"
+   ]
+  },
+  {
+   "q": "What three-letter Thai word for a Buddhist temple begins the names of many monasteries in Thailand?",
+   "a": "Wat",
+   "p": 200
+  },
+  {
+   "q": "At Nara's most famous Buddhist temple, visitors are greeted by hundreds of which bowing animals?",
+   "a": "Deer",
+   "p": 200,
+   "alt": [
+    "Sika deer"
+   ]
+  },
+  {
+   "q": "In which Japanese city is Todai-ji?",
+   "a": "Nara",
+   "p": 200,
+   "apic": "Tōdai-ji"
+  },
+  {
+   "q": "What name is given to a statue showing the Buddha lying on his right side?",
+   "a": "Reclining Buddha",
+   "p": 200,
+   "apic": "Reclining Buddha"
+  },
+  {
+   "q": "Which island nation, home of the Temple of the Tooth, is mostly Theravada Buddhist?",
+   "a": "Sri Lanka",
+   "p": 200,
+   "alt": [
+    "Ceylon"
+   ]
+  },
+  {
+   "q": "What fragrant sticks are burned in front of Buddhist altars?",
+   "a": "Incense",
+   "p": 200,
+   "alt": [
+    "Joss sticks"
+   ]
+  },
+  {
+   "q": "What name is given to a string of prayer beads used to count mantras?",
+   "a": "Mala",
+   "p": 200,
+   "alt": [
+    "Japamala",
+    "Prayer beads"
+   ],
+   "apic": "Japamala"
+  },
+  {
+   "q": "Which seaside Japanese city near Tokyo is famous for its giant outdoor Buddha statue?",
+   "a": "Kamakura",
+   "p": 200,
+   "apic": "Kamakura Daibutsu"
+  },
+  {
+   "q": "In Buddhist art, what glowing circle is often shown behind the Buddha's head?",
+   "a": "Halo",
+   "p": 200,
+   "alt": [
+    "Nimbus",
+    "Aureole"
+   ]
+  },
+  {
+   "q": "In which direction do Buddhists walk around a stupa, keeping it on their right?",
+   "a": "Clockwise",
+   "p": 200
+  },
+  {
+   "q": "Bangkok's Wat Traimit houses a 5.5-tonne Buddha statue made of what?",
+   "a": "Gold",
+   "p": 200,
+   "alt": [
+    "Solid gold"
+   ],
+   "apic": "Wat Traimit"
+  },
+  {
+   "q": "Besides incense and candles, what are the most common offerings placed before Buddhist shrines?",
+   "a": "Flowers",
+   "p": 200,
+   "alt": [
+    "Lotus flowers"
+   ]
+  },
+  {
+   "q": "What should visitors take off before entering most Buddhist temple halls?",
+   "a": "Shoes",
+   "p": 200,
+   "alt": [
+    "Footwear"
+   ]
+  },
+  {
+   "q": "Pairs of which big cats, in stone, guard the entrances of many Chinese temples?",
+   "a": "Lions",
+   "p": 200,
+   "alt": [
+    "Guardian lions",
+    "Foo dogs"
+   ],
+   "apic": "Chinese guardian lions"
+  },
+  {
+   "q": "What is the popular nickname of Hong Kong's giant Tian Tan Buddha statue?",
+   "a": "Big Buddha",
+   "p": 200,
+   "apic": "Tian Tan Buddha"
+  },
+  {
+   "q": "Which Japanese ritual of preparing matcha grew up closely with Zen Buddhism?",
+   "a": "Tea ceremony",
+   "p": 200,
+   "alt": [
+    "Chanoyu",
+    "Japanese tea ceremony"
+   ],
+   "apic": "Japanese tea ceremony"
+  },
+  {
+   "q": "What paper lights are hung in their thousands to celebrate the Buddha's birthday in Korea?",
+   "a": "Lanterns",
+   "p": 200,
+   "alt": [
+    "Lotus lanterns"
+   ]
+  },
+  {
+   "q": "In Thailand, many young men traditionally spend a short period living as what?",
+   "a": "Monks",
+   "p": 200,
+   "alt": [
+    "Novice monks",
+    "Buddhist monks"
+   ]
+  },
+  {
+   "q": "What is the usual English word for a Buddhist bhikkhuni?",
+   "a": "Nun",
+   "p": 200
+  },
+  {
+   "q": "In which country is the Boudhanath Stupa?",
+   "a": "Nepal",
+   "p": 200,
+   "apic": "Boudhanath"
+  },
+  {
+   "q": "Many Chinese and Korean monks follow what kind of meat-free diet?",
+   "a": "Vegetarian",
+   "p": 200,
+   "alt": [
+    "Vegetarianism",
+    "Vegan"
+   ]
+  },
+  {
+   "q": "Which Bangkok temple houses a 46-metre gilded Reclining Buddha?",
+   "a": "Wat Pho",
+   "p": 400,
+   "alt": [
+    "Wat Phra Chetuphon"
+   ],
+   "apic": "Wat Pho"
+  },
+  {
+   "q": "Ashoka's Lion Capital from Sarnath is the national emblem of which country?",
+   "a": "India",
+   "p": 400,
+   "apic": "Lion Capital of Ashoka"
+  },
+  {
+   "q": "In which city is the Potala Palace, former winter residence of the Dalai Lamas?",
+   "a": "Lhasa",
+   "p": 400,
+   "apic": "Potala Palace",
+   "cpic": "Potala Palace"
+  },
+  {
+   "q": "Which Japanese temple houses a giant bronze Buddha in one of the world's largest wooden buildings?",
+   "a": "Todai-ji",
+   "p": 400,
+   "alt": [
+    "Tōdai-ji",
+    "Todaiji"
+   ],
+   "apic": "Tōdai-ji"
+  },
+  {
+   "q": "In which Sri Lankan city is the Temple of the Sacred Tooth Relic?",
+   "a": "Kandy",
+   "p": 400,
+   "apic": "Temple of the Tooth"
+  },
+  {
+   "q": "Which ancient city in Myanmar is famous for over 2,000 temples spread across a plain?",
+   "a": "Bagan",
+   "p": 400,
+   "alt": [
+    "Pagan"
+   ],
+   "apic": "Bagan"
+  },
+  {
+   "q": "What is the name of the great temple at Bodh Gaya, a UNESCO World Heritage Site?",
+   "a": "Mahabodhi Temple",
+   "p": 400,
+   "alt": [
+    "Mahabodhi"
+   ],
+   "apic": "Mahabodhi Temple"
+  },
+  {
+   "q": "On which Indonesian island is Borobudur?",
+   "a": "Java",
+   "p": 400,
+   "apic": "Borobudur",
+   "cpic": "Borobudur"
+  },
+  {
+   "q": "Angkor Wat was first dedicated to which Hindu god before becoming a Buddhist temple?",
+   "a": "Vishnu",
+   "p": 400,
+   "cpic": "Angkor Wat"
+  },
+  {
+   "q": "In which country is Paro Taktsang, the 'Tiger's Nest' monastery clinging to a cliff?",
+   "a": "Bhutan",
+   "p": 400,
+   "apic": "Paro Taktsang"
+  },
+  {
+   "q": "Which Bangkok riverside temple is known as the 'Temple of Dawn'?",
+   "a": "Wat Arun",
+   "p": 400,
+   "apic": "Wat Arun"
+  },
+  {
+   "q": "Which Kyoto temple is famous for a wooden stage jutting out from a hillside?",
+   "a": "Kiyomizu-dera",
+   "p": 400,
+   "alt": [
+    "Kiyomizudera"
+   ],
+   "apic": "Kiyomizu-dera",
+   "cpic": "Kyoto"
+  },
+  {
+   "q": "What is the popular name of Kyoto's Ginkaku-ji?",
+   "a": "Silver Pavilion",
+   "p": 400,
+   "alt": [
+    "Temple of the Silver Pavilion"
+   ],
+   "apic": "Ginkaku-ji",
+   "cpic": "Kyoto"
+  },
+  {
+   "q": "Which temple in Tokyo's Asakusa district is the city's oldest?",
+   "a": "Senso-ji",
+   "p": 400,
+   "alt": [
+    "Sensō-ji",
+    "Asakusa Kannon"
+   ],
+   "apic": "Sensō-ji"
+  },
+  {
+   "q": "The long earlobes on Buddha statues recall the heavy what he wore as a prince?",
+   "a": "Earrings",
+   "p": 400,
+   "alt": [
+    "Jewellery",
+    "Ear ornaments"
+   ]
+  },
+  {
+   "q": "Which ancient Buddhist university in Bihar was a great centre of learning for centuries?",
+   "a": "Nalanda",
+   "p": 400,
+   "alt": [
+    "Nalanda Mahavihara"
+   ],
+   "apic": "Nalanda mahavihara"
+  },
+  {
+   "q": "What is the Pali word for a fully ordained Buddhist monk?",
+   "a": "Bhikkhu",
+   "p": 400,
+   "alt": [
+    "Bhikshu"
+   ],
+   "apic": "Bhikkhu"
+  },
+  {
+   "q": "What is the name of the Tibetan New Year festival?",
+   "a": "Losar",
+   "p": 400,
+   "apic": "Losar"
+  },
+  {
+   "q": "Which Japanese Buddhist summer festival honours the spirits of ancestors?",
+   "a": "Obon",
+   "p": 400,
+   "alt": [
+    "Bon",
+    "Bon Festival"
+   ],
+   "apic": "Bon Festival"
+  },
+  {
+   "q": "What name is given to a Tibetan Buddhist painting on a cloth scroll?",
+   "a": "Thangka",
+   "p": 400,
+   "alt": [
+    "Tangka",
+    "Thanka"
+   ],
+   "apic": "Thangka"
+  },
+  {
+   "q": "Which bodhisattva, shown as a monk in Japan, protects children and travellers and often wears red bibs?",
+   "a": "Jizo",
+   "p": 400,
+   "alt": [
+    "Ksitigarbha",
+    "Jizō"
+   ],
+   "apic": "Kṣitigarbha"
+  },
+  {
+   "q": "In Japanese dry rock gardens, raked gravel usually represents what?",
+   "a": "Water",
+   "p": 400,
+   "alt": [
+    "Sea",
+    "Rivers",
+    "Waves"
+   ]
+  },
+  {
+   "q": "How many beads are on a traditional Buddhist mala?",
+   "a": "108",
+   "p": 400
+  },
+  {
+   "q": "Theravada monks traditionally take no solid food after what time of day?",
+   "a": "Noon",
+   "p": 400,
+   "alt": [
+    "Midday",
+    "12 pm"
+   ]
+  },
+  {
+   "q": "A famous parable in the Buddhist Udana has blind men each touching a different part of which animal?",
+   "a": "Elephant",
+   "p": 400,
+   "apic": "Blind men and an elephant"
+  },
+  {
+   "q": "Which Cambodian city is the gateway to the Angkor temples?",
+   "a": "Siem Reap",
+   "p": 400,
+   "apic": "Siem Reap"
+  },
+  {
+   "q": "Tibetan Buddhist monks typically wear robes of what deep red colour?",
+   "a": "Maroon",
+   "p": 200,
+   "alt": [
+    "Burgundy",
+    "Dark red"
+   ]
+  },
+  {
+   "q": "Which Kathmandu stupa is nicknamed the 'Monkey Temple'?",
+   "a": "Swayambhunath",
+   "p": 400,
+   "alt": [
+    "Swayambhu"
+   ],
+   "apic": "Swayambhunath"
+  },
+  {
+   "q": "In which city is the Boudhanath Stupa, with Buddha eyes painted on its tower?",
+   "a": "Kathmandu",
+   "p": 400,
+   "apic": "Boudhanath"
+  },
+  {
+   "q": "What Japanese word, meaning 'Great Buddha', names Japan's giant Buddha statues?",
+   "a": "Daibutsu",
+   "p": 400,
+   "apic": "Daibutsu"
+  },
+  {
+   "q": "The Great Buddha of Kamakura is cast from what metal?",
+   "a": "Bronze",
+   "p": 400,
+   "apic": "Kamakura Daibutsu"
+  },
+  {
+   "q": "On which Hong Kong island does the giant Tian Tan Buddha sit?",
+   "a": "Lantau Island",
+   "p": 400,
+   "alt": [
+    "Lantau"
+   ],
+   "apic": "Tian Tan Buddha"
+  },
+  {
+   "q": "How many spokes does the traditional Dharma wheel have?",
+   "a": "Eight",
+   "p": 400,
+   "alt": [
+    "8"
+   ]
+  },
+  {
+   "q": "How many spokes does the Ashoka Chakra on India's flag have?",
+   "a": "24",
+   "p": 400,
+   "alt": [
+    "Twenty-four"
+   ],
+   "apic": "Ashoka Chakra"
+  },
+  {
+   "q": "Which northern Thai city is home to Wat Rong Khun, the dazzling 'White Temple'?",
+   "a": "Chiang Rai",
+   "p": 400,
+   "apic": "Wat Rong Khun"
+  },
+  {
+   "q": "What large instrument, struck with a swinging wooden log, hangs at Japanese temples?",
+   "a": "Temple bell",
+   "p": 400,
+   "alt": [
+    "Bonsho",
+    "Bell"
+   ],
+   "apic": "Bonshō"
+  },
+  {
+   "q": "Kyoto's Ryoan-ji is world famous for what kind of garden?",
+   "a": "Rock garden",
+   "p": 400,
+   "alt": [
+    "Zen garden",
+    "Dry garden",
+    "Karesansui"
+   ],
+   "apic": "Ryōan-ji"
+  },
+  {
+   "q": "Theravada monks stay in their monasteries for a three-month retreat during which season?",
+   "a": "Rainy season",
+   "p": 400,
+   "alt": [
+    "Monsoon",
+    "Rains"
+   ]
+  },
+  {
+   "q": "Buddha statues usually show his hair in what distinctive style?",
+   "a": "Tight curls",
+   "p": 400,
+   "alt": [
+    "Snail-shell curls",
+    "Curls"
+   ]
+  },
+  {
+   "q": "Tibetan Buddhism is the main religion of which country, whose capital is Ulaanbaatar?",
+   "a": "Mongolia",
+   "p": 200
+  },
+  {
+   "q": "In which Indian town did the Buddha pass into final nirvana?",
+   "a": "Kushinagar",
+   "p": 400,
+   "alt": [
+    "Kusinara",
+    "Kushinara"
+   ],
+   "apic": "Kushinagar"
+  },
+  {
+   "q": "What relics of the Buddha are believed to be enshrined in the Shwedagon Pagoda?",
+   "a": "Hairs",
+   "p": 400,
+   "alt": [
+    "Eight hairs",
+    "Hair"
+   ],
+   "cpic": "Shwedagon Pagoda"
+  },
+  {
+   "q": "What is the popular name of Myanmar's Kyaiktiyo Pagoda, perched on a balancing boulder?",
+   "a": "Golden Rock",
+   "p": 400,
+   "apic": "Kyaiktiyo Pagoda"
+  },
+  {
+   "q": "In which country was the international Buddhist flag designed in 1885?",
+   "a": "Sri Lanka",
+   "p": 400,
+   "alt": [
+    "Ceylon"
+   ],
+   "apic": "Buddhist flag"
+  },
+  {
+   "q": "What Tibetan ritual sceptre, paired with a bell, symbolises a thunderbolt or diamond?",
+   "a": "Vajra",
+   "p": 400,
+   "alt": [
+    "Dorje"
+   ],
+   "apic": "Vajra"
+  },
+  {
+   "q": "Which author wrote the 1956 novel 'The Temple of the Golden Pavilion'?",
+   "a": "Yukio Mishima",
+   "p": 400,
+   "alt": [
+    "Mishima"
+   ],
+   "apic": "Yukio Mishima"
+  },
+  {
+   "q": "In the Japanese New Year rite Joya no Kane, temple bells are struck how many times?",
+   "a": "108",
+   "p": 400,
+   "alt": [
+    "One hundred eight"
+   ],
+   "apic": "Joya no Kane"
+  },
+  {
+   "q": "Which Indian state's name comes from the word for a Buddhist monastery?",
+   "a": "Bihar",
+   "p": 400,
+   "apic": "Bihar"
+  },
+  {
+   "q": "On the Buddha's birthday, worshippers pour water or sweet tea over a small statue of the baby Buddha; what is this ritual called?",
+   "a": "Bathing the Buddha",
+   "p": 400,
+   "alt": [
+    "Bathing ceremony"
+   ]
+  },
+  {
+   "q": "What colour robes do Japanese Zen monks typically wear?",
+   "a": "Black",
+   "p": 400
+  },
+  {
+   "q": "From what kind of rock is the Leshan Giant Buddha carved?",
+   "a": "Sandstone",
+   "p": 400,
+   "alt": [
+    "Red sandstone"
+   ],
+   "apic": "Leshan Giant Buddha"
+  },
+  {
+   "q": "How many robes make up a Theravada monk's traditional set?",
+   "a": "Three",
+   "p": 400,
+   "alt": [
+    "3"
+   ]
+  },
+  {
+   "q": "Tokyo's Senso-ji is dedicated to which bodhisattva, known in Japanese by what name?",
+   "a": "Kannon",
+   "p": 400,
+   "alt": [
+    "Guanyin",
+    "Avalokiteshvara"
+   ],
+   "apic": "Guanyin",
+   "cpic": "Sensō-ji"
+  },
+  {
+   "q": "Which Buddha does the Great Buddha of Kamakura depict?",
+   "a": "Amitabha",
+   "p": 600,
+   "alt": [
+    "Amida",
+    "Amida Buddha"
+   ],
+   "apic": "Kamakura Daibutsu"
+  },
+  {
+   "q": "In which ancient Sri Lankan city does the Sri Maha Bodhi tree grow?",
+   "a": "Anuradhapura",
+   "p": 600,
+   "apic": "Jaya Sri Maha Bodhi"
+  },
+  {
+   "q": "Which daughter of Ashoka, a nun, brought a sapling of the Bodhi tree to Sri Lanka?",
+   "a": "Sanghamitta",
+   "p": 600,
+   "alt": [
+    "Sanghamitra"
+   ],
+   "apic": "Sanghamitta"
+  },
+  {
+   "q": "Which son of Ashoka, a monk, is credited with bringing Buddhism to Sri Lanka?",
+   "a": "Mahinda",
+   "p": 600,
+   "alt": [
+    "Mahendra"
+   ],
+   "apic": "Mahinda (Buddhist monk)"
+  },
+  {
+   "q": "Which Indian site in Madhya Pradesh has a Great Stupa first commissioned by Ashoka?",
+   "a": "Sanchi",
+   "p": 600,
+   "apic": "Sanchi"
+  },
+  {
+   "q": "How many perforated bell-shaped stupas sit on Borobudur's circular terraces?",
+   "a": "72",
+   "p": 600,
+   "alt": [
+    "Seventy-two"
+   ],
+   "cpic": "Borobudur"
+  },
+  {
+   "q": "Which Javanese dynasty built Borobudur?",
+   "a": "Sailendra",
+   "p": 600,
+   "alt": [
+    "Shailendra"
+   ],
+   "apic": "Shailendra dynasty",
+   "cpic": "Borobudur"
+  },
+  {
+   "q": "Which Khmer king built the Bayon temple with its giant stone faces?",
+   "a": "Jayavarman VII",
+   "p": 600,
+   "apic": "Jayavarman VII"
+  },
+  {
+   "q": "Near Dunhuang, which cave complex held the 868 CE Diamond Sutra and thousands of manuscripts?",
+   "a": "Mogao Caves",
+   "p": 600,
+   "alt": [
+    "Caves of the Thousand Buddhas"
+   ],
+   "apic": "Mogao Caves"
+  },
+  {
+   "q": "Which temple in Luoyang is traditionally called the first Buddhist temple in China?",
+   "a": "White Horse Temple",
+   "p": 600,
+   "alt": [
+    "Baima Si"
+   ],
+   "apic": "White Horse Temple"
+  },
+  {
+   "q": "Which temple near Nara has some of the world's oldest surviving wooden buildings?",
+   "a": "Horyu-ji",
+   "p": 600,
+   "alt": [
+    "Hōryū-ji"
+   ],
+   "apic": "Hōryū-ji"
+  },
+  {
+   "q": "Which granite grotto near Gyeongju, South Korea, holds a famous seated Buddha?",
+   "a": "Seokguram",
+   "p": 600,
+   "alt": [
+    "Seokguram Grotto"
+   ],
+   "apic": "Seokguram",
+   "cpic": "South Korea"
+  },
+  {
+   "q": "Which Korean temple houses the Tripitaka Koreana, over 80,000 carved woodblocks?",
+   "a": "Haeinsa",
+   "p": 600,
+   "apic": "Haeinsa"
+  },
+  {
+   "q": "What Japanese Zen name is given to a circle painted in a single brushstroke?",
+   "a": "Enso",
+   "p": 600,
+   "alt": [
+    "Ensō"
+   ],
+   "apic": "Ensō"
+  },
+  {
+   "q": "The abhaya mudra, an open palm raised outward, signifies what?",
+   "a": "Fearlessness",
+   "p": 600,
+   "alt": [
+    "Protection",
+    "No fear"
+   ],
+   "apic": "Abhayamudra"
+  },
+  {
+   "q": "What Sanskrit name is given to Buddhism's set of eight auspicious symbols?",
+   "a": "Ashtamangala",
+   "p": 600,
+   "alt": [
+    "Aṣṭamaṅgala"
+   ],
+   "apic": "Ashtamangala"
+  },
+  {
+   "q": "What name is given to the cranial bump on top of the Buddha's head in statues?",
+   "a": "Ushnisha",
+   "p": 600,
+   "alt": [
+    "Uṣṇīṣa"
+   ],
+   "apic": "Ushnisha"
+  },
+  {
+   "q": "What name is given to the dot or curl between the Buddha's eyebrows in art?",
+   "a": "Urna",
+   "p": 600,
+   "alt": [
+    "Ūrṇā"
+   ],
+   "apic": "Urna (Buddhism)"
+  },
+  {
+   "q": "Mucalinda, who sheltered the meditating Buddha from a storm, was what kind of being?",
+   "a": "Naga",
+   "p": 600,
+   "alt": [
+    "Serpent",
+    "Snake king",
+    "Cobra"
+   ],
+   "apic": "Mucalinda"
+  },
+  {
+   "q": "How many rules are in the Theravada monastic code (Patimokkha) for monks?",
+   "a": "227",
+   "p": 600,
+   "alt": [
+    "Two hundred twenty-seven"
+   ],
+   "apic": "Patimokkha"
+  },
+  {
+   "q": "What festival at the end of the rains retreat sees lay people offer new robes to monks?",
+   "a": "Kathina",
+   "p": 600,
+   "apic": "Kathina"
+  },
+  {
+   "q": "What is the name of Japan's flower festival on 8 April celebrating the Buddha's birthday?",
+   "a": "Hanamatsuri",
+   "p": 600,
+   "alt": [
+    "Kanbutsue"
+   ]
+  },
+  {
+   "q": "Which Sri Lankan festival in June marks the arrival of Buddhism on the island?",
+   "a": "Poson",
+   "p": 600,
+   "alt": [
+    "Poson Poya"
+   ],
+   "apic": "Poson"
+  },
+  {
+   "q": "Which Kandy festival parades a replica tooth relic casket on a decorated elephant?",
+   "a": "Esala Perahera",
+   "p": 600,
+   "alt": [
+    "Kandy Esala Perahera",
+    "Perahera"
+   ],
+   "apic": "Kandy Esala Perahera"
+  },
+  {
+   "q": "Which Theravada festival commemorates 1,250 enlightened disciples gathering unannounced?",
+   "a": "Magha Puja",
+   "p": 600,
+   "alt": [
+    "Makha Bucha",
+    "Sangha Day"
+   ],
+   "apic": "Māgha Pūjā"
+  },
+  {
+   "q": "What Sanskrit name is given to the Tibetan 'Wheel of Life' painting?",
+   "a": "Bhavachakra",
+   "p": 600,
+   "alt": [
+    "Bhavacakra"
+   ],
+   "apic": "Bhavacakra"
+  },
+  {
+   "q": "Which ancient region, in today's Pakistan and Afghanistan, produced Greek-influenced Buddhist sculpture?",
+   "a": "Gandhara",
+   "p": 600,
+   "apic": "Gandhara"
+  },
+  {
+   "q": "What white silk scarf is offered as a greeting in Tibetan Buddhist culture?",
+   "a": "Khata",
+   "p": 600,
+   "alt": [
+    "Kata",
+    "Khatag"
+   ],
+   "apic": "Khata"
+  },
+  {
+   "q": "On which Japanese mountain is the headquarters of Shingon Buddhism?",
+   "a": "Mount Koya",
+   "p": 600,
+   "alt": [
+    "Koyasan",
+    "Kōya-san"
+   ],
+   "apic": "Mount Kōya"
+  },
+  {
+   "q": "How many temples are on Japan's Shikoku pilgrimage route?",
+   "a": "88",
+   "p": 600,
+   "alt": [
+    "Eighty-eight"
+   ],
+   "apic": "Shikoku Pilgrimage"
+  },
+  {
+   "q": "What are the two muscular guardian statues at Japanese temple gates called?",
+   "a": "Nio",
+   "p": 600,
+   "alt": [
+    "Niō",
+    "Kongorikishi"
+   ],
+   "apic": "Niō"
+  },
+  {
+   "q": "What name is given to Japanese Buddhist temple vegetarian cuisine?",
+   "a": "Shojin ryori",
+   "p": 600,
+   "alt": [
+    "Shōjin ryōri"
+   ],
+   "apic": "Shōjin-ryōri"
+  },
+  {
+   "q": "What is the Japanese name for a household Buddhist altar?",
+   "a": "Butsudan",
+   "p": 600,
+   "apic": "Butsudan"
+  },
+  {
+   "q": "In which Chinese province are the Leshan Giant Buddha and Mount Emei?",
+   "a": "Sichuan",
+   "p": 600,
+   "apic": "Leshan Giant Buddha"
+  },
+  {
+   "q": "The Medicine Buddha is traditionally depicted with skin of what colour?",
+   "a": "Blue",
+   "p": 600,
+   "alt": [
+    "Lapis lazuli blue"
+   ],
+   "apic": "Bhaisajyaguru"
+  },
+  {
+   "q": "From what green stone is Bangkok's Emerald Buddha actually carved?",
+   "a": "Jade",
+   "p": 600,
+   "alt": [
+    "Jasper"
+   ],
+   "apic": "Emerald Buddha"
+  },
+  {
+   "q": "Which Sri Lankan cave temple complex is filled with over 150 Buddha statues and murals?",
+   "a": "Dambulla",
+   "p": 600,
+   "alt": [
+    "Dambulla Cave Temple",
+    "Golden Temple of Dambulla"
+   ],
+   "apic": "Dambulla cave temple"
+  },
+  {
+   "q": "What flat wooden stick is used in Zen halls to keep meditators alert?",
+   "a": "Keisaku",
+   "p": 600,
+   "alt": [
+    "Kyosaku"
+   ],
+   "apic": "Keisaku"
+  },
+  {
+   "q": "How many stones are arranged in Ryoan-ji's famous rock garden?",
+   "a": "15",
+   "p": 600,
+   "alt": [
+    "Fifteen"
+   ]
+  },
+  {
+   "q": "What name is given to the ornate carved gateways around ancient Indian stupas?",
+   "a": "Torana",
+   "p": 600,
+   "alt": [
+    "Toranas"
+   ],
+   "apic": "Torana"
+  },
+  {
+   "q": "Which British officer rediscovered the painted Ajanta Caves in 1819 while hunting a tiger?",
+   "a": "John Smith",
+   "p": 600,
+   "apic": "Ajanta Caves"
+  },
+  {
+   "q": "Thailand's official calendar counts years in which era, dated from the Buddha's passing?",
+   "a": "Buddhist Era",
+   "p": 600,
+   "alt": [
+    "BE",
+    "Buddhist calendar"
+   ],
+   "apic": "Buddhist calendar"
+  },
+  {
+   "q": "Which great golden stupa in Vientiane is a national symbol of Laos?",
+   "a": "Pha That Luang",
+   "p": 600,
+   "alt": [
+    "That Luang"
+   ],
+   "apic": "Pha That Luang"
+  },
+  {
+   "q": "What is the name of Korea's lantern lighting festival for the Buddha's birthday, on UNESCO's heritage list?",
+   "a": "Yeondeunghoe",
+   "p": 600,
+   "alt": [
+    "Lotus Lantern Festival"
+   ],
+   "apic": "Yeondeunghoe"
+  },
+  {
+   "q": "What Sanskrit name is given to Buddha's footprints carved in stone for veneration?",
+   "a": "Buddhapada",
+   "p": 600,
+   "alt": [
+    "Buddha footprint"
+   ],
+   "apic": "Buddha footprint"
+  }
+ ]
+}

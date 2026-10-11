@@ -1,0 +1,1622 @@
+{
+ "id": "islam_practice",
+ "name": "Islamic Practice & Places",
+ "questions": [
+  {
+   "q": "How many pillars of Islam are there?",
+   "a": "5",
+   "p": 200,
+   "alt": [
+    "Five"
+   ],
+   "apic": "Five Pillars of Islam"
+  },
+  {
+   "q": "What is the Islamic declaration of faith, the first pillar of Islam, called?",
+   "a": "Shahada",
+   "p": 200,
+   "ar": "الشهادة",
+   "alt": [
+    "Shahadah",
+    "Shahadatayn"
+   ],
+   "apic": "Shahada"
+  },
+  {
+   "q": "What is the obligatory annual giving of part of one's wealth, a pillar of Islam, called?",
+   "a": "Zakat",
+   "p": 200,
+   "ar": "الزكاة",
+   "alt": [
+    "Zakah",
+    "Zakaat"
+   ],
+   "apic": "Zakat"
+  },
+  {
+   "q": "What is the Arabic word for the ritual prayer, the second pillar of Islam?",
+   "a": "Salah",
+   "p": 200,
+   "ar": "الصلاة",
+   "alt": [
+    "Salat",
+    "Namaz",
+    "Salaat"
+   ],
+   "apic": "Salah"
+  },
+  {
+   "q": "How many obligatory prayers do Muslims perform each day?",
+   "a": "5",
+   "p": 200,
+   "alt": [
+    "Five"
+   ]
+  },
+  {
+   "q": "What is voluntary charity, beyond zakat, called in Arabic?",
+   "a": "Sadaqah",
+   "p": 200,
+   "ar": "صدقة",
+   "alt": [
+    "Sadaqa",
+    "Sadqa",
+    "Sadaka"
+   ],
+   "apic": "Sadaqah"
+  },
+  {
+   "q": "What is the ritual washing performed before prayer called?",
+   "a": "Wudu",
+   "p": 200,
+   "ar": "الوضوء",
+   "alt": [
+    "Wudhu",
+    "Wuzu",
+    "Ablution",
+    "Wudoo"
+   ],
+   "apic": "Wudu"
+  },
+  {
+   "q": "What is the midday prayer called?",
+   "a": "Dhuhr",
+   "p": 200,
+   "ar": "الظهر",
+   "alt": [
+    "Zuhr",
+    "Duhr",
+    "Zohar"
+   ],
+   "apic": "Zuhr prayer"
+  },
+  {
+   "q": "What is the afternoon prayer called?",
+   "a": "Asr",
+   "p": 200,
+   "ar": "العصر",
+   "alt": [
+    "Asar",
+    "Asr prayer"
+   ],
+   "apic": "Asr prayer"
+  },
+  {
+   "q": "What is the night prayer, the last of the five daily prayers, called?",
+   "a": "Isha",
+   "p": 200,
+   "ar": "العشاء",
+   "alt": [
+    "Ishaa",
+    "Esha",
+    "Isha prayer"
+   ],
+   "apic": "Isha prayer"
+  },
+  {
+   "q": "How many rak'ahs make up the obligatory dawn prayer, Fajr?",
+   "a": "2",
+   "p": 200,
+   "alt": [
+    "Two"
+   ]
+  },
+  {
+   "q": "What is the act of prostration in prayer, with the forehead on the ground, called?",
+   "a": "Sujud",
+   "p": 200,
+   "ar": "السجود",
+   "alt": [
+    "Sajdah",
+    "Sajda",
+    "Sujood"
+   ],
+   "apic": "Sujud"
+  },
+  {
+   "q": "What is a single unit of the Islamic prayer called?",
+   "a": "Rak'ah",
+   "p": 200,
+   "ar": "ركعة",
+   "alt": [
+    "Rakat",
+    "Raka'a",
+    "Rakah"
+   ],
+   "apic": "Rak'ah"
+  },
+  {
+   "q": "What is the Arabic name for the Friday congregational prayer?",
+   "a": "Jumu'ah",
+   "p": 200,
+   "ar": "الجمعة",
+   "alt": [
+    "Jummah",
+    "Jumuah",
+    "Salat al-Jumu'ah"
+   ],
+   "apic": "Friday prayer"
+  },
+  {
+   "q": "What is the sermon given before the Friday prayer called?",
+   "a": "Khutbah",
+   "p": 200,
+   "ar": "خطبة",
+   "alt": [
+    "Khutba",
+    "Khutbah al-Jumu'ah"
+   ],
+   "apic": "Khutbah"
+  },
+  {
+   "q": "What is the person who leads the congregational prayer called?",
+   "a": "Imam",
+   "p": 200,
+   "ar": "إمام",
+   "alt": [
+    "Imaam"
+   ]
+  },
+  {
+   "q": "What is the Arabic word for a prayer mat?",
+   "a": "Sajjada",
+   "p": 200,
+   "ar": "سجادة",
+   "alt": [
+    "Sajjadah",
+    "Janamaz",
+    "Prayer rug"
+   ]
+  },
+  {
+   "q": "What are the strings of prayer beads used for remembrance called in Arabic?",
+   "a": "Misbaha",
+   "p": 200,
+   "ar": "مسبحة",
+   "alt": [
+    "Subha",
+    "Tasbih",
+    "Masbaha",
+    "Tasbeeh"
+   ],
+   "apic": "Misbaha"
+  },
+  {
+   "q": "What is the Arabic word for a personal supplication or prayer to God?",
+   "a": "Dua",
+   "p": 200,
+   "ar": "دعاء",
+   "alt": [
+    "Du'a",
+    "Duaa"
+   ],
+   "apic": "Dua"
+  },
+  {
+   "q": "What is the remembrance of God through repeated phrases called?",
+   "a": "Dhikr",
+   "p": 200,
+   "ar": "ذكر",
+   "alt": [
+    "Zikr",
+    "Thikr",
+    "Zikir"
+   ],
+   "apic": "Dhikr"
+  },
+  {
+   "q": "What is the building at the centre of the Grand Mosque in Mecca that Muslims face in prayer?",
+   "a": "Kaaba",
+   "p": 200,
+   "ar": "الكعبة",
+   "alt": [
+    "Ka'bah",
+    "Kaba",
+    "Al-Kaaba"
+   ],
+   "apic": "Kaaba"
+  },
+  {
+   "q": "Which revered stone is set into the eastern corner of the Kaaba?",
+   "a": "Black Stone",
+   "p": 200,
+   "ar": "الحجر الأسود",
+   "alt": [
+    "Al-Hajar al-Aswad",
+    "Hajar al-Aswad"
+   ],
+   "apic": "Black Stone",
+   "cpic": "Kaaba"
+  },
+  {
+   "q": "What is the sacred state that pilgrims enter, marked by simple clothing, called?",
+   "a": "Ihram",
+   "p": 200,
+   "ar": "الإحرام",
+   "alt": [
+    "Ehram",
+    "Ahram"
+   ],
+   "apic": "Ihram"
+  },
+  {
+   "q": "What colour are the two unstitched sheets traditionally worn by male pilgrims?",
+   "a": "White",
+   "p": 200,
+   "ar": "أبيض",
+   "alt": [
+    "Plain white"
+   ]
+  },
+  {
+   "q": "What is the act of walking around the Kaaba called?",
+   "a": "Tawaf",
+   "p": 200,
+   "ar": "الطواف",
+   "alt": [
+    "Tawaaf",
+    "Circumambulation"
+   ],
+   "apic": "Tawaf",
+   "cpic": "Kaaba"
+  },
+  {
+   "q": "How many times do pilgrims circle the Kaaba in one tawaf?",
+   "a": "7",
+   "p": 200,
+   "alt": [
+    "Seven"
+   ],
+   "cpic": "Tawaf"
+  },
+  {
+   "q": "What title is given to someone who has completed the Hajj?",
+   "a": "Hajji",
+   "p": 200,
+   "ar": "حاجّ",
+   "alt": [
+    "Haji",
+    "Hajj",
+    "Hajja",
+    "Hajjah"
+   ],
+   "apic": "Hajji"
+  },
+  {
+   "q": "What is the 'lesser pilgrimage' to Mecca that can be made at any time of year?",
+   "a": "Umrah",
+   "p": 200,
+   "ar": "العمرة",
+   "alt": [
+    "Umra",
+    "Omra",
+    "Omrah"
+   ],
+   "apic": "Umrah"
+  },
+  {
+   "q": "Which holy well lies within the Grand Mosque in Mecca?",
+   "a": "Zamzam",
+   "p": 200,
+   "ar": "زمزم",
+   "alt": [
+    "Zamzam Well",
+    "Zam Zam"
+   ],
+   "apic": "Zamzam Well"
+  },
+  {
+   "q": "What colour is the cloth that covers the Kaaba?",
+   "a": "Black",
+   "p": 200,
+   "ar": "أسود",
+   "alt": [
+    "Black and gold"
+   ],
+   "cpic": "Kaaba"
+  },
+  {
+   "q": "Between which two hills near the Kaaba do pilgrims walk back and forth?",
+   "a": "Safa and Marwah",
+   "p": 200,
+   "ar": "الصفا والمروة",
+   "alt": [
+    "Al-Safa and Al-Marwah",
+    "Safa and Marwa"
+   ],
+   "apic": "Al-Safa and Al-Marwah"
+  },
+  {
+   "q": "What is the largest mosque in the world, which surrounds the Kaaba?",
+   "a": "Al-Masjid al-Haram",
+   "p": 200,
+   "ar": "المسجد الحرام",
+   "alt": [
+    "Masjid al-Haram",
+    "Grand Mosque of Mecca",
+    "The Sacred Mosque",
+    "Haram"
+   ],
+   "apic": "Great Mosque of Mecca"
+  },
+  {
+   "q": "Which mosque in Medina, built by the Prophet himself, is the second holiest in Islam?",
+   "a": "Al-Masjid an-Nabawi",
+   "p": 200,
+   "ar": "المسجد النبوي",
+   "alt": [
+    "Prophet's Mosque",
+    "Masjid an-Nabawi",
+    "Masjid Nabawi"
+   ],
+   "apic": "Al-Masjid an-Nabawi"
+  },
+  {
+   "q": "What colour is the famous dome over the Prophet's tomb in Medina?",
+   "a": "Green",
+   "p": 200,
+   "ar": "أخضر",
+   "alt": [
+    "Green Dome"
+   ],
+   "apic": "Green Dome"
+  },
+  {
+   "q": "Which mosque is regarded as the third holiest in Islam?",
+   "a": "Al-Aqsa Mosque",
+   "p": 200,
+   "ar": "المسجد الأقصى",
+   "alt": [
+    "Al-Aqsa",
+    "Masjid al-Aqsa",
+    "Aqsa"
+   ],
+   "apic": "Al-Aqsa Mosque"
+  },
+  {
+   "q": "Which pillar of Islam is traditionally listed fifth?",
+   "a": "Hajj",
+   "p": 200,
+   "ar": "الحج",
+   "alt": [
+    "Pilgrimage",
+    "Haj"
+   ]
+  },
+  {
+   "q": "What do worshippers take off before entering a mosque's prayer hall?",
+   "a": "Shoes",
+   "p": 200,
+   "ar": "الأحذية",
+   "alt": [
+    "Footwear",
+    "Their shoes"
+   ]
+  },
+  {
+   "q": "What is the holiest city in Islam?",
+   "a": "Mecca",
+   "p": 200,
+   "ar": "مكة المكرمة",
+   "alt": [
+    "Makkah",
+    "Makka"
+   ]
+  },
+  {
+   "q": "What is the second holiest city in Islam?",
+   "a": "Medina",
+   "p": 200,
+   "ar": "المدينة المنورة",
+   "alt": [
+    "Madinah",
+    "Al-Madinah"
+   ]
+  },
+  {
+   "q": "What do pilgrims shave or trim at the end of their Hajj or Umrah rites?",
+   "a": "Hair",
+   "p": 200,
+   "ar": "الشعر",
+   "alt": [
+    "Head",
+    "Their hair"
+   ]
+  },
+  {
+   "q": "In which language is the adhan always called, all over the world?",
+   "a": "Arabic",
+   "p": 200,
+   "ar": "العربية",
+   "alt": [
+    "Arabic language"
+   ]
+  },
+  {
+   "q": "How many times in a lifetime is the Hajj required of a Muslim who is able to go?",
+   "a": "Once",
+   "p": 200,
+   "ar": "مرة واحدة",
+   "alt": [
+    "One",
+    "1",
+    "One time"
+   ]
+  },
+  {
+   "q": "What is the Islamic lunar calendar commonly called?",
+   "a": "Hijri calendar",
+   "p": 200,
+   "ar": "التقويم الهجري",
+   "alt": [
+    "Hijri",
+    "Hijrah calendar"
+   ],
+   "apic": "Islamic calendar"
+  },
+  {
+   "q": "How many prostrations are made in each rak'ah of prayer?",
+   "a": "2",
+   "p": 200,
+   "alt": [
+    "Two"
+   ]
+  },
+  {
+   "q": "Zakat is due on savings held for one full lunar what?",
+   "a": "Year",
+   "p": 400,
+   "ar": "حول",
+   "alt": [
+    "Hawl",
+    "Lunar year"
+   ]
+  },
+  {
+   "q": "What is the bowing position in prayer called?",
+   "a": "Ruku'",
+   "p": 200,
+   "ar": "الركوع",
+   "alt": [
+    "Ruku",
+    "Rukoo",
+    "Rukuh"
+   ],
+   "apic": "Ruku'"
+  },
+  {
+   "q": "How many rak'ahs make up the obligatory sunset prayer, Maghrib?",
+   "a": "3",
+   "p": 400,
+   "alt": [
+    "Three"
+   ]
+  },
+  {
+   "q": "How many rak'ahs make up the obligatory night prayer, Isha?",
+   "a": "4",
+   "p": 400,
+   "alt": [
+    "Four"
+   ]
+  },
+  {
+   "q": "What is the second call, given just before the congregational prayer begins, called?",
+   "a": "Iqamah",
+   "p": 400,
+   "ar": "الإقامة",
+   "alt": [
+    "Iqama",
+    "Ikamah"
+   ],
+   "apic": "Iqama"
+  },
+  {
+   "q": "What is the voluntary night prayer, performed after sleeping, called?",
+   "a": "Tahajjud",
+   "p": 400,
+   "ar": "التهجد",
+   "alt": [
+    "Qiyam al-Layl",
+    "Tahajud"
+   ],
+   "apic": "Tahajjud"
+  },
+  {
+   "q": "What is the odd-numbered prayer that closes the night prayers called?",
+   "a": "Witr",
+   "p": 400,
+   "ar": "الوتر",
+   "alt": [
+    "Witr prayer",
+    "Wetr"
+   ],
+   "apic": "Witr"
+  },
+  {
+   "q": "What is the congregational prayer for a deceased Muslim called?",
+   "a": "Salat al-Janazah",
+   "p": 200,
+   "ar": "صلاة الجنازة",
+   "alt": [
+    "Janazah",
+    "Janaza prayer",
+    "Funeral prayer"
+   ],
+   "apic": "Salat al-Janazah"
+  },
+  {
+   "q": "What is the prayer for seeking God's guidance in a decision called?",
+   "a": "Istikhara",
+   "p": 400,
+   "ar": "الاستخارة",
+   "alt": [
+    "Salat al-Istikhara",
+    "Istikharah"
+   ],
+   "apic": "Istikhara"
+  },
+  {
+   "q": "What is the dry ablution with clean earth or dust, used when no water is available, called?",
+   "a": "Tayammum",
+   "p": 400,
+   "ar": "التيمم",
+   "alt": [
+    "Tayamum",
+    "Tayammam"
+   ],
+   "apic": "Tayammum"
+  },
+  {
+   "q": "What is the full-body ritual bath in Islam called?",
+   "a": "Ghusl",
+   "p": 200,
+   "ar": "الغسل",
+   "alt": [
+    "Ghusal",
+    "Ghusul"
+   ],
+   "apic": "Ghusl"
+  },
+  {
+   "q": "What are voluntary, extra prayers beyond the obligatory ones generally called?",
+   "a": "Nafl",
+   "p": 400,
+   "ar": "نفل",
+   "alt": [
+    "Nafila",
+    "Nawafil",
+    "Nafil"
+   ],
+   "apic": "Nafl prayer"
+  },
+  {
+   "q": "What is the person who delivers the Friday sermon called?",
+   "a": "Khatib",
+   "p": 400,
+   "ar": "خطيب",
+   "alt": [
+    "Khateeb",
+    "Khatteeb"
+   ],
+   "apic": "Khatib"
+  },
+  {
+   "q": "What is the rite of walking back and forth seven times between two hills near the Kaaba called?",
+   "a": "Sa'i",
+   "p": 200,
+   "ar": "السعي",
+   "alt": [
+    "Sai",
+    "Sa'ee",
+    "Sa'y"
+   ],
+   "apic": "Sa'i"
+  },
+  {
+   "q": "Whose desperate search for water for her baby is remembered in the Sa'i?",
+   "a": "Hajar",
+   "p": 400,
+   "ar": "هاجر",
+   "alt": [
+    "Hagar",
+    "Hajer"
+   ]
+  },
+  {
+   "q": "In which valley near Mecca do pilgrims stay in tents and stone the pillars?",
+   "a": "Mina",
+   "p": 200,
+   "ar": "منى",
+   "alt": [
+    "Muna",
+    "Mena"
+   ],
+   "apic": "Mina, Saudi Arabia"
+  },
+  {
+   "q": "What are the three stone pillars that pilgrims pelt with pebbles called?",
+   "a": "Jamarat",
+   "p": 400,
+   "ar": "الجمرات",
+   "alt": [
+    "Jamaraat",
+    "Jamrat"
+   ],
+   "apic": "Stoning of the Devil"
+  },
+  {
+   "q": "The stoning of the Jamarat symbolises rejecting whom?",
+   "a": "Satan",
+   "p": 400,
+   "ar": "الشيطان",
+   "alt": [
+    "Shaytan",
+    "The Devil",
+    "Iblis"
+   ]
+  },
+  {
+   "q": "At which site between Arafat and Mina do pilgrims spend the night and gather pebbles?",
+   "a": "Muzdalifah",
+   "p": 400,
+   "ar": "مزدلفة",
+   "alt": [
+    "Muzdalifa"
+   ],
+   "apic": "Muzdalifah"
+  },
+  {
+   "q": "What is the embroidered cloth that covers the Kaaba called?",
+   "a": "Kiswah",
+   "p": 400,
+   "ar": "الكسوة",
+   "alt": [
+    "Kiswa",
+    "Kiswat al-Kaaba"
+   ],
+   "apic": "Kiswah"
+  },
+  {
+   "q": "What is the pilgrims' chant beginning 'Labbayk Allahumma Labbayk' called?",
+   "a": "Talbiyah",
+   "p": 400,
+   "ar": "التلبية",
+   "alt": [
+    "Talbiya",
+    "Talbiyya"
+   ],
+   "apic": "Talbiyah"
+  },
+  {
+   "q": "What is the stone near the Kaaba bearing footprints associated with Ibrahim called?",
+   "a": "Maqam Ibrahim",
+   "p": 400,
+   "ar": "مقام إبراهيم",
+   "alt": [
+    "Station of Abraham",
+    "Maqam-e-Ibrahim"
+   ],
+   "apic": "Maqam Ibrahim"
+  },
+  {
+   "q": "In which direction do pilgrims circle the Kaaba during tawaf?",
+   "a": "Anticlockwise",
+   "p": 400,
+   "ar": "عكس عقارب الساعة",
+   "alt": [
+    "Counterclockwise",
+    "Counter-clockwise",
+    "Anti-clockwise"
+   ],
+   "cpic": "Tawaf"
+  },
+  {
+   "q": "Which Medina mosque is where, by tradition, the direction of prayer was changed in the middle of a prayer?",
+   "a": "Masjid al-Qiblatayn",
+   "p": 400,
+   "ar": "مسجد القبلتين",
+   "alt": [
+    "Qiblatayn Mosque",
+    "Al-Qiblatayn"
+   ],
+   "apic": "Masjid al-Qiblatayn"
+  },
+  {
+   "q": "Before Mecca, which city did Muslims face in prayer?",
+   "a": "Jerusalem",
+   "p": 400,
+   "ar": "القدس",
+   "alt": [
+    "Al-Quds",
+    "Bayt al-Maqdis"
+   ]
+  },
+  {
+   "q": "Which giant clock tower complex overlooks the Grand Mosque in Mecca?",
+   "a": "Abraj Al Bait",
+   "p": 400,
+   "ar": "أبراج البيت",
+   "alt": [
+    "Makkah Royal Clock Tower",
+    "Abraj al-Bait Towers",
+    "Mecca Clock Tower"
+   ],
+   "apic": "Abraj Al Bait"
+  },
+  {
+   "q": "What giant mechanical structures open to shade the courtyards of the Prophet's Mosque in Medina?",
+   "a": "Umbrellas",
+   "p": 400,
+   "ar": "مظلات",
+   "alt": [
+    "Giant umbrellas",
+    "Parasols",
+    "Canopies"
+   ],
+   "cpic": "Prophet's Mosque"
+  },
+  {
+   "q": "Which tent-shaped mosque in Islamabad is named after a Saudi king?",
+   "a": "Faisal Mosque",
+   "p": 400,
+   "ar": "مسجد فيصل",
+   "alt": [
+    "Shah Faisal Mosque",
+    "King Faisal Mosque"
+   ],
+   "apic": "Faisal Mosque"
+  },
+  {
+   "q": "Which great mosque of Jakarta has a name meaning 'independence'?",
+   "a": "Istiqlal Mosque",
+   "p": 400,
+   "ar": "مسجد الاستقلال",
+   "alt": [
+    "Istiqlal",
+    "Masjid Istiqlal"
+   ],
+   "apic": "Istiqlal Mosque, Jakarta"
+  },
+  {
+   "q": "Which great Delhi mosque was completed by the Mughal emperor Shah Jahan in 1656?",
+   "a": "Jama Masjid",
+   "p": 400,
+   "ar": "جامع مسجد",
+   "alt": [
+    "Jama Masjid Delhi",
+    "Masjid-i Jahan-Numa"
+   ],
+   "apic": "Jama Masjid, Delhi"
+  },
+  {
+   "q": "Which Cairo mosque in the Citadel, built in Ottoman style, is nicknamed the Alabaster Mosque?",
+   "a": "Muhammad Ali Mosque",
+   "p": 400,
+   "ar": "مسجد محمد علي",
+   "alt": [
+    "Mosque of Muhammad Ali",
+    "Alabaster Mosque"
+   ],
+   "apic": "Mosque of Muhammad Ali"
+  },
+  {
+   "q": "What is the small mosque in Fujairah, often called the oldest in the UAE?",
+   "a": "Al Bidya Mosque",
+   "p": 400,
+   "ar": "مسجد البدية",
+   "alt": [
+    "Bidya Mosque",
+    "Al Badiyah Mosque",
+    "Badiyah Mosque"
+   ],
+   "apic": "Al Bidya Mosque"
+  },
+  {
+   "q": "Which Ottoman-style mosque on Sharjah's Khalid Lagoon is open to visitors of all faiths?",
+   "a": "Al Noor Mosque",
+   "p": 400,
+   "ar": "مسجد النور",
+   "alt": [
+    "Noor Mosque",
+    "Al-Noor Mosque"
+   ],
+   "apic": "Al Noor Mosque"
+  },
+  {
+   "q": "What is the standard rate of zakat on savings, as a percentage?",
+   "a": "2.5%",
+   "p": 400,
+   "alt": [
+    "2.5",
+    "Two and a half percent",
+    "1/40"
+   ]
+  },
+  {
+   "q": "What does the word 'Kaaba' mean in Arabic?",
+   "a": "Cube",
+   "p": 400,
+   "ar": "مكعب",
+   "alt": [
+    "The Cube",
+    "Cubic house"
+   ]
+  },
+  {
+   "q": "What is the minimum amount of wealth on which zakat becomes due called?",
+   "a": "Nisab",
+   "p": 400,
+   "ar": "النصاب",
+   "alt": [
+    "Nisaab"
+   ],
+   "apic": "Nisab"
+  },
+  {
+   "q": "The word 'zakat' comes from a root meaning growth and what?",
+   "a": "Purification",
+   "p": 400,
+   "ar": "تزكية",
+   "alt": [
+    "Purity",
+    "Purify",
+    "Cleansing"
+   ]
+  },
+  {
+   "q": "What does the Arabic word 'masjid' literally mean?",
+   "a": "Place of prostration",
+   "p": 400,
+   "ar": "مكان السجود",
+   "alt": [
+    "Place of sujud",
+    "Place of bowing down"
+   ]
+  },
+  {
+   "q": "What is a large mosque where the Friday prayer is held called in Arabic?",
+   "a": "Jami'",
+   "p": 400,
+   "ar": "جامع",
+   "alt": [
+    "Jame",
+    "Masjid Jami",
+    "Congregational mosque"
+   ],
+   "apic": "Congregational mosque"
+  },
+  {
+   "q": "Which caliph introduced the Hijri calendar?",
+   "a": "Umar ibn al-Khattab",
+   "p": 400,
+   "ar": "عمر بن الخطاب",
+   "alt": [
+    "Umar",
+    "Omar"
+   ]
+  },
+  {
+   "q": "Ashura falls on which day of its Islamic month?",
+   "a": "10th",
+   "p": 400,
+   "alt": [
+    "10",
+    "Tenth"
+   ]
+  },
+  {
+   "q": "What is the observance of the Prophet's birthday called?",
+   "a": "Mawlid",
+   "p": 400,
+   "ar": "المولد النبوي",
+   "alt": [
+    "Mawlid al-Nabi",
+    "Milad",
+    "Mawlid an-Nabawi"
+   ],
+   "apic": "Mawlid"
+  },
+  {
+   "q": "How many sacred months are there in the Islamic calendar?",
+   "a": "4",
+   "p": 400,
+   "alt": [
+    "Four"
+   ]
+  },
+  {
+   "q": "What is the animal sacrifice of Eid al-Adha called in Arabic?",
+   "a": "Udhiyah",
+   "p": 400,
+   "ar": "الأضحية",
+   "alt": [
+    "Qurbani",
+    "Adhiya",
+    "Udhiya"
+   ],
+   "apic": "Qurbani",
+   "cpic": "Eid al-Adha"
+  },
+  {
+   "q": "What is a straight row of worshippers in congregational prayer called in Arabic?",
+   "a": "Saff",
+   "p": 400,
+   "ar": "صف",
+   "alt": [
+    "Saf",
+    "Sufuf"
+   ]
+  },
+  {
+   "q": "What is the shortening of four-rak'ah prayers while travelling called?",
+   "a": "Qasr",
+   "p": 400,
+   "ar": "القصر",
+   "alt": [
+    "Qasar",
+    "Qasr al-Salah"
+   ]
+  },
+  {
+   "q": "What is praying together in a group, rather than alone, called in Arabic?",
+   "a": "Jama'ah",
+   "p": 400,
+   "ar": "جماعة",
+   "alt": [
+    "Jamaat",
+    "Jamaah",
+    "Congregation"
+   ]
+  },
+  {
+   "q": "What do pilgrims collect at Muzdalifah to use at Mina?",
+   "a": "Pebbles",
+   "p": 400,
+   "ar": "حصى",
+   "alt": [
+    "Stones",
+    "Small stones"
+   ]
+  },
+  {
+   "q": "What are the stations where pilgrims must enter ihram before reaching Mecca called?",
+   "a": "Miqat",
+   "p": 400,
+   "ar": "الميقات",
+   "alt": [
+    "Mawaqit",
+    "Meeqat"
+   ],
+   "apic": "Miqat"
+  },
+  {
+   "q": "How many obligatory rak'ahs are prayed in total each day?",
+   "a": "17",
+   "p": 600,
+   "alt": [
+    "Seventeen"
+   ]
+  },
+  {
+   "q": "What is the special prayer for rain called?",
+   "a": "Salat al-Istisqa",
+   "p": 600,
+   "ar": "صلاة الاستسقاء",
+   "alt": [
+    "Istisqa",
+    "Istisqa prayer"
+   ],
+   "apic": "Salat al-Istisqa"
+  },
+  {
+   "q": "What is the special prayer performed during a solar eclipse called?",
+   "a": "Salat al-Kusuf",
+   "p": 600,
+   "ar": "صلاة الكسوف",
+   "alt": [
+    "Kusuf",
+    "Eclipse prayer"
+   ],
+   "apic": "Eclipse prayer"
+  },
+  {
+   "q": "What is the voluntary forenoon prayer, after sunrise and before midday, called?",
+   "a": "Duha",
+   "p": 600,
+   "ar": "الضحى",
+   "alt": [
+    "Salat al-Duha",
+    "Dhuha",
+    "Chasht"
+   ],
+   "apic": "Duha prayer"
+  },
+  {
+   "q": "What is the supplication made while standing in the prayer, often in Witr or Fajr, called?",
+   "a": "Qunut",
+   "p": 600,
+   "ar": "القنوت",
+   "alt": [
+    "Qunoot",
+    "Dua Qunut"
+   ],
+   "apic": "Qunut"
+  },
+  {
+   "q": "What is the closing of the prayer by turning the head to each side with a greeting of peace called?",
+   "a": "Taslim",
+   "p": 600,
+   "ar": "التسليم",
+   "alt": [
+    "Tasleem",
+    "Salam"
+   ]
+  },
+  {
+   "q": "What is the opening 'Allahu Akbar' that begins the prayer called?",
+   "a": "Takbirat al-Ihram",
+   "p": 600,
+   "ar": "تكبيرة الإحرام",
+   "alt": [
+    "Takbir al-Tahrimah",
+    "Opening takbir"
+   ]
+  },
+  {
+   "q": "What is the testimony recited while sitting in prayer called?",
+   "a": "Tashahhud",
+   "p": 600,
+   "ar": "التشهد",
+   "alt": [
+    "Tashahud",
+    "At-Tahiyyat"
+   ],
+   "apic": "Tashahhud"
+  },
+  {
+   "q": "What is the raised platform in some large mosques from which a muezzin repeats the imam's calls called?",
+   "a": "Dikka",
+   "p": 600,
+   "ar": "دكة",
+   "alt": [
+    "Dikkah",
+    "Dakka"
+   ],
+   "apic": "Dikka"
+  },
+  {
+   "q": "What is the screened enclosure near the mihrab, once reserved for the ruler, called?",
+   "a": "Maqsura",
+   "p": 600,
+   "ar": "المقصورة",
+   "alt": [
+    "Maqsurah",
+    "Maksura"
+   ],
+   "apic": "Maqsura"
+  },
+  {
+   "q": "What is the Turkish word for the balcony of a minaret?",
+   "a": "Şerefe",
+   "p": 600,
+   "alt": [
+    "Serefe",
+    "Sherefe"
+   ]
+  },
+  {
+   "q": "What is the Turkish name for the ablution fountain in an Ottoman mosque courtyard?",
+   "a": "Şadırvan",
+   "p": 600,
+   "alt": [
+    "Sadirvan",
+    "Shadirvan"
+   ],
+   "apic": "Şadırvan"
+  },
+  {
+   "q": "What is the open area around the Kaaba where tawaf is performed called?",
+   "a": "Mataf",
+   "p": 600,
+   "ar": "المطاف",
+   "alt": [
+    "Al-Mataf"
+   ],
+   "apic": "Mataf",
+   "cpic": "Tawaf"
+  },
+  {
+   "q": "What is the low semicircular wall beside the Kaaba called?",
+   "a": "Hijr Ismail",
+   "p": 600,
+   "ar": "حجر إسماعيل",
+   "alt": [
+    "Hatim",
+    "Al-Hatim",
+    "Hateem"
+   ],
+   "apic": "Hijr Ismail"
+  },
+  {
+   "q": "Which corner of the Kaaba, besides the Black Stone corner, do pilgrims touch?",
+   "a": "Yemeni Corner",
+   "p": 600,
+   "ar": "الركن اليماني",
+   "alt": [
+    "Rukn al-Yamani",
+    "Al-Rukn al-Yamani"
+   ],
+   "cpic": "Black Stone"
+  },
+  {
+   "q": "What is the part of the Kaaba wall between the Black Stone and the door, where pilgrims make supplication, called?",
+   "a": "Multazam",
+   "p": 600,
+   "ar": "الملتزم",
+   "alt": [
+    "Al-Multazam"
+   ],
+   "apic": "Multazam",
+   "cpic": "Black Stone"
+  },
+  {
+   "q": "What is the golden waterspout on the roof of the Kaaba called?",
+   "a": "Mizab al-Rahmah",
+   "p": 600,
+   "ar": "ميزاب الرحمة",
+   "alt": [
+    "Mizab",
+    "Waterspout of Mercy",
+    "Meezab"
+   ]
+  },
+  {
+   "q": "What is the miqat for pilgrims coming from Medina, also known as Abyar Ali?",
+   "a": "Dhu al-Hulayfah",
+   "p": 600,
+   "ar": "ذو الحليفة",
+   "alt": [
+    "Dhul Hulaifah",
+    "Dhul Hulayfah"
+   ],
+   "apic": "Dhu al-Hulayfah"
+  },
+  {
+   "q": "What is the farewell tawaf performed before leaving Mecca called?",
+   "a": "Tawaf al-Wada",
+   "p": 600,
+   "ar": "طواف الوداع",
+   "alt": [
+    "Tawaf al-Wida",
+    "Farewell Tawaf"
+   ]
+  },
+  {
+   "q": "What is the essential tawaf performed after the day at Arafat called?",
+   "a": "Tawaf al-Ifadah",
+   "p": 600,
+   "ar": "طواف الإفاضة",
+   "alt": [
+    "Tawaf al-Ziyarah",
+    "Tawaf al-Ifada"
+   ]
+  },
+  {
+   "q": "What is the arrival tawaf performed on reaching Mecca called?",
+   "a": "Tawaf al-Qudum",
+   "p": 600,
+   "ar": "طواف القدوم",
+   "alt": [
+    "Tawaf al-Qudoom",
+    "Arrival tawaf"
+   ]
+  },
+  {
+   "q": "What are the three days after Eid al-Adha, spent by pilgrims in Mina, called?",
+   "a": "Days of Tashriq",
+   "p": 600,
+   "ar": "أيام التشريق",
+   "alt": [
+    "Ayyam al-Tashriq",
+    "Tashriq"
+   ],
+   "cpic": "Eid al-Adha"
+  },
+  {
+   "q": "What is the 8th of Dhu al-Hijjah, when pilgrims head to Mina, called?",
+   "a": "Day of Tarwiyah",
+   "p": 600,
+   "ar": "يوم التروية",
+   "alt": [
+    "Yawm al-Tarwiyah",
+    "Tarwiyah"
+   ]
+  },
+  {
+   "q": "Which type of Hajj combines an Umrah and then Hajj with a break from ihram in between?",
+   "a": "Tamattu'",
+   "p": 600,
+   "ar": "التمتع",
+   "alt": [
+    "Hajj al-Tamattu",
+    "Tamattu"
+   ]
+  },
+  {
+   "q": "What is shaving the whole head at the end of the pilgrimage called, as opposed to trimming (taqsir)?",
+   "a": "Halq",
+   "p": 600,
+   "ar": "الحلق",
+   "alt": [
+    "Halaq"
+   ]
+  },
+  {
+   "q": "Which mosque at Arafat hosts the sermon on the day of standing?",
+   "a": "Namirah Mosque",
+   "p": 600,
+   "ar": "مسجد نمرة",
+   "alt": [
+    "Masjid Namirah",
+    "Nimrah Mosque"
+   ]
+  },
+  {
+   "q": "Which mosque in Mina does tradition say seventy prophets prayed in?",
+   "a": "Masjid al-Khayf",
+   "p": 600,
+   "ar": "مسجد الخيف",
+   "alt": [
+    "Al-Khayf Mosque",
+    "Khayf Mosque"
+   ]
+  },
+  {
+   "q": "What is the area of the Prophet's Mosque between his pulpit and his house, called a garden of Paradise?",
+   "a": "Rawdah",
+   "p": 600,
+   "ar": "الروضة الشريفة",
+   "alt": [
+    "Al-Rawdah",
+    "Riyadh al-Jannah",
+    "Rawdah Sharifah"
+   ],
+   "cpic": "Prophet's Mosque"
+  },
+  {
+   "q": "What is the historic cemetery of Medina, where many companions are buried, called?",
+   "a": "Jannat al-Baqi",
+   "p": 600,
+   "ar": "البقيع",
+   "alt": [
+    "Al-Baqi",
+    "Baqi al-Gharqad",
+    "Baqi"
+   ],
+   "apic": "Jannat al-Baqi"
+  },
+  {
+   "q": "What are the 13th, 14th and 15th days of each lunar month, popular for voluntary fasting, called?",
+   "a": "Ayyam al-Bid",
+   "p": 600,
+   "ar": "الأيام البيض",
+   "alt": [
+    "White Days",
+    "Ayyam al-Beed"
+   ]
+  },
+  {
+   "q": "How many categories of zakat recipients are listed in the Quran?",
+   "a": "8",
+   "p": 600,
+   "alt": [
+    "Eight"
+   ]
+  },
+  {
+   "q": "What is the animal offered by pilgrims as part of the Hajj called?",
+   "a": "Hady",
+   "p": 600,
+   "ar": "الهدي",
+   "alt": [
+    "Hadi",
+    "Hadiy"
+   ]
+  },
+  {
+   "q": "What is kissing or touching the Black Stone during tawaf called?",
+   "a": "Istilam",
+   "p": 600,
+   "ar": "الاستلام",
+   "alt": [
+    "Istilaam"
+   ],
+   "cpic": "Black Stone"
+  },
+  {
+   "q": "Which pink-domed mosque stands beside a lake in Malaysia's administrative capital?",
+   "a": "Putra Mosque",
+   "p": 600,
+   "ar": "مسجد بوترا",
+   "alt": [
+    "Masjid Putra"
+   ],
+   "apic": "Putra Mosque"
+  },
+  {
+   "q": "Which famous mosque, inaugurated in 1926 to honour Muslim soldiers who died for France in World War I, stands in the Latin Quarter?",
+   "a": "Grand Mosque of Paris",
+   "p": 600,
+   "ar": "مسجد باريس الكبير",
+   "alt": [
+    "Great Mosque of Paris",
+    "Grande Mosquée de Paris"
+   ],
+   "apic": "Grand Mosque of Paris"
+  },
+  {
+   "q": "In which Chinese city is a famous Great Mosque built in the style of a Chinese temple?",
+   "a": "Xi'an",
+   "p": 600,
+   "alt": [
+    "Xian",
+    "Sian"
+   ],
+   "apic": "Great Mosque of Xi'an"
+  },
+  {
+   "q": "Which mosque stands inside the Kremlin of Kazan, Russia?",
+   "a": "Kul Sharif Mosque",
+   "p": 600,
+   "ar": "مسجد قل شريف",
+   "alt": [
+    "Qolşärif Mosque",
+    "Kul Sharif"
+   ],
+   "apic": "Kul Sharif Mosque"
+  },
+  {
+   "q": "Which great mosque of Samarkand was built by Timur and named after his wife?",
+   "a": "Bibi-Khanym Mosque",
+   "p": 600,
+   "ar": "مسجد بيبي خانم",
+   "alt": [
+    "Bibi Khanym",
+    "Bibi Khanum Mosque"
+   ],
+   "apic": "Bibi-Khanym Mosque"
+  },
+  {
+   "q": "In which capital city is the golden-domed Sultan Omar Ali Saifuddien Mosque?",
+   "a": "Bandar Seri Begawan",
+   "p": 600,
+   "alt": [
+    "BSB"
+   ],
+   "apic": "Sultan Omar Ali Saifuddien Mosque"
+  },
+  {
+   "q": "Which Shiraz mosque is nicknamed the 'Pink Mosque' for its stained glass and tiles?",
+   "a": "Nasir al-Mulk Mosque",
+   "p": 600,
+   "ar": "مسجد نصير الملك",
+   "alt": [
+    "Nasir ol Molk Mosque",
+    "Nasir al-Molk Mosque"
+   ],
+   "apic": "Nasir al-Mulk Mosque"
+  },
+  {
+   "q": "Which 16th-century mosque in Sarajevo is named after an Ottoman governor of Bosnia?",
+   "a": "Gazi Husrev-beg Mosque",
+   "p": 600,
+   "alt": [
+    "Gazi Husrev Beg Mosque",
+    "Begova džamija",
+    "Begova Mosque"
+   ],
+   "apic": "Gazi Husrev-beg Mosque"
+  },
+  {
+   "q": "Which 17th-century Lahore mosque is famous for its rich tile work and was built by a Mughal governor?",
+   "a": "Wazir Khan Mosque",
+   "p": 600,
+   "ar": "مسجد وزير خان",
+   "alt": [
+    "Masjid Wazir Khan"
+   ],
+   "apic": "Wazir Khan Mosque"
+  },
+  {
+   "q": "Which Arabic name, meaning 'House of God', is given to the Kaaba?",
+   "a": "Bayt Allah",
+   "p": 600,
+   "ar": "بيت الله",
+   "alt": [
+    "Baytullah",
+    "Bait Allah"
+   ]
+  },
+  {
+   "q": "Which ancient name for Mecca appears once in the Quran?",
+   "a": "Bakkah",
+   "p": 600,
+   "ar": "بكة",
+   "alt": [
+    "Bakka",
+    "Becca"
+   ]
+  },
+  {
+   "q": "Which whitewashed mud-and-timber mosque in northern Ghana is among the oldest in West Africa?",
+   "a": "Larabanga Mosque",
+   "p": 600,
+   "alt": [
+    "Larabanga"
+   ],
+   "apic": "Larabanga Mosque"
+  },
+  {
+   "q": "What does the Arabic word 'Eid' mean?",
+   "a": "Festival",
+   "p": 200,
+   "ar": "عيد",
+   "alt": [
+    "Feast",
+    "Celebration",
+    "Holiday"
+   ]
+  },
+  {
+   "q": "Which phrase opens the adhan?",
+   "a": "Allahu Akbar",
+   "p": 200,
+   "ar": "الله أكبر",
+   "alt": [
+    "Allah Akbar",
+    "God is the Greatest"
+   ]
+  },
+  {
+   "q": "What is the plural of 'masjid' in Arabic?",
+   "a": "Masajid",
+   "p": 400,
+   "ar": "مساجد",
+   "alt": [
+    "Masaajid"
+   ]
+  },
+  {
+   "q": "In wudu, which part of the body is wiped with wet hands rather than washed?",
+   "a": "Head",
+   "p": 400,
+   "ar": "الرأس",
+   "alt": [
+    "The head",
+    "Hair"
+   ]
+  },
+  {
+   "q": "Which city is called 'Umm al-Qura', the 'Mother of Towns'?",
+   "a": "Mecca",
+   "p": 400,
+   "ar": "مكة المكرمة",
+   "alt": [
+    "Makkah",
+    "Makka"
+   ]
+  },
+  {
+   "q": "Which city has the honorific 'al-Munawwarah', meaning 'the radiant'?",
+   "a": "Medina",
+   "p": 400,
+   "ar": "المدينة المنورة",
+   "alt": [
+    "Madinah",
+    "Al-Madinah"
+   ]
+  },
+  {
+   "q": "What is a visit to the Prophet's Mosque and other holy sites called in Arabic?",
+   "a": "Ziyarah",
+   "p": 400,
+   "ar": "زيارة",
+   "alt": [
+    "Ziyarat",
+    "Ziyara"
+   ],
+   "apic": "Ziyarat",
+   "cpic": "Prophet's Mosque"
+  },
+  {
+   "q": "What is the brimless cap many Muslim men wear for prayer called in Arabic?",
+   "a": "Taqiyah",
+   "p": 400,
+   "ar": "طاقية",
+   "alt": [
+    "Kufi",
+    "Topi",
+    "Tagiyah"
+   ],
+   "apic": "Taqiyah (cap)"
+  },
+  {
+   "q": "What is the standing position in the prayer called?",
+   "a": "Qiyam",
+   "p": 400,
+   "ar": "القيام",
+   "alt": [
+    "Qiyaam"
+   ]
+  },
+  {
+   "q": "To which side do worshippers turn their heads first when ending the prayer?",
+   "a": "Right",
+   "p": 400,
+   "ar": "اليمين",
+   "alt": [
+    "Right side",
+    "To the right"
+   ]
+  },
+  {
+   "q": "Which precious metal covers the door of the Kaaba?",
+   "a": "Gold",
+   "p": 400,
+   "ar": "ذهب",
+   "alt": [
+    "Pure gold"
+   ]
+  },
+  {
+   "q": "The phrase 'prayer is better than sleep' is added to the adhan of which prayer?",
+   "a": "Fajr",
+   "p": 400,
+   "ar": "الفجر",
+   "alt": [
+    "Dawn prayer",
+    "Subh"
+   ]
+  },
+  {
+   "q": "In wudu, how many times is each limb usually washed?",
+   "a": "3",
+   "p": 400,
+   "alt": [
+    "Three",
+    "Three times"
+   ]
+  },
+  {
+   "q": "What is the short sitting between the two prostrations of a rak'ah called?",
+   "a": "Jalsa",
+   "p": 600,
+   "ar": "الجلسة",
+   "alt": [
+    "Jalsah",
+    "Al-Jalsa"
+   ]
+  }
+ ]
+}

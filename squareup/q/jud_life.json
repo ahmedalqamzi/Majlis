@@ -1,0 +1,1481 @@
+{
+ "id": "jud_life",
+ "name": "Jewish Festivals & Traditions",
+ "questions": [
+  {
+   "q": "Which Jewish winter 'festival of lights' is marked by lighting one more candle each night?",
+   "a": "Hanukkah",
+   "p": 200,
+   "alt": [
+    "Chanukah",
+    "Hanukah"
+   ],
+   "apic": "Hanukkah"
+  },
+  {
+   "q": "What is the Jewish weekly day of rest called?",
+   "a": "Shabbat",
+   "p": 200,
+   "alt": [
+    "Sabbath",
+    "Shabbos"
+   ],
+   "apic": "Shabbat"
+  },
+  {
+   "q": "What is a Jewish house of worship called?",
+   "a": "Synagogue",
+   "p": 200,
+   "alt": [
+    "Shul",
+    "Temple"
+   ],
+   "apic": "Synagogue"
+  },
+  {
+   "q": "What is the Hebrew name of the Day of Atonement, the holiest day of the Jewish year?",
+   "a": "Yom Kippur",
+   "p": 200,
+   "apic": "Yom Kippur"
+  },
+  {
+   "q": "Which spring festival commemorates the Exodus from Egypt with a special family meal?",
+   "a": "Passover",
+   "p": 200,
+   "alt": [
+    "Pesach"
+   ],
+   "apic": "Passover"
+  },
+  {
+   "q": "What is the Jewish New Year called?",
+   "a": "Rosh Hashanah",
+   "p": 200,
+   "alt": [
+    "Rosh Hashana"
+   ],
+   "apic": "Rosh Hashanah"
+  },
+  {
+   "q": "What ram's horn instrument is blown on Rosh Hashanah?",
+   "a": "Shofar",
+   "p": 200,
+   "apic": "Shofar"
+  },
+  {
+   "q": "What is the coming-of-age ceremony for a Jewish boy at 13 called?",
+   "a": "Bar mitzvah",
+   "p": 200,
+   "alt": [
+    "Bar mitzva"
+   ],
+   "apic": "Bar and bat mitzvah"
+  },
+  {
+   "q": "What is the coming-of-age ceremony for a Jewish girl called?",
+   "a": "Bat mitzvah",
+   "p": 200,
+   "alt": [
+    "Bas mitzvah",
+    "Bat mitzva"
+   ],
+   "apic": "Bar and bat mitzvah"
+  },
+  {
+   "q": "What six-pointed symbol is widely associated with Judaism?",
+   "a": "Star of David",
+   "p": 200,
+   "alt": [
+    "Magen David",
+    "Shield of David"
+   ],
+   "apic": "Star of David"
+  },
+  {
+   "q": "What is the small brimless cap worn by many Jewish men called?",
+   "a": "Kippah",
+   "p": 200,
+   "alt": [
+    "Yarmulke",
+    "Kippa"
+   ],
+   "apic": "Kippah"
+  },
+  {
+   "q": "What word describes food that meets Jewish dietary laws?",
+   "a": "Kosher",
+   "p": 200,
+   "apic": "Kashrut"
+  },
+  {
+   "q": "Which festival, marked by reading the Book of Esther and wearing costumes, falls in late winter?",
+   "a": "Purim",
+   "p": 200,
+   "apic": "Purim"
+  },
+  {
+   "q": "What title is given to a Jewish religious teacher and leader of a congregation?",
+   "a": "Rabbi",
+   "p": 200,
+   "apic": "Rabbi"
+  },
+  {
+   "q": "What flat unleavened bread is eaten during Passover?",
+   "a": "Matzah",
+   "p": 200,
+   "alt": [
+    "Matzo",
+    "Matza",
+    "Matzoh"
+   ],
+   "apic": "Matzo"
+  },
+  {
+   "q": "What is the ritual meal held on the first night of Passover called?",
+   "a": "Seder",
+   "p": 200,
+   "alt": [
+    "Passover Seder"
+   ],
+   "apic": "Passover Seder"
+  },
+  {
+   "q": "What is the seven-branched lampstand that was used in the ancient Temple called?",
+   "a": "Menorah",
+   "p": 200,
+   "apic": "Menorah (Temple)"
+  },
+  {
+   "q": "What four-sided spinning top is played with at Hanukkah?",
+   "a": "Dreidel",
+   "p": 200,
+   "alt": [
+    "Sevivon"
+   ],
+   "apic": "Dreidel"
+  },
+  {
+   "q": "What small case containing a parchment scroll is fixed to the doorposts of Jewish homes?",
+   "a": "Mezuzah",
+   "p": 200,
+   "alt": [
+    "Mezuza"
+   ],
+   "apic": "Mezuzah"
+  },
+  {
+   "q": "What is the fringed prayer shawl worn during Jewish prayer called?",
+   "a": "Tallit",
+   "p": 200,
+   "alt": [
+    "Tallis"
+   ],
+   "apic": "Tallit"
+  },
+  {
+   "q": "Which autumn festival involves eating meals in a temporary hut?",
+   "a": "Sukkot",
+   "p": 200,
+   "alt": [
+    "Sukkos",
+    "Feast of Tabernacles",
+    "Feast of Booths"
+   ],
+   "apic": "Sukkot"
+  },
+  {
+   "q": "What is the temporary hut built for Sukkot called?",
+   "a": "Sukkah",
+   "p": 200,
+   "alt": [
+    "Succah"
+   ],
+   "apic": "Sukkah"
+  },
+  {
+   "q": "What does the Hebrew greeting 'Shalom' mean?",
+   "a": "Peace",
+   "p": 200,
+   "alt": [
+    "Hello",
+    "Goodbye"
+   ]
+  },
+  {
+   "q": "What fried potato pancakes are traditionally eaten at Hanukkah?",
+   "a": "Latkes",
+   "p": 200,
+   "alt": [
+    "Latke",
+    "Potato latkes"
+   ],
+   "apic": "Latke"
+  },
+  {
+   "q": "What braided bread is eaten at Shabbat meals?",
+   "a": "Challah",
+   "p": 200,
+   "alt": [
+    "Hallah",
+    "Chollah"
+   ],
+   "apic": "Challah"
+  },
+  {
+   "q": "For how many nights is Hanukkah celebrated?",
+   "a": "Eight",
+   "p": 200,
+   "alt": [
+    "8"
+   ]
+  },
+  {
+   "q": "What is the canopy under which a Jewish couple stands at their wedding?",
+   "a": "Chuppah",
+   "p": 200,
+   "alt": [
+    "Huppah",
+    "Chupah"
+   ],
+   "apic": "Chuppah"
+  },
+  {
+   "q": "At the end of a Jewish wedding, what does the groom traditionally break with his foot?",
+   "a": "A glass",
+   "p": 200,
+   "alt": [
+    "Glass"
+   ]
+  },
+  {
+   "q": "Which language, a blend of German and Hebrew elements, was spoken by Ashkenazi Jews?",
+   "a": "Yiddish",
+   "p": 200,
+   "apic": "Yiddish"
+  },
+  {
+   "q": "Which ring-shaped bread roll, boiled before baking, came from Jewish communities in Poland?",
+   "a": "Bagel",
+   "p": 200,
+   "alt": [
+    "Beigel"
+   ],
+   "apic": "Bagel"
+  },
+  {
+   "q": "On which day of the week is Shabbat observed?",
+   "a": "Saturday",
+   "p": 200,
+   "alt": [
+    "Friday evening to Saturday evening"
+   ]
+  },
+  {
+   "q": "In which direction is Hebrew written?",
+   "a": "Right to left",
+   "p": 200
+  },
+  {
+   "q": "Into what do people dip apples on Rosh Hashanah for a sweet new year?",
+   "a": "Honey",
+   "p": 200
+  },
+  {
+   "q": "What Hebrew phrase is said to congratulate someone on good news?",
+   "a": "Mazel tov",
+   "p": 200,
+   "alt": [
+    "Mazal tov"
+   ],
+   "apic": "Mazel tov"
+  },
+  {
+   "q": "What chocolate coins are given to children at Hanukkah?",
+   "a": "Gelt",
+   "p": 200,
+   "alt": [
+    "Hanukkah gelt",
+    "Chanukah gelt"
+   ],
+   "apic": "Hanukkah gelt"
+  },
+  {
+   "q": "What is the nine-branched candleholder used at Hanukkah called?",
+   "a": "Hanukkiah",
+   "p": 200,
+   "alt": [
+    "Hanukkah menorah",
+    "Chanukiah",
+    "Menorah"
+   ],
+   "apic": "Hanukkah menorah"
+  },
+  {
+   "q": "What jam-filled doughnuts are traditionally eaten at Hanukkah?",
+   "a": "Sufganiyot",
+   "p": 200,
+   "alt": [
+    "Sufganiyah",
+    "Jelly doughnuts"
+   ],
+   "apic": "Sufganiyah"
+  },
+  {
+   "q": "What palm-shaped amulet, popular across the Middle East and North Africa, is also called the Hand of Miriam?",
+   "a": "Hamsa",
+   "p": 200,
+   "ar": "خمسة",
+   "alt": [
+    "Khamsa",
+    "Hand of Fatima"
+   ],
+   "apic": "Hamsa",
+   "cpic": "Middle East"
+  },
+  {
+   "q": "What Hebrew greeting has the Arabic cognate 'As-salamu alaykum'?",
+   "a": "Shalom aleichem",
+   "p": 200,
+   "alt": [
+    "Shalom alechem"
+   ]
+  },
+  {
+   "q": "What Yiddish word for synagogue is widely used by Jews?",
+   "a": "Shul",
+   "p": 400,
+   "alt": [
+    "Shool"
+   ]
+  },
+  {
+   "q": "At what time of day does Shabbat begin each Friday?",
+   "a": "Sunset",
+   "p": 200,
+   "alt": [
+    "Sundown",
+    "Dusk",
+    "Evening"
+   ]
+  },
+  {
+   "q": "What miracle is Hanukkah associated with: a one-day supply of what lasting eight days?",
+   "a": "Oil",
+   "p": 200,
+   "alt": [
+    "Olive oil",
+    "Lamp oil"
+   ]
+  },
+  {
+   "q": "What Hebrew word is used for a Jewish religious school for studying Torah and Talmud?",
+   "a": "Yeshiva",
+   "p": 400,
+   "alt": [
+    "Yeshivah"
+   ],
+   "apic": "Yeshiva"
+  },
+  {
+   "q": "What are the leather boxes containing Torah verses, worn on the arm and head during weekday morning prayer?",
+   "a": "Tefillin",
+   "p": 400,
+   "alt": [
+    "Phylacteries"
+   ],
+   "apic": "Tefillin"
+  },
+  {
+   "q": "Under Jewish dietary law, meat must not be eaten together with what?",
+   "a": "Dairy",
+   "p": 200,
+   "alt": [
+    "Milk",
+    "Dairy products"
+   ]
+  },
+  {
+   "q": "Which branch of Judaism is the most traditional and strictly observes Jewish law?",
+   "a": "Orthodox",
+   "p": 200,
+   "alt": [
+    "Orthodox Judaism"
+   ],
+   "apic": "Orthodox Judaism"
+  },
+  {
+   "q": "Which branch of Judaism, begun in 19th-century Germany, adapts practice to modern life?",
+   "a": "Reform",
+   "p": 200,
+   "alt": [
+    "Reform Judaism",
+    "Liberal Judaism",
+    "Progressive Judaism"
+   ],
+   "apic": "Reform Judaism"
+  },
+  {
+   "q": "What are Jews whose ancestors came from Spain and Portugal called?",
+   "a": "Sephardi Jews",
+   "p": 200,
+   "alt": [
+    "Sephardim",
+    "Sephardic Jews",
+    "Sephardi"
+   ],
+   "apic": "Sephardic Jews"
+  },
+  {
+   "q": "What are Jews whose ancestors lived in Central and Eastern Europe called?",
+   "a": "Ashkenazi Jews",
+   "p": 200,
+   "alt": [
+    "Ashkenazim",
+    "Ashkenazi"
+   ],
+   "apic": "Ashkenazi Jews"
+  },
+  {
+   "q": "Which classic musical tells the story of Tevye the milkman in a Jewish village?",
+   "a": "Fiddler on the Roof",
+   "p": 200,
+   "apic": "Fiddler on the Roof"
+  },
+  {
+   "q": "What Ashkenazi dish of poached ground fish patties is often served at Passover and Shabbat?",
+   "a": "Gefilte fish",
+   "p": 200,
+   "apic": "Gefilte fish"
+  },
+  {
+   "q": "What dumplings, a Passover favourite, are traditionally served in chicken soup?",
+   "a": "Matzah balls",
+   "p": 200,
+   "alt": [
+    "Matzo balls",
+    "Kneidlach"
+   ],
+   "apic": "Matzah ball"
+  },
+  {
+   "q": "Which festival celebrates the giving of the Torah at Mount Sinai, seven weeks after Passover?",
+   "a": "Shavuot",
+   "p": 200,
+   "alt": [
+    "Feast of Weeks",
+    "Shavuos",
+    "Pentecost"
+   ],
+   "apic": "Shavuot"
+  },
+  {
+   "q": "What Hebrew word refers to a commandment or good deed?",
+   "a": "Mitzvah",
+   "p": 200,
+   "alt": [
+    "Mitzva"
+   ],
+   "apic": "Mitzvah"
+  },
+  {
+   "q": "Which family of Jewish rebels led the revolt celebrated at Hanukkah?",
+   "a": "Maccabees",
+   "p": 200,
+   "alt": [
+    "Hasmoneans",
+    "Judah Maccabee"
+   ],
+   "apic": "Maccabees"
+  },
+  {
+   "q": "What do Jews light on Friday evening to welcome Shabbat?",
+   "a": "Candles",
+   "p": 200,
+   "alt": [
+    "Shabbat candles"
+   ],
+   "apic": "Shabbat candles"
+  },
+  {
+   "q": "Who is the villain booed with noisemakers whenever his name is read on Purim?",
+   "a": "Haman",
+   "p": 200,
+   "apic": "Haman"
+  },
+  {
+   "q": "Which prophet is welcomed with a special cup and an opened door at the Passover Seder?",
+   "a": "Elijah",
+   "p": 200,
+   "alt": [
+    "Eliyahu"
+   ],
+   "apic": "Elijah"
+  },
+  {
+   "q": "Which ultra-traditional movement, founded in 18th-century Eastern Europe, emphasises joy and mysticism in prayer?",
+   "a": "Hasidism",
+   "p": 200,
+   "alt": [
+    "Hasidic Judaism",
+    "Chassidism",
+    "Hasidim"
+   ],
+   "apic": "Hasidic Judaism"
+  },
+  {
+   "q": "What is the text read at the Passover Seder, telling the Exodus story?",
+   "a": "Haggadah",
+   "p": 400,
+   "alt": [
+    "Hagaddah",
+    "Haggada"
+   ],
+   "apic": "Haggadah"
+  },
+  {
+   "q": "What piece of matzah is hidden during the Seder for children to find?",
+   "a": "Afikoman",
+   "p": 400,
+   "alt": [
+    "Afikomen"
+   ],
+   "apic": "Afikoman"
+  },
+  {
+   "q": "At the Seder, who traditionally asks the Four Questions?",
+   "a": "The youngest child",
+   "p": 400,
+   "alt": [
+    "Youngest child",
+    "Youngest"
+   ]
+  },
+  {
+   "q": "What is the term for leavened food that is removed from the home before Passover?",
+   "a": "Chametz",
+   "p": 400,
+   "alt": [
+    "Hametz",
+    "Chometz"
+   ],
+   "apic": "Chametz"
+  },
+  {
+   "q": "What ceremony with a candle, spices and a blessing marks the end of Shabbat?",
+   "a": "Havdalah",
+   "p": 400,
+   "apic": "Havdalah"
+  },
+  {
+   "q": "What is the central Jewish prayer whose name means 'Hear'?",
+   "a": "Shema",
+   "p": 400,
+   "alt": [
+    "Shema Yisrael",
+    "Sh'ma"
+   ],
+   "apic": "Shema Yisrael"
+  },
+  {
+   "q": "What prayer is recited by mourners in memory of the dead?",
+   "a": "Kaddish",
+   "p": 400,
+   "alt": [
+    "Mourner's Kaddish"
+   ],
+   "apic": "Kaddish"
+  },
+  {
+   "q": "What is the seven-day period of mourning after a burial called?",
+   "a": "Shiva",
+   "p": 400,
+   "alt": [
+    "Shivah",
+    "Sitting shiva"
+   ],
+   "apic": "Shiva (Judaism)"
+  },
+  {
+   "q": "What is the minimum quorum of ten adults needed for communal prayer called?",
+   "a": "Minyan",
+   "p": 400,
+   "apic": "Minyan"
+  },
+  {
+   "q": "What is the ritual bath used for purification called?",
+   "a": "Mikveh",
+   "p": 400,
+   "alt": [
+    "Mikvah",
+    "Mikva"
+   ],
+   "apic": "Mikveh"
+  },
+  {
+   "q": "What is the Hebrew name for the circumcision ceremony held on a boy's eighth day?",
+   "a": "Brit milah",
+   "p": 400,
+   "alt": [
+    "Bris",
+    "Brit"
+   ],
+   "apic": "Brit milah"
+  },
+  {
+   "q": "What is the Jewish marriage contract called?",
+   "a": "Ketubah",
+   "p": 400,
+   "alt": [
+    "Ketubbah",
+    "Ketuba"
+   ],
+   "apic": "Ketubah"
+  },
+  {
+   "q": "What are the fringes on the corners of a prayer shawl called?",
+   "a": "Tzitzit",
+   "p": 400,
+   "alt": [
+    "Tzitzis",
+    "Tsitsit"
+   ],
+   "apic": "Tzitzit"
+  },
+  {
+   "q": "What is the pointer used to follow the text when reading a Torah scroll called?",
+   "a": "Yad",
+   "p": 400,
+   "alt": [
+    "Torah pointer"
+   ],
+   "apic": "Yad"
+  },
+  {
+   "q": "What is the cabinet in a synagogue where Torah scrolls are kept called?",
+   "a": "Holy Ark",
+   "p": 400,
+   "alt": [
+    "Ark",
+    "Aron Kodesh",
+    "Torah ark",
+    "Heikhal"
+   ],
+   "apic": "Torah ark"
+  },
+  {
+   "q": "What triangular filled pastries are eaten at Purim?",
+   "a": "Hamantaschen",
+   "p": 400,
+   "alt": [
+    "Oznei Haman",
+    "Haman's ears"
+   ],
+   "apic": "Hamantash"
+  },
+  {
+   "q": "What does the Hebrew word 'Hanukkah' mean?",
+   "a": "Dedication",
+   "p": 400,
+   "alt": [
+    "Rededication"
+   ]
+  },
+  {
+   "q": "What does 'Rosh Hashanah' literally mean in Hebrew?",
+   "a": "Head of the year",
+   "p": 400,
+   "alt": [
+    "Head of the Year",
+    "Beginning of the year"
+   ]
+  },
+  {
+   "q": "Roughly how many hours does the Yom Kippur fast last?",
+   "a": "25",
+   "p": 400,
+   "alt": [
+    "About 25 hours",
+    "Twenty-five"
+   ]
+  },
+  {
+   "q": "What name is given to the ten days from Rosh Hashanah to Yom Kippur?",
+   "a": "Days of Awe",
+   "p": 400,
+   "alt": [
+    "Ten Days of Repentance",
+    "Yamim Noraim",
+    "High Holy Days"
+   ],
+   "apic": "High Holy Days"
+  },
+  {
+   "q": "Which festival celebrates completing the annual cycle of Torah readings, with dancing around the scrolls?",
+   "a": "Simchat Torah",
+   "p": 400,
+   "alt": [
+    "Simhat Torah"
+   ],
+   "apic": "Simchat Torah"
+  },
+  {
+   "q": "Which yellow citrus fruit is used in the rituals of Sukkot?",
+   "a": "Etrog",
+   "p": 400,
+   "alt": [
+    "Citron"
+   ],
+   "apic": "Etrog"
+  },
+  {
+   "q": "How many plant species are waved together during Sukkot?",
+   "a": "Four",
+   "p": 400,
+   "alt": [
+    "4"
+   ],
+   "apic": "Four species"
+  },
+  {
+   "q": "What is the bundle of palm, myrtle and willow branches waved on Sukkot called?",
+   "a": "Lulav",
+   "p": 400,
+   "apic": "Lulav"
+  },
+  {
+   "q": "What Hebrew word for 'life', with the numerical value 18, is worn as a pendant?",
+   "a": "Chai",
+   "p": 400,
+   "alt": [
+    "Hai"
+   ],
+   "apic": "Chai (symbol)"
+  },
+  {
+   "q": "What is the Hebrew word for charity, seen as a religious duty?",
+   "a": "Tzedakah",
+   "p": 400,
+   "alt": [
+    "Tzedaka",
+    "Sedaqah"
+   ],
+   "apic": "Tzedakah"
+  },
+  {
+   "q": "What is the body of Jewish religious law called?",
+   "a": "Halakha",
+   "p": 400,
+   "alt": [
+    "Halacha",
+    "Halakhah"
+   ],
+   "apic": "Halakha"
+  },
+  {
+   "q": "What is the Jewish prayer book for daily and Shabbat prayers called?",
+   "a": "Siddur",
+   "p": 400,
+   "apic": "Siddur"
+  },
+  {
+   "q": "What Hebrew term describes members of the priestly families descended from Aaron?",
+   "a": "Kohen",
+   "p": 400,
+   "alt": [
+    "Kohanim",
+    "Cohen"
+   ],
+   "apic": "Kohen"
+  },
+  {
+   "q": "What is the singer who leads synagogue prayers called?",
+   "a": "Cantor",
+   "p": 400,
+   "alt": [
+    "Hazzan",
+    "Chazzan"
+   ],
+   "apic": "Hazzan"
+  },
+  {
+   "q": "What are Jews from the Middle East and North Africa often called, from the Hebrew for 'Eastern'?",
+   "a": "Mizrahi Jews",
+   "p": 400,
+   "alt": [
+    "Mizrahim",
+    "Mizrahi"
+   ],
+   "apic": "Mizrahi Jews",
+   "cpic": "Middle East"
+  },
+  {
+   "q": "What Judeo-Spanish language did Sephardi Jews carry across the Mediterranean?",
+   "a": "Ladino",
+   "p": 400,
+   "alt": [
+    "Judeo-Spanish",
+    "Judezmo"
+   ],
+   "apic": "Judaeo-Spanish"
+  },
+  {
+   "q": "In which year were Jews expelled from Spain by the Alhambra Decree?",
+   "a": "1492",
+   "p": 400,
+   "apic": "Alhambra Decree"
+  },
+  {
+   "q": "Which empire's Sultan Bayezid II welcomed Jews expelled from Spain?",
+   "a": "Ottoman Empire",
+   "p": 400,
+   "ar": "الدولة العثمانية",
+   "alt": [
+    "Ottoman",
+    "Ottomans"
+   ],
+   "apic": "Ottoman Empire"
+  },
+  {
+   "q": "Which Italian city's Jewish quarter of 1516 gave the world the word 'ghetto'?",
+   "a": "Venice",
+   "p": 400,
+   "apic": "Venetian Ghetto"
+  },
+  {
+   "q": "What Yiddish word meaning 'little town' describes Jewish market towns of Eastern Europe?",
+   "a": "Shtetl",
+   "p": 400,
+   "apic": "Shtetl"
+  },
+  {
+   "q": "What Yiddish word, now common in English, means daring boldness or nerve?",
+   "a": "Chutzpah",
+   "p": 400,
+   "alt": [
+    "Hutzpah"
+   ],
+   "apic": "Chutzpah"
+  },
+  {
+   "q": "What Yiddish word, now used in English, describes a clumsy person?",
+   "a": "Klutz",
+   "p": 400
+  },
+  {
+   "q": "In Prague legend, what clay creature did Rabbi Judah Loew bring to life?",
+   "a": "Golem",
+   "p": 400,
+   "apic": "Golem"
+  },
+  {
+   "q": "What slow-cooked stew is traditionally kept warm overnight and eaten at Shabbat lunch?",
+   "a": "Cholent",
+   "p": 400,
+   "alt": [
+    "Hamin",
+    "Tscholent"
+   ],
+   "apic": "Cholent"
+  },
+  {
+   "q": "What is the term for a Jewish meal or food that contains neither meat nor dairy?",
+   "a": "Pareve",
+   "p": 400,
+   "alt": [
+    "Parve",
+    "Parev"
+   ],
+   "apic": "Pareve"
+  },
+  {
+   "q": "Under Jewish dietary law, what two features must a fish have to be kosher?",
+   "a": "Fins and scales",
+   "p": 400,
+   "alt": [
+    "Scales and fins"
+   ]
+  },
+  {
+   "q": "Instead of flowers, what do visitors traditionally leave on Jewish graves?",
+   "a": "Small stones",
+   "p": 400,
+   "alt": [
+    "Stones",
+    "Pebbles"
+   ]
+  },
+  {
+   "q": "What is the anniversary of a relative's death, marked by lighting a candle, called?",
+   "a": "Yahrzeit",
+   "p": 400,
+   "alt": [
+    "Yortzeit",
+    "Yartzeit"
+   ],
+   "apic": "Yahrzeit"
+  },
+  {
+   "q": "What is the raised platform from which the Torah is read in a synagogue called?",
+   "a": "Bimah",
+   "p": 400,
+   "alt": [
+    "Bema",
+    "Tevah"
+   ],
+   "apic": "Bimah"
+  },
+  {
+   "q": "What is the 'eternal light' that burns above the ark in a synagogue called in Hebrew?",
+   "a": "Ner Tamid",
+   "p": 400,
+   "apic": "Sanctuary lamp"
+  },
+  {
+   "q": "What is the extra Hanukkah candle, used to light the others, called?",
+   "a": "Shamash",
+   "p": 400,
+   "alt": [
+    "Shammes",
+    "Shamas"
+   ],
+   "apic": "Hanukkah menorah"
+  },
+  {
+   "q": "Dairy foods such as cheesecake and blintzes are traditionally eaten on which Jewish festival?",
+   "a": "Shavuot",
+   "p": 400,
+   "alt": [
+    "Shavuos"
+   ]
+  },
+  {
+   "q": "How many candles are traditionally lit, at minimum, to welcome Shabbat?",
+   "a": "Two",
+   "p": 400,
+   "alt": [
+    "2"
+   ]
+  },
+  {
+   "q": "What is the Jewish calendar's 'New Year for Trees' called?",
+   "a": "Tu BiShvat",
+   "p": 400,
+   "alt": [
+    "Tu B'Shvat",
+    "Tu Bishvat"
+   ],
+   "apic": "Tu BiShvat"
+  },
+  {
+   "q": "In which month of the Hebrew calendar does Purim fall?",
+   "a": "Adar",
+   "p": 600,
+   "apic": "Adar"
+  },
+  {
+   "q": "What is the name of the Moroccan Jewish quarter in cities like Fez and Marrakesh?",
+   "a": "Mellah",
+   "p": 600,
+   "ar": "ملاح",
+   "alt": [
+    "Mallah"
+   ],
+   "apic": "Mellah"
+  },
+  {
+   "q": "On which Tunisian island is the ancient El Ghriba synagogue?",
+   "a": "Djerba",
+   "p": 400,
+   "ar": "جربة",
+   "alt": [
+    "Jerba",
+    "Jarbah"
+   ],
+   "apic": "Djerba"
+  },
+  {
+   "q": "On which side of the doorway is a mezuzah traditionally fixed when entering?",
+   "a": "Right",
+   "p": 400,
+   "alt": [
+    "Right side",
+    "Right-hand side"
+   ]
+  },
+  {
+   "q": "What does the word 'kosher' literally mean?",
+   "a": "Fit",
+   "p": 400,
+   "alt": [
+    "Proper",
+    "Fit or proper",
+    "Suitable"
+   ]
+  },
+  {
+   "q": "In which month of the Hebrew calendar do Rosh Hashanah and Yom Kippur fall?",
+   "a": "Tishrei",
+   "p": 400,
+   "alt": [
+    "Tishri"
+   ],
+   "apic": "Tishrei"
+  },
+  {
+   "q": "In which month of the Hebrew calendar does Passover begin?",
+   "a": "Nisan",
+   "p": 400,
+   "alt": [
+    "Nissan"
+   ],
+   "apic": "Nisan"
+  },
+  {
+   "q": "What colour do many Jews wear to synagogue on Yom Kippur as a symbol of purity?",
+   "a": "White",
+   "p": 400
+  },
+  {
+   "q": "Which Jewish branch is known as Masorti outside North America?",
+   "a": "Conservative Judaism",
+   "p": 400,
+   "alt": [
+    "Conservative",
+    "Masorti Judaism"
+   ],
+   "apic": "Conservative Judaism",
+   "cpic": "North America"
+  },
+  {
+   "q": "Which fast day mourns the destruction of both ancient Temples?",
+   "a": "Tisha B'Av",
+   "p": 600,
+   "alt": [
+    "Tisha BeAv",
+    "Ninth of Av"
+   ],
+   "apic": "Tisha B'Av"
+  },
+  {
+   "q": "Which book of the Bible is read in synagogue on Tisha B'Av?",
+   "a": "Lamentations",
+   "p": 600,
+   "alt": [
+    "Eicha",
+    "Eichah"
+   ],
+   "apic": "Book of Lamentations"
+  },
+  {
+   "q": "Which book is traditionally read in synagogue on Shavuot?",
+   "a": "Ruth",
+   "p": 600,
+   "alt": [
+    "Book of Ruth"
+   ],
+   "apic": "Book of Ruth"
+  },
+  {
+   "q": "Which book is read by many communities on Passover?",
+   "a": "Song of Songs",
+   "p": 600,
+   "alt": [
+    "Song of Solomon",
+    "Shir HaShirim"
+   ],
+   "apic": "Song of Songs"
+  },
+  {
+   "q": "Which book is read by Ashkenazi communities on Sukkot?",
+   "a": "Ecclesiastes",
+   "p": 600,
+   "alt": [
+    "Kohelet",
+    "Qoheleth"
+   ],
+   "apic": "Ecclesiastes"
+  },
+  {
+   "q": "What is the name of the solemn prayer that opens the evening service of Yom Kippur?",
+   "a": "Kol Nidre",
+   "p": 600,
+   "alt": [
+    "Kol Nidrei"
+   ],
+   "apic": "Kol Nidre"
+  },
+  {
+   "q": "What is the closing service of Yom Kippur called?",
+   "a": "Neilah",
+   "p": 600,
+   "alt": [
+    "Ne'ilah"
+   ],
+   "apic": "Ne'ilah"
+  },
+  {
+   "q": "What Rosh Hashanah ritual involves casting bread crumbs into flowing water?",
+   "a": "Tashlikh",
+   "p": 600,
+   "alt": [
+    "Tashlich"
+   ],
+   "apic": "Tashlikh"
+  },
+  {
+   "q": "How many days are counted in the Counting of the Omer between Passover and Shavuot?",
+   "a": "49",
+   "p": 600,
+   "alt": [
+    "Forty-nine"
+   ]
+  },
+  {
+   "q": "On which day of the Omer count does the minor festival Lag BaOmer fall?",
+   "a": "33rd",
+   "p": 600,
+   "alt": [
+    "33",
+    "Thirty-third"
+   ]
+  },
+  {
+   "q": "What is the eighth-day festival that immediately follows Sukkot?",
+   "a": "Shemini Atzeret",
+   "p": 600,
+   "apic": "Shemini Atzeret"
+  },
+  {
+   "q": "On which day of the Hebrew month of Kislev does Hanukkah begin?",
+   "a": "25th",
+   "p": 600,
+   "alt": [
+    "25",
+    "25 Kislev"
+   ]
+  },
+  {
+   "q": "In a Jewish leap year, which month is doubled?",
+   "a": "Adar",
+   "p": 600,
+   "alt": [
+    "Adar I",
+    "Adar II"
+   ],
+   "apic": "Adar"
+  },
+  {
+   "q": "How many leap years are there in each 19-year cycle of the Hebrew calendar?",
+   "a": "Seven",
+   "p": 600,
+   "alt": [
+    "7"
+   ]
+  },
+  {
+   "q": "What is the start of each Hebrew month, a minor holiday, called?",
+   "a": "Rosh Chodesh",
+   "p": 600,
+   "alt": [
+    "Rosh Hodesh"
+   ],
+   "apic": "Rosh Chodesh"
+  },
+  {
+   "q": "From what event does the Hebrew calendar traditionally count its years?",
+   "a": "Creation of the world",
+   "p": 600,
+   "alt": [
+    "Creation",
+    "Anno Mundi"
+   ],
+   "apic": "Anno Mundi"
+  },
+  {
+   "q": "What is the Hebrew name for the bitter herbs eaten at the Seder to recall slavery?",
+   "a": "Maror",
+   "p": 600,
+   "apic": "Maror"
+  },
+  {
+   "q": "What sweet paste of fruit and nuts on the Seder plate represents mortar?",
+   "a": "Charoset",
+   "p": 600,
+   "alt": [
+    "Haroset",
+    "Charoses"
+   ],
+   "apic": "Charoset"
+  },
+  {
+   "q": "What does the Hebrew word 'Seder' mean?",
+   "a": "Order",
+   "p": 600
+  },
+  {
+   "q": "What does the name 'Purim' mean?",
+   "a": "Lots",
+   "p": 600,
+   "alt": [
+    "Lottery",
+    "Casting lots"
+   ]
+  },
+  {
+   "q": "What are the gifts of food exchanged on Purim called?",
+   "a": "Mishloach manot",
+   "p": 600,
+   "alt": [
+    "Shalach manos"
+   ],
+   "apic": "Mishloach manot"
+  },
+  {
+   "q": "What is the person trained to perform a circumcision called?",
+   "a": "Mohel",
+   "p": 600,
+   "apic": "Mohel"
+  },
+  {
+   "q": "What ceremony redeems a firstborn son, held when he is 30 days old?",
+   "a": "Pidyon haben",
+   "p": 600,
+   "alt": [
+    "Pidyon ha-ben",
+    "Redemption of the firstborn"
+   ],
+   "apic": "Pidyon haben"
+  },
+  {
+   "q": "At what age does a boy have his first haircut in the upsherin custom?",
+   "a": "Three",
+   "p": 600,
+   "alt": [
+    "3"
+   ]
+  },
+  {
+   "q": "How many blessings are recited under the chuppah at a Jewish wedding?",
+   "a": "Seven",
+   "p": 600,
+   "alt": [
+    "7",
+    "Sheva Brachot"
+   ]
+  },
+  {
+   "q": "How many categories of creative work are traditionally prohibited on Shabbat?",
+   "a": "39",
+   "p": 600,
+   "alt": [
+    "Thirty-nine"
+   ]
+  },
+  {
+   "q": "What boundary allows observant Jews to carry objects in a neighbourhood on Shabbat?",
+   "a": "Eruv",
+   "p": 600,
+   "apic": "Eruv"
+  },
+  {
+   "q": "What is the scribe who writes Torah scrolls by hand called?",
+   "a": "Sofer",
+   "p": 600,
+   "alt": [
+    "Sofer STaM",
+    "Scribe"
+   ],
+   "apic": "Sofer"
+  },
+  {
+   "q": "On which two weekdays is the Torah read in synagogue, besides Shabbat?",
+   "a": "Monday and Thursday",
+   "p": 600,
+   "alt": [
+    "Mondays and Thursdays"
+   ]
+  },
+  {
+   "q": "What is the partition separating men's and women's sections in an Orthodox synagogue called?",
+   "a": "Mechitza",
+   "p": 600,
+   "alt": [
+    "Mechitzah"
+   ],
+   "apic": "Mechitza"
+  },
+  {
+   "q": "What prayer book is used specifically for the High Holy Days?",
+   "a": "Machzor",
+   "p": 600,
+   "alt": [
+    "Mahzor"
+   ],
+   "apic": "Machzor"
+  },
+  {
+   "q": "What is the fur hat worn by many married Hasidic men on Shabbat called?",
+   "a": "Shtreimel",
+   "p": 600,
+   "alt": [
+    "Streimel"
+   ],
+   "apic": "Shtreimel"
+  },
+  {
+   "q": "What are the sidelocks worn by many Orthodox Jewish men called?",
+   "a": "Payot",
+   "p": 600,
+   "alt": [
+    "Payos",
+    "Peyot"
+   ],
+   "apic": "Payot"
+  },
+  {
+   "q": "What is the Jewish method of slaughtering animals for kosher meat called?",
+   "a": "Shechita",
+   "p": 600,
+   "alt": [
+    "Shehita"
+   ],
+   "apic": "Shechita"
+  },
+  {
+   "q": "Which 18th-century rabbi is regarded as the founder of Hasidism?",
+   "a": "Baal Shem Tov",
+   "p": 600,
+   "alt": [
+    "Israel ben Eliezer",
+    "Besht"
+   ],
+   "apic": "Baal Shem Tov"
+  },
+  {
+   "q": "Which American rabbi founded Reconstructionist Judaism?",
+   "a": "Mordecai Kaplan",
+   "p": 600,
+   "alt": [
+    "Mordecai M. Kaplan"
+   ],
+   "apic": "Mordecai Kaplan"
+  },
+  {
+   "q": "What is the Ethiopian Jewish community traditionally called?",
+   "a": "Beta Israel",
+   "p": 600,
+   "apic": "Beta Israel"
+  },
+  {
+   "q": "Which Jewish community has lived for centuries in the Konkan region of Maharashtra, India?",
+   "a": "Bene Israel",
+   "p": 600,
+   "apic": "Bene Israel"
+  },
+  {
+   "q": "Which historic Jewish community lived in the southern Indian state of Kerala?",
+   "a": "Cochin Jews",
+   "p": 600,
+   "alt": [
+    "Malabar Jews"
+   ],
+   "apic": "Cochin Jews"
+  },
+  {
+   "q": "In which Chinese city did a historic Jewish community live from the Song dynasty?",
+   "a": "Kaifeng",
+   "p": 600,
+   "apic": "Kaifeng Jews"
+  },
+  {
+   "q": "What was the 18th–19th-century Jewish Enlightenment movement called?",
+   "a": "Haskalah",
+   "p": 600,
+   "apic": "Haskalah"
+  },
+  {
+   "q": "In which city is the Old New Synagogue, said to be the oldest active synagogue in Europe?",
+   "a": "Prague",
+   "p": 600,
+   "alt": [
+    "Praha"
+   ],
+   "apic": "Old New Synagogue"
+  },
+  {
+   "q": "In which city is the Dohány Street Synagogue, the largest synagogue in Europe?",
+   "a": "Budapest",
+   "p": 600,
+   "apic": "Dohány Street Synagogue"
+  },
+  {
+   "q": "In which US state is the Touro Synagogue, the oldest surviving synagogue building in the country?",
+   "a": "Rhode Island",
+   "p": 600,
+   "alt": [
+    "Newport"
+   ],
+   "apic": "Touro Synagogue"
+  },
+  {
+   "q": "Which London synagogue, opened in 1701, is the oldest in Britain in continuous use?",
+   "a": "Bevis Marks Synagogue",
+   "p": 600,
+   "alt": [
+    "Bevis Marks"
+   ],
+   "apic": "Bevis Marks Synagogue"
+  },
+  {
+   "q": "In which city is the Ben Ezra Synagogue, where the famous Geniza manuscripts were found?",
+   "a": "Cairo",
+   "p": 600,
+   "ar": "القاهرة",
+   "alt": [
+    "Fustat",
+    "Old Cairo"
+   ],
+   "apic": "Ben Ezra Synagogue"
+  },
+  {
+   "q": "What Hebrew phrase means 'repairing the world', used for social action?",
+   "a": "Tikkun olam",
+   "p": 600,
+   "apic": "Tikkun olam"
+  },
+  {
+   "q": "Which Nobel laureate wrote his fiction in Yiddish and won the 1978 Nobel Prize in Literature?",
+   "a": "Isaac Bashevis Singer",
+   "p": 600,
+   "alt": [
+    "I. B. Singer"
+   ],
+   "apic": "Isaac Bashevis Singer",
+   "cpic": "Nobel Prize"
+  },
+  {
+   "q": "Which Yiddish author created Tevye the Dairyman?",
+   "a": "Sholem Aleichem",
+   "p": 600,
+   "alt": [
+    "Sholom Aleichem"
+   ],
+   "apic": "Sholem Aleichem"
+  },
+  {
+   "q": "What baked noodle or potato pudding is a classic Ashkenazi Shabbat dish?",
+   "a": "Kugel",
+   "p": 600,
+   "apic": "Kugel"
+  },
+  {
+   "q": "What two-word Hebrew greeting is exchanged from Friday evening through Saturday?",
+   "a": "Shabbat shalom",
+   "p": 200,
+   "alt": [
+    "Shabbos shalom",
+    "Good Shabbos"
+   ]
+  }
+ ]
+}

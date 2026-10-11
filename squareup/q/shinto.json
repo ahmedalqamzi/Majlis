@@ -1,0 +1,1293 @@
+{
+ "id": "shinto",
+ "name": "Shinto",
+ "questions": [
+  {
+   "q": "In Shinto, what word refers to the gods, spirits and sacred powers that are venerated?",
+   "a": "Kami",
+   "p": 200
+  },
+  {
+   "q": "What is the name of the traditional gateway that marks the entrance to a Shinto shrine?",
+   "a": "Torii",
+   "p": 200,
+   "apic": "Torii"
+  },
+  {
+   "q": "In Shinto, which sun goddess is regarded as the most important of all the kami?",
+   "a": "Amaterasu",
+   "p": 200,
+   "alt": [
+    "Amaterasu-omikami"
+   ],
+   "apic": "Amaterasu"
+  },
+  {
+   "q": "Which shrine is famous for paths lined with thousands of torii gates climbing a mountain?",
+   "a": "Fushimi Inari-taisha",
+   "p": 200,
+   "alt": [
+    "Fushimi Inari",
+    "Fushimi Inari Taisha"
+   ],
+   "apic": "Fushimi Inari-taisha",
+   "cpic": "Torii"
+  },
+  {
+   "q": "Which shrine is famous for a large torii gate that appears to float on the sea at high tide?",
+   "a": "Itsukushima Shrine",
+   "p": 200,
+   "alt": [
+    "Itsukushima",
+    "Miyajima shrine"
+   ],
+   "apic": "Itsukushima Shrine",
+   "cpic": "Torii"
+  },
+  {
+   "q": "Which large shrine beside Harajuku is dedicated to the spirits of an emperor who died in 1912 and his empress?",
+   "a": "Meiji Shrine",
+   "p": 200,
+   "alt": [
+    "Meiji Jingu",
+    "Meiji Jingū"
+   ],
+   "apic": "Meiji Shrine"
+  },
+  {
+   "q": "Which animal is regarded as the messenger of the kami Inari, with statues of it at Inari shrines?",
+   "a": "Fox",
+   "p": 200,
+   "alt": [
+    "Kitsune"
+   ],
+   "apic": "Kitsune"
+  },
+  {
+   "q": "What are the paper fortunes drawn at shrines and temples called?",
+   "a": "Omikuji",
+   "p": 200,
+   "apic": "Omikuji"
+  },
+  {
+   "q": "What November festival celebrates young children of particular ages with a visit to a shrine?",
+   "a": "Shichi-Go-San",
+   "p": 200,
+   "alt": [
+    "Shichigosan",
+    "7-5-3"
+   ],
+   "apic": "Shichi-Go-San"
+  },
+  {
+   "q": "What general Japanese word means a festival, often featuring portable shrines carried through the streets?",
+   "a": "Matsuri",
+   "p": 200,
+   "apic": "Matsuri",
+   "cpic": "The Streets"
+  },
+  {
+   "q": "What are the young female shrine attendants, dressed in white kimono and red trousers, called?",
+   "a": "Miko",
+   "p": 200,
+   "alt": [
+    "Shrine maiden"
+   ],
+   "apic": "Miko"
+  },
+  {
+   "q": "What is the Japanese word for a Shinto shrine, seen in names such as Yasaka and Hikawa?",
+   "a": "Jinja",
+   "p": 200
+  },
+  {
+   "q": "Which kami of rice, prosperity and business is honoured at around a third of all Shinto shrines in Japan?",
+   "a": "Inari",
+   "p": 200,
+   "alt": [
+    "Inari Okami",
+    "Inari Ōkami"
+   ],
+   "apic": "Inari Ōkami"
+  },
+  {
+   "q": "Which storm god, the brother of the sun goddess, is famous for slaying an eight-headed serpent?",
+   "a": "Susanoo",
+   "p": 200,
+   "alt": [
+    "Susanoo-no-Mikoto",
+    "Susano-o"
+   ]
+  },
+  {
+   "q": "Which mountain, Japan's highest peak, has been revered as sacred for centuries, with a shrine at its summit?",
+   "a": "Mount Fuji",
+   "p": 200,
+   "alt": [
+    "Fuji",
+    "Fujisan",
+    "Fuji-san"
+   ],
+   "apic": "Mount Fuji"
+  },
+  {
+   "q": "Which Studio Ghibli film follows a girl working in a bathhouse that serves kami and spirits?",
+   "a": "Spirited Away",
+   "p": 200,
+   "apic": "Spirited Away",
+   "cpic": "Studio Ghibli"
+  },
+  {
+   "q": "Which 2016 Makoto Shinkai film's heroine Mitsuha is a shrine maiden at her family's shrine in the town of Itomori?",
+   "a": "Your Name",
+   "p": 200,
+   "alt": [
+    "Kimi no Na wa"
+   ],
+   "apic": "Your Name",
+   "cpic": "Makoto Shinkai"
+  },
+  {
+   "q": "In which anime does Kagome fall through a well at her family's shrine into the Warring States period?",
+   "a": "Inuyasha",
+   "p": 200,
+   "apic": "Inuyasha"
+  },
+  {
+   "q": "Which country is Shinto the indigenous religion of?",
+   "a": "Japan",
+   "p": 200
+  },
+  {
+   "q": "What does the word 'Shinto' mean in English?",
+   "a": "The way of the gods",
+   "p": 200,
+   "alt": [
+    "Way of the gods",
+    "Way of the kami"
+   ]
+  },
+  {
+   "q": "What are the small protective amulets sold at shrines for luck, safe travel or good health called?",
+   "a": "Omamori",
+   "p": 200,
+   "apic": "Omamori"
+  },
+  {
+   "q": "Which pair of lion-dog statues guards the entrance of many shrines?",
+   "a": "Komainu",
+   "p": 200,
+   "alt": [
+    "Lion-dogs",
+    "Shishi"
+   ],
+   "apic": "Komainu"
+  },
+  {
+   "q": "What do worshippers toss into the offering box in front of a shrine before praying?",
+   "a": "Coins",
+   "p": 200,
+   "alt": [
+    "Money",
+    "Saisen"
+   ]
+  },
+  {
+   "q": "In which city do sacred deer, regarded as messengers of the kami, roam freely through a park?",
+   "a": "Nara",
+   "p": 200
+  },
+  {
+   "q": "Which former imperial capital is home to Fushimi Inari, Yasaka Shrine and Heian Shrine?",
+   "a": "Kyoto",
+   "p": 200
+  },
+  {
+   "q": "During the Setsubun festival, what are thrown to drive away demons and welcome good luck?",
+   "a": "Roasted soybeans",
+   "p": 200,
+   "alt": [
+    "Soybeans",
+    "Beans",
+    "Mamemaki"
+   ]
+  },
+  {
+   "q": "Which colour, symbolising purity, is most associated with the robes of Shinto priests?",
+   "a": "White",
+   "p": 200
+  },
+  {
+   "q": "In Japan, which religion conducts the large majority of funerals, since death is avoided as impure in Shinto?",
+   "a": "Buddhism",
+   "p": 200,
+   "alt": [
+    "Buddhist"
+   ]
+  },
+  {
+   "q": "What do sumo wrestlers throw into the ring before a bout as an act of Shinto-rooted purification?",
+   "a": "Salt",
+   "p": 200
+  },
+  {
+   "q": "In the Japanese New Year, what is the general term for the first visit to a shrine or temple?",
+   "a": "Hatsumode",
+   "p": 200,
+   "alt": [
+    "Hatsumōde"
+   ],
+   "apic": "Hatsumōde"
+  },
+  {
+   "q": "What is pulled or shaken by its rope at the front of many shrines to call the kami before praying?",
+   "a": "Bell",
+   "p": 200,
+   "alt": [
+    "Suzu"
+   ]
+  },
+  {
+   "q": "What are the wooden plaques on which visitors write wishes and hang them at shrines?",
+   "a": "Ema",
+   "p": 200,
+   "apic": "Ema (Shinto)"
+  },
+  {
+   "q": "What is the portable shrine carried on poles through the streets during a festival called?",
+   "a": "Mikoshi",
+   "p": 200,
+   "apic": "Mikoshi",
+   "cpic": "The Streets"
+  },
+  {
+   "q": "The Three Sacred Treasures of the Japanese imperial regalia are a sword, a jewel and what?",
+   "a": "Mirror",
+   "p": 200,
+   "alt": [
+    "Yata no Kagami"
+   ],
+   "apic": "Imperial Regalia of Japan"
+  },
+  {
+   "q": "How many gods make up the Shichifukujin group of lucky gods?",
+   "a": "Seven",
+   "p": 200,
+   "alt": [
+    "7"
+   ],
+   "apic": "Seven Lucky Gods"
+  },
+  {
+   "q": "Itsukushima Shrine is located in which Japanese prefecture?",
+   "a": "Hiroshima",
+   "p": 200,
+   "cpic": "Itsukushima Shrine"
+  },
+  {
+   "q": "Which famous carving of three animals covering their eyes, ears and mouth decorates the stable at Nikko Toshogu?",
+   "a": "Three wise monkeys",
+   "p": 200,
+   "alt": [
+    "Three monkeys",
+    "Mizaru Kikazaru Iwazaru"
+   ],
+   "apic": "Three wise monkeys"
+  },
+  {
+   "q": "Which summer festival honouring the spirits of ancestors comes from Buddhist rather than Shinto tradition?",
+   "a": "Obon",
+   "p": 200,
+   "alt": [
+    "Bon"
+   ],
+   "apic": "Obon"
+  },
+  {
+   "q": "Which highest-ranked sumo wrestler wears a thick white rope like those hung at shrines during ring-entering ceremonies?",
+   "a": "Yokozuna",
+   "p": 200,
+   "apic": "Yokozuna"
+  },
+  {
+   "q": "Which Sailor Guardian, Rei Hino, works as a shrine maiden at Hikawa Shrine?",
+   "a": "Sailor Mars",
+   "p": 200,
+   "apic": "Sailor Mars"
+  },
+  {
+   "q": "In Ghost of Tsushima, which animal leads Jin to Inari shrines?",
+   "a": "Fox",
+   "p": 200
+  },
+  {
+   "q": "In which city are both Meiji Shrine and Kanda Myojin located?",
+   "a": "Tokyo",
+   "p": 200
+  },
+  {
+   "q": "Which director made Spirited Away and Princess Mononoke, films full of kami and nature spirits?",
+   "a": "Hayao Miyazaki",
+   "p": 200,
+   "alt": [
+    "Miyazaki"
+   ],
+   "apic": "Hayao Miyazaki"
+  },
+  {
+   "q": "What colour are torii most commonly painted?",
+   "a": "Vermilion",
+   "p": 200,
+   "alt": [
+    "Red",
+    "Orange",
+    "Red-orange"
+   ],
+   "cpic": "Torii"
+  },
+  {
+   "q": "In Naruto, Itachi's powerful illusion technique is named after which moon god?",
+   "a": "Tsukuyomi",
+   "p": 200,
+   "alt": [
+    "Tsukiyomi"
+   ]
+  },
+  {
+   "q": "On Setsubun, what horned demons are chased out of homes?",
+   "a": "Oni",
+   "p": 200
+  },
+  {
+   "q": "How many main pillars does a typical torii gate stand on?",
+   "a": "Two",
+   "p": 200,
+   "alt": [
+    "2"
+   ]
+  },
+  {
+   "q": "What do visitors traditionally do with an unlucky paper fortune to leave its bad luck at the shrine?",
+   "a": "Tie it to a rack or tree",
+   "p": 200,
+   "alt": [
+    "Tie it",
+    "Tie it up",
+    "Tie it at the shrine"
+   ]
+  },
+  {
+   "q": "Japanese students often visit Tenmangu shrines to pray for success in what?",
+   "a": "Exams",
+   "p": 200,
+   "alt": [
+    "Exam",
+    "Entrance exams",
+    "Tests",
+    "Studies"
+   ]
+  },
+  {
+   "q": "What is the thick sacred rope of rice straw that marks a holy space, tree or rock?",
+   "a": "Shimenawa",
+   "p": 400,
+   "apic": "Shimenawa"
+  },
+  {
+   "q": "What is the water pavilion where visitors rinse their hands and mouth before approaching a shrine?",
+   "a": "Temizuya",
+   "p": 400,
+   "alt": [
+    "Chozuya",
+    "Chōzuya"
+   ],
+   "apic": "Temizuya"
+  },
+  {
+   "q": "Which oldest surviving Japanese chronicle's title means 'Record of Ancient Matters'?",
+   "a": "Kojiki",
+   "p": 400,
+   "apic": "Kojiki"
+  },
+  {
+   "q": "Which divine couple created the first Japanese islands by stirring the sea with a jewelled spear?",
+   "a": "Izanagi and Izanami",
+   "p": 400,
+   "alt": [
+    "Izanami and Izanagi"
+   ]
+  },
+  {
+   "q": "Which goddess died giving birth to the fire god and went to the land of the dead?",
+   "a": "Izanami",
+   "p": 400,
+   "apic": "Izanami"
+  },
+  {
+   "q": "What is the name of the land of the dead visited by Izanagi in the Kojiki?",
+   "a": "Yomi",
+   "p": 400,
+   "alt": [
+    "Yomi-no-kuni"
+   ],
+   "apic": "Yomi"
+  },
+  {
+   "q": "In the creation myth, the moon god was born when Izanagi washed which part of his face?",
+   "a": "Right eye",
+   "p": 400,
+   "alt": [
+    "His right eye"
+   ]
+  },
+  {
+   "q": "Which moon god was born alongside the sun goddess and storm god?",
+   "a": "Tsukuyomi",
+   "p": 400,
+   "alt": [
+    "Tsukuyomi-no-Mikoto",
+    "Tsukiyomi"
+   ]
+  },
+  {
+   "q": "What is the name of the eight-headed serpent slain by Susanoo?",
+   "a": "Yamata no Orochi",
+   "p": 400,
+   "alt": [
+    "Orochi"
+   ],
+   "apic": "Yamata no Orochi"
+  },
+  {
+   "q": "Which sword did Susanoo find in the tail of the eight-headed serpent?",
+   "a": "Kusanagi no Tsurugi",
+   "p": 400,
+   "alt": [
+    "Kusanagi",
+    "Grass-Cutting Sword",
+    "Ame-no-Murakumo"
+   ],
+   "apic": "Kusanagi no Tsurugi"
+  },
+  {
+   "q": "What are the comma-shaped curved beads, one of which forms part of the imperial regalia?",
+   "a": "Magatama",
+   "p": 400,
+   "apic": "Magatama"
+  },
+  {
+   "q": "Which shrine complex in Mie Prefecture, dedicated to the sun goddess, is regarded as the holiest in Shinto?",
+   "a": "Ise Grand Shrine",
+   "p": 400,
+   "alt": [
+    "Ise Jingu",
+    "Ise Jingū",
+    "Ise"
+   ],
+   "apic": "Ise Grand Shrine"
+  },
+  {
+   "q": "Every how many years are the main sanctuaries of Ise Grand Shrine ritually rebuilt?",
+   "a": "20",
+   "p": 400,
+   "alt": [
+    "Twenty",
+    "20 years"
+   ]
+  },
+  {
+   "q": "Who is traditionally regarded as the first emperor of Japan, said to descend from the sun goddess?",
+   "a": "Emperor Jimmu",
+   "p": 400,
+   "alt": [
+    "Jimmu"
+   ],
+   "apic": "Emperor Jimmu"
+  },
+  {
+   "q": "Which kami of nation-building and of marriage and good ties is enshrined at Izumo Taisha?",
+   "a": "Okuninushi",
+   "p": 400,
+   "alt": [
+    "Ōkuninushi",
+    "Okuninushi-no-Mikoto",
+    "Daikoku"
+   ],
+   "apic": "Ōkuninushi"
+  },
+  {
+   "q": "In the Kojiki, the kami Okuninushi heals which skinned animal from Inaba?",
+   "a": "Hare",
+   "p": 400,
+   "alt": [
+    "Rabbit",
+    "White hare",
+    "Hare of Inaba"
+   ],
+   "apic": "Hare of Inaba"
+  },
+  {
+   "q": "The old name for the tenth lunar month, Kannazuki, means 'month without gods' because the kami gather at which shrine?",
+   "a": "Izumo Taisha",
+   "p": 400,
+   "alt": [
+    "Izumo",
+    "Izumo Grand Shrine",
+    "Izumo-taisha"
+   ],
+   "apic": "Izumo-taisha"
+  },
+  {
+   "q": "Which kami of archery and warriors, identified with Emperor Ojin, has tens of thousands of shrines across Japan?",
+   "a": "Hachiman",
+   "p": 400,
+   "apic": "Hachiman"
+  },
+  {
+   "q": "Which kami of learning and scholarship is honoured at Tenmangu shrines?",
+   "a": "Tenjin",
+   "p": 400,
+   "alt": [
+    "Sugawara no Michizane",
+    "Tenman Tenjin"
+   ]
+  },
+  {
+   "q": "What kind of tree is said to have flown after the exiled scholar later deified as Tenjin, all the way to Dazaifu?",
+   "a": "Plum",
+   "p": 400,
+   "alt": [
+    "Plum tree",
+    "Ume",
+    "Tobiume"
+   ]
+  },
+  {
+   "q": "Statues of which animal, often rubbed for good luck, are found at Tenmangu shrines?",
+   "a": "Ox",
+   "p": 400,
+   "alt": [
+    "Cow",
+    "Bull"
+   ]
+  },
+  {
+   "q": "Which lucky god, patron of fishermen and commerce, holds a fishing rod and a sea bream?",
+   "a": "Ebisu",
+   "p": 400,
+   "apic": "Ebisu (mythology)",
+   "cpic": "Fishing rod"
+  },
+  {
+   "q": "Which lucky god is the jolly, pot-bellied monk carrying a sack?",
+   "a": "Hotei",
+   "p": 400,
+   "alt": [
+    "Budai"
+   ],
+   "apic": "Hotei"
+  },
+  {
+   "q": "Which thunder kami is often depicted beating a ring of drums?",
+   "a": "Raijin",
+   "p": 400,
+   "alt": [
+    "Raiden"
+   ],
+   "apic": "Raijin"
+  },
+  {
+   "q": "Which wind kami is often depicted carrying a large bag of wind?",
+   "a": "Fujin",
+   "p": 400,
+   "alt": [
+    "Fūjin"
+   ],
+   "apic": "Fūjin"
+  },
+  {
+   "q": "The Shinto phrase 'yaoyorozu no kami' means how many million kami, used to mean countless?",
+   "a": "Eight",
+   "p": 400,
+   "alt": [
+    "8",
+    "Eight million"
+   ]
+  },
+  {
+   "q": "Which Nara shrine is famous for its roughly 3,000 bronze and stone lanterns?",
+   "a": "Kasuga Taisha",
+   "p": 400,
+   "alt": [
+    "Kasuga-taisha",
+    "Kasuga Grand Shrine"
+   ],
+   "apic": "Kasuga-taisha"
+  },
+  {
+   "q": "Itsukushima Shrine stands on an island popularly known by what name, meaning 'shrine island'?",
+   "a": "Miyajima",
+   "p": 200,
+   "cpic": "Itsukushima Shrine"
+  },
+  {
+   "q": "Nikko Toshogu is the lavish shrine-mausoleum of which shogun?",
+   "a": "Tokugawa Ieyasu",
+   "p": 400,
+   "alt": [
+    "Ieyasu"
+   ],
+   "apic": "Tokugawa Ieyasu"
+  },
+  {
+   "q": "Which month-long Kyoto festival in July, centred on Yasaka Shrine, is famous for its giant yamaboko floats?",
+   "a": "Gion Matsuri",
+   "p": 400,
+   "alt": [
+    "Gion Festival"
+   ],
+   "apic": "Gion Matsuri"
+  },
+  {
+   "q": "What is the general term for the Shinto purification rites performed by priests?",
+   "a": "Harae",
+   "p": 400,
+   "alt": [
+    "Harai",
+    "Oharai"
+   ],
+   "apic": "Harae"
+  },
+  {
+   "q": "Izanagi's bathing in a river after visiting the land of the dead is the mythical origin of which purification rite, often done under waterfalls?",
+   "a": "Misogi",
+   "p": 400,
+   "apic": "Misogi"
+  },
+  {
+   "q": "What are the zigzag strips of white paper hung from sacred ropes and ritual wands?",
+   "a": "Shide",
+   "p": 400,
+   "apic": "Shide (Shinto)"
+  },
+  {
+   "q": "What is the small household Shinto altar shelf called?",
+   "a": "Kamidana",
+   "p": 400,
+   "apic": "Kamidana"
+  },
+  {
+   "q": "What are paper or wooden talismans from a shrine, placed on a home altar, called?",
+   "a": "Ofuda",
+   "p": 400,
+   "apic": "Ofuda"
+  },
+  {
+   "q": "What is the general Japanese title for a Shinto priest?",
+   "a": "Kannushi",
+   "p": 400,
+   "alt": [
+    "Shinshoku"
+   ],
+   "apic": "Kannushi"
+  },
+  {
+   "q": "What is the name of the sacred music and dance performed for the kami, often by miko?",
+   "a": "Kagura",
+   "p": 400,
+   "apic": "Kagura"
+  },
+  {
+   "q": "What are the calligraphed red seal stamps collected in a special book at shrines and temples called?",
+   "a": "Goshuin",
+   "p": 400,
+   "apic": "Goshuin"
+  },
+  {
+   "q": "What is the main sanctuary of a shrine, where the kami is believed to reside, called?",
+   "a": "Honden",
+   "p": 400,
+   "apic": "Honden"
+  },
+  {
+   "q": "Which mountain in Kyoto, climbed through tunnels of torii, gives its name to its famous shrine's kami?",
+   "a": "Mount Inari",
+   "p": 400,
+   "alt": [
+    "Inariyama"
+   ],
+   "apic": "Mount Inari"
+  },
+  {
+   "q": "What food are Inari's foxes said to love, giving inarizushi its name?",
+   "a": "Fried tofu",
+   "p": 400,
+   "alt": [
+    "Aburaage",
+    "Abura-age",
+    "Deep-fried tofu"
+   ],
+   "apic": "Inarizushi"
+  },
+  {
+   "q": "Which coin is a popular shrine offering because its name sounds like the word for a good connection?",
+   "a": "5-yen coin",
+   "p": 400,
+   "alt": [
+    "Five yen",
+    "5 yen"
+   ]
+  },
+  {
+   "q": "Which pine-and-bamboo decoration is placed by entrances at New Year to welcome the year's kami?",
+   "a": "Kadomatsu",
+   "p": 400,
+   "apic": "Kadomatsu"
+  },
+  {
+   "q": "Which New Year offering of two stacked round rice cakes topped with a bitter orange is named after a mirror?",
+   "a": "Kagami mochi",
+   "p": 400,
+   "apic": "Kagami mochi"
+  },
+  {
+   "q": "Which ritual of mounted archery is performed at shrines such as Tsurugaoka Hachimangu?",
+   "a": "Yabusame",
+   "p": 400,
+   "apic": "Yabusame"
+  },
+  {
+   "q": "Who founded Shinto?",
+   "a": "No founder",
+   "p": 200,
+   "alt": [
+    "Nobody",
+    "No one",
+    "None",
+    "It has no founder"
+   ]
+  },
+  {
+   "q": "Which three-legged crow guided Emperor Jimmu and appears on the emblem of the Japan Football Association?",
+   "a": "Yatagarasu",
+   "p": 400,
+   "apic": "Yatagarasu"
+  },
+  {
+   "q": "Ema plaques developed from offerings of which real animal to shrines?",
+   "a": "Horse",
+   "p": 400,
+   "alt": [
+    "Horses"
+   ]
+  },
+  {
+   "q": "Which 2006 Capcom video game stars the sun goddess in the form of a white wolf?",
+   "a": "Okami",
+   "p": 400,
+   "alt": [
+    "Ōkami"
+   ],
+   "apic": "Ōkami"
+  },
+  {
+   "q": "Which anime follows Yato, a minor god without a shrine who does odd jobs for five yen?",
+   "a": "Noragami",
+   "p": 400,
+   "apic": "Noragami"
+  },
+  {
+   "q": "In which anime does schoolgirl Nanami become the land god of a shrine, served by the fox familiar Tomoe?",
+   "a": "Kamisama Kiss",
+   "p": 400,
+   "alt": [
+    "Kamisama Hajimemashita"
+   ],
+   "apic": "Kamisama Kiss"
+  },
+  {
+   "q": "In Princess Mononoke, what are the small white forest spirits with rattling heads called?",
+   "a": "Kodama",
+   "p": 200,
+   "apic": "Kodama (spirit)"
+  },
+  {
+   "q": "In My Neighbor Totoro, what kind of giant sacred tree, bound with a straw rope, does Totoro live in?",
+   "a": "Camphor",
+   "p": 400,
+   "alt": [
+    "Camphor tree",
+    "Kusunoki"
+   ]
+  },
+  {
+   "q": "In Genshin Impact, which pink-haired fox character is chief priestess of the Grand Narukami Shrine?",
+   "a": "Yae Miko",
+   "p": 400,
+   "cpic": "Genshin Impact"
+  },
+  {
+   "q": "Which legendary prince used the Kusanagi sword to cut burning grass and escape a fire?",
+   "a": "Yamato Takeru",
+   "p": 400,
+   "alt": [
+    "Yamato Takeru no Mikoto"
+   ],
+   "apic": "Yamato Takeru"
+  },
+  {
+   "q": "Which ancient pilgrimage trails on the Kii Peninsula link the Three Grand Shrines of Kumano?",
+   "a": "Kumano Kodo",
+   "p": 400,
+   "alt": [
+    "Kumano Kodō"
+   ],
+   "apic": "Kumano Kodō"
+  },
+  {
+   "q": "At midnight on New Year's Eve, Japanese Buddhist temples ring their great bells how many times?",
+   "a": "108",
+   "p": 400
+  },
+  {
+   "q": "What is the Japanese New Year, the busiest season for shrine visits, called?",
+   "a": "Shogatsu",
+   "p": 200,
+   "alt": [
+    "Shōgatsu",
+    "Oshogatsu"
+   ]
+  },
+  {
+   "q": "What was the name of the first island formed from brine dripping off the creators' spear?",
+   "a": "Onogoro",
+   "p": 600,
+   "alt": [
+    "Onogoro Island",
+    "Onogoroshima"
+   ],
+   "apic": "Onogoro Island"
+  },
+  {
+   "q": "Which fire kami's birth caused the death of his mother Izanami?",
+   "a": "Kagutsuchi",
+   "p": 600,
+   "alt": [
+    "Kagu-tsuchi",
+    "Homusubi"
+   ],
+   "apic": "Kagu-tsuchi"
+  },
+  {
+   "q": "According to the Kojiki, from which part of Izanagi was the storm god Susanoo born?",
+   "a": "Nose",
+   "p": 600,
+   "alt": [
+    "His nose"
+   ]
+  },
+  {
+   "q": "What is the name of the heavenly rock cave in which the sun goddess hid, plunging the world into darkness?",
+   "a": "Ama-no-Iwato",
+   "p": 600,
+   "alt": [
+    "Amano Iwato",
+    "Iwato",
+    "Heavenly Rock Cave"
+   ]
+  },
+  {
+   "q": "Which goddess performed a lively dance that lured the sun goddess out of her cave?",
+   "a": "Ame-no-Uzume",
+   "p": 600,
+   "alt": [
+    "Uzume",
+    "Ame-no-Uzume-no-Mikoto"
+   ],
+   "apic": "Ame-no-Uzume"
+  },
+  {
+   "q": "Which sacred mirror, used to lure the sun goddess from her cave, is kept at Ise Grand Shrine?",
+   "a": "Yata no Kagami",
+   "p": 600,
+   "alt": [
+    "Yata-no-Kagami"
+   ],
+   "apic": "Yata no Kagami"
+  },
+  {
+   "q": "What is the name of the jewel among the Three Sacred Treasures?",
+   "a": "Yasakani no Magatama",
+   "p": 600,
+   "alt": [
+    "Yasakani-no-Magatama"
+   ],
+   "apic": "Yasakani no Magatama"
+  },
+  {
+   "q": "Which Nagoya shrine is said to enshrine the sacred sword of the imperial regalia?",
+   "a": "Atsuta Shrine",
+   "p": 600,
+   "alt": [
+    "Atsuta Jingu",
+    "Atsuta Jingū"
+   ],
+   "apic": "Atsuta Shrine"
+  },
+  {
+   "q": "Which princess did Susanoo rescue from the eight-headed serpent and marry?",
+   "a": "Kushinadahime",
+   "p": 600,
+   "alt": [
+    "Kushinada-hime",
+    "Kushinada"
+   ],
+   "apic": "Kushinadahime"
+  },
+  {
+   "q": "Which grandson of the sun goddess descended from heaven to rule Japan, carrying the Three Sacred Treasures?",
+   "a": "Ninigi",
+   "p": 600,
+   "alt": [
+    "Ninigi-no-Mikoto"
+   ],
+   "apic": "Ninigi-no-Mikoto"
+  },
+  {
+   "q": "Which goddess of Mount Fuji and blossoms married the heavenly grandson Ninigi?",
+   "a": "Konohanasakuya-hime",
+   "p": 600,
+   "alt": [
+    "Konohana-sakuya-hime",
+    "Sakuya-hime"
+   ],
+   "apic": "Konohanasakuya-hime",
+   "cpic": "Mount Fuji"
+  },
+  {
+   "q": "What is the name of the High Plain of Heaven where the heavenly kami dwell?",
+   "a": "Takamagahara",
+   "p": 600,
+   "alt": [
+    "Takama-ga-hara",
+    "Takamanohara"
+   ],
+   "apic": "Takamagahara"
+  },
+  {
+   "q": "Which thunder and sword kami is enshrined at Kashima Shrine in Ibaraki?",
+   "a": "Takemikazuchi",
+   "p": 600,
+   "alt": [
+    "Takemikazuchi-no-Kami"
+   ],
+   "apic": "Kashima Shrine"
+  },
+  {
+   "q": "Which Heian scholar-official was deified after his death in exile as the kami of learning?",
+   "a": "Sugawara no Michizane",
+   "p": 600,
+   "alt": [
+    "Michizane"
+   ],
+   "apic": "Sugawara no Michizane"
+  },
+  {
+   "q": "Which lucky goddess of music and water, holding a biwa lute, derives from the Hindu goddess Saraswati?",
+   "a": "Benzaiten",
+   "p": 600,
+   "alt": [
+    "Benten"
+   ],
+   "apic": "Benzaiten"
+  },
+  {
+   "q": "In what year was the Nihon Shoki completed?",
+   "a": "720",
+   "p": 600,
+   "alt": [
+    "720 AD",
+    "720 CE"
+   ]
+  },
+  {
+   "q": "Which court official compiled the Kojiki from recitations?",
+   "a": "O no Yasumaro",
+   "p": 600,
+   "alt": [
+    "Ō no Yasumaro",
+    "Yasumaro"
+   ]
+  },
+  {
+   "q": "Which Edo-period scholar wrote the Kojiki-den, a monumental commentary on the Kojiki?",
+   "a": "Motoori Norinaga",
+   "p": 600,
+   "alt": [
+    "Norinaga"
+   ],
+   "apic": "Motoori Norinaga"
+  },
+  {
+   "q": "What term describes the centuries-long blending of kami worship and Buddhism in Japan?",
+   "a": "Shinbutsu-shugo",
+   "p": 600,
+   "alt": [
+    "Shinbutsu shūgō",
+    "Shinbutsu-shūgō"
+   ],
+   "apic": "Shinbutsu-shūgō"
+  },
+  {
+   "q": "What 1868 Meiji policy ordered the formal separation of Shinto and Buddhism?",
+   "a": "Shinbutsu bunri",
+   "p": 600,
+   "alt": [
+    "Shinbutsu-bunri"
+   ],
+   "apic": "Shinbutsu bunri"
+  },
+  {
+   "q": "Which theory held that kami are local manifestations of buddhas and bodhisattvas?",
+   "a": "Honji suijaku",
+   "p": 600,
+   "alt": [
+    "Honji-suijaku"
+   ],
+   "apic": "Honji suijaku"
+  },
+  {
+   "q": "From which Korean kingdom did Buddhism officially arrive in Japan in the 6th century, according to tradition?",
+   "a": "Baekje",
+   "p": 600,
+   "alt": [
+    "Paekche",
+    "Kudara"
+   ]
+  },
+  {
+   "q": "Toyokawa Inari in Aichi, despite its torii and foxes, is a temple of which Zen school?",
+   "a": "Soto",
+   "p": 600,
+   "alt": [
+    "Sōtō",
+    "Soto Zen"
+   ]
+  },
+  {
+   "q": "What is the Shinto concept of ritual impurity or pollution, associated with death and illness?",
+   "a": "Kegare",
+   "p": 600,
+   "apic": "Kegare"
+  },
+  {
+   "q": "What wand of a wooden stick with many paper streamers does a priest wave over people to purify them?",
+   "a": "Onusa",
+   "p": 600,
+   "alt": [
+    "Ōnusa",
+    "Haraegushi",
+    "Harai-gushi"
+   ],
+   "apic": "Ōnusa"
+  },
+  {
+   "q": "Which evergreen tree's branches are used as sacred offerings in Shinto rituals?",
+   "a": "Sakaki",
+   "p": 600,
+   "apic": "Sakaki"
+  },
+  {
+   "q": "What are the formal prayers recited by Shinto priests to the kami called?",
+   "a": "Norito",
+   "p": 600,
+   "apic": "Norito"
+  },
+  {
+   "q": "What is the term for the physical object, such as a mirror, rock or mountain, in which a kami resides?",
+   "a": "Shintai",
+   "p": 600,
+   "alt": [
+    "Goshintai"
+   ],
+   "apic": "Shintai"
+  },
+  {
+   "q": "What are the forked, crossed finials at the ends of a shrine roof called?",
+   "a": "Chigi",
+   "p": 600,
+   "apic": "Chigi (roof)"
+  },
+  {
+   "q": "The Great Torii of Itsukushima is not anchored to the seabed. What holds it upright?",
+   "a": "Its own weight",
+   "p": 600,
+   "alt": [
+    "Weight",
+    "Gravity"
+   ]
+  },
+  {
+   "q": "Which shrine near Nara has no main sanctuary because the mountain behind it is itself the kami's body?",
+   "a": "Omiwa Shrine",
+   "p": 600,
+   "alt": [
+    "Ōmiwa Shrine",
+    "Omiwa Jinja",
+    "Mount Miwa"
+   ],
+   "apic": "Ōmiwa Shrine"
+  },
+  {
+   "q": "What are the two 'wedded rocks' off Futami, joined by a sacred rope, called?",
+   "a": "Meoto Iwa",
+   "p": 600,
+   "alt": [
+    "Meotoiwa",
+    "Wedded Rocks"
+   ],
+   "apic": "Meoto Iwa"
+  },
+  {
+   "q": "Which shrine in Kagawa, patron of sailors, is reached by a famous climb of 785 steps to its main hall?",
+   "a": "Kotohira-gu",
+   "p": 600,
+   "alt": [
+    "Konpira-san",
+    "Kompira",
+    "Kotohira-gū"
+   ],
+   "apic": "Kotohira-gū"
+  },
+  {
+   "q": "Hakone Shrine's 'Torii of Peace' stands in the water of which lake?",
+   "a": "Lake Ashi",
+   "p": 600,
+   "alt": [
+    "Ashinoko",
+    "Lake Ashinoko"
+   ],
+   "apic": "Hakone Shrine"
+  },
+  {
+   "q": "At Hiyoshi Taisha and Hie shrines, which animal is the messenger of the kami?",
+   "a": "Monkey",
+   "p": 600,
+   "alt": [
+    "Monkeys"
+   ]
+  },
+  {
+   "q": "Which food and harvest goddess is enshrined at Ise's outer shrine?",
+   "a": "Toyouke",
+   "p": 600,
+   "alt": [
+    "Toyouke-hime",
+    "Toyouke Omikami",
+    "Toyouke-no-Omikami"
+   ]
+  },
+  {
+   "q": "What title was given to the unmarried imperial princess who served at Ise Grand Shrine on behalf of the emperor?",
+   "a": "Saio",
+   "p": 600,
+   "alt": [
+    "Saiō",
+    "Saigū"
+   ],
+   "apic": "Saiō"
+  },
+  {
+   "q": "Which festival, one of Japan's three great festivals, is held in Osaka in July with a river procession of boats?",
+   "a": "Tenjin Matsuri",
+   "p": 600,
+   "apic": "Tenjin Matsuri"
+  },
+  {
+   "q": "Which great Tokyo festival in May, held in odd-numbered years, is centred on a shrine near Akihabara?",
+   "a": "Kanda Matsuri",
+   "p": 600,
+   "apic": "Kanda Matsuri"
+  },
+  {
+   "q": "Which Kyoto festival held on 15 May features a procession in Heian costume to the Kamo shrines?",
+   "a": "Aoi Matsuri",
+   "p": 600,
+   "apic": "Aoi Matsuri"
+  },
+  {
+   "q": "Which festival, held every six years at Suwa Taisha, sees men ride huge fir logs down steep slopes?",
+   "a": "Onbashira",
+   "p": 600,
+   "apic": "Onbashira"
+  },
+  {
+   "q": "Which harvest rite, at which the Emperor offers newly harvested rice to the kami, is held on 23 November?",
+   "a": "Niinamesai",
+   "p": 600,
+   "alt": [
+    "Niiname-sai",
+    "Niiname-no-Matsuri"
+   ]
+  },
+  {
+   "q": "Through what large ring of woven grass do worshippers walk during the summer purification at the end of June?",
+   "a": "Chinowa",
+   "p": 600,
+   "alt": [
+    "Chi-no-wa",
+    "Grass ring"
+   ]
+  },
+  {
+   "q": "What is the Shinto ground-breaking ceremony held before constructing a building called?",
+   "a": "Jichinsai",
+   "p": 600,
+   "alt": [
+    "Jichin-sai"
+   ]
+  },
+  {
+   "q": "What pure white kimono is traditionally worn by a bride at a Shinto wedding?",
+   "a": "Shiromuku",
+   "p": 600
+  },
+  {
+   "q": "At the temizuya, which hand is traditionally rinsed first?",
+   "a": "Left",
+   "p": 600,
+   "alt": [
+    "Left hand"
+   ]
+  },
+  {
+   "q": "Which Shinto-derived religion was founded in 1838 by Nakayama Miki and is based in a city in Nara named after it?",
+   "a": "Tenrikyo",
+   "p": 600,
+   "alt": [
+    "Tenrikyō"
+   ],
+   "apic": "Tenrikyo"
+  },
+  {
+   "q": "Which island in the sea off Fukuoka, a UNESCO site since 2017, is itself treated as a sacred kami?",
+   "a": "Okinoshima",
+   "p": 600,
+   "apic": "Okinoshima"
+  },
+  {
+   "q": "In the Touhou Project games, what is the name of the shrine maiden protagonist?",
+   "a": "Reimu Hakurei",
+   "p": 600,
+   "alt": [
+    "Reimu",
+    "Hakurei Reimu"
+   ]
+  },
+  {
+   "q": "What is the term for the local guardian kami of a community or clan?",
+   "a": "Ujigami",
+   "p": 600
+  }
+ ]
+}

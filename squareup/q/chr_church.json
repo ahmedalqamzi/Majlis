@@ -1,0 +1,1939 @@
+{
+ "id": "chr_church",
+ "name": "Churches, Saints & Festivals",
+ "questions": [
+  {
+   "q": "Which Gospel writer is traditionally regarded as the founder of the Church in Egypt?",
+   "a": "Mark",
+   "p": 400,
+   "alt": [
+    "Saint Mark",
+    "Mark the Evangelist"
+   ],
+   "apic": "Mark the Evangelist"
+  },
+  {
+   "q": "Which Christian festival celebrates the birth of Jesus?",
+   "a": "Christmas",
+   "p": 200,
+   "apic": "Christmas"
+  },
+  {
+   "q": "Which Christian festival celebrates the resurrection of Jesus?",
+   "a": "Easter",
+   "p": 200,
+   "apic": "Easter"
+  },
+  {
+   "q": "On which day before Easter do Christians commemorate the crucifixion?",
+   "a": "Good Friday",
+   "p": 200,
+   "apic": "Good Friday"
+  },
+  {
+   "q": "What is the 40-day season of fasting and reflection before Easter called?",
+   "a": "Lent",
+   "p": 200,
+   "alt": [
+    "Great Lent"
+   ],
+   "apic": "Lent"
+  },
+  {
+   "q": "Which day marks the start of Lent in Western churches, when crosses are marked on foreheads?",
+   "a": "Ash Wednesday",
+   "p": 200,
+   "apic": "Ash Wednesday"
+  },
+  {
+   "q": "Which Sunday before Easter marks Jesus' entry into Jerusalem, with branches waved by crowds?",
+   "a": "Palm Sunday",
+   "p": 200,
+   "apic": "Palm Sunday"
+  },
+  {
+   "q": "Which artist painted The Last Supper on a wall in Milan?",
+   "a": "Leonardo da Vinci",
+   "p": 200,
+   "alt": [
+    "Leonardo",
+    "Da Vinci"
+   ],
+   "apic": "Leonardo da Vinci"
+  },
+  {
+   "q": "Which artist painted the ceiling of the Sistine Chapel?",
+   "a": "Michelangelo",
+   "p": 200,
+   "apic": "Michelangelo"
+  },
+  {
+   "q": "What title is given to the head of the Catholic Church?",
+   "a": "The Pope",
+   "p": 200,
+   "alt": [
+    "Pope",
+    "Bishop of Rome",
+    "Holy Father"
+   ],
+   "apic": "Pope"
+  },
+  {
+   "q": "Which tiny independent state is the seat of the Pope?",
+   "a": "Vatican City",
+   "p": 200,
+   "alt": [
+    "The Vatican",
+    "Vatican",
+    "Holy See"
+   ],
+   "apic": "Vatican City"
+  },
+  {
+   "q": "What is the main symbol of Christianity, recalling the crucifixion?",
+   "a": "The cross",
+   "p": 200,
+   "alt": [
+    "Cross",
+    "Crucifix"
+   ]
+  },
+  {
+   "q": "What is the season of preparation before Christmas called?",
+   "a": "Advent",
+   "p": 200,
+   "apic": "Advent"
+  },
+  {
+   "q": "Which great basilica in the Vatican stands over the traditional tomb of the apostle Peter?",
+   "a": "St. Peter's Basilica",
+   "p": 200,
+   "alt": [
+    "Saint Peter's Basilica",
+    "St Peter's"
+   ],
+   "apic": "St. Peter's Basilica"
+  },
+  {
+   "q": "Which Gothic cathedral in Paris was badly damaged by fire in 2019?",
+   "a": "Notre-Dame de Paris",
+   "p": 200,
+   "alt": [
+    "Notre-Dame",
+    "Notre Dame Cathedral"
+   ],
+   "apic": "Notre-Dame de Paris"
+  },
+  {
+   "q": "Which unfinished Barcelona basilica was designed by Antoni Gaudí?",
+   "a": "Sagrada Família",
+   "p": 200,
+   "alt": [
+    "La Sagrada Familia",
+    "Sagrada Familia"
+   ],
+   "apic": "Sagrada Família",
+   "cpic": "Antoni Gaudí"
+  },
+  {
+   "q": "Which Istanbul landmark was completed in 537 as the great cathedral of Constantinople?",
+   "a": "Hagia Sophia",
+   "p": 200,
+   "alt": [
+    "Ayasofya",
+    "Aya Sofya"
+   ],
+   "apic": "Hagia Sophia"
+  },
+  {
+   "q": "Which German monk launched the Protestant Reformation in 1517?",
+   "a": "Martin Luther",
+   "p": 200,
+   "alt": [
+    "Luther"
+   ],
+   "apic": "Martin Luther"
+  },
+  {
+   "q": "Which branch of Christianity grew out of the 16th-century Reformation?",
+   "a": "Protestantism",
+   "p": 200,
+   "alt": [
+    "Protestant",
+    "Protestants"
+   ],
+   "apic": "Protestantism"
+  },
+  {
+   "q": "Which 4th-century bishop of Myra inspired the figure of Santa Claus?",
+   "a": "Saint Nicholas",
+   "p": 200,
+   "alt": [
+    "Nicholas",
+    "St Nicholas",
+    "Nicholas of Myra"
+   ],
+   "apic": "Saint Nicholas"
+  },
+  {
+   "q": "Saint Patrick is the patron saint of which country?",
+   "a": "Ireland",
+   "p": 200,
+   "apic": "Ireland"
+  },
+  {
+   "q": "On what date do most Western churches celebrate Christmas?",
+   "a": "25 December",
+   "p": 200,
+   "alt": [
+    "December 25",
+    "25th December"
+   ]
+  },
+  {
+   "q": "Which Christian rite uses water to mark a person's entry into the faith?",
+   "a": "Baptism",
+   "p": 200,
+   "alt": [
+    "Christening"
+   ],
+   "apic": "Baptism"
+  },
+  {
+   "q": "What Christian ritual of bread and wine recalls the Last Supper?",
+   "a": "Eucharist",
+   "p": 200,
+   "alt": [
+    "Holy Communion",
+    "Communion",
+    "Mass",
+    "Lord's Supper"
+   ],
+   "apic": "Eucharist"
+  },
+  {
+   "q": "Which oratorio by Handel contains the famous 'Hallelujah' chorus?",
+   "a": "Messiah",
+   "p": 200,
+   "alt": [
+    "The Messiah"
+   ],
+   "apic": "Messiah (Handel)"
+  },
+  {
+   "q": "What is the name of Michelangelo's famous marble statue of a biblical hero in Florence?",
+   "a": "David",
+   "p": 200,
+   "alt": [
+    "Statue of David"
+   ],
+   "apic": "David (Michelangelo)",
+   "cpic": "Michelangelo"
+  },
+  {
+   "q": "Which church, headquartered in Vatican City, is the largest Christian church in the world?",
+   "a": "Catholic Church",
+   "p": 200,
+   "alt": [
+    "Roman Catholic Church",
+    "Catholicism"
+   ],
+   "apic": "Catholic Church",
+   "cpic": "Vatican City"
+  },
+  {
+   "q": "In Christian art, which bird represents the Holy Spirit?",
+   "a": "A dove",
+   "p": 200,
+   "alt": [
+    "Dove",
+    "White dove"
+   ]
+  },
+  {
+   "q": "What is the Christian doctrine of God as Father, Son and Holy Spirit called?",
+   "a": "The Trinity",
+   "p": 200,
+   "alt": [
+    "Trinity",
+    "Holy Trinity"
+   ],
+   "apic": "Trinity"
+  },
+  {
+   "q": "On which day of the week do most Christians gather for worship?",
+   "a": "Sunday",
+   "p": 200
+  },
+  {
+   "q": "Which nun, famous for her work in Kolkata, won the Nobel Peace Prize in 1979?",
+   "a": "Mother Teresa",
+   "p": 200,
+   "alt": [
+    "Saint Teresa of Calcutta",
+    "Teresa"
+   ],
+   "apic": "Mother Teresa"
+  },
+  {
+   "q": "Which Italian saint, known for loving animals and nature, founded an order of friars in 1209?",
+   "a": "Francis of Assisi",
+   "p": 200,
+   "alt": [
+    "Saint Francis",
+    "St Francis"
+   ],
+   "apic": "Francis of Assisi"
+  },
+  {
+   "q": "Which is the main Christian church of Egypt, whose head carries the title of Pope?",
+   "a": "Coptic Orthodox Church",
+   "p": 200,
+   "alt": [
+    "Coptic Church",
+    "Copts",
+    "Coptic"
+   ],
+   "apic": "Coptic Orthodox Church"
+  },
+  {
+   "q": "Which Michelangelo fresco shows God's finger almost touching that of the first man?",
+   "a": "The Creation of Adam",
+   "p": 200,
+   "alt": [
+    "Creation of Adam"
+   ],
+   "apic": "The Creation of Adam",
+   "cpic": "Michelangelo"
+  },
+  {
+   "q": "What string of beads do Catholics use to count prayers?",
+   "a": "Rosary",
+   "p": 200,
+   "alt": [
+    "Rosary beads"
+   ],
+   "apic": "Rosary"
+  },
+  {
+   "q": "Which colourful onion-domed cathedral stands on Red Square in Moscow?",
+   "a": "St. Basil's Cathedral",
+   "p": 200,
+   "alt": [
+    "Saint Basil's Cathedral",
+    "St Basil's",
+    "Cathedral of Vasily the Blessed"
+   ],
+   "apic": "Saint Basil's Cathedral",
+   "cpic": "Red Square"
+  },
+  {
+   "q": "In which London church have English and British monarchs been crowned since 1066?",
+   "a": "Westminster Abbey",
+   "p": 200,
+   "apic": "Westminster Abbey"
+  },
+  {
+   "q": "What decorated item do children traditionally hunt for at Easter?",
+   "a": "Easter eggs",
+   "p": 200,
+   "alt": [
+    "Eggs",
+    "Easter egg"
+   ],
+   "apic": "Easter egg"
+  },
+  {
+   "q": "In Christian art, what ring of light is painted around the heads of holy figures?",
+   "a": "A halo",
+   "p": 200,
+   "alt": [
+    "Halo",
+    "Nimbus"
+   ],
+   "apic": "Halo (religious iconography)"
+  },
+  {
+   "q": "What name is given to a display of Jesus' birth with Mary, Joseph and the manger?",
+   "a": "Nativity scene",
+   "p": 200,
+   "alt": [
+    "Nativity",
+    "Crib",
+    "Crèche",
+    "Creche"
+   ],
+   "apic": "Nativity scene"
+  },
+  {
+   "q": "What women who live in religious communities under vows are called in English?",
+   "a": "Nuns",
+   "p": 200,
+   "alt": [
+    "Nun",
+    "Sisters"
+   ],
+   "apic": "Nun"
+  },
+  {
+   "q": "What is a large church that serves as the seat of a bishop called?",
+   "a": "A cathedral",
+   "p": 200,
+   "alt": [
+    "Cathedral"
+   ],
+   "apic": "Cathedral"
+  },
+  {
+   "q": "What decorative coloured glass fills the windows of many Gothic churches?",
+   "a": "Stained glass",
+   "p": 200,
+   "apic": "Stained glass"
+  },
+  {
+   "q": "What Christian prayer, taught by Jesus in the Gospels, begins 'Our Father'?",
+   "a": "The Lord's Prayer",
+   "p": 200,
+   "alt": [
+    "Lord's Prayer",
+    "Our Father",
+    "Pater Noster"
+   ],
+   "apic": "Lord's Prayer"
+  },
+  {
+   "q": "Which word, meaning 'so be it', ends most Christian prayers?",
+   "a": "Amen",
+   "p": 200,
+   "alt": [
+    "Ameen",
+    "Amin"
+   ]
+  },
+  {
+   "q": "Which giant statue of Jesus with outstretched arms overlooks Rio de Janeiro?",
+   "a": "Christ the Redeemer",
+   "p": 200,
+   "alt": [
+    "Cristo Redentor"
+   ],
+   "apic": "Christ the Redeemer (statue)",
+   "cpic": "Rio de Janeiro"
+  },
+  {
+   "q": "What colour of smoke from the Sistine Chapel signals that a new pope has been elected?",
+   "a": "White",
+   "p": 200
+  },
+  {
+   "q": "Citizens of which country make up the Pontifical Guard that protects the Pope?",
+   "a": "Switzerland",
+   "p": 200,
+   "alt": [
+    "Swiss"
+   ],
+   "apic": "Pontifical Swiss Guard"
+  },
+  {
+   "q": "In which Middle Eastern country is the Maronite Church the largest Christian community?",
+   "a": "Lebanon",
+   "p": 400,
+   "alt": [
+    "Lubnan"
+   ],
+   "ar": "لبنان",
+   "apic": "Lebanon"
+  },
+  {
+   "q": "Which large keyboard instrument with pipes is traditionally played in churches?",
+   "a": "Organ",
+   "p": 200,
+   "alt": [
+    "Pipe organ"
+   ],
+   "apic": "Pipe organ"
+  },
+  {
+   "q": "Which music genre emerged from African-American churches, named after the first books of the New Testament?",
+   "a": "Gospel music",
+   "p": 200,
+   "alt": [
+    "Gospel"
+   ],
+   "apic": "Gospel music"
+  },
+  {
+   "q": "The Pope is the bishop of which city?",
+   "a": "Rome",
+   "p": 200,
+   "apic": "Rome"
+  },
+  {
+   "q": "Which Christian holiday on 14 February is named after a 3rd-century martyr?",
+   "a": "Valentine's Day",
+   "p": 200,
+   "alt": [
+    "Saint Valentine's Day",
+    "St Valentine's Day"
+   ],
+   "apic": "Valentine's Day"
+  },
+  {
+   "q": "What do Christians call the twelve chief followers of Jesus?",
+   "a": "Apostles",
+   "p": 200,
+   "alt": [
+    "The Twelve",
+    "Disciples"
+   ]
+  },
+  {
+   "q": "Which tall pointed structure tops many church towers?",
+   "a": "Spire",
+   "p": 200,
+   "alt": [
+    "Steeple"
+   ]
+  },
+  {
+   "q": "In which UAE emirate is the Abrahamic Family House, which includes a church, a mosque and a synagogue?",
+   "a": "Abu Dhabi",
+   "p": 200,
+   "ar": "أبوظبي",
+   "apic": "Abu Dhabi",
+   "cpic": "Abrahamic Family House"
+  },
+  {
+   "q": "In 1517, Martin Luther published how many theses?",
+   "a": "95",
+   "p": 400,
+   "alt": [
+    "Ninety-five"
+   ],
+   "apic": "Ninety-five Theses"
+  },
+  {
+   "q": "On which date do the Coptic Orthodox Christians of Egypt celebrate Christmas?",
+   "a": "7 January",
+   "p": 400,
+   "alt": [
+    "January 7",
+    "7th January"
+   ]
+  },
+  {
+   "q": "Which Michelangelo sculpture in St. Peter's Basilica shows Mary holding the body of Jesus?",
+   "a": "Pietà",
+   "p": 200,
+   "alt": [
+    "Pieta",
+    "The Pietà"
+   ],
+   "apic": "Pietà (Michelangelo)",
+   "cpic": "St. Peter's Basilica"
+  },
+  {
+   "q": "From which country did the decorated Christmas tree tradition spread, popularised in Britain by Prince Albert?",
+   "a": "Germany",
+   "p": 400,
+   "apic": "Christmas tree"
+  },
+  {
+   "q": "Which twin-spired Gothic cathedral on the Rhine is a UNESCO World Heritage Site in western Germany?",
+   "a": "Cologne Cathedral",
+   "p": 400,
+   "alt": [
+    "Kölner Dom",
+    "Cologne"
+   ],
+   "apic": "Cologne Cathedral"
+  },
+  {
+   "q": "In which language was the carol 'Silent Night' originally written?",
+   "a": "German",
+   "p": 400,
+   "apic": "Silent Night"
+  },
+  {
+   "q": "Which Christian feast, 40 days after Easter, marks Jesus being taken up into heaven?",
+   "a": "Ascension Day",
+   "p": 400,
+   "alt": [
+    "Ascension",
+    "Feast of the Ascension",
+    "Ascension Thursday"
+   ],
+   "apic": "Feast of the Ascension"
+  },
+  {
+   "q": "Which festival, whose name means 'fiftieth', celebrates the Holy Spirit descending on the apostles?",
+   "a": "Pentecost",
+   "p": 400,
+   "alt": [
+    "Whitsun",
+    "Whitsunday"
+   ],
+   "apic": "Pentecost"
+  },
+  {
+   "q": "In which Egyptian city is the historic seat of the Coptic Pope?",
+   "a": "Alexandria",
+   "p": 400,
+   "alt": [
+    "Iskandariya"
+   ],
+   "ar": "الإسكندرية",
+   "apic": "Alexandria"
+  },
+  {
+   "q": "What is the basin that holds water for baptism in a church called?",
+   "a": "Font",
+   "p": 400,
+   "alt": [
+    "Baptismal font"
+   ],
+   "apic": "Baptismal font"
+  },
+  {
+   "q": "Which feast on 6 January marks the visit of the Magi in Western churches?",
+   "a": "Epiphany",
+   "p": 400,
+   "alt": [
+    "Three Kings' Day",
+    "Theophany"
+   ],
+   "apic": "Epiphany (holiday)"
+  },
+  {
+   "q": "Which Bethlehem church stands over the traditional birthplace of Jesus?",
+   "a": "Church of the Nativity",
+   "p": 400,
+   "apic": "Church of the Nativity"
+  },
+  {
+   "q": "Which Jerusalem church stands at the traditional site of Jesus' crucifixion and tomb?",
+   "a": "Church of the Holy Sepulchre",
+   "p": 400,
+   "alt": [
+    "Holy Sepulchre",
+    "Church of the Resurrection"
+   ],
+   "apic": "Church of the Holy Sepulchre"
+  },
+  {
+   "q": "What is the thin wafer of bread consecrated at a Catholic Mass called?",
+   "a": "The Host",
+   "p": 400,
+   "alt": [
+    "Host",
+    "Communion wafer",
+    "Sacramental bread"
+   ],
+   "apic": "Sacramental bread"
+  },
+  {
+   "q": "What is the English name for the day before Ash Wednesday, also called Pancake Day?",
+   "a": "Shrove Tuesday",
+   "p": 400,
+   "alt": [
+    "Mardi Gras",
+    "Fat Tuesday"
+   ],
+   "apic": "Shrove Tuesday"
+  },
+  {
+   "q": "What is the closed meeting of cardinals that elects a new pope called?",
+   "a": "Conclave",
+   "p": 400,
+   "alt": [
+    "Papal conclave"
+   ],
+   "apic": "Papal conclave"
+  },
+  {
+   "q": "Which Greek word for 'fish' was an early Christian symbol?",
+   "a": "Ichthys",
+   "p": 400,
+   "alt": [
+    "Ichthus",
+    "Ichthus fish",
+    "Jesus fish"
+   ],
+   "apic": "Ichthys"
+  },
+  {
+   "q": "Which Roman emperor legalised Christianity with the Edict of Milan in 313?",
+   "a": "Constantine the Great",
+   "p": 400,
+   "alt": [
+    "Constantine",
+    "Constantine I"
+   ],
+   "apic": "Constantine the Great"
+  },
+  {
+   "q": "Which city in modern Turkey hosted the first ecumenical council of the Church in 325?",
+   "a": "Nicaea",
+   "p": 400,
+   "alt": [
+    "Nicea",
+    "Iznik"
+   ],
+   "apic": "First Council of Nicaea"
+  },
+  {
+   "q": "Which English king broke with Rome and became head of the Church of England in the 1530s?",
+   "a": "Henry VIII",
+   "p": 200,
+   "alt": [
+    "Henry the Eighth"
+   ],
+   "apic": "Henry VIII",
+   "cpic": "Rome"
+  },
+  {
+   "q": "Which English cathedral is the seat of the senior bishop of the Church of England?",
+   "a": "Canterbury Cathedral",
+   "p": 400,
+   "alt": [
+    "Canterbury"
+   ],
+   "apic": "Canterbury Cathedral"
+  },
+  {
+   "q": "Which French reformer made Geneva a centre of Protestant thought?",
+   "a": "John Calvin",
+   "p": 400,
+   "alt": [
+    "Calvin",
+    "Jean Calvin"
+   ],
+   "apic": "John Calvin"
+  },
+  {
+   "q": "Which Protestant movement grew from the preaching of John Wesley in 18th-century England?",
+   "a": "Methodism",
+   "p": 400,
+   "alt": [
+    "Methodist",
+    "Methodists",
+    "Methodist Church"
+   ],
+   "apic": "Methodism"
+  },
+  {
+   "q": "What is the popular name of the Religious Society of Friends, founded by George Fox?",
+   "a": "Quakers",
+   "p": 400,
+   "alt": [
+    "Friends"
+   ],
+   "apic": "Quakers"
+  },
+  {
+   "q": "Which Christian group in Pennsylvania is known for plain dress and horse-drawn buggies?",
+   "a": "Amish",
+   "p": 400,
+   "alt": [
+    "The Amish"
+   ],
+   "apic": "Amish"
+  },
+  {
+   "q": "Which Bible, printed in Mainz around 1455, was the first major book printed with movable type in Europe?",
+   "a": "Gutenberg Bible",
+   "p": 400,
+   "alt": [
+    "42-line Bible"
+   ],
+   "apic": "Gutenberg Bible"
+  },
+  {
+   "q": "Which famous English Bible translation was published in 1611?",
+   "a": "King James Version",
+   "p": 400,
+   "alt": [
+    "King James Bible",
+    "KJV",
+    "Authorised Version"
+   ],
+   "apic": "King James Version"
+  },
+  {
+   "q": "Which saint, slayer of a dragon in legend, is the patron saint of England?",
+   "a": "Saint George",
+   "p": 200,
+   "alt": [
+    "George",
+    "Mar Jiryis",
+    "St George"
+   ],
+   "apic": "Saint George"
+  },
+  {
+   "q": "Which apostle is the patron saint of Scotland, with a diagonal cross on its flag?",
+   "a": "Saint Andrew",
+   "p": 400,
+   "alt": [
+    "Andrew",
+    "St Andrew"
+   ]
+  },
+  {
+   "q": "Which Michelangelo fresco covers the altar wall of the Sistine Chapel?",
+   "a": "The Last Judgment",
+   "p": 400,
+   "alt": [
+    "Last Judgment",
+    "Last Judgement"
+   ],
+   "apic": "The Last Judgment (Michelangelo)",
+   "cpic": "Michelangelo"
+  },
+  {
+   "q": "Which Renaissance artist painted the Sistine Madonna, with two famous cherubs at the bottom?",
+   "a": "Raphael",
+   "p": 400,
+   "alt": [
+    "Raffaello Sanzio"
+   ],
+   "apic": "Raphael"
+  },
+  {
+   "q": "Which German composer wrote the St Matthew Passion?",
+   "a": "Johann Sebastian Bach",
+   "p": 400,
+   "alt": [
+    "Bach",
+    "J. S. Bach"
+   ],
+   "apic": "Johann Sebastian Bach"
+  },
+  {
+   "q": "Which form of plainsong is named after a 6th-century pope?",
+   "a": "Gregorian chant",
+   "p": 400,
+   "apic": "Gregorian chant"
+  },
+  {
+   "q": "What kind of Mass for the dead did Mozart leave unfinished when he died in 1791?",
+   "a": "Requiem",
+   "p": 400,
+   "alt": [
+    "Requiem Mass"
+   ],
+   "apic": "Requiem (Mozart)"
+  },
+  {
+   "q": "Which Polish pope led the Catholic Church from 1978 to 2005?",
+   "a": "John Paul II",
+   "p": 400,
+   "alt": [
+    "Pope John Paul II",
+    "Karol Wojtyła",
+    "Karol Wojtyla"
+   ],
+   "apic": "Pope John Paul II"
+  },
+  {
+   "q": "Members of the order founded by Ignatius of Loyola in 1540 are commonly called what?",
+   "a": "Jesuits",
+   "p": 400,
+   "alt": [
+    "Society of Jesus"
+   ],
+   "apic": "Jesuits"
+  },
+  {
+   "q": "Which Greek Orthodox monastery at the foot of Mount Sinai is one of the oldest working monasteries in the world?",
+   "a": "Saint Catherine's Monastery",
+   "p": 400,
+   "alt": [
+    "St Catherine's Monastery",
+    "Monastery of Saint Catherine"
+   ],
+   "apic": "Saint Catherine's Monastery"
+  },
+  {
+   "q": "Which branch of Christianity mostly still calculates Easter using the Julian calendar?",
+   "a": "Eastern Orthodox",
+   "p": 400,
+   "alt": [
+    "Orthodox",
+    "Orthodox Church",
+    "Eastern Orthodox Church"
+   ],
+   "apic": "Eastern Orthodox Church"
+  },
+  {
+   "q": "What is a painted holy image, central to Orthodox worship, called?",
+   "a": "Icon",
+   "p": 200,
+   "alt": [
+    "Icons"
+   ],
+   "apic": "Icon"
+  },
+  {
+   "q": "What is the week leading up to Easter called?",
+   "a": "Holy Week",
+   "p": 200,
+   "alt": [
+    "Passion Week"
+   ],
+   "apic": "Holy Week"
+  },
+  {
+   "q": "Which Thursday before Easter recalls the Last Supper?",
+   "a": "Maundy Thursday",
+   "p": 400,
+   "alt": [
+    "Holy Thursday"
+   ],
+   "apic": "Maundy Thursday"
+  },
+  {
+   "q": "What do Catholics call the formal process of declaring someone a saint?",
+   "a": "Canonisation",
+   "p": 400,
+   "alt": [
+    "Canonization"
+   ],
+   "apic": "Canonization"
+  },
+  {
+   "q": "What are the senior clergy, dressed in red, who elect the pope called?",
+   "a": "Cardinals",
+   "p": 200,
+   "alt": [
+    "Cardinal"
+   ],
+   "apic": "Cardinal (Catholic Church)"
+  },
+  {
+   "q": "How many sacraments does the Catholic Church recognise?",
+   "a": "7",
+   "p": 400,
+   "alt": [
+    "Seven"
+   ],
+   "apic": "Sacraments of the Catholic Church"
+  },
+  {
+   "q": "Which sacrament, often received in the teen years, completes Christian initiation in the Catholic Church?",
+   "a": "Confirmation",
+   "p": 400,
+   "alt": [
+    "Chrismation"
+   ],
+   "apic": "Confirmation"
+  },
+  {
+   "q": "How many Sundays are there in Advent?",
+   "a": "4",
+   "p": 400,
+   "alt": [
+    "Four"
+   ]
+  },
+  {
+   "q": "How many deadly sins are there in Christian tradition?",
+   "a": "7",
+   "p": 200,
+   "alt": [
+    "Seven"
+   ],
+   "apic": "Seven deadly sins"
+  },
+  {
+   "q": "Which underground burial galleries in Rome were used by early Christians?",
+   "a": "Catacombs",
+   "p": 200,
+   "alt": [
+    "Catacombs of Rome"
+   ],
+   "apic": "Catacombs of Rome"
+  },
+  {
+   "q": "What does the Latin prayer 'Ave Maria' mean in English?",
+   "a": "Hail Mary",
+   "p": 200,
+   "apic": "Hail Mary"
+  },
+  {
+   "q": "Which Hebrew word meaning 'praise the Lord' is often sung or exclaimed in Christian worship?",
+   "a": "Hallelujah",
+   "p": 400,
+   "alt": [
+    "Alleluia"
+   ]
+  },
+  {
+   "q": "Which Venetian priest-composer, nicknamed 'the Red Priest', wrote The Four Seasons?",
+   "a": "Antonio Vivaldi",
+   "p": 400,
+   "alt": [
+    "Vivaldi"
+   ],
+   "apic": "Antonio Vivaldi"
+  },
+  {
+   "q": "Which Byzantine emperor built Hagia Sophia?",
+   "a": "Justinian I",
+   "p": 400,
+   "alt": [
+    "Justinian",
+    "Justinian the Great"
+   ],
+   "apic": "Justinian I",
+   "cpic": "Hagia Sophia"
+  },
+  {
+   "q": "Which architectural style, with pointed arches and huge windows, defines Notre-Dame de Paris?",
+   "a": "Gothic",
+   "p": 200,
+   "alt": [
+    "Gothic architecture",
+    "French Gothic"
+   ],
+   "apic": "Gothic architecture",
+   "cpic": "Notre-Dame de Paris"
+  },
+  {
+   "q": "What are the carved grotesque waterspouts on Gothic cathedrals called?",
+   "a": "Gargoyles",
+   "p": 200,
+   "alt": [
+    "Gargoyle"
+   ],
+   "apic": "Gargoyle"
+  },
+  {
+   "q": "What is a large circular stained glass window in a Gothic church called?",
+   "a": "Rose window",
+   "p": 400,
+   "alt": [
+    "Rose"
+   ],
+   "apic": "Rose window"
+  },
+  {
+   "q": "What is the underground chamber beneath a church, often used for burials, called?",
+   "a": "Crypt",
+   "p": 400,
+   "alt": [
+    "Undercroft"
+   ],
+   "apic": "Crypt"
+  },
+  {
+   "q": "Which Florentine architect designed the great dome of Florence Cathedral?",
+   "a": "Filippo Brunelleschi",
+   "p": 400,
+   "alt": [
+    "Brunelleschi"
+   ],
+   "apic": "Filippo Brunelleschi",
+   "cpic": "Florence Cathedral"
+  },
+  {
+   "q": "Which architect designed St Paul's Cathedral in London after the Great Fire?",
+   "a": "Christopher Wren",
+   "p": 400,
+   "alt": [
+    "Sir Christopher Wren",
+    "Wren"
+   ],
+   "apic": "Christopher Wren"
+  },
+  {
+   "q": "Which Venice cathedral is famed for its golden Byzantine mosaics?",
+   "a": "St Mark's Basilica",
+   "p": 400,
+   "alt": [
+    "San Marco",
+    "Saint Mark's Basilica",
+    "Basilica di San Marco"
+   ],
+   "apic": "St Mark's Basilica"
+  },
+  {
+   "q": "Which tidal island in Normandy is crowned by a famous medieval abbey?",
+   "a": "Mont-Saint-Michel",
+   "p": 400,
+   "alt": [
+    "Mont Saint Michel"
+   ],
+   "apic": "Mont-Saint-Michel"
+  },
+  {
+   "q": "On which mountain does Rio's Christ the Redeemer statue stand?",
+   "a": "Corcovado",
+   "p": 400,
+   "apic": "Corcovado",
+   "cpic": "Christ the Redeemer (statue)"
+  },
+  {
+   "q": "Which Greek site is famed for Orthodox monasteries perched on top of rock pillars?",
+   "a": "Meteora",
+   "p": 400,
+   "apic": "Meteora"
+  },
+  {
+   "q": "What colour are eggs traditionally dyed for Greek Orthodox Easter?",
+   "a": "Red",
+   "p": 400
+  },
+  {
+   "q": "Which country is traditionally the first to adopt Christianity as a state religion, in 301?",
+   "a": "Armenia",
+   "p": 400,
+   "apic": "Armenia"
+  },
+  {
+   "q": "In which country are the rock-hewn churches of Lalibela?",
+   "a": "Ethiopia",
+   "p": 400,
+   "apic": "Ethiopia"
+  },
+  {
+   "q": "Which 4th to 5th century Syriac monk gives his name to the largest Christian community in Lebanon?",
+   "a": "Saint Maron",
+   "p": 400,
+   "alt": [
+    "Maron",
+    "Mar Maroun",
+    "Maroun"
+   ],
+   "ar": "مار مارون",
+   "apic": "Saint Maron",
+   "cpic": "Lebanon"
+  },
+  {
+   "q": "Which Lebanese Maronite monk and hermit was canonised in 1977?",
+   "a": "Charbel Makhlouf",
+   "p": 400,
+   "alt": [
+    "Saint Charbel",
+    "Mar Charbel",
+    "Sharbel"
+   ],
+   "ar": "مار شربل",
+   "apic": "Charbel Makhlouf"
+  },
+  {
+   "q": "Which language, the last stage of ancient Egyptian, is still used in the services of Egyptian Christians?",
+   "a": "Coptic",
+   "p": 400,
+   "alt": [
+    "Coptic language"
+   ],
+   "apic": "Coptic language"
+  },
+  {
+   "q": "On which Abu Dhabi island were the remains of an ancient Christian monastery found in 1992?",
+   "a": "Sir Bani Yas",
+   "p": 400,
+   "alt": [
+    "Sir Bani Yas Island",
+    "Sir Baniyas"
+   ],
+   "ar": "صير بني ياس",
+   "apic": "Sir Bani Yas",
+   "cpic": "Abu Dhabi"
+  },
+  {
+   "q": "Which apostle's shrine in Santiago de Compostela is the goal of the Camino pilgrimage?",
+   "a": "James",
+   "p": 400,
+   "alt": [
+    "Saint James",
+    "James the Great",
+    "Santiago"
+   ],
+   "apic": "James the Great"
+  },
+  {
+   "q": "Which French town became a major pilgrimage site after Bernadette reported visions of Mary in 1858?",
+   "a": "Lourdes",
+   "p": 400,
+   "apic": "Lourdes"
+  },
+  {
+   "q": "Which Portuguese town is famous for reported visions of Mary to three shepherd children in 1917?",
+   "a": "Fátima",
+   "p": 400,
+   "alt": [
+    "Fatima"
+   ],
+   "apic": "Fátima, Portugal"
+  },
+  {
+   "q": "Which Italian city keeps a famous linen cloth venerated by many as Jesus' burial shroud?",
+   "a": "Turin",
+   "p": 400,
+   "alt": [
+    "Torino"
+   ],
+   "apic": "Shroud of Turin"
+  },
+  {
+   "q": "In medieval legend, what is the cup used by Jesus at the Last Supper called?",
+   "a": "The Holy Grail",
+   "p": 200,
+   "alt": [
+    "Holy Grail",
+    "Grail"
+   ],
+   "apic": "Holy Grail"
+  },
+  {
+   "q": "Which North African bishop wrote 'Confessions' and 'The City of God'?",
+   "a": "Augustine of Hippo",
+   "p": 400,
+   "alt": [
+    "Saint Augustine",
+    "Augustine"
+   ],
+   "apic": "Augustine of Hippo"
+  },
+  {
+   "q": "Which saint, often shown carrying a child across a river, is the patron of travellers?",
+   "a": "Saint Christopher",
+   "p": 400,
+   "alt": [
+    "Christopher",
+    "St Christopher"
+   ],
+   "apic": "Saint Christopher"
+  },
+  {
+   "q": "Which pope resigned in 2013, the first to do so in nearly 600 years?",
+   "a": "Benedict XVI",
+   "p": 400,
+   "alt": [
+    "Pope Benedict XVI",
+    "Joseph Ratzinger"
+   ],
+   "apic": "Pope Benedict XVI"
+  },
+  {
+   "q": "What is the tall pointed hat worn by bishops called?",
+   "a": "Mitre",
+   "p": 200,
+   "alt": [
+    "Miter"
+   ],
+   "apic": "Mitre"
+  },
+  {
+   "q": "Which is the official language of the Holy See?",
+   "a": "Latin",
+   "p": 400
+  },
+  {
+   "q": "Which artist designed the great dome of St. Peter's Basilica?",
+   "a": "Michelangelo",
+   "p": 400,
+   "cpic": "St. Peter's Basilica"
+  },
+  {
+   "q": "Which Protestant tradition, named after a German reformer, is the main church of the Nordic countries?",
+   "a": "Lutheranism",
+   "p": 400,
+   "alt": [
+    "Lutheran",
+    "Lutheran Church",
+    "Lutherans"
+   ],
+   "apic": "Lutheranism"
+  },
+  {
+   "q": "Easter falls on the first Sunday after the first full moon following which astronomical event?",
+   "a": "March equinox",
+   "p": 400,
+   "alt": [
+    "Spring equinox",
+    "Vernal equinox",
+    "Equinox"
+   ]
+  },
+  {
+   "q": "On which day of the week do Catholics traditionally avoid meat during Lent?",
+   "a": "Friday",
+   "p": 400,
+   "alt": [
+    "Fridays"
+   ]
+  },
+  {
+   "q": "Which Latin title, meaning 'Lamb of God', is also a prayer sung at Mass?",
+   "a": "Agnus Dei",
+   "p": 400,
+   "apic": "Agnus Dei"
+  },
+  {
+   "q": "In which year did the Great Schism divide the Eastern and Western churches?",
+   "a": "1054",
+   "p": 600,
+   "apic": "East–West Schism"
+  },
+  {
+   "q": "Which council, held from 1545 to 1563 in a northern Italian city, was central to the Counter-Reformation?",
+   "a": "Council of Trent",
+   "p": 600,
+   "alt": [
+    "Trent"
+   ],
+   "apic": "Council of Trent"
+  },
+  {
+   "q": "At which 1521 imperial assembly, named after a German city, was Luther asked to recant?",
+   "a": "Diet of Worms",
+   "p": 600,
+   "alt": [
+    "Worms"
+   ],
+   "apic": "Diet of Worms"
+  },
+  {
+   "q": "In which German town did Luther publish his famous theses in 1517?",
+   "a": "Wittenberg",
+   "p": 600,
+   "apic": "Wittenberg"
+  },
+  {
+   "q": "Which saint produced the Latin Vulgate translation of the Bible?",
+   "a": "Jerome",
+   "p": 600,
+   "alt": [
+    "Saint Jerome"
+   ],
+   "apic": "Jerome"
+  },
+  {
+   "q": "Which Italian Dominican theologian wrote the Summa Theologica?",
+   "a": "Thomas Aquinas",
+   "p": 600,
+   "alt": [
+    "Aquinas",
+    "Saint Thomas Aquinas"
+   ],
+   "apic": "Thomas Aquinas"
+  },
+  {
+   "q": "Which Italian saint wrote a famous Rule for monks and is a patron saint of Europe?",
+   "a": "Benedict of Nursia",
+   "p": 600,
+   "alt": [
+    "Saint Benedict",
+    "Benedict"
+   ],
+   "apic": "Benedict of Nursia"
+  },
+  {
+   "q": "Which Catholic council, held from 1962 to 1965, allowed Mass in local languages?",
+   "a": "Second Vatican Council",
+   "p": 600,
+   "alt": [
+    "Vatican II"
+   ],
+   "apic": "Second Vatican Council"
+  },
+  {
+   "q": "How many books are in the Catholic Bible?",
+   "a": "73",
+   "p": 600,
+   "alt": [
+    "Seventy-three"
+   ]
+  },
+  {
+   "q": "What name is given to the Old Testament books found in Catholic and Orthodox Bibles but not Protestant ones?",
+   "a": "Deuterocanonical books",
+   "p": 600,
+   "alt": [
+    "Apocrypha",
+    "Deuterocanon"
+   ],
+   "apic": "Deuterocanonical books"
+  },
+  {
+   "q": "Which Christian monogram is formed from the first two Greek letters of 'Christ'?",
+   "a": "Chi-Rho",
+   "p": 600,
+   "alt": [
+    "Chi Rho",
+    "XP"
+   ],
+   "apic": "Chi Rho"
+  },
+  {
+   "q": "Which four-letter Latin inscription often appears above the figure of Jesus on crucifixes?",
+   "a": "INRI",
+   "p": 600,
+   "apic": "INRI"
+  },
+  {
+   "q": "Our Lady of which place in Mexico City is one of the most visited Catholic shrines in the world?",
+   "a": "Guadalupe",
+   "p": 600,
+   "alt": [
+    "Our Lady of Guadalupe"
+   ],
+   "apic": "Basilica of Our Lady of Guadalupe",
+   "cpic": "Mexico City"
+  },
+  {
+   "q": "Which Italian city is famous for Byzantine church mosaics such as those of San Vitale?",
+   "a": "Ravenna",
+   "p": 600,
+   "apic": "Ravenna"
+  },
+  {
+   "q": "Which Dominican friar painted Annunciation frescoes in the convent of San Marco in Florence?",
+   "a": "Fra Angelico",
+   "p": 600,
+   "alt": [
+    "Angelico",
+    "Guido di Pietro"
+   ],
+   "apic": "Fra Angelico"
+  },
+  {
+   "q": "Which Baroque painter created 'The Calling of Saint Matthew' in Rome?",
+   "a": "Caravaggio",
+   "p": 600,
+   "apic": "Caravaggio",
+   "cpic": "Rome"
+  },
+  {
+   "q": "Which Dutch master painted 'The Return of the Prodigal Son' late in his life?",
+   "a": "Rembrandt",
+   "p": 600,
+   "alt": [
+    "Rembrandt van Rijn"
+   ],
+   "apic": "Rembrandt"
+  },
+  {
+   "q": "Which artist painted the frescoes of the Scrovegni Chapel in Padua?",
+   "a": "Giotto",
+   "p": 600,
+   "alt": [
+    "Giotto di Bondone"
+   ],
+   "apic": "Giotto"
+  },
+  {
+   "q": "Which Flemish painter, with his brother Hubert, created the Ghent Altarpiece?",
+   "a": "Jan van Eyck",
+   "p": 600,
+   "alt": [
+    "Van Eyck",
+    "Van Eyck brothers"
+   ],
+   "apic": "Jan van Eyck"
+  },
+  {
+   "q": "In which Milan convent is Leonardo's Last Supper painted?",
+   "a": "Santa Maria delle Grazie",
+   "p": 600,
+   "apic": "Santa Maria delle Grazie, Milan"
+  },
+  {
+   "q": "Which Baroque artist designed the colonnade embracing St. Peter's Square?",
+   "a": "Gian Lorenzo Bernini",
+   "p": 600,
+   "alt": [
+    "Bernini"
+   ],
+   "apic": "Gian Lorenzo Bernini"
+  },
+  {
+   "q": "Which Rome basilica, not St. Peter's, is the Pope's official cathedral?",
+   "a": "Archbasilica of St John Lateran",
+   "p": 600,
+   "alt": [
+    "St John Lateran",
+    "Lateran Basilica",
+    "San Giovanni in Laterano"
+   ],
+   "apic": "Archbasilica of Saint John Lateran",
+   "cpic": "Rome"
+  },
+  {
+   "q": "The Sistine Chapel is named after which pope?",
+   "a": "Sixtus IV",
+   "p": 600,
+   "alt": [
+    "Pope Sixtus IV"
+   ],
+   "apic": "Pope Sixtus IV"
+  },
+  {
+   "q": "What is the gold signet ring of the pope, destroyed after his papacy ends, called?",
+   "a": "Fisherman's Ring",
+   "p": 600,
+   "alt": [
+    "Ring of the Fisherman"
+   ],
+   "apic": "Ring of the Fisherman"
+  },
+  {
+   "q": "What is the shepherd's-crook staff carried by bishops called?",
+   "a": "Crozier",
+   "p": 600,
+   "alt": [
+    "Crosier",
+    "Pastoral staff"
+   ],
+   "apic": "Crozier"
+  },
+  {
+   "q": "The calendar used by most of the world is named after which pope, who introduced it in 1582?",
+   "a": "Gregory XIII",
+   "p": 600,
+   "alt": [
+    "Pope Gregory XIII"
+   ],
+   "apic": "Pope Gregory XIII"
+  },
+  {
+   "q": "Which Protestant movement, born in the early 20th century, is named after the coming of the Holy Spirit?",
+   "a": "Pentecostalism",
+   "p": 600,
+   "alt": [
+    "Pentecostal",
+    "Pentecostals"
+   ],
+   "apic": "Pentecostalism"
+  },
+  {
+   "q": "Which reformer led the Scottish Reformation and founded Presbyterianism in Scotland?",
+   "a": "John Knox",
+   "p": 600,
+   "alt": [
+    "Knox"
+   ],
+   "apic": "John Knox"
+  },
+  {
+   "q": "What is the main central part of a church, where the congregation sits, called?",
+   "a": "Nave",
+   "p": 400,
+   "apic": "Nave"
+  },
+  {
+   "q": "What is the semicircular recess at the end of a church, usually behind the altar, called?",
+   "a": "Apse",
+   "p": 600,
+   "apic": "Apse"
+  },
+  {
+   "q": "What external arched supports allowed Gothic cathedrals to have thin walls and huge windows?",
+   "a": "Flying buttresses",
+   "p": 600,
+   "alt": [
+    "Flying buttress",
+    "Buttresses"
+   ],
+   "apic": "Flying buttress"
+  },
+  {
+   "q": "What is the screen of icons separating the sanctuary from the nave in Orthodox churches called?",
+   "a": "Iconostasis",
+   "p": 600,
+   "apic": "Iconostasis"
+  },
+  {
+   "q": "What title is held by the Archbishop of Constantinople, 'first among equals' in Eastern Orthodoxy?",
+   "a": "Ecumenical Patriarch",
+   "p": 600,
+   "alt": [
+    "Ecumenical Patriarch of Constantinople",
+    "Patriarch of Constantinople"
+   ],
+   "apic": "Ecumenical Patriarch of Constantinople"
+  },
+  {
+   "q": "Which Greek peninsula is home to 20 Orthodox monasteries and closed to women?",
+   "a": "Mount Athos",
+   "p": 600,
+   "alt": [
+    "Athos",
+    "Agion Oros",
+    "Holy Mountain"
+   ],
+   "apic": "Mount Athos"
+  },
+  {
+   "q": "Which Aramaic dialect is the classical liturgical language of the Maronite and Assyrian churches?",
+   "a": "Syriac",
+   "p": 600,
+   "apic": "Syriac language"
+  },
+  {
+   "q": "Which 4th-century woman is credited with bringing Christianity to Georgia?",
+   "a": "Saint Nino",
+   "p": 600,
+   "alt": [
+    "Nino",
+    "Nina"
+   ],
+   "apic": "Saint Nino"
+  },
+  {
+   "q": "What is the popular name of the Coptic church in Old Cairo built over the gatehouse of a Roman fortress?",
+   "a": "The Hanging Church",
+   "p": 600,
+   "alt": [
+    "Hanging Church",
+    "Al-Muallaqa",
+    "El Muallaqa"
+   ],
+   "ar": "الكنيسة المعلقة",
+   "apic": "Hanging Church"
+  },
+  {
+   "q": "Which UNESCO-listed early Christian holy city near Alexandria is named after an Egyptian saint?",
+   "a": "Abu Mena",
+   "p": 600,
+   "alt": [
+    "Abu Mina",
+    "Saint Menas"
+   ],
+   "ar": "أبو مينا",
+   "apic": "Abu Mena",
+   "cpic": "Alexandria"
+  },
+  {
+   "q": "Which Egyptian desert valley is home to ancient Coptic monasteries such as Saint Macarius?",
+   "a": "Wadi El Natrun",
+   "p": 600,
+   "alt": [
+    "Wadi Natrun",
+    "Scetis",
+    "Nitrian Desert"
+   ],
+   "ar": "وادي النطرون",
+   "apic": "Wadi El Natrun"
+  },
+  {
+   "q": "Which Egyptian hermit is regarded as the father of Christian monasticism?",
+   "a": "Anthony the Great",
+   "p": 600,
+   "alt": [
+    "Saint Anthony",
+    "Antony",
+    "Anthony of Egypt",
+    "Abba Antonius"
+   ],
+   "apic": "Anthony the Great"
+  },
+  {
+   "q": "Which UNESCO-listed Lebanese valley is famous for ancient Maronite monasteries?",
+   "a": "Qadisha Valley",
+   "p": 600,
+   "alt": [
+    "Kadisha Valley",
+    "Wadi Qadisha"
+   ],
+   "ar": "وادي قاديشا",
+   "apic": "Kadisha Valley"
+  },
+  {
+   "q": "In which Lebanese hilltop village does the white statue of Our Lady of Lebanon overlook Jounieh?",
+   "a": "Harissa",
+   "p": 600,
+   "ar": "حريصا",
+   "apic": "Our Lady of Lebanon",
+   "cpic": "Our Lady of Lebanon"
+  },
+  {
+   "q": "Which Greek Catholic church of the Levant takes its name from a Syriac word meaning 'royal'?",
+   "a": "Melkite",
+   "p": 600,
+   "alt": [
+    "Melkite Greek Catholic Church",
+    "Melkites",
+    "Rum Catholic"
+   ],
+   "ar": "الملكيون",
+   "apic": "Melkite Greek Catholic Church"
+  },
+  {
+   "q": "Which Eastern Catholic church, using a Syriac liturgy, is the largest Christian community in Iraq?",
+   "a": "Chaldean Catholic Church",
+   "p": 600,
+   "alt": [
+    "Chaldean",
+    "Chaldeans"
+   ],
+   "ar": "الكلدان",
+   "apic": "Chaldean Catholic Church"
+  },
+  {
+   "q": "Which Armenian city is home to the mother cathedral of the Armenian Apostolic Church?",
+   "a": "Vagharshapat",
+   "p": 600,
+   "alt": [
+    "Etchmiadzin",
+    "Echmiadzin"
+   ],
+   "apic": "Vagharshapat"
+  },
+  {
+   "q": "Which 5th-century Syrian ascetic lived for decades on top of a pillar near Aleppo?",
+   "a": "Simeon Stylites",
+   "p": 600,
+   "alt": [
+    "Saint Simeon",
+    "Simeon the Stylite",
+    "Mar Semaan"
+   ],
+   "apic": "Simeon Stylites"
+  },
+  {
+   "q": "Which Syrian mountain village is famous as one of the last places where Western Aramaic is still spoken?",
+   "a": "Maaloula",
+   "p": 600,
+   "alt": [
+    "Ma'loula",
+    "Maalula"
+   ],
+   "ar": "معلولا",
+   "apic": "Maaloula"
+  },
+  {
+   "q": "What is the Arabic name of the UNESCO-listed baptism site on the east bank of the Jordan River?",
+   "a": "Al-Maghtas",
+   "p": 600,
+   "alt": [
+    "Maghtas",
+    "Bethany Beyond the Jordan"
+   ],
+   "ar": "المغطس",
+   "apic": "Al-Maghtas"
+  },
+  {
+   "q": "On which Umm Al Quwain island was an ancient Christian monastery announced in 2022?",
+   "a": "Siniyah Island",
+   "p": 600,
+   "alt": [
+    "Siniyah",
+    "Al Sinniyah"
+   ],
+   "ar": "السينية",
+   "apic": "Siniyah Island",
+   "cpic": "Umm Al Quwain"
+  },
+  {
+   "q": "Which two brother saints, 9th-century missionaries to the Slavs, created the Glagolitic alphabet?",
+   "a": "Cyril and Methodius",
+   "p": 600,
+   "alt": [
+    "Saints Cyril and Methodius"
+   ],
+   "apic": "Saints Cyril and Methodius"
+  },
+  {
+   "q": "Which medieval Russian painter created the famous Trinity icon?",
+   "a": "Andrei Rublev",
+   "p": 600,
+   "alt": [
+    "Rublev",
+    "Andrey Rublev"
+   ],
+   "apic": "Andrei Rublev"
+  },
+  {
+   "q": "Which Greek phrase meaning 'Lord, have mercy' is sung in the Mass?",
+   "a": "Kyrie eleison",
+   "p": 600,
+   "alt": [
+    "Kyrie"
+   ],
+   "apic": "Kyrie"
+  },
+  {
+   "q": "In which year did Notre-Dame de Paris reopen after the 2019 fire?",
+   "a": "2024",
+   "p": 600,
+   "cpic": "Notre-Dame de Paris"
+  },
+  {
+   "q": "In which year did construction of the Sagrada Família begin?",
+   "a": "1882",
+   "p": 600,
+   "cpic": "Sagrada Família"
+  },
+  {
+   "q": "Which church in Nazareth is built over the traditional site of the angel's message to Mary?",
+   "a": "Basilica of the Annunciation",
+   "p": 600,
+   "alt": [
+    "Church of the Annunciation"
+   ],
+   "apic": "Basilica of the Annunciation"
+  },
+  {
+   "q": "How many Stations of the Cross are there in the traditional devotion?",
+   "a": "14",
+   "p": 600,
+   "alt": [
+    "Fourteen"
+   ],
+   "apic": "Stations of the Cross"
+  },
+  {
+   "q": "Which feast on 2 February, also called the Presentation of Jesus, is known for blessing candles?",
+   "a": "Candlemas",
+   "p": 600,
+   "alt": [
+    "Presentation of the Lord",
+    "Feast of the Presentation"
+   ],
+   "apic": "Candlemas"
+  },
+  {
+   "q": "Which Catholic feast's Latin name means 'Body of Christ'?",
+   "a": "Corpus Christi",
+   "p": 600,
+   "apic": "Feast of Corpus Christi"
+  },
+  {
+   "q": "Which Catholic doctrine holds that the bread and wine of the Eucharist become the body and blood of Christ?",
+   "a": "Transubstantiation",
+   "p": 600,
+   "apic": "Transubstantiation"
+  },
+  {
+   "q": "What is the evening prayer service of the Liturgy of the Hours called?",
+   "a": "Vespers",
+   "p": 600,
+   "alt": [
+    "Evensong",
+    "Evening Prayer"
+   ],
+   "apic": "Vespers"
+  },
+  {
+   "q": "What is the step before canonisation in which the pope declares a person 'Blessed'?",
+   "a": "Beatification",
+   "p": 600,
+   "apic": "Beatification"
+  },
+  {
+   "q": "In Christian tradition rather than the Bible, what is the name of the mother of Mary?",
+   "a": "Anne",
+   "p": 600,
+   "alt": [
+    "Saint Anne",
+    "Anna",
+    "Hannah"
+   ],
+   "apic": "Saint Anne"
+  },
+  {
+   "q": "Which apostle is traditionally credited with bringing Christianity to Kerala in India?",
+   "a": "Thomas",
+   "p": 600,
+   "alt": [
+    "Saint Thomas",
+    "Thomas the Apostle"
+   ]
+  },
+  {
+   "q": "Which Orthodox church, one of the oldest in Africa, uses the ancient Ge'ez language in worship?",
+   "a": "Ethiopian Orthodox Tewahedo Church",
+   "p": 600,
+   "alt": [
+    "Ethiopian Orthodox Church",
+    "Ethiopian Orthodox"
+   ],
+   "apic": "Ethiopian Orthodox Tewahedo Church"
+  },
+  {
+   "q": "The famous leaning tower is the bell tower of the cathedral in which Italian city?",
+   "a": "Pisa",
+   "p": 200,
+   "apic": "Pisa",
+   "cpic": "Bell tower"
+  },
+  {
+   "q": "What is a religious song of praise sung by a congregation called?",
+   "a": "Hymn",
+   "p": 200,
+   "alt": [
+    "Hymns"
+   ],
+   "apic": "Hymn"
+  },
+  {
+   "q": "What are the men living under religious vows in a monastery called?",
+   "a": "Monks",
+   "p": 200,
+   "alt": [
+    "Monk",
+    "Brothers",
+    "Friars"
+   ],
+   "apic": "Monk"
+  },
+  {
+   "q": "What is the raised table at the front of a church where the Eucharist is celebrated?",
+   "a": "Altar",
+   "p": 200,
+   "apic": "Altar"
+  },
+  {
+   "q": "From what raised, enclosed stand in a church is a sermon traditionally preached?",
+   "a": "Pulpit",
+   "p": 200,
+   "alt": [
+    "Ambo"
+   ],
+   "apic": "Pulpit"
+  },
+  {
+   "q": "Which three-leafed plant did Saint Patrick traditionally use to explain the Trinity?",
+   "a": "Shamrock",
+   "p": 200,
+   "alt": [
+    "Clover"
+   ],
+   "apic": "Shamrock"
+  },
+  {
+   "q": "Which Christian holy day on 1 November honours all the saints?",
+   "a": "All Saints' Day",
+   "p": 400,
+   "alt": [
+    "All Saints",
+    "All Hallows",
+    "Hallowmas"
+   ],
+   "apic": "All Saints' Day"
+  },
+  {
+   "q": "Which order of friars, founded in Toulouse in 1216, is officially called the Order of Preachers?",
+   "a": "Dominicans",
+   "p": 400,
+   "alt": [
+    "Dominican Order",
+    "Dominican"
+   ],
+   "apic": "Dominican Order"
+  },
+  {
+   "q": "On which date is Saint Stephen's Day, the day after Christmas, celebrated in Western churches?",
+   "a": "26 December",
+   "p": 400,
+   "alt": [
+    "December 26",
+    "Boxing Day"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1367 @@
+{
+ "id": "chr_bible",
+ "name": "Bible Stories & Figures",
+ "questions": [
+  {
+   "q": "What is the first book of the Bible?",
+   "a": "Genesis",
+   "p": 200,
+   "apic": "Book of Genesis"
+  },
+  {
+   "q": "What is the last book of the New Testament?",
+   "a": "Revelation",
+   "p": 200,
+   "alt": [
+    "Book of Revelation",
+    "Apocalypse",
+    "Revelations"
+   ],
+   "apic": "Book of Revelation"
+  },
+  {
+   "q": "According to the Gospels of Matthew and Luke, in which town was Jesus born?",
+   "a": "Bethlehem",
+   "p": 200,
+   "apic": "Bethlehem"
+  },
+  {
+   "q": "In which Galilean town did Jesus grow up, according to the Gospels?",
+   "a": "Nazareth",
+   "p": 200,
+   "apic": "Nazareth"
+  },
+  {
+   "q": "Who is the mother of Jesus in the Gospels?",
+   "a": "Mary",
+   "p": 200,
+   "alt": [
+    "Virgin Mary",
+    "Maryam",
+    "Mariam"
+   ],
+   "apic": "Mary, mother of Jesus"
+  },
+  {
+   "q": "Who baptised Jesus, according to the Gospels?",
+   "a": "John the Baptist",
+   "p": 200,
+   "alt": [
+    "Yahya",
+    "John"
+   ],
+   "apic": "John the Baptist"
+  },
+  {
+   "q": "In which river was Jesus baptised?",
+   "a": "Jordan River",
+   "p": 200,
+   "alt": [
+    "Jordan",
+    "River Jordan"
+   ],
+   "apic": "Jordan River"
+  },
+  {
+   "q": "How many apostles did Jesus choose, according to the Gospels?",
+   "a": "12",
+   "p": 200,
+   "alt": [
+    "Twelve"
+   ]
+  },
+  {
+   "q": "Which apostle betrayed Jesus, according to the Gospels?",
+   "a": "Judas Iscariot",
+   "p": 200,
+   "alt": [
+    "Judas"
+   ],
+   "apic": "Judas Iscariot"
+  },
+  {
+   "q": "What name is given to Jesus' final meal with his apostles before his arrest?",
+   "a": "The Last Supper",
+   "p": 200,
+   "alt": [
+    "Last Supper",
+    "Lord's Supper"
+   ]
+  },
+  {
+   "q": "In Genesis, who built an ark to survive the great flood?",
+   "a": "Noah",
+   "p": 200,
+   "alt": [
+    "Nuh"
+   ],
+   "apic": "Noah"
+  },
+  {
+   "q": "According to Genesis, who was the first man?",
+   "a": "Adam",
+   "p": 200,
+   "apic": "Adam"
+  },
+  {
+   "q": "According to Genesis, who was the first woman?",
+   "a": "Eve",
+   "p": 200,
+   "alt": [
+    "Hawwa"
+   ],
+   "apic": "Eve"
+  },
+  {
+   "q": "In Genesis, in which garden did Adam and Eve first live?",
+   "a": "Garden of Eden",
+   "p": 200,
+   "alt": [
+    "Eden"
+   ],
+   "apic": "Garden of Eden"
+  },
+  {
+   "q": "In Genesis, which son of Adam and Eve killed his brother Abel?",
+   "a": "Cain",
+   "p": 200,
+   "alt": [
+    "Qabil"
+   ],
+   "apic": "Cain and Abel"
+  },
+  {
+   "q": "Which Philistine giant did the young David defeat with a sling and a stone?",
+   "a": "Goliath",
+   "p": 200,
+   "alt": [
+    "Jalut"
+   ],
+   "apic": "Goliath"
+  },
+  {
+   "q": "Which prophet was swallowed by a great fish, according to the Bible?",
+   "a": "Jonah",
+   "p": 200,
+   "alt": [
+    "Yunus",
+    "Jonas"
+   ],
+   "apic": "Jonah"
+  },
+  {
+   "q": "Who led the Israelites out of Egypt in the Book of Exodus?",
+   "a": "Moses",
+   "p": 200,
+   "alt": [
+    "Musa"
+   ],
+   "apic": "Moses"
+  },
+  {
+   "q": "How many commandments did Moses receive on the stone tablets?",
+   "a": "10",
+   "p": 200,
+   "alt": [
+    "Ten"
+   ],
+   "apic": "Ten Commandments"
+  },
+  {
+   "q": "On which mountain did Moses receive the Ten Commandments, according to Exodus?",
+   "a": "Mount Sinai",
+   "p": 200,
+   "alt": [
+    "Sinai",
+    "Mount Horeb"
+   ],
+   "apic": "Mount Sinai"
+  },
+  {
+   "q": "The Christian Bible is divided into the Old Testament and which other part?",
+   "a": "New Testament",
+   "p": 200,
+   "apic": "New Testament"
+  },
+  {
+   "q": "What collective name is given to the first four books of the New Testament?",
+   "a": "The Gospels",
+   "p": 200,
+   "alt": [
+    "Gospels",
+    "Gospel"
+   ],
+   "apic": "Gospel"
+  },
+  {
+   "q": "Which Old Testament prophet survived a night in a den of lions?",
+   "a": "Daniel",
+   "p": 200,
+   "apic": "Daniel (biblical figure)"
+  },
+  {
+   "q": "Which biblical strongman's great strength was linked to his uncut hair?",
+   "a": "Samson",
+   "p": 200,
+   "apic": "Samson"
+  },
+  {
+   "q": "Which woman betrayed Samson by having his hair cut?",
+   "a": "Delilah",
+   "p": 200,
+   "apic": "Delilah"
+  },
+  {
+   "q": "Which wise king, son of David, built the First Temple in Jerusalem?",
+   "a": "Solomon",
+   "p": 200,
+   "alt": [
+    "Sulayman",
+    "King Solomon"
+   ],
+   "apic": "Solomon",
+   "cpic": "Jerusalem"
+  },
+  {
+   "q": "Which fisherman apostle's name means 'rock'?",
+   "a": "Peter",
+   "p": 200,
+   "alt": [
+    "Simon Peter",
+    "Saint Peter",
+    "Cephas"
+   ],
+   "apic": "Saint Peter"
+  },
+  {
+   "q": "Which apostle refused to believe in the resurrection until he could see and touch the wounds, giving us a famous nickname?",
+   "a": "Thomas",
+   "p": 200,
+   "alt": [
+    "Doubting Thomas",
+    "Thomas the Apostle"
+   ],
+   "apic": "Thomas the Apostle"
+  },
+  {
+   "q": "Which apostle, author of many New Testament letters, was originally named Saul?",
+   "a": "Paul",
+   "p": 200,
+   "alt": [
+    "Saint Paul",
+    "Paul the Apostle"
+   ],
+   "apic": "Paul the Apostle"
+  },
+  {
+   "q": "Gold, frankincense and which other gift did the Magi bring to the infant Jesus?",
+   "a": "Myrrh",
+   "p": 200,
+   "apic": "Myrrh"
+  },
+  {
+   "q": "What name is given to the wise men from the East who visited the infant Jesus?",
+   "a": "The Magi",
+   "p": 200,
+   "alt": [
+    "Magi",
+    "Three Kings"
+   ],
+   "apic": "Biblical Magi"
+  },
+  {
+   "q": "According to Matthew, what guided the wise men to the infant Jesus?",
+   "a": "Star of Bethlehem",
+   "p": 200,
+   "alt": [
+    "A star",
+    "The star"
+   ],
+   "apic": "Star of Bethlehem"
+  },
+  {
+   "q": "According to Luke, in what feeding trough was the newborn Jesus laid?",
+   "a": "A manger",
+   "p": 200,
+   "alt": [
+    "Manger"
+   ]
+  },
+  {
+   "q": "Which angel announced to Mary that she would bear a son?",
+   "a": "Gabriel",
+   "p": 200,
+   "alt": [
+    "Jibril",
+    "Archangel Gabriel"
+   ],
+   "apic": "Gabriel"
+  },
+  {
+   "q": "In which city was Jesus crucified, according to the Gospels?",
+   "a": "Jerusalem",
+   "p": 200,
+   "alt": [
+    "Al-Quds"
+   ],
+   "apic": "Jerusalem"
+  },
+  {
+   "q": "Which Roman governor of Judea sentenced Jesus, according to the Gospels?",
+   "a": "Pontius Pilate",
+   "p": 200,
+   "alt": [
+    "Pilate"
+   ],
+   "apic": "Pontius Pilate"
+  },
+  {
+   "q": "Which parable tells of a traveller who stops to help a wounded stranger on the road?",
+   "a": "The Good Samaritan",
+   "p": 200,
+   "alt": [
+    "Good Samaritan",
+    "Parable of the Good Samaritan"
+   ],
+   "apic": "Parable of the Good Samaritan"
+  },
+  {
+   "q": "Which parable tells of a son who wastes his inheritance and returns home to a warm welcome?",
+   "a": "The Prodigal Son",
+   "p": 200,
+   "alt": [
+    "Prodigal Son",
+    "Lost Son",
+    "Parable of the Prodigal Son"
+   ],
+   "apic": "Parable of the Prodigal Son"
+  },
+  {
+   "q": "What is the Christian scripture called, a name from the Greek for 'books'?",
+   "a": "The Bible",
+   "p": 200,
+   "alt": [
+    "Bible",
+    "Holy Bible"
+   ],
+   "apic": "Bible"
+  },
+  {
+   "q": "Which sea did Moses part, according to Exodus?",
+   "a": "Red Sea",
+   "p": 200,
+   "alt": [
+    "Sea of Reeds"
+   ],
+   "apic": "Red Sea"
+  },
+  {
+   "q": "In Genesis, which tower was being built when God confused people's languages?",
+   "a": "Tower of Babel",
+   "p": 200,
+   "alt": [
+    "Babel"
+   ],
+   "apic": "Tower of Babel"
+  },
+  {
+   "q": "Which son of Jacob received a coat of many colours from his father?",
+   "a": "Joseph",
+   "p": 200,
+   "alt": [
+    "Yusuf"
+   ],
+   "apic": "Joseph (Genesis)"
+  },
+  {
+   "q": "Which patriarch is regarded as a founding father of Judaism, Christianity and Islam?",
+   "a": "Abraham",
+   "p": 200,
+   "alt": [
+    "Ibrahim"
+   ],
+   "apic": "Abraham"
+  },
+  {
+   "q": "According to Matthew, to which country did Joseph, Mary and the infant Jesus flee?",
+   "a": "Egypt",
+   "p": 200,
+   "alt": [
+    "Misr"
+   ]
+  },
+  {
+   "q": "Who was Mary's husband in the Gospels, traditionally a carpenter?",
+   "a": "Joseph",
+   "p": 200,
+   "alt": [
+    "Saint Joseph",
+    "Joseph of Nazareth"
+   ],
+   "apic": "Saint Joseph"
+  },
+  {
+   "q": "Which book follows Genesis in the Bible?",
+   "a": "Exodus",
+   "p": 200,
+   "alt": [
+    "Book of Exodus"
+   ],
+   "apic": "Book of Exodus"
+  },
+  {
+   "q": "In Genesis, what creature tempted Eve to eat the forbidden fruit?",
+   "a": "A serpent",
+   "p": 200,
+   "alt": [
+    "Serpent",
+    "Snake"
+   ]
+  },
+  {
+   "q": "On which day did God rest after creation, according to Genesis?",
+   "a": "The seventh day",
+   "p": 200,
+   "alt": [
+    "Seventh day",
+    "Seventh",
+    "Day 7"
+   ]
+  },
+  {
+   "q": "In Genesis, what appeared in the sky after the flood as a sign of God's promise?",
+   "a": "A rainbow",
+   "p": 200,
+   "alt": [
+    "Rainbow"
+   ]
+  },
+  {
+   "q": "In Exodus, what did Moses see on fire but not burning up when God first spoke to him?",
+   "a": "A burning bush",
+   "p": 200,
+   "alt": [
+    "Burning bush",
+    "A bush",
+    "Bush"
+   ],
+   "apic": "Burning bush"
+  },
+  {
+   "q": "Jesus fed a crowd of 5,000 with five loaves and how many fish?",
+   "a": "2",
+   "p": 200,
+   "alt": [
+    "Two"
+   ],
+   "apic": "Feeding the multitude"
+  },
+  {
+   "q": "What was the occupation of the brothers Peter and Andrew before they followed Jesus?",
+   "a": "Fishermen",
+   "p": 200,
+   "alt": [
+    "Fisherman",
+    "Fishing"
+   ]
+  },
+  {
+   "q": "According to the Gospels, on which day after his death did Jesus rise?",
+   "a": "The third day",
+   "p": 200,
+   "alt": [
+    "Third day",
+    "Third",
+    "Sunday"
+   ]
+  },
+  {
+   "q": "What title, from the Greek for 'anointed one', is used for Jesus?",
+   "a": "Christ",
+   "p": 200,
+   "alt": [
+    "Christos",
+    "Messiah"
+   ]
+  },
+  {
+   "q": "In the Bible, what material were the tablets of the Ten Commandments made of?",
+   "a": "Stone",
+   "p": 200,
+   "alt": [
+    "Stone tablets"
+   ]
+  },
+  {
+   "q": "On the road to which city did Saul (Paul) have his conversion experience?",
+   "a": "Damascus",
+   "p": 400,
+   "alt": [
+    "Dimashq"
+   ],
+   "ar": "دمشق",
+   "apic": "Damascus"
+  },
+  {
+   "q": "Which hill outside Jerusalem is named in the Gospels as the place of the crucifixion?",
+   "a": "Golgotha",
+   "p": 400,
+   "alt": [
+    "Calvary"
+   ],
+   "apic": "Calvary",
+   "cpic": "Jerusalem"
+  },
+  {
+   "q": "On which lake did Jesus walk on water, according to the Gospels?",
+   "a": "Sea of Galilee",
+   "p": 400,
+   "alt": [
+    "Lake Tiberias",
+    "Lake of Gennesaret",
+    "Lake Kinneret",
+    "Sea of Tiberias"
+   ],
+   "apic": "Sea of Galilee"
+  },
+  {
+   "q": "Which friend of Jesus, brother of Martha and Mary, was raised from the dead in John's Gospel?",
+   "a": "Lazarus",
+   "p": 400,
+   "apic": "Lazarus of Bethany"
+  },
+  {
+   "q": "Which Semitic language is Jesus believed to have mainly spoken?",
+   "a": "Aramaic",
+   "p": 400,
+   "apic": "Aramaic"
+  },
+  {
+   "q": "In Genesis, what did Lot's wife turn into when she looked back?",
+   "a": "A pillar of salt",
+   "p": 400,
+   "alt": [
+    "Pillar of salt",
+    "Salt"
+   ]
+  },
+  {
+   "q": "Who was Abraham's wife and the mother of Isaac?",
+   "a": "Sarah",
+   "p": 400,
+   "alt": [
+    "Sarai",
+    "Sara"
+   ],
+   "apic": "Sarah"
+  },
+  {
+   "q": "Which son did Abraham nearly sacrifice in the Book of Genesis?",
+   "a": "Isaac",
+   "p": 400,
+   "alt": [
+    "Ishaq"
+   ],
+   "apic": "Isaac"
+  },
+  {
+   "q": "According to the Gospels, which woman was the first to see the risen Jesus?",
+   "a": "Mary Magdalene",
+   "p": 400,
+   "alt": [
+    "Magdalene"
+   ],
+   "apic": "Mary Magdalene"
+  },
+  {
+   "q": "Which Old Testament book of 150 songs and prayers is traditionally linked to King David?",
+   "a": "Psalms",
+   "p": 400,
+   "alt": [
+    "Book of Psalms"
+   ],
+   "apic": "Psalms"
+  },
+  {
+   "q": "What name is given to Jesus' teaching in Matthew chapters 5 to 7, delivered on a hillside?",
+   "a": "Sermon on the Mount",
+   "p": 400,
+   "apic": "Sermon on the Mount"
+  },
+  {
+   "q": "How many books are in the Protestant Bible?",
+   "a": "66",
+   "p": 400,
+   "alt": [
+    "Sixty-six"
+   ]
+  },
+  {
+   "q": "For how many days did Jesus fast in the wilderness, according to the Gospels?",
+   "a": "40",
+   "p": 400,
+   "alt": [
+    "Forty"
+   ]
+  },
+  {
+   "q": "Which apostle was a tax collector before following Jesus, and gives his name to a Gospel?",
+   "a": "Matthew",
+   "p": 400,
+   "alt": [
+    "Levi"
+   ],
+   "apic": "Matthew the Apostle"
+  },
+  {
+   "q": "In which garden did Jesus pray on the night of his arrest?",
+   "a": "Gethsemane",
+   "p": 400,
+   "alt": [
+    "Garden of Gethsemane"
+   ],
+   "apic": "Gethsemane"
+  },
+  {
+   "q": "Which apostle denied knowing Jesus three times before the rooster crowed?",
+   "a": "Peter",
+   "p": 400,
+   "alt": [
+    "Simon Peter"
+   ]
+  },
+  {
+   "q": "Which prisoner did the crowd ask Pilate to release instead of Jesus?",
+   "a": "Barabbas",
+   "p": 400,
+   "apic": "Barabbas"
+  },
+  {
+   "q": "Which king ruled Judea when Jesus was born, according to Matthew?",
+   "a": "Herod the Great",
+   "p": 400,
+   "alt": [
+    "Herod"
+   ],
+   "apic": "Herod the Great"
+  },
+  {
+   "q": "In which village did Jesus perform his first miracle, at a wedding, according to John?",
+   "a": "Cana",
+   "p": 400,
+   "alt": [
+    "Cana of Galilee",
+    "Kafr Kanna"
+   ],
+   "apic": "Cana"
+  },
+  {
+   "q": "Jesus compared the Kingdom of Heaven to which tiny seed in a famous parable?",
+   "a": "Mustard seed",
+   "p": 400,
+   "alt": [
+    "Mustard"
+   ],
+   "apic": "Parable of the Mustard Seed"
+  },
+  {
+   "q": "Which Gospel writer was traditionally a physician and also wrote the Acts of the Apostles?",
+   "a": "Luke",
+   "p": 400,
+   "alt": [
+    "Saint Luke"
+   ],
+   "apic": "Luke the Evangelist"
+  },
+  {
+   "q": "Which New Testament book, following the four Gospels, tells of the early Church?",
+   "a": "Acts of the Apostles",
+   "p": 400,
+   "alt": [
+    "Acts"
+   ],
+   "apic": "Acts of the Apostles"
+  },
+  {
+   "q": "In which language was the New Testament originally written?",
+   "a": "Greek",
+   "p": 400,
+   "alt": [
+    "Koine Greek"
+   ]
+  },
+  {
+   "q": "Which Gospel is traditionally attributed to the 'beloved disciple'?",
+   "a": "John",
+   "p": 400,
+   "alt": [
+    "Gospel of John",
+    "Saint John"
+   ],
+   "apic": "Gospel of John"
+  },
+  {
+   "q": "What name is given to the letters of Paul and others in the New Testament?",
+   "a": "Epistles",
+   "p": 400,
+   "alt": [
+    "Epistle",
+    "Letters"
+   ]
+  },
+  {
+   "q": "How many books are in the New Testament?",
+   "a": "27",
+   "p": 400,
+   "alt": [
+    "Twenty-seven"
+   ]
+  },
+  {
+   "q": "Which two Greek letters are used as a title for God and Christ in Revelation?",
+   "a": "Alpha and Omega",
+   "p": 400,
+   "apic": "Alpha and Omega"
+  },
+  {
+   "q": "Who was the elderly mother of John the Baptist, a relative of Mary?",
+   "a": "Elizabeth",
+   "p": 400,
+   "alt": [
+    "Elisabeth"
+   ],
+   "apic": "Elizabeth (biblical figure)"
+  },
+  {
+   "q": "What is the name of the angel Gabriel's announcement to Mary, also a feast on 25 March?",
+   "a": "The Annunciation",
+   "p": 400,
+   "alt": [
+    "Annunciation"
+   ],
+   "apic": "Annunciation"
+  },
+  {
+   "q": "Which brother of Jacob sold his birthright for a bowl of stew?",
+   "a": "Esau",
+   "p": 400,
+   "apic": "Esau"
+  },
+  {
+   "q": "Which patriarch, renamed Israel, was the father of twelve sons?",
+   "a": "Jacob",
+   "p": 400,
+   "alt": [
+    "Yaqub"
+   ],
+   "apic": "Jacob"
+  },
+  {
+   "q": "Which book tells of a Moabite widow loyal to her mother-in-law Naomi?",
+   "a": "Ruth",
+   "p": 400,
+   "alt": [
+    "Book of Ruth"
+   ],
+   "apic": "Book of Ruth"
+  },
+  {
+   "q": "Which Jewish queen of Persia gives her name to an Old Testament book?",
+   "a": "Esther",
+   "p": 400,
+   "apic": "Esther"
+  },
+  {
+   "q": "Which righteous man's book tells of his great sufferings and patience?",
+   "a": "Job",
+   "p": 400,
+   "alt": [
+    "Ayyub"
+   ],
+   "apic": "Book of Job"
+  },
+  {
+   "q": "Which prophet was taken up to heaven in a chariot of fire?",
+   "a": "Elijah",
+   "p": 400,
+   "alt": [
+    "Elias",
+    "Ilyas"
+   ],
+   "apic": "Elijah"
+  },
+  {
+   "q": "Which man is said in Genesis to have lived 969 years, the longest of anyone?",
+   "a": "Methuselah",
+   "p": 400,
+   "apic": "Methuselah"
+  },
+  {
+   "q": "Which Old Testament book of wise sayings is traditionally attributed to Solomon?",
+   "a": "Proverbs",
+   "p": 400,
+   "alt": [
+    "Book of Proverbs"
+   ],
+   "apic": "Book of Proverbs"
+  },
+  {
+   "q": "On the mountains of which region did Noah's ark come to rest?",
+   "a": "Ararat",
+   "p": 400,
+   "alt": [
+    "Mount Ararat"
+   ],
+   "apic": "Mount Ararat"
+  },
+  {
+   "q": "Joseph rose to power in Egypt after interpreting whose dreams?",
+   "a": "Pharaoh's",
+   "p": 400,
+   "alt": [
+    "Pharaoh",
+    "The Pharaoh"
+   ]
+  },
+  {
+   "q": "Who was Moses' elder brother and the first high priest of Israel?",
+   "a": "Aaron",
+   "p": 400,
+   "alt": [
+    "Harun"
+   ],
+   "apic": "Aaron"
+  },
+  {
+   "q": "What idol did the Israelites make while Moses was on Mount Sinai?",
+   "a": "Golden calf",
+   "p": 400,
+   "alt": [
+    "The golden calf",
+    "A calf"
+   ],
+   "apic": "Golden calf"
+  },
+  {
+   "q": "Which queen travelled to test King Solomon with hard questions?",
+   "a": "Queen of Sheba",
+   "p": 400,
+   "alt": [
+    "Bilqis",
+    "Sheba"
+   ],
+   "apic": "Queen of Sheba"
+  },
+  {
+   "q": "Goliath belonged to which people, rivals of ancient Israel?",
+   "a": "Philistines",
+   "p": 400,
+   "alt": [
+    "The Philistines"
+   ],
+   "apic": "Philistines"
+  },
+  {
+   "q": "What miraculous food did the Israelites eat in the desert, according to Exodus?",
+   "a": "Manna",
+   "p": 400,
+   "apic": "Manna"
+  },
+  {
+   "q": "What gold-covered chest held the tablets of the Ten Commandments?",
+   "a": "Ark of the Covenant",
+   "p": 400,
+   "alt": [
+    "The Ark"
+   ],
+   "apic": "Ark of the Covenant"
+  },
+  {
+   "q": "Whose walls fell after the Israelites marched around it and blew trumpets?",
+   "a": "Jericho",
+   "p": 400,
+   "alt": [
+    "Ariha"
+   ],
+   "ar": "أريحا",
+   "apic": "Jericho"
+  },
+  {
+   "q": "Who succeeded Moses and led the Israelites into Canaan?",
+   "a": "Joshua",
+   "p": 400,
+   "alt": [
+    "Yusha"
+   ],
+   "apic": "Joshua"
+  },
+  {
+   "q": "Who was the first king of Israel, anointed by the prophet Samuel?",
+   "a": "Saul",
+   "p": 400,
+   "alt": [
+    "King Saul",
+    "Talut"
+   ],
+   "apic": "Saul"
+  },
+  {
+   "q": "What Greek-derived name is given to the first five books of the Bible?",
+   "a": "Pentateuch",
+   "p": 400,
+   "alt": [
+    "Torah"
+   ],
+   "apic": "Torah"
+  },
+  {
+   "q": "Which apostle was the brother of Peter?",
+   "a": "Andrew",
+   "p": 400,
+   "alt": [
+    "Saint Andrew"
+   ],
+   "apic": "Andrew the Apostle"
+  },
+  {
+   "q": "Which Jerusalem street is traditionally the route Jesus walked carrying the cross?",
+   "a": "Via Dolorosa",
+   "p": 400,
+   "alt": [
+    "Way of Sorrows"
+   ],
+   "apic": "Via Dolorosa",
+   "cpic": "Jerusalem"
+  },
+  {
+   "q": "Who was the first Christian martyr, according to the Acts of the Apostles?",
+   "a": "Stephen",
+   "p": 400,
+   "alt": [
+    "Saint Stephen"
+   ],
+   "apic": "Saint Stephen"
+  },
+  {
+   "q": "Which short tax collector climbed a sycamore tree in Jericho to see Jesus?",
+   "a": "Zacchaeus",
+   "p": 600,
+   "apic": "Zacchaeus",
+   "cpic": "Jericho"
+  },
+  {
+   "q": "Who accompanied Paul on his first missionary journey, a Levite from Cyprus?",
+   "a": "Barnabas",
+   "p": 600,
+   "apic": "Barnabas"
+  },
+  {
+   "q": "In which city were the followers of Jesus first called Christians, according to Acts?",
+   "a": "Antioch",
+   "p": 600,
+   "alt": [
+    "Antakya"
+   ],
+   "apic": "Antioch"
+  },
+  {
+   "q": "Which Roman emperor ordered the census that brought Joseph and Mary to Bethlehem in Luke?",
+   "a": "Caesar Augustus",
+   "p": 600,
+   "alt": [
+    "Augustus"
+   ],
+   "apic": "Augustus",
+   "cpic": "Bethlehem"
+  },
+  {
+   "q": "According to Luke, about how old was Jesus when he began his ministry?",
+   "a": "About 30",
+   "p": 600,
+   "alt": [
+    "30",
+    "Thirty"
+   ]
+  },
+  {
+   "q": "Which event saw Jesus shine with light on a mountain alongside Moses and Elijah?",
+   "a": "The Transfiguration",
+   "p": 600,
+   "alt": [
+    "Transfiguration"
+   ],
+   "apic": "Transfiguration of Jesus"
+  },
+  {
+   "q": "Which Pharisee visited Jesus at night in John's Gospel and later helped bury him?",
+   "a": "Nicodemus",
+   "p": 600,
+   "apic": "Nicodemus"
+  },
+  {
+   "q": "Which sister of Lazarus was busy serving while her sister Mary listened to Jesus?",
+   "a": "Martha",
+   "p": 600,
+   "apic": "Martha"
+  },
+  {
+   "q": "Who was the father of the apostles James and John?",
+   "a": "Zebedee",
+   "p": 600,
+   "apic": "Zebedee"
+  },
+  {
+   "q": "Which disciple was chosen by lot to replace Judas among the Twelve?",
+   "a": "Matthias",
+   "p": 600,
+   "alt": [
+    "Saint Matthias"
+   ],
+   "apic": "Saint Matthias"
+  },
+  {
+   "q": "Which man was compelled to carry Jesus' cross, according to the Synoptic Gospels?",
+   "a": "Simon of Cyrene",
+   "p": 600,
+   "alt": [
+    "Simon the Cyrenian"
+   ],
+   "apic": "Simon of Cyrene"
+  },
+  {
+   "q": "Which wealthy man provided his own tomb for Jesus' burial?",
+   "a": "Joseph of Arimathea",
+   "p": 600,
+   "apic": "Joseph of Arimathea"
+  },
+  {
+   "q": "Which Jewish high priest presided at Jesus' trial before the Sanhedrin?",
+   "a": "Caiaphas",
+   "p": 600,
+   "apic": "Caiaphas"
+  },
+  {
+   "q": "Who was the father of John the Baptist, a priest struck mute?",
+   "a": "Zechariah",
+   "p": 600,
+   "alt": [
+    "Zacharias",
+    "Zachary",
+    "Zakariya"
+   ],
+   "apic": "Zechariah (New Testament figure)"
+  },
+  {
+   "q": "What name is given to Mary's visit to her relative Elizabeth while both were pregnant?",
+   "a": "The Visitation",
+   "p": 600,
+   "alt": [
+    "Visitation"
+   ],
+   "apic": "Visitation (Christianity)"
+  },
+  {
+   "q": "To which village were two disciples walking when the risen Jesus joined them, in Luke?",
+   "a": "Emmaus",
+   "p": 600,
+   "apic": "Emmaus"
+  },
+  {
+   "q": "Which town on the Sea of Galilee served as the base of Jesus' ministry?",
+   "a": "Capernaum",
+   "p": 600,
+   "apic": "Capernaum"
+  },
+  {
+   "q": "From which hill near Jerusalem did Jesus ascend into heaven, according to Acts?",
+   "a": "Mount of Olives",
+   "p": 600,
+   "alt": [
+    "Olivet"
+   ],
+   "apic": "Mount of Olives"
+  },
+  {
+   "q": "Which collective name is given to the Gospels of Matthew, Mark and Luke?",
+   "a": "Synoptic Gospels",
+   "p": 600,
+   "alt": [
+    "Synoptics"
+   ],
+   "apic": "Synoptic Gospels"
+  },
+  {
+   "q": "On which Greek island did John write the Book of Revelation, according to tradition?",
+   "a": "Patmos",
+   "p": 600,
+   "apic": "Patmos"
+  },
+  {
+   "q": "Which Old Testament book is the third of the five books of Moses?",
+   "a": "Leviticus",
+   "p": 600,
+   "apic": "Book of Leviticus"
+  },
+  {
+   "q": "Which Old Testament book's English name refers to the censuses of the Israelites?",
+   "a": "Numbers",
+   "p": 600,
+   "alt": [
+    "Book of Numbers"
+   ],
+   "apic": "Book of Numbers"
+  },
+  {
+   "q": "Which is the fifth book of the Bible?",
+   "a": "Deuteronomy",
+   "p": 600,
+   "apic": "Book of Deuteronomy"
+  },
+  {
+   "q": "Which prophet's book is the last book of the Protestant Old Testament?",
+   "a": "Malachi",
+   "p": 600,
+   "apic": "Book of Malachi"
+  },
+  {
+   "q": "Which letter of Paul contains the famous chapter on love, chapter 13?",
+   "a": "1 Corinthians",
+   "p": 600,
+   "alt": [
+    "First Corinthians",
+    "Corinthians",
+    "First Epistle to the Corinthians"
+   ],
+   "apic": "First Epistle to the Corinthians"
+  },
+  {
+   "q": "Which letter of Paul comes first in the New Testament's order of epistles?",
+   "a": "Romans",
+   "p": 600,
+   "alt": [
+    "Epistle to the Romans"
+   ],
+   "apic": "Epistle to the Romans"
+  },
+  {
+   "q": "In which parable do servants invest money entrusted to them by their master?",
+   "a": "Parable of the Talents",
+   "p": 600,
+   "alt": [
+    "The Talents",
+    "Talents",
+    "Parable of the Minas"
+   ],
+   "apic": "Parable of the talents or minas"
+  },
+  {
+   "q": "How many books are in the Protestant Old Testament?",
+   "a": "39",
+   "p": 600,
+   "alt": [
+    "Thirty-nine"
+   ]
+  },
+  {
+   "q": "Who was Moses' sister, traditionally identified as the girl who watched over him in the basket on the Nile?",
+   "a": "Miriam",
+   "p": 600,
+   "apic": "Miriam"
+  },
+  {
+   "q": "Shadrach, Meshach and Abednego were thrown into what, and survived, in the Book of Daniel?",
+   "a": "A fiery furnace",
+   "p": 600,
+   "alt": [
+    "Fiery furnace",
+    "Furnace",
+    "Fire"
+   ]
+  },
+  {
+   "q": "To which Assyrian city was Jonah sent to preach?",
+   "a": "Nineveh",
+   "p": 600,
+   "alt": [
+    "Ninawa"
+   ],
+   "ar": "نينوى",
+   "apic": "Nineveh"
+  },
+  {
+   "q": "Who was the wife of Uriah who later married King David and became Solomon's mother?",
+   "a": "Bathsheba",
+   "p": 600,
+   "apic": "Bathsheba"
+  },
+  {
+   "q": "Which Babylonian king appears in the Book of Daniel dreaming of a giant statue?",
+   "a": "Nebuchadnezzar",
+   "p": 600,
+   "alt": [
+    "Nebuchadnezzar II"
+   ],
+   "apic": "Nebuchadnezzar II"
+  },
+  {
+   "q": "Which Greek translation of the Hebrew scriptures is named after its legendary 70 translators?",
+   "a": "Septuagint",
+   "p": 600,
+   "alt": [
+    "LXX"
+   ],
+   "apic": "Septuagint"
+  },
+  {
+   "q": "In which parable do some of ten young women run out of oil for their lamps?",
+   "a": "Parable of the Ten Virgins",
+   "p": 600,
+   "alt": [
+    "Ten Virgins",
+    "Wise and Foolish Virgins",
+    "Ten Bridesmaids"
+   ],
+   "apic": "Parable of the Ten Virgins"
+  },
+  {
+   "q": "Which prophet anointed both Saul and David as kings of Israel?",
+   "a": "Samuel",
+   "p": 400,
+   "apic": "Samuel"
+  },
+  {
+   "q": "Which is the shortest of the four Gospels?",
+   "a": "Mark",
+   "p": 400,
+   "alt": [
+    "Gospel of Mark"
+   ],
+   "apic": "Gospel of Mark"
+  },
+  {
+   "q": "Which nephew of Abraham escaped the destruction of Sodom?",
+   "a": "Lot",
+   "p": 400,
+   "apic": "Lot (biblical person)"
+  },
+  {
+   "q": "Who was Isaac's wife and the mother of Jacob and Esau?",
+   "a": "Rebekah",
+   "p": 400,
+   "alt": [
+    "Rebecca",
+    "Rebekka"
+   ],
+   "apic": "Rebecca"
+  },
+  {
+   "q": "Which daughter of Laban did Jacob work fourteen years to marry?",
+   "a": "Rachel",
+   "p": 400,
+   "apic": "Rachel"
+  },
+  {
+   "q": "Which prophetess served as a judge of Israel, holding court under a palm tree?",
+   "a": "Deborah",
+   "p": 600,
+   "apic": "Deborah"
+  },
+  {
+   "q": "Which son of David rebelled against his father and was caught by his hair in a tree?",
+   "a": "Absalom",
+   "p": 600,
+   "apic": "Absalom"
+  },
+  {
+   "q": "Who was the youngest son of Jacob and full brother of Joseph?",
+   "a": "Benjamin",
+   "p": 600,
+   "apic": "Benjamin"
+  },
+  {
+   "q": "Which prophet had a vision of a valley of dry bones coming back to life?",
+   "a": "Ezekiel",
+   "p": 600,
+   "apic": "Ezekiel"
+  },
+  {
+   "q": "Which prophet succeeded Elijah and received his mantle?",
+   "a": "Elisha",
+   "p": 600,
+   "alt": [
+    "Al-Yasa"
+   ],
+   "apic": "Elisha"
+  },
+  {
+   "q": "Which Gospel opens with a genealogy of Jesus traced from Abraham?",
+   "a": "Matthew",
+   "p": 600,
+   "alt": [
+    "Gospel of Matthew"
+   ],
+   "apic": "Gospel of Matthew"
+  },
+  {
+   "q": "Which Old Testament book of love poetry is traditionally attributed to Solomon?",
+   "a": "Song of Songs",
+   "p": 600,
+   "alt": [
+    "Song of Solomon",
+    "Canticles"
+   ],
+   "apic": "Song of Songs"
+  },
+  {
+   "q": "Which Roman centurion is described in Acts as the first Gentile baptised by Peter?",
+   "a": "Cornelius",
+   "p": 600,
+   "alt": [
+    "Cornelius the Centurion"
+   ],
+   "apic": "Cornelius the Centurion"
+  },
+  {
+   "q": "Which seller of purple cloth in Philippi was Paul's first recorded convert in Europe?",
+   "a": "Lydia",
+   "p": 600,
+   "alt": [
+    "Lydia of Thyatira"
+   ],
+   "apic": "Lydia of Thyatira"
+  },
+  {
+   "q": "On which island was Paul shipwrecked on his way to Rome, according to Acts?",
+   "a": "Malta",
+   "p": 600,
+   "apic": "Malta"
+  },
+  {
+   "q": "What was Paul's trade, according to Acts?",
+   "a": "Tentmaker",
+   "p": 600,
+   "alt": [
+    "Tentmaking",
+    "Tent maker"
+   ]
+  },
+  {
+   "q": "In which city did Paul speak at the Areopagus, according to Acts?",
+   "a": "Athens",
+   "p": 600,
+   "apic": "Athens"
+  },
+  {
+   "q": "Who was the mother of the prophet Samuel, who prayed for a child at Shiloh?",
+   "a": "Hannah",
+   "p": 600,
+   "apic": "Hannah (biblical figure)"
+  },
+  {
+   "q": "Which king of Israel was the husband of Queen Jezebel?",
+   "a": "Ahab",
+   "p": 600,
+   "apic": "Ahab"
+  }
+ ]
+}

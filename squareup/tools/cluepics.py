@@ -34,7 +34,7 @@ for f,d in D.items():
   if d['id']=='flags':continue
   cand=sorted({t for t in own[d['id']] if len(base(t))>=4}|set(glob_t),key=lambda t:-len(norm(base(t))))
   cand=[(norm(base(t)),t,words(base(t))) for t in cand]
-  ch=False;used=collections.Counter()
+  ch=False;used=collections.Counter(q['cpic'] for q in d['questions'] if q.get('cpic'))
   for q in d['questions']:
     if 'cpic' in q or q.get('pic') or q.get('img') or q.get('svg') or q.get('emoji') or q.get('yt'):continue
     aw=words(q['a']+' '+' '.join(q.get('alt',[])));hit=flag(q)
