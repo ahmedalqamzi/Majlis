@@ -19,7 +19,7 @@ for src, (cid, name, q) in ROUNDS.items():
         art, ans, pts, extra = (line.split("|") + [""])[:4]
         x = {"q": q, "a": ans, "p": int(pts), "pic": art, "must": True}
         if src == "cars":
-            x["a"] = f"{ans} ({extra})"; x["alt"] = [ans]
+            x["a"] = f"{ans} ({extra})"
         elif src == "places":
             x["a"] = f"{ans} ({extra})"; x["alt"] = [ans, extra]
         elif extra:
