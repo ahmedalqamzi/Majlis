@@ -1,0 +1,983 @@
+{
+ "id": "pr_animals",
+ "name": "Name That Animal",
+ "questions": [
+  {
+   "q": "What animal is this?",
+   "a": "Arabian oryx",
+   "p": 200,
+   "pic": "Arabian oryx",
+   "must": true,
+   "alt": [
+    "Oryx",
+    "Maha"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Camel",
+   "p": 200,
+   "pic": "Dromedary",
+   "must": true,
+   "alt": [
+    "Dromedary",
+    "Arabian camel"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Falcon",
+   "p": 200,
+   "pic": "Saker falcon",
+   "must": true,
+   "alt": [
+    "Saker falcon"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Arabian horse",
+   "p": 200,
+   "pic": "Arabian horse",
+   "must": true,
+   "alt": [
+    "Horse"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Caracal",
+   "p": 400,
+   "pic": "Caracal",
+   "must": true,
+   "alt": [
+    "Desert lynx"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Arabian leopard",
+   "p": 400,
+   "pic": "Arabian leopard",
+   "must": true,
+   "alt": [
+    "Leopard"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Sand cat",
+   "p": 600,
+   "pic": "Sand cat",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Fennec fox",
+   "p": 400,
+   "pic": "Fennec fox",
+   "must": true,
+   "alt": [
+    "Fennec"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Red fox",
+   "p": 600,
+   "pic": "Arabian red fox",
+   "must": true,
+   "alt": [
+    "Fox"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Dugong",
+   "p": 400,
+   "pic": "Dugong",
+   "must": true,
+   "alt": [
+    "Sea cow"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Whale shark",
+   "p": 400,
+   "pic": "Whale shark",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Hawksbill turtle",
+   "p": 600,
+   "pic": "Hawksbill sea turtle",
+   "must": true,
+   "alt": [
+    "Sea turtle",
+    "Turtle"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Flamingo",
+   "p": 200,
+   "pic": "Greater flamingo",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Houbara bustard",
+   "p": 600,
+   "pic": "Houbara bustard",
+   "must": true,
+   "alt": [
+    "Houbara",
+    "Bustard"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Spiny-tailed lizard",
+   "p": 600,
+   "pic": "Spiny-tailed lizard",
+   "must": true,
+   "alt": [
+    "Dhub",
+    "Uromastyx"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Gazelle",
+   "p": 400,
+   "pic": "Arabian sand gazelle",
+   "must": true,
+   "alt": [
+    "Sand gazelle",
+    "Reem"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Lion",
+   "p": 200,
+   "pic": "Lion",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Tiger",
+   "p": 200,
+   "pic": "Tiger",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Cheetah",
+   "p": 200,
+   "pic": "Cheetah",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Leopard",
+   "p": 200,
+   "pic": "Leopard",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Jaguar",
+   "p": 400,
+   "pic": "Jaguar",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Snow leopard",
+   "p": 400,
+   "pic": "Snow leopard",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Lynx",
+   "p": 400,
+   "pic": "Lynx",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Ocelot",
+   "p": 600,
+   "pic": "Ocelot",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Serval",
+   "p": 600,
+   "pic": "Serval",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Elephant",
+   "p": 200,
+   "pic": "African elephant",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Giraffe",
+   "p": 200,
+   "pic": "Giraffe",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Zebra",
+   "p": 200,
+   "pic": "Plains zebra",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Hippopotamus",
+   "p": 200,
+   "pic": "Hippopotamus",
+   "must": true,
+   "alt": [
+    "Hippo"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Rhinoceros",
+   "p": 200,
+   "pic": "White rhinoceros",
+   "must": true,
+   "alt": [
+    "Rhino"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Okapi",
+   "p": 600,
+   "pic": "Okapi",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Gorilla",
+   "p": 200,
+   "pic": "Gorilla",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Chimpanzee",
+   "p": 200,
+   "pic": "Chimpanzee",
+   "must": true,
+   "alt": [
+    "Chimp"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Orangutan",
+   "p": 200,
+   "pic": "Orangutan",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Mandrill",
+   "p": 400,
+   "pic": "Mandrill",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Proboscis monkey",
+   "p": 600,
+   "pic": "Proboscis monkey",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Lemur",
+   "p": 400,
+   "pic": "Lemur",
+   "must": true,
+   "alt": [
+    "Ring-tailed lemur"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Aye-aye",
+   "p": 600,
+   "pic": "Aye-aye",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Meerkat",
+   "p": 200,
+   "pic": "Meerkat",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Warthog",
+   "p": 400,
+   "pic": "Warthog",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Hyena",
+   "p": 400,
+   "pic": "Spotted hyena",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Aardvark",
+   "p": 600,
+   "pic": "Aardvark",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Pangolin",
+   "p": 600,
+   "pic": "Pangolin",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Giant panda",
+   "p": 200,
+   "pic": "Giant panda",
+   "must": true,
+   "alt": [
+    "Panda"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Red panda",
+   "p": 400,
+   "pic": "Red panda",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Koala",
+   "p": 200,
+   "pic": "Koala",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Kangaroo",
+   "p": 200,
+   "pic": "Kangaroo",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Wombat",
+   "p": 600,
+   "pic": "Wombat",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Platypus",
+   "p": 400,
+   "pic": "Platypus",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Echidna",
+   "p": 600,
+   "pic": "Echidna",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Quokka",
+   "p": 600,
+   "pic": "Quokka",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Tasmanian devil",
+   "p": 600,
+   "pic": "Tasmanian devil",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Sloth",
+   "p": 200,
+   "pic": "Sloth",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Anteater",
+   "p": 400,
+   "pic": "Anteater",
+   "must": true,
+   "alt": [
+    "Giant anteater"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Armadillo",
+   "p": 400,
+   "pic": "Armadillo",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Capybara",
+   "p": 400,
+   "pic": "Capybara",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Tapir",
+   "p": 600,
+   "pic": "Tapir",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Llama",
+   "p": 400,
+   "pic": "Llama",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Alpaca",
+   "p": 400,
+   "pic": "Alpaca",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Polar bear",
+   "p": 200,
+   "pic": "Polar bear",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Brown bear",
+   "p": 200,
+   "pic": "Brown bear",
+   "must": true,
+   "alt": [
+    "Grizzly bear",
+    "Bear"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Wolf",
+   "p": 200,
+   "pic": "Gray wolf",
+   "must": true,
+   "alt": [
+    "Grey wolf"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Arctic fox",
+   "p": 400,
+   "pic": "Arctic fox",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Moose",
+   "p": 400,
+   "pic": "Moose",
+   "must": true,
+   "alt": [
+    "Elk"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Reindeer",
+   "p": 200,
+   "pic": "Reindeer",
+   "must": true,
+   "alt": [
+    "Caribou"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Bison",
+   "p": 400,
+   "pic": "Bison",
+   "must": true,
+   "alt": [
+    "Buffalo"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Beaver",
+   "p": 400,
+   "pic": "Beaver",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Raccoon",
+   "p": 200,
+   "pic": "Raccoon",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Skunk",
+   "p": 400,
+   "pic": "Skunk",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Hedgehog",
+   "p": 200,
+   "pic": "Hedgehog",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Porcupine",
+   "p": 400,
+   "pic": "Porcupine",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Mole",
+   "p": 600,
+   "pic": "Mole (animal)",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Walrus",
+   "p": 200,
+   "pic": "Walrus",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Narwhal",
+   "p": 400,
+   "pic": "Narwhal",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Orca",
+   "p": 200,
+   "pic": "Orca",
+   "must": true,
+   "alt": [
+    "Killer whale"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Beluga",
+   "p": 400,
+   "pic": "Beluga whale",
+   "must": true,
+   "alt": [
+    "Beluga whale"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Humpback whale",
+   "p": 400,
+   "pic": "Humpback whale",
+   "must": true,
+   "alt": [
+    "Whale"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Dolphin",
+   "p": 200,
+   "pic": "Bottlenose dolphin",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Manatee",
+   "p": 600,
+   "pic": "Manatee",
+   "must": true,
+   "alt": [
+    "Sea cow"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Sea otter",
+   "p": 400,
+   "pic": "Sea otter",
+   "must": true,
+   "alt": [
+    "Otter"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Hammerhead shark",
+   "p": 200,
+   "pic": "Hammerhead shark",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Great white shark",
+   "p": 200,
+   "pic": "Great white shark",
+   "must": true,
+   "alt": [
+    "Shark"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Manta ray",
+   "p": 400,
+   "pic": "Manta ray",
+   "must": true,
+   "alt": [
+    "Ray"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Octopus",
+   "p": 200,
+   "pic": "Octopus",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Seahorse",
+   "p": 200,
+   "pic": "Seahorse",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Clownfish",
+   "p": 200,
+   "pic": "Clownfish",
+   "must": true,
+   "alt": [
+    "Anemonefish"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Pufferfish",
+   "p": 400,
+   "pic": "Pufferfish",
+   "must": true,
+   "alt": [
+    "Blowfish",
+    "Fugu"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Lionfish",
+   "p": 600,
+   "pic": "Lionfish",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Jellyfish",
+   "p": 200,
+   "pic": "Jellyfish",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Starfish",
+   "p": 200,
+   "pic": "Starfish",
+   "must": true,
+   "alt": [
+    "Sea star"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Axolotl",
+   "p": 400,
+   "pic": "Axolotl",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Chameleon",
+   "p": 200,
+   "pic": "Chameleon",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Komodo dragon",
+   "p": 400,
+   "pic": "Komodo dragon",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Gila monster",
+   "p": 600,
+   "pic": "Gila monster",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Frilled lizard",
+   "p": 600,
+   "pic": "Frilled lizard",
+   "must": true,
+   "alt": [
+    "Frill-necked lizard"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "King cobra",
+   "p": 400,
+   "pic": "King cobra",
+   "must": true,
+   "alt": [
+    "Cobra"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Crocodile",
+   "p": 200,
+   "pic": "Saltwater crocodile",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Alligator",
+   "p": 400,
+   "pic": "American alligator",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Giant tortoise",
+   "p": 400,
+   "pic": "Galápagos tortoise",
+   "must": true,
+   "alt": [
+    "Galapagos tortoise",
+    "Tortoise"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Poison dart frog",
+   "p": 400,
+   "pic": "Poison dart frog",
+   "must": true,
+   "alt": [
+    "Poison frog"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Penguin",
+   "p": 200,
+   "pic": "Emperor penguin",
+   "must": true,
+   "alt": [
+    "Emperor penguin"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Ostrich",
+   "p": 200,
+   "pic": "Ostrich",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Emu",
+   "p": 400,
+   "pic": "Emu",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Peacock",
+   "p": 200,
+   "pic": "Peafowl",
+   "must": true,
+   "alt": [
+    "Peafowl"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Toucan",
+   "p": 200,
+   "pic": "Toucan",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Macaw",
+   "p": 400,
+   "pic": "Scarlet macaw",
+   "must": true,
+   "alt": [
+    "Parrot"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Bald eagle",
+   "p": 200,
+   "pic": "Bald eagle",
+   "must": true,
+   "alt": [
+    "Eagle"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Snowy owl",
+   "p": 400,
+   "pic": "Snowy owl",
+   "must": true,
+   "alt": [
+    "Owl"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Kingfisher",
+   "p": 400,
+   "pic": "Kingfisher",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Hummingbird",
+   "p": 400,
+   "pic": "Hummingbird",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Pelican",
+   "p": 400,
+   "pic": "Pelican",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Shoebill",
+   "p": 600,
+   "pic": "Shoebill",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Kiwi",
+   "p": 400,
+   "pic": "Kiwi (bird)",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Secretary bird",
+   "p": 600,
+   "pic": "Secretary bird",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Puffin",
+   "p": 400,
+   "pic": "Atlantic puffin",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Monarch butterfly",
+   "p": 400,
+   "pic": "Monarch butterfly",
+   "must": true,
+   "alt": [
+    "Butterfly"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Praying mantis",
+   "p": 400,
+   "pic": "Praying mantis",
+   "must": true,
+   "alt": [
+    "Mantis"
+   ]
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Tarantula",
+   "p": 400,
+   "pic": "Tarantula",
+   "must": true
+  },
+  {
+   "q": "What animal is this?",
+   "a": "Scorpion",
+   "p": 200,
+   "pic": "Scorpion",
+   "must": true
+  }
+ ]
+}

@@ -1,0 +1,1535 @@
+{
+ "id": "pr_places",
+ "name": "Where Is This?",
+ "questions": [
+  {
+   "q": "Where is this?",
+   "a": "Dubai (Burj Khalifa)",
+   "p": 200,
+   "pic": "Burj Khalifa",
+   "must": true,
+   "alt": [
+    "Dubai",
+    "Burj Khalifa"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Dubai (Burj Al Arab)",
+   "p": 200,
+   "pic": "Burj Al Arab",
+   "must": true,
+   "alt": [
+    "Dubai",
+    "Burj Al Arab"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Dubai (Museum of the Future)",
+   "p": 200,
+   "pic": "Museum of the Future",
+   "must": true,
+   "alt": [
+    "Dubai",
+    "Museum of the Future"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Dubai (Dubai Frame)",
+   "p": 200,
+   "pic": "Dubai Frame",
+   "must": true,
+   "alt": [
+    "Dubai",
+    "Dubai Frame"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Dubai (Palm Jumeirah)",
+   "p": 200,
+   "pic": "Palm Jumeirah",
+   "must": true,
+   "alt": [
+    "Dubai",
+    "Palm Jumeirah"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Dubai (Atlantis The Palm)",
+   "p": 400,
+   "pic": "Atlantis The Palm",
+   "must": true,
+   "alt": [
+    "Dubai",
+    "Atlantis The Palm"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Abu Dhabi (Sheikh Zayed Grand Mosque)",
+   "p": 200,
+   "pic": "Sheikh Zayed Grand Mosque",
+   "must": true,
+   "alt": [
+    "Abu Dhabi",
+    "Sheikh Zayed Grand Mosque"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Abu Dhabi (Louvre Abu Dhabi)",
+   "p": 200,
+   "pic": "Louvre Abu Dhabi",
+   "must": true,
+   "alt": [
+    "Abu Dhabi",
+    "Louvre Abu Dhabi"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Abu Dhabi (Qasr Al Watan)",
+   "p": 400,
+   "pic": "Qasr Al Watan",
+   "must": true,
+   "alt": [
+    "Abu Dhabi",
+    "Qasr Al Watan"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Abu Dhabi (Emirates Palace)",
+   "p": 400,
+   "pic": "Emirates Palace",
+   "must": true,
+   "alt": [
+    "Abu Dhabi",
+    "Emirates Palace"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Abu Dhabi (Ferrari World)",
+   "p": 200,
+   "pic": "Ferrari World",
+   "must": true,
+   "alt": [
+    "Abu Dhabi",
+    "Ferrari World"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Ras Al Khaimah (Jebel Jais)",
+   "p": 400,
+   "pic": "Jebel Jais",
+   "must": true,
+   "alt": [
+    "Ras Al Khaimah",
+    "Jebel Jais"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Sharjah (Al Noor Island)",
+   "p": 600,
+   "pic": "Al Noor Island",
+   "must": true,
+   "alt": [
+    "Sharjah",
+    "Al Noor Island"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Al Ain (Jahili Fort)",
+   "p": 600,
+   "pic": "Jahili Fort",
+   "must": true,
+   "alt": [
+    "Al Ain",
+    "Jahili Fort"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Riyadh (Kingdom Centre)",
+   "p": 400,
+   "pic": "Kingdom Centre",
+   "must": true,
+   "alt": [
+    "Riyadh",
+    "Kingdom Centre"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Riyadh (Al Faisaliyah Center)",
+   "p": 400,
+   "pic": "Al Faisaliyah Center",
+   "must": true,
+   "alt": [
+    "Riyadh",
+    "Al Faisaliyah Center"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Riyadh (Masmak Fort)",
+   "p": 600,
+   "pic": "Masmak fort",
+   "must": true,
+   "alt": [
+    "Riyadh",
+    "Masmak Fort"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Saudi Arabia (Hegra (Al-Ula))",
+   "p": 400,
+   "pic": "Hegra (Mada'in Salih)",
+   "must": true,
+   "alt": [
+    "Saudi Arabia",
+    "Hegra (Al-Ula)"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Saudi Arabia (Elephant Rock, Al-Ula)",
+   "p": 600,
+   "pic": "Elephant Rock (Saudi Arabia)",
+   "must": true,
+   "alt": [
+    "Saudi Arabia",
+    "Elephant Rock, Al-Ula"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Jeddah (King Fahd's Fountain)",
+   "p": 400,
+   "pic": "King Fahd's Fountain",
+   "must": true,
+   "alt": [
+    "Jeddah",
+    "King Fahd's Fountain"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Kuwait City (Kuwait Towers)",
+   "p": 200,
+   "pic": "Kuwait Towers",
+   "must": true,
+   "alt": [
+    "Kuwait City",
+    "Kuwait Towers"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Doha (Museum of Islamic Art)",
+   "p": 400,
+   "pic": "Museum of Islamic Art, Doha",
+   "must": true,
+   "alt": [
+    "Doha",
+    "Museum of Islamic Art"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Qatar (Lusail Stadium)",
+   "p": 400,
+   "pic": "Lusail Stadium",
+   "must": true,
+   "alt": [
+    "Qatar",
+    "Lusail Stadium"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Manama (Bahrain World Trade Center)",
+   "p": 400,
+   "pic": "Bahrain World Trade Center",
+   "must": true,
+   "alt": [
+    "Manama",
+    "Bahrain World Trade Center"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Muscat (Sultan Qaboos Grand Mosque)",
+   "p": 400,
+   "pic": "Sultan Qaboos Grand Mosque",
+   "must": true,
+   "alt": [
+    "Muscat",
+    "Sultan Qaboos Grand Mosque"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Jordan (Petra)",
+   "p": 200,
+   "pic": "Petra",
+   "must": true,
+   "alt": [
+    "Jordan",
+    "Petra"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Jordan (Wadi Rum)",
+   "p": 400,
+   "pic": "Wadi Rum",
+   "must": true,
+   "alt": [
+    "Jordan",
+    "Wadi Rum"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Lebanon (Baalbek)",
+   "p": 600,
+   "pic": "Baalbek",
+   "must": true,
+   "alt": [
+    "Lebanon",
+    "Baalbek"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Beirut (Raouché (Pigeon Rocks))",
+   "p": 600,
+   "pic": "Pigeon Rocks",
+   "must": true,
+   "alt": [
+    "Beirut",
+    "Raouché (Pigeon Rocks)"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Egypt (Great Pyramid of Giza)",
+   "p": 200,
+   "pic": "Great Pyramid of Giza",
+   "must": true,
+   "alt": [
+    "Egypt",
+    "Great Pyramid of Giza"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Egypt (Great Sphinx)",
+   "p": 200,
+   "pic": "Great Sphinx of Giza",
+   "must": true,
+   "alt": [
+    "Egypt",
+    "Great Sphinx"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Egypt (Abu Simbel)",
+   "p": 400,
+   "pic": "Abu Simbel",
+   "must": true,
+   "alt": [
+    "Egypt",
+    "Abu Simbel"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Egypt (Karnak Temple)",
+   "p": 600,
+   "pic": "Karnak",
+   "must": true,
+   "alt": [
+    "Egypt",
+    "Karnak Temple"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Cairo (Cairo Tower)",
+   "p": 600,
+   "pic": "Cairo Tower",
+   "must": true,
+   "alt": [
+    "Cairo",
+    "Cairo Tower"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Casablanca (Hassan II Mosque)",
+   "p": 400,
+   "pic": "Hassan II Mosque",
+   "must": true,
+   "alt": [
+    "Casablanca",
+    "Hassan II Mosque"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Morocco (Chefchaouen)",
+   "p": 400,
+   "pic": "Chefchaouen",
+   "must": true,
+   "alt": [
+    "Morocco",
+    "Chefchaouen"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Marrakesh (Jemaa el-Fnaa)",
+   "p": 400,
+   "pic": "Jemaa el-Fnaa",
+   "must": true,
+   "alt": [
+    "Marrakesh",
+    "Jemaa el-Fnaa"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Tunisia (Sidi Bou Said)",
+   "p": 600,
+   "pic": "Sidi Bou Said",
+   "must": true,
+   "alt": [
+    "Tunisia",
+    "Sidi Bou Said"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Istanbul (Hagia Sophia)",
+   "p": 200,
+   "pic": "Hagia Sophia",
+   "must": true,
+   "alt": [
+    "Istanbul",
+    "Hagia Sophia"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Istanbul (Blue Mosque)",
+   "p": 200,
+   "pic": "Blue Mosque",
+   "must": true,
+   "alt": [
+    "Istanbul",
+    "Blue Mosque"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Istanbul (Galata Tower)",
+   "p": 400,
+   "pic": "Galata Tower",
+   "must": true,
+   "alt": [
+    "Istanbul",
+    "Galata Tower"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Turkey (Cappadocia)",
+   "p": 400,
+   "pic": "Cappadocia",
+   "must": true,
+   "alt": [
+    "Turkey",
+    "Cappadocia"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Turkey (Pamukkale)",
+   "p": 600,
+   "pic": "Pamukkale",
+   "must": true,
+   "alt": [
+    "Turkey",
+    "Pamukkale"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Tehran (Azadi Tower)",
+   "p": 600,
+   "pic": "Azadi Tower",
+   "must": true,
+   "alt": [
+    "Tehran",
+    "Azadi Tower"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Paris (Eiffel Tower)",
+   "p": 200,
+   "pic": "Eiffel Tower",
+   "must": true,
+   "alt": [
+    "Paris",
+    "Eiffel Tower"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Paris (Arc de Triomphe)",
+   "p": 200,
+   "pic": "Arc de Triomphe",
+   "must": true,
+   "alt": [
+    "Paris",
+    "Arc de Triomphe"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Paris (Louvre Pyramid)",
+   "p": 200,
+   "pic": "Louvre Pyramid",
+   "must": true,
+   "alt": [
+    "Paris",
+    "Louvre Pyramid"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Paris (Notre-Dame)",
+   "p": 200,
+   "pic": "Notre-Dame de Paris",
+   "must": true,
+   "alt": [
+    "Paris",
+    "Notre-Dame"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "France (Mont-Saint-Michel)",
+   "p": 400,
+   "pic": "Mont-Saint-Michel",
+   "must": true,
+   "alt": [
+    "France",
+    "Mont-Saint-Michel"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "London (Big Ben)",
+   "p": 200,
+   "pic": "Big Ben",
+   "must": true,
+   "alt": [
+    "London",
+    "Big Ben"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "London (Tower Bridge)",
+   "p": 200,
+   "pic": "Tower Bridge",
+   "must": true,
+   "alt": [
+    "London",
+    "Tower Bridge"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "London (London Eye)",
+   "p": 200,
+   "pic": "London Eye",
+   "must": true,
+   "alt": [
+    "London",
+    "London Eye"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "London (Buckingham Palace)",
+   "p": 200,
+   "pic": "Buckingham Palace",
+   "must": true,
+   "alt": [
+    "London",
+    "Buckingham Palace"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "London (The Shard)",
+   "p": 400,
+   "pic": "The Shard",
+   "must": true,
+   "alt": [
+    "London",
+    "The Shard"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "England (Stonehenge)",
+   "p": 200,
+   "pic": "Stonehenge",
+   "must": true,
+   "alt": [
+    "England",
+    "Stonehenge"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Edinburgh (Edinburgh Castle)",
+   "p": 400,
+   "pic": "Edinburgh Castle",
+   "must": true,
+   "alt": [
+    "Edinburgh",
+    "Edinburgh Castle"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Rome (Colosseum)",
+   "p": 200,
+   "pic": "Colosseum",
+   "must": true,
+   "alt": [
+    "Rome",
+    "Colosseum"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Rome (Trevi Fountain)",
+   "p": 200,
+   "pic": "Trevi Fountain",
+   "must": true,
+   "alt": [
+    "Rome",
+    "Trevi Fountain"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Pisa (Leaning Tower)",
+   "p": 200,
+   "pic": "Leaning Tower of Pisa",
+   "must": true,
+   "alt": [
+    "Pisa",
+    "Leaning Tower"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Vatican City (St. Peter's Basilica)",
+   "p": 200,
+   "pic": "St. Peter's Basilica",
+   "must": true,
+   "alt": [
+    "Vatican City",
+    "St. Peter's Basilica"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Venice (Grand Canal)",
+   "p": 200,
+   "pic": "Grand Canal (Venice)",
+   "must": true,
+   "alt": [
+    "Venice",
+    "Grand Canal"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Milan (Milan Cathedral)",
+   "p": 400,
+   "pic": "Milan Cathedral",
+   "must": true,
+   "alt": [
+    "Milan",
+    "Milan Cathedral"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Barcelona (Sagrada Família)",
+   "p": 200,
+   "pic": "Sagrada Família",
+   "must": true,
+   "alt": [
+    "Barcelona",
+    "Sagrada Família"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Barcelona (Park Güell)",
+   "p": 400,
+   "pic": "Park Güell",
+   "must": true,
+   "alt": [
+    "Barcelona",
+    "Park Güell"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Granada (Alhambra)",
+   "p": 400,
+   "pic": "Alhambra",
+   "must": true,
+   "alt": [
+    "Granada",
+    "Alhambra"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Berlin (Brandenburg Gate)",
+   "p": 200,
+   "pic": "Brandenburg Gate",
+   "must": true,
+   "alt": [
+    "Berlin",
+    "Brandenburg Gate"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Germany (Neuschwanstein Castle)",
+   "p": 400,
+   "pic": "Neuschwanstein Castle",
+   "must": true,
+   "alt": [
+    "Germany",
+    "Neuschwanstein Castle"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Cologne (Cologne Cathedral)",
+   "p": 600,
+   "pic": "Cologne Cathedral",
+   "must": true,
+   "alt": [
+    "Cologne",
+    "Cologne Cathedral"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Brussels (Atomium)",
+   "p": 400,
+   "pic": "Atomium",
+   "must": true,
+   "alt": [
+    "Brussels",
+    "Atomium"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Athens (Acropolis)",
+   "p": 200,
+   "pic": "Acropolis of Athens",
+   "must": true,
+   "alt": [
+    "Athens",
+    "Acropolis"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Greece (Santorini)",
+   "p": 200,
+   "pic": "Santorini",
+   "must": true,
+   "alt": [
+    "Greece",
+    "Santorini"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Moscow (St Basil's Cathedral)",
+   "p": 200,
+   "pic": "Saint Basil's Cathedral",
+   "must": true,
+   "alt": [
+    "Moscow",
+    "St Basil's Cathedral"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Prague (Charles Bridge)",
+   "p": 400,
+   "pic": "Charles Bridge",
+   "must": true,
+   "alt": [
+    "Prague",
+    "Charles Bridge"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Budapest (Hungarian Parliament)",
+   "p": 400,
+   "pic": "Hungarian Parliament Building",
+   "must": true,
+   "alt": [
+    "Budapest",
+    "Hungarian Parliament"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Lisbon (Belém Tower)",
+   "p": 600,
+   "pic": "Belém Tower",
+   "must": true,
+   "alt": [
+    "Lisbon",
+    "Belém Tower"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Copenhagen (The Little Mermaid)",
+   "p": 600,
+   "pic": "Little Mermaid (statue)",
+   "must": true,
+   "alt": [
+    "Copenhagen",
+    "The Little Mermaid"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "New York City (Statue of Liberty)",
+   "p": 200,
+   "pic": "Statue of Liberty",
+   "must": true,
+   "alt": [
+    "New York City",
+    "Statue of Liberty"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "New York City (Empire State Building)",
+   "p": 200,
+   "pic": "Empire State Building",
+   "must": true,
+   "alt": [
+    "New York City",
+    "Empire State Building"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "New York City (Times Square)",
+   "p": 200,
+   "pic": "Times Square",
+   "must": true,
+   "alt": [
+    "New York City",
+    "Times Square"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "New York City (Brooklyn Bridge)",
+   "p": 400,
+   "pic": "Brooklyn Bridge",
+   "must": true,
+   "alt": [
+    "New York City",
+    "Brooklyn Bridge"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "San Francisco (Golden Gate Bridge)",
+   "p": 200,
+   "pic": "Golden Gate Bridge",
+   "must": true,
+   "alt": [
+    "San Francisco",
+    "Golden Gate Bridge"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Los Angeles (Hollywood Sign)",
+   "p": 200,
+   "pic": "Hollywood Sign",
+   "must": true,
+   "alt": [
+    "Los Angeles",
+    "Hollywood Sign"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Las Vegas (Las Vegas Strip)",
+   "p": 200,
+   "pic": "Las Vegas Strip",
+   "must": true,
+   "alt": [
+    "Las Vegas",
+    "Las Vegas Strip"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Washington, D.C. (White House)",
+   "p": 200,
+   "pic": "White House",
+   "must": true,
+   "alt": [
+    "Washington, D.C.",
+    "White House"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Washington, D.C. (Capitol)",
+   "p": 400,
+   "pic": "United States Capitol",
+   "must": true,
+   "alt": [
+    "Washington, D.C.",
+    "Capitol"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "United States (Mount Rushmore)",
+   "p": 200,
+   "pic": "Mount Rushmore",
+   "must": true,
+   "alt": [
+    "United States",
+    "Mount Rushmore"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "United States (Grand Canyon)",
+   "p": 200,
+   "pic": "Grand Canyon",
+   "must": true,
+   "alt": [
+    "United States",
+    "Grand Canyon"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Seattle (Space Needle)",
+   "p": 400,
+   "pic": "Space Needle",
+   "must": true,
+   "alt": [
+    "Seattle",
+    "Space Needle"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "St. Louis (Gateway Arch)",
+   "p": 600,
+   "pic": "Gateway Arch",
+   "must": true,
+   "alt": [
+    "St. Louis",
+    "Gateway Arch"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Toronto (CN Tower)",
+   "p": 400,
+   "pic": "CN Tower",
+   "must": true,
+   "alt": [
+    "Toronto",
+    "CN Tower"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Canada and United States (Niagara Falls)",
+   "p": 400,
+   "pic": "Niagara Falls",
+   "must": true,
+   "alt": [
+    "Canada and United States",
+    "Niagara Falls"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Rio de Janeiro (Christ the Redeemer)",
+   "p": 200,
+   "pic": "Christ the Redeemer (statue)",
+   "must": true,
+   "alt": [
+    "Rio de Janeiro",
+    "Christ the Redeemer"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Rio de Janeiro (Sugarloaf Mountain)",
+   "p": 600,
+   "pic": "Sugarloaf Mountain",
+   "must": true,
+   "alt": [
+    "Rio de Janeiro",
+    "Sugarloaf Mountain"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Peru (Machu Picchu)",
+   "p": 200,
+   "pic": "Machu Picchu",
+   "must": true,
+   "alt": [
+    "Peru",
+    "Machu Picchu"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Mexico (Chichen Itza)",
+   "p": 200,
+   "pic": "Chichen Itza",
+   "must": true,
+   "alt": [
+    "Mexico",
+    "Chichen Itza"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Easter Island (Chile) (Moai)",
+   "p": 400,
+   "pic": "Moai",
+   "must": true,
+   "alt": [
+    "Easter Island (Chile)",
+    "Moai"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Argentina and Brazil (Iguazu Falls)",
+   "p": 600,
+   "pic": "Iguazu Falls",
+   "must": true,
+   "alt": [
+    "Argentina and Brazil",
+    "Iguazu Falls"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Sydney (Sydney Opera House)",
+   "p": 200,
+   "pic": "Sydney Opera House",
+   "must": true,
+   "alt": [
+    "Sydney",
+    "Sydney Opera House"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Sydney (Sydney Harbour Bridge)",
+   "p": 400,
+   "pic": "Sydney Harbour Bridge",
+   "must": true,
+   "alt": [
+    "Sydney",
+    "Sydney Harbour Bridge"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Australia (Uluru)",
+   "p": 400,
+   "pic": "Uluru",
+   "must": true,
+   "alt": [
+    "Australia",
+    "Uluru"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Agra (Taj Mahal)",
+   "p": 200,
+   "pic": "Taj Mahal",
+   "must": true,
+   "alt": [
+    "Agra",
+    "Taj Mahal"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "New Delhi (India Gate)",
+   "p": 400,
+   "pic": "India Gate",
+   "must": true,
+   "alt": [
+    "New Delhi",
+    "India Gate"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Mumbai (Gateway of India)",
+   "p": 400,
+   "pic": "Gateway of India",
+   "must": true,
+   "alt": [
+    "Mumbai",
+    "Gateway of India"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Amritsar (Golden Temple)",
+   "p": 600,
+   "pic": "Golden Temple",
+   "must": true,
+   "alt": [
+    "Amritsar",
+    "Golden Temple"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Lahore (Badshahi Mosque)",
+   "p": 600,
+   "pic": "Badshahi Mosque",
+   "must": true,
+   "alt": [
+    "Lahore",
+    "Badshahi Mosque"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Islamabad (Faisal Mosque)",
+   "p": 600,
+   "pic": "Faisal Mosque",
+   "must": true,
+   "alt": [
+    "Islamabad",
+    "Faisal Mosque"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "China (Great Wall)",
+   "p": 200,
+   "pic": "Great Wall of China",
+   "must": true,
+   "alt": [
+    "China",
+    "Great Wall"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Beijing (Forbidden City)",
+   "p": 200,
+   "pic": "Forbidden City",
+   "must": true,
+   "alt": [
+    "Beijing",
+    "Forbidden City"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Shanghai (Oriental Pearl Tower)",
+   "p": 400,
+   "pic": "Oriental Pearl Tower",
+   "must": true,
+   "alt": [
+    "Shanghai",
+    "Oriental Pearl Tower"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Lhasa (Potala Palace)",
+   "p": 600,
+   "pic": "Potala Palace",
+   "must": true,
+   "alt": [
+    "Lhasa",
+    "Potala Palace"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Japan (Mount Fuji)",
+   "p": 200,
+   "pic": "Mount Fuji",
+   "must": true,
+   "alt": [
+    "Japan",
+    "Mount Fuji"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Tokyo (Tokyo Tower)",
+   "p": 200,
+   "pic": "Tokyo Tower",
+   "must": true,
+   "alt": [
+    "Tokyo",
+    "Tokyo Tower"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Tokyo (Tokyo Skytree)",
+   "p": 400,
+   "pic": "Tokyo Skytree",
+   "must": true,
+   "alt": [
+    "Tokyo",
+    "Tokyo Skytree"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Kyoto (Fushimi Inari Shrine)",
+   "p": 400,
+   "pic": "Fushimi Inari-taisha",
+   "must": true,
+   "alt": [
+    "Kyoto",
+    "Fushimi Inari Shrine"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Kyoto (Kinkaku-ji (Golden Pavilion))",
+   "p": 400,
+   "pic": "Kinkaku-ji",
+   "must": true,
+   "alt": [
+    "Kyoto",
+    "Kinkaku-ji (Golden Pavilion)"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Japan (Himeji Castle)",
+   "p": 600,
+   "pic": "Himeji Castle",
+   "must": true,
+   "alt": [
+    "Japan",
+    "Himeji Castle"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Japan (Itsukushima Shrine)",
+   "p": 600,
+   "pic": "Itsukushima Shrine",
+   "must": true,
+   "alt": [
+    "Japan",
+    "Itsukushima Shrine"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Kuala Lumpur (Petronas Towers)",
+   "p": 200,
+   "pic": "Petronas Towers",
+   "must": true,
+   "alt": [
+    "Kuala Lumpur",
+    "Petronas Towers"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Singapore (Marina Bay Sands)",
+   "p": 200,
+   "pic": "Marina Bay Sands",
+   "must": true,
+   "alt": [
+    "Singapore",
+    "Marina Bay Sands"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Singapore (Merlion)",
+   "p": 400,
+   "pic": "Merlion",
+   "must": true,
+   "alt": [
+    "Singapore",
+    "Merlion"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Singapore (Gardens by the Bay)",
+   "p": 400,
+   "pic": "Gardens by the Bay",
+   "must": true,
+   "alt": [
+    "Singapore",
+    "Gardens by the Bay"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Cambodia (Angkor Wat)",
+   "p": 200,
+   "pic": "Angkor Wat",
+   "must": true,
+   "alt": [
+    "Cambodia",
+    "Angkor Wat"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Indonesia (Borobudur)",
+   "p": 600,
+   "pic": "Borobudur",
+   "must": true,
+   "alt": [
+    "Indonesia",
+    "Borobudur"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Bangkok (Grand Palace)",
+   "p": 400,
+   "pic": "Grand Palace",
+   "must": true,
+   "alt": [
+    "Bangkok",
+    "Grand Palace"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Vietnam (Ha Long Bay)",
+   "p": 400,
+   "pic": "Halong Bay",
+   "must": true,
+   "alt": [
+    "Vietnam",
+    "Ha Long Bay"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Seoul (Lotte World Tower)",
+   "p": 600,
+   "pic": "Lotte World Tower",
+   "must": true,
+   "alt": [
+    "Seoul",
+    "Lotte World Tower"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Seoul (Gyeongbokgung)",
+   "p": 600,
+   "pic": "Gyeongbokgung",
+   "must": true,
+   "alt": [
+    "Seoul",
+    "Gyeongbokgung"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Cape Town (Table Mountain)",
+   "p": 400,
+   "pic": "Table Mountain",
+   "must": true,
+   "alt": [
+    "Cape Town",
+    "Table Mountain"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Zambia and Zimbabwe (Victoria Falls)",
+   "p": 400,
+   "pic": "Victoria Falls",
+   "must": true,
+   "alt": [
+    "Zambia and Zimbabwe",
+    "Victoria Falls"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Tanzania (Kilimanjaro)",
+   "p": 400,
+   "pic": "Mount Kilimanjaro",
+   "must": true,
+   "alt": [
+    "Tanzania",
+    "Kilimanjaro"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Mali (Great Mosque of Djenné)",
+   "p": 600,
+   "pic": "Great Mosque of Djenné",
+   "must": true,
+   "alt": [
+    "Mali",
+    "Great Mosque of Djenné"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Jerusalem (Dome of the Rock)",
+   "p": 200,
+   "pic": "Dome of the Rock",
+   "must": true,
+   "alt": [
+    "Jerusalem",
+    "Dome of the Rock"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Jerusalem (Al-Aqsa Mosque)",
+   "p": 200,
+   "pic": "Al-Aqsa Mosque",
+   "must": true,
+   "alt": [
+    "Jerusalem",
+    "Al-Aqsa Mosque"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Mecca (Kaaba)",
+   "p": 200,
+   "pic": "Kaaba",
+   "must": true,
+   "alt": [
+    "Mecca",
+    "Kaaba"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Medina (Prophet's Mosque)",
+   "p": 200,
+   "pic": "Al-Masjid an-Nabawi",
+   "must": true,
+   "alt": [
+    "Medina",
+    "Prophet's Mosque"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Mecca (Abraj Al Bait (Clock Tower))",
+   "p": 200,
+   "pic": "Abraj Al Bait",
+   "must": true,
+   "alt": [
+    "Mecca",
+    "Abraj Al Bait (Clock Tower)"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Iraq (Malwiya Minaret, Samarra)",
+   "p": 600,
+   "pic": "Great Mosque of Samarra",
+   "must": true,
+   "alt": [
+    "Iraq",
+    "Malwiya Minaret, Samarra"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Damascus (Umayyad Mosque)",
+   "p": 400,
+   "pic": "Umayyad Mosque",
+   "must": true,
+   "alt": [
+    "Damascus",
+    "Umayyad Mosque"
+   ]
+  },
+  {
+   "q": "Where is this?",
+   "a": "Syria (Krak des Chevaliers)",
+   "p": 600,
+   "pic": "Krak des Chevaliers",
+   "must": true,
+   "alt": [
+    "Syria",
+    "Krak des Chevaliers"
+   ]
+  }
+ ]
+}

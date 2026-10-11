@@ -1,0 +1,717 @@
+{
+ "id": "pr_dishes",
+ "name": "Name That Dish",
+ "questions": [
+  {
+   "q": "What is this dish called?",
+   "a": "Mandi",
+   "p": 200,
+   "pic": "Mandi (food)",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Kabsa",
+   "p": 200,
+   "pic": "Kabsa",
+   "must": true,
+   "alt": [
+    "Machboos",
+    "Majboos"
+   ]
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Harees",
+   "p": 400,
+   "pic": "Harees",
+   "must": true,
+   "alt": [
+    "Harissa"
+   ]
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Luqaimat",
+   "p": 200,
+   "pic": "Luqaimat",
+   "must": true,
+   "alt": [
+    "Lugaimat",
+    "Awameh"
+   ]
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Shawarma",
+   "p": 200,
+   "pic": "Shawarma",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Falafel",
+   "p": 200,
+   "pic": "Falafel",
+   "must": true,
+   "alt": [
+    "Taameya"
+   ]
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Hummus",
+   "p": 200,
+   "pic": "Hummus",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Tabbouleh",
+   "p": 200,
+   "pic": "Tabbouleh",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Fattoush",
+   "p": 400,
+   "pic": "Fattoush",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Moutabal",
+   "p": 400,
+   "pic": "Baba ghanoush",
+   "must": true,
+   "alt": [
+    "Baba ghanoush",
+    "Mutabbal"
+   ]
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Manakish",
+   "p": 400,
+   "pic": "Manakish",
+   "must": true,
+   "alt": [
+    "Manousheh",
+    "Zaatar bread"
+   ]
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Kibbeh",
+   "p": 400,
+   "pic": "Kibbeh",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Mansaf",
+   "p": 400,
+   "pic": "Mansaf",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Maqluba",
+   "p": 400,
+   "pic": "Maqluba",
+   "must": true,
+   "alt": [
+    "Maqlouba"
+   ]
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Kunafa",
+   "p": 200,
+   "pic": "Kunafa",
+   "must": true,
+   "alt": [
+    "Knafeh",
+    "Kanafeh"
+   ]
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Baklava",
+   "p": 200,
+   "pic": "Baklava",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Umm Ali",
+   "p": 400,
+   "pic": "Umm Ali",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Ful medames",
+   "p": 400,
+   "pic": "Ful medames",
+   "must": true,
+   "alt": [
+    "Foul"
+   ]
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Koshary",
+   "p": 400,
+   "pic": "Koshary",
+   "must": true,
+   "alt": [
+    "Koshari"
+   ]
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Molokhia",
+   "p": 600,
+   "pic": "Molokhia",
+   "must": true,
+   "alt": [
+    "Mulukhiyah"
+   ]
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Shakshouka",
+   "p": 400,
+   "pic": "Shakshouka",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Couscous",
+   "p": 200,
+   "pic": "Couscous",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Tagine",
+   "p": 200,
+   "pic": "Tajine",
+   "must": true,
+   "alt": [
+    "Tajine"
+   ]
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Harira",
+   "p": 600,
+   "pic": "Harira",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Vine leaves",
+   "p": 400,
+   "pic": "Dolma",
+   "must": true,
+   "alt": [
+    "Dolma",
+    "Warak enab"
+   ]
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Kofta",
+   "p": 400,
+   "pic": "Kofta",
+   "must": true,
+   "alt": [
+    "Kebab"
+   ]
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Doner kebab",
+   "p": 200,
+   "pic": "Döner kebab",
+   "must": true,
+   "alt": [
+    "Doner"
+   ]
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Lahmacun",
+   "p": 600,
+   "pic": "Lahmacun",
+   "must": true,
+   "alt": [
+    "Turkish pizza"
+   ]
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Turkish delight",
+   "p": 200,
+   "pic": "Turkish delight",
+   "must": true,
+   "alt": [
+    "Lokum"
+   ]
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Biryani",
+   "p": 200,
+   "pic": "Biryani",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Butter chicken",
+   "p": 200,
+   "pic": "Butter chicken",
+   "must": true,
+   "alt": [
+    "Murgh makhani"
+   ]
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Samosa",
+   "p": 200,
+   "pic": "Samosa",
+   "must": true,
+   "alt": [
+    "Sambousek"
+   ]
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Naan",
+   "p": 200,
+   "pic": "Naan",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Dosa",
+   "p": 400,
+   "pic": "Masala dosa",
+   "must": true,
+   "alt": [
+    "Masala dosa"
+   ]
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Gulab jamun",
+   "p": 400,
+   "pic": "Gulab jamun",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Pani puri",
+   "p": 600,
+   "pic": "Pani puri",
+   "must": true,
+   "alt": [
+    "Golgappa"
+   ]
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Sushi",
+   "p": 200,
+   "pic": "Sushi",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Ramen",
+   "p": 200,
+   "pic": "Ramen",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Tempura",
+   "p": 400,
+   "pic": "Tempura",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Takoyaki",
+   "p": 400,
+   "pic": "Takoyaki",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Okonomiyaki",
+   "p": 600,
+   "pic": "Okonomiyaki",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Onigiri",
+   "p": 400,
+   "pic": "Onigiri",
+   "must": true,
+   "alt": [
+    "Rice ball"
+   ]
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Mochi",
+   "p": 400,
+   "pic": "Mochi",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Kimchi",
+   "p": 400,
+   "pic": "Kimchi",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Bibimbap",
+   "p": 400,
+   "pic": "Bibimbap",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Tteokbokki",
+   "p": 600,
+   "pic": "Tteokbokki",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Dim sum",
+   "p": 200,
+   "pic": "Dim sum",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Peking duck",
+   "p": 400,
+   "pic": "Peking duck",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Hot pot",
+   "p": 600,
+   "pic": "Hot pot",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Pho",
+   "p": 400,
+   "pic": "Pho",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Pad thai",
+   "p": 200,
+   "pic": "Pad thai",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Tom yum",
+   "p": 400,
+   "pic": "Tom yum",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Satay",
+   "p": 400,
+   "pic": "Satay",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Nasi goreng",
+   "p": 400,
+   "pic": "Nasi goreng",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Pizza",
+   "p": 200,
+   "pic": "Pizza Margherita",
+   "must": true,
+   "alt": [
+    "Margherita"
+   ]
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Lasagne",
+   "p": 200,
+   "pic": "Lasagne",
+   "must": true,
+   "alt": [
+    "Lasagna"
+   ]
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Risotto",
+   "p": 400,
+   "pic": "Risotto",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Tiramisu",
+   "p": 200,
+   "pic": "Tiramisu",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Croissant",
+   "p": 200,
+   "pic": "Croissant",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Crepe",
+   "p": 200,
+   "pic": "Crêpe",
+   "must": true,
+   "alt": [
+    "Crêpe"
+   ]
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Macaron",
+   "p": 200,
+   "pic": "Macaron",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Ratatouille",
+   "p": 400,
+   "pic": "Ratatouille",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Creme brulee",
+   "p": 400,
+   "pic": "Crème brûlée",
+   "must": true,
+   "alt": [
+    "Crème brûlée"
+   ]
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Paella",
+   "p": 200,
+   "pic": "Paella",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Churros",
+   "p": 200,
+   "pic": "Churro",
+   "must": true,
+   "alt": [
+    "Churro"
+   ]
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Fish and chips",
+   "p": 200,
+   "pic": "Fish and chips",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Full English breakfast",
+   "p": 200,
+   "pic": "Full breakfast",
+   "must": true,
+   "alt": [
+    "English breakfast"
+   ]
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Scotch egg",
+   "p": 600,
+   "pic": "Scotch egg",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Pretzel",
+   "p": 200,
+   "pic": "Pretzel",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Fondue",
+   "p": 400,
+   "pic": "Fondue",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Burger",
+   "p": 200,
+   "pic": "Hamburger",
+   "must": true,
+   "alt": [
+    "Hamburger"
+   ]
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Hot dog",
+   "p": 200,
+   "pic": "Hot dog",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Pancakes",
+   "p": 200,
+   "pic": "Pancake",
+   "must": true,
+   "alt": [
+    "Pancake"
+   ]
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Bagel",
+   "p": 400,
+   "pic": "Bagel",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Poutine",
+   "p": 600,
+   "pic": "Poutine",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Taco",
+   "p": 200,
+   "pic": "Taco",
+   "must": true,
+   "alt": [
+    "Tacos"
+   ]
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Burrito",
+   "p": 200,
+   "pic": "Burrito",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Guacamole",
+   "p": 200,
+   "pic": "Guacamole",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Nachos",
+   "p": 200,
+   "pic": "Nachos",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Ceviche",
+   "p": 600,
+   "pic": "Ceviche",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Empanada",
+   "p": 400,
+   "pic": "Empanada",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Feijoada",
+   "p": 600,
+   "pic": "Feijoada",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Jollof rice",
+   "p": 600,
+   "pic": "Jollof rice",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Injera",
+   "p": 600,
+   "pic": "Injera",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Pavlova",
+   "p": 600,
+   "pic": "Pavlova (dessert)",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Cheesecake",
+   "p": 200,
+   "pic": "Cheesecake",
+   "must": true
+  },
+  {
+   "q": "What is this dish called?",
+   "a": "Doughnut",
+   "p": 200,
+   "pic": "Donut",
+   "must": true,
+   "alt": [
+    "Donut"
+   ]
+  }
+ ]
+}

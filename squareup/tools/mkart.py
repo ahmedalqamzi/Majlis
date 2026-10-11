@@ -21,6 +21,7 @@ CAT={
 'general':'🧠','geography':'🗺️','history':'🏛️','japan':'🗾','science':'🔬','math':'🧮','gcse':'🎓','food':'🍕','brands':'🏷️','riddles':'🧩',
 'emoji':'😎','capitals':'🌆','space':'🌕','humanbody':'🫀','animals':'🐘','landmarks':'🗽','dinosaurs':'🦖','inventions':'⚙️','chemistry':'🧫',
 'physics':'🧲','mythology':'🔱','flags':'🚩','logos':'🔖',
+'pr_cars':'🚗','pr_places':'📷','pr_animals':'🐅','pr_dishes':'🥘','pr_players':'🎽',
 }
 TEAM=['🦅','🐪','🐎','🦁','🐆','🐺','🦊','🐢','🐬','🦈','🐙','🦉','🐐','🦌','🐫','🦜']
 HOME=['🐪','☕','🌴','🎮','⚽','🍿','🦅','🏆','🎤','🧠','🌙','🏎️']

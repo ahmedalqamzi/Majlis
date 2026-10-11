@@ -1,0 +1,845 @@
+{
+ "id": "pr_players",
+ "name": "Who's That Player?",
+ "questions": [
+  {
+   "q": "Who is this footballer?",
+   "a": "Cristiano Ronaldo",
+   "p": 200,
+   "pic": "Cristiano Ronaldo",
+   "must": true,
+   "alt": [
+    "Ronaldo",
+    "CR7"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Lionel Messi",
+   "p": 200,
+   "pic": "Lionel Messi",
+   "must": true,
+   "alt": [
+    "Messi"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Neymar",
+   "p": 200,
+   "pic": "Neymar",
+   "must": true
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Kylian Mbappé",
+   "p": 200,
+   "pic": "Kylian Mbappé",
+   "must": true,
+   "alt": [
+    "Mbappe",
+    "Mbappé"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Erling Haaland",
+   "p": 200,
+   "pic": "Erling Haaland",
+   "must": true,
+   "alt": [
+    "Haaland"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Mohamed Salah",
+   "p": 200,
+   "pic": "Mohamed Salah",
+   "must": true,
+   "alt": [
+    "Salah",
+    "Mo Salah"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Karim Benzema",
+   "p": 200,
+   "pic": "Karim Benzema",
+   "must": true,
+   "alt": [
+    "Benzema"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Zinedine Zidane",
+   "p": 200,
+   "pic": "Zinedine Zidane",
+   "must": true,
+   "alt": [
+    "Zidane"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "David Beckham",
+   "p": 200,
+   "pic": "David Beckham",
+   "must": true,
+   "alt": [
+    "Beckham"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Ronaldinho",
+   "p": 200,
+   "pic": "Ronaldinho",
+   "must": true
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Ronaldo Nazário",
+   "p": 200,
+   "pic": "Ronaldo (Brazilian footballer)",
+   "must": true,
+   "alt": [
+    "Ronaldo",
+    "R9"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Kaká",
+   "p": 400,
+   "pic": "Kaká",
+   "must": true,
+   "alt": [
+    "Kaka"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Wayne Rooney",
+   "p": 200,
+   "pic": "Wayne Rooney",
+   "must": true,
+   "alt": [
+    "Rooney"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Thierry Henry",
+   "p": 400,
+   "pic": "Thierry Henry",
+   "must": true,
+   "alt": [
+    "Henry"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Zlatan Ibrahimović",
+   "p": 200,
+   "pic": "Zlatan Ibrahimović",
+   "must": true,
+   "alt": [
+    "Zlatan",
+    "Ibrahimovic"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Robert Lewandowski",
+   "p": 200,
+   "pic": "Robert Lewandowski",
+   "must": true,
+   "alt": [
+    "Lewandowski"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Luka Modrić",
+   "p": 200,
+   "pic": "Luka Modrić",
+   "must": true,
+   "alt": [
+    "Modric"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Kevin De Bruyne",
+   "p": 200,
+   "pic": "Kevin De Bruyne",
+   "must": true,
+   "alt": [
+    "De Bruyne"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Virgil van Dijk",
+   "p": 400,
+   "pic": "Virgil van Dijk",
+   "must": true,
+   "alt": [
+    "Van Dijk"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Sergio Ramos",
+   "p": 200,
+   "pic": "Sergio Ramos",
+   "must": true,
+   "alt": [
+    "Ramos"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Andrés Iniesta",
+   "p": 400,
+   "pic": "Andrés Iniesta",
+   "must": true,
+   "alt": [
+    "Iniesta"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Xavi",
+   "p": 400,
+   "pic": "Xavi",
+   "must": true,
+   "alt": [
+    "Xavi Hernández"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Gerard Piqué",
+   "p": 400,
+   "pic": "Gerard Piqué",
+   "must": true,
+   "alt": [
+    "Pique"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Iker Casillas",
+   "p": 400,
+   "pic": "Iker Casillas",
+   "must": true,
+   "alt": [
+    "Casillas"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Gianluigi Buffon",
+   "p": 400,
+   "pic": "Gianluigi Buffon",
+   "must": true,
+   "alt": [
+    "Buffon"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Manuel Neuer",
+   "p": 400,
+   "pic": "Manuel Neuer",
+   "must": true,
+   "alt": [
+    "Neuer"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Andrea Pirlo",
+   "p": 400,
+   "pic": "Andrea Pirlo",
+   "must": true,
+   "alt": [
+    "Pirlo"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Paolo Maldini",
+   "p": 600,
+   "pic": "Paolo Maldini",
+   "must": true,
+   "alt": [
+    "Maldini"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Francesco Totti",
+   "p": 400,
+   "pic": "Francesco Totti",
+   "must": true,
+   "alt": [
+    "Totti"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Luis Suárez",
+   "p": 200,
+   "pic": "Luis Suárez",
+   "must": true,
+   "alt": [
+    "Suarez"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Sergio Agüero",
+   "p": 400,
+   "pic": "Sergio Agüero",
+   "must": true,
+   "alt": [
+    "Aguero"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Ángel Di María",
+   "p": 400,
+   "pic": "Ángel Di María",
+   "must": true,
+   "alt": [
+    "Di Maria"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Antoine Griezmann",
+   "p": 400,
+   "pic": "Antoine Griezmann",
+   "must": true,
+   "alt": [
+    "Griezmann"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Paul Pogba",
+   "p": 400,
+   "pic": "Paul Pogba",
+   "must": true,
+   "alt": [
+    "Pogba"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "N'Golo Kanté",
+   "p": 400,
+   "pic": "N'Golo Kanté",
+   "must": true,
+   "alt": [
+    "Kante"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Eden Hazard",
+   "p": 400,
+   "pic": "Eden Hazard",
+   "must": true,
+   "alt": [
+    "Hazard"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Harry Kane",
+   "p": 200,
+   "pic": "Harry Kane",
+   "must": true,
+   "alt": [
+    "Kane"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Jude Bellingham",
+   "p": 200,
+   "pic": "Jude Bellingham",
+   "must": true,
+   "alt": [
+    "Bellingham"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Bukayo Saka",
+   "p": 400,
+   "pic": "Bukayo Saka",
+   "must": true,
+   "alt": [
+    "Saka"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Phil Foden",
+   "p": 400,
+   "pic": "Phil Foden",
+   "must": true,
+   "alt": [
+    "Foden"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Marcus Rashford",
+   "p": 400,
+   "pic": "Marcus Rashford",
+   "must": true,
+   "alt": [
+    "Rashford"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Son Heung-min",
+   "p": 200,
+   "pic": "Son Heung-min",
+   "must": true,
+   "alt": [
+    "Son"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Vinícius Júnior",
+   "p": 200,
+   "pic": "Vinícius Júnior",
+   "must": true,
+   "alt": [
+    "Vinicius",
+    "Vini Jr"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Rodrygo",
+   "p": 600,
+   "pic": "Rodrygo",
+   "must": true
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Pedri",
+   "p": 400,
+   "pic": "Pedri",
+   "must": true
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Lamine Yamal",
+   "p": 200,
+   "pic": "Lamine Yamal",
+   "must": true,
+   "alt": [
+    "Yamal"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Jamal Musiala",
+   "p": 600,
+   "pic": "Jamal Musiala",
+   "must": true,
+   "alt": [
+    "Musiala"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Florian Wirtz",
+   "p": 600,
+   "pic": "Florian Wirtz",
+   "must": true,
+   "alt": [
+    "Wirtz"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Achraf Hakimi",
+   "p": 400,
+   "pic": "Achraf Hakimi",
+   "must": true,
+   "alt": [
+    "Hakimi"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Hakim Ziyech",
+   "p": 400,
+   "pic": "Hakim Ziyech",
+   "must": true,
+   "alt": [
+    "Ziyech"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Yassine Bounou",
+   "p": 600,
+   "pic": "Yassine Bounou",
+   "must": true,
+   "alt": [
+    "Bono",
+    "Bounou"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Riyad Mahrez",
+   "p": 400,
+   "pic": "Riyad Mahrez",
+   "must": true,
+   "alt": [
+    "Mahrez"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Sadio Mané",
+   "p": 400,
+   "pic": "Sadio Mané",
+   "must": true,
+   "alt": [
+    "Mane"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Didier Drogba",
+   "p": 400,
+   "pic": "Didier Drogba",
+   "must": true,
+   "alt": [
+    "Drogba"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Samuel Eto'o",
+   "p": 400,
+   "pic": "Samuel Eto'o",
+   "must": true,
+   "alt": [
+    "Etoo"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Yaya Touré",
+   "p": 600,
+   "pic": "Yaya Touré",
+   "must": true,
+   "alt": [
+    "Yaya Toure"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Mohamed Aboutrika",
+   "p": 600,
+   "pic": "Mohamed Aboutrika",
+   "must": true,
+   "alt": [
+    "Aboutrika"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Omar Abdulrahman",
+   "p": 400,
+   "pic": "Omar Abdulrahman",
+   "must": true,
+   "alt": [
+    "Amoory",
+    "Omar Abdulrahman"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Ali Mabkhout",
+   "p": 400,
+   "pic": "Ali Mabkhout",
+   "must": true,
+   "alt": [
+    "Mabkhout"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Ismail Matar",
+   "p": 600,
+   "pic": "Ismail Matar",
+   "must": true
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Salem Al-Dawsari",
+   "p": 400,
+   "pic": "Salem Al-Dawsari",
+   "must": true,
+   "alt": [
+    "Al-Dawsari",
+    "Dawsari"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Sami Al-Jaber",
+   "p": 600,
+   "pic": "Sami Al-Jaber",
+   "must": true,
+   "alt": [
+    "Al-Jaber"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Majed Abdullah",
+   "p": 600,
+   "pic": "Majed Abdullah",
+   "must": true
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Akram Afif",
+   "p": 400,
+   "pic": "Akram Afif",
+   "must": true,
+   "alt": [
+    "Afif"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Almoez Ali",
+   "p": 600,
+   "pic": "Almoez Ali",
+   "must": true
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Younis Mahmoud",
+   "p": 600,
+   "pic": "Younis Mahmoud",
+   "must": true
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Pelé",
+   "p": 200,
+   "pic": "Pelé",
+   "must": true,
+   "alt": [
+    "Pele"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Diego Maradona",
+   "p": 200,
+   "pic": "Diego Maradona",
+   "must": true,
+   "alt": [
+    "Maradona"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Johan Cruyff",
+   "p": 400,
+   "pic": "Johan Cruyff",
+   "must": true,
+   "alt": [
+    "Cruyff"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Franz Beckenbauer",
+   "p": 600,
+   "pic": "Franz Beckenbauer",
+   "must": true,
+   "alt": [
+    "Beckenbauer"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "George Best",
+   "p": 600,
+   "pic": "George Best",
+   "must": true
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Eusébio",
+   "p": 600,
+   "pic": "Eusébio",
+   "must": true,
+   "alt": [
+    "Eusebio"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Roberto Baggio",
+   "p": 400,
+   "pic": "Roberto Baggio",
+   "must": true,
+   "alt": [
+    "Baggio"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Andriy Shevchenko",
+   "p": 600,
+   "pic": "Andriy Shevchenko",
+   "must": true,
+   "alt": [
+    "Shevchenko"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Steven Gerrard",
+   "p": 400,
+   "pic": "Steven Gerrard",
+   "must": true,
+   "alt": [
+    "Gerrard"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Frank Lampard",
+   "p": 400,
+   "pic": "Frank Lampard",
+   "must": true,
+   "alt": [
+    "Lampard"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Mesut Özil",
+   "p": 400,
+   "pic": "Mesut Özil",
+   "must": true,
+   "alt": [
+    "Ozil"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Toni Kroos",
+   "p": 400,
+   "pic": "Toni Kroos",
+   "must": true,
+   "alt": [
+    "Kroos"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Thibaut Courtois",
+   "p": 400,
+   "pic": "Thibaut Courtois",
+   "must": true,
+   "alt": [
+    "Courtois"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Alisson",
+   "p": 600,
+   "pic": "Alisson Becker",
+   "must": true,
+   "alt": [
+    "Alisson Becker"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Casemiro",
+   "p": 400,
+   "pic": "Casemiro",
+   "must": true
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Romelu Lukaku",
+   "p": 400,
+   "pic": "Romelu Lukaku",
+   "must": true,
+   "alt": [
+    "Lukaku"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Victor Osimhen",
+   "p": 600,
+   "pic": "Victor Osimhen",
+   "must": true,
+   "alt": [
+    "Osimhen"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Lautaro Martínez",
+   "p": 600,
+   "pic": "Lautaro Martínez",
+   "must": true,
+   "alt": [
+    "Lautaro"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Julián Álvarez",
+   "p": 600,
+   "pic": "Julián Álvarez",
+   "must": true,
+   "alt": [
+    "Julian Alvarez"
+   ]
+  },
+  {
+   "q": "Who is this footballer?",
+   "a": "Cole Palmer",
+   "p": 600,
+   "pic": "Cole Palmer",
+   "must": true,
+   "alt": [
+    "Palmer"
+   ]
+  }
+ ]
+}
