@@ -37,6 +37,8 @@ for c in out:
     open(os.path.join('dist','photos',c['id']+'.js'),'w').write('MAJ_PHOTOS('+json.dumps(pk,separators=(',',':'))+')')
 import base64
 art={os.path.basename(f)[:-5]:'data:image/webp;base64,'+base64.b64encode(open(f,'rb').read()).decode() for f in sorted(glob.glob('art/*.webp'))}
+# Category cover photos (tools/covers.py) ride along in ART as cover-<id>.
+art.update({'cover-'+os.path.basename(f)[:-5]:'data:image/webp;base64,'+base64.b64encode(open(f,'rb').read()).decode() for f in sorted(glob.glob('covers/*.webp'))})
 t=open('majlis2.template.html').read().replace("__ART__",json.dumps(art)).replace("__DATA__",json.dumps(out,ensure_ascii=False,separators=(',',':')))
 open('index.html','w').write(t)
 open(os.path.join('dist','index.html'),'w').write(t)
