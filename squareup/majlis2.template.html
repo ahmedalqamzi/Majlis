@@ -560,6 +560,8 @@ body::after{content:"";position:fixed;inset:0;z-index:60;pointer-events:none;opa
 .ios .aud-mode:not(.armed) iframe,.aud-mode.needtap:not(.armed) iframe{position:absolute;inset:0;width:100%;height:100%;opacity:.004;pointer-events:auto;z-index:3}
 .aud-mode.needtap:not(.armed) .aud-kick::after{content:" · tap the panel to start"}
 @media (max-height:700px){.aud-card .aud-mid>b{font-size:36px}.aud-mode .aud-btn{width:76px;height:76px}.aud-eq{height:34%}}
+.aud-mode.dead .aud-btn,.aud-mode.dead .aud-bar,.aud-mode.dead .aud-time,.aud-mode.dead .aud-re,.aud-mode.dead iframe{display:none}
+.aud-mode.dead .aud-mid>b{font-size:clamp(30px,8vw,56px)}
 </style>
 
 <div id="app"></div>
@@ -812,6 +814,7 @@ const IOS=/iP(hone|ad|od)/.test(navigator.userAgent)||(navigator.platform==="Mac
 const IOS_APP=IOS&&!/Safari\//.test(navigator.userAgent);
 if(IOS&&!IOS_APP)document.documentElement.classList.add("ios");
 window.addEventListener("message",e=>{if(!/youtube/.test(e.origin))return;let d;try{d=JSON.parse(e.data)}catch(_){return}
+  const v0=$("#vidbox .vid");if(d&&d.event==="onError"&&v0){v0.classList.add("dead");audOn=false;audSync();const m=v0.querySelector(".aud-mid");if(m)m.innerHTML=`<small class="aud-kick">Sound clip</small><b>Clip unavailable</b><small class="aud-note">YouTube won't play this one here. Press Back and pick another question.</small>`;return}
   const inf=d&&d.info;if(!inf)return;const v=$("#vidbox .vid");if(!v)return;if(typeof inf.currentTime==="number")audProg(inf.currentTime);
   const st=inf.playerState;if(st===undefined)return;
   if(st===1){v.classList.add("armed");v.classList.remove("needtap");audOn=true}else if(st===2||st===0)audOn=false;audSync()});
