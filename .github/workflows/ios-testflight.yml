@@ -5,6 +5,8 @@ name: iOS TestFlight
 #   APPLE_TEAM_ID, APPLE_DISTRIBUTION_P12_BASE64, APPLE_DISTRIBUTION_P12_PASSWORD, APPLE_ID, APPLE_APP_SPECIFIC_PASSWORD
 # plus one for this app:
 #   MAJLIS_PROVISIONING_PROFILE_BASE64   base64 of the "Majlis App Store" profile for com.ahmedalqamzi.majlis
+# For the upload, an App Store Connect API key is used when set (ASC_KEY_ID, ASC_ISSUER_ID, ASC_KEY_P8),
+# otherwise the Apple ID and app-specific password.
 # Without them the job only checks that the app compiles.
 on:
   push:
@@ -19,7 +21,7 @@ jobs:
     runs-on: macos-15
     timeout-minutes: 30
     env:
-      SIGN: ${{ secrets.APPLE_DISTRIBUTION_P12_BASE64 != '' && secrets.MAJLIS_PROVISIONING_PROFILE_BASE64 != '' && secrets.APPLE_ID != '' }}
+      SIGN: ${{ secrets.APPLE_DISTRIBUTION_P12_BASE64 != '' && secrets.MAJLIS_PROVISIONING_PROFILE_BASE64 != '' && (secrets.ASC_KEY_ID != '' || secrets.APPLE_ID != '') }}
     defaults:
       run:
         working-directory: majlis-ios
@@ -78,12 +80,24 @@ jobs:
         env:
           APPLE_ID: ${{ secrets.APPLE_ID }}
           APPLE_APP_SPECIFIC_PASSWORD: ${{ secrets.APPLE_APP_SPECIFIC_PASSWORD }}
+          ASC_KEY_ID: ${{ secrets.ASC_KEY_ID }}
+          ASC_ISSUER_ID: ${{ secrets.ASC_ISSUER_ID }}
+          ASC_KEY_P8: ${{ secrets.ASC_KEY_P8 }}
         run: |
           ipa="$(find build/TestFlight -maxdepth 1 -name '*.ipa' -print -quit)"
           test -n "$ipa" || { echo "::error::Xcode did not export an IPA."; exit 1; }
-          xcrun altool --validate-app --file "$ipa" --type ios --username "$APPLE_ID" --password "$APPLE_APP_SPECIFIC_PASSWORD"
-          xcrun altool --upload-app --file "$ipa" --type ios --username "$APPLE_ID" --password "$APPLE_APP_SPECIFIC_PASSWORD"
+          if [ -n "$ASC_KEY_ID" ]; then
+            mkdir -p "$HOME/.appstoreconnect/private_keys"
+            printf '%s\n' "$ASC_KEY_P8" > "$HOME/.appstoreconnect/private_keys/AuthKey_$ASC_KEY_ID.p8"
+            auth=(--apiKey "$ASC_KEY_ID" --apiIssuer "$ASC_ISSUER_ID")
+          else
+            auth=(--username "$APPLE_ID" --password "$APPLE_APP_SPECIFIC_PASSWORD")
+          fi
+          xcrun altool --validate-app --file "$ipa" --type ios "${auth[@]}"
+          xcrun altool --upload-app --file "$ipa" --type ios "${auth[@]}"
           echo "Uploaded build $BUILD_NUMBER to TestFlight."
       - name: Remove the signing keychain
         if: always()
-        run: security delete-keychain "$KEYCHAIN" 2>/dev/null || true
+        run: |
+          security delete-keychain "$KEYCHAIN" 2>/dev/null || true
+          rm -rf "$HOME/.appstoreconnect/private_keys"
