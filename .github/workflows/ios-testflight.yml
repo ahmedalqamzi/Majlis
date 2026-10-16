@@ -18,7 +18,7 @@ permissions:
 concurrency: { group: majlis-testflight, cancel-in-progress: false }
 jobs:
   testflight:
-    runs-on: macos-15
+    runs-on: macos-latest
     timeout-minutes: 30
     env:
       SIGN: ${{ secrets.APPLE_DISTRIBUTION_P12_BASE64 != '' && secrets.MAJLIS_PROVISIONING_PROFILE_BASE64 != '' && (secrets.ASC_KEY_ID != '' || secrets.APPLE_ID != '') }}
