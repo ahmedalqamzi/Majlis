@@ -530,6 +530,36 @@ body::after{content:"";position:fixed;inset:0;z-index:60;pointer-events:none;opa
 .toast{background:#fff;color:#08080F;box-shadow:none}
 .end h1{letter-spacing:0;background:none;color:var(--pri);-webkit-background-clip:border-box;background-clip:border-box;text-shadow:6px 6px 0 #A3121F;transform:skewX(-7deg)}
 .skins button{border-radius:2px}
+
+/* Sound clip stage: the whole media panel becomes a "listen" screen. Cover photo dimmed behind a category-colour wash,
+   a live equaliser, one big play key, a clip timer. The hidden player sits under it (or over it, invisible, on iOS Safari). */
+.qc-media #vidbox:has(.aud-mode){padding:0;background:#05060C}
+.aud-mode{flex:1;min-height:100%}
+.aud-mode .aud-card{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;padding:18px;gap:0;background:none;overflow:hidden;isolation:isolate}
+.aud-card::before{content:"";position:absolute;inset:-30px;z-index:-2;background:var(--u,none) center/cover,var(--c);filter:blur(18px) saturate(1.3) brightness(.45)}
+.aud-card::after{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(180deg,color-mix(in srgb,var(--c) 55%,transparent),rgba(5,6,12,.85) 85%)}
+.aud-eq{position:absolute;left:0;right:0;bottom:0;height:40%;display:flex;align-items:flex-end;gap:4px;padding:0 4px;opacity:.5}
+.aud-mid{position:relative}
+.aud-eq i{flex:1;height:var(--h);background:linear-gradient(0deg,var(--c),color-mix(in srgb,var(--c) 40%,#fff));transform-origin:bottom;transition:height .4s}
+.playing .aud-eq i{animation:eq var(--d) ease-in-out var(--o) infinite alternate}
+@keyframes eq{0%{height:8%}35%{height:var(--a)}70%{height:var(--b)}100%{height:var(--t)}}
+.aud-mid{display:flex;flex-direction:column;align-items:center;gap:10px;width:min(100%,420px);text-align:center}
+.aud-kick{font-family:var(--body);font-weight:700;font-size:13px;letter-spacing:2px;text-transform:uppercase;color:#05060C;background:#fff;padding:3px 10px}
+.aud-card .aud-mid>b{font-family:var(--cond);font-weight:400;font-size:clamp(40px,11vw,84px);line-height:.95;text-transform:uppercase;color:#fff;text-shadow:0 4px 0 rgba(0,0,0,.35)}
+.aud-mode .aud-btn{width:96px;height:96px;border:0;background:var(--pri);box-shadow:0 7px 0 var(--pri-edge);display:grid;place-items:center;cursor:pointer;position:relative;transition:transform .12s,box-shadow .12s;margin:4px 0 10px}
+.aud-mode .aud-btn::before{content:"";margin-left:8px;border-left:34px solid var(--pri-ink);border-block:21px solid transparent}
+.playing .aud-btn::before{margin:0;width:30px;height:38px;border:0;background:linear-gradient(90deg,var(--pri-ink) 0 10px,transparent 10px 20px,var(--pri-ink) 20px)}
+.aud-mode .aud-btn:active{transform:translateY(5px);box-shadow:0 2px 0 var(--pri-edge)}
+.aud-mode:not(.playing) .aud-btn{animation:knock 1.6s ease-in-out infinite}
+@keyframes knock{0%,70%,100%{transform:none}78%{transform:rotate(-4deg) scale(1.05)}86%{transform:rotate(4deg) scale(1.05)}}
+.aud-bar{width:100%;height:8px;background:#2A2C3A;overflow:hidden}
+.aud-bar i{display:block;height:100%;width:0;background:var(--pri);transition:width .3s linear}
+.aud-time{width:100%;display:flex;justify-content:space-between;font-family:var(--cond);font-size:18px;letter-spacing:.5px;color:rgba(255,255,255,.8);margin-top:-4px}
+.aud-mode .aud-re{margin:2px 0 0;background:#05060C;color:#fff;box-shadow:inset 0 0 0 2px rgba(255,255,255,.35);padding:8px 20px;font-family:var(--cond);font-size:18px;letter-spacing:1px;text-transform:uppercase;border:0}
+.aud-note{color:rgba(255,255,255,.75);font-size:13px;max-width:30ch}
+.ios .aud-mode:not(.armed) iframe,.aud-mode.needtap:not(.armed) iframe{position:absolute;inset:0;width:100%;height:100%;opacity:.004;pointer-events:auto;z-index:3}
+.aud-mode.needtap:not(.armed) .aud-kick::after{content:" · tap the panel to start"}
+@media (max-height:700px){.aud-card .aud-mid>b{font-size:36px}.aud-mode .aud-btn{width:76px;height:76px}.aud-eq{height:34%}}
 </style>
 
 <div id="app"></div>
@@ -753,26 +783,38 @@ function pickTeam(self,title,cb){const m=modal(`<h3 style="font-size:22px">${tit
   m.querySelector("[data-close]").onclick=()=>m.remove();m.querySelectorAll("[data-j]").forEach(b=>b.onclick=()=>{m.remove();cb(+b.dataset.j)})}
 
 function vidHTML(x){if(!x.yt)return "";const s=x.start||0,e=x.end||s+30,url=`https://www.youtube.com/watch?v=${x.yt}&t=${s}s`,aud=x.audio&&!(Q&&Q.revealed);
-  if(ytBlocked)return aud?`<div class="aud-card"><span><b>Sound clip</b><small>Clips play inside the Majlis app. Here you can open it on YouTube, but the page shows the title, so let the host play it.</small></span></div><a class="vid-open" href="${url}" target="_blank" rel="noopener"><i></i><span><b>Host: play on YouTube</b><small>Starts at ${s}s, play until ${e}s.</small></span></a>`
+  if(ytBlocked)return aud?`<div class="vid aud-mode">${audStage(x,s,e,`<a class="aud-btn" href="${url}" target="_blank" rel="noopener" aria-label="Host: play the clip on YouTube"></a>`,`<small class="aud-note">Host only: YouTube shows the title. Play from ${s}s to ${e}s.</small>`)}</div>`
     :`<a class="vid-open" href="${url}" target="_blank" rel="noopener"><i></i><span><b>Play the clip</b><small>Opens YouTube at ${s}s. Watch until ${e}s, then come back.</small></span></a>`;
-  return `<div class="vid ${aud?"aud-mode":""}">${x.audio?`<div class="aud-card"><button class="aud-btn" id="audb" onclick="audPlay()" aria-label="Play or pause the sound clip">&#9654;</button><span><b>Listen to the clip</b><small>${e-s} seconds of sound${IOS?". Tap the card to play":""}. The video shows after the answer.</small></span><button class="aud-re" onclick="audPlay(true)">Replay</button></div>`:""}<iframe id="ytf" src="https://www.youtube-nocookie.com/embed/${x.yt}?start=${s}&end=${e}&rel=0&playsinline=1&fs=1&modestbranding=1&enablejsapi=1${location.protocol==="https:"?"&origin="+encodeURIComponent(location.origin):""}" referrerpolicy="strict-origin-when-cross-origin" title="Question clip" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe><a href="${url}" target="_blank" rel="noopener">Clip not playing? Open on YouTube</a></div>`}
+  return `<div class="vid ${aud?"aud-mode":""}">${x.audio?audStage(x,s,e,`<button class="aud-btn" id="audb" onclick="audPlay()" aria-label="Play or pause the sound clip"></button>`,`<button class="aud-re" onclick="audPlay(true)">Replay</button>`):""}<iframe id="ytf" src="https://www.youtube-nocookie.com/embed/${x.yt}?start=${s}&end=${e}&rel=0&playsinline=1&fs=1&modestbranding=1&enablejsapi=1${location.protocol==="https:"?"&origin="+encodeURIComponent(location.origin):""}" referrerpolicy="strict-origin-when-cross-origin" title="Question clip" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe><a href="${url}" target="_blank" rel="noopener">Clip not playing? Open on YouTube</a></div>`}
+// The sound stage: a full-panel "listen" screen with a big play key, a live equaliser and a clip timer.
+const mmss=t=>Math.floor(t/60)+":"+String(Math.floor(t%60)).padStart(2,"0");
+function audStage(x,s,e,btn,foot){const id=game.cats[Q.ci].id,cv=ART["cover-"+id];
+  return `<div class="aud-card"${cv?` style="--u:url('${cv}')"`:""}><div class="aud-eq" aria-hidden="true">${Array.from({length:24},(_,i)=>`<i style="--h:${8+(i*7)%23}%;--a:${30+(i*11)%17*3}%;--b:${18+(i*13)%9*4}%;--t:${45+(i*7)%11*5}%;--d:${.42+(i*5)%7*.06}s;--o:${-(i*.13).toFixed(2)}s"></i>`).join("")}</div>
+  <div class="aud-mid"><small class="aud-kick">Sound clip</small><b>Listen up</b>${btn}<div class="aud-bar"><i id="audp"></i></div><div class="aud-time"><span id="audt">0:00</span><span>${mmss(e-s)}</span></div>${foot}</div></div>`}
+function audProg(ct){const x=cur(),s=x.start||0,e=x.end||s+30,p=Math.max(0,Math.min(1,(ct-s)/(e-s))),b=$("#audp"),t=$("#audt");if(b)b.style.width=(p*100)+"%";if(t)t.textContent=mmss(Math.max(0,Math.min(e-s,ct-s)))}
 let audOn=false;
 function ytCmd(func,args){const f=$("#ytf");if(f&&f.contentWindow)f.contentWindow.postMessage(JSON.stringify({event:"command",func,args:args||[]}),"*")}
-function audPlay(restart){const x=cur();if(restart){ytCmd("seekTo",[x.start||0,true]);ytCmd("playVideo");audOn=true}else{audOn=!audOn;ytCmd(audOn?"playVideo":"pauseVideo")}const b=$("#audb");if(b)b.innerHTML=audOn?"&#10074;&#10074;":"&#9654;"}
+function audPlay(restart){const x=cur();if(restart){ytCmd("seekTo",[x.start||0,true]);ytCmd("playVideo");audOn=true;audProg(x.start||0)}else{audOn=!audOn;ytCmd(audOn?"playVideo":"pauseVideo")}
+  const v=$("#vidbox .vid");if(IOS_APP&&audOn&&v&&!v.classList.contains("armed"))setTimeout(()=>{if(v.isConnected&&!v.classList.contains("armed")){v.classList.add("needtap");audOn=false;audSync()}},2500);audSync()}
+function audSync(){const v=$("#vidbox .vid");if(v)v.classList.toggle("playing",audOn)}
 const WIKI={},WURL={},PHOTO={},PACK={};
 // Bundled photos: build.py writes photos/<category>.js packs that call MAJ_PHOTOS({key:dataURI}); a pic of "@cat/key" reads from them.
 window.MAJ_PHOTOS=o=>Object.assign(PHOTO,o);
 function loadPack(c){return PACK[c]||(PACK[c]=new Promise(r=>{const s=document.createElement("script");s.src="photos/"+c+".js";s.onload=r;s.onerror=()=>{delete PACK[c];r()};document.head.appendChild(s)}))}
 // Logo-like covers stay off the home photo wall
-const WALL_SKIP=["pokemon","brands","cartoons","spacetoon","gta","fighting","nintendo","xbox","videogames"];
+const WALL_SKIP=["brands"];
 const APK=location.hostname==="appassets.androidplatform.net";
 // iOS only starts a YouTube player from a tap on the player itself, so on iPhone and iPad the hidden player
 // covers the sound card until the first tap; after it plays, the card's own buttons drive it by postMessage.
 const IOS=/iP(hone|ad|od)/.test(navigator.userAgent)||(navigator.platform==="MacIntel"&&navigator.maxTouchPoints>1);
-if(IOS)document.documentElement.classList.add("ios");
+// The Majlis iPhone app (a WKWebView: no "Safari/" in its user agent) lets scripts start playback, so it skips the tap-through layer
+// unless a play press does not start the clip, which arms the layer as a fallback.
+const IOS_APP=IOS&&!/Safari\//.test(navigator.userAgent);
+if(IOS&&!IOS_APP)document.documentElement.classList.add("ios");
 window.addEventListener("message",e=>{if(!/youtube/.test(e.origin))return;let d;try{d=JSON.parse(e.data)}catch(_){return}
-  const st=d&&d.info&&d.info.playerState;if(st===undefined)return;const v=$("#vidbox .vid");if(!v)return;
-  if(st===1){v.classList.add("armed");audOn=true}else if(st===2||st===0)audOn=false;const b=$("#audb");if(b)b.innerHTML=audOn?"&#10074;&#10074;":"&#9654;"});
+  const inf=d&&d.info;if(!inf)return;const v=$("#vidbox .vid");if(!v)return;if(typeof inf.currentTime==="number")audProg(inf.currentTime);
+  const st=inf.playerState;if(st===undefined)return;
+  if(st===1){v.classList.add("armed");v.classList.remove("needtap");audOn=true}else if(st===2||st===0)audOn=false;audSync()});
 function ytListen(){const f=$("#ytf");if(f)f.addEventListener("load",()=>f.contentWindow.postMessage(JSON.stringify({event:"listening",id:"ytf"}),"*"),{once:true})}
 try{if(!APK&&window.top!==window)document.documentElement.classList.add("framed")}catch(e){document.documentElement.classList.add("framed")}
 function wikiImg(t){if(t[0]==="@"){const [c,k]=t.slice(1).split("/");if(APK)return Promise.resolve(WURL[t]="photos/"+k+".webp");return WIKI[t]||(WIKI[t]=loadPack(c).then(()=>{const u=PHOTO[k]||null;if(u)WURL[t]=u;else delete WIKI[t];return u}))}
