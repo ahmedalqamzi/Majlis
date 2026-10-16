@@ -3,7 +3,7 @@ import WebKit
 
 // Majlis for iPhone and iPad: a full-screen web view on the published web game.
 // YouTube clips play inline without a tap, which a home-screen web app on iOS can't do.
-let gameURL = URL(string: "https://ahmedalqamzi.github.io/majlis/")!
+let gameURL = URL(string: "https://ahmedalqamzi.github.io/Majlis/")!
 let navy = UIColor(red: 13 / 255, green: 39 / 255, blue: 66 / 255, alpha: 1)
 
 @main
