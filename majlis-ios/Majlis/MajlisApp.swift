@@ -37,13 +37,21 @@ struct GameView: UIViewRepresentable {
         web.navigationDelegate = context.coordinator
         web.uiDelegate = context.coordinator
         web.customUserAgent = nil
-        web.load(URLRequest(url: gameURL, cachePolicy: .returnCacheDataElseLoad))
+        context.coordinator.load(web, .network)
         return web
     }
 
     func updateUIView(_ web: WKWebView, context: Context) {}
 
     final class Coordinator: NSObject, WKNavigationDelegate, WKUIDelegate {
+        private var step = LoadStep.network
+
+        // Ask the server for the latest game; see LoadPolicy for the saved-copy fallback.
+        func load(_ web: WKWebView, _ step: LoadStep) {
+            self.step = step
+            web.load(LoadPolicy.request(gameURL, step))
+        }
+
         // Links that open a new window (Open on YouTube, sources) go to Safari or the YouTube app.
         func webView(_ web: WKWebView, createWebViewWith configuration: WKWebViewConfiguration,
                      for action: WKNavigationAction, windowFeatures: WKWindowFeatures) -> WKWebView? {
@@ -54,6 +62,11 @@ struct GameView: UIViewRepresentable {
         // Keep the game itself in the app; anything else on another site opens outside it.
         func webView(_ web: WKWebView, decidePolicyFor action: WKNavigationAction,
                      decisionHandler: @escaping (WKNavigationActionPolicy) -> Void) {
+            if action.request.url?.scheme == LoadPolicy.retryURL.scheme {
+                decisionHandler(.cancel)
+                load(web, .network)
+                return
+            }
             if let url = action.request.url, action.targetFrame?.isMainFrame == true,
                let host = url.host, host != gameURL.host, url.scheme?.hasPrefix("http") == true {
                 UIApplication.shared.open(url)
@@ -64,11 +77,19 @@ struct GameView: UIViewRepresentable {
         }
 
         func webView(_ web: WKWebView, didFailProvisionalNavigation nav: WKNavigation!, withError error: Error) {
-            showOffline(web)
+            failed(web, error)
         }
 
         func webView(_ web: WKWebView, didFail nav: WKNavigation!, withError error: Error) {
-            if (error as NSError).code != NSURLErrorCancelled { showOffline(web) }
+            failed(web, error)
+        }
+
+        private func failed(_ web: WKWebView, _ error: Error) {
+            switch LoadPolicy.next(after: error, during: step) {
+            case .ignore: break
+            case .trySavedCopy: load(web, .savedCopy)
+            case .showOffline: showOffline(web)
+            }
         }
 
         private func showOffline(_ web: WKWebView) {
@@ -76,7 +97,7 @@ struct GameView: UIViewRepresentable {
             <meta name=viewport content="width=device-width,initial-scale=1">
             <body style="margin:0;height:100vh;display:grid;place-items:center;background:#0D2742;color:#fff;font:600 18px -apple-system;text-align:center">
             <div><p style="font-size:34px;font-weight:900;margin:0 0 8px">Majlis</p><p>Majlis needs an internet connection.</p>
-            <button onclick="location.href='\(gameURL.absoluteString)'" style="margin-top:12px;font:800 18px -apple-system;padding:14px 28px;border:0;background:#FFC83D;color:#0D2742">Try again</button></div>
+            <button onclick="location.href='\(LoadPolicy.retryURL.absoluteString)'" style="margin-top:12px;font:800 18px -apple-system;padding:14px 28px;border:0;background:#FFC83D;color:#0D2742">Try again</button></div>
             """
             web.loadHTMLString(html, baseURL: nil)
         }
