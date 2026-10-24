@@ -3,58 +3,6 @@
  "name": "UAE Nature & Places",
  "questions": [
   {
-   "q": "Which emirate is the capital of the UAE?",
-   "a": "Abu Dhabi",
-   "p": 200,
-   "ar": "أبوظبي",
-   "apic": "Abu Dhabi"
-  },
-  {
-   "q": "How many emirates make up the UAE?",
-   "a": "Seven",
-   "p": 200
-  },
-  {
-   "q": "Which emirate is the largest by area?",
-   "a": "Abu Dhabi",
-   "p": 200,
-   "ar": "أبوظبي",
-   "apic": "Emirate of Abu Dhabi"
-  },
-  {
-   "q": "Which emirate is the smallest by area?",
-   "a": "Ajman",
-   "p": 200,
-   "ar": "عجمان",
-   "apic": "Emirate of Ajman"
-  },
-  {
-   "q": "Which tree is the national tree of the UAE?",
-   "a": "Ghaf",
-   "p": 200,
-   "ar": "الغاف",
-   "apic": "Prosopis cineraria"
-  },
-  {
-   "q": "Which animal is the national animal of the UAE?",
-   "a": "Arabian oryx",
-   "p": 200,
-   "alt": [
-    "Maha",
-    "Al Maha"
-   ],
-   "apic": "Arabian oryx"
-  },
-  {
-   "q": "Which bird is the national bird of the UAE?",
-   "a": "Falcon",
-   "p": 200,
-   "alt": [
-    "Saqr"
-   ],
-   "apic": "Falcon"
-  },
-  {
    "q": "Which sea mammal, nicknamed the sea cow, grazes on seagrass in Abu Dhabi waters?",
    "a": "Dugong",
    "p": 200,
@@ -116,43 +64,15 @@
    "cpic": "Al Ain"
   },
   {
-   "q": "Which city is nicknamed the Garden City of the UAE?",
-   "a": "Al Ain",
-   "p": 200,
-   "ar": "العين",
-   "apic": "Al Ain"
-  },
-  {
-   "q": "What is the Arabic word for a dry valley that floods after heavy rain?",
-   "a": "Wadi",
-   "p": 200,
-   "ar": "وادي",
-   "apic": "Wadi"
-  },
-  {
    "q": "Which huge sand desert in southern Abu Dhabi is the world's largest continuous sand desert?",
    "a": "Rub al Khali",
    "p": 200,
    "ar": "الربع الخالي",
    "alt": [
-    "Rub' al Khali",
     "Empty Quarter"
    ],
    "apic": "Rub' al Khali",
    "cpic": "Abu Dhabi"
-  },
-  {
-   "q": "What is the Rub al Khali called in English?",
-   "a": "The Empty Quarter",
-   "p": 200,
-   "apic": "Rub' al Khali",
-   "qar": [
-    [
-     "Rub al Khali",
-     "الربع الخالي"
-    ]
-   ],
-   "cpic": "Rub' al Khali"
   },
   {
    "q": "Which Dubai mountain village is known for its dam and kayaking?",
@@ -160,24 +80,6 @@
    "p": 200,
    "ar": "حتا",
    "apic": "Hatta"
-  },
-  {
-   "q": "Which emirate lies entirely on the east coast?",
-   "a": "Fujairah",
-   "p": 200,
-   "ar": "الفجيرة",
-   "alt": [
-    "Fujeirah",
-    "Fujaira"
-   ],
-   "apic": "Emirate of Fujairah"
-  },
-  {
-   "q": "Which body of water lies off the UAE's east coast?",
-   "a": "Gulf of Oman",
-   "p": 200,
-   "apic": "Gulf of Oman",
-   "ar": "خليج عمان"
   },
   {
    "q": "Which mountain range runs along the east of the UAE?",
@@ -192,21 +94,7 @@
    "apic": "Al Hajar Mountains"
   },
   {
-   "q": "Which emirate is home to Palm Jumeirah?",
-   "a": "Dubai",
-   "p": 200,
-   "ar": "دبي",
-   "pic": "Palm Jumeirah",
-   "apic": "Emirate of Dubai",
-   "qar": [
-    [
-     "Palm Jumeirah",
-     "نخلة جميرا"
-    ]
-   ]
-  },
-  {
-   "q": "Which salt-tolerant coastal trees grow in Abu Dhabi's Eastern Mangroves?",
+   "q": "Which salt-tolerant trees form the tidal coastal forests around Abu Dhabi island?",
    "a": "Mangroves",
    "p": 200,
    "apic": "Mangrove",
@@ -236,35 +124,6 @@
    "apic": "Liwa Oasis"
   },
   {
-   "q": "Which Abu Dhabi island, meaning 'island of happiness', hosts the Louvre Abu Dhabi?",
-   "a": "Saadiyat Island",
-   "p": 200,
-   "ar": "جزيرة السعديات",
-   "alt": [
-    "Saadiyat"
-   ],
-   "apic": "Saadiyat Island",
-   "cpic": "Louvre Abu Dhabi"
-  },
-  {
-   "q": "Which saltwater inlet divides Dubai into two sides?",
-   "a": "Dubai Creek",
-   "p": 200,
-   "ar": "خور دبي",
-   "alt": [
-    "Khor Dubai",
-    "The Creek"
-   ],
-   "apic": "Dubai Creek"
-  },
-  {
-   "q": "Which animal is the traditional desert transport of the UAE?",
-   "a": "Camel",
-   "p": 200,
-   "apic": "Dromedary",
-   "cpic": "Desert"
-  },
-  {
    "q": "Which emirate is the northernmost?",
    "a": "Ras Al Khaimah",
    "p": 200,
@@ -275,52 +134,7 @@
    "apic": "Emirate of Ras Al Khaimah"
   },
   {
-   "q": "Which gulf lies off the UAE's west coast?",
-   "a": "Arabian Gulf",
-   "p": 200,
-   "apic": "Persian Gulf"
-  },
-  {
-   "q": "Which palm tree produces the dates the UAE is known for?",
-   "a": "Date palm",
-   "p": 200,
-   "alt": [
-    "Nakhla"
-   ],
-   "apic": "Phoenix dactylifera"
-  },
-  {
-   "q": "Which country lies to the south and west of the UAE?",
-   "a": "Saudi Arabia",
-   "p": 200,
-   "apic": "Saudi Arabia",
-   "ar": "السعودية"
-  },
-  {
-   "q": "Which country lies to the east of the UAE?",
-   "a": "Oman",
-   "p": 200,
-   "apic": "Oman",
-   "ar": "عُمان"
-  },
-  {
-   "q": "Which Abu Dhabi island hosts a Formula 1 circuit and a theme park?",
-   "a": "Yas Island",
-   "p": 200,
-   "ar": "جزيرة ياس",
-   "alt": [
-    "Yas"
-   ],
-   "apic": "Yas Island"
-  },
-  {
-   "q": "What type of landscape covers most of the UAE?",
-   "a": "Desert",
-   "p": 200,
-   "apic": "Desert"
-  },
-  {
-   "q": "Which Ras Al Khaimah zipline, about 2.8 km long, was billed as the world's longest?",
+   "q": "Which Ras Al Khaimah zipline, about 2.8 km long, runs from the slopes of Jebel Jais?",
    "a": "Jais Flight",
    "p": 400,
    "cpic": "Ras Al Khaimah"
@@ -394,20 +208,6 @@
    ]
   },
   {
-   "q": "Khor Fakkan, on the east coast, belongs to which emirate?",
-   "a": "Sharjah",
-   "p": 400,
-   "ar": "الشارقة",
-   "pic": "Khor Fakkan",
-   "apic": "Emirate of Sharjah",
-   "qar": [
-    [
-     "Khor Fakkan",
-     "خورفكان"
-    ]
-   ]
-  },
-  {
    "q": "Which east coast Sharjah town is home to a famous mangrove reserve?",
    "a": "Kalba",
    "p": 400,
@@ -427,7 +227,7 @@
   {
    "q": "Snoopy Island, a snorkelling spot, lies off the coast of which emirate?",
    "a": "Fujairah",
-   "p": 400,
+   "p": 200,
    "ar": "الفجيرة",
    "alt": [
     "Fujeirah",
@@ -458,28 +258,6 @@
    ]
   },
   {
-   "q": "Which Abu Dhabi island hosts the Arabian Wildlife Park with giraffes and cheetahs?",
-   "a": "Sir Bani Yas",
-   "p": 400,
-   "ar": "صير بني ياس",
-   "alt": [
-    "Sir Bani Yas Island"
-   ],
-   "apic": "Sir Bani Yas"
-  },
-  {
-   "q": "Which Abu Dhabi island is known for its pearl diving heritage and lies in the Gulf?",
-   "a": "Delma Island",
-   "p": 400,
-   "ar": "جزيرة دلما",
-   "alt": [
-    "Delma",
-    "Dalma Island",
-    "Dalma"
-   ],
-   "apic": "Delma Island"
-  },
-  {
    "q": "Which Dubai reserve protects about 5 percent of the emirate's land as desert habitat?",
    "a": "Dubai Desert Conservation Reserve",
    "p": 400,
@@ -491,7 +269,7 @@
   {
    "q": "The heart-shaped Love Lake lies in which Dubai desert area?",
    "a": "Al Qudra",
-   "p": 400,
+   "p": 200,
    "ar": "القدرة",
    "alt": [
     "Al Qudra Lakes"
@@ -504,13 +282,6 @@
    "p": 400
   },
   {
-   "q": "Which UAE city holds the country's first UNESCO World Heritage listing, in 2011?",
-   "a": "Al Ain",
-   "p": 400,
-   "ar": "العين",
-   "apic": "Al Ain"
-  },
-  {
    "q": "What are the ancient UAE irrigation channels called?",
    "a": "Aflaj (falaj)",
    "p": 400,
@@ -521,7 +292,7 @@
    ]
   },
   {
-   "q": "Which thorny tree, whose Arabic name is sidr, is common in UAE wadis?",
+   "q": "What is the Arabic name of the thorny Ziziphus spina-christi tree, common in UAE wadis?",
    "a": "Sidr",
    "p": 400,
    "ar": "السدر",
@@ -545,13 +316,6 @@
    "q": "Roughly how much rain does the UAE receive on average per year, in millimetres?",
    "a": "About 100 mm",
    "p": 400
-  },
-  {
-   "q": "Which emirate has coastlines on both the Arabian Gulf and the Gulf of Oman?",
-   "a": "Sharjah",
-   "p": 400,
-   "ar": "الشارقة",
-   "cpic": "Gulf of Oman"
   },
   {
    "q": "Which Ajman exclave sits inland in the Hajar Mountains?",
@@ -606,11 +370,6 @@
    "cpic": "Jebel Hafeet"
   },
   {
-   "q": "Which colour are the dunes at Big Red near Dubai?",
-   "a": "Red",
-   "p": 400
-  },
-  {
    "q": "Which wild goat-like mammal is native to the Hajar Mountains?",
    "a": "Arabian tahr",
    "p": 400,
@@ -619,17 +378,6 @@
    ],
    "apic": "Arabian tahr",
    "cpic": "Hajar Mountains"
-  },
-  {
-   "q": "Which Abu Dhabi park offers kayaking through mangroves at Jubail Island?",
-   "a": "Jubail Mangrove Park",
-   "p": 400,
-   "qar": [
-    [
-     "Jubail",
-     "جبيل"
-    ]
-   ]
   },
   {
    "q": "Dibba is shared by Fujairah, Sharjah and which other country?",
@@ -675,7 +423,7 @@
    ]
   },
   {
-   "q": "Which agency leads nature conservation in Abu Dhabi, known by its acronym EAD?",
+   "q": "Which Abu Dhabi government body leads nature conservation and environmental regulation in the emirate?",
    "a": "Environment Agency Abu Dhabi",
    "p": 400,
    "alt": [
@@ -702,7 +450,7 @@
   {
    "q": "What is the Arabic word for mangrove?",
    "a": "Qurm",
-   "p": 600,
+   "p": 400,
    "ar": "القرم",
    "alt": [
     "Shura",
@@ -830,18 +578,6 @@
    "a": "Saudi Arabia, Oman, UAE, Yemen",
    "p": 600,
    "cpic": "Rub' al Khali"
-  },
-  {
-   "q": "Which limestone outcrop in Sharjah near Mleiha contains marine fossils?",
-   "a": "Fossil Rock",
-   "p": 600,
-   "pic": "Mleiha",
-   "qar": [
-    [
-     "Mleiha",
-     "مليحة"
-    ]
-   ]
   },
   {
    "q": "Which Omani enclave lies inside Sharjah?",
@@ -1003,18 +739,6 @@
    "cpic": "Desert"
   },
   {
-   "q": "What is a fertile green spot around a desert spring or well called?",
-   "a": "Oasis",
-   "p": 200,
-   "apic": "Oasis"
-  },
-  {
-   "q": "Which venomous arachnid with a curled tail stinger hides under desert rocks?",
-   "a": "Scorpion",
-   "p": 200,
-   "apic": "Scorpion"
-  },
-  {
    "q": "Which weather hazard often cuts visibility on UAE motorways on winter mornings?",
    "a": "Fog",
    "p": 200,
@@ -1044,16 +768,6 @@
    "apic": "Peregrine falcon"
   },
   {
-   "q": "Which wildlife park in the Garden City is the UAE's largest zoo?",
-   "a": "Al Ain Zoo",
-   "p": 200,
-   "ar": "حديقة الحيوانات بالعين",
-   "alt": [
-    "Al Ain Wildlife Park"
-   ],
-   "apic": "Al Ain Zoo"
-  },
-  {
    "q": "Which fruit is celebrated each summer at a famous festival in Liwa?",
    "a": "Dates",
    "p": 200,
@@ -1065,36 +779,6 @@
    "apic": "Phoenix dactylifera"
   },
   {
-   "q": "What do visitors do with a mask and breathing tube around Snoopy Island?",
-   "a": "Snorkelling",
-   "p": 200,
-   "alt": [
-    "Snorkeling"
-   ],
-   "apic": "Snorkeling",
-   "cpic": "Snoopy Island"
-  },
-  {
-   "q": "What activity lets tourists float over the Dubai desert at sunrise in a basket?",
-   "a": "Hot-air ballooning",
-   "p": 200,
-   "alt": [
-    "Ballooning",
-    "Hot air balloon ride"
-   ],
-   "apic": "Hot-air balloon"
-  },
-  {
-   "q": "Which natural resource found beneath the desert transformed the UAE's economy?",
-   "a": "Oil",
-   "p": 200,
-   "alt": [
-    "Petroleum",
-    "Crude oil"
-   ],
-   "apic": "Petroleum"
-  },
-  {
    "q": "How many permanent rivers does the UAE have?",
    "a": "None",
    "p": 200,
@@ -1102,21 +786,6 @@
     "Zero",
     "0"
    ]
-  },
-  {
-   "q": "On which continent is the UAE?",
-   "a": "Asia",
-   "p": 200,
-   "apic": "Asia"
-  },
-  {
-   "q": "On which peninsula does the UAE lie?",
-   "a": "Arabian Peninsula",
-   "p": 200,
-   "alt": [
-    "Arabia"
-   ],
-   "apic": "Arabian Peninsula"
   },
   {
    "q": "Ramsar sites such as Ras Al Khor protect which type of habitat?",
@@ -1155,11 +824,6 @@
      "حتا"
     ]
    ]
-  },
-  {
-   "q": "Which season brings the UAE its mild, comfortable camping weather?",
-   "a": "Winter",
-   "p": 200
   },
   {
    "q": "Which big flightless bird, once wild in Arabia, is now only seen on UAE farms and parks?",
@@ -1207,7 +871,7 @@
   {
    "q": "Which glossy black-and-grey bird from India became an invasive pest in UAE coastal cities?",
    "a": "House crow",
-   "p": 400,
+   "p": 200,
    "alt": [
     "Indian house crow"
    ],
@@ -1216,7 +880,7 @@
   {
    "q": "Which bright green parrots with red beaks flock in UAE city parks?",
    "a": "Rose-ringed parakeet",
-   "p": 400,
+   "p": 200,
    "alt": [
     "Ring-necked parakeet",
     "Parakeet"
@@ -1226,7 +890,7 @@
   {
    "q": "Which mountain town on the Fujairah side of the Hajar is famous for its roadside Friday Market?",
    "a": "Masafi",
-   "p": 400,
+   "p": 200,
    "ar": "مسافي",
    "alt": [
     "Masafi Friday Market"
@@ -1246,7 +910,7 @@
   {
    "q": "What are desert truffles called in Arabic?",
    "a": "Faqaa",
-   "p": 400,
+   "p": 200,
    "ar": "الفقع",
    "alt": [
     "Fagaa",
@@ -1348,7 +1012,7 @@
    ]
   },
   {
-   "q": "Which Dubai mountain attraction offers mountain biking, zip lines and a man-made wave pool in a wadi?",
+   "q": "Which Dubai mountain adventure park offers mountain biking and zip lines?",
    "a": "Hatta Wadi Hub",
    "p": 400,
    "ar": "حتا وادي هب"
@@ -1507,9 +1171,6 @@
    "q": "Which large plankton-eating baleen whale is most often seen in the Arabian Gulf?",
    "a": "Bryde's whale",
    "p": 600,
-   "alt": [
-    "Brydes whale"
-   ],
    "apic": "Bryde's whale"
   },
   {
@@ -1665,16 +1326,6 @@
    ]
   },
   {
-   "q": "Which Abu Dhabi offshore island shipped the emirate's first crude oil exports in 1962?",
-   "a": "Das Island",
-   "p": 600,
-   "ar": "جزيرة داس",
-   "alt": [
-    "Das"
-   ],
-   "apic": "Das Island"
-  },
-  {
    "q": "Which Arctic falcon, the largest falcon species, is flown by Emirati falconers?",
    "a": "Gyrfalcon",
    "p": 600,
@@ -1720,31 +1371,6 @@
    ]
   },
   {
-   "q": "Which Sharjah mountain near Mleiha has a geological park and Bronze and Iron Age graves?",
-   "a": "Jebel Buhais",
-   "p": 600,
-   "ar": "جبل بحيص",
-   "alt": [
-    "Jabal Buhais",
-    "Buhais"
-   ],
-   "qar": [
-    [
-     "Mleiha",
-     "مليحة"
-    ]
-   ],
-   "cpic": "Mleiha"
-  },
-  {
-   "q": "What are the wind-built hills of sand that cover the Empty Quarter called?",
-   "a": "Dunes",
-   "p": 200,
-   "alt": [
-    "Sand dunes"
-   ]
-  },
-  {
    "q": "Which white heron often follows camels and cattle to catch insects they disturb?",
    "a": "Cattle egret",
    "p": 400,
@@ -1775,7 +1401,7 @@
   {
    "q": "Which brown city bird with a yellow eye patch, native to India, is among the UAE's commonest?",
    "a": "Common myna",
-   "p": 400,
+   "p": 200,
    "alt": [
     "Myna",
     "Indian myna",
@@ -1814,41 +1440,6 @@
    ]
   },
   {
-   "q": "Which inland exclave of Ajman shares its name with Bahrain's capital?",
-   "a": "Manama",
-   "p": 400,
-   "ar": "المنامة"
-  },
-  {
-   "q": "What is the name of the UAE's first nuclear power plant, in Abu Dhabi's Al Dhafra region?",
-   "a": "Barakah",
-   "p": 400,
-   "ar": "براكة",
-   "alt": [
-    "Barakah Nuclear Power Plant",
-    "Baraka"
-   ],
-   "apic": "Barakah nuclear power plant",
-   "qar": [
-    [
-     "Al Dhafra",
-     "الظفرة"
-    ]
-   ],
-   "cpic": "Al Dhafra Region"
-  },
-  {
-   "q": "What is the Arabic word for leopard?",
-   "a": "Nimr",
-   "p": 400,
-   "ar": "نمر",
-   "alt": [
-    "Namir",
-    "Nemer"
-   ],
-   "pic": "Arabian leopard"
-  },
-  {
    "q": "Which white-cheeked songbird is the commonest bulbul in UAE gardens?",
    "a": "White-eared bulbul",
    "p": 600,
@@ -1875,22 +1466,6 @@
     "Leaves"
    ],
    "pic": "Uromastyx"
-  },
-  {
-   "q": "Which part of Dibba belongs to Sharjah?",
-   "a": "Dibba Al Hisn",
-   "p": 600,
-   "ar": "دبا الحصن",
-   "alt": [
-    "Diba Al Hisn"
-   ],
-   "apic": "Dibba Al-Hisn",
-   "qar": [
-    [
-     "Dibba",
-     "دبا"
-    ]
-   ]
   },
   {
    "q": "Which Sharjah village lies inside Madha, itself an Omani enclave inside the UAE?",
@@ -1933,6 +1508,479 @@
     "Khor Al Baida"
    ],
    "cpic": "Umm Al Quwain"
+  },
+  {
+   "q": "Which Dubai national park opened a first-of-its-kind hiking trail about 10 km long, alongside a 20 km bike track?",
+   "a": "Mushrif Park",
+   "p": 200,
+   "ar": "حديقة مشرف",
+   "alt": [
+    "Mushrif National Park",
+    "Mushrif"
+   ],
+   "qar": [
+    [
+     "Dubai",
+     "دبي"
+    ]
+   ]
+  },
+  {
+   "q": "Which Jebel Jais park, about 1,250 metres above sea level, has seven lookout platforms fitted with powerful binoculars?",
+   "a": "Jais Viewing Deck Park",
+   "p": 200,
+   "alt": [
+    "Jebel Jais Viewing Deck Park",
+    "Jais Viewing Deck",
+    "Viewing Deck Park"
+   ],
+   "qar": [
+    [
+     "Jebel Jais",
+     "جبل جيس"
+    ]
+   ]
+  },
+  {
+   "q": "Which Ras Al Khaimah community park has an artificial lake with a waterfall feature?",
+   "a": "Saqr Park",
+   "p": 200,
+   "ar": "حديقة صقر",
+   "alt": [
+    "Saqr Public Park",
+    "Saqr Park RAK"
+   ],
+   "qar": [
+    [
+     "Ras Al Khaimah",
+     "رأس الخيمة"
+    ]
+   ]
+  },
+  {
+   "q": "Which zoo in Al Bahia, north-east of Abu Dhabi city, offers giraffe feeding and even dinner with elephants?",
+   "a": "Emirates Park Zoo",
+   "p": 200,
+   "ar": "حديقة حيوانات الإمارات",
+   "alt": [
+    "Emirates Park Zoo and Resort",
+    "Emirates Zoo"
+   ],
+   "qar": [
+    [
+     "Al Bahia",
+     "الباهية"
+    ],
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
+  },
+  {
+   "q": "Which Abu Dhabi reserve, about 45 km east of the city, protects more than 1,700 ancient wind-shaped sand formations?",
+   "a": "Al Wathba Fossil Dunes",
+   "p": 200,
+   "ar": "كثبان الوثبة الأحفورية",
+   "alt": [
+    "Al Wathba Fossil Dunes Reserve",
+    "Wathba Fossil Dunes",
+    "Fossil Dunes"
+   ],
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
+  },
+  {
+   "q": "Which crop has Sharjah grown on a large farm at Mleiha since 2022?",
+   "a": "Wheat",
+   "p": 200,
+   "ar": "قمح",
+   "alt": [
+    "Qamh"
+   ],
+   "qar": [
+    [
+     "Sharjah",
+     "الشارقة"
+    ],
+    [
+     "Mleiha",
+     "مليحة"
+    ]
+   ]
+  },
+  {
+   "q": "Which dune area on the higher plateau of Al Madam, about 65 km southeast of Sharjah city, is home to 'Big Red'?",
+   "a": "Al Badayer",
+   "p": 200,
+   "ar": "البداير",
+   "alt": [
+    "Badayer",
+    "Al Badayer dunes"
+   ],
+   "qar": [
+    [
+     "Al Madam",
+     "المدام"
+    ],
+    [
+     "Sharjah",
+     "الشارقة"
+    ]
+   ]
+  },
+  {
+   "q": "Under a 2016 federal law, individuals in the UAE may not own, breed or trade in what kind of animals?",
+   "a": "Dangerous animals",
+   "p": 200,
+   "alt": [
+    "Dangerous wild animals",
+    "Wild animals",
+    "Predators"
+   ]
+  },
+  {
+   "q": "Which Abu Dhabi park, among the emirate's oldest and largest, spans 500,000 square metres?",
+   "a": "Khalifa Park",
+   "p": 200,
+   "ar": "منتزه خليفة"
+  },
+  {
+   "q": "Jebel Jais is usually about how many degrees Celsius cooler than the rest of Ras Al Khaimah?",
+   "a": "About 10°C",
+   "p": 200,
+   "alt": [
+    "10 degrees",
+    "10°C",
+    "Ten degrees"
+   ],
+   "qar": [
+    [
+     "Jebel Jais",
+     "جبل جيس"
+    ],
+    [
+     "Ras Al Khaimah",
+     "رأس الخيمة"
+    ]
+   ]
+  },
+  {
+   "q": "Which Sharjah east-coast garden, 281 metres above sea level, has an artificial waterfall cascading into a small lake?",
+   "a": "Kalba Hanging Gardens",
+   "p": 200,
+   "ar": "الحدائق المعلقة في كلباء",
+   "alt": [
+    "Hanging Gardens",
+    "Hanging Gardens in Kalba"
+   ]
+  },
+  {
+   "q": "Which attraction in Sharjah Desert Park lets families visit camels, donkeys, goats and a duck pond?",
+   "a": "Children's Farm",
+   "p": 200,
+   "ar": "مزرعة الأطفال",
+   "alt": [
+    "The Children's Farm",
+    "Sharjah Children's Farm"
+   ]
+  },
+  {
+   "q": "Which bird lake in Hatta, near the Heritage Village, shares its name with a Tchaikovsky ballet?",
+   "a": "Swan Lake",
+   "p": 200,
+   "ar": "بحيرة البجع",
+   "alt": [
+    "Hatta Swan Lake"
+   ],
+   "qar": [
+    [
+     "Hatta",
+     "حتّا"
+    ]
+   ]
+  },
+  {
+   "q": "Which park, built in 2004 on a mountain in Dubai's Hajar highlands, has a climbable tower at its highest point?",
+   "a": "Hatta Hill Park",
+   "p": 200,
+   "ar": "حديقة جبل حتّا",
+   "alt": [
+    "Hatta Hill"
+   ]
+  },
+  {
+   "q": "Besides green and hawksbill, which third marine turtle species has been recorded in Dubai's Jebel Ali marine area?",
+   "a": "Loggerhead turtle",
+   "p": 400,
+   "alt": [
+    "Loggerhead",
+    "Loggerhead sea turtle"
+   ],
+   "qar": [
+    [
+     "Jebel Ali",
+     "جبل علي"
+    ]
+   ]
+  },
+  {
+   "q": "Which peak, at around 1,300 metres, is the highest of Dubai's Hatta mountains?",
+   "a": "Jebel Umm Al Nsur",
+   "p": 400,
+   "ar": "جبل أم النسور",
+   "alt": [
+    "Umm Al Nsur",
+    "Jabal Umm Al Nusur",
+    "Jebel Umm Al Nusoor"
+   ],
+   "qar": [
+    [
+     "Hatta",
+     "حتا"
+    ]
+   ]
+  },
+  {
+   "q": "Which peak, rising to around 1,535 metres, is the highest in the mountains around Khor Fakkan?",
+   "a": "Jebel Al Qadisiyah",
+   "p": 400,
+   "ar": "جبل القادسية",
+   "alt": [
+    "Al Qadisiyah",
+    "Jabal Al Qadisiya",
+    "Qadisiyah"
+   ],
+   "qar": [
+    [
+     "Khor Fakkan",
+     "خورفكان"
+    ]
+   ]
+  },
+  {
+   "q": "Which Jebel Jais mountain camp takes its name from its altitude in metres?",
+   "a": "Camp 1770",
+   "p": 400,
+   "alt": [
+    "1770",
+    "Camp Seventeen Seventy"
+   ],
+   "qar": [
+    [
+     "Jebel Jais",
+     "جبل جيس"
+    ]
+   ]
+  },
+  {
+   "q": "What rare sight sometimes appears on the salty shore at Ras Al Khaimah's Al Rams Beach?",
+   "a": "A pink lake",
+   "p": 400,
+   "alt": [
+    "Pink lake",
+    "Pink water",
+    "Pink lagoon"
+   ],
+   "qar": [
+    [
+     "Ras Al Khaimah",
+     "رأس الخيمة"
+    ],
+    [
+     "Al Rams",
+     "الرمس"
+    ]
+   ]
+  },
+  {
+   "q": "Which centre on Sharjah's east coast keeps owls, eagles, vultures and falcons, with free-flying demonstrations?",
+   "a": "Kalba Birds of Prey Centre",
+   "p": 400,
+   "ar": "مركز كلباء للطيور الجارحة",
+   "alt": [
+    "Kalba Bird of Prey Centre",
+    "Kalba Birds of Prey"
+   ],
+   "qar": [
+    [
+     "Sharjah",
+     "الشارقة"
+    ]
+   ]
+  },
+  {
+   "q": "Which museum in the heart of a central Sharjah oasis town showcases desert reptiles, mammals, birds, insects and native plants?",
+   "a": "Al Dhaid Wildlife Museum",
+   "p": 400,
+   "ar": "متحف الذيد للحياة البرية",
+   "alt": [
+    "Dhaid Wildlife Museum",
+    "Al Dhaid Wildlife Centre"
+   ],
+   "qar": [
+    [
+     "Sharjah",
+     "الشارقة"
+    ]
+   ]
+  },
+  {
+   "q": "Which rare palm grows in Abu Dhabi emirate only on Jebel Hafeet, alongside the Arabian tahr?",
+   "a": "Dwarf palm",
+   "p": 400,
+   "alt": [
+    "Ghathaf",
+    "Mazari palm",
+    "Nannorrhops"
+   ],
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ],
+    [
+     "Jebel Hafeet",
+     "جبل حفيت"
+    ]
+   ]
+  },
+  {
+   "q": "Which wadi, about 20 km southwest of Kalba, is named for its abundant sweet underground water?",
+   "a": "Wadi Al Helo",
+   "p": 400,
+   "ar": "وادي الحلو",
+   "alt": [
+    "Wadi Helo",
+    "Wadi Al Hilo",
+    "Wadi Al Hulw"
+   ],
+   "qar": [
+    [
+     "Kalba",
+     "كلباء"
+    ]
+   ]
+  },
+  {
+   "q": "In which African country has Abu Dhabi's EAD released scimitar-horned oryx, once extinct in the wild?",
+   "a": "Chad",
+   "p": 400,
+   "ar": "تشاد",
+   "alt": [
+    "Republic of Chad",
+    "Tchad"
+   ],
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
+  },
+  {
+   "q": "Which globally threatened vulture is found in the UAE only on Jebel Hafeet?",
+   "a": "Egyptian vulture",
+   "p": 600,
+   "alt": [
+    "Egyptian Vulture",
+    "Al Rakhmah",
+    "Rakhma"
+   ],
+   "qar": [
+    [
+     "Jebel Hafeet",
+     "جبل حفيت"
+    ]
+   ]
+  },
+  {
+   "q": "What is the local name of the white saxaul shrub, which gives its name to a restricted protected area in Abu Dhabi?",
+   "a": "Ghada",
+   "p": 600,
+   "ar": "الغضا",
+   "alt": [
+    "Al Ghada",
+    "Ghadha",
+    "Ghadhi"
+   ],
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ]
+   ]
+  },
+  {
+   "q": "Which Ras Al Khaimah mountain reaches 1,527 metres above sea level?",
+   "a": "Jebel Al Mebrah",
+   "p": 400,
+   "ar": "جبل المبرح",
+   "alt": [
+    "Jabal Al Mebrah",
+    "Al Mebrah",
+    "Jebel Mebrah"
+   ]
+  },
+  {
+   "q": "Besides Al Maha, what local name does the Environment Agency – Abu Dhabi give the Arabian oryx?",
+   "a": "W'Dhehi",
+   "p": 400,
+   "ar": "الوضيحي",
+   "alt": [
+    "Al Wudhaihi",
+    "Wudhaihi",
+    "Al Wadhihi"
+   ]
+  },
+  {
+   "q": "What is the camel spider locally called in the UAE, according to the Environment Agency – Abu Dhabi?",
+   "a": "Yamel Al Aqrab",
+   "p": 400,
+   "ar": "جمل العقرب",
+   "alt": [
+    "Jamal Al Aqrab",
+    "Yamal Al Agrab"
+   ]
+  },
+  {
+   "q": "Which programme, set up by Sheikh Zayed in 1996, has helped return more than 1,000 falcons to the wild?",
+   "a": "Sheikh Zayed Falcon Release Programme",
+   "p": 400,
+   "ar": "برنامج الشيخ زايد لإطلاق الصقور",
+   "alt": [
+    "Falcon Release Programme",
+    "Zayed Falcon Release Programme"
+   ]
+  },
+  {
+   "q": "Which Khorfakkan mountain village sits in a wadi below a fort built nearly 300 years ago on the summit?",
+   "a": "Najd Al Maqsar",
+   "p": 400,
+   "ar": "نجد المقصار",
+   "alt": [
+    "Najd Al Maqsar Village",
+    "Najd Al Meqsar"
+   ],
+   "qar": [
+    [
+     "Khorfakkan",
+     "خورفكان"
+    ]
+   ]
+  },
+  {
+   "q": "Which shiny, metallic insect, declared a new species unique to the UAE, was collected by EAD at Al Wathba Wetland Reserve in 2009?",
+   "a": "Cuckoo wasp",
+   "p": 600,
+   "ar": "دبور الوقواق",
+   "alt": [
+    "Emerald wasp"
+   ]
   }
  ]
 }

@@ -3,7 +3,7 @@
  "name": "UAE TV & Pop Culture",
  "questions": [
   {
-   "q": "Which Emirati animated comedy follows four elderly women living in a Dubai neighbourhood?",
+   "q": "Which Emirati CGI comedy series follows four grannies in their neighbourhood?",
    "a": "Freej",
    "p": 200,
    "ar": "فريج",
@@ -16,20 +16,6 @@
    "cpic": "Dubai"
   },
   {
-   "q": "How many elderly women are the central characters of the Emirati animated series Freej?",
-   "a": "Four",
-   "p": 200,
-   "alt": [
-    "4"
-   ],
-   "qar": [
-    [
-     "Freej",
-     "فريج"
-    ]
-   ]
-  },
-  {
    "q": "In which city is the Emirati animated series Freej set?",
    "a": "Dubai",
    "p": 200,
@@ -39,22 +25,6 @@
    ],
    "pic": "Freej",
    "apic": "Dubai",
-   "qar": [
-    [
-     "Freej",
-     "فريج"
-    ]
-   ]
-  },
-  {
-   "q": "What is the English meaning of the Emirati word in the title of the cartoon Freej?",
-   "a": "Neighbourhood",
-   "p": 200,
-   "alt": [
-    "Neighborhood",
-    "Quarter",
-    "Local area"
-   ],
    "qar": [
     [
      "Freej",
@@ -154,17 +124,6 @@
    "apic": "TikTok"
   },
   {
-   "q": "What Arabic word is used across the Gulf for a TV drama series, such as those shown during Ramadan?",
-   "a": "Musalsal",
-   "p": 200,
-   "ar": "مسلسل",
-   "alt": [
-    "Mosalsal",
-    "Musalsalat",
-    "Mosalsalat"
-   ]
-  },
-  {
    "q": "Which Hollywood star famously climbed the outside of the Burj Khalifa on film in 2011?",
    "a": "Tom Cruise",
    "p": 200,
@@ -223,16 +182,6 @@
    "apic": "Instagram"
   },
   {
-   "q": "In which emirate did television broadcasting in the UAE begin in 1969?",
-   "a": "Abu Dhabi",
-   "p": 200,
-   "ar": "أبوظبي",
-   "alt": [
-    "Abu Dhabi emirate"
-   ],
-   "apic": "Emirate of Abu Dhabi"
-  },
-  {
    "q": "Which MBC channel is best known for showing Hollywood films?",
    "a": "MBC 2",
    "p": 200,
@@ -248,15 +197,6 @@
    "cpic": "Dubai"
   },
   {
-   "q": "Which Google-owned platform is the world's best-known video-sharing site?",
-   "a": "YouTube",
-   "p": 200,
-   "alt": [
-    "You Tube"
-   ],
-   "apic": "YouTube"
-  },
-  {
    "q": "Which company, formerly named Facebook, owns Instagram and WhatsApp?",
    "a": "Meta",
    "p": 200,
@@ -267,46 +207,19 @@
    "cpic": "Instagram"
   },
   {
-   "q": "Which Harvard student founded Facebook in 2004?",
-   "a": "Mark Zuckerberg",
-   "p": 200,
-   "alt": [
-    "Zuckerberg"
-   ],
-   "pic": "Facebook",
-   "apic": "Mark Zuckerberg"
-  },
-  {
    "q": "Which Japanese football cartoon did Arab children grow up watching as Captain Majid?",
    "a": "Captain Tsubasa",
    "p": 200,
    "alt": [
-    "Tsubasa",
-    "Captain Majid"
+    "Tsubasa"
    ],
-   "apic": "Captain Tsubasa",
    "qar": [
     [
      "Captain Majid",
      "كابتن ماجد"
     ]
-   ]
-  },
-  {
-   "q": "Which UAE telecom operator, with a short two-letter name, competes with Etisalat?",
-   "a": "du",
-   "p": 200,
-   "alt": [
-    "Du",
-    "Emirates Integrated Telecommunications"
    ],
-   "apic": "Du (company)",
-   "qar": [
-    [
-     "Etisalat",
-     "اتصالات"
-    ]
-   ]
+   "apic": "Captain Tsubasa"
   },
   {
    "q": "Which Abu Dhabi TV poetry contest has a prize amount in its English title?",
@@ -316,35 +229,15 @@
    "alt": [
     "Shaer Al Million",
     "Shair Al Million",
-    "Millions Poet",
     "Million Poet"
    ],
-   "apic": "Million's Poet",
    "qar": [
     [
      "Abu Dhabi",
      "أبوظبي"
     ]
-   ]
-  },
-  {
-   "q": "Under what nickname is Dubai's Sheikh Hamdan bin Mohammed widely known on social media and in poetry?",
-   "a": "Fazza",
-   "p": 200,
-   "ar": "فزاع",
-   "alt": [
-    "Fazaa",
-    "Faz3",
-    "Fazza3"
    ],
-   "apic": "Hamdan bin Mohammed Al Maktoum",
-   "qar": [
-    [
-     "Sheikh Hamdan bin Mohammed",
-     "الشيخ حمدان بن محمد"
-    ]
-   ],
-   "cpic": "Dubai"
+   "apic": "Million's Poet"
   },
   {
    "q": "Which social network is known for short text posts called tweets?",
@@ -355,31 +248,6 @@
     "Twitter (X)"
    ],
    "apic": "Twitter"
-  },
-  {
-   "q": "Which professional networking site, owned by Microsoft, is used for CVs and job searches?",
-   "a": "LinkedIn",
-   "p": 200,
-   "alt": [
-    "Linked In"
-   ],
-   "apic": "LinkedIn"
-  },
-  {
-   "q": "Which live-streaming site, owned by Amazon, is popular with gamers?",
-   "a": "Twitch",
-   "p": 200,
-   "apic": "Twitch (service)"
-  },
-  {
-   "q": "What Arabic word do Gulf viewers use for a TV channel?",
-   "a": "Qanat",
-   "p": 200,
-   "ar": "قناة",
-   "alt": [
-    "Qanah",
-    "Channel"
-   ]
   },
   {
    "q": "Which Egyptian singer, famous for the hit Tamally Maak, is hugely popular across the Gulf?",
@@ -414,16 +282,6 @@
      "نانسي عجرم"
     ]
    ]
-  },
-  {
-   "q": "Which Disney film features Princess Jasmine, a magic lamp and a blue Genie?",
-   "a": "Aladdin",
-   "p": 200,
-   "ar": "علاء الدين",
-   "alt": [
-    "Aladdin (1992)"
-   ],
-   "apic": "Aladdin (1992 Disney film)"
   },
   {
    "q": "Which classic collection of tales is famous for Scheherazade and Sinbad the Sailor?",
@@ -516,23 +374,7 @@
    ]
   },
   {
-   "q": "Freej first aired during which Islamic holy month?",
-   "a": "Ramadan",
-   "p": 400,
-   "ar": "رمضان",
-   "alt": [
-    "Ramadhan",
-    "Ramadan Kareem"
-   ],
-   "qar": [
-    [
-     "Freej",
-     "فريج"
-    ]
-   ]
-  },
-  {
-   "q": "Which Emirati animated satire, first broadcast in Ramadan 2006, was often compared by critics to The Simpsons and South Park?",
+   "q": "Besides Freej, which Emirati animated satire of the 2000s was often compared by critics to The Simpsons and South Park?",
    "a": "Shaabiyat Al Cartoon",
    "p": 400,
    "ar": "شعبيات الكرتون",
@@ -568,21 +410,6 @@
    ]
   },
   {
-   "q": "What picture feature was missing from Abu Dhabi TV's first broadcasts in 1969?",
-   "a": "Colour",
-   "p": 400,
-   "alt": [
-    "Color",
-    "Colour pictures"
-   ],
-   "qar": [
-    [
-     "Abu Dhabi TV",
-     "تلفزيون أبوظبي"
-    ]
-   ]
-  },
-  {
    "q": "In which year was the Middle East Broadcasting Center, MBC, launched?",
    "a": "1991",
    "p": 400,
@@ -591,7 +418,7 @@
   {
    "q": "Which MBC channel, launched in 2004, is aimed at children?",
    "a": "MBC 3",
-   "p": 400,
+   "p": 200,
    "alt": [
     "MBC3",
     "MBC Three"
@@ -617,7 +444,7 @@
   {
    "q": "Million's Poet showcases which style of Gulf vernacular poetry?",
    "a": "Nabati",
-   "p": 400,
+   "p": 200,
    "ar": "النبطي",
    "alt": [
     "Nabati poetry",
@@ -631,16 +458,15 @@
    "p": 400,
    "ar": "العربية",
    "alt": [
-    "Alarabiya",
-    "Al-Arabiya"
+    "Alarabiya"
    ],
-   "apic": "Al Arabiya",
    "qar": [
     [
      "Dubai Media City",
      "مدينة دبي للإعلام"
     ]
    ],
+   "apic": "Al Arabiya",
    "cpic": "Dubai Media City"
   },
   {
@@ -705,8 +531,7 @@
    "p": 400,
    "ar": "علي مصطفى",
    "alt": [
-    "Ali Mostafa",
-    "Ali F Mostafa"
+    "Ali Mostafa"
    ],
    "apic": "Ali F. Mostafa"
   },
@@ -738,45 +563,6 @@
    ],
    "pic": "Burj Khalifa",
    "apic": "Mission: Impossible – Ghost Protocol"
-  },
-  {
-   "q": "Etisalat Group rebranded in 2022 under which short name that includes a symbol?",
-   "a": "e&",
-   "p": 400,
-   "alt": [
-    "e and",
-    "eand",
-    "E&"
-   ],
-   "qar": [
-    [
-     "Etisalat",
-     "اتصالات"
-    ]
-   ]
-  },
-  {
-   "q": "Which long-running Saudi comedy sketch series, popular across the Gulf, starred Nasser Al Qasabi and Abdullah Al Sadhan?",
-   "a": "Tash Ma Tash",
-   "p": 400,
-   "ar": "طاش ما طاش",
-   "alt": [
-    "Tash Ma Tash",
-    "Tash Matash",
-    "Tashmatash"
-   ],
-   "apic": "Tash Ma Tash",
-   "qar": [
-    [
-     "Nasser Al Qasabi",
-     "ناصر القصبي"
-    ],
-    [
-     "Abdullah Al Sadhan",
-     "عبدالله السدحان"
-    ]
-   ],
-   "cpic": "Nasser Al Qasabi"
   },
   {
    "q": "Which Lebanese singer sat on the first Arab Idol panel with Ahlam and Hassan El Shafei?",
@@ -815,10 +601,9 @@
   {
    "q": "Which BlackBerry messaging service was a huge craze among UAE youth around 2010?",
    "a": "BBM",
-   "p": 400,
+   "p": 200,
    "alt": [
-    "BlackBerry Messenger",
-    "Blackberry Messenger"
+    "BlackBerry Messenger"
    ],
    "apic": "BlackBerry Messenger"
   },
@@ -833,22 +618,6 @@
    "a": "Vine",
    "p": 400,
    "apic": "Vine (service)"
-  },
-  {
-   "q": "What does the Arabic name of the streaming service Shahid mean in English?",
-   "a": "Watch",
-   "p": 400,
-   "alt": [
-    "Watch it",
-    "Watch (imperative)",
-    "See"
-   ],
-   "qar": [
-    [
-     "Shahid",
-     "شاهد"
-    ]
-   ]
   },
   {
    "q": "In which year did Arab Idol first air?",
@@ -868,7 +637,7 @@
   {
    "q": "Which Abu Dhabi Media channel carries the Arabic word for 'the Emirates' in its name?",
    "a": "Al Emarat",
-   "p": 400,
+   "p": 200,
    "ar": "الإمارات",
    "alt": [
     "Abu Dhabi Al Emarat",
@@ -1017,7 +786,7 @@
    "cpic": "Ragheb Alama"
   },
   {
-   "q": "Which Egyptian singer won the first season of Arab Idol in 2011?",
+   "q": "Which Egyptian singer won the first season of Arab Idol?",
    "a": "Carmen Suleiman",
    "p": 600,
    "ar": "كارمن سليمان",
@@ -1033,17 +802,16 @@
    "a": "twofour54",
    "p": 600,
    "alt": [
-    "Twofour54",
     "two four 54",
     "24 54"
    ],
-   "apic": "Twofour54",
    "qar": [
     [
      "Abu Dhabi",
      "أبوظبي"
     ]
-   ]
+   ],
+   "apic": "Twofour54"
   },
   {
    "q": "In which year did Abu Dhabi TV begin colour broadcasting?",
@@ -1089,7 +857,6 @@
    "ar": "نواف الجناحي",
    "alt": [
     "Nawaf Al-Janahi",
-    "Nawaf Aljanahi",
     "Nawaf Al Jenahi"
    ]
   },
@@ -1120,24 +887,13 @@
    ]
   },
   {
-   "q": "The 2008 Emirati film Arabian Sands drew on the work of which British explorer who crossed the Empty Quarter?",
-   "a": "Wilfred Thesiger",
-   "p": 600,
-   "alt": [
-    "Thesiger",
-    "Wilfrid Thesiger"
-   ],
-   "apic": "Wilfred Thesiger"
-  },
-  {
    "q": "Who is widely described as the UAE's first female film director, producer and screenwriter?",
    "a": "Nayla Al Khaja",
    "p": 600,
    "ar": "نيلة الخاجة",
    "alt": [
     "Naila Al Khaja",
-    "Nayla Alkhaja",
-    "Nayla Al Khaja"
+    "Nayla Alkhaja"
    ],
    "apic": "Nayla Al Khaja"
   },
@@ -1202,16 +958,15 @@
    "ar": "ذا فويس أحلى صوت",
    "alt": [
     "Ahla Sawt",
-    "The Voice Ahla Sawt",
     "The Voice Arabia"
    ],
-   "apic": "The Voice: Ahla Sawt",
    "qar": [
     [
      "Ahlam",
      "أحلام"
     ]
-   ]
+   ],
+   "apic": "The Voice: Ahla Sawt"
   },
   {
    "q": "Which English-language daily was launched by Abu Dhabi Media in 2008?",
@@ -1224,7 +979,7 @@
    "apic": "The National (Abu Dhabi)"
   },
   {
-   "q": "Which Abu Dhabi authority for culture and heritage funds the poetry show Million's Poet?",
+   "q": "Which Abu Dhabi authority funded the poetry show Million's Poet in its early seasons?",
    "a": "ADACH",
    "p": 600,
    "ar": "هيئة أبوظبي للثقافة والتراث",
@@ -1250,8 +1005,7 @@
    "p": 600,
    "alt": [
     "19 billion",
-    "USD 19 billion",
-    "$19 billion"
+    "USD 19 billion"
    ],
    "pic": "WhatsApp"
   },
@@ -1260,7 +1014,6 @@
    "a": "Musical.ly",
    "p": 600,
    "alt": [
-    "Musically",
     "Musical ly"
    ],
    "pic": "TikTok",
@@ -1338,7 +1091,7 @@
    "apic": "Huda Kattan"
   },
   {
-   "q": "Which children's magazine, launched in Abu Dhabi in 1979, is named after a famous Arab navigator?",
+   "q": "Which children's magazine, launched in Abu Dhabi, is named after a famous Arab navigator?",
    "a": "Majid",
    "p": 200,
    "ar": "ماجد",
@@ -1346,13 +1099,13 @@
     "Majid magazine",
     "Majed"
    ],
-   "apic": "Majid (magazine)",
    "qar": [
     [
      "Abu Dhabi",
      "أبوظبي"
     ]
-   ]
+   ],
+   "apic": "Majid (magazine)"
   },
   {
    "q": "Which Turkish butcher-chef with restaurants in Dubai and Abu Dhabi went viral in 2017 for sprinkling salt?",
@@ -1370,23 +1123,16 @@
    "a": "Spec Ops: The Line",
    "p": 200,
    "alt": [
-    "Spec Ops The Line",
     "Spec Ops"
    ],
    "apic": "Spec Ops: The Line"
-  },
-  {
-   "q": "Expo 2020 Dubai was postponed by the pandemic and opened in which year?",
-   "a": "2021",
-   "p": 200
   },
   {
    "q": "Which Australian car YouTuber based in Dubai is known as Supercar Blondie?",
    "a": "Alex Hirschi",
    "p": 200,
    "alt": [
-    "Alexandra Hirschi",
-    "Alex Kirsch"
+    "Alexandra Hirschi"
    ],
    "apic": "Supercar Blondie",
    "cpic": "Supercar Blondie"
@@ -1394,7 +1140,7 @@
   {
    "q": "What were the names of the two Emirati children who were Expo 2020 Dubai's main mascots?",
    "a": "Rashid and Latifa",
-   "p": 400,
+   "p": 200,
    "ar": "راشد ولطيفة",
    "alt": [
     "Latifa and Rashid"
@@ -1434,7 +1180,7 @@
    ]
   },
   {
-   "q": "Which Virgin Radio Dubai host is a cast member of Dubai Bling?",
+   "q": "Which Virgin Radio Dubai host was in the main cast of Dubai Bling's first season in 2022?",
    "a": "Kris Fade",
    "p": 400,
    "alt": [
@@ -1510,7 +1256,7 @@
    ]
   },
   {
-   "q": "Which 2021 Hitman game opens with a mission atop the world's tallest building in Dubai?",
+   "q": "Which 2021 Hitman game opens with a mission atop a Dubai skyscraper billed in the game as the world's tallest?",
    "a": "Hitman 3",
    "p": 400,
    "alt": [
@@ -1562,7 +1308,7 @@
   {
    "q": "What was the Arabic title of 'Who Wants to Be a Millionaire' on MBC?",
    "a": "Man Sayarbah Al Malyoon",
-   "p": 400,
+   "p": 200,
    "ar": "من سيربح المليون",
    "alt": [
     "Man Sa Yarbah Al Malyoun",
@@ -1738,18 +1484,13 @@
    "apic": "Syriana"
   },
   {
-   "q": "What was Dubai's English-language TV channel called before it became Dubai One?",
+   "q": "Before its 2004 relaunch as One TV, later renamed Dubai One, what was Dubai's English-language channel called?",
    "a": "Channel 33",
    "p": 600,
    "alt": [
     "Dubai 33",
     "Dubai Channel 33"
    ]
-  },
-  {
-   "q": "In which year did Dubai's Channel 33 first go on air?",
-   "a": "1977",
-   "p": 600
   },
   {
    "q": "Which Kuwaiti YouTuber set a Guinness record in 2022 with a 268-hour charity livestream from a glass room in Dubai?",

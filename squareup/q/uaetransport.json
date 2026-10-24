@@ -18,13 +18,6 @@
    "cpic": "Dubai"
   },
   {
-   "q": "What is the name of Dubai's electronic road toll system?",
-   "a": "Salik",
-   "p": 200,
-   "ar": "سالك",
-   "cpic": "Dubai"
-  },
-  {
    "q": "What is the name of Abu Dhabi's road toll system?",
    "a": "Darb",
    "p": 200,
@@ -32,40 +25,19 @@
    "cpic": "Abu Dhabi"
   },
   {
-   "q": "What is the name of the smart card used to pay fares on Dubai Metro and buses?",
-   "a": "Nol",
-   "p": 200,
-   "ar": "نول",
-   "alt": [
-    "Nol card"
-   ],
-   "cpic": "Dubai"
-  },
-  {
-   "q": "What does RTA stand for in Dubai?",
-   "a": "Roads and Transport Authority",
-   "p": 200,
-   "ar": "هيئة الطرق والمواصلات",
-   "alt": [
-    "Road and Transport Authority"
-   ],
-   "apic": "Roads and Transport Authority (Dubai)"
-  },
-  {
    "q": "What E-number does Sheikh Zayed Road carry?",
    "a": "E11",
    "p": 200,
    "alt": [
-    "E 11",
-    "E-11"
+    "E 11"
    ],
-   "pic": "Sheikh Zayed Road",
    "qar": [
     [
      "Sheikh Zayed Road",
      "شارع الشيخ زايد"
     ]
-   ]
+   ],
+   "pic": "Sheikh Zayed Road"
   },
   {
    "q": "What are the traditional wooden boats that ferry passengers across Dubai Creek called?",
@@ -98,16 +70,15 @@
    "ar": "مطار آل مكتوم الدولي",
    "alt": [
     "Al Maktoum International",
-    "Al Maktoum Airport",
-    "DWC"
+    "Al Maktoum Airport"
    ],
-   "apic": "Al Maktoum International Airport",
    "qar": [
     [
      "Dubai World Central",
      "دبي وورلد سنترال"
     ]
-   ]
+   ],
+   "apic": "Al Maktoum International Airport"
   },
   {
    "q": "What is the name of the UAE's national railway?",
@@ -120,14 +91,14 @@
    "apic": "Etihad Rail"
   },
   {
-   "q": "Which canal opened in 2016 to link Business Bay to the sea at Jumeirah?",
+   "q": "Which waterway links Business Bay to the sea at Jumeirah, passing under Sheikh Zayed Road?",
    "a": "Dubai Water Canal",
    "p": 200,
    "ar": "قناة دبي المائية",
    "alt": [
-    "Water Canal"
+    "Water Canal",
+    "Dubai Canal"
    ],
-   "apic": "Dubai Water Canal",
    "qar": [
     [
      "Business Bay",
@@ -136,8 +107,13 @@
     [
      "Jumeirah",
      "جميرا"
+    ],
+    [
+     "Sheikh Zayed Road",
+     "شارع الشيخ زايد"
     ]
    ],
+   "apic": "Dubai Water Canal",
    "cpic": "Business Bay"
   },
   {
@@ -164,14 +140,6 @@
    "p": 200
   },
   {
-   "q": "On which side of the road do people drive in the UAE?",
-   "a": "Right",
-   "p": 200,
-   "alt": [
-    "Right-hand side"
-   ]
-  },
-  {
    "q": "Which monorail runs down the trunk of the Palm Jumeirah to Atlantis?",
    "a": "Palm Monorail",
    "p": 200,
@@ -187,17 +155,7 @@
    ]
   },
   {
-   "q": "Which RAK mountain, the UAE's highest peak, is reached by a famous winding road?",
-   "a": "Jebel Jais",
-   "p": 200,
-   "ar": "جبل جيس",
-   "alt": [
-    "Jabal Jais"
-   ],
-   "apic": "Jebel Jais"
-  },
-  {
-   "q": "Which DXB terminal is used exclusively by Emirates?",
+   "q": "Which DXB terminal was built for the exclusive use of Emirates?",
    "a": "Terminal 3",
    "p": 200,
    "alt": [
@@ -287,14 +245,6 @@
    ]
   },
   {
-   "q": "In which emirate is DXB airport?",
-   "a": "Dubai",
-   "p": 200,
-   "ar": "دبي",
-   "pic": "Dubai International Airport",
-   "apic": "Emirate of Dubai"
-  },
-  {
    "q": "What is the three-letter code for Sharjah International Airport?",
    "a": "SHJ",
    "p": 200,
@@ -315,44 +265,17 @@
    ]
   },
   {
-   "q": "What is the name of the Sheikh Mohammed Bin Zayed Road in its E-number form?",
+   "q": "What E-number does Sheikh Mohammed bin Zayed Road carry?",
    "a": "E311",
    "p": 200,
    "alt": [
-    "E 311",
-    "E-311"
+    "E 311"
    ],
    "qar": [
     [
-     "Sheikh Mohammed Bin Zayed Road",
+     "Sheikh Mohammed bin Zayed Road",
      "شارع الشيخ محمد بن زايد"
     ]
-   ]
-  },
-  {
-   "q": "Which Abu Dhabi airport was renamed Zayed International Airport in 2024?",
-   "a": "Abu Dhabi International Airport",
-   "p": 200,
-   "ar": "مطار أبوظبي الدولي",
-   "alt": [
-    "Abu Dhabi International",
-    "Abu Dhabi Airport"
-   ],
-   "apic": "Zayed International Airport",
-   "qar": [
-    [
-     "Zayed International Airport",
-     "مطار زايد الدولي"
-    ]
-   ]
-  },
-  {
-   "q": "Which Dubai Metro carriages are reserved for women and children?",
-   "a": "Women and Children cabin",
-   "p": 200,
-   "alt": [
-    "Women's cabin",
-    "Ladies cabin"
    ]
   },
   {
@@ -378,25 +301,9 @@
    ]
   },
   {
-   "q": "In which year did Abu Dhabi start charging Darb tolls?",
-   "a": "2021",
-   "p": 400,
-   "qar": [
-    [
-     "Abu Dhabi",
-     "أبوظبي"
-    ],
-    [
-     "Darb",
-     "درب"
-    ]
-   ],
-   "cpic": "Abu Dhabi"
-  },
-  {
    "q": "What does 'Darb' mean in Arabic?",
    "a": "Road",
-   "p": 400,
+   "p": 200,
    "alt": [
     "Path",
     "Way",
@@ -457,7 +364,7 @@
    "cpic": "Dubai Creek"
   },
   {
-   "q": "Which Dubai Creek crossing opened in 2007 rests on pontoons?",
+   "q": "Which Dubai Creek crossing rests on pontoons?",
    "a": "Floating Bridge",
    "p": 400,
    "ar": "الجسر العائم",
@@ -487,8 +394,7 @@
    "a": "E611",
    "p": 400,
    "alt": [
-    "E 611",
-    "E-611"
+    "E 611"
    ]
   },
   {
@@ -582,15 +488,6 @@
    "apic": "Al Shindagha Tunnel"
   },
   {
-   "q": "Dubai's first passenger flights in 1960 used an airport with what kind of runway?",
-   "a": "Sand",
-   "p": 400,
-   "alt": [
-    "Compacted sand",
-    "Sand runway"
-   ]
-  },
-  {
    "q": "In which year did Dubai International Airport open?",
    "a": "1960",
    "p": 400,
@@ -625,8 +522,7 @@
    "a": "E66",
    "p": 400,
    "alt": [
-    "E 66",
-    "E-66"
+    "E 66"
    ],
    "qar": [
     [
@@ -641,8 +537,7 @@
    "a": "E22",
    "p": 400,
    "alt": [
-    "E 22",
-    "E-22"
+    "E 22"
    ],
    "qar": [
     [
@@ -659,7 +554,7 @@
   {
    "q": "What does 'Salik' mean in Arabic?",
    "a": "Clear",
-   "p": 400,
+   "p": 200,
    "alt": [
     "Open",
     "Free-flowing",
@@ -717,8 +612,7 @@
    "a": "E44",
    "p": 400,
    "alt": [
-    "E 44",
-    "E-44"
+    "E 44"
    ],
    "qar": [
     [
@@ -728,7 +622,7 @@
    ]
   },
   {
-   "q": "At what time of day did the Dubai Metro open on 9/9/09?",
+   "q": "At what exact time of day was the Dubai Metro opened on its launch day?",
    "a": "9:09:09 pm",
    "p": 600,
    "alt": [
@@ -901,7 +795,7 @@
    ]
   },
   {
-   "q": "What does Abu Dhabi's ITC stand for?",
+   "q": "Abu Dhabi's transport authority, now branded AD Mobility, was known as ITC. What did ITC stand for?",
    "a": "Integrated Transport Centre",
    "p": 600,
    "ar": "مركز النقل المتكامل",
@@ -930,7 +824,7 @@
    ]
   },
   {
-   "q": "Which colour Nol card is anonymous and plastic, the most common type?",
+   "q": "Which colour Nol card is the anonymous plastic card for ordinary-class travel?",
    "a": "Silver",
    "p": 600,
    "alt": [
@@ -952,17 +846,6 @@
     [
      "Sheikh Zayed Bridge",
      "جسر الشيخ زايد"
-    ]
-   ]
-  },
-  {
-   "q": "In which year did the Shindagha Tunnel open?",
-   "a": "1975",
-   "p": 600,
-   "qar": [
-    [
-     "Shindagha Tunnel",
-     "نفق الشندغة"
     ]
    ]
   },
@@ -1034,48 +917,6 @@
    ]
   },
   {
-   "q": "Which airline is based at Abu Dhabi's Zayed International Airport?",
-   "a": "Etihad Airways",
-   "p": 200,
-   "ar": "الاتحاد للطيران",
-   "alt": [
-    "Etihad"
-   ],
-   "pic": "Zayed International Airport",
-   "apic": "Etihad Airways",
-   "qar": [
-    [
-     "Abu Dhabi",
-     "أبوظبي"
-    ],
-    [
-     "Zayed International Airport",
-     "مطار زايد الدولي"
-    ]
-   ]
-  },
-  {
-   "q": "Which low-cost airline has its main hub at Sharjah International Airport?",
-   "a": "Air Arabia",
-   "p": 200,
-   "ar": "العربية للطيران",
-   "pic": "Sharjah International Airport",
-   "apic": "Air Arabia",
-   "qar": [
-    [
-     "Sharjah",
-     "الشارقة"
-    ]
-   ]
-  },
-  {
-   "q": "The E11 links Dubai with which capital city?",
-   "a": "Abu Dhabi",
-   "p": 200,
-   "ar": "أبوظبي",
-   "apic": "Abu Dhabi"
-  },
-  {
    "q": "Hafeet Rail is planned to link the UAE's railway with which neighbouring country?",
    "a": "Oman",
    "p": 200,
@@ -1098,21 +939,6 @@
    ]
   },
   {
-   "q": "Which is the only emirate with a metro system?",
-   "a": "Dubai",
-   "p": 200,
-   "ar": "دبي",
-   "pic": "Dubai Metro",
-   "apic": "Dubai"
-  },
-  {
-   "q": "In which emirate is the Gulf's first airport, opened in 1932?",
-   "a": "Sharjah",
-   "p": 200,
-   "ar": "الشارقة",
-   "apic": "Emirate of Sharjah"
-  },
-  {
    "q": "What sticker on a car's windscreen is read at Dubai's toll gates?",
    "a": "Salik tag",
    "p": 200,
@@ -1121,17 +947,6 @@
     "Salik sticker",
     "Tag"
    ]
-  },
-  {
-   "q": "Which Dubai area, home to Atlantis, is served by a monorail?",
-   "a": "Palm Jumeirah",
-   "p": 200,
-   "ar": "نخلة جميرا",
-   "alt": [
-    "The Palm"
-   ],
-   "pic": "Palm Jumeirah Monorail",
-   "apic": "Palm Jumeirah"
   },
   {
    "q": "What are the numbered junctions along Sheikh Zayed Road called?",
@@ -1149,15 +964,6 @@
    "cpic": "Sheikh Zayed Road"
   },
   {
-   "q": "Which UAE emirate's airport has the code RKT?",
-   "a": "Ras Al Khaimah",
-   "p": 200,
-   "ar": "رأس الخيمة",
-   "alt": [
-    "RAK"
-   ]
-  },
-  {
    "q": "Which Cunard liner is moored as a floating hotel at Dubai's Mina Rashid?",
    "a": "Queen Elizabeth 2",
    "p": 200,
@@ -1172,27 +978,6 @@
     ]
    ],
    "cpic": "Mina Rashid"
-  },
-  {
-   "q": "Which Abu Dhabi island, home to the F1 circuit, is a short drive from Zayed International Airport?",
-   "a": "Yas Island",
-   "p": 200,
-   "ar": "جزيرة ياس",
-   "alt": [
-    "Yas"
-   ],
-   "apic": "Yas Island",
-   "qar": [
-    [
-     "Abu Dhabi",
-     "أبوظبي"
-    ],
-    [
-     "Zayed International Airport",
-     "مطار زايد الدولي"
-    ]
-   ],
-   "cpic": "Zayed International Airport"
   },
   {
    "q": "In which Dubai district does DXB airport stand?",
@@ -1232,7 +1017,7 @@
   {
    "q": "Who inaugurated the Dubai Metro in 2009?",
    "a": "Sheikh Mohammed bin Rashid Al Maktoum",
-   "p": 400,
+   "p": 200,
    "ar": "الشيخ محمد بن راشد آل مكتوم",
    "alt": [
     "Sheikh Mohammed",
@@ -1301,12 +1086,6 @@
    "ar": "الفجيرة",
    "apic": "Fujairah",
    "cpic": "Strait of Hormuz"
-  },
-  {
-   "q": "What does DWC stand for?",
-   "a": "Dubai World Central",
-   "p": 200,
-   "ar": "دبي وورلد سنترال"
   },
   {
    "q": "Which Dubai district surrounds Al Maktoum International Airport?",
@@ -1417,31 +1196,7 @@
    "q": "Which Dubai bike-share scheme carries a ride-hailing company's name?",
    "a": "Careem BIKE",
    "p": 400,
-   "ar": "كريم بايك",
-   "alt": [
-    "Careem Bike"
-   ]
-  },
-  {
-   "q": "On which Abu Dhabi cultural island does the Louvre Abu Dhabi stand?",
-   "a": "Saadiyat Island",
-   "p": 400,
-   "ar": "جزيرة السعديات",
-   "alt": [
-    "Saadiyat"
-   ],
-   "pic": "Louvre Abu Dhabi",
-   "apic": "Saadiyat Island",
-   "qar": [
-    [
-     "Abu Dhabi",
-     "أبوظبي"
-    ],
-    [
-     "Louvre Abu Dhabi",
-     "اللوفر أبوظبي"
-    ]
-   ]
+   "ar": "كريم بايك"
   },
   {
    "q": "What is the name of Sharjah's historic 1932 airfield, now a museum?",
@@ -1477,7 +1232,7 @@
    ]
   },
   {
-   "q": "Salik's first two gates in 2007 were at Al Barsha and which bridge?",
+   "q": "Salik's first two toll gates were at Al Barsha and which bridge?",
    "a": "Al Garhoud Bridge",
    "p": 600,
    "ar": "جسر القرهود",
@@ -1498,7 +1253,7 @@
   {
    "q": "What does 'Nol' mean in Arabic?",
    "a": "Fare",
-   "p": 600,
+   "p": 400,
    "alt": [
     "Fee",
     "Passage fare"
@@ -1516,7 +1271,6 @@
    "p": 600,
    "ar": "سهيل",
    "alt": [
-    "Shail",
     "Suhail"
    ]
   },
@@ -1615,21 +1369,6 @@
    ]
   },
   {
-   "q": "How many bends are on the Jebel Hafeet mountain road?",
-   "a": "60",
-   "p": 600,
-   "alt": [
-    "Sixty"
-   ],
-   "qar": [
-    [
-     "Jebel Hafeet",
-     "جبل حفيت"
-    ]
-   ],
-   "cpic": "Jebel Hafeet"
-  },
-  {
    "q": "Roughly how long is the Jebel Hafeet mountain road, in kilometres?",
    "a": "11.7",
    "p": 600,
@@ -1656,7 +1395,7 @@
    ]
   },
   {
-   "q": "Which French company supplied the newer Dubai Metro trains introduced in 2018?",
+   "q": "Which French company built Dubai Metro's 50 newer Metropolis trains, the first delivered in 2018?",
    "a": "Alstom",
    "p": 600,
    "pic": "Dubai Metro",
@@ -1685,38 +1424,6 @@
      "قطارات الاتحاد"
     ]
    ]
-  },
-  {
-   "q": "Which Al Ain mountain has a famous twisting road climbing to its summit?",
-   "a": "Jebel Hafeet",
-   "p": 200,
-   "ar": "جبل حفيت",
-   "alt": [
-    "Jabal Hafeet",
-    "Jebel Hafit"
-   ],
-   "apic": "Jebel Hafeet",
-   "qar": [
-    [
-     "Al Ain",
-     "العين"
-    ]
-   ]
-  },
-  {
-   "q": "Which Dubai mountain exclave near the Oman border is known for its dam and kayaking?",
-   "a": "Hatta",
-   "p": 200,
-   "ar": "حتا",
-   "apic": "Hatta",
-   "cpic": "Oman"
-  },
-  {
-   "q": "What is the three-letter code for Dubai International Airport?",
-   "a": "DXB",
-   "p": 200,
-   "apic": "Dubai International Airport",
-   "cpic": "Dubai International Airport"
   },
   {
    "q": "Which famous Dubai highway does the Museum of the Future stand beside?",
@@ -1762,11 +1469,6 @@
      "أبوظبي"
     ]
    ]
-  },
-  {
-   "q": "Which number do you call for police after a serious road accident in the UAE?",
-   "a": "999",
-   "p": 200
   },
   {
    "q": "Which UAE airport lies furthest east, on the Gulf of Oman coast?",
@@ -1817,7 +1519,7 @@
   {
    "q": "What does 'Hafilat' mean in Arabic?",
    "a": "Buses",
-   "p": 400,
+   "p": 200,
    "alt": [
     "Bus"
    ],
@@ -1884,6 +1586,82 @@
     [
      "Bur Dubai",
      "بر دبي"
+    ]
+   ]
+  },
+  {
+   "q": "What is the name of Abu Dhabi's public parking system, whose zones and fees drivers pay through the Darb app?",
+   "a": "Mawaqif",
+   "p": 200,
+   "ar": "مواقف",
+   "alt": [
+    "Mawaqif parking"
+   ],
+   "qar": [
+    [
+     "Abu Dhabi",
+     "أبوظبي"
+    ],
+    [
+     "Darb",
+     "درب"
+    ]
+   ]
+  },
+  {
+   "q": "Which taxi e-hailing service, launched in 2019 as a joint venture between the RTA and Careem, books Dubai taxis?",
+   "a": "Hala",
+   "p": 200,
+   "ar": "هلا",
+   "alt": [
+    "Hala Taxi"
+   ],
+   "qar": [
+    [
+     "Careem",
+     "كريم"
+    ]
+   ]
+  },
+  {
+   "q": "Which colour is the Dubai Metro line scheduled to open on 9 September 2029?",
+   "a": "Blue",
+   "p": 200,
+   "alt": [
+    "Blue Line"
+   ]
+  },
+  {
+   "q": "Which company, listed on the Dubai Financial Market in March 2024, is Dubai's public parking operator?",
+   "a": "Parkin",
+   "p": 200,
+   "ar": "باركن",
+   "alt": [
+    "Parkin Company"
+   ]
+  },
+  {
+   "q": "From which DXB terminal does flydubai mainly operate?",
+   "a": "Terminal 2",
+   "p": 200,
+   "alt": [
+    "T2",
+    "2"
+   ]
+  },
+  {
+   "q": "Under the variable Salik pricing introduced at the end of January 2025, how many dirhams does a peak-hour crossing cost?",
+   "a": "6",
+   "p": 400,
+   "alt": [
+    "6 dirhams",
+    "AED 6",
+    "Six"
+   ],
+   "qar": [
+    [
+     "Salik",
+     "سالك"
     ]
    ]
   }

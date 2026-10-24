@@ -22,15 +22,6 @@
    "cpic": "Arabic"
   },
   {
-   "q": "Which planet did the Hope Probe travel to?",
-   "a": "Mars",
-   "p": 200,
-   "alt": [
-    "The Red Planet"
-   ],
-   "apic": "Mars"
-  },
-  {
    "q": "Who became the first Emirati in space?",
    "a": "Hazza Al Mansoori",
    "p": 200,
@@ -94,7 +85,7 @@
    "cpic": "Dubai"
   },
   {
-   "q": "What name was given to the UAE's first lunar rover?",
+   "q": "What is the name of the UAE's first rover, built by MBRSC?",
    "a": "Rashid",
    "p": 200,
    "ar": "راشد",
@@ -276,8 +267,6 @@
    "a": "Atmosphere",
    "p": 200,
    "alt": [
-    "Weather",
-    "Climate",
     "The atmosphere"
    ],
    "apic": "Atmosphere of Mars",
@@ -335,20 +324,6 @@
    "apic": "Sarah Al Amiri"
   },
   {
-   "q": "In which emirate is the Mohammed bin Rashid Space Centre?",
-   "a": "Dubai",
-   "p": 200,
-   "ar": "دبي",
-   "apic": "Dubai",
-   "qar": [
-    [
-     "Mohammed bin Rashid Space Centre",
-     "مركز محمد بن راشد للفضاء"
-    ]
-   ],
-   "cpic": "Mohammed bin Rashid Space Centre"
-  },
-  {
    "q": "Hope reached Mars during which national UAE milestone year?",
    "a": "50th anniversary",
    "p": 200,
@@ -360,9 +335,14 @@
    "cpic": "Mars"
   },
   {
-   "q": "Which US space agency trained the UAE's second batch of astronauts?",
-   "a": "NASA",
-   "p": 200,
+   "q": "At which NASA centre in Houston did the UAE's second astronaut batch train?",
+   "a": "Johnson Space Center",
+   "p": 400,
+   "alt": [
+    "Johnson Space Centre",
+    "JSC",
+    "NASA Johnson"
+   ],
    "apic": "NASA"
   },
   {
@@ -371,39 +351,6 @@
    "p": 200,
    "ar": "أبوظبي",
    "apic": "Abu Dhabi"
-  },
-  {
-   "q": "Hazza Al Mansoori's 2019 mission was named 'Zayed's Ambition' after which leader?",
-   "a": "Sheikh Zayed",
-   "p": 200,
-   "ar": "الشيخ زايد بن سلطان آل نهيان",
-   "alt": [
-    "Zayed bin Sultan Al Nahyan",
-    "Zayed"
-   ],
-   "apic": "Zayed bin Sultan Al Nahyan",
-   "qar": [
-    [
-     "Hazza Al Mansoori",
-     "هزاع المنصوري"
-    ],
-    [
-     "Zayed's Ambition",
-     "طموح زايد"
-    ]
-   ]
-  },
-  {
-   "q": "In which language did Hazza Al Mansoori give his famous guided tour of the ISS?",
-   "a": "Arabic",
-   "p": 200,
-   "apic": "Arabic",
-   "qar": [
-    [
-     "Hazza Al Mansoori",
-     "هزاع المنصوري"
-    ]
-   ]
   },
   {
    "q": "From which US state did Sultan Al Neyadi blast off to the ISS?",
@@ -456,15 +403,6 @@
     ]
    ],
    "cpic": "Dubai"
-  },
-  {
-   "q": "Mars, Hope's destination, is popularly nicknamed the what?",
-   "a": "Red Planet",
-   "p": 200,
-   "alt": [
-    "The Red Planet"
-   ],
-   "apic": "Mars"
   },
   {
    "q": "Sultan Al Neyadi became the first person to wear a gi in space, the uniform of which martial art?",
@@ -531,25 +469,6 @@
    "pic": "Mars"
   },
   {
-   "q": "What do the letters MBR in the asteroid mission name 'MBR Explorer' stand for?",
-   "a": "Mohammed bin Rashid",
-   "p": 200,
-   "ar": "محمد بن راشد",
-   "alt": [
-    "Mohammed bin Rashid Al Maktoum"
-   ]
-  },
-  {
-   "q": "What do the letters MBZ in the satellite name 'MBZ-SAT' stand for?",
-   "a": "Mohamed bin Zayed",
-   "p": 200,
-   "ar": "محمد بن زايد",
-   "alt": [
-    "Mohammed bin Zayed",
-    "Mohamed bin Zayed Al Nahyan"
-   ]
-  },
-  {
    "q": "From which country's Baikonur Cosmodrome did Hazza Al Mansoori launch?",
    "a": "Kazakhstan",
    "p": 400,
@@ -592,16 +511,15 @@
    "a": "ispace",
    "p": 400,
    "alt": [
-    "i-space",
     "ispace inc"
    ],
-   "apic": "Ispace (Japanese company)",
    "qar": [
     [
      "Rashid",
      "راشد"
     ]
-   ]
+   ],
+   "apic": "Ispace (Japanese company)"
   },
   {
    "q": "How many science instruments does the Hope Probe carry?",
@@ -709,7 +627,7 @@
    "apic": "Tianwen-1"
   },
   {
-   "q": "Counting space agencies, the UAE became the ___ to reach Mars. Fill in the number.",
+   "q": "Counting space agencies, in what place did the UAE finish among those to reach Mars?",
    "a": "Fifth",
    "p": 400,
    "alt": [
@@ -759,7 +677,7 @@
    "cpic": "NASA"
   },
   {
-   "q": "Which part of NASA's lunar Gateway station has the UAE agreed to provide?",
+   "q": "In January 2024, the UAE announced it would provide which part of NASA's lunar Gateway station?",
    "a": "Airlock",
    "p": 400,
    "alt": [
@@ -872,7 +790,7 @@
   {
    "q": "What is the Arabic name of the planet Mars?",
    "a": "Al Mirrikh",
-   "p": 400,
+   "p": 200,
    "ar": "المريخ",
    "alt": [
     "Mirrikh",
@@ -1151,11 +1069,6 @@
    ]
   },
   {
-   "q": "In which year is the MBR Explorer asteroid mission planned to launch?",
-   "a": "2028",
-   "p": 400
-  },
-  {
    "q": "Which NASA network of giant antennas tracked and talked to Hope?",
    "a": "Deep Space Network",
    "p": 400,
@@ -1231,7 +1144,6 @@
    "p": 600,
    "alt": [
     "H2A",
-    "H-2A",
     "H-IIA rocket"
    ],
    "apic": "H-IIA"
@@ -1398,8 +1310,7 @@
    "p": 600,
    "ar": "مزن سات",
    "alt": [
-    "Mezn Sat",
-    "Mezn-Sat"
+    "Mezn Sat"
    ],
    "qar": [
     [
@@ -1414,8 +1325,7 @@
    "p": 600,
    "ar": "الشارقة",
    "alt": [
-    "Sharjah-Sat-1",
-    "University of Sharjah"
+    "Sharjah-Sat-1"
    ],
    "apic": "Sharjah"
   },
@@ -1452,7 +1362,6 @@
    "p": 600,
    "alt": [
     "About 1,350 kg",
-    "1350 kg",
     "1.35 tonnes"
    ]
   },
@@ -1461,8 +1370,7 @@
    "a": "Ultraviolet",
    "p": 600,
    "alt": [
-    "UV",
-    "Ultra-violet"
+    "UV"
    ]
   },
   {
@@ -1666,10 +1574,8 @@
    "a": "French Guiana",
    "p": 600,
    "alt": [
-    "Guiana",
-    "Kourou"
+    "Guiana"
    ],
-   "apic": "French Guiana",
    "qar": [
     [
      "Yahsat",
@@ -1679,7 +1585,8 @@
      "Al Yah 1",
      "الياه 1"
     ]
-   ]
+   ],
+   "apic": "French Guiana"
   },
   {
    "q": "The UAE's first SAR satellites study Earth with radar. What does SAR stand for?",
@@ -1692,8 +1599,7 @@
    "p": 600,
    "ar": "الاتحاد سات",
    "alt": [
-    "Etihad SAT",
-    "EtihadSat"
+    "Etihad SAT"
    ]
   },
   {
@@ -1815,6 +1721,21 @@
     [
      "Mohammad Al Mulla",
      "محمد الملا"
+    ]
+   ]
+  },
+  {
+   "q": "Before joining the astronaut corps, Nora Al Matrooshi worked as a piping engineer at which national construction company?",
+   "a": "National Petroleum Construction Company",
+   "p": 600,
+   "ar": "شركة الإنشاءات البترولية الوطنية",
+   "alt": [
+    "NPCC"
+   ],
+   "qar": [
+    [
+     "Nora Al Matrooshi",
+     "نورة المطروشي"
     ]
    ]
   }

@@ -3,19 +3,6 @@
  "name": "UAE Culture & Heritage",
  "questions": [
   {
-   "q": "What is the long white robe worn by Emirati men called?",
-   "a": "Kandura",
-   "p": 200,
-   "ar": "الكندورة",
-   "alt": [
-    "Kandora",
-    "Dishdasha",
-    "Thobe",
-    "Thawb"
-   ],
-   "apic": "Thawb"
-  },
-  {
    "q": "What is the white headscarf worn by Emirati men called?",
    "a": "Ghutra",
    "p": 200,
@@ -46,69 +33,7 @@
    ]
   },
   {
-   "q": "What is the black outer cloak worn by Emirati women called?",
-   "a": "Abaya",
-   "p": 200,
-   "ar": "العباءة",
-   "alt": [
-    "Abayah",
-    "Aba'a"
-   ],
-   "apic": "Abaya"
-  },
-  {
-   "q": "What is traditional Arabic coffee called in the Emirati dialect?",
-   "a": "Gahwa",
-   "p": 200,
-   "ar": "القهوة",
-   "alt": [
-    "Qahwa",
-    "Gahwah",
-    "Kahwa",
-    "Arabic coffee"
-   ],
-   "apic": "Arabic coffee"
-  },
-  {
-   "q": "What is the traditional long-spouted Arabic coffee pot called?",
-   "a": "Dallah",
-   "p": 200,
-   "ar": "دلة",
-   "alt": [
-    "Dalla",
-    "Dalah"
-   ],
-   "cpic": "Arabic coffee"
-  },
-  {
-   "q": "What is the traditional Emirati sitting room for receiving guests called?",
-   "a": "Majlis",
-   "p": 200,
-   "ar": "المجلس",
-   "alt": [
-    "Majles",
-    "Majalis"
-   ],
-   "apic": "Majlis"
-  },
-  {
-   "q": "Which traditional sport uses trained birds of prey to hunt?",
-   "a": "Falconry",
-   "p": 200,
-   "apic": "Falconry"
-  },
-  {
-   "q": "What is the traditional wooden sailing boat of the Gulf called?",
-   "a": "Dhow",
-   "p": 200,
-   "alt": [
-    "Dau",
-    "Dhau"
-   ],
-   "apic": "Dhow"
-  },
-  {
-   "q": "What is the Emirati dish of slow-cooked wheat and meat, popular during Ramadan, called?",
+   "q": "Which slow-cooked dish of wheat, meat and ghee did the UAE, Oman and Saudi Arabia jointly inscribe with UNESCO in 2023?",
    "a": "Harees",
    "p": 200,
    "ar": "الهريس",
@@ -117,25 +42,6 @@
     "Hareis"
    ],
    "apic": "Harees"
-  },
-  {
-   "q": "What are the sweet fried dumplings drizzled with date syrup called?",
-   "a": "Luqaimat",
-   "p": 200,
-   "ar": "لقيمات",
-   "alt": [
-    "Lugaimat",
-    "Loqaimat",
-    "Luqmat al Qadi"
-   ],
-   "apic": "Lokma",
-   "cpic": "Date syrup"
-  },
-  {
-   "q": "Before oil, Emiratis dived for which precious gems from the sea?",
-   "a": "Pearls",
-   "p": 200,
-   "apic": "Pearl"
   },
   {
    "q": "What is the traditional wind tower used to cool buildings called?",
@@ -156,50 +62,6 @@
     "Saluqi"
    ],
    "apic": "Saluki"
-  },
-  {
-   "q": "On what date is UAE National Day celebrated?",
-   "a": "2 December",
-   "p": 200
-  },
-  {
-   "q": "In which year was the United Arab Emirates founded?",
-   "a": "1971",
-   "p": 200,
-   "cpic": "United Arab Emirates"
-  },
-  {
-   "q": "Who is known as the Founding Father of the UAE?",
-   "a": "Sheikh Zayed bin Sultan Al Nahyan",
-   "p": 200,
-   "ar": "الشيخ زايد بن سلطان آل نهيان",
-   "alt": [
-    "Sheikh Zayed",
-    "Zayed bin Sultan Al Nahyan"
-   ],
-   "apic": "Zayed bin Sultan Al Nahyan"
-  },
-  {
-   "q": "What is the traditional children's celebration, with sweets and songs in the middle of a month before Ramadan, called?",
-   "a": "Hag Al Leila",
-   "p": 200,
-   "ar": "حق الليلة",
-   "alt": [
-    "Haq Al Laila",
-    "Hag Al Laila",
-    "Haq Al Leila"
-   ]
-  },
-  {
-   "q": "What is the name of the popular Emirati animated series about four grandmothers in a neighbourhood?",
-   "a": "Freej",
-   "p": 200,
-   "ar": "فريج",
-   "alt": [
-    "Fereej",
-    "Fureej"
-   ],
-   "apic": "Freej"
   },
   {
    "q": "What is the traditional incense burner used in Emirati homes called?",
@@ -234,24 +96,6 @@
    "cpic": "Bedouin"
   },
   {
-   "q": "Which fort in Abu Dhabi is the city's oldest stone building?",
-   "a": "Qasr Al Hosn",
-   "p": 200,
-   "ar": "قصر الحصن",
-   "alt": [
-    "Al Hosn",
-    "Qasr Al Hisn",
-    "White Fort"
-   ],
-   "apic": "Qasr Al Hosn",
-   "qar": [
-    [
-     "Abu Dhabi",
-     "أبوظبي"
-    ]
-   ]
-  },
-  {
    "q": "What is the traditional Emirati house made from palm fronds called?",
    "a": "Arish",
    "p": 200,
@@ -273,93 +117,26 @@
    "cpic": "Bedouin"
   },
   {
-   "q": "What is the cash gift given to children at Eid called?",
-   "a": "Eidiya",
-   "p": 200,
-   "ar": "العيدية",
+   "q": "What was the woman who decorated brides' hands and feet with henna traditionally called?",
+   "a": "Al Muhanniya",
+   "p": 400,
+   "ar": "المحنّية",
    "alt": [
-    "Eidia",
-    "Eidiyah"
+    "Muhanniya",
+    "Al Hannaya",
+    "Hannaya"
    ]
   },
   {
-   "q": "Which popular Emirati word means 'let's go' or 'hurry up'?",
-   "a": "Yalla",
-   "p": 200,
-   "ar": "يلا",
-   "alt": [
-    "Yallah",
-    "Yella"
-   ]
-  },
-  {
-   "q": "What does the common word 'habibi' mean?",
-   "a": "My dear or beloved",
-   "p": 200,
-   "qar": [
-    [
-     "habibi",
-     "حبيبي"
-    ]
-   ]
-  },
-  {
-   "q": "What is the lightweight scarf worn by Emirati women over the hair called?",
-   "a": "Shayla",
-   "p": 200,
-   "ar": "الشيلة",
-   "alt": [
-    "Sheila",
-    "Shaila"
-   ]
-  },
-  {
-   "q": "What is the Emirati spiced rice and meat dish, similar to biryani, called?",
-   "a": "Machboos",
-   "p": 200,
-   "ar": "مجبوس",
-   "alt": [
-    "Majboos",
-    "Machbous",
-    "Makbous"
-   ]
-  },
-  {
-   "q": "What natural dye is used to decorate hands and feet at Emirati celebrations?",
-   "a": "Henna",
-   "p": 200,
-   "ar": "الحناء",
-   "alt": [
-    "Hinna"
-   ],
-   "apic": "Henna"
-  },
-  {
-   "q": "Which fruit of the date palm is traditionally served alongside Arabic coffee?",
-   "a": "Dates",
-   "p": 200,
-   "alt": [
-    "Tamr",
-    "Tamar"
-   ],
-   "apic": "Date palm",
-   "cpic": "Arabic coffee"
-  },
-  {
-   "q": "What is the traditional face mask worn by some older Emirati women called?",
+   "q": "Which word names both the leather hood over a falcon's eyes and the face mask worn by married Emirati women?",
    "a": "Burqa",
    "p": 200,
    "ar": "البرقع",
    "alt": [
     "Burga",
-    "Battoola"
+    "Burqa'a",
+    "Barga"
    ]
-  },
-  {
-   "q": "In which traditional Emirati sport do camels race with robot jockeys?",
-   "a": "Camel racing",
-   "p": 200,
-   "apic": "Camel racing"
   },
   {
    "q": "What other name does Emirati National Day go by, meaning 'Union Day'?",
@@ -373,7 +150,7 @@
   {
    "q": "What is the formal cloak worn over the kandura on special occasions called?",
    "a": "Bisht",
-   "p": 400,
+   "p": 200,
    "ar": "البشت",
    "alt": [
     "Mishlah",
@@ -403,9 +180,7 @@
    "p": 400,
    "ar": "الخوص",
    "alt": [
-    "Khous",
-    "Sa'af",
-    "Safaf"
+    "Khous"
    ],
    "cpic": "Date palm"
   },
@@ -445,7 +220,7 @@
   {
    "q": "In majlis etiquette, how does a guest signal they want no more coffee?",
    "a": "Shake the cup gently",
-   "p": 400,
+   "p": 200,
    "qar": [
     [
      "majlis",
@@ -467,72 +242,6 @@
      "القهوة"
     ]
    ]
-  },
-  {
-   "q": "What is the Emirati slow-cooked porridge-like dish of rice and chicken or fish called?",
-   "a": "Madrooba",
-   "p": 400,
-   "ar": "المضروبة",
-   "alt": [
-    "Madrouba",
-    "Madhrooba"
-   ]
-  },
-  {
-   "q": "What is the Emirati stew served over thin bread layers called?",
-   "a": "Thareed",
-   "p": 400,
-   "ar": "الثريد",
-   "alt": [
-    "Tharid",
-    "Thrid"
-   ]
-  },
-  {
-   "q": "What are Emirati pancakes flavoured with saffron and cardamom called?",
-   "a": "Chebab",
-   "p": 400,
-   "ar": "جباب",
-   "alt": [
-    "Jebab",
-    "Chabab"
-   ]
-  },
-  {
-   "q": "What is date syrup called in Emirati Arabic?",
-   "a": "Dibs",
-   "p": 400,
-   "ar": "دبس",
-   "alt": [
-    "Dibis"
-   ],
-   "cpic": "Date syrup"
-  },
-  {
-   "q": "What is the sweet Emirati breakfast dish of saffron vermicelli topped with an omelette called?",
-   "a": "Balaleet",
-   "p": 400,
-   "ar": "البلاليط",
-   "alt": [
-    "Balalit",
-    "Balaliet"
-   ]
-  },
-  {
-   "q": "What replaced child jockeys in UAE camel racing?",
-   "a": "Robot jockeys",
-   "p": 400,
-   "cpic": "Camel racing"
-  },
-  {
-   "q": "Which falcon species is most widely used in Emirati falconry?",
-   "a": "Saker falcon",
-   "p": 400,
-   "alt": [
-    "Hurr"
-   ],
-   "apic": "Saker falcon",
-   "cpic": "Falconry"
   },
   {
    "q": "What document allows a falcon to travel by air in the UAE?",
@@ -568,75 +277,14 @@
    "apic": "Al Ain"
   },
   {
-   "q": "What does the Emirati word 'wayed' mean?",
-   "a": "Very or a lot",
+   "q": "In Al Ayyala, what are the young women who toss their hair in front of the rows called?",
+   "a": "Al Na'ashat",
    "p": 400,
-   "qar": [
-    [
-     "wayed",
-     "وايد"
-    ]
-   ]
-  },
-  {
-   "q": "What does the Emirati word 'zain' mean?",
-   "a": "Good or fine",
-   "p": 400,
-   "qar": [
-    [
-     "zain",
-     "زين"
-    ]
-   ]
-  },
-  {
-   "q": "What does the Emirati word 'khalas' mean?",
-   "a": "Finished or enough",
-   "p": 400,
-   "qar": [
-    [
-     "khalas",
-     "خلاص"
-    ]
-   ]
-  },
-  {
-   "q": "What does the Emirati greeting 'shlonak' mean?",
-   "a": "How are you",
-   "p": 400,
-   "qar": [
-    [
-     "shlonak",
-     "شلونك"
-    ]
-   ]
-  },
-  {
-   "q": "What does the Emirati phrase 'Hayyak Allah' mean?",
-   "a": "Welcome",
-   "p": 400,
-   "qar": [
-    [
-     "Hayyak Allah",
-     "حياك الله"
-    ]
-   ]
-  },
-  {
-   "q": "What does the Emirati word 'yamma' mean?",
-   "a": "Mother",
-   "p": 400,
-   "qar": [
-    [
-     "yamma",
-     "يمه"
-    ]
-   ]
-  },
-  {
-   "q": "What do Al Ayyala performers hold and sway?",
-   "a": "Thin canes",
-   "p": 400,
+   "ar": "النعاشات",
+   "alt": [
+    "Na'ashat",
+    "Naashat"
+   ],
    "qar": [
     [
      "Al Ayyala",
@@ -657,44 +305,9 @@
    "apic": "Al Fahidi Historical Neighbourhood"
   },
   {
-   "q": "What is the late-night Ramadan meal shared among family and friends called?",
-   "a": "Ghabga",
-   "p": 400,
-   "ar": "غبقة",
-   "alt": [
-    "Ghabqa"
-   ]
-  },
-  {
-   "q": "What is the thin, crisp Emirati flatbread cooked on a griddle called?",
-   "a": "Regag",
-   "p": 400,
-   "ar": "الرقاق",
-   "alt": [
-    "Rgag",
-    "Rigag"
-   ]
-  },
-  {
-   "q": "What is the small handleless cup used to serve gahwa called?",
-   "a": "Finjan",
-   "p": 400,
-   "ar": "فنجان",
-   "alt": [
-    "Finjal",
-    "Fenjan"
-   ],
-   "qar": [
-    [
-     "gahwa",
-     "القهوة"
-    ]
-   ]
-  },
-  {
    "q": "What are scented wood chips burned as incense in Emirati homes called?",
    "a": "Bakhoor",
-   "p": 400,
+   "p": 200,
    "ar": "البخور",
    "alt": [
     "Bukhoor",
@@ -717,22 +330,6 @@
      "الكندورة"
     ]
    ]
-  },
-  {
-   "q": "On which date is UAE Flag Day marked each year?",
-   "a": "3 November",
-   "p": 400,
-   "cpic": "img/flags/6bfe7f5e1c.svg"
-  },
-  {
-   "q": "Which emirate joined the federation in February 1972?",
-   "a": "Ras Al Khaimah",
-   "p": 400,
-   "ar": "رأس الخيمة",
-   "alt": [
-    "RAK"
-   ],
-   "apic": "Ras Al Khaimah"
   },
   {
    "q": "Al Sadu weavers traditionally use wool from sheep, camels and which other animal?",
@@ -761,6 +358,10 @@
    "a": "Fattam",
    "p": 600,
    "ar": "الفطام",
+   "alt": [
+    "Fettam",
+    "F'ttam"
+   ],
    "cpic": "Pearl"
   },
   {
@@ -779,6 +380,8 @@
    "p": 600,
    "ar": "الديين",
    "alt": [
+    "Deyeen",
+    "Dayeen",
     "Deyin",
     "Diyin"
    ]
@@ -815,52 +418,24 @@
    ]
   },
   {
-   "q": "What is the traditional summer season of date harvest and moving to oases called?",
-   "a": "Qaitt",
+   "q": "What was the traditional summer move of coastal families to cooler inland areas called?",
+   "a": "Al Maqyadh",
    "p": 600,
-   "ar": "القيظ",
+   "ar": "المقيظ",
    "alt": [
-    "Qayd",
-    "Qaidh"
+    "Mukaid",
+    "Maqyadh",
+    "Al Mgaidh"
    ]
   },
   {
    "q": "What are traditional camel beauty contests called?",
    "a": "Mazayna",
-   "p": 600,
+   "p": 400,
    "ar": "المزاينة",
    "alt": [
     "Mazayin",
     "Mzayna"
-   ]
-  },
-  {
-   "q": "What are the Emirati cardamom-scented fried cakes called?",
-   "a": "Khanfaroush",
-   "p": 600,
-   "ar": "الخنفروش",
-   "alt": [
-    "Khanfroush",
-    "Khanfaroosh"
-   ]
-  },
-  {
-   "q": "What is the sweet Emirati bread made with dates and cardamom called?",
-   "a": "Khameer",
-   "p": 600,
-   "ar": "الخمير",
-   "alt": [
-    "Khamir"
-   ]
-  },
-  {
-   "q": "What is the Emirati vegetable and meat stew called?",
-   "a": "Saloona",
-   "p": 600,
-   "ar": "السالونة",
-   "alt": [
-    "Salona",
-    "Salouna"
    ]
   },
   {
@@ -903,54 +478,6 @@
    ]
   },
   {
-   "q": "Who created the animated series Freej?",
-   "a": "Mohammed Saeed Harib",
-   "p": 600,
-   "ar": "محمد سعيد حارب",
-   "alt": [
-    "Mohammed Harib"
-   ],
-   "apic": "Mohammed Saeed Harib",
-   "qar": [
-    [
-     "Freej",
-     "فريج"
-    ]
-   ]
-  },
-  {
-   "q": "In which Islamic month is Hag Al Leila celebrated?",
-   "a": "Shaban",
-   "p": 600,
-   "ar": "شعبان",
-   "alt": [
-    "Shaaban",
-    "Sha'ban"
-   ],
-   "qar": [
-    [
-     "Hag Al Leila",
-     "حق الليلة"
-    ]
-   ]
-  },
-  {
-   "q": "What is another name for arish palm-frond houses?",
-   "a": "Barasti",
-   "p": 600,
-   "ar": "البرستي",
-   "alt": [
-    "Barastee",
-    "Arish"
-   ],
-   "qar": [
-    [
-     "arish",
-     "العريش"
-    ]
-   ]
-  },
-  {
    "q": "What is the Persian-origin term for a wind tower?",
    "a": "Badgir",
    "p": 600,
@@ -968,115 +495,10 @@
    "cpic": "Falconry"
   },
   {
-   "q": "In which year was Al Sadu inscribed on UNESCO's intangible heritage list?",
-   "a": "2011",
-   "p": 600,
-   "qar": [
-    [
-     "Al Sadu",
-     "السدو"
-    ]
-   ]
-  },
-  {
-   "q": "In which year was Al Ayyala inscribed on UNESCO's intangible heritage list?",
-   "a": "2014",
-   "p": 600,
-   "qar": [
-    [
-     "Al Ayyala",
-     "العيالة"
-    ]
-   ]
-  },
-  {
    "q": "In which year was Arabic coffee inscribed on UNESCO's intangible heritage list?",
    "a": "2015",
    "p": 600,
    "cpic": "Arabic coffee"
-  },
-  {
-   "q": "Which Ramadan guessing game involves hiding a ring in a team member's hands?",
-   "a": "Mahaibes",
-   "p": 600,
-   "ar": "المحيبس",
-   "alt": [
-    "Mhaibes",
-    "Mahaibis",
-    "Muhaibis"
-   ]
-  },
-  {
-   "q": "Who designed the UAE flag in 1971?",
-   "a": "Abdullah Mohammed Al Maainah",
-   "p": 600,
-   "ar": "عبدالله محمد المعينة",
-   "alt": [
-    "Abdullah Al Maainah",
-    "Abdulla Mohammed Al Maaina"
-   ],
-   "cpic": "img/flags/6bfe7f5e1c.svg"
-  },
-  {
-   "q": "What does the Emirati word 'inzain' mean?",
-   "a": "Okay or alright",
-   "p": 600,
-   "qar": [
-    [
-     "inzain",
-     "انزين"
-    ]
-   ]
-  },
-  {
-   "q": "What does the Emirati word 'chithi' mean?",
-   "a": "Like this",
-   "p": 600,
-   "qar": [
-    [
-     "chithi",
-     "جذي"
-    ]
-   ]
-  },
-  {
-   "q": "What does the Emirati word 'shakhbarak' literally ask about?",
-   "a": "Your news",
-   "p": 600,
-   "qar": [
-    [
-     "shakhbarak",
-     "شخبارك"
-    ]
-   ]
-  },
-  {
-   "q": "What is the Emirati dish of coarsely crushed wheat and meat, similar to harees, called?",
-   "a": "Jireesh",
-   "p": 600,
-   "ar": "الجريش",
-   "alt": [
-    "Jarish",
-    "Jareesh"
-   ],
-   "qar": [
-    [
-     "harees",
-     "الهريس"
-    ]
-   ]
-  },
-  {
-   "q": "In which decade was the original Qasr Al Hosn watchtower built?",
-   "a": "1790s",
-   "p": 600,
-   "qar": [
-    [
-     "Qasr Al Hosn",
-     "قصر الحصن"
-    ]
-   ],
-   "cpic": "Qasr Al Hosn"
   },
   {
    "q": "Which prized resinous wood is burned as incense or made into perfume in Emirati homes?",
@@ -1090,14 +512,14 @@
    "apic": "Agarwood"
   },
   {
-   "q": "Which black eye cosmetic was traditionally used by Emirati men and women?",
+   "q": "Which traditional eye cosmetic was added to UNESCO's intangible heritage list in 2025, with the UAE among the nominating states?",
    "a": "Kohl",
    "p": 200,
    "ar": "الكحل",
    "alt": [
     "Kuhl",
-    "Kajal",
-    "Kahal"
+    "Kahal",
+    "Arabic kohl"
    ],
    "apic": "Kohl (cosmetics)"
   },
@@ -1112,65 +534,13 @@
    "apic": "Oud"
   },
   {
-   "q": "What are the desert-dwelling nomadic Arabs called?",
-   "a": "Bedouin",
-   "p": 200,
-   "ar": "البدو",
-   "alt": [
-    "Bedu",
-    "Badu",
-    "Bedouins"
-   ],
-   "apic": "Bedouin"
-  },
-  {
-   "q": "Which breed of horse, known for its dished face and high tail, is prized in Arabian heritage?",
-   "a": "Arabian horse",
-   "p": 200,
-   "alt": [
-    "Arabian",
-    "Arab horse"
-   ],
-   "apic": "Arabian horse"
-  },
-  {
-   "q": "Which part of the face do Emiratis traditionally touch together in a respectful greeting?",
-   "a": "The nose",
-   "p": 200,
-   "alt": [
-    "Nose",
-    "Noses"
-   ]
-  },
-  {
-   "q": "What colour is the traditional Emirati men's kandura most commonly?",
-   "a": "White",
-   "p": 200
-  },
-  {
-   "q": "What colour is the traditional Emirati abaya?",
-   "a": "Black",
-   "p": 200,
-   "cpic": "Abaya"
-  },
-  {
-   "q": "How many humps does the Arabian camel have?",
-   "a": "One",
-   "p": 200,
-   "alt": [
-    "1"
-   ],
-   "apic": "Dromedary"
-  },
-  {
    "q": "Which traditional game is played by boys flicking small glass balls?",
-   "a": "Teela (marbles)",
+   "a": "Teela",
    "p": 200,
    "ar": "التيلة",
    "alt": [
-    "Teela",
-    "Marbles",
-    "Tila"
+    "Tila",
+    "Marbles"
    ],
    "apic": "Marble (toy)"
   },
@@ -1200,33 +570,6 @@
    ],
    "apic": "Frankincense",
    "cpic": "Oman"
-  },
-  {
-   "q": "What do Emiratis traditionally take off before entering a home or majlis?",
-   "a": "Shoes",
-   "p": 200,
-   "alt": [
-    "Footwear",
-    "Sandals"
-   ],
-   "qar": [
-    [
-     "majlis",
-     "المجلس"
-    ]
-   ],
-   "cpic": "Majlis"
-  },
-  {
-   "q": "What is the traditional Arabic greeting meaning 'Peace be upon you'?",
-   "a": "As-salamu alaykum",
-   "p": 200,
-   "ar": "السلام عليكم",
-   "alt": [
-    "Assalamu alaikum",
-    "Salam alaikum",
-    "Salaam"
-   ]
   },
   {
    "q": "In which emirate is the UAE's best-known traditional dhow-building yard?",
@@ -1297,16 +640,6 @@
    "apic": "Rebab"
   },
   {
-   "q": "What are the loose trousers worn under traditional Emirati dresses called?",
-   "a": "Sirwal",
-   "p": 200,
-   "ar": "السروال",
-   "alt": [
-    "Serwal",
-    "Sirwaal"
-   ]
-  },
-  {
    "q": "Which curved dagger is part of traditional dress in the eastern UAE and Oman?",
    "a": "Khanjar",
    "p": 200,
@@ -1344,9 +677,8 @@
    "p": 400,
    "ar": "القحفية",
    "alt": [
-    "Taqiyah",
-    "Kufiya",
-    "Ghafiya"
+    "Gahfiyah",
+    "Taqiyah"
    ],
    "qar": [
     [
@@ -1358,7 +690,7 @@
   {
    "q": "What are the strings of beads many Emirati men carry and click through their fingers?",
    "a": "Misbaha",
-   "p": 400,
+   "p": 200,
    "ar": "المسبحة",
    "alt": [
     "Masbaha",
@@ -1459,16 +791,6 @@
    "apic": "Fujairah"
   },
   {
-   "q": "What is a female camel called in Arabic?",
-   "a": "Naqa",
-   "p": 400,
-   "ar": "ناقة",
-   "alt": [
-    "Naga",
-    "Naqah"
-   ]
-  },
-  {
    "q": "Which traditional irrigation system was UNESCO-listed for the UAE in 2020?",
    "a": "Aflaj",
    "p": 400,
@@ -1507,7 +829,7 @@
   {
    "q": "What is a falconer called in Arabic?",
    "a": "Saqqar",
-   "p": 600,
+   "p": 200,
    "ar": "صقار",
    "alt": [
     "Saggar",
@@ -1517,7 +839,7 @@
   {
    "q": "What is the traditional goatskin water bag called?",
    "a": "Girba",
-   "p": 600,
+   "p": 400,
    "ar": "القربة",
    "alt": [
     "Qirba",
@@ -1545,15 +867,6 @@
     "Mashrabiyah"
    ],
    "apic": "Mashrabiya"
-  },
-  {
-   "q": "What is the gift paid by the groom to the bride under an Emirati marriage contract called?",
-   "a": "Mahr",
-   "p": 400,
-   "ar": "المهر",
-   "alt": [
-    "Dowry"
-   ]
   },
   {
    "q": "What is a large, perfectly round, prized pearl called in the Gulf?",
@@ -1591,11 +904,12 @@
    "ar": "الزهبة",
    "alt": [
     "Zahba",
+    "Zuhba",
     "Zahaba"
    ]
   },
   {
-   "q": "Which Emirati wedding procession tradition was inscribed by UNESCO in 2025?",
+   "q": "Which wedding procession tradition was inscribed by UNESCO in 2025, with the UAE among seven nominating states?",
    "a": "Zaffa",
    "p": 600,
    "ar": "الزفة",
@@ -1620,9 +934,13 @@
    "cpic": "Camel racing"
   },
   {
-   "q": "In which year was Al Talli embroidery inscribed by UNESCO?",
-   "a": "2022",
+   "q": "Al Talli braid is traditionally made of six cotton threads with what in the middle?",
+   "a": "Silver thread",
    "p": 600,
+   "alt": [
+    "A silver thread",
+    "Silver"
+   ],
    "qar": [
     [
      "Al Talli",
@@ -1727,6 +1045,335 @@
    "alt": [
     "Hadar",
     "Hadhr"
+   ]
+  },
+  {
+   "q": "What is the palm-frond basket once used on the coast to carry fish, and still used to hand out sweets at weddings?",
+   "a": "Jafeer",
+   "p": 200,
+   "ar": "الجفير",
+   "alt": [
+    "Al Jafeer",
+    "Jfeer"
+   ]
+  },
+  {
+   "q": "What is a majlis run by elders, chieftains and sheikhs traditionally called?",
+   "a": "Barza",
+   "p": 200,
+   "ar": "البرزة",
+   "alt": [
+    "Al Barza",
+    "Barzah"
+   ],
+   "qar": [
+    [
+     "majlis",
+     "المجلس"
+    ]
+   ]
+  },
+  {
+   "q": "What was a messenger sent to deliver news traditionally called?",
+   "a": "Al Taresh",
+   "p": 200,
+   "ar": "الطارش",
+   "alt": [
+    "Taresh",
+    "Tarish"
+   ]
+  },
+  {
+   "q": "What is the thin stick used to apply kohl called?",
+   "a": "Mirwad",
+   "p": 200,
+   "ar": "المرود",
+   "alt": [
+    "Merwad",
+    "Mikhal",
+    "Makhal"
+   ]
+  },
+  {
+   "q": "What is the small container that holds kohl called?",
+   "a": "Makhala",
+   "p": 200,
+   "ar": "المكحلة",
+   "alt": [
+    "Mukhula",
+    "Makhla"
+   ]
+  },
+  {
+   "q": "What is the small fishing boat that carries three to four people called?",
+   "a": "Hoori",
+   "p": 200,
+   "ar": "الهوري",
+   "alt": [
+    "Huri",
+    "Al Hoori"
+   ]
+  },
+  {
+   "q": "What is the traditional Emirati word for the farmer who tends and climbs date palms?",
+   "a": "Baydar",
+   "p": 200,
+   "ar": "البيدار",
+   "alt": [
+    "Baidar",
+    "Al Baydar"
+   ]
+  },
+  {
+   "q": "What is the popular type of sung poetry, often performed to the rababa, called?",
+   "a": "Shilla",
+   "p": 200,
+   "ar": "الشلّة",
+   "alt": [
+    "Sheela",
+    "Shella",
+    "Al Shilla"
+   ]
+  },
+  {
+   "q": "Which Emirati performing art was inscribed by UNESCO in 2025 as a UAE national file?",
+   "a": "Al Ahalla",
+   "p": 400,
+   "ar": "الآهلة",
+   "alt": [
+    "Ahalla",
+    "Al Aahla"
+   ]
+  },
+  {
+   "q": "What is the rope a date farmer ties around himself and the trunk to climb a palm called?",
+   "a": "Habool",
+   "p": 400,
+   "ar": "الحابول",
+   "alt": [
+    "Haboul",
+    "Al Habool",
+    "Hibool"
+   ]
+  },
+  {
+   "q": "What was the traditional dhow builder called?",
+   "a": "Jallaf",
+   "p": 400,
+   "ar": "الجلاّف",
+   "alt": [
+    "Al Jallaf",
+    "Qallaf",
+    "Gallaf"
+   ]
+  },
+  {
+   "q": "Which fishing net is named because fish catch their gills in it?",
+   "a": "Leekh",
+   "p": 400,
+   "ar": "الليخ",
+   "alt": [
+    "Al Leekh",
+    "Lekh"
+   ]
+  },
+  {
+   "q": "In Al Ayyala, what is the large drum called?",
+   "a": "Kasir",
+   "p": 400,
+   "ar": "الكاسر",
+   "alt": [
+    "Al Kasir",
+    "Rass",
+    "Al Rass"
+   ],
+   "qar": [
+    [
+     "Al Ayyala",
+     "العيالة"
+    ]
+   ]
+  },
+  {
+   "q": "Which type of bisht, named after an Iraqi city, is considered among the finest and most luxurious?",
+   "a": "Najafi",
+   "p": 400,
+   "ar": "النجفي",
+   "alt": [
+    "Al Najafi",
+    "Najafy"
+   ],
+   "qar": [
+    [
+     "bisht",
+     "البشت"
+    ]
+   ]
+  },
+  {
+   "q": "What is the rope linking the pearl diver to the seib, used to haul him back up?",
+   "a": "Al Yada",
+   "p": 600,
+   "ar": "اليدا",
+   "alt": [
+    "Yada",
+    "Al Yeda"
+   ],
+   "qar": [
+    [
+     "seib",
+     "السيب"
+    ]
+   ]
+  },
+  {
+   "q": "What is the small curved knife with a wooden handle used to prise open oysters called?",
+   "a": "Al Maflaqa",
+   "p": 600,
+   "ar": "المفلقة",
+   "alt": [
+    "Maflaqa",
+    "Mifliqa",
+    "Mefleqa"
+   ]
+  },
+  {
+   "q": "On a pearling boat, what were the boys aged 10 to 14 who helped the seib haul up divers called?",
+   "a": "Tabbab",
+   "p": 600,
+   "ar": "التبّاب",
+   "alt": [
+    "Al Tabbab",
+    "Tabab"
+   ],
+   "qar": [
+    [
+     "seib",
+     "السيب"
+    ]
+   ]
+  },
+  {
+   "q": "What was the captain of a whole pearling fleet, an expert navigator who knew the best oyster beds, called?",
+   "a": "Sardal",
+   "p": 600,
+   "ar": "السردال",
+   "alt": [
+    "Al Sardal",
+    "Sirdal"
+   ]
+  },
+  {
+   "q": "On a woman's burqa, what is the thin strip of wood forming the bridge over the nose called?",
+   "a": "Al Seif",
+   "p": 600,
+   "ar": "السيف",
+   "alt": [
+    "Seif",
+    "Saif",
+    "Al Saif"
+   ],
+   "qar": [
+    [
+     "burqa",
+     "البرقع"
+    ]
+   ]
+  },
+  {
+   "q": "In Al Ayyala, what is the group of men moving in a ring around the dancers called in Emirati dialect?",
+   "a": "Al Yaweela",
+   "p": 600,
+   "ar": "اليوّيلة",
+   "alt": [
+    "Yaweela",
+    "Al Jaweela",
+    "Al Yuwaila"
+   ],
+   "qar": [
+    [
+     "Al Ayyala",
+     "العيالة"
+    ]
+   ]
+  },
+  {
+   "q": "What is the melodic vocal art of singing Nabati poetry, also performed within Al Ayyala, called?",
+   "a": "Wanna",
+   "p": 600,
+   "ar": "الونّة",
+   "alt": [
+    "Al Wanna",
+    "Wannah"
+   ],
+   "qar": [
+    [
+     "Nabati",
+     "النبطي"
+    ],
+    [
+     "Al Ayyala",
+     "العيالة"
+    ]
+   ]
+  },
+  {
+   "q": "Which type of bisht takes its name from a region of eastern Saudi Arabia famous for bisht-making?",
+   "a": "Hasawi",
+   "p": 600,
+   "ar": "الحساوي",
+   "alt": [
+    "Hassawi",
+    "Al Hasawi"
+   ],
+   "qar": [
+    [
+     "bisht",
+     "البشت"
+    ]
+   ]
+  },
+  {
+   "q": "What is the round fishing net cast by one person that spreads like a tent called?",
+   "a": "Saleya",
+   "p": 600,
+   "ar": "الساليه",
+   "alt": [
+    "Al Saleya",
+    "Salya"
+   ]
+  },
+  {
+   "q": "What is the traditional round, deep wooden bowl called?",
+   "a": "Jafnah",
+   "p": 600,
+   "ar": "الجفنة",
+   "alt": [
+    "Yafnah",
+    "Jafna",
+    "Yafna"
+   ]
+  },
+  {
+   "q": "What was the head shipbuilder, the most experienced of the dhow builders, called?",
+   "a": "Oustad",
+   "p": 600,
+   "ar": "الأستاد",
+   "alt": [
+    "Ustad",
+    "Al Oustad",
+    "Ostad"
+   ]
+  },
+  {
+   "q": "What was the man who owned camels and leased them out for journeys such as the summer move inland called?",
+   "a": "Karrey",
+   "p": 600,
+   "ar": "الكري",
+   "alt": [
+    "Al Karrey",
+    "Kari",
+    "Karri"
    ]
   }
  ]

@@ -48,23 +48,6 @@
    "cpic": "Abu Dhabi"
   },
   {
-   "q": "The Dubai World Cup is a famous event in which sport?",
-   "a": "Horse racing",
-   "p": 200,
-   "alt": [
-    "Horseracing",
-    "Thoroughbred racing"
-   ],
-   "apic": "Horse racing",
-   "qar": [
-    [
-     "Dubai World Cup",
-     "كأس دبي العالمي"
-    ]
-   ],
-   "cpic": "Dubai"
-  },
-  {
    "q": "Which Dubai racecourse has hosted the Dubai World Cup since 2010?",
    "a": "Meydan",
    "p": 200,
@@ -102,19 +85,13 @@
    "cpic": "Dubai"
   },
   {
-   "q": "The UAE football team is nicknamed 'Al Abyad'. What does it mean?",
-   "a": "The Whites",
+   "q": "By which colour nickname do fans call the UAE national football team?",
+   "a": "Al Abyad",
    "p": 200,
+   "ar": "الأبيض",
    "alt": [
-    "White",
-    "The White",
-    "The White Ones"
-   ],
-   "qar": [
-    [
-     "Al Abyad",
-     "الأبيض"
-    ]
+    "The Whites",
+    "Al Abyadh"
    ]
   },
   {
@@ -249,32 +226,7 @@
    "cpic": "Camel racing"
   },
   {
-   "q": "Which traditional hunting sport with birds of prey did UNESCO list as heritage in 2010, with the UAE leading the bid?",
-   "a": "Falconry",
-   "p": 200,
-   "alt": [
-    "Hawking"
-   ],
-   "apic": "Falconry"
-  },
-  {
-   "q": "The Arabic word 'saqr' names which bird of prey, the star of Emirati hunting with birds?",
-   "a": "Falcon",
-   "p": 200,
-   "alt": [
-    "Falcons",
-    "Saker falcon"
-   ],
-   "apic": "Falcon",
-   "qar": [
-    [
-     "saqr",
-     "صقر"
-    ]
-   ]
-  },
-  {
-   "q": "Tadej Pogačar won the 2020 Tour de France riding for which UAE-backed team?",
+   "q": "Tadej Pogačar won his first Tour de France in 2020 riding for which team?",
    "a": "UAE Team Emirates",
    "p": 200,
    "alt": [
@@ -310,18 +262,6 @@
     "ICC"
    ],
    "apic": "International Cricket Council",
-   "qar": [
-    [
-     "Dubai",
-     "دبي"
-    ]
-   ]
-  },
-  {
-   "q": "Which sport is the Dubai Desert Classic?",
-   "a": "Golf",
-   "p": 200,
-   "apic": "Golf",
    "qar": [
     [
      "Dubai",
@@ -429,21 +369,6 @@
    "cpic": "New Zealand"
   },
   {
-   "q": "Which sport is played at Dubai's The Sevens Stadium every December?",
-   "a": "Rugby",
-   "p": 200,
-   "alt": [
-    "Rugby sevens",
-    "Rugby union"
-   ],
-   "qar": [
-    [
-     "Dubai",
-     "دبي"
-    ]
-   ]
-  },
-  {
    "q": "Omar Abdulrahman spent 2008 to 2018 at which club?",
    "a": "Al Ain",
    "p": 200,
@@ -472,20 +397,6 @@
    "apic": "2021 Abu Dhabi Grand Prix"
   },
   {
-   "q": "In which emirate is Meydan Racecourse?",
-   "a": "Dubai",
-   "p": 200,
-   "ar": "دبي",
-   "apic": "Dubai",
-   "qar": [
-    [
-     "Meydan Racecourse",
-     "مضمار ميدان"
-    ]
-   ],
-   "cpic": "Meydan Racecourse"
-  },
-  {
    "q": "Which animals race at Dubai's Al Marmoom track?",
    "a": "Camels",
    "p": 200,
@@ -502,26 +413,6 @@
     [
      "Al Marmoom",
      "المرموم"
-    ]
-   ]
-  },
-  {
-   "q": "What kind of traditional wooden sailing boats race in Dubai's Al Gaffal race?",
-   "a": "Dhows",
-   "p": 200,
-   "alt": [
-    "Dhow",
-    "Sailing dhows"
-   ],
-   "apic": "Dhow",
-   "qar": [
-    [
-     "Dubai",
-     "دبي"
-    ],
-    [
-     "Al Gaffal",
-     "القفال"
     ]
    ]
   },
@@ -557,20 +448,20 @@
    ]
   },
   {
-   "q": "Which Italian club beat TP Mazembe 3-0 in the 2010 Club World Cup final in Abu Dhabi?",
+   "q": "Which Italian club won the 2010 Club World Cup final in Abu Dhabi?",
    "a": "Inter Milan",
    "p": 200,
    "alt": [
     "Inter",
     "Internazionale"
    ],
-   "apic": "Inter Milan",
    "qar": [
     [
      "Abu Dhabi",
      "أبوظبي"
     ]
-   ]
+   ],
+   "apic": "Inter Milan"
   },
   {
    "q": "Which British driver won the Abu Dhabi Grand Prix five times between 2011 and 2019?",
@@ -606,7 +497,7 @@
   {
    "q": "Which Northern Irish golfer won his first professional title at the 2009 Dubai Desert Classic?",
    "a": "Rory McIlroy",
-   "p": 200,
+   "p": 400,
    "alt": [
     "McIlroy",
     "Rory"
@@ -622,7 +513,7 @@
   {
    "q": "Which South African nicknamed 'The Big Easy' won the Dubai Desert Classic three times?",
    "a": "Ernie Els",
-   "p": 200,
+   "p": 400,
    "alt": [
     "Els"
    ],
@@ -655,28 +546,6 @@
    ]
   },
   {
-   "q": "Which son of Sheikh Mohammed, a champion endurance rider, is known by the nickname 'Fazza'?",
-   "a": "Sheikh Hamdan bin Mohammed",
-   "p": 200,
-   "ar": "الشيخ حمدان بن محمد آل مكتوم",
-   "alt": [
-    "Hamdan bin Mohammed",
-    "Sheikh Hamdan",
-    "Fazza"
-   ],
-   "apic": "Hamdan bin Mohammed Al Maktoum",
-   "qar": [
-    [
-     "Sheikh Mohammed",
-     "الشيخ محمد"
-    ],
-    [
-     "Fazza",
-     "فزاع"
-    ]
-   ]
-  },
-  {
    "q": "Which Dubai highway is closed for the mass Dubai Run each year?",
    "a": "Sheikh Zayed Road",
    "p": 200,
@@ -694,27 +563,9 @@
    ]
   },
   {
-   "q": "Which emirate hosts the UAE's Formula 1 Grand Prix?",
-   "a": "Abu Dhabi",
-   "p": 200,
-   "ar": "أبوظبي",
-   "apic": "Abu Dhabi"
-  },
-  {
    "q": "The UAE hosted the AFC Asian Cup in 1996 and in which later year?",
    "a": "2019",
    "p": 200
-  },
-  {
-   "q": "The saluki, raced and used for hunting in Emirati heritage, is what kind of animal?",
-   "a": "Dog",
-   "p": 200,
-   "alt": [
-    "Hound",
-    "Greyhound-type dog",
-    "Saluki dog"
-   ],
-   "apic": "Saluki"
   },
   {
    "q": "How do owners steer and whip robot camel jockeys during a race?",
@@ -725,22 +576,6 @@
     "Remote",
     "Wireless remote"
    ]
-  },
-  {
-   "q": "Which Italian carmaker's theme park stands next to Yas Marina Circuit?",
-   "a": "Ferrari",
-   "p": 200,
-   "alt": [
-    "Ferrari World"
-   ],
-   "apic": "Ferrari World",
-   "qar": [
-    [
-     "Yas Marina Circuit",
-     "حلبة مرسى ياس"
-    ]
-   ],
-   "cpic": "Yas Marina Circuit"
   },
   {
    "q": "Which men's golf tour ends its season in Dubai each November?",
@@ -769,20 +604,20 @@
    "apic": "Mumbai Indians"
   },
   {
-   "q": "Which Serbian has won the Dubai Tennis Championships men's title five times?",
+   "q": "Which Serbian won the Dubai Tennis Championships men's title three years running, from 2009 to 2011?",
    "a": "Novak Djokovic",
    "p": 200,
    "alt": [
     "Djokovic",
     "Novak"
    ],
-   "apic": "Novak Djokovic",
    "qar": [
     [
      "Dubai",
      "دبي"
     ]
-   ]
+   ],
+   "apic": "Novak Djokovic"
   },
   {
    "q": "Which Slovenian cyclist won the UAE Tour in 2021, 2022 and 2025?",
@@ -794,17 +629,6 @@
     "Pogačar"
    ],
    "apic": "Tadej Pogačar"
-  },
-  {
-   "q": "Which sport is the UAE Tour?",
-   "a": "Cycling",
-   "p": 200,
-   "alt": [
-    "Road cycling",
-    "Road racing",
-    "Bike racing"
-   ],
-   "apic": "Cycling"
   },
   {
    "q": "In falconry, what leather item covers a falcon's eyes to keep it calm?",
@@ -835,27 +659,12 @@
   {
    "q": "Which Iranian striker was top scorer at the 1996 Asian Cup in the UAE?",
    "a": "Ali Daei",
-   "p": 200,
+   "p": 400,
    "ar": "علي دائي",
    "alt": [
     "Daei"
    ],
    "apic": "Ali Daei"
-  },
-  {
-   "q": "The UAE team nickname 'Eyal Zayed' means what?",
-   "a": "Sons of Zayed",
-   "p": 200,
-   "alt": [
-    "Zayed's Sons",
-    "Children of Zayed"
-   ],
-   "qar": [
-    [
-     "Eyal Zayed",
-     "عيال زايد"
-    ]
-   ]
   },
   {
    "q": "What colour are Godolphin's racing silks?",
@@ -882,19 +691,19 @@
    ]
   },
   {
-   "q": "Who captained India to the 2025 Champions Trophy title in Dubai?",
+   "q": "Who captained the winning team in the 2025 Champions Trophy final in Dubai?",
    "a": "Rohit Sharma",
    "p": 200,
    "alt": [
     "Rohit"
    ],
-   "apic": "Rohit Sharma",
    "qar": [
     [
      "Dubai",
      "دبي"
     ]
    ],
+   "apic": "Rohit Sharma",
    "cpic": "India"
   },
   {
@@ -927,22 +736,6 @@
    "cpic": "Sachin Tendulkar"
   },
   {
-   "q": "Which Abu Dhabi island was branded UFC's 'Fight Island' in 2020?",
-   "a": "Yas Island",
-   "p": 400,
-   "ar": "جزيرة ياس",
-   "alt": [
-    "Yas"
-   ],
-   "apic": "Yas Island",
-   "qar": [
-    [
-     "Abu Dhabi",
-     "أبوظبي"
-    ]
-   ]
-  },
-  {
    "q": "What is the name of the DP World Tour's season-long golf ranking that ends in Dubai?",
    "a": "Race to Dubai",
    "p": 400,
@@ -950,27 +743,6 @@
     "The Race to Dubai"
    ],
    "cpic": "Golf"
-  },
-  {
-   "q": "Which Abu Dhabi festival is famous for its camel beauty contest, the Mazayna?",
-   "a": "Al Dhafra Festival",
-   "p": 400,
-   "ar": "مهرجان الظفرة",
-   "alt": [
-    "Al Dhafra",
-    "Dhafra Festival"
-   ],
-   "apic": "Al Dhafra Festival",
-   "qar": [
-    [
-     "Abu Dhabi",
-     "أبوظبي"
-    ],
-    [
-     "Mazayna",
-     "مزاينة"
-    ]
-   ]
   },
   {
    "q": "Which tennis event is held at the Aviation Club in Garhoud?",
@@ -1074,7 +846,7 @@
    ]
   },
   {
-   "q": "Which Abu Dhabi stadium is the UAE national team's usual home ground?",
+   "q": "Which Abu Dhabi stadium staged both the opening match and the final of the 2019 Asian Cup?",
    "a": "Zayed Sports City Stadium",
    "p": 400,
    "ar": "استاد مدينة زايد الرياضية",
@@ -1082,13 +854,13 @@
     "Zayed Sports City",
     "Sheikh Zayed Stadium"
    ],
-   "apic": "Zayed Sports City Stadium",
    "qar": [
     [
      "Abu Dhabi",
      "أبوظبي"
     ]
-   ]
+   ],
+   "apic": "Zayed Sports City Stadium"
   },
   {
    "q": "Which Emirati striker was named 2015 Asian Footballer of the Year?",
@@ -1098,23 +870,6 @@
    "alt": [
     "Khalil"
    ]
-  },
-  {
-   "q": "In which emirate is Jebel Jais, a summit finish of the UAE Tour?",
-   "a": "Ras Al Khaimah",
-   "p": 400,
-   "ar": "رأس الخيمة",
-   "alt": [
-    "RAK"
-   ],
-   "apic": "Jebel Jais",
-   "qar": [
-    [
-     "Jebel Jais",
-     "جبل جيس"
-    ]
-   ],
-   "cpic": "Jebel Jais"
   },
   {
    "q": "The Dubai Desert Classic trophy is shaped like which traditional Arabic item?",
@@ -1212,7 +967,7 @@
   {
    "q": "Which Dubai club was formed in 2017 by merging Al Ahli, Al Shabab and Dubai CSC?",
    "a": "Shabab Al Ahli",
-   "p": 400,
+   "p": 200,
    "ar": "شباب الأهلي",
    "alt": [
     "Shabab Al-Ahli",
@@ -1248,17 +1003,6 @@
      "العميد"
     ]
    ]
-  },
-  {
-   "q": "Which UAE club won the 2024-25 AFC Champions League Two, its first continental title?",
-   "a": "Sharjah FC",
-   "p": 400,
-   "ar": "نادي الشارقة",
-   "alt": [
-    "Sharjah",
-    "Al Sharjah"
-   ],
-   "apic": "Sharjah FC"
   },
   {
    "q": "Which Abu Dhabi club plays in maroon at Al Nahyan Stadium?",
@@ -1315,12 +1059,11 @@
    "p": 400
   },
   {
-   "q": "In which shooting event did Ahmed Al Maktoum win his 2004 gold?",
+   "q": "In which shooting event did Ahmed Al Maktoum win his Olympic gold?",
    "a": "Double trap",
    "p": 400,
    "alt": [
-    "Men's double trap",
-    "Trap"
+    "Men's double trap"
    ],
    "qar": [
     [
@@ -1423,19 +1166,19 @@
    ]
   },
   {
-   "q": "Which American won the 2019 Dubai Desert Classic with a record 24 under par?",
+   "q": "Which American won the 2019 Dubai Desert Classic?",
    "a": "Bryson DeChambeau",
    "p": 400,
    "alt": [
     "DeChambeau"
    ],
-   "apic": "Bryson DeChambeau",
    "qar": [
     [
      "Dubai",
      "دبي"
     ]
-   ]
+   ],
+   "apic": "Bryson DeChambeau"
   },
   {
    "q": "Which Jumeirah Golf Estates course hosts the DP World Tour Championship?",
@@ -1471,7 +1214,7 @@
    "cpic": "Golf"
   },
   {
-   "q": "Which Yas Island course has hosted the Abu Dhabi HSBC Championship since 2022?",
+   "q": "Which Yas Island course became the home of the Abu Dhabi HSBC Championship in 2022?",
    "a": "Yas Links",
    "p": 400,
    "alt": [
@@ -1487,22 +1230,6 @@
      "أبوظبي"
     ]
    ]
-  },
-  {
-   "q": "Which Pakistani batter hit a last-ball six off Chetan Sharma to beat India at Sharjah in 1986?",
-   "a": "Javed Miandad",
-   "p": 400,
-   "alt": [
-    "Miandad"
-   ],
-   "apic": "Javed Miandad",
-   "qar": [
-    [
-     "Sharjah",
-     "الشارقة"
-    ]
-   ],
-   "cpic": "India"
   },
   {
    "q": "What is the name of Abu Dhabi's main international cricket ground?",
@@ -1530,18 +1257,6 @@
     "Dubai Cricket Stadium"
    ],
    "apic": "Dubai International Cricket Stadium"
-  },
-  {
-   "q": "Sharjah became the adopted home ground of which emerging cricket nation in 2010?",
-   "a": "Afghanistan",
-   "p": 400,
-   "apic": "Afghanistan",
-   "qar": [
-    [
-     "Sharjah",
-     "الشارقة"
-    ]
-   ]
   },
   {
    "q": "The Dubai Sevens is a leg of which international rugby competition?",
@@ -1586,8 +1301,7 @@
    "a": "Almoez Ali",
    "p": 400,
    "alt": [
-    "Almoez",
-    "Al-Moez Ali"
+    "Almoez"
    ],
    "apic": "Almoez Ali"
   },
@@ -1619,16 +1333,16 @@
    ]
   },
   {
-   "q": "Which Brazilian club lost the 2021 Club World Cup final to Chelsea in Abu Dhabi?",
+   "q": "Which Brazilian club lost the 2021 Club World Cup final in Abu Dhabi?",
    "a": "Palmeiras",
    "p": 400,
-   "apic": "Sociedade Esportiva Palmeiras",
    "qar": [
     [
      "Abu Dhabi",
      "أبوظبي"
     ]
-   ]
+   ],
+   "apic": "Sociedade Esportiva Palmeiras"
   },
   {
    "q": "Which DR Congo club reached the 2010 Club World Cup final in Abu Dhabi?",
@@ -1663,16 +1377,15 @@
    "a": "Saker falcon",
    "p": 400,
    "alt": [
-    "Saker",
-    "Hurr"
+    "Saker"
    ],
-   "apic": "Saker falcon",
    "qar": [
     [
      "Hurr",
      "حر"
     ]
-   ]
+   ],
+   "apic": "Saker falcon"
   },
   {
    "q": "Which desert bird is the traditional quarry of Emirati falconers?",
@@ -1773,21 +1486,12 @@
    ]
   },
   {
-   "q": "Sharjah FC's nickname 'Al Malik' means what?",
-   "a": "The King",
+   "q": "By which royal nickname do fans know Sharjah FC?",
+   "a": "Al Malik",
    "p": 400,
+   "ar": "الملك",
    "alt": [
-    "King"
-   ],
-   "qar": [
-    [
-     "Sharjah",
-     "الشارقة"
-    ],
-    [
-     "Al Malik",
-     "الملك"
-    ]
+    "The King"
    ]
   },
   {
@@ -1826,19 +1530,19 @@
    "cpic": "DP World Tour Championship"
   },
   {
-   "q": "Which Argentine club lost the 2009 Club World Cup final to Barcelona in Abu Dhabi?",
+   "q": "Which Argentine club lost the 2009 Club World Cup final in Abu Dhabi?",
    "a": "Estudiantes",
    "p": 400,
    "alt": [
     "Estudiantes de La Plata"
    ],
-   "apic": "Estudiantes de La Plata",
    "qar": [
     [
      "Abu Dhabi",
      "أبوظبي"
     ]
-   ]
+   ],
+   "apic": "Estudiantes de La Plata"
   },
   {
    "q": "Which Brazilian club lost the 2017 Club World Cup final to Real Madrid in Abu Dhabi?",
@@ -1865,19 +1569,19 @@
    "apic": "Adam Yates"
   },
   {
-   "q": "Which Greek did Federer beat in the 2019 Dubai final for his 100th title?",
+   "q": "Which Greek did Federer beat in the Dubai final for his 100th career title?",
    "a": "Stefanos Tsitsipas",
    "p": 400,
    "alt": [
     "Tsitsipas"
    ],
-   "apic": "Stefanos Tsitsipas",
    "qar": [
     [
      "Dubai",
      "دبي"
     ]
-   ]
+   ],
+   "apic": "Stefanos Tsitsipas"
   },
   {
    "q": "Which Godolphin horse named after the year it raced won the 2000 Dubai World Cup?",
@@ -1892,19 +1596,19 @@
    ]
   },
   {
-   "q": "Which Australian was player of the match in the 2021 T20 World Cup final in Dubai?",
+   "q": "Who was player of the match in the 2021 T20 World Cup final in Dubai?",
    "a": "Mitchell Marsh",
    "p": 400,
    "alt": [
     "Marsh"
    ],
-   "apic": "Mitchell Marsh",
    "qar": [
     [
      "Dubai",
      "دبي"
     ]
-   ]
+   ],
+   "apic": "Mitchell Marsh"
   },
   {
    "q": "Which team won the 2021 IPL final in Dubai?",
@@ -1938,14 +1642,13 @@
    ]
   },
   {
-   "q": "Which UAE player scored against West Germany at the 1990 World Cup?",
+   "q": "Who scored the UAE's goal in its 5-1 defeat at the 1990 World Cup?",
    "a": "Khalid Ismail",
    "p": 600,
    "ar": "خالد إسماعيل",
    "alt": [
     "Khalid Ismail Mubarak"
-   ],
-   "cpic": "West Germany"
+   ]
   },
   {
    "q": "Which country hosted the 2013 Gulf Cup, won by the UAE?",
@@ -2135,9 +1838,9 @@
    ]
   },
   {
-   "q": "What is the Arabic term for racing camels?",
+   "q": "Which Arabic word is used for camels bred and trained for racing?",
    "a": "Hajin",
-   "p": 600,
+   "p": 200,
    "ar": "الهجن",
    "alt": [
     "Hejin",
@@ -2159,7 +1862,7 @@
   {
    "q": "What is the Arabic name for a falcon's leather hood?",
    "a": "Burqa",
-   "p": 600,
+   "p": 400,
    "ar": "البرقع",
    "alt": [
     "Burqu",
@@ -2181,7 +1884,7 @@
   {
    "q": "What is the peregrine falcon called in Arabic?",
    "a": "Shaheen",
-   "p": 600,
+   "p": 400,
    "ar": "شاهين",
    "alt": [
     "Shahin"
@@ -2192,7 +1895,7 @@
   {
    "q": "Which Abu Dhabi facility, opened in 1999, is a world-famous hospital for falcons?",
    "a": "Abu Dhabi Falcon Hospital",
-   "p": 600,
+   "p": 200,
    "ar": "مستشفى أبوظبي للصقور",
    "alt": [
     "Falcon Hospital",
@@ -2248,9 +1951,13 @@
    "apic": "Uzbekistan"
   },
   {
-   "q": "At which city's 2012 Olympics did the UAE football team compete?",
-   "a": "London",
-   "p": 600,
+   "q": "At which Olympic Games did the UAE football team make its Olympic debut?",
+   "a": "London 2012",
+   "p": 400,
+   "alt": [
+    "London",
+    "2012"
+   ],
    "apic": "London"
   },
   {
@@ -2419,7 +2126,7 @@
    ]
   },
   {
-   "q": "Under what earlier name did Sharjah FC win the first UAE league in 1973-74?",
+   "q": "Under what earlier name did Sharjah FC win the first UAE league title?",
    "a": "Al Orouba",
    "p": 600,
    "ar": "العروبة",
@@ -2439,16 +2146,8 @@
    "a": "2008-09",
    "p": 600,
    "alt": [
-    "2008–09",
     "2008"
    ]
-  },
-  {
-   "q": "What was the name of the falcon mascot of the 2019 Asian Cup?",
-   "a": "Jarrah",
-   "p": 600,
-   "ar": "جراح",
-   "cpic": "Falcon"
   },
   {
    "q": "Which team did the UAE beat 1-0 in the 1996 Asian Cup semi-final?",
@@ -2456,15 +2155,6 @@
    "p": 600,
    "ar": "الكويت",
    "apic": "Kuwait"
-  },
-  {
-   "q": "Who scored 175 goals in the UAE league between 1980 and 1997?",
-   "a": "Fahad Khamees",
-   "p": 600,
-   "ar": "فهد خميس",
-   "alt": [
-    "Fahad Khamis"
-   ]
   },
   {
    "q": "Which Mexican club beat Al Jazira 4-1 in the 2017 Club World Cup third-place match?",
@@ -2535,7 +2225,7 @@
    ]
   },
   {
-   "q": "On which mare did Sheikh Hamdan win 2014 World Equestrian Games endurance gold?",
+   "q": "What was the name of the mare Sheikh Hamdan rode to world gold in 2014?",
    "a": "Yamamah",
    "p": 600,
    "ar": "يمامة",
@@ -2629,7 +2319,7 @@
    "apic": "Los Angeles"
   },
   {
-   "q": "Which Swede won the 2013 DP World Tour Championship with a record 25 under?",
+   "q": "Which Swede won the 2013 DP World Tour Championship?",
    "a": "Henrik Stenson",
    "p": 600,
    "alt": [
@@ -2687,25 +2377,6 @@
    "alt": [
     "Azzam",
     "Team Abu Dhabi"
-   ]
-  },
-  {
-   "q": "Al Nasr's nickname 'Al Ameed' means what in English?",
-   "a": "The Dean",
-   "p": 600,
-   "alt": [
-    "Dean",
-    "The Elder"
-   ],
-   "qar": [
-    [
-     "Al Nasr",
-     "النصر"
-    ],
-    [
-     "Al Ameed",
-     "العميد"
-    ]
    ]
   }
  ]

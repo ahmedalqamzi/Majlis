@@ -51,46 +51,6 @@
    "cpic": "Ras Al Khaimah"
   },
   {
-   "q": "Which emirate was the last to join the UAE federation?",
-   "a": "Ras Al Khaimah",
-   "p": 200,
-   "ar": "رأس الخيمة",
-   "alt": [
-    "RAK"
-   ],
-   "apic": "Emirate of Ras Al Khaimah"
-  },
-  {
-   "q": "What does 'Ras' mean in the name Ras Al Khaimah?",
-   "a": "Head",
-   "p": 200,
-   "alt": [
-    "Headland",
-    "Cape"
-   ],
-   "qar": [
-    [
-     "Ras",
-     "رأس"
-    ]
-   ],
-   "cpic": "Ras Al Khaimah"
-  },
-  {
-   "q": "What does 'Khaimah' mean in the name Ras Al Khaimah?",
-   "a": "Tent",
-   "p": 200,
-   "alt": [
-    "Tents"
-   ],
-   "qar": [
-    [
-     "Khaimah",
-     "خيمة"
-    ]
-   ]
-  },
-  {
    "q": "Which hilltop fort north of Rams was besieged by British forces in 1819?",
    "a": "Dhayah Fort",
    "p": 200,
@@ -173,45 +133,6 @@
    ]
   },
   {
-   "q": "Which mountain range rises behind Ras Al Khaimah and includes Jebel Jais?",
-   "a": "Hajar Mountains",
-   "p": 200,
-   "ar": "جبال الحجر",
-   "alt": [
-    "Al Hajar",
-    "Hajar"
-   ],
-   "pic": "Jebel Jais",
-   "apic": "Al Hajar Mountains",
-   "qar": [
-    [
-     "Ras Al Khaimah",
-     "رأس الخيمة"
-    ],
-    [
-     "Jebel Jais",
-     "جبل جيس"
-    ]
-   ]
-  },
-  {
-   "q": "Which natural gems did the people of Jazirat Al Hamra depend on for their living?",
-   "a": "Pearls",
-   "p": 200,
-   "alt": [
-    "Pearl",
-    "Lulu"
-   ],
-   "pic": "Jazirat Al Hamra",
-   "apic": "Pearl",
-   "qar": [
-    [
-     "Jazirat Al Hamra",
-     "الجزيرة الحمراء"
-    ]
-   ]
-  },
-  {
    "q": "Which toboggan-style ride runs about 1.8 km down Jebel Jais?",
    "a": "Jais Sledder",
    "p": 200,
@@ -253,86 +174,6 @@
     [
      "Ras Al Khaimah",
      "رأس الخيمة"
-    ]
-   ]
-  },
-  {
-   "q": "What does 'Hamra' mean in the name Al Jazirat Al Hamra?",
-   "a": "Red",
-   "p": 200,
-   "alt": [
-    "Red"
-   ],
-   "qar": [
-    [
-     "Hamra",
-     "حمراء"
-    ]
-   ]
-  },
-  {
-   "q": "What does 'Jazirat' mean in the name Al Jazirat Al Hamra?",
-   "a": "Island",
-   "p": 200,
-   "alt": [
-    "Jazirah"
-   ],
-   "qar": [
-    [
-     "Jazirat",
-     "جزيرة"
-    ]
-   ]
-  },
-  {
-   "q": "In which direction from Dubai does Ras Al Khaimah lie?",
-   "a": "North-east",
-   "p": 200,
-   "alt": [
-    "Northeast",
-    "North east"
-   ],
-   "qar": [
-    [
-     "Dubai",
-     "دبي"
-    ],
-    [
-     "Ras Al Khaimah",
-     "رأس الخيمة"
-    ]
-   ]
-  },
-  {
-   "q": "Which adventure activity is Jebel Jais best known for worldwide?",
-   "a": "Ziplining",
-   "p": 200,
-   "alt": [
-    "Zipline",
-    "Zip lining"
-   ],
-   "qar": [
-    [
-     "Jebel Jais",
-     "جبل جيس"
-    ]
-   ],
-   "cpic": "Jebel Jais"
-  },
-  {
-   "q": "What is the Arabic word for 'fort' as in Qalaat Dhayah?",
-   "a": "Qalaa",
-   "p": 200,
-   "ar": "قلعة",
-   "alt": [
-    "Qala'a",
-    "Qal'a",
-    "Hisn"
-   ],
-   "qar": [
-    [
-     "Dhayah",
-     "ضاية"
     ]
    ]
   },
@@ -447,60 +288,6 @@
    ]
   },
   {
-   "q": "What does 'Jebel' mean in the name Jebel Jais?",
-   "a": "Mountain",
-   "p": 200,
-   "alt": [
-    "Mount",
-    "Hill"
-   ],
-   "qar": [
-    [
-     "Jebel",
-     "جبل"
-    ]
-   ],
-   "cpic": "Jebel Jais"
-  },
-  {
-   "q": "What does 'wadi' mean in the name Wadi Shawka?",
-   "a": "Valley",
-   "p": 200,
-   "alt": [
-    "Dry riverbed"
-   ],
-   "qar": [
-    [
-     "wadi",
-     "وادي"
-    ],
-    [
-     "Wadi Shawka",
-     "وادي شوكة"
-    ]
-   ]
-  },
-  {
-   "q": "What does 'Hajar' mean in the name Hajar Mountains?",
-   "a": "Stone",
-   "p": 200,
-   "alt": [
-    "Rock"
-   ],
-   "qar": [
-    [
-     "Hajar",
-     "حجر"
-    ]
-   ],
-   "cpic": "Hajar Mountains"
-  },
-  {
-   "q": "In which year did the Jais Flight zipline open?",
-   "a": "2018",
-   "p": 200
-  },
-  {
    "q": "Which ruler led Ras Al Khaimah from 1948 to 2010?",
    "a": "Sheikh Saqr bin Mohammed Al Qasimi",
    "p": 200,
@@ -515,30 +302,6 @@
      "Ras Al Khaimah",
      "رأس الخيمة"
     ]
-   ]
-  },
-  {
-   "q": "What does 'marjan' mean in the name Al Marjan Island?",
-   "a": "Coral",
-   "p": 200,
-   "alt": [
-    "Coral beads"
-   ],
-   "qar": [
-    [
-     "marjan",
-     "مرجان"
-    ]
-   ],
-   "cpic": "Al Marjan Island"
-  },
-  {
-   "q": "About how long is the Jais Flight zipline, in kilometres?",
-   "a": "About 2.8 km",
-   "p": 400,
-   "alt": [
-    "2.83 km",
-    "2.8 km"
    ]
   },
   {
@@ -560,7 +323,7 @@
   {
    "q": "Which waterfront promenade in Ras Al Khaimah is named after the ruling clan?",
    "a": "Al Qawasim Corniche",
-   "p": 400,
+   "p": 200,
    "ar": "كورنيش القواسم",
    "alt": [
     "Qawasim Corniche"
@@ -589,25 +352,6 @@
    ]
   },
   {
-   "q": "What does 'Al Nakheel', the eastern half of Ras Al Khaimah city, mean in English?",
-   "a": "The palms",
-   "p": 400,
-   "alt": [
-    "Palms",
-    "Palm trees"
-   ],
-   "qar": [
-    [
-     "Al Nakheel",
-     "النخيل"
-    ],
-    [
-     "Ras Al Khaimah",
-     "رأس الخيمة"
-    ]
-   ]
-  },
-  {
    "q": "Which endangered wild goat species lives in the Hajar Mountains near Jebel Jais?",
    "a": "Arabian tahr",
    "p": 400,
@@ -627,12 +371,6 @@
    ]
   },
   {
-   "q": "In which year did Britain end its protection over the Trucial States?",
-   "a": "1971",
-   "p": 400,
-   "cpic": "Trucial States"
-  },
-  {
    "q": "In which year did a second British expedition storm Ras Al Khaimah town and take Dhayah Fort?",
    "a": "1819",
    "p": 400,
@@ -648,7 +386,7 @@
    ]
   },
   {
-   "q": "Which RAK village has the emirate's largest pre-Islamic cemetery, with over 200 tombs?",
+   "q": "Which RAK site, with hundreds of ancient tombs, is the emirate's largest pre-Islamic site?",
    "a": "Shimal",
    "p": 400,
    "ar": "شمل",
@@ -677,43 +415,6 @@
    ]
   },
   {
-   "q": "Which coastal town north of Ras Al Khaimah city hosts the Suwaidi Pearl Farm?",
-   "a": "Al Rams",
-   "p": 400,
-   "ar": "الرمس",
-   "alt": [
-    "Rams"
-   ],
-   "qar": [
-    [
-     "Ras Al Khaimah",
-     "رأس الخيمة"
-    ]
-   ],
-   "cpic": "Pearl"
-  },
-  {
-   "q": "Which 1930s invention helped end natural pearl diving in the Gulf?",
-   "a": "Cultured pearls",
-   "p": 400,
-   "alt": [
-    "Pearl culturing",
-    "Cultured pearl"
-   ],
-   "apic": "Cultured pearl"
-  },
-  {
-   "q": "In which year was Julphar founded?",
-   "a": "1980",
-   "p": 400,
-   "qar": [
-    [
-     "Julphar",
-     "جلفار"
-    ]
-   ]
-  },
-  {
    "q": "In which year was Ras Al Khaimah's old fort converted into the National Museum?",
    "a": "1987",
    "p": 400,
@@ -730,7 +431,6 @@
    "p": 400,
    "ar": "الزعاب",
    "alt": [
-    "Zaab",
     "Al Zaabi",
     "Zaabi"
    ],
@@ -773,36 +473,12 @@
    ]
   },
   {
-   "q": "What is the IATA code of Ras Al Khaimah International Airport?",
-   "a": "RKT",
-   "p": 400,
-   "pic": "Ras Al Khaimah International Airport",
-   "qar": [
-    [
-     "Ras Al Khaimah",
-     "رأس الخيمة"
-    ]
-   ]
-  },
-  {
    "q": "How many ziplines make up the Jais Sky Tour?",
    "a": "Six",
    "p": 400,
    "alt": [
     "6"
    ]
-  },
-  {
-   "q": "In which year did the Bear Grylls Explorers Camp open at Jebel Jais?",
-   "a": "2020",
-   "p": 400,
-   "qar": [
-    [
-     "Jebel Jais",
-     "جبل جيس"
-    ]
-   ],
-   "cpic": "Bear Grylls"
   },
   {
    "q": "Via ferrata, the name of Jebel Jais's climbing route, is Italian for what?",
@@ -821,17 +497,6 @@
    "cpic": "Via ferrata"
   },
   {
-   "q": "In which year did the Portuguese take control of Ras Al Khaimah?",
-   "a": "1507",
-   "p": 400,
-   "qar": [
-    [
-     "Ras Al Khaimah",
-     "رأس الخيمة"
-    ]
-   ]
-  },
-  {
    "q": "In which year did the British Persian Gulf campaign largely destroy the Al Qasimi fleet?",
    "a": "1809",
    "p": 400,
@@ -844,7 +509,7 @@
    "cpic": "Persian Gulf"
   },
   {
-   "q": "From which year did the Qawasim establish themselves in Ras Al Khaimah and Sharjah, according to history, at the start of which century?",
+   "q": "At the start of which century did the Qawasim establish themselves in Ras Al Khaimah and Sharjah?",
    "a": "18th century",
    "p": 400,
    "qar": [
@@ -864,7 +529,7 @@
    "cpic": "Sharjah (emirate)"
   },
   {
-   "q": "What was the Gulf natural product that Julfar exported and that gave Portuguese the word 'aljofar'?",
+   "q": "According to the Portuguese traveller Pedro Teixeira, which Gulf export of Julfar gave Portuguese the word 'aljofar'?",
    "a": "Pearls",
    "p": 400,
    "qar": [
@@ -975,36 +640,6 @@
    ]
   },
   {
-   "q": "Which mosque is described as the oldest in Ras Al Khaimah?",
-   "a": "Mohammad Bin Salem Mosque",
-   "p": 600,
-   "ar": "مسجد محمد بن سالم",
-   "alt": [
-    "Mohammed Bin Salem Mosque"
-   ],
-   "qar": [
-    [
-     "Ras Al Khaimah",
-     "رأس الخيمة"
-    ]
-   ]
-  },
-  {
-   "q": "Which Gulf Arabic word for 'pearl' may come from the name of Julfar, according to Pedro Teixeira?",
-   "a": "Aljofar",
-   "p": 600,
-   "alt": [
-    "Al Julfar"
-   ],
-   "qar": [
-    [
-     "Julfar",
-     "جلفار"
-    ]
-   ],
-   "cpic": "Pearl"
-  },
-  {
    "q": "Which wadi road links Ras Al Khaimah to Dibba on the east coast?",
    "a": "Wadi Bih",
    "p": 600,
@@ -1025,15 +660,6 @@
    ]
   },
   {
-   "q": "Roughly how long is the Jais Sledder toboggan track, in kilometres?",
-   "a": "About 1.8 km",
-   "p": 600,
-   "alt": [
-    "1.84 km",
-    "1.8 km"
-   ]
-  },
-  {
    "q": "Which sheikh of Rams and Dhayah, named 'Sheikh of Zyah', signed the 1820 treaty?",
    "a": "Hassan bin Ali",
    "p": 600,
@@ -1051,37 +677,6 @@
      "ضاية"
     ]
    ]
-  },
-  {
-   "q": "How many years did Sheikh Saqr bin Mohammed Al Qasimi rule Ras Al Khaimah, from 1948 to 2010?",
-   "a": "62 years",
-   "p": 600,
-   "alt": [
-    "62"
-   ],
-   "qar": [
-    [
-     "Sheikh Saqr bin Mohammed Al Qasimi",
-     "الشيخ صقر بن محمد القاسمي"
-    ],
-    [
-     "Ras Al Khaimah",
-     "رأس الخيمة"
-    ]
-   ],
-   "cpic": "Saqr bin Mohammed Al Qasimi"
-  },
-  {
-   "q": "In which year did the British Persian Gulf expedition take Dhayah Fort's surrender, ending the siege in December?",
-   "a": "1819",
-   "p": 600,
-   "qar": [
-    [
-     "Dhayah Fort",
-     "قلعة ضاية"
-    ]
-   ],
-   "cpic": "Persian Gulf"
   },
   {
    "q": "Which son of Sheikh Saqr bin Mohammed became Ruler of Ras Al Khaimah in 2010?",
@@ -1185,30 +780,6 @@
    ]
   },
   {
-   "q": "What is a traditional Gulf pearl diver called in Arabic?",
-   "a": "Ghais",
-   "p": 400,
-   "ar": "غيص",
-   "alt": [
-    "Ghawwas",
-    "Ghayes",
-    "Ghawas"
-   ],
-   "cpic": "Pearl"
-  },
-  {
-   "q": "What was the captain of a Gulf pearling boat called?",
-   "a": "Nokhada",
-   "p": 400,
-   "ar": "نوخذة",
-   "alt": [
-    "Nakhuda",
-    "Nokhatha",
-    "Nakhoda",
-    "Nokhetha"
-   ]
-  },
-  {
    "q": "Which hilltop ruin at Shimal is popularly named after a legendary queen of Yemen?",
    "a": "Sheba's Palace",
    "p": 400,
@@ -1256,33 +827,11 @@
    ]
   },
   {
-   "q": "Which elder half-brother did Sheikh Saud replace as Crown Prince of Ras Al Khaimah in 2003?",
-   "a": "Sheikh Khalid bin Saqr Al Qasimi",
-   "p": 600,
-   "ar": "الشيخ خالد بن صقر القاسمي",
-   "alt": [
-    "Khalid bin Saqr",
-    "Sheikh Khalid"
-   ],
-   "apic": "Khalid bin Saqr Al Qasimi",
-   "qar": [
-    [
-     "Sheikh Saud",
-     "الشيخ سعود"
-    ],
-    [
-     "Ras Al Khaimah",
-     "رأس الخيمة"
-    ]
-   ]
-  },
-  {
    "q": "Which Arabic title, meaning 'teacher', was given to master navigators like Ahmad ibn Majid?",
    "a": "Mu'allim",
    "p": 600,
    "ar": "المعلم",
    "alt": [
-    "Muallim",
     "Al Mu'allim",
     "Moallem"
    ],
@@ -1330,39 +879,12 @@
    "ar": "كتاب الفوائد",
    "alt": [
     "Al-Fawa'id",
-    "Kitab al-Fawaid",
     "The Book of Benefits"
    ],
    "qar": [
     [
      "Ahmad ibn Majid",
      "أحمد بن ماجد"
-    ]
-   ]
-  },
-  {
-   "q": "In which year was the Suwaidi Pearls farm founded in Al Rams?",
-   "a": "2005",
-   "p": 600,
-   "qar": [
-    [
-     "Al Rams",
-     "الرمس"
-    ]
-   ]
-  },
-  {
-   "q": "Which Ruler of Ras Al Khaimah was removed by his nephew in a bloodless takeover in 1948?",
-   "a": "Sheikh Sultan bin Salim Al Qasimi",
-   "p": 600,
-   "ar": "الشيخ سلطان بن سالم القاسمي",
-   "alt": [
-    "Sultan bin Salim"
-   ],
-   "qar": [
-    [
-     "Ras Al Khaimah",
-     "رأس الخيمة"
     ]
    ]
   },
@@ -1461,27 +983,6 @@
    "cpic": "RAK Ceramics"
   },
   {
-   "q": "What is the common English name of Avicennia marina, the mangrove species of the UAE coast?",
-   "a": "Grey mangrove",
-   "p": 600,
-   "alt": [
-    "Gray mangrove",
-    "White mangrove"
-   ],
-   "apic": "Avicennia marina",
-   "cpic": "Avicennia marina"
-  },
-  {
-   "q": "What was a Gulf pearl merchant, who bought pearls from the boats, called?",
-   "a": "Tawash",
-   "p": 600,
-   "ar": "طواش",
-   "alt": [
-    "Tawwash",
-    "Tawawish"
-   ]
-  },
-  {
    "q": "How many islands make up the man-made Al Marjan Island group?",
    "a": "Four",
    "p": 600,
@@ -1513,35 +1014,6 @@
      "جبل جيس"
     ]
    ]
-  },
-  {
-   "q": "What does the RAK village name Shimal mean in Arabic?",
-   "a": "North",
-   "p": 200,
-   "qar": [
-    [
-     "Shimal",
-     "شمل"
-    ]
-   ]
-  },
-  {
-   "q": "Which emirate shares the Al Qasimi ruling family name with Ras Al Khaimah?",
-   "a": "Sharjah",
-   "p": 200,
-   "ar": "الشارقة",
-   "apic": "Sharjah (emirate)",
-   "qar": [
-    [
-     "Al Qasimi",
-     "القاسمي"
-    ],
-    [
-     "Ras Al Khaimah",
-     "رأس الخيمة"
-    ]
-   ],
-   "cpic": "Al Qasimi"
   },
   {
    "q": "Which emirate uses the same red-and-white flag as Ras Al Khaimah?",
@@ -1684,7 +1156,7 @@
   {
    "q": "Which football club, nicknamed 'The Falcons', represents the Emirate of Ras Al Khaimah?",
    "a": "Emirates Club",
-   "p": 400,
+   "p": 200,
    "ar": "نادي الإمارات",
    "alt": [
     "Al Emarat"
@@ -1697,17 +1169,6 @@
     ]
    ],
    "cpic": "Emirate of Ras Al Khaimah"
-  },
-  {
-   "q": "In which year did the first Ras Al Khaimah Half Marathon take place?",
-   "a": "2007",
-   "p": 400,
-   "qar": [
-    [
-     "Ras Al Khaimah",
-     "رأس الخيمة"
-    ]
-   ]
   },
   {
    "q": "Which RAK waterfront community near Jazirat Al Hamra is known for its golf course and marina?",
@@ -1747,7 +1208,6 @@
    "p": 600,
    "ar": "شعم",
    "alt": [
-    "Shaam",
     "Sham"
    ],
    "qar": [
@@ -1764,7 +1224,7 @@
   {
    "q": "Pearls from the Suwaidi Pearl Farm in Al Rams are grown inside which shellfish?",
    "a": "Oysters",
-   "p": 400,
+   "p": 200,
    "alt": [
     "Oyster",
     "Pearl oysters"
@@ -1860,7 +1320,6 @@
    "a": "2009-10",
    "p": 600,
    "alt": [
-    "2009–10",
     "2010"
    ]
   },
@@ -2023,6 +1482,166 @@
     [
      "Al Falayah",
      "الفلية"
+    ]
+   ]
+  },
+  {
+   "q": "Which Jebel Jais park, just below the summit, has seven viewing decks and 12 powerful binoculars?",
+   "a": "Jais Viewing Deck Park",
+   "p": 200,
+   "alt": [
+    "Jais Viewing Deck",
+    "Jebel Jais Viewing Deck Park"
+   ],
+   "qar": [
+    [
+     "Jebel Jais",
+     "جبل جيس"
+    ]
+   ]
+  },
+  {
+   "q": "What is the 37-metre Ferris wheel on Ras Al Khaimah's corniche called?",
+   "a": "RAK Eye",
+   "p": 200,
+   "alt": [
+    "Ras Al Khaimah Eye"
+   ]
+  },
+  {
+   "q": "Which annual winter festival of heritage and sport is held in the RAK desert, with car and dune-buggy races?",
+   "a": "UAE Awafi Festival",
+   "p": 200,
+   "ar": "مهرجان عوافي",
+   "alt": [
+    "Awafi Festival",
+    "Awafi"
+   ]
+  },
+  {
+   "q": "Which two-level rope course on Jebel Jais is suspended about 10 metres above the ground?",
+   "a": "Jais Sky Maze",
+   "p": 200,
+   "alt": [
+    "Sky Maze"
+   ],
+   "qar": [
+    [
+     "Jebel Jais",
+     "جبل جيس"
+    ]
+   ]
+  },
+  {
+   "q": "Which RAK city park, inaugurated in 1991, has an artificial lake with waterfalls and pedal boats?",
+   "a": "Saqr Park",
+   "p": 200,
+   "ar": "حديقة صقر",
+   "alt": [
+    "Sheikh Saqr Park"
+   ]
+  },
+  {
+   "q": "RAK's Pawsome Park is billed as the UAE's first outdoor park for which animals?",
+   "a": "Dogs",
+   "p": 200,
+   "alt": [
+    "Dog"
+   ]
+  },
+  {
+   "q": "Which protected desert nature reserve in RAK is home to a Ritz-Carlton resort?",
+   "a": "Al Wadi Desert",
+   "p": 200,
+   "ar": "صحراء الوادي",
+   "alt": [
+    "Al Wadi",
+    "Al Wadi Nature Reserve"
+   ]
+  },
+  {
+   "q": "Which three-word nickname does RAK's tourism board use to market the emirate?",
+   "a": "The Nature Emirate",
+   "p": 200,
+   "alt": [
+    "Nature Emirate"
+   ]
+  },
+  {
+   "q": "Which RAK policy-research foundation organised the Ras Al Khaimah Fine Arts Festival?",
+   "a": "Al Qasimi Foundation",
+   "p": 400,
+   "ar": "مؤسسة القاسمي",
+   "alt": [
+    "Sheikh Saud bin Saqr Al Qasimi Foundation",
+    "Al Qasimi Foundation for Policy Research"
+   ]
+  },
+  {
+   "q": "Which RAK campsite is billed by the emirate's tourism board as the highest in the UAE?",
+   "a": "Camp 1770",
+   "p": 400
+  },
+  {
+   "q": "Which small island at Al Rams is known for horses and camels that take a daily dip in the sea?",
+   "a": "Saraya Island",
+   "p": 400,
+   "alt": [
+    "Saraya",
+    "Al Saraya Island"
+   ],
+   "qar": [
+    [
+     "Al Rams",
+     "الرمس"
+    ]
+   ]
+  },
+  {
+   "q": "Which refurbished RAK city park is dedicated to ladies and children?",
+   "a": "Khuzam Park",
+   "p": 400,
+   "ar": "حديقة خزام",
+   "alt": [
+    "Khuzam"
+   ]
+  },
+  {
+   "q": "Besides Shimal and Ghailan, which RAK wadi was a centre of traditional pottery-making, where kiln remains have been found?",
+   "a": "Wadi Haqil",
+   "p": 600,
+   "ar": "وادي حقيل",
+   "alt": [
+    "Haqil"
+   ],
+   "qar": [
+    [
+     "Shimal",
+     "شمل"
+    ]
+   ]
+  },
+  {
+   "q": "One of the oldest items in the National Museum of Ras Al Khaimah is a potsherd from which prehistoric period?",
+   "a": "Ubaid",
+   "p": 600,
+   "ar": "العبيد",
+   "alt": [
+    "Ubaid period"
+   ]
+  },
+  {
+   "q": "Which well-preserved structure with an arched roof survives at the hilltop palace ruin above Shimal?",
+   "a": "Cistern",
+   "p": 600,
+   "alt": [
+    "Water cistern",
+    "Roofed cistern"
+   ],
+   "qar": [
+    [
+     "Shimal",
+     "شمل"
     ]
    ]
   }

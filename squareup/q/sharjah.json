@@ -129,26 +129,6 @@
    ]
   },
   {
-   "q": "Which neighbouring emirate shares Sharjah's south-western border?",
-   "a": "Dubai",
-   "p": 200,
-   "ar": "دبي",
-   "apic": "Dubai",
-   "qar": [
-    [
-     "Sharjah",
-     "الشارقة"
-    ]
-   ]
-  },
-  {
-   "q": "Which small emirate lies directly north-east of Sharjah city?",
-   "a": "Ajman",
-   "p": 200,
-   "ar": "عجمان",
-   "apic": "Ajman"
-  },
-  {
    "q": "Which annual Sharjah festival lights up buildings with projection shows?",
    "a": "Sharjah Light Festival",
    "p": 200,
@@ -190,28 +170,6 @@
    ]
   },
   {
-   "q": "Which Sharjah university, abbreviated AUS, was founded in 1997?",
-   "a": "American University of Sharjah",
-   "p": 200,
-   "ar": "الجامعة الأمريكية في الشارقة",
-   "alt": [
-    "AUS"
-   ],
-   "apic": "American University of Sharjah"
-  },
-  {
-   "q": "In which year did Sharjah become part of the newly formed United Arab Emirates?",
-   "a": "1971",
-   "p": 200,
-   "qar": [
-    [
-     "Sharjah",
-     "الشارقة"
-    ]
-   ],
-   "cpic": "United Arab Emirates"
-  },
-  {
    "q": "Which title linked to arts and museums is Sharjah widely known by in the UAE?",
    "a": "Cultural capital",
    "p": 200,
@@ -227,7 +185,7 @@
    ]
   },
   {
-   "q": "Who has ruled Sharjah since 1972 and is also an author and historian?",
+   "q": "Which Ruler of Sharjah is also a prolific author and historian?",
    "a": "Sheikh Sultan bin Muhammad Al Qasimi",
    "p": 200,
    "ar": "الشيخ الدكتور سلطان بن محمد القاسمي",
@@ -235,13 +193,13 @@
     "Sultan Al Qasimi",
     "Sultan bin Muhammad"
    ],
-   "apic": "Sultan bin Muhammad Al-Qasimi",
    "qar": [
     [
      "Sharjah",
      "الشارقة"
     ]
-   ]
+   ],
+   "apic": "Sultan bin Muhammad Al-Qasimi"
   },
   {
    "q": "Which Indian batter scored two famous centuries against Australia at Sharjah in 1998, known as the 'Desert Storm' innings?",
@@ -259,24 +217,6 @@
    ]
   },
   {
-   "q": "Which UAE city is the third most populous, after Dubai and Abu Dhabi?",
-   "a": "Sharjah",
-   "p": 200,
-   "ar": "الشارقة",
-   "apic": "Sharjah",
-   "qar": [
-    [
-     "Dubai",
-     "دبي"
-    ],
-    [
-     "Abu Dhabi",
-     "أبوظبي"
-    ]
-   ],
-   "cpic": "Dubai"
-  },
-  {
    "q": "Which desert archaeological site in Sharjah has Iron Age tombs, fossils and a visitor centre?",
    "a": "Mleiha",
    "p": 200,
@@ -290,40 +230,6 @@
     [
      "Sharjah",
      "الشارقة"
-    ]
-   ]
-  },
-  {
-   "q": "Which traditional wooden sailing vessel is a highlight of Sharjah's maritime heritage displays?",
-   "a": "Dhow",
-   "p": 200,
-   "alt": [
-    "Dow",
-    "Dhau"
-   ],
-   "apic": "Dhow"
-  },
-  {
-   "q": "What Arabic word for 'island' appears in the Arabic name of Al Noor Island?",
-   "a": "Jazira",
-   "p": 200,
-   "ar": "جزيرة",
-   "alt": [
-    "Jazirah",
-    "Jezira"
-   ]
-  },
-  {
-   "q": "What does 'noor' mean in the name Al Noor Island?",
-   "a": "Light",
-   "p": 200,
-   "alt": [
-    "The Light"
-   ],
-   "qar": [
-    [
-     "noor",
-     "نور"
     ]
    ]
   },
@@ -350,23 +256,7 @@
    "cpic": "Khor Fakkan"
   },
   {
-   "q": "What does 'khor' mean in the name Khor Fakkan?",
-   "a": "Creek",
-   "p": 200,
-   "alt": [
-    "Inlet",
-    "Bay"
-   ],
-   "qar": [
-    [
-     "khor",
-     "خور"
-    ]
-   ],
-   "cpic": "Khor Fakkan"
-  },
-  {
-   "q": "Which safari park in Sharjah's central region is home to African wildlife such as giraffes?",
+   "q": "Which safari park in Sharjah's central region is home to giraffes?",
    "a": "Sharjah Safari",
    "p": 200,
    "ar": "سفاري الشارقة",
@@ -389,41 +279,6 @@
      "قلب الشارقة"
     ]
    ]
-  },
-  {
-   "q": "Which canal-side leisure district in Sharjah has cafes, a theatre and an arts centre?",
-   "a": "Al Qasba",
-   "p": 200,
-   "ar": "القصباء",
-   "alt": [
-    "Qasba"
-   ],
-   "qar": [
-    [
-     "Sharjah",
-     "الشارقة"
-    ]
-   ]
-  },
-  {
-   "q": "In which direction from Dubai does Sharjah lie?",
-   "a": "North-east",
-   "p": 200,
-   "alt": [
-    "Northeast",
-    "North east"
-   ],
-   "qar": [
-    [
-     "Sharjah",
-     "الشارقة"
-    ],
-    [
-     "Dubai",
-     "دبي"
-    ]
-   ],
-   "cpic": "Dubai"
   },
   {
    "q": "Which busy road, named after the 'Union', links Sharjah and Dubai?",
@@ -488,25 +343,6 @@
     ]
    ],
    "cpic": "Khor Fakkan"
-  },
-  {
-   "q": "What is the Arabic word for 'book', the theme of Sharjah's best-known annual fair?",
-   "a": "Kitab",
-   "p": 200,
-   "ar": "كتاب",
-   "alt": [
-    "Ketab"
-   ]
-  },
-  {
-   "q": "What is the Arabic word for 'museum', fitting for the emirate with the most of them in the UAE?",
-   "a": "Mathaf",
-   "p": 200,
-   "ar": "متحف",
-   "alt": [
-    "Matḥaf",
-    "Mat-haf"
-   ]
   },
   {
    "q": "Which Sharjah museum in Al Majarrah displays Qur'an manuscripts and historical coins?",
@@ -628,16 +464,15 @@
    "p": 400,
    "ar": "الذيد",
    "alt": [
-    "Dhaid",
     "Dhaid"
    ],
-   "apic": "Al Dhaid",
    "qar": [
     [
      "Sharjah",
      "الشارقة"
     ]
-   ]
+   ],
+   "apic": "Al Dhaid"
   },
   {
    "q": "Which neighbouring emirate surrounds the Sharjah enclave of Khor Fakkan?",
@@ -723,16 +558,6 @@
    ]
   },
   {
-   "q": "Which name was given to the lower Gulf sheikhdoms after the Perpetual Treaty of Peace with Britain?",
-   "a": "Trucial States",
-   "p": 400,
-   "alt": [
-    "Trucial Coast",
-    "Trucial Oman"
-   ],
-   "apic": "Trucial States"
-  },
-  {
    "q": "Which Sharjah site was added to the UNESCO World Heritage List in 2025?",
    "a": "Faya Palaeolandscape",
    "p": 400,
@@ -754,11 +579,6 @@
    "a": "1997",
    "p": 400,
    "cpic": "American University of Sharjah"
-  },
-  {
-   "q": "In which year was the Perpetual Treaty of Peace signed between Britain and the lower Gulf sheikhs?",
-   "a": "1853",
-   "p": 400
   },
   {
    "q": "What is the name of the city-centre lagoon in which Al Noor Island lies?",
@@ -910,7 +730,7 @@
   {
    "q": "Which waterfront market in Sharjah, near Khalid Lagoon, sells fish, fruit and vegetables?",
    "a": "Souq Al Jubail",
-   "p": 400,
+   "p": 200,
    "ar": "سوق الجبيل",
    "alt": [
     "Jubail Market",
@@ -983,10 +803,8 @@
    "p": 600,
    "ar": "دبا الحصن",
    "alt": [
-    "Dibba Al-Hisn",
-    "Dibba"
+    "Dibba Al-Hisn"
    ],
-   "apic": "Dibba Al-Hisn",
    "qar": [
     [
      "Sharjah",
@@ -996,7 +814,8 @@
      "Musandam",
      "مسندم"
     ]
-   ]
+   ],
+   "apic": "Dibba Al-Hisn"
   },
   {
    "q": "Which permanent artwork by Sharjah Art Foundation lets visitors walk through falling water without getting wet?",
@@ -1056,48 +875,6 @@
     ]
    ],
    "cpic": "Cricket"
-  },
-  {
-   "q": "What does the Arabic name Khor Fakkan translate to?",
-   "a": "Creek of the Two Jaws",
-   "p": 600,
-   "alt": [
-    "Creek of Two Jaws"
-   ],
-   "qar": [
-    [
-     "Khor Fakkan",
-     "خورفكان"
-    ]
-   ]
-  },
-  {
-   "q": "In which year did Britain recognise Kalba as a separate Trucial State?",
-   "a": "1936",
-   "p": 600,
-   "qar": [
-    [
-     "Kalba",
-     "كلباء"
-    ]
-   ],
-   "cpic": "Kalba"
-  },
-  {
-   "q": "Which rare bird, found in Khor Kalba's mangroves, is a symbol of the reserve?",
-   "a": "Arabian collared kingfisher",
-   "p": 600,
-   "alt": [
-    "Collared kingfisher",
-    "White-collared kingfisher"
-   ],
-   "qar": [
-    [
-     "Khor Kalba",
-     "خور كلباء"
-    ]
-   ],
-   "cpic": "Kalba"
   },
   {
    "q": "Which dam near Khor Fakkan covers a submerged village whose rooftops are visible when the water is calm?",
@@ -1249,22 +1026,6 @@
    ]
   },
   {
-   "q": "In which year did Air Arabia begin flying from Sharjah?",
-   "a": "2003",
-   "p": 600,
-   "qar": [
-    [
-     "Sharjah",
-     "الشارقة"
-    ],
-    [
-     "Air Arabia",
-     "العربية للطيران"
-    ]
-   ],
-   "cpic": "Air Arabia"
-  },
-  {
    "q": "How many seaports does Sharjah operate, including Khor Fakkan?",
    "a": "Three",
    "p": 600,
@@ -1276,21 +1037,6 @@
      "Sharjah",
      "الشارقة"
     ],
-    [
-     "Khor Fakkan",
-     "خورفكان"
-    ]
-   ]
-  },
-  {
-   "q": "Which European power captured Khor Fakkan in the 16th century, calling it Corfacão?",
-   "a": "Portuguese",
-   "p": 600,
-   "alt": [
-    "Portugal"
-   ],
-   "apic": "Portuguese Empire",
-   "qar": [
     [
      "Khor Fakkan",
      "خورفكان"
@@ -1323,33 +1069,6 @@
    ]
   },
   {
-   "q": "In which year did the Khor Fakkan Container Terminal open?",
-   "a": "1979",
-   "p": 600,
-   "qar": [
-    [
-     "Khor Fakkan",
-     "خورفكان"
-    ]
-   ]
-  },
-  {
-   "q": "Which species of mangrove dominates the Khor Kalba reserve?",
-   "a": "Grey mangrove",
-   "p": 600,
-   "alt": [
-    "Avicennia marina",
-    "Qurm"
-   ],
-   "apic": "Avicennia marina",
-   "qar": [
-    [
-     "Khor Kalba",
-     "خور كلباء"
-    ]
-   ]
-  },
-  {
    "q": "In which month of 1932 did the first international flight land at Sharjah's Mahatta Fort?",
    "a": "October",
    "p": 600,
@@ -1374,16 +1093,6 @@
    "ar": "الشارقة",
    "apic": "Sharjah",
    "cpic": "Gulf of Oman"
-  },
-  {
-   "q": "Which public university, known as UoS, sits in Sharjah's University City?",
-   "a": "University of Sharjah",
-   "p": 200,
-   "ar": "جامعة الشارقة",
-   "alt": [
-    "UoS"
-   ],
-   "apic": "University of Sharjah"
   },
   {
    "q": "Which Arabic art form of beautiful writing has its own museum in the Heart of Sharjah?",
@@ -1445,21 +1154,16 @@
    "cpic": "Sharjah International Book Fair"
   },
   {
-   "q": "Sharjah Safari in Al Dhaid takes visitors through habitats from which continent?",
+   "q": "Sharjah Safari takes visitors through habitats from which continent?",
    "a": "Africa",
    "p": 200,
-   "apic": "Africa",
    "qar": [
     [
      "Sharjah Safari",
      "سفاري الشارقة"
-    ],
-    [
-     "Al Dhaid",
-     "الذيد"
     ]
    ],
-   "cpic": "Al Dhaid"
+   "apic": "Africa"
   },
   {
    "q": "In which year did Sharjah Safari open?",
@@ -1509,17 +1213,6 @@
    "cpic": "Gulf of Oman"
   },
   {
-   "q": "What colour is the border around the red rectangle on Sharjah's emirate flag?",
-   "a": "White",
-   "p": 200,
-   "qar": [
-    [
-     "Sharjah",
-     "الشارقة"
-    ]
-   ]
-  },
-  {
    "q": "Which wild cat, symbol of the Hajar Mountains, is bred at Sharjah's Breeding Centre for Endangered Arabian Wildlife?",
    "a": "Arabian leopard",
    "p": 200,
@@ -1542,7 +1235,7 @@
   {
    "q": "Which Sharjah amusement and water park complex includes Pearls Kingdom?",
    "a": "Al Montazah Parks",
-   "p": 400,
+   "p": 200,
    "ar": "المنتزه",
    "alt": [
     "Al Montazah"
@@ -1708,22 +1401,18 @@
    ]
   },
   {
-   "q": "Which Cairo university did Sheikh Sultan bin Muhammad graduate from in agriculture in 1971?",
+   "q": "Which Egyptian university did Sheikh Sultan bin Muhammad graduate from in agriculture in 1971?",
    "a": "Cairo University",
    "p": 400,
    "ar": "جامعة القاهرة",
-   "pic": "Sultan bin Muhammad Al-Qasimi",
-   "apic": "Cairo University",
    "qar": [
-    [
-     "Cairo",
-     "القاهرة"
-    ],
     [
      "Sheikh Sultan bin Muhammad",
      "الشيخ سلطان بن محمد"
     ]
-   ]
+   ],
+   "pic": "Sultan bin Muhammad Al-Qasimi",
+   "apic": "Cairo University"
   },
   {
    "q": "Which Sharjah ruler is Khalid Lagoon named after?",
@@ -1796,7 +1485,7 @@
   {
    "q": "In which Sharjah area is Expo Centre Sharjah?",
    "a": "Al Taawun",
-   "p": 400,
+   "p": 200,
    "ar": "التعاون",
    "alt": [
     "Al Tawoon"
@@ -2253,21 +1942,95 @@
    ]
   },
   {
-   "q": "What does the Arabic word 'buhaira', as in Sharjah's Buhaira Corniche, mean?",
-   "a": "Lake",
+   "q": "Which Sharjah children's centre, for ages 3 to 12, has a Drive Town and a TV Studio?",
+   "a": "Sharjah Discovery Centre",
    "p": 200,
+   "ar": "مركز الشارقة للاستكشاف",
    "alt": [
-    "Lagoon"
+    "Discovery Centre"
+   ]
+  },
+  {
+   "q": "Which injured sea creatures does Sharjah Aquarium rehabilitate and release back into the sea?",
+   "a": "Sea turtles",
+   "p": 400,
+   "alt": [
+    "Turtles"
+   ]
+  },
+  {
+   "q": "Which Heart of Sharjah school, where Sheikh Sultan bin Muhammad studied in 1951–52, is now a museum of education?",
+   "a": "Al Qasimia School",
+   "p": 400,
+   "ar": "مدرسة القاسمية",
+   "alt": [
+    "Qasimia School",
+    "Al Qasimiyah School"
    ],
    "qar": [
     [
-     "Sharjah",
-     "الشارقة"
-    ],
-    [
-     "buhaira",
-     "بحيرة"
+     "Heart of Sharjah",
+     "قلب الشارقة"
     ]
+   ]
+  },
+  {
+   "q": "What was the jail inside Sharjah Fort (Al Hisn) called?",
+   "a": "Al Muhalwasa",
+   "p": 600,
+   "ar": "المحلوسة",
+   "alt": [
+    "Muhalwasa",
+    "Al Mahalwasa"
+   ]
+  },
+  {
+   "q": "The Sharjah Museum of Islamic Civilization occupies a building that originally opened in 1987 as which souq?",
+   "a": "Souq Al Majarrah",
+   "p": 600,
+   "ar": "سوق المجرة",
+   "alt": [
+    "Al Majarrah Souq",
+    "Majarrah Souq"
+   ]
+  },
+  {
+   "q": "Instead of barjeel towers, Bait Al Naboodah is cooled by wind scoops built into its walls. What are they called?",
+   "a": "Malaqaf",
+   "p": 600,
+   "ar": "ملاقف",
+   "alt": [
+    "Malqaf",
+    "Malaqif"
+   ],
+   "qar": [
+    [
+     "Bait Al Naboodah",
+     "بيت النابودة"
+    ]
+   ]
+  },
+  {
+   "q": "Khor Fakkan's Resistance Monument, honouring defenders against the Portuguese in 1507, is shaped like what?",
+   "a": "A helmet",
+   "p": 600,
+   "alt": [
+    "Helmet",
+    "Warrior's helmet"
+   ],
+   "qar": [
+    [
+     "Khor Fakkan",
+     "خورفكان"
+    ]
+   ]
+  },
+  {
+   "q": "Sharjah Calligraphy Museum is located in whose historic house?",
+   "a": "Hamad Al Midfa",
+   "p": 600,
+   "alt": [
+    "Al Midfa"
    ]
   }
  ]

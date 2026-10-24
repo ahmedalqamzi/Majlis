@@ -3,46 +3,6 @@
  "name": "Ramadan & Eid Traditions",
  "questions": [
   {
-   "q": "What is the meal that breaks the fast at sunset during Ramadan called?",
-   "a": "Iftar",
-   "p": 200,
-   "ar": "إفطار",
-   "alt": [
-    "Futoor",
-    "Fitoor",
-    "Iftaar"
-   ],
-   "apic": "Iftar",
-   "qar": [
-    [
-     "Ramadan",
-     "رمضان"
-    ]
-   ]
-  },
-  {
-   "q": "What is the pre-dawn meal eaten before a day of fasting called?",
-   "a": "Suhoor",
-   "p": 200,
-   "ar": "سحور",
-   "alt": [
-    "Sahoor",
-    "Sohoor",
-    "Suhur"
-   ],
-   "apic": "Suhur"
-  },
-  {
-   "q": "Which fruit is traditionally eaten first to break the fast?",
-   "a": "Dates",
-   "p": 200,
-   "alt": [
-    "Date",
-    "Tamr"
-   ],
-   "apic": "Date palm"
-  },
-  {
    "q": "What is the gift of money given to children at Eid called?",
    "a": "Eidiya",
    "p": 200,
@@ -58,12 +18,6 @@
      "العيد"
     ]
    ]
-  },
-  {
-   "q": "Which two-word greeting, meaning 'blessed Eid', is used across the Muslim world?",
-   "a": "Eid Mubarak",
-   "p": 200,
-   "ar": "عيد مبارك"
   },
   {
    "q": "Which small, crunchy fried dough balls drizzled with date syrup are an Emirati Ramadan favourite?",
@@ -149,38 +103,6 @@
    "cpic": "Eid al-Fitr"
   },
   {
-   "q": "Which Eid marks the end of Ramadan?",
-   "a": "Eid al-Fitr",
-   "p": 200,
-   "ar": "عيد الفطر",
-   "alt": [
-    "Eid ul-Fitr",
-    "Eid Al Fitr"
-   ],
-   "apic": "Eid al-Fitr",
-   "qar": [
-    [
-     "Ramadan",
-     "رمضان"
-    ]
-   ]
-  },
-  {
-   "q": "Ramadan is which numbered month of the Islamic calendar?",
-   "a": "Ninth",
-   "p": 200,
-   "alt": [
-    "9",
-    "9th"
-   ],
-   "qar": [
-    [
-     "Ramadan",
-     "رمضان"
-    ]
-   ]
-  },
-  {
    "q": "Which Emirati mid-Sha'ban celebration sees children go door to door collecting sweets and nuts?",
    "a": "Hag Al Leila",
    "p": 200,
@@ -241,48 +163,6 @@
     "Tharid",
     "Threed",
     "Fareed"
-   ]
-  },
-  {
-   "q": "Which two-word greeting is said at the start of Ramadan, meaning 'generous Ramadan'?",
-   "a": "Ramadan Kareem",
-   "p": 200,
-   "ar": "رمضان كريم",
-   "alt": [
-    "Ramzan Kareem",
-    "Ramadan Karim"
-   ]
-  },
-  {
-   "q": "Which Islamic month comes just before Ramadan?",
-   "a": "Sha'ban",
-   "p": 200,
-   "ar": "شعبان",
-   "alt": [
-    "Shaban",
-    "Shaaban"
-   ],
-   "qar": [
-    [
-     "Ramadan",
-     "رمضان"
-    ]
-   ]
-  },
-  {
-   "q": "Sighting which shape of moon marks the start of Ramadan?",
-   "a": "Crescent",
-   "p": 200,
-   "alt": [
-    "Hilal",
-    "New crescent",
-    "Crescent moon"
-   ],
-   "qar": [
-    [
-     "Ramadan",
-     "رمضان"
-    ]
    ]
   },
   {
@@ -392,36 +272,15 @@
    "p": 200,
    "ar": "معمول",
    "alt": [
-    "Ma'amoul",
     "Mamoul"
    ],
-   "apic": "Maamoul",
    "qar": [
     [
      "Eid",
      "العيد"
     ]
-   ]
-  },
-  {
-   "q": "Which Eid is known as the 'Festival of Sacrifice'?",
-   "a": "Eid al-Adha",
-   "p": 200,
-   "ar": "عيد الأضحى",
-   "alt": [
-    "Eid Al Adha",
-    "Bakr Eid",
-    "Eid ul-Adha"
    ],
-   "apic": "Eid al-Adha"
-  },
-  {
-   "q": "How many months are in the Islamic calendar?",
-   "a": "12",
-   "p": 200,
-   "alt": [
-    "Twelve"
-   ]
+   "apic": "Maamoul"
   },
   {
    "q": "What plant-based dye do women and girls traditionally use to decorate their hands before Eid?",
@@ -473,30 +332,6 @@
      "suhoor",
      "السحور"
     ]
-   ]
-  },
-  {
-   "q": "The Hijri calendar follows the cycles of which celestial body?",
-   "a": "The Moon",
-   "p": 200,
-   "alt": [
-    "Moon",
-    "Lunar"
-   ],
-   "apic": "Moon",
-   "qar": [
-    [
-     "Hijri",
-     "الهجري"
-    ]
-   ]
-  },
-  {
-   "q": "Besides dates, what drink is traditionally taken first to break the fast?",
-   "a": "Water",
-   "p": 200,
-   "alt": [
-    "Maa"
    ]
   },
   {
@@ -642,9 +477,7 @@
    "p": 400,
    "ar": "كل عام وأنتم بخير",
    "alt": [
-    "Kul Am Wa Antum Bikhair",
-    "Kol Sana Wenta Tayeb",
-    "Kul Sana Wa Inta Tayeb"
+    "Kul Am Wa Antum Bikhair"
    ],
    "qar": [
     [
@@ -687,23 +520,6 @@
     ]
    ],
    "cpic": "Saffron"
-  },
-  {
-   "q": "What paper-thin Emirati bread is traditionally used in thareed?",
-   "a": "Regag",
-   "p": 400,
-   "ar": "رقاق",
-   "alt": [
-    "Ragag",
-    "Rqaq",
-    "Khubz Regag"
-   ],
-   "qar": [
-    [
-     "thareed",
-     "ثريد"
-    ]
-   ]
   },
   {
    "q": "What grain is the base of harees?",
@@ -787,11 +603,6 @@
    "a": "Tash Ma Tash",
    "p": 400,
    "ar": "طاش ما طاش",
-   "alt": [
-    "Tash Ma Tash series",
-    "Tash ma tash"
-   ],
-   "apic": "Tash Ma Tash",
    "qar": [
     [
      "Ramadan",
@@ -806,6 +617,7 @@
      "عبدالله السدحان"
     ]
    ],
+   "apic": "Tash Ma Tash",
    "cpic": "Nasser Al Qasabi"
   },
   {
@@ -866,15 +678,6 @@
    ]
   },
   {
-   "q": "Which month is the first of the Islamic calendar?",
-   "a": "Muharram",
-   "p": 400,
-   "ar": "محرم",
-   "alt": [
-    "Moharram"
-   ]
-  },
-  {
    "q": "Which is the second month of the Islamic calendar?",
    "a": "Safar",
    "p": 400,
@@ -883,7 +686,7 @@
   {
    "q": "Eid al-Adha falls in which Islamic month?",
    "a": "Dhu al-Hijjah",
-   "p": 400,
+   "p": 200,
    "ar": "ذو الحجة",
    "alt": [
     "Dhul Hijjah",
@@ -901,7 +704,7 @@
   {
    "q": "Which event marks year one of the Islamic calendar?",
    "a": "The Hijra",
-   "p": 400,
+   "p": 200,
    "ar": "الهجرة",
    "alt": [
     "Hijra",
@@ -932,22 +735,6 @@
    "ar": "إمساك",
    "alt": [
     "Imsaak"
-   ]
-  },
-  {
-   "q": "What instrument does the mesaharati traditionally beat?",
-   "a": "Drum",
-   "p": 400,
-   "alt": [
-    "Tabla",
-    "Small drum",
-    "Tabl"
-   ],
-   "qar": [
-    [
-     "mesaharati",
-     "المسحراتي"
-    ]
    ]
   },
   {
@@ -989,7 +776,7 @@
   {
    "q": "On which day of Dhu al-Hijjah does Eid al-Adha begin?",
    "a": "10th",
-   "p": 400,
+   "p": 200,
    "alt": [
     "10",
     "Tenth"
@@ -1022,18 +809,6 @@
      "كنافة نابلسية"
     ]
    ]
-  },
-  {
-   "q": "In which country was Vimto created?",
-   "a": "England",
-   "p": 400,
-   "alt": [
-    "UK",
-    "United Kingdom",
-    "Britain"
-   ],
-   "apic": "England",
-   "cpic": "Vimto"
   },
   {
    "q": "Which Emirati stick-and-drum line dance is a highlight of Eid celebrations?",
@@ -1069,7 +844,7 @@
    ]
   },
   {
-   "q": "What is the charity, usually food or money, given before Eid al-Fitr prayers called?",
+   "q": "What is the end-of-Ramadan charity, often given as staple food, called?",
    "a": "Zakat al-Fitr",
    "p": 400,
    "ar": "زكاة الفطر",
@@ -1080,8 +855,8 @@
    ],
    "qar": [
     [
-     "Eid al-Fitr",
-     "عيد الفطر"
+     "Ramadan",
+     "رمضان"
     ]
    ]
   },
@@ -1178,8 +953,7 @@
    "ar": "المعز لدين الله",
    "alt": [
     "Al-Muizz li-Din Allah",
-    "Al Moez",
-    "Al-Muizz"
+    "Al Moez"
    ],
    "qar": [
     [
@@ -1315,23 +1089,6 @@
    ]
   },
   {
-   "q": "Which Emirati animator created 'Freej'?",
-   "a": "Mohammed Saeed Harib",
-   "p": 600,
-   "ar": "محمد سعيد حارب",
-   "alt": [
-    "Mohammed Harib",
-    "Mohamed Saeed Harib"
-   ],
-   "apic": "Mohammed Saeed Harib",
-   "qar": [
-    [
-     "Freej",
-     "فريج"
-    ]
-   ]
-  },
-  {
    "q": "What are the free public iftar tables set up on Egyptian streets called?",
    "a": "Mawaid al-Rahman",
    "p": 600,
@@ -1412,7 +1169,7 @@
   {
    "q": "Which Islamic month comes between Shawwal and Dhu al-Hijjah?",
    "a": "Dhu al-Qa'dah",
-   "p": 600,
+   "p": 400,
    "ar": "ذو القعدة",
    "alt": [
     "Dhul Qadah",
@@ -1433,23 +1190,22 @@
   {
    "q": "Which is the seventh month of the Islamic calendar?",
    "a": "Rajab",
-   "p": 600,
+   "p": 400,
    "ar": "رجب"
   },
   {
    "q": "The third and fourth Islamic months share which first name?",
    "a": "Rabi",
-   "p": 600,
+   "p": 400,
    "ar": "ربيع",
    "alt": [
-    "Rabi'",
     "Rabee"
    ]
   },
   {
    "q": "The fifth and sixth Islamic months share which first name?",
    "a": "Jumada",
-   "p": 600,
+   "p": 400,
    "ar": "جمادى",
    "alt": [
     "Jumadi",
@@ -1460,7 +1216,7 @@
   {
    "q": "In which year CE does the Hijri calendar begin?",
    "a": "622",
-   "p": 600,
+   "p": 400,
    "alt": [
     "622 CE",
     "622 AD"
@@ -1542,19 +1298,6 @@
    ]
   },
   {
-   "q": "In which emirate is the animated series 'Freej' set?",
-   "a": "Dubai",
-   "p": 600,
-   "ar": "دبي",
-   "apic": "Dubai",
-   "qar": [
-    [
-     "Freej",
-     "فريج"
-    ]
-   ]
-  },
-  {
    "q": "What is the soft round Turkish bread baked only during Ramadan called?",
    "a": "Ramazan pidesi",
    "p": 600,
@@ -1603,61 +1346,17 @@
    ]
   },
   {
-   "q": "At which daily prayer is the fast broken?",
-   "a": "Maghrib",
-   "p": 200,
-   "ar": "المغرب",
-   "alt": [
-    "Sunset prayer",
-    "Maghreb"
-   ]
-  },
-  {
-   "q": "Which dawn prayer marks the end of suhoor?",
-   "a": "Fajr",
-   "p": 200,
-   "ar": "الفجر",
-   "alt": [
-    "Dawn prayer"
-   ],
-   "qar": [
-    [
-     "suhoor",
-     "السحور"
-    ]
-   ]
-  },
-  {
    "q": "Which spiced rice and meat dish is the centrepiece of many Emirati iftar tables?",
    "a": "Machboos",
    "p": 200,
    "ar": "مجبوس",
    "alt": [
-    "Majboos",
-    "Kabsa"
+    "Majboos"
    ],
    "qar": [
     [
      "iftar",
      "الإفطار"
-    ]
-   ]
-  },
-  {
-   "q": "What white robe do Emirati men traditionally wear new on Eid?",
-   "a": "Kandura",
-   "p": 200,
-   "ar": "كندورة",
-   "alt": [
-    "Kandoora",
-    "Dishdasha",
-    "Thobe"
-   ],
-   "apic": "Thawb",
-   "qar": [
-    [
-     "Eid",
-     "العيد"
     ]
    ]
   },
@@ -1668,27 +1367,15 @@
    "ar": "بخور",
    "alt": [
     "Bakhoor",
-    "Bakhour",
-    "Oud"
+    "Bakhour"
    ],
-   "apic": "Bukhoor",
    "qar": [
     [
      "Eid",
      "العيد"
     ]
-   ]
-  },
-  {
-   "q": "What is the Arabic word for fasting?",
-   "a": "Sawm",
-   "p": 200,
-   "ar": "صوم",
-   "alt": [
-    "Siyam",
-    "Seyam",
-    "Saum"
-   ]
+   ],
+   "apic": "Bukhoor"
   },
   {
    "q": "Which green nut is sprinkled on top of kunafa?",
@@ -1896,16 +1583,6 @@
      "Eid",
      "العيد"
     ]
-   ]
-  },
-  {
-   "q": "What is the Arabic word for a person who is fasting?",
-   "a": "Sa'im",
-   "p": 200,
-   "ar": "صائم",
-   "alt": [
-    "Saim",
-    "Sayem"
    ]
   },
   {
@@ -2153,7 +1830,6 @@
    "p": 400,
    "alt": [
     "Fifteenth",
-    "Mid-Sha'ban",
     "15"
    ],
    "qar": [
@@ -2276,7 +1952,6 @@
    "p": 400,
    "ar": "اعتكاف",
    "alt": [
-    "Itikaf",
     "Etikaf"
    ],
    "qar": [
@@ -2312,7 +1987,6 @@
    "a": "Kurban Bayramı",
    "p": 400,
    "alt": [
-    "Kurban Bayrami",
     "Kurban Bayram"
    ],
    "qar": [
@@ -2519,7 +2193,6 @@
    "p": 600,
    "ar": "معروك",
    "alt": [
-    "Maarouk",
     "Maarook"
    ],
    "qar": [
@@ -2656,12 +2329,6 @@
    "pic": "Vimto"
   },
   {
-   "q": "In which year was Vimto created?",
-   "a": "1908",
-   "p": 600,
-   "pic": "Vimto"
-  },
-  {
    "q": "Jallab's name comes from a Persian word meaning what?",
    "a": "Rose water",
    "p": 600,
@@ -2770,7 +2437,6 @@
    "p": 600,
    "ar": "رؤية الهلال",
    "alt": [
-    "Ruyat al-Hilal",
     "Moon sighting"
    ]
   },
@@ -2850,32 +2516,6 @@
    "apic": "Medjool"
   },
   {
-   "q": "What call from the mosque tells fasting people it is time to break their fast?",
-   "a": "Adhan",
-   "p": 200,
-   "ar": "أذان",
-   "alt": [
-    "Azan",
-    "Athan",
-    "Call to prayer"
-   ]
-  },
-  {
-   "q": "What do families traditionally buy children to wear on Eid morning?",
-   "a": "New clothes",
-   "p": 200,
-   "alt": [
-    "Clothes",
-    "Eid clothes"
-   ],
-   "qar": [
-    [
-     "Eid",
-     "العيد"
-    ]
-   ]
-  },
-  {
    "q": "Which long-spouted pot is used to pour Arabic coffee at iftar?",
    "a": "Dallah",
    "p": 200,
@@ -2892,40 +2532,9 @@
    "cpic": "Arabic coffee"
   },
   {
-   "q": "Fasting in Ramadan lasts from dawn until when?",
-   "a": "Sunset",
-   "p": 200,
-   "alt": [
-    "Maghrib",
-    "Dusk"
-   ],
-   "qar": [
-    [
-     "Ramadan",
-     "رمضان"
-    ]
-   ]
-  },
-  {
-   "q": "What is the Arabic word for a TV drama series, the backbone of Ramadan television?",
-   "a": "Musalsal",
-   "p": 400,
-   "ar": "مسلسل",
-   "alt": [
-    "Mosalsal",
-    "Musalsalat"
-   ],
-   "qar": [
-    [
-     "Ramadan",
-     "رمضان"
-    ]
-   ]
-  },
-  {
    "q": "What does 'luqaimat' literally mean?",
    "a": "Little bites",
-   "p": 400,
+   "p": 200,
    "alt": [
     "Small bites",
     "Morsels",
@@ -2939,21 +2548,6 @@
    ]
   },
   {
-   "q": "What does the word 'iftar' literally mean?",
-   "a": "Breaking the fast",
-   "p": 400,
-   "alt": [
-    "Breaking fast",
-    "Breakfast"
-   ],
-   "qar": [
-    [
-     "iftar",
-     "إفطار"
-    ]
-   ]
-  },
-  {
    "q": "What are the small handleless cups for Arabic coffee called?",
    "a": "Finjan",
    "p": 400,
@@ -2963,6 +2557,62 @@
     "Fenjan"
    ],
    "cpic": "Arabic coffee"
+  },
+  {
+   "q": "In Emirati custom, at whose house does the extended family gather for the first iftar of Ramadan?",
+   "a": "The grandfather's",
+   "p": 200,
+   "alt": [
+    "Grandfather",
+    "Head of the family",
+    "Grandad's"
+   ],
+   "qar": [
+    [
+     "iftar",
+     "الإفطار"
+    ]
+   ]
+  },
+  {
+   "q": "Which Ramadan Quran competition, one of the UAE's most prominent Ramadan events, crowns a 'Most Beautiful Voice' among young reciters?",
+   "a": "Dubai International Holy Quran Award",
+   "p": 200,
+   "ar": "جائزة دبي الدولية للقرآن الكريم",
+   "alt": [
+    "Dubai Quran Award",
+    "DIHQA",
+    "Dubai International Quran Award",
+    "Dubai Holy Quran Award"
+   ],
+   "qar": [
+    [
+     "Quran",
+     "القرآن"
+    ]
+   ]
+  },
+  {
+   "q": "The UAE's official moon-sighting committee operates under which national religious body?",
+   "a": "UAE Council for Fatwa",
+   "p": 600,
+   "alt": [
+    "Council for Fatwa",
+    "Emirates Fatwa Council",
+    "UAE Fatwa Council"
+   ]
+  },
+  {
+   "q": "What is the name for the Ramadan foodstuff provisions traditionally provided for the poor in the UAE?",
+   "a": "Al Mir Al Ramadani",
+   "p": 600,
+   "ar": "المير الرمضاني",
+   "alt": [
+    "Al Mir",
+    "Meer Ramadan",
+    "Mir Ramadan",
+    "Al Meer"
+   ]
   }
  ]
 }
