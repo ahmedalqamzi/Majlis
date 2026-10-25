@@ -10,12 +10,36 @@ let navy = UIColor(red: 13 / 255, green: 39 / 255, blue: 66 / 255, alpha: 1)
 struct MajlisApp: App {
     var body: some Scene {
         WindowGroup {
-            GameView()
-                .ignoresSafeArea(.container, edges: .bottom)
-                .background(Color(navy).ignoresSafeArea())
-                .preferredColorScheme(.dark)
-                .onAppear { UIApplication.shared.isIdleTimerDisabled = true }
+            TabView {
+                GameView()
+                    .ignoresSafeArea(.container, edges: .bottom)
+                    .background(Color(navy).ignoresSafeArea())
+                    .onAppear { UIApplication.shared.isIdleTimerDisabled = true }
+                    .tabItem { Label("Majlis", systemImage: "gamecontroller") }
+
+                PartyTab()
+                    .tabItem { Label("Party", systemImage: "person.3") }
+            }
+            .preferredColorScheme(.dark)
         }
+    }
+}
+
+// Hosts OperatorView with real bundle paths for PartyHost's contentDir/webDir
+// (the PartyContent/PartyWeb folder references project.yml bundles via
+// gen_ios_content_packs.sh/gen_ios_web_resources.sh). Resolved lazily inside
+// makeHost — PartyLifecycleCoordinator's init (and startHosting after an
+// .ended session) calls this each time a fresh PartyHost is actually
+// needed, not once at app launch.
+private struct PartyTab: View {
+    var body: some View {
+        OperatorView(makeHost: {
+            guard let contentDir = Bundle.main.url(forResource: "PartyContent", withExtension: nil)?.path,
+                  let webDir = Bundle.main.url(forResource: "PartyWeb", withExtension: nil)?.path else {
+                throw PartyHost.HostError.invalidConfig("bundled PartyContent/PartyWeb resources not found")
+            }
+            return try PartyHost(contentDir: contentDir, webDir: webDir)
+        })
     }
 }
 
