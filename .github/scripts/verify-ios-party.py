@@ -14,7 +14,7 @@ def verify(root, app):
     web = ['css/party.css'] + [f'js/{n}.js' for n in
            ['modes', 'play', 'qr', 'session', 'transport', 'ui', 'views']] + ['play.html']
     web = sorted(web)
-    packs = ['feud.json', 'who_am_i.json']
+    packs = sorted(['feud.json', 'who_am_i.json', 'impostor.json'])
     receipts = {}
     for name, paths, origin in [('PartyWeb', web, root/'party/web'),
                                 ('PartyContent', packs, root/'party/content')]:
@@ -32,7 +32,7 @@ def verify(root, app):
         else:
             entries = re.findall(r'^([a-f0-9]{64})  (.+)$',
                                  (generated/'MANIFEST.txt').read_text(), re.M)
-            assert len(entries) == 2 and sorted(p for _, p in entries) == paths
+            assert len(entries) == 3 and sorted(p for _, p in entries) == paths
             for digest, path in entries:
                 assert digest == sha(origin/path), f'content source hash: {path}'
         assert (bundled/'MANIFEST.txt').read_bytes() == (generated/'MANIFEST.txt').read_bytes()

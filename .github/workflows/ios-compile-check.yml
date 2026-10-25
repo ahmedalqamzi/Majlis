@@ -45,6 +45,11 @@ jobs:
         run: |
           set -euo pipefail
           test -d "$APP"
+          (cd "$APP" && find . -type f -print0 | xargs -0 shasum -a 256 | sort) > evidence/app-files.sha256
+          cp party/native/gen/EmbeddedSources.swift evidence/
+          cp majlis-ios/PartyWeb/MANIFEST.txt evidence/PartyWeb-MANIFEST.txt
+          cp majlis-ios/PartyContent/MANIFEST.txt evidence/PartyContent-MANIFEST.txt
+          ditto -c -k --keepParent "$APP" evidence/Majlis-unsigned.app.zip
           actual_id=$(/usr/libexec/PlistBuddy -c 'Print :CFBundleIdentifier' "$APP/Info.plist")
           actual_os=$(/usr/libexec/PlistBuddy -c 'Print :MinimumOSVersion' "$APP/Info.plist")
           printf '%s\n' "$actual_id" "$actual_os" > evidence/app-identity.txt
@@ -58,11 +63,6 @@ jobs:
           matched=$?
           set -e
           test "$matched" -eq 1
-          (cd "$APP" && find . -type f -print0 | xargs -0 shasum -a 256 | sort) > evidence/app-files.sha256
-          cp party/native/gen/EmbeddedSources.swift evidence/
-          cp majlis-ios/PartyWeb/MANIFEST.txt evidence/PartyWeb-MANIFEST.txt
-          cp majlis-ios/PartyContent/MANIFEST.txt evidence/PartyContent-MANIFEST.txt
-          ditto -c -k --keepParent "$APP" evidence/Majlis-unsigned.app.zip
       - name: Retain raw evidence even on failure
         if: always()
         uses: actions/upload-artifact@v4
