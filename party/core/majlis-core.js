@@ -283,7 +283,9 @@ var MajlisCore = (function (T) {
     max_strikes: [409, "Maximum strikes reached."],
     steal_not_available: [409, "A steal is only available after the maximum strikes."],
     no_control: [409, "No player is in control; specify playerId."],
-    round_awarded: [409, "This round was already awarded."]
+    round_awarded: [409, "This round was already awarded."],
+    self_vote: [409, "Players may not vote for themselves."],
+    already_voted: [409, "This player has already voted this round."]
   };
   function PartyError(code) {
     if (!hasOwn.call(ERRORS, code)) code = "internal_error";
@@ -620,6 +622,102 @@ var MajlisCore = (function (T) {
       var j = rng.randbelow(i + 1), t = x[i]; x[i] = x[j]; x[j] = t;
     }
     return x;
+  }
+
+  // ------------------------------------------------------------- SHA-512
+  // Used only to reproduce CPython's random.seed(str, version=2): a ==
+  // utf8(a); a += sha512(a).digest(); a = int.from_bytes(a, "big"); then fed
+  // into MT() above exactly as an int seed. H0/K are the FIPS 180-4
+  // constants (fractional bits of sqrt/cbrt of the first 8/80 primes),
+  // verified against Python's hashlib.sha512 for known test vectors.
+  var SHA512_MASK64 = (1n << 64n) - 1n;
+  var SHA512_H0 = [
+    0x6a09e667f3bcc908n, 0xbb67ae8584caa73bn, 0x3c6ef372fe94f82bn, 0xa54ff53a5f1d36f1n,
+    0x510e527fade682d1n, 0x9b05688c2b3e6c1fn, 0x1f83d9abfb41bd6bn, 0x5be0cd19137e2179n
+  ];
+  var SHA512_K = [
+    0x428a2f98d728ae22n, 0x7137449123ef65cdn, 0xb5c0fbcfec4d3b2fn, 0xe9b5dba58189dbbcn,
+    0x3956c25bf348b538n, 0x59f111f1b605d019n, 0x923f82a4af194f9bn, 0xab1c5ed5da6d8118n,
+    0xd807aa98a3030242n, 0x12835b0145706fben, 0x243185be4ee4b28cn, 0x550c7dc3d5ffb4e2n,
+    0x72be5d74f27b896fn, 0x80deb1fe3b1696b1n, 0x9bdc06a725c71235n, 0xc19bf174cf692694n,
+    0xe49b69c19ef14ad2n, 0xefbe4786384f25e3n, 0x0fc19dc68b8cd5b5n, 0x240ca1cc77ac9c65n,
+    0x2de92c6f592b0275n, 0x4a7484aa6ea6e483n, 0x5cb0a9dcbd41fbd4n, 0x76f988da831153b5n,
+    0x983e5152ee66dfabn, 0xa831c66d2db43210n, 0xb00327c898fb213fn, 0xbf597fc7beef0ee4n,
+    0xc6e00bf33da88fc2n, 0xd5a79147930aa725n, 0x06ca6351e003826fn, 0x142929670a0e6e70n,
+    0x27b70a8546d22ffcn, 0x2e1b21385c26c926n, 0x4d2c6dfc5ac42aedn, 0x53380d139d95b3dfn,
+    0x650a73548baf63den, 0x766a0abb3c77b2a8n, 0x81c2c92e47edaee6n, 0x92722c851482353bn,
+    0xa2bfe8a14cf10364n, 0xa81a664bbc423001n, 0xc24b8b70d0f89791n, 0xc76c51a30654be30n,
+    0xd192e819d6ef5218n, 0xd69906245565a910n, 0xf40e35855771202an, 0x106aa07032bbd1b8n,
+    0x19a4c116b8d2d0c8n, 0x1e376c085141ab53n, 0x2748774cdf8eeb99n, 0x34b0bcb5e19b48a8n,
+    0x391c0cb3c5c95a63n, 0x4ed8aa4ae3418acbn, 0x5b9cca4f7763e373n, 0x682e6ff3d6b2b8a3n,
+    0x748f82ee5defb2fcn, 0x78a5636f43172f60n, 0x84c87814a1f0ab72n, 0x8cc702081a6439ecn,
+    0x90befffa23631e28n, 0xa4506cebde82bde9n, 0xbef9a3f7b2c67915n, 0xc67178f2e372532bn,
+    0xca273eceea26619cn, 0xd186b8c721c0c207n, 0xeada7dd6cde0eb1en, 0xf57d4f7fee6ed178n,
+    0x06f067aa72176fban, 0x0a637dc5a2c898a6n, 0x113f9804bef90daen, 0x1b710b35131c471bn,
+    0x28db77f523047d84n, 0x32caab7b40c72493n, 0x3c9ebe0a15c9bebcn, 0x431d67c49c100d4cn,
+    0x4cc5d4becb3e42b6n, 0x597f299cfc657e2an, 0x5fcb6fab3ad6faecn, 0x6c44198c4a475817n
+  ];
+  function sha512Rotr(x, n) { return ((x >> n) | (x << (64n - n))) & SHA512_MASK64; }
+  function sha512Add(a, b) { return (a + b) & SHA512_MASK64; }
+  function sha512(bytes) { // Uint8Array/array of bytes -> Uint8Array(64)
+    var ml = bytes.length, bitLen = BigInt(ml) * 8n;
+    var r = (ml + 1) % 128, padLen = (112 - r + 128) % 128;
+    var total = ml + 1 + padLen + 16, msg = new Uint8Array(total), i, b;
+    msg.set(bytes, 0);
+    msg[ml] = 0x80;
+    for (i = 0; i < 16; i++) msg[total - 1 - i] = Number((bitLen >> BigInt(8 * i)) & 0xffn);
+    var H = SHA512_H0.slice();
+    for (var off = 0; off < total; off += 128) {
+      var W = new Array(80), t;
+      for (t = 0; t < 16; t++) {
+        var w = 0n;
+        for (b = 0; b < 8; b++) w = (w << 8n) | BigInt(msg[off + t * 8 + b]);
+        W[t] = w;
+      }
+      for (t = 16; t < 80; t++) {
+        var s0 = sha512Rotr(W[t - 15], 1n) ^ sha512Rotr(W[t - 15], 8n) ^ (W[t - 15] >> 7n);
+        var s1 = sha512Rotr(W[t - 2], 19n) ^ sha512Rotr(W[t - 2], 61n) ^ (W[t - 2] >> 6n);
+        W[t] = (W[t - 16] + s0 + W[t - 7] + s1) & SHA512_MASK64;
+      }
+      var a = H[0], bb = H[1], c = H[2], d = H[3], e = H[4], f = H[5], g = H[6], h = H[7];
+      for (t = 0; t < 80; t++) {
+        var S1 = sha512Rotr(e, 14n) ^ sha512Rotr(e, 18n) ^ sha512Rotr(e, 41n);
+        var ch = (e & f) ^ ((~e & SHA512_MASK64) & g);
+        var temp1 = (h + S1 + ch + SHA512_K[t] + W[t]) & SHA512_MASK64;
+        var S0 = sha512Rotr(a, 28n) ^ sha512Rotr(a, 34n) ^ sha512Rotr(a, 39n);
+        var maj = (a & bb) ^ (a & c) ^ (bb & c);
+        var temp2 = (S0 + maj) & SHA512_MASK64;
+        h = g; g = f; f = e; e = (d + temp1) & SHA512_MASK64;
+        d = c; c = bb; bb = a; a = (temp1 + temp2) & SHA512_MASK64;
+      }
+      H[0] = sha512Add(H[0], a); H[1] = sha512Add(H[1], bb); H[2] = sha512Add(H[2], c); H[3] = sha512Add(H[3], d);
+      H[4] = sha512Add(H[4], e); H[5] = sha512Add(H[5], f); H[6] = sha512Add(H[6], g); H[7] = sha512Add(H[7], h);
+    }
+    var out = new Uint8Array(64);
+    for (i = 0; i < 8; i++) for (b = 0; b < 8; b++) out[i * 8 + b] = Number((H[i] >> BigInt(8 * (7 - b))) & 0xffn);
+    return out;
+  }
+  function utf8Encode(s) {
+    var bytes = [];
+    for (var ch of s) {
+      var cp = ch.codePointAt(0);
+      if (cp < 0x80) bytes.push(cp);
+      else if (cp < 0x800) bytes.push(0xc0 | (cp >> 6), 0x80 | (cp & 0x3f));
+      else if (cp < 0x10000) bytes.push(0xe0 | (cp >> 12), 0x80 | ((cp >> 6) & 0x3f), 0x80 | (cp & 0x3f));
+      else bytes.push(0xf0 | (cp >> 18), 0x80 | ((cp >> 12) & 0x3f), 0x80 | ((cp >> 6) & 0x3f), 0x80 | (cp & 0x3f));
+    }
+    return new Uint8Array(bytes);
+  }
+  function stringSeedToBigInt(s) { // random.seed(s, version=2) -> the int random.Random(s) actually seeds with
+    var bytes = utf8Encode(s), digest = sha512(bytes);
+    var combined = new Uint8Array(bytes.length + digest.length);
+    combined.set(bytes, 0); combined.set(digest, bytes.length);
+    var v = 0n;
+    for (var i = 0; i < combined.length; i++) v = (v << 8n) | BigInt(combined[i]);
+    return v;
+  }
+  function randBelowFromStringSeed(s, n) { // random.Random(s).randrange(n) for a str seed s
+    return new MT(stringSeedToBigInt(s)).randbelow(n);
   }
 
   // -------------------------------------------------------- modes/who_am_i
@@ -1026,6 +1124,240 @@ var MajlisCore = (function (T) {
       initialize: initialize, reduce: reduce, project: project };
   })();
 
+  // ------------------------------------------------------------ modes/impostor
+  // Ported from party/server/modes/impostor.py (accepted candidate N03-I-v1).
+  // Word matching uses wordKey (NFC), deliberately NOT matchKey (NFKC, used
+  // by WhoAmI/Feud display-text collisions) -- the Python oracle's
+  // word_key() is NFC-based and must not be conflated with it.
+  var Impostor = (function () {
+    var MODE_ID = "impostor", PREFIX = "impostor.", MIN_PLAYERS = 3, MAX_PLAYERS = 12,
+      MAX_WORD_LEN = 80, MAX_CATEGORY_LEN = 64, MAX_GUESS_LEN = 80, IMPOSTOR_POINTS = 3, CREW_POINTS = 2;
+    var DISCUSSION = "discussion", VOTE = "vote", GUESS_WORD = "guess_word", REVEAL = "reveal";
+    var IMPOSTOR_SURVIVED = "impostor_survived", IMPOSTOR_GUESSED_WORD = "impostor_guessed_word",
+      CREW_WRONG_GUESS = "crew_wrong_guess", CREW_FORFEIT = "crew_forfeit", ABORTED = "aborted";
+
+    function wordKey(value) { return pySplit(casefold(nfc(value))).join(" "); }
+
+    function validateItem(item, path, issues) {
+      if (!isPyDict(item)) { issues.push(path + ": must be an object"); return null; }
+      var before = issues.length;
+      if (!isText(get(item, "id"), MAX_ID)) issues.push(path + ".id: required non-empty string (max 64)");
+      var word = get(item, "word");
+      if (!isText(word, MAX_WORD_LEN) || cleanText(word, MAX_WORD_LEN) === null) {
+        issues.push(path + ".word: required non-empty printable string (max 80)");
+      }
+      if (!isText(get(item, "category"), MAX_CATEGORY_LEN)) issues.push(path + ".category: required non-empty string (max 64)");
+      if (issues.length !== before) return null;
+      return { id: item.id, word: item.word, category: item.category };
+    }
+    function validateItems(items, issues) {
+      var owner = new Map();
+      items.forEach(function (item, index) {
+        var key = wordKey(item.word);
+        var first = owner.has(key) ? owner.get(key) : null;
+        if (first !== null) {
+          issues.push("items[" + index + "].word: duplicates normalized word of items[" + first + "] (case/whitespace-insensitive)");
+        } else owner.set(key, index);
+      });
+    }
+
+    function makeRoundId(gameNo, roundNo) { return "g" + gameNo + "r" + roundNo; }
+    function pickImpostor(state, roundNo) {
+      var seedStr = "impostor:" + String(state.seed) + ":" + String(state.gameNo) + ":" + String(roundNo);
+      return state.order[randBelowFromStringSeed(seedStr, state.order.length)];
+    }
+    function draw(state) {
+      var used = {};
+      state.usedKeys.forEach(function (k) { used[k] = true; });
+      while (state.deck.length) {
+        var item = state.deck.shift();
+        var key = wordKey(item.word);
+        if (!used[key]) { state.usedKeys.push(key); return item; }
+      }
+      return null;
+    }
+    function hasUnseen(state) {
+      var used = {};
+      state.usedKeys.forEach(function (k) { used[k] = true; });
+      return state.deck.some(function (item) { return !used[wordKey(item.word)]; });
+    }
+    function startRound(state, roundNo, item) {
+      state.item = item;
+      state.roundNo = roundNo;
+      state.roundId = makeRoundId(state.gameNo, roundNo);
+      state.impostor = pickImpostor(state, roundNo);
+      state.roundPhase = DISCUSSION;
+      state.votes = obj();
+      state.nominee = null;
+      state.outcome = null;
+      state.roundPoints = null;
+    }
+
+    function initialize(config, players, content) {
+      var order = players.map(function (p) { return p.id; });
+      if (order.length < MIN_PLAYERS) return [null, "not_enough_players"];
+      if (order.length > MAX_PLAYERS) return [null, "too_many_players"];
+      var items = deepcopy(content.items);
+      if (!items.length) return [null, "content_insufficient"];
+      shuffleInPlace(config.seed, items);
+      var scores = obj();
+      players.forEach(function (p) { scores[p.id] = p.score; });
+      var state = {
+        mode: MODE_ID, title: content.title, gameNo: config.gameNo, seed: config.seed,
+        order: order, deck: items, usedKeys: [], awards: [], scores: scores, ended: false
+      };
+      var item = draw(state);
+      if (item === null) return [null, "content_insufficient"];
+      startRound(state, 1, item);
+      return [state, null];
+    }
+
+    function tally(state) {
+      var counts = obj();
+      state.order.forEach(function (p) { counts[p] = 0; });
+      Object.keys(state.votes).forEach(function (voter) {
+        var target = state.votes[voter];
+        counts[target] = (counts[target] || 0) + 1;
+      });
+      return counts;
+    }
+    function nominee(state) {
+      var counts = tally(state), best = 0;
+      state.order.forEach(function (p) { if (counts[p] > best) best = counts[p]; });
+      if (best === 0) return null;
+      var leaders = state.order.filter(function (p) { return counts[p] === best; });
+      return leaders.length === 1 ? leaders[0] : null;
+    }
+    function award(s, outcome, impostorWins) {
+      var key = s.roundId;
+      if (s.awards.indexOf(key) >= 0) return false;
+      s.awards.push(key);
+      var points = obj();
+      s.order.forEach(function (p) {
+        var pts = impostorWins ? (p === s.impostor ? IMPOSTOR_POINTS : 0) : (p === s.impostor ? 0 : CREW_POINTS);
+        points[p] = pts;
+        s.scores[p] = (s.scores[p] || 0) + pts;
+      });
+      s.roundPoints = points;
+      s.outcome = outcome;
+      s.roundPhase = REVEAL;
+      return true;
+    }
+    function resolveVote(s) {
+      s.nominee = nominee(s);
+      if (s.nominee !== null && s.nominee === s.impostor) { s.roundPhase = GUESS_WORD; return true; }
+      return award(s, IMPOSTOR_SURVIVED, true);
+    }
+
+    function reduce(state, actor, action, serverSequence) {
+      var kind = get(action, "type");
+      var payload = get(action, "payload");
+      if (isNone(payload)) payload = obj();
+      var role = get(actor, "role"), pid = get(actor, "playerId"), actionRoundId = get(action, "roundId");
+      if (!isNone(actionRoundId) && actionRoundId !== state.roundId) return [state, "stale_round"];
+      if (!isPyDict(payload)) return [state, "invalid_payload"];
+      var s;
+
+      if (kind === "game.end") {
+        if (role !== "operator") return [state, "forbidden"];
+        if (state.ended) return [state, "invalid_phase"];
+        s = deepcopy(state);
+        s.ended = true;
+        if (s.outcome === null) s.outcome = ABORTED;
+        return [s, null];
+      }
+
+      if (state.ended) return [state, "invalid_phase"];
+      var phase = state.roundPhase;
+
+      if (kind === "impostor.advance") {
+        if (role !== "operator") return [state, "forbidden"];
+        s = deepcopy(state);
+        if (phase === DISCUSSION) { s.roundPhase = VOTE; return [s, null]; }
+        if (phase === VOTE) { resolveVote(s); return [s, null]; }
+        if (phase === GUESS_WORD) {
+          if (!award(s, CREW_FORFEIT, false)) return [state, "already_awarded"];
+          return [s, null];
+        }
+        return [state, "invalid_phase"];
+      }
+
+      if (kind === "impostor.vote") {
+        if (role !== "player" || !inList(state.order, pid)) return [state, "forbidden"];
+        if (phase !== VOTE) return [state, "invalid_phase"];
+        var target = get(payload, "playerId");
+        if (!isStr(target) || !inList(state.order, target)) return [state, "unknown_player"];
+        if (target === pid) return [state, "self_vote"];
+        if (has(state.votes, pid)) return [state, "already_voted"];
+        s = deepcopy(state);
+        s.votes[pid] = target;
+        if (Object.keys(s.votes).length === s.order.length) resolveVote(s);
+        return [s, null];
+      }
+
+      if (kind === "impostor.guess_word") {
+        if (role !== "player" || !inList(state.order, pid)) return [state, "forbidden"];
+        if (phase !== GUESS_WORD) return [state, "invalid_phase"];
+        if (pid !== state.impostor) return [state, "forbidden"];
+        var text = cleanText(get(payload, "text"), MAX_GUESS_LEN);
+        if (text === null) return [state, "invalid_payload"];
+        s = deepcopy(state);
+        var awarded = (wordKey(text) === wordKey(s.item.word)) ? award(s, IMPOSTOR_GUESSED_WORD, true) : award(s, CREW_WRONG_GUESS, false);
+        if (!awarded) return [state, "already_awarded"];
+        return [s, null];
+      }
+
+      if (kind === "round.next") {
+        if (role !== "operator") return [state, "forbidden"];
+        if (phase !== REVEAL) return [state, "invalid_phase"];
+        if (!hasUnseen(state)) return [state, "content_exhausted"];
+        s = deepcopy(state);
+        var item = draw(s);
+        startRound(s, s.roundNo + 1, item);
+        return [s, null];
+      }
+
+      return [state, "unknown_action"];
+    }
+
+    function project(state, viewer) {
+      var role = get(viewer, "role");
+      var me = role === "player" ? get(viewer, "playerId") : null;
+      if (!isNone(me) && !inList(state.order, me)) { role = "display"; me = null; }
+      var order = state.order;
+      var revealed = state.ended || state.roundPhase === REVEAL;
+      var counts = tally(state);
+      var votes = obj();
+      order.forEach(function (p) { if (has(state.votes, p)) votes[p] = state.votes[p]; });
+      var tallyView = obj();
+      order.forEach(function (p) { tallyView[p] = counts[p]; });
+      var view = {
+        title: state.title,
+        round: state.roundNo,
+        roundPhase: state.ended ? "ended" : state.roundPhase,
+        order: order.slice(),
+        votes: votes,
+        tally: tallyView,
+        votesNeeded: order.length,
+        nominee: state.nominee,
+        outcome: state.outcome,
+        roundPoints: state.roundPoints !== null ? deepcopy(state.roundPoints) : null,
+        reveal: revealed ? { word: state.item.word, impostor: state.impostor } : null
+      };
+      if (role === "operator") {
+        var used = {};
+        state.usedKeys.forEach(function (k) { used[k] = true; });
+        view.roundsRemaining = state.deck.filter(function (item) { return !used[wordKey(item.word)]; }).length;
+      } else if (role === "player") {
+        view.you = (me === state.impostor) ? { role: "impostor" } : { role: "crew", word: state.item.word };
+      }
+      return view;
+    }
+
+    return { MODE_ID: MODE_ID, TITLE: "Impostor", ACTION_PREFIX: PREFIX, MIN_PLAYERS: MIN_PLAYERS,
+      validateItem: validateItem, validateItems: validateItems, initialize: initialize, reduce: reduce, project: project };
+  })();
+
   // ---------------------------------------------------------- modes registry
   function ModeSpec(id, title, module, prefix) {
     this.id = id; this.title = title; this.module = module || null; this.implemented = !!module; this.actionPrefix = prefix;
@@ -1033,7 +1365,7 @@ var MajlisCore = (function (T) {
   var REGISTRY = [
     new ModeSpec(WhoAmI.MODE_ID, WhoAmI.TITLE, WhoAmI, WhoAmI.ACTION_PREFIX),
     new ModeSpec(Feud.MODE_ID, Feud.TITLE, Feud, Feud.ACTION_PREFIX),
-    new ModeSpec("impostor", "Impostor", null, "impostor."),
+    new ModeSpec(Impostor.MODE_ID, Impostor.TITLE, Impostor, Impostor.ACTION_PREFIX),
     new ModeSpec("draw_guess", "Draw & Guess", null, "draw_guess."),
     new ModeSpec("drawing_chain", "Drawing Chain", null, "drawing_chain."),
     new ModeSpec("bluff", "Bluff", null, "bluff."),
@@ -1572,7 +1904,7 @@ var MajlisCore = (function (T) {
     json: { parse: parseJson, parseRequestBody: parseRequestBody, JsonError: JsonError, PyFloat: PyFloat, PyBigInt: PyBigInt, isDict: isPyDict },
     errors: { ERRORS: ERRORS, PartyError: PartyError, statusFor: statusFor, errorBody: errorBody },
     content: { loadMode: loadMode, loadAll: loadAll, parsePack: parsePack, isText: isText, isInt: isInt },
-    modes: { REGISTRY: REGISTRY, getMode: getMode, catalog: catalog, WhoAmI: WhoAmI, Feud: Feud },
+    modes: { REGISTRY: REGISTRY, getMode: getMode, catalog: catalog, WhoAmI: WhoAmI, Feud: Feud, Impostor: Impostor },
     room: { newRoomState: newRoomState, applyJoin: applyJoin, reduceRoom: reduceRoom, projectRoom: projectRoom },
     random: { shuffleInPlace: shuffleInPlace },
     crypto: { sha256Hex: sha256Hex, hashToken: hashToken, base64url: base64url },

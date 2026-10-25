@@ -59,7 +59,7 @@ final class PartyHost {
         // Fail loudly, not silently: a missing/unreadable content pack used
         // to fall back to a JS `null` entry, which the brief (review item 5)
         // flagged as a way to silently ship a mode with no content.
-        let implementedModes = ["who_am_i", "feud"]
+        let implementedModes = ["who_am_i", "feud", "impostor"]
         var packBytes: [String: [UInt8]] = [:]
         for mode in implementedModes {
             let path = (contentDir as NSString).appendingPathComponent(mode + ".json")

@@ -3,7 +3,7 @@
 export const MODES = [
   { id: 'who_am_i', title: 'Who Am I?', ar: 'من أنا؟', blurb: 'Everyone sees your character except you. Ask yes/no questions.', playable: true },
   { id: 'feud', title: 'Majlis Feud', ar: 'تحدي المجلس', blurb: 'Buzz in and find the house answers on the board.', playable: true },
-  { id: 'impostor', title: 'Impostor', ar: 'الدخيل', playable: false },
+  { id: 'impostor', title: 'Impostor', ar: 'الدخيل', blurb: 'Everyone gets the same word except the impostor. Discuss, vote, catch them.', playable: true },
   { id: 'draw_guess', title: 'Draw & Guess', ar: 'ارسم وخمّن', playable: false },
   { id: 'drawing_chain', title: 'Drawing Chain', ar: 'سلسلة الرسم', playable: false },
   { id: 'bluff', title: 'Bluff', ar: 'الخداع', playable: false },

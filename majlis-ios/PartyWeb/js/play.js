@@ -4,14 +4,14 @@
 import { h, mount, makeTransport, simRibbon, connBanner, toast, describeError, pageUrl, withBusy, playerName, params, vibrate, isSim, preserveFocus, confirmDialog, setRetryHandler, announce, TERMINAL_ROOM, TERMINAL_SEAT } from './ui.js';
 import { saveCredential, loadCredential, clearCredential, lastRoom, normalizeCode, isCodeShape } from './session.js';
 import { modeInfo } from './modes.js';
-import { playerChips, scoreboard, modeHeading, feudBoard, feudStatusLine, pausedOverlay, FeudChanges, announceFeudChanges } from './views.js';
+import { playerChips, scoreboard, modeHeading, feudBoard, feudStatusLine, pausedOverlay, FeudChanges, announceFeudChanges, IMPOSTOR_OUTCOMES } from './views.js';
 
 const app = document.getElementById('app');
 const simEl = document.getElementById('sim');
 if (simEl) mount(simEl, simRibbon());
 
 let transport, code = null, cred = null, stream = null, snap = null;
-const local = { buzzRound: null, buzzSending: false, guessDraft: '', guessError: '', lastWin: null, lastGuess: undefined, guessRound: null };
+const local = { buzzRound: null, buzzSending: false, guessDraft: '', guessError: '', lastWin: null, lastGuess: undefined, guessRound: null, impRound: null, impostorGuessDraft: '' };
 const feudChanges = new FeudChanges();
 
 // `quiet`: refusal codes the screen already explains itself, so no toast is shown for them.
@@ -147,6 +147,7 @@ function render() {
   else if (snap.phase === 'ended') body = ended();
   else if (snap.mode === 'who_am_i') body = whoAmI();
   else if (snap.mode === 'feud') body = feud();
+  else if (snap.mode === 'impostor') body = impostor();
   else body = h('p', { text: 'This game is not playable yet.' });
   const paused = snap.phase === 'paused';
   const top = header(), main = h('main', { class: 'page narrow pl-page', inert: paused }, body);
@@ -304,12 +305,82 @@ function feud() {
     h('div', { class: 'buzz-wrap' }, buzz, h('p', { id: 'buzz-sub', class: 'buzz-sub', dir: 'auto', text: sub })));
 }
 
+// ---- Impostor ------------------------------------------------------------------------------
+
+function impostor() {
+  const g = snap.game || {};
+  const me = snap.self ? snap.self.id : null;
+  const you = g.you || {};
+  const phase = g.roundPhase;
+  const votes = g.votes || {};
+  if (local.impRound !== snap.roundId) { local.impRound = snap.roundId; local.impostorGuessDraft = ''; }
+  const myVote = votes[me];
+
+  const roleCard = h('section', { class: 'card my-card revealed', 'aria-label': 'Your role' },
+    h('div', { class: 'eyebrow', text: 'Your role' }),
+    you.role === 'impostor'
+      ? [h('div', { class: 'char-big', text: 'Impostor' }), h('p', { class: 'muted', text: 'You don’t have the word. Listen closely and try to blend in.' })]
+      : [h('div', { class: 'char-big', dir: 'auto', text: you.word || '' }), h('p', { class: 'muted', text: 'You’re crew. Everyone except the impostor has this word.' })]);
+
+  let body;
+  if (phase === 'discussion') {
+    body = h('p', { class: 'muted', role: 'status', text: 'Talk it out loud. The host will open voting soon.' });
+  } else if (phase === 'vote') {
+    const candidates = (g.order || []).filter(pid => pid !== me);
+    body = h('section', { class: 'card stack' },
+      h('h2', { class: 'card-title', text: 'Who is the impostor?' }),
+      myVote !== undefined
+        ? h('p', { class: 'status-line', role: 'status', dir: 'auto', text: 'You voted for ' + playerName(snap, myVote) + '. Waiting for the others…' })
+        : h('ul', { class: 'who-cards' }, candidates.map(pid => h('li', { class: 'who-card' },
+          h('button', { class: 'btn btn-sec', type: 'button', dir: 'auto',
+            onclick: e => act('impostor.vote', { playerId: pid }, e.currentTarget, ['already_voted', 'self_vote', 'stale_round']),
+            text: playerName(snap, pid) })))),
+      h('p', { class: 'muted small', text: Object.keys(votes).length + ' of ' + (g.votesNeeded || (snap.players || []).length) + ' players have voted.' }));
+  } else if (phase === 'guess_word') {
+    if (you.role === 'impostor') {
+      const inp = h('input', { id: 'impostor-guess', maxlength: 80, required: true, dir: 'auto', autocomplete: 'off', placeholder: 'What’s the word?', value: local.impostorGuessDraft,
+        oninput: e => { local.impostorGuessDraft = e.target.value; } });
+      const btn = h('button', { class: 'btn btn-pri', type: 'submit', text: 'Submit guess' });
+      const form = h('form', { class: 'guess-form', novalidate: true, onsubmit: async e => {
+        e.preventDefault();
+        const text = inp.value.replace(/\s+/g, ' ').trim();
+        if (!text) return;
+        const r = await act('impostor.guess_word', { text }, btn);
+        if (r && r.accepted) local.impostorGuessDraft = '';
+      } }, h('label', { for: 'impostor-guess', class: 'small', text: 'You were caught! Guess the word' }), inp, btn);
+      body = h('section', { class: 'card stack' }, form);
+    } else {
+      body = h('p', { class: 'status-line', role: 'status', dir: 'auto', text: playerName(snap, g.nominee) + ' was caught! Waiting for their guess.' });
+    }
+  } else {
+    const reveal = g.reveal || {};
+    const myPts = (g.roundPoints || {})[me] || 0;
+    body = h('section', { class: 'card stack' },
+      h('p', { class: 'status-line', role: 'status', text: IMPOSTOR_OUTCOMES[g.outcome] || 'Round over.' }),
+      reveal.impostor ? h('p', { dir: 'auto', text: playerName(snap, reveal.impostor) + ' was the impostor.' }) : null,
+      reveal.word ? h('p', { dir: 'auto', text: 'The word was “' + reveal.word + '”.' }) : null,
+      h('p', { class: 'small muted', text: 'You scored +' + myPts + ' this round.' }));
+  }
+  return h('div', { class: 'stack' }, modeHeading(snap), roleCard, body, scoreboard(snap, { selfId: me }));
+}
+
 function ended() {
   return h('div', { class: 'stack' },
     h('h1', { class: 'mode-title', text: 'Game over' }),
     snap.mode === 'who_am_i' && snap.game ? whoAmIRevealList() : null,
+    snap.mode === 'impostor' && snap.game ? impostorRevealCard() : null,
     scoreboard(snap, { title: 'Final scores', selfId: snap.self && snap.self.id }),
     h('button', { class: 'btn btn-pri', type: 'button', onclick: leave, text: 'Done' }));
+}
+
+function impostorRevealCard() {
+  const g = snap.game;
+  const reveal = g.reveal || {};
+  return h('section', { class: 'card stack' },
+    h('h2', { class: 'card-title', text: 'Last round' }),
+    h('p', { text: IMPOSTOR_OUTCOMES[g.outcome] || 'The game ended.' }),
+    reveal.impostor ? h('p', { dir: 'auto', text: playerName(snap, reveal.impostor) + ' was the impostor.' }) : null,
+    reveal.word ? h('p', { dir: 'auto', text: 'The word was “' + reveal.word + '”.' }) : null);
 }
 
 function whoAmIRevealList() {

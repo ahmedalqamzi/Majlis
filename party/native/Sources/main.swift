@@ -147,7 +147,7 @@ func emitError(_ code: String, _ detail: String) -> Never {
 
 // content.load_mode reads {dir}/{mode}.json (at most MAX_FILE_BYTES + 1 bytes).
 // Absent, non-regular or unreadable files load as missing.
-let implementedModes = ["who_am_i", "feud"]
+let implementedModes = ["who_am_i", "feud", "impostor"]
 func readPack(_ dir: String, _ mode: String) -> [UInt8]? {
     var isDir: ObjCBool = false
     guard FileManager.default.fileExists(atPath: dir, isDirectory: &isDir), isDir.boolValue else { return nil }

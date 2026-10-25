@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "mode": "impostor",
+  "title": "Impostor",
+  "licenseNote": "Original authored prompt list for the Majlis party suite. No copyrighted game text copied. Prompt words are common everyday places, foods, activities, and objects suitable for a family majlis audience.",
+  "rules": {
+    "players": {"min": 3, "max": 12},
+    "phases": ["assign", "discussion", "vote", "reveal"],
+    "stateSummary": "Each round the server draws one prompt item, secretly assigns the impostor role to exactly one player, and sends the prompt word privately to every non-impostor player. The impostor receives no word.",
+    "actions": {
+      "host": ["impostor.start_round", "impostor.advance", "impostor.end"],
+      "player": ["impostor.vote (public vote for suspected impostor)", "impostor.guess_word (impostor only, once per round)"]
+    },
+    "privacy": [
+      "The prompt word and the impostor's identity must never appear in operator/display projections or other players' payloads.",
+      "Discussion happens out of band (voice); only votes and round results are server actions.",
+      "Vote payloads carry player ids only, never role information."
+    ],
+    "scoring": {
+      "crewWinVote": "If the voted-out player is the impostor and the impostor's word guess fails: each non-impostor gains 2 points.",
+      "impostorSurvives": "If the vote misses the impostor: the impostor gains 3 points.",
+      "impostorGuessesWord": "If the impostor correctly names the prompt word (exact match against the item text, case-insensitive): the impostor gains 3 points instead and crew gains 0."
+    },
+    "endState": "Round ends after reveal phase; host may start another round. A session ends when the host ends the mode; final ranking is by score."
+  },
+  "items": [
+    {"id": "imp-001", "word": "Airport", "category": "places"},
+    {"id": "imp-002", "word": "School", "category": "places"},
+    {"id": "imp-003", "word": "The gym", "category": "places"},
+    {"id": "imp-004", "word": "The beach", "category": "places"},
+    {"id": "imp-005", "word": "Supermarket", "category": "places"},
+    {"id": "imp-006", "word": "Hospital", "category": "places"},
+    {"id": "imp-007", "word": "Cinema", "category": "places"},
+    {"id": "imp-008", "word": "Campsite", "category": "places"},
+    {"id": "imp-009", "word": "Majlis", "category": "places"},
+    {"id": "imp-010", "word": "Metro station", "category": "places"},
+    {"id": "imp-011", "word": "Shawarma", "category": "food"},
+    {"id": "imp-012", "word": "Biryani", "category": "food"},
+    {"id": "imp-013", "word": "Karak tea", "category": "food"},
+    {"id": "imp-014", "word": "Luqaimat", "category": "food"},
+    {"id": "imp-015", "word": "Pizza", "category": "food"},
+    {"id": "imp-016", "word": "Dates", "category": "food"},
+    {"id": "imp-017", "word": "Sushi", "category": "food"},
+    {"id": "imp-018", "word": "Pancakes", "category": "food"},
+    {"id": "imp-019", "word": "Kebab", "category": "food"},
+    {"id": "imp-020", "word": "Ice cream", "category": "food"},
+    {"id": "imp-021", "word": "Football match", "category": "activities"},
+    {"id": "imp-022", "word": "Wedding", "category": "activities"},
+    {"id": "imp-023", "word": "Fishing trip", "category": "activities"},
+    {"id": "imp-024", "word": "Road trip", "category": "activities"},
+    {"id": "imp-025", "word": "Barbecue", "category": "activities"},
+    {"id": "imp-026", "word": "Exam day", "category": "activities"},
+    {"id": "imp-027", "word": "Job interview", "category": "activities"},
+    {"id": "imp-028", "word": "Picnic", "category": "activities"},
+    {"id": "imp-029", "word": "Shopping", "category": "activities"},
+    {"id": "imp-030", "word": "Chess game", "category": "activities"},
+    {"id": "imp-031", "word": "Umbrella", "category": "objects"},
+    {"id": "imp-032", "word": "Guitar", "category": "objects"},
+    {"id": "imp-033", "word": "Drone", "category": "objects"},
+    {"id": "imp-034", "word": "Kettle", "category": "objects"},
+    {"id": "imp-035", "word": "Mirror", "category": "objects"},
+    {"id": "imp-036", "word": "Backpack", "category": "objects"},
+    {"id": "imp-037", "word": "Bicycle", "category": "objects"},
+    {"id": "imp-038", "word": "Ceiling fan", "category": "objects"},
+    {"id": "imp-039", "word": "Telescope", "category": "objects"},
+    {"id": "imp-040", "word": "Chessboard", "category": "objects"}
+  ]
+}

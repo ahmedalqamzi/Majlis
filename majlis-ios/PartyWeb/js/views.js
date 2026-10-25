@@ -53,8 +53,19 @@ export function roundLabel(snap) {
   const g = snap.game || {};
   if (snap.mode === 'feud' && g.board) return 'Question ' + g.board + ' of ' + g.boardCount;
   if (snap.mode === 'who_am_i' && g.round) return 'Round ' + g.round;
+  if (snap.mode === 'impostor' && g.round) return 'Round ' + g.round;
   return '';
 }
+
+// Plain wording for impostor round outcomes (party/server/modes/impostor.py); shared by the
+// operator, player and TV views so the three pages never disagree on what happened.
+export const IMPOSTOR_OUTCOMES = {
+  impostor_survived: 'Nobody caught the impostor.',
+  impostor_guessed_word: 'The impostor guessed the word!',
+  crew_wrong_guess: 'The impostor guessed wrong.',
+  crew_forfeit: 'The host ended the guess.',
+  aborted: 'The round ended early.',
+};
 
 export function strikesRow(n, { big = false, fresh = false, max = 3 } = {}) {
   return h('div', { class: 'strikes' + (big ? ' big' : ''), role: 'img', 'aria-label': 'Strike ' + n + ' of ' + max },

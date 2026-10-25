@@ -36,7 +36,15 @@ struct OperatorView: View {
     @State private var lastError: String?
     @State private var pollTimer: Timer?
 
-    private static let modes = [("who_am_i", "Who Am I?"), ("feud", "Majlis Feud")]
+    private static let modes = [("who_am_i", "Who Am I?"), ("feud", "Majlis Feud"), ("impostor", "Impostor")]
+
+    private static let impostorOutcomes: [String: String] = [
+        "impostor_survived": "Nobody caught the impostor.",
+        "impostor_guessed_word": "The impostor guessed the word!",
+        "crew_wrong_guess": "The impostor guessed wrong.",
+        "crew_forfeit": "The host ended the guess.",
+        "aborted": "The round ended early.",
+    ]
 
     /// All mode-specific gameplay state (pendingGuesses, revealed,
     /// assignments, buzzer, control, answers, strikes, ...) sits nested
@@ -187,6 +195,7 @@ struct OperatorView: View {
                 switch state?["mode"] as? String {
                 case "who_am_i": whoAmIPanel
                 case "feud": feudPanel
+                case "impostor": impostorPanel
                 default: EmptyView()
                 }
             }
@@ -339,6 +348,76 @@ struct OperatorView: View {
 
             Button("Next Round") { send("round.next", roundId: roundId) }
                 .buttonStyle(.bordered)
+        }
+    }
+
+    private var impostorPanel: some View {
+        // Mirrors party/web/js/host.js's impostorPanel(): discussion (open
+        // voting) / vote (tally + close early) / guess_word (forfeit) /
+        // reveal (impostor + word + per-player points + next round), all
+        // read off `game` per majlis-core.js's Impostor project().
+        let roundId = state?["roundId"] as? String
+        let roundPhase = game?["roundPhase"] as? String
+        let order = (game?["order"] as? [String]) ?? []
+        let votes = (game?["votes"] as? [String: String]) ?? [:]
+        let tally = (game?["tally"] as? [String: Int]) ?? [:]
+        let votesNeeded = (game?["votesNeeded"] as? Int) ?? order.count
+        let names = playerNames()
+        return VStack(alignment: .leading, spacing: 8) {
+            Text("Impostor — round \(roundId ?? "?")").font(.headline)
+            switch roundPhase {
+            case "discussion":
+                Text("Players are discussing out loud. Open voting once they are ready to accuse someone.")
+                    .font(.footnote).foregroundColor(.secondary)
+                Button("Open voting") { send("impostor.advance", roundId: roundId) }
+                    .buttonStyle(.borderedProminent)
+            case "vote":
+                Text("\(votes.count) of \(votesNeeded) players have voted.").font(.subheadline)
+                ForEach(order, id: \.self) { playerId in
+                    HStack {
+                        Text(names[playerId] ?? playerId)
+                        if votes[playerId] != nil { Text("Voted").foregroundColor(.green) }
+                        Spacer()
+                        let n = tally[playerId] ?? 0
+                        Text("\(n) vote\(n == 1 ? "" : "s")").foregroundColor(.secondary)
+                    }
+                }
+                Button("Close voting now") { send("impostor.advance", roundId: roundId) }
+                    .buttonStyle(.bordered)
+            case "guess_word":
+                let nominee = game?["nominee"] as? String
+                Text("\(names[nominee ?? ""] ?? nominee ?? "?") was caught! Waiting for their word guess.")
+                    .font(.subheadline)
+                Button("Forfeit (no guess)") { send("impostor.advance", roundId: roundId) }
+                    .buttonStyle(.bordered)
+            default:
+                // reveal
+                let reveal = (game?["reveal"] as? [String: Any]) ?? [:]
+                let points = (game?["roundPoints"] as? [String: Int]) ?? [:]
+                let remaining = game?["roundsRemaining"] as? Int
+                let outcome = game?["outcome"] as? String
+                Text(Self.impostorOutcomes[outcome ?? ""] ?? "Round over.").font(.subheadline)
+                if let impostorId = reveal["impostor"] as? String {
+                    Text("\(names[impostorId] ?? impostorId) was the impostor.")
+                }
+                if let word = reveal["word"] as? String {
+                    Text("The word was \u{201c}\(word)\u{201d}.")
+                }
+                ForEach(order, id: \.self) { playerId in
+                    HStack {
+                        Text(names[playerId] ?? playerId)
+                        Spacer()
+                        Text("+\(points[playerId] ?? 0)")
+                    }.font(.footnote)
+                }
+                if remaining == 0 {
+                    Text("No words left for another round. End the game to show the final scores.")
+                        .font(.footnote).foregroundColor(.secondary)
+                } else {
+                    Button("Next round") { send("round.next", roundId: roundId) }
+                        .buttonStyle(.borderedProminent)
+                }
+            }
         }
     }
 

@@ -1,6 +1,6 @@
 #!/bin/sh
-# Deterministically bundles the exact two accepted content packs
-# (PartyHost.swift's `implementedModes = ["who_am_i", "feud"]`) into a plain
+# Deterministically bundles the exact accepted content packs
+# (PartyHost.swift's `implementedModes = ["who_am_i", "feud", "impostor"]`) into a plain
 # directory the iOS app bundles as a resource folder and binds
 # PartyHost(contentDir:) to at runtime. Mirrors gen_ios_web_resources.sh's
 # pattern for the web surface: copy only the reviewed packs, never a whole
@@ -21,7 +21,7 @@ OUT=${1:?usage: gen_ios_content_packs.sh OUT_DIR}
 HERE=$(cd "$(dirname "$0")" && pwd)
 ROOT=$(cd "$HERE/../.." && pwd)
 CONTENT="$ROOT/party/content"
-MODES="who_am_i feud"
+MODES="who_am_i feud impostor"
 
 rm -rf "$OUT"
 mkdir -p "$OUT"
