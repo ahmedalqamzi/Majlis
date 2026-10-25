@@ -1,0 +1,73 @@
+name: iOS party compile and package verification
+on:
+  push:
+    branches: ['verify/i3-ios-compile-*']
+    paths: ['majlis-ios/**', 'party/**', '.github/workflows/ios-compile-check.yml', '.github/scripts/verify-ios-party.py']
+permissions:
+  contents: read
+concurrency:
+  group: majlis-ios-compile-check
+  cancel-in-progress: false
+jobs:
+  compile-check:
+    runs-on: macos-latest
+    timeout-minutes: 30
+    defaults:
+      run:
+        shell: bash
+    env:
+      DERIVED_DATA: ${{ github.workspace }}/majlis-ios/.build/DerivedData
+      APP: ${{ github.workspace }}/majlis-ios/.build/DerivedData/Build/Products/Release-iphoneos/Majlis.app
+    steps:
+      - uses: actions/checkout@v4
+      - name: Record source and toolchain
+        run: |
+          set -euo pipefail
+          mkdir -p evidence
+          git rev-parse HEAD | tee evidence/head.txt
+          xcodebuild -version | tee evidence/xcode-version.txt
+          xcrun --sdk iphoneos --show-sdk-version | tee evidence/sdk-version.txt
+          shasum -a 256 majlis-ios/project.yml .github/scripts/verify-ios-party.py | tee evidence/build-inputs.sha256
+          brew install xcodegen
+          (cd majlis-ios && xcodegen generate) 2>&1 | tee evidence/xcodegen.log
+      - name: Build the actual iOS app unsigned
+        run: |
+          set -euo pipefail
+          args=(-project majlis-ios/Majlis.xcodeproj -scheme Majlis -configuration Release -destination 'generic/platform=iOS' -derivedDataPath "$DERIVED_DATA" CODE_SIGNING_ALLOWED=NO build)
+          printf '%s\n' "${args[@]}" > evidence/xcodebuild-argv.txt
+          set +e
+          xcodebuild "${args[@]}" 2>&1 | tee evidence/xcodebuild.log
+          result=${PIPESTATUS[0]}
+          set -e
+          printf '%s\n' "$result" > evidence/xcodebuild-exit.txt
+          test "$result" -eq 0
+      - name: Verify product identity, resources and test-surface exclusion
+        run: |
+          set -euo pipefail
+          test -d "$APP"
+          actual_id=$(/usr/libexec/PlistBuddy -c 'Print :CFBundleIdentifier' "$APP/Info.plist")
+          actual_os=$(/usr/libexec/PlistBuddy -c 'Print :MinimumOSVersion' "$APP/Info.plist")
+          printf '%s\n' "$actual_id" "$actual_os" > evidence/app-identity.txt
+          test "$actual_id" = com.ahmedalqamzi.majlis
+          test "$actual_os" = 16.0
+          python3 .github/scripts/verify-ios-party.py . "$APP" > evidence/resource-verification.json
+          strings -a "$APP/Majlis" > evidence/binary-strings.txt
+          test -s evidence/binary-strings.txt
+          set +e
+          grep -E 'MAJLIS_TEST_LOOPBACK|test build binds loopback only|#csprng-fail' evidence/binary-strings.txt > evidence/test-marker-matches.txt
+          matched=$?
+          set -e
+          test "$matched" -eq 1
+          (cd "$APP" && find . -type f -print0 | xargs -0 shasum -a 256 | sort) > evidence/app-files.sha256
+          cp party/native/gen/EmbeddedSources.swift evidence/
+          cp majlis-ios/PartyWeb/MANIFEST.txt evidence/PartyWeb-MANIFEST.txt
+          cp majlis-ios/PartyContent/MANIFEST.txt evidence/PartyContent-MANIFEST.txt
+          ditto -c -k --keepParent "$APP" evidence/Majlis-unsigned.app.zip
+      - name: Retain raw evidence even on failure
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ios-party-compile-package
+          path: evidence/
+          include-hidden-files: true
+          retention-days: 14

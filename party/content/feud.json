@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "mode": "feud",
+  "title": "Majlis Feud",
+  "licenseNote": "Original house-authored answer boards for the Majlis party suite. All boards are labelled House answers: they are invented, plausible house weights for friendly play, NOT survey results. No respondent counts or survey claims are made. No copyrighted deck or question text copied.",
+  "items": [
+    {
+      "id": "feud-001",
+      "question": "Name something people do right after waking up.",
+      "label": "House answers",
+      "answers": [
+        {"id": "feud-001-a1", "text": "Check the phone", "aliases": ["Phone", "Mobile", "Check phone"], "points": 35},
+        {"id": "feud-001-a2", "text": "Wash the face", "aliases": ["Freshen up", "Splash water"], "points": 20},
+        {"id": "feud-001-a3", "text": "Drink water", "aliases": ["Glass of water"], "points": 15},
+        {"id": "feud-001-a4", "text": "Stretch", "aliases": ["Stretching"], "points": 12},
+        {"id": "feud-001-a5", "text": "Brush teeth", "aliases": ["Brush my teeth"], "points": 10},
+        {"id": "feud-001-a6", "text": "Make the bed", "aliases": ["Tidy the bed"], "points": 8}
+      ]
+    },
+    {
+      "id": "feud-002",
+      "question": "Name a topping people put on pizza.",
+      "label": "House answers",
+      "answers": [
+        {"id": "feud-002-a1", "text": "Chicken", "aliases": ["Grilled chicken", "BBQ chicken"], "points": 28},
+        {"id": "feud-002-a2", "text": "Mushrooms", "aliases": ["Mushroom"], "points": 22},
+        {"id": "feud-002-a3", "text": "Olives", "aliases": ["Black olives", "Green olives"], "points": 16},
+        {"id": "feud-002-a4", "text": "Onions", "aliases": ["Red onion"], "points": 12},
+        {"id": "feud-002-a5", "text": "Extra cheese", "aliases": ["More cheese", "Double cheese"], "points": 12},
+        {"id": "feud-002-a6", "text": "Bell peppers", "aliases": ["Capsicum", "Peppers"], "points": 10}
+      ]
+    },
+    {
+      "id": "feud-003",
+      "question": "Name something you find in a traditional majlis.",
+      "label": "House answers",
+      "answers": [
+        {"id": "feud-003-a1", "text": "Cushions", "aliases": ["Floor cushions", "Sofa cushions"], "points": 28},
+        {"id": "feud-003-a2", "text": "Dallah (coffee pot)", "aliases": ["Coffee pot", "Arabic coffee pot"], "points": 22},
+        {"id": "feud-003-a3", "text": "Dates", "aliases": ["Bowl of dates"], "points": 18},
+        {"id": "feud-003-a4", "text": "Incense burner", "aliases": ["Mabkhara", "Oud burner"], "points": 14},
+        {"id": "feud-003-a5", "text": "Tea cups", "aliases": ["Chai glasses", "Small cups"], "points": 12},
+        {"id": "feud-003-a6", "text": "Carpet", "aliases": ["Rugs", "Carpets"], "points": 10}
+      ]
+    },
+    {
+      "id": "feud-004",
+      "question": "Name an excuse people give for being late.",
+      "label": "House answers",
+      "answers": [
+        {"id": "feud-004-a1", "text": "Traffic", "aliases": ["Stuck in traffic", "Traffic jam"], "points": 34},
+        {"id": "feud-004-a2", "text": "Overslept", "aliases": ["Slept in", "Woke up late"], "points": 22},
+        {"id": "feud-004-a3", "text": "Car trouble", "aliases": ["Car broke down", "Flat tyre"], "points": 14},
+        {"id": "feud-004-a4", "text": "Family or kids", "aliases": ["Kids", "Dropping the kids"], "points": 12},
+        {"id": "feud-004-a5", "text": "Weather", "aliases": ["Rain", "Fog"], "points": 10},
+        {"id": "feud-004-a6", "text": "Lost track of time", "aliases": ["Was busy", "Forgot the time"], "points": 8}
+      ]
+    },
+    {
+      "id": "feud-005",
+      "question": "Name a fruit people buy every week.",
+      "label": "House answers",
+      "answers": [
+        {"id": "feud-005-a1", "text": "Bananas", "aliases": ["Banana"], "points": 26},
+        {"id": "feud-005-a2", "text": "Apples", "aliases": ["Apple"], "points": 24},
+        {"id": "feud-005-a3", "text": "Oranges", "aliases": ["Orange"], "points": 18},
+        {"id": "feud-005-a4", "text": "Dates", "aliases": ["Date"], "points": 16},
+        {"id": "feud-005-a5", "text": "Mangoes", "aliases": ["Mango"], "points": 10},
+        {"id": "feud-005-a6", "text": "Grapes", "aliases": ["Grape"], "points": 6}
+      ]
+    },
+    {
+      "id": "feud-006",
+      "question": "Name something people do on a day off.",
+      "label": "House answers",
+      "answers": [
+        {"id": "feud-006-a1", "text": "Sleep in", "aliases": ["Stay in bed", "Late morning"], "points": 26},
+        {"id": "feud-006-a2", "text": "Family lunch", "aliases": ["Big lunch", "Family gathering"], "points": 24},
+        {"id": "feud-006-a3", "text": "Go to the mall", "aliases": ["Shopping", "Mall"], "points": 16},
+        {"id": "feud-006-a4", "text": "Watch movies", "aliases": ["Netflix", "Watch series"], "points": 12},
+        {"id": "feud-006-a5", "text": "Beach or park", "aliases": ["Outdoors", "Picnic"], "points": 12},
+        {"id": "feud-006-a6", "text": "Gaming", "aliases": ["Play games", "Video games"], "points": 10}
+      ]
+    },
+    {
+      "id": "feud-007",
+      "question": "Name a subject students find difficult.",
+      "label": "House answers",
+      "answers": [
+        {"id": "feud-007-a1", "text": "Math", "aliases": ["Mathematics"], "points": 32},
+        {"id": "feud-007-a2", "text": "Physics", "aliases": [], "points": 18},
+        {"id": "feud-007-a3", "text": "Chemistry", "aliases": [], "points": 16},
+        {"id": "feud-007-a4", "text": "Arabic grammar", "aliases": ["Arabic"], "points": 12},
+        {"id": "feud-007-a5", "text": "Writing essays", "aliases": ["English essays", "Writing"], "points": 12},
+        {"id": "feud-007-a6", "text": "Biology", "aliases": [], "points": 10}
+      ]
+    },
+    {
+      "id": "feud-008",
+      "question": "Name something people never forget to pack for a trip.",
+      "label": "House answers",
+      "answers": [
+        {"id": "feud-008-a1", "text": "Phone charger", "aliases": ["Charger", "Charging cable"], "points": 30},
+        {"id": "feud-008-a2", "text": "Passport", "aliases": ["Passport and ID"], "points": 24},
+        {"id": "feud-008-a3", "text": "Toothbrush", "aliases": ["Toiletries"], "points": 18},
+        {"id": "feud-008-a4", "text": "Spare clothes", "aliases": ["Extra clothes"], "points": 12},
+        {"id": "feud-008-a5", "text": "Headphones", "aliases": ["Earphones"], "points": 10},
+        {"id": "feud-008-a6", "text": "Snacks", "aliases": ["Chips", "Travel snacks"], "points": 6}
+      ]
+    },
+    {
+      "id": "feud-009",
+      "question": "Name a fast food people in the UAE love.",
+      "label": "House answers",
+      "answers": [
+        {"id": "feud-009-a1", "text": "Shawarma", "aliases": ["Shawarma sandwich"], "points": 30},
+        {"id": "feud-009-a2", "text": "Burger", "aliases": ["Cheeseburger", "Beef burger"], "points": 22},
+        {"id": "feud-009-a3", "text": "Fried chicken", "aliases": ["Broasted chicken", "Crispy chicken"], "points": 18},
+        {"id": "feud-009-a4", "text": "Pizza", "aliases": [], "points": 14},
+        {"id": "feud-009-a5", "text": "Tacos", "aliases": [], "points": 8},
+        {"id": "feud-009-a6", "text": "Falafel sandwich", "aliases": ["Falafel wrap"], "points": 8}
+      ]
+    },
+    {
+      "id": "feud-010",
+      "question": "Name something at home that runs out fast.",
+      "label": "House answers",
+      "answers": [
+        {"id": "feud-010-a1", "text": "Milk", "aliases": [], "points": 24},
+        {"id": "feud-010-a2", "text": "Bread", "aliases": ["Khubz", "Bread rolls"], "points": 22},
+        {"id": "feud-010-a3", "text": "Eggs", "aliases": [], "points": 18},
+        {"id": "feud-010-a4", "text": "Drinking water", "aliases": ["Water bottles"], "points": 14},
+        {"id": "feud-010-a5", "text": "Tissue", "aliases": ["Tissues"], "points": 12},
+        {"id": "feud-010-a6", "text": "Snacks", "aliases": ["Chips", "Cookies"], "points": 10}
+      ]
+    },
+    {
+      "id": "feud-011",
+      "question": "Name a color people choose for a living room.",
+      "label": "House answers",
+      "answers": [
+        {"id": "feud-011-a1", "text": "White", "aliases": ["Off-white"], "points": 26},
+        {"id": "feud-011-a2", "text": "Beige", "aliases": ["Cream", "Sand"], "points": 22},
+        {"id": "feud-011-a3", "text": "Grey", "aliases": ["Gray"], "points": 16},
+        {"id": "feud-011-a4", "text": "Blue", "aliases": ["Navy"], "points": 14},
+        {"id": "feud-011-a5", "text": "Green", "aliases": ["Sage"], "points": 12},
+        {"id": "feud-011-a6", "text": "Brown", "aliases": ["Wood tones"], "points": 10}
+      ]
+    },
+    {
+      "id": "feud-012",
+      "question": "Name an app people open every single day.",
+      "label": "House answers",
+      "answers": [
+        {"id": "feud-012-a1", "text": "WhatsApp", "aliases": ["Whats"], "points": 32},
+        {"id": "feud-012-a2", "text": "Instagram", "aliases": ["Insta"], "points": 22},
+        {"id": "feud-012-a3", "text": "YouTube", "aliases": ["YT"], "points": 20},
+        {"id": "feud-012-a4", "text": "TikTok", "aliases": ["TT"], "points": 14},
+        {"id": "feud-012-a5", "text": "Snapchat", "aliases": ["Snap"], "points": 8},
+        {"id": "feud-012-a6", "text": "Google Maps", "aliases": ["Maps"], "points": 4}
+      ]
+    }
+  ]
+}
