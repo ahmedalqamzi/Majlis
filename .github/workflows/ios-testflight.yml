@@ -1,4 +1,4 @@
-name: iOS TestFlight
+name: iOS TestFlight — game-night UI
 # Builds majlis-ios on a GitHub Mac and uploads it to TestFlight, signed the same way as GameVault
 # (manual signing with the team's Apple Distribution certificate, upload with an Apple ID app-specific password).
 # Repository secrets, same names as in GameVault:
@@ -31,17 +31,20 @@ jobs:
         working-directory: ${{ github.workspace }}
         run: |
           set -euo pipefail
-          curl --fail --location --retry 3 'https://raw.githubusercontent.com/ahmedalqamzi/Majlis/5fc9bfab97eeb72bfac73a979ed0cd310de57678/release-inputs/accepted-source-cca61983.tar.gz' -o "$RUNNER_TEMP/accepted-source.tar.gz"
-          echo 'a08e06472ba206f1e2127f983e3f90359772202d4525fb0b8d17ddd390a7cb71  '"$RUNNER_TEMP/accepted-source.tar.gz" | shasum -a 256 -c -
+          curl --fail --location --retry 3 'https://raw.githubusercontent.com/ahmedalqamzi/Majlis/666ac2e66357ea37c41860d1c025d6232150f796/release-inputs/ui-20261030-source-and-harness.tar.gz' -o "$RUNNER_TEMP/accepted-source.tar.gz"
+          echo '3b1895e00c024cbf471763d527c359c5021377adc49abc081a397a763cf17c26  '"$RUNNER_TEMP/accepted-source.tar.gz" | shasum -a 256 -c -
           tar -xzf "$RUNNER_TEMP/accepted-source.tar.gz"
           python3 - <<'PY'
           import hashlib,json,pathlib
-          m=json.loads(pathlib.Path('release-source-manifest.json').read_text())
-          for f in m['files']:
-              p=pathlib.Path(f['path'])
-              assert p.is_file() and hashlib.sha256(p.read_bytes()).hexdigest()==f['sha256'],f['path']
-          assert len(m['files'])==143
-          print('Verified all 143 accepted source hashes:',m['historical_source_label'])
+          m=json.loads(pathlib.Path('ui-review/candidate-manifest.json').read_text())
+          assert len(m)==144
+          rows=[]
+          for path,digest in m.items():
+              p=pathlib.Path(path)
+              assert p.is_file() and hashlib.sha256(p.read_bytes()).hexdigest()==digest,path
+              rows.append({'path':path,'sha256':digest,'bytes':p.stat().st_size})
+          pathlib.Path('release-source-manifest.json').write_text(json.dumps({'historical_source_label':'game-night-ui-20261030','files':rows},indent=2))
+          print('Verified all 144 accepted UI candidate hashes')
           PY
           test "$SIGN" = true || { echo "::error::Existing signing setup unavailable"; exit 1; }
       - name: Generate the Xcode project
@@ -98,7 +101,7 @@ jobs:
           tar -czf build/Majlis.xcarchive.tar.gz -C build Majlis.xcarchive
           shasum -a 256 build/Majlis.xcarchive.tar.gz build/TestFlight/*.ipa > build/SHA256SUMS
           cp ../release-source-manifest.json build/
-          printf 'source=cca61983d5231e001cb9d228de74c8f6c4cfcc33\nbuild=%s\nworkflow=%s\n' "$BUILD_NUMBER" "$GITHUB_SHA" > build/release-receipt.txt
+          printf 'source=game-night-ui-20261030\nbuild=%s\nworkflow=%s\n' "$BUILD_NUMBER" "$GITHUB_SHA" > build/release-receipt.txt
       - uses: actions/upload-artifact@v4
         if: env.SIGN == 'true'
         with:
@@ -119,7 +122,8 @@ jobs:
           ASC_ISSUER_ID: ${{ secrets.ASC_ISSUER_ID }}
           ASC_KEY_P8: ${{ secrets.ASC_KEY_P8 }}
         run: |
-          set -euo pipefail\n          ipa="$(find build/TestFlight -maxdepth 1 -name '*.ipa' -print -quit)"
+          set -euo pipefail
+          ipa="$(find build/TestFlight -maxdepth 1 -name '*.ipa' -print -quit)"
           test -n "$ipa" || { echo "::error::Xcode did not export an IPA."; exit 1; }
           if [ -n "$ASC_KEY_ID" ]; then
             mkdir -p "$HOME/.appstoreconnect/private_keys"
