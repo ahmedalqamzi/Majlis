@@ -1,0 +1,95 @@
+name: Native game-night UI review
+on:
+  push:
+    branches: [verify/i3-ios-compile-b0c21e3]
+    paths: ['.github/workflows/ios-ui-review.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: majlis-native-ui-review
+  cancel-in-progress: false
+jobs:
+  native-ui:
+    runs-on: macos-latest
+    timeout-minutes: 20
+    steps:
+      - name: Verify standalone candidate
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl --fail --location --retry 3 'https://raw.githubusercontent.com/ahmedalqamzi/Majlis/666ac2e66357ea37c41860d1c025d6232150f796/release-inputs/ui-20261030-source-and-harness.tar.gz' -o "$RUNNER_TEMP/ui-source.tar.gz"
+          echo '3b1895e00c024cbf471763d527c359c5021377adc49abc081a397a763cf17c26  '"$RUNNER_TEMP/ui-source.tar.gz" | shasum -a 256 -c -
+          tar -xzf "$RUNNER_TEMP/ui-source.tar.gz"
+          python3 - <<'PY'
+          import json,hashlib,pathlib
+          m=json.loads(pathlib.Path('ui-review/candidate-manifest.json').read_text())
+          assert len(m)==144
+          for p,h in m.items():
+              assert hashlib.sha256(pathlib.Path(p).read_bytes()).hexdigest()==h,p
+          print('Verified 144 exact candidate files')
+          PY
+      - name: Generate review-only test harness
+        shell: bash
+        working-directory: majlis-ios
+        run: |
+          set -euo pipefail
+          brew install xcodegen
+          ruby - <<'RUBY'
+          require 'yaml'
+          p=YAML.load_file('project.yml')
+          p['targets']['MajlisUIReviewTests']={'type'=>'bundle.ui-testing','platform'=>'iOS','sources'=>['../ui-review'],'dependencies'=>[{'target'=>'Majlis'}],'settings'=>{'base'=>{'PRODUCT_BUNDLE_IDENTIFIER'=>'com.ahmedalqamzi.majlis.uireview','GENERATE_INFOPLIST_FILE'=>'YES','TEST_TARGET_NAME'=>'Majlis'}}}
+          p['schemes']={'MajlisUIReview'=>{'build'=>{'targets'=>{'Majlis'=>'all','MajlisUIReviewTests'=>['test']}},'test'=>{'targets'=>[{'name'=>'MajlisUIReviewTests'}]}}}
+          File.write('project.yml',p.to_yaml)
+          RUBY
+          xcodegen generate
+      - name: Select and boot existing iPhone simulator
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p review-evidence
+          xcodebuild -version > review-evidence/xcode-version.txt
+          xcrun simctl list devices available --json > review-evidence/simulators.json
+          python3 - <<'PY'
+          import json,os,pathlib
+          devices=json.loads(pathlib.Path('review-evidence/simulators.json').read_text())['devices']
+          rows=[d for k,ds in devices.items() if 'iOS' in k for d in ds if d['name'].startswith('iPhone')]
+          assert rows,'No available iPhone simulator'
+          rows.sort(key=lambda d:('Pro Max' in d['name'],not ('iPhone 17 Pro'==d['name']),d['name']))
+          d=rows[0]
+          pathlib.Path('review-evidence/selected-simulator.json').write_text(json.dumps(d,indent=2))
+          with open(os.environ['GITHUB_ENV'],'a') as f:f.write('SIMULATOR_UDID='+d['udid']+'\n')
+          PY
+          udid=$(python3 -c "import json;print(json.load(open('review-evidence/selected-simulator.json'))['udid'])")
+          xcrun simctl boot "$udid" || true
+          xcrun simctl bootstatus "$udid" -b
+      - name: Build and inspect native home lobby and picker once
+        working-directory: majlis-ios
+        shell: bash
+        run: |
+          set +e
+          set -o pipefail
+          xcodebuild -project Majlis.xcodeproj -scheme MajlisUIReview -configuration Debug -destination "platform=iOS Simulator,id=$SIMULATOR_UDID" -derivedDataPath build/DerivedData -resultBundlePath ../review-evidence/UIReview.xcresult CODE_SIGNING_ALLOWED=NO test 2>&1 | tee ../review-evidence/native-build-and-ui.log
+          status=${PIPESTATUS[0]}
+          echo "$status" > ../review-evidence/native-build-and-ui.exit
+          exit "$status"
+      - name: Retain native screenshots and built app
+        if: always()
+        shell: bash
+        run: |
+          set +e
+          if [ -d review-evidence/UIReview.xcresult ]; then
+            xcrun xcresulttool export attachments --path review-evidence/UIReview.xcresult --output-path review-evidence/screenshots
+          fi
+          if [ -d majlis-ios/build/DerivedData/Build/Products/Debug-iphonesimulator/Majlis.app ]; then
+            tar -czf review-evidence/Majlis-simulator.app.tar.gz -C majlis-ios/build/DerivedData/Build/Products/Debug-iphonesimulator Majlis.app
+            shasum -a 256 review-evidence/Majlis-simulator.app.tar.gz > review-evidence/SHA256SUMS
+          fi
+          cp ui-review/candidate-manifest.json review-evidence/source-manifest.json
+          cp majlis-ios/project.yml review-evidence/review-harness-project.yml
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: majlis-native-ui-review-${{ github.run_id }}
+          path: review-evidence/
+          if-no-files-found: error
